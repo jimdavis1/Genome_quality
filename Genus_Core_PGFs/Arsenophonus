@@ -1,0 +1,401 @@
+PGF_00000261	Arsenophonus	388.00	0.00	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00003516	Arsenophonus	247.00	0.00	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00006100	Arsenophonus	325.50	5.00	tRNA-modifying protein YgfZ
+PGF_00006935	Arsenophonus	525.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006987	Arsenophonus	202.25	2.63	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007012	Arsenophonus	363.75	1.50	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Arsenophonus	488.50	10.34	GTP-binding protein EngA
+PGF_00007026	Arsenophonus	206.75	1.26	GTP-binding protein EngB
+PGF_00007027	Arsenophonus	302.50	1.00	GTP-binding protein Era
+PGF_00007304	Arsenophonus	292.25	11.50	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Arsenophonus	319.00	4.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00008106	Arsenophonus	277.50	3.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008159	Arsenophonus	519.00	0.00	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008326	Arsenophonus	553.75	0.50	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008335	Arsenophonus	473.50	0.58	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008469	Arsenophonus	320.25	1.50	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008611	Arsenophonus	340.25	0.50	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00009500	Arsenophonus	191.75	0.50	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Arsenophonus	303.50	1.00	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Arsenophonus	688.00	0.00	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010851	Arsenophonus	62.50	9.00	Haemolysin expression modulating protein
+PGF_00013017	Arsenophonus	312.00	0.00	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013857	Arsenophonus	617.75	252.50	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014311	Arsenophonus	487.25	1.26	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015255	Arsenophonus	283.25	21.50	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015510	Arsenophonus	251.00	6.68	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Arsenophonus	499.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Arsenophonus	438.25	2.22	Iron-sulfur cluster assembly protein SufD
+PGF_00015718	Arsenophonus	937.75	1.26	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015961	Arsenophonus	310.25	10.50	L,D-transpeptidase YcfS
+PGF_00016340	Arsenophonus	123.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Arsenophonus	144.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Arsenophonus	136.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Arsenophonus	129.25	0.50	LSU ribosomal protein L17p
+PGF_00016353	Arsenophonus	117.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016358	Arsenophonus	117.00	2.00	LSU ribosomal protein L20p
+PGF_00016368	Arsenophonus	110.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Arsenophonus	100.50	1.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Arsenophonus	104.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016393	Arsenophonus	274.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Arsenophonus	58.75	0.50	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Arsenophonus	56.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Arsenophonus	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Arsenophonus	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Arsenophonus	210.75	3.50	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Arsenophonus	201.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Arsenophonus	160.50	21.36	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Arsenophonus	177.25	0.50	LSU ribosomal protein L6p (L9e)
+PGF_00017109	Arsenophonus	390.25	0.50	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Arsenophonus	241.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017281	Arsenophonus	324.50	1.00	Lipopolysaccharide core heptosyltransferase I
+PGF_00017400	Arsenophonus	352.00	3.37	Murein hydrolase activator NlpD
+PGF_00017479	Arsenophonus	318.00	3.46	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017640	Arsenophonus	187.25	6.50	Lipopolysaccharide export system protein LptA
+PGF_00018016	Arsenophonus	499.25	9.18	Lysine-specific permease
+PGF_00018560	Arsenophonus	293.50	3.00	Magnesium and cobalt efflux protein CorC
+PGF_00019217	Arsenophonus	304.00	2.00	Manganese ABC transporter, periplasmic-binding protein SitA
+PGF_00020172	Arsenophonus	274.50	1.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020176	Arsenophonus	356.50	1.00	Membrane-bound lytic murein transglycosylase C (EC 3.2.1.n1)
+PGF_00020361	Arsenophonus	154.50	1.73	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Arsenophonus	265.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020923	Arsenophonus	252.25	58.47	Methyl-directed repair DNA adenine methylase (EC 2.1.1.72)
+PGF_00023403	Arsenophonus	450.50	2.38	Murein DD-endopeptidase MepM
+PGF_00024234	Arsenophonus	377.00	1.15	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024309	Arsenophonus	540.50	0.58	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024478	Arsenophonus	331.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024567	Arsenophonus	401.00	2.00	Acetate kinase (EC 2.7.2.1)
+PGF_00025290	Arsenophonus	474.25	78.83	Na+/H+ antiporter NhaB
+PGF_00025448	Arsenophonus	192.00	0.00	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025598	Arsenophonus	409.00	0.00	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026279	Arsenophonus	319.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026453	Arsenophonus	310.00	14.00	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00028422	Arsenophonus	473.50	1.00	Outer membrane stress sensor protease DegQ, serine protease
+PGF_00029464	Arsenophonus	155.00	0.00	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029921	Arsenophonus	317.00	0.00	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Arsenophonus	359.50	1.00	Peptide chain release factor 1
+PGF_00033095	Arsenophonus	795.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033289	Arsenophonus	330.25	29.50	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Arsenophonus	360.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033423	Arsenophonus	576.00	2.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033479	Arsenophonus	544.75	0.50	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033536	Arsenophonus	245.25	9.50	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033642	Arsenophonus	247.75	8.18	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00033729	Arsenophonus	265.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033877	Arsenophonus	162.50	5.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033985	Arsenophonus	355.00	16.06	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034566	Arsenophonus	457.25	51.75	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00035183	Arsenophonus	173.25	5.50	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035721	Arsenophonus	458.00	4.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00037588	Arsenophonus	571.50	1.00	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00039342	Arsenophonus	284.00	0.00	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040053	Arsenophonus	316.50	2.38	Alkaline induced inner membrane protein Alx
+PGF_00040578	Arsenophonus	261.00	0.00	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041794	Arsenophonus	195.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041948	Arsenophonus	429.75	0.50	Putative membrane protein YfjD
+PGF_00042798	Arsenophonus	257.50	2.38	Putative oxidoreductase
+PGF_00045833	Arsenophonus	205.75	22.50	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Arsenophonus	243.00	0.00	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045982	Arsenophonus	887.00	0.00	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046597	Arsenophonus	151.00	0.00	RNA polymerase-binding transcription factor DksA
+PGF_00048480	Arsenophonus	204.00	2.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048589	Arsenophonus	213.00	0.00	Ribonuclease T
+PGF_00048630	Arsenophonus	763.00	0.00	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048637	Arsenophonus	378.00	0.00	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048782	Arsenophonus	315.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048842	Arsenophonus	310.00	0.00	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048926	Arsenophonus	185.00	0.00	Ribosome recycling factor
+PGF_00049163	Arsenophonus	162.00	0.00	Rod shape-determining protein MreD
+PGF_00049827	Arsenophonus	269.75	1.50	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Arsenophonus	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Arsenophonus	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049840	Arsenophonus	117.50	0.58	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Arsenophonus	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049849	Arsenophonus	85.50	4.04	SSU ribosomal protein S16p
+PGF_00049854	Arsenophonus	84.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Arsenophonus	70.50	24.83	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Arsenophonus	236.25	0.50	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Arsenophonus	206.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Arsenophonus	166.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049906	Arsenophonus	130.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Arsenophonus	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00051525	Arsenophonus	430.25	0.50	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Arsenophonus	452.50	1.00	Signal recognition particle protein Ffh
+PGF_00053627	Arsenophonus	180.50	25.04	Spermidine N1-acetyltransferase (EC 2.3.1.57)
+PGF_00054301	Arsenophonus	212.25	1.50	Stringent starvation protein A
+PGF_00054528	Arsenophonus	379.75	17.17	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055099	Arsenophonus	142.75	1.50	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055354	Arsenophonus	433.00	0.00	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00056273	Arsenophonus	330.25	0.50	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056496	Arsenophonus	233.00	0.00	Thiamin ABC transporter, ATPase component
+PGF_00056498	Arsenophonus	296.00	41.58	Thiamin ABC transporter, substrate-binding component
+PGF_00056502	Arsenophonus	529.50	9.00	Thiamin ABC transporter, transmembrane component
+PGF_00056883	Arsenophonus	214.75	7.50	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Arsenophonus	283.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057270	Arsenophonus	751.00	0.00	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00060414	Arsenophonus	600.00	0.00	Translation elongation factor LepA
+PGF_00060427	Arsenophonus	280.00	6.00	Translation elongation factor Ts
+PGF_00060431	Arsenophonus	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Arsenophonus	143.00	35.28	Translation initiation factor 3
+PGF_00062041	Arsenophonus	412.75	2.50	Tryptophan-specific transport protein
+PGF_00062710	Arsenophonus	196.00	50.00	2-deoxyglucose-6-phosphate hydrolase YniC
+PGF_00063916	Arsenophonus	424.25	0.50	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Arsenophonus	240.50	1.00	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Arsenophonus	305.00	0.00	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Arsenophonus	342.25	0.50	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Arsenophonus	346.50	1.00	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Arsenophonus	355.00	0.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Arsenophonus	505.50	10.75	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064116	Arsenophonus	331.75	10.50	UDP-glucose:(glucosyl)lipopolysaccharide alpha-1,2-glucosyltransferase (EC 2.4.1.58)
+PGF_00064294	Arsenophonus	261.50	1.00	UPF0294 protein YafD
+PGF_00064393	Arsenophonus	308.00	9.52	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064610	Arsenophonus	460.00	10.00	Arginine/ornithine antiporter ArcD
+PGF_00064685	Arsenophonus	80.75	6.40	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064880	Arsenophonus	451.75	9.00	Uncharacterized protease YegQ
+PGF_00065887	Arsenophonus	250.50	1.00	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066089	Arsenophonus	212.00	2.00	Unsaturated fatty acid biosythesis repressor FabR, TetR family
+PGF_00066139	Arsenophonus	226.25	0.96	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066453	Arsenophonus	965.50	1.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Arsenophonus	466.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066715	Arsenophonus	396.00	0.00	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00066906	Arsenophonus	311.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066960	Arsenophonus	154.00	0.00	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067254	Arsenophonus	119.25	2.22	YcfF/hinT protein: a purine nucleoside phosphoramidase
+PGF_00071382	Arsenophonus	174.25	4.19	Flavodoxin 1
+PGF_00072177	Arsenophonus	105.75	0.50	hemimethylated DNA binding protein YccV
+PGF_00113984	Arsenophonus	190.50	0.58	Flavin prenyltransferase UbiX
+PGF_00144272	Arsenophonus	162.50	1.00	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00261173	Arsenophonus	368.25	1.50	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00404078	Arsenophonus	157.75	3.50	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Arsenophonus	448.00	0.00	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Arsenophonus	320.75	1.50	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404384	Arsenophonus	359.25	18.19	Biotin synthase (EC 2.8.1.6)
+PGF_00404496	Arsenophonus	265.25	8.38	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)
+PGF_00404831	Arsenophonus	272.25	0.50	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Arsenophonus	941.75	0.50	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00413182	Arsenophonus	323.00	0.00	tRNA (mo5U34)-methyltransferase
+PGF_00413208	Arsenophonus	250.75	0.50	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413230	Arsenophonus	250.25	1.50	tRNA (cmo5U34)-methyltransferase
+PGF_00413232	Arsenophonus	109.00	0.00	tRNA 2-thiouridine synthesis protein TusE
+PGF_00413290	Arsenophonus	268.25	3.77	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413351	Arsenophonus	161.00	4.69	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Arsenophonus	160.25	0.50	tmRNA-binding protein SmpB
+PGF_00414976	Arsenophonus	452.00	1.41	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_00416115	Arsenophonus	310.00	0.00	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Arsenophonus	548.00	2.00	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Arsenophonus	1074.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416508	Arsenophonus	60.75	0.50	Carbon storage regulator
+PGF_00417010	Arsenophonus	105.00	0.00	Cell division protein FtsL
+PGF_00417429	Arsenophonus	379.00	2.00	Chaperone protein DnaJ
+PGF_00417433	Arsenophonus	640.50	1.00	Chaperone protein DnaK
+PGF_00417577	Arsenophonus	170.00	10.89	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417755	Arsenophonus	243.00	0.00	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Arsenophonus	357.00	3.56	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Arsenophonus	185.75	2.50	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Arsenophonus	249.50	3.32	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418406	Arsenophonus	172.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00419891	Arsenophonus	210.00	0.00	Cyclic AMP receptor protein
+PGF_00420048	Arsenophonus	398.25	11.50	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420121	Arsenophonus	227.00	2.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420572	Arsenophonus	516.50	9.00	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420728	Arsenophonus	299.25	85.50	Cytoskeleton protein RodZ
+PGF_00420731	Arsenophonus	503.50	1.91	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420764	Arsenophonus	375.25	1.50	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+PGF_00420798	Arsenophonus	305.75	0.50	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Arsenophonus	322.00	0.00	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421013	Arsenophonus	406.25	0.50	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421408	Arsenophonus	232.50	7.00	DNA mismatch repair endonuclease MutH
+PGF_00421489	Arsenophonus	1160.00	0.00	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00422271	Arsenophonus	329.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422681	Arsenophonus	210.75	20.50	DedA family inner membrane protein YqjA
+PGF_00422916	Arsenophonus	199.00	2.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Arsenophonus	151.75	0.50	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423300	Arsenophonus	434.50	9.43	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423533	Arsenophonus	290.00	2.31	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424131	Arsenophonus	193.25	0.50	Electron transport complex protein RnfA
+PGF_00424141	Arsenophonus	242.50	15.00	Electron transport complex protein RnfE
+PGF_00424447	Arsenophonus	332.25	2.50	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424569	Arsenophonus	263.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00425010	Arsenophonus	480.50	9.43	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425011	Arsenophonus	269.00	0.00	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425684	Arsenophonus	244.25	4.27	Probable transcriptional regulatory protein YebC
+PGF_00425704	Arsenophonus	86.50	7.00	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425802	Arsenophonus	269.00	0.82	FIG002708: Protein SirB1
+PGF_00425993	Arsenophonus	399.75	0.50	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426236	Arsenophonus	373.00	0.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00447438	Arsenophonus	192.50	0.58	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00529632	Arsenophonus	821.50	71.00	ClpB protein
+PGF_00535698	Arsenophonus	244.00	0.00	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+PGF_00580333	Arsenophonus	389.00	0.00	Lipopolysaccharide assembly protein LapB
+PGF_00596539	Arsenophonus	590.00	0.00	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00618776	Arsenophonus	384.25	9.50	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00655358	Arsenophonus	495.25	0.50	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Arsenophonus	202.00	29.35	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00694978	Arsenophonus	265.00	4.00	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00721835	Arsenophonus	317.25	0.50	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Arsenophonus	780.75	0.96	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Arsenophonus	865.25	1.50	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00777371	Arsenophonus	245.25	0.50	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00827555	Arsenophonus	585.25	147.50	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Arsenophonus	291.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Arsenophonus	418.00	0.00	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00925844	Arsenophonus	448.50	4.36	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Arsenophonus	576.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00957419	Arsenophonus	139.00	0.00	Putative pre-16S rRNA nuclease Yqg
+PGF_01052295	Arsenophonus	365.00	0.00	Lipopolysaccharide export system permease protein LptF
+PGF_01058419	Arsenophonus	1202.50	3.42	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01084030	Arsenophonus	800.50	2.38	Outer membrane protein assembly factor YaeT
+PGF_01101526	Arsenophonus	449.75	0.50	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01124177	Arsenophonus	408.00	2.00	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Arsenophonus	370.25	0.50	Rod shape-determining protein RodA
+PGF_01172485	Arsenophonus	418.00	0.00	Cell division protein FtsA
+PGF_01174807	Arsenophonus	452.50	1.00	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Arsenophonus	640.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Arsenophonus	548.25	0.50	Heat shock protein 60 family chaperone GroEL
+PGF_01217385	Arsenophonus	220.50	3.00	Enhancing lycopene biosynthesis protein 2
+PGF_01232770	Arsenophonus	159.00	0.00	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Arsenophonus	322.75	4.50	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01309240	Arsenophonus	169.00	0.00	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01386354	Arsenophonus	78.00	0.00	Major outer membrane lipoprotein Lpp
+PGF_01421534	Arsenophonus	94.50	3.00	LSU ribosomal protein L25p
+PGF_01448031	Arsenophonus	98.25	0.50	Integration host factor alpha subunit
+PGF_01483460	Arsenophonus	358.00	0.00	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Arsenophonus	269.00	0.00	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01492504	Arsenophonus	254.25	3.77	Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)
+PGF_01532393	Arsenophonus	689.75	1.50	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01625234	Arsenophonus	322.00	2.00	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667880	Arsenophonus	85.50	1.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01678333	Arsenophonus	355.00	7.66	Electron transport complex protein RnfD
+PGF_01682537	Arsenophonus	126.00	0.00	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01734668	Arsenophonus	214.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01777142	Arsenophonus	226.25	0.50	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01841446	Arsenophonus	486.50	1.00	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01888177	Arsenophonus	150.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Arsenophonus	213.25	0.50	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Arsenophonus	322.75	11.84	Rod shape-determining protein MreC
+PGF_01900807	Arsenophonus	230.25	96.17	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01920535	Arsenophonus	577.00	0.00	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01922580	Arsenophonus	410.00	2.00	2-polyprenylphenol hydroxylase
+PGF_01923866	Arsenophonus	85.75	6.70	Acid stress protein IbaG
+PGF_01937476	Arsenophonus	712.00	5.72	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_02019462	Arsenophonus	327.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Arsenophonus	321.50	1.00	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02111888	Arsenophonus	315.25	1.50	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Arsenophonus	425.25	0.50	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02244871	Arsenophonus	342.50	4.12	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02329420	Arsenophonus	372.50	1.73	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG
+PGF_02346768	Arsenophonus	878.50	3.00	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02450432	Arsenophonus	286.00	2.83	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Arsenophonus	86.00	0.00	SSU ribosomal protein S20p
+PGF_02516909	Arsenophonus	431.50	3.00	Enolase (EC 4.2.1.11)
+PGF_02517984	Arsenophonus	59.00	0.00	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02593689	Arsenophonus	437.00	0.82	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02619970	Arsenophonus	97.00	0.00	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Arsenophonus	311.50	5.00	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02728524	Arsenophonus	847.50	7.55	DNA mismatch repair protein MutS
+PGF_02737642	Arsenophonus	274.00	0.00	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02745613	Arsenophonus	317.50	6.24	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746016	Arsenophonus	239.75	4.50	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02789532	Arsenophonus	283.25	0.50	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Arsenophonus	229.25	3.50	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Arsenophonus	471.75	14.50	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02798941	Arsenophonus	508.00	6.00	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Arsenophonus	221.75	0.50	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02844091	Arsenophonus	271.75	2.50	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02899131	Arsenophonus	64.25	2.50	LSU ribosomal protein L29p (L35e)
+PGF_02923127	Arsenophonus	242.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Arsenophonus	303.75	2.50	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Arsenophonus	394.25	2.50	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02946231	Arsenophonus	565.50	7.00	SSU ribosomal protein S1p
+PGF_02950579	Arsenophonus	269.75	0.50	Septum site-determining protein MinD
+PGF_02998943	Arsenophonus	191.00	4.62	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03006190	Arsenophonus	390.75	2.50	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03025675	Arsenophonus	582.00	0.82	Lipid A export permease/ATP-binding protein MsbA
+PGF_03057384	Arsenophonus	336.00	0.00	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03066317	Arsenophonus	574.75	14.50	Inner membrane protein YbaL, KefB/KefC family
+PGF_03074362	Arsenophonus	296.50	159.67	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03104567	Arsenophonus	458.50	1.00	Trk potassium uptake system protein TrkA
+PGF_03128228	Arsenophonus	392.00	0.00	Outer membrane beta-barrel assembly protein BamB
+PGF_03172904	Arsenophonus	299.75	0.96	Prolipoprotein diacylglyceryl transferase
+PGF_03225027	Arsenophonus	93.75	5.91	UPF0125 protein RatB
+PGF_03272313	Arsenophonus	866.75	15.84	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Arsenophonus	82.75	9.50	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03439690	Arsenophonus	154.00	2.00	Ferric uptake regulation protein FUR
+PGF_03441339	Arsenophonus	315.75	1.50	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03456505	Arsenophonus	540.50	3.00	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03520151	Arsenophonus	388.00	0.00	Cell division protein FtsZ
+PGF_03609651	Arsenophonus	645.25	59.50	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03699416	Arsenophonus	189.00	0.00	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Arsenophonus	318.50	1.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03718818	Arsenophonus	252.00	22.18	Cell division protein FtsQ
+PGF_03719269	Arsenophonus	205.25	3.50	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03729040	Arsenophonus	152.25	4.27	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03750599	Arsenophonus	219.75	56.34	Cell division coordinator CpoB
+PGF_03750600	Arsenophonus	167.25	5.50	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Arsenophonus	214.25	24.50	Heat shock protein GrpE
+PGF_03778780	Arsenophonus	388.75	50.50	Signal recognition particle receptor FtsY
+PGF_03787199	Arsenophonus	181.50	1.00	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Arsenophonus	231.50	5.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03811469	Arsenophonus	483.25	5.50	Sodium:alanine symporter family protein
+PGF_03835760	Arsenophonus	424.75	0.50	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03949149	Arsenophonus	122.00	0.00	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_04007946	Arsenophonus	211.75	4.86	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Arsenophonus	470.00	12.00	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04108824	Arsenophonus	590.25	2.50	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04132127	Arsenophonus	285.25	4.19	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04150742	Arsenophonus	261.50	1.00	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Arsenophonus	184.25	0.96	16S rRNA processing protein RimM
+PGF_04217548	Arsenophonus	612.75	1.50	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04301840	Arsenophonus	405.00	4.55	hypothetical protein
+PGF_04315180	Arsenophonus	157.75	0.50	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04360357	Arsenophonus	902.75	0.50	Protein translocase subunit SecA
+PGF_04458212	Arsenophonus	325.25	0.50	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04493258	Arsenophonus	308.50	1.00	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Arsenophonus	236.25	6.60	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Arsenophonus	347.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Arsenophonus	460.00	0.00	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04660832	Arsenophonus	153.00	26.00	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04788810	Arsenophonus	195.50	3.00	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04845029	Arsenophonus	117.00	0.00	LSU ribosomal protein L19p
+PGF_05135220	Arsenophonus	860.50	1.00	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05140475	Arsenophonus	437.75	5.56	Branched-chain amino acid transport system carrier protein
+PGF_05165078	Arsenophonus	321.75	3.20	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Arsenophonus	209.75	0.50	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05255412	Arsenophonus	420.00	10.10	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Arsenophonus	427.00	0.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Arsenophonus	163.00	4.00	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05338234	Arsenophonus	287.50	1.00	Protein YicC
+PGF_05435672	Arsenophonus	341.25	19.21	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05463808	Arsenophonus	299.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05560886	Arsenophonus	273.50	1.00	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Arsenophonus	441.25	0.50	Protein translocase subunit SecY
+PGF_05598173	Arsenophonus	388.50	1.00	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Arsenophonus	419.25	2.22	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Arsenophonus	221.25	0.50	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05693577	Arsenophonus	94.75	1.50	Integration host factor beta subunit
+PGF_05769513	Arsenophonus	430.00	0.00	Tol-Pal system beta propeller repeat protein TolB
+PGF_05872952	Arsenophonus	248.50	6.14	Outer membrane beta-barrel assembly protein BamD
+PGF_05971611	Arsenophonus	404.50	0.58	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Arsenophonus	631.00	0.00	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06053106	Arsenophonus	284.50	1.00	RNA polymerase sigma factor RpoH
+PGF_06128857	Arsenophonus	572.50	22.58	Electron transport complex protein RnfC
+PGF_06170558	Arsenophonus	156.00	0.00	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Arsenophonus	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06189158	Arsenophonus	115.75	1.50	Monothiol glutaredoxin GrxD
+PGF_06254345	Arsenophonus	97.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06287652	Arsenophonus	256.25	17.04	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06315406	Arsenophonus	419.75	2.50	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06319722	Arsenophonus	295.00	2.00	Manganese ABC transporter, inner membrane permease protein SitC
+PGF_06327901	Arsenophonus	250.75	0.50	hypothetical protein
+PGF_06530721	Arsenophonus	236.75	4.50	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06589185	Arsenophonus	586.00	2.00	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06648993	Arsenophonus	85.75	3.86	Acyl carrier protein
+PGF_06693963	Arsenophonus	109.00	0.00	Nucleoid-associated protein YaaK
+PGF_06699769	Arsenophonus	178.75	2.50	hypothetical protein
+PGF_06750600	Arsenophonus	379.00	0.00	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06755829	Arsenophonus	329.50	1.73	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06772993	Arsenophonus	1061.25	42.37	Ribonuclease E (EC 3.1.26.12)
+PGF_07242312	Arsenophonus	638.00	2.71	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_08059428	Arsenophonus	88.00	0.00	Cell division topological specificity factor MinE
+PGF_08061357	Arsenophonus	126.75	8.96	Iron-sulfur cluster insertion protein ErpA
+PGF_08183187	Arsenophonus	394.25	4.19	Cell division protein FtsW

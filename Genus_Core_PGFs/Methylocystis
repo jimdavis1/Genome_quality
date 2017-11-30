@@ -1,0 +1,937 @@
+PGF_00000027	Methylocystis	283.14	3.93	Uncharacterized protein YmdB
+PGF_00000261	Methylocystis	379.00	3.06	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000416	Methylocystis	359.43	9.85	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001273	Methylocystis	447.71	16.83	FIG00984076: hypothetical protein
+PGF_00002124	Methylocystis	217.00	14.36	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002375	Methylocystis	331.43	14.63	ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00002554	Methylocystis	337.86	7.82	FIG017823: ATPase, MoxR family
+PGF_00002615	Methylocystis	124.00	1.53	FIG020313: hypothetical protein
+PGF_00002995	Methylocystis	238.86	2.85	FIG033376: Heat shock protein DnaJ-like
+PGF_00003220	Methylocystis	855.43	56.50	FIG056333: sensor
+PGF_00003243	Methylocystis	1151.14	6.20	FIG061771: ATP-dependent nuclease subunit A
+PGF_00003448	Methylocystis	400.14	7.80	FIG110192: hypothetical protein
+PGF_00003537	Methylocystis	310.57	2.44	FIG139612: Possible conserved membrane protein
+PGF_00003689	Methylocystis	247.43	12.16	FIG167255: hypothetical protein
+PGF_00004090	Methylocystis	330.00	1.83	Fatty acid desaturase
+PGF_00005570	Methylocystis	345.14	24.62	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005614	Methylocystis	131.86	6.12	Flagellar protein FliJ
+PGF_00006116	Methylocystis	190.57	14.91	Formaldehyde activating enzyme
+PGF_00006245	Methylocystis	576.71	1.38	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006301	Methylocystis	269.14	0.38	Formylmethanofuran dehydrogenase (tungsten) subunit C (EC 1.2.99.5)
+PGF_00006318	Methylocystis	301.86	0.38	Formylmethanofuran--tetrahydromethanopterin N-formyltransferase (EC 2.3.1.101)
+PGF_00006394	Methylocystis	359.14	2.27	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006935	Methylocystis	535.29	3.86	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Methylocystis	370.00	13.23	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007014	Methylocystis	364.00	23.49	GTP-binding protein
+PGF_00007024	Methylocystis	465.57	0.53	GTP-binding protein EngA
+PGF_00007026	Methylocystis	217.86	2.73	GTP-binding protein EngB
+PGF_00007027	Methylocystis	305.14	3.72	GTP-binding protein Era
+PGF_00007041	Methylocystis	606.57	0.79	GTP-binding protein TypA/BipA
+PGF_00007057	Methylocystis	432.57	1.81	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007235	Methylocystis	179.71	11.57	GcrA cell cycle regulator
+PGF_00007304	Methylocystis	316.71	15.29	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Methylocystis	350.29	26.91	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007821	Methylocystis	527.00	0.58	Glucans biosynthesis protein D precursor
+PGF_00007988	Methylocystis	545.43	4.47	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Methylocystis	467.71	9.03	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Methylocystis	375.00	1.53	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Methylocystis	415.00	0.00	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008258	Methylocystis	490.29	14.60	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008335	Methylocystis	480.14	9.03	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008342	Methylocystis	448.57	1.40	Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008537	Methylocystis	496.00	2.24	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Methylocystis	331.14	4.85	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008780	Methylocystis	341.43	10.23	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Methylocystis	213.57	2.70	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008882	Methylocystis	401.86	5.64	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00008885	Methylocystis	431.00	3.37	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009500	Methylocystis	187.00	3.06	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009801	Methylocystis	432.00	1.63	Glycosyltransferase
+PGF_00009967	Methylocystis	320.57	24.70	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010205	Methylocystis	253.29	13.52	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Methylocystis	217.86	9.23	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Methylocystis	748.57	5.19	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011277	Methylocystis	369.00	1.53	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_00011321	Methylocystis	310.86	1.21	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011528	Methylocystis	569.43	8.75	Heparinase II/III-like
+PGF_00011634	Methylocystis	377.57	3.36	HflK protein
+PGF_00011979	Methylocystis	436.29	9.29	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Methylocystis	345.14	2.85	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012291	Methylocystis	432.86	2.12	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+PGF_00012340	Methylocystis	435.86	7.58	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012955	Methylocystis	333.00	6.14	Hydroxymethylpyrimidine ABC transporter, substrate-binding component
+PGF_00012970	Methylocystis	609.86	1.77	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013003	Methylocystis	623.71	5.99	Bis-ABC ATPase YheS
+PGF_00013266	Methylocystis	252.57	1.27	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013283	Methylocystis	223.43	2.07	UPF0001 protein YggS
+PGF_00013315	Methylocystis	196.14	0.38	Hypothetical protein i Rubrerythrin cluster
+PGF_00013509	Methylocystis	532.86	5.67	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Methylocystis	206.71	24.39	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Methylocystis	272.43	7.25	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014061	Methylocystis	1170.57	1.13	Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits
+PGF_00014306	Methylocystis	177.71	1.11	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Methylocystis	494.29	2.36	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014855	Methylocystis	323.43	2.15	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00015039	Methylocystis	253.86	3.76	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015121	Methylocystis	204.00	9.98	ATP synthase F0 sector subunit b' (EC 3.6.3.14)
+PGF_00015142	Methylocystis	73.71	1.11	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Methylocystis	187.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Methylocystis	293.14	0.38	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015263	Methylocystis	124.43	4.86	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_00015530	Methylocystis	199.43	125.54	Iron-sulfur cluster assembly scaffold protein NifU
+PGF_00015699	Methylocystis	403.43	1.13	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Methylocystis	957.86	206.09	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Methylocystis	339.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016325	Methylocystis	816.86	8.40	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Methylocystis	171.29	0.76	LSU ribosomal protein L10p (P0)
+PGF_00016340	Methylocystis	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Methylocystis	158.71	1.25	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Methylocystis	137.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Methylocystis	137.14	0.38	LSU ribosomal protein L17p
+PGF_00016353	Methylocystis	120.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Methylocystis	234.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Methylocystis	121.43	1.13	LSU ribosomal protein L20p
+PGF_00016361	Methylocystis	119.86	20.01	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Methylocystis	128.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Methylocystis	98.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Methylocystis	105.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Methylocystis	88.43	0.79	LSU ribosomal protein L27p
+PGF_00016393	Methylocystis	279.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Methylocystis	65.14	3.67	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Methylocystis	62.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Methylocystis	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Methylocystis	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Methylocystis	66.00	0.00	LSU ribosomal protein L35p
+PGF_00016425	Methylocystis	41.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016431	Methylocystis	247.43	7.35	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Methylocystis	206.14	0.38	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Methylocystis	229.86	10.73	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Methylocystis	177.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Methylocystis	125.43	0.53	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Methylocystis	187.14	0.38	LSU ribosomal protein L9p
+PGF_00016477	Methylocystis	1056.86	29.07	ATP-dependent DNA helicase
+PGF_00016495	Methylocystis	260.00	8.54	Lactam utilization protein LamB
+PGF_00016919	Methylocystis	228.00	6.08	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Methylocystis	382.14	5.76	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Methylocystis	316.00	25.04	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017389	Methylocystis	500.86	27.64	ATP-dependent RNA helicase Atu1833
+PGF_00017398	Methylocystis	455.29	87.89	Murein hydrolase activator NlpD
+PGF_00017464	Methylocystis	226.71	0.76	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Methylocystis	327.00	2.52	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017649	Methylocystis	184.43	12.33	Lipopolysaccharide export system protein LptA
+PGF_00017939	Methylocystis	364.86	6.52	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018084	Methylocystis	561.00	5.48	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+PGF_00018131	Methylocystis	325.57	22.48	Lyzozyme M1 (1,4-beta-N-acetylmuramidase) (EC 3.2.1.17)
+PGF_00018560	Methylocystis	312.29	10.03	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Methylocystis	320.29	0.76	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018992	Methylocystis	214.14	9.87	Maleylacetoacetate isomerase (EC 5.2.1.2) @ Glutathione S-transferase, zeta (EC 2.5.1.18)
+PGF_00019038	Methylocystis	434.00	0.58	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019363	Methylocystis	135.57	2.37	MaoC domain protein dehydratase
+PGF_00019428	Methylocystis	184.43	5.09	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020168	Methylocystis	367.29	4.11	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Methylocystis	285.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Methylocystis	167.57	5.94	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Methylocystis	259.29	9.84	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020639	Methylocystis	102.86	11.94	Methanol dehydrogenase, small subunit (EC 1.1.2.7)
+PGF_00020701	Methylocystis	209.71	0.49	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+PGF_00020735	Methylocystis	290.14	20.96	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020741	Methylocystis	217.57	6.92	Methionine biosynthesis protein MetW
+PGF_00020981	Methylocystis	534.71	0.95	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00021019	Methylocystis	134.00	0.00	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00021022	Methylocystis	719.71	0.95	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021023	Methylocystis	621.86	6.09	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021036	Methylocystis	365.57	4.39	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021186	Methylocystis	382.00	2.45	ATPase
+PGF_00021890	Methylocystis	408.71	28.76	Mlr7408 protein
+PGF_00022479	Methylocystis	204.57	2.15	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022507	Methylocystis	184.29	9.14	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Methylocystis	83.00	0.00	Molybdopterin synthase sulfur carrier subunit
+PGF_00023500	Methylocystis	302.14	2.27	MxaJ, protein involved in methanol oxidation
+PGF_00023505	Methylocystis	336.29	11.71	MxaL protein
+PGF_00023590	Methylocystis	325.71	0.49	N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase (EC 3.5.4.27)
+PGF_00023591	Methylocystis	357.14	7.63	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Methylocystis	310.00	7.75	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024234	Methylocystis	389.14	6.01	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Methylocystis	172.43	10.74	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Methylocystis	358.57	1.27	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Methylocystis	682.71	8.81	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Methylocystis	465.00	0.00	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024470	Methylocystis	516.43	0.53	NAD-dependent formate dehydrogenase beta subunit
+PGF_00024472	Methylocystis	78.86	10.11	NAD-dependent formate dehydrogenase delta subunit
+PGF_00024475	Methylocystis	160.43	17.62	NAD-dependent formate dehydrogenase gamma subunit
+PGF_00024692	Methylocystis	204.00	2.00	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Methylocystis	200.29	0.76	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Methylocystis	102.71	0.49	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Methylocystis	504.29	5.62	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Methylocystis	478.14	2.19	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024801	Methylocystis	142.00	10.80	NADH:ubiquinone oxidoreductase 17.2 kD subunit
+PGF_00024855	Methylocystis	151.71	3.40	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00024908	Methylocystis	335.00	0.00	NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13) / NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024969	Methylocystis	303.57	15.47	NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)
+PGF_00025003	Methylocystis	285.29	2.87	NLP/P60 family lipoprotein
+PGF_00025090	Methylocystis	598.00	9.31	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Methylocystis	183.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025517	Methylocystis	157.57	8.68	Nickel responsive regulator NikR
+PGF_00025623	Methylocystis	341.29	4.50	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025637	Methylocystis	70.29	1.11	NifT protein
+PGF_00025639	Methylocystis	399.71	24.38	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00025951	Methylocystis	494.86	6.41	Nitrogenase (molybdenum-iron) alpha chain (EC 1.18.6.1)
+PGF_00025953	Methylocystis	512.71	10.73	Nitrogenase (molybdenum-iron) beta chain (EC 1.18.6.1)
+PGF_00025976	Methylocystis	217.00	35.62	Nitrogenase FeMo-cofactor synthesis molybdenum delivery protein NifQ
+PGF_00025992	Methylocystis	110.86	1.86	Nitrogenase stabilizing/protective protein NifW
+PGF_00026362	Methylocystis	211.14	6.57	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Methylocystis	287.57	0.98	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026614	Methylocystis	140.57	4.39	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026615	Methylocystis	291.29	4.07	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026743	Methylocystis	221.14	0.90	O-methyltransferase
+PGF_00026776	Methylocystis	335.86	0.38	O-methyltransferase, family 2
+PGF_00026888	Methylocystis	612.00	5.00	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00027831	Methylocystis	172.57	17.36	Outer membrane beta-barrel assembly protein BamE
+PGF_00029464	Methylocystis	152.71	2.56	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029917	Methylocystis	285.71	1.11	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Methylocystis	320.43	2.23	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030209	Methylocystis	414.43	5.16	Palmitoyltransferase-like protein
+PGF_00030246	Methylocystis	310.14	10.75	Penicillin-insensitive murein endopeptidase
+PGF_00030640	Methylocystis	356.14	0.38	Peptide chain release factor 1
+PGF_00030643	Methylocystis	529.00	2.89	Peptide chain release factor 3
+PGF_00031127	Methylocystis	227.57	21.19	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00032999	Methylocystis	211.71	11.66	PhbF
+PGF_00033071	Methylocystis	294.57	5.47	Phenylalanine-4-hydroxylase (EC 1.14.16.1)
+PGF_00033095	Methylocystis	805.86	3.80	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Methylocystis	345.29	2.81	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Methylocystis	279.57	0.53	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Methylocystis	362.00	12.32	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Methylocystis	360.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033369	Methylocystis	756.00	8.93	Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated
+PGF_00033402	Methylocystis	816.71	12.89	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033496	Methylocystis	499.00	0.00	Phosphoglucosamine mutase (EC 5.4.2.10) / Phosphomannomutase (EC 5.4.2.8)
+PGF_00033511	Methylocystis	400.29	5.53	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Methylocystis	206.29	1.11	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033726	Methylocystis	269.86	112.17	Phospholipase/carboxylesterase family protein
+PGF_00033729	Methylocystis	265.14	8.07	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033877	Methylocystis	175.71	15.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Methylocystis	428.43	2.99	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Methylocystis	262.43	4.16	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033954	Methylocystis	368.86	25.44	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Methylocystis	232.57	10.34	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Methylocystis	748.43	12.35	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Methylocystis	214.00	6.90	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033981	Methylocystis	290.86	0.38	Phosphoribulokinase (EC 2.7.1.19)
+PGF_00033988	Methylocystis	390.71	2.29	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Methylocystis	725.57	21.98	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Methylocystis	177.29	6.05	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Methylocystis	345.14	13.68	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Methylocystis	168.57	5.41	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035187	Methylocystis	314.43	14.75	Possible glutaminyl transferase clustered with tetrahydromethanopterin biosynthesis genes
+PGF_00035334	Methylocystis	302.29	41.65	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035378	Methylocystis	471.00	5.77	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035439	Methylocystis	251.57	4.86	Precorrin-2 C(20)-methyltransferase (EC 2.1.1.130)
+PGF_00035464	Methylocystis	254.14	0.38	Precorrin-4 C(11)-methyltransferase (EC 2.1.1.133)
+PGF_00035467	Methylocystis	400.00	1.15	Precorrin-6Y C(5,15)-methyltransferase [decarboxylating] (EC 2.1.1.132)
+PGF_00035468	Methylocystis	210.00	0.00	Precorrin-8X methylmutase (EC 5.4.99.61)
+PGF_00035633	Methylocystis	336.14	10.82	Predicted NAD regulator in Alphaproteobacteria
+PGF_00035721	Methylocystis	443.29	13.54	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Methylocystis	430.71	3.59	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035831	Methylocystis	250.14	1.68	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00036513	Methylocystis	332.00	0.00	Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)
+PGF_00036543	Methylocystis	489.86	4.63	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00037523	Methylocystis	1027.14	15.61	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037784	Methylocystis	368.57	5.86	Proposed precorrin-5* (C1)-methyltransferase @ Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00037835	Methylocystis	714.00	5.63	Protease II (EC 3.4.21.83)
+PGF_00038060	Methylocystis	326.00	24.77	Protein containing domains DUF403
+PGF_00038061	Methylocystis	481.57	4.79	Protein containing domains DUF404, DUF407
+PGF_00038062	Methylocystis	837.14	4.26	Protein containing domains DUF404, DUF407, DUF403
+PGF_00038367	Methylocystis	139.00	0.58	Protein of unknown function DUF55
+PGF_00038554	Methylocystis	147.57	1.51	Protein of unknown function UPF0074
+PGF_00038564	Methylocystis	141.29	6.75	Protein of unknown function UPF0153
+PGF_00038674	Methylocystis	353.57	14.50	Protein translocase subunit SecF
+PGF_00038879	Methylocystis	139.29	0.76	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039827	Methylocystis	492.29	25.22	Putative Zn-dependent protease
+PGF_00040447	Methylocystis	268.43	0.79	Putative cyclase
+PGF_00040578	Methylocystis	268.71	12.55	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041786	Methylocystis	145.14	3.80	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00043159	Methylocystis	400.71	14.82	Putative permease often clustered with de novo purine synthesis
+PGF_00044234	Methylocystis	301.71	3.59	Putative sugar kinase
+PGF_00044963	Methylocystis	218.57	19.16	YdcF-like protein
+PGF_00045738	Methylocystis	303.43	0.79	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045900	Methylocystis	250.57	0.79	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045941	Methylocystis	759.00	29.36	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045991	Methylocystis	477.71	4.89	Pyruvate kinase (EC 2.7.1.40)
+PGF_00045999	Methylocystis	912.29	34.16	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+PGF_00046060	Methylocystis	210.00	0.00	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Methylocystis	283.57	1.13	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Methylocystis	363.57	2.76	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046197	Methylocystis	242.29	1.80	RNA binding methyltransferase FtsJ like
+PGF_00046345	Methylocystis	292.86	2.79	RNA polymerase sigma factor RpoH-related protein
+PGF_00046403	Methylocystis	523.14	3.13	RNA polymerase sigma-54 factor RpoN
+PGF_00046915	Methylocystis	381.71	15.05	Radical SAM domain protein
+PGF_00047472	Methylocystis	471.29	3.30	Related to Dihydropteroate synthase
+PGF_00047854	Methylocystis	262.00	14.45	Response regulator
+PGF_00047903	Methylocystis	205.14	16.16	Response regulator NasT
+PGF_00048210	Methylocystis	496.14	7.47	Response regulatory protein
+PGF_00048249	Methylocystis	209.14	4.49	Alpha-ketoglutarate-dependent dioxygenase AlkB (EC 1.14.11.33)
+PGF_00048480	Methylocystis	203.29	5.65	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048528	Methylocystis	204.00	0.00	Ribonuclease D related protein
+PGF_00048542	Methylocystis	155.14	5.11	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Methylocystis	211.00	15.83	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Methylocystis	237.43	0.79	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Methylocystis	165.00	3.16	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048789	Methylocystis	410.29	88.43	Ribose-phosphate pyrophosphokinase, possible alternative form 3
+PGF_00048840	Methylocystis	304.14	7.17	Ribosomal protein L11 methyltransferase
+PGF_00048846	Methylocystis	450.00	2.16	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Methylocystis	196.00	13.49	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Methylocystis	189.00	5.00	Ribosome recycling factor
+PGF_00048985	Methylocystis	226.57	0.79	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049362	Methylocystis	354.00	15.43	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049555	Methylocystis	286.00	8.83	SAM-dependent methyltransferase, BioC-like
+PGF_00049827	Methylocystis	306.71	12.37	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Methylocystis	104.86	7.56	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Methylocystis	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Methylocystis	126.57	9.45	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Methylocystis	122.57	1.51	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Methylocystis	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Methylocystis	91.14	5.67	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Methylocystis	117.14	1.57	SSU ribosomal protein S16p
+PGF_00049854	Methylocystis	80.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Methylocystis	78.29	0.76	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Methylocystis	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Methylocystis	250.00	2.24	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Methylocystis	211.29	16.63	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Methylocystis	190.43	2.07	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Methylocystis	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Methylocystis	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Methylocystis	159.71	0.76	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Methylocystis	271.43	4.93	Segregation and condensation protein A
+PGF_00050369	Methylocystis	483.14	5.30	Selenoprotein O and cysteine-containing homologs
+PGF_00050557	Methylocystis	628.71	16.89	Sensor histidine kinase ChvG (EC 2.7.3.-)
+PGF_00050826	Methylocystis	837.14	9.17	Sensory box histidine kinase/response regulator
+PGF_00050995	Methylocystis	502.43	13.50	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051187	Methylocystis	288.57	8.62	Ser/Thr protein phosphatase family protein, UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.54) homolog
+PGF_00051525	Methylocystis	457.00	22.46	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Methylocystis	512.29	1.89	Signal recognition particle protein Ffh
+PGF_00052556	Methylocystis	498.71	3.15	Amino acid regulated cytosolic protein
+PGF_00052705	Methylocystis	147.14	2.27	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Methylocystis	315.57	2.15	Site-specific tyrosine recombinase XerD
+PGF_00053770	Methylocystis	380.71	4.19	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054480	Methylocystis	260.14	2.27	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054986	Methylocystis	286.43	1.99	Sulfate transport system permease protein CysT
+PGF_00054988	Methylocystis	298.14	7.10	Sulfate transport system permease protein CysW
+PGF_00055052	Methylocystis	573.86	0.38	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055179	Methylocystis	443.71	15.50	Sun protein
+PGF_00055273	Methylocystis	197.86	0.90	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055966	Methylocystis	355.29	30.85	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056544	Methylocystis	264.71	2.21	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Methylocystis	340.43	4.43	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056883	Methylocystis	226.57	5.53	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056929	Methylocystis	511.00	2.77	TldD family protein, Actinobacterial subgroup
+PGF_00056947	Methylocystis	447.71	10.72	TldE/PmbA family protein, Actinobacterial subgroup
+PGF_00057032	Methylocystis	148.14	15.24	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Methylocystis	755.14	5.21	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057385	Methylocystis	266.14	6.18	Trans-aconitate 2-methyltransferase (EC 2.1.1.144)
+PGF_00057402	Methylocystis	149.00	0.00	Transamidase GatB domain protein
+PGF_00057485	Methylocystis	533.43	4.72	Transcription termination protein NusA
+PGF_00057488	Methylocystis	150.71	0.95	Transcription termination protein NusB
+PGF_00059034	Methylocystis	335.86	0.90	Transcriptional regulator, ArsR family / Methyltransferase fusion
+PGF_00059904	Methylocystis	207.43	6.00	Transcriptional regulator, Xre-family with cupin domain
+PGF_00060414	Methylocystis	607.43	10.66	Translation elongation factor LepA
+PGF_00060421	Methylocystis	195.14	16.25	Translation elongation factor P
+PGF_00060424	Methylocystis	351.14	13.73	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Methylocystis	310.14	6.12	Translation elongation factor Ts
+PGF_00060431	Methylocystis	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Methylocystis	171.86	8.32	Translation initiation factor 3
+PGF_00061607	Methylocystis	137.14	12.20	ApaG protein
+PGF_00061926	Methylocystis	294.86	10.32	Triphosphoribosyl-dephospho-CoA synthetase
+PGF_00062023	Methylocystis	297.86	7.58	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Methylocystis	412.43	1.13	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062232	Methylocystis	233.00	0.00	Two-component cell cycle transcriptional regulator ctrA, winged helix family
+PGF_00063695	Methylocystis	185.57	1.62	Archaeal flavoprotein COG1036
+PGF_00063916	Methylocystis	423.14	4.71	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063944	Methylocystis	306.57	20.61	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Methylocystis	353.57	4.12	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Methylocystis	307.86	5.05	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Methylocystis	368.71	4.19	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00064131	Methylocystis	334.43	2.70	UDP-glucuronate 5'-epimerase (EC 5.1.3.12)
+PGF_00064280	Methylocystis	172.43	31.38	UPF0260 protein YcgN
+PGF_00064393	Methylocystis	294.57	1.51	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064460	Methylocystis	520.43	0.98	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064933	Methylocystis	461.43	8.22	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_00065887	Methylocystis	259.57	6.97	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066139	Methylocystis	222.14	0.90	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066270	Methylocystis	339.14	11.71	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Methylocystis	922.14	37.39	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Methylocystis	604.43	0.79	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Methylocystis	318.57	27.34	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Methylocystis	344.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067383	Methylocystis	540.00	9.06	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067401	Methylocystis	298.86	2.79	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067412	Methylocystis	74.86	1.07	YrbA protein
+PGF_00067466	Methylocystis	592.71	0.49	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Methylocystis	506.86	34.19	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068016	Methylocystis	238.71	4.75	AttE component of AttEFGH ABC transport system
+PGF_00068045	Methylocystis	344.00	7.05	AttH component of AttEFGH ABC transport system
+PGF_00068160	Methylocystis	1954.57	25.10	alpha-2-macroglobulin domain protein
+PGF_00069558	Methylocystis	273.86	7.47	2-hydroxymuconic semialdehyde hydrolase (EC 3.7.1.9)
+PGF_00070869	Methylocystis	378.00	9.87	4-(hydroxymethyl)-2-furancarboxaldehyde-phosphate synthase / Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00071194	Methylocystis	457.57	4.24	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071197	Methylocystis	215.43	1.51	Sphingolipid (R)-alpha-hydroxylase FAH1 (no EC)
+PGF_00071693	Methylocystis	301.86	22.91	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00071938	Methylocystis	159.14	0.90	Bacterioferritin (EC 1.16.3.1)
+PGF_00072326	Methylocystis	385.71	9.95	Homocitrate synthase (EC 2.3.3.14)
+PGF_00075080	Methylocystis	347.29	3.45	hypothetical protein
+PGF_00084324	Methylocystis	295.14	13.61	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00084680	Methylocystis	379.57	13.83	Type II restriction adenine-specific methylase (EC 2.1.1.72)
+PGF_00105361	Methylocystis	201.71	2.36	hypothetical protein
+PGF_00108875	Methylocystis	194.43	4.16	hypothetical protein
+PGF_00117180	Methylocystis	127.00	16.15	hypothetical protein
+PGF_00124691	Methylocystis	98.14	9.35	hypothetical protein
+PGF_00136949	Methylocystis	388.57	4.54	hypothetical protein
+PGF_00140348	Methylocystis	125.71	2.43	hypothetical protein
+PGF_00144239	Methylocystis	256.86	47.00	hypothetical protein
+PGF_00146386	Methylocystis	122.43	4.89	hypothetical protein
+PGF_00161806	Methylocystis	154.00	7.23	hypothetical protein
+PGF_00175194	Methylocystis	91.00	0.00	hypothetical protein
+PGF_00182998	Methylocystis	1175.43	12.35	hypothetical protein
+PGF_00185964	Methylocystis	264.43	11.03	hypothetical protein
+PGF_00186568	Methylocystis	70.86	8.41	hypothetical protein
+PGF_00195257	Methylocystis	138.43	12.49	hypothetical protein
+PGF_00195633	Methylocystis	238.29	20.88	hypothetical protein
+PGF_00199476	Methylocystis	171.00	7.64	hypothetical protein
+PGF_00211366	Methylocystis	168.43	24.95	hypothetical protein
+PGF_00217849	Methylocystis	246.00	0.00	Uncharacterized UPF0721 integral membrane protein
+PGF_00219300	Methylocystis	397.57	8.22	Hypothetical protein associated with Serine palmitoyltransferase
+PGF_00222864	Methylocystis	435.43	8.46	hypothetical protein
+PGF_00227319	Methylocystis	210.14	23.98	hypothetical protein
+PGF_00245548	Methylocystis	357.71	21.08	hypothetical protein
+PGF_00267471	Methylocystis	136.86	20.33	hypothetical protein
+PGF_00276088	Methylocystis	78.14	5.84	hypothetical protein
+PGF_00276407	Methylocystis	106.86	8.95	hypothetical protein
+PGF_00279522	Methylocystis	293.43	0.79	hypothetical protein
+PGF_00281727	Methylocystis	288.71	12.53	hypothetical protein
+PGF_00283432	Methylocystis	69.57	2.70	hypothetical protein
+PGF_00285620	Methylocystis	217.43	17.90	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00296354	Methylocystis	192.57	15.12	hypothetical protein
+PGF_00300733	Methylocystis	194.00	56.43	hypothetical protein
+PGF_00312292	Methylocystis	354.29	14.12	hypothetical protein
+PGF_00316839	Methylocystis	75.71	3.40	hypothetical protein
+PGF_00318504	Methylocystis	379.86	0.90	hypothetical protein
+PGF_00326291	Methylocystis	183.71	20.01	Uncharacterized protein CC_3750
+PGF_00327374	Methylocystis	236.29	14.65	hypothetical protein
+PGF_00331798	Methylocystis	187.00	3.51	hypothetical protein
+PGF_00339076	Methylocystis	264.71	14.68	hypothetical protein
+PGF_00342037	Methylocystis	296.57	3.64	Foldase protein PrsA precursor (EC 5.2.1.8)
+PGF_00352561	Methylocystis	131.00	0.00	hypothetical protein
+PGF_00359145	Methylocystis	78.71	2.14	hypothetical protein
+PGF_00361936	Methylocystis	283.14	28.72	hypothetical protein
+PGF_00363754	Methylocystis	604.14	12.79	hypothetical protein
+PGF_00378807	Methylocystis	165.71	10.32	hypothetical protein
+PGF_00381878	Methylocystis	278.00	45.02	hypothetical protein
+PGF_00398057	Methylocystis	200.86	9.77	hypothetical protein
+PGF_00400845	Methylocystis	410.43	1.72	Uncharacterized integral membrane endopeptidase Bmul_2226
+PGF_00401190	Methylocystis	602.14	7.78	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA (EC 3.6.3.42)
+PGF_00401722	Methylocystis	140.57	7.59	Nitrogenase-associated protein NifO
+PGF_00401752	Methylocystis	255.14	1.07	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00402782	Methylocystis	387.43	1.13	Lipopolysaccharide export system permease protein LptF
+PGF_00403782	Methylocystis	351.71	0.76	2-methylfumaryl-CoA hydratase (EC 4.2.1.148)
+PGF_00404078	Methylocystis	180.71	10.66	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404241	Methylocystis	669.14	0.38	Biotin carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein
+PGF_00404256	Methylocystis	452.14	0.38	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404352	Methylocystis	159.86	3.89	3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)
+PGF_00404817	Methylocystis	143.86	0.38	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404879	Methylocystis	244.29	34.19	protein of unknown function DUF1007
+PGF_00404978	Methylocystis	165.29	2.63	protein of unknown function DUF1332
+PGF_00405471	Methylocystis	90.00	19.77	protein of unknown function UPF0150
+PGF_00406692	Methylocystis	1001.43	11.00	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00407331	Methylocystis	269.71	5.35	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_00411237	Methylocystis	118.43	0.53	Bll7395 protein
+PGF_00411408	Methylocystis	384.57	4.16	Radical SAM protein required for addition of adenosine to hopane skeleton, HpnH
+PGF_00412178	Methylocystis	327.00	2.65	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413208	Methylocystis	232.43	2.51	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Methylocystis	340.00	14.66	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Methylocystis	248.43	7.76	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Methylocystis	300.00	0.58	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Methylocystis	613.71	2.93	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Methylocystis	147.29	0.95	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Methylocystis	158.00	0.00	tmRNA-binding protein SmpB
+PGF_00414926	Methylocystis	413.71	1.70	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Methylocystis	280.43	2.51	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415481	Methylocystis	357.14	7.56	SAM-dependent methyltransferase, MidA
+PGF_00415486	Methylocystis	159.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415551	Methylocystis	204.14	8.23	COG1896: Predicted hydrolases of HD superfamily
+PGF_00415581	Methylocystis	234.57	4.16	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415637	Methylocystis	232.29	13.85	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination / Ribosomal protein L7Ae family protein YlxQ
+PGF_00416115	Methylocystis	315.14	0.38	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Methylocystis	542.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Methylocystis	1116.86	21.09	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00417429	Methylocystis	371.29	1.25	Chaperone protein DnaJ
+PGF_00417433	Methylocystis	632.00	1.15	Chaperone protein DnaK
+PGF_00417577	Methylocystis	136.43	20.78	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Methylocystis	587.00	16.18	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Methylocystis	257.86	6.04	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417821	Methylocystis	290.29	2.06	Chorismate mutase I (EC 5.4.99.5)
+PGF_00418128	Methylocystis	246.57	3.46	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418178	Methylocystis	431.57	2.94	Co2 transporter containing CBS domains
+PGF_00418252	Methylocystis	343.43	0.98	CobW GTPase involved in cobalt insertion for B12 biosynthesis
+PGF_00418254	Methylocystis	239.71	7.04	Cobalamin biosynthesis protein BluB @ 5,6-dimethylbenzimidazole synthase, flavin destructase family
+PGF_00418368	Methylocystis	484.43	1.99	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418484	Methylocystis	301.86	28.04	Coenzyme PQQ synthesis protein B
+PGF_00418583	Methylocystis	195.86	9.72	Cold shock protein of CSP family => dimer
+PGF_00418658	Methylocystis	210.00	9.36	Colicin V production protein
+PGF_00419420	Methylocystis	470.43	0.98	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419487	Methylocystis	190.71	44.70	Conserved uncharacterized protein CreA
+PGF_00419561	Methylocystis	538.43	5.00	Copper resistance protein CopD
+PGF_00419694	Methylocystis	268.00	3.21	Creatinine amidohydrolase (EC 3.5.2.10)
+PGF_00419702	Methylocystis	168.71	2.56	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419913	Methylocystis	158.29	6.16	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Methylocystis	273.00	2.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420050	Methylocystis	397.14	2.67	Cysteine desulfurase (EC 2.8.1.7) => NifS
+PGF_00420121	Methylocystis	211.43	3.36	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420468	Methylocystis	195.71	7.11	Cytochrome c-L precursor (Cytochrome c551I) (Cytochrome c552)
+PGF_00420582	Methylocystis	197.57	0.98	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420731	Methylocystis	517.00	1.83	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420762	Methylocystis	461.43	5.71	D-2-hydroxyglutarate dehydrogenase (EC 1.1.99.2)
+PGF_00420798	Methylocystis	307.00	0.00	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420957	Methylocystis	433.00	14.36	D-glycerate 2-kinase (EC 2.7.1.165)
+PGF_00421430	Methylocystis	402.43	3.55	DNA modification methylase (EC 2.1.1.72)
+PGF_00421498	Methylocystis	373.86	3.18	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Methylocystis	636.29	2.81	DNA primase (EC 2.7.7.-)
+PGF_00421738	Methylocystis	240.86	2.54	DNA recombination and repair protein RecO
+PGF_00421792	Methylocystis	466.43	2.94	DNA repair protein RadA
+PGF_00421796	Methylocystis	561.43	6.70	DNA repair protein RecN
+PGF_00421959	Methylocystis	266.43	6.95	DNA-binding domain of ModE / Molybdate-binding domain of ModE
+PGF_00422163	Methylocystis	236.00	7.55	DNA-binding response regulator ChvI
+PGF_00422271	Methylocystis	339.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422651	Methylocystis	337.71	3.73	Decaprenyl diphosphate synthase (EC 2.5.1.91)
+PGF_00422918	Methylocystis	371.00	5.10	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Methylocystis	154.57	2.94	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Methylocystis	375.71	2.36	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Methylocystis	437.86	1.35	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423533	Methylocystis	297.71	23.95	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Methylocystis	135.00	6.24	DksA family protein PA5536 (no Zn-finger)
+PGF_00423668	Methylocystis	197.57	0.79	Dna binding response regulator PrrA (RegA)
+PGF_00423927	Methylocystis	318.14	2.73	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424123	Methylocystis	555.29	6.37	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424425	Methylocystis	365.29	6.18	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+PGF_00424447	Methylocystis	338.57	11.94	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424496	Methylocystis	734.00	2.65	Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_00424921	Methylocystis	658.00	2.16	Ethylmalonyl-CoA mutase, methylsuccinyl-CoA-forming
+PGF_00424971	Methylocystis	659.71	2.98	Excinuclease ABC subunit C
+PGF_00425024	Methylocystis	524.86	9.25	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425214	Methylocystis	100.00	15.26	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425265	Methylocystis	408.00	5.48	ABC transporter, substrate-binding protein (cluster 4, leucine/isoleucine/valine/benzoate)
+PGF_00425557	Methylocystis	93.71	18.43	4Fe-4S ferredoxin, nitrogenase-associated
+PGF_00425665	Methylocystis	259.29	1.25	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425684	Methylocystis	248.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425685	Methylocystis	301.86	11.55	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425847	Methylocystis	183.57	20.10	FIG003437: hypothetical with DnaJ-like domain
+PGF_00425857	Methylocystis	694.86	2.73	FIG003492: Threonine dehydrogenase and related Zn-dependent dehydrogenases
+PGF_00425900	Methylocystis	927.29	9.93	FIG003603: membrane protein, putative
+PGF_00425911	Methylocystis	272.71	2.63	FIG003879: Predicted amidohydrolase
+PGF_00425985	Methylocystis	246.00	19.85	Cell division organizing protein PopZ
+PGF_00425993	Methylocystis	412.00	4.90	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Methylocystis	709.14	125.95	FIG004453: protein YceG like
+PGF_00426044	Methylocystis	299.00	0.58	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Methylocystis	645.29	13.16	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Methylocystis	432.14	3.13	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426620	Methylocystis	142.00	37.75	FIG005495: hypothetical protein
+PGF_00426629	Methylocystis	135.00	4.12	5-methyl-dCTP pyrophosphohydrolase (EC 3.6.1.-)
+PGF_00426722	Methylocystis	1239.71	0.76	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426801	Methylocystis	256.43	2.70	FIG005935: membrane protein
+PGF_00426932	Methylocystis	161.29	2.36	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00435859	Methylocystis	133.57	5.50	PTS system permease (IIAMan), nitrogen regulatory IIA protein
+PGF_00447508	Methylocystis	409.57	6.65	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Methylocystis	451.71	8.98	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Methylocystis	334.86	7.84	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00529632	Methylocystis	873.71	1.38	ClpB protein
+PGF_00538878	Methylocystis	259.71	15.16	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00549302	Methylocystis	457.14	11.94	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00565281	Methylocystis	140.57	19.85	Predicted integral membrane protein
+PGF_00565351	Methylocystis	222.71	0.76	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00595771	Methylocystis	298.43	6.68	Squalene synthase (EC 2.5.1.21)
+PGF_00618776	Methylocystis	388.57	16.83	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00624653	Methylocystis	393.29	2.87	Uncharacterized oxidoreductase
+PGF_00644734	Methylocystis	303.29	12.00	putative phosphohydrolases, Icc family
+PGF_00655358	Methylocystis	483.57	1.62	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Methylocystis	527.29	12.51	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659286	Methylocystis	471.43	29.45	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00662997	Methylocystis	252.29	10.34	Cobalamin synthase (EC 2.7.8.26)
+PGF_00664069	Methylocystis	434.00	0.00	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Methylocystis	130.14	22.77	Ribosomal silencing factor RsfA
+PGF_00669026	Methylocystis	256.86	4.49	Hydrolase
+PGF_00689385	Methylocystis	191.14	2.73	DUF447 family protein
+PGF_00702199	Methylocystis	125.00	11.96	Response regulator
+PGF_00706032	Methylocystis	192.29	0.49	FIG139438: lipoprotein B
+PGF_00718950	Methylocystis	442.00	17.67	peptidase M16 domain protein
+PGF_00725839	Methylocystis	865.14	7.71	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Methylocystis	977.71	13.44	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00743561	Methylocystis	203.86	0.38	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00776587	Methylocystis	115.43	7.79	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00800643	Methylocystis	380.86	146.37	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
+PGF_00813259	Methylocystis	262.14	7.56	FolM Alternative dihydrofolate reductase 1
+PGF_00827555	Methylocystis	556.00	150.26	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00856417	Methylocystis	242.14	2.67	UPF0758 family protein
+PGF_00874759	Methylocystis	429.29	3.64	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00887090	Methylocystis	346.86	0.38	Malyl-CoA lyase (EC 4.1.3.24)
+PGF_00897004	Methylocystis	138.14	9.79	Transcriptional regulator
+PGF_00900256	Methylocystis	473.43	7.91	Threonine synthase (EC 4.2.3.1)
+PGF_00915325	Methylocystis	215.14	16.90	Cold shock protein of CSP family => dimer
+PGF_00922738	Methylocystis	290.86	2.73	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00923685	Methylocystis	186.14	2.12	Rhodanese-related sulfurtransferase
+PGF_00925844	Methylocystis	340.00	4.58	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Methylocystis	592.29	1.50	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00937511	Methylocystis	369.86	0.38	Prephenate dehydratase-associated ABC transporter, permease protein 1
+PGF_00943546	Methylocystis	266.00	4.28	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00950554	Methylocystis	857.00	11.78	Excinuclease ABC subunit B
+PGF_00983050	Methylocystis	398.57	25.38	Pyridoxal 5-phosphate (PLP)-dependent ornithine decarboxylase (EC 4.1.1.17)
+PGF_00983926	Methylocystis	128.57	5.59	Ribosome-binding factor A
+PGF_00993977	Methylocystis	293.29	4.57	Short-chain dehydrogenase/reductase SDR?
+PGF_01008498	Methylocystis	141.29	7.18	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01032840	Methylocystis	544.43	4.65	Prephenate dehydratase-associated ABC transporter, ATP-binding protein / Prephenate dehydratase-associated ABC transporter, ATP-binding protein
+PGF_01062603	Methylocystis	323.43	0.53	Malyl-CoA lyase (EC 4.1.3.24)
+PGF_01065911	Methylocystis	239.29	9.09	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01075854	Methylocystis	265.00	18.20	FIG056164: rhomboid family serine protease
+PGF_01084030	Methylocystis	817.86	28.92	Outer membrane protein assembly factor YaeT
+PGF_01092098	Methylocystis	170.00	6.66	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01102972	Methylocystis	385.57	1.99	Acetylornithine deacetylase (EC 3.5.1.16)
+PGF_01104399	Methylocystis	264.00	10.60	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Methylocystis	419.86	11.47	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01171915	Methylocystis	298.86	5.05	HAD superfamily protein involved in N-acetyl-glucosamine catabolism
+PGF_01172485	Methylocystis	432.43	5.13	Cell division protein FtsA
+PGF_01173493	Methylocystis	417.29	8.77	D-amino acid dehydrogenase (EC 1.4.99.6)
+PGF_01174739	Methylocystis	268.71	14.63	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Methylocystis	646.43	3.41	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01196008	Methylocystis	231.43	2.30	Tim44-like domain protein
+PGF_01232770	Methylocystis	161.14	3.93	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01284176	Methylocystis	142.29	8.69	Rubrerythrin
+PGF_01291803	Methylocystis	341.57	4.43	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Methylocystis	267.43	8.20	Chromosome (plasmid) partitioning protein ParA
+PGF_01323228	Methylocystis	199.00	4.58	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Methylocystis	229.29	6.82	Molybdenum ABC transporter permease protein ModB
+PGF_01351158	Methylocystis	1182.43	7.55	Transcription-repair coupling factor
+PGF_01364427	Methylocystis	204.00	1.53	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01393943	Methylocystis	254.86	2.19	Pyrroloquinoline-quinone synthase (EC 1.3.3.11)
+PGF_01404160	Methylocystis	343.29	0.49	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01405081	Methylocystis	370.14	4.26	Heat shock protein HtpX
+PGF_01421534	Methylocystis	216.14	7.03	LSU ribosomal protein L25p
+PGF_01423501	Methylocystis	156.14	2.91	Transcription elongation factor GreA
+PGF_01427545	Methylocystis	298.71	108.04	Aquaporin Z
+PGF_01444546	Methylocystis	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01446257	Methylocystis	264.43	2.99	Hydroxymethylpyrimidine ABC transporter, transmembrane component
+PGF_01454630	Methylocystis	1028.86	4.63	RND multidrug efflux transporter; Acriflavin resistance protein
+PGF_01466742	Methylocystis	361.57	6.35	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01483918	Methylocystis	300.57	29.74	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01514111	Methylocystis	347.00	3.61	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01551520	Methylocystis	125.57	3.69	Histone-like bacterial DNA-binding protein
+PGF_01553314	Methylocystis	459.86	2.04	Sensor histidine kinase
+PGF_01555249	Methylocystis	264.57	8.00	Enoyl-CoA hydratase (EC 4.2.1.17) => degradation of branched-chain amino acids and alpha-keto acids
+PGF_01599021	Methylocystis	199.71	18.57	Peptide deformylase (EC 3.5.1.88)
+PGF_01614738	Methylocystis	79.43	8.64	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Methylocystis	320.71	3.50	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01668012	Methylocystis	265.00	11.93	Sulfur carrier protein FdhD
+PGF_01668974	Methylocystis	755.29	5.65	DNA internalization-related competence protein ComEC/Rec2
+PGF_01670799	Methylocystis	201.57	3.26	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01674551	Methylocystis	123.57	1.62	Glycine cleavage system H protein
+PGF_01682834	Methylocystis	258.43	5.86	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Methylocystis	193.86	1.07	Adenylate kinase (EC 2.7.4.3)
+PGF_01739753	Methylocystis	252.00	11.83	Zinc metalloprotease
+PGF_01777142	Methylocystis	203.29	8.69	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01797166	Methylocystis	367.57	3.41	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01842781	Methylocystis	592.86	97.51	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Methylocystis	281.43	2.23	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Methylocystis	370.00	18.57	Heat-inducible transcription repressor HrcA
+PGF_01888177	Methylocystis	154.00	0.58	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Methylocystis	229.86	3.93	Endonuclease III (EC 4.2.99.18)
+PGF_01900676	Methylocystis	282.86	7.01	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01900746	Methylocystis	450.71	11.35	Murein hydrolase activator EnvC
+PGF_01912476	Methylocystis	279.14	8.15	Phytoene synthase (EC 2.5.1.32)
+PGF_01913335	Methylocystis	211.29	5.02	5-(aminomethyl)-3-furanmethanol phosphate kinase
+PGF_01960322	Methylocystis	613.43	5.29	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01975680	Methylocystis	124.86	8.88	Polar-differentiation response regulator DivK
+PGF_01980840	Methylocystis	412.71	7.34	putative lipoprotein
+PGF_01981185	Methylocystis	321.71	23.41	Integral membrane protein
+PGF_01994657	Methylocystis	448.14	5.08	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Methylocystis	260.57	6.40	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Methylocystis	360.71	3.68	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Methylocystis	339.71	7.43	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Methylocystis	354.00	0.82	GTP-binding protein Obg
+PGF_02059020	Methylocystis	564.57	24.91	Energy-dependent translational throttle protein EttA
+PGF_02061452	Methylocystis	375.57	1.81	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02075241	Methylocystis	670.43	8.52	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02111888	Methylocystis	321.14	2.73	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Methylocystis	686.29	0.49	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02169237	Methylocystis	240.14	3.72	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02189378	Methylocystis	397.00	0.00	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02210193	Methylocystis	135.00	8.39	Cytochrome c2
+PGF_02211177	Methylocystis	257.29	2.75	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02224568	Methylocystis	390.86	16.09	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Methylocystis	700.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02289999	Methylocystis	424.57	5.62	Precorrin-3B synthase
+PGF_02295498	Methylocystis	108.29	15.38	Ferredoxin, 2Fe-2S
+PGF_02316530	Methylocystis	274.57	8.18	hypothetical protein
+PGF_02316534	Methylocystis	243.14	5.61	hypothetical protein
+PGF_02316542	Methylocystis	573.57	146.93	hypothetical protein
+PGF_02316551	Methylocystis	170.43	32.57	hypothetical protein
+PGF_02316565	Methylocystis	145.86	10.56	hypothetical protein
+PGF_02316594	Methylocystis	224.14	4.71	hypothetical protein
+PGF_02316616	Methylocystis	183.00	27.51	hypothetical protein
+PGF_02316780	Methylocystis	156.71	17.48	hypothetical protein
+PGF_02323834	Methylocystis	311.14	8.88	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02324055	Methylocystis	265.43	7.89	Sulfur oxidation protein SoxY / Sulfur oxidation protein SoxZ
+PGF_02325838	Methylocystis	547.57	6.05	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02329487	Methylocystis	347.57	6.48	4-[[4-(2-aminoethyl)phenoxy]-methyl]-2-furanmethanamine-glutamate synthase
+PGF_02332970	Methylocystis	200.29	3.15	Probable NADH dehydrogenase/NAD(P)H nitroreductase
+PGF_02346669	Methylocystis	314.43	0.79	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Methylocystis	885.14	14.40	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Methylocystis	372.71	17.15	Alanine racemase (EC 5.1.1.1)
+PGF_02366077	Methylocystis	350.86	27.22	NAD-dependent epimerase/dehydratase
+PGF_02405545	Methylocystis	324.71	51.26	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02420191	Methylocystis	498.86	11.52	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02432027	Methylocystis	506.71	23.86	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02450432	Methylocystis	282.43	12.05	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Methylocystis	98.71	8.18	SSU ribosomal protein S20p
+PGF_02463284	Methylocystis	201.00	0.00	Recombination protein RecR
+PGF_02473279	Methylocystis	275.14	15.32	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02515882	Methylocystis	406.86	2.61	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Methylocystis	427.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02517984	Methylocystis	77.71	5.56	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02578186	Methylocystis	384.00	40.09	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02601905	Methylocystis	214.86	15.43	Transcriptional regulator PA2737, MerR family
+PGF_02623406	Methylocystis	323.86	5.79	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Methylocystis	1264.71	364.43	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Methylocystis	126.43	15.69	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Methylocystis	893.86	7.97	DNA mismatch repair protein MutS
+PGF_02738107	Methylocystis	334.29	4.50	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02776739	Methylocystis	129.71	3.15	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Methylocystis	298.57	4.54	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Methylocystis	174.14	3.02	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Methylocystis	248.14	19.13	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Methylocystis	476.00	22.49	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Methylocystis	1375.43	8.70	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Methylocystis	511.00	2.24	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02805694	Methylocystis	164.00	7.64	MutT/Nudix family protein
+PGF_02817932	Methylocystis	397.71	20.67	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02827614	Methylocystis	127.29	6.55	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02844091	Methylocystis	267.86	6.31	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Methylocystis	414.29	3.68	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866109	Methylocystis	222.43	1.62	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02866666	Methylocystis	852.86	7.65	ABC transporter, fused permease protein
+PGF_02883702	Methylocystis	372.43	8.64	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02883852	Methylocystis	145.43	12.01	UPF0047 protein YjbQ
+PGF_02893929	Methylocystis	276.71	13.70	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02896943	Methylocystis	248.86	5.40	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_02897543	Methylocystis	184.57	0.98	Phospholipid-binding protein
+PGF_02898096	Methylocystis	476.00	6.86	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Methylocystis	69.86	0.90	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Methylocystis	282.14	20.04	Outer membrane lipoprotein carrier protein LolA
+PGF_02904832	Methylocystis	320.14	2.27	Homoserine kinase (EC 2.7.1.39)
+PGF_02911364	Methylocystis	306.86	2.27	HflC protein
+PGF_02912272	Methylocystis	162.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02919689	Methylocystis	279.14	2.85	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Methylocystis	241.86	0.38	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Methylocystis	356.71	13.34	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Methylocystis	301.71	12.47	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02942351	Methylocystis	231.14	3.58	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Methylocystis	580.29	2.36	SSU ribosomal protein S1p
+PGF_02953390	Methylocystis	448.71	3.82	Fe-S oxidoreductase-like protein in Rubrerythrin cluster
+PGF_02959749	Methylocystis	399.57	18.55	Ribonuclease D (EC 3.1.26.3)
+PGF_02970815	Methylocystis	288.57	1.13	hypothetical protein
+PGF_02976396	Methylocystis	356.43	5.71	3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4)
+PGF_02977258	Methylocystis	115.14	4.49	RidA/YER057c/UK114 superfamily, group 2, YoaB-like protein
+PGF_02977870	Methylocystis	285.57	8.70	hypothetical protein
+PGF_02980852	Methylocystis	309.71	5.44	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02992100	Methylocystis	243.57	2.51	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Methylocystis	240.43	80.68	Protein translocase membrane subunit SecG
+PGF_02997723	Methylocystis	162.29	0.49	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03000070	Methylocystis	352.29	11.03	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03006190	Methylocystis	426.00	10.10	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03017533	Methylocystis	321.29	6.10	hypothetical protein
+PGF_03026450	Methylocystis	1050.86	277.51	Chromosome partition protein smc
+PGF_03029859	Methylocystis	584.86	21.92	Bis-ABC ATPase Uup
+PGF_03035890	Methylocystis	563.71	18.35	Methylsuccinyl-CoA dehydrogenase, predicted by (Erb et al, 2007)
+PGF_03041139	Methylocystis	235.86	10.61	Pyridoxal-5'-phosphate phosphatase (EC 3.1.3.74), Alphaproteobacterial type
+PGF_03045457	Methylocystis	344.71	1.70	hypothetical protein
+PGF_03052295	Methylocystis	557.14	54.01	protein of unknown function DUF882
+PGF_03054699	Methylocystis	833.14	8.53	DNA translocase FtsK
+PGF_03057384	Methylocystis	359.43	13.19	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03061079	Methylocystis	188.57	9.00	hypothetical protein
+PGF_03062230	Methylocystis	154.29	0.95	16 kDa heat shock protein A
+PGF_03072132	Methylocystis	275.29	61.68	CarD-like transcriptional regulator
+PGF_03074362	Methylocystis	388.71	0.49	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03081665	Methylocystis	97.43	1.90	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03089196	Methylocystis	547.29	16.40	Bis-ABC ATPase SMa0036
+PGF_03094694	Methylocystis	463.14	1.57	Peptidase B (EC 3.4.11.23)
+PGF_03097569	Methylocystis	594.86	6.79	FIG140336: TPR domain protein
+PGF_03098759	Methylocystis	281.29	1.60	Electron transfer flavoprotein, beta subunit FixA
+PGF_03111948	Methylocystis	266.57	21.96	Electron transfer flavoprotein, beta subunit
+PGF_03116802	Methylocystis	294.29	19.14	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03124650	Methylocystis	496.43	1.62	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Methylocystis	436.43	7.98	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03134445	Methylocystis	366.57	1.62	Electron transfer flavoprotein, alpha subunit FixB
+PGF_03136394	Methylocystis	435.00	0.00	Electron transfer flavoprotein-quinone oxidoreductase FixC
+PGF_03140041	Methylocystis	143.00	0.00	CBS domain protein
+PGF_03144011	Methylocystis	162.57	9.61	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03145455	Methylocystis	478.57	12.26	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03146406	Methylocystis	610.00	0.58	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Methylocystis	275.14	3.48	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Methylocystis	176.00	0.00	Transcription antitermination protein NusG
+PGF_03196071	Methylocystis	142.29	8.98	Transcriptional regulator, MucR family
+PGF_03202052	Methylocystis	313.71	11.77	hypothetical protein
+PGF_03202871	Methylocystis	230.00	15.87	Hydrolase SMc00528, alpha/beta fold family
+PGF_03203461	Methylocystis	634.57	9.78	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03222913	Methylocystis	132.14	1.46	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03253896	Methylocystis	247.71	0.49	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Methylocystis	244.57	15.75	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Methylocystis	910.57	4.65	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Methylocystis	100.14	7.93	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03340305	Methylocystis	159.29	1.25	RidA/YER057c/UK114 superfamily, group 1
+PGF_03369967	Methylocystis	391.00	5.29	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03400333	Methylocystis	341.00	22.72	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03429638	Methylocystis	311.29	10.59	33 kDa chaperonin HslO
+PGF_03439827	Methylocystis	459.29	19.16	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03456505	Methylocystis	315.43	4.69	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03514188	Methylocystis	457.14	1.86	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Methylocystis	140.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Methylocystis	567.71	25.45	Cell division protein FtsZ
+PGF_03543348	Methylocystis	476.14	11.22	Aminotransferase HpnO, required for aminobacteriohopanetriol
+PGF_03593265	Methylocystis	148.57	3.15	FIG018171: hypothetical protein of Cupin superfamily
+PGF_03609651	Methylocystis	515.29	5.31	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03642389	Methylocystis	334.29	7.32	putative membrane protein
+PGF_03683953	Methylocystis	527.57	205.59	Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)
+PGF_03719269	Methylocystis	199.86	3.89	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03729141	Methylocystis	222.57	18.04	UPF0301 protein YqgE
+PGF_03750571	Methylocystis	501.29	27.95	Chromosomal replication initiator protein DnaA
+PGF_03752544	Methylocystis	238.43	2.37	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Methylocystis	329.14	3.93	Site-specific tyrosine recombinase XerC
+PGF_03757137	Methylocystis	462.57	4.69	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Methylocystis	352.00	4.16	Signal recognition particle receptor FtsY
+PGF_03783620	Methylocystis	178.86	6.72	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Methylocystis	235.29	4.11	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Methylocystis	249.14	64.47	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03862500	Methylocystis	215.86	0.38	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03960810	Methylocystis	298.29	13.67	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03991729	Methylocystis	397.57	1.13	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04000946	Methylocystis	334.14	3.98	MxaC, protein involved in Ca2+ insertion into methanol dehydrogenase
+PGF_04005838	Methylocystis	422.14	1.35	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04006867	Methylocystis	313.00	0.00	Hydroxypyruvate reductase (EC 1.1.1.81)
+PGF_04007946	Methylocystis	237.86	9.37	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Methylocystis	158.71	15.23	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Methylocystis	454.29	22.19	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04041316	Methylocystis	975.00	92.61	Excinuclease ABC subunit A
+PGF_04047265	Methylocystis	78.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04108824	Methylocystis	592.86	3.80	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04126481	Methylocystis	666.86	28.32	Squalene---hopene cyclase (EC 5.4.99.17) @ Squalene---hopanol cyclase (EC 4.2.1.129)
+PGF_04127376	Methylocystis	262.57	1.62	Twin-arginine translocation protein TatC
+PGF_04151476	Methylocystis	177.71	1.60	16S rRNA processing protein RimM
+PGF_04154333	Methylocystis	77.29	3.30	Twin-arginine translocation protein TatA
+PGF_04163139	Methylocystis	254.14	2.41	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Methylocystis	226.57	11.28	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04306800	Methylocystis	376.00	6.63	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04315180	Methylocystis	161.14	2.04	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04380075	Methylocystis	194.29	2.14	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04412082	Methylocystis	105.86	0.38	Thioredoxin
+PGF_04452754	Methylocystis	268.86	8.57	Precorrin-6A reductase (EC 1.3.1.54)
+PGF_04454639	Methylocystis	464.86	7.69	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04458212	Methylocystis	406.00	1.00	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04493258	Methylocystis	470.86	3.48	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Methylocystis	343.86	6.41	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Methylocystis	473.29	2.36	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Methylocystis	464.43	13.44	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04571944	Methylocystis	200.43	0.79	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Methylocystis	260.57	26.22	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04596496	Methylocystis	323.57	1.13	Quinone oxidoreductase (EC 1.6.5.5)
+PGF_04608820	Methylocystis	749.57	3.51	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04630848	Methylocystis	145.14	0.38	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Methylocystis	96.14	3.63	DNA-binding protein HU-beta
+PGF_04660832	Methylocystis	168.57	5.00	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Methylocystis	812.14	2.73	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04752158	Methylocystis	449.86	7.99	Sensor histidine kinase PrrB (RegB) (EC 2.7.3.-)
+PGF_04757308	Methylocystis	678.14	3.53	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Methylocystis	201.14	0.38	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Methylocystis	268.43	7.37	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04845029	Methylocystis	136.86	24.33	LSU ribosomal protein L19p
+PGF_04882920	Methylocystis	232.29	2.63	Fumarylacetoacetate hydrolase family protein
+PGF_04950062	Methylocystis	683.00	25.60	Elongation factor G-like protein RSP_2247
+PGF_04962192	Methylocystis	770.29	17.75	3'-to-5' exoribonuclease RNase R
+PGF_04965976	Methylocystis	350.29	1.25	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Methylocystis	128.14	0.38	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Methylocystis	112.14	17.54	LSU ribosomal protein L21p
+PGF_05010556	Methylocystis	402.43	34.16	Hopene-associated glycosyltransferase HpnB
+PGF_05015473	Methylocystis	97.14	0.90	Ferredoxin-like protein FixX
+PGF_05111929	Methylocystis	601.29	4.86	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Methylocystis	989.71	9.79	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Methylocystis	877.00	4.43	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05144592	Methylocystis	286.71	12.63	Putative diheme cytochrome c-553
+PGF_05165078	Methylocystis	311.14	5.05	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Methylocystis	477.14	2.27	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Methylocystis	486.00	12.64	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05220334	Methylocystis	480.00	7.09	Succinate-semialdehyde dehydrogenase [NAD(P)+] (EC 1.2.1.16)
+PGF_05280843	Methylocystis	448.86	4.06	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Methylocystis	175.14	3.34	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Methylocystis	446.43	4.04	ATP-dependent RNA helicase RhlE
+PGF_05305024	Methylocystis	240.14	2.27	Acetoacetyl-CoA reductase (EC 1.1.1.36)
+PGF_05338234	Methylocystis	296.86	6.26	Protein YicC
+PGF_05421852	Methylocystis	664.29	29.45	Chaperone protein HtpG
+PGF_05444169	Methylocystis	291.71	1.89	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05463808	Methylocystis	263.14	6.28	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Methylocystis	597.43	7.87	DNA mismatch repair protein MutL
+PGF_05511466	Methylocystis	633.14	5.40	Prephenate dehydratase-associated ABC transporter, substrate-binding protein
+PGF_05519582	Methylocystis	399.00	65.77	NAD(FAD)-utilizing dehydrogenases
+PGF_05560886	Methylocystis	279.86	0.90	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05579323	Methylocystis	343.29	7.06	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Methylocystis	456.29	18.26	Protein translocase subunit SecY
+PGF_05582393	Methylocystis	388.29	2.87	Prephenate dehydratase-associated ABC transporter, permease protein 2
+PGF_05589579	Methylocystis	294.29	7.67	ABC-type amino acid transport/signal transduction system, periplasmic component/domain
+PGF_05631857	Methylocystis	821.43	2.37	AttF component of AttEFGH ABC transport system / AttG component of AttEFGH ABC transport system
+PGF_05646459	Methylocystis	202.43	8.87	Glutathione S-transferase family protein
+PGF_05657253	Methylocystis	241.00	4.51	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05681779	Methylocystis	203.86	15.50	Lysine decarboxylase family
+PGF_05693577	Methylocystis	100.14	5.49	Integration host factor beta subunit
+PGF_05712128	Methylocystis	596.57	7.96	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05769513	Methylocystis	435.86	3.80	Tol-Pal system beta propeller repeat protein TolB
+PGF_05886986	Methylocystis	489.29	7.39	Serine protease precursor MucD/AlgY associated with sigma factor RpoE
+PGF_05925776	Methylocystis	330.14	39.35	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Methylocystis	529.43	0.79	Protein translocase subunit SecD
+PGF_05971611	Methylocystis	413.43	8.20	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Methylocystis	671.29	0.49	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06051345	Methylocystis	1140.71	195.27	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06061522	Methylocystis	135.57	0.98	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06120144	Methylocystis	162.29	17.80	Ribosome association toxin RatA
+PGF_06162164	Methylocystis	477.29	1.25	Homospermidine synthase (EC 2.5.1.44)
+PGF_06162541	Methylocystis	323.29	3.45	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_06170558	Methylocystis	174.29	12.93	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Methylocystis	156.86	2.27	LSU ribosomal protein L13p (L13Ae)
+PGF_06211427	Methylocystis	294.29	5.28	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06213055	Methylocystis	261.57	0.98	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Methylocystis	512.71	13.20	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06285197	Methylocystis	418.71	8.52	Intracellular PHB depolymerase
+PGF_06296193	Methylocystis	316.29	4.42	N-formylglutamate deformylase (EC 3.5.1.68)
+PGF_06298671	Methylocystis	275.86	9.56	Efflux ABC transporter, permease protein
+PGF_06315406	Methylocystis	431.29	0.76	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06331579	Methylocystis	269.71	10.48	O-antigen export system permease protein RfbD
+PGF_06379377	Methylocystis	426.43	25.32	Replication-associated recombination protein RarA
+PGF_06403579	Methylocystis	816.43	18.50	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06426254	Methylocystis	322.00	2.89	beta-ribofuranosylaminobenzene 5'-phosphate synthase (EC 2.4.2.54)
+PGF_06447349	Methylocystis	768.00	16.01	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06451924	Methylocystis	336.57	9.90	Fructokinase (EC 2.7.1.4)
+PGF_06469881	Methylocystis	319.57	4.47	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06530721	Methylocystis	238.71	13.00	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06557782	Methylocystis	414.86	2.34	Squalene-associated FAD-dependent desaturase, HpnE
+PGF_06635957	Methylocystis	316.29	2.93	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06644010	Methylocystis	304.43	10.34	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06660812	Methylocystis	201.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06690276	Methylocystis	245.71	5.59	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Methylocystis	107.00	0.58	Nucleoid-associated protein YaaK
+PGF_06755829	Methylocystis	356.00	1.29	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06772993	Methylocystis	1000.00	6.98	Ribonuclease E (EC 3.1.26.12)
+PGF_07072294	Methylocystis	314.29	0.76	Electron transfer flavoprotein, alpha subunit
+PGF_07072582	Methylocystis	674.43	5.71	RNA polymerase sigma factor RpoD
+PGF_07547947	Methylocystis	205.71	4.68	hypothetical protein
+PGF_08027009	Methylocystis	635.00	1.00	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_08031619	Methylocystis	354.14	4.14	Signal transduction histidine kinase
+PGF_08039146	Methylocystis	270.43	0.98	Efflux ABC transporter, permease protein
+PGF_08097473	Methylocystis	242.57	11.69	hypothetical protein
+PGF_08121081	Methylocystis	539.43	10.34	putative membrane protein
+PGF_08142978	Methylocystis	404.71	27.41	Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)
+PGF_08153913	Methylocystis	257.71	0.49	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08177691	Methylocystis	148.71	5.35	Arsenate reductase (EC 1.20.4.1) glutaredoxin-coupled, LMWP family
+PGF_08183187	Methylocystis	386.71	5.12	Cell division protein FtsW
+PGF_08183715	Methylocystis	294.57	1.99	hypothetical protein

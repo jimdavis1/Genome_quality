@@ -1,0 +1,619 @@
+PGF_00000416	Brevibacterium	344.77	8.14	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000568	Brevibacterium	113.77	3.88	FIG00820327: hypothetical protein
+PGF_00001331	Brevibacterium	229.09	9.97	Endonuclease NucS
+PGF_00001419	Brevibacterium	257.14	6.69	FIG01028991: phosphatase
+PGF_00002592	Brevibacterium	250.32	19.19	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00003179	Brevibacterium	195.41	6.17	FIG049476: HIT family protein
+PGF_00003516	Brevibacterium	281.73	9.12	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00006046	Brevibacterium	386.23	64.08	Flp pilus assembly protein, ATPase CpaF
+PGF_00006100	Brevibacterium	390.09	21.73	tRNA-modifying protein YgfZ
+PGF_00006245	Brevibacterium	577.09	13.46	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006378	Brevibacterium	372.41	13.71	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006394	Brevibacterium	340.23	0.43	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Brevibacterium	467.05	0.21	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Brevibacterium	526.82	5.86	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Brevibacterium	351.13	45.35	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Brevibacterium	503.68	2.34	GTP-binding protein EngA
+PGF_00007027	Brevibacterium	313.05	7.25	GTP-binding protein Era
+PGF_00007028	Brevibacterium	525.55	42.36	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Brevibacterium	635.68	2.97	GTP-binding protein TypA/BipA
+PGF_00007162	Brevibacterium	453.86	1.46	Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
+PGF_00007304	Brevibacterium	300.82	24.99	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Brevibacterium	322.27	3.40	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Brevibacterium	546.73	34.41	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Brevibacterium	461.09	86.56	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Brevibacterium	382.64	4.96	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Brevibacterium	371.74	66.08	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Brevibacterium	281.00	70.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Brevibacterium	448.32	5.41	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008337	Brevibacterium	489.41	1.65	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008381	Brevibacterium	81.68	0.57	Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib
+PGF_00008537	Brevibacterium	500.36	9.29	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Brevibacterium	335.59	1.68	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Brevibacterium	984.45	10.72	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Brevibacterium	215.55	9.85	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Brevibacterium	199.82	19.23	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009966	Brevibacterium	458.64	1.56	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Brevibacterium	256.36	5.37	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Brevibacterium	186.18	4.16	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Brevibacterium	692.77	11.21	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Brevibacterium	326.41	2.75	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011979	Brevibacterium	438.14	6.98	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Brevibacterium	357.18	3.98	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Brevibacterium	305.86	5.29	Homoserine kinase (EC 2.7.1.39)
+PGF_00012430	Brevibacterium	146.77	5.81	HspR, transcriptional repressor of DnaK operon
+PGF_00013224	Brevibacterium	179.41	5.16	ADP-ribose pyrophosphatase
+PGF_00013341	Brevibacterium	363.73	11.17	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013492	Brevibacterium	183.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Brevibacterium	516.73	4.42	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Brevibacterium	198.73	3.99	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Brevibacterium	262.91	4.21	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Brevibacterium	317.68	4.10	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014306	Brevibacterium	161.41	0.50	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014314	Brevibacterium	381.41	9.83	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00014381	Brevibacterium	360.95	0.21	Inositol-1-phosphate synthase (EC 5.5.1.4)
+PGF_00014728	Brevibacterium	341.82	13.52	Integral membrane protein TerC
+PGF_00014855	Brevibacterium	283.59	4.78	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00015039	Brevibacterium	276.64	13.77	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Brevibacterium	75.32	1.25	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Brevibacterium	266.82	1.99	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Brevibacterium	308.23	2.02	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015467	Brevibacterium	225.64	2.97	Iron-dependent repressor IdeR/DtxR
+PGF_00015510	Brevibacterium	251.32	0.72	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Brevibacterium	477.64	1.62	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Brevibacterium	386.45	4.33	Iron-sulfur cluster assembly protein SufD
+PGF_00015543	Brevibacterium	240.05	3.09	Iron-sulfur cluster regulator SufR
+PGF_00015703	Brevibacterium	743.64	7.16	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Brevibacterium	1094.82	6.38	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Brevibacterium	342.86	0.35	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016074	Brevibacterium	417.45	14.72	L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC (EC 6.3.1.13)
+PGF_00016284	Brevibacterium	273.18	29.17	LOG family protein
+PGF_00016328	Brevibacterium	176.09	1.97	LSU ribosomal protein L10p (P0)
+PGF_00016338	Brevibacterium	411.36	66.29	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Brevibacterium	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Brevibacterium	143.78	24.87	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Brevibacterium	138.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Brevibacterium	181.09	8.85	LSU ribosomal protein L17p
+PGF_00016353	Brevibacterium	126.09	0.43	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Brevibacterium	230.73	0.70	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Brevibacterium	128.95	0.21	LSU ribosomal protein L20p
+PGF_00016361	Brevibacterium	98.27	4.77	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Brevibacterium	126.00	1.95	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Brevibacterium	99.55	0.60	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Brevibacterium	122.27	0.70	LSU ribosomal protein L24p (L26e)
+PGF_00016393	Brevibacterium	278.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Brevibacterium	60.41	0.50	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Brevibacterium	64.45	7.46	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Brevibacterium	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Brevibacterium	66.91	1.15	LSU ribosomal protein L35p
+PGF_00016424	Brevibacterium	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Brevibacterium	224.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Brevibacterium	217.05	2.73	LSU ribosomal protein L4p (L1e)
+PGF_00016444	Brevibacterium	178.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Brevibacterium	128.27	0.94	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Brevibacterium	151.77	1.07	LSU ribosomal protein L9p
+PGF_00016824	Brevibacterium	683.64	5.23	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+PGF_00016919	Brevibacterium	214.73	14.69	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017127	Brevibacterium	367.73	8.58	Lipoate-protein ligase A
+PGF_00017479	Brevibacterium	347.86	2.21	Lipoyl synthase (EC 2.8.1.8)
+PGF_00018560	Brevibacterium	426.83	12.71	Magnesium and cobalt efflux protein CorC
+PGF_00019279	Brevibacterium	370.55	4.79	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)
+PGF_00019307	Brevibacterium	423.36	18.84	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019471	Brevibacterium	547.91	10.13	Medium-chain-fatty-acid-CoA ligase
+PGF_00020361	Brevibacterium	160.14	1.96	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020611	Brevibacterium	644.27	57.45	Metallopeptidase
+PGF_00020984	Brevibacterium	294.73	2.93	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00022722	Brevibacterium	378.14	14.19	Mrp protein homolog
+PGF_00023283	Brevibacterium	147.45	6.66	Multimeric flavodoxin WrbA
+PGF_00023532	Brevibacterium	331.14	4.42	Mycothiol S-conjugate amidase Mca
+PGF_00023591	Brevibacterium	363.45	6.65	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Brevibacterium	367.95	16.28	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024232	Brevibacterium	375.91	4.09	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024273	Brevibacterium	211.45	114.37	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024308	Brevibacterium	279.18	8.10	NAD synthetase (EC 6.3.1.5)
+PGF_00024362	Brevibacterium	311.22	50.66	NAD(P)H steroid dehydrogenase-like protein in alkane synthesis cluster
+PGF_00024615	Brevibacterium	335.45	10.95	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024907	Brevibacterium	478.27	5.35	NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)
+PGF_00024983	Brevibacterium	655.05	19.03	NHL repeat containing protein
+PGF_00025090	Brevibacterium	599.39	93.68	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Brevibacterium	169.59	0.96	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025600	Brevibacterium	443.05	6.28	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025825	Brevibacterium	499.50	9.78	Acetyl-CoA hydrolase (EC 3.1.2.1)
+PGF_00026193	Brevibacterium	295.50	10.19	Non functional Dihydropteroate synthase 2
+PGF_00026289	Brevibacterium	500.41	0.50	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026300	Brevibacterium	276.82	6.09	Novel pyridoxal kinase, thiD family (EC 2.7.1.35)
+PGF_00026362	Brevibacterium	202.86	3.91	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Brevibacterium	209.86	48.02	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026615	Brevibacterium	321.64	14.28	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026797	Brevibacterium	379.14	13.66	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00029269	Brevibacterium	893.64	0.58	Aconitate hydratase (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_00029921	Brevibacterium	353.95	14.76	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Brevibacterium	358.32	4.09	Peptide chain release factor 1
+PGF_00031595	Brevibacterium	253.14	10.02	Petrobactin ABC transporter, ATP-binding protein
+PGF_00031597	Brevibacterium	328.59	2.13	Petrobactin ABC transporter, periplasmic binding protein
+PGF_00031598	Brevibacterium	334.55	20.60	Petrobactin ABC transporter, permease protein I
+PGF_00031600	Brevibacterium	382.45	19.66	Petrobactin ABC transporter, permease protein II
+PGF_00032889	Brevibacterium	381.41	2.20	Acyl-CoA dehydrogenase family protein
+PGF_00033095	Brevibacterium	851.14	8.76	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Brevibacterium	304.36	39.61	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033359	Brevibacterium	362.23	0.43	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033479	Brevibacterium	548.41	2.38	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Brevibacterium	405.73	0.63	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Brevibacterium	249.36	5.16	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033877	Brevibacterium	163.59	3.25	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033924	Brevibacterium	87.55	2.56	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033950	Brevibacterium	245.00	1.20	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Brevibacterium	376.09	12.18	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Brevibacterium	252.41	7.47	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Brevibacterium	789.95	11.79	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Brevibacterium	205.59	4.10	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033987	Brevibacterium	383.18	8.80	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Brevibacterium	740.00	3.73	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Brevibacterium	334.23	6.13	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035370	Brevibacterium	355.27	15.76	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035514	Brevibacterium	502.86	60.82	Adenylate cyclase (EC 4.6.1.1)
+PGF_00035721	Brevibacterium	476.59	1.18	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Brevibacterium	428.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00037286	Brevibacterium	301.09	2.18	Probable protease htpX homolog 1 (EC 3.4.24.-)
+PGF_00037523	Brevibacterium	1219.59	74.73	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037588	Brevibacterium	613.64	9.05	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037865	Brevibacterium	223.95	23.12	Proteasome subunit alpha (EC 3.4.25.1), bacterial
+PGF_00038579	Brevibacterium	104.95	0.21	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038649	Brevibacterium	732.35	96.89	Protein translocase subunit SecA paralog 1
+PGF_00038674	Brevibacterium	338.73	2.12	Protein translocase subunit SecF
+PGF_00038796	Brevibacterium	80.50	0.51	Protein translocase membrane subunit SecG
+PGF_00038969	Brevibacterium	513.00	7.10	Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'
+PGF_00038970	Brevibacterium	477.77	10.16	Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'
+PGF_00038986	Brevibacterium	272.74	20.16	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00040578	Brevibacterium	315.91	9.87	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00042294	Brevibacterium	557.23	15.98	Putative methyltransferase SCO3545
+PGF_00045788	Brevibacterium	298.27	5.03	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045833	Brevibacterium	224.77	10.31	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045991	Brevibacterium	505.50	9.85	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046192	Brevibacterium	222.55	22.15	RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+PGF_00047078	Brevibacterium	362.73	8.81	RecA protein
+PGF_00047092	Brevibacterium	269.14	4.68	RecB family exonuclease
+PGF_00048328	Brevibacterium	305.59	6.22	Rhodanese domain protein UPF0176, Actinobacterial subgroup
+PGF_00048480	Brevibacterium	230.09	14.52	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048482	Brevibacterium	222.36	1.29	Riboflavin transporter PnuX
+PGF_00048542	Brevibacterium	229.86	13.84	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Brevibacterium	238.09	17.98	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Brevibacterium	241.00	5.81	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Brevibacterium	158.50	11.98	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Brevibacterium	323.55	0.74	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Brevibacterium	269.64	17.16	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048917	Brevibacterium	221.36	2.34	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Brevibacterium	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Brevibacterium	342.00	22.73	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Brevibacterium	133.09	3.89	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Brevibacterium	150.05	9.33	Ribosome-binding factor A
+PGF_00048985	Brevibacterium	220.27	1.83	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Brevibacterium	398.23	3.34	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049827	Brevibacterium	296.59	15.06	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Brevibacterium	106.36	5.91	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Brevibacterium	132.64	2.52	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Brevibacterium	124.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Brevibacterium	124.50	11.73	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Brevibacterium	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Brevibacterium	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Brevibacterium	144.73	5.32	SSU ribosomal protein S16p
+PGF_00049854	Brevibacterium	93.41	2.24	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Brevibacterium	79.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Brevibacterium	89.55	11.18	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Brevibacterium	269.41	2.72	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Brevibacterium	207.32	15.82	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Brevibacterium	212.00	28.59	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Brevibacterium	95.00	4.69	SSU ribosomal protein S6p
+PGF_00049904	Brevibacterium	156.09	0.29	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Brevibacterium	128.36	9.11	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Brevibacterium	167.77	1.90	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Brevibacterium	259.64	28.29	Segregation and condensation protein A
+PGF_00050995	Brevibacterium	496.00	10.74	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Brevibacterium	428.09	7.31	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Brevibacterium	533.32	5.17	Signal recognition particle protein Ffh
+PGF_00052565	Brevibacterium	283.59	1.97	Similar to citrate lyase beta chain, 3
+PGF_00052705	Brevibacterium	144.91	0.43	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Brevibacterium	310.86	9.13	Site-specific tyrosine recombinase XerD
+PGF_00053770	Brevibacterium	404.55	16.84	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053952	Brevibacterium	130.77	26.43	Sporulation regulatory protein WhiB
+PGF_00054343	Brevibacterium	215.68	11.66	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054461	Brevibacterium	123.14	5.10	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_00054477	Brevibacterium	148.91	0.92	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Brevibacterium	263.41	1.44	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054511	Brevibacterium	367.23	10.25	Succinoglycan biosynthesis protein ExoA
+PGF_00054528	Brevibacterium	388.95	0.21	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054541	Brevibacterium	220.61	2.04	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00055100	Brevibacterium	154.68	8.24	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055295	Brevibacterium	257.77	9.51	Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00056634	Brevibacterium	165.36	0.73	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056662	Brevibacterium	367.23	7.04	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Brevibacterium	515.09	5.71	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Brevibacterium	914.68	44.18	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057270	Brevibacterium	896.73	21.86	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057381	Brevibacterium	259.82	2.28	Trans,polycis-decaprenyl diphosphate synthase (EC 2.5.1.86)
+PGF_00057399	Brevibacterium	366.86	6.33	Transaldolase (EC 2.2.1.2)
+PGF_00057483	Brevibacterium	654.41	26.05	Transcription termination factor Rho
+PGF_00057485	Brevibacterium	319.50	0.51	Transcription termination protein NusA
+PGF_00059672	Brevibacterium	259.18	9.90	(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)
+PGF_00060398	Brevibacterium	694.64	10.28	Transketolase (EC 2.2.1.1)
+PGF_00060409	Brevibacterium	701.00	0.00	Translation elongation factor G
+PGF_00060414	Brevibacterium	621.45	3.66	Translation elongation factor LepA
+PGF_00060421	Brevibacterium	189.86	7.35	Translation elongation factor P
+PGF_00060427	Brevibacterium	275.00	0.00	Translation elongation factor Ts
+PGF_00060428	Brevibacterium	395.77	5.76	Translation elongation factor Tu
+PGF_00060431	Brevibacterium	73.00	0.00	Translation initiation factor 1
+PGF_00060478	Brevibacterium	210.36	13.05	Translation initiation factor 3
+PGF_00062023	Brevibacterium	261.00	2.33	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Brevibacterium	405.00	3.66	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063916	Brevibacterium	429.05	2.08	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Brevibacterium	362.73	7.52	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Brevibacterium	376.86	10.30	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Brevibacterium	467.23	8.49	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064272	Brevibacterium	257.41	8.63	UPF0246 protein YaaA
+PGF_00064359	Brevibacterium	177.05	5.51	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064393	Brevibacterium	302.91	3.91	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064454	Brevibacterium	258.68	4.11	Ubiquinol-cytochrome C reductase, diheme cytochrome cc subunit
+PGF_00064786	Brevibacterium	370.23	10.88	Arogenate dehydrogenase (EC 1.3.1.43)
+PGF_00065286	Brevibacterium	202.41	11.49	Uncharacterized protein Q1 colocalized with Q
+PGF_00065911	Brevibacterium	252.95	15.27	Undecaprenyl-phosphate mannosyltransferase (EC 2.4.1.54)
+PGF_00066123	Brevibacterium	215.23	7.60	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Brevibacterium	182.77	4.31	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Brevibacterium	231.91	8.75	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Brevibacterium	202.05	3.30	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066270	Brevibacterium	357.86	51.63	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066286	Brevibacterium	533.68	2.28	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Brevibacterium	881.73	5.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066839	Brevibacterium	82.45	2.13	WhiB-like transcription regulator
+PGF_00066867	Brevibacterium	502.82	7.93	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Brevibacterium	326.18	1.79	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066964	Brevibacterium	488.00	11.68	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Brevibacterium	347.14	4.76	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067277	Brevibacterium	413.18	11.81	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067466	Brevibacterium	593.36	1.43	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Brevibacterium	492.14	0.99	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068886	Brevibacterium	308.26	1.01	Auxin efflux carrier family protein
+PGF_00070432	Brevibacterium	430.77	4.00	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00071194	Brevibacterium	464.95	5.85	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071558	Brevibacterium	548.27	10.77	Bacterial proteasome-activating AAA-ATPase (PAN)
+PGF_00076923	Brevibacterium	149.36	1.33	(3R)-hydroxyacyl-ACP dehydratase subunit HadA
+PGF_00084324	Brevibacterium	279.00	2.05	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00111664	Brevibacterium	324.95	21.72	hypothetical protein
+PGF_00152186	Brevibacterium	150.95	2.90	hypothetical protein
+PGF_00209388	Brevibacterium	357.86	4.79	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_00217849	Brevibacterium	271.30	7.04	Uncharacterized UPF0721 integral membrane protein
+PGF_00261173	Brevibacterium	391.82	8.20	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00294865	Brevibacterium	611.45	47.13	Two component system sensor histidine kinase MtrB
+PGF_00336478	Brevibacterium	201.27	12.65	Two-component transcriptional response regulator PdtaR, LuxR family
+PGF_00392865	Brevibacterium	678.00	42.03	hypothetical protein
+PGF_00393545	Brevibacterium	346.09	15.64	Uncharacterized sodium-dependent transporter YocS
+PGF_00403272	Brevibacterium	498.00	0.00	2-methylcitrate dehydratase (EC 4.2.1.79)
+PGF_00403434	Brevibacterium	372.95	0.21	2-methylcitrate synthase (EC 2.3.3.5)
+PGF_00404271	Brevibacterium	597.95	5.46	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00405677	Brevibacterium	527.86	2.83	putative ATP-binding membrane protein
+PGF_00407331	Brevibacterium	260.23	5.15	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_00409279	Brevibacterium	271.68	3.71	putative membrane protein
+PGF_00413192	Brevibacterium	346.09	9.69	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413203	Brevibacterium	154.64	0.66	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Brevibacterium	266.50	15.88	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Brevibacterium	292.73	22.16	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Brevibacterium	312.14	14.03	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Brevibacterium	152.68	11.99	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Brevibacterium	158.82	3.39	tmRNA-binding protein SmpB
+PGF_00414366	Brevibacterium	610.18	30.38	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414926	Brevibacterium	501.09	7.59	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415308	Brevibacterium	285.27	20.52	23S rRNA (cytidine(1920)-2'-O)-methyltransferase (EC 2.1.1.226) @ 16S rRNA (cytidine(1409)-2'-O)-methyltransferase (EC 2.1.1.227)
+PGF_00415545	Brevibacterium	411.68	26.29	23S rRNA (uracil(747)-C(5))-methyltransferase (EC 2.1.1.189)
+PGF_00416115	Brevibacterium	301.91	4.58	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416410	Brevibacterium	1090.45	0.60	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416525	Brevibacterium	214.14	8.76	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416576	Brevibacterium	210.41	15.44	3'-to-5' oligoribonuclease (orn)
+PGF_00416847	Brevibacterium	540.09	11.05	Ccs1/ResB-related putative cytochrome C-type biogenesis protein
+PGF_00417658	Brevibacterium	370.23	4.34	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Brevibacterium	396.18	3.11	Chorismate synthase (EC 4.2.3.5)
+PGF_00419420	Brevibacterium	486.95	17.45	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419621	Brevibacterium	236.77	3.05	Coproheme decarboxylase HemQ (no EC)
+PGF_00419702	Brevibacterium	198.91	0.97	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00420075	Brevibacterium	308.27	0.55	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Brevibacterium	219.77	1.48	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420572	Brevibacterium	523.26	6.48	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420609	Brevibacterium	330.41	13.42	3-oxoacyl-[ACP] synthase III in alkane synthesis cluster
+PGF_00420731	Brevibacterium	496.09	5.18	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420798	Brevibacterium	369.86	1.75	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420975	Brevibacterium	453.18	54.57	D-inositol-3-phosphate glycosyltransferase (EC 2.4.1.250)
+PGF_00421098	Brevibacterium	594.65	17.19	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421498	Brevibacterium	363.74	69.17	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Brevibacterium	672.23	25.85	DNA primase (EC 2.7.7.-)
+PGF_00421733	Brevibacterium	387.45	12.76	DNA recombination and repair protein RecF
+PGF_00421775	Brevibacterium	558.82	17.05	DNA repair helicase
+PGF_00421792	Brevibacterium	449.55	8.94	DNA repair protein RadA
+PGF_00421796	Brevibacterium	568.86	4.38	DNA repair protein RecN
+PGF_00422271	Brevibacterium	331.23	1.07	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422545	Brevibacterium	310.95	0.95	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422922	Brevibacterium	197.73	9.47	Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)
+PGF_00422959	Brevibacterium	157.32	6.77	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Brevibacterium	360.05	11.21	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Brevibacterium	314.55	12.78	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Brevibacterium	469.77	17.43	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423351	Brevibacterium	1243.36	10.39	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) / 2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) @ 2-oxoglutarate decarboxylase (EC 4.1.1.71) @ 2-hydroxy-3-oxoadipate synthase (EC 2.2.1.5)
+PGF_00423378	Brevibacterium	435.91	1.87	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Brevibacterium	549.09	15.26	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423472	Brevibacterium	664.87	35.61	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Brevibacterium	310.82	10.57	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423604	Brevibacterium	805.00	72.39	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+PGF_00423915	Brevibacterium	497.36	15.64	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_00424569	Brevibacterium	252.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Brevibacterium	620.14	4.39	Excinuclease ABC subunit C
+PGF_00425024	Brevibacterium	441.05	11.02	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Brevibacterium	234.74	42.82	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Brevibacterium	294.32	3.73	RNase adapter protein RapZ
+PGF_00425679	Brevibacterium	212.73	9.26	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Brevibacterium	250.64	0.73	Probable transcriptional regulatory protein YebC
+PGF_00425685	Brevibacterium	327.14	10.94	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425806	Brevibacterium	335.23	5.51	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Brevibacterium	409.95	20.10	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Brevibacterium	377.86	2.05	FIG004453: protein YceG like
+PGF_00426115	Brevibacterium	643.55	3.71	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Brevibacterium	387.09	5.97	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426726	Brevibacterium	901.73	7.17	FIG005666: putative helicase
+PGF_00426932	Brevibacterium	158.27	5.32	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Brevibacterium	316.91	11.12	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447508	Brevibacterium	542.57	4.87	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Brevibacterium	453.82	7.25	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00510935	Brevibacterium	94.55	0.60	DNA-binding protein HU
+PGF_00518942	Brevibacterium	225.55	2.06	Two component system response regulator MtrA
+PGF_00538878	Brevibacterium	306.41	56.75	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00618776	Brevibacterium	431.82	14.74	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00623585	Brevibacterium	317.55	13.44	FIG007481: hypothetical protein
+PGF_00659194	Brevibacterium	199.05	13.31	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00663914	Brevibacterium	208.95	3.61	Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)
+PGF_00665875	Brevibacterium	129.55	5.75	Ribosomal silencing factor RsfA
+PGF_00694978	Brevibacterium	323.05	25.62	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00717495	Brevibacterium	426.77	0.81	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Brevibacterium	324.52	36.54	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00734482	Brevibacterium	941.32	23.24	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735685	Brevibacterium	994.09	76.51	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_00827555	Brevibacterium	1085.41	142.69	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Brevibacterium	299.14	0.94	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00864597	Brevibacterium	514.05	30.68	putative cellulose-binding protein
+PGF_00907900	Brevibacterium	223.73	4.97	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_00912265	Brevibacterium	393.41	9.12	tRNA-dihydrouridine synthase DusB
+PGF_00950554	Brevibacterium	712.68	8.04	Excinuclease ABC subunit B
+PGF_00994110	Brevibacterium	475.23	14.18	Niacin transporter NiaP
+PGF_01011517	Brevibacterium	310.64	10.85	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01020452	Brevibacterium	199.41	1.97	hypothetical protein
+PGF_01020601	Brevibacterium	694.09	74.68	Cell envelope-related transcriptional attenuator
+PGF_01023089	Brevibacterium	131.05	2.28	hypothetical protein
+PGF_01023209	Brevibacterium	270.50	12.09	hypothetical protein
+PGF_01023246	Brevibacterium	293.32	8.58	hypothetical protein
+PGF_01023300	Brevibacterium	177.59	7.52	hypothetical protein
+PGF_01023404	Brevibacterium	185.45	0.51	hypothetical protein
+PGF_01025108	Brevibacterium	397.00	40.57	hypothetical protein
+PGF_01062357	Brevibacterium	252.82	13.54	Lipoate-protein ligase A
+PGF_01075683	Brevibacterium	139.36	10.45	Hemoglobin-like protein HbO
+PGF_01079016	Brevibacterium	511.32	125.47	Chromosome (plasmid) partitioning protein ParB
+PGF_01085477	Brevibacterium	80.18	17.05	hypothetical protein
+PGF_01086688	Brevibacterium	462.59	19.12	Uncharacterized MFS-type transporter
+PGF_01095191	Brevibacterium	301.00	0.00	Methylisocitrate lyase (EC 4.1.3.30)
+PGF_01156397	Brevibacterium	440.77	38.33	N-acylneuraminate cytidylyltransferase (EC 2.7.7.43)
+PGF_01174739	Brevibacterium	313.77	3.32	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Brevibacterium	667.05	2.54	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01206877	Brevibacterium	244.14	6.03	Two-component transcriptional response regulator, LuxR family
+PGF_01223569	Brevibacterium	183.86	1.28	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01291803	Brevibacterium	308.45	1.44	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Brevibacterium	298.55	0.74	Chromosome (plasmid) partitioning protein ParA
+PGF_01351158	Brevibacterium	1191.91	8.20	Transcription-repair coupling factor
+PGF_01364427	Brevibacterium	198.95	2.54	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01368025	Brevibacterium	365.23	7.37	Formaldehyde dehydrogenase MscR, NAD/mycothiol-dependent (EC 1.2.1.66) / S-nitrosomycothiol reductase MscR
+PGF_01420802	Brevibacterium	142.64	1.33	Cell division protein MraZ
+PGF_01423501	Brevibacterium	163.55	0.51	Transcription elongation factor GreA
+PGF_01444546	Brevibacterium	139.18	178.64	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01466742	Brevibacterium	433.91	34.37	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01555249	Brevibacterium	251.32	35.29	Enoyl-CoA hydratase (EC 4.2.1.17) => degradation of branched-chain amino acids and alpha-keto acids
+PGF_01604929	Brevibacterium	214.04	37.22	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01614738	Brevibacterium	84.50	0.51	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01670799	Brevibacterium	209.68	11.50	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01677191	Brevibacterium	327.09	0.43	Sporulation transcription regulator WhiA
+PGF_01682537	Brevibacterium	163.18	15.35	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01683258	Brevibacterium	241.82	5.77	DNA recombination and repair protein RecO
+PGF_01734516	Brevibacterium	259.41	92.29	FHA-domain-containing protein
+PGF_01734668	Brevibacterium	188.45	0.60	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Brevibacterium	281.68	5.53	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01777142	Brevibacterium	198.09	5.33	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01853493	Brevibacterium	284.68	7.86	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Brevibacterium	341.32	8.49	Heat-inducible transcription repressor HrcA
+PGF_01898497	Brevibacterium	248.23	18.34	Endonuclease III (EC 4.2.99.18)
+PGF_01899917	Brevibacterium	525.95	8.74	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_01900530	Brevibacterium	236.91	7.63	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01910737	Brevibacterium	203.77	17.05	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01949788	Brevibacterium	203.32	11.84	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Brevibacterium	619.45	14.25	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01964713	Brevibacterium	922.68	36.06	Haloalkane dehalogenase-like protein / AMP-dependent synthetase/ligase in alkane synthesis cluster
+PGF_01990221	Brevibacterium	428.17	87.65	Aspartyl aminopeptidase (EC 3.4.11.21)
+PGF_02011760	Brevibacterium	257.91	24.20	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Brevibacterium	347.27	2.25	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Brevibacterium	517.13	23.58	GTP-binding protein Obg
+PGF_02059020	Brevibacterium	560.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02075241	Brevibacterium	670.32	10.62	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02111888	Brevibacterium	344.73	13.88	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Brevibacterium	445.68	1.84	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02226715	Brevibacterium	710.23	13.14	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02244871	Brevibacterium	324.91	6.53	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02311293	Brevibacterium	374.45	1.71	Peptide chain release factor 2
+PGF_02346669	Brevibacterium	309.91	3.84	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Brevibacterium	865.61	85.91	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02349208	Brevibacterium	216.86	3.63	Hypothetical, related to broad specificity phosphatases COG0406
+PGF_02355769	Brevibacterium	425.95	42.95	Alanine racemase (EC 5.1.1.1)
+PGF_02399143	Brevibacterium	656.09	100.80	Fatty-acyl-CoA oxidase (EC 1.3.3.6), related to yeast fatty acid beta-oxidation enzyme POX1
+PGF_02404524	Brevibacterium	448.50	2.20	3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35), FabG4
+PGF_02405521	Brevibacterium	315.77	9.76	Exoenzymes regulatory protein AepA in lipid-linked oligosaccharide synthesis cluster
+PGF_02407790	Brevibacterium	428.45	3.75	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9), FadA2
+PGF_02432027	Brevibacterium	523.68	34.54	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02450432	Brevibacterium	328.27	33.84	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Brevibacterium	88.09	5.94	SSU ribosomal protein S20p
+PGF_02463284	Brevibacterium	195.57	24.12	Recombination protein RecR
+PGF_02489591	Brevibacterium	233.14	32.11	Uncharacterized Nudix hydrolase NudL
+PGF_02501613	Brevibacterium	439.64	4.86	UPF0053 protein Rv1842c/MT1890
+PGF_02501901	Brevibacterium	403.27	8.59	Secreted protein
+PGF_02515882	Brevibacterium	428.83	39.83	Aspartokinase (EC 2.7.2.4)
+PGF_02516666	Brevibacterium	290.73	10.54	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Brevibacterium	426.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02552445	Brevibacterium	508.87	80.09	Bis-ABC ATPase SCO1840
+PGF_02565090	Brevibacterium	204.52	7.12	Thiol:disulfide oxidoreductase related to ResA
+PGF_02593689	Brevibacterium	520.41	13.44	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Brevibacterium	446.87	6.23	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Brevibacterium	318.50	7.36	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Brevibacterium	1290.86	0.99	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02740181	Brevibacterium	156.00	28.89	Na(+) H(+) antiporter subunit G
+PGF_02787474	Brevibacterium	294.61	22.30	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02789532	Brevibacterium	297.82	21.05	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Brevibacterium	245.50	17.14	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Brevibacterium	490.36	18.15	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Brevibacterium	1159.50	0.51	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02820109	Brevibacterium	195.95	9.80	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02825959	Brevibacterium	388.14	0.89	Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12)
+PGF_02844091	Brevibacterium	247.27	1.45	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Brevibacterium	435.95	38.92	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866866	Brevibacterium	372.59	14.82	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02883702	Brevibacterium	349.73	4.67	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02891753	Brevibacterium	323.00	23.85	AP endonuclease, family 2
+PGF_02893930	Brevibacterium	293.27	20.37	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02897665	Brevibacterium	383.23	12.79	Glycerate kinase (EC 2.7.1.31)
+PGF_02899131	Brevibacterium	81.14	4.00	LSU ribosomal protein L29p (L35e)
+PGF_02923127	Brevibacterium	249.68	4.04	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930391	Brevibacterium	995.45	8.67	UPF0182 protein AF1421
+PGF_02930420	Brevibacterium	349.18	2.30	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_02936332	Brevibacterium	304.65	5.25	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02938730	Brevibacterium	329.05	5.20	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02946231	Brevibacterium	492.68	1.52	SSU ribosomal protein S1p
+PGF_02959749	Brevibacterium	399.05	11.24	Ribonuclease D (EC 3.1.26.3)
+PGF_02976396	Brevibacterium	348.77	2.54	3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4)
+PGF_02982225	Brevibacterium	278.41	0.59	SAM-dependent methyltransferase
+PGF_03003352	Brevibacterium	586.18	2.70	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03021263	Brevibacterium	167.14	3.56	SepF, FtsZ-interacting protein related to cell division
+PGF_03025044	Brevibacterium	176.59	3.32	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03026450	Brevibacterium	1189.55	19.32	Chromosome partition protein smc
+PGF_03048120	Brevibacterium	429.32	1.62	putative membrane protein
+PGF_03057384	Brevibacterium	360.68	7.35	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03059539	Brevibacterium	302.64	1.36	3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)
+PGF_03059968	Brevibacterium	261.00	0.00	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_03062930	Brevibacterium	369.32	0.65	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.35)
+PGF_03069524	Brevibacterium	81.18	3.29	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03072132	Brevibacterium	159.64	7.80	CarD-like transcriptional regulator
+PGF_03081665	Brevibacterium	98.14	2.85	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03081927	Brevibacterium	278.18	5.20	Polyphosphate glucokinase (EC 2.7.1.63)
+PGF_03099722	Brevibacterium	592.91	17.70	Serine/threonine-protein kinase PknA (EC 2.7.11.1)
+PGF_03107265	Brevibacterium	527.18	4.22	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03111988	Brevibacterium	265.23	12.18	Cell division initiation protein DivIVA
+PGF_03116802	Brevibacterium	241.36	19.95	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03124146	Brevibacterium	300.45	10.10	N-acetylneuraminate synthase (EC 2.5.1.56)
+PGF_03124650	Brevibacterium	504.32	6.74	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Brevibacterium	428.41	2.15	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03139761	Brevibacterium	442.14	7.46	DNA-damage-inducible protein F
+PGF_03144011	Brevibacterium	182.32	12.94	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03172904	Brevibacterium	340.95	31.02	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Brevibacterium	265.73	23.42	Transcription antitermination protein NusG
+PGF_03222913	Brevibacterium	85.27	1.75	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03223464	Brevibacterium	348.59	45.70	Pseudouridine synthase (EC 4.2.1.70), PA2043 type
+PGF_03224027	Brevibacterium	159.45	5.09	Diadenosine hexaphosphate (Ap6A) hydrolase; Bis(5'-nucleosyl)-tetraphosphatase (Ap4A) (Asymmetrical) (EC 3.6.1.17)
+PGF_03253896	Brevibacterium	226.77	0.43	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Brevibacterium	250.55	0.74	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Brevibacterium	869.95	13.91	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Brevibacterium	78.18	9.81	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03518570	Brevibacterium	145.86	30.22	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Brevibacterium	387.64	9.38	Cell division protein FtsZ
+PGF_03584110	Brevibacterium	51.68	0.72	FIG011121: hypothetical protein
+PGF_03591205	Brevibacterium	510.55	33.21	Serine/threonine phosphatase PPP (EC 3.1.3.16)
+PGF_03602835	Brevibacterium	401.64	3.16	Hypothetical protein, possibly related to signal transduction
+PGF_03609651	Brevibacterium	548.50	20.93	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Brevibacterium	162.59	0.50	UPF0234 protein Yitk
+PGF_03659350	Brevibacterium	568.22	106.33	Protein-O-mannosyltransferase
+PGF_03674577	Brevibacterium	353.05	18.80	Cytochrome c-type biogenesis protein CcsA/ResC
+PGF_03699416	Brevibacterium	227.77	14.30	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03719269	Brevibacterium	290.55	87.44	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03729119	Brevibacterium	410.45	26.17	Aspartate transaminase (EC 2.6.1.1)
+PGF_03750571	Brevibacterium	532.09	36.64	Chromosomal replication initiator protein DnaA
+PGF_03750600	Brevibacterium	198.77	88.26	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Brevibacterium	224.96	12.28	Heat shock protein GrpE
+PGF_03752544	Brevibacterium	228.95	11.12	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Brevibacterium	341.86	24.10	Site-specific tyrosine recombinase XerC
+PGF_03757137	Brevibacterium	472.86	5.28	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Brevibacterium	377.36	3.63	Signal recognition particle receptor FtsY
+PGF_03780858	Brevibacterium	587.39	18.89	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1
+PGF_03787199	Brevibacterium	218.64	17.15	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Brevibacterium	410.41	8.42	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Brevibacterium	234.82	1.47	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Brevibacterium	275.77	3.22	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03804538	Brevibacterium	566.00	1.75	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03862500	Brevibacterium	212.73	8.27	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03968919	Brevibacterium	378.55	24.94	Membrane protein
+PGF_03991729	Brevibacterium	406.64	12.14	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03999196	Brevibacterium	860.23	12.55	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Brevibacterium	499.36	95.34	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Brevibacterium	213.18	4.91	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Brevibacterium	493.41	6.59	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Brevibacterium	154.14	2.51	Large-conductance mechanosensitive channel
+PGF_04036472	Brevibacterium	75.64	0.58	KH domain RNA binding protein YlqC
+PGF_04041316	Brevibacterium	960.23	6.29	Excinuclease ABC subunit A
+PGF_04047265	Brevibacterium	85.05	1.05	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04151476	Brevibacterium	162.41	28.03	16S rRNA processing protein RimM
+PGF_04251642	Brevibacterium	150.05	3.03	(3R)-hydroxyacyl-ACP dehydratase subunit HadB
+PGF_04345693	Brevibacterium	484.95	5.77	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Brevibacterium	856.22	137.26	Protein translocase subunit SecA
+PGF_04395505	Brevibacterium	364.59	2.56	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04458212	Brevibacterium	340.77	1.07	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04469179	Brevibacterium	154.64	2.42	Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase
+PGF_04477106	Brevibacterium	349.74	9.71	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04505269	Brevibacterium	300.68	16.95	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Brevibacterium	484.27	3.92	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Brevibacterium	543.50	0.60	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04662829	Brevibacterium	665.55	2.13	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Brevibacterium	223.18	5.47	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04704185	Brevibacterium	480.18	9.05	NAD(P)H quinone reductase LpdA (EC 1.6.5.2)
+PGF_04807486	Brevibacterium	306.86	2.59	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Brevibacterium	113.00	0.00	LSU ribosomal protein L19p
+PGF_04866046	Brevibacterium	719.39	146.66	Uncharacterized protein YyaL
+PGF_04970608	Brevibacterium	113.82	8.22	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04971017	Brevibacterium	359.23	5.81	Threonine synthase (EC 4.2.3.1)
+PGF_05126349	Brevibacterium	192.91	12.13	CblZ, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase
+PGF_05135220	Brevibacterium	963.09	8.72	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05195027	Brevibacterium	483.09	3.07	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Brevibacterium	462.30	0.88	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05218024	Brevibacterium	628.09	22.59	Serine/threonine-protein kinase PknB (EC 2.7.11.1)
+PGF_05280843	Brevibacterium	433.86	11.97	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05439724	Brevibacterium	738.82	28.64	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Brevibacterium	310.18	3.14	NAD kinase (EC 2.7.1.23)
+PGF_05581732	Brevibacterium	430.86	5.68	Protein translocase subunit SecY
+PGF_05598173	Brevibacterium	382.68	3.52	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05679920	Brevibacterium	1408.14	53.18	ATP-dependent helicase HrpA
+PGF_05729472	Brevibacterium	1631.18	4.68	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05743061	Brevibacterium	891.91	5.96	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05837052	Brevibacterium	429.27	5.64	Isocitrate lyase (EC 4.1.3.1)
+PGF_05908643	Brevibacterium	327.23	50.24	putative membrane protein
+PGF_05949521	Brevibacterium	689.45	52.54	Protein translocase subunit SecD
+PGF_05971611	Brevibacterium	417.91	6.36	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Brevibacterium	701.23	5.05	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06085876	Brevibacterium	253.64	2.22	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_06180597	Brevibacterium	145.59	7.68	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Brevibacterium	512.59	35.95	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06329961	Brevibacterium	404.73	7.42	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06377994	Brevibacterium	521.00	14.95	FtsW-like cell division membrane protein CA_C0505
+PGF_06461498	Brevibacterium	280.73	3.52	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06481545	Brevibacterium	413.57	69.14	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06484356	Brevibacterium	270.32	4.11	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_06586947	Brevibacterium	405.27	9.43	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06594013	Brevibacterium	139.32	7.50	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06648993	Brevibacterium	83.00	0.00	Acyl carrier protein
+PGF_06649360	Brevibacterium	198.05	16.20	Segregation and condensation protein B
+PGF_06660812	Brevibacterium	199.73	1.12	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06701488	Brevibacterium	178.05	13.09	RNA-binding protein Jag
+PGF_06735060	Brevibacterium	820.27	26.02	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06750600	Brevibacterium	343.70	4.37	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06755829	Brevibacterium	385.05	3.24	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Brevibacterium	427.36	4.69	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06765255	Brevibacterium	339.04	9.20	Guanidinobutyrase (EC 3.5.3.7)
+PGF_07092827	Brevibacterium	79.32	11.94	Excisionase/Xis, DNA-binding
+PGF_08041874	Brevibacterium	311.09	16.86	Two-component system response regulator protein
+PGF_08117603	Brevibacterium	196.59	3.75	hypothetical protein
+PGF_08126362	Brevibacterium	385.09	10.37	DNA recombination protein RmuC
+PGF_08183187	Brevibacterium	465.45	55.72	Cell division protein FtsW
+PGF_08197987	Brevibacterium	116.05	1.25	Iron-sulfur cluster insertion protein SCO2161

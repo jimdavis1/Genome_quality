@@ -1,0 +1,693 @@
+PGF_00000416	Cryobacterium	306.86	14.97	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000568	Cryobacterium	109.29	20.70	FIG00820327: hypothetical protein
+PGF_00001331	Cryobacterium	231.29	0.49	Endonuclease NucS
+PGF_00001799	Cryobacterium	97.00	0.00	FIG01121218: hypothetical protein
+PGF_00001849	Cryobacterium	167.29	15.12	FIG01122152: hypothetical protein
+PGF_00002542	Cryobacterium	125.86	1.86	FIG017342: transmembrane protein
+PGF_00002592	Cryobacterium	236.14	8.32	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00003179	Cryobacterium	199.14	7.20	FIG049476: HIT family protein
+PGF_00003516	Cryobacterium	271.43	3.36	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004481	Cryobacterium	523.71	4.75	Ferric iron ABC transporter, permease protein
+PGF_00004652	Cryobacterium	287.57	1.51	Ferrous iron transport permease EfeU
+PGF_00005284	Cryobacterium	535.00	6.38	Flagellar M-ring protein FliF
+PGF_00005354	Cryobacterium	129.14	1.07	Flagellar basal-body rod protein FlgC
+PGF_00005384	Cryobacterium	683.00	0.00	Flagellar biosynthesis protein FlhA
+PGF_00005402	Cryobacterium	91.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Cryobacterium	397.00	4.97	Flagellar hook protein FlgE
+PGF_00005454	Cryobacterium	483.00	5.57	Flagellar hook-associated protein FlgK
+PGF_00005966	Cryobacterium	161.29	0.76	FlgN family protein
+PGF_00006046	Cryobacterium	364.14	35.82	Flp pilus assembly protein, ATPase CpaF
+PGF_00006278	Cryobacterium	428.00	111.40	Formiminoglutamic iminohydrolase (EC 3.5.3.13)
+PGF_00006461	Cryobacterium	471.43	1.27	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Cryobacterium	539.86	9.65	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Cryobacterium	358.57	3.36	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Cryobacterium	503.57	1.13	GTP-binding protein EngA
+PGF_00007027	Cryobacterium	303.57	2.44	GTP-binding protein Era
+PGF_00007028	Cryobacterium	518.86	9.51	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Cryobacterium	636.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007304	Cryobacterium	288.00	1.73	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Cryobacterium	328.57	16.21	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007971	Cryobacterium	420.00	7.19	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00008051	Cryobacterium	478.86	10.68	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008075	Cryobacterium	392.29	1.60	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Cryobacterium	288.00	2.08	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Cryobacterium	448.57	9.91	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008334	Cryobacterium	460.71	10.66	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Cryobacterium	507.29	1.25	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008611	Cryobacterium	373.14	5.67	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Cryobacterium	931.71	106.34	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Cryobacterium	205.29	42.00	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008872	Cryobacterium	854.29	9.52	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009500	Cryobacterium	187.00	10.63	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009966	Cryobacterium	461.00	0.00	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Cryobacterium	246.29	0.76	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Cryobacterium	750.43	0.53	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Cryobacterium	301.86	10.96	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Cryobacterium	695.86	22.66	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Cryobacterium	306.14	1.35	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00012264	Cryobacterium	349.00	5.77	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Cryobacterium	314.86	9.91	Homoserine kinase (EC 2.7.1.39)
+PGF_00012430	Cryobacterium	137.57	0.53	HspR, transcriptional repressor of DnaK operon
+PGF_00012569	Cryobacterium	305.57	8.44	Hydrolase
+PGF_00013003	Cryobacterium	530.86	0.38	Bis-ABC ATPase YheS
+PGF_00013022	Cryobacterium	266.57	1.51	Hypothetical NagD-like phosphatase, Actinobacterial subfamily
+PGF_00013224	Cryobacterium	194.29	0.49	ADP-ribose pyrophosphatase
+PGF_00013272	Cryobacterium	144.00	8.25	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Cryobacterium	236.29	5.96	UPF0001 protein YggS
+PGF_00013341	Cryobacterium	333.29	6.32	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013509	Cryobacterium	559.86	5.05	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Cryobacterium	206.57	0.79	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Cryobacterium	258.29	6.05	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014128	Cryobacterium	408.14	8.55	Inner membrane protein YbjJ
+PGF_00014264	Cryobacterium	294.14	82.98	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014306	Cryobacterium	163.00	0.00	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014314	Cryobacterium	371.57	1.13	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00014855	Cryobacterium	275.86	5.37	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00015039	Cryobacterium	247.57	74.92	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015216	Cryobacterium	262.86	5.67	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Cryobacterium	300.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015467	Cryobacterium	236.57	2.70	Iron-dependent repressor IdeR/DtxR
+PGF_00015686	Cryobacterium	410.43	2.15	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015699	Cryobacterium	410.29	6.52	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015855	Cryobacterium	342.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016074	Cryobacterium	423.71	11.31	L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC (EC 6.3.1.13)
+PGF_00016130	Cryobacterium	447.14	17.60	L-lactate dehydrogenase
+PGF_00016328	Cryobacterium	171.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Cryobacterium	412.86	33.45	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Cryobacterium	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Cryobacterium	198.00	17.28	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Cryobacterium	135.29	9.83	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Cryobacterium	175.43	4.96	LSU ribosomal protein L17p
+PGF_00016358	Cryobacterium	129.14	0.90	LSU ribosomal protein L20p
+PGF_00016360	Cryobacterium	244.57	3.46	1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase (EC 3.5.1.103)
+PGF_00016361	Cryobacterium	93.43	0.98	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Cryobacterium	121.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Cryobacterium	92.43	20.03	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Cryobacterium	119.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Cryobacterium	85.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Cryobacterium	279.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Cryobacterium	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016418	Cryobacterium	45.00	0.00	LSU ribosomal protein L34p
+PGF_00016424	Cryobacterium	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Cryobacterium	219.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016443	Cryobacterium	199.29	3.04	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Cryobacterium	173.14	8.30	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Cryobacterium	127.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Cryobacterium	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016613	Cryobacterium	332.86	9.25	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_00016824	Cryobacterium	574.00	5.51	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+PGF_00016843	Cryobacterium	188.00	0.00	LemA protein
+PGF_00017265	Cryobacterium	517.14	11.01	ATP-dependent RNA helicase
+PGF_00017479	Cryobacterium	328.86	0.38	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Cryobacterium	357.57	5.03	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00018560	Cryobacterium	443.00	2.83	Magnesium and cobalt efflux protein CorC
+PGF_00018971	Cryobacterium	498.43	6.97	Malate:quinone oxidoreductase (EC 1.1.5.4)
+PGF_00019236	Cryobacterium	423.71	7.41	Manganese transport protein MntH
+PGF_00019279	Cryobacterium	373.00	0.00	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)
+PGF_00019307	Cryobacterium	434.43	10.67	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00020173	Cryobacterium	327.43	2.51	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020306	Cryobacterium	185.14	1.77	Mesenchymal stem cell protein DSCD75
+PGF_00020361	Cryobacterium	154.14	0.38	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020984	Cryobacterium	294.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021684	Cryobacterium	226.43	0.79	ATPase component BioM of energizing module of biotin ECF transporter
+PGF_00022722	Cryobacterium	385.57	6.78	Mrp protein homolog
+PGF_00023472	Cryobacterium	314.14	1.57	MutT1
+PGF_00023532	Cryobacterium	287.43	0.79	Mycothiol S-conjugate amidase Mca
+PGF_00023591	Cryobacterium	383.43	61.79	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Cryobacterium	348.71	5.68	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024232	Cryobacterium	366.86	1.46	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Cryobacterium	359.71	9.62	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024267	Cryobacterium	338.00	0.00	N5,N10-methylenetetrahydromethanopterin reductase-related protein, SCO6416-type
+PGF_00024273	Cryobacterium	176.86	4.98	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Cryobacterium	381.14	9.23	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Cryobacterium	274.71	2.93	NAD synthetase (EC 6.3.1.5)
+PGF_00024363	Cryobacterium	363.43	14.03	NAD(P)H-dependent 2-cyclohexen-1-one reductase
+PGF_00024478	Cryobacterium	334.86	0.38	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Cryobacterium	301.14	13.33	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024540	Cryobacterium	498.57	10.21	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024567	Cryobacterium	416.00	13.93	Acetate kinase (EC 2.7.2.1)
+PGF_00024615	Cryobacterium	329.14	2.79	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00025090	Cryobacterium	602.86	6.04	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Cryobacterium	169.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025289	Cryobacterium	460.29	6.37	Na+/H+ antiporter NhaA type
+PGF_00025379	Cryobacterium	301.43	4.76	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025383	Cryobacterium	412.57	11.53	Naringenin-chalcone synthase (EC 2.3.1.74)
+PGF_00025562	Cryobacterium	197.14	1.46	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Cryobacterium	443.86	11.07	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025737	Cryobacterium	440.29	1.50	Nitrate/nitrite transporter NarK
+PGF_00026409	Cryobacterium	249.00	12.52	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026419	Cryobacterium	508.00	19.72	Nucleoside-diphosphate-sugar epimerase
+PGF_00026615	Cryobacterium	305.00	5.74	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026743	Cryobacterium	210.00	0.00	O-methyltransferase
+PGF_00026797	Cryobacterium	332.14	7.82	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00029269	Cryobacterium	943.57	4.50	Aconitate hydratase (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_00029494	Cryobacterium	151.14	5.08	PTS system, IIA component
+PGF_00029917	Cryobacterium	291.00	1.15	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Cryobacterium	316.86	1.95	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Cryobacterium	359.00	0.00	Peptide chain release factor 1
+PGF_00030889	Cryobacterium	119.14	10.21	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00033095	Cryobacterium	855.86	17.41	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Cryobacterium	354.29	7.39	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033390	Cryobacterium	617.86	4.49	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+PGF_00033511	Cryobacterium	403.43	0.79	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033877	Cryobacterium	162.00	0.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033924	Cryobacterium	87.00	0.00	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Cryobacterium	421.00	1.41	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Cryobacterium	315.29	9.57	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033950	Cryobacterium	248.00	0.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033959	Cryobacterium	231.57	0.53	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Cryobacterium	768.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Cryobacterium	198.43	3.36	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033987	Cryobacterium	371.86	0.38	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034218	Cryobacterium	451.71	96.65	Phytoene dehydrogenase and related proteins
+PGF_00034776	Cryobacterium	761.71	1.80	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Cryobacterium	322.57	13.06	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035370	Cryobacterium	398.43	35.01	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035721	Cryobacterium	460.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Cryobacterium	428.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035882	Cryobacterium	390.86	2.67	Predicted glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21), Actinobacterial type
+PGF_00035922	Cryobacterium	246.14	3.13	Hydrolase, alpha/beta fold family
+PGF_00037171	Cryobacterium	391.00	18.58	Probable low-affinity inorganic phosphate transporter
+PGF_00037588	Cryobacterium	583.43	10.80	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037835	Cryobacterium	722.57	21.64	Protease II (EC 3.4.21.83)
+PGF_00037937	Cryobacterium	105.29	20.11	Protein PhnA
+PGF_00038579	Cryobacterium	107.00	0.00	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038674	Cryobacterium	339.86	4.56	Protein translocase subunit SecF
+PGF_00038796	Cryobacterium	82.00	2.65	Protein translocase membrane subunit SecG
+PGF_00038986	Cryobacterium	277.00	0.00	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039500	Cryobacterium	380.14	4.30	Putative N-methyltransferase Bcep18194_A3584
+PGF_00040578	Cryobacterium	323.00	8.56	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041217	Cryobacterium	835.14	5.64	Putative helicase
+PGF_00041243	Cryobacterium	443.00	5.92	Putative helicase
+PGF_00041951	Cryobacterium	690.00	8.98	transporter, MMPL family
+PGF_00042570	Cryobacterium	326.00	5.29	Putative oxidoreducatse SCO7286
+PGF_00045963	Cryobacterium	1134.00	0.00	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045982	Cryobacterium	908.00	0.00	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00045991	Cryobacterium	481.00	0.00	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046101	Cryobacterium	289.14	3.02	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Cryobacterium	443.71	7.99	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046377	Cryobacterium	278.43	14.01	RNA polymerase sigma factor for flagellar operon
+PGF_00046430	Cryobacterium	194.43	9.02	RNA polymerase sigma-70 factor
+PGF_00047078	Cryobacterium	377.57	4.31	RecA protein
+PGF_00047088	Cryobacterium	118.14	2.73	RecA/RadA recombinase
+PGF_00047555	Cryobacterium	560.43	5.06	Alpha-glucosidase (EC 3.2.1.20)
+PGF_00048143	Cryobacterium	226.57	15.53	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_00048328	Cryobacterium	301.71	4.54	Rhodanese domain protein UPF0176, Actinobacterial subgroup
+PGF_00048480	Cryobacterium	219.43	11.40	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Cryobacterium	253.43	34.67	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Cryobacterium	214.29	0.76	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Cryobacterium	244.57	1.51	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048640	Cryobacterium	617.71	243.33	Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048641	Cryobacterium	296.00	74.96	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Cryobacterium	168.86	6.94	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048645	Cryobacterium	136.29	7.45	Ribonucleotide reduction protein NrdI
+PGF_00048782	Cryobacterium	325.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Cryobacterium	279.14	12.19	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048917	Cryobacterium	240.86	13.40	Ribosome hibernation promoting factor Hpf
+PGF_00048928	Cryobacterium	363.86	12.46	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Cryobacterium	122.86	7.29	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Cryobacterium	164.14	7.10	Ribosome-binding factor A
+PGF_00049827	Cryobacterium	303.86	24.61	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Cryobacterium	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Cryobacterium	126.29	9.76	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Cryobacterium	124.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Cryobacterium	120.57	9.07	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Cryobacterium	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049849	Cryobacterium	137.14	3.18	SSU ribosomal protein S16p
+PGF_00049854	Cryobacterium	98.71	0.76	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Cryobacterium	87.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049889	Cryobacterium	257.00	2.24	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Cryobacterium	209.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Cryobacterium	233.14	7.63	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Cryobacterium	154.43	4.16	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Cryobacterium	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Cryobacterium	161.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050094	Cryobacterium	601.14	18.50	SdrA
+PGF_00050192	Cryobacterium	123.14	1.07	Secreted protein
+PGF_00050290	Cryobacterium	270.71	6.45	Segregation and condensation protein A
+PGF_00050995	Cryobacterium	525.14	10.21	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Cryobacterium	425.43	2.64	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Cryobacterium	527.00	2.65	Signal recognition particle protein Ffh
+PGF_00052514	Cryobacterium	336.14	6.09	Similar to F420-dependent glucose-6-phosphate dehydrogenase, Caur_2833 family
+PGF_00052705	Cryobacterium	137.71	13.98	LSU ribosomal protein L11p (L12e)
+PGF_00053466	Cryobacterium	459.57	60.45	Sodium/hydrogen exchanger family protein
+PGF_00053513	Cryobacterium	349.71	5.31	Solanesyl diphosphate synthase (EC 2.5.1.11)
+PGF_00053666	Cryobacterium	150.00	0.00	Spermidine acetyltransferase
+PGF_00053770	Cryobacterium	383.00	5.03	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053952	Cryobacterium	105.86	2.27	Sporulation regulatory protein WhiB
+PGF_00054461	Cryobacterium	137.86	0.90	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_00054477	Cryobacterium	150.57	0.98	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054528	Cryobacterium	390.71	4.54	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055204	Cryobacterium	1185.43	30.02	Superfamily I DNA and RNA helicases and helicase subunits
+PGF_00055295	Cryobacterium	243.00	0.00	Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00055665	Cryobacterium	400.86	185.04	TPR-repeat-containing protein
+PGF_00056662	Cryobacterium	347.14	8.01	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Cryobacterium	512.14	4.95	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Cryobacterium	205.86	1.86	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057270	Cryobacterium	819.00	31.37	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057381	Cryobacterium	276.00	5.26	Trans,polycis-decaprenyl diphosphate synthase (EC 2.5.1.86)
+PGF_00057483	Cryobacterium	818.00	30.95	Transcription termination factor Rho
+PGF_00057488	Cryobacterium	139.00	0.00	Transcription termination protein NusB
+PGF_00059672	Cryobacterium	245.29	15.32	(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)
+PGF_00060414	Cryobacterium	616.86	0.90	Translation elongation factor LepA
+PGF_00060421	Cryobacterium	186.43	0.53	Translation elongation factor P
+PGF_00060428	Cryobacterium	383.57	35.53	Translation elongation factor Tu
+PGF_00060431	Cryobacterium	73.00	0.00	Translation initiation factor 1
+PGF_00060478	Cryobacterium	184.86	52.87	Translation initiation factor 3
+PGF_00060585	Cryobacterium	230.14	8.32	Transmembrane protein MT2276, clustered with lipoate gene
+PGF_00061810	Cryobacterium	722.86	28.60	Trehalose-6-phosphate synthase (EC 2.4.1.15)
+PGF_00061949	Cryobacterium	175.00	0.00	TrkA, Potassium channel
+PGF_00062002	Cryobacterium	296.43	16.65	Tryptophan 2,3-dioxygenase (EC 1.13.11.11)
+PGF_00062023	Cryobacterium	279.57	3.51	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Cryobacterium	405.86	2.67	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Cryobacterium	333.29	1.89	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Cryobacterium	433.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Cryobacterium	386.29	8.28	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063991	Cryobacterium	235.86	5.55	UDP-N-acetylglucosamine pyrophosphorylase related protein
+PGF_00063993	Cryobacterium	358.57	3.99	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00064272	Cryobacterium	251.57	28.69	UPF0246 protein YaaA
+PGF_00064454	Cryobacterium	271.86	2.85	Ubiquinol-cytochrome C reductase, diheme cytochrome cc subunit
+PGF_00064523	Cryobacterium	561.86	8.07	Uncharacterized ABC1 family protein Caur_1826
+PGF_00064786	Cryobacterium	361.00	5.74	Arogenate dehydrogenase (EC 1.3.1.43)
+PGF_00065286	Cryobacterium	225.57	70.81	Uncharacterized protein Q1 colocalized with Q
+PGF_00066123	Cryobacterium	210.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Cryobacterium	183.29	8.69	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Cryobacterium	231.14	18.63	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066260	Cryobacterium	565.57	18.12	Urocanate hydratase (EC 4.2.1.49)
+PGF_00066270	Cryobacterium	376.71	7.13	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066294	Cryobacterium	261.29	1.80	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Cryobacterium	864.57	3.69	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066839	Cryobacterium	78.29	9.83	WhiB-like transcription regulator
+PGF_00066867	Cryobacterium	513.86	1.95	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Cryobacterium	317.71	2.14	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066964	Cryobacterium	453.00	10.69	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067062	Cryobacterium	397.43	1.99	Xylose isomerase (EC 5.3.1.5)
+PGF_00067108	Cryobacterium	415.57	20.25	Xylose-responsive transcription regulator, ROK family
+PGF_00067188	Cryobacterium	357.29	3.50	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067554	Cryobacterium	503.43	3.78	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067607	Cryobacterium	356.43	12.70	Zn-dependent dipeptidase-like protein
+PGF_00068886	Cryobacterium	306.00	0.00	Auxin efflux carrier family protein
+PGF_00070432	Cryobacterium	399.29	52.38	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070873	Cryobacterium	243.71	2.56	BRAMP
+PGF_00071194	Cryobacterium	459.43	4.96	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00072338	Cryobacterium	211.14	8.01	homoserine/homoserine lactone efflux protein
+PGF_00076923	Cryobacterium	142.29	9.55	(3R)-hydroxyacyl-ACP dehydratase subunit HadA
+PGF_00121830	Cryobacterium	427.86	32.06	FIG01121868: Possible membrane protein, Rv0205
+PGF_00147267	Cryobacterium	91.00	3.00	hypothetical protein
+PGF_00162666	Cryobacterium	120.86	12.75	hypothetical protein
+PGF_00213073	Cryobacterium	230.43	6.63	2-hydroxychromene-2-carboxylate isomerase/DsbA-like thioredoxin domain
+PGF_00223114	Cryobacterium	132.29	8.06	hypothetical protein
+PGF_00245748	Cryobacterium	146.71	0.49	hypothetical protein
+PGF_00261173	Cryobacterium	385.29	9.50	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00294865	Cryobacterium	549.71	9.93	Two component system sensor histidine kinase MtrB
+PGF_00312619	Cryobacterium	344.57	18.71	hypothetical protein
+PGF_00336478	Cryobacterium	188.71	32.50	Two-component transcriptional response regulator PdtaR, LuxR family
+PGF_00402431	Cryobacterium	309.57	10.88	Beta-lactamase related protein
+PGF_00402494	Cryobacterium	447.00	6.08	peptidase M20
+PGF_00404008	Cryobacterium	584.57	26.34	probable UDP-glucose-4-epimerase
+PGF_00405251	Cryobacterium	433.57	7.32	protein of unknown function DUF445
+PGF_00405698	Cryobacterium	349.71	5.56	putative ATP/GTP-binding integral membrane protein
+PGF_00407244	Cryobacterium	725.57	2.82	putative helicase regulator
+PGF_00407331	Cryobacterium	281.29	14.51	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_00407441	Cryobacterium	125.71	4.54	Integral membrane protein
+PGF_00409083	Cryobacterium	289.00	13.86	putative membrane protein
+PGF_00409755	Cryobacterium	383.71	22.48	putative metalloprotease
+PGF_00410120	Cryobacterium	200.00	0.00	putative phosphoglycerate mutase
+PGF_00410523	Cryobacterium	334.14	12.65	putative secreted protein
+PGF_00410588	Cryobacterium	255.57	22.72	putative secreted protein
+PGF_00413192	Cryobacterium	373.29	97.88	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413208	Cryobacterium	290.57	92.49	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Cryobacterium	318.29	12.28	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Cryobacterium	309.86	14.47	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Cryobacterium	157.86	5.40	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Cryobacterium	159.57	4.16	tmRNA-binding protein SmpB
+PGF_00414366	Cryobacterium	614.43	52.66	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414710	Cryobacterium	426.14	2.34	Pyrimidine permease
+PGF_00414926	Cryobacterium	472.57	16.01	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00414965	Cryobacterium	271.71	2.14	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_00415363	Cryobacterium	389.14	7.45	23S rRNA (guanine(1835)-N(2))-methyltransferase (EC 2.1.1.174)
+PGF_00416115	Cryobacterium	305.86	0.38	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Cryobacterium	566.71	9.01	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Cryobacterium	1095.57	1.51	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416508	Cryobacterium	107.86	16.51	Carbon storage regulator
+PGF_00416576	Cryobacterium	205.14	14.32	3'-to-5' oligoribonuclease (orn)
+PGF_00417658	Cryobacterium	371.71	8.69	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417816	Cryobacterium	134.86	19.64	Chorismate mutase I (EC 5.4.99.5)
+PGF_00417840	Cryobacterium	402.86	1.46	Chorismate synthase (EC 4.2.3.5)
+PGF_00418031	Cryobacterium	436.00	3.32	Chromosome segregation ATPases
+PGF_00418448	Cryobacterium	295.71	2.56	Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases
+PGF_00418586	Cryobacterium	126.00	0.00	Cold shock protein of CSP family => SCO4325
+PGF_00418714	Cryobacterium	140.43	4.96	ComA operon protein 2
+PGF_00419420	Cryobacterium	487.71	4.39	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419621	Cryobacterium	249.00	2.65	Coproheme decarboxylase HemQ (no EC)
+PGF_00419702	Cryobacterium	209.43	3.95	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419913	Cryobacterium	198.29	66.89	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Cryobacterium	281.57	19.89	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420019	Cryobacterium	383.00	2.31	Cystathionine gamma-lyase (EC 4.4.1.1)
+PGF_00420121	Cryobacterium	229.43	1.13	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420975	Cryobacterium	406.57	13.59	D-inositol-3-phosphate glycosyltransferase (EC 2.4.1.250)
+PGF_00421438	Cryobacterium	309.29	17.09	DNA modification methyltransferase
+PGF_00421489	Cryobacterium	1176.29	1.80	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Cryobacterium	335.29	126.25	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Cryobacterium	620.43	1.81	DNA primase (EC 2.7.7.-)
+PGF_00421733	Cryobacterium	397.86	12.69	DNA recombination and repair protein RecF
+PGF_00421775	Cryobacterium	547.29	5.71	DNA repair helicase
+PGF_00421792	Cryobacterium	453.57	0.53	DNA repair protein RadA
+PGF_00421796	Cryobacterium	481.71	150.30	DNA repair protein RecN
+PGF_00422271	Cryobacterium	320.71	21.92	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422463	Cryobacterium	239.57	46.14	DUF1794
+PGF_00422545	Cryobacterium	324.57	29.57	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422922	Cryobacterium	196.86	3.76	Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)
+PGF_00422959	Cryobacterium	159.86	16.20	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Cryobacterium	316.29	78.81	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Cryobacterium	292.86	0.38	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Cryobacterium	478.86	13.69	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423351	Cryobacterium	1254.00	16.12	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) / 2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) @ 2-oxoglutarate decarboxylase (EC 4.1.1.71) @ 2-hydroxy-3-oxoadipate synthase (EC 2.2.1.5)
+PGF_00423361	Cryobacterium	123.00	6.19	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Cryobacterium	453.57	1.81	Dihydroorotase (EC 3.5.2.3)
+PGF_00423533	Cryobacterium	310.43	0.98	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423604	Cryobacterium	683.43	5.47	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+PGF_00424619	Cryobacterium	348.14	13.97	4-nitrophenylphosphatase (EC 3.1.3.41)
+PGF_00424971	Cryobacterium	634.57	8.52	Excinuclease ABC subunit C
+PGF_00425024	Cryobacterium	412.29	11.13	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Cryobacterium	997.57	17.60	Exonuclease SbcC
+PGF_00425092	Cryobacterium	395.86	9.34	Exonuclease SbcD
+PGF_00425141	Cryobacterium	458.57	33.93	Exopolysaccharide production protein
+PGF_00425671	Cryobacterium	291.00	0.00	RNase adapter protein RapZ
+PGF_00425684	Cryobacterium	254.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425685	Cryobacterium	324.00	6.27	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425993	Cryobacterium	359.71	1.25	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Cryobacterium	455.43	24.74	FIG004453: protein YceG like
+PGF_00426044	Cryobacterium	335.29	13.94	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Cryobacterium	651.00	4.47	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Cryobacterium	368.86	19.41	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426285	Cryobacterium	178.57	2.82	FIG004853: possible toxin to DivIC
+PGF_00426321	Cryobacterium	307.00	0.00	FIG00511445: hypothetical protein
+PGF_00426336	Cryobacterium	642.57	19.48	Efflux ABC transporter, permease/ATP-binding protein SCO3235
+PGF_00426726	Cryobacterium	819.57	3.78	FIG005666: putative helicase
+PGF_00426932	Cryobacterium	156.71	1.11	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Cryobacterium	314.14	4.26	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447508	Cryobacterium	534.14	31.91	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Cryobacterium	453.71	1.89	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00510935	Cryobacterium	95.00	0.00	DNA-binding protein HU
+PGF_00515900	Cryobacterium	508.57	5.56	Probable exported protease
+PGF_00518942	Cryobacterium	227.00	2.65	Two component system response regulator MtrA
+PGF_00518946	Cryobacterium	270.86	8.93	Short-chain dehydrogenase/reductase SDR?
+PGF_00520554	Cryobacterium	331.00	0.00	Integral membrane protein
+PGF_00634936	Cryobacterium	322.86	13.15	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Cryobacterium	555.71	15.90	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00659194	Cryobacterium	168.43	35.47	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Cryobacterium	132.71	8.36	Ribosomal silencing factor RsfA
+PGF_00684033	Cryobacterium	145.14	9.62	Integral membrane protein
+PGF_00684996	Cryobacterium	204.29	0.49	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_00692296	Cryobacterium	349.14	6.54	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00699046	Cryobacterium	546.71	17.77	transmembrane protein, distant homology with ydbT
+PGF_00709454	Cryobacterium	260.14	11.82	Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion
+PGF_00717495	Cryobacterium	441.71	3.55	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00724880	Cryobacterium	237.86	3.02	Cyanophycinase (EC 3.4.15.6)
+PGF_00735685	Cryobacterium	1020.43	9.27	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_00787899	Cryobacterium	80.71	0.49	FIG018426: putative septation inhibitor protein
+PGF_00853393	Cryobacterium	296.43	2.44	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00912265	Cryobacterium	391.14	4.30	tRNA-dihydrouridine synthase DusB
+PGF_00912542	Cryobacterium	271.00	3.21	L-cystine ABC transporter, substrate-binding protein TcyA
+PGF_00925844	Cryobacterium	328.71	8.75	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Cryobacterium	558.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00929252	Cryobacterium	238.71	84.79	putative rRNA methylase
+PGF_00945075	Cryobacterium	455.14	6.18	Membrane-associated zinc metalloprotease
+PGF_00950554	Cryobacterium	601.29	227.22	Excinuclease ABC subunit B
+PGF_00957419	Cryobacterium	165.14	15.52	Putative pre-16S rRNA nuclease Yqg
+PGF_00974773	Cryobacterium	236.29	1.25	Integral membrane protein
+PGF_00982259	Cryobacterium	440.57	2.44	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_01011517	Cryobacterium	318.29	24.96	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01049669	Cryobacterium	503.71	12.63	Signal transduction histidine kinase, subgroup 2
+PGF_01050375	Cryobacterium	1212.71	108.45	Superfamily I DNA and RNA helicases and helicase subunits
+PGF_01063169	Cryobacterium	255.29	4.35	Enoyl-[acyl-carrier-protein] reductase [NADPH] (EC 1.3.1.10)
+PGF_01068086	Cryobacterium	252.00	0.00	Flagellar biosynthesis protein FliR
+PGF_01070050	Cryobacterium	541.29	6.52	Phytoene dehydrogenase (EC 1.14.99.-)
+PGF_01075683	Cryobacterium	151.86	7.80	Hemoglobin-like protein HbO
+PGF_01079016	Cryobacterium	306.14	48.35	Chromosome (plasmid) partitioning protein ParB
+PGF_01086688	Cryobacterium	437.86	1.77	Uncharacterized MFS-type transporter
+PGF_01147190	Cryobacterium	475.86	10.07	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01170345	Cryobacterium	79.29	6.05	Flagellar protein FlbD
+PGF_01174739	Cryobacterium	353.14	56.65	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Cryobacterium	489.00	14.92	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Cryobacterium	671.29	7.63	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01197369	Cryobacterium	466.00	4.69	Na+/H+-dicarboxylate symporter
+PGF_01206241	Cryobacterium	159.43	6.50	hypothetical protein
+PGF_01223569	Cryobacterium	186.57	1.99	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Cryobacterium	178.43	5.83	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Cryobacterium	310.00	4.32	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Cryobacterium	314.14	7.36	Chromosome (plasmid) partitioning protein ParA
+PGF_01325304	Cryobacterium	265.14	11.19	Molybdenum ABC transporter permease protein ModB
+PGF_01351158	Cryobacterium	1209.71	21.23	Transcription-repair coupling factor
+PGF_01364427	Cryobacterium	215.14	7.08	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Cryobacterium	169.29	6.34	HNH endonuclease family protein
+PGF_01404160	Cryobacterium	453.86	0.38	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01405081	Cryobacterium	294.29	0.49	Heat shock protein HtpX
+PGF_01408166	Cryobacterium	287.43	6.24	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_01420802	Cryobacterium	143.00	0.00	Cell division protein MraZ
+PGF_01421534	Cryobacterium	204.71	7.65	LSU ribosomal protein L25p
+PGF_01444546	Cryobacterium	98.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01466742	Cryobacterium	391.14	5.30	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01532393	Cryobacterium	723.71	0.49	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Cryobacterium	115.29	7.95	Flagellar basal-body rod protein FlgB
+PGF_01557745	Cryobacterium	411.43	1.13	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01576148	Cryobacterium	181.71	9.46	transmembrane protein, distant homology with ydbS
+PGF_01577845	Cryobacterium	744.29	1.98	ATP-dependent DNA helicase
+PGF_01602421	Cryobacterium	143.43	17.56	Flagellar basal-body rod modification protein FlgD
+PGF_01614738	Cryobacterium	83.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01668012	Cryobacterium	284.29	5.71	Sulfur carrier protein FdhD
+PGF_01674551	Cryobacterium	123.71	1.89	Glycine cleavage system H protein
+PGF_01677191	Cryobacterium	329.86	4.49	Sporulation transcription regulator WhiA
+PGF_01682537	Cryobacterium	117.57	0.79	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01683258	Cryobacterium	241.57	2.70	DNA recombination and repair protein RecO
+PGF_01722857	Cryobacterium	426.43	53.23	Aspartate aminotransferase (AspB-14) (EC 2.6.1.1)
+PGF_01734516	Cryobacterium	184.57	26.93	FHA-domain-containing protein
+PGF_01734668	Cryobacterium	198.86	2.48	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Cryobacterium	289.14	0.38	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01749209	Cryobacterium	225.14	16.25	Phosphoglycerate mutase
+PGF_01777142	Cryobacterium	191.43	5.53	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01832663	Cryobacterium	373.86	15.30	Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)
+PGF_01853493	Cryobacterium	279.14	10.87	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Cryobacterium	341.14	2.48	Heat-inducible transcription repressor HrcA
+PGF_01899917	Cryobacterium	507.14	2.73	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_01899924	Cryobacterium	288.86	6.04	Flagellar motor rotation protein MotB
+PGF_01900530	Cryobacterium	227.86	9.65	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900807	Cryobacterium	295.14	0.38	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01910737	Cryobacterium	191.57	3.21	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01916207	Cryobacterium	281.57	0.98	Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion
+PGF_01949788	Cryobacterium	204.43	3.41	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Cryobacterium	608.71	9.09	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01974399	Cryobacterium	222.00	0.00	L-cystine ABC transporter, permease protein TcyB
+PGF_01981062	Cryobacterium	282.29	17.98	Coenzyme F420-0:L-glutamate ligase (EC 6.3.2.31) @ F420-1:L-glutamate ligase (EC 6.3.2.34)
+PGF_01990221	Cryobacterium	426.29	2.69	Aspartyl aminopeptidase (EC 3.4.11.21)
+PGF_01994657	Cryobacterium	462.43	7.59	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Cryobacterium	253.43	0.53	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Cryobacterium	351.14	14.80	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Cryobacterium	538.43	18.77	GTP-binding protein Obg
+PGF_02059020	Cryobacterium	558.00	3.42	Energy-dependent translational throttle protein EttA
+PGF_02074253	Cryobacterium	133.57	60.11	hypothetical protein
+PGF_02078166	Cryobacterium	199.00	35.94	hypothetical protein
+PGF_02109968	Cryobacterium	340.00	3.42	Flagellar motor switch protein FliG
+PGF_02111888	Cryobacterium	340.71	15.82	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Cryobacterium	417.43	5.13	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02226715	Cryobacterium	741.71	12.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227981	Cryobacterium	432.00	18.06	Serine protease
+PGF_02239557	Cryobacterium	269.29	9.66	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02246334	Cryobacterium	205.00	3.27	Integral membrane protein
+PGF_02247058	Cryobacterium	311.00	15.20	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+PGF_02311293	Cryobacterium	369.57	0.79	Peptide chain release factor 2
+PGF_02344297	Cryobacterium	303.00	12.86	hypothetical protein
+PGF_02346669	Cryobacterium	311.43	8.26	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Cryobacterium	885.14	3.02	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02349208	Cryobacterium	203.57	11.66	Hypothetical, related to broad specificity phosphatases COG0406
+PGF_02357764	Cryobacterium	168.00	3.21	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02399143	Cryobacterium	702.14	3.18	Fatty-acyl-CoA oxidase (EC 1.3.3.6), related to yeast fatty acid beta-oxidation enzyme POX1
+PGF_02409931	Cryobacterium	1135.29	24.33	ATP-dependent DNA helicase SCO5184
+PGF_02417835	Cryobacterium	479.57	5.97	4-aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
+PGF_02429619	Cryobacterium	263.00	5.13	Putative oxidoreductase
+PGF_02450432	Cryobacterium	333.86	5.37	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Cryobacterium	86.86	0.38	SSU ribosomal protein S20p
+PGF_02463284	Cryobacterium	199.00	0.00	Recombination protein RecR
+PGF_02515882	Cryobacterium	425.29	2.69	Aspartokinase (EC 2.7.2.4)
+PGF_02516666	Cryobacterium	288.57	19.10	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Cryobacterium	426.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02552445	Cryobacterium	532.00	0.00	Bis-ABC ATPase SCO1840
+PGF_02565090	Cryobacterium	200.71	6.10	Thiol:disulfide oxidoreductase related to ResA
+PGF_02587605	Cryobacterium	137.29	3.20	Zinc uptake regulation protein Zur
+PGF_02611620	Cryobacterium	461.86	18.47	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02704551	Cryobacterium	1289.57	34.50	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02776739	Cryobacterium	121.71	3.09	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02788986	Cryobacterium	602.43	2.44	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 2
+PGF_02789532	Cryobacterium	293.86	9.26	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Cryobacterium	212.43	2.44	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02795771	Cryobacterium	89.00	0.00	Glutaredoxin-like domain-containing protein PA3033
+PGF_02797400	Cryobacterium	469.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Cryobacterium	1015.00	391.57	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Cryobacterium	541.43	1.51	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Cryobacterium	189.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02844091	Cryobacterium	256.71	8.36	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Cryobacterium	396.86	5.67	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866866	Cryobacterium	369.14	5.01	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02873114	Cryobacterium	115.43	15.22	putative membrane protein
+PGF_02874818	Cryobacterium	320.29	0.49	Oxidoreductase
+PGF_02897543	Cryobacterium	176.00	2.83	Phospholipid-binding protein
+PGF_02898096	Cryobacterium	485.00	0.00	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Cryobacterium	113.86	1.07	LSU ribosomal protein L29p (L35e)
+PGF_02923127	Cryobacterium	240.86	8.65	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930420	Cryobacterium	356.71	0.76	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_02931205	Cryobacterium	283.71	2.75	putative membrane protein
+PGF_02936332	Cryobacterium	330.71	16.42	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02945210	Cryobacterium	298.71	8.22	Flagellar motor switch protein FliM
+PGF_02946231	Cryobacterium	484.29	0.49	SSU ribosomal protein S1p
+PGF_02959749	Cryobacterium	404.86	5.76	Ribonuclease D (EC 3.1.26.3)
+PGF_03000826	Cryobacterium	450.57	13.88	Uncharacterized protein SCO5199
+PGF_03003352	Cryobacterium	588.00	0.00	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03017775	Cryobacterium	508.71	4.42	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03021263	Cryobacterium	175.00	9.38	SepF, FtsZ-interacting protein related to cell division
+PGF_03026450	Cryobacterium	1212.00	22.15	Chromosome partition protein smc
+PGF_03029489	Cryobacterium	229.71	0.49	GlnR-family transcriptional regulator
+PGF_03029859	Cryobacterium	598.14	1.95	Bis-ABC ATPase Uup
+PGF_03030703	Cryobacterium	555.00	2.65	Bis-ABC ATPase SCO6742
+PGF_03048120	Cryobacterium	435.00	0.00	putative membrane protein
+PGF_03054699	Cryobacterium	960.86	23.55	DNA translocase FtsK
+PGF_03057384	Cryobacterium	344.57	0.98	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03062930	Cryobacterium	414.86	10.71	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.35)
+PGF_03069524	Cryobacterium	84.43	7.35	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03070587	Cryobacterium	427.57	5.53	Ornithine aminotransferase (EC 2.6.1.13)
+PGF_03081927	Cryobacterium	253.00	1.73	Polyphosphate glucokinase (EC 2.7.1.63)
+PGF_03095695	Cryobacterium	266.29	7.30	Abortive infection protein
+PGF_03099722	Cryobacterium	568.86	4.56	Serine/threonine-protein kinase PknA (EC 2.7.11.1)
+PGF_03107265	Cryobacterium	534.00	1.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03111988	Cryobacterium	209.71	6.60	Cell division initiation protein DivIVA
+PGF_03124650	Cryobacterium	515.29	0.49	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Cryobacterium	427.43	11.24	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03138644	Cryobacterium	210.71	6.80	Arginine exporter protein ArgO
+PGF_03152833	Cryobacterium	277.43	21.16	Ku domain protein
+PGF_03165032	Cryobacterium	122.86	6.31	hypothetical protein
+PGF_03222913	Cryobacterium	87.86	1.21	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03232407	Cryobacterium	185.29	0.95	Protein yceI precursor
+PGF_03253896	Cryobacterium	227.14	0.90	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Cryobacterium	238.14	11.85	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Cryobacterium	765.29	294.57	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03272699	Cryobacterium	525.71	5.41	Beta-carotene ketolase
+PGF_03278866	Cryobacterium	78.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03340305	Cryobacterium	156.00	0.00	RidA/YER057c/UK114 superfamily, group 1
+PGF_03421722	Cryobacterium	426.00	32.68	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03474542	Cryobacterium	446.71	9.66	Flagellum-specific ATP synthase FliI
+PGF_03507859	Cryobacterium	334.29	5.62	Luciferase-like monooxygenase YhbW
+PGF_03518570	Cryobacterium	139.57	0.53	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Cryobacterium	406.00	10.47	Cell division protein FtsZ
+PGF_03534120	Cryobacterium	244.14	12.69	Nudix-related transcriptional regulator NrtR
+PGF_03574598	Cryobacterium	367.57	1.13	Lon-like protease with PDZ domain
+PGF_03584110	Cryobacterium	55.86	1.21	FIG011121: hypothetical protein
+PGF_03591205	Cryobacterium	408.86	2.04	Serine/threonine phosphatase PPP (EC 3.1.3.16)
+PGF_03602835	Cryobacterium	400.43	0.53	Hypothetical protein, possibly related to signal transduction
+PGF_03609651	Cryobacterium	521.29	1.60	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03683462	Cryobacterium	174.00	7.72	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_03699416	Cryobacterium	267.29	20.06	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Cryobacterium	301.29	7.18	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Cryobacterium	89.86	0.69	Protein translocase subunit SecE
+PGF_03719269	Cryobacterium	212.00	8.25	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Cryobacterium	178.71	13.97	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750571	Cryobacterium	445.86	71.39	Chromosomal replication initiator protein DnaA
+PGF_03750600	Cryobacterium	426.14	19.62	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03752544	Cryobacterium	218.29	0.76	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Cryobacterium	326.29	13.72	Site-specific tyrosine recombinase XerC
+PGF_03755230	Cryobacterium	449.14	2.85	FIG007959: peptidase, M16 family
+PGF_03778780	Cryobacterium	291.00	0.00	Signal recognition particle receptor FtsY
+PGF_03780858	Cryobacterium	618.00	1.91	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1
+PGF_03783620	Cryobacterium	178.86	1.21	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Cryobacterium	232.43	4.61	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Cryobacterium	282.00	0.00	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03801260	Cryobacterium	346.14	1.07	Integral membrane protein
+PGF_03804538	Cryobacterium	575.00	2.24	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03810115	Cryobacterium	258.86	3.76	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Cryobacterium	366.29	5.53	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03862500	Cryobacterium	209.86	0.38	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03912513	Cryobacterium	160.14	4.71	DNA protection during starvation protein
+PGF_03954476	Cryobacterium	277.86	3.34	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03991729	Cryobacterium	396.57	3.74	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03999196	Cryobacterium	749.14	243.03	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04009106	Cryobacterium	147.29	8.16	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Cryobacterium	514.71	66.52	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Cryobacterium	152.29	11.74	Large-conductance mechanosensitive channel
+PGF_04044064	Cryobacterium	391.43	4.20	Ferrous iron transport periplasmic protein EfeO, contains peptidase-M75 domain and (frequently) cupredoxin-like domain
+PGF_04046569	Cryobacterium	295.14	7.13	Glycosyltransferase
+PGF_04047265	Cryobacterium	88.86	6.26	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04091295	Cryobacterium	276.71	12.42	Flagellar motor rotation protein MotA
+PGF_04151476	Cryobacterium	215.14	10.99	16S rRNA processing protein RimM
+PGF_04182459	Cryobacterium	386.57	19.83	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04251642	Cryobacterium	143.43	2.76	(3R)-hydroxyacyl-ACP dehydratase subunit HadB
+PGF_04360357	Cryobacterium	837.00	257.09	Protein translocase subunit SecA
+PGF_04388677	Cryobacterium	361.14	12.85	Linoleoyl-CoA desaturase (EC 1.14.19.3)
+PGF_04457297	Cryobacterium	192.00	0.00	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04477106	Cryobacterium	402.00	5.29	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04505269	Cryobacterium	310.86	3.85	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Cryobacterium	470.29	2.14	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Cryobacterium	449.57	8.44	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Cryobacterium	544.29	24.03	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04605739	Cryobacterium	247.57	4.61	hypothetical protein
+PGF_04662829	Cryobacterium	664.71	8.79	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04704185	Cryobacterium	478.57	1.13	NAD(P)H quinone reductase LpdA (EC 1.6.5.2)
+PGF_04749763	Cryobacterium	899.43	133.51	Translation initiation factor 2
+PGF_04788810	Cryobacterium	167.00	0.58	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04845029	Cryobacterium	113.43	0.79	LSU ribosomal protein L19p
+PGF_04866046	Cryobacterium	651.29	26.47	Uncharacterized protein YyaL
+PGF_04970608	Cryobacterium	85.43	0.53	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Cryobacterium	101.29	1.89	LSU ribosomal protein L21p
+PGF_05091456	Cryobacterium	316.57	2.99	Uncharacterized inner membrane protein RarD
+PGF_05109279	Cryobacterium	87.57	6.43	hypothetical protein
+PGF_05126349	Cryobacterium	187.71	25.47	CblZ, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase
+PGF_05135220	Cryobacterium	864.86	2.27	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Cryobacterium	304.71	0.49	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Cryobacterium	487.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Cryobacterium	456.86	0.38	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05207025	Cryobacterium	172.43	7.61	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_05218024	Cryobacterium	558.43	10.21	Serine/threonine-protein kinase PknB (EC 2.7.11.1)
+PGF_05280843	Cryobacterium	447.29	13.80	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05439724	Cryobacterium	691.29	173.62	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Cryobacterium	512.57	15.43	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05560886	Cryobacterium	293.00	18.12	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Cryobacterium	441.71	4.54	Protein translocase subunit SecY
+PGF_05598173	Cryobacterium	400.86	10.62	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Cryobacterium	285.00	39.79	Phytoene synthase (EC 2.5.1.32)
+PGF_05682204	Cryobacterium	312.43	11.63	Glycine betaine ABC transport system, permease protein OpuAB
+PGF_05710599	Cryobacterium	255.14	6.57	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05949521	Cryobacterium	574.57	4.08	Protein translocase subunit SecD
+PGF_05971611	Cryobacterium	407.57	4.35	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06051594	Cryobacterium	442.86	20.38	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06085876	Cryobacterium	230.00	0.00	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_06127529	Cryobacterium	440.14	4.63	Ferrous iron transport peroxidase EfeB
+PGF_06170558	Cryobacterium	158.14	1.57	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Cryobacterium	148.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Cryobacterium	98.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06267547	Cryobacterium	425.86	2.85	hypothetical protein
+PGF_06315406	Cryobacterium	469.57	15.23	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06326847	Cryobacterium	291.43	3.99	Flagellar biosynthesis protein FliP
+PGF_06377994	Cryobacterium	454.86	11.19	FtsW-like cell division membrane protein CA_C0505
+PGF_06379377	Cryobacterium	439.57	11.69	Replication-associated recombination protein RarA
+PGF_06461498	Cryobacterium	299.57	3.41	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Cryobacterium	339.29	11.80	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06495818	Cryobacterium	258.43	6.00	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06586947	Cryobacterium	407.14	0.38	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06594013	Cryobacterium	133.00	0.00	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06644010	Cryobacterium	317.29	1.80	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Cryobacterium	82.00	0.00	Acyl carrier protein
+PGF_06649360	Cryobacterium	230.00	47.60	Segregation and condensation protein B
+PGF_06660812	Cryobacterium	204.71	2.43	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06672507	Cryobacterium	648.57	10.44	Probable serine/threonine-protein kinase pknL (EC 2.7.11.1)
+PGF_06686458	Cryobacterium	476.43	3.26	Dihydropyrimidinase (EC 3.5.2.2) @ D-hydantoinase (EC 3.5.2.2)
+PGF_06701488	Cryobacterium	196.86	9.89	RNA-binding protein Jag
+PGF_06755829	Cryobacterium	395.57	11.76	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757690	Cryobacterium	780.71	14.37	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
+PGF_06772993	Cryobacterium	917.00	59.07	Ribonuclease E (EC 3.1.26.12)
+PGF_06781102	Cryobacterium	388.29	8.99	coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase
+PGF_07050301	Cryobacterium	331.43	1.99	7,8-didemethyl-8-hydroxy-5-deazariboflavin ABC transporter, substrate-binding protein
+PGF_07101513	Cryobacterium	237.14	5.70	Flagellar motor switch protein FliN
+PGF_08080818	Cryobacterium	102.71	1.89	hypothetical protein
+PGF_08081349	Cryobacterium	102.00	4.76	Flagellar hook-basal body complex protein FliE
+PGF_08122037	Cryobacterium	234.71	11.70	RNA polymerase sigma-54 factor RpoN
+PGF_08126362	Cryobacterium	464.00	16.00	DNA recombination protein RmuC
+PGF_08183187	Cryobacterium	431.57	33.16	Cell division protein FtsW
+PGF_08197987	Cryobacterium	123.00	5.13	Iron-sulfur cluster insertion protein SCO2161

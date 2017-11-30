@@ -1,0 +1,968 @@
+PGF_00000196	Lachnobacterium	436.80	10.73	FIG007079: UPF0348 protein family
+PGF_00000311	Lachnobacterium	295.40	5.37	8-oxoguanine-DNA-glycosylase
+PGF_00000407	Lachnobacterium	201.00	0.00	FIG00814129: Possible chaperone
+PGF_00001384	Lachnobacterium	314.00	0.00	FIG01020026: hypothetical protein
+PGF_00001390	Lachnobacterium	488.00	0.00	FIG01020134: hypothetical protein
+PGF_00002592	Lachnobacterium	216.00	0.00	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00002970	Lachnobacterium	246.80	0.45	FIG145533: Methyltransferase (EC 2.1.1.-)
+PGF_00003269	Lachnobacterium	311.00	2.24	FIG069887: hypothetical protein
+PGF_00003409	Lachnobacterium	622.00	0.00	FIG092679: Fe-S oxidoreductase
+PGF_00004032	Lachnobacterium	708.00	8.40	FUSION: Nucleoside-diphosphate-sugar epimerase and GAF domain
+PGF_00004169	Lachnobacterium	607.60	5.81	Fe-S oxidoreductase
+PGF_00004323	Lachnobacterium	56.00	0.00	Ferredoxin
+PGF_00004728	Lachnobacterium	581.00	0.00	Fibronectin/fibrinogen-binding protein
+PGF_00005291	Lachnobacterium	165.00	0.00	Flagellar assembly factor FliW
+PGF_00005354	Lachnobacterium	147.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005358	Lachnobacterium	272.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Lachnobacterium	682.80	3.83	Flagellar biosynthesis protein FlhA
+PGF_00005402	Lachnobacterium	93.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005572	Lachnobacterium	118.60	1.34	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005656	Lachnobacterium	462.80	0.45	ABC transporter, predicted N-acetylneuraminate-binding protein
+PGF_00005780	Lachnobacterium	450.60	8.62	ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)
+PGF_00005945	Lachnobacterium	393.00	6.71	Flavoprotein
+PGF_00005957	Lachnobacterium	206.60	3.13	Flavoredoxin
+PGF_00006277	Lachnobacterium	434.00	0.00	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+PGF_00006377	Lachnobacterium	651.00	0.00	Fructose-1,6-bisphosphatase, Bacillus type (EC 3.1.3.11)
+PGF_00006394	Lachnobacterium	289.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006935	Lachnobacterium	525.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Lachnobacterium	365.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Lachnobacterium	441.00	0.00	GTP-binding protein EngA
+PGF_00007026	Lachnobacterium	273.00	0.00	GTP-binding protein EngB
+PGF_00007027	Lachnobacterium	304.40	3.13	GTP-binding protein Era
+PGF_00007028	Lachnobacterium	416.00	0.00	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Lachnobacterium	608.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007045	Lachnobacterium	262.00	0.00	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Lachnobacterium	458.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Lachnobacterium	387.80	0.45	Galactokinase (EC 2.7.1.6)
+PGF_00007119	Lachnobacterium	518.60	3.58	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007304	Lachnobacterium	281.00	0.00	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Lachnobacterium	314.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Lachnobacterium	331.80	15.34	Glucokinase (EC 2.7.1.2)
+PGF_00007919	Lachnobacterium	224.00	0.00	Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_00007920	Lachnobacterium	243.00	0.00	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00007982	Lachnobacterium	298.00	0.00	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Lachnobacterium	448.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Lachnobacterium	442.00	0.00	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Lachnobacterium	279.00	0.00	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Lachnobacterium	411.00	0.00	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Lachnobacterium	261.00	0.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Lachnobacterium	1520.20	7.16	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008258	Lachnobacterium	443.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008261	Lachnobacterium	707.00	0.00	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+PGF_00008264	Lachnobacterium	185.00	0.00	Glutamine synthetase-associated two-component response regulator
+PGF_00008326	Lachnobacterium	557.00	0.00	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008337	Lachnobacterium	483.00	0.00	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008537	Lachnobacterium	498.00	0.00	Glycerol kinase (EC 2.7.1.30)
+PGF_00008542	Lachnobacterium	238.00	0.00	Glycerol uptake facilitator protein
+PGF_00008605	Lachnobacterium	479.20	0.45	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00008611	Lachnobacterium	337.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Lachnobacterium	237.00	0.00	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009479	Lachnobacterium	468.60	0.89	Glycosyl transferase, group 1 family protein
+PGF_00009500	Lachnobacterium	183.00	0.00	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009727	Lachnobacterium	311.60	1.34	Glycosyltransferase
+PGF_00009966	Lachnobacterium	463.40	2.19	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Lachnobacterium	244.00	0.00	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Lachnobacterium	780.00	0.00	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Lachnobacterium	222.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010581	Lachnobacterium	196.80	0.45	HDIG domain protein
+PGF_00010692	Lachnobacterium	313.00	0.00	HPr kinase/phosphorylase
+PGF_00010707	Lachnobacterium	268.60	1.34	HTH DNA-binding protein
+PGF_00010930	Lachnobacterium	231.60	5.37	Hcp transcriptional regulator HcpR (Crp/Fnr family)
+PGF_00011081	Lachnobacterium	743.00	0.00	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011792	Lachnobacterium	99.40	0.55	His repressor
+PGF_00011979	Lachnobacterium	432.20	1.79	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011989	Lachnobacterium	266.00	0.00	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012264	Lachnobacterium	332.60	1.34	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Lachnobacterium	397.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012652	Lachnobacterium	168.00	0.00	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00012796	Lachnobacterium	147.00	0.00	ACT-domain-containing protein, predicted allosteric regulator of homoserine dehydrogenase
+PGF_00012920	Lachnobacterium	532.60	0.89	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012970	Lachnobacterium	441.00	0.00	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013244	Lachnobacterium	189.40	1.34	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Lachnobacterium	230.00	0.00	UPF0001 protein YggS
+PGF_00013347	Lachnobacterium	87.00	0.00	UPF0297 protein YrzL
+PGF_00013418	Lachnobacterium	511.80	1.79	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_00013492	Lachnobacterium	179.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013802	Lachnobacterium	426.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF / Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00013803	Lachnobacterium	197.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Lachnobacterium	270.00	0.00	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Lachnobacterium	484.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015463	Lachnobacterium	166.40	1.34	Iron-dependent repressor
+PGF_00015514	Lachnobacterium	470.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015699	Lachnobacterium	402.00	0.00	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Lachnobacterium	1052.80	0.45	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Lachnobacterium	341.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015963	Lachnobacterium	404.00	0.00	L,L-diaminopimelate aminotransferase (EC 2.6.1.83)
+PGF_00016028	Lachnobacterium	499.00	0.00	L-arabinose isomerase (EC 5.3.1.4)
+PGF_00016046	Lachnobacterium	374.60	1.34	L-asparaginase (EC 3.5.1.1)
+PGF_00016139	Lachnobacterium	513.00	0.00	L-lactate permease
+PGF_00016218	Lachnobacterium	238.20	2.68	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
+PGF_00016223	Lachnobacterium	288.00	0.00	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Lachnobacterium	221.80	0.45	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016328	Lachnobacterium	177.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016340	Lachnobacterium	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Lachnobacterium	146.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Lachnobacterium	145.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Lachnobacterium	173.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Lachnobacterium	122.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Lachnobacterium	231.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Lachnobacterium	118.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Lachnobacterium	128.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Lachnobacterium	99.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Lachnobacterium	115.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Lachnobacterium	95.00	0.00	LSU ribosomal protein L27p
+PGF_00016387	Lachnobacterium	61.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016393	Lachnobacterium	280.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Lachnobacterium	61.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Lachnobacterium	60.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Lachnobacterium	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Lachnobacterium	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Lachnobacterium	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Lachnobacterium	226.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Lachnobacterium	206.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Lachnobacterium	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Lachnobacterium	179.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Lachnobacterium	124.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Lachnobacterium	148.00	0.00	LSU ribosomal protein L9p
+PGF_00019100	Lachnobacterium	338.00	0.00	Maltose operon transcriptional repressor MalR, LacI family
+PGF_00019157	Lachnobacterium	414.20	0.45	Maltodextrin ABC transporter, substrate-binding protein MdxE
+PGF_00019221	Lachnobacterium	1210.40	3.58	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Lachnobacterium	550.00	0.00	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019474	Lachnobacterium	474.20	0.45	Melibiose carrier protein, Na+/melibiose symporter
+PGF_00020321	Lachnobacterium	254.00	2.24	Metal transporter, ZIP family
+PGF_00020361	Lachnobacterium	165.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020756	Lachnobacterium	371.80	0.45	Methionine synthase II (cobalamin-independent)
+PGF_00020759	Lachnobacterium	223.00	0.00	Methionine synthase activation domain (EC 2.1.1.13)
+PGF_00020764	Lachnobacterium	459.00	4.47	Methionine transporter MetT
+PGF_00020996	Lachnobacterium	131.00	0.00	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021217	Lachnobacterium	515.00	0.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022707	Lachnobacterium	328.00	0.00	MreB-like protein (Mbl protein)
+PGF_00023476	Lachnobacterium	139.60	3.13	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Lachnobacterium	340.00	0.00	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Lachnobacterium	351.00	0.00	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024273	Lachnobacterium	166.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024309	Lachnobacterium	640.00	0.00	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024314	Lachnobacterium	528.00	0.00	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024478	Lachnobacterium	339.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Lachnobacterium	243.00	0.00	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024567	Lachnobacterium	397.00	0.00	Acetate kinase (EC 2.7.2.1)
+PGF_00024615	Lachnobacterium	288.80	1.79	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024831	Lachnobacterium	444.80	1.79	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024855	Lachnobacterium	166.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025050	Lachnobacterium	406.00	69.32	NPQTN specific sortase B
+PGF_00025267	Lachnobacterium	545.00	0.00	Na+/H+ antiporter
+PGF_00025562	Lachnobacterium	177.00	0.00	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Lachnobacterium	485.00	0.00	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025623	Lachnobacterium	340.00	10.95	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025678	Lachnobacterium	130.00	0.00	NimC/NimA family protein
+PGF_00026010	Lachnobacterium	158.00	0.00	Nitroimidazole resistance protein NimB
+PGF_00026362	Lachnobacterium	199.00	0.00	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026615	Lachnobacterium	297.00	0.00	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026829	Lachnobacterium	224.00	0.00	ORF28
+PGF_00026888	Lachnobacterium	598.00	0.00	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00026934	Lachnobacterium	573.00	4.47	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)
+PGF_00027063	Lachnobacterium	654.20	0.45	Oligopeptide transporter
+PGF_00028514	Lachnobacterium	473.00	0.00	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3); Methylmalonyl-CoA decarboxylase alpha chain (EC 4.1.1.41)
+PGF_00028517	Lachnobacterium	383.00	0.00	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3) @ Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)
+PGF_00029752	Lachnobacterium	729.80	0.45	PTS system, maltose and glucose-specific IIC component / PTS system, maltose and glucose-specific IIB component (EC 2.7.1.208) / PTS system, maltose and glucose-specific IIA component
+PGF_00029812	Lachnobacterium	329.00	0.00	PTS system, mannose-specific IIA component (EC 2.7.1.191) / PTS system, mannose-specific IIB component (EC 2.7.1.191)
+PGF_00029917	Lachnobacterium	288.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Lachnobacterium	358.00	0.00	Peptide chain release factor 1
+PGF_00030643	Lachnobacterium	531.00	0.00	Peptide chain release factor 3
+PGF_00030727	Lachnobacterium	484.00	0.00	Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)
+PGF_00030905	Lachnobacterium	484.00	0.00	[FeFe] hydrogenase (EC 1.12.7.2)
+PGF_00031568	Lachnobacterium	129.20	0.45	Peroxide stress regulator PerR, FUR family
+PGF_00033095	Lachnobacterium	806.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033197	Lachnobacterium	330.00	0.00	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Lachnobacterium	336.20	0.45	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Lachnobacterium	345.00	0.00	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033309	Lachnobacterium	166.00	0.00	Phosphatidic acid phosphatase-like protein SPy1836
+PGF_00033360	Lachnobacterium	319.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033423	Lachnobacterium	540.00	0.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Lachnobacterium	683.00	0.00	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033511	Lachnobacterium	406.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033537	Lachnobacterium	180.80	1.79	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033877	Lachnobacterium	160.00	0.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Lachnobacterium	424.00	0.00	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Lachnobacterium	301.00	17.89	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033940	Lachnobacterium	392.00	0.00	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00033947	Lachnobacterium	258.00	0.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Lachnobacterium	341.00	0.00	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Lachnobacterium	1267.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Lachnobacterium	207.00	0.00	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Lachnobacterium	360.00	0.00	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Lachnobacterium	698.00	0.00	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Lachnobacterium	174.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035009	Lachnobacterium	165.60	0.89	Positive regulator of CheA protein activity (CheW)
+PGF_00035098	Lachnobacterium	306.80	1.79	Possible alpha-xyloside ABC transporter, permease component
+PGF_00035100	Lachnobacterium	285.00	0.00	Possible alpha-xyloside ABC transporter, permease component
+PGF_00035334	Lachnobacterium	351.60	9.84	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035400	Lachnobacterium	242.00	0.00	Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family
+PGF_00035713	Lachnobacterium	167.00	0.00	Predicted amino-acid acetyltransferase (EC 2.3.1.1) complementing ArgA function in Arginine Biosynthesis pathway
+PGF_00035721	Lachnobacterium	483.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Lachnobacterium	429.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035894	Lachnobacterium	430.40	0.89	Predicted glycosyltransferase
+PGF_00036580	Lachnobacterium	103.40	1.34	Protein translocase subunit YajC
+PGF_00036814	Lachnobacterium	467.00	0.00	Probable M18-family aminopeptidase 1 (EC 3.4.11.-)
+PGF_00037565	Lachnobacterium	509.00	0.00	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037586	Lachnobacterium	479.00	0.00	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00038198	Lachnobacterium	241.00	0.00	Protein of phosphatidic acid phosphatase family, YNBD E.coli ortholog
+PGF_00038619	Lachnobacterium	246.00	2.24	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038653	Lachnobacterium	792.00	6.16	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038707	Lachnobacterium	171.00	0.00	Protein with domain similar to SecA
+PGF_00038986	Lachnobacterium	279.40	0.89	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00040171	Lachnobacterium	487.60	61.27	Uncharacterized amino acid permease, GabP family
+PGF_00040464	Lachnobacterium	385.80	1.64	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040578	Lachnobacterium	260.00	0.00	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Lachnobacterium	125.00	0.00	Alkaline shock protein
+PGF_00041181	Lachnobacterium	273.00	0.00	Putative glycosyltransferase
+PGF_00041788	Lachnobacterium	140.00	0.00	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042149	Lachnobacterium	259.00	0.00	Putative membrane-spanning protein
+PGF_00042816	Lachnobacterium	421.80	0.45	Putative oxidoreductase
+PGF_00043457	Lachnobacterium	133.20	6.57	Putative regulator of the mannose operon, ManO
+PGF_00045787	Lachnobacterium	194.80	0.45	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Lachnobacterium	291.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Lachnobacterium	434.00	0.00	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045939	Lachnobacterium	415.00	0.00	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00045991	Lachnobacterium	475.20	0.45	Pyruvate kinase (EC 2.7.1.40)
+PGF_00045999	Lachnobacterium	896.00	0.00	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+PGF_00046007	Lachnobacterium	1174.00	0.00	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+PGF_00046060	Lachnobacterium	235.80	4.02	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Lachnobacterium	285.00	0.00	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Lachnobacterium	305.00	0.00	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046197	Lachnobacterium	267.00	0.00	RNA binding methyltransferase FtsJ like
+PGF_00046216	Lachnobacterium	239.00	0.00	Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.-)
+PGF_00046273	Lachnobacterium	316.00	0.00	alpha-L-arabinofuranosidase II (EC 3.2.1.55)
+PGF_00046377	Lachnobacterium	254.00	0.00	RNA polymerase sigma factor for flagellar operon
+PGF_00046555	Lachnobacterium	199.00	0.00	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046611	Lachnobacterium	501.00	0.00	alpha-L-arabinofuranosidase (EC 3.2.1.55)
+PGF_00047078	Lachnobacterium	364.20	0.45	RecA protein
+PGF_00047095	Lachnobacterium	741.00	0.00	RecD-like DNA helicase YrrC
+PGF_00047141	Lachnobacterium	297.00	0.00	Alpha-arabinosides ABC transport system, permease protein AraQ
+PGF_00047155	Lachnobacterium	211.00	0.00	Redox-sensing transcriptional repressor Rex
+PGF_00047494	Lachnobacterium	794.40	1.34	alpha-galactosidase (EC 3.2.1.22)
+PGF_00047642	Lachnobacterium	132.00	0.00	Repressor CsoR of the copZA operon
+PGF_00048420	Lachnobacterium	191.40	0.89	Rhomboid-like protein
+PGF_00048480	Lachnobacterium	229.60	5.37	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048553	Lachnobacterium	195.00	0.00	Ribonuclease HI-related protein
+PGF_00048594	Lachnobacterium	303.00	0.00	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048643	Lachnobacterium	149.00	0.00	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Lachnobacterium	398.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048836	Lachnobacterium	247.20	0.45	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Lachnobacterium	327.00	0.00	Ribosomal protein L11 methyltransferase
+PGF_00048846	Lachnobacterium	440.00	0.00	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Lachnobacterium	235.60	0.89	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Lachnobacterium	177.00	0.00	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Lachnobacterium	184.00	0.00	Ribosome recycling factor
+PGF_00048928	Lachnobacterium	292.00	0.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Lachnobacterium	79.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Lachnobacterium	118.00	0.00	Ribosome-binding factor A
+PGF_00048964	Lachnobacterium	531.20	0.45	Ribulokinase (EC 2.7.1.16)
+PGF_00048985	Lachnobacterium	216.00	0.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Lachnobacterium	393.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Lachnobacterium	349.80	0.45	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049389	Lachnobacterium	975.00	2.24	S-layer homology domain protein
+PGF_00049433	Lachnobacterium	153.00	0.00	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049461	Lachnobacterium	286.00	0.00	SAM-dependent methyltransferase
+PGF_00049677	Lachnobacterium	457.40	0.89	SCIFF radical SAM maturase
+PGF_00049731	Lachnobacterium	432.00	0.00	Aluminum resistance protein
+PGF_00049827	Lachnobacterium	291.00	0.00	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Lachnobacterium	105.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Lachnobacterium	131.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Lachnobacterium	139.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Lachnobacterium	122.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Lachnobacterium	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Lachnobacterium	88.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Lachnobacterium	81.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Lachnobacterium	85.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049857	Lachnobacterium	83.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049860	Lachnobacterium	94.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Lachnobacterium	218.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Lachnobacterium	196.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Lachnobacterium	169.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Lachnobacterium	96.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Lachnobacterium	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Lachnobacterium	133.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Lachnobacterium	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Lachnobacterium	306.60	1.34	Segregation and condensation protein A
+PGF_00050995	Lachnobacterium	496.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Lachnobacterium	269.00	0.00	Septum site-determining protein MinC
+PGF_00051525	Lachnobacterium	431.60	1.34	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051550	Lachnobacterium	289.00	0.00	Shikimate/quinate 5-dehydrogenase I beta (EC 1.1.1.282)
+PGF_00052218	Lachnobacterium	114.00	0.00	Signal recognition particle associated protein
+PGF_00052238	Lachnobacterium	452.00	0.00	Signal recognition particle protein Ffh
+PGF_00052573	Lachnobacterium	335.00	0.00	Similar to citrate lyase beta subunit
+PGF_00052705	Lachnobacterium	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00053991	Lachnobacterium	510.80	6.57	Stage 0 sporulation protein YaaT
+PGF_00054591	Lachnobacterium	577.00	0.00	Ammonium transporter / Nitrogen regulatory protein P-II
+PGF_00054879	Lachnobacterium	299.00	0.00	Sucrose ABC transporter, permease protein 1
+PGF_00054973	Lachnobacterium	553.00	0.00	Sulfate permease
+PGF_00055284	Lachnobacterium	125.00	0.00	Superoxide reductase (EC 1.15.1.2)
+PGF_00056151	Lachnobacterium	159.20	2.68	Teichoic acid glycosylation protein
+PGF_00056544	Lachnobacterium	270.80	1.79	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Lachnobacterium	337.00	0.00	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Lachnobacterium	664.60	83.63	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Lachnobacterium	196.00	0.00	Thymidine kinase (EC 2.7.1.21)
+PGF_00057270	Lachnobacterium	745.00	0.00	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Lachnobacterium	217.00	0.00	Transaldolase (EC 2.2.1.2)
+PGF_00057483	Lachnobacterium	572.00	2.24	Transcription termination factor Rho
+PGF_00057485	Lachnobacterium	394.80	1.79	Transcription termination protein NusA
+PGF_00057488	Lachnobacterium	140.20	10.73	Transcription termination protein NusB
+PGF_00059819	Lachnobacterium	309.00	0.00	Transcriptional regulator, RpiR family
+PGF_00060280	Lachnobacterium	248.00	0.00	Transcriptional repressor of the fructose operon, DeoR family
+PGF_00060343	Lachnobacterium	342.40	3.58	Transglutaminase-like enzyme, putative cysteine protease
+PGF_00060399	Lachnobacterium	314.00	0.00	Transketolase, C-terminal section (EC 2.2.1.1)
+PGF_00060409	Lachnobacterium	705.00	0.00	Translation elongation factor G
+PGF_00060414	Lachnobacterium	603.00	0.00	Translation elongation factor LepA
+PGF_00060421	Lachnobacterium	185.00	0.00	Translation elongation factor P
+PGF_00060427	Lachnobacterium	310.00	0.00	Translation elongation factor Ts
+PGF_00060428	Lachnobacterium	395.00	0.00	Translation elongation factor Tu
+PGF_00060431	Lachnobacterium	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Lachnobacterium	164.00	0.00	Translation initiation factor 3
+PGF_00061922	Lachnobacterium	408.00	0.00	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062023	Lachnobacterium	285.60	1.34	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Lachnobacterium	628.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Lachnobacterium	362.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062558	Lachnobacterium	875.60	1.34	Arabinan endo-1,5-alpha-L-arabinosidase (EC 3.2.1.99)
+PGF_00063308	Lachnobacterium	295.00	0.00	Arabinose operon regulatory protein AraC
+PGF_00063416	Lachnobacterium	398.00	0.00	Type II/IV secretion system ATP hydrolase TadA/VirB11/CpaF, TadA subfamily
+PGF_00063916	Lachnobacterium	407.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Lachnobacterium	304.20	1.79	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Lachnobacterium	355.00	0.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Lachnobacterium	459.00	0.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064046	Lachnobacterium	382.00	0.00	UDP-galactopyranose mutase (EC 5.4.99.9)
+PGF_00064281	Lachnobacterium	473.00	0.00	Arginine decarboxylase (EC 4.1.1.19); Lysine decarboxylase (EC 4.1.1.18); Ornithine decarboxylase (EC 4.1.1.17)
+PGF_00064359	Lachnobacterium	149.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064740	Lachnobacterium	208.00	0.00	Uncharacterized hydrolase DSY2054
+PGF_00064811	Lachnobacterium	217.00	0.00	Uncharacterized membrane protein, ortholog YYAS B.subtilis
+PGF_00065441	Lachnobacterium	382.00	0.00	Uncharacterized protein YceH
+PGF_00065644	Lachnobacterium	242.80	25.21	Uncharacterized protein YneG
+PGF_00065887	Lachnobacterium	245.00	0.00	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066139	Lachnobacterium	227.40	1.34	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Lachnobacterium	208.00	0.00	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066453	Lachnobacterium	882.00	0.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Lachnobacterium	463.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Lachnobacterium	130.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066867	Lachnobacterium	596.00	0.00	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Lachnobacterium	309.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066942	Lachnobacterium	189.00	0.00	Xanthine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_00066960	Lachnobacterium	146.00	0.00	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00066964	Lachnobacterium	451.80	0.45	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067160	Lachnobacterium	336.00	0.00	Aspartate--ammonia ligase (EC 6.3.1.1)
+PGF_00067188	Lachnobacterium	363.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067466	Lachnobacterium	594.60	0.55	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Lachnobacterium	477.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00069740	Lachnobacterium	438.80	11.63	2-iminoacetate synthase (ThiH) (EC 4.1.99.19)
+PGF_00070354	Lachnobacterium	344.00	0.00	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)
+PGF_00070432	Lachnobacterium	339.00	0.00	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00071453	Lachnobacterium	96.00	0.00	fragment of DAK2 domain
+PGF_00075770	Lachnobacterium	454.00	0.00	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00082519	Lachnobacterium	201.40	0.55	hypothetical co-occurring with RIC
+PGF_00084324	Lachnobacterium	283.00	0.00	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00106099	Lachnobacterium	302.00	0.00	hypothetical protein
+PGF_00115517	Lachnobacterium	331.00	0.00	hypothetical protein
+PGF_00123197	Lachnobacterium	122.00	0.00	hypothetical protein
+PGF_00126022	Lachnobacterium	271.20	0.45	hypothetical protein
+PGF_00128055	Lachnobacterium	224.40	0.89	hypothetical protein
+PGF_00134118	Lachnobacterium	970.00	0.00	Predicted insulinase-like Zn-dependent peptidase DVU0941
+PGF_00144272	Lachnobacterium	162.00	0.00	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00160492	Lachnobacterium	255.00	0.00	hypothetical protein
+PGF_00162131	Lachnobacterium	80.00	0.00	Veg protein
+PGF_00169515	Lachnobacterium	221.60	1.34	hypothetical protein
+PGF_00180453	Lachnobacterium	304.60	0.89	hypothetical protein
+PGF_00184978	Lachnobacterium	497.60	3.58	beta-fructofuranosidase (EC 3.2.1.26)
+PGF_00195855	Lachnobacterium	179.00	0.00	Transcriptional regulator, MerR family, near polyamine transporter
+PGF_00209388	Lachnobacterium	631.20	0.45	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_00212110	Lachnobacterium	143.60	1.34	hypothetical protein
+PGF_00274372	Lachnobacterium	180.00	0.00	hypothetical protein
+PGF_00276317	Lachnobacterium	280.40	0.89	hypothetical protein
+PGF_00285620	Lachnobacterium	194.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00285950	Lachnobacterium	780.20	13.86	hypothetical protein
+PGF_00286985	Lachnobacterium	407.40	9.84	[FeFe]-hydrogenase maturation protein HydF
+PGF_00290683	Lachnobacterium	378.60	5.64	hypothetical protein
+PGF_00293602	Lachnobacterium	72.00	0.00	hypothetical protein
+PGF_00294275	Lachnobacterium	164.00	0.00	hypothetical protein
+PGF_00294404	Lachnobacterium	377.40	6.07	hypothetical protein
+PGF_00295348	Lachnobacterium	417.00	0.00	ABC-type antimicrobial peptide transport system, permease component
+PGF_00317712	Lachnobacterium	763.00	0.00	Aconitase family protein YbhJ
+PGF_00324246	Lachnobacterium	300.00	0.00	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3) @ Sirohydrochlorin ferrochelatase activity of CbiK (EC 4.99.1.4)
+PGF_00342563	Lachnobacterium	672.80	1.79	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00357596	Lachnobacterium	168.20	0.45	hypothetical protein
+PGF_00363988	Lachnobacterium	353.00	0.00	hypothetical protein
+PGF_00368502	Lachnobacterium	434.80	30.86	Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)
+PGF_00371685	Lachnobacterium	216.00	0.00	hypothetical protein
+PGF_00377931	Lachnobacterium	234.40	25.94	hypothetical protein
+PGF_00379424	Lachnobacterium	295.00	0.00	Cys regulon transcriptional activator CysB
+PGF_00391084	Lachnobacterium	550.00	0.00	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00395412	Lachnobacterium	197.00	0.00	hypothetical protein
+PGF_00401757	Lachnobacterium	336.00	0.00	no significant homology.
+PGF_00401768	Lachnobacterium	230.00	0.00	no significant homology.
+PGF_00401868	Lachnobacterium	295.20	0.45	Iron-sulfur cluster carrier protein, CA_C2982 type
+PGF_00402798	Lachnobacterium	237.00	0.00	IMP cyclohydrolase (EC 3.5.4.10)
+PGF_00403638	Lachnobacterium	344.00	0.00	possible microcin immunity protein
+PGF_00403927	Lachnobacterium	396.00	0.00	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00404333	Lachnobacterium	326.00	0.00	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404384	Lachnobacterium	321.00	0.00	Biotin synthase (EC 2.8.1.6)
+PGF_00404817	Lachnobacterium	141.00	0.00	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00405700	Lachnobacterium	353.00	0.00	putative ATP/GTP-binding protein protein
+PGF_00410144	Lachnobacterium	563.60	0.89	putative phosphomannomutase
+PGF_00410883	Lachnobacterium	150.00	0.00	Single-stranded DNA-binding protein
+PGF_00411946	Lachnobacterium	93.40	3.13	Ribosomal protein L7Ae family protein YlxQ
+PGF_00412634	Lachnobacterium	157.00	2.24	small multidrug export protein (qacE) homolog
+PGF_00412636	Lachnobacterium	108.00	0.00	Branched-chain amino acid transport protein AzlD
+PGF_00413189	Lachnobacterium	247.00	0.00	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Lachnobacterium	167.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Lachnobacterium	450.20	2.68	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413295	Lachnobacterium	300.00	0.00	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Lachnobacterium	436.00	0.00	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Lachnobacterium	640.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Lachnobacterium	163.60	0.89	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Lachnobacterium	155.00	0.00	tmRNA-binding protein SmpB
+PGF_00414926	Lachnobacterium	444.00	2.24	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415346	Lachnobacterium	401.00	0.00	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415407	Lachnobacterium	382.60	0.89	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415486	Lachnobacterium	160.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415551	Lachnobacterium	200.00	0.00	COG1896: Predicted hydrolases of HD superfamily
+PGF_00415631	Lachnobacterium	89.00	0.00	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416115	Lachnobacterium	313.00	0.00	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Lachnobacterium	534.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416151	Lachnobacterium	121.00	0.00	Cadmium efflux system accessory protein
+PGF_00416408	Lachnobacterium	310.00	0.00	Carbamate kinase (EC 2.7.2.2)
+PGF_00416410	Lachnobacterium	1067.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416508	Lachnobacterium	78.00	2.24	Carbon storage regulator
+PGF_00416674	Lachnobacterium	413.40	3.13	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416954	Lachnobacterium	933.80	0.45	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_00417115	Lachnobacterium	91.00	0.00	Cell division topological specificity factor MinE
+PGF_00417323	Lachnobacterium	811.00	0.00	Cellobiose phosphorylase (EC 2.4.1.20)
+PGF_00417366	Lachnobacterium	647.20	13.70	Cellulose synthase catalytic subunit [UDP-forming] (EC 2.4.1.12)
+PGF_00417429	Lachnobacterium	386.00	0.00	Chaperone protein DnaJ
+PGF_00417433	Lachnobacterium	627.00	0.00	Chaperone protein DnaK
+PGF_00417580	Lachnobacterium	380.20	2.68	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417658	Lachnobacterium	372.00	0.00	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Lachnobacterium	366.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00418278	Lachnobacterium	338.40	25.20	Cobalt-precorrin 5A hydrolase (EC 3.7.1.12)
+PGF_00418285	Lachnobacterium	248.80	0.45	Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)
+PGF_00418291	Lachnobacterium	252.00	0.00	Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+PGF_00418292	Lachnobacterium	396.80	2.68	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418309	Lachnobacterium	220.40	0.89	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Lachnobacterium	504.40	9.84	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Lachnobacterium	784.80	17.44	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00418626	Lachnobacterium	267.00	0.00	3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)
+PGF_00419420	Lachnobacterium	419.00	0.00	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419915	Lachnobacterium	300.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00419944	Lachnobacterium	652.20	222.67	Cyclomaltodextrin glucanotransferase (EC 2.4.1.19)
+PGF_00420121	Lachnobacterium	222.80	0.45	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420132	Lachnobacterium	668.00	0.00	Cytidylyltransferase domain / Phosphoenolpyruvate phosphomutase (EC 5.4.2.9)
+PGF_00420798	Lachnobacterium	350.00	0.00	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420806	Lachnobacterium	540.00	0.00	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
+PGF_00420819	Lachnobacterium	382.00	0.00	D-alanyl transfer protein DltB
+PGF_00420993	Lachnobacterium	329.00	0.00	D-lactate dehydrogenase (EC 1.1.1.28)
+PGF_00420994	Lachnobacterium	634.00	0.00	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421071	Lachnobacterium	152.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Lachnobacterium	533.00	0.00	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Lachnobacterium	1164.80	0.45	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Lachnobacterium	370.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421733	Lachnobacterium	366.80	1.79	DNA recombination and repair protein RecF
+PGF_00421796	Lachnobacterium	566.00	0.00	DNA repair protein RecN
+PGF_00421816	Lachnobacterium	327.00	0.00	DNA replication helicase loader DnaC/DnaI
+PGF_00422061	Lachnobacterium	91.00	0.00	DNA-binding protein HBsu
+PGF_00422085	Lachnobacterium	88.00	0.00	DNA-binding protein SpoVG
+PGF_00422271	Lachnobacterium	319.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422375	Lachnobacterium	152.40	8.05	DNA-entry nuclease (Competence-specific nuclease) (EC 3.1.30.-)
+PGF_00422446	Lachnobacterium	224.00	0.00	DUF124 domain-containing protein
+PGF_00422645	Lachnobacterium	345.00	0.00	Deblocking aminopeptidase (EC 3.4.11.-)
+PGF_00422959	Lachnobacterium	144.00	0.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Lachnobacterium	445.40	19.87	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Lachnobacterium	275.00	0.00	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423121	Lachnobacterium	328.00	0.00	Dienelactone hydrolase and related enzymes
+PGF_00423300	Lachnobacterium	414.80	2.68	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423429	Lachnobacterium	557.40	1.34	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423533	Lachnobacterium	290.00	0.00	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424109	Lachnobacterium	384.00	0.00	Electron bifurcating butyryl-CoA dehydrogenase (NAD+, ferredoxin)
+PGF_00424111	Lachnobacterium	260.00	0.00	Electron bifurcating butyryl-CoA dehydrogenase, electron transfer flavoprotein beta
+PGF_00424131	Lachnobacterium	191.00	0.00	Electron transport complex protein RnfA
+PGF_00424134	Lachnobacterium	264.20	0.45	Electron transport complex protein RnfB
+PGF_00424141	Lachnobacterium	244.00	0.00	Electron transport complex protein RnfE
+PGF_00424308	Lachnobacterium	506.60	3.58	beta-1,4-glucanase (cellulase) (EC 3.2.1.4)
+PGF_00424971	Lachnobacterium	625.40	1.34	Excinuclease ABC subunit C
+PGF_00425011	Lachnobacterium	252.60	0.89	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Lachnobacterium	408.00	2.24	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425671	Lachnobacterium	289.00	0.00	RNase adapter protein RapZ
+PGF_00425679	Lachnobacterium	212.00	0.00	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Lachnobacterium	243.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425747	Lachnobacterium	180.00	0.00	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Lachnobacterium	514.00	0.00	Ribonuclease Y
+PGF_00425993	Lachnobacterium	380.00	0.00	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426057	Lachnobacterium	628.80	4.92	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20) / Homolog of homocysteine-binding domain
+PGF_00426236	Lachnobacterium	351.00	0.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426427	Lachnobacterium	140.00	0.00	hypothetical protein
+PGF_00426567	Lachnobacterium	702.00	0.00	FIG00531460: hypothetical protein
+PGF_00426722	Lachnobacterium	814.00	0.00	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Lachnobacterium	157.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427130	Lachnobacterium	490.00	0.00	FIG00645302: hypothetical protein
+PGF_00446846	Lachnobacterium	180.00	0.00	hypothetical protein
+PGF_00507016	Lachnobacterium	998.00	0.00	DNA/RNA helicase of DEAD/DEAH box family
+PGF_00529632	Lachnobacterium	860.00	0.00	ClpB protein
+PGF_00538878	Lachnobacterium	504.40	7.60	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00552739	Lachnobacterium	405.00	0.00	NADPH-dependent butanol dehydrogenase
+PGF_00570239	Lachnobacterium	369.80	1.79	Spermidine/putrescine import ABC transporter substrate-binding protein PotD (TC 3.A.1.11.1)
+PGF_00598888	Lachnobacterium	147.00	0.00	Mini-ribonuclease III
+PGF_00618776	Lachnobacterium	345.60	1.34	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Lachnobacterium	230.00	0.00	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00634936	Lachnobacterium	331.40	0.89	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Lachnobacterium	433.00	0.00	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641311	Lachnobacterium	324.00	0.00	ABC transporter, permease protein (cluster 15, trp?)
+PGF_00644224	Lachnobacterium	310.00	0.00	PTS system, mannose-specific IID component
+PGF_00655358	Lachnobacterium	490.00	0.00	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Lachnobacterium	225.80	0.45	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00678489	Lachnobacterium	382.40	4.34	hypothetical protein
+PGF_00686876	Lachnobacterium	151.00	0.00	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion / Low molecular weight phosphotyrosine protein phosphatase
+PGF_00717495	Lachnobacterium	455.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00717613	Lachnobacterium	206.00	0.00	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00718789	Lachnobacterium	279.00	0.00	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00734372	Lachnobacterium	663.00	0.00	2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)
+PGF_00734482	Lachnobacterium	691.00	0.00	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00743714	Lachnobacterium	189.20	0.45	Chromate transport protein
+PGF_00751363	Lachnobacterium	216.20	1.79	Protein of unknown function DUF208
+PGF_00775715	Lachnobacterium	916.00	4.47	Ribosome protection-type tetracycline resistance related proteins, group 2 / YacP-like NYN domain
+PGF_00777996	Lachnobacterium	232.60	0.89	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00783284	Lachnobacterium	146.00	0.00	DUF327 family protein YaaR
+PGF_00814424	Lachnobacterium	255.00	0.00	ABC transporter-like sensor ATP-binding protein
+PGF_00827555	Lachnobacterium	526.00	0.00	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00856141	Lachnobacterium	792.00	0.00	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00856417	Lachnobacterium	221.40	10.41	UPF0758 family protein
+PGF_00900256	Lachnobacterium	507.00	0.00	Threonine synthase (EC 4.2.3.1)
+PGF_00912265	Lachnobacterium	302.40	25.20	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Lachnobacterium	505.80	4.92	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Lachnobacterium	597.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00935308	Lachnobacterium	259.00	0.00	FIG011178: rRNA methylase
+PGF_00937465	Lachnobacterium	633.20	2.68	PTS system, sucrose-specific IIB component (EC 2.7.1.211) / PTS system, sucrose-specific IIC component / PTS system, sucrose-specific IIA component (EC 2.7.1.211)
+PGF_00950554	Lachnobacterium	658.80	0.45	Excinuclease ABC subunit B
+PGF_00952595	Lachnobacterium	304.60	101.52	Integrase/recombinase xerD
+PGF_00955461	Lachnobacterium	359.00	0.00	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00957419	Lachnobacterium	143.20	0.45	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Lachnobacterium	319.20	0.45	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00982259	Lachnobacterium	445.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_01008498	Lachnobacterium	116.00	0.00	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Lachnobacterium	267.00	0.00	Flagellar basal-body rod protein FlgF
+PGF_01011695	Lachnobacterium	418.00	0.00	EriC-type fluoride/proton exchange protein
+PGF_01028579	Lachnobacterium	467.00	0.00	Sodium-dependent transporter, SNF family
+PGF_01049618	Lachnobacterium	266.00	0.00	SAM-dependent methyltransferase
+PGF_01068086	Lachnobacterium	261.80	0.45	Flagellar biosynthesis protein FliR
+PGF_01119028	Lachnobacterium	342.60	5.37	hypothetical protein
+PGF_01120643	Lachnobacterium	463.00	0.00	hypothetical protein
+PGF_01124268	Lachnobacterium	176.80	0.45	RecU Holliday junction resolvase
+PGF_01126005	Lachnobacterium	370.00	0.00	Rod shape-determining protein RodA
+PGF_01127158	Lachnobacterium	266.00	0.00	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01129740	Lachnobacterium	195.00	0.00	hypothetical protein
+PGF_01135014	Lachnobacterium	311.20	4.76	Negative regulator of genetic competence MecA
+PGF_01137832	Lachnobacterium	460.00	0.00	Re face-specific citrate synthase (EC 2.3.3.3)
+PGF_01149804	Lachnobacterium	493.00	0.00	Flagellar cap protein FliD
+PGF_01169833	Lachnobacterium	502.80	4.02	Flagellar biosynthesis protein FlhF
+PGF_01172485	Lachnobacterium	827.40	13.56	Cell division protein FtsA
+PGF_01174739	Lachnobacterium	260.00	0.00	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175285	Lachnobacterium	594.80	4.02	hypothetical protein
+PGF_01175575	Lachnobacterium	679.80	0.45	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01207141	Lachnobacterium	190.00	0.00	Transcriptional regulator, AcrR family
+PGF_01212363	Lachnobacterium	267.00	0.00	Macro domain protein YmdB, possibly ADP-ribose binding
+PGF_01212500	Lachnobacterium	300.00	0.00	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Lachnobacterium	541.00	0.00	Heat shock protein 60 family chaperone GroEL
+PGF_01212940	Lachnobacterium	294.00	0.00	UPF0701 protein YloC
+PGF_01218448	Lachnobacterium	437.00	4.47	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01255210	Lachnobacterium	567.20	1.10	Bis-ABC ATPase Cphy_0937
+PGF_01293289	Lachnobacterium	136.80	58.10	Iron-sulfur flavoprotein
+PGF_01296054	Lachnobacterium	618.40	5.37	putative ATP-dependent DNA helicase YjcD
+PGF_01298022	Lachnobacterium	383.00	0.00	hypothetical protein
+PGF_01308514	Lachnobacterium	346.00	0.00	Electron bifurcating butyryl-CoA dehydrogenase, electron transfer flavoprotein alpha
+PGF_01311661	Lachnobacterium	69.00	0.00	hypothetical protein
+PGF_01313623	Lachnobacterium	424.00	0.00	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)
+PGF_01317241	Lachnobacterium	77.00	0.00	hypothetical protein
+PGF_01323228	Lachnobacterium	217.00	0.00	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01323283	Lachnobacterium	383.40	10.29	hypothetical protein
+PGF_01325513	Lachnobacterium	682.60	1.34	hypothetical protein
+PGF_01350798	Lachnobacterium	329.00	0.00	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351158	Lachnobacterium	1194.60	3.58	Transcription-repair coupling factor
+PGF_01351210	Lachnobacterium	56.00	0.00	hypothetical protein
+PGF_01364427	Lachnobacterium	200.80	0.45	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01364543	Lachnobacterium	358.40	0.89	Thiamin biosynthesis lipoprotein ApbE
+PGF_01389077	Lachnobacterium	71.00	0.00	Uncharacterized protein YbcJ
+PGF_01408166	Lachnobacterium	314.00	0.00	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_01412814	Lachnobacterium	266.00	22.96	hypothetical protein
+PGF_01416650	Lachnobacterium	271.00	0.00	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Lachnobacterium	143.00	0.00	Cell division protein MraZ
+PGF_01421686	Lachnobacterium	461.00	0.00	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit B
+PGF_01444546	Lachnobacterium	99.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01454630	Lachnobacterium	1261.60	1.34	RND multidrug efflux transporter; Acriflavin resistance protein
+PGF_01479874	Lachnobacterium	415.20	0.45	hypothetical protein
+PGF_01480798	Lachnobacterium	296.00	0.00	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit A
+PGF_01481272	Lachnobacterium	161.00	0.00	Chemotaxis protein CheD
+PGF_01482335	Lachnobacterium	1454.80	6.26	Activator of (R)-2-hydroxyglutaryl-CoA dehydratase
+PGF_01484108	Lachnobacterium	201.80	0.45	Electron transport complex protein RnfG
+PGF_01496598	Lachnobacterium	302.80	1.79	Chemotaxis protein CheV (EC 2.7.3.-)
+PGF_01512690	Lachnobacterium	256.80	0.45	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01513923	Lachnobacterium	258.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01529260	Lachnobacterium	163.00	22.36	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01532393	Lachnobacterium	704.00	0.00	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Lachnobacterium	131.00	0.00	Flagellar basal-body rod protein FlgB
+PGF_01557745	Lachnobacterium	403.00	0.00	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01604929	Lachnobacterium	214.80	0.45	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01618915	Lachnobacterium	350.00	0.00	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01625234	Lachnobacterium	270.00	0.00	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01655894	Lachnobacterium	683.40	1.34	hypothetical protein
+PGF_01667217	Lachnobacterium	207.00	0.00	hypothetical protein
+PGF_01667693	Lachnobacterium	340.00	0.00	hypothetical protein
+PGF_01667880	Lachnobacterium	87.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01677191	Lachnobacterium	298.00	0.00	Sporulation transcription regulator WhiA
+PGF_01678333	Lachnobacterium	319.00	0.00	Electron transport complex protein RnfD
+PGF_01682834	Lachnobacterium	154.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Lachnobacterium	252.80	0.45	DNA recombination and repair protein RecO
+PGF_01719396	Lachnobacterium	220.40	1.34	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Lachnobacterium	215.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01740422	Lachnobacterium	186.40	0.89	hypothetical protein
+PGF_01744781	Lachnobacterium	203.00	0.00	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01745391	Lachnobacterium	383.60	1.34	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01777142	Lachnobacterium	200.00	0.00	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Lachnobacterium	558.00	0.00	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01867628	Lachnobacterium	367.60	0.89	Heat-inducible transcription repressor HrcA
+PGF_01888177	Lachnobacterium	141.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Lachnobacterium	210.00	0.00	Endonuclease III (EC 4.2.99.18)
+PGF_01898546	Lachnobacterium	453.00	0.00	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01899917	Lachnobacterium	514.00	0.00	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_01899937	Lachnobacterium	306.80	0.45	Rod shape-determining protein MreC
+PGF_01900753	Lachnobacterium	368.00	0.00	Prephenate dehydrogenase (EC 1.3.1.12)
+PGF_01922493	Lachnobacterium	513.40	3.13	Cardiolipin synthetase (EC 2.7.8.-)
+PGF_01960322	Lachnobacterium	605.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01981332	Lachnobacterium	159.00	0.00	Transcriptional regulator, AsnC family
+PGF_01990221	Lachnobacterium	433.00	0.00	Aspartyl aminopeptidase (EC 3.4.11.21)
+PGF_01994657	Lachnobacterium	449.20	0.45	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Lachnobacterium	253.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02018685	Lachnobacterium	74.60	3.13	hypothetical protein
+PGF_02019462	Lachnobacterium	339.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Lachnobacterium	427.00	0.00	GTP-binding protein Obg
+PGF_02061452	Lachnobacterium	386.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Lachnobacterium	334.00	0.00	Flagellar motor switch protein FliG
+PGF_02111888	Lachnobacterium	284.00	0.00	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02154745	Lachnobacterium	1513.80	0.45	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02155126	Lachnobacterium	143.00	0.00	Organic hydroperoxide resistance transcriptional regulator
+PGF_02172249	Lachnobacterium	602.00	0.00	hypothetical protein
+PGF_02185217	Lachnobacterium	419.00	0.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Lachnobacterium	391.20	4.92	Flagellar biosynthesis protein FlhB
+PGF_02224568	Lachnobacterium	394.00	0.00	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Lachnobacterium	686.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227929	Lachnobacterium	268.20	0.45	ABC transporter, permease protein (cluster 14, Mn/Zn)
+PGF_02244871	Lachnobacterium	338.00	0.00	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02246168	Lachnobacterium	311.20	8.50	ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)
+PGF_02297251	Lachnobacterium	215.00	0.00	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02305709	Lachnobacterium	259.20	2.68	Hydrolase, alpha/beta fold family
+PGF_02311293	Lachnobacterium	370.00	0.00	Peptide chain release factor 2
+PGF_02346669	Lachnobacterium	329.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Lachnobacterium	886.00	0.00	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Lachnobacterium	392.00	0.00	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Lachnobacterium	173.00	0.00	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02358818	Lachnobacterium	397.00	0.00	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_02369559	Lachnobacterium	915.80	3.83	DNA polymerase I (EC 2.7.7.7)
+PGF_02432027	Lachnobacterium	550.00	2.24	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02450432	Lachnobacterium	266.80	0.45	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Lachnobacterium	87.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Lachnobacterium	198.00	0.00	Recombination protein RecR
+PGF_02505498	Lachnobacterium	359.00	0.00	Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)
+PGF_02515882	Lachnobacterium	439.00	0.00	Aspartokinase (EC 2.7.2.4)
+PGF_02516495	Lachnobacterium	709.80	7.16	PTS system, IIC component / PTS system, IIB component / PTS system, IIA component
+PGF_02516909	Lachnobacterium	431.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02593689	Lachnobacterium	452.00	0.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Lachnobacterium	443.00	0.00	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Lachnobacterium	306.00	0.00	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627816	Lachnobacterium	214.00	0.00	FIG011945: O-methyltransferase family protein
+PGF_02630720	Lachnobacterium	119.00	0.00	FIG001802: Putative alkaline-shock protein
+PGF_02635429	Lachnobacterium	235.00	0.00	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02652319	Lachnobacterium	186.00	0.00	UPF0340 protein YwlG
+PGF_02704551	Lachnobacterium	1265.00	0.00	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02728524	Lachnobacterium	890.80	0.45	DNA mismatch repair protein MutS
+PGF_02737642	Lachnobacterium	269.20	0.45	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02745651	Lachnobacterium	353.80	1.79	[FeFe]-hydrogenase maturation protein HydE
+PGF_02745742	Lachnobacterium	756.00	2.24	ABC transporter, fused permease protein
+PGF_02746016	Lachnobacterium	248.40	1.34	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02746079	Lachnobacterium	326.00	0.00	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+PGF_02787188	Lachnobacterium	90.00	0.00	ACT domain protein
+PGF_02788582	Lachnobacterium	798.00	0.00	Recombination inhibitory protein MutS2
+PGF_02789532	Lachnobacterium	276.00	0.00	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Lachnobacterium	239.60	3.58	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Lachnobacterium	472.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Lachnobacterium	1313.00	0.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02817932	Lachnobacterium	407.80	9.39	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02820109	Lachnobacterium	193.00	4.47	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Lachnobacterium	133.00	0.00	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02836627	Lachnobacterium	352.00	0.00	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02844091	Lachnobacterium	253.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Lachnobacterium	407.60	0.89	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02877184	Lachnobacterium	377.00	0.00	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Lachnobacterium	376.00	0.00	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02888250	Lachnobacterium	155.00	0.00	hypothetical protein
+PGF_02897115	Lachnobacterium	258.00	0.00	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1) / Spermidine/putrescine import ABC transporter substrate-binding protein PotD (TC 3.A.1.11.1)
+PGF_02897665	Lachnobacterium	384.40	0.89	Glycerate kinase (EC 2.7.1.31)
+PGF_02898096	Lachnobacterium	494.00	0.00	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02898176	Lachnobacterium	222.00	0.00	Methionine ABC transporter permease protein
+PGF_02899131	Lachnobacterium	68.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Lachnobacterium	713.00	0.00	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02918148	Lachnobacterium	418.00	0.00	peptidase, U32 family large subunit [C1]
+PGF_02919689	Lachnobacterium	229.80	0.45	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02922961	Lachnobacterium	96.00	0.00	FIG004454: RNA binding protein
+PGF_02923127	Lachnobacterium	231.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930287	Lachnobacterium	181.00	0.00	Reverse rubrerythrin
+PGF_02931575	Lachnobacterium	462.00	0.00	Uracil permease
+PGF_02946231	Lachnobacterium	359.00	0.00	SSU ribosomal protein S1p
+PGF_02947204	Lachnobacterium	534.00	0.00	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950050	Lachnobacterium	489.00	0.00	Osmosensitive K+ channel histidine kinase KdpD
+PGF_02950579	Lachnobacterium	262.00	0.00	Septum site-determining protein MinD
+PGF_02956462	Lachnobacterium	126.00	0.00	RidA/YER057c/UK114 superfamily protein
+PGF_02960761	Lachnobacterium	306.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_02963977	Lachnobacterium	455.00	0.00	archaeal ATPase, fused to C-terminal DUF234 domain
+PGF_02969069	Lachnobacterium	316.20	0.45	hypothetical protein
+PGF_02974382	Lachnobacterium	277.00	0.00	S1 RNA binding domain
+PGF_02992495	Lachnobacterium	80.00	0.00	Protein translocase membrane subunit SecG
+PGF_03000070	Lachnobacterium	339.00	0.00	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03003352	Lachnobacterium	663.00	0.00	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03003601	Lachnobacterium	63.00	0.00	hypothetical protein
+PGF_03017978	Lachnobacterium	208.00	0.00	Septum formation protein Maf
+PGF_03026450	Lachnobacterium	1186.00	0.00	Chromosome partition protein smc
+PGF_03029062	Lachnobacterium	302.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03029574	Lachnobacterium	192.00	0.00	Glycerol uptake operon antiterminator regulatory protein
+PGF_03029859	Lachnobacterium	656.20	1.79	Bis-ABC ATPase Uup
+PGF_03030925	Lachnobacterium	177.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_03039428	Lachnobacterium	746.40	3.58	Protease
+PGF_03039679	Lachnobacterium	535.80	4.92	hypothetical protein
+PGF_03041598	Lachnobacterium	165.40	0.89	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
+PGF_03065239	Lachnobacterium	274.00	0.00	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+PGF_03066520	Lachnobacterium	415.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03070510	Lachnobacterium	295.00	0.00	Flagellar synthesis regulator FleN
+PGF_03073470	Lachnobacterium	556.80	0.45	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03084693	Lachnobacterium	553.00	0.00	FIG006789: Stage V sporulation protein
+PGF_03104567	Lachnobacterium	452.00	0.00	Trk potassium uptake system protein TrkA
+PGF_03112335	Lachnobacterium	554.20	0.45	Sucrose ABC transporter, substrate-binding protein
+PGF_03117711	Lachnobacterium	206.40	2.19	Hydrolase (HAD superfamily), YqeK
+PGF_03124650	Lachnobacterium	488.80	0.45	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03131015	Lachnobacterium	375.40	14.76	Membrane-associated zinc metalloprotease
+PGF_03132336	Lachnobacterium	416.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Lachnobacterium	500.00	0.00	Flagellar hook-associated protein FlgL
+PGF_03152669	Lachnobacterium	273.00	0.00	PTS system, mannose-specific IIC component
+PGF_03154343	Lachnobacterium	139.00	0.00	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Lachnobacterium	283.40	10.41	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Lachnobacterium	172.00	0.00	Transcription antitermination protein NusG
+PGF_03187392	Lachnobacterium	321.00	0.00	Fructokinase (EC 2.7.1.4)
+PGF_03207319	Lachnobacterium	167.00	0.00	hypothetical protein
+PGF_03207341	Lachnobacterium	517.80	23.55	Flagellar M-ring protein FliF
+PGF_03240443	Lachnobacterium	224.40	1.34	PAP2 family protein
+PGF_03253752	Lachnobacterium	47.00	0.00	Six-cysteine peptide SCIFF
+PGF_03257845	Lachnobacterium	204.80	0.45	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03267589	Lachnobacterium	279.00	0.00	Transketolase, N-terminal section (EC 2.2.1.1)
+PGF_03268078	Lachnobacterium	681.00	0.00	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03277417	Lachnobacterium	346.00	2.24	Methionine ABC transporter ATP-binding protein
+PGF_03287477	Lachnobacterium	221.80	0.45	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03318456	Lachnobacterium	480.80	0.45	Trk potassium uptake system protein TrkH
+PGF_03429638	Lachnobacterium	290.00	0.00	33 kDa chaperonin HslO
+PGF_03441339	Lachnobacterium	332.80	4.38	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03470321	Lachnobacterium	174.00	0.00	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Lachnobacterium	479.20	12.97	Flagellum-specific ATP synthase FliI
+PGF_03504453	Lachnobacterium	231.60	1.34	Substrate-specific component ThiT of thiamin ECF transporter
+PGF_03507290	Lachnobacterium	424.00	0.00	Serine/threonine:Na+ symporter SstT
+PGF_03507820	Lachnobacterium	305.20	1.79	Uncharacterized radical SAM protein YtqA
+PGF_03518570	Lachnobacterium	166.80	23.55	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520500	Lachnobacterium	321.40	3.13	Sucrose ABC transporter, permease protein 2
+PGF_03533084	Lachnobacterium	273.20	114.49	6-phospho-beta-glucosidase (EC 3.2.1.86)
+PGF_03560652	Lachnobacterium	368.00	0.00	Aminotransferase, DegT/DnrJ/EryC1/StrS family
+PGF_03609651	Lachnobacterium	660.00	0.00	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03696321	Lachnobacterium	323.00	0.00	tRNA-dihydrouridine synthase BT3326
+PGF_03701810	Lachnobacterium	335.00	4.47	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Lachnobacterium	213.80	4.02	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Lachnobacterium	142.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729119	Lachnobacterium	442.00	0.00	Aspartate transaminase (EC 2.6.1.1)
+PGF_03733480	Lachnobacterium	161.00	0.00	dCMP deaminase (EC 3.5.4.12)
+PGF_03750571	Lachnobacterium	451.00	0.00	Chromosomal replication initiator protein DnaA
+PGF_03750600	Lachnobacterium	180.00	0.00	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751065	Lachnobacterium	52.20	0.45	Rubredoxin
+PGF_03751658	Lachnobacterium	69.00	0.00	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Lachnobacterium	210.40	1.95	Heat shock protein GrpE
+PGF_03752090	Lachnobacterium	461.00	0.00	NAD(FAD)-utilizing dehydrogenase
+PGF_03752280	Lachnobacterium	482.00	0.00	[FeFe]-hydrogenase maturation protein HydG
+PGF_03753933	Lachnobacterium	141.00	0.00	Iron-sulfur cluster regulator IscR
+PGF_03757137	Lachnobacterium	459.00	0.00	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03758468	Lachnobacterium	327.00	0.00	Meso-diaminopimelate D-dehydrogenase (EC 1.4.1.16)
+PGF_03778780	Lachnobacterium	332.00	0.00	Signal recognition particle receptor FtsY
+PGF_03783620	Lachnobacterium	159.60	1.34	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Lachnobacterium	187.00	0.00	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Lachnobacterium	391.00	0.00	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Lachnobacterium	230.00	0.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03797303	Lachnobacterium	612.60	10.29	Adenine deaminase (EC 3.5.4.2)
+PGF_03797809	Lachnobacterium	393.00	0.00	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_03801201	Lachnobacterium	269.80	0.45	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Lachnobacterium	69.00	6.71	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811905	Lachnobacterium	357.00	2.24	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03846068	Lachnobacterium	289.00	0.00	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03855260	Lachnobacterium	466.00	0.00	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)
+PGF_03862500	Lachnobacterium	202.00	0.00	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03919938	Lachnobacterium	370.00	0.00	Maltodextrin ABC transporter, ATP-binding protein MsmX
+PGF_03938996	Lachnobacterium	295.20	1.79	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03967450	Lachnobacterium	333.20	0.45	Maltose operon transcriptional repressor MalR, LacI family
+PGF_03991729	Lachnobacterium	403.00	9.59	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04005838	Lachnobacterium	421.00	0.00	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04010672	Lachnobacterium	379.60	0.89	ABC transporter, permease protein 1 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04016408	Lachnobacterium	474.00	0.00	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019463	Lachnobacterium	185.40	0.89	Repair of Iron Centers di-iron protein
+PGF_04030953	Lachnobacterium	265.20	0.45	Polymer-forming bactofilin
+PGF_04034430	Lachnobacterium	58.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Lachnobacterium	76.00	0.00	KH domain RNA binding protein YlqC
+PGF_04036808	Lachnobacterium	335.60	5.81	hypothetical protein
+PGF_04041316	Lachnobacterium	947.80	0.45	Excinuclease ABC subunit A
+PGF_04055837	Lachnobacterium	314.20	0.45	ABC transporter, permease protein 2 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04081265	Lachnobacterium	275.80	0.45	beta-galactoside ABC tramsporter, permease protein LacG
+PGF_04126016	Lachnobacterium	436.00	0.00	hypothetical protein
+PGF_04151476	Lachnobacterium	168.00	0.00	16S rRNA processing protein RimM
+PGF_04182459	Lachnobacterium	228.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Lachnobacterium	260.20	0.45	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04240096	Lachnobacterium	714.60	0.89	Signal transduction histidine kinase CheA
+PGF_04273925	Lachnobacterium	74.00	0.00	Ferrous iron transport protein A
+PGF_04360357	Lachnobacterium	855.00	0.00	Protein translocase subunit SecA
+PGF_04377820	Lachnobacterium	316.00	0.00	Alpha-arabinosides ABC transport system, permease protein AraP
+PGF_04395505	Lachnobacterium	342.00	0.00	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04416539	Lachnobacterium	702.00	0.00	hypothetical protein
+PGF_04454639	Lachnobacterium	456.00	0.00	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04457297	Lachnobacterium	195.40	0.89	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04502464	Lachnobacterium	989.40	437.93	DNA topoisomerase III (EC 5.99.1.2)
+PGF_04505269	Lachnobacterium	242.00	0.00	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Lachnobacterium	337.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Lachnobacterium	483.60	1.34	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Lachnobacterium	472.00	0.00	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04574228	Lachnobacterium	249.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04652157	Lachnobacterium	233.00	0.00	Tyrosine-protein kinase EpsD (EC 2.7.10.2)
+PGF_04655384	Lachnobacterium	304.00	0.00	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Lachnobacterium	208.60	3.13	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Lachnobacterium	644.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Lachnobacterium	317.00	0.00	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Lachnobacterium	925.20	3.19	Translation initiation factor 2
+PGF_04788810	Lachnobacterium	191.00	0.00	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Lachnobacterium	317.00	0.00	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Lachnobacterium	115.00	0.00	LSU ribosomal protein L19p
+PGF_04846590	Lachnobacterium	313.00	0.00	Magnesium and cobalt transport protein CorA
+PGF_04848882	Lachnobacterium	314.00	0.00	Uncharacterized membrane protein
+PGF_04958295	Lachnobacterium	132.00	0.00	Flagellar biosynthesis protein FliS
+PGF_04962192	Lachnobacterium	712.00	0.00	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Lachnobacterium	114.40	1.34	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Lachnobacterium	102.00	0.00	LSU ribosomal protein L21p
+PGF_05022117	Lachnobacterium	543.00	0.00	Bis-ABC ATPase YbiT
+PGF_05111929	Lachnobacterium	589.00	0.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Lachnobacterium	805.00	0.00	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05144608	Lachnobacterium	481.60	1.34	Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)
+PGF_05165078	Lachnobacterium	311.00	0.00	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05232968	Lachnobacterium	347.00	0.00	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)
+PGF_05280843	Lachnobacterium	448.00	2.24	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294901	Lachnobacterium	96.00	0.00	hypothetical protein
+PGF_05304567	Lachnobacterium	254.00	4.12	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+PGF_05313903	Lachnobacterium	311.00	0.00	Transcriptional regulator, AraC family
+PGF_05366548	Lachnobacterium	281.80	1.79	Methionine ABC transporter substrate-binding protein
+PGF_05421852	Lachnobacterium	685.60	3.58	Chaperone protein HtpG
+PGF_05439724	Lachnobacterium	652.00	0.00	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Lachnobacterium	283.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Lachnobacterium	512.40	0.89	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05472099	Lachnobacterium	280.00	0.00	hypothetical protein
+PGF_05507938	Lachnobacterium	685.20	2.68	DNA mismatch repair protein MutL
+PGF_05581732	Lachnobacterium	440.00	0.00	Protein translocase subunit SecY
+PGF_05589963	Lachnobacterium	468.00	91.68	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines) / ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)
+PGF_05598173	Lachnobacterium	356.00	0.00	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Lachnobacterium	413.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05710599	Lachnobacterium	281.00	0.00	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05714136	Lachnobacterium	115.80	0.45	FIG138056: a glutathione-dependent thiol reductase
+PGF_05787790	Lachnobacterium	57.60	0.89	hypothetical protein
+PGF_05790213	Lachnobacterium	544.40	13.22	Vancomycin B-type resistance protein VanW
+PGF_05843198	Lachnobacterium	239.00	0.00	FIG017108: hypothetical protein
+PGF_05925776	Lachnobacterium	299.00	0.00	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05965012	Lachnobacterium	208.00	0.00	hypothetical protein
+PGF_05971611	Lachnobacterium	398.00	0.00	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Lachnobacterium	640.00	0.00	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06115957	Lachnobacterium	396.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Lachnobacterium	1229.00	7.42	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06128857	Lachnobacterium	439.40	0.89	Electron transport complex protein RnfC
+PGF_06133167	Lachnobacterium	214.60	3.13	MBL-fold metallo-hydrolase superfamily
+PGF_06167333	Lachnobacterium	87.00	0.00	hypothetical protein
+PGF_06180597	Lachnobacterium	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06183957	Lachnobacterium	195.00	0.00	Guanylate kinase-like protein
+PGF_06230969	Lachnobacterium	521.60	3.58	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Lachnobacterium	95.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06269608	Lachnobacterium	376.40	1.34	Phosphonopyruvate decarboxylase (EC 4.1.1.82)
+PGF_06285041	Lachnobacterium	362.00	0.00	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06285692	Lachnobacterium	193.60	23.70	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06297806	Lachnobacterium	1153.00	0.00	DNA/RNA helicases, SNF2 family
+PGF_06315406	Lachnobacterium	430.00	0.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06326847	Lachnobacterium	299.20	0.45	Flagellar biosynthesis protein FliP
+PGF_06377994	Lachnobacterium	468.80	0.45	FtsW-like cell division membrane protein CA_C0505
+PGF_06379377	Lachnobacterium	437.00	0.00	Replication-associated recombination protein RarA
+PGF_06391417	Lachnobacterium	446.80	0.45	4-hydroxybutyrate coenzyme A transferase
+PGF_06403579	Lachnobacterium	780.00	0.00	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06441761	Lachnobacterium	184.40	0.89	hypothetical protein
+PGF_06459503	Lachnobacterium	689.40	1.34	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06461498	Lachnobacterium	308.00	0.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06489838	Lachnobacterium	534.60	19.23	Lipopolysaccharide cholinephosphotransferase LicD1 (EC 2.7.8.-)
+PGF_06513690	Lachnobacterium	750.00	0.00	Pyruvate formate-lyase (EC 2.3.1.54)
+PGF_06530721	Lachnobacterium	214.00	0.00	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06586947	Lachnobacterium	403.80	7.16	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06649360	Lachnobacterium	188.00	0.00	Segregation and condensation protein B
+PGF_06660812	Lachnobacterium	162.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06672158	Lachnobacterium	170.00	0.00	Nitroreductase family protein
+PGF_06683449	Lachnobacterium	302.00	0.00	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06693963	Lachnobacterium	112.00	0.00	Nucleoid-associated protein YaaK
+PGF_06701488	Lachnobacterium	207.00	0.00	RNA-binding protein Jag
+PGF_06718352	Lachnobacterium	159.00	0.00	Cys-tRNA(Pro) deacylase YbaK
+PGF_06735060	Lachnobacterium	741.20	0.45	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Lachnobacterium	329.00	0.00	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_07004099	Lachnobacterium	183.00	0.00	hypothetical protein
+PGF_07015108	Lachnobacterium	169.00	0.00	hypothetical protein
+PGF_07019366	Lachnobacterium	230.00	0.00	hypothetical protein
+PGF_07020351	Lachnobacterium	252.60	1.34	hypothetical protein
+PGF_07028895	Lachnobacterium	140.60	1.34	hypothetical protein
+PGF_07033653	Lachnobacterium	301.00	0.00	hypothetical protein
+PGF_07049631	Lachnobacterium	137.20	9.31	hypothetical protein
+PGF_07055854	Lachnobacterium	159.00	0.00	hypothetical protein
+PGF_07058461	Lachnobacterium	816.80	8.50	hypothetical protein
+PGF_07060691	Lachnobacterium	101.00	0.00	hypothetical protein
+PGF_07069314	Lachnobacterium	126.00	0.00	hypothetical protein
+PGF_07072582	Lachnobacterium	426.00	0.00	RNA polymerase sigma factor RpoD
+PGF_07077106	Lachnobacterium	87.00	0.00	hypothetical protein
+PGF_07095141	Lachnobacterium	384.00	27.39	hypothetical protein
+PGF_07101513	Lachnobacterium	386.60	0.89	Flagellar motor switch protein FliN
+PGF_07124699	Lachnobacterium	248.00	0.00	hypothetical protein
+PGF_07141199	Lachnobacterium	232.20	0.45	hypothetical protein
+PGF_07155417	Lachnobacterium	207.40	5.81	hypothetical protein
+PGF_07163308	Lachnobacterium	397.00	0.00	hypothetical protein
+PGF_07177849	Lachnobacterium	154.00	0.00	hypothetical protein
+PGF_07184491	Lachnobacterium	278.40	0.89	hypothetical protein
+PGF_07190957	Lachnobacterium	66.00	0.00	hypothetical protein
+PGF_07202798	Lachnobacterium	862.40	5.37	hypothetical protein
+PGF_07213667	Lachnobacterium	235.00	0.00	hypothetical protein
+PGF_07220192	Lachnobacterium	338.00	0.00	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)
+PGF_07224730	Lachnobacterium	285.00	2.24	hypothetical protein
+PGF_07230107	Lachnobacterium	550.20	20.30	hypothetical protein
+PGF_07234715	Lachnobacterium	465.60	0.89	hypothetical protein
+PGF_07249013	Lachnobacterium	77.00	0.00	hypothetical protein
+PGF_07261674	Lachnobacterium	836.20	0.45	hypothetical protein
+PGF_07269243	Lachnobacterium	469.00	0.00	hypothetical protein
+PGF_07305153	Lachnobacterium	285.60	1.34	hypothetical protein
+PGF_07317460	Lachnobacterium	285.00	0.00	hypothetical protein
+PGF_07320034	Lachnobacterium	286.00	0.00	hypothetical protein
+PGF_07327985	Lachnobacterium	462.00	0.00	hypothetical protein
+PGF_07331407	Lachnobacterium	717.80	125.71	hypothetical protein
+PGF_07334299	Lachnobacterium	367.00	2.24	hypothetical protein
+PGF_07353895	Lachnobacterium	321.00	0.00	hypothetical protein
+PGF_07375884	Lachnobacterium	847.00	0.00	hypothetical protein
+PGF_07386557	Lachnobacterium	195.00	31.30	hypothetical protein
+PGF_07409343	Lachnobacterium	404.00	2.24	hypothetical protein
+PGF_07410757	Lachnobacterium	347.00	0.00	Aldose 1-epimerase (EC 5.1.3.3)
+PGF_07418429	Lachnobacterium	352.00	4.47	Transcriptional regulator, LacI family
+PGF_07426744	Lachnobacterium	247.00	0.00	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_07436053	Lachnobacterium	77.00	0.00	hypothetical protein
+PGF_08042582	Lachnobacterium	166.00	0.00	Transcriptional regulator, MarR family
+PGF_08050537	Lachnobacterium	308.00	2.24	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08061345	Lachnobacterium	304.00	0.00	Transcriptional regulator, ArsR family
+PGF_08077222	Lachnobacterium	646.60	1.34	Pullulanase (EC 3.2.1.41)
+PGF_08085067	Lachnobacterium	226.00	0.00	Branched-chain amino acid transport protein AzlC
+PGF_08085124	Lachnobacterium	85.00	0.00	hypothetical protein
+PGF_08091061	Lachnobacterium	272.80	0.45	ABC transporter, ATP-binding protein (cluster 14, Mn/Zn)
+PGF_08146935	Lachnobacterium	338.20	0.45	Maebl

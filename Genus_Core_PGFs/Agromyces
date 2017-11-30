@@ -1,0 +1,382 @@
+PGF_00000211	Agromyces	223.00	32.67	FIG00723832: hypothetical protein
+PGF_00000494	Agromyces	168.77	15.31	FIG00816212: Putative membrane protein
+PGF_00000568	Agromyces	119.54	8.29	FIG00820327: hypothetical protein
+PGF_00001331	Agromyces	219.85	27.23	Endonuclease NucS
+PGF_00001799	Agromyces	103.83	11.71	FIG01121218: hypothetical protein
+PGF_00001849	Agromyces	167.08	20.50	FIG01122152: hypothetical protein
+PGF_00002542	Agromyces	126.54	7.62	FIG017342: transmembrane protein
+PGF_00003179	Agromyces	178.85	27.16	FIG049476: HIT family protein
+PGF_00006506	Agromyces	535.83	85.72	Fumarate/succinate/L-aspartate dehydrogenases
+PGF_00007028	Agromyces	481.50	93.70	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007120	Agromyces	374.67	70.57	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007632	Agromyces	301.25	54.56	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00008051	Agromyces	441.67	126.93	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008075	Agromyces	335.92	116.81	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Agromyces	258.92	60.70	Glutamate racemase (EC 5.1.1.3)
+PGF_00008334	Agromyces	433.00	109.59	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00009966	Agromyces	434.46	93.96	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010034	Agromyces	279.75	51.86	Glyoxalase family protein
+PGF_00010360	Agromyces	271.46	90.64	Guanylate kinase (EC 2.7.4.8)
+PGF_00011321	Agromyces	302.77	7.20	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00012264	Agromyces	309.38	93.12	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012430	Agromyces	134.92	15.13	HspR, transcriptional repressor of DnaK operon
+PGF_00012569	Agromyces	289.75	52.04	Hydrolase
+PGF_00013224	Agromyces	195.58	8.36	ADP-ribose pyrophosphatase
+PGF_00013341	Agromyces	306.92	76.50	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013492	Agromyces	179.23	13.59	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013803	Agromyces	200.25	12.99	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014314	Agromyces	335.31	96.04	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00014855	Agromyces	254.38	69.05	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00015142	Agromyces	79.46	7.99	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Agromyces	247.42	55.30	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Agromyces	299.77	2.28	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015467	Agromyces	228.08	28.40	Iron-dependent repressor IdeR/DtxR
+PGF_00015510	Agromyces	246.77	25.42	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015517	Agromyces	362.38	69.22	Iron-sulfur cluster assembly protein SufD
+PGF_00015686	Agromyces	399.92	110.25	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00016328	Agromyces	160.23	21.18	LSU ribosomal protein L10p (P0)
+PGF_00016340	Agromyces	131.46	34.11	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Agromyces	196.00	43.70	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Agromyces	147.08	29.12	LSU ribosomal protein L16p (L10e)
+PGF_00016353	Agromyces	112.46	19.75	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Agromyces	207.92	52.16	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Agromyces	123.69	15.23	LSU ribosomal protein L20p
+PGF_00016361	Agromyces	97.31	2.06	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Agromyces	117.31	13.02	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Agromyces	96.15	15.38	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Agromyces	117.17	6.35	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Agromyces	82.15	10.26	LSU ribosomal protein L27p
+PGF_00016406	Agromyces	66.15	4.04	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Agromyces	76.42	74.19	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Agromyces	45.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Agromyces	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Agromyces	37.42	0.51	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016439	Agromyces	200.38	46.87	LSU ribosomal protein L4p (L1e)
+PGF_00016444	Agromyces	176.69	4.71	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Agromyces	121.54	22.92	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Agromyces	141.69	21.43	LSU ribosomal protein L9p
+PGF_00016613	Agromyces	327.00	44.25	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_00016653	Agromyces	477.69	145.22	Large Ala/Glu-rich protein
+PGF_00017139	Agromyces	479.25	110.24	ATP-dependent DNA ligase (EC 6.5.1.1)
+PGF_00017227	Agromyces	778.17	182.65	ATP-dependent DNA ligase (EC 6.5.1.1) clustered with Ku protein, LigD
+PGF_00017479	Agromyces	318.00	43.07	Lipoyl synthase (EC 2.8.1.8)
+PGF_00018560	Agromyces	407.62	74.41	Magnesium and cobalt efflux protein CorC
+PGF_00019279	Agromyces	330.15	114.94	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)
+PGF_00020361	Agromyces	146.77	22.47	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020981	Agromyces	507.58	95.92	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00021684	Agromyces	220.00	34.66	ATPase component BioM of energizing module of biotin ECF transporter
+PGF_00022453	Agromyces	138.67	13.84	Molybdate-binding domain of ModE
+PGF_00022603	Agromyces	417.92	98.26	Monoamine/putrescine oxidase (EC 1.4.3.10)
+PGF_00024232	Agromyces	323.00	118.41	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Agromyces	339.42	85.83	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Agromyces	159.25	27.29	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Agromyces	353.75	89.79	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024907	Agromyces	482.25	97.83	NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)
+PGF_00024967	Agromyces	389.58	90.92	NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)
+PGF_00025215	Agromyces	169.08	0.28	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025379	Agromyces	307.50	21.51	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025383	Agromyces	357.08	80.97	Naringenin-chalcone synthase (EC 2.3.1.74)
+PGF_00025600	Agromyces	429.00	30.54	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026193	Agromyces	275.33	70.63	Non functional Dihydropteroate synthase 2
+PGF_00026362	Agromyces	208.17	5.89	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Agromyces	220.33	31.33	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00029917	Agromyces	284.00	53.25	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Agromyces	331.15	73.20	Peptide chain release factor 1
+PGF_00030889	Agromyces	118.50	24.84	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00033095	Agromyces	727.31	283.17	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Agromyces	330.00	97.41	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033363	Agromyces	242.00	42.42	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033423	Agromyces	528.33	110.05	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033924	Agromyces	85.23	6.69	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033936	Agromyces	320.58	19.71	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033950	Agromyces	234.92	46.27	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Agromyces	336.69	89.70	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00035882	Agromyces	377.08	70.34	Predicted glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21), Actinobacterial type
+PGF_00036580	Agromyces	128.38	6.78	Protein translocase subunit YajC
+PGF_00036729	Agromyces	1416.42	387.45	Probable ATP-dependent helicase lhr (EC 3.6.1.-)
+PGF_00037171	Agromyces	360.46	91.96	Probable low-affinity inorganic phosphate transporter
+PGF_00038579	Agromyces	107.00	0.00	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038796	Agromyces	83.00	0.00	Protein translocase membrane subunit SecG
+PGF_00038986	Agromyces	258.54	45.99	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00040578	Agromyces	295.83	36.79	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00045787	Agromyces	200.75	51.30	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045926	Agromyces	391.92	105.22	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00047906	Agromyces	331.69	2.93	Alpha-glucoside transport system permease protein AglG
+PGF_00048482	Agromyces	239.17	38.85	Riboflavin transporter PnuX
+PGF_00048556	Agromyces	204.15	60.10	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Agromyces	267.50	39.61	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Agromyces	150.75	21.65	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048645	Agromyces	142.08	10.10	Ribonucleotide reduction protein NrdI
+PGF_00048926	Agromyces	179.08	17.75	Ribosome recycling factor
+PGF_00048928	Agromyces	331.92	71.15	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Agromyces	156.75	7.21	Ribosome-binding factor A
+PGF_00048985	Agromyces	223.25	11.46	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049827	Agromyces	276.08	62.87	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Agromyces	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Agromyces	125.38	17.74	SSU ribosomal protein S11p (S14e)
+PGF_00049840	Agromyces	125.08	2.25	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Agromyces	87.54	5.27	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Agromyces	140.46	9.67	SSU ribosomal protein S16p
+PGF_00049854	Agromyces	101.00	1.87	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Agromyces	85.75	0.62	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Agromyces	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049896	Agromyces	225.42	7.95	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Agromyces	152.23	13.59	SSU ribosomal protein S7p (S5e)
+PGF_00050290	Agromyces	278.42	61.19	Segregation and condensation protein A
+PGF_00052514	Agromyces	320.08	45.04	Similar to F420-dependent glucose-6-phosphate dehydrogenase, Caur_2833 family
+PGF_00052705	Agromyces	151.15	33.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Agromyces	282.50	67.36	Site-specific tyrosine recombinase XerD
+PGF_00053666	Agromyces	146.85	6.05	Spermidine acetyltransferase
+PGF_00053952	Agromyces	103.92	8.12	Sporulation regulatory protein WhiB
+PGF_00054461	Agromyces	131.92	20.83	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_00054477	Agromyces	156.92	27.85	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054959	Agromyces	431.92	77.77	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00056662	Agromyces	319.46	75.58	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056883	Agromyces	191.58	51.21	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Agromyces	261.46	65.53	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057381	Agromyces	260.62	19.19	Trans,polycis-decaprenyl diphosphate synthase (EC 2.5.1.86)
+PGF_00057488	Agromyces	134.38	9.43	Transcription termination protein NusB
+PGF_00058491	Agromyces	320.17	65.56	Transcriptional regulator AglR, LacI family
+PGF_00059672	Agromyces	267.17	21.36	(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)
+PGF_00060421	Agromyces	186.46	1.13	Translation elongation factor P
+PGF_00060427	Agromyces	259.62	40.10	Translation elongation factor Ts
+PGF_00060431	Agromyces	73.00	0.00	Translation initiation factor 1
+PGF_00060478	Agromyces	183.85	12.52	Translation initiation factor 3
+PGF_00060585	Agromyces	230.42	8.41	Transmembrane protein MT2276, clustered with lipoate gene
+PGF_00062002	Agromyces	284.92	26.96	Tryptophan 2,3-dioxygenase (EC 1.13.11.11)
+PGF_00062023	Agromyces	234.69	65.87	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00064272	Agromyces	244.83	27.36	UPF0246 protein YaaA
+PGF_00064523	Agromyces	552.83	69.26	Uncharacterized ABC1 family protein Caur_1826
+PGF_00065286	Agromyces	181.00	35.93	Uncharacterized protein Q1 colocalized with Q
+PGF_00066123	Agromyces	202.08	52.81	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066839	Agromyces	80.85	2.88	WhiB-like transcription regulator
+PGF_00067213	Agromyces	148.08	32.63	YbaK/prolyl-tRNA synthetase associated region
+PGF_00067401	Agromyces	287.17	17.79	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067554	Agromyces	472.08	80.99	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00070432	Agromyces	382.77	89.35	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00076923	Agromyces	139.33	23.73	(3R)-hydroxyacyl-ACP dehydratase subunit HadA
+PGF_00098972	Agromyces	229.23	45.53	hypothetical protein
+PGF_00149306	Agromyces	100.58	27.31	hypothetical protein
+PGF_00213073	Agromyces	229.23	25.33	2-hydroxychromene-2-carboxylate isomerase/DsbA-like thioredoxin domain
+PGF_00261173	Agromyces	355.33	44.02	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00336478	Agromyces	198.83	5.06	Two-component transcriptional response regulator PdtaR, LuxR family
+PGF_00357009	Agromyces	220.08	47.80	hypothetical protein
+PGF_00399753	Agromyces	148.67	31.10	hypothetical protein sometimes fused to ribosomal protein S6 glutaminyl transferase
+PGF_00405698	Agromyces	342.17	30.60	putative ATP/GTP-binding integral membrane protein
+PGF_00407331	Agromyces	275.08	53.39	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_00409666	Agromyces	197.00	17.77	putative membrane protein
+PGF_00413192	Agromyces	318.08	86.82	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413290	Agromyces	303.75	79.34	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413554	Agromyces	149.69	29.36	tmRNA-binding protein SmpB
+PGF_00414965	Agromyces	261.50	29.13	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_00416115	Agromyces	286.25	82.35	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416525	Agromyces	208.42	33.57	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416576	Agromyces	209.92	7.02	3'-to-5' oligoribonuclease (orn)
+PGF_00417158	Agromyces	441.69	37.62	Cell envelope-related transcriptional attenuator
+PGF_00417577	Agromyces	133.92	31.44	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417816	Agromyces	107.42	11.53	Chorismate mutase I (EC 5.4.99.5)
+PGF_00418031	Agromyces	422.31	60.49	Chromosome segregation ATPases
+PGF_00418586	Agromyces	117.54	24.49	Cold shock protein of CSP family => SCO4325
+PGF_00419013	Agromyces	168.00	42.73	1,2-phenylacetyl-CoA epoxidase, subunit D (EC 1.14.13.149)
+PGF_00419470	Agromyces	514.54	101.69	Conserved protein, DUF885
+PGF_00419621	Agromyces	218.15	67.37	Coproheme decarboxylase HemQ (no EC)
+PGF_00420019	Agromyces	374.25	61.12	Cystathionine gamma-lyase (EC 4.4.1.1)
+PGF_00420406	Agromyces	142.67	2.96	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00421438	Agromyces	295.00	44.56	DNA modification methyltransferase
+PGF_00421679	Agromyces	590.42	149.19	DNA primase (EC 2.7.7.-)
+PGF_00421796	Agromyces	532.17	118.15	DNA repair protein RecN
+PGF_00422463	Agromyces	194.17	28.41	DUF1794
+PGF_00422545	Agromyces	323.50	36.93	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422711	Agromyces	254.00	9.29	DedA protein
+PGF_00424619	Agromyces	327.75	54.09	4-nitrophenylphosphatase (EC 3.1.3.41)
+PGF_00425024	Agromyces	380.31	107.88	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425572	Agromyces	409.33	108.53	FAD-dependent oxidoreductase
+PGF_00425671	Agromyces	276.62	57.61	RNase adapter protein RapZ
+PGF_00426115	Agromyces	601.23	116.24	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426321	Agromyces	296.31	39.77	FIG00511445: hypothetical protein
+PGF_00426336	Agromyces	567.85	176.07	Efflux ABC transporter, permease/ATP-binding protein SCO3235
+PGF_00426377	Agromyces	488.54	35.82	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60)
+PGF_00426616	Agromyces	322.25	63.14	FIG005453: Putative DeoR-family transcriptional regulator
+PGF_00438421	Agromyces	319.83	6.42	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00497557	Agromyces	591.50	121.24	Uncharacterized protein YjgR
+PGF_00510935	Agromyces	95.00	0.00	DNA-binding protein HU
+PGF_00518942	Agromyces	220.31	15.02	Two component system response regulator MtrA
+PGF_00520554	Agromyces	299.92	78.15	Integral membrane protein
+PGF_00634936	Agromyces	303.85	57.03	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00659194	Agromyces	183.25	22.16	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Agromyces	124.62	13.14	Ribosomal silencing factor RsfA
+PGF_00669026	Agromyces	250.75	52.27	Hydrolase
+PGF_00717495	Agromyces	421.31	80.72	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00735685	Agromyces	930.25	256.75	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_00787899	Agromyces	80.38	4.81	FIG018426: putative septation inhibitor protein
+PGF_00827555	Agromyces	754.25	217.81	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00866199	Agromyces	134.00	0.00	Integral membrane protein
+PGF_00945075	Agromyces	402.31	89.56	Membrane-associated zinc metalloprotease
+PGF_00947361	Agromyces	406.62	102.69	Phenylacetate-coenzyme A ligase (EC 6.2.1.30)
+PGF_01011517	Agromyces	296.42	36.99	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01049669	Agromyces	475.33	68.13	Signal transduction histidine kinase, subgroup 2
+PGF_01050375	Agromyces	1092.85	407.11	Superfamily I DNA and RNA helicases and helicase subunits
+PGF_01063169	Agromyces	239.25	56.77	Enoyl-[acyl-carrier-protein] reductase [NADPH] (EC 1.3.1.10)
+PGF_01075683	Agromyces	142.50	27.25	Hemoglobin-like protein HbO
+PGF_01075854	Agromyces	274.83	23.33	FIG056164: rhomboid family serine protease
+PGF_01079016	Agromyces	327.85	3.26	Chromosome (plasmid) partitioning protein ParB
+PGF_01086688	Agromyces	446.42	82.49	Uncharacterized MFS-type transporter
+PGF_01223569	Agromyces	182.25	18.68	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01251608	Agromyces	53.62	6.78	hypothetical protein
+PGF_01367201	Agromyces	157.17	27.14	HNH endonuclease family protein
+PGF_01405081	Agromyces	283.69	20.46	Heat shock protein HtpX
+PGF_01420802	Agromyces	141.08	7.85	Cell division protein MraZ
+PGF_01466742	Agromyces	397.33	62.80	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01557745	Agromyces	367.85	117.86	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01576148	Agromyces	184.75	44.71	transmembrane protein, distant homology with ydbS
+PGF_01604929	Agromyces	311.31	59.02	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01614738	Agromyces	83.92	6.64	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01674551	Agromyces	123.92	3.33	Glycine cleavage system H protein
+PGF_01682537	Agromyces	114.85	24.45	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01683258	Agromyces	228.54	40.71	DNA recombination and repair protein RecO
+PGF_01734516	Agromyces	167.00	14.57	FHA-domain-containing protein
+PGF_01737397	Agromyces	271.58	68.01	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01842781	Agromyces	528.92	77.14	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01900530	Agromyces	228.58	21.61	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01910737	Agromyces	198.69	28.85	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01949788	Agromyces	203.62	9.43	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01974399	Agromyces	210.23	26.09	L-cystine ABC transporter, permease protein TcyB
+PGF_02074236	Agromyces	343.17	75.84	FIG00945285: hypothetical protein
+PGF_02074276	Agromyces	123.33	11.83	hypothetical protein
+PGF_02078166	Agromyces	230.08	48.70	hypothetical protein
+PGF_02098099	Agromyces	492.92	134.61	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02111888	Agromyces	344.92	34.38	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02246334	Agromyces	234.33	32.03	Integral membrane protein
+PGF_02288748	Agromyces	157.33	34.89	YbaK/prolyl-tRNA synthetase associated region
+PGF_02349208	Agromyces	201.75	54.22	Hypothetical, related to broad specificity phosphatases COG0406
+PGF_02349367	Agromyces	174.50	30.62	hypothetical protein
+PGF_02349818	Agromyces	150.92	29.06	Acyl-coenzyme A thioesterase PaaD (Pse.pu.) (E. coli PaaI)
+PGF_02371648	Agromyces	207.83	6.55	CoA-binding domain protein
+PGF_02454577	Agromyces	88.23	8.04	SSU ribosomal protein S20p
+PGF_02463284	Agromyces	187.92	34.57	Recombination protein RecR
+PGF_02489591	Agromyces	212.08	57.51	Uncharacterized Nudix hydrolase NudL
+PGF_02516666	Agromyces	290.77	24.37	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02580309	Agromyces	324.08	51.86	Uncharacterized protein Rv1841c/MT1889
+PGF_02623406	Agromyces	293.42	59.76	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02717713	Agromyces	733.42	168.62	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02795771	Agromyces	83.62	16.02	Glutaredoxin-like domain-containing protein PA3033
+PGF_02797400	Agromyces	443.25	101.19	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02866866	Agromyces	374.00	93.80	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02898096	Agromyces	452.58	112.29	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02898176	Agromyces	204.92	40.27	Methionine ABC transporter permease protein
+PGF_02899131	Agromyces	107.00	2.71	LSU ribosomal protein L29p (L35e)
+PGF_02936332	Agromyces	296.08	66.15	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02938730	Agromyces	300.62	88.55	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02940505	Agromyces	273.46	28.99	UDP-galactose-lipid carrier transferase (EC 2.-.-.-)
+PGF_02959749	Agromyces	373.17	84.46	Ribonuclease D (EC 3.1.26.3)
+PGF_02990610	Agromyces	416.46	97.34	Alpha-glucosides-binding periplasmic protein AglE precursor
+PGF_02995555	Agromyces	473.75	89.82	Catalase KatE (EC 1.11.1.6)
+PGF_03029489	Agromyces	208.54	50.84	GlnR-family transcriptional regulator
+PGF_03029859	Agromyces	585.17	130.08	Bis-ABC ATPase Uup
+PGF_03036396	Agromyces	408.92	35.85	Integral membrane protein
+PGF_03062930	Agromyces	420.00	36.89	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.35)
+PGF_03072132	Agromyces	162.77	9.69	CarD-like transcriptional regulator
+PGF_03081927	Agromyces	238.62	36.53	Polyphosphate glucokinase (EC 2.7.1.63)
+PGF_03095695	Agromyces	278.75	15.18	Abortive infection protein
+PGF_03099722	Agromyces	506.85	145.54	Serine/threonine-protein kinase PknA (EC 2.7.11.1)
+PGF_03111149	Agromyces	76.46	6.55	hypothetical protein
+PGF_03111988	Agromyces	204.54	61.03	Cell division initiation protein DivIVA
+PGF_03140772	Agromyces	530.33	134.36	Bis-ABC ATPase SCO6512
+PGF_03152833	Agromyces	300.69	17.66	Ku domain protein
+PGF_03154343	Agromyces	136.46	17.67	Cytidine deaminase (EC 3.5.4.5)
+PGF_03165032	Agromyces	142.33	10.75	hypothetical protein
+PGF_03222913	Agromyces	86.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03253896	Agromyces	230.15	52.03	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Agromyces	219.50	41.72	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03278866	Agromyces	77.75	0.87	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03365856	Agromyces	1023.85	315.79	Error-prone repair homolog of DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_03470321	Agromyces	178.69	30.67	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03518570	Agromyces	136.92	9.43	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03574598	Agromyces	356.67	64.90	Lon-like protease with PDZ domain
+PGF_03584110	Agromyces	73.54	8.97	FIG011121: hypothetical protein
+PGF_03602835	Agromyces	354.69	117.30	Hypothetical protein, possibly related to signal transduction
+PGF_03609651	Agromyces	496.62	58.68	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Agromyces	162.00	0.00	UPF0234 protein Yitk
+PGF_03659350	Agromyces	518.69	104.42	Protein-O-mannosyltransferase
+PGF_03674008	Agromyces	100.25	9.51	1,2-phenylacetyl-CoA epoxidase, subunit B (EC 1.14.13.149)
+PGF_03701810	Agromyces	292.69	32.73	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Agromyces	106.08	44.06	Protein translocase subunit SecE
+PGF_03719269	Agromyces	200.25	13.63	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03739563	Agromyces	108.31	2.50	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03751658	Agromyces	170.92	39.01	Membrane protein insertion efficiency factor YidD
+PGF_03752544	Agromyces	210.08	31.29	Phosphate transport system regulatory protein PhoU
+PGF_03755230	Agromyces	429.75	107.62	FIG007959: peptidase, M16 family
+PGF_03757137	Agromyces	450.58	126.66	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03790040	Agromyces	223.77	40.12	Ribonuclease III (EC 3.1.26.3)
+PGF_03801260	Agromyces	325.25	69.26	Integral membrane protein
+PGF_03810115	Agromyces	250.00	20.78	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Agromyces	353.67	46.63	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03981123	Agromyces	254.08	30.66	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_03991729	Agromyces	371.75	95.46	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04007946	Agromyces	208.83	13.25	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04025415	Agromyces	131.92	35.05	Large-conductance mechanosensitive channel
+PGF_04036472	Agromyces	76.31	6.10	KH domain RNA binding protein YlqC
+PGF_04046569	Agromyces	280.33	51.12	Glycosyltransferase
+PGF_04047265	Agromyces	105.31	8.06	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04127376	Agromyces	254.62	41.52	Twin-arginine translocation protein TatC
+PGF_04151476	Agromyces	193.15	37.66	16S rRNA processing protein RimM
+PGF_04182459	Agromyces	357.00	101.07	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04251642	Agromyces	146.92	10.47	(3R)-hydroxyacyl-ACP dehydratase subunit HadB
+PGF_04292974	Agromyces	206.00	37.09	hypothetical protein
+PGF_04306800	Agromyces	347.08	67.83	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04341083	Agromyces	279.92	85.28	hypothetical protein
+PGF_04345693	Agromyces	452.17	103.10	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04366148	Agromyces	235.00	51.29	hypothetical protein
+PGF_04385621	Agromyces	161.25	8.65	hypothetical protein
+PGF_04457297	Agromyces	183.67	28.87	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Agromyces	332.58	37.04	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04469179	Agromyces	167.15	19.57	Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase
+PGF_04505269	Agromyces	304.38	16.95	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Agromyces	419.15	129.09	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Agromyces	391.69	125.76	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04611143	Agromyces	102.92	3.00	hypothetical protein
+PGF_04611771	Agromyces	249.00	25.94	hypothetical protein
+PGF_04695681	Agromyces	190.33	12.92	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04704185	Agromyces	457.08	86.80	NAD(P)H quinone reductase LpdA (EC 1.6.5.2)
+PGF_04788810	Agromyces	205.75	38.69	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Agromyces	290.58	30.45	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04845029	Agromyces	109.92	20.83	LSU ribosomal protein L19p
+PGF_04866046	Agromyces	600.08	132.72	Uncharacterized protein YyaL
+PGF_04923986	Agromyces	283.42	7.80	hypothetical protein
+PGF_04970608	Agromyces	87.23	8.04	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04971017	Agromyces	341.08	84.43	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Agromyces	101.31	1.93	LSU ribosomal protein L21p
+PGF_05039816	Agromyces	150.83	34.07	hypothetical protein
+PGF_05053989	Agromyces	316.62	94.04	ATP-dependent DNA ligase (EC 6.5.1.1) LigC
+PGF_05091456	Agromyces	312.50	12.72	Uncharacterized inner membrane protein RarD
+PGF_05105629	Agromyces	95.38	10.55	hypothetical protein
+PGF_05207025	Agromyces	153.50	31.90	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_05218024	Agromyces	531.92	111.14	Serine/threonine-protein kinase PknB (EC 2.7.11.1)
+PGF_05280843	Agromyces	425.25	105.89	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05331469	Agromyces	168.83	42.67	hypothetical protein
+PGF_05366548	Agromyces	287.25	33.69	Methionine ABC transporter substrate-binding protein
+PGF_05386032	Agromyces	204.25	36.69	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05463808	Agromyces	292.33	38.28	NAD kinase (EC 2.7.1.23)
+PGF_05514398	Agromyces	59.23	4.15	hypothetical protein
+PGF_05550775	Agromyces	325.33	40.80	hypothetical protein
+PGF_05595534	Agromyces	288.17	66.53	DNA polymerase I 5'-3' exonuclease domain
+PGF_05838705	Agromyces	195.67	30.19	hypothetical protein
+PGF_05971611	Agromyces	367.23	137.48	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06075233	Agromyces	420.50	174.50	PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase
+PGF_06085876	Agromyces	220.15	49.55	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_06098633	Agromyces	380.42	102.79	Uncharacterized DUF349-containing protein SCO1511
+PGF_06180597	Agromyces	146.23	6.38	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Agromyces	94.42	12.41	Heat shock protein 60 family co-chaperone GroES
+PGF_06285692	Agromyces	168.69	5.23	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06331579	Agromyces	261.00	62.05	O-antigen export system permease protein RfbD
+PGF_06379377	Agromyces	458.00	113.30	Replication-associated recombination protein RarA
+PGF_06426879	Agromyces	191.67	6.24	hypothetical protein
+PGF_06461498	Agromyces	270.58	75.14	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06649360	Agromyces	225.69	49.19	Segregation and condensation protein B
+PGF_06660812	Agromyces	195.23	25.96	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06718352	Agromyces	159.08	21.13	Cys-tRNA(Pro) deacylase YbaK
+PGF_06863675	Agromyces	266.25	60.16	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_07050301	Agromyces	326.25	43.17	7,8-didemethyl-8-hydroxy-5-deazariboflavin ABC transporter, substrate-binding protein
+PGF_08080818	Agromyces	102.38	0.77	hypothetical protein
+PGF_08117870	Agromyces	106.50	3.53	Ferredoxin, 2Fe-2S
+PGF_08197987	Agromyces	114.46	5.55	Iron-sulfur cluster insertion protein SCO2161

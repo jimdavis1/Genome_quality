@@ -1,0 +1,800 @@
+PGF_00000261	Methylibium	396.25	12.35	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000939	Methylibium	413.50	3.46	Uncharacterized protein YhiN
+PGF_00002508	Methylibium	196.75	20.79	FIG016425: Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)
+PGF_00002592	Methylibium	210.75	5.75	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00002900	Methylibium	341.50	12.26	FIG027190: Putative transmembrane protein
+PGF_00002980	Methylibium	493.25	39.17	FIG032621: Hydrolase, alpha/beta hydrolase fold family
+PGF_00003448	Methylibium	398.25	5.20	FIG110192: hypothetical protein
+PGF_00003638	Methylibium	250.88	11.66	FIG143263: Glycosyl transferase
+PGF_00003749	Methylibium	150.50	2.98	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003750	Methylibium	179.12	10.84	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00005302	Methylibium	253.50	27.66	Flagellar assembly protein FliH
+PGF_00005354	Methylibium	138.50	2.33	Flagellar basal-body rod protein FlgC
+PGF_00005402	Methylibium	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005430	Methylibium	101.00	5.66	Flagellar biosynthesis protein FliT
+PGF_00005454	Methylibium	653.38	5.93	Flagellar hook-associated protein FlgK
+PGF_00005572	Methylibium	287.75	7.32	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005630	Methylibium	178.25	0.46	Flagellar transcriptional activator FlhC
+PGF_00006100	Methylibium	297.00	59.78	tRNA-modifying protein YgfZ
+PGF_00006116	Methylibium	177.00	0.00	Formaldehyde activating enzyme
+PGF_00006318	Methylibium	305.75	1.49	Formylmethanofuran--tetrahydromethanopterin N-formyltransferase (EC 2.3.1.101)
+PGF_00006320	Methylibium	295.75	2.31	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006336	Methylibium	116.62	6.76	Frataxin homolog CyaY, facilitates Fe-S cluster assembly, interacts with IscS
+PGF_00006461	Methylibium	468.62	5.42	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006744	Methylibium	143.12	3.80	GENE II AND X PROTEINS
+PGF_00006935	Methylibium	531.88	4.26	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006983	Methylibium	268.75	27.06	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007026	Methylibium	232.75	13.69	GTP-binding protein EngB
+PGF_00007027	Methylibium	313.25	3.99	GTP-binding protein Era
+PGF_00007028	Methylibium	409.12	7.97	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007057	Methylibium	421.88	137.26	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Methylibium	274.50	54.16	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007437	Methylibium	261.50	5.35	ABC-type Na+ transport system not coupled with H+ or K+ uptake, ATPase component NatA
+PGF_00007812	Methylibium	669.38	124.63	Glucans biosynthesis glucosyltransferase H (EC 2.4.1.-)
+PGF_00007822	Methylibium	503.50	16.73	Glucans biosynthesis protein G precursor
+PGF_00007988	Methylibium	539.38	6.35	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008061	Methylibium	372.38	1.06	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008074	Methylibium	222.00	0.76	Glutamate Aspartate transport system permease protein GltK (TC 3.A.1.3.4)
+PGF_00008161	Methylibium	431.00	0.00	Glutamate--cysteine ligase (EC 6.3.2.2), divergent, of Alpha- and Beta-proteobacteria type
+PGF_00008164	Methylibium	434.00	3.46	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008326	Methylibium	607.25	3.28	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008393	Methylibium	392.88	2.03	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008469	Methylibium	316.12	2.53	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008838	Methylibium	221.62	5.42	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009967	Methylibium	312.25	6.25	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Methylibium	709.12	8.51	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010349	Methylibium	831.38	136.72	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Methylibium	206.12	0.35	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Methylibium	323.62	17.14	HPr kinase/phosphorylase
+PGF_00011081	Methylibium	660.12	61.51	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011634	Methylibium	428.25	17.29	HflK protein
+PGF_00011979	Methylibium	445.38	7.33	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012069	Methylibium	118.75	14.24	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012088	Methylibium	170.50	6.99	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012264	Methylibium	353.25	1.91	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00013003	Methylibium	655.75	18.22	Bis-ABC ATPase YheS
+PGF_00013266	Methylibium	267.75	3.54	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013283	Methylibium	210.00	19.00	UPF0001 protein YggS
+PGF_00013509	Methylibium	529.50	2.07	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013801	Methylibium	507.88	13.03	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013803	Methylibium	196.75	7.36	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013857	Methylibium	730.75	55.20	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014306	Methylibium	177.50	4.31	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Methylibium	489.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014678	Methylibium	266.25	77.77	Integral membrane protein
+PGF_00015039	Methylibium	286.75	4.27	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015216	Methylibium	177.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015261	Methylibium	107.00	0.00	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015523	Methylibium	136.50	3.55	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015573	Methylibium	214.25	16.46	Iron-sulfur cluster-binding protein
+PGF_00015701	Methylibium	417.00	0.00	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00016328	Methylibium	172.50	10.45	LSU ribosomal protein L10p (P0)
+PGF_00016338	Methylibium	420.75	3.65	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016342	Methylibium	143.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Methylibium	138.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Methylibium	128.62	6.76	LSU ribosomal protein L17p
+PGF_00016353	Methylibium	110.00	20.99	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Methylibium	240.88	15.41	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Methylibium	113.12	13.79	LSU ribosomal protein L20p
+PGF_00016368	Methylibium	110.88	1.25	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Methylibium	104.75	1.75	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Methylibium	106.75	3.41	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Methylibium	83.00	6.48	LSU ribosomal protein L27p
+PGF_00016393	Methylibium	274.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Methylibium	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Methylibium	60.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Methylibium	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Methylibium	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Methylibium	66.25	1.39	LSU ribosomal protein L35p
+PGF_00016431	Methylibium	227.12	7.79	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Methylibium	206.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Methylibium	182.75	4.86	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Methylibium	176.25	2.12	LSU ribosomal protein L6p (L9e)
+PGF_00016452	Methylibium	150.00	0.00	LSU ribosomal protein L9p
+PGF_00016919	Methylibium	260.00	5.66	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Methylibium	363.50	41.29	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Methylibium	250.88	6.96	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017400	Methylibium	316.75	11.90	Murein hydrolase activator NlpD
+PGF_00017459	Methylibium	482.12	19.66	ATP-dependent RNA helicase Bcep18194_A5658
+PGF_00017464	Methylibium	209.50	56.41	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017617	Methylibium	307.50	62.01	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00018552	Methylibium	209.62	28.14	Maf-like protein YceF
+PGF_00019428	Methylibium	182.88	2.80	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Methylibium	899.62	2.45	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00020042	Methylibium	340.38	14.50	ATP-dependent protease domain protein (EC 3.4.21.-)
+PGF_00020172	Methylibium	270.88	9.26	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Methylibium	139.75	33.08	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020741	Methylibium	194.88	2.47	Methionine biosynthesis protein MetW
+PGF_00020981	Methylibium	538.12	2.59	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Methylibium	283.75	1.04	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021021	Methylibium	810.25	153.17	Methylmalonyl-CoA mutase (EC 5.4.99.2) / B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00021125	Methylibium	425.88	22.76	SAM-dependent methyltransferase
+PGF_00022479	Methylibium	200.62	3.16	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022507	Methylibium	232.62	83.05	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022516	Methylibium	75.00	0.00	Molybdopterin biosynthesis MoeB protein
+PGF_00022577	Methylibium	196.00	15.26	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00022925	Methylibium	629.50	11.94	Multi-sensor signal transduction histidine kinase
+PGF_00023476	Methylibium	145.88	6.13	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023590	Methylibium	338.50	11.88	N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase (EC 3.5.4.27)
+PGF_00023591	Methylibium	355.38	13.72	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00024232	Methylibium	392.75	37.72	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Methylibium	384.50	2.20	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Methylibium	166.50	4.14	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024687	Methylibium	418.00	1.85	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Methylibium	164.38	5.71	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Methylibium	219.38	6.02	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Methylibium	105.12	3.36	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Methylibium	491.12	0.35	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024855	Methylibium	156.88	13.23	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025215	Methylibium	168.50	15.56	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025686	Methylibium	265.75	0.46	Nitrate ABC transporter, ATP-binding protein
+PGF_00025713	Methylibium	385.75	6.61	Nitrate/nitrite sensor protein (EC 2.7.3.-)
+PGF_00026362	Methylibium	205.62	3.58	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026563	Methylibium	161.00	8.73	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Methylibium	306.00	2.98	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026866	Methylibium	322.62	9.33	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Methylibium	679.50	8.50	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027752	Methylibium	537.62	185.43	Outer membrane component of TAM transport system
+PGF_00028700	Methylibium	178.88	3.56	Oxidoreductase probably involved in sulfite reduction
+PGF_00029464	Methylibium	154.88	3.18	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029905	Methylibium	361.88	4.58	PUTATIVE ZINC PROTEASE PROTEIN
+PGF_00030070	Methylibium	396.50	13.80	Patatin
+PGF_00030643	Methylibium	544.88	4.29	Peptide chain release factor 3
+PGF_00030800	Methylibium	264.00	24.27	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_00030889	Methylibium	116.25	1.04	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00031075	Methylibium	624.88	23.02	Periplasmic sensor signal transduction histidine kinase
+PGF_00031127	Methylibium	217.12	5.54	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00033237	Methylibium	329.50	14.41	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Methylibium	291.38	3.11	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Methylibium	370.38	5.04	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Methylibium	392.88	0.35	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033390	Methylibium	620.38	4.50	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+PGF_00033411	Methylibium	270.50	2.93	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033509	Methylibium	84.25	0.46	Acyl-CoA-binding protein
+PGF_00033729	Methylibium	266.25	6.45	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Methylibium	270.00	25.93	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033877	Methylibium	165.25	1.49	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Methylibium	430.38	1.19	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Methylibium	296.12	12.60	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Methylibium	214.50	2.07	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Methylibium	243.25	10.11	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Methylibium	369.25	9.54	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033968	Methylibium	208.12	0.99	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034566	Methylibium	450.00	145.36	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Methylibium	685.25	112.81	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00035183	Methylibium	189.88	20.63	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035378	Methylibium	477.12	2.95	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035617	Methylibium	258.25	3.99	Predicted Lactate-responsive regulator, IclR family
+PGF_00035721	Methylibium	454.62	12.43	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Methylibium	449.50	11.43	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035831	Methylibium	256.25	19.30	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00036543	Methylibium	483.62	106.07	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036580	Methylibium	115.50	18.42	Protein translocase subunit YajC
+PGF_00036876	Methylibium	339.38	27.77	Probable RNA methyltransferase PA1839
+PGF_00037171	Methylibium	336.75	0.89	Probable low-affinity inorganic phosphate transporter
+PGF_00037588	Methylibium	593.75	15.41	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037758	Methylibium	510.00	0.00	Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)
+PGF_00038060	Methylibium	323.88	7.30	Protein containing domains DUF403
+PGF_00038061	Methylibium	478.62	1.41	Protein containing domains DUF404, DUF407
+PGF_00038542	Methylibium	150.00	1.60	Protein of unknown function Smg
+PGF_00038674	Methylibium	343.88	0.64	Protein translocase subunit SecF
+PGF_00038879	Methylibium	143.38	1.92	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039342	Methylibium	282.12	7.34	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039703	Methylibium	194.12	4.58	Putative SAM-dependent methyltransferase Bucepa02006346
+PGF_00040578	Methylibium	269.75	12.44	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Methylibium	268.62	33.77	Putative deoxyribonuclease YjjV
+PGF_00041206	Methylibium	437.38	3.89	Uncharacterized chaperone protein YegD
+PGF_00041669	Methylibium	261.88	6.77	Putative inner membrane protein
+PGF_00041794	Methylibium	187.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041831	Methylibium	523.12	2.75	Alkyl hydroperoxide reductase protein F
+PGF_00042959	Methylibium	220.00	0.76	Putative periplasmic cytochrome type-C oxidoreductase signal peptide protein (EC 1.-.-.-)
+PGF_00043159	Methylibium	353.00	0.00	Putative permease often clustered with de novo purine synthesis
+PGF_00044560	Methylibium	144.75	1.39	Putative transmembrane protein
+PGF_00044566	Methylibium	120.25	4.30	Putative transmembrane protein
+PGF_00044786	Methylibium	294.38	23.11	Putative transmembrane protein
+PGF_00045833	Methylibium	213.00	2.62	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Methylibium	265.12	2.47	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045934	Methylibium	182.38	2.97	Pyrophosphatase, MutT/nudix family (EC 3.6.1.-)
+PGF_00046197	Methylibium	254.38	11.71	RNA binding methyltransferase FtsJ like
+PGF_00046348	Methylibium	342.38	19.68	RNA polymerase sigma factor RpoS
+PGF_00046377	Methylibium	237.00	0.00	RNA polymerase sigma factor for flagellar operon
+PGF_00046622	Methylibium	80.50	0.53	RNA-binding protein Hfq
+PGF_00047078	Methylibium	362.62	6.50	RecA protein
+PGF_00047408	Methylibium	211.25	1.49	Regulatory protein, LuxR:Response regulator receiver
+PGF_00047804	Methylibium	245.00	0.93	Response regulator
+PGF_00047896	Methylibium	244.12	7.83	Response regulator CreB of two-component signal transduction system CreBC
+PGF_00047987	Methylibium	133.38	2.72	Two-component transcriptional response regulator, LuxR family
+PGF_00048329	Methylibium	250.38	7.31	Rhodanese domain protein UPF0176, Betaproteobacterial subgroup
+PGF_00048480	Methylibium	207.88	4.73	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Methylibium	172.12	26.65	Outer membrane beta-barrel assembly protein BamE
+PGF_00048542	Methylibium	154.62	5.32	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048586	Methylibium	241.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048638	Methylibium	388.12	19.35	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Methylibium	144.00	8.49	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Methylibium	325.62	8.25	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048824	Methylibium	211.88	5.59	Ribosomal large subunit pseudouridine(746) synthase (EC 5.4.99.29) @ tRNA pseudouridine(32) synthase (EC 5.4.99.28)
+PGF_00048840	Methylibium	298.25	7.50	Ribosomal protein L11 methyltransferase
+PGF_00048842	Methylibium	291.12	3.36	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048868	Methylibium	227.00	31.51	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Methylibium	108.88	12.51	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Methylibium	188.25	4.17	Ribosome recycling factor
+PGF_00048928	Methylibium	298.62	10.08	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Methylibium	140.75	9.87	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Methylibium	125.50	4.81	Ribosome-binding factor A
+PGF_00049163	Methylibium	172.50	0.53	Rod shape-determining protein MreD
+PGF_00049658	Methylibium	147.38	1.51	Alternative dihydrofolate reductase 3
+PGF_00049827	Methylibium	257.50	7.21	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Methylibium	103.25	0.46	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Methylibium	133.12	0.35	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Methylibium	123.00	14.90	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Methylibium	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Methylibium	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Methylibium	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Methylibium	92.62	20.49	SSU ribosomal protein S16p
+PGF_00049854	Methylibium	93.00	3.30	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Methylibium	96.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Methylibium	89.62	5.13	SSU ribosomal protein S19p (S15e)
+PGF_00049893	Methylibium	207.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Methylibium	172.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Methylibium	121.25	1.04	SSU ribosomal protein S6p
+PGF_00049904	Methylibium	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Methylibium	131.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Methylibium	130.12	0.35	SSU ribosomal protein S9p (S16e)
+PGF_00049990	Methylibium	136.75	4.92	SWIB/MDM2 domain-containing proteins
+PGF_00050368	Methylibium	357.50	11.86	Selenophosphate-dependent tRNA 2-selenouridine synthase
+PGF_00050995	Methylibium	508.75	1.91	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051187	Methylibium	292.12	10.02	Ser/Thr protein phosphatase family protein, UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.54) homolog
+PGF_00051358	Methylibium	375.00	2.67	Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase
+PGF_00051525	Methylibium	433.62	4.37	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052574	Methylibium	328.12	2.90	Similar to cobalamin biosynthesis protein CbiB
+PGF_00052674	Methylibium	221.38	5.63	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052676	Methylibium	214.88	15.05	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase
+PGF_00052705	Methylibium	143.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00054301	Methylibium	194.50	12.84	Stringent starvation protein A
+PGF_00054323	Methylibium	208.75	1.83	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Methylibium	120.12	0.35	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054541	Methylibium	207.62	3.62	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00055169	Methylibium	674.88	21.21	Anaerobic dehydrogenases, typically selenocysteine-containing
+PGF_00055354	Methylibium	440.38	9.61	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055966	Methylibium	369.75	3.81	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056700	Methylibium	320.00	6.89	Anthranilate phosphoribosyltransferase like (EC 2.4.2.18)
+PGF_00056814	Methylibium	492.62	1.77	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00057016	Methylibium	141.75	0.46	Tol biopolymer transport system, TolR protein
+PGF_00057032	Methylibium	136.12	7.28	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057399	Methylibium	298.25	50.20	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Methylibium	149.00	1.07	Transamidase GatB domain protein
+PGF_00057435	Methylibium	186.50	1.69	Transcription elongation factor GreB
+PGF_00057483	Methylibium	422.50	4.63	Transcription termination factor Rho
+PGF_00057485	Methylibium	490.50	2.78	Transcription termination protein NusA
+PGF_00057488	Methylibium	174.12	6.75	Transcription termination protein NusB
+PGF_00057683	Methylibium	163.75	5.04	Transcriptional regulator
+PGF_00060414	Methylibium	603.00	1.07	Translation elongation factor LepA
+PGF_00060421	Methylibium	184.00	0.00	Translation elongation factor P
+PGF_00060427	Methylibium	305.00	6.89	Translation elongation factor Ts
+PGF_00060478	Methylibium	157.25	9.72	Translation initiation factor 3
+PGF_00060481	Methylibium	115.62	16.41	Translation initiation factor SUI1-related protein
+PGF_00061607	Methylibium	124.00	0.00	ApaG protein
+PGF_00061838	Methylibium	167.50	9.21	Tripartite tricarboxylate transporter TctB family
+PGF_00061926	Methylibium	252.38	87.49	Triphosphoribosyl-dephospho-CoA synthetase
+PGF_00062023	Methylibium	273.25	4.53	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062045	Methylibium	408.38	42.36	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062267	Methylibium	645.62	108.81	Two-component system sensor histidine kinase/response regulator hybrid
+PGF_00062561	Methylibium	223.00	0.00	Two-component response regulatory protein BP2547
+PGF_00062790	Methylibium	499.12	41.57	Two-component system histidine kinase BP2548
+PGF_00063167	Methylibium	131.38	13.20	Type I antifreeze protein
+PGF_00063695	Methylibium	194.50	28.61	Archaeal flavoprotein COG1036
+PGF_00063734	Methylibium	214.12	1.89	Type IV pilus biogenesis protein PilN
+PGF_00063761	Methylibium	161.62	41.75	Type IV pilus biogenesis protein PilP
+PGF_00063916	Methylibium	406.62	11.35	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063944	Methylibium	311.25	0.71	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Methylibium	345.25	29.60	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Methylibium	342.38	6.23	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Methylibium	363.12	4.19	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Methylibium	486.62	43.90	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Methylibium	452.88	6.62	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064184	Methylibium	502.00	7.84	UPF0061 protein YdiU
+PGF_00064270	Methylibium	263.62	7.41	UPF0246 protein YaaA
+PGF_00064460	Methylibium	520.50	4.99	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064557	Methylibium	347.62	2.72	Uncharacterized GTP-binding protein YjiA
+PGF_00064685	Methylibium	124.00	62.67	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Methylibium	214.75	4.80	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00065482	Methylibium	640.00	0.00	Uncharacterized protein YeaG
+PGF_00065887	Methylibium	244.88	10.08	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066214	Methylibium	218.12	4.42	Urease accessory protein UreG
+PGF_00066216	Methylibium	101.50	0.53	Urease beta subunit (EC 3.5.1.5)
+PGF_00066237	Methylibium	316.12	4.05	Uricase (urate oxidase) (EC 1.7.3.3)
+PGF_00066270	Methylibium	365.25	8.80	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Methylibium	947.62	8.58	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066930	Methylibium	797.25	17.28	Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)
+PGF_00067188	Methylibium	372.00	7.46	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067192	Methylibium	200.25	28.25	YaeQ protein
+PGF_00067277	Methylibium	394.88	4.12	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067361	Methylibium	341.38	5.42	YihE protein, required for LPS synthesis
+PGF_00067538	Methylibium	273.38	16.19	Zinc transporter, ZIP family
+PGF_00067554	Methylibium	485.25	8.41	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Methylibium	364.00	1.07	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Methylibium	869.75	31.21	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068981	Methylibium	264.62	9.87	benzoate degradation ring-cleavage hydrolase
+PGF_00070868	Methylibium	231.25	35.76	4-(hydroxymethyl)-2-furancarboxaldehyde-phosphate synthase
+PGF_00071693	Methylibium	304.75	12.44	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00071938	Methylibium	158.62	1.06	Bacterioferritin (EC 1.16.3.1)
+PGF_00084324	Methylibium	278.38	7.27	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00102041	Methylibium	201.12	7.79	Esterase YqiA
+PGF_00113984	Methylibium	186.25	2.55	Flavin prenyltransferase UbiX
+PGF_00131272	Methylibium	54.25	0.46	UPF0391 membrane protein RGE_28580
+PGF_00183907	Methylibium	282.50	2.51	hypothetical protein
+PGF_00197760	Methylibium	239.38	10.20	hypothetical protein
+PGF_00201871	Methylibium	144.25	2.49	Putative activity regulator of membrane protease YbbK
+PGF_00212238	Methylibium	465.62	5.60	hypothetical protein
+PGF_00255767	Methylibium	460.62	20.01	Osmolarity sensory histidine kinase EnvZ
+PGF_00261173	Methylibium	384.25	17.68	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00263310	Methylibium	158.88	11.64	hypothetical protein
+PGF_00284068	Methylibium	148.75	27.92	Copper metallochaperone PCu(A)C, inserts Cu(I) into cytochrome oxidase subunit II
+PGF_00285411	Methylibium	145.38	46.15	hypothetical protein
+PGF_00297107	Methylibium	129.88	5.91	hypothetical protein
+PGF_00300187	Methylibium	347.62	25.98	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00306574	Methylibium	350.38	9.80	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00362948	Methylibium	294.62	128.86	hypothetical protein
+PGF_00376758	Methylibium	297.50	5.88	ATP/GTP-binding protein
+PGF_00378049	Methylibium	398.62	6.59	hypothetical protein
+PGF_00383126	Methylibium	135.25	36.73	hypothetical protein
+PGF_00393624	Methylibium	83.38	30.01	hypothetical protein
+PGF_00399622	Methylibium	131.12	0.99	Barstar, ribonuclease (Barnase) inhibitor
+PGF_00399842	Methylibium	74.00	0.00	hypothetical protein
+PGF_00400694	Methylibium	369.62	6.19	low-specificity D-threonine aldolase
+PGF_00401752	Methylibium	285.38	79.83	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00404078	Methylibium	132.50	38.61	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Methylibium	452.12	8.84	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404406	Methylibium	164.88	6.73	probable membrane protein YPO3302
+PGF_00404534	Methylibium	242.50	18.56	probable phosphoprotein phosphatase
+PGF_00405754	Methylibium	462.12	245.20	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline (OHCU) decarboxylase (EC 4.1.1.97) / Allantoate amidohydrolase (EC 3.5.3.9)
+PGF_00405891	Methylibium	109.50	5.95	putative HNS-like transcription regulator protein
+PGF_00407324	Methylibium	396.00	9.06	Uncharacterized MFS-type transporter
+PGF_00407683	Methylibium	235.38	7.87	Integral membrane protein
+PGF_00408673	Methylibium	549.12	5.54	Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+PGF_00411115	Methylibium	258.00	1.85	putative tetratricopeptide repeat family protein
+PGF_00411283	Methylibium	185.62	90.53	Two-component transcriptional response regulator, LuxR family
+PGF_00413203	Methylibium	158.62	2.83	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Methylibium	254.12	2.42	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Methylibium	263.88	4.85	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Methylibium	331.62	21.10	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Methylibium	655.88	26.91	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Methylibium	312.00	8.55	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413554	Methylibium	154.25	1.04	tmRNA-binding protein SmpB
+PGF_00413947	Methylibium	158.38	10.88	C-type cytochrome biogenesis protein ResA (thioredoxin)
+PGF_00414156	Methylibium	133.25	7.27	twitching motility protein PilG
+PGF_00414422	Methylibium	173.00	1.07	type IV pili signal transduction protein PilI
+PGF_00414490	Methylibium	334.88	25.30	uncharacterized domain / RidA/YER057c/UK114 superfamily, group 5
+PGF_00415150	Methylibium	285.12	9.52	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415372	Methylibium	144.50	10.68	COG0840: Methyl-accepting chemotaxis protein
+PGF_00415407	Methylibium	297.12	169.22	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415463	Methylibium	162.88	9.42	Uncharacterized protein YgjP
+PGF_00415481	Methylibium	369.00	13.95	SAM-dependent methyltransferase, MidA
+PGF_00415486	Methylibium	155.50	0.53	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Methylibium	225.12	11.80	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416576	Methylibium	189.38	1.92	3'-to-5' oligoribonuclease (orn)
+PGF_00417437	Methylibium	618.50	1.41	Chaperone protein HscA
+PGF_00417658	Methylibium	417.88	97.53	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Methylibium	236.62	12.57	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Methylibium	356.50	18.36	Chorismate synthase (EC 4.2.3.5)
+PGF_00417864	Methylibium	449.88	5.41	Chromate transport protein ChrA
+PGF_00417987	Methylibium	200.75	9.71	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00419420	Methylibium	470.62	3.42	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419627	Methylibium	306.75	0.89	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Methylibium	183.88	2.64	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419842	Methylibium	145.62	3.89	Cyanate hydratase (EC 4.2.1.104)
+PGF_00419913	Methylibium	165.88	14.46	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420048	Methylibium	406.00	0.00	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420482	Methylibium	251.50	3.63	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Methylibium	661.12	11.28	Cytochrome c heme lyase subunit CcmF
+PGF_00420556	Methylibium	244.50	1.85	3-oxoacyl-[ACP] reductase (EC 1.1.1.100)
+PGF_00420582	Methylibium	215.62	32.28	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420792	Methylibium	298.00	5.55	D-alanine aminotransferase (EC 2.6.1.21)
+PGF_00420798	Methylibium	307.88	45.09	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Methylibium	321.00	5.10	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421071	Methylibium	150.00	2.51	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421792	Methylibium	453.12	2.03	DNA repair protein RadA
+PGF_00422053	Methylibium	78.62	0.52	DNA-binding protein Fis
+PGF_00422271	Methylibium	330.50	2.67	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422303	Methylibium	188.00	0.00	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
+PGF_00422711	Methylibium	223.38	13.44	DedA protein
+PGF_00423089	Methylibium	382.25	8.00	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423335	Methylibium	474.88	0.83	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423376	Methylibium	150.00	5.81	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423378	Methylibium	423.12	36.14	Dihydroorotase (EC 3.5.2.3)
+PGF_00423382	Methylibium	358.38	14.78	Dihydroorotase (EC 3.5.2.3)
+PGF_00423480	Methylibium	254.25	27.29	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1
+PGF_00423533	Methylibium	290.62	4.31	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Methylibium	218.88	61.54	DksA family protein PA5536 (no Zn-finger)
+PGF_00423927	Methylibium	304.25	4.92	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00425010	Methylibium	484.62	8.62	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425161	Methylibium	687.12	3.27	Exoribonuclease II (EC 3.1.13.1)
+PGF_00425665	Methylibium	247.25	17.04	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Methylibium	310.50	7.87	RNase adapter protein RapZ
+PGF_00425684	Methylibium	236.88	11.67	Probable transcriptional regulatory protein YebC
+PGF_00425704	Methylibium	94.25	10.82	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425714	Methylibium	689.50	12.27	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425810	Methylibium	239.75	34.00	Cell division protein ZapD
+PGF_00425828	Methylibium	818.12	31.03	ATP-dependent, 3'-5' DNA helicase with strand annealing activity
+PGF_00425918	Methylibium	271.88	3.27	FIG003879: Uncharacterized subgroup of the nitrilase superfamily
+PGF_00425929	Methylibium	319.25	49.62	5'-nucleotidase (EC 3.1.3.5)
+PGF_00426044	Methylibium	285.25	6.30	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426093	Methylibium	169.00	0.00	5,6,7,8-tetrahydromethanopterin hydro-lyase (EC 4.2.1.147) @ Formaldehyde activating enzyme
+PGF_00426236	Methylibium	430.25	11.17	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426932	Methylibium	157.00	3.21	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447508	Methylibium	466.00	0.00	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00462024	Methylibium	231.62	45.44	Branched-chain amino acid transport protein azlC
+PGF_00482828	Methylibium	449.88	7.62	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00497557	Methylibium	457.62	161.59	Uncharacterized protein YjgR
+PGF_00508272	Methylibium	597.88	22.24	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00529632	Methylibium	864.88	2.30	ClpB protein
+PGF_00538878	Methylibium	307.12	14.40	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00546752	Methylibium	153.50	1.07	Phosphohistidine phosphatase SixA
+PGF_00549302	Methylibium	479.88	0.35	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00550718	Methylibium	149.12	5.08	General secretion pathway protein G
+PGF_00550785	Methylibium	290.62	91.59	Inner membrane protein YtfF
+PGF_00565351	Methylibium	223.25	4.77	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00580333	Methylibium	385.38	4.41	Lipopolysaccharide assembly protein LapB
+PGF_00582270	Methylibium	463.00	0.00	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00618776	Methylibium	390.25	5.18	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Methylibium	241.00	6.78	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00634936	Methylibium	293.00	33.14	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00641071	Methylibium	339.25	65.22	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00648054	Methylibium	232.62	6.32	Tol-Pal system protein TolQ
+PGF_00649271	Methylibium	94.50	7.07	Cell division protein BolA
+PGF_00655131	Methylibium	492.38	34.60	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Methylibium	459.75	149.96	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Methylibium	231.12	5.11	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Methylibium	450.88	3.83	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00685421	Methylibium	215.62	9.35	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+PGF_00689385	Methylibium	180.75	41.72	DUF447 family protein
+PGF_00694978	Methylibium	310.88	43.09	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00695496	Methylibium	235.25	0.71	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00709443	Methylibium	165.88	4.70	Twin-arginine translocation protein TatB
+PGF_00709627	Methylibium	306.00	0.00	Nucleoside ABC transporter, permease protein 2
+PGF_00716234	Methylibium	218.00	1.07	Two-component transcriptional response regulator, LuxR family
+PGF_00717495	Methylibium	437.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00725839	Methylibium	799.00	26.37	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00733848	Methylibium	262.38	10.97	Endonuclease/exonuclease/phosphatase
+PGF_00734751	Methylibium	157.25	10.14	Cytochrome c heme lyase subunit CcmL
+PGF_00776859	Methylibium	147.00	1.69	Putative transmembrane protein
+PGF_00819312	Methylibium	156.12	2.90	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_00827555	Methylibium	621.50	18.29	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00846659	Methylibium	270.12	38.92	Polysaccharide deacetylase
+PGF_00866588	Methylibium	116.50	8.43	LSU ribosomal protein L14p (L23e)
+PGF_00885329	Methylibium	288.25	84.10	Flagellar motor switch protein FliM
+PGF_00900256	Methylibium	470.38	1.51	Threonine synthase (EC 4.2.3.1)
+PGF_00908360	Methylibium	255.38	6.12	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Methylibium	348.62	2.97	tRNA-dihydrouridine synthase DusB
+PGF_00924816	Methylibium	233.88	40.82	Thiol:disulfide interchange protein DsbC
+PGF_00943546	Methylibium	263.25	2.96	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00950554	Methylibium	713.50	12.13	Excinuclease ABC subunit B
+PGF_00952747	Methylibium	539.62	11.81	hypothetical protein
+PGF_00955461	Methylibium	342.12	13.98	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00957419	Methylibium	135.62	2.50	Putative pre-16S rRNA nuclease Yqg
+PGF_00973394	Methylibium	166.25	6.88	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_01008556	Methylibium	242.38	0.92	Flagellar basal-body rod protein FlgF
+PGF_01011517	Methylibium	384.50	7.33	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01015448	Methylibium	466.88	26.34	Sensor histidine kinase
+PGF_01034855	Methylibium	245.75	2.71	Two-component transcriptional response regulator, LuxR family
+PGF_01040342	Methylibium	522.50	5.93	Spermidine synthase (EC 2.5.1.16)
+PGF_01042105	Methylibium	179.12	3.48	hypothetical protein
+PGF_01052295	Methylibium	361.12	5.96	Lipopolysaccharide export system permease protein LptF
+PGF_01059264	Methylibium	454.75	0.46	Gamma-glutamyl-putrescine synthetase (EC 6.3.1.11)
+PGF_01075683	Methylibium	131.50	7.82	Hemoglobin-like protein HbO
+PGF_01081307	Methylibium	272.50	184.46	Two-component transcriptional response regulator, LuxR family
+PGF_01092098	Methylibium	173.25	0.71	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01104399	Methylibium	252.88	1.25	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Methylibium	425.38	3.29	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Methylibium	384.50	0.53	Rod shape-determining protein RodA
+PGF_01154330	Methylibium	305.88	8.69	Polyphosphate kinase 2 (EC 2.7.4.1)
+PGF_01166636	Methylibium	89.25	1.91	Glutaredoxin 3 (Grx3)
+PGF_01172431	Methylibium	119.88	0.99	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172485	Methylibium	412.00	8.49	Cell division protein FtsA
+PGF_01174739	Methylibium	246.75	1.16	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Methylibium	637.00	2.14	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01218094	Methylibium	279.88	16.30	Glutamine ABC transporter, substrate-binding protein GlnH
+PGF_01223569	Methylibium	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Methylibium	163.75	2.19	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01284176	Methylibium	147.50	17.91	Rubrerythrin
+PGF_01291803	Methylibium	331.38	21.58	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01323228	Methylibium	236.75	35.57	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Methylibium	226.88	2.75	Molybdenum ABC transporter permease protein ModB
+PGF_01336345	Methylibium	126.12	7.40	Type IV pilus biogenesis protein PilZ
+PGF_01337386	Methylibium	192.00	26.58	hypothetical protein
+PGF_01364427	Methylibium	191.00	1.07	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01382505	Methylibium	227.38	1.60	FIG00449901: hypothetical protein
+PGF_01402518	Methylibium	503.88	7.75	Malonate-semialdehyde dehydrogenase [inositol] (EC 1.2.1.18)
+PGF_01412799	Methylibium	212.00	0.00	UPF0056 inner membrane protein YchE
+PGF_01420802	Methylibium	145.62	13.42	Cell division protein MraZ
+PGF_01421534	Methylibium	214.00	0.76	LSU ribosomal protein L25p
+PGF_01444546	Methylibium	97.50	2.78	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Methylibium	115.75	4.77	Integration host factor alpha subunit
+PGF_01483460	Methylibium	372.25	4.74	Lipopolysaccharide export system permease protein LptG
+PGF_01496670	Methylibium	283.50	1.41	ATPase associated with various cellular activities, AAA_5
+PGF_01514111	Methylibium	355.38	3.89	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01532393	Methylibium	699.25	11.79	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01546618	Methylibium	295.12	2.95	putative membrane protein
+PGF_01555804	Methylibium	141.00	7.52	Flagellar basal-body rod protein FlgB
+PGF_01614738	Methylibium	92.88	10.06	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Methylibium	347.88	164.48	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667999	Methylibium	204.50	1.77	RNA polymerase sigma factor RpoE
+PGF_01668974	Methylibium	694.62	254.52	DNA internalization-related competence protein ComEC/Rec2
+PGF_01674551	Methylibium	124.00	0.00	Glycine cleavage system H protein
+PGF_01682537	Methylibium	131.88	0.83	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Methylibium	177.62	13.48	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Methylibium	265.50	8.91	DNA recombination and repair protein RecO
+PGF_01739753	Methylibium	287.75	34.15	Zinc metalloprotease
+PGF_01761890	Methylibium	67.75	5.50	DNA gyrase inhibitor YacG
+PGF_01762333	Methylibium	283.12	27.83	General secretion pathway protein N
+PGF_01762565	Methylibium	209.50	6.97	Molybdenum cofactor cytidylyltransferase (EC 2.7.7.76)
+PGF_01763725	Methylibium	305.12	0.99	Protein phosphatase 2C-like
+PGF_01780907	Methylibium	137.38	4.57	Protein YhfA
+PGF_01781189	Methylibium	227.25	3.15	PKHD-type hydroxylase YbiX
+PGF_01852683	Methylibium	422.75	164.51	Nucleoside ABC transporter, ATP-binding protein
+PGF_01853493	Methylibium	249.38	84.61	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01888177	Methylibium	147.00	1.85	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01899924	Methylibium	321.12	4.91	Flagellar motor rotation protein MotB
+PGF_01899937	Methylibium	300.50	14.01	Rod shape-determining protein MreC
+PGF_01910737	Methylibium	286.00	14.46	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01936994	Methylibium	352.00	8.54	Type IV pilus biogenesis protein PilM
+PGF_01960322	Methylibium	620.12	17.60	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Methylibium	434.62	0.74	Cell division trigger factor (EC 5.2.1.8)
+PGF_02019462	Methylibium	346.50	2.07	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Methylibium	366.25	5.28	GTP-binding protein Obg
+PGF_02059226	Methylibium	49.62	4.60	Transmembrane protein Msl3831
+PGF_02061452	Methylibium	382.62	13.62	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Methylibium	93.75	5.20	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02085373	Methylibium	117.62	18.06	UPF0225 protein YchJ
+PGF_02109968	Methylibium	331.00	0.00	Flagellar motor switch protein FliG
+PGF_02111888	Methylibium	326.62	4.14	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Methylibium	656.25	246.32	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02169237	Methylibium	234.62	1.77	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02189378	Methylibium	414.12	0.99	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02211177	Methylibium	252.62	2.72	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02224568	Methylibium	387.38	0.52	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02285950	Methylibium	91.50	1.41	hypothetical protein
+PGF_02285967	Methylibium	205.75	53.88	hypothetical protein
+PGF_02286202	Methylibium	308.38	30.41	General secretion pathway protein K
+PGF_02286217	Methylibium	103.25	5.78	hypothetical protein
+PGF_02288363	Methylibium	169.75	6.36	hypothetical protein
+PGF_02295498	Methylibium	107.50	0.53	Ferredoxin, 2Fe-2S
+PGF_02323834	Methylibium	296.50	5.95	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02325838	Methylibium	464.88	111.44	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328820	Methylibium	67.75	1.16	hypothetical protein
+PGF_02329487	Methylibium	319.12	75.23	4-[[4-(2-aminoethyl)phenoxy]-methyl]-2-furanmethanamine-glutamate synthase
+PGF_02338518	Methylibium	254.62	8.19	Gamma-glutamyl-GABA hydrolase (EC 3.5.1.94)
+PGF_02382338	Methylibium	268.50	6.72	Inner membrane protein YpjD
+PGF_02405545	Methylibium	334.75	8.21	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02454577	Methylibium	97.62	1.19	SSU ribosomal protein S20p
+PGF_02463284	Methylibium	195.50	0.53	Recombination protein RecR
+PGF_02473279	Methylibium	244.38	11.99	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473679	Methylibium	563.62	24.67	Type IV fimbrial assembly, ATPase PilB
+PGF_02510675	Methylibium	218.38	17.55	Hypothetical protein in cytochrome oxidase biogenesis cluster
+PGF_02515882	Methylibium	419.62	13.33	Aspartokinase (EC 2.7.2.4)
+PGF_02516666	Methylibium	391.88	8.08	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Methylibium	430.62	3.02	Enolase (EC 4.2.1.11)
+PGF_02518459	Methylibium	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02541367	Methylibium	154.88	36.33	NADH-FMN oxidoreductase
+PGF_02592886	Methylibium	254.50	1.60	Flagellar biosynthesis protein FliR
+PGF_02594696	Methylibium	362.50	3.16	acyl-CoA dehydrogenase, putative phosphotransferase
+PGF_02601905	Methylibium	154.62	7.52	Transcriptional regulator PA2737, MerR family
+PGF_02619970	Methylibium	91.50	0.53	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02719231	Methylibium	116.50	7.07	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Methylibium	813.88	180.16	DNA mismatch repair protein MutS
+PGF_02744871	Methylibium	108.88	1.25	Flagellar hook-basal body complex protein FliE
+PGF_02746016	Methylibium	186.50	74.14	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02750614	Methylibium	214.50	5.24	Transcriptional regulator
+PGF_02776739	Methylibium	129.00	0.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02787494	Methylibium	215.00	0.00	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02789532	Methylibium	266.12	30.08	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Methylibium	241.00	2.20	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Methylibium	462.62	4.24	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02813191	Methylibium	115.88	0.35	FIG146285: Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+PGF_02862285	Methylibium	446.25	0.89	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866563	Methylibium	238.25	8.21	Pyridoxal-5'-phosphate phosphatase (EC 3.1.3.74), Alphaproteobacterial type
+PGF_02868941	Methylibium	595.62	4.60	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_02873723	Methylibium	496.00	6.65	Ribonuclease G
+PGF_02877184	Methylibium	369.00	1.07	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02893930	Methylibium	294.00	57.78	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02897543	Methylibium	211.12	1.96	Phospholipid-binding protein
+PGF_02898096	Methylibium	487.75	5.68	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Methylibium	65.75	0.46	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Methylibium	202.88	0.64	Outer membrane lipoprotein carrier protein LolA
+PGF_02904832	Methylibium	326.62	11.99	Homoserine kinase (EC 2.7.1.39)
+PGF_02911133	Methylibium	203.75	11.66	Arylesterase precursor (EC 3.1.1.2)
+PGF_02912009	Methylibium	234.25	6.80	Type IV pilus biogenesis protein PilO
+PGF_02912272	Methylibium	156.75	24.99	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Methylibium	236.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Methylibium	293.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02938730	Methylibium	364.00	3.93	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02944756	Methylibium	399.00	2.33	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02945199	Methylibium	442.12	11.69	Gamma-glutamyl-putrescine oxidase (EC1.4.3.-)
+PGF_02946231	Methylibium	571.75	0.89	SSU ribosomal protein S1p
+PGF_02953390	Methylibium	474.12	71.47	Fe-S oxidoreductase-like protein in Rubrerythrin cluster
+PGF_02977258	Methylibium	109.12	28.34	RidA/YER057c/UK114 superfamily, group 2, YoaB-like protein
+PGF_02980852	Methylibium	307.25	0.46	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02991837	Methylibium	225.50	1.41	Protein of unknown function DUF484
+PGF_02992495	Methylibium	139.38	6.30	Protein translocase membrane subunit SecG
+PGF_02996412	Methylibium	273.88	72.10	Short-chain dehydrogenase/reductase SDR
+PGF_02997723	Methylibium	167.00	7.11	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03006190	Methylibium	391.00	57.40	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03016423	Methylibium	287.62	1.92	Protein sirB1
+PGF_03017978	Methylibium	204.12	1.96	Septum formation protein Maf
+PGF_03020719	Methylibium	625.12	18.95	Lysophospholipid transporter LplT / 2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40)
+PGF_03029859	Methylibium	492.38	254.31	Bis-ABC ATPase Uup
+PGF_03033930	Methylibium	448.12	8.17	Type I secretion outer membrane protein, TolC family
+PGF_03036937	Methylibium	348.12	82.13	Putative transmembrane protein
+PGF_03063012	Methylibium	173.00	2.45	Chaperone protein HscB
+PGF_03066317	Methylibium	539.75	40.09	Inner membrane protein YbaL, KefB/KefC family
+PGF_03071798	Methylibium	838.38	35.82	Type II secretory pathway, ATPase PulE/Tfp pilus assembly pathway, ATPase PilB
+PGF_03074101	Methylibium	84.00	9.41	Acyl carrier protein (ACP1)
+PGF_03074362	Methylibium	414.25	3.33	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03107950	Methylibium	149.00	3.66	hypothetical protein
+PGF_03124650	Methylibium	495.88	2.23	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03128228	Methylibium	371.00	5.10	Outer membrane beta-barrel assembly protein BamB
+PGF_03132336	Methylibium	427.50	1.60	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03138425	Methylibium	290.88	31.51	FIG00613342: Bacterial patatin-like phospholipase domain containing protein
+PGF_03172904	Methylibium	267.25	4.53	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Methylibium	198.25	4.13	Transcription antitermination protein NusG
+PGF_03215360	Methylibium	460.88	5.41	FIGfam138462: Acyl-CoA synthetase, AMP-(fatty) acid ligase
+PGF_03222913	Methylibium	138.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03272313	Methylibium	877.62	5.90	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Methylibium	73.25	5.50	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03348128	Methylibium	177.62	2.56	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03369967	Methylibium	399.25	9.02	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03421722	Methylibium	450.88	3.48	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Methylibium	321.88	2.59	33 kDa chaperonin HslO
+PGF_03439690	Methylibium	146.88	6.85	Ferric uptake regulation protein FUR
+PGF_03441339	Methylibium	345.50	41.31	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03448459	Methylibium	126.38	9.83	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03518570	Methylibium	142.00	2.83	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03609651	Methylibium	702.88	30.75	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Methylibium	162.00	0.00	UPF0234 protein Yitk
+PGF_03679540	Methylibium	220.50	51.29	Urease accessory protein UreF
+PGF_03683953	Methylibium	823.00	8.50	Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)
+PGF_03683955	Methylibium	302.62	3.07	Nitrate ABC transporter, permease protein
+PGF_03694903	Methylibium	486.62	40.67	ATP-dependent RNA helicase NGO0650
+PGF_03708253	Methylibium	128.62	4.60	Protein translocase subunit SecE
+PGF_03719269	Methylibium	206.88	3.09	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Methylibium	157.50	2.83	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Methylibium	200.50	7.43	UPF0301 protein YqgE
+PGF_03729877	Methylibium	121.00	0.00	twitching motility protein PilH
+PGF_03750571	Methylibium	477.50	28.46	Chromosomal replication initiator protein DnaA
+PGF_03750599	Methylibium	264.88	3.36	Cell division coordinator CpoB
+PGF_03750600	Methylibium	143.38	37.34	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Methylibium	150.88	70.36	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Methylibium	178.25	8.31	Heat shock protein GrpE
+PGF_03752544	Methylibium	235.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03753933	Methylibium	177.38	0.52	Iron-sulfur cluster regulator IscR
+PGF_03757137	Methylibium	467.12	1.73	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03767152	Methylibium	94.25	2.82	Proposed lipoate regulatory protein YbeD
+PGF_03768617	Methylibium	191.12	15.64	Glutathione peroxidase (EC 1.11.1.9)
+PGF_03778780	Methylibium	348.25	3.81	Signal recognition particle receptor FtsY
+PGF_03783620	Methylibium	175.00	2.83	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Methylibium	188.75	1.39	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Methylibium	240.12	6.81	Ribonuclease III (EC 3.1.26.3)
+PGF_03804538	Methylibium	538.62	11.15	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03807952	Methylibium	61.88	2.30	hypothetical protein
+PGF_03810089	Methylibium	473.50	0.53	General secretion pathway protein E
+PGF_03835760	Methylibium	371.00	131.51	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03846834	Methylibium	139.62	9.24	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03862500	Methylibium	225.50	15.83	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03957141	Methylibium	561.00	14.17	Probable inner membrane transmembrane protein
+PGF_03960810	Methylibium	256.75	3.06	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03969636	Methylibium	179.00	43.67	PhbF
+PGF_03971420	Methylibium	129.25	4.59	Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)
+PGF_04005838	Methylibium	420.75	9.39	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Methylibium	223.62	9.43	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Methylibium	158.25	2.71	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04009223	Methylibium	344.88	49.78	Uncharacterized protein EC-HemX
+PGF_04016408	Methylibium	453.62	3.74	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Methylibium	138.50	2.39	Large-conductance mechanosensitive channel
+PGF_04034430	Methylibium	70.50	8.07	SSU ribosomal protein S21p
+PGF_04037464	Methylibium	259.62	1.60	rRNA methylases
+PGF_04055837	Methylibium	314.75	14.47	ABC transporter, permease protein 2 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04119806	Methylibium	298.50	1.41	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Methylibium	262.50	1.51	Twin-arginine translocation protein TatC
+PGF_04151476	Methylibium	181.50	27.21	16S rRNA processing protein RimM
+PGF_04154333	Methylibium	77.12	1.64	Twin-arginine translocation protein TatA
+PGF_04163139	Methylibium	237.75	21.76	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04251132	Methylibium	515.88	3.18	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4) / Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)
+PGF_04275878	Methylibium	225.12	1.25	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04284526	Methylibium	357.62	110.64	Alpha-aminoadipate aminotransferase (EC 2.6.1.39) @ Leucine transaminase (EC 2.6.1.6) @ Valine transaminase
+PGF_04315180	Methylibium	157.88	6.49	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Methylibium	507.88	82.51	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04359199	Methylibium	601.62	108.02	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04360357	Methylibium	917.00	1.41	Protein translocase subunit SecA
+PGF_04380075	Methylibium	158.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04394877	Methylibium	154.88	6.29	hypothetical protein
+PGF_04395505	Methylibium	304.88	3.72	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04482714	Methylibium	386.62	14.09	Rubredoxin-NAD(+) reductase (EC 1.18.1.1)
+PGF_04501688	Methylibium	353.62	10.03	hypothetical protein
+PGF_04505269	Methylibium	245.75	3.58	SSU ribosomal protein S2p (SAe)
+PGF_04569524	Methylibium	517.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Methylibium	200.50	2.67	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Methylibium	249.12	2.36	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04588167	Methylibium	339.00	11.78	FIG002343: hypothetical protein
+PGF_04630848	Methylibium	150.75	4.86	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Methylibium	90.00	0.00	DNA-binding protein HU-beta
+PGF_04662829	Methylibium	847.25	7.19	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04666574	Methylibium	168.75	2.43	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_04667681	Methylibium	408.75	0.71	Alanine transaminase (EC 2.6.1.2)
+PGF_04687504	Methylibium	453.12	147.97	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04757308	Methylibium	674.50	8.65	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Methylibium	228.25	24.09	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Methylibium	283.75	4.95	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04834007	Methylibium	255.88	11.54	Integral membrane protein
+PGF_04845029	Methylibium	117.00	0.00	LSU ribosomal protein L19p
+PGF_04960746	Methylibium	257.00	8.09	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04965976	Methylibium	369.25	3.15	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Methylibium	67.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Methylibium	103.00	0.00	LSU ribosomal protein L21p
+PGF_05025448	Methylibium	366.25	98.11	Pseudouridine synthase
+PGF_05053989	Methylibium	557.12	16.96	ATP-dependent DNA ligase (EC 6.5.1.1) LigC
+PGF_05165078	Methylibium	316.62	1.77	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Methylibium	480.00	18.28	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05225639	Methylibium	648.88	272.20	FIG021862: membrane protein, exporter
+PGF_05294175	Methylibium	179.25	3.28	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05338234	Methylibium	294.75	18.31	Protein YicC
+PGF_05383972	Methylibium	172.88	17.25	G:T/U mismatch-specific uracil/thymine DNA-glycosylase (EC 3.2.2.27)
+PGF_05386032	Methylibium	191.50	2.67	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05421852	Methylibium	626.75	3.37	Chaperone protein HtpG
+PGF_05439724	Methylibium	684.88	13.20	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Methylibium	289.62	16.26	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Methylibium	477.88	83.74	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05507938	Methylibium	565.88	157.92	DNA mismatch repair protein MutL
+PGF_05519582	Methylibium	423.38	16.19	NAD(FAD)-utilizing dehydrogenases
+PGF_05581732	Methylibium	436.00	0.00	Protein translocase subunit SecY
+PGF_05598173	Methylibium	386.62	4.21	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05657253	Methylibium	219.50	1.41	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05681779	Methylibium	196.75	3.28	Lysine decarboxylase family
+PGF_05693577	Methylibium	109.88	2.42	Integration host factor beta subunit
+PGF_05712128	Methylibium	501.75	135.96	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Methylibium	119.25	1.83	FIG138056: a glutathione-dependent thiol reductase
+PGF_05837052	Methylibium	436.50	2.78	Isocitrate lyase (EC 4.1.3.1)
+PGF_05872952	Methylibium	276.38	34.20	Outer membrane beta-barrel assembly protein BamD
+PGF_05925776	Methylibium	297.50	2.56	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Methylibium	626.62	1.69	Protein translocase subunit SecD
+PGF_05971611	Methylibium	412.38	4.03	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06023291	Methylibium	257.12	2.30	Metal-dependent hydrolases of the beta-lactamase superfamily I
+PGF_06026973	Methylibium	211.00	10.56	Cation transport protein chaC
+PGF_06053106	Methylibium	313.62	9.23	RNA polymerase sigma factor RpoH
+PGF_06061522	Methylibium	133.50	12.60	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06111528	Methylibium	333.88	50.18	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06120144	Methylibium	152.25	1.58	Ribosome association toxin RatA
+PGF_06170558	Methylibium	137.75	13.36	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Methylibium	140.00	5.66	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Methylibium	261.00	0.00	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06254345	Methylibium	94.88	2.42	Heat shock protein 60 family co-chaperone GroES
+PGF_06290616	Methylibium	167.25	6.02	hypothetical protein
+PGF_06323462	Methylibium	212.38	11.73	21 kDa hemolysin precursor
+PGF_06362312	Methylibium	509.75	5.85	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06379377	Methylibium	443.12	3.98	Replication-associated recombination protein RarA
+PGF_06403579	Methylibium	804.00	5.37	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06458877	Methylibium	181.00	8.33	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06495818	Methylibium	215.00	83.03	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06499100	Methylibium	324.75	0.46	Putative Zn-dependent oxidoreductase PA5234
+PGF_06524027	Methylibium	645.38	118.66	ATP-dependent DNA helicase Rep
+PGF_06530721	Methylibium	229.00	11.21	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Methylibium	131.88	2.47	Fluoride ion transporter CrcB
+PGF_06649360	Methylibium	258.38	7.78	Segregation and condensation protein B
+PGF_06660795	Methylibium	304.75	20.67	hypothetical protein
+PGF_06660812	Methylibium	215.50	2.07	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06693963	Methylibium	108.00	0.00	Nucleoid-associated protein YaaK
+PGF_06737800	Methylibium	551.25	107.74	FIG140336: TPR domain protein
+PGF_06743269	Methylibium	393.50	61.22	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06755829	Methylibium	354.12	4.36	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Methylibium	520.12	13.63	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06772993	Methylibium	795.50	449.65	Ribonuclease E (EC 3.1.26.12)
+PGF_06889881	Methylibium	286.00	0.00	Flagellar motor rotation protein MotA
+PGF_07101513	Methylibium	186.75	82.98	Flagellar motor switch protein FliN
+PGF_07263029	Methylibium	363.00	4.17	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07425883	Methylibium	112.00	0.00	Ferredoxin, 2Fe-2S
+PGF_08046522	Methylibium	100.25	12.08	Glutaredoxin-related protein
+PGF_08061357	Methylibium	123.12	2.30	Iron-sulfur cluster insertion protein ErpA
+PGF_08103931	Methylibium	335.38	8.07	Hydrolase, alpha/beta fold family
+PGF_08136388	Methylibium	703.62	10.76	hypothetical protein
+PGF_08147453	Methylibium	483.75	13.24	DNA recombination protein RmuC
+PGF_08151304	Methylibium	274.50	0.53	hypothetical protein
+PGF_08183187	Methylibium	414.50	17.50	Cell division protein FtsW

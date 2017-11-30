@@ -1,0 +1,1323 @@
+PGF_00000261	Providencia	372.26	48.26	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000416	Providencia	352.10	8.80	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000939	Providencia	399.57	2.14	Uncharacterized protein YhiN
+PGF_00001036	Providencia	113.40	7.85	FIG00923183: possible exported protein YebY
+PGF_00001392	Providencia	378.90	0.55	ABC-type efflux pump permease component YbhS
+PGF_00002132	Providencia	71.70	0.92	UPF0270 protein YheU
+PGF_00002144	Providencia	173.61	28.46	Cell division protein ZapC
+PGF_00002237	Providencia	561.45	72.27	ABC-type efflux pump, duplicated ATPase component YbhF
+PGF_00002672	Providencia	485.55	73.49	ATPase RavA
+PGF_00002688	Providencia	266.80	7.53	FIG023911: putative membrane protein
+PGF_00003416	Providencia	210.03	28.39	FIG094199: Fumarylacetoacetate hydrolase
+PGF_00003516	Providencia	247.00	0.00	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003528	Providencia	181.10	0.40	UPF0307 protein YjgA
+PGF_00003740	Providencia	215.27	10.44	FKBP-type peptidyl-prolyl cis-trans isomerase FklB (EC 5.2.1.8)
+PGF_00003746	Providencia	241.48	31.06	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+PGF_00003749	Providencia	155.77	1.28	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003750	Providencia	194.35	26.10	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004231	Providencia	363.43	59.85	Inner membrane transport permease YhhJ
+PGF_00004253	Providencia	412.60	12.67	Fermentation/respiration switch protein
+PGF_00004378	Providencia	245.77	12.23	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00004637	Providencia	166.94	0.36	Ferritin-like protein 2
+PGF_00004671	Providencia	748.28	124.04	Ferrous iron transport protein B
+PGF_00005284	Providencia	561.52	1.57	Flagellar M-ring protein FliF
+PGF_00005302	Providencia	242.13	2.23	Flagellar assembly protein FliH
+PGF_00005402	Providencia	88.61	2.35	Flagellar biosynthesis protein FliQ
+PGF_00005921	Providencia	170.77	4.84	Flavodoxin 2
+PGF_00005948	Providencia	144.87	4.59	Flavoprotein MioC
+PGF_00006100	Providencia	329.27	3.91	tRNA-modifying protein YgfZ
+PGF_00006186	Providencia	285.10	0.55	Formate efflux transporter (TC 2.A.44 family)
+PGF_00006320	Providencia	281.93	0.37	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006376	Providencia	339.60	5.88	Fructose repressor FruR, LacI family
+PGF_00006447	Providencia	251.30	0.53	Fumarate and nitrate reduction regulatory protein
+PGF_00006449	Providencia	545.39	15.30	Fumarate hydratase class I (EC 4.2.1.2)
+PGF_00006500	Providencia	131.00	0.00	Fumarate reductase subunit C
+PGF_00006501	Providencia	117.06	0.25	Fumarate reductase subunit D
+PGF_00006935	Providencia	525.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006955	Providencia	306.58	1.78	Uncharacterized GNAT family acetyltransferase YiiD
+PGF_00006987	Providencia	209.24	11.49	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007012	Providencia	351.10	56.81	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Providencia	476.34	63.41	GTP-binding protein EngA
+PGF_00007026	Providencia	197.58	30.00	GTP-binding protein EngB
+PGF_00007027	Providencia	301.97	0.18	GTP-binding protein Era
+PGF_00007028	Providencia	412.87	52.48	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Providencia	607.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007057	Providencia	455.27	4.82	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Providencia	281.34	35.58	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Providencia	316.47	0.82	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007883	Providencia	330.97	5.99	Gluconate utilization system Gnt-I transcriptional repressor
+PGF_00007887	Providencia	179.77	0.77	Gluconokinase (EC 2.7.1.12)
+PGF_00007968	Providencia	390.81	72.63	Glucose-1-phosphatase (EC 3.1.3.10)
+PGF_00007988	Providencia	530.65	68.51	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008061	Providencia	367.17	6.30	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008068	Providencia	241.00	0.00	Glutamate Aspartate transport ATP-binding protein GltL (TC 3.A.1.3.4)
+PGF_00008074	Providencia	217.77	32.25	Glutamate Aspartate transport system permease protein GltK (TC 3.A.1.3.4)
+PGF_00008159	Providencia	518.93	0.25	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008164	Providencia	429.87	3.62	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Providencia	454.47	57.49	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Providencia	536.87	82.95	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Providencia	418.60	7.30	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Providencia	472.94	0.35	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008349	Providencia	87.00	0.00	Glutaredoxin 1
+PGF_00008469	Providencia	309.53	29.94	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008502	Providencia	386.29	0.46	Putative acid--amine ligase YgiC
+PGF_00008509	Providencia	339.40	1.04	D-erythrose-4-phosphate dehydrogenase (EC 1.2.1.72)
+PGF_00008542	Providencia	279.23	7.23	Glycerol uptake facilitator protein
+PGF_00008593	Providencia	889.10	161.90	Ribosome-associated ATPase RbbA
+PGF_00008595	Providencia	799.19	107.37	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+PGF_00008611	Providencia	320.69	62.01	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008767	Providencia	183.23	15.43	Glycine cleavage system transcriptional antiactivator GcvR
+PGF_00008773	Providencia	927.10	147.13	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Providencia	206.40	2.74	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Providencia	200.42	5.04	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Providencia	302.03	0.18	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Providencia	646.76	149.77	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Providencia	235.68	32.74	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Providencia	627.09	182.35	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Providencia	207.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010729	Providencia	286.42	45.59	Transcriptional regulator IlvY, LysR family
+PGF_00010851	Providencia	67.17	0.91	Haemolysin expression modulating protein
+PGF_00011081	Providencia	708.65	91.90	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Providencia	295.03	0.18	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011634	Providencia	402.43	3.95	HflK protein
+PGF_00011729	Providencia	368.81	0.75	High-affinity leucine-specific transport system, periplasmic binding protein LivK (TC 3.A.1.4.1)
+PGF_00011979	Providencia	437.50	1.80	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Providencia	343.35	55.82	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012063	Providencia	151.90	0.56	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012264	Providencia	334.50	7.17	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Providencia	308.93	0.37	Homoserine kinase (EC 2.7.1.39)
+PGF_00012920	Providencia	548.47	5.84	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012972	Providencia	183.60	0.81	ADP compounds hydrolase NudE (EC 3.6.1.-)
+PGF_00013003	Providencia	604.66	125.90	Bis-ABC ATPase YheS
+PGF_00013017	Providencia	311.93	0.37	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013066	Providencia	149.97	0.18	Hypothetical flavoprotein YqcA (clustered with tRNA pseudouridine synthase C)
+PGF_00013082	Providencia	192.57	0.50	Hypothetical lipoprotein YajG precursor
+PGF_00013100	Providencia	460.62	59.51	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013273	Providencia	127.48	4.96	Uncharacterized protein YaeR with similarity to glyoxylase family
+PGF_00013283	Providencia	221.77	34.57	UPF0001 protein YggS
+PGF_00013492	Providencia	175.47	3.39	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013790	Providencia	661.33	21.11	IgaA: a membrane protein that prevents overactivation of the Rcs regulatory system
+PGF_00013801	Providencia	488.52	3.63	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013804	Providencia	411.77	1.28	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00013857	Providencia	697.06	130.64	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014053	Providencia	455.07	3.68	Indole-3-glycerol phosphate synthase (EC 4.1.1.48) / Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00014124	Providencia	226.77	29.02	Inner membrane protein YbhL
+PGF_00014139	Providencia	122.80	17.15	Inner membrane protein YecN
+PGF_00014190	Providencia	163.35	20.98	Inner membrane protein YlaC
+PGF_00014196	Providencia	230.43	3.10	Inner membrane protein YohK
+PGF_00014207	Providencia	131.10	12.52	Inner membrane protein YqjE
+PGF_00014208	Providencia	131.00	0.00	Inner membrane protein YqjF
+PGF_00014279	Providencia	104.93	0.59	Inner membrane protein yciS
+PGF_00014306	Providencia	177.13	4.77	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Providencia	489.23	6.76	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Providencia	268.97	3.47	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Providencia	76.93	3.10	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Providencia	177.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015255	Providencia	284.34	43.73	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015259	Providencia	277.77	44.07	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015313	Providencia	124.27	2.56	ATP synthase protein I
+PGF_00015510	Providencia	224.68	51.99	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Providencia	483.50	60.80	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Providencia	392.94	94.47	Iron-sulfur cluster assembly protein SufD
+PGF_00015707	Providencia	562.52	74.26	Isocitrate dehydrogenase phosphatase (EC 2.7.11.5)/kinase (EC 3.1.3.-)
+PGF_00015718	Providencia	876.94	197.78	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Providencia	490.77	0.43	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015961	Providencia	341.97	44.72	L,D-transpeptidase YcfS
+PGF_00016047	Providencia	327.57	54.88	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016082	Providencia	463.00	0.00	L-cystine uptake protein TcyP, sodium:anion symporter family
+PGF_00016231	Providencia	463.03	0.18	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016325	Providencia	760.70	0.65	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Providencia	165.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Providencia	411.29	65.77	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016357	Providencia	233.07	0.37	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Providencia	117.68	1.80	LSU ribosomal protein L20p
+PGF_00016361	Providencia	104.00	7.67	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016385	Providencia	85.00	0.00	LSU ribosomal protein L27p
+PGF_00016406	Providencia	56.03	0.18	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Providencia	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Providencia	46.97	0.18	LSU ribosomal protein L34p
+PGF_00016423	Providencia	64.52	2.69	LSU ribosomal protein L35p
+PGF_00016425	Providencia	46.77	6.13	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016445	Providencia	121.07	1.78	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Providencia	145.50	19.17	LSU ribosomal protein L9p
+PGF_00016495	Providencia	255.39	9.53	Lactam utilization protein LamB
+PGF_00016546	Providencia	134.26	4.13	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016919	Providencia	235.23	3.19	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017057	Providencia	170.31	31.02	Lipid A palmitoyltransferase PagP (EC 2.3.1.251)
+PGF_00017063	Providencia	312.13	45.88	Lipid A biosynthesis myristoyltransferase (EC 2.3.1.243)
+PGF_00017109	Providencia	383.60	0.56	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Providencia	233.38	30.57	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017192	Providencia	238.32	33.83	Lipopolysaccharide N-acetylmannosaminouronosyltransferase (EC 2.4.1.180)
+PGF_00017229	Providencia	351.87	0.73	Lipopolysaccharide biosynthesis protein WzzE
+PGF_00017275	Providencia	276.53	62.98	Lipopolysaccharide core heptose(I) kinase RfaP
+PGF_00017281	Providencia	322.20	3.17	Lipopolysaccharide core heptosyltransferase I
+PGF_00017283	Providencia	346.90	8.76	Lipopolysaccharide core heptosyltransferase III
+PGF_00017327	Providencia	195.19	2.70	Lipopolysaccharide export system protein LptC
+PGF_00017400	Providencia	353.30	12.46	Murein hydrolase activator NlpD
+PGF_00017407	Providencia	290.67	14.38	Lipoprotein NlpI
+PGF_00017464	Providencia	231.77	6.83	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Providencia	321.00	0.00	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017518	Providencia	532.81	100.97	Lon protease homolog YcbZ
+PGF_00017579	Providencia	424.97	3.40	ATP-dependent RNA helicase RhlB
+PGF_00017612	Providencia	424.19	81.41	Low-affinity gluconate/H+ symporter GntU
+PGF_00017613	Providencia	484.19	80.36	Low-affinity inorganic phosphate transporter
+PGF_00017640	Providencia	172.55	33.84	Lipopolysaccharide export system protein LptA
+PGF_00017790	Providencia	297.62	54.33	LysR family transcriptional activator LeuO
+PGF_00017805	Providencia	256.29	50.86	LysR family transcriptional regulator HdfR
+PGF_00017808	Providencia	301.84	8.92	LysR family transcriptional regulator LrhA
+PGF_00017842	Providencia	310.26	0.58	LysR family transcriptional regulator YahB
+PGF_00017873	Providencia	289.70	37.23	LysR family transcriptional regulator YnfL
+PGF_00017923	Providencia	287.94	44.98	LysR-family transcriptional regulator YdhB
+PGF_00017925	Providencia	286.22	44.34	LysR-family transcriptional regulator YhaJ
+PGF_00017927	Providencia	301.17	19.84	LysR-family transcriptional regulator clustered with PA0057
+PGF_00017939	Providencia	342.00	0.00	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018065	Providencia	404.10	31.95	Lysophospholipid transporter LplT
+PGF_00018302	Providencia	395.40	18.76	Multidrug resistance protein MdtH
+PGF_00018552	Providencia	191.68	11.26	Maf-like protein YceF
+PGF_00018560	Providencia	295.30	10.56	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Providencia	301.90	39.05	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018971	Providencia	498.87	10.22	Malate:quinone oxidoreductase (EC 1.1.5.4)
+PGF_00019038	Providencia	429.61	70.56	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019217	Providencia	290.97	42.63	Manganese ABC transporter, periplasmic-binding protein SitA
+PGF_00019307	Providencia	393.52	3.09	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Providencia	175.27	4.02	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019461	Providencia	326.50	52.41	Mechanosensitive ion channel
+PGF_00019480	Providencia	271.90	4.59	Membrane Protein Functionally coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00019484	Providencia	841.68	138.99	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00019974	Providencia	352.17	4.04	Membrane protein YcjF
+PGF_00020062	Providencia	693.80	47.23	Membrane protein, suppressor for copper-sensitivity ScsB
+PGF_00020168	Providencia	363.26	9.90	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Providencia	274.57	0.50	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020176	Providencia	345.19	56.32	Membrane-bound lytic murein transglycosylase C (EC 3.2.1.n1)
+PGF_00020184	Providencia	449.43	13.41	Membrane-bound lytic murein transglycosylase D
+PGF_00020322	Providencia	211.97	16.87	Metal-binding protein ZinT
+PGF_00020361	Providencia	154.60	3.77	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020747	Providencia	101.40	10.98	Methionine repressor MetJ
+PGF_00020996	Providencia	147.83	15.72	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00022479	Providencia	194.37	3.58	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022503	Providencia	271.97	42.70	Molybdenum transport system protein ModD
+PGF_00022507	Providencia	198.43	7.65	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Providencia	79.63	7.87	Molybdopterin synthase sulfur carrier subunit
+PGF_00022577	Providencia	171.60	4.51	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00022605	Providencia	231.23	16.60	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022781	Providencia	364.53	60.13	ATPase, AFG1 family
+PGF_00023011	Providencia	368.00	0.00	ABC-type efflux pump permease component YbhR
+PGF_00023162	Providencia	349.16	71.11	Multidrug resistance protein EmrD
+PGF_00023163	Providencia	382.97	55.96	Multidrug resistance protein EmrD
+PGF_00023403	Providencia	443.93	1.80	Murein DD-endopeptidase MepM
+PGF_00023476	Providencia	133.35	25.24	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023715	Providencia	301.03	10.77	N-acetyl-D-glucosamine kinase (EC 2.7.1.59)
+PGF_00023796	Providencia	406.97	0.18	N-acetylglucosamine-6P-responsive transcriptional repressor NagC, ROK family
+PGF_00023818	Providencia	446.58	0.81	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00023883	Providencia	292.90	4.47	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28) @ 1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00024234	Providencia	374.73	6.94	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024482	Providencia	264.39	35.91	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024567	Providencia	400.00	0.00	Acetate kinase (EC 2.7.2.1)
+PGF_00024602	Providencia	273.60	8.87	Acetate operon repressor IclR
+PGF_00024608	Providencia	333.43	3.15	NADH oxidoreductase for hydroxylamine reductase
+PGF_00024685	Providencia	597.77	9.12	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Providencia	180.23	3.79	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024701	Providencia	827.62	212.74	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_00024728	Providencia	180.68	0.91	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Providencia	100.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Providencia	490.84	70.48	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Providencia	459.18	101.94	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Providencia	278.26	15.45	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025216	Providencia	88.93	0.37	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025289	Providencia	378.84	51.31	Na+/H+ antiporter NhaA type
+PGF_00025290	Providencia	511.52	14.83	Na+/H+ antiporter NhaB
+PGF_00025366	Providencia	398.10	51.84	NadR transcriptional regulator / Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)
+PGF_00025379	Providencia	276.09	35.06	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025448	Providencia	192.35	0.84	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025562	Providencia	212.00	5.39	Nicotinamidase (EC 3.5.1.19)
+PGF_00025588	Providencia	302.70	11.52	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) @ Dimethylallyltransferase (EC 2.5.1.1)
+PGF_00025598	Providencia	403.57	1.14	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025890	Providencia	349.00	0.00	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026362	Providencia	197.10	0.31	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Providencia	263.40	4.10	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Providencia	321.94	10.32	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026796	Providencia	308.78	49.13	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00026819	Providencia	404.53	0.97	Acetylornithine aminotransferase (EC 2.6.1.11) @ N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)
+PGF_00026866	Providencia	324.57	8.58	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Providencia	680.00	0.00	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027212	Providencia	213.59	2.29	Outer membrane protein W precursor
+PGF_00027259	Providencia	271.93	0.37	Orf2
+PGF_00027668	Providencia	70.76	1.88	Osmotically-inducible lipoprotein OsmB
+PGF_00027728	Providencia	349.43	1.17	Outer membrane beta-barrel assembly protein BamC
+PGF_00027752	Providencia	561.26	83.74	Outer membrane component of TAM transport system
+PGF_00027841	Providencia	135.88	29.48	Acetyltransferase YpeA
+PGF_00027863	Providencia	155.00	0.00	Outer membrane lipoprotein pcp precursor
+PGF_00028422	Providencia	409.20	121.84	Outer membrane stress sensor protease DegQ, serine protease
+PGF_00028423	Providencia	352.65	4.94	Outer membrane stress sensor protease DegS
+PGF_00028486	Providencia	233.58	44.02	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00029464	Providencia	149.72	21.96	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029683	Providencia	1018.16	140.04	Multidrug efflux system AcrAB-TolC, inner-membrane proton/drug antiporter AcrB (RND type)
+PGF_00029812	Providencia	311.16	31.46	PTS system, mannose-specific IIA component (EC 2.7.1.191) / PTS system, mannose-specific IIB component (EC 2.7.1.191)
+PGF_00029917	Providencia	286.90	0.55	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030237	Providencia	375.84	80.21	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH
+PGF_00030640	Providencia	348.81	43.59	Peptide chain release factor 1
+PGF_00030643	Providencia	529.00	0.00	Peptide chain release factor 3
+PGF_00030690	Providencia	526.97	94.65	Peptide transport periplasmic protein SapA
+PGF_00030698	Providencia	318.83	5.20	Peptide transport system permease protein SapB
+PGF_00030701	Providencia	296.00	0.00	Peptide transport system permease protein SapC
+PGF_00030829	Providencia	217.29	2.33	Acyl-ACP:glycerol-3-phosphate O-acyltransferase (EC 2.3.1.n5)
+PGF_00030901	Providencia	525.17	73.66	Murein peptide ABC transporter, substrate-binding protein (requires DppBCDF)
+PGF_00031058	Providencia	133.03	1.25	Periplasmic protein YqjC
+PGF_00031261	Providencia	273.85	53.81	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_00032662	Providencia	214.45	31.51	Phage shock protein A @ Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00032664	Providencia	75.93	0.37	Phage shock protein B
+PGF_00032667	Providencia	117.73	0.52	Phage shock protein C
+PGF_00033095	Providencia	795.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033180	Providencia	203.84	0.90	alpha-D-glucose 1-phosphate phosphatase YihX (EC 3.1.3.10)
+PGF_00033253	Providencia	293.10	0.54	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Providencia	322.88	67.48	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033312	Providencia	229.66	34.83	Phosphatidylglycerophosphatase B (EC 3.1.3.27)
+PGF_00033359	Providencia	360.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Providencia	243.67	1.83	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033392	Providencia	850.55	112.26	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033411	Providencia	273.75	41.17	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Providencia	548.44	130.58	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033486	Providencia	139.55	2.21	Acyl-CoA thioesterase YciA, involved in membrane biogenesis
+PGF_00033489	Providencia	272.52	35.13	Phosphogluconate repressor HexR, RpiR family
+PGF_00033511	Providencia	387.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033539	Providencia	214.73	1.11	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033642	Providencia	237.28	31.83	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00033729	Providencia	264.90	0.55	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Providencia	266.97	0.18	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Providencia	207.52	3.01	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Providencia	156.68	22.04	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Providencia	407.00	0.00	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Providencia	203.00	0.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033936	Providencia	229.26	30.08	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Providencia	237.35	30.43	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033968	Providencia	211.60	3.10	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Providencia	378.45	52.52	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033982	Providencia	277.65	46.11	Phosphoribulokinase homolog, function unknown
+PGF_00033985	Providencia	362.17	0.38	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034034	Providencia	806.00	221.79	Phosphotransferase RcsD
+PGF_00034349	Providencia	93.77	2.34	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative
+PGF_00034350	Providencia	234.03	1.02	Quercetin 2,3-dioxygenase (EC 1.13.11.24) => YhhW
+PGF_00034566	Providencia	456.68	60.46	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Providencia	688.39	98.63	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Providencia	194.07	21.90	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Providencia	325.79	1.15	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Providencia	175.39	8.80	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035405	Providencia	548.48	78.82	Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035407	Providencia	196.73	1.70	Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035721	Providencia	456.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Providencia	432.58	2.64	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035775	Providencia	103.00	20.38	Predicted chaperone lipoprotein YacC, potentially involved in protein secretion
+PGF_00036543	Providencia	500.68	1.92	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036567	Providencia	238.00	0.00	Aerobic respiration control protein arcA
+PGF_00036575	Providencia	733.97	166.99	Aerobic respiration control sensor protein ArcB (EC 2.7.13.3)
+PGF_00036580	Providencia	110.03	0.18	Protein translocase subunit YajC
+PGF_00036675	Providencia	182.30	3.23	Primosomal replication protein N prime prime
+PGF_00036688	Providencia	222.45	26.74	RNA chaperone ProQ
+PGF_00036988	Providencia	304.97	6.84	Agmatinase (EC 3.5.3.11)
+PGF_00037052	Providencia	158.19	10.24	Probable endopeptidase NlpC
+PGF_00037366	Providencia	365.44	77.60	Probable sugar efflux transporter
+PGF_00037588	Providencia	537.28	118.48	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037828	Providencia	292.00	6.83	Protease HtpX
+PGF_00037835	Providencia	686.55	121.30	Protease II (EC 3.4.21.83)
+PGF_00037837	Providencia	851.69	285.73	Protease III precursor (EC 3.4.24.55)
+PGF_00037937	Providencia	108.13	11.88	Protein PhnA
+PGF_00037945	Providencia	113.77	15.68	Protein RcsF
+PGF_00037954	Providencia	72.97	0.18	Protein SlyX
+PGF_00037973	Providencia	87.13	9.39	Protein YcgL
+PGF_00037975	Providencia	117.00	0.00	Protein YchN
+PGF_00037977	Providencia	82.93	5.66	Protein YciN
+PGF_00037978	Providencia	184.73	7.03	Protein YecM
+PGF_00037979	Providencia	274.77	0.63	Protein YeeZ
+PGF_00037991	Providencia	483.03	66.19	Protein YhjJ, putative peptidase
+PGF_00037998	Providencia	112.00	0.00	UPF0438 protein YifE
+PGF_00038165	Providencia	281.13	41.75	Protein involved in stability of MscS mechanosensitive channel
+PGF_00038329	Providencia	172.55	14.09	Der GTPase-activating protein YihI
+PGF_00038363	Providencia	243.47	1.38	Protein of unknown function DUF541
+PGF_00038642	Providencia	195.47	29.48	Protein SprT
+PGF_00038674	Providencia	311.45	48.01	Protein translocase subunit SecF
+PGF_00038759	Providencia	89.03	0.18	Protein YihD
+PGF_00038829	Providencia	158.67	2.01	Proteinase inhibitor I11, ecotin precursor
+PGF_00038882	Providencia	167.83	10.39	Protoporphyrinogen IX oxidase, oxygen-independent, HemG (EC 1.3.-.-)
+PGF_00038933	Providencia	129.18	24.20	PsiE protein
+PGF_00038937	Providencia	315.09	66.67	Psp operon transcriptional activator
+PGF_00038991	Providencia	341.00	0.00	Purine nucleotide synthesis repressor
+PGF_00039342	Providencia	283.39	3.41	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039347	Providencia	450.70	1.64	Putative ECA polymerase WzyE
+PGF_00039367	Providencia	152.97	0.19	Uncharacterized transcriptional regulator YbaO, AsnC family
+PGF_00039503	Providencia	183.00	0.00	Putative NAD(P)H nitroreductase YdjA
+PGF_00039789	Providencia	670.37	5.65	Putative TonB dependent outer membrane receptor
+PGF_00040053	Providencia	320.48	2.11	Alkaline induced inner membrane protein Alx
+PGF_00040367	Providencia	502.81	87.79	Putative capsular polysaccharide transport protein YegH
+PGF_00040401	Providencia	454.56	61.37	Cell division protein FtsP
+PGF_00040430	Providencia	147.00	32.04	Putative cold-shock protein
+PGF_00040500	Providencia	124.73	24.48	Putative cytochrome d ubiquinol oxidase subunit III (EC 1.10.3.-) (Cytochrome bd-I oxidase subunit III)
+PGF_00040578	Providencia	260.97	6.47	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Providencia	252.81	34.96	Putative deoxyribonuclease YjjV
+PGF_00040677	Providencia	389.87	55.77	Inner membrane transport protein YdhC
+PGF_00040680	Providencia	693.45	107.56	Putative efflux (PET) family inner membrane protein YccS
+PGF_00040782	Providencia	296.28	52.82	Protein YdgH
+PGF_00041206	Providencia	449.77	1.26	Uncharacterized chaperone protein YegD
+PGF_00041588	Providencia	213.81	8.23	Uncharacterized inner membrane protein STM4444
+PGF_00041607	Providencia	254.72	36.31	Uncharacterized inner membrane protein STM4443
+PGF_00041794	Providencia	187.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041831	Providencia	523.79	0.77	Alkyl hydroperoxide reductase protein F
+PGF_00041948	Providencia	424.90	8.91	Putative membrane protein YfjD
+PGF_00041975	Providencia	101.61	7.91	Inner membrane protein YjcH, clustering with ActP
+PGF_00042168	Providencia	245.97	23.99	Putative metalloprotease yggG (EC 3.4.24.-)
+PGF_00042848	Providencia	183.13	2.11	Anaerobic respiratory reductase chaperone
+PGF_00043067	Providencia	327.90	44.35	Putative periplasmic protein YibQ, distant homology with nucleoside diphosphatase and polysaccharide deacetylase
+PGF_00043154	Providencia	345.03	48.24	Putative permease PerM (= YfgO)
+PGF_00043742	Providencia	181.68	24.48	Succinate-acetate/proton symporter SatP
+PGF_00044292	Providencia	514.55	135.59	Putative sulfate permease
+PGF_00044295	Providencia	560.53	98.78	Putative sulfate permease
+PGF_00045657	Providencia	203.87	6.20	Uncharacterized protein YiiQ
+PGF_00045731	Providencia	450.20	14.67	Putrescine importer
+PGF_00045833	Providencia	217.14	0.44	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Providencia	243.00	0.00	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045982	Providencia	871.45	91.95	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046005	Providencia	1576.52	328.64	Alpha-2-macroglobulin
+PGF_00046060	Providencia	217.97	31.42	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Providencia	298.87	12.26	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046275	Providencia	968.00	0.00	RNA polymerase associated protein RapA
+PGF_00046348	Providencia	317.68	49.84	RNA polymerase sigma factor RpoS
+PGF_00046403	Providencia	421.37	138.09	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Providencia	151.00	0.00	RNA polymerase-binding transcription factor DksA
+PGF_00046622	Providencia	98.13	0.94	RNA-binding protein Hfq
+PGF_00047078	Providencia	349.23	31.59	RecA protein
+PGF_00047152	Providencia	164.57	2.37	Redox-sensitive transcriptional activator SoxR
+PGF_00047187	Providencia	330.59	18.24	Regulator of RpoS
+PGF_00047231	Providencia	168.87	7.36	Regulator of sigma S factor FliZ
+PGF_00047274	Providencia	146.29	26.11	Regulatory protein AsnC
+PGF_00047887	Providencia	231.37	9.89	Response regulator BaeR
+PGF_00048419	Providencia	279.13	5.08	Rhomboid protease GlpG (EC 3.4.21.105)
+PGF_00048480	Providencia	220.22	4.39	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Providencia	140.61	15.66	Outer membrane beta-barrel assembly protein BamE
+PGF_00048539	Providencia	139.60	4.59	Ribonuclease E inhibitor RraB
+PGF_00048542	Providencia	154.67	3.96	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Providencia	182.91	39.41	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Providencia	237.03	0.18	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048589	Providencia	213.63	0.56	Ribonuclease T
+PGF_00048627	Providencia	711.00	5.48	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048630	Providencia	762.94	0.36	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048637	Providencia	366.09	47.50	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048640	Providencia	687.58	90.57	Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048641	Providencia	322.87	0.73	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Providencia	149.00	0.00	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048645	Providencia	138.17	5.52	Ribonucleotide reduction protein NrdI
+PGF_00048782	Providencia	317.67	8.49	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048817	Providencia	269.53	24.11	Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)
+PGF_00048829	Providencia	305.48	4.56	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048834	Providencia	215.97	12.96	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048836	Providencia	273.27	48.97	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Providencia	289.16	42.60	Ribosomal protein L11 methyltransferase
+PGF_00048842	Providencia	301.39	47.95	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048898	Providencia	107.40	3.64	Ribosome-associated inhibitor A
+PGF_00048917	Providencia	94.71	1.62	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Providencia	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Providencia	344.90	54.87	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Providencia	137.20	3.60	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Providencia	135.93	0.37	Ribosome-binding factor A
+PGF_00049163	Providencia	162.00	0.00	Rod shape-determining protein MreD
+PGF_00049330	Providencia	367.61	66.32	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049344	Providencia	262.17	0.91	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00049362	Providencia	357.33	1.84	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Providencia	171.00	0.00	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049827	Providencia	267.61	8.50	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049838	Providencia	124.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049847	Providencia	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Providencia	82.30	2.04	SSU ribosomal protein S16p
+PGF_00049858	Providencia	75.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049901	Providencia	130.90	0.55	SSU ribosomal protein S6p
+PGF_00049904	Providencia	153.60	13.15	SSU ribosomal protein S7p (S5e)
+PGF_00049909	Providencia	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050030	Providencia	221.65	35.56	SanA protein
+PGF_00050230	Providencia	170.23	12.97	Secretion monitor SecM
+PGF_00050573	Providencia	470.19	60.70	Sensor histidine kinase PhoQ (EC 2.7.13.3)
+PGF_00050577	Providencia	937.71	11.54	Sensor histidine kinase RcsC (EC 2.7.13.3)
+PGF_00050590	Providencia	557.47	7.41	Sensor histidine kinase YehU
+PGF_00050980	Providencia	457.07	12.69	Sensory histidine kinase BaeS
+PGF_00050995	Providencia	489.22	68.46	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Providencia	238.23	3.00	Septum site-determining protein MinC
+PGF_00051133	Providencia	310.48	32.93	Septum-associated cell division protein DamX
+PGF_00051140	Providencia	225.58	8.80	Septum-associated cell division protein DedD
+PGF_00051142	Providencia	326.07	8.17	Septum-associated rare lipoprotein A
+PGF_00051143	Providencia	176.16	21.60	SeqA protein, negative modulator of initiation of replication
+PGF_00051525	Providencia	415.74	69.62	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051530	Providencia	555.93	9.44	SgrR, sugar-phosphate stress, transcriptional activator of SgrS small RNA
+PGF_00051544	Providencia	169.03	10.67	Shikimate kinase III (EC 2.7.1.71)
+PGF_00051717	Providencia	248.90	1.50	3-hydroxypropionate dehydrogenase (EC 1.1.1.298)
+PGF_00052210	Providencia	596.13	87.93	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Providencia	453.00	0.00	Signal recognition particle protein Ffh
+PGF_00052705	Providencia	142.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Providencia	300.03	0.67	Site-specific tyrosine recombinase XerD
+PGF_00053627	Providencia	190.50	6.53	Spermidine N1-acetyltransferase (EC 2.3.1.57)
+PGF_00053667	Providencia	109.97	0.18	Spermidine export protein MdtI
+PGF_00053669	Providencia	141.13	4.06	Spermidine export protein MdtJ
+PGF_00053770	Providencia	359.47	7.65	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054301	Providencia	213.35	1.23	Stringent starvation protein A
+PGF_00054323	Providencia	206.97	3.61	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Providencia	104.17	25.60	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Providencia	238.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Providencia	387.67	1.83	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054575	Providencia	378.34	97.43	Sucrose permease, major facilitator superfamily
+PGF_00054579	Providencia	331.03	0.18	Sucrose specific transcriptional regulator CscR, LacI family
+PGF_00054818	Providencia	223.84	0.90	Sugar phosphatase YfbT (EC 3.1.3.23)
+PGF_00054920	Providencia	235.67	9.96	Sugar fermentation stimulation protein SfsA
+PGF_00054959	Providencia	479.83	0.91	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Providencia	302.00	0.00	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00054964	Providencia	361.42	3.83	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+PGF_00054986	Providencia	267.44	36.98	Sulfate transport system permease protein CysT
+PGF_00054988	Providencia	286.48	1.69	Sulfate transport system permease protein CysW
+PGF_00055009	Providencia	335.43	2.57	Sulfate-binding protein Sbp
+PGF_00055049	Providencia	591.20	53.30	Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+PGF_00055052	Providencia	558.06	77.18	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055099	Providencia	137.97	0.18	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055324	Providencia	533.19	70.19	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+PGF_00055340	Providencia	417.16	56.57	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+PGF_00055354	Providencia	421.34	53.90	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055363	Providencia	179.88	26.27	Syd protein
+PGF_00055377	Providencia	385.16	47.91	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+PGF_00055398	Providencia	348.97	15.54	TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase (EC 2.4.1.325)
+PGF_00055966	Providencia	368.94	70.14	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056170	Providencia	290.07	17.67	Tellurite methyltransferase (EC 2.1.1.265)
+PGF_00056273	Providencia	317.94	42.11	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056321	Providencia	561.42	97.26	Tetrathionate reductase sensory transduction histidine kinase
+PGF_00056322	Providencia	1006.47	117.99	Tetrathionate reductase subunit A
+PGF_00056324	Providencia	244.97	0.18	Tetrathionate reductase subunit B
+PGF_00056326	Providencia	330.42	44.62	Tetrathionate reductase subunit C
+PGF_00056496	Providencia	231.90	13.52	Thiamin ABC transporter, ATPase component
+PGF_00056498	Providencia	333.77	1.26	Thiamin ABC transporter, substrate-binding component
+PGF_00056502	Providencia	501.45	97.26	Thiamin ABC transporter, transmembrane component
+PGF_00056527	Providencia	284.19	34.70	Thiamine kinase (EC 2.7.1.89) @ Adenosylcobinamide kinase (EC 2.7.1.156)
+PGF_00056634	Providencia	166.73	0.52	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056814	Providencia	506.40	67.88	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056821	Providencia	107.03	0.18	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)
+PGF_00056876	Providencia	426.00	54.61	Thymidine phosphorylase (EC 2.4.2.4)
+PGF_00056883	Providencia	208.29	0.94	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Providencia	265.76	46.23	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Providencia	450.18	92.42	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Providencia	140.13	0.43	Tol biopolymer transport system, TolR protein
+PGF_00057032	Providencia	131.30	0.92	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Providencia	706.09	153.46	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057422	Providencia	623.91	94.46	Transcription antiterminator STM4448, BglG family
+PGF_00057435	Providencia	152.42	28.50	Transcription elongation factor GreB
+PGF_00057483	Providencia	404.87	53.37	Transcription termination factor Rho
+PGF_00057485	Providencia	485.48	67.38	Transcription termination protein NusA
+PGF_00057488	Providencia	138.03	0.18	Transcription termination protein NusB
+PGF_00057496	Providencia	341.97	0.18	Transcriptional (co)regulator CytR
+PGF_00057513	Providencia	302.61	28.36	Transcriptional activator NhaR
+PGF_00057553	Providencia	311.10	0.31	Transcriptional activator protein LysR
+PGF_00058666	Providencia	199.87	6.65	Transcriptional regulator SlmA, TetR family
+PGF_00058670	Providencia	137.60	19.64	Transcriptional regulator SlyA
+PGF_00058734	Providencia	238.03	0.19	Transcriptional regulator for fatty acid degradation FadR, GntR family
+PGF_00058852	Providencia	192.81	3.26	Transcriptional regulator YjdC, AcrR family
+PGF_00060186	Providencia	230.45	33.50	Transcriptional regulatory protein YehT
+PGF_00060204	Providencia	226.55	2.53	Tricarboxylate transport transcriptional regulator TctD => Citrate response regulator CitB
+PGF_00060263	Providencia	256.77	1.30	Transcriptional repressor for pyruvate dehydrogenase complex
+PGF_00060265	Providencia	1261.45	233.87	Transcriptional repressor of PutA and PutP / Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00060287	Providencia	105.87	0.63	Transcriptional repressor protein TrpR
+PGF_00060289	Providencia	519.57	1.43	Transcriptional repressor protein TyrR
+PGF_00060313	Providencia	432.50	55.85	Transcriptional response regulatory protein GlrR
+PGF_00060414	Providencia	594.29	20.06	Translation elongation factor LepA
+PGF_00060421	Providencia	188.00	0.00	Translation elongation factor P
+PGF_00060422	Providencia	182.06	0.25	Translation elongation factor P Lys34 hydroxylase
+PGF_00060427	Providencia	283.23	0.73	Translation elongation factor Ts
+PGF_00060431	Providencia	72.00	0.00	Translation initiation factor 1
+PGF_00060481	Providencia	106.79	5.78	Translation initiation factor SUI1-related protein
+PGF_00061607	Providencia	125.00	0.00	ApaG protein
+PGF_00062023	Providencia	268.00	0.00	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Providencia	396.03	0.19	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062710	Providencia	220.10	5.22	2-deoxyglucose-6-phosphate hydrolase YniC
+PGF_00062866	Providencia	219.90	0.31	Two-component system response regulator QseB
+PGF_00063683	Providencia	141.07	0.78	Type IV pilin PilA
+PGF_00063916	Providencia	410.40	27.66	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063944	Providencia	293.55	43.21	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Providencia	345.00	1.05	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063953	Providencia	603.09	152.75	UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) / UDP-glucuronic acid oxidase (UDP-4-keto-hexauronic acid decarboxylating) (EC 1.1.1.305)
+PGF_00063955	Providencia	367.97	55.06	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87)
+PGF_00063993	Providencia	356.80	4.59	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Providencia	471.52	61.18	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Providencia	453.87	6.56	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064154	Providencia	78.93	0.37	UPF0033 protein YedF
+PGF_00064172	Providencia	450.43	10.96	UPF0053 inner membrane protein YtfL
+PGF_00064180	Providencia	238.00	10.37	Arginine ABC transporter, ATP-binding protein ArtP
+PGF_00064199	Providencia	179.53	28.49	UPF0115 protein YfcN
+PGF_00064204	Providencia	222.00	0.00	Arginine ABC transporter, permease protein ArtM
+PGF_00064212	Providencia	104.73	9.07	UPF0131 protein YtfP
+PGF_00064213	Providencia	526.91	107.66	Phosphoethanolamine transferase EptC
+PGF_00064239	Providencia	136.38	20.68	UPF0208 membrane protein YfbV
+PGF_00064256	Providencia	121.93	1.05	UPF0231 protein YacL
+PGF_00064270	Providencia	248.48	39.35	UPF0246 protein YaaA
+PGF_00064280	Providencia	147.20	1.37	UPF0260 protein YcgN
+PGF_00064283	Providencia	98.21	17.72	UPF0265 protein YeeX
+PGF_00064284	Providencia	152.00	0.00	UPF0266 membrane protein YobD
+PGF_00064295	Providencia	155.70	5.79	UPF0299 membrane protein YohJ
+PGF_00064297	Providencia	164.03	0.18	UPF0304 protein yfbU
+PGF_00064317	Providencia	127.60	0.81	UPF0325 protein YaeH
+PGF_00064342	Providencia	69.07	30.23	UPF0370 protein YpfN
+PGF_00064350	Providencia	97.87	0.72	UPF0381 protein YfcZ
+PGF_00064355	Providencia	390.68	57.80	UPF0394 inner membrane protein YedE
+PGF_00064359	Providencia	157.00	2.41	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064364	Providencia	82.27	0.45	UPF0410 protein YeaQ
+PGF_00064389	Providencia	342.90	7.26	Semialdehyde dehydrogenase, USG-1 protein
+PGF_00064460	Providencia	494.70	134.36	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064489	Providencia	244.77	5.44	Arginine ABC transporter, permease protein ArtQ
+PGF_00064506	Providencia	247.94	38.01	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064578	Providencia	231.13	1.14	Uncharacterized transcriptional regulator YieP, GntR family
+PGF_00064596	Providencia	180.16	0.86	Uncharacterized Nudix hydrolase YfcD
+PGF_00064774	Providencia	198.43	9.53	Uncharacterized lipoprotein YeaY
+PGF_00064781	Providencia	183.23	7.06	Uncharacterized lipoprotein YmbA
+PGF_00064803	Providencia	201.22	31.15	Uncharacterized membrane protein YhhN
+PGF_00064805	Providencia	101.00	0.00	Uncharacterized membrane protein YqjD
+PGF_00064844	Providencia	180.81	0.95	Uncharacterized outer membrane protein YfaZ
+PGF_00064859	Providencia	347.41	2.43	Uncharacterized oxidoreductase YdgJ
+PGF_00064863	Providencia	442.84	62.06	Aromatic amino acid transport protein AroP
+PGF_00064880	Providencia	458.40	3.12	Uncharacterized protease YegQ
+PGF_00064962	Providencia	502.19	12.99	Uncharacterized protein ImpC
+PGF_00065425	Providencia	64.73	5.15	Uncharacterized protein YbfA
+PGF_00065468	Providencia	78.47	2.92	Uncharacterized protein YdhL
+PGF_00065477	Providencia	927.44	231.66	Uncharacterized protein YdiJ
+PGF_00065481	Providencia	99.90	2.13	Uncharacterized protein YeaC
+PGF_00065514	Providencia	157.28	12.63	Uncharacterized protein YehS
+PGF_00065515	Providencia	385.90	7.20	Uncharacterized protein YeiB
+PGF_00065535	Providencia	198.81	25.94	Arylsulfatase (EC 3.1.6.1)
+PGF_00065542	Providencia	90.03	0.18	Uncharacterized protein YfcL
+PGF_00065557	Providencia	249.23	21.52	Uncharacterized protein YfhG
+PGF_00065593	Providencia	94.10	2.62	Uncharacterized protein YhhL
+PGF_00065603	Providencia	434.45	5.01	Uncharacterized protein YidR
+PGF_00065688	Providencia	68.00	0.00	Uncharacterized protein YtfK
+PGF_00065815	Providencia	238.00	0.00	Uncharacterized putative hydrolase YigB
+PGF_00065835	Providencia	168.17	3.53	Uncharacterized sensory transduction regulator YbjN
+PGF_00065887	Providencia	240.39	38.34	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065891	Providencia	114.87	0.72	Undecaprenyl phosphate-aminoarabinose flippase subunit ArnE
+PGF_00065893	Providencia	133.35	5.18	Undecaprenyl phosphate-aminoarabinose flippase subunit ArnF
+PGF_00065899	Providencia	194.94	29.96	Undecaprenyl-diphosphatase BcrC (EC 3.6.1.27)
+PGF_00065901	Providencia	329.90	0.54	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53)
+PGF_00065934	Providencia	144.03	0.18	Universal stress protein A
+PGF_00065937	Providencia	109.77	4.70	Universal stress protein B
+PGF_00065941	Providencia	314.30	0.60	Universal stress protein E
+PGF_00066041	Providencia	593.97	81.05	AsmA protein
+PGF_00066123	Providencia	207.27	4.02	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Providencia	226.58	1.57	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066257	Providencia	250.84	2.27	Uridine phosphorylase (EC 2.4.2.3)
+PGF_00066294	Providencia	250.83	0.91	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066449	Providencia	379.24	100.93	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00066453	Providencia	903.84	175.94	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Providencia	451.00	58.78	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Providencia	124.23	12.72	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066690	Providencia	255.35	1.36	Vitamin B12 ABC transporter, ATP-binding protein BtuD
+PGF_00066715	Providencia	396.00	0.00	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00066854	Providencia	474.13	0.72	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066867	Providencia	443.97	27.50	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066884	Providencia	429.71	56.39	Xaa-Pro dipeptidase PepQ (EC 3.4.13.9)
+PGF_00066906	Providencia	311.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Providencia	404.69	73.74	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066960	Providencia	153.97	0.18	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067160	Providencia	320.03	51.55	Aspartate--ammonia ligase (EC 6.3.1.1)
+PGF_00067188	Providencia	367.33	3.65	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067254	Providencia	116.19	0.60	YcfF/hinT protein: a purine nucleoside phosphoramidase
+PGF_00067360	Providencia	321.16	39.94	YihE protein, a ser/thr kinase implicated in LPS synthesis and Cpx signalling
+PGF_00067547	Providencia	176.20	7.87	Zinc uptake regulation protein Zur
+PGF_00067739	Providencia	369.97	0.18	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067742	Providencia	323.09	72.51	[Citrate [pro-3S]-lyase] ligase (EC 6.2.1.22)
+PGF_00067791	Providencia	822.66	169.96	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068794	Providencia	127.00	0.00	Autonomous glycyl radical cofactor
+PGF_00070142	Providencia	256.42	35.31	BAX protein
+PGF_00070488	Providencia	245.30	3.83	dTDP-fucosamine acetyltransferase (EC 2.3.1.210)
+PGF_00071382	Providencia	176.13	6.21	Flavodoxin 1
+PGF_00072177	Providencia	106.00	0.26	hemimethylated DNA binding protein YccV
+PGF_00072449	Providencia	226.32	6.46	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00102041	Providencia	187.91	25.07	Esterase YqiA
+PGF_00113984	Providencia	184.22	23.88	Flavin prenyltransferase UbiX
+PGF_00127024	Providencia	294.59	39.44	Cell division inhibitor Slr1223 (YfcH in EC), contains epimerase/dehydratase and DUF1731 domains
+PGF_00184795	Providencia	144.90	0.55	UPF0306 protein YhbP
+PGF_00184978	Providencia	482.10	4.68	beta-fructofuranosidase (EC 3.2.1.26)
+PGF_00227318	Providencia	295.00	0.00	Threonine/homoserine exporter RhtA
+PGF_00255767	Providencia	423.25	60.93	Osmolarity sensory histidine kinase EnvZ
+PGF_00261173	Providencia	348.85	67.41	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00279480	Providencia	111.39	2.38	Uncharacterized protein STM4440
+PGF_00280549	Providencia	293.74	40.52	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00285620	Providencia	198.97	25.31	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00299130	Providencia	79.00	0.00	Cell division protein ZapB
+PGF_00300187	Providencia	295.80	2.27	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00350921	Providencia	346.06	1.00	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00358715	Providencia	584.43	2.37	Ribosomal protein S12p methylthiotransferase accessory factor YcaO
+PGF_00380777	Providencia	193.43	0.73	Stresses-induced protein Ves (HutD)
+PGF_00399327	Providencia	369.93	11.94	Uncharacterized protein YjjU
+PGF_00401551	Providencia	438.06	68.90	Multidrug efflux transporter MdtK/NorM (MATE family)
+PGF_00401928	Providencia	251.00	0.00	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201) @ Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_00403787	Providencia	83.97	0.18	Biofilm regulator BssS
+PGF_00403929	Providencia	397.67	0.48	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57)
+PGF_00404019	Providencia	614.39	83.26	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Providencia	156.55	1.12	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Providencia	448.03	0.18	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404384	Providencia	346.27	2.79	Biotin synthase (EC 2.8.1.6)
+PGF_00404496	Providencia	262.10	6.93	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)
+PGF_00404831	Providencia	263.84	34.53	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Providencia	875.75	173.84	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408176	Providencia	233.19	2.01	UPF0441 protein YgiB
+PGF_00409577	Providencia	180.32	7.55	putative membrane protein
+PGF_00410674	Providencia	120.93	8.12	UPF0482 protein YnfB
+PGF_00413182	Providencia	322.97	0.18	tRNA (mo5U34)-methyltransferase
+PGF_00413203	Providencia	166.17	3.24	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Providencia	254.37	2.28	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413223	Providencia	236.55	1.77	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+PGF_00413230	Providencia	249.83	3.33	tRNA (cmo5U34)-methyltransferase
+PGF_00413232	Providencia	109.27	0.69	tRNA 2-thiouridine synthesis protein TusE
+PGF_00413237	Providencia	467.81	61.70	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413243	Providencia	118.33	2.54	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusC
+PGF_00413245	Providencia	125.55	20.55	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD
+PGF_00413253	Providencia	82.90	4.71	tRNA 5-methylaminomethyl-2-thiouridine synthesis sulfur carrier protein TusA
+PGF_00413286	Providencia	335.35	47.43	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Providencia	244.62	68.18	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Providencia	315.90	1.47	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Providencia	629.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Providencia	304.23	1.28	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413319	Providencia	254.90	2.16	tRNA-(ms[2]io[6]A)-hydroxylase
+PGF_00413340	Providencia	317.00	2.89	tRNA-dihydrouridine(16) synthase
+PGF_00413554	Providencia	160.42	2.33	tmRNA-binding protein SmpB
+PGF_00414228	Providencia	231.38	31.68	Two-component system response regulator OmpR
+PGF_00414487	Providencia	452.30	1.64	C4-dicarboxylate transporter DcuC (TC 2.A.61.1.1)
+PGF_00414926	Providencia	411.68	9.72	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Providencia	280.00	0.00	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415332	Providencia	354.74	45.86	23S rRNA (cytidine(2498)-2'-O)-methyltransferase (EC 2.1.1.186)
+PGF_00415422	Providencia	678.87	117.13	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415486	Providencia	148.65	25.82	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415545	Providencia	330.21	103.90	23S rRNA (uracil(747)-C(5))-methyltransferase (EC 2.1.1.189)
+PGF_00415581	Providencia	201.55	28.63	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416129	Providencia	545.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Providencia	975.12	246.02	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416507	Providencia	671.41	130.90	Inner membrane protein YjiY
+PGF_00416576	Providencia	174.42	23.76	3'-to-5' oligoribonuclease (orn)
+PGF_00416654	Providencia	216.42	9.32	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+PGF_00416872	Providencia	166.87	13.94	Cell division inhibitor
+PGF_00417010	Providencia	101.50	10.02	Cell division protein FtsL
+PGF_00417104	Providencia	349.48	14.62	Cell division protein ZipA
+PGF_00417429	Providencia	379.70	2.49	Chaperone protein DnaJ
+PGF_00417433	Providencia	616.90	97.10	Chaperone protein DnaK
+PGF_00417658	Providencia	350.26	47.11	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Providencia	240.00	0.45	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417831	Providencia	360.45	53.35	Chorismate mutase I (EC 5.4.99.5) / Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_00417843	Providencia	166.33	6.34	Chorismate--pyruvate lyase (EC 4.1.3.40)
+PGF_00417957	Providencia	1387.91	332.00	Chromosome partition protein MukB
+PGF_00417959	Providencia	241.53	1.48	Chromosome partition protein MukE
+PGF_00417961	Providencia	440.20	4.20	Chromosome partition protein MukF
+PGF_00417987	Providencia	184.77	6.14	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418097	Providencia	492.06	80.59	Citrate lyase alpha chain (EC 4.1.3.6)
+PGF_00418099	Providencia	297.74	2.29	Citrate lyase beta chain (EC 4.1.3.6)
+PGF_00418101	Providencia	98.00	0.00	Citrate lyase gamma chain, acyl carrier protein
+PGF_00418128	Providencia	246.97	3.55	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418243	Providencia	196.17	0.75	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00418406	Providencia	173.20	6.57	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418658	Providencia	162.16	21.76	Colicin V production protein
+PGF_00418710	Providencia	319.65	47.12	Uncharacterized protease YhbU
+PGF_00419533	Providencia	218.43	2.37	Copper homeostasis protein CutF precursor / Lipoprotein NlpE involeved in surface adhesion
+PGF_00419560	Providencia	287.42	37.56	Copper resistance protein CopD
+PGF_00419575	Providencia	454.77	6.95	Copper sensory histidine kinase CpxA
+PGF_00419627	Providencia	275.15	74.50	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419628	Providencia	442.97	62.52	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Providencia	173.00	0.00	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419816	Providencia	133.00	0.00	Curlin genes transcriptional activator
+PGF_00419886	Providencia	279.43	0.82	3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2)
+PGF_00419891	Providencia	203.13	26.67	Cyclic AMP receptor protein
+PGF_00419913	Providencia	156.93	4.80	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Providencia	263.58	3.23	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00419986	Providencia	324.07	0.37	Cys regulon transcriptional activator CysB
+PGF_00420048	Providencia	403.42	3.23	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420053	Providencia	377.16	75.35	Cysteine desulfurase (EC 2.8.1.7) => sulfur transfer pathway protein CsdA
+PGF_00420075	Providencia	299.18	61.74	Cysteine synthase (EC 2.5.1.47)
+PGF_00420078	Providencia	275.67	59.63	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420121	Providencia	227.33	1.83	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420155	Providencia	202.90	6.02	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+PGF_00420612	Providencia	244.77	34.60	Cytoplasmic copper homeostasis protein CutC
+PGF_00420728	Providencia	312.39	12.07	Cytoskeleton protein RodZ
+PGF_00420731	Providencia	502.52	2.69	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420732	Providencia	470.35	64.83	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420764	Providencia	382.19	6.69	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+PGF_00420993	Providencia	332.10	0.71	D-lactate dehydrogenase (EC 1.1.1.28)
+PGF_00421013	Providencia	403.61	0.50	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421071	Providencia	145.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Providencia	640.83	15.37	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421156	Providencia	194.93	7.87	DJ-1/YajL/PfpI superfamily, includes chaperone protein YajL (former ThiJ), parkinsonism-associated protein DJ-1, peptidases PfpI, Hsp31
+PGF_00421408	Providencia	221.70	7.56	DNA mismatch repair endonuclease MutH
+PGF_00421477	Providencia	693.40	217.40	DNA polymerase II (EC 2.7.7.7)
+PGF_00421498	Providencia	353.55	52.75	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Providencia	580.97	0.18	DNA primase (EC 2.7.7.-)
+PGF_00421733	Providencia	364.81	5.92	DNA recombination and repair protein RecF
+PGF_00421792	Providencia	446.61	66.53	DNA repair protein RadA
+PGF_00421796	Providencia	563.77	59.99	DNA repair protein RecN
+PGF_00421839	Providencia	304.14	2.39	DNA replication terminus site-binding protein
+PGF_00421893	Providencia	192.80	23.79	DNA transformation protein TfoX
+PGF_00421954	Providencia	216.13	0.72	DNA-binding capsular synthesis response regulator RcsB
+PGF_00422053	Providencia	98.00	0.00	DNA-binding protein Fis
+PGF_00422177	Providencia	226.63	2.25	DNA-binding response regulator KdpE
+PGF_00422545	Providencia	305.83	0.87	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422679	Providencia	223.50	1.36	DedA family inner membrane protein YghB
+PGF_00422681	Providencia	220.03	9.66	DedA family inner membrane protein YqjA
+PGF_00422711	Providencia	225.69	33.51	DedA protein
+PGF_00422959	Providencia	151.03	0.18	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423021	Providencia	470.28	70.85	Di-tripeptide/H+ symporter DtpA
+PGF_00423089	Providencia	369.70	7.20	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Providencia	274.07	3.94	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Providencia	409.97	60.60	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Providencia	119.10	0.54	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423376	Providencia	145.33	6.30	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423382	Providencia	348.57	0.57	Dihydroorotase (EC 3.5.2.3)
+PGF_00423450	Providencia	296.94	1.06	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)
+PGF_00423472	Providencia	575.82	158.83	DinG family ATP-dependent helicase YoaA
+PGF_00423530	Providencia	333.06	8.60	Dipeptide transport ATP-binding protein DppF (TC 3.A.1.5.2)
+PGF_00423533	Providencia	280.77	42.61	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423709	Providencia	271.03	0.18	DnaJ-like protein DjlA
+PGF_00423914	Providencia	175.10	29.30	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Providencia	277.35	36.80	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424131	Providencia	181.41	14.03	Electron transport complex protein RnfA
+PGF_00424134	Providencia	197.43	29.15	Electron transport complex protein RnfB
+PGF_00424141	Providencia	237.59	1.32	Electron transport complex protein RnfE
+PGF_00424258	Providencia	203.45	42.99	Endo-type membrane-bound lytic murein transglycosylase A (EC 4.2.2.n2)
+PGF_00424800	Providencia	259.50	3.45	Esterase ybfF (EC 3.1.-.-)
+PGF_00424971	Providencia	519.61	195.18	Excinuclease ABC subunit C
+PGF_00425011	Providencia	261.70	34.56	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425021	Providencia	1084.72	174.77	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Providencia	456.73	2.00	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Providencia	1178.32	210.53	Exonuclease SbcC
+PGF_00425092	Providencia	389.35	57.36	Exonuclease SbcD
+PGF_00425665	Providencia	244.00	0.26	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Providencia	265.39	55.35	RNase adapter protein RapZ
+PGF_00425679	Providencia	205.17	2.00	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Providencia	239.00	31.74	Probable transcriptional regulatory protein YebC
+PGF_00425704	Providencia	88.93	0.25	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425736	Providencia	152.20	4.96	FIG001826: putative inner membrane protein
+PGF_00425757	Providencia	108.60	2.59	FIG002060: uncharacterized protein YggL
+PGF_00425802	Providencia	263.67	28.20	FIG002708: Protein SirB1
+PGF_00425806	Providencia	299.53	13.51	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425808	Providencia	185.69	25.68	5'-deoxynucleotidase YfbR (EC 3.1.3.89)
+PGF_00425810	Providencia	243.35	35.89	Cell division protein ZapD
+PGF_00425811	Providencia	109.97	0.19	dsDNA mimic protein, highly acidic
+PGF_00425812	Providencia	209.52	3.14	High frequency lysogenization protein HflD
+PGF_00425922	Providencia	242.00	1.11	FIG004016: Uncharacterized protein YggN
+PGF_00425993	Providencia	396.93	5.18	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Providencia	340.90	1.35	FIG004453: protein YceG like
+PGF_00426115	Providencia	585.47	114.75	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Providencia	372.74	0.44	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426342	Providencia	241.63	1.25	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426722	Providencia	1187.73	215.45	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Providencia	156.50	0.51	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447438	Providencia	192.03	0.18	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00451246	Providencia	95.97	6.17	RNA-binding protein YhbY
+PGF_00473519	Providencia	210.10	8.90	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00502502	Providencia	79.10	6.73	Cold shock protein of CSP family => CspD (naming convention as in E.coli)
+PGF_00502921	Providencia	237.23	33.18	Arginine ABC transporter, substrate-binding protein ArtI
+PGF_00503312	Providencia	274.07	5.19	Cell division protein FtsN
+PGF_00503343	Providencia	191.00	0.00	Uncharacterized protein YraP
+PGF_00538878	Providencia	248.91	45.35	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00546752	Providencia	161.03	1.22	Phosphohistidine phosphatase SixA
+PGF_00570239	Providencia	350.26	3.93	Spermidine/putrescine import ABC transporter substrate-binding protein PotD (TC 3.A.1.11.1)
+PGF_00572136	Providencia	127.87	0.73	Copper resistance protein CopC
+PGF_00580333	Providencia	376.50	49.86	Lipopolysaccharide assembly protein LapB
+PGF_00596539	Providencia	588.00	0.00	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598374	Providencia	190.03	4.60	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00599308	Providencia	343.76	86.77	Uncharacterized metal-dependent hydrolase STM4445
+PGF_00618776	Providencia	371.75	86.17	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Providencia	232.03	1.18	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00639841	Providencia	533.94	2.50	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Providencia	283.44	55.19	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00648054	Providencia	225.10	6.16	Tol-Pal system protein TolQ
+PGF_00649271	Providencia	111.63	1.45	Cell division protein BolA
+PGF_00655131	Providencia	473.06	67.84	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Providencia	493.40	6.09	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Providencia	213.20	0.41	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Providencia	438.16	62.82	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Providencia	104.97	0.18	Ribosomal silencing factor RsfA
+PGF_00709443	Providencia	171.73	16.97	Twin-arginine translocation protein TatB
+PGF_00720623	Providencia	141.73	0.91	TonB-ExbBD energy transducing system, ExbD subunit
+PGF_00725839	Providencia	739.52	154.18	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734372	Providencia	593.43	188.18	2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)
+PGF_00734482	Providencia	858.47	39.72	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00777371	Providencia	244.34	1.56	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Providencia	230.07	0.37	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00810924	Providencia	370.06	0.36	D-glucosaminate-6-phosphate ammonia-lyase related protein STM4446
+PGF_00827555	Providencia	623.23	95.29	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Providencia	289.97	0.18	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Providencia	387.12	76.78	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00885329	Providencia	324.23	41.79	Flagellar motor switch protein FliM
+PGF_00900256	Providencia	430.53	0.68	Threonine synthase (EC 4.2.3.1)
+PGF_00906931	Providencia	302.90	12.02	Formiminoglutamase (EC 3.5.3.8)
+PGF_00908360	Providencia	251.12	37.62	Phospholipid ABC transporter permease protein MlaE
+PGF_00909459	Providencia	149.90	22.61	Flagellar basal body-associated protein FliL
+PGF_00912265	Providencia	297.45	19.65	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Providencia	287.67	1.88	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00924816	Providencia	223.87	32.37	Thiol:disulfide interchange protein DsbC
+PGF_00925844	Providencia	451.43	5.39	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Providencia	539.03	121.59	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00945778	Providencia	382.61	58.67	Multidrug efflux system AcrAB-TolC, membrane fusion component AcrA
+PGF_00948290	Providencia	402.25	74.26	Murein hydrolase activator EnvC
+PGF_00950554	Providencia	670.10	11.00	Excinuclease ABC subunit B
+PGF_00955412	Providencia	258.91	1.35	Probable iron export permease protein FetB
+PGF_00955461	Providencia	292.37	43.27	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00957419	Providencia	138.73	0.94	Putative pre-16S rRNA nuclease Yqg
+PGF_00973394	Providencia	171.94	10.40	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00979178	Providencia	120.97	0.18	Uncharacterized protein STM4441
+PGF_01033782	Providencia	261.10	34.36	HAD phosphatase YigL
+PGF_01036334	Providencia	420.00	0.00	UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)
+PGF_01050622	Providencia	345.72	44.96	Glycerophosphoryl diester phosphodiesterase, periplasmic (EC 3.1.4.46)
+PGF_01052295	Providencia	359.07	15.30	Lipopolysaccharide export system permease protein LptF
+PGF_01058223	Providencia	385.32	88.00	Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+PGF_01084735	Providencia	38.14	1.48	Cytochrome d ubiquinol oxidase subunit X (EC 1.10.3.-)
+PGF_01092098	Providencia	153.93	0.37	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01102287	Providencia	462.74	67.35	Alkaline phosphatase (EC 3.1.3.1)
+PGF_01104399	Providencia	250.33	1.95	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01110486	Providencia	371.73	1.36	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+PGF_01124177	Providencia	389.00	55.73	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Providencia	358.03	48.42	Rod shape-determining protein RodA
+PGF_01147190	Providencia	479.65	2.75	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01172485	Providencia	403.94	50.10	Cell division protein FtsA
+PGF_01174739	Providencia	246.73	2.02	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Providencia	456.43	5.72	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Providencia	641.13	4.85	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176861	Providencia	71.56	2.12	Uncharacterized protein YpeB
+PGF_01181530	Providencia	116.10	10.60	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01189572	Providencia	299.06	4.77	Triphosphoribosyl-dephospho-CoA synthase (EC 2.4.2.52)
+PGF_01191170	Providencia	160.17	0.91	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01197369	Providencia	444.32	13.60	Na+/H+-dicarboxylate symporter
+PGF_01216478	Providencia	137.77	2.79	Succinyl-CoA synthetase, alpha subunit-related enzymes
+PGF_01217385	Providencia	202.39	43.73	Enhancing lycopene biosynthesis protein 2
+PGF_01218448	Providencia	265.48	34.54	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01223569	Providencia	147.13	12.93	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Providencia	161.97	1.50	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Providencia	306.32	66.70	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01309240	Providencia	169.00	0.00	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01325304	Providencia	221.90	29.53	Molybdenum ABC transporter permease protein ModB
+PGF_01353801	Providencia	415.12	84.90	Anaerobic C4-dicarboxylate transporter DcuB
+PGF_01364427	Providencia	204.93	0.37	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01382505	Providencia	206.94	0.25	FIG00449901: hypothetical protein
+PGF_01383880	Providencia	166.73	3.18	Uncharacterized protein YeaK
+PGF_01388673	Providencia	208.19	27.73	Transcriptional regulator of acrAB operon, AcrR
+PGF_01393949	Providencia	608.91	133.58	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01415861	Providencia	179.67	3.65	LPS-assembly lipoprotein LptE
+PGF_01420802	Providencia	146.53	15.08	Cell division protein MraZ
+PGF_01423501	Providencia	158.00	0.00	Transcription elongation factor GreA
+PGF_01448031	Providencia	98.03	0.18	Integration host factor alpha subunit
+PGF_01466742	Providencia	420.39	71.67	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01483460	Providencia	357.33	4.05	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Providencia	260.32	36.72	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01484108	Providencia	201.10	29.60	Electron transport complex protein RnfG
+PGF_01492504	Providencia	249.00	26.90	Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)
+PGF_01514111	Providencia	325.77	0.43	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01522203	Providencia	54.40	11.22	AcrZ membrane protein associated with AcrAB-TolC multidrug efflux pump
+PGF_01542417	Providencia	69.97	0.18	Cold shock protein of CSP family => CspC (naming convention as in E.coli)
+PGF_01553714	Providencia	179.63	8.10	Uncharacterized protein YhbT
+PGF_01569608	Providencia	549.61	9.38	Putative transport protein YidE
+PGF_01603398	Providencia	593.69	0.54	Efflux ABC transporter, permease/ATP-binding protein MdlB
+PGF_01613113	Providencia	417.93	12.17	Uncharacterized MFS-type transporter YnfM
+PGF_01614738	Providencia	86.47	0.90	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01622427	Providencia	136.70	9.72	putative membrane protein
+PGF_01625234	Providencia	319.80	0.61	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01632789	Providencia	177.45	23.53	Periplasmic protein CpxP
+PGF_01667880	Providencia	85.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Providencia	185.44	24.48	RNA polymerase sigma factor RpoE
+PGF_01668012	Providencia	274.67	5.10	Sulfur carrier protein FdhD
+PGF_01673335	Providencia	253.23	10.60	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01674551	Providencia	129.97	0.18	Glycine cleavage system H protein
+PGF_01678333	Providencia	346.90	52.44	Electron transport complex protein RnfD
+PGF_01681377	Providencia	197.88	26.33	UPF0126 inner membrane protein YicG
+PGF_01682537	Providencia	127.31	1.35	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Providencia	157.90	14.10	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Providencia	233.62	33.69	DNA recombination and repair protein RecO
+PGF_01737397	Providencia	291.07	2.90	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01745391	Providencia	372.94	57.63	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01747642	Providencia	208.77	15.66	Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_01748119	Providencia	151.45	6.47	Sulfur acceptor protein => sulfur transfer pathway protein CsdE
+PGF_01756547	Providencia	648.93	0.37	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16) / 3'-nucleotidase (EC 3.1.3.6)
+PGF_01760799	Providencia	339.67	19.42	Type IV pilus biogenesis protein PilQ
+PGF_01761890	Providencia	65.10	0.55	DNA gyrase inhibitor YacG
+PGF_01763778	Providencia	304.32	47.33	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01767155	Providencia	180.65	1.05	Citrate lyase holo-[acyl-carrier-protein] synthase (EC 2.7.7.61)
+PGF_01775859	Providencia	1252.13	14.88	Inner membrane component of TAM transport system
+PGF_01777142	Providencia	219.30	2.37	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Providencia	134.40	2.99	Protein YhfA
+PGF_01839055	Providencia	346.30	5.47	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01853493	Providencia	281.23	1.65	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01888177	Providencia	150.03	0.18	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Providencia	212.93	0.37	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Providencia	297.15	67.49	Rod shape-determining protein MreC
+PGF_01900807	Providencia	273.35	8.96	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01920535	Providencia	561.29	81.43	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01920666	Providencia	109.00	0.00	Z-ring-associated protein ZapA
+PGF_01920692	Providencia	66.97	0.18	Cytoplasmic protein, probably associated with glutathione-regulated potassium-efflux
+PGF_01921605	Providencia	620.20	9.03	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01922580	Providencia	394.84	63.33	2-polyprenylphenol hydroxylase
+PGF_01923866	Providencia	84.68	3.77	Acid stress protein IbaG
+PGF_01937476	Providencia	684.88	86.88	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01949788	Providencia	174.55	34.76	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01950071	Providencia	294.07	1.51	Aldose 1-epimerase family protein YeaD
+PGF_01960322	Providencia	589.10	80.87	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_02010018	Providencia	123.93	0.37	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Providencia	258.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Providencia	307.58	63.83	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Providencia	390.53	0.82	GTP-binding protein Obg
+PGF_02059020	Providencia	552.73	7.52	Energy-dependent translational throttle protein EttA
+PGF_02061452	Providencia	375.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Providencia	89.17	6.99	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02085373	Providencia	157.45	6.98	UPF0225 protein YchJ
+PGF_02098099	Providencia	493.72	79.90	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02109968	Providencia	329.60	0.81	Flagellar motor switch protein FliG
+PGF_02111888	Providencia	316.83	0.75	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Providencia	399.64	72.84	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02209787	Providencia	465.00	0.00	Conserved protein YcjX with nucleoside triphosphate hydrolase domain
+PGF_02247058	Providencia	278.87	0.72	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+PGF_02265871	Providencia	177.77	1.28	Inosine/xanthosine triphosphatase (EC 3.6.1.-)
+PGF_02272288	Providencia	651.03	128.47	DNA helicase IV (EC 3.6.4.12)
+PGF_02325838	Providencia	492.90	68.41	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02329420	Providencia	362.29	45.09	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG
+PGF_02330496	Providencia	207.50	1.53	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Providencia	337.35	17.78	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Providencia	837.35	123.87	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02357764	Providencia	154.13	3.76	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02380724	Providencia	229.33	14.42	Quercetin 2,3-dioxygenase (EC 1.13.11.24) => YhhW
+PGF_02380854	Providencia	467.97	68.11	Protein ViaA
+PGF_02382338	Providencia	257.87	7.78	Inner membrane protein YpjD
+PGF_02386652	Providencia	166.68	20.52	Ribonuclease E inhibitor RraA
+PGF_02405545	Providencia	310.78	43.50	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02449016	Providencia	667.16	7.46	PTS system, N-acetylglucosamine-specific IIC component / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.193) / PTS system, N-acetylglucosamine-specific IIA component (EC 2.7.1.193)
+PGF_02454577	Providencia	85.17	4.76	SSU ribosomal protein S20p
+PGF_02463284	Providencia	193.50	12.07	Recombination protein RecR
+PGF_02473279	Providencia	235.69	33.17	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473679	Providencia	463.07	11.05	Type IV fimbrial assembly, ATPase PilB
+PGF_02499550	Providencia	213.27	12.38	Ubiquinone biosynthesis protein UbiJ
+PGF_02505612	Providencia	140.17	2.13	Uncharacterized protein YiiR
+PGF_02515882	Providencia	459.03	7.89	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Providencia	432.97	0.18	Enolase (EC 4.2.1.11)
+PGF_02517984	Providencia	59.07	0.25	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Providencia	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02592886	Providencia	259.42	0.56	Flagellar biosynthesis protein FliR
+PGF_02593689	Providencia	440.23	2.57	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02595016	Providencia	413.07	4.09	Multidrug efflux system MdtABC-TolC, membrane fusion component MdtA
+PGF_02613926	Providencia	288.90	0.54	Ribulosamine/erythrulosamine 3-kinase potentially involved in protein deglycation
+PGF_02619970	Providencia	98.33	1.49	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Providencia	312.00	0.00	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02635429	Providencia	224.77	38.00	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02648683	Providencia	487.90	6.49	PTS system, N-acetylmuramic acid-specific IIB component (EC 2.7.1.192) / PTS system, N-acetylmuramic acid-specific IIC component
+PGF_02695498	Providencia	115.90	14.12	Uncharacterized protein YgbA
+PGF_02704551	Providencia	1360.94	175.64	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02706008	Providencia	252.60	2.90	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02719231	Providencia	131.84	31.50	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Providencia	800.34	145.32	DNA mismatch repair protein MutS
+PGF_02728989	Providencia	207.52	44.33	Transcriptional regulatory protein PhoP
+PGF_02729762	Providencia	60.57	3.53	Diaminopimelate decarboxylase and/or diaminopimelate epimerase leader peptide
+PGF_02744871	Providencia	108.81	8.49	Flagellar hook-basal body complex protein FliE
+PGF_02745613	Providencia	307.29	42.75	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746016	Providencia	237.17	10.41	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02746237	Providencia	355.97	0.19	HlyD-like membrane fusion protein YhiI
+PGF_02746679	Providencia	71.20	1.73	Uncharacterized protein YdcH
+PGF_02789532	Providencia	274.47	24.16	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Providencia	229.63	10.33	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797402	Providencia	1297.71	196.58	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Providencia	492.55	64.06	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02806530	Providencia	107.30	6.36	Putative uncharacterized protein ydbL, may be related to amine metabolism
+PGF_02820109	Providencia	211.94	28.23	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Providencia	120.70	0.79	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02836627	Providencia	324.45	13.03	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02838109	Providencia	169.73	5.37	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Providencia	272.90	0.55	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02865787	Providencia	582.48	74.60	Glutathione-regulated potassium-efflux system protein KefB
+PGF_02873160	Providencia	221.97	0.18	Putative preQ0 transporter YhhQ
+PGF_02873723	Providencia	460.27	96.39	Ribonuclease G
+PGF_02875609	Providencia	432.59	64.11	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Providencia	389.87	0.73	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Providencia	362.80	0.41	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02893929	Providencia	244.20	6.53	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02898096	Providencia	424.41	93.46	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02902854	Providencia	205.00	4.22	Outer membrane lipoprotein carrier protein LolA
+PGF_02905104	Providencia	423.55	69.32	UPF0597 protein YhaM
+PGF_02906415	Providencia	1082.42	166.26	Mechanosensitive channel MscK
+PGF_02906681	Providencia	730.09	136.37	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02911364	Providencia	333.03	0.18	HflC protein
+PGF_02912272	Providencia	180.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Providencia	241.97	0.18	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Providencia	315.84	47.69	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02933974	Providencia	576.93	4.76	L,D-transpeptidase YcbB
+PGF_02936973	Providencia	396.60	3.41	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02938730	Providencia	343.77	0.43	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942020	Providencia	190.10	0.55	Peptidyl-prolyl cis-trans isomerase PpiA precursor (EC 5.2.1.8)
+PGF_02942351	Providencia	222.19	30.84	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Providencia	561.00	5.75	SSU ribosomal protein S1p
+PGF_02947204	Providencia	539.03	0.18	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Providencia	269.87	6.40	Septum site-determining protein MinD
+PGF_02959749	Providencia	374.33	4.06	Ribonuclease D (EC 3.1.26.3)
+PGF_02961167	Providencia	128.10	0.54	2-iminobutanoate/2-iminopropanoate deaminase RidA/TdcF (EC 3.5.99.10)
+PGF_02964258	Providencia	391.35	54.96	Multidrug resistance protein MdtG
+PGF_02983541	Providencia	543.03	4.11	Blue copper oxidase CueO precursor
+PGF_02992495	Providencia	112.93	1.14	Protein translocase membrane subunit SecG
+PGF_02997723	Providencia	151.70	2.93	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_02998943	Providencia	187.17	4.56	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03003632	Providencia	917.12	302.44	Multidrug efflux system MdtABC-TolC, inner-membrane proton/drug antiporter MdtB (RND type)
+PGF_03006190	Providencia	392.00	0.00	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03011092	Providencia	294.13	42.41	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017775	Providencia	505.33	0.48	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Providencia	194.03	4.03	Septum formation protein Maf
+PGF_03025044	Providencia	209.74	10.55	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03025675	Providencia	581.33	0.48	Lipid A export permease/ATP-binding protein MsbA
+PGF_03029859	Providencia	624.97	54.95	Bis-ABC ATPase Uup
+PGF_03034557	Providencia	235.25	31.59	Fumarate reductase iron-sulfur protein (EC 1.3.5.4)
+PGF_03038852	Providencia	131.00	0.00	FIG00018398: hypothetical regulator
+PGF_03053958	Providencia	355.87	11.26	Outer membrane protein A precursor
+PGF_03057384	Providencia	326.42	50.14	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03069524	Providencia	82.90	0.55	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03070403	Providencia	287.65	41.14	Glutamate Aspartate periplasmic binding protein precursor GltI (TC 3.A.1.3.4)
+PGF_03073470	Providencia	616.00	0.00	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03074362	Providencia	353.22	73.20	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03081665	Providencia	184.33	15.31	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03083019	Providencia	1074.58	164.11	Miniconductance mechanosensitive channel MscM
+PGF_03090490	Providencia	318.81	49.22	ABC-type efflux pump membrane fusion component YbhG
+PGF_03115661	Providencia	232.43	6.81	Uncharacterized DUF484 protein YigA
+PGF_03117340	Providencia	421.00	63.77	Peptidase B (EC 3.4.11.23)
+PGF_03122400	Providencia	301.87	9.85	Uncharacterized radical SAM protein YhcC
+PGF_03126065	Providencia	319.13	42.37	Putative esterase YheT functionally coupled to phosphoribulokinase homolog
+PGF_03128228	Providencia	390.06	0.36	Outer membrane beta-barrel assembly protein BamB
+PGF_03128934	Providencia	183.87	4.06	Glutathione-regulated potassium-efflux system ancillary protein KefG
+PGF_03129066	Providencia	186.33	6.05	Cytochrome b561 homolog 2
+PGF_03132336	Providencia	414.97	10.41	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03135428	Providencia	229.00	5.41	Protein YiiM
+PGF_03138644	Providencia	204.47	6.31	Arginine exporter protein ArgO
+PGF_03144011	Providencia	169.31	2.47	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03147273	Providencia	143.73	13.60	Nitrite-sensitive transcriptional repressor NsrR
+PGF_03172904	Providencia	292.65	12.08	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Providencia	181.00	0.00	Transcription antitermination protein NusG
+PGF_03187392	Providencia	312.10	3.65	Fructokinase (EC 2.7.1.4)
+PGF_03197083	Providencia	706.76	170.39	Penicillin-insensitive transglycosylase (EC 2.4.2.-) & transpeptidase PBP-1C
+PGF_03217584	Providencia	359.73	75.57	Probable 3-phenylpropionic acid transporter
+PGF_03222913	Providencia	140.93	0.37	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Providencia	90.94	17.77	UPF0125 protein RatB
+PGF_03253896	Providencia	235.20	12.61	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03272313	Providencia	865.48	8.50	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Providencia	76.80	3.66	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03300113	Providencia	185.90	0.55	Putative lipoprotein yceB precursor
+PGF_03318456	Providencia	453.28	99.86	Trk potassium uptake system protein TrkH
+PGF_03325319	Providencia	195.65	1.98	DnaA initiator-associating protein DiaA
+PGF_03333815	Providencia	232.00	0.00	Copper-sensing two-component system response regulator CpxR
+PGF_03351651	Providencia	580.07	5.35	Efflux ABC transporter, permease/ATP-binding protein MdlA
+PGF_03373110	Providencia	171.37	123.79	UPF0756 membrane protein YeaL
+PGF_03374853	Providencia	156.10	0.40	Uncharacterized protein YigI
+PGF_03376021	Providencia	549.91	126.56	Uncharacterized transporter YfbS
+PGF_03400333	Providencia	325.90	2.84	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03421722	Providencia	442.53	2.13	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Providencia	290.07	0.37	33 kDa chaperonin HslO
+PGF_03439690	Providencia	148.73	0.58	Ferric uptake regulation protein FUR
+PGF_03441339	Providencia	318.48	2.46	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03456505	Providencia	610.07	60.87	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03470321	Providencia	173.97	0.18	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Providencia	453.26	4.53	Flagellum-specific ATP synthase FliI
+PGF_03514188	Providencia	453.67	8.38	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Providencia	139.84	6.85	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Providencia	385.53	1.38	Cell division protein FtsZ
+PGF_03609651	Providencia	673.10	10.79	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Providencia	163.37	2.01	UPF0234 protein Yitk
+PGF_03701810	Providencia	325.87	4.85	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Providencia	127.97	0.18	Protein translocase subunit SecE
+PGF_03718818	Providencia	267.17	9.71	Cell division protein FtsQ
+PGF_03719269	Providencia	202.23	1.98	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Providencia	153.97	0.18	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729040	Providencia	151.97	6.67	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03729098	Providencia	315.94	0.63	Sigma factor RpoE negative regulatory protein RseB precursor
+PGF_03729141	Providencia	186.70	0.47	UPF0301 protein YqgE
+PGF_03729660	Providencia	154.00	0.26	Sigma factor RpoE regulatory protein RseC
+PGF_03743176	Providencia	582.06	138.41	Selenocysteine-specific translation elongation factor
+PGF_03747721	Providencia	278.37	3.47	Iron-chelator utilization protein
+PGF_03750571	Providencia	434.94	81.11	Chromosomal replication initiator protein DnaA
+PGF_03750599	Providencia	255.80	7.49	Cell division coordinator CpoB
+PGF_03750600	Providencia	164.68	20.46	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Providencia	196.13	0.72	Heat shock protein GrpE
+PGF_03752215	Providencia	139.00	0.00	D-ribose pyranase (EC 5.4.99.62)
+PGF_03752544	Providencia	239.39	2.56	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Providencia	289.44	55.17	Site-specific tyrosine recombinase XerC
+PGF_03753933	Providencia	164.94	0.36	Iron-sulfur cluster regulator IscR
+PGF_03768099	Providencia	304.47	10.72	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03772086	Providencia	465.00	67.68	Sensor histidine kinase GlrK
+PGF_03787199	Providencia	183.03	7.64	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Providencia	340.45	43.62	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Providencia	219.41	31.05	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Providencia	274.20	7.36	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Providencia	70.97	0.18	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811905	Providencia	345.06	44.79	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03821527	Providencia	133.83	8.37	Inner membrane protein YbaN
+PGF_03835760	Providencia	425.20	0.41	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03844705	Providencia	426.44	54.13	Anaerobic C4-dicarboxylate transporter DcuA
+PGF_03856084	Providencia	644.71	63.81	Cell division protein FtsH
+PGF_03862500	Providencia	197.00	0.26	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03870438	Providencia	291.03	0.18	Uncharacterized peptidase U32 family member YhbV
+PGF_03912513	Providencia	167.00	0.00	DNA protection during starvation protein
+PGF_03919925	Providencia	136.03	0.19	DNA-binding protein H-NS
+PGF_03925458	Providencia	174.25	24.98	Putative DNA-binding protein
+PGF_03931503	Providencia	438.81	15.70	Uncharacterized protein YadE
+PGF_03946699	Providencia	155.33	32.19	Uncharacterized protein ImpB
+PGF_03948830	Providencia	145.87	14.27	Flagellar biosynthesis protein FliO
+PGF_03949149	Providencia	133.13	17.06	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_03974418	Providencia	530.74	73.05	Uncharacterized Na(+)/H(+) exchanger YjcE
+PGF_03980141	Providencia	768.21	219.45	Adenylate cyclase (EC 4.6.1.1)
+PGF_03995518	Providencia	87.00	0.00	Proposed lipoate regulatory protein YbeD
+PGF_04007946	Providencia	198.65	31.06	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Providencia	150.10	0.40	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04009223	Providencia	414.33	8.09	Uncharacterized protein EC-HemX
+PGF_04012930	Providencia	105.43	17.24	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)
+PGF_04016408	Providencia	456.77	66.81	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019834	Providencia	337.20	1.10	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04027970	Providencia	243.00	7.80	Putative L,D-transpeptidase YafK
+PGF_04034430	Providencia	71.00	0.00	SSU ribosomal protein S21p
+PGF_04041316	Providencia	883.84	190.57	Excinuclease ABC subunit A
+PGF_04108824	Providencia	569.56	80.73	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04108994	Providencia	323.65	20.30	Inorganic triphosphatase (EC 3.6.1.25)
+PGF_04127376	Providencia	245.77	30.08	Twin-arginine translocation protein TatC
+PGF_04150742	Providencia	261.00	0.00	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Providencia	181.73	0.45	16S rRNA processing protein RimM
+PGF_04154333	Providencia	91.61	11.41	Twin-arginine translocation protein TatA
+PGF_04162809	Providencia	200.00	0.00	Alkyl hydroperoxide reductase subunit C-like protein
+PGF_04182459	Providencia	221.03	0.18	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04217145	Providencia	859.23	113.71	Acetaldehyde dehydrogenase (EC 1.2.1.10) / Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_04217548	Providencia	605.34	87.94	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04258098	Providencia	308.00	0.00	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+PGF_04275878	Providencia	205.50	45.28	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04315180	Providencia	151.39	23.59	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Providencia	448.90	35.21	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04359199	Providencia	642.15	113.03	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04360357	Providencia	902.93	0.37	Protein translocase subunit SecA
+PGF_04380075	Providencia	223.87	0.72	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Providencia	308.40	0.50	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Providencia	106.77	6.76	Thioredoxin
+PGF_04457297	Providencia	197.43	1.79	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Providencia	319.77	8.49	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04505269	Providencia	241.00	0.00	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Providencia	338.22	50.54	Rod shape-determining protein MreB
+PGF_04521913	Providencia	454.53	2.19	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04567743	Providencia	385.19	55.08	Flavohemoglobin / Nitric oxide dioxygenase (EC 1.14.12.17)
+PGF_04569524	Providencia	512.30	3.83	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Providencia	255.97	0.18	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04592595	Providencia	475.77	4.02	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4) @ Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04594665	Providencia	136.00	0.00	Regulator of nucleoside diphosphate kinase
+PGF_04620152	Providencia	433.26	109.69	Pantothenate:Na+ symporter (TC 2.A.21.1.1)
+PGF_04623565	Providencia	238.25	33.03	2-dehydro-3-deoxyphosphogluconate aldolase-like protein STM4447
+PGF_04660832	Providencia	162.68	10.33	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Providencia	778.06	102.71	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Providencia	391.41	62.31	Alanine transaminase (EC 2.6.1.2)
+PGF_04679223	Providencia	137.94	0.36	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04687504	Providencia	468.50	61.49	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04695681	Providencia	273.00	0.00	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Providencia	881.13	146.31	Translation initiation factor 2
+PGF_04757308	Providencia	595.94	82.29	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Providencia	195.67	1.49	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Providencia	312.97	0.67	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04838801	Providencia	647.67	103.68	tRNA cytosine(34) acetyltransferase (EC 2.3.1.193)
+PGF_04845029	Providencia	116.93	0.37	LSU ribosomal protein L19p
+PGF_04958295	Providencia	132.03	0.65	Flagellar biosynthesis protein FliS
+PGF_04962192	Providencia	824.43	3.61	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Providencia	91.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Providencia	102.03	0.18	LSU ribosomal protein L21p
+PGF_05022117	Providencia	530.94	2.72	Bis-ABC ATPase YbiT
+PGF_05048110	Providencia	261.84	3.65	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1)
+PGF_05111929	Providencia	540.48	120.18	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Providencia	863.41	233.09	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05119600	Providencia	994.42	146.57	Multidrug efflux system MdtABC-TolC, inner-membrane proton/drug antiporter MdtC (RND type)
+PGF_05122891	Providencia	316.67	8.48	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_05135220	Providencia	858.74	7.00	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05154774	Providencia	170.48	7.03	UPF0716 protein FxsA
+PGF_05182506	Providencia	207.45	25.54	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Providencia	459.13	3.30	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05232968	Providencia	332.38	3.17	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)
+PGF_05249824	Providencia	249.56	35.93	Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+PGF_05255412	Providencia	423.27	1.46	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Providencia	424.67	0.84	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Providencia	159.39	24.67	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Providencia	428.39	55.06	ATP-dependent RNA helicase RhlE
+PGF_05338234	Providencia	287.00	0.00	Protein YicC
+PGF_05442739	Providencia	329.25	44.07	Sulfate and thiosulfate binding protein CysP
+PGF_05449103	Providencia	144.00	5.11	Rhodanese-related sulfurtransferase YibN
+PGF_05471309	Providencia	492.58	83.09	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05475561	Providencia	509.40	0.50	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+PGF_05507938	Providencia	609.47	122.80	DNA mismatch repair protein MutL
+PGF_05564656	Providencia	327.23	1.22	6-phosphogluconolactonase (EC 3.1.1.31)
+PGF_05598173	Providencia	389.83	4.53	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05626125	Providencia	319.72	43.12	Inner membrane protein YhjD
+PGF_05657253	Providencia	219.57	3.61	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05679920	Providencia	1175.45	304.65	ATP-dependent helicase HrpA
+PGF_05693577	Providencia	94.97	0.18	Integration host factor beta subunit
+PGF_05712128	Providencia	532.61	75.95	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Providencia	122.37	3.07	FIG138056: a glutathione-dependent thiol reductase
+PGF_05751082	Providencia	197.87	0.73	Tetrathionate reductase two-component response regulator
+PGF_05769513	Providencia	428.23	9.68	Tol-Pal system beta propeller repeat protein TolB
+PGF_05770898	Providencia	334.43	46.39	Selenide,water dikinase (EC 2.7.9.3)
+PGF_05837052	Providencia	428.07	37.79	Isocitrate lyase (EC 4.1.3.1)
+PGF_05847461	Providencia	291.06	44.92	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05872952	Providencia	241.03	6.46	Outer membrane beta-barrel assembly protein BamD
+PGF_05946087	Providencia	293.00	42.50	Transcriptional regulator ArgP, LysR family
+PGF_05949521	Providencia	604.73	2.79	Protein translocase subunit SecD
+PGF_05965455	Providencia	503.07	7.58	AmpG permease
+PGF_05971611	Providencia	405.47	5.61	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Providencia	574.91	133.26	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06025565	Providencia	312.03	3.18	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06037862	Providencia	572.68	24.26	Penicillin-binding protein activator LpoA
+PGF_06053106	Providencia	282.44	35.00	RNA polymerase sigma factor RpoH
+PGF_06061522	Providencia	115.47	28.34	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06120144	Providencia	139.72	18.50	Ribosome association toxin RatA
+PGF_06127529	Providencia	423.47	9.57	Ferrous iron transport peroxidase EfeB
+PGF_06150781	Providencia	460.33	5.11	ATP-dependent 23S rRNA helicase DbpA
+PGF_06152571	Providencia	249.28	36.33	Sulfate transporter, CysZ-type
+PGF_06170558	Providencia	155.50	2.74	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Providencia	137.72	17.79	LSU ribosomal protein L13p (L13Ae)
+PGF_06189158	Providencia	114.97	0.18	Monothiol glutaredoxin GrxD
+PGF_06213055	Providencia	256.06	10.59	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06285041	Providencia	354.57	20.43	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06287652	Providencia	254.87	0.73	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06315406	Providencia	419.97	0.18	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Providencia	321.45	51.76	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06319722	Providencia	295.69	64.90	Manganese ABC transporter, inner membrane permease protein SitC
+PGF_06326847	Providencia	247.03	1.05	Flagellar biosynthesis protein FliP
+PGF_06362312	Providencia	508.27	1.70	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06379377	Providencia	446.37	3.47	Replication-associated recombination protein RarA
+PGF_06403579	Providencia	782.32	109.73	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06412007	Providencia	820.30	1.73	Acyl-coenzyme A dehydrogenase FadE
+PGF_06429852	Providencia	208.35	5.58	Sigma factor RpoE negative regulatory protein RseA
+PGF_06454307	Providencia	195.93	10.10	Acyl carrier protein phosphodiesterase (EC 3.1.4.14)
+PGF_06469881	Providencia	326.47	2.52	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06495818	Providencia	248.94	30.75	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06524027	Providencia	577.57	210.04	ATP-dependent DNA helicase Rep
+PGF_06530721	Providencia	219.47	49.64	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06562926	Providencia	310.93	0.37	Formate dehydrogenase formation protein FdhE
+PGF_06589185	Providencia	587.13	15.77	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06594013	Providencia	137.00	0.00	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06603185	Providencia	213.13	40.51	UPF0758 protein YicR
+PGF_06635957	Providencia	331.23	1.28	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06644010	Providencia	313.90	0.40	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Providencia	77.81	0.75	Acyl carrier protein
+PGF_06679416	Providencia	203.53	5.76	Adenylylsulfate kinase (EC 2.7.1.25)
+PGF_06683120	Providencia	163.73	1.05	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_06683449	Providencia	306.00	0.00	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06693963	Providencia	109.00	0.00	Nucleoid-associated protein YaaK
+PGF_06706859	Providencia	159.90	13.58	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06743269	Providencia	397.20	0.61	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06755829	Providencia	330.13	0.72	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Providencia	491.00	100.93	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06767187	Providencia	319.34	45.11	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06772993	Providencia	951.60	309.47	Ribonuclease E (EC 3.1.26.12)
+PGF_06775354	Providencia	473.09	1.33	DNA-binding transcriptional regulator, MocR family / aminotransferase domain
+PGF_06949599	Providencia	821.87	5.61	ATP-dependent helicase HrpB
+PGF_06965613	Providencia	164.00	5.28	GNAT family acetyltransferase YhhY
+PGF_07072582	Providencia	615.81	1.42	RNA polymerase sigma factor RpoD
+PGF_07101513	Providencia	137.32	2.81	Flagellar motor switch protein FliN
+PGF_07171792	Providencia	252.00	0.00	Glycerol-3-phosphate regulon repressor GlpR
+PGF_07220192	Providencia	328.76	3.20	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)
+PGF_07263029	Providencia	358.17	5.28	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07344415	Providencia	186.55	10.62	Intracellular septation protein IspA
+PGF_07368646	Providencia	310.10	15.07	TonB-ExbBD energy transducing system, ExbB subunit
+PGF_07370370	Providencia	449.61	60.61	Voltage-gated H(+)/2Cl(-) exchange transporter ClcA
+PGF_07426744	Providencia	236.03	35.95	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08049323	Providencia	267.23	0.43	Peptide transport system ATP-binding protein SapF
+PGF_08050537	Providencia	298.71	46.08	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08059428	Providencia	92.60	8.03	Cell division topological specificity factor MinE
+PGF_08059713	Providencia	88.45	4.89	Phosphocarrier protein, nitrogen regulation associated
+PGF_08061357	Providencia	113.40	3.29	Iron-sulfur cluster insertion protein ErpA
+PGF_08070641	Providencia	234.90	31.88	TonB-ExbBD energy transducing system, TonB subunit
+PGF_08074580	Providencia	350.60	95.63	Lipoprotein releasing system transmembrane protein LolC
+PGF_08126362	Providencia	421.56	87.80	DNA recombination protein RmuC
+PGF_08130543	Providencia	506.83	9.85	Di-tripeptide/cation symporter
+PGF_08139865	Providencia	164.00	0.00	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_08153913	Providencia	241.03	39.85	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08177814	Providencia	401.72	57.04	Lipoprotein releasing system transmembrane protein LolE

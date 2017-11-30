@@ -1,0 +1,994 @@
+PGF_00000027	Erysipelothrix	254.86	2.27	Uncharacterized protein YmdB
+PGF_00000196	Erysipelothrix	353.29	4.11	FIG007079: UPF0348 protein family
+PGF_00000306	Erysipelothrix	240.14	0.38	FIG007491: hypothetical protein YeeN
+PGF_00004974	Erysipelothrix	339.00	0.00	ABC transporter, permease protein
+PGF_00005023	Erysipelothrix	410.83	0.41	ABC transporter, permease protein
+PGF_00005624	Erysipelothrix	298.00	0.00	ABC transporter, predicted N-acetylneuraminate transport system permease protein 1
+PGF_00005640	Erysipelothrix	277.00	0.00	ABC transporter, predicted N-acetylneuraminate transport system permease protein 2
+PGF_00005657	Erysipelothrix	431.00	0.00	ABC transporter, predicted N-acetylneuraminate-binding protein
+PGF_00006023	Erysipelothrix	306.00	0.00	Type II/IV secretion system protein TadC, associated with Flp pilus assembly
+PGF_00006106	Erysipelothrix	322.00	0.00	Foldase protein PrsA precursor (EC 5.2.1.8)
+PGF_00006186	Erysipelothrix	249.14	1.57	Formate efflux transporter (TC 2.A.44 family)
+PGF_00006245	Erysipelothrix	547.38	4.07	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006394	Erysipelothrix	288.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006931	Erysipelothrix	324.14	0.38	GMP reductase (EC 1.7.1.7)
+PGF_00006935	Erysipelothrix	510.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007007	Erysipelothrix	226.43	2.70	GTP pyrophosphokinase (EC 2.7.6.5)
+PGF_00007012	Erysipelothrix	366.71	0.76	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Erysipelothrix	436.14	0.38	GTP-binding protein EngA
+PGF_00007026	Erysipelothrix	190.86	0.38	GTP-binding protein EngB
+PGF_00007027	Erysipelothrix	298.14	0.38	GTP-binding protein Era
+PGF_00007028	Erysipelothrix	416.71	24.57	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007057	Erysipelothrix	446.14	0.38	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007131	Erysipelothrix	354.86	13.61	Galactose/methyl galactoside ABC transport system, D-galactose-binding periplasmic protein MglB (TC 3.A.1.2.3)
+PGF_00007133	Erysipelothrix	335.00	2.65	Galactose/methyl galactoside ABC transport system, permease protein MglC (TC 3.A.1.2.3)
+PGF_00007304	Erysipelothrix	280.86	0.38	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007513	Erysipelothrix	537.00	0.00	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines) / ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)
+PGF_00007632	Erysipelothrix	303.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007920	Erysipelothrix	239.43	1.51	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00008059	Erysipelothrix	276.00	0.00	Glutamate 5-kinase (EC 2.7.2.11)
+PGF_00008106	Erysipelothrix	249.43	1.13	Glutamate racemase (EC 5.1.1.3)
+PGF_00008261	Erysipelothrix	689.57	1.13	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+PGF_00008337	Erysipelothrix	481.00	0.00	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008537	Erysipelothrix	495.14	1.57	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Erysipelothrix	332.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Erysipelothrix	238.00	0.00	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008856	Erysipelothrix	342.71	1.50	Glycine/D-amino acid oxidases family
+PGF_00009500	Erysipelothrix	180.57	1.13	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009966	Erysipelothrix	457.29	0.76	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010034	Erysipelothrix	278.71	0.76	Glyoxalase family protein
+PGF_00010205	Erysipelothrix	232.86	0.38	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Erysipelothrix	731.71	0.76	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Erysipelothrix	190.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010468	Erysipelothrix	271.38	6.95	Hydrolase (HAD superfamily) in cluster with DUF1447
+PGF_00010692	Erysipelothrix	316.71	0.76	HPr kinase/phosphorylase
+PGF_00010904	Erysipelothrix	205.33	0.82	Haloacid dehalogenase-like hydrolase
+PGF_00011081	Erysipelothrix	708.71	12.71	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011471	Erysipelothrix	219.00	0.00	Hemolysin III
+PGF_00012930	Erysipelothrix	381.00	0.58	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+PGF_00013147	Erysipelothrix	137.67	3.27	Hypothetical protein DUF454
+PGF_00013244	Erysipelothrix	179.43	2.30	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013347	Erysipelothrix	86.00	0.00	UPF0297 protein YrzL
+PGF_00013492	Erysipelothrix	179.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00015039	Erysipelothrix	224.00	0.00	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Erysipelothrix	79.71	0.49	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Erysipelothrix	177.33	0.82	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015255	Erysipelothrix	246.00	0.00	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015259	Erysipelothrix	258.57	3.78	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Erysipelothrix	270.86	0.90	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Erysipelothrix	471.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Erysipelothrix	264.33	0.82	Iron-sulfur cluster assembly protein SufD
+PGF_00015737	Erysipelothrix	330.71	0.76	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00016132	Erysipelothrix	313.00	0.00	L-lactate dehydrogenase (EC 1.1.1.27)
+PGF_00016223	Erysipelothrix	292.00	0.00	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Erysipelothrix	223.86	2.27	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016328	Erysipelothrix	188.71	10.32	LSU ribosomal protein L10p (P0)
+PGF_00016342	Erysipelothrix	141.00	13.23	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Erysipelothrix	140.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Erysipelothrix	120.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Erysipelothrix	118.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Erysipelothrix	227.14	0.38	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Erysipelothrix	119.14	0.38	LSU ribosomal protein L20p
+PGF_00016368	Erysipelothrix	111.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Erysipelothrix	94.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Erysipelothrix	102.14	0.38	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Erysipelothrix	94.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Erysipelothrix	277.86	0.38	LSU ribosomal protein L2p (L8e)
+PGF_00016409	Erysipelothrix	48.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016418	Erysipelothrix	44.43	1.13	LSU ribosomal protein L34p
+PGF_00016423	Erysipelothrix	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Erysipelothrix	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Erysipelothrix	230.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Erysipelothrix	209.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016444	Erysipelothrix	181.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Erysipelothrix	123.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Erysipelothrix	148.14	0.38	LSU ribosomal protein L9p
+PGF_00016753	Erysipelothrix	95.00	0.00	Late competence protein ComGC, access of DNA to ComEA, FIG007487
+PGF_00016843	Erysipelothrix	184.62	2.20	LemA protein
+PGF_00017333	Erysipelothrix	507.00	0.58	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16)
+PGF_00017608	Erysipelothrix	161.29	1.50	Low temperature requirement C protein
+PGF_00018439	Erysipelothrix	338.00	0.00	MSM (multiple sugar metabolism) operon regulatory protein
+PGF_00018961	Erysipelothrix	347.00	0.00	Malate permease
+PGF_00019221	Erysipelothrix	1037.00	7.35	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Erysipelothrix	551.43	3.78	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00020361	Erysipelothrix	147.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020984	Erysipelothrix	283.86	0.38	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021449	Erysipelothrix	313.29	1.89	Microsomal dipeptidase precursor (EC 3.4.13.19)
+PGF_00021968	Erysipelothrix	217.00	0.00	Mn-dependent transcriptional regulator MntR
+PGF_00023360	Erysipelothrix	299.29	9.83	Multiple sugar ABC transporter, membrane-spanning permease protein MsmG
+PGF_00023369	Erysipelothrix	481.33	0.82	Multiple sugar ABC transporter, substrate-binding protein
+PGF_00023382	Erysipelothrix	396.00	0.00	Multiple sugar metabolism regulator
+PGF_00023591	Erysipelothrix	335.14	2.27	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023794	Erysipelothrix	384.14	0.38	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00023835	Erysipelothrix	300.62	2.67	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00023919	Erysipelothrix	290.00	0.00	N-acetylneuraminate lyase (EC 4.1.3.3)
+PGF_00023946	Erysipelothrix	145.50	1.22	N-acetyltransferase ElaA
+PGF_00024478	Erysipelothrix	334.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Erysipelothrix	182.86	0.38	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024540	Erysipelothrix	478.00	82.02	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024567	Erysipelothrix	439.25	106.64	Acetate kinase (EC 2.7.2.1)
+PGF_00025562	Erysipelothrix	171.71	0.76	Nicotinamidase (EC 3.5.1.19)
+PGF_00025605	Erysipelothrix	324.86	10.49	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) / Hydrolase (HAD superfamily), YqeK
+PGF_00026050	Erysipelothrix	198.00	0.00	Nitroreductase family protein
+PGF_00026356	Erysipelothrix	160.00	0.00	Nucleoside 2-deoxyribosyltransferase
+PGF_00026362	Erysipelothrix	192.86	2.27	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00027383	Erysipelothrix	406.00	0.00	Acetyltransferase
+PGF_00027597	Erysipelothrix	135.00	0.00	OsmC/Ohr family protein
+PGF_00028512	Erysipelothrix	464.43	1.13	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)
+PGF_00028517	Erysipelothrix	370.00	0.00	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3) @ Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)
+PGF_00029546	Erysipelothrix	158.00	0.00	PTS system, N-acetylgalactosamine-specific IIB component
+PGF_00029548	Erysipelothrix	244.86	38.85	PTS system, N-acetylgalactosamine-specific IIC component
+PGF_00029672	Erysipelothrix	94.00	0.00	PTS system, galactitol-specific IIB component (EC 2.7.1.200)
+PGF_00029677	Erysipelothrix	447.29	1.89	PTS system, galactitol-specific IIC component
+PGF_00029735	Erysipelothrix	162.00	0.00	PTS system, hyaluronate-oligosaccharide-specific IIB component
+PGF_00029737	Erysipelothrix	265.00	0.00	PTS system, hyaluronate-oligosaccharide-specific IIC component
+PGF_00029742	Erysipelothrix	271.00	0.00	PTS system, hyaluronate-oligosaccharide-specific IID component
+PGF_00030640	Erysipelothrix	359.14	0.38	Peptide chain release factor 1
+PGF_00031018	Erysipelothrix	341.57	1.62	2,4-diaminopentanoate dehydrogenase (EC 1.4.1.12)
+PGF_00033095	Erysipelothrix	790.86	0.38	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033197	Erysipelothrix	325.71	0.76	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Erysipelothrix	318.57	18.64	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Erysipelothrix	397.57	24.95	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033359	Erysipelothrix	320.14	0.38	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033379	Erysipelothrix	178.83	0.41	Phosphodiesterase YfcE
+PGF_00033423	Erysipelothrix	567.14	0.38	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Erysipelothrix	651.14	0.38	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033511	Erysipelothrix	399.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Erysipelothrix	249.29	0.76	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033704	Erysipelothrix	248.00	0.00	Phospholipase D/Transphosphatidylase (EC 3.1.4.4)
+PGF_00033807	Erysipelothrix	554.86	0.38	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033900	Erysipelothrix	250.43	4.16	Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_00033904	Erysipelothrix	391.71	9.60	Phosphopentomutase (EC 5.4.2.7)
+PGF_00034131	Erysipelothrix	656.86	0.38	Acylamino-acid-releasing enzyme (EC 3.4.19.1)
+PGF_00034776	Erysipelothrix	712.57	1.51	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Erysipelothrix	170.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035370	Erysipelothrix	271.00	0.00	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035721	Erysipelothrix	433.57	1.13	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Erysipelothrix	425.71	1.25	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036432	Erysipelothrix	219.00	0.00	Predicted transcriptional regulator of N-Acetylglucosamine utilization, GntR family
+PGF_00037244	Erysipelothrix	221.00	0.00	Peroxiredoxin, Bcp-type (EC 1.11.1.15)
+PGF_00037588	Erysipelothrix	561.00	0.00	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037650	Erysipelothrix	326.00	0.00	Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_00037937	Erysipelothrix	109.43	1.13	Protein PhnA
+PGF_00038619	Erysipelothrix	243.00	0.00	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038826	Erysipelothrix	254.33	0.82	Protein:protein lipoyl transferase (EC 2.3.1.200)
+PGF_00038987	Erysipelothrix	244.88	10.97	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039817	Erysipelothrix	442.75	2.71	Putative Xaa-His dipeptidase
+PGF_00040447	Erysipelothrix	205.00	0.00	Putative cyclase
+PGF_00040578	Erysipelothrix	260.00	2.65	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041482	Erysipelothrix	249.33	1.63	Putative hydrolase
+PGF_00041788	Erysipelothrix	146.14	0.38	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041946	Erysipelothrix	337.00	0.00	Putative membrane protein YeiH
+PGF_00042127	Erysipelothrix	485.83	10.21	Putative membrane-spanning protein
+PGF_00043760	Erysipelothrix	222.00	1.10	Putative regulatory protein, P-II family / Putative regulatory protein, P-II family
+PGF_00045730	Erysipelothrix	703.83	0.41	Alpha-1,2-mannosidase
+PGF_00045816	Erysipelothrix	474.00	0.00	Pyridoxal-dependent decarboxylase
+PGF_00045999	Erysipelothrix	864.00	0.00	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+PGF_00046607	Erysipelothrix	291.14	0.38	RNA pseudouridylate synthase BT0642
+PGF_00047078	Erysipelothrix	341.43	1.13	RecA protein
+PGF_00047095	Erysipelothrix	710.86	0.38	RecD-like DNA helicase YrrC
+PGF_00047955	Erysipelothrix	145.17	0.41	Response regulator of the LytR/AlgR family
+PGF_00048556	Erysipelothrix	203.86	0.38	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048557	Erysipelothrix	294.14	1.57	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048564	Erysipelothrix	617.86	14.89	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PGF_00048566	Erysipelothrix	185.29	0.76	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048627	Erysipelothrix	782.57	1.13	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048641	Erysipelothrix	357.14	1.86	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048651	Erysipelothrix	151.00	0.00	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Erysipelothrix	319.43	1.62	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048817	Erysipelothrix	268.50	3.67	Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)
+PGF_00048836	Erysipelothrix	262.00	0.00	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048868	Erysipelothrix	228.83	0.41	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Erysipelothrix	179.71	0.76	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Erysipelothrix	181.14	0.38	Ribosome recycling factor
+PGF_00048928	Erysipelothrix	284.00	0.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Erysipelothrix	89.14	1.46	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Erysipelothrix	112.00	1.91	Ribosome-binding factor A
+PGF_00049330	Erysipelothrix	367.00	8.09	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Erysipelothrix	344.00	2.65	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049461	Erysipelothrix	284.71	0.76	SAM-dependent methyltransferase
+PGF_00049828	Erysipelothrix	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Erysipelothrix	129.29	0.76	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Erysipelothrix	138.71	0.76	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Erysipelothrix	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Erysipelothrix	89.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Erysipelothrix	88.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Erysipelothrix	90.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Erysipelothrix	86.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Erysipelothrix	77.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Erysipelothrix	91.14	0.38	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Erysipelothrix	258.29	0.76	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Erysipelothrix	168.14	0.38	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Erysipelothrix	96.29	0.76	SSU ribosomal protein S6p
+PGF_00049904	Erysipelothrix	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049909	Erysipelothrix	134.86	0.38	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Erysipelothrix	241.00	0.00	Segregation and condensation protein A
+PGF_00051107	Erysipelothrix	579.14	0.38	Septation ring formation regulator EzrA
+PGF_00051525	Erysipelothrix	427.71	0.76	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052218	Erysipelothrix	105.00	0.00	Signal recognition particle associated protein
+PGF_00052238	Erysipelothrix	431.14	0.38	Signal recognition particle protein Ffh
+PGF_00052705	Erysipelothrix	140.14	0.38	LSU ribosomal protein L11p (L12e)
+PGF_00052729	Erysipelothrix	218.29	0.76	Similar to tRNA pseudouridine synthase C, group TruC1
+PGF_00052943	Erysipelothrix	304.00	0.00	Site-specific tyrosine recombinase XerD
+PGF_00053966	Erysipelothrix	409.00	0.53	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00054370	Erysipelothrix	167.83	0.41	Substrate-specific component FolT of folate ECF transporter
+PGF_00054381	Erysipelothrix	169.17	0.41	Substrate-specific component NiaX of predicted niacin ECF transporter
+PGF_00054388	Erysipelothrix	188.71	40.88	Substrate-specific component PanT of predicted pantothenate ECF transporter
+PGF_00054403	Erysipelothrix	156.57	4.16	Substrate-specific component QueT (COG4708) of predicted queuosine-regulated ECF transporter
+PGF_00055966	Erysipelothrix	387.43	1.51	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056490	Erysipelothrix	245.33	14.72	Thiamin ABC transporter ThiX, transmembrane component
+PGF_00056491	Erysipelothrix	321.00	0.00	Thiamin ABC transporter ThiY, substrate-binding component
+PGF_00056493	Erysipelothrix	246.67	14.67	Thiamin ABC transporter ThiZ, ATPase component
+PGF_00056634	Erysipelothrix	162.00	0.58	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056872	Erysipelothrix	204.43	1.13	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Erysipelothrix	206.86	0.38	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Erysipelothrix	286.71	6.05	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056900	Erysipelothrix	340.00	0.00	2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)
+PGF_00057270	Erysipelothrix	821.86	0.38	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057425	Erysipelothrix	275.71	0.76	Transcription antiterminator, BglG family
+PGF_00057485	Erysipelothrix	539.43	12.95	Transcription termination protein NusA
+PGF_00057488	Erysipelothrix	151.43	46.11	Transcription termination protein NusB
+PGF_00058649	Erysipelothrix	340.00	0.00	Transcriptional regulator RegR, rpressor of hyaluronate and KDG utilization
+PGF_00058776	Erysipelothrix	147.00	0.00	Transcriptional regulator of fatty acid biosynthesis FabT
+PGF_00059099	Erysipelothrix	63.00	0.00	Transcriptional regulator, Xre family
+PGF_00060174	Erysipelothrix	218.00	0.00	Transcriptional response regulator CssR
+PGF_00060261	Erysipelothrix	167.57	1.13	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060281	Erysipelothrix	246.50	6.12	Transcriptional repressor of the fructose operon, DeoR family
+PGF_00060398	Erysipelothrix	659.00	0.00	Transketolase (EC 2.2.1.1)
+PGF_00060409	Erysipelothrix	688.29	0.76	Translation elongation factor G
+PGF_00060427	Erysipelothrix	294.14	0.38	Translation elongation factor Ts
+PGF_00060428	Erysipelothrix	394.00	0.00	Translation elongation factor Tu
+PGF_00060431	Erysipelothrix	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Erysipelothrix	172.43	9.41	Translation initiation factor 3
+PGF_00061913	Erysipelothrix	262.33	2.58	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase (EC 1.1.1.127) @ 2-deoxy-D-gluconate 3-dehydrogenase (EC 1.1.1.125)
+PGF_00061922	Erysipelothrix	408.43	1.13	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062045	Erysipelothrix	331.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062513	Erysipelothrix	497.00	0.00	Two-component response regulator TrxR
+PGF_00062721	Erysipelothrix	562.83	6.94	Two-component sensor kinase YesM (EC 2.7.3.-)
+PGF_00063916	Erysipelothrix	415.86	0.38	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063969	Erysipelothrix	374.57	1.51	UDP-N-acetyl-L-fucosamine synthase (EC 5.1.3.28)
+PGF_00063993	Erysipelothrix	362.14	2.27	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063998	Erysipelothrix	440.67	0.82	UDP-N-acetylmuramate--L-serine ligase
+PGF_00064014	Erysipelothrix	487.17	2.04	UDP-N-acetylmuramoylalanyl-D-glutamate--L-alanine ligase
+PGF_00064159	Erysipelothrix	98.00	0.00	UPF0045 protein CPE1503
+PGF_00064270	Erysipelothrix	239.17	0.41	UPF0246 protein YaaA
+PGF_00065678	Erysipelothrix	677.29	1.89	Uncharacterized protein YqgF
+PGF_00065887	Erysipelothrix	221.86	5.49	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066088	Erysipelothrix	395.50	6.12	Unsaturated chondroitin disaccharide hydrolase (EC 3.2.1.180)
+PGF_00066123	Erysipelothrix	206.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066248	Erysipelothrix	209.00	0.00	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066372	Erysipelothrix	576.75	5.52	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066375	Erysipelothrix	476.75	8.50	V-type ATP synthase subunit B (EC 3.6.3.14)
+PGF_00066388	Erysipelothrix	187.00	18.03	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066425	Erysipelothrix	144.14	0.38	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_00066453	Erysipelothrix	860.00	3.61	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066465	Erysipelothrix	385.83	0.41	VanZ like protein:RDD
+PGF_00066502	Erysipelothrix	460.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066867	Erysipelothrix	406.29	0.76	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066935	Erysipelothrix	438.00	0.00	Uracil permease @ Uracil:proton symporter UraA
+PGF_00067160	Erysipelothrix	334.00	0.00	Aspartate--ammonia ligase (EC 6.3.1.1)
+PGF_00067460	Erysipelothrix	320.00	0.00	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_00067554	Erysipelothrix	471.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067742	Erysipelothrix	339.86	2.27	[Citrate [pro-3S]-lyase] ligase (EC 6.2.1.22)
+PGF_00069828	Erysipelothrix	180.17	0.41	chromate reductase
+PGF_00070432	Erysipelothrix	393.29	6.05	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00075770	Erysipelothrix	452.00	0.00	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00084324	Erysipelothrix	280.75	2.82	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00102704	Erysipelothrix	324.00	2.45	hypothetical protein
+PGF_00115765	Erysipelothrix	227.50	8.57	Uncharacterized transcriptional response regulator YrkP
+PGF_00135989	Erysipelothrix	345.00	0.00	hypothetical protein
+PGF_00195855	Erysipelothrix	177.00	0.00	Transcriptional regulator, MerR family, near polyamine transporter
+PGF_00242238	Erysipelothrix	380.83	0.98	YibE/F family protein
+PGF_00261173	Erysipelothrix	372.71	1.89	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00280549	Erysipelothrix	311.29	0.49	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00292649	Erysipelothrix	263.00	0.00	hypothetical protein
+PGF_00313870	Erysipelothrix	224.83	0.41	hypothetical protein
+PGF_00340191	Erysipelothrix	334.00	0.00	hypothetical protein
+PGF_00352016	Erysipelothrix	59.00	0.00	hypothetical protein
+PGF_00403733	Erysipelothrix	213.00	0.00	predicted 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase (EC 5.3.1.17)
+PGF_00404184	Erysipelothrix	217.29	0.76	probable enzyme with TIM-barrel fold
+PGF_00404192	Erysipelothrix	107.33	0.82	Biotin carboxyl carrier protein of oxaloacetate decarboxylase; Biotin carboxyl carrier protein
+PGF_00404333	Erysipelothrix	327.50	1.22	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404866	Erysipelothrix	107.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00405770	Erysipelothrix	255.00	0.00	putative Cof-like hydrolase
+PGF_00407138	Erysipelothrix	360.00	4.90	putative glucosamine-fructose-6-phosphate aminotransferase
+PGF_00408146	Erysipelothrix	495.00	2.45	putative lipoprotein
+PGF_00409580	Erysipelothrix	244.00	0.00	putative membrane protein
+PGF_00410883	Erysipelothrix	153.62	6.39	Single-stranded DNA-binding protein
+PGF_00413203	Erysipelothrix	166.00	10.58	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Erysipelothrix	240.14	0.38	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Erysipelothrix	245.00	0.58	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413300	Erysipelothrix	616.14	0.38	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Erysipelothrix	266.86	6.20	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Erysipelothrix	302.57	9.02	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Erysipelothrix	142.86	9.70	tmRNA-binding protein SmpB
+PGF_00413927	Erysipelothrix	185.00	0.00	transporter accessory protein, putative
+PGF_00414866	Erysipelothrix	149.67	0.82	CBS domain protein
+PGF_00414872	Erysipelothrix	238.00	0.00	CBS domain protein
+PGF_00414926	Erysipelothrix	441.00	0.00	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415486	Erysipelothrix	151.29	0.76	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415631	Erysipelothrix	84.29	0.76	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416129	Erysipelothrix	539.71	0.76	CTP synthase (EC 6.3.4.2)
+PGF_00416152	Erysipelothrix	112.00	2.45	Cadmium efflux system accessory protein
+PGF_00416315	Erysipelothrix	358.43	28.41	Capsular polysaccharide synthesis enzyme Cap5F
+PGF_00416325	Erysipelothrix	401.00	0.00	Capsular polysaccharide synthesis enzyme Cap5L
+PGF_00416408	Erysipelothrix	311.00	0.00	Carbamate kinase (EC 2.7.2.2)
+PGF_00416436	Erysipelothrix	312.14	0.38	3'->5' exoribonuclease Bsu YhaM
+PGF_00416525	Erysipelothrix	180.33	0.52	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416683	Erysipelothrix	330.86	0.38	Catabolite control protein A
+PGF_00417153	Erysipelothrix	686.67	28.44	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F2
+PGF_00417429	Erysipelothrix	343.38	75.71	Chaperone protein DnaJ
+PGF_00417769	Erysipelothrix	598.50	1.22	Choline-binding protein
+PGF_00418097	Erysipelothrix	514.86	0.38	Citrate lyase alpha chain (EC 4.1.3.6)
+PGF_00418099	Erysipelothrix	297.86	2.27	Citrate lyase beta chain (EC 4.1.3.6)
+PGF_00418101	Erysipelothrix	99.14	3.02	Citrate lyase gamma chain, acyl carrier protein
+PGF_00418126	Erysipelothrix	432.00	0.00	Citrate-sodium symporter (TC 2.A.24.1.1)
+PGF_00418515	Erysipelothrix	265.50	9.90	Cof-like hydrolase
+PGF_00418737	Erysipelothrix	372.57	4.89	ComF operon protein A, DNA transporter ATPase
+PGF_00420075	Erysipelothrix	309.29	0.76	Cysteine synthase (EC 2.5.1.47)
+PGF_00420087	Erysipelothrix	173.00	11.03	Cysteinyl-tRNA synthetase related protein
+PGF_00420121	Erysipelothrix	219.86	0.38	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420612	Erysipelothrix	244.29	0.49	Cytoplasmic copper homeostasis protein CutC
+PGF_00420732	Erysipelothrix	476.00	0.93	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420798	Erysipelothrix	338.29	0.76	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421071	Erysipelothrix	151.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Erysipelothrix	581.00	18.23	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Erysipelothrix	1020.00	2.65	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Erysipelothrix	372.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421733	Erysipelothrix	361.57	1.51	DNA recombination and repair protein RecF
+PGF_00421796	Erysipelothrix	550.14	2.27	DNA repair protein RecN
+PGF_00422271	Erysipelothrix	319.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422645	Erysipelothrix	342.86	0.38	Deblocking aminopeptidase (EC 3.4.11.-)
+PGF_00422912	Erysipelothrix	216.57	7.35	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00423146	Erysipelothrix	334.43	1.62	Diglucosyl diacylglycerol synthase (1,2-linking) (EC 2.4.1.208)
+PGF_00423429	Erysipelothrix	541.00	1.15	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423533	Erysipelothrix	281.29	2.36	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423613	Erysipelothrix	315.57	1.13	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+PGF_00424337	Erysipelothrix	277.29	0.76	Endonuclease IV (EC 3.1.21.2)
+PGF_00424971	Erysipelothrix	589.00	2.65	Excinuclease ABC subunit C
+PGF_00425011	Erysipelothrix	251.00	0.00	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Erysipelothrix	491.57	11.72	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425092	Erysipelothrix	378.29	1.89	Exonuclease SbcD
+PGF_00425671	Erysipelothrix	286.00	0.00	RNase adapter protein RapZ
+PGF_00425679	Erysipelothrix	206.14	3.18	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425727	Erysipelothrix	317.14	8.38	FIG001614: Membrane protein
+PGF_00425734	Erysipelothrix	119.14	0.38	FIG001802: Putative alkaline-shock protein
+PGF_00425747	Erysipelothrix	132.71	3.40	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Erysipelothrix	518.00	0.00	Ribonuclease Y
+PGF_00425787	Erysipelothrix	220.43	4.96	FIG002379: metal-dependent hydrolase
+PGF_00425806	Erysipelothrix	318.71	0.76	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425997	Erysipelothrix	352.86	19.76	FIG004453: protein YceG like
+PGF_00426877	Erysipelothrix	277.14	0.38	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00427033	Erysipelothrix	73.86	0.38	UPF0154 protein YneF
+PGF_00427299	Erysipelothrix	473.71	0.76	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00473519	Erysipelothrix	203.14	0.38	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Erysipelothrix	440.14	0.38	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00497557	Erysipelothrix	504.33	11.43	Uncharacterized protein YjgR
+PGF_00508272	Erysipelothrix	573.33	0.82	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00529632	Erysipelothrix	851.00	0.00	ClpB protein
+PGF_00549302	Erysipelothrix	489.50	37.38	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00598888	Erysipelothrix	124.14	0.38	Mini-ribonuclease III
+PGF_00599432	Erysipelothrix	235.00	37.04	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)
+PGF_00616490	Erysipelothrix	188.00	5.29	Signal peptidase I (EC 3.4.21.89)
+PGF_00634936	Erysipelothrix	295.17	0.41	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00641311	Erysipelothrix	304.57	9.25	ABC transporter, permease protein (cluster 15, trp?)
+PGF_00644690	Erysipelothrix	113.00	9.80	NUDIX hydrolase
+PGF_00655066	Erysipelothrix	504.00	0.00	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+PGF_00659194	Erysipelothrix	208.57	1.51	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Erysipelothrix	111.29	1.89	Ribosomal silencing factor RsfA
+PGF_00706361	Erysipelothrix	241.71	0.76	Zn-dependent hydrolase (beta-lactamase superfamily)
+PGF_00715428	Erysipelothrix	296.00	0.00	Transcriptional regulator, LysR family
+PGF_00722149	Erysipelothrix	288.71	14.43	N-acetyl-D-glucosamine ABC transporter, permease protein 1
+PGF_00755310	Erysipelothrix	397.83	0.41	Uncharacterized MFS-type transporter
+PGF_00777371	Erysipelothrix	229.29	1.25	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Erysipelothrix	226.29	2.98	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00814424	Erysipelothrix	248.50	15.92	ABC transporter-like sensor ATP-binding protein
+PGF_00827555	Erysipelothrix	604.43	7.70	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00831168	Erysipelothrix	200.00	0.00	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00836206	Erysipelothrix	231.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_00856141	Erysipelothrix	403.14	0.38	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00885992	Erysipelothrix	183.00	0.00	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_00895117	Erysipelothrix	411.00	0.00	Cell division protein FtsA
+PGF_00910148	Erysipelothrix	160.17	0.41	Integral membrane protein
+PGF_00919441	Erysipelothrix	268.00	0.00	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_00935308	Erysipelothrix	214.67	49.81	FIG011178: rRNA methylase
+PGF_00940702	Erysipelothrix	356.00	0.00	Endonuclease/exonuclease/phosphatase family protein
+PGF_00950554	Erysipelothrix	662.14	2.27	Excinuclease ABC subunit B
+PGF_00950792	Erysipelothrix	499.00	0.00	PTS system, N-acetylmannosamine-specific IIC component / PTS system, N-acetylmannosamine-specific IIB component
+PGF_00955412	Erysipelothrix	260.00	0.00	Probable iron export permease protein FetB
+PGF_00955461	Erysipelothrix	583.50	97.61	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00957419	Erysipelothrix	143.71	0.76	Putative pre-16S rRNA nuclease Yqg
+PGF_00960626	Erysipelothrix	300.00	0.00	Transcriptional regulator
+PGF_00981596	Erysipelothrix	452.17	0.41	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_00991335	Erysipelothrix	148.83	0.41	Integral membrane protein
+PGF_00992543	Erysipelothrix	310.00	12.25	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF
+PGF_01000453	Erysipelothrix	283.00	0.00	Transcriptional regulator, LysR family
+PGF_01004117	Erysipelothrix	920.12	276.03	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_01004899	Erysipelothrix	413.50	40.42	Transcriptional regulator, AraC family
+PGF_01008498	Erysipelothrix	108.57	1.51	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01077554	Erysipelothrix	207.29	0.76	Redox-sensing transcriptional repressor Rex
+PGF_01079016	Erysipelothrix	284.12	13.39	Chromosome (plasmid) partitioning protein ParB
+PGF_01082056	Erysipelothrix	130.50	1.22	Glyoxalase family protein
+PGF_01124268	Erysipelothrix	192.86	0.38	RecU Holliday junction resolvase
+PGF_01126005	Erysipelothrix	402.43	1.51	Rod shape-determining protein RodA
+PGF_01148540	Erysipelothrix	312.67	1.63	Choline permease LicB
+PGF_01151115	Erysipelothrix	116.00	0.00	Antiholin-like protein LrgA
+PGF_01174739	Erysipelothrix	232.57	9.52	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Erysipelothrix	583.43	1.13	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01189572	Erysipelothrix	270.43	1.13	Triphosphoribosyl-dephospho-CoA synthase (EC 2.4.2.52)
+PGF_01212500	Erysipelothrix	386.71	1.89	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Erysipelothrix	537.14	0.38	Heat shock protein 60 family chaperone GroEL
+PGF_01286550	Erysipelothrix	391.14	0.38	Galactosamine-6-phosphate isomerase AgaS
+PGF_01287550	Erysipelothrix	206.00	0.58	hypothetical protein
+PGF_01296193	Erysipelothrix	264.29	1.89	Chromosome (plasmid) partitioning protein ParA
+PGF_01309240	Erysipelothrix	156.86	0.38	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01323228	Erysipelothrix	200.00	0.00	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01347658	Erysipelothrix	137.00	0.00	PTS system, mannose-specific IIA component (EC 2.7.1.191)
+PGF_01350455	Erysipelothrix	412.88	138.16	Putative UV-damage repair protein UvrX
+PGF_01351158	Erysipelothrix	1137.29	1.89	Transcription-repair coupling factor
+PGF_01364427	Erysipelothrix	194.29	1.89	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01383267	Erysipelothrix	68.00	0.00	hypothetical protein
+PGF_01389077	Erysipelothrix	68.29	5.96	Uncharacterized protein YbcJ
+PGF_01407825	Erysipelothrix	444.29	22.99	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_01420802	Erysipelothrix	142.00	0.00	Cell division protein MraZ
+PGF_01423501	Erysipelothrix	156.00	0.00	Transcription elongation factor GreA
+PGF_01429938	Erysipelothrix	118.00	0.00	4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
+PGF_01444546	Erysipelothrix	98.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448568	Erysipelothrix	64.71	0.76	Uncharacterized protein YwbE
+PGF_01529260	Erysipelothrix	175.43	10.60	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01579902	Erysipelothrix	424.00	2.65	hypothetical protein
+PGF_01588364	Erysipelothrix	265.00	0.00	Transcriptional regulator, TrmB family
+PGF_01599021	Erysipelothrix	190.00	0.00	Peptide deformylase (EC 3.5.1.88)
+PGF_01604929	Erysipelothrix	220.14	0.38	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01667592	Erysipelothrix	145.83	19.19	hypothetical protein
+PGF_01667880	Erysipelothrix	88.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668974	Erysipelothrix	577.86	6.34	DNA internalization-related competence protein ComEC/Rec2
+PGF_01682619	Erysipelothrix	282.00	0.00	Aminoglycoside 6-nucleotidyltransferase, putative
+PGF_01694657	Erysipelothrix	138.57	1.13	hypothetical protein
+PGF_01719343	Erysipelothrix	281.17	0.41	aldose epimerase family protein
+PGF_01719396	Erysipelothrix	197.14	0.90	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Erysipelothrix	216.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737958	Erysipelothrix	225.00	0.00	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01767155	Erysipelothrix	162.17	0.41	Citrate lyase holo-[acyl-carrier-protein] synthase (EC 2.7.7.61)
+PGF_01767297	Erysipelothrix	366.57	6.80	Uncharacterized UPF0118 membrane protein
+PGF_01783934	Erysipelothrix	60.43	3.78	Uncharacterized transcriptional regulator YozG, Cro/CI family
+PGF_01867628	Erysipelothrix	342.86	0.38	Heat-inducible transcription repressor HrcA
+PGF_01898497	Erysipelothrix	215.89	77.46	Endonuclease III (EC 4.2.99.18)
+PGF_01898546	Erysipelothrix	446.14	0.38	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01899937	Erysipelothrix	271.33	18.78	Rod shape-determining protein MreC
+PGF_01922493	Erysipelothrix	507.57	1.13	Cardiolipin synthetase (EC 2.7.8.-)
+PGF_01932237	Erysipelothrix	565.00	0.00	CoA-disulfide reductase (EC 1.8.1.14) / Polysulfide binding and transferase domain
+PGF_01933275	Erysipelothrix	211.67	9.81	HD domain protein
+PGF_01949788	Erysipelothrix	187.62	0.92	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Erysipelothrix	600.43	6.80	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01996161	Erysipelothrix	300.67	14.54	Flp pilus assembly protein TadB
+PGF_02007176	Erysipelothrix	261.00	0.00	L-Aspartate dehydrogenase (EC 1.4.1.21) homolog
+PGF_02009366	Erysipelothrix	315.00	0.00	Choloylglycine hydrolase
+PGF_02010018	Erysipelothrix	119.57	10.39	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02015800	Erysipelothrix	792.00	4.90	Cell division protein FtsH
+PGF_02019462	Erysipelothrix	343.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029276	Erysipelothrix	334.33	18.78	Transcriptional repressor of the arabinose operon
+PGF_02029783	Erysipelothrix	427.00	0.00	GTP-binding protein Obg
+PGF_02049259	Erysipelothrix	263.80	33.56	Efflux ABC transporter, ATP-binding protein
+PGF_02061452	Erysipelothrix	382.43	1.51	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02146256	Erysipelothrix	273.00	0.00	Sialic acid utilization regulator, RpiR family
+PGF_02154390	Erysipelothrix	332.29	6.37	Phosphomevalonate kinase (EC 2.7.4.2)
+PGF_02154745	Erysipelothrix	1433.43	1.13	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02163575	Erysipelothrix	453.56	10.05	6-phospho-beta-glucosidase (EC 3.2.1.86)
+PGF_02185217	Erysipelothrix	426.00	0.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02226715	Erysipelothrix	652.29	0.76	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227966	Erysipelothrix	295.67	3.27	Kinase similar to eukaryotic-like N-acetylglucosamine kinase
+PGF_02297251	Erysipelothrix	224.00	0.00	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02318517	Erysipelothrix	390.50	1.85	Glycosyltransferase
+PGF_02346669	Erysipelothrix	330.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02347343	Erysipelothrix	327.67	15.51	Sensor histidine kinase
+PGF_02357764	Erysipelothrix	162.14	3.93	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02358818	Erysipelothrix	375.43	11.72	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_02369559	Erysipelothrix	827.43	9.47	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Erysipelothrix	317.86	4.49	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02450432	Erysipelothrix	255.29	0.76	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02452912	Erysipelothrix	439.00	0.00	Aminopeptidase C (EC 3.4.22.40)
+PGF_02454577	Erysipelothrix	87.00	0.00	SSU ribosomal protein S20p
+PGF_02462544	Erysipelothrix	406.00	0.00	Arginine deiminase (EC 3.5.3.6)
+PGF_02463284	Erysipelothrix	184.43	31.06	Recombination protein RecR
+PGF_02464493	Erysipelothrix	369.29	0.76	endo-1,4-beta-glucanase
+PGF_02504770	Erysipelothrix	221.67	4.27	ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)
+PGF_02516909	Erysipelothrix	431.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02557763	Erysipelothrix	173.14	0.38	Intracellular protease
+PGF_02593689	Erysipelothrix	424.14	0.38	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601796	Erysipelothrix	324.00	0.00	Ornithine cyclodeaminase (EC 4.3.1.12)
+PGF_02611620	Erysipelothrix	455.71	0.76	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619970	Erysipelothrix	106.00	0.00	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02621603	Erysipelothrix	307.86	3.02	Non-specific ribonucleoside hydrolase RihC
+PGF_02623406	Erysipelothrix	312.57	1.51	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02686778	Erysipelothrix	511.00	0.00	Peptidase M23B
+PGF_02728524	Erysipelothrix	835.00	0.00	DNA mismatch repair protein MutS
+PGF_02737642	Erysipelothrix	269.57	9.07	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02745613	Erysipelothrix	307.29	2.63	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746016	Erysipelothrix	211.57	1.13	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02776287	Erysipelothrix	274.83	0.41	transcriptional regulator of the bltD operon
+PGF_02787188	Erysipelothrix	88.71	0.76	ACT domain protein
+PGF_02789532	Erysipelothrix	282.57	1.13	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Erysipelothrix	186.86	0.38	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Erysipelothrix	444.57	1.13	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Erysipelothrix	1374.00	5.29	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02818638	Erysipelothrix	442.71	1.89	Hemolysins and related proteins containing CBS domains
+PGF_02831085	Erysipelothrix	180.33	0.82	Maltose O-acetyltransferase (EC 2.3.1.79)
+PGF_02891004	Erysipelothrix	419.00	0.00	Glycerol-3-phosphate ABC transporter, substrate-binding protein UgpB
+PGF_02897045	Erysipelothrix	552.14	0.38	Ribonuclease J2 (endoribonuclease in RNA processing)
+PGF_02899131	Erysipelothrix	66.86	0.38	LSU ribosomal protein L29p (L35e)
+PGF_02899915	Erysipelothrix	256.00	0.00	Hydrolase, HAD superfamily
+PGF_02921083	Erysipelothrix	402.86	0.69	Osmosensitive K+ channel histidine kinase KdpD
+PGF_02923127	Erysipelothrix	236.86	0.38	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02941107	Erysipelothrix	328.86	2.27	Glyoxalase family protein
+PGF_02942351	Erysipelothrix	210.71	8.69	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02952081	Erysipelothrix	207.00	0.00	Sortase A, LPXTG specific
+PGF_02972882	Erysipelothrix	999.12	19.16	ABC transporter, coiled-coil domain and fused permease subunit
+PGF_02977685	Erysipelothrix	411.00	2.65	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_02985217	Erysipelothrix	144.86	0.38	Regulatory protein spx
+PGF_02992495	Erysipelothrix	75.29	0.76	Protein translocase membrane subunit SecG
+PGF_03017775	Erysipelothrix	494.00	0.00	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Erysipelothrix	187.00	0.00	Septum formation protein Maf
+PGF_03025044	Erysipelothrix	173.29	1.50	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03026450	Erysipelothrix	974.57	1.51	Chromosome partition protein smc
+PGF_03046487	Erysipelothrix	305.86	0.38	PTS system, N-acetylgalactosamine-specific IID component
+PGF_03046602	Erysipelothrix	432.71	0.76	Tagatose-6-phosphate kinase AgaZ (EC 2.7.1.144)
+PGF_03051564	Erysipelothrix	233.86	0.38	Efflux ABC transporter, ATP-binding protein
+PGF_03060629	Erysipelothrix	227.00	0.00	probable metal-dependent peptidase
+PGF_03063333	Erysipelothrix	595.00	2.97	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_03066827	Erysipelothrix	331.00	0.00	Putative glucosamine-fructose-6-phosphate aminotransferase
+PGF_03069524	Erysipelothrix	69.00	0.00	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03075401	Erysipelothrix	136.43	33.26	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03085799	Erysipelothrix	417.67	0.82	FIG009210: peptidase, M16 family
+PGF_03111988	Erysipelothrix	104.00	0.00	Cell division initiation protein DivIVA
+PGF_03124650	Erysipelothrix	450.29	0.76	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03128546	Erysipelothrix	213.29	0.76	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
+PGF_03131015	Erysipelothrix	354.43	1.13	Membrane-associated zinc metalloprotease
+PGF_03132336	Erysipelothrix	409.71	0.76	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03172904	Erysipelothrix	485.86	0.38	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Erysipelothrix	178.14	0.38	Transcription antitermination protein NusG
+PGF_03181595	Erysipelothrix	392.00	0.00	Putative ROK-family transcriptional regulator
+PGF_03236829	Erysipelothrix	206.00	0.00	hypothetical protein
+PGF_03244749	Erysipelothrix	508.00	2.45	Bis-ABC ATPase SPy1206
+PGF_03267145	Erysipelothrix	446.33	3.27	ATP-binding region, ATPase-like
+PGF_03268078	Erysipelothrix	618.14	0.38	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03272313	Erysipelothrix	837.43	5.22	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Erysipelothrix	63.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03318742	Erysipelothrix	478.43	1.13	PTS system, N-acetylglucosamine-specific IIC component / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.193)
+PGF_03429638	Erysipelothrix	289.86	0.38	33 kDa chaperonin HslO
+PGF_03439690	Erysipelothrix	132.00	0.63	Ferric uptake regulation protein FUR
+PGF_03439822	Erysipelothrix	182.00	0.00	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36)
+PGF_03444572	Erysipelothrix	463.67	21.91	Acetyltransferase
+PGF_03465913	Erysipelothrix	584.33	5.35	Sensory box histidine kinase
+PGF_03470321	Erysipelothrix	147.33	33.57	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03473104	Erysipelothrix	326.67	0.82	tRNA-dihydrouridine synthase 2
+PGF_03473453	Erysipelothrix	320.33	0.82	Metal chaperone, involved in Zn homeostasis
+PGF_03499898	Erysipelothrix	294.00	0.00	hypothetical protein
+PGF_03504453	Erysipelothrix	181.33	4.08	Substrate-specific component ThiT of thiamin ECF transporter
+PGF_03507820	Erysipelothrix	313.29	0.76	Uncharacterized radical SAM protein YtqA
+PGF_03514578	Erysipelothrix	283.25	2.43	Beta-glucoside bgl operon antiterminator, BglG family
+PGF_03520151	Erysipelothrix	357.86	0.90	Cell division protein FtsZ
+PGF_03609651	Erysipelothrix	642.71	0.95	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03673212	Erysipelothrix	232.00	0.00	gamma-glutamyl ligase (similar to F420:0 gamma-glutamyl ligase)
+PGF_03675407	Erysipelothrix	723.00	5.29	Efflux ABC transporter, permease/ATP-binding protein BLi02168
+PGF_03699416	Erysipelothrix	202.86	2.27	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Erysipelothrix	300.57	1.13	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03723827	Erysipelothrix	138.86	0.38	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03728791	Erysipelothrix	257.58	104.08	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)
+PGF_03750541	Erysipelothrix	349.38	3.50	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750571	Erysipelothrix	463.57	9.55	Chromosomal replication initiator protein DnaA
+PGF_03751823	Erysipelothrix	188.29	5.96	Heat shock protein GrpE
+PGF_03752544	Erysipelothrix	210.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Erysipelothrix	295.71	0.76	Site-specific tyrosine recombinase XerC
+PGF_03769941	Erysipelothrix	234.00	0.00	Transcriptional regulator
+PGF_03778780	Erysipelothrix	318.71	0.76	Signal recognition particle receptor FtsY
+PGF_03787199	Erysipelothrix	197.00	0.00	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Erysipelothrix	226.00	0.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03797303	Erysipelothrix	560.62	7.23	Adenine deaminase (EC 3.5.4.2)
+PGF_03801201	Erysipelothrix	257.86	2.27	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Erysipelothrix	67.14	0.38	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03856084	Erysipelothrix	631.86	2.27	Cell division protein FtsH
+PGF_03912513	Erysipelothrix	146.00	0.00	DNA protection during starvation protein
+PGF_03919938	Erysipelothrix	367.00	0.00	Maltodextrin ABC transporter, ATP-binding protein MsmX
+PGF_04010672	Erysipelothrix	367.14	2.27	ABC transporter, permease protein 1 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04025415	Erysipelothrix	132.29	7.18	Large-conductance mechanosensitive channel
+PGF_04034430	Erysipelothrix	63.86	7.56	SSU ribosomal protein S21p
+PGF_04041316	Erysipelothrix	941.00	0.00	Excinuclease ABC subunit A
+PGF_04042054	Erysipelothrix	295.57	1.13	Efflux ABC transporter, ATP-binding protein
+PGF_04055081	Erysipelothrix	216.00	0.00	Protein of unknown function DUF1275
+PGF_04055837	Erysipelothrix	317.75	1.49	ABC transporter, permease protein 2 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04073889	Erysipelothrix	704.33	10.05	hypothetical protein
+PGF_04074999	Erysipelothrix	200.00	0.00	hypothetical protein
+PGF_04088509	Erysipelothrix	174.00	0.00	hypothetical protein
+PGF_04097103	Erysipelothrix	269.00	0.00	Flp pilus assembly protein RcpC/CpaB
+PGF_04100697	Erysipelothrix	95.00	0.00	hypothetical protein
+PGF_04101511	Erysipelothrix	399.00	0.00	Putative membrane peptidase, contains TPR repeat domain
+PGF_04102876	Erysipelothrix	356.17	0.41	hypothetical protein
+PGF_04132127	Erysipelothrix	359.43	35.91	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04139793	Erysipelothrix	105.33	1.63	hypothetical protein
+PGF_04143037	Erysipelothrix	179.00	0.00	hypothetical protein
+PGF_04150742	Erysipelothrix	266.43	3.78	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Erysipelothrix	165.00	0.00	16S rRNA processing protein RimM
+PGF_04155782	Erysipelothrix	262.00	0.00	hypothetical protein
+PGF_04175375	Erysipelothrix	124.14	0.38	hypothetical protein
+PGF_04178160	Erysipelothrix	87.00	0.00	hypothetical protein
+PGF_04182459	Erysipelothrix	229.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04187273	Erysipelothrix	126.00	0.00	hypothetical protein
+PGF_04187433	Erysipelothrix	432.00	0.00	hypothetical protein
+PGF_04193103	Erysipelothrix	211.00	0.00	Probable iron export ATP-binding protein FetA
+PGF_04195309	Erysipelothrix	286.17	2.04	Phosphatase YidA
+PGF_04200301	Erysipelothrix	133.83	15.85	hypothetical protein
+PGF_04208990	Erysipelothrix	626.00	14.70	hypothetical protein
+PGF_04212451	Erysipelothrix	237.00	0.00	hypothetical protein
+PGF_04215202	Erysipelothrix	203.00	0.00	RNA polymerase sporulation specific sigma factor SigH
+PGF_04217988	Erysipelothrix	90.83	2.04	hypothetical protein
+PGF_04224136	Erysipelothrix	303.43	0.79	Proline iminopeptidase (EC 3.4.11.5)
+PGF_04236153	Erysipelothrix	464.00	0.00	hypothetical protein
+PGF_04239823	Erysipelothrix	124.50	6.32	hypothetical protein
+PGF_04244637	Erysipelothrix	100.00	0.00	hypothetical protein
+PGF_04255487	Erysipelothrix	239.50	14.60	hypothetical protein
+PGF_04264407	Erysipelothrix	140.00	0.00	Protein PhnO
+PGF_04270181	Erysipelothrix	204.00	0.00	Pentapeptide repeat family protein
+PGF_04272938	Erysipelothrix	148.00	0.00	hypothetical protein
+PGF_04274575	Erysipelothrix	194.67	7.84	hypothetical protein
+PGF_04294554	Erysipelothrix	264.00	0.00	ABC transporter, permease protein
+PGF_04297012	Erysipelothrix	366.00	4.47	Sporulation integral membrane protein YtvI
+PGF_04302429	Erysipelothrix	179.00	0.00	hypothetical protein
+PGF_04306800	Erysipelothrix	373.86	3.02	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04319839	Erysipelothrix	200.00	0.00	hypothetical protein
+PGF_04323045	Erysipelothrix	83.00	0.00	hypothetical protein
+PGF_04323278	Erysipelothrix	459.00	0.00	hypothetical protein
+PGF_04333121	Erysipelothrix	157.00	4.65	Cell division initiation protein DivIVA
+PGF_04334776	Erysipelothrix	572.33	0.82	hypothetical protein
+PGF_04343707	Erysipelothrix	476.83	65.73	hypothetical protein
+PGF_04345693	Erysipelothrix	454.00	0.00	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Erysipelothrix	739.00	109.24	Protein translocase subunit SecA
+PGF_04374889	Erysipelothrix	223.33	3.27	putative phosphoglycerate mutase
+PGF_04380990	Erysipelothrix	139.00	0.00	hypothetical protein
+PGF_04386759	Erysipelothrix	105.00	0.00	hypothetical protein
+PGF_04390765	Erysipelothrix	311.00	0.00	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_04400247	Erysipelothrix	178.00	0.00	hypothetical protein
+PGF_04402936	Erysipelothrix	132.25	29.88	Transcriptional regulator, Xre family
+PGF_04403425	Erysipelothrix	173.83	0.41	hypothetical protein
+PGF_04423049	Erysipelothrix	510.17	57.91	hypothetical protein
+PGF_04431595	Erysipelothrix	319.67	24.42	Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
+PGF_04431830	Erysipelothrix	489.00	0.00	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04436370	Erysipelothrix	136.17	0.41	hypothetical protein
+PGF_04456446	Erysipelothrix	597.33	3.27	hypothetical protein
+PGF_04457297	Erysipelothrix	184.00	0.00	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Erysipelothrix	319.00	0.00	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04470834	Erysipelothrix	173.00	0.00	hypothetical protein
+PGF_04477144	Erysipelothrix	398.67	15.51	hypothetical protein
+PGF_04493258	Erysipelothrix	370.14	0.38	Cobalt-zinc-cadmium resistance protein
+PGF_04494375	Erysipelothrix	183.17	10.40	hypothetical protein
+PGF_04502681	Erysipelothrix	148.00	0.00	hypothetical protein
+PGF_04505269	Erysipelothrix	308.86	3.29	SSU ribosomal protein S2p (SAe)
+PGF_04506275	Erysipelothrix	239.50	1.22	Conserved uncharacterized cytosolic protein, putative
+PGF_04509759	Erysipelothrix	153.00	0.00	hypothetical protein
+PGF_04519363	Erysipelothrix	331.86	0.38	Rod shape-determining protein MreB
+PGF_04521913	Erysipelothrix	439.57	1.13	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04527093	Erysipelothrix	160.83	20.88	hypothetical protein
+PGF_04528321	Erysipelothrix	278.57	2.15	hypothetical protein
+PGF_04537196	Erysipelothrix	351.00	0.00	Teicoplanin resistance protein vanZ
+PGF_04552533	Erysipelothrix	303.00	0.00	Acetyltransferase
+PGF_04569524	Erysipelothrix	501.86	11.41	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04570497	Erysipelothrix	394.17	7.88	hypothetical protein
+PGF_04571985	Erysipelothrix	242.00	0.00	hypothetical protein
+PGF_04574228	Erysipelothrix	247.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04574842	Erysipelothrix	191.86	12.06	hypothetical protein
+PGF_04578513	Erysipelothrix	72.17	14.91	hypothetical protein
+PGF_04587304	Erysipelothrix	132.00	0.00	hypothetical protein
+PGF_04595272	Erysipelothrix	79.43	1.13	Thioredoxin-like proteins and domains
+PGF_04602450	Erysipelothrix	114.00	0.00	hypothetical protein
+PGF_04611528	Erysipelothrix	315.83	0.41	hypothetical protein
+PGF_04612743	Erysipelothrix	187.00	0.00	hypothetical protein
+PGF_04617398	Erysipelothrix	295.17	20.83	hypothetical protein
+PGF_04618202	Erysipelothrix	100.00	0.00	Cell division protein FtsL
+PGF_04635220	Erysipelothrix	499.50	29.66	PTS system, N-acetylglucosamine-specific IIA component (EC 2.7.1.193) / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.193) / PTS system, N-acetylglucosamine-specific IIC component
+PGF_04638096	Erysipelothrix	104.50	1.22	hypothetical protein
+PGF_04646250	Erysipelothrix	133.33	9.99	MutT/Nudix family protein
+PGF_04651275	Erysipelothrix	664.00	0.00	hypothetical protein
+PGF_04654617	Erysipelothrix	166.67	10.61	hypothetical protein
+PGF_04657312	Erysipelothrix	240.67	0.82	Response regulator
+PGF_04660832	Erysipelothrix	153.00	0.00	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Erysipelothrix	639.29	0.76	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04684237	Erysipelothrix	309.17	0.41	Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system
+PGF_04689216	Erysipelothrix	166.33	0.82	hypothetical protein
+PGF_04695681	Erysipelothrix	175.14	2.27	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04707502	Erysipelothrix	592.00	0.00	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein oppA (TC 3.A.1.5.1)
+PGF_04710055	Erysipelothrix	794.00	9.30	hypothetical protein
+PGF_04710747	Erysipelothrix	203.00	0.00	hypothetical protein
+PGF_04724541	Erysipelothrix	147.33	1.63	PTS system, galactitol-specific IIA component (EC 2.7.1.200)
+PGF_04741466	Erysipelothrix	231.00	0.00	hypothetical protein
+PGF_04747137	Erysipelothrix	501.12	3.36	hypothetical protein
+PGF_04749763	Erysipelothrix	605.29	33.20	Translation initiation factor 2
+PGF_04751211	Erysipelothrix	275.83	24.90	hypothetical protein
+PGF_04772926	Erysipelothrix	239.00	0.00	hypothetical protein
+PGF_04778747	Erysipelothrix	222.00	10.95	hypothetical protein
+PGF_04788810	Erysipelothrix	182.14	0.38	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04791607	Erysipelothrix	237.00	2.45	hypothetical protein
+PGF_04792410	Erysipelothrix	171.00	0.00	Nudix-family hydrolase
+PGF_04796329	Erysipelothrix	154.00	0.00	acid phosphatase/vanadium-dependent haloperoxidase related
+PGF_04796486	Erysipelothrix	117.33	0.82	hypothetical protein
+PGF_04807486	Erysipelothrix	297.71	0.76	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04814048	Erysipelothrix	94.00	0.00	FIG004454: RNA binding protein
+PGF_04815798	Erysipelothrix	315.57	1.99	Mevalonate kinase (EC 2.7.1.36)
+PGF_04829285	Erysipelothrix	387.00	0.00	hypothetical protein
+PGF_04845029	Erysipelothrix	115.00	0.00	LSU ribosomal protein L19p
+PGF_04846590	Erysipelothrix	270.00	18.52	Magnesium and cobalt transport protein CorA
+PGF_04850149	Erysipelothrix	39.67	4.08	hypothetical protein
+PGF_04850908	Erysipelothrix	157.00	0.00	hypothetical protein
+PGF_04859164	Erysipelothrix	52.17	0.41	hypothetical protein
+PGF_04872827	Erysipelothrix	251.00	0.00	Chromosome (plasmid) partitioning protein ParB-2
+PGF_04877374	Erysipelothrix	204.14	0.38	hypothetical protein
+PGF_04883675	Erysipelothrix	60.50	1.22	hypothetical protein
+PGF_04884150	Erysipelothrix	103.00	0.00	hypothetical protein
+PGF_04919443	Erysipelothrix	127.00	0.00	hypothetical protein
+PGF_04960280	Erysipelothrix	641.00	0.00	hypothetical protein
+PGF_04960704	Erysipelothrix	291.57	1.13	hypothetical protein
+PGF_04966689	Erysipelothrix	271.33	8.98	Allergen V5/Tpx-1 related
+PGF_04973327	Erysipelothrix	724.57	3.78	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Penicillin-binding protein 2B
+PGF_04978890	Erysipelothrix	103.86	0.38	LSU ribosomal protein L21p
+PGF_04983595	Erysipelothrix	355.50	15.92	hypothetical protein
+PGF_04984337	Erysipelothrix	224.00	0.00	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_04985761	Erysipelothrix	204.33	8.16	hypothetical protein
+PGF_04993606	Erysipelothrix	69.83	0.41	hypothetical protein
+PGF_05006506	Erysipelothrix	255.00	0.00	hypothetical protein
+PGF_05014624	Erysipelothrix	275.00	0.00	hypothetical protein
+PGF_05022117	Erysipelothrix	527.00	0.00	Bis-ABC ATPase YbiT
+PGF_05025805	Erysipelothrix	221.00	0.00	hypothetical protein
+PGF_05044356	Erysipelothrix	511.86	132.67	Na/Pi cotransporter II-related protein
+PGF_05062243	Erysipelothrix	76.00	0.00	hypothetical protein
+PGF_05073138	Erysipelothrix	132.00	0.00	hypothetical protein
+PGF_05083700	Erysipelothrix	370.33	4.08	hypothetical protein
+PGF_05085379	Erysipelothrix	411.67	4.08	hypothetical protein
+PGF_05089943	Erysipelothrix	96.00	0.00	hypothetical protein
+PGF_05099720	Erysipelothrix	397.29	9.43	hypothetical protein
+PGF_05109832	Erysipelothrix	272.00	0.00	hypothetical protein
+PGF_05111929	Erysipelothrix	513.86	2.27	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05113946	Erysipelothrix	60.00	0.00	hypothetical protein
+PGF_05122302	Erysipelothrix	386.00	0.00	Helicase loader DnaB
+PGF_05135220	Erysipelothrix	800.29	0.49	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05138990	Erysipelothrix	143.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_05147044	Erysipelothrix	37.17	0.41	hypothetical protein
+PGF_05147679	Erysipelothrix	213.33	67.77	hypothetical protein
+PGF_05148189	Erysipelothrix	113.50	1.22	hypothetical protein
+PGF_05149853	Erysipelothrix	230.00	0.00	hypothetical protein
+PGF_05165078	Erysipelothrix	308.00	0.00	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05188847	Erysipelothrix	486.86	83.81	hypothetical protein
+PGF_05191184	Erysipelothrix	99.50	5.21	hypothetical protein
+PGF_05192878	Erysipelothrix	272.00	0.00	hypothetical protein
+PGF_05192898	Erysipelothrix	127.33	11.43	hypothetical protein
+PGF_05195027	Erysipelothrix	464.86	0.38	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05196669	Erysipelothrix	161.50	1.22	hypothetical protein
+PGF_05204310	Erysipelothrix	408.00	48.99	hypothetical protein
+PGF_05204791	Erysipelothrix	222.00	0.00	hypothetical protein
+PGF_05226611	Erysipelothrix	176.00	0.00	hypothetical protein
+PGF_05232968	Erysipelothrix	471.75	62.59	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)
+PGF_05269328	Erysipelothrix	445.57	1.13	DEAD-box ATP-dependent RNA helicase CshB (EC 3.6.4.13)
+PGF_05269478	Erysipelothrix	71.50	6.12	hypothetical protein
+PGF_05270455	Erysipelothrix	96.00	0.00	hypothetical protein
+PGF_05273209	Erysipelothrix	136.00	0.00	hypothetical protein
+PGF_05284748	Erysipelothrix	135.00	7.35	hypothetical protein
+PGF_05287196	Erysipelothrix	255.00	19.60	hypothetical protein
+PGF_05288771	Erysipelothrix	336.00	0.00	hypothetical protein
+PGF_05304567	Erysipelothrix	247.14	0.90	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+PGF_05315932	Erysipelothrix	82.50	20.82	hypothetical protein
+PGF_05322683	Erysipelothrix	861.88	3.56	Cation-transporting ATPase
+PGF_05337342	Erysipelothrix	147.00	0.00	hypothetical protein
+PGF_05338452	Erysipelothrix	219.50	10.46	Protein disulfide isomerase (S-S rearrangase) (EC 5.3.4.1)
+PGF_05342278	Erysipelothrix	282.83	56.91	general secretory pathway protein E
+PGF_05347313	Erysipelothrix	243.00	0.00	hypothetical protein
+PGF_05348684	Erysipelothrix	192.83	0.41	hypothetical protein
+PGF_05360219	Erysipelothrix	205.17	9.39	beta-lactamase domain protein
+PGF_05385622	Erysipelothrix	242.00	0.00	Response regulator receiver:LytTr DNA-binding region
+PGF_05393385	Erysipelothrix	162.00	0.00	hypothetical protein
+PGF_05421852	Erysipelothrix	618.00	0.00	Chaperone protein HtpG
+PGF_05439724	Erysipelothrix	659.00	0.00	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05444169	Erysipelothrix	282.71	0.76	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05448844	Erysipelothrix	181.50	1.22	hypothetical protein
+PGF_05461880	Erysipelothrix	222.57	1.13	hypothetical protein
+PGF_05463566	Erysipelothrix	581.00	0.00	hypothetical protein
+PGF_05463808	Erysipelothrix	260.14	0.38	NAD kinase (EC 2.7.1.23)
+PGF_05467717	Erysipelothrix	166.17	0.41	hypothetical protein
+PGF_05475020	Erysipelothrix	136.00	0.00	Tagatose-bisphosphate aldolase (EC 4.1.2.40)
+PGF_05477736	Erysipelothrix	82.57	1.51	hypothetical protein
+PGF_05481273	Erysipelothrix	94.00	0.00	DNA-binding protein HU-beta
+PGF_05487801	Erysipelothrix	191.00	0.00	Xanthine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_05492382	Erysipelothrix	263.00	0.00	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_05498256	Erysipelothrix	285.43	3.78	conserved protein with patatin domain
+PGF_05501101	Erysipelothrix	261.50	1.22	hypothetical protein
+PGF_05504162	Erysipelothrix	723.83	16.38	5'-nucleotidase (EC 3.1.3.5)
+PGF_05507938	Erysipelothrix	588.00	5.74	DNA mismatch repair protein MutL
+PGF_05509442	Erysipelothrix	106.00	0.00	hypothetical protein
+PGF_05510601	Erysipelothrix	223.57	2.51	hypothetical protein
+PGF_05519582	Erysipelothrix	389.67	0.82	NAD(FAD)-utilizing dehydrogenases
+PGF_05534981	Erysipelothrix	66.86	0.38	hypothetical protein
+PGF_05535295	Erysipelothrix	453.00	7.35	Predicted xylanase/chitin deacetylase
+PGF_05537686	Erysipelothrix	76.00	0.00	hypothetical protein
+PGF_05538424	Erysipelothrix	197.00	0.00	hypothetical protein
+PGF_05541254	Erysipelothrix	368.00	0.00	Putative pheromone cAM373 precursor lipoprotein CamS
+PGF_05541871	Erysipelothrix	170.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_05548666	Erysipelothrix	180.33	0.82	hypothetical protein
+PGF_05564656	Erysipelothrix	320.29	0.76	6-phosphogluconolactonase (EC 3.1.1.31)
+PGF_05567147	Erysipelothrix	142.17	0.41	hypothetical protein
+PGF_05588366	Erysipelothrix	179.83	20.00	hypothetical protein
+PGF_05595790	Erysipelothrix	245.00	0.00	hypothetical protein
+PGF_05605840	Erysipelothrix	169.83	14.62	hypothetical protein
+PGF_05611980	Erysipelothrix	541.83	2.86	General stress protein 13 / Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_05612168	Erysipelothrix	183.17	29.69	hypothetical protein
+PGF_05619557	Erysipelothrix	397.00	0.00	transcriptional activator
+PGF_05622318	Erysipelothrix	409.57	1.13	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05626148	Erysipelothrix	306.14	29.76	hypothetical protein
+PGF_05630173	Erysipelothrix	118.00	0.00	hypothetical protein
+PGF_05661389	Erysipelothrix	181.57	1.51	hypothetical protein
+PGF_05677638	Erysipelothrix	306.17	4.49	Transcriptional regulator, DeoR family
+PGF_05681334	Erysipelothrix	138.33	21.23	Putative activity regulator of membrane protease YbbK
+PGF_05681779	Erysipelothrix	183.86	4.30	Lysine decarboxylase family
+PGF_05685658	Erysipelothrix	141.17	5.31	Ferric uptake regulation protein
+PGF_05713838	Erysipelothrix	202.50	1.22	Membrane protein
+PGF_05714136	Erysipelothrix	117.29	0.76	FIG138056: a glutathione-dependent thiol reductase
+PGF_05717531	Erysipelothrix	108.00	0.00	Ribosomal protein L7Ae family protein YlxQ
+PGF_05745899	Erysipelothrix	138.00	0.00	hypothetical protein
+PGF_05749876	Erysipelothrix	444.43	1.13	Sensor protein cssS (EC 2.7.13.3)
+PGF_05754402	Erysipelothrix	408.33	0.82	hypothetical protein
+PGF_05767252	Erysipelothrix	506.00	0.00	Proposed peptidoglycan lipid II flippase MurJ
+PGF_05769857	Erysipelothrix	191.00	0.00	hypothetical protein
+PGF_05788407	Erysipelothrix	291.00	0.00	Foldase protein PrsA precursor (EC 5.2.1.8)
+PGF_05789668	Erysipelothrix	179.17	2.04	BioY protein
+PGF_05800363	Erysipelothrix	171.67	0.82	hypothetical protein
+PGF_05801615	Erysipelothrix	82.00	0.00	hypothetical protein
+PGF_05804203	Erysipelothrix	333.00	0.00	hypothetical protein
+PGF_05821176	Erysipelothrix	428.67	8.26	hypothetical protein
+PGF_05830442	Erysipelothrix	101.00	1.10	Molybdopterin biosynthesis MoeB protein
+PGF_05848560	Erysipelothrix	258.17	0.41	hypothetical protein
+PGF_05848705	Erysipelothrix	172.83	2.04	hypothetical protein
+PGF_05877035	Erysipelothrix	87.00	0.00	hypothetical protein
+PGF_05884678	Erysipelothrix	309.17	0.41	hypothetical protein
+PGF_05885737	Erysipelothrix	259.00	0.00	hypothetical protein
+PGF_05893456	Erysipelothrix	229.00	0.00	hypothetical protein
+PGF_05896213	Erysipelothrix	168.17	5.31	putative membrane protein
+PGF_05913318	Erysipelothrix	118.00	0.00	hypothetical protein
+PGF_05925776	Erysipelothrix	279.00	0.00	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05930993	Erysipelothrix	886.50	13.47	alpha-mannosidase (EC 3.2.1.24)
+PGF_05936460	Erysipelothrix	443.00	93.08	hypothetical protein
+PGF_05948271	Erysipelothrix	415.00	0.00	hypothetical protein
+PGF_05960134	Erysipelothrix	325.50	1.22	Nucleolar protein,Nop52 containing protein
+PGF_05960388	Erysipelothrix	122.75	0.46	hypothetical protein
+PGF_05983787	Erysipelothrix	534.50	1.22	hypothetical protein
+PGF_05996196	Erysipelothrix	442.00	0.00	teichuronic acid biosynthesis (glycosyltransferase)
+PGF_05999241	Erysipelothrix	326.50	1.22	Regulatory protein, ArsR family
+PGF_06013190	Erysipelothrix	225.00	0.00	Metal-dependent hydrolase
+PGF_06018777	Erysipelothrix	303.00	0.00	hypothetical protein
+PGF_06027248	Erysipelothrix	478.71	3.73	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06030015	Erysipelothrix	187.00	0.00	Chromate transporter
+PGF_06048182	Erysipelothrix	302.00	0.00	Patatin
+PGF_06048585	Erysipelothrix	73.00	0.00	hypothetical protein
+PGF_06053876	Erysipelothrix	161.17	9.39	hypothetical protein
+PGF_06062813	Erysipelothrix	175.83	11.21	hypothetical protein
+PGF_06063645	Erysipelothrix	140.00	0.00	hypothetical protein
+PGF_06073545	Erysipelothrix	299.17	0.41	hypothetical protein
+PGF_06084258	Erysipelothrix	366.14	2.27	Serine protease, DegP/HtrA, do-like (EC 3.4.21.-)
+PGF_06092152	Erysipelothrix	607.29	7.18	hypothetical protein
+PGF_06111078	Erysipelothrix	175.33	0.82	ribosomal-protein-alanine N-acetyltransferase
+PGF_06115957	Erysipelothrix	399.71	0.76	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Erysipelothrix	809.83	0.41	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06125413	Erysipelothrix	212.50	1.22	hypothetical protein
+PGF_06127488	Erysipelothrix	225.00	0.00	Zinc metalloprotease
+PGF_06134872	Erysipelothrix	121.00	0.00	Thioesterase
+PGF_06139623	Erysipelothrix	84.00	0.00	hypothetical protein
+PGF_06151444	Erysipelothrix	543.00	0.00	Ig domain protein, group 2 domain protein
+PGF_06156689	Erysipelothrix	138.33	0.82	hypothetical protein
+PGF_06161870	Erysipelothrix	295.67	2.16	hypothetical protein
+PGF_06168165	Erysipelothrix	275.00	0.00	Leucine-rich protein
+PGF_06173846	Erysipelothrix	565.00	0.00	hypothetical protein
+PGF_06180597	Erysipelothrix	145.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06190358	Erysipelothrix	62.17	0.41	hypothetical protein
+PGF_06195034	Erysipelothrix	126.00	0.00	hypothetical protein
+PGF_06206962	Erysipelothrix	153.00	0.00	hypothetical protein
+PGF_06208298	Erysipelothrix	112.00	0.00	hypothetical protein
+PGF_06216291	Erysipelothrix	281.29	3.40	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_06218029	Erysipelothrix	63.14	0.38	hypothetical protein
+PGF_06220176	Erysipelothrix	114.00	0.00	hypothetical protein
+PGF_06221445	Erysipelothrix	145.00	0.00	hypothetical protein
+PGF_06234273	Erysipelothrix	109.00	0.00	hypothetical protein
+PGF_06234669	Erysipelothrix	241.00	0.00	peptidase E
+PGF_06254345	Erysipelothrix	96.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06256856	Erysipelothrix	60.00	0.00	Protein translocase subunit SecE
+PGF_06285041	Erysipelothrix	234.14	19.50	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06287652	Erysipelothrix	222.83	5.31	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06295239	Erysipelothrix	284.57	22.30	hypothetical protein
+PGF_06297020	Erysipelothrix	611.50	1.22	hypothetical protein
+PGF_06298360	Erysipelothrix	131.17	0.41	hypothetical protein
+PGF_06299116	Erysipelothrix	118.00	0.00	putative CI-like transcriptional repressor
+PGF_06301593	Erysipelothrix	155.50	1.22	hypothetical protein
+PGF_06309148	Erysipelothrix	171.17	22.71	hypothetical protein
+PGF_06310118	Erysipelothrix	376.00	0.00	ABC transporter, ATP-binding protein (cluster 13, osmolytes)
+PGF_06312218	Erysipelothrix	105.83	0.41	hypothetical protein
+PGF_06315406	Erysipelothrix	421.86	0.38	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06346686	Erysipelothrix	178.83	0.41	hypothetical protein
+PGF_06360025	Erysipelothrix	299.67	1.63	Ribonuclease BN
+PGF_06363658	Erysipelothrix	66.00	0.00	hypothetical protein
+PGF_06367178	Erysipelothrix	97.17	0.41	hypothetical protein
+PGF_06379377	Erysipelothrix	418.57	0.79	Replication-associated recombination protein RarA
+PGF_06380510	Erysipelothrix	284.00	2.97	phosphosugar-binding transcriptional regulator, RpiR family
+PGF_06389002	Erysipelothrix	94.83	24.90	hypothetical protein
+PGF_06402397	Erysipelothrix	404.33	1.03	hypothetical protein
+PGF_06403579	Erysipelothrix	771.00	0.00	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06406407	Erysipelothrix	211.86	2.27	hypothetical protein
+PGF_06423284	Erysipelothrix	132.33	3.27	hypothetical protein
+PGF_06429796	Erysipelothrix	233.00	2.45	hypothetical protein
+PGF_06443211	Erysipelothrix	302.00	87.53	hypothetical protein
+PGF_06447870	Erysipelothrix	148.50	1.22	hypothetical protein
+PGF_06451960	Erysipelothrix	160.00	0.00	hypothetical protein
+PGF_06457274	Erysipelothrix	254.50	1.22	hypothetical protein
+PGF_06466361	Erysipelothrix	147.67	3.27	hypothetical protein
+PGF_06468582	Erysipelothrix	276.67	113.49	hypothetical protein
+PGF_06474259	Erysipelothrix	186.00	0.00	hypothetical protein
+PGF_06492395	Erysipelothrix	148.00	0.00	hypothetical protein
+PGF_06493588	Erysipelothrix	116.00	0.00	hypothetical protein
+PGF_06496585	Erysipelothrix	272.00	0.00	hypothetical protein
+PGF_06496714	Erysipelothrix	434.67	43.97	hypothetical protein
+PGF_06510617	Erysipelothrix	226.17	0.41	hypothetical protein
+PGF_06512011	Erysipelothrix	576.33	33.97	Capsular polysaccharide biosynthesis protein
+PGF_06513264	Erysipelothrix	297.00	0.00	hypothetical protein
+PGF_06513690	Erysipelothrix	744.43	1.51	Pyruvate formate-lyase (EC 2.3.1.54)
+PGF_06530721	Erysipelothrix	210.29	0.76	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06535427	Erysipelothrix	234.33	20.53	Uncharacterized DUF1113 membrane protein family
+PGF_06541392	Erysipelothrix	377.83	0.41	hypothetical protein
+PGF_06561021	Erysipelothrix	194.00	0.00	16S rRNA m(2)G 1207 methyltransferase (EC 2.1.1.52)
+PGF_06567785	Erysipelothrix	463.17	0.41	hypothetical protein
+PGF_06569164	Erysipelothrix	183.00	0.00	hypothetical protein
+PGF_06574032	Erysipelothrix	244.33	8.98	hypothetical protein
+PGF_06586947	Erysipelothrix	356.29	16.60	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06589185	Erysipelothrix	582.43	1.51	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06592852	Erysipelothrix	286.83	0.41	Transcriptional regulator YeiE, LysR family
+PGF_06594013	Erysipelothrix	131.71	12.71	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06597810	Erysipelothrix	353.00	31.84	hypothetical protein
+PGF_06617880	Erysipelothrix	432.00	0.00	hypothetical protein
+PGF_06620238	Erysipelothrix	241.17	0.41	hypothetical protein
+PGF_06627947	Erysipelothrix	213.67	1.63	hypothetical protein
+PGF_06637793	Erysipelothrix	270.00	0.00	Cell division protein FtsQ
+PGF_06646425	Erysipelothrix	439.17	63.28	MATE efflux family protein
+PGF_06649360	Erysipelothrix	178.14	0.38	Segregation and condensation protein B
+PGF_06664567	Erysipelothrix	570.00	0.00	hypothetical protein
+PGF_06681555	Erysipelothrix	431.14	1.86	hypothetical protein
+PGF_06694595	Erysipelothrix	256.17	24.09	hypothetical protein
+PGF_06698649	Erysipelothrix	435.00	66.14	hypothetical protein
+PGF_06699820	Erysipelothrix	377.00	0.00	hypothetical protein
+PGF_06705277	Erysipelothrix	227.00	0.00	hypothetical protein
+PGF_06718352	Erysipelothrix	157.71	1.25	Cys-tRNA(Pro) deacylase YbaK
+PGF_06731529	Erysipelothrix	105.00	0.00	hypothetical protein
+PGF_06733536	Erysipelothrix	89.33	0.82	hypothetical protein
+PGF_06735060	Erysipelothrix	714.29	1.89	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06745603	Erysipelothrix	205.00	0.00	hypothetical protein
+PGF_06749252	Erysipelothrix	359.00	0.00	hypothetical protein
+PGF_06749806	Erysipelothrix	168.00	0.00	DNA replication protein DnaD
+PGF_06750426	Erysipelothrix	188.33	0.52	hypothetical protein
+PGF_06755829	Erysipelothrix	298.14	12.73	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06766211	Erysipelothrix	82.00	0.00	hypothetical protein
+PGF_06777738	Erysipelothrix	236.00	1.67	hypothetical protein
+PGF_06786528	Erysipelothrix	156.00	0.00	VPS29-like phosphoesterase-related protein ynbC
+PGF_06788392	Erysipelothrix	50.83	11.84	hypothetical protein
+PGF_06789589	Erysipelothrix	268.00	0.00	hypothetical protein
+PGF_06811102	Erysipelothrix	512.00	0.00	Uncharacterized MFS-type transporter
+PGF_06828639	Erysipelothrix	121.86	0.38	Ribonucleotide reduction protein NrdI
+PGF_06834840	Erysipelothrix	56.67	0.52	hypothetical protein
+PGF_06834842	Erysipelothrix	57.00	0.00	hypothetical protein
+PGF_07072582	Erysipelothrix	457.29	4.54	RNA polymerase sigma factor RpoD
+PGF_07220192	Erysipelothrix	318.88	16.22	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)
+PGF_07262422	Erysipelothrix	242.00	0.00	hypothetical protein
+PGF_07370370	Erysipelothrix	517.50	1.22	Voltage-gated H(+)/2Cl(-) exchange transporter ClcA
+PGF_07410757	Erysipelothrix	327.17	0.41	Aldose 1-epimerase (EC 5.1.3.3)
+PGF_07445685	Erysipelothrix	225.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_07449466	Erysipelothrix	463.00	0.00	Uncharacterized secreted protein associated with spyDAC
+PGF_07552168	Erysipelothrix	163.00	0.00	Acetyltransferase, GNAT family
+PGF_07635310	Erysipelothrix	407.00	0.00	Uncharacterized MFS-type transporter
+PGF_07663413	Erysipelothrix	242.00	0.00	Response regulator of the competence regulon ComE
+PGF_08047063	Erysipelothrix	399.00	2.45	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08051825	Erysipelothrix	658.14	0.38	Glycosyltransferase LafA, responsible for the formation of Glc-DAG / Regulatory protein RecX
+PGF_08140735	Erysipelothrix	178.00	0.00	Acetyltransferase, GNAT family
+PGF_08146935	Erysipelothrix	240.86	0.38	Maebl
+PGF_08147453	Erysipelothrix	407.86	15.19	DNA recombination protein RmuC
+PGF_08149255	Erysipelothrix	404.00	21.52	FtsW-like protein YlaO
+PGF_08173558	Erysipelothrix	132.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)

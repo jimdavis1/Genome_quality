@@ -1,0 +1,602 @@
+PGF_00000027	Azospirillum	266.25	34.04	Uncharacterized protein YmdB
+PGF_00000936	Azospirillum	133.44	5.05	FIG00899427: hypothetical protein
+PGF_00002124	Azospirillum	229.81	4.94	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002554	Azospirillum	341.00	14.11	FIG017823: ATPase, MoxR family
+PGF_00002592	Azospirillum	217.71	2.39	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00005629	Azospirillum	133.56	17.54	Flagellar assembly protein FliX
+PGF_00006100	Azospirillum	294.94	37.60	tRNA-modifying protein YgfZ
+PGF_00006378	Azospirillum	331.31	3.91	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006389	Azospirillum	308.50	2.00	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006461	Azospirillum	471.38	14.47	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Azospirillum	504.06	45.59	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007026	Azospirillum	221.05	5.30	GTP-binding protein EngB
+PGF_00007027	Azospirillum	341.95	31.88	GTP-binding protein Era
+PGF_00007235	Azospirillum	128.33	11.95	GcrA cell cycle regulator
+PGF_00007632	Azospirillum	323.90	9.77	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007982	Azospirillum	289.78	3.10	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Azospirillum	547.25	5.28	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Azospirillum	419.11	58.85	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Azospirillum	342.62	108.92	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Azospirillum	411.81	0.54	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Azospirillum	273.11	24.50	Glutamate racemase (EC 5.1.1.3)
+PGF_00008335	Azospirillum	468.88	1.02	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008342	Azospirillum	446.60	3.87	Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008355	Azospirillum	88.56	6.52	Glutaredoxin 3 (Grx2)
+PGF_00008776	Azospirillum	515.31	26.28	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008838	Azospirillum	200.37	19.06	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Azospirillum	183.53	18.40	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Azospirillum	296.56	2.80	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010205	Azospirillum	262.70	11.29	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Azospirillum	217.90	3.49	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Azospirillum	157.56	21.10	HPr kinase/phosphorylase
+PGF_00010738	Azospirillum	176.06	14.52	HTH-type transcriptional regulator PetP
+PGF_00011528	Azospirillum	541.56	28.87	Heparinase II/III-like
+PGF_00012264	Azospirillum	359.95	4.11	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Azospirillum	414.56	78.83	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012854	Azospirillum	234.25	5.87	Hydrolase, haloacid delahogenase-like family
+PGF_00012970	Azospirillum	594.25	17.89	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013266	Azospirillum	259.12	4.67	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013272	Azospirillum	139.31	0.70	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Azospirillum	237.88	10.88	UPF0001 protein YggS
+PGF_00013509	Azospirillum	533.25	2.05	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Azospirillum	209.88	6.35	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014306	Azospirillum	184.30	1.84	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00015142	Azospirillum	74.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Azospirillum	187.06	6.99	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Azospirillum	297.15	3.51	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015487	Azospirillum	152.81	12.89	Iron-responsive regulator Irr
+PGF_00015530	Azospirillum	293.81	51.73	Iron-sulfur cluster assembly scaffold protein NifU
+PGF_00015699	Azospirillum	383.25	92.34	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015702	Azospirillum	456.69	99.13	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Azospirillum	921.50	174.12	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00016045	Azospirillum	577.75	78.23	L-arabonate dehydratase (EC 4.2.1.25)
+PGF_00016177	Azospirillum	291.56	2.25	L-malyl-CoA/beta-methylmalyl-CoA lyase (EC 4.1.3.24)
+PGF_00016319	Azospirillum	264.12	7.16	LRV (FeS)4 cluster domain protein clustered with nitrogenase cofactor synthesis
+PGF_00016325	Azospirillum	705.44	145.19	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Azospirillum	167.05	8.75	LSU ribosomal protein L10p (P0)
+PGF_00016340	Azospirillum	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Azospirillum	157.45	8.49	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Azospirillum	142.40	0.68	LSU ribosomal protein L16p (L10e)
+PGF_00016353	Azospirillum	119.25	3.13	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Azospirillum	233.22	3.21	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Azospirillum	121.95	1.79	LSU ribosomal protein L20p
+PGF_00016361	Azospirillum	99.38	13.63	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Azospirillum	129.55	2.86	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Azospirillum	103.95	3.33	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Azospirillum	105.28	0.67	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Azospirillum	90.40	6.15	LSU ribosomal protein L27p
+PGF_00016393	Azospirillum	275.50	1.19	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Azospirillum	62.65	1.76	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Azospirillum	59.84	5.66	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016416	Azospirillum	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Azospirillum	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Azospirillum	65.90	0.64	LSU ribosomal protein L35p
+PGF_00016425	Azospirillum	41.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016431	Azospirillum	237.47	2.93	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Azospirillum	206.11	0.46	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Azospirillum	174.32	23.81	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Azospirillum	176.60	2.72	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Azospirillum	124.20	0.95	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Azospirillum	181.89	10.85	LSU ribosomal protein L9p
+PGF_00016691	Azospirillum	1017.62	265.12	Large protein containing transglutaminase-like domain
+PGF_00016919	Azospirillum	215.56	3.63	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Azospirillum	395.05	25.68	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Azospirillum	264.30	9.87	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017389	Azospirillum	480.31	118.39	ATP-dependent RNA helicase Atu1833
+PGF_00017939	Azospirillum	345.62	4.87	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018084	Azospirillum	512.44	42.11	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+PGF_00018560	Azospirillum	301.53	17.34	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Azospirillum	322.31	2.18	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Azospirillum	444.05	5.55	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Azospirillum	184.15	8.60	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020172	Azospirillum	283.44	5.21	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Azospirillum	174.20	8.04	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Azospirillum	261.68	14.32	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020793	Azospirillum	189.50	2.28	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00021019	Azospirillum	134.44	1.75	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00021217	Azospirillum	511.53	31.48	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021491	Azospirillum	417.47	5.43	Mitochondrial processing peptidase-like protein (EC 3.4.24.64)
+PGF_00022467	Azospirillum	178.31	1.01	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00022479	Azospirillum	208.38	7.05	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022503	Azospirillum	277.31	4.16	Molybdenum transport system protein ModD
+PGF_00022565	Azospirillum	83.00	0.00	Molybdopterin synthase sulfur carrier subunit
+PGF_00022605	Azospirillum	217.31	37.95	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022666	Azospirillum	438.75	51.26	MotB-like protein Atu3746
+PGF_00023326	Azospirillum	210.06	6.13	MarC family integral membrane protein
+PGF_00024234	Azospirillum	388.94	6.32	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Azospirillum	176.12	4.80	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Azospirillum	367.31	9.25	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024482	Azospirillum	246.00	4.79	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024687	Azospirillum	412.06	7.89	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024728	Azospirillum	203.88	0.50	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Azospirillum	102.38	1.09	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Azospirillum	511.44	14.29	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024801	Azospirillum	129.69	2.89	NADH:ubiquinone oxidoreductase 17.2 kD subunit
+PGF_00025215	Azospirillum	168.69	1.99	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025623	Azospirillum	342.12	1.67	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025637	Azospirillum	94.12	99.17	NifT protein
+PGF_00025668	Azospirillum	153.00	3.25	NifX-associated protein
+PGF_00025951	Azospirillum	480.75	5.42	Nitrogenase (molybdenum-iron) alpha chain (EC 1.18.6.1)
+PGF_00025954	Azospirillum	296.00	2.66	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH
+PGF_00025962	Azospirillum	137.56	9.59	Nitrogenase FeMo-cofactor carrier protein NifX
+PGF_00025973	Azospirillum	446.12	73.75	Nitrogenase FeMo-cofactor scaffold and assembly protein NifN
+PGF_00025976	Azospirillum	200.12	13.88	Nitrogenase FeMo-cofactor synthesis molybdenum delivery protein NifQ
+PGF_00025992	Azospirillum	109.81	2.90	Nitrogenase stabilizing/protective protein NifW
+PGF_00026279	Azospirillum	319.25	2.17	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026280	Azospirillum	233.31	2.75	Nopaline ABC transporter, permease protein NocQ
+PGF_00026362	Azospirillum	200.89	1.85	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026614	Azospirillum	126.50	10.87	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00027752	Azospirillum	613.12	155.72	Outer membrane component of TAM transport system
+PGF_00030031	Azospirillum	522.56	102.45	Paraquat-inducible protein B
+PGF_00030643	Azospirillum	522.35	50.75	Peptide chain release factor 3
+PGF_00031585	Azospirillum	159.56	2.16	Peroxiredoxin
+PGF_00031642	Azospirillum	507.59	5.67	Phage DNA packaging
+PGF_00032999	Azospirillum	217.12	15.92	PhbF
+PGF_00033289	Azospirillum	350.30	1.63	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033363	Azospirillum	239.00	4.80	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033390	Azospirillum	608.06	4.15	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+PGF_00033411	Azospirillum	280.50	8.45	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033426	Azospirillum	769.00	7.75	Phosphoenolpyruvate-protein phosphotransferase, nitrogen regulation associated
+PGF_00033729	Azospirillum	265.00	4.04	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033740	Azospirillum	208.06	9.85	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033928	Azospirillum	423.50	19.63	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Azospirillum	253.88	0.50	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Azospirillum	239.06	43.85	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033959	Azospirillum	230.88	2.50	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Azospirillum	209.65	35.28	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034349	Azospirillum	97.06	1.57	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative
+PGF_00034548	Azospirillum	465.00	6.03	Pole remodelling regulatory diguanylate cyclase
+PGF_00034776	Azospirillum	705.00	1.91	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Azospirillum	171.18	10.22	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Azospirillum	333.88	11.66	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035378	Azospirillum	435.62	7.10	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035556	Azospirillum	954.31	13.68	Predicted D-lactate dehydrogenase, Fe-S protein, FAD/FMN-containing
+PGF_00035633	Azospirillum	324.06	59.61	Predicted NAD regulator in Alphaproteobacteria
+PGF_00036452	Azospirillum	151.00	0.00	Predicted transcriptional regulator of cysteine synthase, Rrf2 family
+PGF_00036513	Azospirillum	333.75	1.00	Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)
+PGF_00036580	Azospirillum	131.70	9.28	Protein translocase subunit YajC
+PGF_00038060	Azospirillum	324.44	2.25	Protein containing domains DUF403
+PGF_00038062	Azospirillum	813.88	164.93	Protein containing domains DUF404, DUF407, DUF403
+PGF_00038367	Azospirillum	137.88	1.02	Protein of unknown function DUF55
+PGF_00038879	Azospirillum	142.00	0.00	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00038937	Azospirillum	340.94	14.01	Psp operon transcriptional activator
+PGF_00039342	Azospirillum	276.42	2.36	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040578	Azospirillum	261.16	13.81	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041324	Azospirillum	289.31	14.81	Putative hydrolase
+PGF_00043159	Azospirillum	349.65	80.07	Putative permease often clustered with de novo purine synthesis
+PGF_00044215	Azospirillum	329.12	7.37	Galactofuranose ABC transporter, permease protein 2
+PGF_00044216	Azospirillum	338.50	42.56	Galactofuranose ABC transporter, permease protein 1
+PGF_00044963	Azospirillum	201.38	33.86	YdcF-like protein
+PGF_00045900	Azospirillum	242.12	30.29	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045941	Azospirillum	700.75	100.48	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00046345	Azospirillum	298.25	1.91	RNA polymerase sigma factor RpoH-related protein
+PGF_00046403	Azospirillum	523.84	14.63	RNA polymerase sigma-54 factor RpoN
+PGF_00046622	Azospirillum	78.40	6.35	RNA-binding protein Hfq
+PGF_00046915	Azospirillum	367.31	22.61	Radical SAM domain protein
+PGF_00047078	Azospirillum	354.11	7.36	RecA protein
+PGF_00048269	Azospirillum	344.31	7.43	RfbJ protein
+PGF_00048480	Azospirillum	196.19	4.75	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048528	Azospirillum	205.75	7.77	Ribonuclease D related protein
+PGF_00048542	Azospirillum	157.35	5.83	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Azospirillum	215.17	27.38	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Azospirillum	238.50	0.95	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Azospirillum	153.32	12.31	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048651	Azospirillum	143.80	1.58	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048840	Azospirillum	297.47	5.05	Ribosomal protein L11 methyltransferase
+PGF_00048917	Azospirillum	198.06	3.71	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Azospirillum	182.45	10.01	Ribosome recycling factor
+PGF_00048933	Azospirillum	142.38	8.23	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00049330	Azospirillum	387.40	2.60	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Azospirillum	349.37	14.92	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049533	Azospirillum	262.25	8.63	SAM-dependent methyltransferase 2, in cluster with Hydroxyacylglutathione hydrolase
+PGF_00049555	Azospirillum	298.69	2.98	SAM-dependent methyltransferase, BioC-like
+PGF_00049581	Azospirillum	219.44	2.58	SAM-dependent methyltransferase
+PGF_00049827	Azospirillum	296.95	12.18	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Azospirillum	102.20	0.41	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Azospirillum	131.40	1.35	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Azospirillum	120.70	7.08	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Azospirillum	123.05	4.70	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Azospirillum	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Azospirillum	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Azospirillum	119.10	4.52	SSU ribosomal protein S16p
+PGF_00049854	Azospirillum	82.40	2.93	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Azospirillum	86.75	6.09	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Azospirillum	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Azospirillum	245.55	14.93	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Azospirillum	203.95	0.22	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049901	Azospirillum	139.05	14.80	SSU ribosomal protein S6p
+PGF_00049904	Azospirillum	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049909	Azospirillum	159.67	2.14	SSU ribosomal protein S9p (S16e)
+PGF_00050557	Azospirillum	564.75	20.53	Sensor histidine kinase ChvG (EC 2.7.3.-)
+PGF_00051120	Azospirillum	228.88	63.00	Septum site-determining protein MinC
+PGF_00051187	Azospirillum	279.81	7.33	Ser/Thr protein phosphatase family protein, UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.54) homolog
+PGF_00051525	Azospirillum	400.40	80.12	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Azospirillum	458.90	12.67	Signal recognition particle protein Ffh
+PGF_00052674	Azospirillum	226.44	10.55	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052705	Azospirillum	144.20	0.62	LSU ribosomal protein L11p (L12e)
+PGF_00054476	Azospirillum	131.25	0.58	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Azospirillum	258.19	0.54	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00055052	Azospirillum	563.88	5.12	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055966	Azospirillum	363.59	9.64	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056057	Azospirillum	347.12	1.15	Tas protein, an NADP(H)-dependent aldo-keto reductase
+PGF_00056273	Azospirillum	326.21	24.30	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056544	Azospirillum	260.25	10.29	Thiazole synthase (EC 2.8.1.10)
+PGF_00056883	Azospirillum	219.95	11.05	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057016	Azospirillum	148.44	13.50	Tol biopolymer transport system, TolR protein
+PGF_00057032	Azospirillum	158.10	8.20	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Azospirillum	701.95	152.33	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Azospirillum	218.50	2.00	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Azospirillum	155.25	10.62	Transamidase GatB domain protein
+PGF_00057435	Azospirillum	178.69	24.79	Transcription elongation factor GreB
+PGF_00057483	Azospirillum	417.90	0.64	Transcription termination factor Rho
+PGF_00057485	Azospirillum	513.10	6.10	Transcription termination protein NusA
+PGF_00057488	Azospirillum	192.88	6.17	Transcription termination protein NusB
+PGF_00059034	Azospirillum	327.56	5.45	Transcriptional regulator, ArsR family / Methyltransferase fusion
+PGF_00059092	Azospirillum	128.69	12.85	Transcriptional regulator, Xre family
+PGF_00060414	Azospirillum	573.05	98.77	Translation elongation factor LepA
+PGF_00060421	Azospirillum	187.50	1.61	Translation elongation factor P
+PGF_00060424	Azospirillum	353.38	3.54	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00062027	Azospirillum	408.88	14.26	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Azospirillum	335.10	6.50	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063938	Azospirillum	280.84	3.37	UDP-2,3-diacylglucosamine pyrophosphatase
+PGF_00063948	Azospirillum	367.40	17.83	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Azospirillum	289.60	69.24	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Azospirillum	371.50	56.72	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00064460	Azospirillum	508.50	15.34	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064601	Azospirillum	284.25	20.45	Uncharacterized RNA methyltransferase amb2473
+PGF_00064676	Azospirillum	378.12	58.72	Uncharacterized domain, not in CDD / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00064746	Azospirillum	194.81	12.45	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00064839	Azospirillum	112.94	2.21	Uncharacterized monothiol glutaredoxin ycf64-like
+PGF_00065482	Azospirillum	645.62	9.50	Uncharacterized protein YeaG
+PGF_00065887	Azospirillum	238.00	18.57	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066214	Azospirillum	213.19	1.11	Urease accessory protein UreG
+PGF_00066215	Azospirillum	569.06	0.25	Urease alpha subunit (EC 3.5.1.5)
+PGF_00066216	Azospirillum	101.69	2.75	Urease beta subunit (EC 3.5.1.5)
+PGF_00066218	Azospirillum	100.00	0.00	Urease gamma subunit (EC 3.5.1.5)
+PGF_00066453	Azospirillum	853.35	123.09	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Azospirillum	650.10	64.41	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00067277	Azospirillum	371.12	59.83	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067383	Azospirillum	534.19	1.97	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067412	Azospirillum	78.94	0.25	YrbA protein
+PGF_00067547	Azospirillum	162.62	7.68	Zinc uptake regulation protein Zur
+PGF_00067739	Azospirillum	373.94	24.43	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00069558	Azospirillum	259.88	19.37	2-hydroxymuconic semialdehyde hydrolase (EC 3.7.1.9)
+PGF_00069596	Azospirillum	313.00	4.40	Ferrous-iron efflux pump FieF
+PGF_00069629	Azospirillum	241.18	6.29	cell cycle transcriptional regulator CtrA
+PGF_00070995	Azospirillum	412.79	68.38	Membrane-bound lytic murein transglycosylase B
+PGF_00071693	Azospirillum	284.75	2.84	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00084680	Azospirillum	342.56	65.97	Type II restriction adenine-specific methylase (EC 2.1.1.72)
+PGF_00102083	Azospirillum	105.88	13.83	hypothetical protein
+PGF_00141955	Azospirillum	622.44	26.44	K(+)/H(+) antiporter NhaP2
+PGF_00185108	Azospirillum	114.19	6.11	hypothetical protein
+PGF_00201646	Azospirillum	305.06	0.77	putative membrane protein
+PGF_00219021	Azospirillum	294.69	24.31	hypothetical protein
+PGF_00270016	Azospirillum	250.56	16.85	hypothetical protein
+PGF_00284558	Azospirillum	180.38	18.22	hypothetical protein
+PGF_00306574	Azospirillum	340.12	3.42	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00311621	Azospirillum	369.47	15.82	hypothetical protein
+PGF_00312282	Azospirillum	189.65	2.67	Bacteriophage FIG00948992: hypothetical protein
+PGF_00331973	Azospirillum	151.56	141.04	hypothetical protein
+PGF_00345928	Azospirillum	160.88	6.08	hypothetical protein
+PGF_00402478	Azospirillum	183.19	2.23	D-alanyl-D-alanine dipeptidase (EC 3.4.13.22)
+PGF_00404250	Azospirillum	795.81	201.39	probable glucosyl transferase
+PGF_00404319	Azospirillum	127.81	6.80	probable iron binding protein from the HesB_IscA_SufA family in Nif operon
+PGF_00406075	Azospirillum	194.00	2.50	putative RNA methyltransferase, TrmH family
+PGF_00406609	Azospirillum	462.31	37.42	Putative Zn-dependent protease, contains TPR repeats
+PGF_00413203	Azospirillum	158.74	5.11	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Azospirillum	260.55	16.12	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Azospirillum	253.05	22.24	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Azospirillum	304.60	20.99	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Azospirillum	408.75	30.83	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Azospirillum	623.21	10.80	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Azospirillum	148.95	5.71	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Azospirillum	157.65	2.83	tmRNA-binding protein SmpB
+PGF_00414926	Azospirillum	414.30	11.77	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Azospirillum	280.56	3.27	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415346	Azospirillum	390.94	45.07	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415481	Azospirillum	377.69	4.11	SAM-dependent methyltransferase, MidA
+PGF_00415486	Azospirillum	151.95	4.57	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Azospirillum	235.05	10.29	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415652	Azospirillum	274.12	12.73	FIG00005326: uncharacterized protein
+PGF_00416129	Azospirillum	525.05	85.76	CTP synthase (EC 6.3.4.2)
+PGF_00417755	Azospirillum	254.62	6.13	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Azospirillum	358.38	0.50	Chorismate synthase (EC 4.2.3.5)
+PGF_00418128	Azospirillum	263.10	9.00	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00419487	Azospirillum	175.12	3.10	Conserved uncharacterized protein CreA
+PGF_00419694	Azospirillum	242.69	21.25	Creatinine amidohydrolase (EC 3.5.2.10)
+PGF_00419913	Azospirillum	163.88	9.00	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420121	Azospirillum	222.53	20.19	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420482	Azospirillum	244.19	5.59	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420731	Azospirillum	497.90	9.04	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420903	Azospirillum	329.55	21.03	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420994	Azospirillum	748.44	16.19	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421489	Azospirillum	1161.33	3.45	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421733	Azospirillum	382.95	56.22	DNA recombination and repair protein RecF
+PGF_00421738	Azospirillum	241.82	6.85	DNA recombination and repair protein RecO
+PGF_00421792	Azospirillum	468.85	16.08	DNA repair protein RadA
+PGF_00421925	Azospirillum	213.44	36.56	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_00422163	Azospirillum	233.50	6.79	DNA-binding response regulator ChvI
+PGF_00422183	Azospirillum	235.18	6.87	DNA-binding response regulator PetR
+PGF_00422696	Azospirillum	193.41	3.99	DedA family protein
+PGF_00422959	Azospirillum	157.17	5.59	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Azospirillum	361.94	28.30	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423382	Azospirillum	351.69	1.74	Dihydroorotase (EC 3.5.2.3)
+PGF_00423492	Azospirillum	462.20	10.23	Dioxygenases related to 2-nitropropane dioxygenase
+PGF_00423533	Azospirillum	339.62	14.36	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Azospirillum	138.50	4.20	DksA family protein PA5536 (no Zn-finger)
+PGF_00423709	Azospirillum	252.56	8.34	DnaJ-like protein DjlA
+PGF_00423738	Azospirillum	247.81	6.60	Dolichol-phosphate mannosyltransferase
+PGF_00423927	Azospirillum	311.31	3.48	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00425214	Azospirillum	110.31	1.08	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425557	Azospirillum	97.19	0.75	4Fe-4S ferredoxin, nitrogenase-associated
+PGF_00425665	Azospirillum	255.20	2.93	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425684	Azospirillum	245.95	19.07	Probable transcriptional regulatory protein YebC
+PGF_00425828	Azospirillum	819.31	18.79	ATP-dependent, 3'-5' DNA helicase with strand annealing activity
+PGF_00425847	Azospirillum	203.06	14.73	FIG003437: hypothetical with DnaJ-like domain
+PGF_00425857	Azospirillum	701.12	3.88	FIG003492: Threonine dehydrogenase and related Zn-dependent dehydrogenases
+PGF_00425900	Azospirillum	807.19	205.96	FIG003603: membrane protein, putative
+PGF_00425997	Azospirillum	319.32	31.86	FIG004453: protein YceG like
+PGF_00426231	Azospirillum	519.25	8.55	FIG004684: SpoVR-like protein
+PGF_00426236	Azospirillum	380.06	11.46	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426629	Azospirillum	147.25	0.77	5-methyl-dCTP pyrophosphohydrolase (EC 3.6.1.-)
+PGF_00426932	Azospirillum	153.56	1.75	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00435859	Azospirillum	132.40	0.50	PTS system permease (IIAMan), nitrogen regulatory IIA protein
+PGF_00438421	Azospirillum	287.85	5.96	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00444138	Azospirillum	756.69	65.89	Nitrogen regulation protein NtrY (EC 2.7.3.-)
+PGF_00482828	Azospirillum	438.90	74.16	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Azospirillum	336.62	7.95	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00538878	Azospirillum	270.38	4.36	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00595771	Azospirillum	292.12	7.83	Squalene synthase (EC 2.5.1.21)
+PGF_00616490	Azospirillum	253.65	6.81	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Azospirillum	382.65	13.82	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Azospirillum	330.71	16.01	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00641071	Azospirillum	322.50	6.47	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00648054	Azospirillum	242.95	3.33	Tol-Pal system protein TolQ
+PGF_00649271	Azospirillum	90.44	0.51	Cell division protein BolA
+PGF_00655131	Azospirillum	502.38	7.35	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Azospirillum	482.28	13.88	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659286	Azospirillum	454.06	0.25	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00664069	Azospirillum	425.00	17.10	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Azospirillum	137.37	11.15	Ribosomal silencing factor RsfA
+PGF_00670694	Azospirillum	202.44	2.34	2-hydroxychromene-2-carboxylate isomerase family protein
+PGF_00709673	Azospirillum	129.94	1.48	hypothetical protein
+PGF_00709799	Azospirillum	265.06	84.28	hypothetical protein
+PGF_00710004	Azospirillum	81.75	10.23	hypothetical protein
+PGF_00710032	Azospirillum	168.19	3.47	hypothetical protein
+PGF_00710039	Azospirillum	86.88	0.34	hypothetical protein
+PGF_00710044	Azospirillum	80.31	0.70	hypothetical protein
+PGF_00713762	Azospirillum	183.88	44.22	hypothetical protein
+PGF_00713823	Azospirillum	86.41	8.09	hypothetical protein
+PGF_00716343	Azospirillum	230.50	14.56	hypothetical protein
+PGF_00716591	Azospirillum	94.75	14.06	(AF072135) II.1 protein
+PGF_00725839	Azospirillum	783.06	17.72	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00730641	Azospirillum	215.62	5.04	4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+PGF_00734751	Azospirillum	183.50	121.40	Cytochrome c heme lyase subunit CcmL
+PGF_00856417	Azospirillum	259.65	22.47	UPF0758 family protein
+PGF_00874759	Azospirillum	414.90	12.40	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00897004	Azospirillum	155.37	18.34	Transcriptional regulator
+PGF_00900374	Azospirillum	275.76	25.06	competence lipoprotein ComL, putative
+PGF_00908360	Azospirillum	258.95	2.26	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Azospirillum	329.89	7.89	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Azospirillum	393.72	89.66	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00950554	Azospirillum	688.50	71.37	Excinuclease ABC subunit B
+PGF_00957419	Azospirillum	181.00	14.31	Putative pre-16S rRNA nuclease Yqg
+PGF_00973394	Azospirillum	167.81	8.20	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00983926	Azospirillum	190.35	15.07	Ribosome-binding factor A
+PGF_01008498	Azospirillum	128.69	22.47	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01026260	Azospirillum	110.38	8.57	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_01065911	Azospirillum	233.20	3.30	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01084030	Azospirillum	775.80	12.34	Outer membrane protein assembly factor YaeT
+PGF_01104399	Azospirillum	264.69	3.28	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Azospirillum	398.75	51.01	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Azospirillum	386.78	4.14	Rod shape-determining protein RodA
+PGF_01147190	Azospirillum	467.62	84.54	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01171915	Azospirillum	294.00	6.42	HAD superfamily protein involved in N-acetyl-glucosamine catabolism
+PGF_01172200	Azospirillum	245.22	14.93	Uncharacterized membrane anchored protein Mext_4159
+PGF_01172431	Azospirillum	117.62	7.02	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172485	Azospirillum	423.15	3.77	Cell division protein FtsA
+PGF_01174715	Azospirillum	195.44	10.82	Regulatory protein RecX
+PGF_01174739	Azospirillum	271.60	32.73	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01181530	Azospirillum	115.81	4.64	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01196008	Azospirillum	229.12	9.18	Tim44-like domain protein
+PGF_01291823	Azospirillum	208.94	42.25	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01323228	Azospirillum	211.90	36.42	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01364427	Azospirillum	210.70	5.71	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Azospirillum	187.81	9.40	HNH endonuclease family protein
+PGF_01420802	Azospirillum	161.62	6.78	Cell division protein MraZ
+PGF_01421534	Azospirillum	179.25	42.76	LSU ribosomal protein L25p
+PGF_01423501	Azospirillum	155.89	2.08	Transcription elongation factor GreA
+PGF_01427606	Azospirillum	387.88	3.24	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_01448031	Azospirillum	106.75	7.43	Integration host factor alpha subunit
+PGF_01466742	Azospirillum	482.74	91.96	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01483918	Azospirillum	285.80	7.02	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01514111	Azospirillum	316.88	54.46	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01515276	Azospirillum	183.06	8.21	hypothetical protein
+PGF_01532393	Azospirillum	720.12	15.82	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01613113	Azospirillum	407.94	5.79	Uncharacterized MFS-type transporter YnfM
+PGF_01614738	Azospirillum	75.20	2.73	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Azospirillum	326.39	6.01	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01670799	Azospirillum	196.56	1.79	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01682537	Azospirillum	151.35	10.18	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Azospirillum	167.22	9.14	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Azospirillum	216.70	3.64	Adenylate kinase (EC 2.7.4.3)
+PGF_01777142	Azospirillum	205.44	16.34	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01899937	Azospirillum	286.44	7.66	Rod shape-determining protein MreC
+PGF_01960322	Azospirillum	606.88	198.08	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01975680	Azospirillum	132.56	7.86	Polar-differentiation response regulator DivK
+PGF_01994657	Azospirillum	432.65	69.75	Cell division trigger factor (EC 5.2.1.8)
+PGF_02029783	Azospirillum	398.45	31.89	GTP-binding protein Obg
+PGF_02061452	Azospirillum	401.30	17.46	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02082034	Azospirillum	494.12	119.50	Zinc protease
+PGF_02140574	Azospirillum	479.53	78.92	Flagellar system sigma 54-dependent response regulator FlbD
+PGF_02141097	Azospirillum	680.62	36.04	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02169237	Azospirillum	228.30	6.28	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02186750	Azospirillum	327.75	9.58	DUF1022 domain-containing protein
+PGF_02229778	Azospirillum	414.81	8.56	Arsenic efflux pump protein
+PGF_02357230	Azospirillum	184.14	16.52	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02366077	Azospirillum	326.62	3.65	NAD-dependent epimerase/dehydratase
+PGF_02463284	Azospirillum	197.25	1.12	Recombination protein RecR
+PGF_02473279	Azospirillum	254.84	6.38	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02505159	Azospirillum	340.50	1.21	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02514958	Azospirillum	331.44	15.45	putative periplasmic protein kinase ArgK and related GTPases of G3E family
+PGF_02515882	Azospirillum	411.50	1.37	Aspartokinase (EC 2.7.2.4)
+PGF_02517984	Azospirillum	76.44	5.12	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02593689	Azospirillum	438.35	84.39	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601905	Azospirillum	158.72	23.18	Transcriptional regulator PA2737, MerR family
+PGF_02710247	Azospirillum	329.00	0.00	Glyoxylate reductase (EC 1.1.1.79) / Glyoxylate reductase (EC 1.1.1.26) / Hydroxypyruvate reductase (EC 1.1.1.81)
+PGF_02776739	Azospirillum	147.44	19.87	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02790700	Azospirillum	176.12	3.61	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Azospirillum	240.76	14.80	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Azospirillum	439.60	90.90	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Azospirillum	1354.30	152.11	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02838109	Azospirillum	209.00	19.49	Shikimate kinase I (EC 2.7.1.71)
+PGF_02862285	Azospirillum	410.56	2.03	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866109	Azospirillum	224.38	5.62	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02866666	Azospirillum	845.06	6.73	ABC transporter, fused permease protein
+PGF_02875609	Azospirillum	453.12	2.63	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02893780	Azospirillum	83.06	0.25	hypothetical protein
+PGF_02893929	Azospirillum	259.31	6.63	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02893930	Azospirillum	264.19	4.92	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02895613	Azospirillum	449.15	19.64	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02898096	Azospirillum	453.75	107.48	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Azospirillum	68.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02904832	Azospirillum	327.81	3.43	Homoserine kinase (EC 2.7.1.39)
+PGF_02911133	Azospirillum	225.69	15.02	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Azospirillum	305.78	12.41	HflC protein
+PGF_02912272	Azospirillum	163.25	5.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Azospirillum	248.74	5.89	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02954217	Azospirillum	289.88	36.37	N-carbamoylputrescine amidase (EC 3.5.1.53)
+PGF_02959749	Azospirillum	391.70	4.38	Ribonuclease D (EC 3.1.26.3)
+PGF_02992495	Azospirillum	109.47	8.08	Protein translocase membrane subunit SecG
+PGF_02995302	Azospirillum	306.50	23.87	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_03000070	Azospirillum	352.28	7.48	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03025044	Azospirillum	204.06	20.64	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03057384	Azospirillum	350.06	28.29	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03062230	Azospirillum	157.69	4.21	16 kDa heat shock protein A
+PGF_03070510	Azospirillum	265.61	1.85	Flagellar synthesis regulator FleN
+PGF_03072132	Azospirillum	166.65	1.66	CarD-like transcriptional regulator
+PGF_03075401	Azospirillum	159.25	13.72	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Azospirillum	94.75	2.18	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03094694	Azospirillum	459.31	11.60	Peptidase B (EC 3.4.11.23)
+PGF_03098759	Azospirillum	275.38	30.77	Electron transfer flavoprotein, beta subunit FixA
+PGF_03116802	Azospirillum	296.88	8.75	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03128228	Azospirillum	420.12	71.95	Outer membrane beta-barrel assembly protein BamB
+PGF_03134445	Azospirillum	359.38	1.09	Electron transfer flavoprotein, alpha subunit FixB
+PGF_03136394	Azospirillum	433.06	0.25	Electron transfer flavoprotein-quinone oxidoreductase FixC
+PGF_03144011	Azospirillum	166.88	0.50	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146958	Azospirillum	296.42	19.37	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8) @ Archaetidylserine synthase (EC 2.7.8.38)
+PGF_03154343	Azospirillum	140.18	7.63	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Azospirillum	269.80	2.50	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Azospirillum	176.05	0.22	Transcription antitermination protein NusG
+PGF_03202871	Azospirillum	227.80	16.38	Hydrolase SMc00528, alpha/beta fold family
+PGF_03203461	Azospirillum	620.44	13.75	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03221114	Azospirillum	186.12	169.66	hypothetical protein
+PGF_03222913	Azospirillum	137.94	1.06	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03257845	Azospirillum	233.70	9.72	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Azospirillum	927.55	30.07	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Azospirillum	95.85	5.99	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03348128	Azospirillum	179.56	2.03	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03429638	Azospirillum	315.31	5.30	33 kDa chaperonin HslO
+PGF_03518570	Azospirillum	139.68	0.75	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Azospirillum	588.53	66.22	Cell division protein FtsZ
+PGF_03593265	Azospirillum	160.69	50.44	FIG018171: hypothetical protein of Cupin superfamily
+PGF_03679540	Azospirillum	236.31	19.60	Urease accessory protein UreF
+PGF_03683488	Azospirillum	180.44	3.16	2'-5' RNA ligase
+PGF_03683953	Azospirillum	832.44	12.54	Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)
+PGF_03708253	Azospirillum	64.37	1.26	Protein translocase subunit SecE
+PGF_03719269	Azospirillum	215.50	2.73	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Azospirillum	156.33	18.77	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729023	Azospirillum	516.69	11.21	Nitrogenase FeMo-cofactor synthesis FeS core scaffold and assembly protein NifB
+PGF_03729141	Azospirillum	192.67	2.81	UPF0301 protein YqgE
+PGF_03778780	Azospirillum	372.50	62.88	Signal recognition particle receptor FtsY
+PGF_03787199	Azospirillum	217.89	29.80	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Azospirillum	249.00	15.97	Ribonuclease III (EC 3.1.26.3)
+PGF_03934926	Azospirillum	149.25	1.29	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03945558	Azospirillum	176.88	6.15	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_03947991	Azospirillum	95.94	19.31	hypothetical protein
+PGF_03971420	Azospirillum	123.00	7.08	Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)
+PGF_03976412	Azospirillum	156.88	3.22	hypothetical protein
+PGF_03987764	Azospirillum	192.06	13.89	FIG003620: Proteophosphoglycan precursor (Fragment)
+PGF_04007946	Azospirillum	241.38	8.16	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Azospirillum	151.44	2.06	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04025415	Azospirillum	154.30	12.63	Large-conductance mechanosensitive channel
+PGF_04047265	Azospirillum	79.94	0.25	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04108824	Azospirillum	586.30	82.24	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04131439	Azospirillum	404.69	63.28	Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)
+PGF_04151476	Azospirillum	192.45	9.17	16S rRNA processing protein RimM
+PGF_04182459	Azospirillum	227.22	26.17	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Azospirillum	252.06	21.40	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04315180	Azospirillum	163.80	7.24	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Azospirillum	382.78	119.33	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Azospirillum	911.95	3.87	Protein translocase subunit SecA
+PGF_04368280	Azospirillum	312.12	35.10	Galactofuranose ABC transporter, substrate-binding protein
+PGF_04458212	Azospirillum	365.37	13.09	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04505269	Azospirillum	262.50	4.59	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Azospirillum	498.21	17.61	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04571944	Azospirillum	196.25	41.75	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Azospirillum	252.40	22.27	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04724831	Azospirillum	369.06	5.67	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Azospirillum	865.45	139.99	Translation initiation factor 2
+PGF_04788810	Azospirillum	193.20	7.10	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Azospirillum	323.45	14.95	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Azospirillum	131.85	2.39	LSU ribosomal protein L19p
+PGF_04950062	Azospirillum	680.69	7.29	Elongation factor G-like protein RSP_2247
+PGF_04962192	Azospirillum	732.75	29.81	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Azospirillum	103.90	2.85	LSU ribosomal protein L21p
+PGF_05015473	Azospirillum	97.56	1.79	Ferredoxin-like protein FixX
+PGF_05165078	Azospirillum	308.00	33.68	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Azospirillum	481.30	18.53	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05215981	Azospirillum	169.06	22.84	Uncharacterized protein CC_3748
+PGF_05294175	Azospirillum	157.00	5.41	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05338234	Azospirillum	292.18	6.23	Protein YicC
+PGF_05421852	Azospirillum	624.00	6.53	Chaperone protein HtpG
+PGF_05463808	Azospirillum	278.25	13.60	NAD kinase (EC 2.7.1.23)
+PGF_05519582	Azospirillum	410.19	7.92	NAD(FAD)-utilizing dehydrogenases
+PGF_05537159	Azospirillum	1012.75	12.42	Membrane carboxypeptidase (penicillin-binding protein)
+PGF_05581732	Azospirillum	446.80	1.99	Protein translocase subunit SecY
+PGF_05582393	Azospirillum	346.56	45.39	Prephenate dehydratase-associated ABC transporter, permease protein 2
+PGF_05598173	Azospirillum	375.81	59.43	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Azospirillum	294.81	43.59	Phytoene synthase (EC 2.5.1.32)
+PGF_05693577	Azospirillum	92.38	3.86	Integration host factor beta subunit
+PGF_05712128	Azospirillum	559.55	93.10	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05748227	Azospirillum	225.25	11.97	Uncharacterized conserved protein YfiP, contains DTW domain
+PGF_05949521	Azospirillum	543.45	70.18	Protein translocase subunit SecD
+PGF_05971611	Azospirillum	406.44	33.24	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Azospirillum	642.50	107.88	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06061522	Azospirillum	117.56	14.18	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06120144	Azospirillum	152.88	2.00	Ribosome association toxin RatA
+PGF_06162164	Azospirillum	456.50	51.01	Homospermidine synthase (EC 2.5.1.44)
+PGF_06170558	Azospirillum	157.56	3.76	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Azospirillum	154.83	0.99	LSU ribosomal protein L13p (L13Ae)
+PGF_06285041	Azospirillum	375.80	4.01	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Azospirillum	430.90	2.61	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06379377	Azospirillum	441.00	3.26	Replication-associated recombination protein RarA
+PGF_06398080	Azospirillum	340.25	2.21	L-amino acid ABC transporter (Glu/Asp/His/...), substrate-binding protein AapJ
+PGF_06419730	Azospirillum	866.00	158.95	Assimilatory nitrate reductase large subunit (EC 1.7.99.4)
+PGF_06451924	Azospirillum	333.00	3.65	Fructokinase (EC 2.7.1.4)
+PGF_06469881	Azospirillum	335.62	11.66	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06495818	Azospirillum	261.31	11.48	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06530721	Azospirillum	246.84	8.18	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Azospirillum	127.56	8.24	Fluoride ion transporter CrcB
+PGF_06594013	Azospirillum	154.05	38.28	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06693963	Azospirillum	106.89	0.32	Nucleoid-associated protein YaaK
+PGF_06718352	Azospirillum	160.37	1.89	Cys-tRNA(Pro) deacylase YbaK
+PGF_06755829	Azospirillum	360.00	42.93	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_07072582	Azospirillum	638.84	117.40	RNA polymerase sigma factor RpoD
+PGF_07235939	Azospirillum	130.62	23.13	hypothetical protein
+PGF_07242312	Azospirillum	621.55	11.79	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07263029	Azospirillum	326.81	21.90	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07344415	Azospirillum	189.00	1.15	Intracellular septation protein IspA
+PGF_07507244	Azospirillum	218.17	7.01	Glutathione S-transferase family protein
+PGF_07724688	Azospirillum	179.81	97.68	hypothetical protein
+PGF_08038006	Azospirillum	165.12	51.86	hypothetical protein
+PGF_08044016	Azospirillum	255.88	0.81	Flagellar biosynthesis protein FliR
+PGF_08047875	Azospirillum	110.81	0.75	hypothetical protein
+PGF_08083354	Azospirillum	293.00	11.85	hypothetical protein
+PGF_08097473	Azospirillum	210.95	24.10	hypothetical protein
+PGF_08119190	Azospirillum	299.38	20.37	hypothetical protein
+PGF_08126362	Azospirillum	489.00	9.05	DNA recombination protein RmuC
+PGF_08153913	Azospirillum	246.59	25.83	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08161874	Azospirillum	143.56	31.08	cytosolic long-chain acyl-CoA thioester hydrolase family protein
+PGF_08173353	Azospirillum	424.56	8.20	hypothetical protein
+PGF_08183187	Azospirillum	372.35	6.87	Cell division protein FtsW

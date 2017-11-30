@@ -1,0 +1,986 @@
+PGF_00000261	Rhodothermus	327.00	145.90	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000588	Rhodothermus	407.00	0.00	FIG008208: hypothetical protein
+PGF_00001094	Rhodothermus	283.80	82.07	FIG00936810: hypothetical protein
+PGF_00003328	Rhodothermus	414.00	0.00	ABC-type antimicrobial peptide transport system, permease component
+PGF_00003504	Rhodothermus	247.40	32.65	FIG137478: Hypothetical protein
+PGF_00004541	Rhodothermus	175.40	1.34	Ferric uptake regulation protein FUR
+PGF_00005284	Rhodothermus	532.80	0.45	Flagellar M-ring protein FliF
+PGF_00005358	Rhodothermus	262.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005402	Rhodothermus	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005454	Rhodothermus	457.80	13.86	Flagellar hook-associated protein FlgK
+PGF_00006359	Rhodothermus	247.00	106.80	Fructokinase (EC 2.7.1.4)
+PGF_00006390	Rhodothermus	358.20	3.49	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006420	Rhodothermus	240.00	1.22	CRISPR-associated protein Cas5
+PGF_00007012	Rhodothermus	366.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007027	Rhodothermus	305.00	13.42	GTP-binding protein Era
+PGF_00007028	Rhodothermus	430.80	6.26	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007525	Rhodothermus	290.60	88.10	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007632	Rhodothermus	266.60	119.13	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007971	Rhodothermus	439.00	0.00	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007988	Rhodothermus	431.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008393	Rhodothermus	415.00	0.00	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008651	Rhodothermus	256.80	34.28	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+PGF_00008780	Rhodothermus	374.00	0.00	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00009500	Rhodothermus	182.00	0.00	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009760	Rhodothermus	387.60	7.67	UDP-N-acetylglucosamine:L-malate glycosyltransferase
+PGF_00010205	Rhodothermus	226.00	28.51	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010480	Rhodothermus	223.40	75.13	HAD-superfamily subfamily IIA hydrolase, hypothetical 2
+PGF_00010692	Rhodothermus	339.00	0.00	HPr kinase/phosphorylase
+PGF_00011530	Rhodothermus	324.20	31.63	Heptaprenyl diphosphate synthase (all-trans) (EC 2.5.1.30)
+PGF_00011979	Rhodothermus	376.20	165.17	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012982	Rhodothermus	288.80	4.02	Hydroxypyruvate isomerase (EC 5.3.1.22)
+PGF_00013283	Rhodothermus	244.00	0.00	UPF0001 protein YggS
+PGF_00013492	Rhodothermus	193.60	1.34	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013803	Rhodothermus	202.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013804	Rhodothermus	337.20	162.79	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00014051	Rhodothermus	303.40	16.99	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Rhodothermus	577.40	160.78	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014952	Rhodothermus	131.00	0.00	Integration host factor beta subunit
+PGF_00015142	Rhodothermus	57.20	16.75	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Rhodothermus	175.80	36.23	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Rhodothermus	309.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Rhodothermus	254.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015702	Rhodothermus	480.60	9.84	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00016132	Rhodothermus	314.60	14.31	L-lactate dehydrogenase (EC 1.1.1.27)
+PGF_00016328	Rhodothermus	174.80	1.10	LSU ribosomal protein L10p (P0)
+PGF_00016338	Rhodothermus	395.40	24.02	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Rhodothermus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Rhodothermus	153.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016353	Rhodothermus	112.20	15.21	LSU ribosomal protein L18p (L5e)
+PGF_00016358	Rhodothermus	111.20	8.50	LSU ribosomal protein L20p
+PGF_00016368	Rhodothermus	119.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Rhodothermus	96.40	3.29	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Rhodothermus	107.20	24.15	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Rhodothermus	74.60	10.41	LSU ribosomal protein L27p
+PGF_00016393	Rhodothermus	260.60	34.44	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Rhodothermus	62.80	7.16	LSU ribosomal protein L30p (L7e)
+PGF_00016416	Rhodothermus	57.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Rhodothermus	49.60	5.37	LSU ribosomal protein L34p
+PGF_00016423	Rhodothermus	70.40	5.37	LSU ribosomal protein L35p
+PGF_00016431	Rhodothermus	204.00	5.48	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Rhodothermus	214.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Rhodothermus	188.20	6.26	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Rhodothermus	192.20	34.70	LSU ribosomal protein L6p (L9e)
+PGF_00016452	Rhodothermus	152.60	3.58	LSU ribosomal protein L9p
+PGF_00017190	Rhodothermus	249.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017265	Rhodothermus	508.80	9.07	ATP-dependent RNA helicase
+PGF_00017405	Rhodothermus	272.20	57.69	Lipoprotein NlpD precursor
+PGF_00017479	Rhodothermus	330.00	4.47	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017939	Rhodothermus	384.40	10.14	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018952	Rhodothermus	312.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018964	Rhodothermus	540.20	7.85	Malate synthase (EC 2.3.3.9)
+PGF_00019951	Rhodothermus	213.00	0.00	ATP-dependent protease La domain protein
+PGF_00020172	Rhodothermus	281.80	2.68	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Rhodothermus	145.00	2.24	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Rhodothermus	265.00	5.52	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020735	Rhodothermus	281.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020984	Rhodothermus	293.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Rhodothermus	140.00	0.00	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021217	Rhodothermus	510.40	0.89	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022565	Rhodothermus	85.40	3.58	Molybdopterin synthase sulfur carrier subunit
+PGF_00023326	Rhodothermus	179.20	39.80	MarC family integral membrane protein
+PGF_00023739	Rhodothermus	347.80	6.26	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023835	Rhodothermus	272.20	84.52	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00023933	Rhodothermus	304.60	94.81	N-acetylornithine carbamoyltransferase (EC 2.1.3.9)
+PGF_00024143	Rhodothermus	451.00	16.79	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_00024252	Rhodothermus	287.00	50.17	N4-(beta-N-acetylglucosaminyl)-L-asparaginase, putative
+PGF_00024273	Rhodothermus	149.00	48.08	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024309	Rhodothermus	571.00	0.00	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024619	Rhodothermus	557.60	5.73	Acetate permease ActP (cation/acetate symporter)
+PGF_00024687	Rhodothermus	441.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Rhodothermus	223.40	1.34	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Rhodothermus	170.00	0.00	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024742	Rhodothermus	543.60	3.13	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024969	Rhodothermus	296.00	0.00	NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)
+PGF_00025289	Rhodothermus	445.80	1.79	Na+/H+ antiporter NhaA type
+PGF_00025379	Rhodothermus	298.00	0.00	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025562	Rhodothermus	217.80	17.44	Nicotinamidase (EC 3.5.1.19)
+PGF_00026084	Rhodothermus	280.00	0.00	Nitrous oxide reductase maturation transmembrane protein NosY
+PGF_00026362	Rhodothermus	207.60	0.89	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Rhodothermus	282.80	0.45	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Rhodothermus	297.80	6.57	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Rhodothermus	231.20	62.24	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026888	Rhodothermus	539.80	162.97	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00027170	Rhodothermus	179.80	80.48	OmpA family protein
+PGF_00029917	Rhodothermus	290.20	2.68	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030291	Rhodothermus	638.20	0.45	Peptidase
+PGF_00030640	Rhodothermus	360.00	0.00	Peptide chain release factor 1
+PGF_00033253	Rhodothermus	288.20	19.68	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033296	Rhodothermus	214.20	13.07	Phosphatidylethanolamine N-methyltransferase (EC 2.1.1.17)
+PGF_00033380	Rhodothermus	452.40	14.26	Phosphodiesterase/alkaline phosphatase D
+PGF_00033608	Rhodothermus	259.40	104.80	Phosphoglyceromutase
+PGF_00033737	Rhodothermus	248.80	7.16	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033877	Rhodothermus	162.00	0.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033941	Rhodothermus	224.60	14.76	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Rhodothermus	333.00	0.00	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Rhodothermus	235.00	0.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00034776	Rhodothermus	767.20	19.45	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Rhodothermus	179.40	3.91	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Rhodothermus	339.60	1.67	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035009	Rhodothermus	165.00	0.00	Positive regulator of CheA protein activity (CheW)
+PGF_00035194	Rhodothermus	359.00	0.00	Adenosine deaminase (EC 3.5.4.4)
+PGF_00035378	Rhodothermus	425.00	0.00	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035400	Rhodothermus	272.00	0.00	Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family
+PGF_00035721	Rhodothermus	431.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Rhodothermus	433.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035831	Rhodothermus	243.80	54.11	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00036111	Rhodothermus	143.00	11.18	Predicted metal-dependent protease of the PAD1/JAB1 superfamily
+PGF_00036172	Rhodothermus	480.40	1.34	Lipopolysaccharide export system permease protein LptF
+PGF_00036580	Rhodothermus	102.00	0.00	Protein translocase subunit YajC
+PGF_00036761	Rhodothermus	393.20	0.45	Probable Co/Zn/Cd efflux system membrane fusion protein
+PGF_00036810	Rhodothermus	457.00	14.14	Probable L-lysine-epsilon aminotransferase (EC 2.6.1.36) (L-lysine aminotransferase) (Lysine 6-aminotransferase)
+PGF_00038674	Rhodothermus	306.80	0.84	Protein translocase subunit SecF
+PGF_00040447	Rhodothermus	277.00	4.12	Putative cyclase
+PGF_00040578	Rhodothermus	259.60	24.35	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00044198	Rhodothermus	253.80	3.90	Putative stomatin/prohibitin-family membrane protease subunit aq_911
+PGF_00046029	Rhodothermus	318.80	36.23	Pyruvate:ferredoxin oxidoreductase, beta subunit (EC 1.2.7.1)
+PGF_00046038	Rhodothermus	306.40	0.89	Pyruvate:ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.1) / Pyruvate:ferredoxin oxidoreductase, delta subunit (EC 1.2.7.1)
+PGF_00046060	Rhodothermus	216.60	36.67	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046104	Rhodothermus	291.80	85.42	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046377	Rhodothermus	253.00	0.00	RNA polymerase sigma factor for flagellar operon
+PGF_00046403	Rhodothermus	496.80	50.43	RNA polymerase sigma-54 factor RpoN
+PGF_00047078	Rhodothermus	347.00	0.00	RecA protein
+PGF_00047533	Rhodothermus	395.00	0.00	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00047893	Rhodothermus	145.40	13.09	Response regulator CheB (receptor modification enzyme, protein-glutamate methylesterase)
+PGF_00048480	Rhodothermus	217.60	12.52	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Rhodothermus	158.00	3.81	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Rhodothermus	189.60	15.18	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048638	Rhodothermus	329.00	40.25	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048829	Rhodothermus	233.00	78.26	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Rhodothermus	272.40	2.19	Ribosomal protein L11 methyltransferase
+PGF_00048926	Rhodothermus	186.20	12.97	Ribosome recycling factor
+PGF_00048928	Rhodothermus	318.60	0.89	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Rhodothermus	132.80	15.21	Ribosome-binding factor A
+PGF_00048985	Rhodothermus	206.00	40.25	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049362	Rhodothermus	348.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Rhodothermus	270.40	16.82	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Rhodothermus	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Rhodothermus	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Rhodothermus	115.00	8.22	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Rhodothermus	126.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Rhodothermus	87.80	2.68	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049849	Rhodothermus	195.60	21.72	SSU ribosomal protein S16p
+PGF_00049854	Rhodothermus	99.40	3.58	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Rhodothermus	65.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Rhodothermus	88.20	12.97	SSU ribosomal protein S19p (S15e)
+PGF_00049893	Rhodothermus	200.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049904	Rhodothermus	155.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Rhodothermus	128.40	10.29	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Rhodothermus	133.20	0.45	SSU ribosomal protein S9p (S16e)
+PGF_00050995	Rhodothermus	497.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051206	Rhodothermus	305.20	20.71	Serine kinase of the HPr protein, regulates carbohydrate metabolism
+PGF_00051226	Rhodothermus	738.20	19.75	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051335	Rhodothermus	137.00	6.71	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_00051342	Rhodothermus	154.20	7.16	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_00052646	Rhodothermus	261.20	7.16	Similar to glycogen synthase (EC 2.4.1.21)
+PGF_00052705	Rhodothermus	152.80	15.21	LSU ribosomal protein L11p (L12e)
+PGF_00052729	Rhodothermus	244.40	5.37	Similar to tRNA pseudouridine synthase C, group TruC1
+PGF_00053055	Rhodothermus	146.00	0.00	Small heat shock protein
+PGF_00053417	Rhodothermus	296.60	31.19	Sodium/calcium exchanger
+PGF_00053441	Rhodothermus	446.40	21.02	Sodium/glutamate symporter
+PGF_00053770	Rhodothermus	375.00	0.00	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053991	Rhodothermus	315.20	47.97	Stage 0 sporulation protein YaaT
+PGF_00054204	Rhodothermus	419.80	18.34	Serine palmitoyltransferase (EC 2.3.1.50)
+PGF_00054461	Rhodothermus	134.80	3.90	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_00054995	Rhodothermus	517.20	149.86	Sulfate transporter
+PGF_00055015	Rhodothermus	259.20	1.79	Sulfhydrogenase subunit delta (EC 1.12.1.5)
+PGF_00055099	Rhodothermus	147.00	0.00	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055103	Rhodothermus	143.60	13.92	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055771	Rhodothermus	184.00	0.00	TRAP dicarboxylate transporter, DctQ subunit, unknown substrate 6
+PGF_00055861	Rhodothermus	168.20	4.02	TRAP-type C4-dicarboxylate transport system, small permease component
+PGF_00055966	Rhodothermus	400.40	0.89	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056544	Rhodothermus	266.40	16.99	Thiazole synthase (EC 2.8.1.10)
+PGF_00056545	Rhodothermus	202.20	14.46	Thiazole tautomerase TenI (EC 5.3.99.10)
+PGF_00056872	Rhodothermus	238.00	30.74	Thymidine kinase (EC 2.7.1.21)
+PGF_00056897	Rhodothermus	288.20	10.16	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057078	Rhodothermus	124.00	0.00	Anti-sigma B factor antagonist RsbV
+PGF_00057399	Rhodothermus	226.00	7.28	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Rhodothermus	155.80	1.10	Transamidase GatB domain protein
+PGF_00059320	Rhodothermus	106.00	0.00	Transcriptional regulator, HxlR family
+PGF_00059604	Rhodothermus	164.40	0.89	Transcriptional regulator, MarR family
+PGF_00059667	Rhodothermus	127.00	0.00	Transcriptional regulator, MecI family
+PGF_00059681	Rhodothermus	131.00	31.87	Transcriptional regulator, MerR family
+PGF_00060421	Rhodothermus	192.00	0.00	Translation elongation factor P
+PGF_00060427	Rhodothermus	276.00	0.00	Translation elongation factor Ts
+PGF_00060431	Rhodothermus	62.40	5.37	Translation initiation factor 1
+PGF_00060478	Rhodothermus	146.40	25.49	Translation initiation factor 3
+PGF_00061607	Rhodothermus	119.00	4.47	ApaG protein
+PGF_00062045	Rhodothermus	349.40	10.29	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Rhodothermus	418.00	10.10	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063942	Rhodothermus	311.00	0.00	UDP-2-acetamido-2-deoxy-D-glucuronic acid dehydrogenase (NAD+) (EC 1.1.1.335)
+PGF_00063943	Rhodothermus	196.40	9.84	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronic acid acetyltransferase (EC 2.3.1.201)
+PGF_00063993	Rhodothermus	325.80	158.10	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00064030	Rhodothermus	146.60	3.29	Archease
+PGF_00064132	Rhodothermus	318.60	1.34	UDP-glucuronate decarboxylase (EC 4.1.1.35)
+PGF_00064218	Rhodothermus	108.00	0.00	UPF0145 protein YbjQ
+PGF_00064272	Rhodothermus	270.00	0.00	UPF0246 protein YaaA
+PGF_00065887	Rhodothermus	273.00	0.00	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065911	Rhodothermus	244.00	7.31	Undecaprenyl-phosphate mannosyltransferase (EC 2.4.1.54)
+PGF_00066123	Rhodothermus	222.40	29.96	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066294	Rhodothermus	206.00	72.68	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066589	Rhodothermus	135.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Rhodothermus	319.20	0.45	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067554	Rhodothermus	496.40	16.99	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067788	Rhodothermus	212.40	12.52	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00068806	Rhodothermus	170.80	6.10	asparaginase/glutaminase
+PGF_00070023	Rhodothermus	228.00	1.22	COG2102: Predicted ATPases of PP-loop superfamily
+PGF_00070551	Rhodothermus	355.20	22.81	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00070944	Rhodothermus	316.80	89.89	endoglucanase, putative
+PGF_00084324	Rhodothermus	267.80	5.02	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00085680	Rhodothermus	318.60	43.37	hypothetical protein
+PGF_00098611	Rhodothermus	269.00	0.00	ABC transporter, permease protein 2 (cluster 1, maltose/g3p/polyamine/iron)
+PGF_00106484	Rhodothermus	282.20	55.00	hypothetical protein
+PGF_00127279	Rhodothermus	522.40	8.71	Na+/H+ antiporter NhaD and related arsenite permeases
+PGF_00138100	Rhodothermus	100.00	0.00	probable nitrogen regulatory protein P-II
+PGF_00144272	Rhodothermus	169.00	6.71	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00167788	Rhodothermus	127.00	0.00	hypothetical protein
+PGF_00178019	Rhodothermus	183.00	0.00	DNA protection during starvation protein
+PGF_00282696	Rhodothermus	286.80	1.79	Sugar or sugar phosphate isomerase/epimerase/dehydrotase
+PGF_00285620	Rhodothermus	250.80	1.10	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00321553	Rhodothermus	299.40	22.28	ABC transporter, substrate-binding protein (cluster 8, B12/iron complex)
+PGF_00381334	Rhodothermus	124.60	10.62	hypothetical protein
+PGF_00399630	Rhodothermus	265.80	59.15	hypothetical protein PA3071
+PGF_00399844	Rhodothermus	228.40	7.60	hypothetical protein
+PGF_00400531	Rhodothermus	460.60	7.67	leucine aminopeptidase-related protein
+PGF_00402340	Rhodothermus	372.80	30.87	oxidoreductase-like
+PGF_00404256	Rhodothermus	452.00	0.00	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Rhodothermus	265.40	105.35	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404384	Rhodothermus	306.00	84.97	Biotin synthase (EC 2.8.1.6)
+PGF_00404536	Rhodothermus	288.20	96.45	Biotin synthesis protein BioZ
+PGF_00404780	Rhodothermus	552.80	0.45	Bipolar DNA helicase HerA
+PGF_00405119	Rhodothermus	371.20	11.30	protein of unknown function DUF21
+PGF_00405679	Rhodothermus	218.00	0.00	putative ATP-dependent DNA helicase
+PGF_00406166	Rhodothermus	258.00	0.00	putative ZIP domain zinc transporter
+PGF_00406303	Rhodothermus	461.00	0.00	putative amidohydrolase
+PGF_00410883	Rhodothermus	160.80	0.45	Single-stranded DNA-binding protein
+PGF_00411077	Rhodothermus	359.40	29.30	putative surface layer protein
+PGF_00411484	Rhodothermus	329.80	15.21	radical activating enzyme
+PGF_00411764	Rhodothermus	211.00	8.34	response regulator receiver domain protein
+PGF_00412555	Rhodothermus	343.00	72.72	similar to ribulose-1,5-bisphosphate carboxylase, Type III, too
+PGF_00412705	Rhodothermus	551.00	0.00	sodium/glucose cotransporter 2
+PGF_00413295	Rhodothermus	204.40	79.19	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Rhodothermus	157.80	0.45	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413399	Rhodothermus	367.00	22.36	teichoic acid biosynthesis related protein
+PGF_00413554	Rhodothermus	154.00	0.00	tmRNA-binding protein SmpB
+PGF_00414946	Rhodothermus	271.00	0.00	CDP-alcohol phosphatidyltransferase
+PGF_00415245	Rhodothermus	234.20	26.39	COG0546: Predicted phosphatases
+PGF_00415631	Rhodothermus	92.00	13.42	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416046	Rhodothermus	206.60	4.34	2OG-Fe(II) oxygenase
+PGF_00416129	Rhodothermus	564.20	1.10	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Rhodothermus	951.20	7.12	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00417429	Rhodothermus	385.00	0.00	Chaperone protein DnaJ
+PGF_00417577	Rhodothermus	140.60	14.31	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417813	Rhodothermus	121.00	0.00	Chorismate mutase I (EC 5.4.99.5)
+PGF_00418649	Rhodothermus	746.60	0.55	Colicin I receptor
+PGF_00418733	Rhodothermus	260.00	0.00	1,2-phenylacetyl-CoA epoxidase, subunit C (EC 1.14.13.149)
+PGF_00419013	Rhodothermus	166.20	0.45	1,2-phenylacetyl-CoA epoxidase, subunit D (EC 1.14.13.149)
+PGF_00419420	Rhodothermus	423.00	20.12	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419540	Rhodothermus	246.80	0.45	Copper resistance protein B
+PGF_00419628	Rhodothermus	458.00	0.00	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Rhodothermus	160.00	69.32	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419800	Rhodothermus	157.00	0.00	Cupin domain protein clustered with Rubisco-like protein
+PGF_00419913	Rhodothermus	170.60	0.89	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420041	Rhodothermus	512.80	6.61	Cysteine desulfurase (EC 2.8.1.7)
+PGF_00420121	Rhodothermus	193.20	77.82	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420481	Rhodothermus	239.20	3.83	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420492	Rhodothermus	138.20	8.67	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_00420496	Rhodothermus	818.80	0.45	Cytochrome c heme lyase subunit CcmF
+PGF_00420584	Rhodothermus	277.20	0.45	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center
+PGF_00420891	Rhodothermus	371.40	3.97	D-aminopeptidase (EC 3.4.11.19)
+PGF_00421071	Rhodothermus	151.20	2.05	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421498	Rhodothermus	379.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00422271	Rhodothermus	327.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422287	Rhodothermus	105.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_00422545	Rhodothermus	310.60	14.52	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422552	Rhodothermus	405.80	1.79	DUF89 protein RTxK subfamily
+PGF_00422888	Rhodothermus	524.40	54.56	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00423378	Rhodothermus	443.60	19.31	Dihydroorotase (EC 3.5.2.3)
+PGF_00424338	Rhodothermus	218.60	1.34	Endonuclease V (EC 3.1.21.7)
+PGF_00424447	Rhodothermus	374.80	42.97	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424569	Rhodothermus	276.20	14.11	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Rhodothermus	591.80	51.88	Excinuclease ABC subunit C
+PGF_00425024	Rhodothermus	374.40	70.10	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425679	Rhodothermus	212.00	0.00	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425993	Rhodothermus	401.80	1.30	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426932	Rhodothermus	155.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427366	Rhodothermus	138.00	0.00	6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
+PGF_00473519	Rhodothermus	209.00	0.00	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Rhodothermus	484.20	19.51	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Rhodothermus	390.20	23.37	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00505890	Rhodothermus	126.60	5.37	Transcriptional regulator, ArsR family
+PGF_00529632	Rhodothermus	870.00	39.24	ClpB protein
+PGF_00618776	Rhodothermus	363.40	0.89	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Rhodothermus	533.00	0.00	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00644336	Rhodothermus	367.00	0.00	Scaffold protein for [4Fe-4S] cluster assembly, MRP-like, similar to chloroplast-targeted plant protein HCF101
+PGF_00644953	Rhodothermus	315.40	1.34	DnaJ-class molecular chaperone CbpA
+PGF_00650532	Rhodothermus	332.00	6.71	UPF0365 protein YqfA
+PGF_00655628	Rhodothermus	537.40	0.89	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00658872	Rhodothermus	242.20	54.67	Two-component transcriptional response regulator, LuxR family
+PGF_00665371	Rhodothermus	98.00	0.00	FIG038648: MoaD and/or ThiS families
+PGF_00665875	Rhodothermus	151.60	0.89	Ribosomal silencing factor RsfA
+PGF_00676158	Rhodothermus	234.20	24.70	Ribonuclease Z (EC 3.1.26.11)
+PGF_00677915	Rhodothermus	205.40	1.95	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00687949	Rhodothermus	323.40	25.96	hypothetical protein
+PGF_00694850	Rhodothermus	440.40	21.74	Nitrous oxide reductase maturation protein NosD
+PGF_00702374	Rhodothermus	143.60	1.52	SSU ribosomal protein S6p
+PGF_00705342	Rhodothermus	363.80	32.31	Putative transmembrane sensor
+PGF_00715111	Rhodothermus	147.00	0.00	Cell division protein MraZ
+PGF_00720378	Rhodothermus	287.20	0.45	Sulfhydrogenase subunit gamma (EC 1.12.98.4)
+PGF_00724199	Rhodothermus	332.40	3.29	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00728659	Rhodothermus	362.80	2.68	Predicted methyltransferase, DUF43 family
+PGF_00731239	Rhodothermus	229.60	14.31	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety, TenA subgroup with Cys in active site
+PGF_00734971	Rhodothermus	436.00	79.10	Two-component transcriptional response regulator, LuxR family
+PGF_00744857	Rhodothermus	527.20	49.69	Xylulose kinase (EC 2.7.1.17)
+PGF_00800643	Rhodothermus	465.60	0.89	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
+PGF_00827555	Rhodothermus	608.80	0.84	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00846939	Rhodothermus	117.80	26.18	Flagellar operon protein CA_C2155
+PGF_00850010	Rhodothermus	227.20	9.86	CBS domain protein
+PGF_00853393	Rhodothermus	292.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00859461	Rhodothermus	586.40	167.98	TonB-dependent receptor
+PGF_00900330	Rhodothermus	180.00	20.12	Phenylacetic acid degradation protein PaaY
+PGF_00908360	Rhodothermus	248.20	4.38	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Rhodothermus	358.00	0.00	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Rhodothermus	402.60	133.40	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00932867	Rhodothermus	190.20	16.16	Putative rRNA methylase YtqB
+PGF_00947006	Rhodothermus	440.00	0.00	UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)
+PGF_00957419	Rhodothermus	157.00	4.24	Putative pre-16S rRNA nuclease Yqg
+PGF_00957770	Rhodothermus	231.00	0.00	Two-component transcriptional response regulator, winged helix family
+PGF_00960579	Rhodothermus	355.80	9.31	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00970815	Rhodothermus	158.40	23.70	hypothetical protein
+PGF_00991483	Rhodothermus	166.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00991601	Rhodothermus	65.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_01008498	Rhodothermus	110.80	24.07	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Rhodothermus	237.60	6.02	Flagellar basal-body rod protein FlgF
+PGF_01027719	Rhodothermus	168.00	63.86	ATP-binding protein
+PGF_01028579	Rhodothermus	460.40	12.07	Sodium-dependent transporter, SNF family
+PGF_01040290	Rhodothermus	178.80	93.53	Inner membrane protein YbaN
+PGF_01065911	Rhodothermus	237.20	4.92	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01068086	Rhodothermus	258.00	0.00	Flagellar biosynthesis protein FliR
+PGF_01079016	Rhodothermus	317.20	0.45	Chromosome (plasmid) partitioning protein ParB
+PGF_01104399	Rhodothermus	394.40	1.34	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01126005	Rhodothermus	415.40	5.27	Rod shape-determining protein RodA
+PGF_01212500	Rhodothermus	269.00	0.00	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212940	Rhodothermus	330.80	85.09	UPF0701 protein YloC
+PGF_01217219	Rhodothermus	149.20	0.45	DnaK suppressor protein, putative
+PGF_01217587	Rhodothermus	238.00	17.89	GlcNAc-PI de-N-acetylase family
+PGF_01220614	Rhodothermus	211.60	99.33	RNA methyltransferase, TrmH family
+PGF_01264811	Rhodothermus	207.00	0.00	DedA family protein
+PGF_01291823	Rhodothermus	220.00	0.00	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01323228	Rhodothermus	230.60	0.55	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01329458	Rhodothermus	328.80	1.79	oxidoreductase, zinc-binding dehydrogenase family
+PGF_01367201	Rhodothermus	154.80	30.10	HNH endonuclease family protein
+PGF_01383123	Rhodothermus	659.80	4.38	Acetoacetyl-CoA synthetase (EC 6.2.1.16)
+PGF_01396822	Rhodothermus	160.20	4.92	Isoquinoline 1-oxidoreductase alpha subunit (EC 1.3.99.16)
+PGF_01421524	Rhodothermus	341.80	7.12	Glucose-6-phosphate isomerase, archaeal II (EC 5.3.1.9) / Mannose-6-phosphate isomerase, archaeal (EC 5.3.1.8)
+PGF_01421534	Rhodothermus	202.60	1.34	LSU ribosomal protein L25p
+PGF_01423501	Rhodothermus	159.00	0.00	Transcription elongation factor GreA
+PGF_01444546	Rhodothermus	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01514111	Rhodothermus	341.00	0.00	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01555804	Rhodothermus	109.80	4.92	Flagellar basal-body rod protein FlgB
+PGF_01576148	Rhodothermus	150.60	9.84	transmembrane protein, distant homology with ydbS
+PGF_01599021	Rhodothermus	189.00	0.00	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Rhodothermus	227.00	6.71	Flagellar basal-body rod modification protein FlgD
+PGF_01674551	Rhodothermus	127.00	0.00	Glycine cleavage system H protein
+PGF_01682834	Rhodothermus	154.00	13.42	Bacterial ribosome SSU maturation protein RimP
+PGF_01719425	Rhodothermus	279.00	0.00	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_01734668	Rhodothermus	202.80	24.55	Adenylate kinase (EC 2.7.4.3)
+PGF_01744781	Rhodothermus	148.60	18.78	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01777142	Rhodothermus	199.00	0.00	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Rhodothermus	160.20	5.07	Protein YhfA
+PGF_01781170	Rhodothermus	135.60	2.51	Regulatory protein ArsR
+PGF_01810645	Rhodothermus	508.20	23.65	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01839055	Rhodothermus	280.20	96.82	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01862412	Rhodothermus	265.00	26.83	Transcriptional regulator, IclR family
+PGF_01867628	Rhodothermus	374.60	2.19	Heat-inducible transcription repressor HrcA
+PGF_01898546	Rhodothermus	517.60	97.49	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01899395	Rhodothermus	193.00	0.00	Flagellar L-ring protein FlgH
+PGF_01899924	Rhodothermus	252.60	0.55	Flagellar motor rotation protein MotB
+PGF_01899937	Rhodothermus	240.00	76.03	Rod shape-determining protein MreC
+PGF_01900530	Rhodothermus	242.40	5.81	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900676	Rhodothermus	255.40	5.81	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01910737	Rhodothermus	226.00	0.00	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01943486	Rhodothermus	180.60	0.89	O-acetyl-ADP-ribose deacetylase
+PGF_01981332	Rhodothermus	167.00	0.00	Transcriptional regulator, AsnC family
+PGF_02061452	Rhodothermus	357.40	41.59	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02083898	Rhodothermus	278.80	120.81	3'(2'),5'-bisphosphate nucleotidase
+PGF_02098099	Rhodothermus	502.20	18.73	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02109968	Rhodothermus	348.20	2.05	Flagellar motor switch protein FliG
+PGF_02111888	Rhodothermus	411.00	0.00	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141148	Rhodothermus	177.80	15.21	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_02168932	Rhodothermus	88.00	0.00	CRISPR-associated protein Cas2
+PGF_02197880	Rhodothermus	115.00	0.00	HIT family hydrolase
+PGF_02213227	Rhodothermus	74.00	4.47	Sulfur carrier protein ThiS
+PGF_02216306	Rhodothermus	160.80	1.79	CopG protein
+PGF_02226715	Rhodothermus	700.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02228075	Rhodothermus	113.00	7.87	phage shock protein
+PGF_02244871	Rhodothermus	310.00	0.00	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02277802	Rhodothermus	190.00	6.71	Putative transmembrane protein
+PGF_02305956	Rhodothermus	243.60	1.52	Aerotolerance protein BatC
+PGF_02349818	Rhodothermus	145.60	0.55	Acyl-coenzyme A thioesterase PaaD (Pse.pu.) (E. coli PaaI)
+PGF_02371648	Rhodothermus	179.00	0.00	CoA-binding domain protein
+PGF_02382389	Rhodothermus	318.00	0.71	Ribokinase (EC 2.7.1.15)
+PGF_02405545	Rhodothermus	312.60	3.13	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02419010	Rhodothermus	150.00	0.00	hypothetical protein
+PGF_02454577	Rhodothermus	84.00	0.00	SSU ribosomal protein S20p
+PGF_02472175	Rhodothermus	261.00	0.00	PspA/IM30 family protein
+PGF_02472775	Rhodothermus	417.80	12.97	hypothetical protein
+PGF_02507555	Rhodothermus	421.20	7.16	hypothetical protein
+PGF_02516666	Rhodothermus	313.60	1.34	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Rhodothermus	427.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02537450	Rhodothermus	390.20	0.84	HtrA protease/chaperone protein
+PGF_02565090	Rhodothermus	167.00	20.62	Thiol:disulfide oxidoreductase related to ResA
+PGF_02601905	Rhodothermus	122.00	2.24	Transcriptional regulator PA2737, MerR family
+PGF_02623406	Rhodothermus	324.80	28.62	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02686788	Rhodothermus	316.40	14.76	Putative peptidase
+PGF_02719231	Rhodothermus	123.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02744871	Rhodothermus	102.00	0.00	Flagellar hook-basal body complex protein FliE
+PGF_02755983	Rhodothermus	178.60	21.04	hypothetical protein
+PGF_02773452	Rhodothermus	154.60	67.43	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+PGF_02776739	Rhodothermus	130.20	0.45	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02820067	Rhodothermus	274.40	1.34	Two-component system response regulator protein
+PGF_02820109	Rhodothermus	211.20	1.10	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Rhodothermus	146.80	20.57	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02838109	Rhodothermus	165.00	60.37	Shikimate kinase I (EC 2.7.1.71)
+PGF_02842606	Rhodothermus	423.00	3.08	hypothetical protein
+PGF_02844091	Rhodothermus	253.60	2.61	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Rhodothermus	408.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866413	Rhodothermus	203.00	0.00	Rhomboid family protein
+PGF_02883852	Rhodothermus	140.40	4.34	UPF0047 protein YjbQ
+PGF_02887469	Rhodothermus	129.20	21.91	Heat shock protein 60 family co-chaperone GroES
+PGF_02897339	Rhodothermus	532.20	1.79	putative hemin receptor
+PGF_02899131	Rhodothermus	66.40	4.67	LSU ribosomal protein L29p (L35e)
+PGF_02901409	Rhodothermus	155.20	0.45	Guanine deaminase (EC 3.5.4.3)
+PGF_02904405	Rhodothermus	116.80	9.39	[NiFe] hydrogenase nickel incorporation protein HypA
+PGF_02919689	Rhodothermus	290.80	2.68	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Rhodothermus	261.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02923360	Rhodothermus	157.80	1.10	Uncharacterized protein YuxK
+PGF_02930037	Rhodothermus	171.00	0.00	hypothetical protein
+PGF_02942357	Rhodothermus	163.00	0.00	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_02956096	Rhodothermus	324.00	153.73	Probable Co/Zn/Cd efflux system membrane fusion protein
+PGF_02956462	Rhodothermus	132.00	0.00	RidA/YER057c/UK114 superfamily protein
+PGF_02966355	Rhodothermus	245.80	38.46	1,2-epoxyphenylacetyl-CoA isomerase (EC 5.3.3.18)
+PGF_02992495	Rhodothermus	117.80	1.79	Protein translocase membrane subunit SecG
+PGF_03000070	Rhodothermus	367.20	9.39	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03017978	Rhodothermus	197.00	0.00	Septum formation protein Maf
+PGF_03024272	Rhodothermus	247.00	0.00	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4)
+PGF_03025044	Rhodothermus	184.80	1.64	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03033259	Rhodothermus	218.00	0.00	Serine/threonine protein phosphatase (EC 3.1.3.16)
+PGF_03036196	Rhodothermus	203.40	16.46	NAD(P)H dehydrogenase (quinone), Type IV (EC 1.6.5.2)
+PGF_03037296	Rhodothermus	375.00	38.01	FIG002776: hypothetical protein
+PGF_03059907	Rhodothermus	324.20	33.14	CRISPR-associated endoribonuclease Cas6
+PGF_03069524	Rhodothermus	78.00	0.00	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03073470	Rhodothermus	578.20	16.10	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03075401	Rhodothermus	171.20	5.72	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03087517	Rhodothermus	333.00	0.00	4-hydroxyproline epimerase (EC 5.1.1.8)
+PGF_03097046	Rhodothermus	157.60	22.13	NLP/P60
+PGF_03111948	Rhodothermus	246.00	20.12	Electron transfer flavoprotein, beta subunit
+PGF_03111988	Rhodothermus	269.80	68.83	Cell division initiation protein DivIVA
+PGF_03126760	Rhodothermus	525.00	0.00	4-coumarate--CoA ligase 1 (EC 6.2.1.12)
+PGF_03127349	Rhodothermus	131.00	0.00	Late competence protein ComEA, DNA receptor
+PGF_03128744	Rhodothermus	441.20	128.62	carboxypeptidase-related protein
+PGF_03142586	Rhodothermus	97.20	1.64	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03145455	Rhodothermus	317.40	16.49	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03146406	Rhodothermus	579.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03152253	Rhodothermus	396.00	0.71	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_03172904	Rhodothermus	305.80	0.45	Prolipoprotein diacylglyceryl transferase
+PGF_03175214	Rhodothermus	322.20	0.45	hypothetical protein
+PGF_03222913	Rhodothermus	141.60	0.89	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03278866	Rhodothermus	79.60	3.58	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03336708	Rhodothermus	358.00	0.00	hypothetical protein
+PGF_03368816	Rhodothermus	127.80	15.34	Uncharacterized protein AF0741 (similar to YjbQ)
+PGF_03378474	Rhodothermus	177.00	14.75	Putative metal-dependent hydrolase YfiT
+PGF_03391126	Rhodothermus	154.60	0.89	hypothetical protein
+PGF_03448459	Rhodothermus	123.40	7.67	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03451409	Rhodothermus	188.00	2.24	hypothetical protein
+PGF_03470321	Rhodothermus	163.60	0.89	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Rhodothermus	459.60	20.91	Flagellum-specific ATP synthase FliI
+PGF_03479731	Rhodothermus	800.80	1.10	dipeptidyl-peptidase
+PGF_03518570	Rhodothermus	124.00	35.78	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03674008	Rhodothermus	105.00	22.96	1,2-phenylacetyl-CoA epoxidase, subunit B (EC 1.14.13.149)
+PGF_03674165	Rhodothermus	310.80	22.81	1,2-phenylacetyl-CoA epoxidase, subunit A (EC 1.14.13.149)
+PGF_03683423	Rhodothermus	362.00	0.00	ABC transporter, substrate-binding protein (cluster 9, phospholipid)
+PGF_03701810	Rhodothermus	288.40	10.29	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Rhodothermus	62.00	0.00	Protein translocase subunit SecE
+PGF_03719269	Rhodothermus	204.20	15.96	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Rhodothermus	158.20	1.79	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Rhodothermus	183.00	0.00	UPF0301 protein YqgE
+PGF_03739563	Rhodothermus	113.00	0.00	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Rhodothermus	502.40	1.34	Chromosomal replication initiator protein DnaA
+PGF_03750600	Rhodothermus	152.80	25.04	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Rhodothermus	97.40	1.34	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Rhodothermus	204.60	1.34	Heat shock protein GrpE
+PGF_03751831	Rhodothermus	228.00	0.00	Two-component transcriptional response regulator, winged helix family
+PGF_03752544	Rhodothermus	232.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03760224	Rhodothermus	202.20	86.76	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03788785	Rhodothermus	332.40	40.13	Fmu (Sun) domain protein
+PGF_03790040	Rhodothermus	245.20	32.54	Ribonuclease III (EC 3.1.26.3)
+PGF_03856084	Rhodothermus	697.20	0.45	Cell division protein FtsH
+PGF_03948830	Rhodothermus	134.20	38.16	Flagellar biosynthesis protein FliO
+PGF_03977347	Rhodothermus	365.20	21.25	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_04001842	Rhodothermus	424.60	132.32	Sodium-dependent anion transporter family
+PGF_04007946	Rhodothermus	247.20	28.09	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Rhodothermus	151.00	0.00	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Rhodothermus	476.40	12.52	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04034430	Rhodothermus	66.80	0.45	SSU ribosomal protein S21p
+PGF_04047265	Rhodothermus	89.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04062117	Rhodothermus	115.40	10.29	Anti-sigma B factor antagonist RsbV
+PGF_04064230	Rhodothermus	149.00	2.24	hypothetical protein
+PGF_04075955	Rhodothermus	136.20	51.01	Phosphohistidine phosphatase SixA
+PGF_04082421	Rhodothermus	395.40	19.19	hypothetical protein
+PGF_04087759	Rhodothermus	232.00	8.31	response regulator DrrA
+PGF_04091213	Rhodothermus	427.60	2.30	Glycosyltransferase-like protein
+PGF_04098113	Rhodothermus	200.40	2.51	hypothetical protein
+PGF_04105177	Rhodothermus	135.40	12.82	hypothetical protein
+PGF_04105233	Rhodothermus	107.00	0.00	Uncharacterized protein TTC1240
+PGF_04111601	Rhodothermus	432.60	0.89	TRAP-type C4-dicarboxylate transport system, large permease component
+PGF_04114335	Rhodothermus	242.80	1.79	PspC domain family
+PGF_04116800	Rhodothermus	172.00	0.00	hypothetical protein
+PGF_04117446	Rhodothermus	71.80	3.83	hypothetical protein
+PGF_04118481	Rhodothermus	386.00	0.00	hypothetical protein
+PGF_04120408	Rhodothermus	263.80	22.81	hypothetical protein
+PGF_04121862	Rhodothermus	127.40	0.89	hypothetical protein
+PGF_04127376	Rhodothermus	247.60	24.39	Twin-arginine translocation protein TatC
+PGF_04129385	Rhodothermus	329.60	0.89	hypothetical protein
+PGF_04132127	Rhodothermus	373.00	4.80	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04139721	Rhodothermus	241.00	51.43	Enoyl-CoA hydratase (EC 4.2.1.17)
+PGF_04147373	Rhodothermus	181.40	76.81	Transcriptional regulator
+PGF_04151476	Rhodothermus	162.60	36.67	16S rRNA processing protein RimM
+PGF_04152539	Rhodothermus	433.00	19.03	Multiple sugar ABC transporter, substrate-binding protein
+PGF_04152790	Rhodothermus	338.00	0.00	hypothetical protein
+PGF_04154333	Rhodothermus	90.60	7.60	Twin-arginine translocation protein TatA
+PGF_04163139	Rhodothermus	196.80	85.99	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04163401	Rhodothermus	190.60	8.62	hypothetical protein
+PGF_04163525	Rhodothermus	104.00	0.00	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_04164950	Rhodothermus	159.00	33.59	hypothetical protein
+PGF_04173030	Rhodothermus	233.40	10.29	TonB-ExbBD energy transducing system, ExbB subunit
+PGF_04176784	Rhodothermus	129.20	7.16	hypothetical protein
+PGF_04176915	Rhodothermus	465.00	0.00	TPR repeat protein
+PGF_04179646	Rhodothermus	292.80	4.02	hypothetical protein
+PGF_04182459	Rhodothermus	227.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04198961	Rhodothermus	222.00	12.73	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04212424	Rhodothermus	310.40	33.60	hypothetical protein
+PGF_04215252	Rhodothermus	231.20	0.45	hypothetical protein
+PGF_04223974	Rhodothermus	239.80	11.10	hypothetical protein
+PGF_04228523	Rhodothermus	211.80	54.68	TonB family protein
+PGF_04253971	Rhodothermus	166.20	0.45	hypothetical protein
+PGF_04271564	Rhodothermus	144.20	8.50	heat shock protein, class I
+PGF_04278415	Rhodothermus	219.60	7.80	Outer membrane lipoprotein carrier protein LolA
+PGF_04279026	Rhodothermus	312.20	2.68	phosphatidylglycerophosphate synthase
+PGF_04281673	Rhodothermus	228.60	17.29	Putative secreted glycosyl hydrolase
+PGF_04292614	Rhodothermus	68.00	0.00	hypothetical protein
+PGF_04296312	Rhodothermus	734.60	335.51	proteophosphoglycan 5
+PGF_04297122	Rhodothermus	219.60	10.48	hypothetical protein
+PGF_04303696	Rhodothermus	304.80	12.21	hypothetical protein
+PGF_04304173	Rhodothermus	169.20	73.34	hypothetical protein
+PGF_04312580	Rhodothermus	226.60	22.17	hypothetical protein
+PGF_04319386	Rhodothermus	362.00	16.43	hypothetical protein
+PGF_04325037	Rhodothermus	373.20	0.45	Potassium efflux system kefA / Small-conductance mechanosensitive channel
+PGF_04343971	Rhodothermus	232.20	6.83	hypothetical protein
+PGF_04349535	Rhodothermus	433.60	9.21	hypothetical protein
+PGF_04349733	Rhodothermus	470.60	5.68	Two-component transcriptional response regulator, LuxR family
+PGF_04364322	Rhodothermus	127.80	1.79	high-potential iron-sulfur protein
+PGF_04365184	Rhodothermus	101.80	24.98	Flagellar basal body-associated protein FliL
+PGF_04370136	Rhodothermus	308.80	106.75	hypothetical protein
+PGF_04380082	Rhodothermus	61.00	0.00	hypothetical protein
+PGF_04383039	Rhodothermus	271.80	73.35	haloacid dehalogenase-like hydrolase, putative
+PGF_04386075	Rhodothermus	97.40	0.89	hypothetical protein
+PGF_04388310	Rhodothermus	95.40	8.05	hypothetical protein
+PGF_04394832	Rhodothermus	146.20	1.79	hypothetical protein
+PGF_04395505	Rhodothermus	312.00	0.00	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04396719	Rhodothermus	89.20	9.86	hypothetical protein
+PGF_04397656	Rhodothermus	157.00	0.00	hypothetical protein
+PGF_04400913	Rhodothermus	74.00	0.00	FeoA
+PGF_04412082	Rhodothermus	118.20	1.79	Thioredoxin
+PGF_04417715	Rhodothermus	180.20	0.45	Putative RNA polymerase sigma factor
+PGF_04424114	Rhodothermus	414.60	3.05	L-lysine dehydrogenase
+PGF_04427119	Rhodothermus	403.40	0.89	Lipopolysaccharide biosynthesis
+PGF_04431830	Rhodothermus	509.20	20.86	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04439440	Rhodothermus	43.00	0.00	hypothetical protein
+PGF_04444500	Rhodothermus	131.00	2.83	hypothetical protein
+PGF_04445369	Rhodothermus	267.00	0.00	hypothetical protein
+PGF_04458696	Rhodothermus	153.80	31.75	hypothetical protein
+PGF_04473319	Rhodothermus	144.80	0.45	hypothetical protein
+PGF_04473742	Rhodothermus	360.00	0.00	hypothetical protein
+PGF_04477106	Rhodothermus	282.60	99.62	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04488280	Rhodothermus	180.60	4.34	hypothetical protein
+PGF_04491957	Rhodothermus	174.40	0.89	hypothetical protein
+PGF_04499071	Rhodothermus	274.00	0.00	hypothetical protein
+PGF_04509722	Rhodothermus	254.00	0.00	hypothetical protein
+PGF_04519363	Rhodothermus	320.00	35.78	Rod shape-determining protein MreB
+PGF_04538872	Rhodothermus	428.00	40.25	Tetratricopeptide repeat domain protein
+PGF_04539079	Rhodothermus	249.00	0.00	hypothetical protein
+PGF_04539772	Rhodothermus	151.20	30.91	hypothetical protein
+PGF_04540253	Rhodothermus	404.00	2.24	hypothetical protein
+PGF_04550151	Rhodothermus	557.80	148.03	hypothetical protein
+PGF_04551788	Rhodothermus	70.00	0.00	hypothetical protein
+PGF_04560357	Rhodothermus	158.80	9.63	NUDIX hydrolase
+PGF_04560429	Rhodothermus	456.60	10.97	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04571383	Rhodothermus	147.80	18.34	hypothetical protein
+PGF_04571944	Rhodothermus	230.40	0.89	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04577211	Rhodothermus	126.40	12.70	hypothetical protein
+PGF_04577739	Rhodothermus	249.00	60.37	hypothetical protein
+PGF_04580739	Rhodothermus	153.80	20.28	hypothetical protein
+PGF_04584999	Rhodothermus	164.00	0.00	hypothetical protein
+PGF_04603493	Rhodothermus	436.00	7.28	hypothetical protein
+PGF_04604843	Rhodothermus	209.00	2.24	RNA polymerase sigma-70 factor, putative
+PGF_04608466	Rhodothermus	306.40	3.58	NADH dehydrogenase subunit, putative
+PGF_04618254	Rhodothermus	268.60	82.60	hypothetical protein
+PGF_04618797	Rhodothermus	91.00	0.00	hypothetical protein
+PGF_04625762	Rhodothermus	138.00	23.53	hypothetical protein
+PGF_04629071	Rhodothermus	450.00	0.00	D-3-phosphoglycerate dehydrogenase
+PGF_04636995	Rhodothermus	167.00	0.00	hypothetical protein
+PGF_04644188	Rhodothermus	157.20	21.91	succinate dehydrogenase, membrane subunit, putative
+PGF_04648819	Rhodothermus	210.80	1.79	hypothetical protein
+PGF_04650718	Rhodothermus	409.40	0.55	hypothetical protein
+PGF_04656407	Rhodothermus	88.40	0.89	hypothetical protein
+PGF_04662378	Rhodothermus	166.40	3.13	hypothetical protein
+PGF_04662477	Rhodothermus	167.00	0.00	hypothetical protein
+PGF_04675926	Rhodothermus	186.40	3.58	hypothetical protein
+PGF_04679223	Rhodothermus	141.40	8.05	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04681554	Rhodothermus	169.60	4.28	hypothetical protein
+PGF_04682803	Rhodothermus	294.40	85.20	heat shock protein 90
+PGF_04684446	Rhodothermus	491.80	25.68	outer membrane protein, OMP85 family, putative
+PGF_04689398	Rhodothermus	316.40	1.34	PKD domain protein
+PGF_04696357	Rhodothermus	47.00	0.00	hypothetical protein
+PGF_04696380	Rhodothermus	345.40	66.19	hypothetical protein
+PGF_04697142	Rhodothermus	110.00	0.00	Sterol-binding
+PGF_04698892	Rhodothermus	146.20	0.45	hypothetical protein
+PGF_04705296	Rhodothermus	69.60	0.89	hypothetical protein
+PGF_04708537	Rhodothermus	107.80	1.64	hypothetical protein
+PGF_04711695	Rhodothermus	165.40	2.51	hypothetical protein
+PGF_04722726	Rhodothermus	217.00	0.00	hypothetical protein
+PGF_04722914	Rhodothermus	209.00	6.40	hypothetical protein
+PGF_04731376	Rhodothermus	473.60	16.64	hypothetical protein
+PGF_04735941	Rhodothermus	162.20	2.17	Cytochrome c
+PGF_04744357	Rhodothermus	59.40	12.88	hypothetical protein
+PGF_04746881	Rhodothermus	182.60	0.55	hypothetical protein
+PGF_04750749	Rhodothermus	149.80	15.02	hypothetical protein
+PGF_04755940	Rhodothermus	102.40	27.62	hypothetical protein
+PGF_04761481	Rhodothermus	77.60	19.62	hypothetical protein
+PGF_04782389	Rhodothermus	95.20	7.16	hypothetical protein
+PGF_04788810	Rhodothermus	194.00	0.00	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04794943	Rhodothermus	172.80	4.38	hypothetical protein
+PGF_04814200	Rhodothermus	612.00	26.08	phytochrome
+PGF_04814687	Rhodothermus	145.60	0.89	hypothetical protein
+PGF_04826063	Rhodothermus	137.00	0.00	TonB-ExbBD energy transducing system, ExbD subunit
+PGF_04831912	Rhodothermus	95.40	0.89	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_04845029	Rhodothermus	124.00	0.00	LSU ribosomal protein L19p
+PGF_04846590	Rhodothermus	361.00	4.47	Magnesium and cobalt transport protein CorA
+PGF_04857441	Rhodothermus	90.00	0.00	hypothetical protein
+PGF_04860185	Rhodothermus	116.60	3.13	hypothetical protein
+PGF_04864684	Rhodothermus	266.60	3.29	hypothetical protein
+PGF_04865288	Rhodothermus	171.20	2.49	hypothetical protein
+PGF_04869602	Rhodothermus	54.00	0.00	hypothetical protein
+PGF_04875259	Rhodothermus	171.00	2.24	hypothetical protein
+PGF_04882920	Rhodothermus	217.80	2.68	Fumarylacetoacetate hydrolase family protein
+PGF_04909394	Rhodothermus	1027.40	94.54	hypothetical protein
+PGF_04920231	Rhodothermus	497.40	0.89	hypothetical protein
+PGF_04924251	Rhodothermus	219.40	107.02	Putative oxidoreductase
+PGF_04927588	Rhodothermus	278.00	0.00	hypothetical protein
+PGF_04933641	Rhodothermus	139.00	0.00	hypothetical protein
+PGF_04938490	Rhodothermus	188.00	0.00	putative hydrolase (HD domain)
+PGF_04951649	Rhodothermus	137.40	8.17	hypothetical protein
+PGF_04958295	Rhodothermus	106.00	0.00	Flagellar biosynthesis protein FliS
+PGF_04958304	Rhodothermus	218.80	11.17	HD domain protein
+PGF_04963114	Rhodothermus	141.00	0.00	hypothetical protein
+PGF_04974454	Rhodothermus	96.00	0.00	hypothetical protein
+PGF_04977877	Rhodothermus	291.20	10.85	hypothetical protein
+PGF_04978890	Rhodothermus	118.60	1.34	LSU ribosomal protein L21p
+PGF_04980455	Rhodothermus	307.80	1.79	Integral membrane protein DUF6
+PGF_04984429	Rhodothermus	248.40	38.32	hypothetical protein
+PGF_04987007	Rhodothermus	385.60	68.54	CBS domain protein
+PGF_04992804	Rhodothermus	457.40	17.52	hypothetical protein
+PGF_05009100	Rhodothermus	316.40	33.42	hypothetical protein
+PGF_05036401	Rhodothermus	126.80	20.57	hypothetical protein
+PGF_05039525	Rhodothermus	171.00	0.00	Fmu (Sun) domain protein
+PGF_05041691	Rhodothermus	170.00	33.54	hypothetical protein
+PGF_05056236	Rhodothermus	97.20	1.79	hypothetical protein
+PGF_05058664	Rhodothermus	168.00	0.00	Transcriptional regulator, PadR family
+PGF_05072405	Rhodothermus	92.40	14.76	ATP synthase protein I
+PGF_05079020	Rhodothermus	300.20	68.87	MoxR-like ATPase in aerotolerance operon
+PGF_05086965	Rhodothermus	98.80	4.02	Acylphosphate phosphohydrolase (EC 3.6.1.7)
+PGF_05092490	Rhodothermus	58.80	0.45	hypothetical protein
+PGF_05103358	Rhodothermus	577.20	0.84	hypothetical protein
+PGF_05112715	Rhodothermus	170.40	22.96	hypothetical protein
+PGF_05117292	Rhodothermus	322.20	111.36	peptidase M24
+PGF_05120495	Rhodothermus	124.20	10.01	hypothetical protein
+PGF_05123432	Rhodothermus	68.00	0.00	hypothetical protein
+PGF_05127282	Rhodothermus	59.80	2.68	hypothetical protein
+PGF_05145567	Rhodothermus	241.20	17.44	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_05159377	Rhodothermus	85.00	0.00	hypothetical protein
+PGF_05168267	Rhodothermus	151.40	17.98	hypothetical protein
+PGF_05176688	Rhodothermus	160.00	2.74	hypothetical protein
+PGF_05181289	Rhodothermus	83.80	0.45	hypothetical protein
+PGF_05187476	Rhodothermus	212.00	0.00	protein of unknown function DUF1080
+PGF_05192648	Rhodothermus	395.80	14.86	hypothetical protein
+PGF_05195027	Rhodothermus	501.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05198280	Rhodothermus	170.00	56.46	hypothetical protein
+PGF_05204585	Rhodothermus	69.20	5.22	hypothetical protein
+PGF_05206809	Rhodothermus	188.80	78.71	hypothetical protein
+PGF_05210201	Rhodothermus	157.80	0.84	hypothetical protein
+PGF_05211794	Rhodothermus	170.80	46.29	FMN-binding domain protein
+PGF_05213498	Rhodothermus	270.00	0.00	hypothetical protein
+PGF_05214583	Rhodothermus	127.40	0.89	conserved hypothetical protein TIGR00252
+PGF_05215161	Rhodothermus	161.00	17.89	Acetyltransferase, GNAT family
+PGF_05215378	Rhodothermus	75.80	10.18	hypothetical protein
+PGF_05223930	Rhodothermus	180.40	13.28	Putative transmembrane protein
+PGF_05224872	Rhodothermus	409.00	122.08	hypothetical protein
+PGF_05225598	Rhodothermus	265.20	33.09	lipoprotein protein, putative
+PGF_05227647	Rhodothermus	118.00	0.00	hypothetical protein
+PGF_05235766	Rhodothermus	163.80	70.89	Nickel-binding accessory protein UreJ-HupE
+PGF_05237529	Rhodothermus	241.20	31.01	hypothetical protein
+PGF_05241916	Rhodothermus	241.60	0.89	hypothetical protein
+PGF_05244100	Rhodothermus	214.00	26.87	FrrB
+PGF_05262444	Rhodothermus	127.00	2.45	hypothetical protein
+PGF_05264797	Rhodothermus	97.00	0.00	hypothetical protein
+PGF_05267793	Rhodothermus	226.20	1.79	hypothetical protein
+PGF_05268965	Rhodothermus	149.20	4.55	hypothetical protein
+PGF_05276717	Rhodothermus	211.00	39.42	hypothetical protein
+PGF_05284938	Rhodothermus	68.40	11.10	hypothetical protein
+PGF_05290356	Rhodothermus	333.80	0.45	hypothetical protein
+PGF_05291354	Rhodothermus	211.20	31.22	TonB family protein
+PGF_05300545	Rhodothermus	185.00	0.00	Carbon monoxide oxidation accessory protein CoxG
+PGF_05301176	Rhodothermus	123.00	0.00	Anti-sigma B factor antagonist RsbV
+PGF_05303559	Rhodothermus	42.20	1.10	hypothetical protein
+PGF_05332340	Rhodothermus	124.00	0.00	hypothetical protein
+PGF_05332480	Rhodothermus	154.40	3.58	hypothetical protein
+PGF_05334100	Rhodothermus	229.20	10.03	hypothetical protein
+PGF_05341177	Rhodothermus	349.20	66.63	WD40-like Beta Propeller protein
+PGF_05349997	Rhodothermus	182.20	4.60	hypothetical protein
+PGF_05350276	Rhodothermus	327.40	25.20	CRISPR-associated negative autoregulator Cas7/Cst2
+PGF_05356368	Rhodothermus	300.40	0.89	Gas vesicle protein GvpF
+PGF_05357839	Rhodothermus	211.20	20.24	Redoxin
+PGF_05363645	Rhodothermus	139.60	26.08	DNA protection during starvation protein
+PGF_05376471	Rhodothermus	132.20	0.45	hypothetical protein
+PGF_05380610	Rhodothermus	818.80	1.79	Putative TonB-dependent receptor
+PGF_05382099	Rhodothermus	101.00	0.00	hypothetical protein
+PGF_05382394	Rhodothermus	112.00	19.17	DNA polymerase, beta domain protein region
+PGF_05386032	Rhodothermus	204.00	0.00	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05395434	Rhodothermus	89.20	7.12	hypothetical protein
+PGF_05399631	Rhodothermus	67.00	0.00	hypothetical protein
+PGF_05400036	Rhodothermus	396.80	0.45	hypothetical protein
+PGF_05400780	Rhodothermus	107.80	2.68	protein of unknown function DUF59
+PGF_05404218	Rhodothermus	152.00	0.00	hypothetical protein
+PGF_05407089	Rhodothermus	60.00	2.74	hypothetical protein
+PGF_05422829	Rhodothermus	35.60	3.13	hypothetical protein
+PGF_05426974	Rhodothermus	425.20	1.79	hypothetical protein
+PGF_05444804	Rhodothermus	128.00	0.00	Response regulator
+PGF_05452316	Rhodothermus	109.80	1.10	hypothetical protein
+PGF_05491260	Rhodothermus	66.40	14.76	hypothetical protein
+PGF_05493552	Rhodothermus	85.00	0.00	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05499601	Rhodothermus	116.40	0.89	hypothetical protein
+PGF_05504655	Rhodothermus	171.40	30.56	Polymer-forming bactofilin
+PGF_05514512	Rhodothermus	248.60	18.78	Phosphoglycolate phosphatase
+PGF_05515390	Rhodothermus	263.40	109.14	Tetratricopeptide TPR_4
+PGF_05537790	Rhodothermus	91.00	4.47	hypothetical protein
+PGF_05598501	Rhodothermus	94.40	0.89	hypothetical protein
+PGF_05601528	Rhodothermus	190.60	0.89	lysine decarboxylase-like protein
+PGF_05629609	Rhodothermus	68.60	0.89	hypothetical protein
+PGF_05651675	Rhodothermus	278.40	10.21	hypothetical protein
+PGF_05654008	Rhodothermus	393.00	0.00	hypothetical protein
+PGF_05657253	Rhodothermus	226.00	21.26	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05680533	Rhodothermus	63.80	9.39	hypothetical protein
+PGF_05680688	Rhodothermus	265.20	110.80	Kinase similar to eukaryotic-like N-acetylglucosamine kinase
+PGF_05682226	Rhodothermus	129.40	32.09	hypothetical protein
+PGF_05685489	Rhodothermus	298.20	15.21	hypothetical protein
+PGF_05710599	Rhodothermus	280.20	57.69	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05712819	Rhodothermus	453.40	1.34	sporulation protein SpoIID
+PGF_05714279	Rhodothermus	90.00	8.94	hypothetical protein
+PGF_05730231	Rhodothermus	133.00	0.00	protein of unknown function DUF302
+PGF_05730344	Rhodothermus	142.40	2.97	hypothetical protein
+PGF_05744199	Rhodothermus	240.00	19.99	Outer membrane protein
+PGF_05767234	Rhodothermus	83.00	0.00	putative regulatory protein, FmdB family
+PGF_05775570	Rhodothermus	152.60	8.05	hypothetical protein
+PGF_05776109	Rhodothermus	112.40	0.89	hypothetical protein
+PGF_05777840	Rhodothermus	175.20	0.84	hypothetical protein
+PGF_05779776	Rhodothermus	771.20	204.09	Tetratricopeptide repeat domain protein
+PGF_05782356	Rhodothermus	501.60	3.58	Flagellar cap protein FliD
+PGF_05788512	Rhodothermus	243.00	0.00	FIG003003: hypothetical protein
+PGF_05803344	Rhodothermus	181.20	30.33	hypothetical protein
+PGF_05806731	Rhodothermus	96.00	0.00	hypothetical protein
+PGF_05808565	Rhodothermus	583.60	0.55	ATPase, AAA family
+PGF_05814460	Rhodothermus	295.00	20.15	Tetratricopeptide repeat domain protein
+PGF_05822697	Rhodothermus	163.00	0.00	hypothetical protein
+PGF_05825027	Rhodothermus	268.20	0.45	ABC-type Fe3+-siderophores transport systems
+PGF_05833722	Rhodothermus	387.80	35.67	Sulfide:quinone oxidoreductase, Type II
+PGF_05843091	Rhodothermus	141.40	1.34	Rrf2 family transcriptional regulator
+PGF_05844045	Rhodothermus	280.20	87.10	ErfK/YbiS/YcfS/YnhG family protein
+PGF_05853246	Rhodothermus	102.60	12.70	hypothetical protein
+PGF_05854669	Rhodothermus	61.00	0.00	hypothetical protein
+PGF_05858186	Rhodothermus	460.40	0.55	TPR domain protein
+PGF_05861626	Rhodothermus	86.00	0.00	hypothetical protein
+PGF_05866195	Rhodothermus	383.00	0.00	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_05871963	Rhodothermus	140.80	1.30	hypothetical protein
+PGF_05872926	Rhodothermus	416.80	0.45	Putative uncharacterized protein TTHA1760
+PGF_05892885	Rhodothermus	342.00	163.96	RND efflux system, membrane fusion protein
+PGF_05897354	Rhodothermus	94.20	19.68	hypothetical protein
+PGF_05904504	Rhodothermus	330.80	156.45	Streptococcal hemagglutinin protein
+PGF_05911245	Rhodothermus	337.00	0.00	hypothetical protein
+PGF_05920628	Rhodothermus	98.20	6.91	hypothetical protein
+PGF_05937347	Rhodothermus	267.40	28.31	Flagellar assembly protein FliH
+PGF_05940506	Rhodothermus	159.00	20.12	hypothetical protein
+PGF_05943384	Rhodothermus	225.80	97.81	hypothetical protein
+PGF_05952546	Rhodothermus	209.00	77.07	NHL repeat protein
+PGF_05957016	Rhodothermus	256.00	6.71	PASTA domain protein
+PGF_05957294	Rhodothermus	73.00	15.65	hypothetical protein
+PGF_05963020	Rhodothermus	187.00	0.00	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_05963151	Rhodothermus	94.00	0.00	hypothetical protein
+PGF_05968021	Rhodothermus	102.40	0.89	transcriptional regulator, ArsR family, putative
+PGF_05978950	Rhodothermus	58.00	0.00	histone H1-like protein
+PGF_05988990	Rhodothermus	242.40	3.58	Phosphate regulon transcriptional regulatory protein phoB
+PGF_05997092	Rhodothermus	75.00	0.00	hypothetical protein
+PGF_05999853	Rhodothermus	269.00	0.00	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06005169	Rhodothermus	183.00	0.00	phosphohydrolase
+PGF_06012613	Rhodothermus	301.00	0.00	hypothetical protein
+PGF_06016284	Rhodothermus	98.40	1.34	NifU-like domain protein
+PGF_06025087	Rhodothermus	135.20	4.38	Glyoxalase family protein
+PGF_06028923	Rhodothermus	65.80	13.35	hypothetical protein
+PGF_06029986	Rhodothermus	182.00	0.00	hypothetical protein
+PGF_06031409	Rhodothermus	484.40	9.63	hypothetical protein
+PGF_06033188	Rhodothermus	130.00	0.00	hypothetical protein
+PGF_06034204	Rhodothermus	358.00	18.26	hypothetical protein
+PGF_06039348	Rhodothermus	470.40	1.34	hypothetical protein
+PGF_06040687	Rhodothermus	326.60	7.60	hypothetical protein
+PGF_06045328	Rhodothermus	277.00	0.00	Glucosyl-3-phosphoglycerate phosphatase (EC 3.1.3.85) @ Mannosyl-3-phosphoglycerate phosphatase (EC 3.1.3.70)
+PGF_06048866	Rhodothermus	315.20	91.25	hypothetical protein
+PGF_06055678	Rhodothermus	97.00	0.00	isoamylase N-terminal domain protein
+PGF_06062908	Rhodothermus	192.80	68.10	hypothetical protein
+PGF_06064563	Rhodothermus	106.60	3.13	hypothetical protein
+PGF_06076442	Rhodothermus	235.20	4.38	hypothetical protein
+PGF_06086309	Rhodothermus	256.00	12.33	hypothetical protein
+PGF_06092061	Rhodothermus	320.00	0.00	hypothetical protein
+PGF_06110021	Rhodothermus	145.80	0.45	hypothetical protein
+PGF_06115317	Rhodothermus	54.00	0.00	hypothetical protein
+PGF_06116289	Rhodothermus	239.40	9.29	Hydrolase, haloacid dehalogenase-like family
+PGF_06119747	Rhodothermus	392.60	9.84	peptidase, M50 family protein( EC:3.4.24.- )
+PGF_06122127	Rhodothermus	415.60	5.81	Efflux transport system, outer membrane factor (OMF) lipoprotein
+PGF_06123801	Rhodothermus	251.40	13.85	hypothetical protein
+PGF_06125820	Rhodothermus	131.20	50.98	Copper metallochaperone PCu(A)C, inserts Cu(I) into cytochrome oxidase subunit II
+PGF_06126380	Rhodothermus	176.60	293.15	hypothetical protein
+PGF_06129533	Rhodothermus	181.80	39.38	OmpA domain protein
+PGF_06142313	Rhodothermus	184.00	0.00	hypothetical protein
+PGF_06144474	Rhodothermus	151.00	0.00	hypothetical protein
+PGF_06146974	Rhodothermus	154.00	0.00	hypothetical protein
+PGF_06158444	Rhodothermus	158.60	2.88	hypothetical protein
+PGF_06176012	Rhodothermus	110.20	9.31	hypothetical protein
+PGF_06180597	Rhodothermus	147.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06185619	Rhodothermus	284.80	117.92	Putative ADP-ribosylglycohydrolase
+PGF_06191952	Rhodothermus	118.20	5.02	hypothetical protein
+PGF_06194007	Rhodothermus	406.00	133.61	Polysaccharide biosynthesis protein
+PGF_06230768	Rhodothermus	100.60	2.30	ATP-dependent Clp protease adaptor protein ClpS, putative
+PGF_06238309	Rhodothermus	100.60	0.89	hypothetical protein
+PGF_06238941	Rhodothermus	101.60	13.45	hypothetical protein
+PGF_06242843	Rhodothermus	179.00	7.28	hypothetical protein
+PGF_06245451	Rhodothermus	75.40	2.61	hypothetical protein
+PGF_06248518	Rhodothermus	202.00	0.00	Gluconate 2-dehydrogenase subunit 3 family protein
+PGF_06254345	Rhodothermus	102.60	2.19	Heat shock protein 60 family co-chaperone GroES
+PGF_06259060	Rhodothermus	244.20	17.46	CTP:Inositol-1-phosphate cytidylyltransferase (EC 2.7.7.74)
+PGF_06268003	Rhodothermus	57.40	0.89	hypothetical protein
+PGF_06270765	Rhodothermus	146.60	19.45	hypothetical protein
+PGF_06270851	Rhodothermus	110.20	0.45	transcriptional regulator, ArsR family, putative
+PGF_06285041	Rhodothermus	347.60	80.32	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06294738	Rhodothermus	155.40	27.62	hypothetical protein
+PGF_06297391	Rhodothermus	277.60	63.94	Efflux ABC transporter, ATP-binding protein
+PGF_06298671	Rhodothermus	261.20	0.45	Efflux ABC transporter, permease protein
+PGF_06312467	Rhodothermus	175.20	0.45	hypothetical protein
+PGF_06316770	Rhodothermus	129.00	11.11	hypothetical protein
+PGF_06316833	Rhodothermus	133.60	21.09	hypothetical protein
+PGF_06318952	Rhodothermus	345.00	0.00	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06340493	Rhodothermus	174.00	0.00	hypothetical protein
+PGF_06343832	Rhodothermus	120.80	1.10	hypothetical protein
+PGF_06344875	Rhodothermus	189.00	0.00	Lipopolysaccharide export system protein LptC
+PGF_06359832	Rhodothermus	205.60	5.81	hypothetical protein
+PGF_06366510	Rhodothermus	210.00	91.68	hypothetical protein
+PGF_06379377	Rhodothermus	453.20	10.73	Replication-associated recombination protein RarA
+PGF_06381928	Rhodothermus	97.00	0.00	Ferredoxin-like protein, FixX family
+PGF_06382158	Rhodothermus	160.40	4.72	SCO1/SenC family protein/cytochrome c
+PGF_06383954	Rhodothermus	297.00	0.00	hypothetical protein
+PGF_06384483	Rhodothermus	149.20	0.45	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_06388211	Rhodothermus	245.60	70.21	hypothetical protein
+PGF_06417984	Rhodothermus	118.60	1.34	hypothetical protein
+PGF_06421645	Rhodothermus	195.40	4.34	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_06423101	Rhodothermus	221.80	4.02	hypothetical protein
+PGF_06450192	Rhodothermus	137.60	9.99	DoxX family protein
+PGF_06450342	Rhodothermus	748.00	218.58	hypothetical protein
+PGF_06450745	Rhodothermus	123.80	15.21	hypothetical protein
+PGF_06456883	Rhodothermus	402.00	19.17	Chain length determinant protein
+PGF_06457741	Rhodothermus	230.20	19.83	hypothetical protein
+PGF_06459638	Rhodothermus	178.00	0.00	hypothetical protein
+PGF_06461695	Rhodothermus	330.60	19.46	hypothetical protein
+PGF_06462493	Rhodothermus	140.20	46.51	hypothetical protein
+PGF_06465449	Rhodothermus	493.80	151.46	hypothetical protein
+PGF_06478250	Rhodothermus	139.00	11.70	hypothetical protein
+PGF_06486007	Rhodothermus	265.80	0.45	Two-component system response regulator protein
+PGF_06493502	Rhodothermus	309.00	0.00	hypothetical protein
+PGF_06494221	Rhodothermus	94.20	10.87	FIG152265: Sodium:solute symporter associated protein
+PGF_06495818	Rhodothermus	252.60	36.18	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06502821	Rhodothermus	192.60	8.85	thioesterase domain protein
+PGF_06503220	Rhodothermus	79.20	9.83	Prevent-host-death family protein
+PGF_06503794	Rhodothermus	81.80	1.79	hypothetical protein
+PGF_06511905	Rhodothermus	221.00	0.00	Phosphoglycerate mutase family protein
+PGF_06514834	Rhodothermus	117.00	20.12	General stress protein
+PGF_06521305	Rhodothermus	129.80	35.37	hypothetical protein
+PGF_06530483	Rhodothermus	120.00	1.41	hypothetical protein
+PGF_06535287	Rhodothermus	138.80	35.58	hypothetical protein
+PGF_06545170	Rhodothermus	129.00	0.00	Fluoride ion transporter CrcB
+PGF_06548933	Rhodothermus	159.80	15.21	Flagellar protein FliJ
+PGF_06549811	Rhodothermus	90.60	0.89	hypothetical protein
+PGF_06552232	Rhodothermus	151.00	7.87	hypothetical protein
+PGF_06552457	Rhodothermus	422.40	26.02	hypothetical protein
+PGF_06553174	Rhodothermus	86.40	10.29	hypothetical protein
+PGF_06556141	Rhodothermus	256.40	4.98	protein of unknown function DUF833
+PGF_06556646	Rhodothermus	142.00	1.22	phage shock protein E
+PGF_06557146	Rhodothermus	122.60	3.13	hypothetical protein
+PGF_06573529	Rhodothermus	179.60	0.89	hypothetical protein
+PGF_06573576	Rhodothermus	329.20	45.46	hypothetical protein
+PGF_06575280	Rhodothermus	146.40	4.16	hypothetical protein
+PGF_06576639	Rhodothermus	60.00	0.00	hypothetical protein
+PGF_06585358	Rhodothermus	466.60	66.86	Lipopolysaccharide export system protein LptA
+PGF_06586327	Rhodothermus	150.60	0.89	hypothetical protein
+PGF_06594013	Rhodothermus	136.00	0.00	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06598165	Rhodothermus	186.00	24.10	hypothetical protein
+PGF_06601558	Rhodothermus	119.00	0.00	hypothetical protein
+PGF_06602477	Rhodothermus	79.00	17.97	hypothetical protein
+PGF_06619567	Rhodothermus	308.40	3.58	hypothetical protein
+PGF_06631453	Rhodothermus	93.20	23.93	hypothetical protein
+PGF_06635985	Rhodothermus	69.00	0.00	hypothetical protein
+PGF_06639227	Rhodothermus	359.80	49.67	Xylose isomerase (EC 5.3.1.5)
+PGF_06644382	Rhodothermus	306.60	3.13	Abortive infection protein
+PGF_06646523	Rhodothermus	107.40	10.69	hypothetical protein
+PGF_06647026	Rhodothermus	174.20	70.57	putative mercuric transport protein
+PGF_06647182	Rhodothermus	128.20	3.27	hypothetical protein
+PGF_06649360	Rhodothermus	206.20	6.10	Segregation and condensation protein B
+PGF_06658175	Rhodothermus	527.20	1.10	Gll2474 protein
+PGF_06660812	Rhodothermus	192.80	6.50	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06673180	Rhodothermus	298.00	29.88	hypothetical protein
+PGF_06687701	Rhodothermus	119.40	26.99	Cell division protein FtsL
+PGF_06693963	Rhodothermus	114.00	0.00	Nucleoid-associated protein YaaK
+PGF_06710447	Rhodothermus	177.20	8.50	hypothetical protein
+PGF_06713763	Rhodothermus	109.00	0.00	hypothetical protein
+PGF_06722734	Rhodothermus	572.60	22.71	Amidohydrolase family protein
+PGF_06731426	Rhodothermus	275.00	3.46	hypothetical protein
+PGF_06731514	Rhodothermus	279.60	5.27	Copper-binding domain CusF / Sco1/SenC/PrrC family domain
+PGF_06734674	Rhodothermus	263.40	1.34	hypothetical protein
+PGF_06744472	Rhodothermus	188.20	4.02	hypothetical protein
+PGF_06745811	Rhodothermus	167.40	0.89	Acetyltransferase, GNAT family
+PGF_06752339	Rhodothermus	366.00	0.00	hypothetical protein
+PGF_06755829	Rhodothermus	391.00	0.00	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06771521	Rhodothermus	179.40	1.34	hypothetical protein
+PGF_06783317	Rhodothermus	98.60	0.55	hypothetical protein
+PGF_06794793	Rhodothermus	835.00	13.42	hypothetical protein
+PGF_06825411	Rhodothermus	180.80	2.39	CRISPR-associated RecB family exonuclease Cas4
+PGF_06849665	Rhodothermus	74.60	3.58	hypothetical protein
+PGF_06857502	Rhodothermus	121.00	0.00	DoxX family protein
+PGF_06885109	Rhodothermus	126.00	12.21	Methylated-DNA-[protein]-cysteine S-methyltransferase
+PGF_06890364	Rhodothermus	120.60	32.20	hypothetical protein
+PGF_06976234	Rhodothermus	208.20	1.79	Methyltransferase type 11
+PGF_07072582	Rhodothermus	279.00	0.00	RNA polymerase sigma factor RpoD
+PGF_07091380	Rhodothermus	333.40	81.86	Glycosyl transferase, family 2
+PGF_07452527	Rhodothermus	161.00	0.00	MOSC domain protein
+PGF_07504732	Rhodothermus	238.00	0.00	Short-chain dehydrogenase/reductase SDR?
+PGF_07655544	Rhodothermus	341.60	175.31	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_07684219	Rhodothermus	263.80	29.52	hypothetical protein
+PGF_07764839	Rhodothermus	131.80	38.46	HoxW-like protein
+PGF_08043472	Rhodothermus	1013.40	12.52	DNA double-strand break repair Rad50 ATPase
+PGF_08126990	Rhodothermus	262.00	0.00	Enoyl-CoA hydratase/isomerase family protein
+PGF_08197941	Rhodothermus	285.00	0.00	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)

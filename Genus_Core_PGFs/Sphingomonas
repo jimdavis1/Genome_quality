@@ -1,0 +1,498 @@
+PGF_00000416	Sphingomonas	345.07	29.75	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00003448	Sphingomonas	373.83	39.22	FIG110192: hypothetical protein
+PGF_00004671	Sphingomonas	605.00	67.80	Ferrous iron transport protein B
+PGF_00006100	Sphingomonas	241.48	28.93	tRNA-modifying protein YgfZ
+PGF_00006461	Sphingomonas	460.89	27.64	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Sphingomonas	511.65	54.04	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Sphingomonas	363.51	28.04	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Sphingomonas	445.33	65.28	GTP-binding protein EngA
+PGF_00007026	Sphingomonas	219.09	6.59	GTP-binding protein EngB
+PGF_00007028	Sphingomonas	428.26	17.98	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Sphingomonas	608.12	33.65	GTP-binding protein TypA/BipA
+PGF_00007057	Sphingomonas	418.96	48.01	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Sphingomonas	280.01	9.25	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Sphingomonas	316.71	23.47	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Sphingomonas	316.48	32.69	Glucokinase (EC 2.7.1.2)
+PGF_00008051	Sphingomonas	416.18	50.39	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008075	Sphingomonas	394.75	58.01	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Sphingomonas	266.01	6.68	Glutamate racemase (EC 5.1.1.3)
+PGF_00008258	Sphingomonas	466.05	27.78	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008335	Sphingomonas	478.30	39.11	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008469	Sphingomonas	319.22	5.36	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008611	Sphingomonas	319.35	31.83	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008774	Sphingomonas	452.31	7.51	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Sphingomonas	521.59	39.07	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00009967	Sphingomonas	292.47	10.13	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010205	Sphingomonas	245.31	20.29	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Sphingomonas	679.84	101.57	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Sphingomonas	217.89	5.37	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Sphingomonas	707.44	86.19	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011277	Sphingomonas	345.19	14.70	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_00011321	Sphingomonas	299.06	23.33	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00012264	Sphingomonas	338.20	25.86	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012970	Sphingomonas	612.22	87.28	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013003	Sphingomonas	622.08	5.67	Bis-ABC ATPase YheS
+PGF_00013266	Sphingomonas	250.89	25.56	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013272	Sphingomonas	138.01	4.65	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Sphingomonas	227.27	14.08	UPF0001 protein YggS
+PGF_00013509	Sphingomonas	524.30	30.02	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00014051	Sphingomonas	267.06	40.31	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Sphingomonas	485.29	51.36	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015216	Sphingomonas	187.97	9.22	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Sphingomonas	294.06	5.64	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015262	Sphingomonas	116.44	8.00	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_00015510	Sphingomonas	248.30	20.32	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Sphingomonas	480.88	51.96	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Sphingomonas	331.47	52.89	Iron-sulfur cluster assembly protein SufD
+PGF_00015699	Sphingomonas	406.13	0.58	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Sphingomonas	945.78	130.06	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Sphingomonas	338.08	7.31	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016325	Sphingomonas	761.18	82.89	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Sphingomonas	172.25	4.16	LSU ribosomal protein L10p (P0)
+PGF_00016338	Sphingomonas	415.17	45.35	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Sphingomonas	122.11	0.43	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Sphingomonas	177.53	15.98	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Sphingomonas	143.39	1.04	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Sphingomonas	139.13	6.58	LSU ribosomal protein L17p
+PGF_00016353	Sphingomonas	117.40	3.67	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Sphingomonas	230.96	1.22	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Sphingomonas	122.07	1.80	LSU ribosomal protein L20p
+PGF_00016361	Sphingomonas	116.92	10.92	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Sphingomonas	125.18	2.38	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Sphingomonas	102.57	7.85	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Sphingomonas	104.43	5.93	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Sphingomonas	89.45	3.63	LSU ribosomal protein L27p
+PGF_00016393	Sphingomonas	280.13	3.55	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Sphingomonas	58.71	1.73	LSU ribosomal protein L30p (L7e)
+PGF_00016416	Sphingomonas	55.14	1.60	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Sphingomonas	67.53	4.75	LSU ribosomal protein L35p
+PGF_00016425	Sphingomonas	41.21	2.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016431	Sphingomonas	249.14	10.71	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Sphingomonas	207.49	1.61	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Sphingomonas	192.56	13.46	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Sphingomonas	177.00	0.29	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Sphingomonas	124.22	7.43	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Sphingomonas	197.83	12.24	LSU ribosomal protein L9p
+PGF_00017190	Sphingomonas	258.92	24.66	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017389	Sphingomonas	476.60	51.58	ATP-dependent RNA helicase Atu1833
+PGF_00017464	Sphingomonas	228.68	7.08	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Sphingomonas	313.52	8.75	Lipoyl synthase (EC 2.8.1.8)
+PGF_00018084	Sphingomonas	521.27	66.92	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+PGF_00018560	Sphingomonas	296.97	24.82	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Sphingomonas	317.70	21.44	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Sphingomonas	429.42	29.59	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Sphingomonas	182.27	12.83	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Sphingomonas	860.68	56.35	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00020168	Sphingomonas	415.58	47.34	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Sphingomonas	274.57	7.19	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Sphingomonas	170.74	6.50	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Sphingomonas	253.64	5.33	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020981	Sphingomonas	534.31	24.66	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00022605	Sphingomonas	244.18	68.15	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00023326	Sphingomonas	206.78	10.30	MarC family integral membrane protein
+PGF_00023591	Sphingomonas	334.51	46.24	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Sphingomonas	309.31	13.75	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024234	Sphingomonas	375.62	10.54	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Sphingomonas	159.73	6.18	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Sphingomonas	352.20	22.07	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024478	Sphingomonas	334.89	2.90	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024615	Sphingomonas	288.62	23.43	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024687	Sphingomonas	410.21	16.46	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Sphingomonas	224.01	5.32	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Sphingomonas	203.20	1.53	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Sphingomonas	101.36	2.04	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Sphingomonas	515.90	7.72	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Sphingomonas	479.62	31.81	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024801	Sphingomonas	130.13	5.35	NADH:ubiquinone oxidoreductase 17.2 kD subunit
+PGF_00024855	Sphingomonas	149.99	12.62	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00026279	Sphingomonas	313.49	17.61	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Sphingomonas	208.94	15.27	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Sphingomonas	251.36	10.66	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Sphingomonas	284.01	29.08	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Sphingomonas	293.50	41.13	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00029464	Sphingomonas	156.61	4.57	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00030640	Sphingomonas	343.92	54.35	Peptide chain release factor 1
+PGF_00032662	Sphingomonas	222.30	9.16	Phage shock protein A @ Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00032999	Sphingomonas	187.93	8.51	PhbF
+PGF_00033095	Sphingomonas	753.31	152.06	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Sphingomonas	331.78	11.57	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Sphingomonas	401.72	54.28	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Sphingomonas	344.37	7.39	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Sphingomonas	354.85	16.54	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033511	Sphingomonas	396.32	6.31	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033877	Sphingomonas	167.85	3.58	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Sphingomonas	412.75	53.39	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Sphingomonas	259.37	4.22	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033954	Sphingomonas	367.55	30.76	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Sphingomonas	221.67	0.91	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Sphingomonas	718.21	96.22	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00034988	Sphingomonas	325.05	26.82	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035752	Sphingomonas	427.60	38.82	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036176	Sphingomonas	396.49	27.82	Lipopolysaccharide export system permease protein LptF
+PGF_00036513	Sphingomonas	331.58	22.69	Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)
+PGF_00036580	Sphingomonas	112.80	5.11	Protein translocase subunit YajC
+PGF_00038674	Sphingomonas	322.67	2.82	Protein translocase subunit SecF
+PGF_00038879	Sphingomonas	150.25	7.73	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00038937	Sphingomonas	345.21	22.54	Psp operon transcriptional activator
+PGF_00040578	Sphingomonas	258.03	17.86	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041666	Sphingomonas	362.03	21.63	Lipopolysaccharide export system permease protein LptG
+PGF_00045833	Sphingomonas	193.87	4.73	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Sphingomonas	242.68	6.85	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045991	Sphingomonas	483.31	30.05	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046101	Sphingomonas	275.91	32.70	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Sphingomonas	332.76	4.71	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046224	Sphingomonas	258.78	33.87	RNA methyltransferase Atu0341
+PGF_00047078	Sphingomonas	358.47	4.34	RecA protein
+PGF_00048480	Sphingomonas	203.93	3.31	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048528	Sphingomonas	205.46	14.81	Ribonuclease D related protein
+PGF_00048542	Sphingomonas	150.38	4.02	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Sphingomonas	201.49	21.13	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Sphingomonas	237.72	1.59	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048630	Sphingomonas	637.15	45.92	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048643	Sphingomonas	152.48	14.62	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048651	Sphingomonas	148.19	4.60	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Sphingomonas	312.07	3.59	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Sphingomonas	422.42	110.49	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Sphingomonas	314.03	25.53	Ribosomal protein L11 methyltransferase
+PGF_00048846	Sphingomonas	442.88	10.48	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Sphingomonas	196.50	8.65	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Sphingomonas	184.84	1.44	Ribosome recycling factor
+PGF_00048985	Sphingomonas	217.69	18.37	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Sphingomonas	402.65	4.44	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Sphingomonas	328.74	61.69	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Sphingomonas	275.83	4.65	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Sphingomonas	102.30	0.46	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Sphingomonas	128.85	1.84	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Sphingomonas	124.46	1.93	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Sphingomonas	123.02	4.99	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Sphingomonas	100.49	2.34	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Sphingomonas	88.97	0.27	SSU ribosomal protein S15p (S13e)
+PGF_00049854	Sphingomonas	89.88	4.01	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Sphingomonas	73.62	3.31	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Sphingomonas	90.22	3.17	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Sphingomonas	234.20	2.17	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Sphingomonas	232.30	31.40	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Sphingomonas	139.78	9.16	SSU ribosomal protein S6p
+PGF_00049904	Sphingomonas	155.82	2.18	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Sphingomonas	130.84	2.26	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Sphingomonas	174.63	19.15	SSU ribosomal protein S9p (S16e)
+PGF_00050557	Sphingomonas	516.64	43.56	Sensor histidine kinase ChvG (EC 2.7.3.-)
+PGF_00050995	Sphingomonas	478.22	55.52	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Sphingomonas	428.66	20.65	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052210	Sphingomonas	624.58	42.01	Signal peptide peptidase SppA (protease 4)
+PGF_00052705	Sphingomonas	143.23	0.66	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Sphingomonas	300.57	20.41	Site-specific tyrosine recombinase XerD
+PGF_00053770	Sphingomonas	387.51	52.52	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054204	Sphingomonas	412.57	31.86	Serine palmitoyltransferase (EC 2.3.1.50)
+PGF_00054480	Sphingomonas	260.85	3.04	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Sphingomonas	393.77	34.33	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055099	Sphingomonas	136.13	5.94	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00056662	Sphingomonas	324.81	38.82	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Sphingomonas	487.91	61.04	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00057032	Sphingomonas	153.60	9.67	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Sphingomonas	751.00	8.50	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Sphingomonas	150.47	4.20	Transamidase GatB domain protein
+PGF_00057435	Sphingomonas	162.22	14.84	Transcription elongation factor GreB
+PGF_00057483	Sphingomonas	418.26	17.05	Transcription termination factor Rho
+PGF_00057485	Sphingomonas	544.44	16.15	Transcription termination protein NusA
+PGF_00057488	Sphingomonas	153.01	6.03	Transcription termination protein NusB
+PGF_00059034	Sphingomonas	317.49	20.72	Transcriptional regulator, ArsR family / Methyltransferase fusion
+PGF_00060409	Sphingomonas	695.58	3.52	Translation elongation factor G
+PGF_00060414	Sphingomonas	600.66	37.93	Translation elongation factor LepA
+PGF_00060421	Sphingomonas	186.90	0.73	Translation elongation factor P
+PGF_00060427	Sphingomonas	309.45	11.12	Translation elongation factor Ts
+PGF_00060428	Sphingomonas	394.44	21.21	Translation elongation factor Tu
+PGF_00061607	Sphingomonas	133.01	2.29	ApaG protein
+PGF_00062023	Sphingomonas	264.91	22.18	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Sphingomonas	409.90	6.11	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063916	Sphingomonas	408.61	28.76	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063993	Sphingomonas	383.74	7.60	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00064280	Sphingomonas	144.69	3.46	UPF0260 protein YcgN
+PGF_00064438	Sphingomonas	191.90	8.63	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064746	Sphingomonas	181.31	12.34	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00065887	Sphingomonas	246.13	7.69	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066270	Sphingomonas	338.24	24.78	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Sphingomonas	873.37	146.65	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Sphingomonas	581.99	81.82	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Sphingomonas	320.85	32.53	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067401	Sphingomonas	296.02	15.19	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067412	Sphingomonas	77.63	2.53	YrbA protein
+PGF_00067466	Sphingomonas	598.51	48.83	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067551	Sphingomonas	154.16	8.29	Zinc uptake regulation protein Zur
+PGF_00067554	Sphingomonas	492.68	5.36	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00070995	Sphingomonas	348.60	16.37	Membrane-bound lytic murein transglycosylase B
+PGF_00071194	Sphingomonas	460.71	67.97	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071693	Sphingomonas	286.37	28.14	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00125935	Sphingomonas	80.65	0.98	Acyl carrier protein associated with serine palmitoyltransferase
+PGF_00158997	Sphingomonas	599.40	54.69	Aerobic cobaltochelatase CobT subunit (EC 6.6.1.2)
+PGF_00219300	Sphingomonas	379.77	36.81	Hypothetical protein associated with Serine palmitoyltransferase
+PGF_00286683	Sphingomonas	167.42	9.53	Uncharacterized protein CC_3750
+PGF_00306574	Sphingomonas	321.47	33.50	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00404078	Sphingomonas	156.36	21.73	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Sphingomonas	452.68	16.99	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00406692	Sphingomonas	970.80	61.66	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00413295	Sphingomonas	308.62	50.33	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Sphingomonas	597.49	56.05	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Sphingomonas	148.78	5.17	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Sphingomonas	162.35	11.80	tmRNA-binding protein SmpB
+PGF_00415481	Sphingomonas	350.94	15.28	SAM-dependent methyltransferase, MidA
+PGF_00415486	Sphingomonas	138.32	9.54	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Sphingomonas	227.57	11.69	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415638	Sphingomonas	245.16	17.39	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination / Ribosomal protein L7Ae family protein YlxQ
+PGF_00416129	Sphingomonas	545.15	2.31	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Sphingomonas	1103.70	75.87	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00417577	Sphingomonas	145.51	2.81	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Sphingomonas	362.14	36.78	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Sphingomonas	243.58	21.45	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Sphingomonas	349.43	33.94	Chorismate synthase (EC 4.2.3.5)
+PGF_00419627	Sphingomonas	281.32	18.45	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Sphingomonas	165.40	6.70	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419886	Sphingomonas	278.89	4.41	3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2)
+PGF_00419915	Sphingomonas	279.20	36.11	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Sphingomonas	303.55	19.45	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Sphingomonas	209.85	9.48	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420482	Sphingomonas	241.74	8.06	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Sphingomonas	618.32	105.77	Cytochrome c heme lyase subunit CcmF
+PGF_00420582	Sphingomonas	182.40	5.73	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420798	Sphingomonas	311.74	8.96	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421489	Sphingomonas	1138.41	143.58	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421792	Sphingomonas	453.07	28.68	DNA repair protein RadA
+PGF_00421796	Sphingomonas	541.25	66.67	DNA repair protein RecN
+PGF_00422163	Sphingomonas	236.21	6.38	DNA-binding response regulator ChvI
+PGF_00422168	Sphingomonas	233.58	2.71	DNA-binding response regulator CtrA
+PGF_00422271	Sphingomonas	351.13	27.57	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422918	Sphingomonas	184.15	4.37	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00423089	Sphingomonas	314.45	44.96	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Sphingomonas	303.06	26.37	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423335	Sphingomonas	462.50	26.84	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423492	Sphingomonas	455.74	57.14	Dioxygenases related to 2-nitropropane dioxygenase
+PGF_00423533	Sphingomonas	279.65	16.78	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Sphingomonas	150.73	24.25	DksA family protein PA5536 (no Zn-finger)
+PGF_00424123	Sphingomonas	541.46	66.94	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424425	Sphingomonas	359.15	31.86	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+PGF_00424447	Sphingomonas	329.21	21.21	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00425024	Sphingomonas	452.91	61.18	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425214	Sphingomonas	112.17	6.97	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425665	Sphingomonas	254.71	2.81	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425684	Sphingomonas	247.15	7.74	Probable transcriptional regulatory protein YebC
+PGF_00425685	Sphingomonas	302.21	4.93	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425847	Sphingomonas	197.63	22.32	FIG003437: hypothetical with DnaJ-like domain
+PGF_00425993	Sphingomonas	380.99	29.68	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Sphingomonas	323.21	6.00	FIG004453: protein YceG like
+PGF_00426236	Sphingomonas	374.29	13.22	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426932	Sphingomonas	140.09	9.09	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00435859	Sphingomonas	135.75	3.49	PTS system permease (IIAMan), nitrogen regulatory IIA protein
+PGF_00447508	Sphingomonas	427.19	35.86	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Sphingomonas	439.67	45.62	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Sphingomonas	347.48	14.84	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00569671	Sphingomonas	301.17	11.36	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00618776	Sphingomonas	406.67	12.20	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Sphingomonas	525.27	32.81	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00648054	Sphingomonas	229.40	14.54	Tol-Pal system protein TolQ
+PGF_00655358	Sphingomonas	465.08	53.13	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659286	Sphingomonas	455.75	20.48	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00664069	Sphingomonas	434.61	2.23	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Sphingomonas	130.26	8.23	Ribosomal silencing factor RsfA
+PGF_00668202	Sphingomonas	394.26	37.91	hypothetical protein
+PGF_00693404	Sphingomonas	266.81	2.93	Two-component transcriptional response regulator, LuxR family
+PGF_00698381	Sphingomonas	582.10	45.88	AMP-binding enzyme, associated with serine palmitoyltransferase
+PGF_00725839	Sphingomonas	742.90	66.51	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Sphingomonas	835.86	120.61	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00777371	Sphingomonas	223.42	16.72	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00827555	Sphingomonas	537.98	74.71	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Sphingomonas	292.42	16.90	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Sphingomonas	397.03	47.72	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00874759	Sphingomonas	413.35	28.37	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00912265	Sphingomonas	332.51	7.85	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Sphingomonas	327.01	37.13	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Sphingomonas	567.33	50.29	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00957419	Sphingomonas	154.54	6.40	Putative pre-16S rRNA nuclease Yqg
+PGF_00983050	Sphingomonas	402.59	31.06	Pyridoxal 5-phosphate (PLP)-dependent ornithine decarboxylase (EC 4.1.1.17)
+PGF_00983926	Sphingomonas	131.94	4.13	Ribosome-binding factor A
+PGF_01008498	Sphingomonas	112.06	20.22	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01065911	Sphingomonas	243.07	3.89	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01101526	Sphingomonas	375.10	25.18	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01126005	Sphingomonas	368.60	22.53	Rod shape-determining protein RodA
+PGF_01172485	Sphingomonas	420.62	3.52	Cell division protein FtsA
+PGF_01174739	Sphingomonas	247.81	19.74	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01191170	Sphingomonas	162.62	5.69	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01198184	Sphingomonas	76.26	9.23	hypothetical protein
+PGF_01291823	Sphingomonas	229.82	7.07	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01323228	Sphingomonas	201.20	11.69	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01364427	Sphingomonas	195.19	20.95	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Sphingomonas	187.48	13.30	HNH endonuclease family protein
+PGF_01421534	Sphingomonas	216.27	14.79	LSU ribosomal protein L25p
+PGF_01423501	Sphingomonas	158.66	3.96	Transcription elongation factor GreA
+PGF_01427606	Sphingomonas	377.02	34.85	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_01444546	Sphingomonas	95.96	5.67	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Sphingomonas	98.63	4.43	Integration host factor alpha subunit
+PGF_01466742	Sphingomonas	396.63	57.62	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Sphingomonas	378.45	68.75	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01514111	Sphingomonas	354.20	12.69	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01516543	Sphingomonas	68.61	9.85	hypothetical protein
+PGF_01532393	Sphingomonas	722.36	5.99	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01557745	Sphingomonas	408.15	41.71	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01599021	Sphingomonas	174.62	5.62	Peptide deformylase (EC 3.5.1.88)
+PGF_01614738	Sphingomonas	76.29	2.26	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01674551	Sphingomonas	123.10	0.89	Glycine cleavage system H protein
+PGF_01682537	Sphingomonas	136.38	3.15	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Sphingomonas	188.19	9.88	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Sphingomonas	213.89	14.72	Adenylate kinase (EC 2.7.4.3)
+PGF_01768042	Sphingomonas	426.66	5.02	Type II/IV secretion system ATPase TadZ/CpaE, associated with Flp pilus assembly
+PGF_01777142	Sphingomonas	208.13	10.33	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Sphingomonas	545.09	5.07	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01888177	Sphingomonas	157.37	5.87	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01910737	Sphingomonas	294.68	18.95	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01960322	Sphingomonas	602.17	43.62	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Sphingomonas	541.82	41.47	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Sphingomonas	253.08	22.66	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Sphingomonas	368.22	24.33	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Sphingomonas	334.90	8.13	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Sphingomonas	346.27	24.71	GTP-binding protein Obg
+PGF_02059020	Sphingomonas	559.49	9.25	Energy-dependent translational throttle protein EttA
+PGF_02061452	Sphingomonas	379.96	5.71	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02075241	Sphingomonas	606.97	88.42	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02141097	Sphingomonas	663.91	50.00	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02169237	Sphingomonas	230.87	6.01	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Sphingomonas	417.68	48.82	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02226715	Sphingomonas	662.31	107.90	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02311293	Sphingomonas	374.89	3.90	Peptide chain release factor 2
+PGF_02346669	Sphingomonas	307.00	5.57	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02369559	Sphingomonas	893.08	138.59	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Sphingomonas	440.84	46.85	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02450432	Sphingomonas	265.99	14.27	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Sphingomonas	199.83	5.53	Recombination protein RecR
+PGF_02473279	Sphingomonas	278.68	54.49	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Sphingomonas	197.60	15.02	Uncharacterized Nudix hydrolase NudL
+PGF_02515882	Sphingomonas	419.08	15.98	Aspartokinase (EC 2.7.2.4)
+PGF_02518459	Sphingomonas	112.21	1.59	Nitrogen regulatory protein P-II
+PGF_02593689	Sphingomonas	422.58	72.60	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02623406	Sphingomonas	310.64	6.13	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Sphingomonas	1402.10	149.69	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Sphingomonas	124.21	1.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02789532	Sphingomonas	272.14	19.24	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02797400	Sphingomonas	484.95	25.01	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Sphingomonas	1365.17	148.97	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Sphingomonas	520.80	42.51	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02818638	Sphingomonas	425.47	46.88	Hemolysins and related proteins containing CBS domains
+PGF_02838109	Sphingomonas	182.17	13.70	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Sphingomonas	242.74	22.78	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02866109	Sphingomonas	205.58	5.48	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02875609	Sphingomonas	440.39	45.18	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02893929	Sphingomonas	246.27	17.35	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02895613	Sphingomonas	446.61	15.66	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02899131	Sphingomonas	67.31	1.32	LSU ribosomal protein L29p (L35e)
+PGF_02901359	Sphingomonas	267.04	20.08	Spacial regulator of FtsZ polymerization, MipZ
+PGF_02911364	Sphingomonas	287.84	2.85	HflC protein
+PGF_02912272	Sphingomonas	160.95	0.34	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Sphingomonas	239.91	16.52	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02946231	Sphingomonas	571.57	11.31	SSU ribosomal protein S1p
+PGF_02959749	Sphingomonas	394.84	9.73	Ribonuclease D (EC 3.1.26.3)
+PGF_02976396	Sphingomonas	349.40	6.02	3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4)
+PGF_02992100	Sphingomonas	257.25	22.70	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Sphingomonas	127.38	16.42	Protein translocase membrane subunit SecG
+PGF_03029859	Sphingomonas	578.29	78.90	Bis-ABC ATPase Uup
+PGF_03054699	Sphingomonas	780.67	161.17	DNA translocase FtsK
+PGF_03066520	Sphingomonas	415.73	30.97	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03072132	Sphingomonas	173.77	17.04	CarD-like transcriptional regulator
+PGF_03074362	Sphingomonas	385.79	27.02	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03094694	Sphingomonas	455.91	38.78	Peptidase B (EC 3.4.11.23)
+PGF_03124650	Sphingomonas	489.70	36.32	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03128228	Sphingomonas	442.41	6.10	Outer membrane beta-barrel assembly protein BamB
+PGF_03132336	Sphingomonas	412.22	51.81	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03142586	Sphingomonas	96.91	4.38	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03145455	Sphingomonas	468.48	16.58	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03146406	Sphingomonas	600.20	2.59	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03174068	Sphingomonas	178.50	0.81	Transcription antitermination protein NusG
+PGF_03202871	Sphingomonas	216.75	6.17	Hydrolase SMc00528, alpha/beta fold family
+PGF_03203461	Sphingomonas	601.69	17.31	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03205915	Sphingomonas	231.13	4.98	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_03222913	Sphingomonas	84.61	5.70	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03272313	Sphingomonas	918.16	37.33	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Sphingomonas	98.03	3.94	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03340305	Sphingomonas	154.66	8.63	RidA/YER057c/UK114 superfamily, group 1
+PGF_03348128	Sphingomonas	175.58	5.78	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03369967	Sphingomonas	383.63	27.70	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03429638	Sphingomonas	304.80	6.20	33 kDa chaperonin HslO
+PGF_03518570	Sphingomonas	141.50	14.66	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Sphingomonas	489.16	48.37	Cell division protein FtsZ
+PGF_03609651	Sphingomonas	516.42	16.07	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03719269	Sphingomonas	199.03	4.65	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03739563	Sphingomonas	153.98	10.53	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03751823	Sphingomonas	182.99	4.85	Heat shock protein GrpE
+PGF_03752544	Sphingomonas	231.45	3.15	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Sphingomonas	293.40	29.98	Site-specific tyrosine recombinase XerC
+PGF_03757137	Sphingomonas	451.92	37.66	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Sphingomonas	310.75	5.12	Signal recognition particle receptor FtsY
+PGF_03787199	Sphingomonas	185.19	13.70	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03945558	Sphingomonas	160.53	4.97	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_03960810	Sphingomonas	279.43	18.94	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03987764	Sphingomonas	190.43	16.54	FIG003620: Proteophosphoglycan precursor (Fragment)
+PGF_04007946	Sphingomonas	224.40	25.08	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Sphingomonas	436.34	39.31	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Sphingomonas	149.24	6.42	Large-conductance mechanosensitive channel
+PGF_04041316	Sphingomonas	949.36	149.69	Excinuclease ABC subunit A
+PGF_04047265	Sphingomonas	76.51	2.49	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04108824	Sphingomonas	564.11	47.22	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Sphingomonas	258.92	5.86	Twin-arginine translocation protein TatC
+PGF_04151476	Sphingomonas	159.84	10.99	16S rRNA processing protein RimM
+PGF_04182459	Sphingomonas	237.34	13.64	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04315180	Sphingomonas	168.15	6.53	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Sphingomonas	448.49	39.62	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Sphingomonas	895.34	99.71	Protein translocase subunit SecA
+PGF_04380075	Sphingomonas	181.72	14.40	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04505269	Sphingomonas	268.52	17.21	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Sphingomonas	456.96	33.64	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04571944	Sphingomonas	274.38	25.37	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04608820	Sphingomonas	651.43	89.70	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04630848	Sphingomonas	145.38	9.24	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04660832	Sphingomonas	170.61	8.09	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Sphingomonas	829.00	62.91	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04757308	Sphingomonas	697.52	10.53	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Sphingomonas	189.31	4.61	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Sphingomonas	302.48	30.55	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Sphingomonas	128.31	7.05	LSU ribosomal protein L19p
+PGF_04970608	Sphingomonas	113.34	4.07	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Sphingomonas	113.71	16.50	LSU ribosomal protein L21p
+PGF_05111929	Sphingomonas	577.35	59.21	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Sphingomonas	825.52	100.57	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Sphingomonas	304.79	7.99	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Sphingomonas	222.80	13.80	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Sphingomonas	486.71	30.56	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Sphingomonas	463.84	33.94	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05215981	Sphingomonas	145.36	4.04	Uncharacterized protein CC_3748
+PGF_05247272	Sphingomonas	141.18	7.12	hypothetical protein
+PGF_05280843	Sphingomonas	436.15	46.13	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05406959	Sphingomonas	335.20	6.54	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05439724	Sphingomonas	677.70	121.95	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Sphingomonas	255.80	17.72	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Sphingomonas	571.59	92.17	DNA mismatch repair protein MutL
+PGF_05560886	Sphingomonas	269.37	19.83	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Sphingomonas	446.64	42.33	Protein translocase subunit SecY
+PGF_05598173	Sphingomonas	384.96	56.12	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05693577	Sphingomonas	93.51	8.59	Integration host factor beta subunit
+PGF_05712128	Sphingomonas	574.42	47.49	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05769513	Sphingomonas	452.49	46.13	Tol-Pal system beta propeller repeat protein TolB
+PGF_05925776	Sphingomonas	301.83	26.46	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Sphingomonas	531.00	24.29	Protein translocase subunit SecD
+PGF_05999853	Sphingomonas	367.92	4.62	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06005188	Sphingomonas	654.53	64.46	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06053106	Sphingomonas	301.08	3.13	RNA polymerase sigma factor RpoH
+PGF_06170558	Sphingomonas	153.01	4.06	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Sphingomonas	158.65	2.63	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Sphingomonas	263.36	14.40	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06285041	Sphingomonas	350.35	48.86	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06298671	Sphingomonas	278.46	18.51	Efflux ABC transporter, permease protein
+PGF_06379377	Sphingomonas	441.58	20.43	Replication-associated recombination protein RarA
+PGF_06469881	Sphingomonas	292.98	37.05	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06530721	Sphingomonas	227.06	8.02	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06644010	Sphingomonas	302.53	31.34	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Sphingomonas	78.37	5.08	Acyl carrier protein
+PGF_06693963	Sphingomonas	107.80	1.76	Nucleoid-associated protein YaaK
+PGF_06755829	Sphingomonas	316.40	36.48	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_07072582	Sphingomonas	667.68	61.84	RNA polymerase sigma factor RpoD
+PGF_07242312	Sphingomonas	679.63	20.16	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07507244	Sphingomonas	222.90	3.12	Glutathione S-transferase family protein
+PGF_08126362	Sphingomonas	469.17	41.51	DNA recombination protein RmuC
+PGF_08139315	Sphingomonas	89.82	1.79	Phosphocarrier protein, nitrogen regulation associated
+PGF_08183187	Sphingomonas	407.82	7.24	Cell division protein FtsW

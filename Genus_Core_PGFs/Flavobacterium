@@ -1,0 +1,665 @@
+PGF_00000416	Flavobacterium	343.80	10.93	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001094	Flavobacterium	537.18	20.42	FIG00936810: hypothetical protein
+PGF_00003504	Flavobacterium	257.26	14.34	FIG137478: Hypothetical protein
+PGF_00004323	Flavobacterium	116.61	3.26	Ferredoxin
+PGF_00004438	Flavobacterium	259.84	2.06	Vitamin B12 ABC transporter, ATP-binding protein BtuD
+PGF_00004541	Flavobacterium	152.34	6.35	Ferric uptake regulation protein FUR
+PGF_00004671	Flavobacterium	699.55	5.78	Ferrous iron transport protein B
+PGF_00005023	Flavobacterium	430.37	28.71	ABC transporter, permease protein
+PGF_00006394	Flavobacterium	353.62	19.13	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006510	Flavobacterium	424.24	17.35	Fumarylacetoacetase (EC 3.7.1.2)
+PGF_00006935	Flavobacterium	496.92	64.25	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Flavobacterium	361.62	22.61	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Flavobacterium	434.20	26.85	GTP-binding protein EngA
+PGF_00007026	Flavobacterium	205.67	3.66	GTP-binding protein EngB
+PGF_00007027	Flavobacterium	293.75	3.83	GTP-binding protein Era
+PGF_00007028	Flavobacterium	406.35	44.12	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007033	Flavobacterium	267.29	6.98	ABC-type Fe3+-hydroxamate transport system, periplasmic component
+PGF_00007041	Flavobacterium	595.62	36.72	GTP-binding protein TypA/BipA
+PGF_00007057	Flavobacterium	463.81	31.32	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Flavobacterium	234.97	8.40	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007525	Flavobacterium	325.11	6.85	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007606	Flavobacterium	319.05	5.34	GldB
+PGF_00007607	Flavobacterium	110.21	2.79	GldC
+PGF_00007608	Flavobacterium	186.16	9.77	GldD
+PGF_00007632	Flavobacterium	296.90	17.19	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007981	Flavobacterium	385.82	36.56	Sugar-phosphate nucleotidyl transferase
+PGF_00007988	Flavobacterium	543.33	36.76	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008106	Flavobacterium	261.78	21.53	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Flavobacterium	431.73	52.07	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008249	Flavobacterium	350.17	22.34	Glutamine cyclotransferase
+PGF_00008261	Flavobacterium	728.72	3.22	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+PGF_00008326	Flavobacterium	655.92	100.13	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008335	Flavobacterium	497.04	48.89	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008393	Flavobacterium	390.61	23.74	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008611	Flavobacterium	327.56	27.48	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Flavobacterium	945.70	65.21	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Flavobacterium	208.74	14.28	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009634	Flavobacterium	283.00	5.54	Glycosyltransferase
+PGF_00009684	Flavobacterium	254.50	8.40	Glycosyltransferase
+PGF_00009760	Flavobacterium	379.45	6.15	UDP-N-acetylglucosamine:L-malate glycosyltransferase
+PGF_00009966	Flavobacterium	513.58	22.11	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Flavobacterium	234.35	7.33	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Flavobacterium	739.94	2.78	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Flavobacterium	190.72	1.49	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Flavobacterium	810.88	54.25	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011250	Flavobacterium	293.20	20.20	Hemagglutinin
+PGF_00011321	Flavobacterium	297.84	21.68	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011593	Flavobacterium	324.90	5.76	Hexaprenyl diphosphate synthase (farnesyl-diphosphate specific) (EC 2.5.1.83)
+PGF_00012264	Flavobacterium	340.82	3.45	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012854	Flavobacterium	229.24	14.31	Hydrolase, haloacid delahogenase-like family
+PGF_00013003	Flavobacterium	636.18	1.75	Bis-ABC ATPase YheS
+PGF_00013144	Flavobacterium	182.90	5.90	Terminal oxidase biogenesis protein CtaM, putative heme A, heme O chaperone
+PGF_00013151	Flavobacterium	336.17	21.85	ADP-heptose:LPS heptosyltransferase
+PGF_00013509	Flavobacterium	511.54	5.58	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00014306	Flavobacterium	176.06	4.45	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Flavobacterium	483.88	39.09	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Flavobacterium	386.51	13.87	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Flavobacterium	64.52	1.22	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Flavobacterium	176.34	6.20	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Flavobacterium	283.42	13.40	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Flavobacterium	247.44	16.22	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Flavobacterium	476.98	42.93	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Flavobacterium	433.70	38.70	Iron-sulfur cluster assembly protein SufD
+PGF_00015601	Flavobacterium	441.74	12.10	Iron-sulphur-binding reductase
+PGF_00015718	Flavobacterium	1125.38	119.26	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015735	Flavobacterium	176.30	5.89	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00016047	Flavobacterium	340.56	23.87	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016328	Flavobacterium	166.26	10.34	LSU ribosomal protein L10p (P0)
+PGF_00016338	Flavobacterium	406.69	31.79	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Flavobacterium	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Flavobacterium	149.10	8.80	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Flavobacterium	137.28	11.85	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Flavobacterium	161.45	7.07	LSU ribosomal protein L17p
+PGF_00016353	Flavobacterium	114.90	7.34	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Flavobacterium	229.03	0.20	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Flavobacterium	113.45	3.02	LSU ribosomal protein L20p
+PGF_00016368	Flavobacterium	135.26	7.79	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Flavobacterium	95.78	1.41	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Flavobacterium	103.40	2.53	LSU ribosomal protein L24p (L26e)
+PGF_00016393	Flavobacterium	270.12	19.97	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Flavobacterium	58.07	6.19	LSU ribosomal protein L30p (L7e)
+PGF_00016431	Flavobacterium	202.58	5.40	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Flavobacterium	209.09	1.21	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Flavobacterium	176.14	12.08	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Flavobacterium	180.18	1.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Flavobacterium	122.62	2.92	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Flavobacterium	146.17	9.10	LSU ribosomal protein L9p
+PGF_00016919	Flavobacterium	213.87	5.84	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Flavobacterium	372.15	4.36	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Flavobacterium	248.61	9.98	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017464	Flavobacterium	240.35	26.28	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Flavobacterium	284.86	31.64	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017514	Flavobacterium	351.09	18.77	Lmo0572 protein
+PGF_00018370	Flavobacterium	254.14	21.72	ATP-dependent exoDNAse (exonuclease V) alpha subunit - helicase superfamily I member
+PGF_00018460	Flavobacterium	1048.52	101.53	ATP-dependent helicase
+PGF_00018952	Flavobacterium	311.21	2.42	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00020172	Flavobacterium	269.67	18.31	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Flavobacterium	139.14	1.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Flavobacterium	251.86	11.29	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020793	Flavobacterium	189.83	3.85	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020965	Flavobacterium	110.34	4.90	Methylated-DNA-[protein]-cysteine S-methyltransferase
+PGF_00020981	Flavobacterium	537.66	45.85	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Flavobacterium	294.06	4.01	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021022	Flavobacterium	706.02	53.95	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021023	Flavobacterium	445.28	49.34	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021217	Flavobacterium	507.01	45.01	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021380	Flavobacterium	304.21	2.99	Mevalonate kinase (EC 2.7.1.36)
+PGF_00021968	Flavobacterium	217.05	7.23	Mn-dependent transcriptional regulator MntR
+PGF_00022548	Flavobacterium	1016.05	5.41	Molybdopterin oxidoreductase, iron-sulfur binding subunit (EC 1.2.7.-)
+PGF_00022681	Flavobacterium	315.92	13.89	MoxR protein
+PGF_00023591	Flavobacterium	340.63	3.06	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023752	Flavobacterium	459.62	27.59	N-acetylglucosamine deacetylase (EC 3.5.1.-) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_00023816	Flavobacterium	368.47	2.83	N-acetylglucosaminyltransferase (EC 2.4.1.-)
+PGF_00024273	Flavobacterium	160.44	2.95	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Flavobacterium	386.03	6.44	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Flavobacterium	272.35	16.88	NAD synthetase (EC 6.3.1.5)
+PGF_00025379	Flavobacterium	278.45	3.61	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025575	Flavobacterium	488.00	4.78	Nicotinamide mononucleotide adenylyltransferase
+PGF_00026279	Flavobacterium	313.11	26.35	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Flavobacterium	191.50	2.92	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Flavobacterium	257.29	5.39	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Flavobacterium	282.51	16.15	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026743	Flavobacterium	213.64	3.72	O-methyltransferase
+PGF_00026786	Flavobacterium	397.15	4.05	Acetylornithine aminotransferase (EC 2.6.1.11) (ACOAT)
+PGF_00026797	Flavobacterium	343.84	34.57	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00028336	Flavobacterium	883.12	54.12	Outer membrane protein assembly factor YaeT
+PGF_00028559	Flavobacterium	310.30	30.77	Oxidoreductase
+PGF_00029917	Flavobacterium	284.57	4.89	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Flavobacterium	355.54	24.17	Peptide chain release factor 1
+PGF_00030643	Flavobacterium	527.52	23.82	Peptide chain release factor 3
+PGF_00033095	Flavobacterium	802.29	56.12	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Flavobacterium	314.04	28.17	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033359	Flavobacterium	408.85	1.64	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033479	Flavobacterium	571.47	33.20	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Flavobacterium	397.95	6.68	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033737	Flavobacterium	255.00	3.68	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033827	Flavobacterium	312.25	2.58	Phosphomevalonate kinase (EC 2.7.4.2)
+PGF_00033877	Flavobacterium	151.83	1.72	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Flavobacterium	423.88	24.28	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Flavobacterium	309.29	36.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033954	Flavobacterium	390.08	28.49	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Flavobacterium	1206.50	121.98	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Flavobacterium	190.68	7.82	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Flavobacterium	367.56	18.52	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034494	Flavobacterium	376.88	3.48	Pleiotropic regulatory protein
+PGF_00034776	Flavobacterium	714.14	55.87	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034830	Flavobacterium	480.61	35.98	Polysaccharide biosynthesis protein
+PGF_00034958	Flavobacterium	233.44	12.28	PorT protein
+PGF_00034988	Flavobacterium	329.97	4.68	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035091	Flavobacterium	326.39	19.27	Possible acyl protein synthase/acyl-CoA reductase-like protein
+PGF_00035378	Flavobacterium	433.59	36.63	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035547	Flavobacterium	121.66	4.79	Predicted CoA-binding domain COG1832
+PGF_00035721	Flavobacterium	448.34	3.40	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00036172	Flavobacterium	482.88	54.79	Lipopolysaccharide export system permease protein LptF
+PGF_00037586	Flavobacterium	491.90	7.20	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037937	Flavobacterium	188.54	20.20	Protein PhnA
+PGF_00038653	Flavobacterium	983.89	59.86	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038879	Flavobacterium	181.58	4.62	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039342	Flavobacterium	272.58	2.31	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039795	Flavobacterium	587.17	6.69	Putative TonB-dependent receptor
+PGF_00040578	Flavobacterium	256.80	3.29	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Flavobacterium	216.15	4.09	Putative deoxyribonuclease YjjV
+PGF_00040776	Flavobacterium	253.58	15.68	Putative esterase/lipase ybfF (EC 3.1.-.-)
+PGF_00045833	Flavobacterium	212.93	11.17	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Flavobacterium	237.96	6.92	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045991	Flavobacterium	475.32	4.92	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046060	Flavobacterium	210.17	7.75	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Flavobacterium	287.03	5.34	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046403	Flavobacterium	483.12	30.41	RNA polymerase sigma-54 factor RpoN
+PGF_00047078	Flavobacterium	334.41	23.80	RecA protein
+PGF_00047093	Flavobacterium	479.04	33.88	RecD-like DNA helicase Atu2026
+PGF_00047296	Flavobacterium	236.00	3.77	Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)
+PGF_00047815	Flavobacterium	507.53	56.20	Response regulator
+PGF_00048139	Flavobacterium	228.90	4.29	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_00048334	Flavobacterium	449.23	33.68	Rhodanese domain protein, Enterobacterial subgroup, YceA homolog
+PGF_00048480	Flavobacterium	196.24	1.04	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Flavobacterium	158.91	1.03	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Flavobacterium	215.83	16.10	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048594	Flavobacterium	300.36	5.63	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048621	Flavobacterium	376.12	24.69	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3) / Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00048632	Flavobacterium	323.58	14.28	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048651	Flavobacterium	145.82	5.75	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Flavobacterium	309.79	28.08	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Flavobacterium	299.99	12.17	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048834	Flavobacterium	193.98	12.02	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048836	Flavobacterium	269.42	21.96	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Flavobacterium	280.01	6.44	Ribosomal protein L11 methyltransferase
+PGF_00048846	Flavobacterium	434.35	8.49	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Flavobacterium	100.08	4.35	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Flavobacterium	184.04	19.99	Ribosome recycling factor
+PGF_00048928	Flavobacterium	324.57	4.18	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Flavobacterium	124.54	9.05	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Flavobacterium	129.83	2.21	Ribosome-binding factor A
+PGF_00048985	Flavobacterium	219.81	7.91	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Flavobacterium	410.98	44.82	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Flavobacterium	349.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049415	Flavobacterium	389.27	8.58	Alternative cytochrome c oxidase polypeptide CoxM (EC 1.9.3.1)
+PGF_00049431	Flavobacterium	586.81	70.47	Alternative cytochrome c oxidase polypeptide CoxN (EC 1.9.3.1)
+PGF_00049446	Flavobacterium	193.95	4.10	Alternative cytochrome c oxidase polypeptide CoxO (EC 1.9.3.1)
+PGF_00049532	Flavobacterium	327.35	22.33	Alternative cytochrome c oxidase polypeptide CoxP (EC 1.9.3.1)
+PGF_00049827	Flavobacterium	260.56	3.73	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Flavobacterium	96.49	6.57	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Flavobacterium	126.88	1.15	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Flavobacterium	123.95	13.29	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Flavobacterium	123.99	0.25	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Flavobacterium	88.94	0.57	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Flavobacterium	88.54	1.80	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Flavobacterium	184.65	5.69	SSU ribosomal protein S16p
+PGF_00049858	Flavobacterium	97.93	0.44	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Flavobacterium	90.52	7.38	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Flavobacterium	247.43	17.65	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Flavobacterium	199.72	7.85	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Flavobacterium	172.97	9.37	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Flavobacterium	111.56	6.90	SSU ribosomal protein S6p
+PGF_00049904	Flavobacterium	156.68	6.06	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Flavobacterium	132.34	4.64	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Flavobacterium	128.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050006	Flavobacterium	454.99	4.23	Saccharopine dehydrogenase [NADP, L-glutamate-forming] (EC 1.5.1.10)
+PGF_00050995	Flavobacterium	630.02	27.13	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Flavobacterium	420.31	27.55	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052137	Flavobacterium	447.90	29.85	Amino acid ligase similar to peptidoglycan synthetases
+PGF_00052210	Flavobacterium	587.08	4.58	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Flavobacterium	445.37	35.37	Signal recognition particle protein Ffh
+PGF_00052646	Flavobacterium	269.30	8.63	Similar to glycogen synthase (EC 2.4.1.21)
+PGF_00052705	Flavobacterium	138.79	18.44	LSU ribosomal protein L11p (L12e)
+PGF_00052729	Flavobacterium	229.91	1.52	Similar to tRNA pseudouridine synthase C, group TruC1
+PGF_00052943	Flavobacterium	298.48	21.94	Site-specific tyrosine recombinase XerD
+PGF_00053770	Flavobacterium	360.46	1.83	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053777	Flavobacterium	261.50	4.38	SpoU rRNA methylase family protein
+PGF_00053991	Flavobacterium	441.17	36.09	Stage 0 sporulation protein YaaT
+PGF_00054323	Flavobacterium	206.09	0.85	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054528	Flavobacterium	397.15	7.41	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054541	Flavobacterium	217.72	7.38	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00055099	Flavobacterium	139.62	1.08	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055460	Flavobacterium	463.97	6.25	TPR domain protein
+PGF_00055463	Flavobacterium	866.96	57.20	TPR domain protein
+PGF_00055649	Flavobacterium	983.36	114.53	TPR-domain-containing protein
+PGF_00055717	Flavobacterium	426.67	11.83	TPR/glycosyl transferase domain protein
+PGF_00055954	Flavobacterium	406.79	7.11	TRNA and rRNA cytosine-C5-methylase
+PGF_00055966	Flavobacterium	366.50	35.86	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Flavobacterium	340.53	7.79	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056317	Flavobacterium	237.88	12.29	Tetrapyrrole (Corrin-Porphyrin) methylase family protein
+PGF_00056514	Flavobacterium	709.49	92.22	Thiamin-regulated outer membrane receptor Omr1
+PGF_00056634	Flavobacterium	165.33	2.88	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056872	Flavobacterium	200.71	6.38	Thymidine kinase (EC 2.7.1.21)
+PGF_00056897	Flavobacterium	276.21	4.69	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057270	Flavobacterium	883.92	106.49	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Flavobacterium	148.45	4.01	Transamidase GatB domain protein
+PGF_00057483	Flavobacterium	589.53	55.61	Transcription termination factor Rho
+PGF_00057485	Flavobacterium	414.82	2.76	Transcription termination protein NusA
+PGF_00057488	Flavobacterium	309.05	24.26	Transcription termination protein NusB
+PGF_00060409	Flavobacterium	701.91	84.38	Translation elongation factor G
+PGF_00060414	Flavobacterium	594.49	36.26	Translation elongation factor LepA
+PGF_00060421	Flavobacterium	187.73	0.53	Translation elongation factor P
+PGF_00060427	Flavobacterium	293.35	23.08	Translation elongation factor Ts
+PGF_00060428	Flavobacterium	394.39	7.40	Translation elongation factor Tu
+PGF_00060431	Flavobacterium	70.87	1.62	Translation initiation factor 1
+PGF_00060478	Flavobacterium	137.41	17.55	Translation initiation factor 3
+PGF_00061922	Flavobacterium	422.26	8.12	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062002	Flavobacterium	310.12	2.36	Tryptophan 2,3-dioxygenase (EC 1.13.11.11)
+PGF_00062045	Flavobacterium	322.88	24.52	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063937	Flavobacterium	250.12	3.65	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063974	Flavobacterium	335.37	23.61	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Flavobacterium	364.06	16.64	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Flavobacterium	449.10	3.01	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064007	Flavobacterium	814.94	13.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) / Alanine racemase (EC 5.1.1.1)
+PGF_00064270	Flavobacterium	252.38	15.98	UPF0246 protein YaaA
+PGF_00065887	Flavobacterium	243.97	6.35	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065939	Flavobacterium	273.00	16.32	Universal stress protein Coch_1269
+PGF_00066124	Flavobacterium	180.84	12.22	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Flavobacterium	222.81	3.93	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066270	Flavobacterium	339.59	21.97	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066291	Flavobacterium	249.18	3.42	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Flavobacterium	881.47	197.50	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Flavobacterium	479.42	4.82	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Flavobacterium	115.15	4.57	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Flavobacterium	308.68	3.22	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Flavobacterium	328.81	5.20	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00069843	Flavobacterium	353.13	4.38	FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_00070432	Flavobacterium	405.23	27.48	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070779	Flavobacterium	358.29	21.24	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54) / Chorismate mutase I (EC 5.4.99.5)
+PGF_00071568	Flavobacterium	560.20	10.18	Gliding motility-associated ABC transporter substrate-binding protein GldG
+PGF_00074447	Flavobacterium	127.13	2.30	hypothetical protein
+PGF_00084324	Flavobacterium	264.97	4.38	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00092452	Flavobacterium	382.12	26.87	hypothetical protein
+PGF_00103681	Flavobacterium	147.08	10.44	hypothetical protein
+PGF_00125050	Flavobacterium	118.09	0.83	hypothetical protein
+PGF_00156583	Flavobacterium	201.62	4.24	Bis(5'-nucleosyl)-tetraphosphatase (Asymmetrical) (EC 3.6.1.17)
+PGF_00232219	Flavobacterium	179.94	8.78	hypothetical protein
+PGF_00237343	Flavobacterium	395.34	32.25	hypothetical protein
+PGF_00257250	Flavobacterium	208.39	93.23	hypothetical protein
+PGF_00258476	Flavobacterium	301.33	37.93	hypothetical protein
+PGF_00261173	Flavobacterium	395.16	1.48	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Flavobacterium	222.91	13.12	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00286805	Flavobacterium	147.28	20.07	hypothetical protein
+PGF_00306348	Flavobacterium	90.97	3.76	hypothetical protein
+PGF_00381334	Flavobacterium	129.25	53.58	hypothetical protein
+PGF_00386764	Flavobacterium	372.85	14.19	hypothetical protein
+PGF_00399630	Flavobacterium	287.50	0.94	hypothetical protein PA3071
+PGF_00399755	Flavobacterium	453.90	29.37	hypothetical protein sometimes fused to ribosomal protein S6 glutaminyl transferase / Ribosomal protein S6--L-glutamate ligase
+PGF_00399844	Flavobacterium	212.52	3.64	hypothetical protein
+PGF_00400019	Flavobacterium	332.21	7.95	Aerotolerance protein BatA
+PGF_00400033	Flavobacterium	346.80	26.49	Aerotolerance protein BatB
+PGF_00400675	Flavobacterium	1095.29	101.82	liver stage antigen, putative
+PGF_00404018	Flavobacterium	466.16	3.34	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Flavobacterium	160.31	1.81	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Flavobacterium	444.08	37.72	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00406692	Flavobacterium	918.73	66.35	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00407080	Flavobacterium	805.75	80.33	putative ferric aerobactin receptor
+PGF_00408013	Flavobacterium	177.67	5.17	putative lipoprotein
+PGF_00411216	Flavobacterium	410.74	10.54	ABC transporter, permease protein
+PGF_00412165	Flavobacterium	785.82	99.39	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4) / Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00412328	Flavobacterium	384.64	26.04	sigma-54 dependent transcriptional regulator/response regulator
+PGF_00413208	Flavobacterium	224.38	9.50	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413223	Flavobacterium	219.06	17.25	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+PGF_00413290	Flavobacterium	248.73	12.84	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Flavobacterium	232.08	2.28	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Flavobacterium	440.12	31.89	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Flavobacterium	620.57	38.74	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Flavobacterium	147.65	3.98	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413359	Flavobacterium	178.91	2.75	tRNA/rRNA methyltransferase
+PGF_00413554	Flavobacterium	150.97	2.53	tmRNA-binding protein SmpB
+PGF_00414366	Flavobacterium	549.74	32.99	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414926	Flavobacterium	474.85	5.03	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Flavobacterium	388.72	4.77	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415486	Flavobacterium	157.21	2.23	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00416115	Flavobacterium	303.08	73.35	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Flavobacterium	535.52	35.03	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Flavobacterium	940.75	94.83	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416424	Flavobacterium	387.33	22.91	Carbapenem antibiotics biosynthesis protein carD
+PGF_00416674	Flavobacterium	372.06	33.11	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417433	Flavobacterium	625.32	71.55	Chaperone protein DnaK
+PGF_00417577	Flavobacterium	141.43	10.61	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Flavobacterium	356.77	9.32	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Flavobacterium	353.62	3.60	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Flavobacterium	173.43	3.32	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Flavobacterium	239.48	21.31	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00419397	Flavobacterium	221.53	7.70	Conserved hyperthetical protein
+PGF_00419627	Flavobacterium	299.70	16.81	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Flavobacterium	184.61	5.62	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00420121	Flavobacterium	228.76	6.12	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420732	Flavobacterium	476.63	54.67	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420798	Flavobacterium	325.01	3.84	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Flavobacterium	320.33	5.23	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421071	Flavobacterium	150.26	2.11	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Flavobacterium	630.88	26.27	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421164	Flavobacterium	256.82	4.84	DNA Pol III Epsilon Chain
+PGF_00421498	Flavobacterium	368.86	11.71	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421733	Flavobacterium	358.10	24.67	DNA recombination and repair protein RecF
+PGF_00421792	Flavobacterium	453.90	35.07	DNA repair protein RadA
+PGF_00421796	Flavobacterium	547.81	24.38	DNA repair protein RecN
+PGF_00422271	Flavobacterium	325.14	26.05	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422287	Flavobacterium	104.77	0.81	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_00422545	Flavobacterium	312.56	8.76	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422888	Flavobacterium	541.34	0.55	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422912	Flavobacterium	204.00	0.00	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00422937	Flavobacterium	323.05	1.83	Deoxyhypusine synthase (EC 2.5.1.46)
+PGF_00422959	Flavobacterium	144.25	2.28	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Flavobacterium	340.45	27.07	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Flavobacterium	260.41	5.69	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Flavobacterium	405.62	26.24	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Flavobacterium	119.10	2.54	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423609	Flavobacterium	252.30	5.90	Dipeptidyl peptidase VI
+PGF_00423613	Flavobacterium	362.19	7.91	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+PGF_00423723	Flavobacterium	125.58	4.32	DnaK suppressor protein, putative
+PGF_00423739	Flavobacterium	242.10	6.86	Dolichol-phosphate mannosyltransferase
+PGF_00424236	Flavobacterium	132.85	8.61	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424967	Flavobacterium	920.26	85.43	Excinuclease ABC subunit A paralog in greater Bacteroides group
+PGF_00425679	Flavobacterium	206.91	6.94	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Flavobacterium	235.08	13.91	Probable transcriptional regulatory protein YebC
+PGF_00425786	Flavobacterium	519.49	7.93	Ribonuclease Y
+PGF_00425997	Flavobacterium	345.01	1.88	FIG004453: protein YceG like
+PGF_00426115	Flavobacterium	581.34	76.26	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426631	Flavobacterium	548.65	36.75	Lipopolysaccharide export system protein LptA
+PGF_00426932	Flavobacterium	181.98	12.46	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427155	Flavobacterium	405.95	11.92	FIG00648790: hypothetical protein
+PGF_00427366	Flavobacterium	134.86	7.86	6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
+PGF_00500015	Flavobacterium	297.81	22.53	pyridoxal phosphate-dependent deaminase, putative
+PGF_00502238	Flavobacterium	333.06	5.35	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00601220	Flavobacterium	219.66	5.98	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+PGF_00602314	Flavobacterium	107.62	4.97	hypothetical protein
+PGF_00608289	Flavobacterium	233.71	42.14	hypothetical protein
+PGF_00618776	Flavobacterium	346.56	11.34	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Flavobacterium	325.16	22.59	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00650260	Flavobacterium	127.26	11.40	HIT family protein
+PGF_00655358	Flavobacterium	484.47	23.53	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Flavobacterium	214.48	4.98	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Flavobacterium	123.01	0.45	Ribosomal silencing factor RsfA
+PGF_00695496	Flavobacterium	232.72	1.65	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00717495	Flavobacterium	426.42	2.19	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00718789	Flavobacterium	295.43	0.99	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00725839	Flavobacterium	896.01	59.20	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Flavobacterium	838.99	5.42	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00760084	Flavobacterium	348.65	5.29	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_00776587	Flavobacterium	108.07	3.88	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00790971	Flavobacterium	225.63	2.69	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_00807154	Flavobacterium	265.23	18.08	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_00827693	Flavobacterium	589.98	53.63	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_00833352	Flavobacterium	1482.74	173.07	DEDDh 3'-5' exonuclease domain / DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00833526	Flavobacterium	439.06	7.73	Uncharacterized MFS-type transporter
+PGF_00853393	Flavobacterium	289.43	12.68	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Flavobacterium	404.06	19.54	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00870026	Flavobacterium	227.47	12.75	Zinc transporter, ZIP family
+PGF_00871229	Flavobacterium	544.36	5.32	Bis-ABC ATPase YheS.2
+PGF_00875089	Flavobacterium	308.95	8.89	Similar to (S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase
+PGF_00906931	Flavobacterium	345.88	5.19	Formiminoglutamase (EC 3.5.3.8)
+PGF_00908360	Flavobacterium	244.86	6.66	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Flavobacterium	322.97	37.72	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Flavobacterium	433.31	27.91	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Flavobacterium	597.39	20.82	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00932061	Flavobacterium	268.82	10.63	FIG00431159: hypothetical protein
+PGF_00934722	Flavobacterium	109.86	13.19	Protein translocase membrane subunit SecG
+PGF_00943546	Flavobacterium	254.66	4.18	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00950554	Flavobacterium	662.79	1.31	Excinuclease ABC subunit B
+PGF_00957419	Flavobacterium	138.12	2.92	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Flavobacterium	336.13	4.57	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00976420	Flavobacterium	586.63	37.61	Aerotolerance protein BatD
+PGF_01008498	Flavobacterium	132.95	8.46	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01065911	Flavobacterium	216.50	4.58	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01079016	Flavobacterium	299.20	1.36	Chromosome (plasmid) partitioning protein ParB
+PGF_01124177	Flavobacterium	406.79	24.25	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Flavobacterium	413.19	8.85	Rod shape-determining protein RodA
+PGF_01147190	Flavobacterium	427.91	23.59	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01172485	Flavobacterium	464.34	7.22	Cell division protein FtsA
+PGF_01174739	Flavobacterium	243.69	17.68	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Flavobacterium	420.24	44.10	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Flavobacterium	640.57	58.30	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176861	Flavobacterium	76.40	3.44	Uncharacterized protein YpeB
+PGF_01212739	Flavobacterium	542.23	3.14	Heat shock protein 60 family chaperone GroEL
+PGF_01218448	Flavobacterium	378.79	10.31	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01220614	Flavobacterium	242.54	4.04	RNA methyltransferase, TrmH family
+PGF_01291803	Flavobacterium	345.60	12.51	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01329056	Flavobacterium	238.36	2.18	N-acetylglucosaminyl-L-malate N-acetyl hydrolase
+PGF_01351158	Flavobacterium	1117.71	9.05	Transcription-repair coupling factor
+PGF_01364427	Flavobacterium	192.95	0.73	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01416568	Flavobacterium	195.36	5.33	LemA family protein
+PGF_01420802	Flavobacterium	149.07	15.50	Cell division protein MraZ
+PGF_01421534	Flavobacterium	202.00	4.86	LSU ribosomal protein L25p
+PGF_01423501	Flavobacterium	159.06	4.09	Transcription elongation factor GreA
+PGF_01466742	Flavobacterium	349.81	27.13	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01469197	Flavobacterium	471.07	3.11	RNA methyltransferase, TrmA family
+PGF_01483460	Flavobacterium	354.43	37.39	Lipopolysaccharide export system permease protein LptG
+PGF_01614738	Flavobacterium	83.40	1.77	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01668974	Flavobacterium	662.87	50.00	DNA internalization-related competence protein ComEC/Rec2
+PGF_01682834	Flavobacterium	160.94	7.86	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Flavobacterium	233.93	21.25	DNA recombination and repair protein RecO
+PGF_01696646	Flavobacterium	325.12	4.75	Peptidase, family M23 (EC 3.4.24.-)
+PGF_01701024	Flavobacterium	169.79	15.46	hypothetical protein
+PGF_01734668	Flavobacterium	193.28	24.41	Adenylate kinase (EC 2.7.4.3)
+PGF_01744781	Flavobacterium	179.76	16.54	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01763778	Flavobacterium	283.83	27.02	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01767358	Flavobacterium	237.77	2.13	HesA/MoeB/ThiF family protein
+PGF_01777142	Flavobacterium	193.26	8.30	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01853493	Flavobacterium	273.41	19.97	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01899937	Flavobacterium	273.14	7.89	Rod shape-determining protein MreC
+PGF_01900530	Flavobacterium	243.50	6.02	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900807	Flavobacterium	274.84	6.28	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01901601	Flavobacterium	419.08	30.03	hypothetical protein
+PGF_01933275	Flavobacterium	221.52	18.97	HD domain protein
+PGF_01949788	Flavobacterium	186.30	5.58	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Flavobacterium	610.01	44.92	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Flavobacterium	432.51	53.50	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Flavobacterium	123.37	5.92	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02019462	Flavobacterium	334.84	31.12	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Flavobacterium	333.97	1.66	GTP-binding protein Obg
+PGF_02059020	Flavobacterium	562.69	2.52	Energy-dependent translational throttle protein EttA
+PGF_02061452	Flavobacterium	372.02	33.23	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02141148	Flavobacterium	165.21	3.01	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_02185217	Flavobacterium	465.97	42.57	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02211177	Flavobacterium	256.48	15.76	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02226715	Flavobacterium	704.00	20.03	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02278020	Flavobacterium	420.23	4.49	Transcriptional regulator
+PGF_02305956	Flavobacterium	252.88	10.81	Aerotolerance protein BatC
+PGF_02346768	Flavobacterium	879.13	8.39	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02369559	Flavobacterium	928.41	117.85	DNA polymerase I (EC 2.7.7.7)
+PGF_02382389	Flavobacterium	308.28	3.41	Ribokinase (EC 2.7.1.15)
+PGF_02450432	Flavobacterium	277.96	28.24	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Flavobacterium	81.22	7.81	SSU ribosomal protein S20p
+PGF_02463284	Flavobacterium	207.99	7.45	Recombination protein RecR
+PGF_02465987	Flavobacterium	227.06	5.80	hypothetical protein
+PGF_02473354	Flavobacterium	517.65	63.25	Glucosaminyl-malate:cysteine ligase
+PGF_02489591	Flavobacterium	212.45	13.54	Uncharacterized Nudix hydrolase NudL
+PGF_02515882	Flavobacterium	419.02	4.71	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Flavobacterium	421.48	45.49	Enolase (EC 4.2.1.11)
+PGF_02588190	Flavobacterium	558.61	28.29	hypothetical protein
+PGF_02589860	Flavobacterium	165.25	1.52	Uncharacterized protein SAV2112
+PGF_02593689	Flavobacterium	440.22	29.86	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02619970	Flavobacterium	107.86	9.20	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Flavobacterium	306.66	26.81	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Flavobacterium	1432.23	25.60	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02728524	Flavobacterium	855.54	82.76	DNA mismatch repair protein MutS
+PGF_02755983	Flavobacterium	190.06	4.43	hypothetical protein
+PGF_02788582	Flavobacterium	723.77	7.07	Recombination inhibitory protein MutS2
+PGF_02789532	Flavobacterium	285.32	5.83	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Flavobacterium	222.75	4.23	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Flavobacterium	492.94	5.11	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Flavobacterium	1243.89	143.16	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02819747	Flavobacterium	79.22	2.08	hypothetical protein
+PGF_02819768	Flavobacterium	222.10	18.09	hypothetical protein
+PGF_02819779	Flavobacterium	242.59	54.27	hypothetical protein
+PGF_02820640	Flavobacterium	101.79	6.88	hypothetical protein
+PGF_02827614	Flavobacterium	149.69	4.61	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02836627	Flavobacterium	338.94	9.44	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02838109	Flavobacterium	171.14	3.82	Shikimate kinase I (EC 2.7.1.71)
+PGF_02841843	Flavobacterium	72.93	0.81	hypothetical protein
+PGF_02861721	Flavobacterium	213.56	23.06	hypothetical protein
+PGF_02873723	Flavobacterium	505.58	64.75	Ribonuclease G
+PGF_02893930	Flavobacterium	244.56	4.63	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02897339	Flavobacterium	506.71	9.26	putative hemin receptor
+PGF_02906681	Flavobacterium	701.36	66.10	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02919689	Flavobacterium	238.61	17.90	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923121	Flavobacterium	205.80	27.26	hypothetical protein
+PGF_02923127	Flavobacterium	235.84	3.85	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02925120	Flavobacterium	182.49	77.78	hypothetical protein
+PGF_02930037	Flavobacterium	136.64	6.06	hypothetical protein
+PGF_02930687	Flavobacterium	320.73	5.14	Oxidoreductase, Gfo/Idh/MocA family
+PGF_02936332	Flavobacterium	293.63	3.09	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02944756	Flavobacterium	392.72	4.69	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Flavobacterium	593.69	8.84	SSU ribosomal protein S1p
+PGF_02977685	Flavobacterium	437.40	29.07	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_02980852	Flavobacterium	287.73	3.83	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_03017775	Flavobacterium	557.19	62.56	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Flavobacterium	193.42	5.07	Septum formation protein Maf
+PGF_03029859	Flavobacterium	620.58	7.96	Bis-ABC ATPase Uup
+PGF_03054699	Flavobacterium	807.38	95.92	DNA translocase FtsK
+PGF_03057384	Flavobacterium	345.49	14.63	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03059596	Flavobacterium	187.12	17.00	hypothetical protein
+PGF_03070587	Flavobacterium	418.62	9.38	Ornithine aminotransferase (EC 2.6.1.13)
+PGF_03075401	Flavobacterium	150.97	8.39	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03111948	Flavobacterium	247.36	14.17	Electron transfer flavoprotein, beta subunit
+PGF_03142307	Flavobacterium	282.19	9.52	S1 RNA binding domain
+PGF_03145455	Flavobacterium	325.06	6.03	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03174068	Flavobacterium	182.88	1.74	Transcription antitermination protein NusG
+PGF_03222913	Flavobacterium	93.24	1.46	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03272313	Flavobacterium	863.86	64.92	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Flavobacterium	75.25	7.64	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03313360	Flavobacterium	128.68	6.74	Ligand-binding SRPBCC domain protein family 2
+PGF_03391126	Flavobacterium	148.49	9.66	hypothetical protein
+PGF_03432823	Flavobacterium	1058.27	16.21	Putative cytochrome C-type biogenesis protein
+PGF_03441843	Flavobacterium	785.04	81.52	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03442211	Flavobacterium	332.63	23.48	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_03456505	Flavobacterium	537.25	56.88	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03470321	Flavobacterium	183.80	9.12	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03518570	Flavobacterium	138.70	2.89	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Flavobacterium	657.09	33.78	Cell division protein FtsZ
+PGF_03609651	Flavobacterium	685.84	45.79	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03684283	Flavobacterium	416.95	2.50	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Flavobacterium	290.13	6.71	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Flavobacterium	196.09	2.28	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Flavobacterium	134.94	7.86	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03733480	Flavobacterium	143.07	1.62	dCMP deaminase (EC 3.5.4.12)
+PGF_03739563	Flavobacterium	107.62	4.17	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Flavobacterium	463.51	66.05	Chromosomal replication initiator protein DnaA
+PGF_03751823	Flavobacterium	184.67	6.77	Heat shock protein GrpE
+PGF_03753122	Flavobacterium	297.40	17.45	Site-specific tyrosine recombinase XerC
+PGF_03758523	Flavobacterium	464.08	3.14	Serine protease
+PGF_03768137	Flavobacterium	259.79	8.36	hypothetical protein
+PGF_03778780	Flavobacterium	318.33	4.21	Signal recognition particle receptor FtsY
+PGF_03783620	Flavobacterium	172.10	2.85	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Flavobacterium	245.95	6.21	Ribonuclease III (EC 3.1.26.3)
+PGF_03835760	Flavobacterium	409.64	6.88	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03846834	Flavobacterium	168.74	7.75	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03952095	Flavobacterium	128.22	4.97	putative secreted protein
+PGF_03986439	Flavobacterium	130.25	8.78	hypothetical protein
+PGF_04007946	Flavobacterium	234.44	14.87	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Flavobacterium	477.35	21.45	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04020427	Flavobacterium	277.71	27.26	hypothetical protein
+PGF_04025415	Flavobacterium	133.64	6.55	Large-conductance mechanosensitive channel
+PGF_04041316	Flavobacterium	921.90	126.13	Excinuclease ABC subunit A
+PGF_04105233	Flavobacterium	102.50	0.97	Uncharacterized protein TTC1240
+PGF_04108824	Flavobacterium	660.23	42.37	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04119806	Flavobacterium	283.24	13.11	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Flavobacterium	271.28	7.85	Twin-arginine translocation protein TatC
+PGF_04151476	Flavobacterium	173.73	5.49	16S rRNA processing protein RimM
+PGF_04154333	Flavobacterium	60.78	5.40	Twin-arginine translocation protein TatA
+PGF_04182459	Flavobacterium	230.36	10.42	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Flavobacterium	244.94	5.80	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04257373	Flavobacterium	349.57	25.24	hypothetical protein
+PGF_04360357	Flavobacterium	1091.50	135.57	Protein translocase subunit SecA
+PGF_04457297	Flavobacterium	187.76	10.26	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Flavobacterium	327.24	5.56	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04505269	Flavobacterium	262.21	9.37	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Flavobacterium	426.23	6.99	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Flavobacterium	450.36	4.26	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04562939	Flavobacterium	381.47	27.52	hypothetical protein
+PGF_04569524	Flavobacterium	524.74	1.03	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Flavobacterium	249.86	1.25	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04617751	Flavobacterium	482.15	30.15	Nitrogen regulation protein NtrY
+PGF_04636538	Flavobacterium	90.73	1.44	DNA-binding protein HU-beta
+PGF_04660832	Flavobacterium	199.19	4.88	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Flavobacterium	643.29	40.07	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Flavobacterium	397.72	7.16	Alanine transaminase (EC 2.6.1.2)
+PGF_04679223	Flavobacterium	142.05	9.13	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04711083	Flavobacterium	179.00	53.09	hypothetical protein
+PGF_04788810	Flavobacterium	210.75	11.26	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Flavobacterium	305.17	21.93	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04817382	Flavobacterium	310.06	39.14	hypothetical protein
+PGF_04845029	Flavobacterium	116.14	0.59	LSU ribosomal protein L19p
+PGF_04962192	Flavobacterium	723.11	42.30	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Flavobacterium	158.18	33.74	LSU ribosomal protein L21p
+PGF_05022117	Flavobacterium	530.83	57.87	Bis-ABC ATPase YbiT
+PGF_05060240	Flavobacterium	379.06	27.93	hypothetical protein
+PGF_05079020	Flavobacterium	332.72	21.04	MoxR-like ATPase in aerotolerance operon
+PGF_05111929	Flavobacterium	564.52	3.83	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Flavobacterium	976.78	122.96	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05142770	Flavobacterium	148.37	17.18	hypothetical protein
+PGF_05165078	Flavobacterium	309.11	35.81	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Flavobacterium	502.98	0.18	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05268613	Flavobacterium	292.90	18.30	hypothetical protein
+PGF_05280843	Flavobacterium	403.43	45.24	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05338234	Flavobacterium	285.12	3.51	Protein YicC
+PGF_05386032	Flavobacterium	190.39	5.31	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05421852	Flavobacterium	624.23	38.99	Chaperone protein HtpG
+PGF_05439724	Flavobacterium	658.25	70.79	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Flavobacterium	291.06	21.93	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Flavobacterium	296.29	1.37	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05507938	Flavobacterium	625.65	11.95	DNA mismatch repair protein MutL
+PGF_05560886	Flavobacterium	247.41	6.33	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Flavobacterium	446.19	15.68	Protein translocase subunit SecY
+PGF_05598173	Flavobacterium	366.77	24.15	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Flavobacterium	424.75	3.14	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05672678	Flavobacterium	267.69	17.08	Beta-propeller domains of methanol dehydrogenase type
+PGF_05712128	Flavobacterium	632.46	5.11	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05812443	Flavobacterium	201.78	6.16	hypothetical protein
+PGF_05866195	Flavobacterium	371.75	14.76	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_05872926	Flavobacterium	479.81	21.97	Putative uncharacterized protein TTHA1760
+PGF_05971611	Flavobacterium	398.37	31.24	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05997999	Flavobacterium	333.01	36.86	Glycosyltransferase
+PGF_06005188	Flavobacterium	619.99	4.62	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06106311	Flavobacterium	406.52	16.78	Putative phosphoesterase
+PGF_06171725	Flavobacterium	187.81	10.65	Transcriptional regulator, ArsR family
+PGF_06180597	Flavobacterium	150.15	5.43	LSU ribosomal protein L13p (L13Ae)
+PGF_06220004	Flavobacterium	393.62	11.81	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_06254345	Flavobacterium	91.01	0.08	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Flavobacterium	364.63	25.46	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Flavobacterium	432.44	32.18	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Flavobacterium	337.74	7.00	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06362312	Flavobacterium	484.76	81.87	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06379377	Flavobacterium	419.45	46.09	Replication-associated recombination protein RarA
+PGF_06403579	Flavobacterium	816.87	3.05	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06447349	Flavobacterium	761.49	37.79	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06454307	Flavobacterium	192.35	15.04	Acyl carrier protein phosphodiesterase (EC 3.1.4.14)
+PGF_06460114	Flavobacterium	374.22	17.67	Septum site-determining protein MinD
+PGF_06461498	Flavobacterium	273.89	12.38	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Flavobacterium	349.78	4.77	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Flavobacterium	342.90	28.54	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06530721	Flavobacterium	223.50	25.48	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06589185	Flavobacterium	578.53	41.33	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06644010	Flavobacterium	308.03	3.05	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06721510	Flavobacterium	316.34	19.22	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+PGF_06755300	Flavobacterium	172.96	4.05	ABC-type Fe3+ transport system protein; Molybdenum transport protein, putative
+PGF_06755829	Flavobacterium	377.81	32.70	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06759389	Flavobacterium	240.43	17.27	Gliding motility-associated ABC transporter permease protein GldF
+PGF_07072294	Flavobacterium	321.17	8.19	Electron transfer flavoprotein, alpha subunit
+PGF_07072582	Flavobacterium	284.97	18.01	RNA polymerase sigma factor RpoD
+PGF_07111723	Flavobacterium	148.13	8.77	hypothetical protein
+PGF_07232396	Flavobacterium	117.65	5.10	hypothetical protein
+PGF_07242312	Flavobacterium	644.16	15.85	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07368495	Flavobacterium	183.73	2.68	RNA polymerase ECF-type sigma factor
+PGF_07425883	Flavobacterium	106.16	6.29	Ferredoxin, 2Fe-2S
+PGF_07426744	Flavobacterium	234.03	6.08	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08068683	Flavobacterium	335.55	2.63	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_08126362	Flavobacterium	452.40	27.98	DNA recombination protein RmuC
+PGF_08183187	Flavobacterium	432.18	18.04	Cell division protein FtsW
+PGF_08197941	Flavobacterium	255.23	6.87	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)

@@ -1,0 +1,772 @@
+PGF_00000416	Thermus	322.31	34.23	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00002140	Thermus	214.40	45.28	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00002867	Thermus	351.15	104.77	FIG024850: short form Mg-chelase associated protein with vWA domain
+PGF_00003406	Thermus	104.48	1.74	FIG087682: Lysine Biosynthetic hypothetical OrfE
+PGF_00003501	Thermus	232.73	39.09	FIG137478: Hypothetical protein
+PGF_00003516	Thermus	240.90	5.37	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003750	Thermus	151.90	5.77	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004481	Thermus	476.84	111.13	Ferric iron ABC transporter, permease protein
+PGF_00004544	Thermus	155.07	31.49	Ferric uptake regulation protein FUR
+PGF_00006100	Thermus	228.88	70.20	tRNA-modifying protein YgfZ
+PGF_00006320	Thermus	290.43	65.95	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006461	Thermus	421.19	112.72	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006656	Thermus	221.25	3.97	Futalosine hydrolase (EC 3.2.2.26)
+PGF_00006935	Thermus	486.53	81.25	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Thermus	368.62	12.95	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Thermus	402.84	78.21	GTP-binding protein EngA
+PGF_00007027	Thermus	295.59	36.27	GTP-binding protein Era
+PGF_00007028	Thermus	495.78	144.84	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007085	Thermus	305.91	90.68	Galactokinase (EC 2.7.1.6)
+PGF_00007304	Thermus	239.50	57.03	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Thermus	270.03	57.94	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007925	Thermus	321.03	57.43	Glucosamine-6-phosphate deaminase [isomerizing], alternative (EC 3.5.99.6)
+PGF_00007982	Thermus	294.27	105.31	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Thermus	366.27	106.89	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Thermus	370.97	68.68	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Thermus	336.71	91.48	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Thermus	322.88	119.33	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Thermus	255.31	9.29	Glutamate racemase (EC 5.1.1.3)
+PGF_00008233	Thermus	290.97	29.79	Glutamine amidotransferase chain of NAD synthetase
+PGF_00008258	Thermus	434.12	57.23	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Thermus	467.03	160.45	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Thermus	366.60	80.33	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Thermus	398.12	134.90	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008374	Thermus	227.00	36.45	Glutaredoxin-like protein
+PGF_00008774	Thermus	395.06	103.40	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Thermus	441.81	96.28	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008780	Thermus	297.37	58.18	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Thermus	230.57	45.75	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008872	Thermus	793.17	93.67	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008885	Thermus	353.09	134.76	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009500	Thermus	173.07	6.36	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009760	Thermus	340.90	75.62	UDP-N-acetylglucosamine:L-malate glycosyltransferase
+PGF_00009966	Thermus	427.91	156.22	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Thermus	213.30	49.83	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Thermus	221.03	7.98	Guanylate kinase (EC 2.7.4.8)
+PGF_00011283	Thermus	499.03	192.75	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA / Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011989	Thermus	267.10	8.93	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012015	Thermus	287.19	82.04	Uncharacterized protein BT_0926
+PGF_00012264	Thermus	303.94	53.69	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012277	Thermus	378.19	95.22	Homoaconitase large subunit (EC 4.2.1.36)
+PGF_00012278	Thermus	157.70	20.63	Homoaconitase small subunit (EC 4.2.1.36)
+PGF_00012340	Thermus	263.97	111.23	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012970	Thermus	421.00	66.67	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013144	Thermus	138.37	20.97	Terminal oxidase biogenesis protein CtaM, putative heme A, heme O chaperone
+PGF_00013283	Thermus	210.07	5.21	UPF0001 protein YggS
+PGF_00013341	Thermus	294.90	83.62	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013492	Thermus	179.03	7.39	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Thermus	423.00	151.85	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00014051	Thermus	249.28	12.80	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014306	Thermus	171.76	10.85	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00015510	Thermus	231.55	46.25	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Thermus	422.34	107.72	Iron-sulfur cluster assembly protein SufB
+PGF_00015718	Thermus	845.54	338.53	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015736	Thermus	486.44	150.61	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Thermus	325.17	46.49	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016223	Thermus	262.29	57.09	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Thermus	206.06	39.84	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016261	Thermus	310.59	81.81	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016328	Thermus	177.62	13.99	LSU ribosomal protein L10p (P0)
+PGF_00016338	Thermus	373.17	71.93	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Thermus	121.97	0.19	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Thermus	147.47	23.46	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Thermus	143.34	12.63	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Thermus	118.72	3.90	LSU ribosomal protein L17p
+PGF_00016353	Thermus	108.14	5.96	LSU ribosomal protein L18p (L5e)
+PGF_00016358	Thermus	124.21	32.47	LSU ribosomal protein L20p
+PGF_00016368	Thermus	113.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Thermus	95.79	1.11	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Thermus	110.24	1.30	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Thermus	83.45	4.66	LSU ribosomal protein L27p
+PGF_00016393	Thermus	241.68	71.56	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Thermus	59.69	1.49	LSU ribosomal protein L30p (L7e)
+PGF_00016423	Thermus	62.79	10.14	LSU ribosomal protein L35p
+PGF_00016431	Thermus	206.04	0.19	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Thermus	207.59	4.81	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Thermus	179.52	9.28	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Thermus	165.94	37.16	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Thermus	121.30	19.53	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Thermus	142.17	20.45	LSU ribosomal protein L9p
+PGF_00017190	Thermus	231.63	34.88	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017479	Thermus	296.31	83.40	Lipoyl synthase (EC 2.8.1.8)
+PGF_00018577	Thermus	433.06	108.52	Magnesium chelatase, subunit ChlI (EC 6.6.1.1)
+PGF_00018956	Thermus	291.19	79.21	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018964	Thermus	471.00	121.64	Malate synthase (EC 2.3.3.9)
+PGF_00019428	Thermus	184.90	44.79	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019873	Thermus	215.77	42.36	Membrane protein
+PGF_00020147	Thermus	308.61	70.90	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020321	Thermus	232.72	76.42	Metal transporter, ZIP family
+PGF_00020361	Thermus	131.34	21.45	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Thermus	252.52	13.18	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020793	Thermus	176.61	33.83	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020984	Thermus	248.73	70.27	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Thermus	128.24	4.14	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021036	Thermus	296.66	81.69	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021968	Thermus	206.03	45.84	Mn-dependent transcriptional regulator MntR
+PGF_00022391	Thermus	376.94	84.91	Modification methylase
+PGF_00022479	Thermus	182.90	14.89	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022569	Thermus	215.60	36.49	Molybdopterin synthase sulfur carrier subunit / Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_00023326	Thermus	196.27	30.68	MarC family integral membrane protein
+PGF_00023739	Thermus	307.31	77.13	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024164	Thermus	345.19	75.35	N-acylamino acid racemase
+PGF_00024235	Thermus	342.66	95.46	N-succinyldiaminopimelate aminotransferase (EC 2.6.1.17)
+PGF_00024273	Thermus	157.94	39.45	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Thermus	337.10	83.40	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024322	Thermus	396.45	119.12	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024478	Thermus	315.00	47.72	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024619	Thermus	446.53	197.93	Acetate permease ActP (cation/acetate symporter)
+PGF_00024654	Thermus	337.93	56.39	NADH-dependent flavin oxidoreductase
+PGF_00024671	Thermus	125.79	14.69	NADH-quinone oxidoreductase subunit 15 (EC 1.6.99.5)
+PGF_00024687	Thermus	397.83	74.06	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024728	Thermus	171.65	26.93	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Thermus	96.87	10.22	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024746	Thermus	399.77	69.96	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025090	Thermus	478.88	172.96	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025181	Thermus	409.47	107.56	Na(+)-linked D-alanine glycine permease
+PGF_00025215	Thermus	164.10	21.91	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025562	Thermus	198.86	17.90	Nicotinamidase (EC 3.5.1.19)
+PGF_00026279	Thermus	295.42	65.49	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026409	Thermus	188.63	29.21	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026524	Thermus	151.48	12.53	Nudix family (d)NDPase DR0975
+PGF_00026615	Thermus	233.73	49.22	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026866	Thermus	313.59	17.06	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00028167	Thermus	739.38	216.87	Outer membrane protein
+PGF_00028953	Thermus	297.37	54.48	Oxygen-insensitive NADPH nitroreductase
+PGF_00029917	Thermus	274.31	7.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Thermus	332.07	67.04	Peptide chain release factor 1
+PGF_00031568	Thermus	131.57	1.17	Peroxide stress regulator PerR, FUR family
+PGF_00033237	Thermus	366.48	133.75	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Thermus	336.80	81.03	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Thermus	313.30	48.19	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Thermus	248.45	72.17	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033511	Thermus	322.03	130.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033530	Thermus	354.12	106.73	Phosphoglycerate mutase (2,3-diphosphoglycerate-independent), archaeal type (EC 5.4.2.12)
+PGF_00033609	Thermus	201.47	26.59	Phosphoglycolate phosphatase
+PGF_00033877	Thermus	161.83	12.52	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Thermus	208.66	12.08	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Thermus	346.97	133.45	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033941	Thermus	184.22	44.63	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Thermus	216.48	47.51	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Thermus	301.38	76.84	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Thermus	227.10	1.65	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Thermus	607.47	214.27	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00034131	Thermus	549.48	135.42	Acylamino-acid-releasing enzyme (EC 3.4.19.1)
+PGF_00034776	Thermus	602.62	209.15	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00035370	Thermus	331.97	60.27	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035591	Thermus	228.57	31.36	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Thermus	425.39	87.38	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035721	Thermus	409.16	73.96	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Thermus	382.00	83.52	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036328	Thermus	510.22	149.28	Predicted signal-transduction protein containing cAMP-binding and CBS domains
+PGF_00036728	Thermus	615.29	235.42	Probable ATP-dependent helicase lhr (EC 3.6.1.-)
+PGF_00037468	Thermus	375.52	4.64	Alanyl-tRNA synthetase family protein
+PGF_00037521	Thermus	297.10	38.80	Proline dehydrogenase (EC 1.5.5.2)
+PGF_00038612	Thermus	111.72	11.47	Protein secretion chaperonin CsaA
+PGF_00038619	Thermus	306.24	13.42	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038653	Thermus	658.78	189.28	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038795	Thermus	74.00	6.58	Protein translocase membrane subunit SecG
+PGF_00038986	Thermus	262.53	41.48	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00038987	Thermus	227.77	29.24	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00040136	Thermus	380.84	116.36	Putative amidase DR_1377
+PGF_00040578	Thermus	239.33	43.52	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040761	Thermus	308.43	60.63	Putative esterase
+PGF_00041703	Thermus	368.00	75.18	Putative integral membrane efflux protein
+PGF_00041788	Thermus	139.66	18.07	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041851	Thermus	154.69	22.51	Putative lipase
+PGF_00042022	Thermus	414.76	22.07	Putative membrane-bound ClpP-class protease associated with aq_911
+PGF_00043897	Thermus	328.73	59.77	Putative serine protease
+PGF_00045787	Thermus	188.38	4.72	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Thermus	266.69	64.07	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Thermus	364.16	120.32	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00046773	Thermus	490.89	187.95	RNase R-related protein
+PGF_00046822	Thermus	271.93	41.10	Alpha-aminoadipate--LysW ligase (EC 6.3.2.n4)
+PGF_00047078	Thermus	314.13	73.75	RecA protein
+PGF_00047155	Thermus	203.77	27.62	Redox-sensing transcriptional repressor Rex
+PGF_00047533	Thermus	362.84	86.61	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00048480	Thermus	188.40	20.46	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Thermus	148.35	38.93	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048643	Thermus	154.00	3.57	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048840	Thermus	259.59	30.67	Ribosomal protein L11 methyltransferase
+PGF_00048846	Thermus	392.84	99.51	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Thermus	231.17	42.91	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Thermus	183.50	12.47	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Thermus	181.28	14.29	Ribosome recycling factor
+PGF_00048985	Thermus	219.76	20.60	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049319	Thermus	144.66	13.25	Arginine decarboxylase proenzyme (EC 4.1.1.19)
+PGF_00049330	Thermus	367.39	86.85	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049433	Thermus	149.60	22.23	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049827	Thermus	273.69	6.33	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Thermus	104.48	2.79	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Thermus	127.24	5.58	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Thermus	121.45	16.97	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Thermus	122.03	14.46	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Thermus	60.83	0.93	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Thermus	91.21	5.61	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Thermus	85.25	1.80	SSU ribosomal protein S16p
+PGF_00049854	Thermus	105.03	0.19	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Thermus	87.76	4.21	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Thermus	90.90	7.71	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Thermus	218.45	58.85	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Thermus	156.76	6.81	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Thermus	155.79	0.41	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Thermus	137.03	4.66	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Thermus	118.33	25.29	SSU ribosomal protein S9p (S16e)
+PGF_00050995	Thermus	370.17	151.81	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Thermus	158.65	43.31	Septum site-determining protein MinC
+PGF_00051196	Thermus	280.23	48.13	Serine acetyltransferase (EC 2.3.1.30)
+PGF_00051525	Thermus	367.06	109.85	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Thermus	405.16	80.37	Signal recognition particle protein Ffh
+PGF_00052800	Thermus	246.61	52.51	Single-stranded DNA-binding protein / Single-stranded DNA-binding protein
+PGF_00053078	Thermus	335.06	89.10	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00053770	Thermus	306.24	96.32	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053805	Thermus	84.97	11.67	SpoVS-related protein, type 7
+PGF_00053966	Thermus	392.87	67.60	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00053991	Thermus	256.24	14.97	Stage 0 sporulation protein YaaT
+PGF_00054343	Thermus	205.55	26.83	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054461	Thermus	112.52	22.25	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_00054528	Thermus	334.91	103.33	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054955	Thermus	352.78	18.51	Sulfate adenylyltransferase (EC 2.7.7.4)
+PGF_00055103	Thermus	133.17	8.29	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055295	Thermus	210.90	33.31	Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00055771	Thermus	172.60	24.71	TRAP dicarboxylate transporter, DctQ subunit, unknown substrate 6
+PGF_00056498	Thermus	312.09	94.61	Thiamin ABC transporter, substrate-binding component
+PGF_00056544	Thermus	253.86	38.57	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Thermus	282.19	96.15	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056787	Thermus	174.62	19.12	Thioredoxin reductase (EC 1.8.1.9)
+PGF_00056970	Thermus	151.30	19.51	Anti-cleavage anti-GreA transcription factor Gfh1
+PGF_00057399	Thermus	210.58	34.56	Transaldolase (EC 2.2.1.2)
+PGF_00057483	Thermus	398.16	86.55	Transcription termination factor Rho
+PGF_00057485	Thermus	374.03	58.93	Transcription termination protein NusA
+PGF_00057488	Thermus	146.55	13.53	Transcription termination protein NusB
+PGF_00057633	Thermus	288.57	48.56	Transcriptional regulator
+PGF_00058518	Thermus	188.74	37.44	Transcriptional regulator DR_0997, FNR/CRP family
+PGF_00059178	Thermus	201.69	19.08	Transcriptional regulator, Crp/Fnr family
+PGF_00060398	Thermus	588.72	163.93	Transketolase (EC 2.2.1.1)
+PGF_00060409	Thermus	564.43	214.24	Translation elongation factor G
+PGF_00060412	Thermus	591.00	176.93	Elongation factor G-like protein TM_1651
+PGF_00060414	Thermus	570.16	131.17	Translation elongation factor LepA
+PGF_00060427	Thermus	188.30	28.53	Translation elongation factor Ts
+PGF_00060431	Thermus	69.93	6.47	Translation initiation factor 1
+PGF_00060478	Thermus	145.93	23.99	Translation initiation factor 3
+PGF_00060805	Thermus	389.33	83.15	Uncharacterized protein similar to B. subtilis YvcK
+PGF_00062023	Thermus	260.50	7.57	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Thermus	393.57	57.90	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063756	Thermus	184.43	39.90	Type IV pilus biogenesis protein PilO; Competence protein PilO
+PGF_00063774	Thermus	648.64	217.93	Type IV pilus biogenesis protein PilQ / Competence protein PilQ
+PGF_00063916	Thermus	379.97	117.96	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063993	Thermus	316.20	62.50	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Thermus	396.03	101.57	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064359	Thermus	157.72	12.61	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064452	Thermus	158.55	7.80	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit, Deinococcus-Thermus-specific
+PGF_00065887	Thermus	249.53	39.28	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Thermus	199.00	28.40	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Thermus	183.90	11.71	Pyrimidine operon regulatory protein PyrR
+PGF_00066270	Thermus	323.00	63.85	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066372	Thermus	478.51	180.49	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066386	Thermus	221.79	2.97	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066420	Thermus	523.67	217.00	V-type ATP synthase subunit I (EC 3.6.3.14)
+PGF_00066502	Thermus	361.29	145.48	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Thermus	112.37	20.04	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Thermus	279.48	62.62	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Thermus	322.86	29.05	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067383	Thermus	486.38	112.52	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067389	Thermus	105.00	14.10	YlxP-like protein
+PGF_00067518	Thermus	352.15	102.74	Zinc protease
+PGF_00067554	Thermus	397.71	138.03	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068886	Thermus	260.73	79.43	Auxin efflux carrier family protein
+PGF_00069361	Thermus	233.29	48.31	c-type cytochrome
+PGF_00069551	Thermus	339.94	83.67	carboxypeptidase G2 precursor
+PGF_00070089	Thermus	139.83	3.20	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070432	Thermus	329.75	87.98	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070551	Thermus	332.97	45.24	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00070711	Thermus	283.17	0.38	dihydrodipicolinate synthase
+PGF_00071228	Thermus	292.03	65.81	ferric enterobactin esterase-related protein
+PGF_00071569	Thermus	161.93	3.94	gliding motility protein MglA
+PGF_00071570	Thermus	189.57	26.40	gliding motility protein MglA
+PGF_00072326	Thermus	371.24	27.42	Homocitrate synthase (EC 2.3.3.14)
+PGF_00072470	Thermus	354.00	117.39	hypothetical membrane associated protein
+PGF_00078315	Thermus	253.13	36.56	hypothetical protein
+PGF_00078863	Thermus	162.28	6.66	hypothetical protein
+PGF_00084324	Thermus	258.21	4.75	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00086459	Thermus	140.79	3.58	hypothetical protein
+PGF_00096804	Thermus	179.58	29.70	hypothetical protein
+PGF_00097088	Thermus	76.10	18.14	hypothetical protein
+PGF_00103609	Thermus	75.55	9.02	hypothetical protein
+PGF_00113984	Thermus	182.50	32.21	Flavin prenyltransferase UbiX
+PGF_00114011	Thermus	76.17	5.39	hypothetical protein
+PGF_00118121	Thermus	296.31	92.23	Lipopolysaccharide export system permease protein LptF
+PGF_00126424	Thermus	93.50	5.18	hypothetical protein
+PGF_00155559	Thermus	395.69	131.65	hypothetical protein
+PGF_00157233	Thermus	231.69	56.56	hypothetical protein
+PGF_00162042	Thermus	280.13	47.23	hypothetical protein
+PGF_00163881	Thermus	104.48	14.37	hypothetical protein
+PGF_00165356	Thermus	108.31	11.40	hypothetical protein
+PGF_00173671	Thermus	286.03	83.87	hypothetical protein
+PGF_00181747	Thermus	102.93	5.95	hypothetical protein
+PGF_00198113	Thermus	215.79	16.55	hypothetical protein
+PGF_00199241	Thermus	144.41	28.23	hypothetical protein
+PGF_00200734	Thermus	140.97	16.77	hypothetical protein
+PGF_00201467	Thermus	152.42	39.70	hypothetical protein
+PGF_00203784	Thermus	120.55	2.31	hypothetical protein
+PGF_00204666	Thermus	224.06	60.74	hypothetical protein
+PGF_00209388	Thermus	306.74	128.48	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_00217679	Thermus	122.83	175.51	hypothetical protein
+PGF_00241164	Thermus	91.10	1.40	hypothetical protein
+PGF_00248036	Thermus	158.10	1.99	hypothetical protein
+PGF_00254015	Thermus	263.55	61.70	hypothetical protein
+PGF_00261173	Thermus	341.03	82.57	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Thermus	181.22	52.61	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00286318	Thermus	86.38	8.35	Uncharacterized protein TTC1240
+PGF_00289284	Thermus	175.77	24.52	hypothetical protein
+PGF_00297075	Thermus	192.69	11.07	hypothetical protein
+PGF_00306900	Thermus	153.90	23.65	hypothetical protein
+PGF_00311145	Thermus	463.14	187.72	hypothetical protein
+PGF_00312350	Thermus	138.59	21.24	hypothetical protein
+PGF_00320126	Thermus	218.21	23.03	hypothetical protein
+PGF_00326235	Thermus	185.58	35.80	hypothetical protein
+PGF_00328155	Thermus	115.00	17.41	hypothetical protein
+PGF_00331230	Thermus	107.57	3.88	hypothetical protein
+PGF_00333809	Thermus	331.21	56.34	hypothetical protein
+PGF_00346963	Thermus	127.24	5.49	hypothetical protein
+PGF_00349719	Thermus	290.38	1.78	hypothetical protein
+PGF_00350921	Thermus	301.06	82.00	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00359039	Thermus	228.84	56.53	hypothetical protein
+PGF_00366114	Thermus	177.13	25.12	hypothetical protein
+PGF_00380939	Thermus	251.17	12.81	hypothetical protein
+PGF_00383432	Thermus	106.17	18.10	hypothetical protein
+PGF_00389695	Thermus	111.17	5.09	hypothetical protein
+PGF_00395222	Thermus	383.58	48.67	hypothetical protein
+PGF_00398857	Thermus	132.03	4.43	hypothetical protein
+PGF_00399577	Thermus	165.13	37.44	hypothetical protein
+PGF_00402103	Thermus	232.68	19.58	Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
+PGF_00404019	Thermus	520.77	197.71	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404141	Thermus	331.27	89.45	probable chlorohydrolase
+PGF_00404256	Thermus	401.88	112.25	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404607	Thermus	133.72	7.45	Probable small heat shock protein
+PGF_00404866	Thermus	112.07	16.53	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00405698	Thermus	323.45	15.98	putative ATP/GTP-binding integral membrane protein
+PGF_00406692	Thermus	681.63	344.59	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00406716	Thermus	235.52	44.08	putative divalent heavy-metal cations transporter
+PGF_00410279	Thermus	557.91	149.22	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00411437	Thermus	273.72	71.99	pyridoxal-phosphate dependent enzyme family protein
+PGF_00412178	Thermus	313.83	39.77	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413192	Thermus	243.03	36.96	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413208	Thermus	235.07	17.84	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413223	Thermus	191.62	4.42	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+PGF_00413228	Thermus	339.30	121.06	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_00413279	Thermus	386.81	107.82	tRNA nucleotidyltransferase, CC-adding (EC 2.7.7.72)
+PGF_00413286	Thermus	302.53	107.68	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Thermus	243.37	40.87	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Thermus	294.20	51.00	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Thermus	472.44	202.72	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413317	Thermus	299.39	62.42	tRNA(U54)-2-thioribothymidine synthetase
+PGF_00413334	Thermus	314.03	72.67	tRNA-dependent lipid II--glycine ligase @ tRNA-dependent lipid II-Gly glycyltransferase (EC 2.3.2.17)
+PGF_00413554	Thermus	138.52	13.83	tmRNA-binding protein SmpB
+PGF_00415486	Thermus	131.73	17.24	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00416129	Thermus	468.44	157.88	CTP synthase (EC 6.3.4.2)
+PGF_00416405	Thermus	163.48	2.08	CarD-like transcriptional regulator
+PGF_00416674	Thermus	318.14	133.36	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417115	Thermus	75.59	14.32	Cell division topological specificity factor MinE
+PGF_00417429	Thermus	325.32	62.55	Chaperone protein DnaJ
+PGF_00417577	Thermus	147.83	4.86	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Thermus	327.90	55.19	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417810	Thermus	262.03	39.74	Chorismate dehydratase (EC 4.2.1.151)
+PGF_00417829	Thermus	333.87	62.50	Chorismate mutase I (EC 5.4.99.5) / 2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00417839	Thermus	119.64	15.22	Chorismate mutase II (EC 5.4.99.5)
+PGF_00417840	Thermus	384.80	113.71	Chorismate synthase (EC 4.2.3.5)
+PGF_00418791	Thermus	200.27	30.19	Type IV pilus biogenesis protein PilN
+PGF_00419420	Thermus	413.24	124.62	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419437	Thermus	246.13	38.68	Efflux ABC transporter, permease protein
+PGF_00419622	Thermus	236.26	43.23	Coproheme decarboxylase HemQ (no EC)
+PGF_00419702	Thermus	161.93	14.94	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419900	Thermus	368.13	57.62	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00419913	Thermus	152.53	20.86	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Thermus	251.87	34.66	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Thermus	304.27	54.96	Cysteine synthase (EC 2.5.1.47)
+PGF_00420084	Thermus	164.28	23.15	Cysteinyl-tRNA synthetase related protein
+PGF_00420121	Thermus	206.69	5.31	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420356	Thermus	493.06	148.26	Cytochrome c oxidase (B(O/a)3-type) chain I (EC 1.9.3.1)
+PGF_00420391	Thermus	713.72	171.01	Cytochrome c oxidase polypeptide I (EC 1.9.3.1) / Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_00420482	Thermus	232.34	33.40	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420584	Thermus	195.24	1.94	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center
+PGF_00420731	Thermus	403.31	122.47	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420798	Thermus	295.19	66.32	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420957	Thermus	368.16	95.00	D-glycerate 2-kinase (EC 2.7.1.165)
+PGF_00421071	Thermus	146.72	18.59	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421498	Thermus	346.53	84.30	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Thermus	510.90	132.32	DNA primase (EC 2.7.7.-)
+PGF_00421733	Thermus	320.10	65.85	DNA recombination and repair protein RecF
+PGF_00421736	Thermus	210.00	43.14	DNA recombination and repair protein RecO
+PGF_00421792	Thermus	371.21	125.24	DNA repair protein RadA
+PGF_00422061	Thermus	96.48	2.79	DNA-binding protein HBsu
+PGF_00422888	Thermus	482.13	107.74	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422918	Thermus	168.16	31.73	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422938	Thermus	314.77	59.29	Deoxyhypusine synthase (EC 2.5.1.46)
+PGF_00423039	Thermus	283.94	60.52	Diacylglycerol kinase-related protein
+PGF_00423089	Thermus	335.93	108.83	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423335	Thermus	408.59	111.71	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Thermus	115.47	16.82	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Thermus	382.44	106.66	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Thermus	481.42	115.81	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423449	Thermus	255.50	48.58	1,4-dihydroxy-6-naphtoate synthase
+PGF_00423533	Thermus	250.35	55.44	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424236	Thermus	129.76	5.19	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424337	Thermus	267.53	52.62	Endonuclease IV (EC 3.1.21.2)
+PGF_00424338	Thermus	224.66	5.58	Endonuclease V (EC 3.1.21.7)
+PGF_00424569	Thermus	247.52	57.86	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00425421	Thermus	286.57	68.57	4Fe-4S ferredoxin, iron-sulfur binding
+PGF_00425665	Thermus	212.59	59.21	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Thermus	252.06	55.84	RNase adapter protein RapZ
+PGF_00425684	Thermus	228.90	48.48	Probable transcriptional regulatory protein YebC
+PGF_00425786	Thermus	559.41	48.99	Ribonuclease Y
+PGF_00425993	Thermus	328.62	92.63	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Thermus	308.03	75.52	FIG004453: protein YceG like
+PGF_00426142	Thermus	172.37	37.83	5-Formyltetrahydrofolate cycloligase paralog implicated in thiamin metabolism
+PGF_00426236	Thermus	370.87	74.07	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426932	Thermus	155.48	9.55	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Thermus	254.23	56.57	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447508	Thermus	392.39	80.56	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00473519	Thermus	193.90	43.59	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00529632	Thermus	766.38	204.06	ClpB protein
+PGF_00549250	Thermus	312.23	39.69	V-type ATP synthase subunit C (EC 3.6.3.14)
+PGF_00588009	Thermus	138.72	2.40	OsmC/Ohr family protein
+PGF_00616490	Thermus	259.97	37.52	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Thermus	332.33	65.21	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Thermus	316.75	77.18	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644953	Thermus	256.97	52.47	DnaJ-class molecular chaperone CbpA
+PGF_00645041	Thermus	213.63	38.39	Short-chain dehydrogenase/reductase SDR
+PGF_00646403	Thermus	233.93	5.02	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_00650532	Thermus	320.93	33.35	UPF0365 protein YqfA
+PGF_00655628	Thermus	482.94	107.05	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Thermus	179.66	30.19	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00660917	Thermus	237.97	34.14	ABC transporter, ATP-binding protein (cluster 14, Mn/Zn)
+PGF_00665875	Thermus	114.10	4.83	Ribosomal silencing factor RsfA
+PGF_00672271	Thermus	222.23	30.04	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)
+PGF_00694978	Thermus	247.67	50.35	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00702374	Thermus	100.83	1.77	SSU ribosomal protein S6p
+PGF_00709627	Thermus	267.72	28.03	Nucleoside ABC transporter, permease protein 2
+PGF_00718789	Thermus	281.33	36.13	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00721835	Thermus	320.00	62.87	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00729846	Thermus	165.10	13.01	Cytochrome c oxidase (B(O/a)3-type) chain II (EC 1.9.3.1)
+PGF_00734751	Thermus	140.03	2.47	Cytochrome c heme lyase subunit CcmL
+PGF_00776587	Thermus	125.72	0.75	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777996	Thermus	211.45	35.44	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00784641	Thermus	193.04	23.15	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00827555	Thermus	499.58	142.75	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00827693	Thermus	491.68	176.94	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_00851247	Thermus	337.61	65.43	Muconate cycloisomerase (EC 5.5.1.1)
+PGF_00851591	Thermus	229.03	9.27	Two-component transcriptional response regulator, LuxR family
+PGF_00856141	Thermus	366.47	96.67	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00874759	Thermus	347.77	61.36	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00927997	Thermus	184.43	34.94	Two-component transcriptional response regulator, LuxR family
+PGF_00947361	Thermus	415.52	90.01	Phenylacetate-coenzyme A ligase (EC 6.2.1.30)
+PGF_00948486	Thermus	307.30	67.35	putative membrane protein
+PGF_00953885	Thermus	244.50	42.07	Uncharacterized isomerase/epimerase
+PGF_00957419	Thermus	129.90	14.57	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Thermus	312.53	42.95	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00961110	Thermus	195.66	21.17	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases
+PGF_00975110	Thermus	376.35	87.64	Uncharacterized MFS-type transporter
+PGF_00982259	Thermus	394.65	77.51	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00990748	Thermus	399.91	112.53	HD-GYP domain
+PGF_01008498	Thermus	99.93	38.87	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01021017	Thermus	352.44	91.68	Uncharacterized MFS-type transporter
+PGF_01035859	Thermus	405.66	62.61	Murein hydrolase activator EnvC
+PGF_01040342	Thermus	293.97	59.50	Spermidine synthase (EC 2.5.1.16)
+PGF_01046967	Thermus	215.84	62.17	Efflux ABC transporter, ATP-binding protein
+PGF_01052316	Thermus	201.07	32.00	hypothetical protein
+PGF_01067056	Thermus	101.97	5.57	Periplasmic divalent cation tolerance protein CutA
+PGF_01077232	Thermus	325.32	69.79	hypothetical protein
+PGF_01101526	Thermus	312.81	72.95	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01126005	Thermus	333.87	76.90	Rod shape-determining protein RodA
+PGF_01174739	Thermus	229.63	31.81	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Thermus	546.57	207.30	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01207298	Thermus	240.55	54.81	Thioredoxin
+PGF_01212500	Thermus	212.06	49.91	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Thermus	508.48	109.90	Heat shock protein 60 family chaperone GroEL
+PGF_01222353	Thermus	250.68	58.34	Acetylaminoadipate kinase (EC 2.7.2.-)
+PGF_01232770	Thermus	164.14	21.87	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291823	Thermus	209.26	7.83	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01325304	Thermus	222.24	11.09	Molybdenum ABC transporter permease protein ModB
+PGF_01329056	Thermus	204.28	50.47	N-acetylglucosaminyl-L-malate N-acetyl hydrolase
+PGF_01351690	Thermus	456.27	141.66	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3); Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+PGF_01367201	Thermus	169.70	26.90	HNH endonuclease family protein
+PGF_01383123	Thermus	547.91	173.75	Acetoacetyl-CoA synthetase (EC 6.2.1.16)
+PGF_01420802	Thermus	144.39	6.89	Cell division protein MraZ
+PGF_01421534	Thermus	194.60	26.54	LSU ribosomal protein L25p
+PGF_01421572	Thermus	184.48	35.09	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01423501	Thermus	153.90	10.19	Transcription elongation factor GreA
+PGF_01426517	Thermus	757.37	312.96	S-layer protein
+PGF_01435544	Thermus	276.26	55.83	Phenazine biosynthesis protein PhzF like
+PGF_01436339	Thermus	178.83	1.04	hypothetical protein
+PGF_01468040	Thermus	317.20	71.79	Nucleoside ABC transporter, permease protein 1
+PGF_01479092	Thermus	262.69	4.40	5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC 5.3.3.10)
+PGF_01483918	Thermus	251.26	37.25	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01514111	Thermus	339.44	72.06	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01599021	Thermus	190.79	2.26	Peptide deformylase (EC 3.5.1.88)
+PGF_01604929	Thermus	208.19	43.56	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01668974	Thermus	586.35	182.66	DNA internalization-related competence protein ComEC/Rec2
+PGF_01674551	Thermus	123.63	15.98	Glycine cleavage system H protein
+PGF_01682537	Thermus	120.33	17.82	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Thermus	139.76	18.69	Bacterial ribosome SSU maturation protein RimP
+PGF_01727524	Thermus	324.07	61.74	Ferric iron ABC transporter, ATP-binding protein
+PGF_01734668	Thermus	184.55	2.08	Adenylate kinase (EC 2.7.4.3)
+PGF_01742024	Thermus	436.91	122.26	Thiamin ABC transporter, transmembrane component
+PGF_01777142	Thermus	179.10	25.12	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01853493	Thermus	268.23	29.79	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Thermus	262.91	84.64	Heat-inducible transcription repressor HrcA
+PGF_01888177	Thermus	139.52	11.64	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01891030	Thermus	312.86	125.22	Nucleoside ABC transporter, periplasmic nucleoside-binding protein
+PGF_01899042	Thermus	328.67	70.19	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01899937	Thermus	244.33	44.80	Rod shape-determining protein MreC
+PGF_01900778	Thermus	275.43	62.78	DNA double-strand break repair nuclease NurA
+PGF_01900807	Thermus	247.34	37.69	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01936994	Thermus	364.10	48.72	Type IV pilus biogenesis protein PilM
+PGF_01942824	Thermus	358.23	55.68	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01960322	Thermus	527.53	179.10	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Thermus	365.81	93.86	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Thermus	115.53	20.48	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Thermus	244.67	37.45	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02029783	Thermus	363.75	115.78	GTP-binding protein Obg
+PGF_02031924	Thermus	249.13	76.00	Uncharacterized DUF554 membrane protein
+PGF_02061452	Thermus	347.59	89.53	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02121439	Thermus	155.07	37.50	Exported protein
+PGF_02227611	Thermus	155.73	20.68	Uncharacterized protein AF2422 with adenosine kinase domain
+PGF_02244871	Thermus	284.66	75.43	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02267642	Thermus	258.58	67.33	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)
+PGF_02277678	Thermus	470.97	36.68	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_02346669	Thermus	269.69	76.52	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02405545	Thermus	296.67	44.90	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02450432	Thermus	257.77	54.93	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Thermus	98.83	9.01	SSU ribosomal protein S20p
+PGF_02463284	Thermus	193.96	0.19	Recombination protein RecR
+PGF_02471947	Thermus	145.25	29.59	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_02473279	Thermus	242.53	34.56	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Thermus	148.13	23.14	Uncharacterized Nudix hydrolase NudL
+PGF_02514958	Thermus	281.47	72.29	putative periplasmic protein kinase ArgK and related GTPases of G3E family
+PGF_02515882	Thermus	356.55	113.74	Aspartokinase (EC 2.7.2.4)
+PGF_02515951	Thermus	289.00	73.23	putative sodium-dependent bicarbonate transporter
+PGF_02516666	Thermus	332.72	8.68	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Thermus	359.44	125.08	Enolase (EC 4.2.1.11)
+PGF_02578186	Thermus	345.06	73.04	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02593689	Thermus	396.43	74.36	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Thermus	469.94	215.93	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02652319	Thermus	183.71	36.21	UPF0340 protein YwlG
+PGF_02704551	Thermus	1163.92	552.66	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Thermus	116.41	5.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02746016	Thermus	212.83	8.15	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02788582	Thermus	550.21	287.92	Recombination inhibitory protein MutS2
+PGF_02797400	Thermus	416.18	135.29	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Thermus	847.03	429.28	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02818638	Thermus	390.50	96.38	Hemolysins and related proteins containing CBS domains
+PGF_02820109	Thermus	202.24	2.98	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Thermus	172.06	38.08	Shikimate kinase I (EC 2.7.1.71)
+PGF_02873160	Thermus	221.72	1.73	Putative preQ0 transporter YhhQ
+PGF_02883702	Thermus	312.44	81.13	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02889185	Thermus	330.66	12.29	Homoisocitrate dehydrogenase (EC 1.1.1.87)
+PGF_02899131	Thermus	69.32	3.56	LSU ribosomal protein L29p (L35e)
+PGF_02899915	Thermus	251.84	65.21	Hydrolase, HAD superfamily
+PGF_02912272	Thermus	182.10	0.55	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Thermus	231.63	35.47	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02940601	Thermus	94.90	14.99	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_02944756	Thermus	355.94	92.87	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Thermus	519.63	112.04	SSU ribosomal protein S1p
+PGF_02947204	Thermus	433.77	167.35	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Thermus	249.61	52.17	Septum site-determining protein MinD
+PGF_02953435	Thermus	229.41	7.19	TerC-like integral membrane protein
+PGF_02956462	Thermus	123.38	3.54	RidA/YER057c/UK114 superfamily protein
+PGF_03000349	Thermus	92.41	3.10	Metal-sensitive transcriptional repressor
+PGF_03009868	Thermus	220.14	10.03	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+PGF_03017775	Thermus	471.26	106.63	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03049756	Thermus	544.42	104.38	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)
+PGF_03054699	Thermus	695.34	273.81	DNA translocase FtsK
+PGF_03057384	Thermus	331.63	55.29	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03060629	Thermus	207.97	48.05	probable metal-dependent peptidase
+PGF_03066520	Thermus	402.52	85.84	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03073470	Thermus	502.44	123.05	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03075038	Thermus	354.38	42.18	UPF0118 membrane protein DR0252
+PGF_03075401	Thermus	149.93	24.69	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03099412	Thermus	158.55	25.52	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_03104567	Thermus	387.06	124.60	Trk potassium uptake system protein TrkA
+PGF_03107265	Thermus	458.46	174.51	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03111948	Thermus	235.16	37.70	Electron transfer flavoprotein, beta subunit
+PGF_03117047	Thermus	86.59	7.61	Acylphosphate phosphohydrolase (EC 3.6.1.7)
+PGF_03117711	Thermus	179.72	18.59	Hydrolase (HAD superfamily), YqeK
+PGF_03124227	Thermus	255.61	67.54	Pyruvate:Oxaloacetate transcarboxylase domain protein
+PGF_03124650	Thermus	400.46	172.14	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03126871	Thermus	329.03	76.29	hypothetical protein
+PGF_03130503	Thermus	334.00	47.91	Putative transporter
+PGF_03132336	Thermus	368.69	99.81	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03133617	Thermus	339.48	60.70	Cystathionine beta-lyase, type II (EC 4.4.1.8)
+PGF_03142586	Thermus	80.45	2.95	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03154343	Thermus	121.43	6.82	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Thermus	282.90	16.67	Prolipoprotein diacylglyceryl transferase
+PGF_03181524	Thermus	311.75	89.00	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_03278866	Thermus	99.38	6.87	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03291914	Thermus	123.57	22.79	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03318456	Thermus	459.57	84.50	Trk potassium uptake system protein TrkH
+PGF_03348128	Thermus	179.07	5.36	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03383443	Thermus	135.10	13.64	Peroxiredoxin OsmC (EC 1.11.1.15)
+PGF_03439582	Thermus	203.87	26.90	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03440867	Thermus	124.31	9.85	UPF0047 protein Bsu YugU
+PGF_03444572	Thermus	208.03	5.98	Acetyltransferase
+PGF_03456505	Thermus	371.50	103.66	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03518570	Thermus	136.79	1.11	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Thermus	322.81	80.67	Cell division protein FtsZ
+PGF_03609651	Thermus	545.82	169.77	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03683488	Thermus	189.43	25.58	2'-5' RNA ligase
+PGF_03684283	Thermus	317.18	128.87	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03699416	Thermus	179.19	38.16	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Thermus	283.97	0.19	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Thermus	202.28	2.86	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03750571	Thermus	401.09	104.97	Chromosomal replication initiator protein DnaA
+PGF_03750600	Thermus	141.65	27.63	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Thermus	82.04	1.90	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Thermus	179.90	3.13	Heat shock protein GrpE
+PGF_03752544	Thermus	206.74	43.53	Phosphate transport system regulatory protein PhoU
+PGF_03753933	Thermus	133.97	31.69	Iron-sulfur cluster regulator IscR
+PGF_03755254	Thermus	391.33	60.92	Zinc protease
+PGF_03755255	Thermus	345.94	86.88	hypothetical protein
+PGF_03755256	Thermus	132.53	26.37	hypothetical protein
+PGF_03755263	Thermus	207.35	54.25	hypothetical protein
+PGF_03755264	Thermus	267.13	56.59	hypothetical protein
+PGF_03755266	Thermus	192.03	57.52	hypothetical protein
+PGF_03755269	Thermus	330.74	69.01	hypothetical protein
+PGF_03755270	Thermus	171.41	21.48	hypothetical protein
+PGF_03755271	Thermus	191.90	42.62	hypothetical protein
+PGF_03755273	Thermus	164.28	1.96	hypothetical protein
+PGF_03755274	Thermus	160.03	13.31	hypothetical protein
+PGF_03755275	Thermus	208.25	24.13	hypothetical protein
+PGF_03755276	Thermus	143.69	10.37	hypothetical protein
+PGF_03755277	Thermus	114.79	5.27	hypothetical protein
+PGF_03755278	Thermus	262.06	52.97	hypothetical protein
+PGF_03755279	Thermus	106.59	4.50	hypothetical protein
+PGF_03755280	Thermus	161.73	22.67	hypothetical protein
+PGF_03755282	Thermus	164.93	24.62	hypothetical protein
+PGF_03755283	Thermus	129.86	2.67	hypothetical protein
+PGF_03755285	Thermus	198.87	37.45	hypothetical protein
+PGF_03755286	Thermus	153.58	35.21	hypothetical protein
+PGF_03755287	Thermus	93.14	4.33	hypothetical protein
+PGF_03755289	Thermus	124.90	2.35	hypothetical protein
+PGF_03755290	Thermus	75.83	2.51	hypothetical protein
+PGF_03755291	Thermus	68.62	1.54	hypothetical protein
+PGF_03755292	Thermus	67.45	2.91	hypothetical protein
+PGF_03755293	Thermus	205.43	38.16	phosphoglycerate mutase/fructose-2,6-bisphosphatase
+PGF_03755294	Thermus	314.97	70.98	protease Do
+PGF_03755295	Thermus	339.80	57.54	serine-pyruvate aminotransferase
+PGF_03755296	Thermus	119.59	9.05	hypothetical protein
+PGF_03755318	Thermus	260.73	59.14	Transcriptional regulator, Xre family
+PGF_03755340	Thermus	157.52	16.60	Acetyltransferase
+PGF_03755347	Thermus	142.00	66.65	hypothetical protein
+PGF_03755378	Thermus	217.70	34.65	Heat-stable protein
+PGF_03755393	Thermus	199.40	56.76	Transcriptional regulator, MerR family / Transcriptional regulator, MerR family
+PGF_03755416	Thermus	230.33	23.53	hypothetical protein
+PGF_03755656	Thermus	145.87	20.11	Uncharacterized membrane protein YuiD
+PGF_03755831	Thermus	220.16	46.30	hypothetical protein
+PGF_03755860	Thermus	247.31	63.76	hypothetical protein
+PGF_03755868	Thermus	242.61	28.29	hypothetical protein
+PGF_03755881	Thermus	195.87	29.56	hypothetical protein
+PGF_03755886	Thermus	272.28	77.84	hypothetical protein
+PGF_03755892	Thermus	336.00	57.17	Fatty acid desaturase
+PGF_03755926	Thermus	192.40	32.47	hypothetical protein
+PGF_03755936	Thermus	208.26	34.19	hypothetical protein
+PGF_03755946	Thermus	244.65	51.75	hypothetical protein
+PGF_03756329	Thermus	136.45	11.31	Archease
+PGF_03756506	Thermus	227.20	37.46	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
+PGF_03756524	Thermus	221.61	40.72	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_03756926	Thermus	175.97	20.28	Cytochrome complex Fe-S subunit
+PGF_03756976	Thermus	77.79	1.75	DafA protein
+PGF_03757098	Thermus	325.84	86.62	hypothetical protein
+PGF_03757216	Thermus	245.39	25.47	carboxymethylenebutenolidase-related protein
+PGF_03758399	Thermus	194.07	26.27	Membrane metalloprotease
+PGF_03758405	Thermus	317.82	38.83	Peptidase, M20/M25/M40 family
+PGF_03758406	Thermus	217.77	36.88	Phosphohydrolase
+PGF_03758407	Thermus	120.86	15.82	Protein kinase-like protein
+PGF_03758409	Thermus	142.59	10.68	Uncharacterized protein MJ0531
+PGF_03758410	Thermus	105.66	4.47	YcfF/hinT protein: a purine nucleoside phosphoramidase
+PGF_03778780	Thermus	276.06	66.78	Signal recognition particle receptor FtsY
+PGF_03801201	Thermus	243.13	58.83	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Thermus	73.79	11.32	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811905	Thermus	333.63	49.20	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03862500	Thermus	186.16	36.44	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03977347	Thermus	277.61	66.94	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_04007946	Thermus	217.17	38.92	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04014993	Thermus	120.37	19.03	Diadenosine hexaphosphate (Ap6A) hydrolase; Bis(5'-nucleosyl)-tetraphosphatase (Ap4A) (Asymmetrical) (EC 3.6.1.17)
+PGF_04016408	Thermus	399.44	100.55	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019834	Thermus	330.55	104.17	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04036472	Thermus	71.86	0.74	KH domain RNA binding protein YlqC
+PGF_04041316	Thermus	748.89	334.96	Excinuclease ABC subunit A
+PGF_04047265	Thermus	87.21	16.36	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04055837	Thermus	271.44	82.57	ABC transporter, permease protein 2 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04127376	Thermus	246.72	0.45	Twin-arginine translocation protein TatC
+PGF_04150742	Thermus	257.73	34.58	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Thermus	159.31	19.82	16S rRNA processing protein RimM
+PGF_04213876	Thermus	250.79	4.61	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04284526	Thermus	346.09	112.91	Alpha-aminoadipate aminotransferase (EC 2.6.1.39) @ Leucine transaminase (EC 2.6.1.6) @ Valine transaminase
+PGF_04345693	Thermus	410.41	111.15	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Thermus	853.65	305.43	Protein translocase subunit SecA
+PGF_04380075	Thermus	180.93	1.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Thermus	286.38	72.07	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04409877	Thermus	293.12	72.61	Thiamin ABC transporter, ATPase component
+PGF_04457297	Thermus	170.38	26.59	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Thermus	317.14	16.06	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04477106	Thermus	384.41	63.71	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04490570	Thermus	352.87	72.45	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04505269	Thermus	243.80	46.05	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Thermus	343.52	0.87	Rod shape-determining protein MreB
+PGF_04571944	Thermus	211.77	28.28	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Thermus	238.57	33.81	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04596496	Thermus	284.32	76.68	Quinone oxidoreductase (EC 1.6.5.5)
+PGF_04615303	Thermus	373.72	23.19	Uncharacterized protein BT_0924
+PGF_04638843	Thermus	142.55	32.37	hypothetical protein
+PGF_04660832	Thermus	143.38	21.00	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Thermus	555.03	173.69	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04724831	Thermus	299.90	80.55	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Thermus	536.26	101.31	Translation initiation factor 2
+PGF_04788810	Thermus	182.00	25.08	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04845029	Thermus	146.14	5.72	LSU ribosomal protein L19p
+PGF_04960746	Thermus	195.17	34.96	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Thermus	596.77	264.77	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Thermus	99.41	0.68	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04971017	Thermus	314.78	90.38	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Thermus	99.83	8.36	LSU ribosomal protein L21p
+PGF_05165078	Thermus	292.00	47.31	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05232968	Thermus	315.53	46.21	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)
+PGF_05280843	Thermus	386.03	110.72	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05439724	Thermus	590.97	197.57	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Thermus	417.29	91.22	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05507938	Thermus	455.97	169.44	DNA mismatch repair protein MutL
+PGF_05560886	Thermus	239.78	60.39	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Thermus	435.03	15.97	Protein translocase subunit SecY
+PGF_05657253	Thermus	208.62	50.12	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05712128	Thermus	419.10	61.53	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05790213	Thermus	342.61	86.87	Vancomycin B-type resistance protein VanW
+PGF_05837052	Thermus	421.90	57.43	Isocitrate lyase (EC 4.1.3.1)
+PGF_05971611	Thermus	357.84	96.27	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06013190	Thermus	216.43	32.89	Metal-dependent hydrolase
+PGF_06043321	Thermus	318.77	46.04	Ferric iron ABC transporter, iron-binding protein
+PGF_06170558	Thermus	154.72	5.18	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Thermus	144.21	8.04	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Thermus	265.45	7.12	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06254345	Thermus	100.93	0.26	Heat shock protein 60 family co-chaperone GroES
+PGF_06315406	Thermus	378.09	118.32	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06362312	Thermus	448.16	119.03	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06421645	Thermus	174.62	32.73	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_06495818	Thermus	278.07	41.65	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06530721	Thermus	301.27	51.48	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06589185	Thermus	509.82	163.12	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06644010	Thermus	279.32	52.88	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Thermus	80.63	2.28	Acyl carrier protein
+PGF_06660812	Thermus	201.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06683449	Thermus	322.69	38.99	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06701488	Thermus	189.20	56.58	RNA-binding protein Jag
+PGF_06755829	Thermus	259.61	28.24	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06869844	Thermus	596.06	158.50	Fe-S oxidoreductase
+PGF_06900823	Thermus	211.10	9.52	CBS domain protein AcuB
+PGF_06956142	Thermus	130.72	1.49	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_07072294	Thermus	270.79	89.17	Electron transfer flavoprotein, alpha subunit
+PGF_07242312	Thermus	501.56	154.32	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07263029	Thermus	337.84	62.04	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_08096153	Thermus	663.94	218.13	hypothetical protein
+PGF_08117870	Thermus	99.31	3.04	Ferredoxin, 2Fe-2S
+PGF_08133003	Thermus	349.32	76.77	NAD-independent protein deacetylase AcuC
+PGF_08183187	Thermus	322.68	75.20	Cell division protein FtsW

@@ -1,0 +1,969 @@
+PGF_00000936	Comamonas	140.95	7.16	FIG00899427: hypothetical protein
+PGF_00000939	Comamonas	422.80	4.14	Uncharacterized protein YhiN
+PGF_00002491	Comamonas	472.10	13.12	FIG015547: peptidase, M16 family
+PGF_00003516	Comamonas	251.85	4.98	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003528	Comamonas	225.15	10.02	UPF0307 protein YjgA
+PGF_00003746	Comamonas	136.46	3.35	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+PGF_00003749	Comamonas	156.03	2.12	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003820	Comamonas	742.55	19.93	Efflux ABC transporter, permease/ATP-binding protein Reut_A2584
+PGF_00004315	Comamonas	100.32	1.44	Ferredoxin
+PGF_00004378	Comamonas	256.57	3.10	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00006078	Comamonas	434.50	24.40	Fmu (Sun) /eukaryotic nucleolar NOL1/Nop2p; tRNA/rRNA cytosine-C5-methyltransferase
+PGF_00006320	Comamonas	281.80	3.16	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006332	Comamonas	419.13	43.81	Fosmidomycin resistance protein
+PGF_00006336	Comamonas	112.68	0.77	Frataxin homolog CyaY, facilitates Fe-S cluster assembly, interacts with IscS
+PGF_00006394	Comamonas	353.75	1.10	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006454	Comamonas	515.73	10.26	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006461	Comamonas	464.27	3.54	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006653	Comamonas	419.32	14.30	Gate supefamily SpmA/SpmB domains protein
+PGF_00006931	Comamonas	324.62	7.57	GMP reductase (EC 1.7.1.7)
+PGF_00006935	Comamonas	538.73	1.40	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Comamonas	356.54	51.63	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Comamonas	445.60	1.85	GTP-binding protein EngA
+PGF_00007026	Comamonas	244.75	12.54	GTP-binding protein EngB
+PGF_00007027	Comamonas	364.75	13.48	GTP-binding protein Era
+PGF_00007028	Comamonas	390.05	7.33	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Comamonas	608.17	0.75	GTP-binding protein TypA/BipA
+PGF_00007304	Comamonas	297.62	40.75	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Comamonas	309.02	0.66	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00008051	Comamonas	459.00	9.16	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Comamonas	378.85	0.98	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008068	Comamonas	245.22	0.89	Glutamate Aspartate transport ATP-binding protein GltL (TC 3.A.1.3.4)
+PGF_00008074	Comamonas	222.95	0.22	Glutamate Aspartate transport system permease protein GltK (TC 3.A.1.3.4)
+PGF_00008075	Comamonas	409.02	0.16	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Comamonas	288.76	30.86	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Comamonas	1543.61	232.76	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008159	Comamonas	507.00	5.90	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008161	Comamonas	430.18	3.88	Glutamate--cysteine ligase (EC 6.3.2.2), divergent, of Alpha- and Beta-proteobacteria type
+PGF_00008164	Comamonas	433.27	2.72	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Comamonas	471.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008334	Comamonas	416.40	22.06	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Comamonas	468.57	0.68	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008393	Comamonas	396.55	1.19	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008469	Comamonas	315.80	2.44	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008537	Comamonas	489.05	64.15	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Comamonas	330.93	33.89	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Comamonas	941.65	139.79	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008780	Comamonas	367.23	6.92	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Comamonas	220.57	3.43	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008882	Comamonas	368.95	53.17	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00008885	Comamonas	411.70	20.58	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009500	Comamonas	233.70	12.14	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Comamonas	314.62	6.75	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Comamonas	706.02	7.09	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010170	Comamonas	323.02	25.24	Glyoxylate reductase (EC 1.1.1.79) / Glyoxylate reductase (EC 1.1.1.26) / Hydroxypyruvate reductase (EC 1.1.1.81); 2-ketoaldonate reductase, broad specificity (EC 1.1.1.215) (EC 1.1.1.-)
+PGF_00010205	Comamonas	246.22	5.96	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010285	Comamonas	184.10	9.07	Granule-associated protein
+PGF_00010349	Comamonas	751.15	3.74	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010356	Comamonas	134.75	11.51	Guanyl-specific ribonuclease (EC 3.1.27.3)
+PGF_00010360	Comamonas	212.10	7.74	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Comamonas	319.23	0.95	HPr kinase/phosphorylase
+PGF_00011081	Comamonas	704.95	94.42	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011424	Comamonas	362.68	47.32	Hemin transport protein HmuS
+PGF_00011634	Comamonas	450.75	26.00	HflK protein
+PGF_00011953	Comamonas	148.32	9.35	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00011979	Comamonas	438.50	2.54	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012069	Comamonas	105.82	10.37	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012092	Comamonas	164.39	2.25	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012135	Comamonas	235.53	9.72	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012264	Comamonas	365.23	13.33	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Comamonas	453.48	7.17	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012970	Comamonas	653.03	11.60	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013509	Comamonas	532.52	4.14	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Comamonas	207.80	1.81	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013857	Comamonas	743.85	5.13	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014051	Comamonas	266.62	2.28	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014183	Comamonas	554.85	70.67	Inner membrane protein YihY, formerly thought to be RNase BN
+PGF_00014306	Comamonas	175.53	1.54	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Comamonas	492.85	12.36	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014678	Comamonas	304.85	39.51	Integral membrane protein
+PGF_00015039	Comamonas	286.50	4.24	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Comamonas	82.28	4.85	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Comamonas	179.07	0.47	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Comamonas	288.20	0.46	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Comamonas	107.00	0.00	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015523	Comamonas	130.15	6.36	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015573	Comamonas	219.80	10.90	Iron-sulfur cluster-binding protein
+PGF_00015701	Comamonas	419.90	0.81	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015703	Comamonas	745.20	5.32	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Comamonas	950.07	9.96	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Comamonas	338.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016231	Comamonas	484.45	11.79	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016328	Comamonas	166.54	11.23	LSU ribosomal protein L10p (P0)
+PGF_00016338	Comamonas	420.12	0.52	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Comamonas	112.67	19.58	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Comamonas	143.30	0.46	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Comamonas	138.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Comamonas	125.78	5.18	LSU ribosomal protein L17p
+PGF_00016353	Comamonas	121.03	0.16	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Comamonas	231.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Comamonas	118.10	6.18	LSU ribosomal protein L20p
+PGF_00016361	Comamonas	96.88	14.65	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Comamonas	109.10	3.20	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Comamonas	104.17	1.11	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Comamonas	105.15	0.36	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Comamonas	85.22	0.58	LSU ribosomal protein L27p
+PGF_00016393	Comamonas	266.10	17.90	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Comamonas	59.85	0.95	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Comamonas	60.15	0.66	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Comamonas	56.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Comamonas	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Comamonas	67.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Comamonas	223.90	3.20	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Comamonas	206.88	0.33	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Comamonas	179.07	0.47	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Comamonas	173.40	4.03	LSU ribosomal protein L6p (L9e)
+PGF_00016452	Comamonas	149.95	0.22	LSU ribosomal protein L9p
+PGF_00016495	Comamonas	255.68	3.24	Lactam utilization protein LamB
+PGF_00016919	Comamonas	248.65	12.05	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Comamonas	394.73	39.35	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017400	Comamonas	279.98	13.44	Murein hydrolase activator NlpD
+PGF_00017459	Comamonas	468.98	10.76	ATP-dependent RNA helicase Bcep18194_A5658
+PGF_00017464	Comamonas	226.22	3.34	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Comamonas	326.95	3.88	Lipoyl synthase (EC 2.8.1.8)
+PGF_00018536	Comamonas	722.40	2.07	ATP-dependent helicase DinG/Rad3
+PGF_00018552	Comamonas	200.80	2.97	Maf-like protein YceF
+PGF_00018560	Comamonas	293.12	10.62	Magnesium and cobalt efflux protein CorC
+PGF_00018956	Comamonas	328.73	0.45	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Comamonas	439.38	2.23	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Comamonas	183.00	6.32	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Comamonas	900.38	3.48	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00020172	Comamonas	280.66	3.80	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Comamonas	152.05	0.50	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020555	Comamonas	291.61	28.43	Metallo-beta-lactamase superfamily protein PA0057
+PGF_00020741	Comamonas	194.03	0.16	Methionine biosynthesis protein MetW
+PGF_00020952	Comamonas	183.30	14.37	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), glycolate utilization
+PGF_00020981	Comamonas	520.29	66.30	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Comamonas	289.88	7.68	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Comamonas	290.97	2.38	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021021	Comamonas	727.23	8.44	Methylmalonyl-CoA mutase (EC 5.4.99.2) / B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00021125	Comamonas	300.60	5.34	SAM-dependent methyltransferase
+PGF_00021186	Comamonas	366.05	5.18	ATPase
+PGF_00021489	Comamonas	333.88	6.87	Uncharacterized membrane protein Bcep18194_A6058
+PGF_00022479	Comamonas	217.38	16.11	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022507	Comamonas	202.07	2.49	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022516	Comamonas	75.08	0.47	Molybdopterin biosynthesis MoeB protein
+PGF_00022565	Comamonas	84.10	0.90	Molybdopterin synthase sulfur carrier subunit
+PGF_00022577	Comamonas	181.57	2.90	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00022605	Comamonas	239.05	10.66	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00023405	Comamonas	393.82	22.56	Murein-DD-endopeptidase (EC 3.4.99.-)
+PGF_00023476	Comamonas	154.72	3.46	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Comamonas	347.02	5.62	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023818	Comamonas	450.62	13.20	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00024232	Comamonas	399.66	10.07	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Comamonas	397.84	3.49	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Comamonas	161.10	10.59	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Comamonas	388.45	6.08	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024314	Comamonas	592.64	7.24	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024478	Comamonas	332.18	0.38	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024509	Comamonas	444.37	11.40	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024687	Comamonas	417.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Comamonas	163.03	0.16	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Comamonas	225.00	1.87	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Comamonas	101.67	2.06	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Comamonas	490.90	0.38	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Comamonas	497.07	0.47	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024831	Comamonas	439.59	59.21	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024855	Comamonas	281.60	2.15	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Comamonas	596.08	1.05	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Comamonas	163.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025252	Comamonas	455.32	3.82	Na+-driven multidrug efflux pump
+PGF_00025459	Comamonas	576.15	3.62	NhaP-type Na+/H+ and K+/H+ antiporters
+PGF_00025562	Comamonas	283.74	12.40	Nicotinamidase (EC 3.5.1.19)
+PGF_00025581	Comamonas	378.62	14.63	Nicotinamide-nucleotide adenylyltransferase, NadM family (EC 2.7.7.1) / ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00025623	Comamonas	370.69	20.45	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025679	Comamonas	402.02	4.11	Acetyl-CoA acetyltransferase (EC 2.3.1.9) @ 3-oxoadipyl-CoA thiolase (EC 2.3.1.174)
+PGF_00025890	Comamonas	366.27	6.74	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Comamonas	324.68	0.73	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Comamonas	199.75	2.02	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Comamonas	291.27	0.96	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026563	Comamonas	180.55	5.93	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Comamonas	299.38	3.91	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026866	Comamonas	316.43	8.96	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Comamonas	682.77	1.80	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027668	Comamonas	72.13	6.46	Osmotically-inducible lipoprotein OsmB
+PGF_00027752	Comamonas	604.17	11.34	Outer membrane component of TAM transport system
+PGF_00028423	Comamonas	381.52	6.88	Outer membrane stress sensor protease DegS
+PGF_00028486	Comamonas	259.35	11.11	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00028700	Comamonas	129.13	4.03	Oxidoreductase probably involved in sulfite reduction
+PGF_00029266	Comamonas	251.87	2.31	PMID: 11481431
+PGF_00029464	Comamonas	150.20	6.98	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00030640	Comamonas	359.75	3.16	Peptide chain release factor 1
+PGF_00030643	Comamonas	543.40	10.88	Peptide chain release factor 3
+PGF_00030800	Comamonas	262.82	1.99	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_00030889	Comamonas	134.70	42.61	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00031585	Comamonas	169.68	6.54	Peroxiredoxin
+PGF_00033095	Comamonas	819.38	5.29	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Comamonas	330.44	11.24	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Comamonas	346.10	7.03	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Comamonas	391.85	0.66	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Comamonas	213.68	2.46	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033392	Comamonas	948.51	5.56	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033411	Comamonas	274.80	5.43	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Comamonas	576.60	13.51	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033489	Comamonas	273.95	11.76	Phosphogluconate repressor HexR, RpiR family
+PGF_00033511	Comamonas	397.60	3.33	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Comamonas	243.10	24.50	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033729	Comamonas	258.29	28.89	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Comamonas	270.52	4.01	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Comamonas	210.40	1.82	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033767	Comamonas	258.30	13.83	Phospholipid and glycerol acyltransferase (EC 2.3.1.51)
+PGF_00033877	Comamonas	164.50	3.46	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Comamonas	428.50	2.39	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Comamonas	299.20	42.19	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Comamonas	247.62	1.63	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Comamonas	350.00	1.06	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Comamonas	1301.62	151.25	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Comamonas	192.10	0.81	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Comamonas	406.50	9.00	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033985	Comamonas	368.88	0.56	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034461	Comamonas	287.26	2.73	Plasmid replication/partition related protein
+PGF_00034566	Comamonas	521.50	6.32	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034713	Comamonas	209.61	10.36	Polymer-forming bactofilin
+PGF_00034776	Comamonas	746.65	5.24	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Comamonas	185.75	3.01	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Comamonas	336.35	0.98	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Comamonas	221.50	9.71	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035378	Comamonas	475.20	1.80	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035617	Comamonas	273.70	5.60	Predicted Lactate-responsive regulator, IclR family
+PGF_00035721	Comamonas	480.05	18.31	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Comamonas	457.60	4.09	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035948	Comamonas	430.90	22.78	Predicted hydroxymethylpyrimidine transporter CytX
+PGF_00036154	Comamonas	198.05	3.22	Predicted nucleotidyltransferase
+PGF_00036427	Comamonas	224.88	23.39	Predicted transcriptional regulator for fatty acid degradation FadP, TetR family
+PGF_00036580	Comamonas	109.90	3.71	Protein translocase subunit YajC
+PGF_00036604	Comamonas	91.74	4.32	Prevent host death protein, Phd antitoxin
+PGF_00036673	Comamonas	90.62	12.09	Primosomal replication protein N
+PGF_00037129	Comamonas	270.10	3.46	Probable hydrolase protein (EC 3.-.-.-)
+PGF_00037171	Comamonas	330.51	35.14	Probable low-affinity inorganic phosphate transporter
+PGF_00037431	Comamonas	844.75	16.16	Probable two-component transmembrane sensor histidine kinase transcription regulator protein (EC 2.7.3.-)
+PGF_00037588	Comamonas	580.60	2.86	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037750	Comamonas	635.39	7.44	Propionate--CoA ligase (EC 6.2.1.17)
+PGF_00037758	Comamonas	511.10	0.67	Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)
+PGF_00037828	Comamonas	290.18	0.45	Protease HtpX
+PGF_00038674	Comamonas	317.55	0.78	Protein translocase subunit SecF
+PGF_00038879	Comamonas	139.12	3.52	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039500	Comamonas	402.18	6.49	Putative N-methyltransferase Bcep18194_A3584
+PGF_00039703	Comamonas	205.65	10.95	Putative SAM-dependent methyltransferase Bucepa02006346
+PGF_00040578	Comamonas	274.52	3.71	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041206	Comamonas	426.34	12.13	Uncharacterized chaperone protein YegD
+PGF_00041381	Comamonas	361.02	33.77	Enoyl-CoA hydratase/isomerase
+PGF_00041794	Comamonas	190.10	1.69	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041831	Comamonas	518.35	1.48	Alkyl hydroperoxide reductase protein F
+PGF_00042012	Comamonas	409.18	6.62	Putative membrane transport protein
+PGF_00042385	Comamonas	392.63	31.33	Putative n-hydroxybenzoate hydroxylase
+PGF_00043224	Comamonas	237.62	6.00	Putative phosphatase YieH
+PGF_00043967	Comamonas	253.34	5.79	Putative short-chain dehydrogenase
+PGF_00044308	Comamonas	535.56	64.22	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54) / Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_00044566	Comamonas	151.32	15.47	Putative transmembrane protein
+PGF_00044735	Comamonas	431.80	3.03	Putative transmembrane protein
+PGF_00045900	Comamonas	270.35	57.68	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00046197	Comamonas	398.42	15.96	RNA binding methyltransferase FtsJ like
+PGF_00046622	Comamonas	84.20	1.84	RNA-binding protein Hfq
+PGF_00047078	Comamonas	369.00	4.51	RecA protein
+PGF_00048134	Comamonas	255.65	20.32	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_00048480	Comamonas	234.55	1.22	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Comamonas	180.43	4.79	Outer membrane beta-barrel assembly protein BamE
+PGF_00048542	Comamonas	148.07	3.63	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048782	Comamonas	317.35	3.50	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048824	Comamonas	212.78	30.21	Ribosomal large subunit pseudouridine(746) synthase (EC 5.4.99.29) @ tRNA pseudouridine(32) synthase (EC 5.4.99.28)
+PGF_00048834	Comamonas	221.76	10.45	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048840	Comamonas	305.80	14.90	Ribosomal protein L11 methyltransferase
+PGF_00048842	Comamonas	312.77	3.50	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Comamonas	463.34	7.20	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Comamonas	247.78	1.86	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Comamonas	118.08	2.04	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Comamonas	186.55	2.43	Ribosome recycling factor
+PGF_00048928	Comamonas	326.45	4.04	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Comamonas	128.88	5.37	Ribosome-binding factor A
+PGF_00048985	Comamonas	226.35	0.77	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049163	Comamonas	172.00	0.00	Rod shape-determining protein MreD
+PGF_00049330	Comamonas	394.82	0.55	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Comamonas	363.10	3.50	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Comamonas	253.95	2.35	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Comamonas	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Comamonas	130.47	8.99	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Comamonas	104.60	17.88	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Comamonas	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Comamonas	97.88	2.45	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Comamonas	88.08	6.46	SSU ribosomal protein S15p (S13e)
+PGF_00049854	Comamonas	89.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Comamonas	93.03	0.36	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Comamonas	83.03	10.39	SSU ribosomal protein S19p (S15e)
+PGF_00049893	Comamonas	207.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Comamonas	172.85	0.36	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Comamonas	120.20	0.76	SSU ribosomal protein S6p
+PGF_00049904	Comamonas	156.70	4.72	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Comamonas	131.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Comamonas	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00049990	Comamonas	100.28	4.59	SWIB/MDM2 domain-containing proteins
+PGF_00050290	Comamonas	287.88	8.25	Segregation and condensation protein A
+PGF_00050368	Comamonas	350.62	2.92	Selenophosphate-dependent tRNA 2-selenouridine synthase
+PGF_00050995	Comamonas	499.80	3.30	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Comamonas	245.60	3.80	Septum site-determining protein MinC
+PGF_00051142	Comamonas	237.45	13.83	Septum-associated rare lipoprotein A
+PGF_00051198	Comamonas	228.97	8.87	Serine esterase
+PGF_00051358	Comamonas	380.15	1.29	Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase
+PGF_00051525	Comamonas	439.22	5.67	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Comamonas	462.80	5.41	Signal recognition particle protein Ffh
+PGF_00052561	Comamonas	333.65	1.73	Similar to citrate lyase beta chain, 10
+PGF_00052574	Comamonas	327.07	0.73	Similar to cobalamin biosynthesis protein CbiB
+PGF_00052674	Comamonas	223.55	6.65	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052705	Comamonas	143.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Comamonas	314.75	10.42	Site-specific tyrosine recombinase XerD
+PGF_00053317	Comamonas	216.15	6.47	Small-conductance mechanosensitive channel
+PGF_00053770	Comamonas	378.36	2.10	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054301	Comamonas	199.00	21.74	Stringent starvation protein A
+PGF_00054323	Comamonas	213.32	1.27	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Comamonas	121.00	0.00	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Comamonas	233.97	0.16	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Comamonas	386.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054541	Comamonas	212.00	0.00	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00054959	Comamonas	460.10	7.13	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054964	Comamonas	374.30	3.34	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+PGF_00054980	Comamonas	553.37	66.51	Sulfate transporter family protein
+PGF_00054986	Comamonas	279.10	11.44	Sulfate transport system permease protein CysT
+PGF_00054988	Comamonas	336.75	28.82	Sulfate transport system permease protein CysW
+PGF_00055052	Comamonas	594.67	9.62	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055169	Comamonas	676.42	55.55	Anaerobic dehydrogenases, typically selenocysteine-containing
+PGF_00055354	Comamonas	472.23	11.65	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055741	Comamonas	607.92	10.78	TRAP dicarboxylate transporter, DctM subunit, unknown substrate 6
+PGF_00055771	Comamonas	204.53	6.48	TRAP dicarboxylate transporter, DctQ subunit, unknown substrate 6
+PGF_00055966	Comamonas	379.57	5.90	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056078	Comamonas	242.45	19.15	Ankyrin
+PGF_00056273	Comamonas	331.20	39.30	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056320	Comamonas	261.10	1.91	Tetrapyrrole methylase family protein
+PGF_00056544	Comamonas	268.18	4.81	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Comamonas	344.80	0.72	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056795	Comamonas	108.62	3.27	Thioredoxin related protein PA2694
+PGF_00056814	Comamonas	500.05	2.53	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056935	Comamonas	487.10	6.00	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Comamonas	142.65	0.80	Tol biopolymer transport system, TolR protein
+PGF_00057032	Comamonas	149.27	21.23	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Comamonas	795.60	5.69	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Comamonas	320.29	3.54	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Comamonas	148.03	0.16	Transamidase GatB domain protein
+PGF_00057483	Comamonas	420.00	0.00	Transcription termination factor Rho
+PGF_00057485	Comamonas	494.98	0.16	Transcription termination protein NusA
+PGF_00057488	Comamonas	177.82	5.08	Transcription termination protein NusB
+PGF_00057553	Comamonas	301.18	38.90	Transcriptional activator protein LysR
+PGF_00057683	Comamonas	166.07	1.23	Transcriptional regulator
+PGF_00060398	Comamonas	667.49	83.57	Transketolase (EC 2.2.1.1)
+PGF_00060414	Comamonas	605.62	7.67	Translation elongation factor LepA
+PGF_00060421	Comamonas	184.00	0.00	Translation elongation factor P
+PGF_00060427	Comamonas	296.73	1.34	Translation elongation factor Ts
+PGF_00060478	Comamonas	202.93	10.28	Translation initiation factor 3
+PGF_00060975	Comamonas	484.93	70.68	Unknown substrate:proton symporter
+PGF_00061577	Comamonas	230.90	7.17	Transposase and inactivated derivatives
+PGF_00061607	Comamonas	135.38	0.91	ApaG protein
+PGF_00062023	Comamonas	269.39	1.50	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Comamonas	387.88	32.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Comamonas	433.25	1.28	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062267	Comamonas	676.39	18.91	Two-component system sensor histidine kinase/response regulator hybrid
+PGF_00062561	Comamonas	229.30	7.34	Two-component response regulatory protein BP2547
+PGF_00062790	Comamonas	495.60	9.79	Two-component system histidine kinase BP2548
+PGF_00063167	Comamonas	92.22	3.51	Type I antifreeze protein
+PGF_00063916	Comamonas	408.57	5.38	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Comamonas	266.45	10.69	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Comamonas	304.00	21.72	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Comamonas	330.55	9.72	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Comamonas	363.68	2.93	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Comamonas	359.50	2.96	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Comamonas	477.00	0.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Comamonas	474.18	7.57	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064172	Comamonas	461.88	9.74	UPF0053 inner membrane protein YtfL
+PGF_00064270	Comamonas	263.73	5.20	UPF0246 protein YaaA
+PGF_00064290	Comamonas	834.38	25.11	Arginine decarboxylase (EC 4.1.1.19); Ornithine decarboxylase (EC 4.1.1.17); Lysine decarboxylase (EC 4.1.1.18)
+PGF_00064438	Comamonas	193.30	12.89	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Comamonas	521.80	0.52	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064557	Comamonas	373.23	9.99	Uncharacterized GTP-binding protein YjiA
+PGF_00064685	Comamonas	85.74	0.95	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064827	Comamonas	318.79	5.80	Uncharacterized methyltransferase PA1407
+PGF_00064879	Comamonas	672.89	32.39	Uncharacterized protease YdcP
+PGF_00065162	Comamonas	310.70	26.37	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)
+PGF_00065887	Comamonas	244.20	2.63	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Comamonas	211.43	10.24	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Comamonas	236.56	30.41	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066155	Comamonas	230.21	1.08	Urea ABC transporter, ATPase protein UrtE
+PGF_00066270	Comamonas	383.38	12.16	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066440	Comamonas	394.98	0.16	VWA containing CoxE family protein
+PGF_00066453	Comamonas	967.70	4.03	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Comamonas	467.45	4.28	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Comamonas	322.85	16.74	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Comamonas	369.65	1.55	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067192	Comamonas	186.53	3.32	YaeQ protein
+PGF_00067277	Comamonas	396.93	2.64	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067401	Comamonas	282.80	38.03	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067412	Comamonas	81.28	4.02	YrbA protein
+PGF_00067466	Comamonas	586.02	70.11	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Comamonas	484.12	1.62	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Comamonas	363.12	0.33	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Comamonas	871.90	48.47	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00070936	Comamonas	333.80	41.20	endo-type 6-aminohexanoate oligomer hydrolase
+PGF_00071693	Comamonas	338.65	41.54	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00090005	Comamonas	164.45	4.12	hypothetical protein
+PGF_00102041	Comamonas	195.17	3.89	Esterase YqiA
+PGF_00221213	Comamonas	121.61	10.08	Membrane protein
+PGF_00248036	Comamonas	156.13	10.65	hypothetical protein
+PGF_00250931	Comamonas	117.25	8.11	hypothetical protein
+PGF_00255767	Comamonas	480.63	63.51	Osmolarity sensory histidine kinase EnvZ
+PGF_00261173	Comamonas	374.85	2.40	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00276661	Comamonas	458.03	10.32	Uncharacterized amino acid permease YtnA
+PGF_00294392	Comamonas	101.00	0.00	hypothetical protein
+PGF_00300187	Comamonas	400.07	9.85	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00306574	Comamonas	367.57	5.07	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00342563	Comamonas	828.97	4.76	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00360271	Comamonas	102.58	7.51	hypothetical protein
+PGF_00368502	Comamonas	189.26	4.52	Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)
+PGF_00376758	Comamonas	314.48	8.29	ATP/GTP-binding protein
+PGF_00399622	Comamonas	135.85	15.48	Barstar, ribonuclease (Barnase) inhibitor
+PGF_00400845	Comamonas	432.48	4.44	Uncharacterized integral membrane endopeptidase Bmul_2226
+PGF_00401752	Comamonas	242.53	3.00	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00403860	Comamonas	209.05	6.63	Ferric siderophore transport system, biopolymer transport protein ExbB
+PGF_00403906	Comamonas	612.89	6.66	Efflux ABC transporter, permease/ATP-binding protein Atu2242
+PGF_00404078	Comamonas	150.90	9.25	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Comamonas	452.15	2.35	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404384	Comamonas	352.63	10.57	Biotin synthase (EC 2.8.1.6)
+PGF_00404406	Comamonas	170.32	11.73	probable membrane protein YPO3302
+PGF_00404831	Comamonas	284.30	7.95	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00404844	Comamonas	336.68	16.55	protein F12M16.25
+PGF_00404939	Comamonas	310.42	4.64	Bll0213 protein
+PGF_00405754	Comamonas	592.92	7.33	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline (OHCU) decarboxylase (EC 4.1.1.97) / Allantoate amidohydrolase (EC 3.5.3.9)
+PGF_00406692	Comamonas	958.85	0.95	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00409688	Comamonas	345.10	13.41	putative membrane protein
+PGF_00412680	Comamonas	483.43	1.72	sodium-solute symporter, putative
+PGF_00413203	Comamonas	163.72	2.43	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Comamonas	254.15	7.91	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Comamonas	330.82	10.03	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Comamonas	275.50	2.40	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Comamonas	327.43	5.48	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Comamonas	655.60	10.34	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Comamonas	327.93	5.95	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413340	Comamonas	343.18	25.35	tRNA-dihydrouridine(16) synthase
+PGF_00413554	Comamonas	157.12	0.65	tmRNA-binding protein SmpB
+PGF_00413947	Comamonas	169.71	2.81	C-type cytochrome biogenesis protein ResA (thioredoxin)
+PGF_00414228	Comamonas	242.85	1.97	Two-component system response regulator OmpR
+PGF_00414547	Comamonas	140.13	0.34	universal stress protein, UspA family
+PGF_00414710	Comamonas	436.60	7.75	Pyrimidine permease
+PGF_00414926	Comamonas	410.98	43.82	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Comamonas	290.18	4.40	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415481	Comamonas	369.70	5.88	SAM-dependent methyltransferase, MidA
+PGF_00415486	Comamonas	155.10	0.63	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Comamonas	215.80	8.11	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415652	Comamonas	262.93	9.54	FIG00005326: uncharacterized protein
+PGF_00416115	Comamonas	314.55	1.85	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Comamonas	537.48	70.59	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Comamonas	1083.15	2.21	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Comamonas	195.12	11.62	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Comamonas	372.90	9.66	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417429	Comamonas	376.50	1.47	Chaperone protein DnaJ
+PGF_00417433	Comamonas	646.98	1.70	Chaperone protein DnaK
+PGF_00417437	Comamonas	623.16	3.11	Chaperone protein HscA
+PGF_00417658	Comamonas	367.80	8.79	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Comamonas	237.49	2.35	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Comamonas	365.10	0.38	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Comamonas	183.62	5.67	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418156	Comamonas	172.57	4.91	ClpXP protease specificity-enhancing factor / Stringent starvation protein B
+PGF_00418244	Comamonas	189.10	0.64	Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ Cob(I)alamin adenosyltransferase (EC 2.5.1.17), clustered with cobalamin synthesis
+PGF_00418254	Comamonas	247.79	5.75	Cobalamin biosynthesis protein BluB @ 5,6-dimethylbenzimidazole synthase, flavin destructase family
+PGF_00418368	Comamonas	488.30	6.60	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418406	Comamonas	174.50	2.45	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00419014	Comamonas	560.23	11.48	3-hydroxypropionate dehydrogenase DddA, flavin-containing (EC 1.1.1.59)
+PGF_00419215	Comamonas	367.42	9.48	hypothetical protein
+PGF_00419487	Comamonas	164.43	4.01	Conserved uncharacterized protein CreA
+PGF_00419627	Comamonas	316.12	1.84	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419628	Comamonas	457.90	7.69	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Comamonas	182.70	1.47	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00420075	Comamonas	307.60	10.12	Cysteine synthase (EC 2.5.1.47)
+PGF_00420152	Comamonas	666.66	5.18	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420155	Comamonas	209.45	1.69	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+PGF_00420502	Comamonas	714.66	9.85	Cytochrome c-type biogenesis protein Ccs1/ResB
+PGF_00420731	Comamonas	517.80	9.78	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420781	Comamonas	474.77	4.25	D-Lactate dehydrogenase, cytochrome c-dependent (EC 1.1.2.4)
+PGF_00420798	Comamonas	323.55	1.74	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421013	Comamonas	406.80	0.41	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421071	Comamonas	149.87	2.79	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421498	Comamonas	372.25	2.86	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Comamonas	638.22	112.30	DNA primase (EC 2.7.7.-)
+PGF_00421792	Comamonas	460.95	0.22	DNA repair protein RadA
+PGF_00421796	Comamonas	577.73	14.25	DNA repair protein RecN
+PGF_00421876	Comamonas	974.33	3.05	DNA topoisomerase III, Burkholderia type (EC 5.99.1.2)
+PGF_00422053	Comamonas	77.75	2.67	DNA-binding protein Fis
+PGF_00422271	Comamonas	331.90	0.50	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422303	Comamonas	189.57	12.63	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
+PGF_00422711	Comamonas	221.28	12.18	DedA protein
+PGF_00422918	Comamonas	187.72	1.74	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Comamonas	150.71	6.69	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Comamonas	367.15	3.74	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Comamonas	294.23	4.17	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Comamonas	443.20	10.09	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Comamonas	475.35	2.21	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423356	Comamonas	123.55	5.30	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423382	Comamonas	340.62	7.61	Dihydroorotase (EC 3.5.2.3)
+PGF_00423472	Comamonas	681.76	75.33	DinG family ATP-dependent helicase YoaA
+PGF_00423480	Comamonas	264.15	12.71	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1
+PGF_00423533	Comamonas	286.82	0.68	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Comamonas	237.43	26.14	DksA family protein PA5536 (no Zn-finger)
+PGF_00423914	Comamonas	205.50	5.64	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Comamonas	293.68	1.35	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424969	Comamonas	1937.60	256.72	Excinuclease ABC subunit A, dimeric form
+PGF_00424971	Comamonas	650.42	9.73	Excinuclease ABC subunit C
+PGF_00425010	Comamonas	479.62	1.55	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425091	Comamonas	1076.31	225.76	Exonuclease SbcC
+PGF_00425092	Comamonas	421.55	23.37	Exonuclease SbcD
+PGF_00425161	Comamonas	691.27	8.79	Exoribonuclease II (EC 3.1.13.1)
+PGF_00425214	Comamonas	107.35	7.28	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425603	Comamonas	1270.82	165.71	FAD/FMN-containing dehydrogenases
+PGF_00425665	Comamonas	299.25	13.93	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Comamonas	297.12	35.44	RNase adapter protein RapZ
+PGF_00425679	Comamonas	198.56	6.62	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Comamonas	239.12	0.79	Probable transcriptional regulatory protein YebC
+PGF_00425685	Comamonas	315.40	4.58	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425810	Comamonas	250.15	5.38	Cell division protein ZapD
+PGF_00425918	Comamonas	271.51	4.03	FIG003879: Uncharacterized subgroup of the nitrilase superfamily
+PGF_00425929	Comamonas	305.15	4.02	5'-nucleotidase (EC 3.1.3.5)
+PGF_00425993	Comamonas	391.80	0.94	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Comamonas	323.60	37.11	FIG004453: protein YceG like
+PGF_00426115	Comamonas	625.50	6.03	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426131	Comamonas	687.20	6.43	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) / Cytidylate kinase (EC 2.7.4.25)
+PGF_00426236	Comamonas	425.90	1.78	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426342	Comamonas	271.95	13.10	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426877	Comamonas	316.98	5.79	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00447508	Comamonas	471.43	1.78	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00457932	Comamonas	148.82	4.02	hypothetical protein
+PGF_00458199	Comamonas	100.76	2.35	hypothetical protein
+PGF_00462024	Comamonas	257.60	11.94	Branched-chain amino acid transport protein azlC
+PGF_00529632	Comamonas	863.85	37.96	ClpB protein
+PGF_00549302	Comamonas	498.62	11.15	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00569671	Comamonas	318.38	5.94	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580333	Comamonas	384.80	2.58	Lipopolysaccharide assembly protein LapB
+PGF_00582270	Comamonas	466.10	43.41	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00595771	Comamonas	291.98	6.49	Squalene synthase (EC 2.5.1.21)
+PGF_00616490	Comamonas	324.57	0.90	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Comamonas	371.55	7.66	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Comamonas	305.73	0.60	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00641071	Comamonas	319.02	36.39	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00647884	Comamonas	178.92	1.29	FIG004694: Hypothetical protein
+PGF_00648054	Comamonas	233.55	2.04	Tol-Pal system protein TolQ
+PGF_00649271	Comamonas	88.70	2.09	Cell division protein BolA
+PGF_00659194	Comamonas	233.25	4.94	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662997	Comamonas	275.77	3.77	Cobalamin synthase (EC 2.7.8.26)
+PGF_00664069	Comamonas	454.12	1.71	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Comamonas	226.85	6.62	Ribosomal silencing factor RsfA
+PGF_00671129	Comamonas	112.05	0.32	Nitrogen regulatory protein P-II, GlnK
+PGF_00678521	Comamonas	160.46	12.10	putative protein PaaI, possibly involved in aromatic compounds catabolism
+PGF_00694978	Comamonas	302.38	5.96	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00695496	Comamonas	232.80	1.88	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00709443	Comamonas	170.45	4.89	Twin-arginine translocation protein TatB
+PGF_00718789	Comamonas	282.02	0.16	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00725839	Comamonas	792.48	9.44	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00733848	Comamonas	256.12	5.64	Endonuclease/exonuclease/phosphatase
+PGF_00757172	Comamonas	131.35	1.17	Putative transmembrane protein
+PGF_00777996	Comamonas	248.93	24.71	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00819312	Comamonas	154.38	1.41	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_00851782	Comamonas	98.50	0.93	hypothetical protein
+PGF_00853393	Comamonas	298.80	0.75	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00867759	Comamonas	223.36	1.06	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety, TenA subgroup with Cys in active site
+PGF_00874759	Comamonas	417.02	0.16	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00886151	Comamonas	399.35	49.49	Glycine betaine/L-proline transport system permease protein ProW (TC 3.A.1.12.1)
+PGF_00900256	Comamonas	474.50	3.17	Threonine synthase (EC 4.2.3.1)
+PGF_00908360	Comamonas	258.30	0.72	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Comamonas	354.02	6.97	tRNA-dihydrouridine synthase DusB
+PGF_00924816	Comamonas	243.28	10.06	Thiol:disulfide interchange protein DsbC
+PGF_00943546	Comamonas	260.39	1.22	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00950554	Comamonas	678.90	55.73	Excinuclease ABC subunit B
+PGF_00957419	Comamonas	164.75	9.98	Putative pre-16S rRNA nuclease Yqg
+PGF_00973394	Comamonas	165.30	3.52	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00996394	Comamonas	286.40	3.15	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_01008498	Comamonas	177.15	16.85	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01011517	Comamonas	392.68	4.81	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01015448	Comamonas	449.89	2.73	Sensor histidine kinase
+PGF_01042105	Comamonas	183.88	3.55	hypothetical protein
+PGF_01052295	Comamonas	367.95	4.31	Lipopolysaccharide export system permease protein LptF
+PGF_01058419	Comamonas	1200.28	257.93	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01063716	Comamonas	323.42	9.54	Inner membrane protein YihY, formerly thought to be RNase BN
+PGF_01064695	Comamonas	166.85	2.26	putative lipoprotein
+PGF_01065820	Comamonas	180.08	0.49	Response regulator
+PGF_01075683	Comamonas	135.38	4.63	Hemoglobin-like protein HbO
+PGF_01084030	Comamonas	771.27	8.07	Outer membrane protein assembly factor YaeT
+PGF_01084695	Comamonas	114.87	0.93	Rhodanese-like domain protein
+PGF_01092098	Comamonas	174.00	0.00	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01101526	Comamonas	455.12	1.70	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01104399	Comamonas	255.20	4.48	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01109741	Comamonas	376.19	1.17	Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.8.1)
+PGF_01111623	Comamonas	110.33	2.04	Putative transmembrane protein
+PGF_01124177	Comamonas	413.07	2.79	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Comamonas	384.32	49.83	Rod shape-determining protein RodA
+PGF_01147190	Comamonas	496.26	8.61	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01151090	Comamonas	156.56	1.31	Uncharacterized LysM domain protein YgaU
+PGF_01166636	Comamonas	85.38	2.37	Glutaredoxin 3 (Grx3)
+PGF_01172200	Comamonas	212.30	2.91	Uncharacterized membrane anchored protein Mext_4159
+PGF_01172431	Comamonas	131.50	1.65	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172485	Comamonas	408.55	2.04	Cell division protein FtsA
+PGF_01174739	Comamonas	254.00	3.76	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Comamonas	651.20	20.95	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176861	Comamonas	77.58	3.77	Uncharacterized protein YpeB
+PGF_01181530	Comamonas	120.22	4.73	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01220766	Comamonas	282.31	0.52	Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)
+PGF_01223569	Comamonas	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Comamonas	160.60	12.97	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01234013	Comamonas	333.77	4.91	YgfD: protein that forms a complex with the methylmalonyl-CoA mutase in a pathway for conversion of succinyl-CoA to propionyl-CoA
+PGF_01291823	Comamonas	308.76	15.16	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01323228	Comamonas	225.93	4.47	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Comamonas	228.71	4.92	Molybdenum ABC transporter permease protein ModB
+PGF_01346175	Comamonas	116.30	7.59	hypothetical protein
+PGF_01351158	Comamonas	1165.17	10.87	Transcription-repair coupling factor
+PGF_01364427	Comamonas	191.10	0.55	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Comamonas	186.80	4.85	HNH endonuclease family protein
+PGF_01382505	Comamonas	224.03	3.70	FIG00449901: hypothetical protein
+PGF_01415861	Comamonas	169.60	2.16	LPS-assembly lipoprotein LptE
+PGF_01416568	Comamonas	203.10	3.63	LemA family protein
+PGF_01420802	Comamonas	123.42	15.06	Cell division protein MraZ
+PGF_01421534	Comamonas	206.00	7.81	LSU ribosomal protein L25p
+PGF_01423501	Comamonas	159.65	5.87	Transcription elongation factor GreA
+PGF_01444546	Comamonas	98.35	4.11	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Comamonas	108.35	1.89	Integration host factor alpha subunit
+PGF_01466742	Comamonas	457.12	7.45	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Comamonas	486.55	39.61	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01480638	Comamonas	193.87	1.76	Uncharacterized lipoprotein Bmul_4930
+PGF_01483460	Comamonas	367.90	2.93	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Comamonas	276.30	6.58	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01496670	Comamonas	278.82	7.43	ATPase associated with various cellular activities, AAA_5
+PGF_01514111	Comamonas	358.05	0.32	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01546618	Comamonas	303.07	3.63	putative membrane protein
+PGF_01557745	Comamonas	401.50	14.47	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01614738	Comamonas	81.17	0.78	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Comamonas	329.15	17.70	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667880	Comamonas	83.58	5.56	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Comamonas	208.81	6.53	RNA polymerase sigma factor RpoE
+PGF_01668012	Comamonas	289.41	12.85	Sulfur carrier protein FdhD
+PGF_01674551	Comamonas	123.97	0.16	Glycine cleavage system H protein
+PGF_01681377	Comamonas	222.11	5.20	UPF0126 inner membrane protein YicG
+PGF_01682537	Comamonas	132.43	4.57	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Comamonas	191.78	2.28	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Comamonas	218.25	2.52	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Comamonas	285.77	18.55	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01739753	Comamonas	311.85	32.36	Zinc metalloprotease
+PGF_01761890	Comamonas	63.42	5.08	DNA gyrase inhibitor YacG
+PGF_01763725	Comamonas	300.12	6.75	Protein phosphatase 2C-like
+PGF_01780907	Comamonas	148.55	4.50	Protein YhfA
+PGF_01809758	Comamonas	321.48	3.02	ABC transporter, substrate-binding protein PA3836
+PGF_01832663	Comamonas	335.18	0.97	Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)
+PGF_01853493	Comamonas	281.65	1.82	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Comamonas	334.85	0.48	Heat-inducible transcription repressor HrcA
+PGF_01888177	Comamonas	145.80	3.16	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Comamonas	219.72	9.72	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Comamonas	336.43	7.96	Rod shape-determining protein MreC
+PGF_01900676	Comamonas	280.93	7.97	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01925962	Comamonas	161.57	2.69	Tripartite tricarboxylate transporter TctB family
+PGF_01960322	Comamonas	624.73	119.68	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Comamonas	436.02	0.16	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Comamonas	265.57	1.95	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Comamonas	350.38	1.55	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Comamonas	357.77	33.58	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Comamonas	368.65	5.33	GTP-binding protein Obg
+PGF_02049259	Comamonas	310.24	10.35	Efflux ABC transporter, ATP-binding protein
+PGF_02059020	Comamonas	554.05	4.64	Energy-dependent translational throttle protein EttA
+PGF_02061452	Comamonas	390.60	1.45	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Comamonas	95.97	2.18	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02075241	Comamonas	656.98	101.16	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02111888	Comamonas	329.57	5.40	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02121439	Comamonas	164.82	6.57	Exported protein
+PGF_02141097	Comamonas	704.95	3.49	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02169237	Comamonas	243.18	1.21	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Comamonas	436.38	3.26	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02211177	Comamonas	262.85	6.55	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02214833	Comamonas	195.21	16.01	Tripartite tricarboxylate transporter TctB family
+PGF_02216306	Comamonas	162.88	2.20	CopG protein
+PGF_02216960	Comamonas	108.20	1.02	hypothetical protein
+PGF_02224568	Comamonas	372.32	13.32	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Comamonas	723.48	19.70	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02247259	Comamonas	439.88	9.67	ABC-type branched-chain amino acid transport systems, periplasmic component
+PGF_02268482	Comamonas	264.32	6.19	Putative glutamine amidotransferase YafJ
+PGF_02295498	Comamonas	117.70	1.64	Ferredoxin, 2Fe-2S
+PGF_02317534	Comamonas	144.60	1.13	Thioredoxin 2
+PGF_02325838	Comamonas	536.90	38.58	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328820	Comamonas	69.58	4.13	hypothetical protein
+PGF_02346768	Comamonas	877.35	13.28	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02347716	Comamonas	442.07	56.56	Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18)
+PGF_02355769	Comamonas	369.82	6.94	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Comamonas	921.02	94.72	DNA polymerase I (EC 2.7.7.7)
+PGF_02382338	Comamonas	264.55	13.02	Inner membrane protein YpjD
+PGF_02405545	Comamonas	316.49	15.59	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02420191	Comamonas	510.73	10.93	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02450432	Comamonas	284.45	1.22	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Comamonas	196.03	0.16	Recombination protein RecR
+PGF_02472165	Comamonas	682.05	0.55	Propionyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.3)
+PGF_02473279	Comamonas	267.05	5.02	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Comamonas	233.37	6.07	Uncharacterized Nudix hydrolase NudL
+PGF_02512719	Comamonas	165.07	1.54	Na(+) H(+) antiporter subunit E
+PGF_02515882	Comamonas	419.93	4.92	Aspartokinase (EC 2.7.2.4)
+PGF_02517984	Comamonas	62.62	1.46	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Comamonas	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02518965	Comamonas	156.28	2.53	Regulatory protein RecX
+PGF_02537450	Comamonas	500.60	11.01	HtrA protease/chaperone protein
+PGF_02593689	Comamonas	630.75	16.26	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02623406	Comamonas	355.02	13.04	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Comamonas	1406.72	3.22	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02706008	Comamonas	257.82	7.95	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02719231	Comamonas	114.22	14.55	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Comamonas	872.45	13.97	DNA mismatch repair protein MutS
+PGF_02740181	Comamonas	138.85	6.61	Na(+) H(+) antiporter subunit G
+PGF_02746016	Comamonas	260.62	13.34	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02787494	Comamonas	215.00	0.00	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02789532	Comamonas	288.52	6.43	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02797400	Comamonas	459.18	6.27	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Comamonas	1370.82	2.21	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Comamonas	517.15	8.63	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02813191	Comamonas	122.77	3.91	FIG146285: Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+PGF_02818638	Comamonas	429.73	53.77	Hemolysins and related proteins containing CBS domains
+PGF_02820109	Comamonas	238.21	4.45	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02825959	Comamonas	386.12	11.54	Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12)
+PGF_02826031	Comamonas	190.72	4.91	hypothetical protein
+PGF_02833670	Comamonas	279.15	8.97	Zn-dependent protease with chaperone function PA4632
+PGF_02838109	Comamonas	178.20	22.07	Shikimate kinase I (EC 2.7.1.71)
+PGF_02862285	Comamonas	445.00	0.60	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02868941	Comamonas	583.93	61.01	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_02873160	Comamonas	218.68	16.25	Putative preQ0 transporter YhhQ
+PGF_02873723	Comamonas	495.88	5.24	Ribonuclease G
+PGF_02875609	Comamonas	461.80	50.76	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Comamonas	366.02	0.36	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02898096	Comamonas	479.90	71.70	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Comamonas	65.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Comamonas	210.90	3.34	Outer membrane lipoprotein carrier protein LolA
+PGF_02903501	Comamonas	293.18	1.12	Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)
+PGF_02904832	Comamonas	318.80	2.29	Homoserine kinase (EC 2.7.1.39)
+PGF_02906681	Comamonas	783.27	64.47	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02911364	Comamonas	296.12	0.76	HflC protein
+PGF_02912272	Comamonas	169.07	0.27	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Comamonas	239.93	0.27	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930057	Comamonas	109.62	2.15	UPF0060 membrane protein YnfA
+PGF_02936332	Comamonas	302.93	13.21	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Comamonas	378.65	7.07	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02938730	Comamonas	350.35	5.31	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02939374	Comamonas	1897.10	364.93	Large extracellular alpha-helical protein
+PGF_02944756	Comamonas	397.93	0.47	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Comamonas	560.70	2.87	SSU ribosomal protein S1p
+PGF_02950579	Comamonas	270.10	0.30	Septum site-determining protein MinD
+PGF_02974467	Comamonas	164.32	8.48	hypothetical protein
+PGF_02981550	Comamonas	206.45	28.83	Kynurenine formamidase, bacterial (EC 3.5.1.9)
+PGF_02992100	Comamonas	253.22	4.86	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Comamonas	128.78	5.84	Protein translocase membrane subunit SecG
+PGF_03010412	Comamonas	294.25	1.84	ABC transporter, permease protein PA3837
+PGF_03016423	Comamonas	282.90	7.00	Protein sirB1
+PGF_03017775	Comamonas	514.67	1.76	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Comamonas	204.88	3.44	Septum formation protein Maf
+PGF_03020126	Comamonas	68.25	1.84	hypothetical protein
+PGF_03020719	Comamonas	624.05	68.92	Lysophospholipid transporter LplT / 2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40)
+PGF_03025675	Comamonas	595.20	13.45	Lipid A export permease/ATP-binding protein MsbA
+PGF_03026450	Comamonas	1174.65	1.03	Chromosome partition protein smc
+PGF_03029859	Comamonas	605.33	110.85	Bis-ABC ATPase Uup
+PGF_03036937	Comamonas	374.53	5.84	Putative transmembrane protein
+PGF_03042775	Comamonas	201.95	4.44	Phosphoheptose isomerase (EC 5.3.1.-)
+PGF_03050772	Comamonas	256.05	22.08	Transcriptional regulator, Crp/Fnr family
+PGF_03053958	Comamonas	213.78	2.21	Outer membrane protein A precursor
+PGF_03054699	Comamonas	770.05	86.61	DNA translocase FtsK
+PGF_03057384	Comamonas	351.35	8.57	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03063012	Comamonas	172.92	3.59	Chaperone protein HscB
+PGF_03070334	Comamonas	167.38	12.35	Putative transmembrane protein
+PGF_03081665	Comamonas	189.75	7.32	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03104567	Comamonas	478.80	46.04	Trk potassium uptake system protein TrkA
+PGF_03111392	Comamonas	156.66	2.84	ATP synthase protein I
+PGF_03125514	Comamonas	450.55	3.96	FIG015287: Zinc protease
+PGF_03128228	Comamonas	388.02	5.86	Outer membrane beta-barrel assembly protein BamB
+PGF_03132336	Comamonas	426.70	3.09	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03144011	Comamonas	160.88	26.36	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146406	Comamonas	601.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Comamonas	281.95	10.14	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Comamonas	194.08	5.41	Transcription antitermination protein NusG
+PGF_03203461	Comamonas	614.98	50.53	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03222913	Comamonas	138.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03223464	Comamonas	305.42	4.19	Pseudouridine synthase (EC 4.2.1.70), PA2043 type
+PGF_03253896	Comamonas	231.40	0.93	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03272313	Comamonas	901.55	19.09	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Comamonas	76.40	2.65	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Comamonas	218.97	1.91	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03318456	Comamonas	487.00	5.43	Trk potassium uptake system protein TrkH
+PGF_03369967	Comamonas	394.70	0.82	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03421722	Comamonas	511.93	12.72	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Comamonas	332.57	5.25	33 kDa chaperonin HslO
+PGF_03439582	Comamonas	254.79	5.56	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03439690	Comamonas	142.15	6.97	Ferric uptake regulation protein FUR
+PGF_03441339	Comamonas	335.60	17.93	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03441843	Comamonas	794.17	79.81	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03456505	Comamonas	545.22	87.92	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03470321	Comamonas	183.93	1.75	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03507859	Comamonas	332.17	13.50	Luciferase-like monooxygenase YhbW
+PGF_03518570	Comamonas	141.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03589991	Comamonas	172.10	12.23	Proteins containing SET domain
+PGF_03609651	Comamonas	675.81	124.17	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Comamonas	161.45	2.85	UPF0234 protein Yitk
+PGF_03674577	Comamonas	444.66	2.22	Cytochrome c-type biogenesis protein CcsA/ResC
+PGF_03694903	Comamonas	681.85	44.38	ATP-dependent RNA helicase NGO0650
+PGF_03694962	Comamonas	313.32	54.50	TolA protein
+PGF_03708253	Comamonas	127.46	2.88	Protein translocase subunit SecE
+PGF_03719269	Comamonas	207.47	3.53	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Comamonas	169.50	7.69	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Comamonas	198.65	11.28	UPF0301 protein YqgE
+PGF_03743176	Comamonas	611.55	106.50	Selenocysteine-specific translation elongation factor
+PGF_03750571	Comamonas	469.65	13.24	Chromosomal replication initiator protein DnaA
+PGF_03750599	Comamonas	251.85	4.28	Cell division coordinator CpoB
+PGF_03750600	Comamonas	165.57	5.61	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Comamonas	180.00	5.15	Heat shock protein GrpE
+PGF_03752544	Comamonas	233.69	4.56	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Comamonas	335.88	35.43	Site-specific tyrosine recombinase XerC
+PGF_03753933	Comamonas	177.95	0.32	Iron-sulfur cluster regulator IscR
+PGF_03754184	Comamonas	120.24	1.80	Na(+) H(+) antiporter subunit C
+PGF_03758632	Comamonas	277.79	6.68	YecA-like protein
+PGF_03767152	Comamonas	103.60	2.95	Proposed lipoate regulatory protein YbeD
+PGF_03768099	Comamonas	283.23	8.36	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03778780	Comamonas	384.50	13.01	Signal recognition particle receptor FtsY
+PGF_03783620	Comamonas	175.12	6.79	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Comamonas	188.57	4.67	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Comamonas	421.82	13.98	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Comamonas	225.88	4.46	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Comamonas	284.05	8.58	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03811905	Comamonas	371.00	2.99	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03835760	Comamonas	421.24	60.94	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03846586	Comamonas	199.41	15.76	Putative transmembrane protein
+PGF_03846834	Comamonas	151.78	11.73	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03862500	Comamonas	221.85	1.17	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03954476	Comamonas	289.65	1.58	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03957141	Comamonas	574.10	8.77	Probable inner membrane transmembrane protein
+PGF_03960810	Comamonas	251.22	0.58	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03969636	Comamonas	179.38	4.11	PhbF
+PGF_04007946	Comamonas	241.53	5.83	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Comamonas	160.88	3.40	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04012930	Comamonas	141.24	6.18	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)
+PGF_04016408	Comamonas	444.48	10.79	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Comamonas	143.62	1.25	Large-conductance mechanosensitive channel
+PGF_04034430	Comamonas	70.00	0.00	SSU ribosomal protein S21p
+PGF_04037464	Comamonas	268.12	11.30	rRNA methylases
+PGF_04041316	Comamonas	997.17	133.35	Excinuclease ABC subunit A
+PGF_04108824	Comamonas	581.75	0.74	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Comamonas	268.68	5.58	Twin-arginine translocation protein TatC
+PGF_04151476	Comamonas	188.38	2.93	16S rRNA processing protein RimM
+PGF_04154333	Comamonas	78.42	1.43	Twin-arginine translocation protein TatA
+PGF_04156755	Comamonas	92.00	0.39	Na(+) H(+) antiporter subunit F
+PGF_04163139	Comamonas	243.93	29.28	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04213876	Comamonas	259.77	13.56	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04217548	Comamonas	662.33	114.42	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04275878	Comamonas	234.62	1.11	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04284526	Comamonas	392.82	0.93	Alpha-aminoadipate aminotransferase (EC 2.6.1.39) @ Leucine transaminase (EC 2.6.1.6) @ Valine transaminase
+PGF_04315180	Comamonas	152.47	1.15	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04341022	Comamonas	974.40	18.73	Na(+) H(+) antiporter subunit A / Na(+) H(+) antiporter subunit B
+PGF_04345693	Comamonas	479.35	8.70	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Comamonas	917.10	4.73	Protein translocase subunit SecA
+PGF_04366875	Comamonas	316.77	11.03	Transcriptional regulator
+PGF_04380075	Comamonas	159.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04457297	Comamonas	189.35	4.49	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458521	Comamonas	445.93	4.11	Squalene/phytoene desaturase HopC
+PGF_04475011	Comamonas	206.57	5.61	Cytochrome c4
+PGF_04501688	Comamonas	367.00	14.35	hypothetical protein
+PGF_04505269	Comamonas	249.35	1.70	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Comamonas	340.90	38.74	Rod shape-determining protein MreB
+PGF_04521913	Comamonas	492.85	115.83	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Comamonas	519.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Comamonas	203.32	2.28	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Comamonas	248.88	2.59	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04594665	Comamonas	136.60	8.36	Regulator of nucleoside diphosphate kinase
+PGF_04604400	Comamonas	656.21	6.94	Site-specific recombinase
+PGF_04608820	Comamonas	661.05	9.81	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04662829	Comamonas	841.27	97.39	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04666574	Comamonas	168.12	2.28	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_04667681	Comamonas	427.73	6.17	Alanine transaminase (EC 2.6.1.2)
+PGF_04679223	Comamonas	152.75	6.83	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04724831	Comamonas	360.98	3.47	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Comamonas	931.68	82.78	Translation initiation factor 2
+PGF_04757308	Comamonas	681.70	3.92	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Comamonas	211.95	7.34	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04788947	Comamonas	284.32	16.63	Aldose 1-epimerase
+PGF_04807486	Comamonas	343.40	13.06	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Comamonas	128.62	2.18	LSU ribosomal protein L19p
+PGF_04962192	Comamonas	854.17	45.80	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Comamonas	67.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Comamonas	104.40	7.40	LSU ribosomal protein L21p
+PGF_04985359	Comamonas	1365.10	185.15	Inner membrane component of TAM transport system
+PGF_05117712	Comamonas	924.30	13.56	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05122891	Comamonas	340.47	10.29	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_05135220	Comamonas	904.42	5.09	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Comamonas	321.82	1.88	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Comamonas	210.15	16.77	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Comamonas	469.55	1.97	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05210618	Comamonas	310.38	18.35	Septum-associated cell division protein DedD
+PGF_05257314	Comamonas	1324.33	180.81	FIG005080: Possible exported protein
+PGF_05338234	Comamonas	299.27	11.08	Protein YicC
+PGF_05364204	Comamonas	220.78	4.28	FIG004556: membrane metalloprotease
+PGF_05374359	Comamonas	349.98	18.02	Fumarylacetoacetate hydrolase family protein
+PGF_05383972	Comamonas	175.20	21.87	G:T/U mismatch-specific uracil/thymine DNA-glycosylase (EC 3.2.2.27)
+PGF_05386032	Comamonas	192.40	1.53	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05397428	Comamonas	272.88	10.08	TesB-like acyl-CoA thioesterase 2
+PGF_05406959	Comamonas	364.38	4.30	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05424184	Comamonas	585.32	86.64	Na(+) H(+) antiporter subunit D
+PGF_05439724	Comamonas	703.80	8.85	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05449103	Comamonas	135.57	3.64	Rhodanese-related sulfurtransferase YibN
+PGF_05451949	Comamonas	326.74	10.71	Tn4651 auxiliary cointegrate resolution protein T
+PGF_05463808	Comamonas	298.85	1.72	NAD kinase (EC 2.7.1.23)
+PGF_05519582	Comamonas	416.75	62.69	NAD(FAD)-utilizing dehydrogenases
+PGF_05581732	Comamonas	437.20	0.56	Protein translocase subunit SecY
+PGF_05598173	Comamonas	389.32	5.30	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Comamonas	282.48	10.78	Phytoene synthase (EC 2.5.1.32)
+PGF_05622318	Comamonas	414.80	0.41	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Comamonas	232.72	5.38	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05676471	Comamonas	249.80	3.06	Glutamate Aspartate transport system permease protein GltJ (TC 3.A.1.3.4)
+PGF_05679920	Comamonas	1292.71	230.53	ATP-dependent helicase HrpA
+PGF_05681779	Comamonas	197.50	2.73	Lysine decarboxylase family
+PGF_05693577	Comamonas	105.47	1.89	Integration host factor beta subunit
+PGF_05714136	Comamonas	121.62	3.89	FIG138056: a glutathione-dependent thiol reductase
+PGF_05769513	Comamonas	419.07	10.44	Tol-Pal system beta propeller repeat protein TolB
+PGF_05770898	Comamonas	352.80	14.44	Selenide,water dikinase (EC 2.7.9.3)
+PGF_05872952	Comamonas	269.18	8.28	Outer membrane beta-barrel assembly protein BamD
+PGF_05925776	Comamonas	313.52	7.17	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Comamonas	630.30	5.25	Protein translocase subunit SecD
+PGF_05971611	Comamonas	406.60	4.21	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Comamonas	655.48	5.23	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06048886	Comamonas	199.35	8.33	Ubiquinone biosynthesis protein UbiJ
+PGF_06051594	Comamonas	574.26	43.05	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06053106	Comamonas	320.80	6.25	RNA polymerase sigma factor RpoH
+PGF_06061522	Comamonas	140.82	5.00	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06120144	Comamonas	152.03	5.54	Ribosome association toxin RatA
+PGF_06150781	Comamonas	469.29	2.54	ATP-dependent 23S rRNA helicase DbpA
+PGF_06170558	Comamonas	161.45	3.48	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Comamonas	141.75	1.58	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Comamonas	255.69	25.65	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06254345	Comamonas	96.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Comamonas	390.41	28.25	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06285197	Comamonas	457.93	57.41	Intracellular PHB depolymerase
+PGF_06294815	Comamonas	334.20	9.08	Sodium/bile acid symporter family
+PGF_06298671	Comamonas	252.19	4.40	Efflux ABC transporter, permease protein
+PGF_06315406	Comamonas	423.27	1.75	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Comamonas	339.83	4.05	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06320166	Comamonas	280.12	11.64	Spermidine synthase-like protein
+PGF_06323462	Comamonas	219.36	9.40	21 kDa hemolysin precursor
+PGF_06329961	Comamonas	313.68	9.32	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06403579	Comamonas	787.36	83.06	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06455222	Comamonas	417.60	3.92	Coenzyme A ligase
+PGF_06461498	Comamonas	275.82	8.92	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06524027	Comamonas	684.65	12.94	ATP-dependent DNA helicase Rep
+PGF_06530721	Comamonas	248.85	8.14	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Comamonas	127.08	2.86	Fluoride ion transporter CrcB
+PGF_06579751	Comamonas	860.23	7.21	Aconitate hydratase 2 (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_06644010	Comamonas	311.93	16.84	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Comamonas	79.00	0.00	Acyl carrier protein
+PGF_06649360	Comamonas	351.23	66.43	Segregation and condensation protein B
+PGF_06668048	Comamonas	145.00	3.65	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+PGF_06693963	Comamonas	110.00	0.00	Nucleoid-associated protein YaaK
+PGF_06706859	Comamonas	166.70	1.42	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06721510	Comamonas	347.38	23.44	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+PGF_06737800	Comamonas	584.58	11.84	FIG140336: TPR domain protein
+PGF_06757295	Comamonas	519.77	10.52	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_07072582	Comamonas	817.90	37.72	RNA polymerase sigma factor RpoD
+PGF_07171792	Comamonas	256.54	8.14	Glycerol-3-phosphate regulon repressor GlpR
+PGF_07242312	Comamonas	656.80	15.08	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07344415	Comamonas	207.08	14.79	Intracellular septation protein IspA
+PGF_08046522	Comamonas	106.28	0.51	Glutaredoxin-related protein
+PGF_08061357	Comamonas	121.00	0.00	Iron-sulfur cluster insertion protein ErpA
+PGF_08147453	Comamonas	528.30	28.37	DNA recombination protein RmuC
+PGF_08153913	Comamonas	258.27	3.11	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08167393	Comamonas	317.85	5.42	MBL-fold metallo-hydrolase superfamily
+PGF_08183187	Comamonas	422.73	0.64	Cell division protein FtsW

@@ -1,0 +1,938 @@
+PGF_00000027	Hippea	261.25	2.22	Uncharacterized protein YmdB
+PGF_00003750	Hippea	140.00	0.00	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00005284	Hippea	548.00	9.83	Flagellar M-ring protein FliF
+PGF_00005288	Hippea	368.00	0.82	Flagellar P-ring protein FlgI
+PGF_00005354	Hippea	137.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005358	Hippea	262.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Hippea	674.75	18.93	Flagellar biosynthesis protein FlhA
+PGF_00005402	Hippea	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Hippea	588.50	2.52	Flagellar hook protein FlgE
+PGF_00005454	Hippea	579.75	0.50	Flagellar hook-associated protein FlgK
+PGF_00005548	Hippea	131.50	1.91	Flagellar protein FlaG
+PGF_00005912	Hippea	393.75	0.50	Flavodoxin
+PGF_00006277	Hippea	420.00	1.41	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+PGF_00006457	Hippea	282.00	0.00	Fumarate hydratase class I, alpha region (EC 4.2.1.2); L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)
+PGF_00006935	Hippea	505.75	0.50	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006983	Hippea	256.50	1.00	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007012	Hippea	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Hippea	431.75	2.87	GTP-binding protein EngA
+PGF_00007026	Hippea	163.00	15.21	GTP-binding protein EngB
+PGF_00007027	Hippea	297.00	0.00	GTP-binding protein Era
+PGF_00007057	Hippea	452.50	0.58	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Hippea	225.25	0.50	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Hippea	296.25	1.50	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Hippea	394.00	4.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008061	Hippea	374.75	1.26	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Hippea	400.50	0.58	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Hippea	246.25	3.50	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Hippea	504.00	0.00	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008130	Hippea	248.00	0.00	Glutamate synthase, alpha subunit domain protein
+PGF_00008164	Hippea	433.00	0.00	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008244	Hippea	375.00	0.00	Glutamine amidotransferase, class-II
+PGF_00008258	Hippea	470.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Hippea	555.25	0.50	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Hippea	425.75	1.26	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Hippea	461.25	1.89	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008611	Hippea	334.50	2.38	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Hippea	192.25	3.20	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009967	Hippea	280.25	0.50	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Hippea	670.50	0.58	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010349	Hippea	725.25	2.75	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Hippea	214.75	3.20	Guanylate kinase (EC 2.7.4.8)
+PGF_00010977	Hippea	147.00	0.00	Heat shock protein Hsp20
+PGF_00011081	Hippea	640.25	5.19	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011842	Hippea	336.50	13.48	Histidine kinase
+PGF_00011959	Hippea	143.75	29.17	Histidine triad (HIT) protein
+PGF_00011979	Hippea	427.50	1.73	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Hippea	322.25	1.26	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Hippea	431.50	1.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012430	Hippea	125.50	1.73	HspR, transcriptional repressor of DnaK operon
+PGF_00012546	Hippea	316.00	0.00	Hydrogenase-4 component C
+PGF_00012920	Hippea	540.00	0.00	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012970	Hippea	428.00	0.00	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013017	Hippea	312.25	0.96	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013283	Hippea	221.00	2.83	UPF0001 protein YggS
+PGF_00013432	Hippea	502.75	9.84	Hypothetical sugar ABC transporter TM1150, substrate-binding protein
+PGF_00013433	Hippea	327.25	1.50	Hypothetical sugar ABC transporter TM1151, ATP-binding protein
+PGF_00013434	Hippea	318.75	0.50	Hypothetical sugar ABC transporter TM1152, ATP-binding protein
+PGF_00013435	Hippea	286.25	13.50	Hypothetical sugar ABC transporter TM1152, permease protein
+PGF_00013509	Hippea	501.25	0.50	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Hippea	187.25	0.50	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013804	Hippea	416.25	1.26	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00014051	Hippea	243.75	1.26	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014067	Hippea	191.50	1.00	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)
+PGF_00014099	Hippea	507.50	3.11	Inner-membrane proton/drug antiporter (MSF type) of tripartite multidrug efflux system
+PGF_00014311	Hippea	484.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Hippea	222.25	0.50	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Hippea	116.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Hippea	179.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Hippea	290.75	0.50	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015289	Hippea	85.00	2.45	ATP synthase protein I
+PGF_00015510	Hippea	238.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015703	Hippea	746.00	2.71	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Hippea	928.50	1.91	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015852	Hippea	375.50	5.69	Ketoisovalerate oxidoreductase subunit VorA (EC 1.2.7.7)
+PGF_00015855	Hippea	340.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015967	Hippea	385.00	0.00	L,L-diaminopimelate aminotransferase (EC 2.6.1.83), DapL2 type
+PGF_00016328	Hippea	173.25	0.50	LSU ribosomal protein L10p (P0)
+PGF_00016338	Hippea	419.00	1.41	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Hippea	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Hippea	144.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Hippea	140.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Hippea	122.25	0.50	LSU ribosomal protein L17p
+PGF_00016353	Hippea	120.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Hippea	232.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Hippea	114.25	0.96	LSU ribosomal protein L20p
+PGF_00016368	Hippea	108.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Hippea	91.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Hippea	106.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Hippea	82.00	0.00	LSU ribosomal protein L27p
+PGF_00016387	Hippea	64.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016391	Hippea	67.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_00016393	Hippea	274.75	0.50	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Hippea	59.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Hippea	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Hippea	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Hippea	65.25	0.50	LSU ribosomal protein L35p
+PGF_00016424	Hippea	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Hippea	206.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Hippea	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Hippea	186.25	0.50	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Hippea	181.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Hippea	128.75	0.50	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Hippea	150.50	0.58	LSU ribosomal protein L9p
+PGF_00017109	Hippea	363.75	1.50	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Hippea	237.00	2.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017429	Hippea	396.50	1.00	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00017939	Hippea	305.00	1.41	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018952	Hippea	316.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Hippea	449.50	0.58	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019284	Hippea	842.25	0.50	Mannose-1-phosphate guanylyltransferase / Phosphomannomutase (EC 5.4.2.8)
+PGF_00019428	Hippea	179.00	0.82	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019567	Hippea	782.25	0.96	ATP-dependent protease La (EC 3.4.21.53) Type II
+PGF_00020264	Hippea	281.25	4.19	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020361	Hippea	143.75	3.10	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Hippea	252.50	1.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020984	Hippea	280.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021021	Hippea	723.00	0.00	Methylmalonyl-CoA mutase (EC 5.4.99.2) / B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00021036	Hippea	336.50	9.11	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00022507	Hippea	163.75	1.50	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022541	Hippea	931.50	0.58	Molybdopterin oxidoreductase
+PGF_00022577	Hippea	167.00	2.00	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00023591	Hippea	332.75	2.87	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Hippea	338.25	7.18	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024273	Hippea	156.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024308	Hippea	277.25	0.96	NAD synthetase (EC 6.3.1.5)
+PGF_00024478	Hippea	337.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024687	Hippea	398.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024728	Hippea	167.00	0.00	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Hippea	98.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Hippea	520.00	1.41	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Hippea	482.75	1.89	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Hippea	119.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Hippea	563.75	0.96	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Hippea	160.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025357	Hippea	426.75	4.99	Na+/solute symporter
+PGF_00025600	Hippea	382.00	0.00	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025623	Hippea	356.25	1.50	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00026031	Hippea	209.50	25.00	Nitroreductase
+PGF_00026279	Hippea	316.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Hippea	194.75	1.71	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Hippea	274.50	3.42	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Hippea	283.50	1.29	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026934	Hippea	509.75	0.50	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)
+PGF_00027122	Hippea	664.00	2.94	Oligosaccharyl transferase STT3 subunit
+PGF_00029917	Hippea	280.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030018	Hippea	721.50	3.70	Paralog of flagellar hook protein FlgE
+PGF_00030640	Hippea	354.75	1.50	Peptide chain release factor 1
+PGF_00032625	Hippea	627.75	0.50	2,4-dienoyl-CoA reductase
+PGF_00033095	Hippea	786.25	1.50	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033253	Hippea	264.50	31.01	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Hippea	343.00	0.00	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Hippea	356.00	14.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033402	Hippea	797.00	0.00	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033411	Hippea	271.25	0.96	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033511	Hippea	393.00	1.15	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Hippea	225.50	0.58	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033707	Hippea	173.75	2.36	Phospholipase D/Transphosphatidylase (EC 3.1.4.4)
+PGF_00033729	Hippea	259.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Hippea	249.00	2.00	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033877	Hippea	167.50	1.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Hippea	234.00	1.15	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Hippea	424.00	0.00	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Hippea	236.75	0.50	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Hippea	190.00	0.00	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Hippea	241.75	0.50	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Hippea	334.25	1.50	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Hippea	222.25	0.96	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Hippea	732.00	1.15	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Hippea	221.00	0.82	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034776	Hippea	704.50	2.38	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Hippea	327.00	1.15	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035009	Hippea	194.25	1.26	Positive regulator of CheA protein activity (CheW)
+PGF_00035334	Hippea	329.50	1.73	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035346	Hippea	492.00	12.19	Potassium channel protein
+PGF_00035378	Hippea	418.00	0.00	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035721	Hippea	431.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Hippea	421.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035860	Hippea	385.00	0.82	Predicted functional analog of homoserine kinase (EC 2.7.1.-)
+PGF_00036580	Hippea	100.25	0.50	Protein translocase subunit YajC
+PGF_00036988	Hippea	277.00	0.00	Agmatinase (EC 3.5.3.11)
+PGF_00037171	Hippea	408.00	12.08	Probable low-affinity inorganic phosphate transporter
+PGF_00037521	Hippea	296.00	0.00	Proline dehydrogenase (EC 1.5.5.2)
+PGF_00037588	Hippea	577.75	0.50	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037624	Hippea	390.25	0.50	Alcohol dehydrogenase
+PGF_00038674	Hippea	322.00	1.41	Protein translocase subunit SecF
+PGF_00038986	Hippea	269.00	0.82	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039342	Hippea	263.50	1.00	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040578	Hippea	255.25	0.50	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041794	Hippea	233.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00044198	Hippea	245.50	1.00	Putative stomatin/prohibitin-family membrane protease subunit aq_911
+PGF_00045777	Hippea	447.00	1.15	Pyridine nucleotide-disulfide oxidoreductase; NADH dehydrogenase (EC 1.6.99.3)
+PGF_00045900	Hippea	243.00	0.00	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045941	Hippea	688.00	0.00	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045963	Hippea	1143.00	0.00	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00046031	Hippea	114.00	0.00	Pyruvate:ferredoxin oxidoreductase, delta subunit (EC 1.2.7.1)
+PGF_00046034	Hippea	191.00	0.00	Pyruvate:ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.1)
+PGF_00046060	Hippea	211.00	0.00	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Hippea	275.25	0.50	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Hippea	304.75	0.50	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046134	Hippea	564.00	0.00	Quinone-reactive Ni/Fe-hydrogenase large chain (EC 1.12.5.1)
+PGF_00046135	Hippea	395.00	0.00	Quinone-reactive Ni/Fe-hydrogenase small chain (EC 1.12.5.1)
+PGF_00046197	Hippea	236.00	0.00	RNA binding methyltransferase FtsJ like
+PGF_00046403	Hippea	444.25	0.96	RNA polymerase sigma-54 factor RpoN
+PGF_00046849	Hippea	656.25	2.99	Alpha-amylase (EC 3.2.1.1)
+PGF_00047026	Hippea	350.50	1.73	Radical SAM heme biosynthesis protein AhbD, Fe-coproporphyrin III decarboxylase
+PGF_00047078	Hippea	337.75	0.50	RecA protein
+PGF_00048480	Hippea	210.50	1.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Hippea	382.25	2.06	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048627	Hippea	529.75	314.76	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048651	Hippea	144.00	0.00	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Hippea	312.75	0.96	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Hippea	238.00	2.45	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Hippea	198.75	0.50	Ribosomal protein L11 methyltransferase
+PGF_00048846	Hippea	431.00	1.63	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Hippea	170.00	0.00	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Hippea	188.50	0.58	Ribosome recycling factor
+PGF_00048936	Hippea	129.00	5.66	Ribosome-binding factor A
+PGF_00048985	Hippea	218.75	0.50	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Hippea	386.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Hippea	344.50	3.70	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Hippea	240.75	0.50	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Hippea	102.50	0.58	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Hippea	128.25	0.50	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Hippea	124.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Hippea	111.50	15.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Hippea	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Hippea	95.00	12.68	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Hippea	74.50	5.00	SSU ribosomal protein S16p
+PGF_00049854	Hippea	86.25	1.50	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Hippea	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Hippea	208.75	0.96	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Hippea	157.75	0.50	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Hippea	113.50	2.38	SSU ribosomal protein S6p
+PGF_00049904	Hippea	155.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Hippea	131.00	4.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Hippea	129.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050995	Hippea	446.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Hippea	224.00	3.46	Septum site-determining protein MinC
+PGF_00051142	Hippea	248.75	5.38	Septum-associated rare lipoprotein A
+PGF_00051525	Hippea	419.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Hippea	441.00	0.00	Signal recognition particle protein Ffh
+PGF_00052705	Hippea	143.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052714	Hippea	144.00	0.00	Amino acid-binding ACT
+PGF_00053078	Hippea	358.50	1.00	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00053991	Hippea	278.00	1.83	Stage 0 sporulation protein YaaT
+PGF_00054204	Hippea	393.00	0.00	Serine palmitoyltransferase (EC 2.3.1.50)
+PGF_00054480	Hippea	240.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Hippea	401.75	0.96	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055284	Hippea	127.00	0.00	Superoxide reductase (EC 1.15.1.2)
+PGF_00055739	Hippea	444.00	0.00	TRAP dicarboxylate transporter, DctM subunit, unknown substrate 5
+PGF_00056273	Hippea	326.25	5.44	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056543	Hippea	263.00	1.41	Thiazole biosynthetic enzyme Thi4 / Ribose 1,5-bisphosphate or 5-ribose-1,2-cyclic phosphate dehydrogenase
+PGF_00056662	Hippea	331.00	2.00	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Hippea	482.75	11.21	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056935	Hippea	451.00	0.00	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057399	Hippea	215.00	0.82	Transaldolase (EC 2.2.1.2)
+PGF_00057483	Hippea	438.25	5.32	Transcription termination factor Rho
+PGF_00057485	Hippea	358.50	2.65	Transcription termination protein NusA
+PGF_00060409	Hippea	691.00	0.00	Translation elongation factor G
+PGF_00060412	Hippea	671.25	0.96	Elongation factor G-like protein TM_1651
+PGF_00060414	Hippea	599.00	1.15	Translation elongation factor LepA
+PGF_00060421	Hippea	189.75	0.50	Translation elongation factor P
+PGF_00060427	Hippea	198.00	0.00	Translation elongation factor Ts
+PGF_00060431	Hippea	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Hippea	135.50	17.00	Translation initiation factor 3
+PGF_00062019	Hippea	449.75	1.71	Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)
+PGF_00062023	Hippea	233.25	0.50	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Hippea	389.50	5.20	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Hippea	333.50	0.58	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062073	Hippea	320.75	2.06	Tungstate ABC transporter, substrate-binding protein WtpA
+PGF_00063916	Hippea	405.75	0.50	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063944	Hippea	301.00	2.00	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Hippea	344.75	1.50	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Hippea	265.25	0.96	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063987	Hippea	331.50	0.58	UDP-N-acetylglucosamine 4,6-dehydratase (inverting) (EC 4.2.1.115)
+PGF_00063993	Hippea	345.50	0.58	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Hippea	459.50	1.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064393	Hippea	288.50	1.00	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064422	Hippea	482.75	1.50	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00064541	Hippea	624.25	25.59	Uncharacterized ATP-dependent helicase MJ0104
+PGF_00064679	Hippea	404.50	1.91	Uncharacterized ferredoxin oxidoreductase MJ0100
+PGF_00065210	Hippea	224.00	0.00	Uncharacterized protein MJ1295
+PGF_00065351	Hippea	138.50	0.58	UPF0047 protein TM0723
+PGF_00065887	Hippea	234.00	0.82	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066260	Hippea	667.00	1.15	Urocanate hydratase (EC 4.2.1.49)
+PGF_00066270	Hippea	326.00	2.31	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066294	Hippea	285.75	0.50	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Hippea	872.75	0.50	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Hippea	121.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066865	Hippea	392.00	0.00	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066867	Hippea	454.50	12.50	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Hippea	293.75	0.96	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Hippea	340.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067358	Hippea	527.00	0.00	YidE/YbjL duplication
+PGF_00067466	Hippea	595.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Hippea	475.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067771	Hippea	364.25	0.96	[NiFe] hydrogenase metallocenter assembly protein HypD
+PGF_00067772	Hippea	322.25	0.50	[NiFe] hydrogenase metallocenter assembly protein HypE
+PGF_00067788	Hippea	215.50	1.91	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00067791	Hippea	843.75	0.50	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00069854	Hippea	183.75	2.22	class II aldolase/adducin family protein
+PGF_00069892	Hippea	289.00	0.00	cobyrinic acid ac-diamide synthase
+PGF_00070432	Hippea	342.75	1.89	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070995	Hippea	294.00	4.40	Membrane-bound lytic murein transglycosylase B
+PGF_00072001	Hippea	340.75	1.26	group 1 glycosyl transferase
+PGF_00077602	Hippea	195.00	0.00	hypothetical protein
+PGF_00084324	Hippea	253.25	0.50	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00113984	Hippea	183.25	0.50	Flavin prenyltransferase UbiX
+PGF_00138332	Hippea	289.00	0.00	Oxidoreductase, anchor subunit
+PGF_00139520	Hippea	244.50	3.00	hypothetical protein
+PGF_00163643	Hippea	231.25	2.06	hypothetical protein
+PGF_00196563	Hippea	237.25	2.99	hypothetical protein
+PGF_00209388	Hippea	357.50	1.00	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_00217849	Hippea	228.00	38.67	Uncharacterized UPF0721 integral membrane protein
+PGF_00219300	Hippea	370.00	1.41	Hypothetical protein associated with Serine palmitoyltransferase
+PGF_00235586	Hippea	250.25	18.17	hypothetical protein
+PGF_00261173	Hippea	339.00	3.37	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Hippea	203.75	2.63	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00295198	Hippea	123.50	1.00	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00295936	Hippea	247.00	1.41	ABC transporter, ATP-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_00301176	Hippea	159.00	0.82	hypothetical protein
+PGF_00312104	Hippea	273.25	0.96	hypothetical protein
+PGF_00324246	Hippea	323.25	0.96	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3) @ Sirohydrochlorin ferrochelatase activity of CbiK (EC 4.99.1.4)
+PGF_00324476	Hippea	327.25	4.19	Membrane fusion component of MSF-type tripartite multidrug efflux system
+PGF_00340334	Hippea	104.00	0.00	hypothetical protein
+PGF_00350921	Hippea	338.25	1.50	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00356567	Hippea	339.75	1.50	hypothetical protein
+PGF_00400469	Hippea	185.75	2.87	isochorismatase hydrolase
+PGF_00401110	Hippea	424.75	18.12	membrane protein involved in aromatic hydrocarbon degradation
+PGF_00402486	Hippea	455.00	0.82	peptidase M18 aminopeptidase I
+PGF_00404078	Hippea	156.75	1.50	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Hippea	446.75	0.50	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Hippea	326.00	2.31	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00407246	Hippea	398.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00409894	Hippea	90.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.-)
+PGF_00410858	Hippea	291.75	0.96	putative signal transduction protein
+PGF_00411484	Hippea	282.25	0.50	radical activating enzyme
+PGF_00413191	Hippea	261.25	3.59	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase (EC 2.1.1.219)
+PGF_00413203	Hippea	140.25	25.81	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Hippea	223.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413277	Hippea	862.75	5.50	tRNA nucleotidyltransferase, A-adding (EC 2.7.7.72)
+PGF_00413279	Hippea	465.50	1.00	tRNA nucleotidyltransferase, CC-adding (EC 2.7.7.72)
+PGF_00413290	Hippea	150.00	13.04	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Hippea	282.75	1.71	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Hippea	408.00	2.31	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Hippea	628.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413554	Hippea	148.00	0.00	tmRNA-binding protein SmpB
+PGF_00415417	Hippea	338.00	0.00	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+PGF_00415578	Hippea	203.00	0.00	COG2078: Uncharacterized ACR
+PGF_00416115	Hippea	311.00	0.00	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Hippea	547.75	0.96	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Hippea	1066.00	2.83	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416674	Hippea	401.00	0.00	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417433	Hippea	635.50	2.08	Chaperone protein DnaK
+PGF_00417577	Hippea	145.75	2.63	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417580	Hippea	357.75	2.22	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417658	Hippea	355.25	0.50	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417810	Hippea	250.25	0.50	Chorismate dehydratase (EC 4.2.1.151)
+PGF_00417840	Hippea	383.00	0.82	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Hippea	172.25	0.50	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Hippea	240.25	0.96	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418243	Hippea	172.00	0.00	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00418278	Hippea	260.50	1.00	Cobalt-precorrin 5A hydrolase (EC 3.7.1.12)
+PGF_00418285	Hippea	239.50	1.29	Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)
+PGF_00418291	Hippea	250.75	4.19	Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+PGF_00418292	Hippea	323.50	1.91	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418309	Hippea	202.25	2.06	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Hippea	463.25	4.79	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Hippea	438.50	1.29	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419420	Hippea	423.75	0.50	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419900	Hippea	354.50	0.58	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00419913	Hippea	160.75	2.63	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Hippea	264.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Hippea	283.25	1.26	Cysteine synthase (EC 2.5.1.47)
+PGF_00420572	Hippea	437.25	6.24	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420732	Hippea	464.50	0.58	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420798	Hippea	294.50	0.58	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Hippea	322.50	0.58	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421071	Hippea	151.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421502	Hippea	363.50	1.73	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Hippea	561.50	1.00	DNA primase (EC 2.7.7.-)
+PGF_00421733	Hippea	322.00	8.37	DNA recombination and repair protein RecF
+PGF_00421792	Hippea	419.50	9.75	DNA repair protein RadA
+PGF_00422085	Hippea	93.75	0.96	DNA-binding protein SpoVG
+PGF_00422271	Hippea	340.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422446	Hippea	263.00	1.15	DUF124 domain-containing protein
+PGF_00422888	Hippea	544.00	0.00	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00423089	Hippea	367.50	5.20	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Hippea	277.00	0.00	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Hippea	400.75	3.59	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423378	Hippea	425.50	0.58	Dihydroorotase (EC 3.5.2.3)
+PGF_00423449	Hippea	278.25	0.50	1,4-dihydroxy-6-naphtoate synthase
+PGF_00423472	Hippea	720.75	23.80	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Hippea	281.25	3.20	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424337	Hippea	281.50	2.38	Endonuclease IV (EC 3.1.21.2)
+PGF_00424338	Hippea	220.75	1.50	Endonuclease V (EC 3.1.21.7)
+PGF_00424447	Hippea	336.00	2.83	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424971	Hippea	600.00	0.82	Excinuclease ABC subunit C
+PGF_00425011	Hippea	257.00	0.82	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Hippea	482.00	12.00	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Hippea	238.25	2.63	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Hippea	283.75	1.26	RNase adapter protein RapZ
+PGF_00425786	Hippea	520.00	0.00	Ribonuclease Y
+PGF_00425993	Hippea	382.00	2.31	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Hippea	317.50	1.00	FIG004453: protein YceG like
+PGF_00426115	Hippea	623.75	3.59	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Hippea	356.75	0.50	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426722	Hippea	806.00	0.00	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Hippea	152.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00482828	Hippea	451.00	1.15	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00503288	Hippea	734.00	0.82	[NiFe] hydrogenase metallocenter assembly protein HypF
+PGF_00510935	Hippea	91.00	0.00	DNA-binding protein HU
+PGF_00529632	Hippea	868.00	0.00	ClpB protein
+PGF_00549302	Hippea	413.00	1.63	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00580333	Hippea	379.75	0.96	Lipopolysaccharide assembly protein LapB
+PGF_00582270	Hippea	464.25	2.06	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00616490	Hippea	215.75	4.86	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Hippea	344.00	4.00	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Hippea	239.00	0.00	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00626415	Hippea	164.00	2.00	Hydrogenase maturation protease
+PGF_00639841	Hippea	517.75	0.50	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Hippea	300.50	8.39	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00650839	Hippea	261.50	1.29	ABC transporter, permease protein
+PGF_00651155	Hippea	255.00	0.00	ABC transporter, permease protein
+PGF_00655358	Hippea	463.75	6.08	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Hippea	505.25	0.50	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Hippea	195.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662997	Hippea	231.00	5.72	Cobalamin synthase (EC 2.7.8.26)
+PGF_00665156	Hippea	361.50	4.80	Uncharacterized DUF763 protein AF1496
+PGF_00665875	Hippea	106.00	0.82	Ribosomal silencing factor RsfA
+PGF_00669002	Hippea	178.25	7.50	Transcriptional regulator, MerR family
+PGF_00672760	Hippea	578.50	0.58	Lipid A export permease/ATP-binding protein MsbA
+PGF_00681568	Hippea	377.00	2.16	Uncharacterized MFS-type transporter
+PGF_00717495	Hippea	434.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Hippea	325.50	0.58	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Hippea	699.25	2.99	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Hippea	720.50	2.08	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00750606	Hippea	922.25	6.18	hypothetical protein
+PGF_00757044	Hippea	67.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_00777371	Hippea	239.25	1.26	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00827555	Hippea	413.50	6.66	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00845324	Hippea	637.00	10.10	TonB-dependent receptor
+PGF_00853393	Hippea	295.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00885329	Hippea	327.50	1.00	Flagellar motor switch protein FliM
+PGF_00900256	Hippea	451.75	5.85	Threonine synthase (EC 4.2.3.1)
+PGF_00906931	Hippea	312.00	6.16	Formiminoglutamase (EC 3.5.3.8)
+PGF_00908360	Hippea	254.25	0.50	Phospholipid ABC transporter permease protein MlaE
+PGF_00909459	Hippea	193.25	1.71	Flagellar basal body-associated protein FliL
+PGF_00912265	Hippea	311.75	5.74	tRNA-dihydrouridine synthase DusB
+PGF_00915306	Hippea	401.75	4.35	Uncharacterized MFS-type transporter
+PGF_00917135	Hippea	698.25	1.89	hypothetical protein
+PGF_00926109	Hippea	541.00	2.31	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00929547	Hippea	246.00	17.30	Rod shape-determining protein MreC
+PGF_00935629	Hippea	783.00	1.83	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_00947647	Hippea	187.50	1.00	Fumarate hydratase class I, beta region (EC 4.2.1.2); L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)
+PGF_00950554	Hippea	660.25	0.50	Excinuclease ABC subunit B
+PGF_00955412	Hippea	252.00	4.24	Probable iron export permease protein FetB
+PGF_00957419	Hippea	135.00	1.15	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Hippea	318.75	1.89	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00976523	Hippea	132.25	1.26	hypothetical protein
+PGF_01010490	Hippea	343.75	0.96	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_01040342	Hippea	285.25	0.96	Spermidine synthase (EC 2.5.1.16)
+PGF_01048728	Hippea	153.25	2.06	Acetyltransferase, GNAT family
+PGF_01065911	Hippea	217.00	0.00	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01068086	Hippea	261.00	2.00	Flagellar biosynthesis protein FliR
+PGF_01075854	Hippea	207.75	19.94	FIG056164: rhomboid family serine protease
+PGF_01076590	Hippea	191.25	0.96	MotA/TolQ/ExbB proton channel family protein
+PGF_01079016	Hippea	269.00	0.82	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Hippea	747.00	0.82	Outer membrane protein assembly factor YaeT
+PGF_01101526	Hippea	360.25	1.50	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01126005	Hippea	357.75	7.18	Rod shape-determining protein RodA
+PGF_01137150	Hippea	226.50	0.58	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01149804	Hippea	457.75	1.50	Flagellar cap protein FliD
+PGF_01162681	Hippea	663.00	0.00	Aconitate hydratase (EC 4.2.1.3)
+PGF_01169833	Hippea	397.50	1.73	Flagellar biosynthesis protein FlhF
+PGF_01172485	Hippea	418.50	1.00	Cell division protein FtsA
+PGF_01175575	Hippea	620.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01207640	Hippea	118.75	0.50	Response regulator receiver protein
+PGF_01212739	Hippea	545.50	1.00	Heat shock protein 60 family chaperone GroEL
+PGF_01217629	Hippea	128.00	2.00	Biopolymer transport protein ExbD/TolR
+PGF_01218448	Hippea	250.25	16.94	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01234013	Hippea	333.50	1.00	YgfD: protein that forms a complex with the methylmalonyl-CoA mutase in a pathway for conversion of succinyl-CoA to propionyl-CoA
+PGF_01284176	Hippea	168.25	0.50	Rubrerythrin
+PGF_01291803	Hippea	301.50	3.32	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Hippea	199.00	0.00	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Hippea	248.50	1.00	Chromosome (plasmid) partitioning protein ParA
+PGF_01323228	Hippea	194.25	0.50	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01351158	Hippea	1036.25	5.32	Transcription-repair coupling factor
+PGF_01420802	Hippea	147.00	0.00	Cell division protein MraZ
+PGF_01421534	Hippea	196.00	0.82	LSU ribosomal protein L25p
+PGF_01421572	Hippea	208.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01421686	Hippea	471.00	0.82	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit B
+PGF_01423501	Hippea	156.00	0.00	Transcription elongation factor GreA
+PGF_01444546	Hippea	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01454630	Hippea	1026.00	5.23	RND multidrug efflux transporter; Acriflavin resistance protein
+PGF_01480798	Hippea	280.00	0.00	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit A
+PGF_01489422	Hippea	382.75	2.36	Bacillosamine/Legionaminic acid biosynthesis aminotransferase PglE; 4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
+PGF_01496598	Hippea	318.50	0.58	Chemotaxis protein CheV (EC 2.7.3.-)
+PGF_01506466	Hippea	268.50	3.00	Short-chain dehydrogenase/reductase SDR?
+PGF_01512690	Hippea	273.00	0.00	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01513923	Hippea	243.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01514111	Hippea	330.00	0.00	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01555804	Hippea	132.25	0.50	Flagellar basal-body rod protein FlgB
+PGF_01602421	Hippea	224.75	1.50	Flagellar basal-body rod modification protein FlgD
+PGF_01625234	Hippea	305.00	0.00	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01682537	Hippea	109.00	1.63	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01734668	Hippea	213.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01760626	Hippea	1159.75	87.72	Type IV fimbrial biogenesis protein PilY1
+PGF_01760799	Hippea	711.25	11.44	Type IV pilus biogenesis protein PilQ
+PGF_01767297	Hippea	326.75	13.74	Uncharacterized UPF0118 membrane protein
+PGF_01769256	Hippea	121.25	5.50	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+PGF_01771963	Hippea	365.00	30.02	RNA-2',3'-PO4:RNA-5'-OH ligase
+PGF_01777142	Hippea	209.00	0.00	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Hippea	551.00	0.00	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01888177	Hippea	151.00	3.46	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898454	Hippea	210.00	0.00	type 11 methyltransferase
+PGF_01898455	Hippea	315.75	0.50	type 11 methyltransferase
+PGF_01898456	Hippea	184.75	1.89	type IV pilus assembly PilZ
+PGF_01898459	Hippea	514.00	0.82	hypothetical protein
+PGF_01898461	Hippea	155.75	1.50	hypothetical protein
+PGF_01898462	Hippea	306.75	3.30	hypothetical protein
+PGF_01898464	Hippea	167.00	0.00	Biotin carboxyl carrier protein => methylmalonyl-CoA decarboxylase; Biotin carboxyl carrier protein
+PGF_01898465	Hippea	433.50	1.00	CBS-domain-containing protein
+PGF_01898466	Hippea	174.25	12.95	CMP/dCMP deaminase zinc-binding protein
+PGF_01898467	Hippea	386.75	67.02	Cl- channel voltage-gated family protein
+PGF_01898468	Hippea	93.75	1.26	Flagellar motor switch protein FliN
+PGF_01898516	Hippea	188.25	3.59	hypothetical protein
+PGF_01898543	Hippea	347.75	0.50	peptidase M24
+PGF_01898546	Hippea	439.75	0.50	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01898580	Hippea	60.75	0.50	4Fe-4S ferredoxin iron-sulfur-binding domain-containing protein
+PGF_01898735	Hippea	346.25	3.50	AFG1-family ATPase
+PGF_01898775	Hippea	178.00	0.82	Ketoisovalerate oxidoreductase subunit VorG (EC 1.2.7.7)
+PGF_01898995	Hippea	682.25	2.06	Lactate utilization protein B/C
+PGF_01899042	Hippea	341.25	1.89	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01899091	Hippea	180.25	0.50	Glycine cleavage system transcriptional antiactivator GcvR
+PGF_01899270	Hippea	513.50	0.58	Glycosyl transferase, family 39
+PGF_01899395	Hippea	231.00	0.00	Flagellar L-ring protein FlgH
+PGF_01899547	Hippea	326.00	1.41	TRAP transporter solute receptor
+PGF_01899637	Hippea	138.75	0.50	Fur family ferric uptake regulator
+PGF_01899806	Hippea	224.00	0.00	Cytochrome c biogenesis protein, transmembrane region
+PGF_01899896	Hippea	262.75	0.96	Inositol-phosphate phosphatase
+PGF_01899897	Hippea	647.25	19.36	hypothetical protein
+PGF_01899898	Hippea	253.75	1.50	Fe(3+)-transporting ATPase
+PGF_01899899	Hippea	419.00	0.00	Ferredoxin--NAD(+) reductase
+PGF_01899900	Hippea	167.00	0.00	Ferroxidase
+PGF_01899901	Hippea	406.00	1.41	Fibronectin type III domain-containing protein
+PGF_01899904	Hippea	152.75	1.50	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)
+PGF_01899906	Hippea	302.00	11.49	Mannosyl-glycoprotein endo-beta-N-acetylglucosamidase
+PGF_01899908	Hippea	171.25	4.92	4-vinyl reductase 4VR
+PGF_01899910	Hippea	564.75	1.89	Cl- channel voltage-gated family protein
+PGF_01899911	Hippea	180.00	0.00	Cupin 2 barrel domain-containing protein
+PGF_01899912	Hippea	212.25	2.50	DNA-(apurinic or apyrimidinic site) lyase
+PGF_01899913	Hippea	319.00	0.82	Metal-dependent phosphohydrolase
+PGF_01899914	Hippea	286.25	0.50	Metal-dependent phosphohydrolase
+PGF_01899915	Hippea	183.00	0.00	Metal-dependent phosphohydrolase
+PGF_01899916	Hippea	218.25	18.75	Metallophosphoesterase
+PGF_01899917	Hippea	502.50	2.38	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_01899921	Hippea	255.00	0.00	NGG1p interacting factor 3 protein, NIF3
+PGF_01899922	Hippea	138.00	0.00	NIL domain-containing protein
+PGF_01899923	Hippea	134.00	1.41	NusB antitermination factor
+PGF_01899924	Hippea	287.25	0.50	Flagellar motor rotation protein MotB
+PGF_01899926	Hippea	368.25	0.50	PAS/PAC sensor signal transduction histidine kinase
+PGF_01899927	Hippea	129.50	1.73	PadR-like family transcriptional regulator
+PGF_01899928	Hippea	383.00	2.94	Murein hydrolase activator EnvC
+PGF_01899929	Hippea	456.00	0.00	Peptidase M23
+PGF_01899930	Hippea	227.25	0.50	PilZ domain-containing protein associated with flagellar synthesis TM0905
+PGF_01899931	Hippea	630.00	1.41	PpiC-type peptidyl-prolyl cis-trans isomerase
+PGF_01899934	Hippea	313.25	2.06	Radical SAM domain-containing protein
+PGF_01899935	Hippea	242.50	23.00	Ribonuclease BN?
+PGF_01899936	Hippea	120.00	0.00	Roadblock/LC7 family protein
+PGF_01899941	Hippea	752.00	0.82	Smr protein/MutS2
+PGF_01899942	Hippea	264.25	1.26	Sporulation domain-containing protein
+PGF_01899943	Hippea	367.00	0.82	Sulphatase-modifying factor protein
+PGF_01899946	Hippea	543.00	0.00	Uncharacterized ABC1 family protein
+PGF_01899947	Hippea	266.00	0.82	UspA domain-containing protein
+PGF_01899948	Hippea	147.25	0.50	UspA domain-containing protein
+PGF_01899949	Hippea	421.25	0.50	WD40-like beta Propeller containing protein
+PGF_01899951	Hippea	109.00	0.00	Zinc finger protein
+PGF_01899952	Hippea	148.00	0.00	amino acid-binding ACT domain-containing protein
+PGF_01899954	Hippea	540.50	87.07	beta-lactamase domain-containing protein
+PGF_01899955	Hippea	277.00	0.00	beta-lactamase domain-containing protein
+PGF_01899956	Hippea	274.50	0.58	beta-lactamase domain-containing protein
+PGF_01899957	Hippea	260.50	0.58	beta-lactamase domain-containing protein
+PGF_01899958	Hippea	255.75	0.50	beta-lactamase domain-containing protein
+PGF_01899960	Hippea	357.75	0.50	hypothetical protein
+PGF_01899961	Hippea	409.50	1.00	hypothetical protein
+PGF_01899962	Hippea	202.25	2.06	Anaerobic respiratory reductase chaperone
+PGF_01899963	Hippea	280.75	1.71	diacylglycerol kinase catalytic region
+PGF_01899967	Hippea	103.00	0.00	FlgC-like protein
+PGF_01899968	Hippea	264.00	0.00	hypothetical protein
+PGF_01899970	Hippea	596.75	2.99	flagellin domain-containing protein
+PGF_01899971	Hippea	223.50	3.00	formylmethanofuran dehydrogenase subunit E region
+PGF_01899972	Hippea	203.50	0.58	fumarylacetoacetate (FAA) hydrolase
+PGF_01899973	Hippea	85.75	0.50	glutaredoxin-like protein, YruB-family
+PGF_01899974	Hippea	346.50	1.00	group 1 glycosyl transferase
+PGF_01899975	Hippea	335.50	0.58	heat-inducible transcription repressor HrcA
+PGF_01899976	Hippea	395.75	2.50	histidine kinase HAMP region domain-containing protein
+PGF_01899979	Hippea	270.00	12.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_01899980	Hippea	246.00	1.15	hypothetical protein
+PGF_01899981	Hippea	180.00	0.00	hypothetical protein
+PGF_01899982	Hippea	101.75	0.50	hypothetical protein
+PGF_01899983	Hippea	182.50	2.38	hypothetical protein
+PGF_01899984	Hippea	350.75	68.16	hypothetical protein
+PGF_01899986	Hippea	96.00	0.00	hypothetical protein
+PGF_01899989	Hippea	192.00	3.16	hypothetical protein
+PGF_01899990	Hippea	267.00	0.00	hypothetical protein
+PGF_01899992	Hippea	595.50	4.04	hypothetical protein
+PGF_01899993	Hippea	184.50	0.58	hypothetical protein
+PGF_01899994	Hippea	147.75	1.26	hypothetical protein
+PGF_01899995	Hippea	102.25	11.50	hypothetical protein
+PGF_01899996	Hippea	239.50	1.91	hypothetical protein
+PGF_01899997	Hippea	100.25	7.18	hypothetical protein
+PGF_01899998	Hippea	125.50	3.32	hypothetical protein
+PGF_01899999	Hippea	402.25	0.50	hypothetical protein
+PGF_01900000	Hippea	422.25	4.86	hypothetical protein
+PGF_01900001	Hippea	351.50	0.58	hypothetical protein
+PGF_01900002	Hippea	105.00	0.00	hypothetical protein
+PGF_01900003	Hippea	296.00	0.00	hypothetical protein
+PGF_01900004	Hippea	275.50	0.58	hypothetical protein
+PGF_01900005	Hippea	168.75	1.26	hypothetical protein
+PGF_01900006	Hippea	103.50	0.58	hypothetical protein
+PGF_01900007	Hippea	221.75	0.50	hypothetical protein
+PGF_01900008	Hippea	287.00	3.46	hypothetical protein
+PGF_01900009	Hippea	395.75	1.26	hypothetical protein
+PGF_01900011	Hippea	342.25	0.50	hypothetical protein
+PGF_01900012	Hippea	106.50	4.93	hypothetical protein
+PGF_01900013	Hippea	285.50	18.08	hypothetical protein
+PGF_01900014	Hippea	983.50	49.75	hypothetical protein
+PGF_01900015	Hippea	93.00	0.00	hypothetical protein
+PGF_01900016	Hippea	92.00	0.00	hypothetical protein
+PGF_01900017	Hippea	627.25	1.71	hypothetical protein
+PGF_01900018	Hippea	743.00	2.71	hypothetical protein
+PGF_01900019	Hippea	392.75	9.88	hypothetical protein
+PGF_01900020	Hippea	95.50	0.58	hypothetical protein
+PGF_01900021	Hippea	443.75	0.50	hypothetical protein
+PGF_01900022	Hippea	417.75	4.50	hypothetical protein
+PGF_01900023	Hippea	113.75	2.06	hypothetical protein
+PGF_01900026	Hippea	178.75	1.26	hypothetical protein
+PGF_01900027	Hippea	187.50	9.95	hypothetical protein
+PGF_01900028	Hippea	84.50	0.58	hypothetical protein
+PGF_01900029	Hippea	97.00	0.00	hypothetical protein
+PGF_01900033	Hippea	88.25	0.50	hypothetical protein
+PGF_01900034	Hippea	371.75	1.26	hypothetical protein
+PGF_01900035	Hippea	422.00	7.79	hypothetical protein
+PGF_01900036	Hippea	265.00	2.31	hypothetical protein
+PGF_01900037	Hippea	51.50	0.58	hypothetical protein
+PGF_01900038	Hippea	542.75	8.77	hypothetical protein
+PGF_01900040	Hippea	292.75	1.26	hypothetical protein
+PGF_01900042	Hippea	122.25	0.96	hypothetical protein
+PGF_01900043	Hippea	143.25	0.50	hypothetical protein
+PGF_01900045	Hippea	116.75	2.06	hypothetical protein
+PGF_01900046	Hippea	147.75	0.50	hypothetical protein
+PGF_01900047	Hippea	147.50	1.00	hypothetical protein
+PGF_01900048	Hippea	182.75	2.06	hypothetical protein
+PGF_01900049	Hippea	167.75	7.32	hypothetical protein
+PGF_01900050	Hippea	175.50	1.73	hypothetical protein
+PGF_01900051	Hippea	255.25	75.59	hypothetical protein
+PGF_01900052	Hippea	239.00	1.63	hypothetical protein
+PGF_01900053	Hippea	221.25	0.50	hypothetical protein
+PGF_01900055	Hippea	140.75	4.27	hypothetical protein
+PGF_01900056	Hippea	172.75	0.50	hypothetical protein
+PGF_01900058	Hippea	206.00	0.00	hypothetical protein
+PGF_01900059	Hippea	240.00	1.63	hypothetical protein
+PGF_01900060	Hippea	124.25	2.50	hypothetical protein
+PGF_01900062	Hippea	292.25	0.96	hypothetical protein
+PGF_01900063	Hippea	237.25	13.52	hypothetical protein
+PGF_01900064	Hippea	233.25	18.87	hypothetical protein
+PGF_01900065	Hippea	127.00	0.82	hypothetical protein
+PGF_01900066	Hippea	276.50	22.34	hypothetical protein
+PGF_01900067	Hippea	248.25	2.87	hypothetical protein
+PGF_01900069	Hippea	376.75	64.40	integral membrane sensor signal transduction histidine kinase
+PGF_01900070	Hippea	171.00	0.00	isochorismatase hydrolase
+PGF_01900071	Hippea	272.25	0.96	lipid A biosynthesis acyltransferase
+PGF_01900072	Hippea	257.75	3.20	lytic transglycosylase catalytic subunit
+PGF_01900075	Hippea	701.25	0.50	metal dependent phosphohydrolase with GAF sensor
+PGF_01900076	Hippea	280.25	0.96	Methyl-accepting chemotaxis sensor/transducer protein
+PGF_01900077	Hippea	259.50	1.73	nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+PGF_01900078	Hippea	253.00	5.42	outer membrane assembly lipoprotein YfiO
+PGF_01900080	Hippea	601.75	4.35	penicillin-binding protein 2
+PGF_01900081	Hippea	443.50	1.73	peptidase M16 domain-containing protein
+PGF_01900082	Hippea	445.75	0.50	peptidase M16 domain-containing protein
+PGF_01900083	Hippea	322.00	0.82	peptidoglycan-binding lysin domain-containing protein
+PGF_01900084	Hippea	153.25	0.50	phosphatidylglycerophosphatase A
+PGF_01900085	Hippea	157.00	0.00	phosphodiesterase
+PGF_01900086	Hippea	282.75	2.06	phosphoesterase PA-phosphatase-like protein
+PGF_01900088	Hippea	171.00	0.00	phosphoribosyltransferase
+PGF_01900091	Hippea	204.75	0.50	pyrimidine 5'-nucleotidase
+PGF_01900093	Hippea	111.00	0.00	resolvase domain-containing protein
+PGF_01900094	Hippea	428.50	0.58	response regulator receiver modulated diguanylate cyclase
+PGF_01900095	Hippea	85.75	3.20	sec-independent translocation protein mttA/Hcf106
+PGF_01900096	Hippea	181.00	0.82	small GTP-binding protein
+PGF_01900097	Hippea	399.00	0.00	sodium/hydrogen exchanger
+PGF_01900098	Hippea	92.75	27.39	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_01900530	Hippea	221.25	6.08	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01925023	Hippea	380.00	1.63	ABC transporter, substrate-binding protein (cluster 4, leucine/isoleucine/valine/benzoate)
+PGF_01960322	Hippea	602.50	1.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01984533	Hippea	77.00	0.00	UPF0296 protein YlzA
+PGF_01994657	Hippea	444.50	4.04	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Hippea	251.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Hippea	341.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Hippea	271.75	14.03	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Hippea	321.50	1.73	GTP-binding protein Obg
+PGF_02061452	Hippea	371.50	1.91	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02098099	Hippea	513.50	4.36	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02109968	Hippea	342.75	0.96	Flagellar motor switch protein FliG
+PGF_02111888	Hippea	276.25	0.96	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Hippea	409.50	1.73	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Hippea	352.50	1.00	Flagellar biosynthesis protein FlhB
+PGF_02189378	Hippea	374.50	0.58	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02204315	Hippea	462.75	51.98	NLP/P60 protein
+PGF_02226715	Hippea	716.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227569	Hippea	94.00	0.00	Ferredoxin-like protein, FixX family
+PGF_02244871	Hippea	336.00	4.08	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02254418	Hippea	363.50	0.58	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57) @ Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_02264896	Hippea	181.00	0.00	UPF0189 protein SSO2899
+PGF_02282871	Hippea	278.00	0.00	MinD superfamily P-loop ATPase containing an inserted ferredoxin domain
+PGF_02297251	Hippea	214.75	0.50	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02330496	Hippea	199.75	0.96	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Hippea	308.75	0.50	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Hippea	861.25	1.50	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Hippea	372.00	1.41	Alanine racemase (EC 5.1.1.1)
+PGF_02358818	Hippea	366.25	47.51	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_02369559	Hippea	801.50	2.38	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Hippea	300.75	13.18	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02450432	Hippea	259.75	0.50	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Hippea	96.25	4.79	SSU ribosomal protein S20p
+PGF_02463284	Hippea	172.00	53.37	Recombination protein RecR
+PGF_02504770	Hippea	304.25	20.97	ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)
+PGF_02515882	Hippea	407.50	0.58	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Hippea	418.25	1.26	Enolase (EC 4.2.1.11)
+PGF_02537450	Hippea	461.25	1.71	HtrA protease/chaperone protein
+PGF_02593689	Hippea	435.25	0.50	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Hippea	454.25	14.29	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Hippea	306.00	2.83	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Hippea	1519.50	1.91	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Hippea	79.00	42.72	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02737642	Hippea	274.75	0.50	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02744871	Hippea	98.50	0.58	Flagellar hook-basal body complex protein FliE
+PGF_02789532	Hippea	266.25	0.50	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Hippea	164.75	0.50	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02797400	Hippea	474.50	0.58	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Hippea	1352.50	8.19	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Hippea	481.00	3.56	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02818638	Hippea	421.25	1.26	Hemolysins and related proteins containing CBS domains
+PGF_02827614	Hippea	124.25	0.96	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02844091	Hippea	267.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Hippea	399.75	1.26	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02873723	Hippea	467.50	1.00	Ribonuclease G
+PGF_02877184	Hippea	367.50	1.29	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Hippea	360.25	0.50	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02895613	Hippea	434.00	2.31	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02912272	Hippea	138.50	1.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02918148	Hippea	404.75	5.74	peptidase, U32 family large subunit [C1]
+PGF_02919689	Hippea	245.00	0.00	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Hippea	237.25	0.50	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Hippea	320.75	0.50	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Hippea	292.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02946231	Hippea	516.75	0.50	SSU ribosomal protein S1p
+PGF_02950579	Hippea	264.75	0.50	Septum site-determining protein MinD
+PGF_02956462	Hippea	125.50	6.35	RidA/YER057c/UK114 superfamily protein
+PGF_02960761	Hippea	319.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_02964466	Hippea	373.25	9.50	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)
+PGF_02992495	Hippea	106.50	2.38	Protein translocase membrane subunit SecG
+PGF_02995302	Hippea	223.75	0.50	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_03011171	Hippea	81.00	1.41	hydrogenase assembly chaperone hypC/hupF
+PGF_03017775	Hippea	500.00	3.46	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Hippea	179.00	2.31	Septum formation protein Maf
+PGF_03023740	Hippea	90.75	2.22	acylphosphatase
+PGF_03025044	Hippea	179.75	5.12	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03029062	Hippea	306.75	1.26	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03054699	Hippea	713.25	4.50	DNA translocase FtsK
+PGF_03055832	Hippea	284.75	19.19	DUF89 protein CxxC subfamily
+PGF_03066520	Hippea	410.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03070510	Hippea	284.75	1.26	Flagellar synthesis regulator FleN
+PGF_03073470	Hippea	555.00	0.00	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03104567	Hippea	445.50	2.38	Trk potassium uptake system protein TrkA
+PGF_03107265	Hippea	514.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03110657	Hippea	745.50	7.77	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03117982	Hippea	60.50	0.58	Protein translocase subunit SecE
+PGF_03124650	Hippea	471.75	0.50	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03126423	Hippea	403.75	0.50	Predicted signal transduction protein
+PGF_03132168	Hippea	340.00	3.37	Polysaccharide deacetylase
+PGF_03132336	Hippea	417.25	0.96	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Hippea	899.75	2.36	Flagellar hook-associated protein FlgL
+PGF_03146406	Hippea	603.75	0.50	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Hippea	253.50	13.18	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Hippea	179.00	0.00	Transcription antitermination protein NusG
+PGF_03197417	Hippea	190.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)
+PGF_03272313	Hippea	812.00	0.82	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03287477	Hippea	199.25	6.70	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03291914	Hippea	133.25	0.50	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03318456	Hippea	473.25	10.18	Trk potassium uptake system protein TrkH
+PGF_03440867	Hippea	129.00	0.00	UPF0047 protein Bsu YugU
+PGF_03474542	Hippea	434.00	0.00	Flagellum-specific ATP synthase FliI
+PGF_03518570	Hippea	138.75	1.50	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Hippea	376.75	1.26	Cell division protein FtsZ
+PGF_03558774	Hippea	281.75	1.50	Peptidase M48, Ste24p precursor
+PGF_03609651	Hippea	621.25	1.26	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03683423	Hippea	440.25	47.95	ABC transporter, substrate-binding protein (cluster 9, phospholipid)
+PGF_03683488	Hippea	184.50	1.00	2'-5' RNA ligase
+PGF_03719269	Hippea	203.00	1.41	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Hippea	138.50	1.29	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750571	Hippea	417.00	0.00	Chromosomal replication initiator protein DnaA
+PGF_03750600	Hippea	164.00	0.00	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Hippea	74.00	23.02	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Hippea	190.50	5.92	Heat shock protein GrpE
+PGF_03755230	Hippea	397.25	0.96	FIG007959: peptidase, M16 family
+PGF_03757137	Hippea	609.50	4.65	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Hippea	303.00	0.00	Signal recognition particle receptor FtsY
+PGF_03790040	Hippea	224.00	0.82	Ribonuclease III (EC 3.1.26.3)
+PGF_03797303	Hippea	537.25	2.36	Adenine deaminase (EC 3.5.4.2)
+PGF_03801201	Hippea	267.00	0.00	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Hippea	63.25	12.87	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03803849	Hippea	111.00	0.00	Histidine triad (HIT) protein
+PGF_03954476	Hippea	252.25	3.77	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03977347	Hippea	315.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_03991729	Hippea	389.25	0.96	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04010672	Hippea	354.25	1.50	ABC transporter, permease protein 1 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04016408	Hippea	423.50	2.65	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04034430	Hippea	66.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Hippea	76.00	0.00	KH domain RNA binding protein YlqC
+PGF_04041316	Hippea	932.00	1.41	Excinuclease ABC subunit A
+PGF_04047265	Hippea	75.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04055837	Hippea	310.25	0.50	ABC transporter, permease protein 2 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04108824	Hippea	565.50	1.00	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Hippea	245.25	6.24	Twin-arginine translocation protein TatC
+PGF_04139721	Hippea	256.75	0.50	Enoyl-CoA hydratase (EC 4.2.1.17)
+PGF_04163139	Hippea	203.25	24.46	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Hippea	206.75	0.96	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Hippea	252.00	0.00	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04240096	Hippea	790.75	3.95	Signal transduction histidine kinase CheA
+PGF_04306800	Hippea	369.75	0.50	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04345693	Hippea	451.00	1.41	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Hippea	802.00	0.82	Protein translocase subunit SecA
+PGF_04380075	Hippea	146.50	13.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04384318	Hippea	184.50	1.00	Gpr1/Fun34/YaaH family protein
+PGF_04395505	Hippea	362.00	0.00	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04457297	Hippea	179.75	2.22	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Hippea	318.25	0.50	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04487934	Hippea	315.50	3.00	Glycosyl transferase, family 2
+PGF_04505269	Hippea	257.00	0.82	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Hippea	346.75	0.50	Rod shape-determining protein MreB
+PGF_04521913	Hippea	429.50	0.58	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Hippea	455.25	4.92	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Hippea	502.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Hippea	176.00	0.00	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Hippea	244.00	0.82	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04639167	Hippea	523.25	0.50	N-methylhydantoinase B (EC 3.5.2.14)
+PGF_04660832	Hippea	164.25	0.50	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Hippea	786.75	0.50	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Hippea	270.25	0.96	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Hippea	710.50	2.65	Translation initiation factor 2
+PGF_04757308	Hippea	632.00	0.00	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Hippea	191.25	1.50	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Hippea	303.25	0.50	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Hippea	118.00	0.00	LSU ribosomal protein L19p
+PGF_04862398	Hippea	517.75	0.96	Propionyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.3)
+PGF_04916441	Hippea	660.00	2.31	N-methylhydantoinase A (EC 3.5.2.14)
+PGF_04958295	Hippea	129.75	2.87	Flagellar biosynthesis protein FliS
+PGF_04960746	Hippea	209.00	0.00	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Hippea	688.00	1.41	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Hippea	99.00	0.00	LSU ribosomal protein L21p
+PGF_05111929	Hippea	569.00	0.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Hippea	858.00	47.36	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Hippea	816.50	2.89	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Hippea	308.00	0.82	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Hippea	467.75	0.50	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05280843	Hippea	421.75	1.26	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Hippea	649.00	2.00	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05304567	Hippea	300.25	2.22	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+PGF_05364204	Hippea	207.75	0.50	FIG004556: membrane metalloprotease
+PGF_05439724	Hippea	667.00	0.00	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Hippea	441.75	0.50	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05463808	Hippea	298.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Hippea	306.75	0.50	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05560886	Hippea	273.25	0.50	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Hippea	432.00	0.00	Protein translocase subunit SecY
+PGF_05598173	Hippea	373.25	1.50	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Hippea	412.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05641506	Hippea	458.25	1.26	Hydrogenase-4 component F
+PGF_05643076	Hippea	260.75	3.30	ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)
+PGF_05712128	Hippea	516.50	4.04	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05729472	Hippea	1583.75	0.50	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05949521	Hippea	533.75	0.50	Protein translocase subunit SecD
+PGF_05971611	Hippea	401.00	0.82	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05999853	Hippea	353.75	7.32	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06051345	Hippea	724.75	0.50	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06137558	Hippea	332.25	0.50	TRAP-type C4-dicarboxylate transport system, periplasmic component
+PGF_06170558	Hippea	217.50	2.38	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Hippea	142.50	0.58	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Hippea	251.50	0.58	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Hippea	510.25	0.50	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Hippea	87.25	0.96	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Hippea	333.25	0.50	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Hippea	417.75	0.96	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Hippea	328.00	0.00	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06326847	Hippea	249.00	0.82	Flagellar biosynthesis protein FliP
+PGF_06379377	Hippea	370.50	1.00	Replication-associated recombination protein RarA
+PGF_06403579	Hippea	786.75	0.50	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06447349	Hippea	766.25	0.50	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06469881	Hippea	305.25	1.71	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06513690	Hippea	805.50	0.58	Pyruvate formate-lyase (EC 2.3.1.54)
+PGF_06609275	Hippea	49.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06644010	Hippea	297.75	1.89	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06646425	Hippea	435.75	13.18	MATE efflux family protein
+PGF_06648993	Hippea	78.00	0.00	Acyl carrier protein
+PGF_06660812	Hippea	163.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06683449	Hippea	320.75	1.89	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06693963	Hippea	109.25	0.50	Nucleoid-associated protein YaaK
+PGF_06735060	Hippea	667.75	0.96	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06750600	Hippea	341.75	0.50	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06757295	Hippea	503.00	0.00	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06767187	Hippea	321.50	25.00	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06801024	Hippea	317.00	2.83	Radical SAM domain protein
+PGF_06859510	Hippea	227.50	1.91	Quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+PGF_06889881	Hippea	281.00	0.00	Flagellar motor rotation protein MotA
+PGF_06910670	Hippea	433.00	0.00	Electron transfer flavoprotein-quinone oxidoreductase
+PGF_07101513	Hippea	327.50	3.11	Flagellar motor switch protein FliN
+PGF_07146095	Hippea	162.00	0.00	Chemotaxis protein CheX
+PGF_07263029	Hippea	352.00	15.87	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07376672	Hippea	578.00	1.15	Isoniazid inductible protein IniA, dynamin-like protein
+PGF_07391036	Hippea	211.00	0.00	Hydrogenase-4 component E
+PGF_07558175	Hippea	168.00	2.83	Lipopolysaccharide export system protein LptA
+PGF_07618251	Hippea	256.00	0.00	Serine 3-dehydrogenase
+PGF_07628400	Hippea	249.25	4.50	ABC transporter, permease protein 1 (cluster 4, leucine/isoleucine/valine/benzoate)
+PGF_07666388	Hippea	316.75	2.22	Diguanylate cyclase
+PGF_07670520	Hippea	398.00	0.00	Uncharacterized MFS-type transporter
+PGF_07748899	Hippea	114.00	0.00	RNA polymerase-binding transcription factor DksA
+PGF_07751556	Hippea	329.50	9.68	Two-component transcriptional response regulator, LuxR family
+PGF_08059428	Hippea	79.25	0.50	Cell division topological specificity factor MinE
+PGF_08085418	Hippea	554.00	0.00	Acyl-CoA:acetate CoA-transferase, alpha subunit (EC 2.8.3.8)
+PGF_08087019	Hippea	245.75	15.97	Enoyl-CoA hydratase/isomerase
+PGF_08111676	Hippea	556.50	1.73	Citrate transporter
+PGF_08126019	Hippea	315.50	37.54	Lipopolysaccharide export system permease protein LptG
+PGF_08147453	Hippea	398.50	8.66	DNA recombination protein RmuC
+PGF_08183187	Hippea	360.25	7.54	Cell division protein FtsW
+PGF_08185340	Hippea	164.50	0.58	DNA protection during starvation protein
+PGF_08193229	Hippea	358.00	16.06	ABC transporter, substrate-binding protein (cluster 4, leucine/isoleucine/valine/benzoate)

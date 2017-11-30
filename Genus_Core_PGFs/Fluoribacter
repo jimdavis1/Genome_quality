@@ -1,0 +1,1584 @@
+PGF_00000000	Fluoribacter	253.88	2.59	(2-pyrone-4,6-)dicarboxylic acid hydrolase
+PGF_00000261	Fluoribacter	379.12	1.81	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000416	Fluoribacter	355.62	2.13	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000655	Fluoribacter	173.00	0.00	FIG008443: hypothetical protein
+PGF_00000939	Fluoribacter	399.50	12.40	Uncharacterized protein YhiN
+PGF_00002491	Fluoribacter	440.00	0.00	FIG015547: peptidase, M16 family
+PGF_00003193	Fluoribacter	222.50	2.07	FIG053235: Diacylglucosamine hydrolase like
+PGF_00003543	Fluoribacter	508.00	0.00	FIG139976: hypothetical protein
+PGF_00004671	Fluoribacter	749.62	0.52	Ferrous iron transport protein B
+PGF_00005284	Fluoribacter	542.75	1.67	Flagellar M-ring protein FliF
+PGF_00005288	Fluoribacter	367.00	0.00	Flagellar P-ring protein FlgI
+PGF_00005354	Fluoribacter	140.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005358	Fluoribacter	261.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Fluoribacter	693.00	0.00	Flagellar biosynthesis protein FlhA
+PGF_00005402	Fluoribacter	85.00	7.41	Flagellar biosynthesis protein FliQ
+PGF_00005450	Fluoribacter	441.00	0.00	Flagellar hook protein FlgE
+PGF_00005454	Fluoribacter	648.00	0.00	Flagellar hook-associated protein FlgK
+PGF_00005572	Fluoribacter	298.88	0.83	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005620	Fluoribacter	445.50	70.11	Flagellar regulatory protein FleQ
+PGF_00005623	Fluoribacter	333.00	0.00	Flagellar sensor histidine kinase FleS
+PGF_00006100	Fluoribacter	344.25	15.96	tRNA-modifying protein YgfZ
+PGF_00006391	Fluoribacter	336.00	0.00	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006935	Fluoribacter	525.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006989	Fluoribacter	422.38	0.52	GTP cyclohydrolase II homolog
+PGF_00007012	Fluoribacter	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Fluoribacter	466.38	0.52	GTP-binding protein EngA
+PGF_00007026	Fluoribacter	203.00	4.99	GTP-binding protein EngB
+PGF_00007027	Fluoribacter	294.75	0.46	GTP-binding protein Era
+PGF_00007028	Fluoribacter	419.12	1.55	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Fluoribacter	608.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007057	Fluoribacter	454.25	0.46	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Fluoribacter	285.00	0.00	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007353	Fluoribacter	400.00	0.00	General secretion pathway protein F
+PGF_00007379	Fluoribacter	169.50	14.59	General secretion pathway protein H
+PGF_00007632	Fluoribacter	308.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007720	Fluoribacter	514.62	182.89	ABC transporter, permease protein (cluster 10, nitrate/sulfonate/bicarbonate) / ABC transporter, permease protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00007844	Fluoribacter	324.62	0.52	Glucokinase (EC 2.7.1.2)
+PGF_00007920	Fluoribacter	290.00	2.62	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00007988	Fluoribacter	483.75	1.39	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Fluoribacter	429.00	1.85	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008106	Fluoribacter	271.00	0.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008154	Fluoribacter	457.00	0.00	glutamine synthetase family protein
+PGF_00008161	Fluoribacter	431.00	0.00	Glutamate--cysteine ligase (EC 6.3.2.2), divergent, of Alpha- and Beta-proteobacteria type
+PGF_00008164	Fluoribacter	428.00	0.00	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008192	Fluoribacter	308.62	0.52	Glutaminase (EC 3.5.1.2)
+PGF_00008239	Fluoribacter	233.00	0.00	Glutamine amidotransferase, class I
+PGF_00008258	Fluoribacter	469.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Fluoribacter	553.00	3.70	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Fluoribacter	424.00	0.00	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Fluoribacter	471.00	0.00	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008393	Fluoribacter	385.00	0.00	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008439	Fluoribacter	313.12	3.04	Glutathione S-transferase, omega (EC 2.5.1.18)
+PGF_00008469	Fluoribacter	316.00	0.00	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008510	Fluoribacter	243.38	0.52	16S rRNA (guanine(1516)-N(2))-methyltransferase (EC 2.1.1.242)
+PGF_00008537	Fluoribacter	489.50	2.78	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Fluoribacter	328.75	0.46	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008774	Fluoribacter	459.00	0.00	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Fluoribacter	486.50	1.31	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008780	Fluoribacter	353.62	0.52	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Fluoribacter	209.50	1.31	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Fluoribacter	181.62	0.52	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009614	Fluoribacter	432.00	0.00	ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate) / C-terminal AAA-associated domain
+PGF_00009967	Fluoribacter	303.00	0.00	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Fluoribacter	690.00	0.00	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Fluoribacter	242.00	0.00	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Fluoribacter	712.00	4.28	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Fluoribacter	208.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Fluoribacter	753.75	10.15	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Fluoribacter	291.88	10.09	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011607	Fluoribacter	454.75	1.39	Hexose phosphate uptake regulatory protein UhpC
+PGF_00011634	Fluoribacter	378.62	0.52	HflK protein
+PGF_00011791	Fluoribacter	98.00	0.00	His repressor
+PGF_00011979	Fluoribacter	431.00	0.00	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Fluoribacter	352.00	0.00	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012257	Fluoribacter	131.25	1.91	Holin-like protein CidA
+PGF_00012264	Fluoribacter	336.00	0.00	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012291	Fluoribacter	418.00	0.00	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+PGF_00012315	Fluoribacter	508.50	0.93	Homolog of plant auxin-responsive GH3-like protein
+PGF_00012973	Fluoribacter	314.00	0.00	Hydroxymethylpyrimidine synthesis protein THI5
+PGF_00013003	Fluoribacter	599.50	46.67	Bis-ABC ATPase YheS
+PGF_00013099	Fluoribacter	148.00	0.00	17 kDa surface antigen precursor
+PGF_00013283	Fluoribacter	231.62	3.11	UPF0001 protein YggS
+PGF_00013492	Fluoribacter	186.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Fluoribacter	529.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013758	Fluoribacter	1009.00	0.00	IcmB (DotO) protein
+PGF_00013760	Fluoribacter	1024.00	246.59	IcmE (DotG) protein
+PGF_00013769	Fluoribacter	203.50	6.21	IcmJ (DotN) protein
+PGF_00013770	Fluoribacter	376.75	0.46	IcmK (DotH) protein
+PGF_00013771	Fluoribacter	780.38	0.52	IcmO (DotL) protein
+PGF_00013774	Fluoribacter	376.00	0.00	IcmP (DotM) protein
+PGF_00013775	Fluoribacter	114.00	0.00	IcmS protein
+PGF_00013776	Fluoribacter	85.00	0.00	IcmT protein
+PGF_00013777	Fluoribacter	147.62	9.55	IcmW protein
+PGF_00013804	Fluoribacter	407.75	1.04	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00014051	Fluoribacter	259.00	0.00	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014284	Fluoribacter	453.50	2.93	Inner membrane transport protein YajR
+PGF_00014306	Fluoribacter	178.25	0.46	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Fluoribacter	490.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Fluoribacter	276.25	1.39	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Fluoribacter	91.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Fluoribacter	180.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Fluoribacter	288.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Fluoribacter	121.00	0.00	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015510	Fluoribacter	248.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Fluoribacter	482.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Fluoribacter	429.25	1.04	Iron-sulfur cluster assembly protein SufD
+PGF_00015573	Fluoribacter	202.62	0.52	Iron-sulfur cluster-binding protein
+PGF_00015630	Fluoribacter	303.00	0.00	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015701	Fluoribacter	418.00	0.00	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Fluoribacter	931.00	0.00	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015737	Fluoribacter	344.38	2.13	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00016047	Fluoribacter	343.50	10.35	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016225	Fluoribacter	458.00	0.00	L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016261	Fluoribacter	340.00	0.00	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016325	Fluoribacter	754.00	0.00	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Fluoribacter	174.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Fluoribacter	424.00	0.00	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Fluoribacter	106.75	26.39	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Fluoribacter	144.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Fluoribacter	137.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Fluoribacter	127.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Fluoribacter	119.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Fluoribacter	231.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Fluoribacter	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Fluoribacter	107.00	0.00	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Fluoribacter	111.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Fluoribacter	98.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Fluoribacter	109.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Fluoribacter	92.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Fluoribacter	275.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Fluoribacter	61.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Fluoribacter	63.88	0.83	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Fluoribacter	54.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Fluoribacter	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Fluoribacter	66.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Fluoribacter	215.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Fluoribacter	201.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Fluoribacter	183.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Fluoribacter	179.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Fluoribacter	117.38	21.99	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Fluoribacter	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016546	Fluoribacter	146.00	0.00	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016843	Fluoribacter	193.00	0.00	LemA protein
+PGF_00016850	Fluoribacter	357.00	0.00	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)
+PGF_00016919	Fluoribacter	223.38	1.41	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017190	Fluoribacter	241.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017400	Fluoribacter	248.12	1.55	Murein hydrolase activator NlpD
+PGF_00017464	Fluoribacter	226.62	0.52	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Fluoribacter	328.50	0.93	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017784	Fluoribacter	293.62	0.52	LysR family regulatory protein CidR
+PGF_00017939	Fluoribacter	327.00	0.00	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00017965	Fluoribacter	713.00	0.00	Lysine decarboxylase, inducible (EC 4.1.1.18)
+PGF_00018582	Fluoribacter	356.00	0.00	Major acid phosphatase Map
+PGF_00018956	Fluoribacter	329.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018992	Fluoribacter	210.25	0.46	Maleylacetoacetate isomerase (EC 5.2.1.2) @ Glutathione S-transferase, zeta (EC 2.5.1.18)
+PGF_00018999	Fluoribacter	548.38	3.89	Malonate decarboxylase alpha subunit
+PGF_00019000	Fluoribacter	395.62	3.38	Malonate decarboxylase beta subunit
+PGF_00019038	Fluoribacter	444.00	24.07	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Fluoribacter	182.38	0.52	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019944	Fluoribacter	299.62	0.52	Membrane protein
+PGF_00020168	Fluoribacter	433.62	29.56	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Fluoribacter	276.00	5.55	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020184	Fluoribacter	478.00	0.00	Membrane-bound lytic murein transglycosylase D
+PGF_00020361	Fluoribacter	158.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020981	Fluoribacter	535.00	0.00	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Fluoribacter	284.88	2.59	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021217	Fluoribacter	513.00	0.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022618	Fluoribacter	436.00	0.00	Monooxygenase
+PGF_00022723	Fluoribacter	357.00	0.00	Mrp/NBP35 family protein
+PGF_00023555	Fluoribacter	338.00	0.00	Myo-inositol 2-dehydrogenase 1 (EC 1.1.1.18)
+PGF_00023591	Fluoribacter	333.00	0.00	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023779	Fluoribacter	372.00	0.00	N-acetylglucosamine related transporter, NagX
+PGF_00023794	Fluoribacter	474.50	2.78	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00024185	Fluoribacter	281.00	0.00	N-carbamoylputrescine amidase (EC 3.5.1.53) / Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00024234	Fluoribacter	382.75	3.96	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024309	Fluoribacter	532.75	1.39	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Fluoribacter	465.00	0.00	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024464	Fluoribacter	394.00	0.00	NAD-dependent formate dehydrogenase (EC 1.2.1.2)
+PGF_00024478	Fluoribacter	330.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024540	Fluoribacter	430.75	1.04	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024615	Fluoribacter	271.75	0.46	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024687	Fluoribacter	417.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Fluoribacter	167.00	0.00	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Fluoribacter	214.62	0.52	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Fluoribacter	101.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Fluoribacter	501.00	0.00	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Fluoribacter	480.00	0.00	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024967	Fluoribacter	255.00	0.00	NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)
+PGF_00025267	Fluoribacter	557.00	12.63	Na+/H+ antiporter
+PGF_00025383	Fluoribacter	367.00	0.00	Naringenin-chalcone synthase (EC 2.3.1.74)
+PGF_00025600	Fluoribacter	466.75	1.91	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025784	Fluoribacter	774.25	1.04	Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent
+PGF_00026279	Fluoribacter	317.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Fluoribacter	196.00	2.00	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Fluoribacter	295.00	0.00	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026904	Fluoribacter	672.00	0.00	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027062	Fluoribacter	667.38	2.83	Oligopeptide transporter
+PGF_00027464	Fluoribacter	139.00	0.00	Organic hydroperoxide resistance protein
+PGF_00027643	Fluoribacter	657.12	1.55	Osmosensitive K+ channel histidine kinase KdpD
+PGF_00027752	Fluoribacter	566.50	8.33	Outer membrane component of TAM transport system
+PGF_00028486	Fluoribacter	246.25	19.09	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00029072	Fluoribacter	387.12	1.25	Acid sphingomyelinase-like phosphodiesterase
+PGF_00029917	Fluoribacter	254.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030197	Fluoribacter	137.00	0.00	Acyl carrier protein
+PGF_00030640	Fluoribacter	362.00	0.00	Peptide chain release factor 1
+PGF_00030643	Fluoribacter	526.00	0.00	Peptide chain release factor 3
+PGF_00030812	Fluoribacter	163.00	0.00	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00033004	Fluoribacter	240.50	6.48	Phenol hydroxylase
+PGF_00033071	Fluoribacter	272.00	0.00	Phenylalanine-4-hydroxylase (EC 1.14.16.1)
+PGF_00033095	Fluoribacter	793.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Fluoribacter	225.00	0.00	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Fluoribacter	342.00	0.00	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Fluoribacter	361.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Fluoribacter	771.00	0.00	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033402	Fluoribacter	792.00	0.00	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033411	Fluoribacter	271.00	0.00	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033488	Fluoribacter	610.25	0.46	Phosphogluconate dehydratase (EC 4.2.1.12)
+PGF_00033511	Fluoribacter	396.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033684	Fluoribacter	474.00	0.00	Phospholipase
+PGF_00033737	Fluoribacter	261.88	8.84	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033828	Fluoribacter	290.62	0.52	Phosphomevalonate kinase (EC 2.7.4.2)
+PGF_00033877	Fluoribacter	170.75	4.98	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Fluoribacter	407.00	0.00	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Fluoribacter	207.00	0.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Fluoribacter	438.00	0.00	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Fluoribacter	331.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Fluoribacter	205.12	5.06	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Fluoribacter	240.88	2.59	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Fluoribacter	347.00	0.00	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033960	Fluoribacter	437.00	10.47	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3) / Domain of unknown function
+PGF_00033961	Fluoribacter	779.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Fluoribacter	201.38	3.11	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034349	Fluoribacter	89.50	2.78	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative
+PGF_00034381	Fluoribacter	204.00	26.51	Acyltransferase
+PGF_00034566	Fluoribacter	424.00	22.09	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Fluoribacter	724.25	1.91	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034799	Fluoribacter	599.38	48.12	Polysaccharide biosynthesis protein
+PGF_00034988	Fluoribacter	329.75	0.46	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Fluoribacter	173.62	2.83	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035257	Fluoribacter	311.00	0.00	Possible protease sohB (EC 3.4.21.-)
+PGF_00035269	Fluoribacter	412.38	0.52	Possible pyrimidine-degrading protein DUF1688
+PGF_00035370	Fluoribacter	1020.12	12.59	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035378	Fluoribacter	440.62	0.52	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035405	Fluoribacter	605.00	0.00	Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035406	Fluoribacter	689.00	0.00	Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035407	Fluoribacter	201.00	1.41	Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035721	Fluoribacter	456.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Fluoribacter	432.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035928	Fluoribacter	268.50	6.21	Predicted hydrolase or acyltransferase PA1621
+PGF_00036580	Fluoribacter	110.75	0.46	Protein translocase subunit YajC
+PGF_00037006	Fluoribacter	343.00	0.00	Agmatine deiminase (EC 3.5.3.12)
+PGF_00037523	Fluoribacter	1048.00	0.00	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037588	Fluoribacter	568.25	1.04	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037811	Fluoribacter	558.25	0.46	Protease
+PGF_00037828	Fluoribacter	296.62	0.52	Protease HtpX
+PGF_00037937	Fluoribacter	114.00	0.00	Protein PhnA
+PGF_00038028	Fluoribacter	134.00	0.00	Peptidyl-tRNA hydrolase domain protein
+PGF_00038612	Fluoribacter	110.75	0.46	Protein secretion chaperonin CsaA
+PGF_00038674	Fluoribacter	305.00	0.00	Protein translocase subunit SecF
+PGF_00038879	Fluoribacter	139.00	0.00	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00038904	Fluoribacter	301.75	2.82	Pseudouridine 5'-phosphate glycosidase (EC 4.2.1.70)
+PGF_00038986	Fluoribacter	279.00	0.00	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039342	Fluoribacter	274.00	0.00	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039502	Fluoribacter	281.00	0.00	Putative NAD(P)-dependent oxidoreductase EC-YbbO
+PGF_00039721	Fluoribacter	223.62	0.52	Putative TEGT family carrier/transport protein
+PGF_00040161	Fluoribacter	539.00	0.00	Alkaline phosphatase (EC 3.1.3.1); Type I phosphodiesterase/nucleotide pyrophosphatase precursor
+PGF_00040578	Fluoribacter	258.00	0.00	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040773	Fluoribacter	349.62	0.52	Alkane-1 monooxygenase (EC 1.14.15.3)
+PGF_00040922	Fluoribacter	325.00	0.00	ABC transporter, permease protein 1 (cluster 5, nickel/peptides/opines)
+PGF_00040940	Fluoribacter	595.75	2.31	Glutathione-regulated potassium-efflux system protein KefB/C
+PGF_00041484	Fluoribacter	289.25	3.11	Putative hydrolase
+PGF_00041506	Fluoribacter	541.12	1.55	2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+PGF_00041788	Fluoribacter	149.00	0.00	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041794	Fluoribacter	182.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041948	Fluoribacter	421.38	0.52	Putative membrane protein YfjD
+PGF_00042020	Fluoribacter	445.75	11.67	Putative membrane-bound ClpP-class protease associated with aq_911
+PGF_00042867	Fluoribacter	177.00	0.00	Alkyl hydroperoxide reductase AhpD (EC 1.11.1.15)
+PGF_00044198	Fluoribacter	251.00	0.00	Putative stomatin/prohibitin-family membrane protease subunit aq_911
+PGF_00044513	Fluoribacter	260.88	1.55	Putative transferase
+PGF_00045750	Fluoribacter	309.25	1.04	PvcA protein, related to known isonitrile synthases
+PGF_00045833	Fluoribacter	215.00	0.00	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Fluoribacter	248.00	0.00	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045939	Fluoribacter	412.00	0.00	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00045976	Fluoribacter	560.00	0.00	Pyruvate decarboxylase (EC 4.1.1.1); Indole-3-pyruvate decarboxylase (EC 4.1.1.74)
+PGF_00045982	Fluoribacter	887.00	0.00	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00045991	Fluoribacter	472.00	0.00	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046003	Fluoribacter	1913.38	0.52	Alpha-2-macroglobulin
+PGF_00046101	Fluoribacter	280.00	0.00	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Fluoribacter	447.00	0.00	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046275	Fluoribacter	950.75	0.46	RNA polymerase associated protein RapA
+PGF_00046348	Fluoribacter	339.75	1.04	RNA polymerase sigma factor RpoS
+PGF_00046377	Fluoribacter	237.25	1.04	RNA polymerase sigma factor for flagellar operon
+PGF_00046403	Fluoribacter	465.62	0.52	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Fluoribacter	160.25	3.11	RNA polymerase-binding transcription factor DksA
+PGF_00046622	Fluoribacter	85.00	0.00	RNA-binding protein Hfq
+PGF_00047078	Fluoribacter	348.00	0.00	RecA protein
+PGF_00047274	Fluoribacter	156.00	0.00	Regulatory protein AsnC
+PGF_00047533	Fluoribacter	394.00	0.00	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00048416	Fluoribacter	206.50	2.07	Rhomboid family protein
+PGF_00048480	Fluoribacter	204.00	0.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Fluoribacter	144.00	0.00	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Fluoribacter	188.62	7.76	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Fluoribacter	235.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048589	Fluoribacter	209.00	0.00	Ribonuclease T
+PGF_00048607	Fluoribacter	253.00	0.00	Ribonuclease, T2 family
+PGF_00048630	Fluoribacter	941.00	0.00	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048638	Fluoribacter	365.00	0.93	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Fluoribacter	150.00	0.00	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048651	Fluoribacter	147.38	0.52	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Fluoribacter	315.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Fluoribacter	246.00	0.00	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048834	Fluoribacter	186.25	6.09	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048840	Fluoribacter	290.25	1.04	Ribosomal protein L11 methyltransferase
+PGF_00048842	Fluoribacter	305.00	0.00	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Fluoribacter	435.38	0.52	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048858	Fluoribacter	302.00	0.00	Ribosomal protein S6--L-glutamate ligase
+PGF_00048917	Fluoribacter	96.25	1.04	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Fluoribacter	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Fluoribacter	320.62	0.52	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Fluoribacter	123.00	0.00	Ribosome-binding factor A
+PGF_00048985	Fluoribacter	214.75	10.36	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049163	Fluoribacter	159.25	0.46	Rod shape-determining protein MreD
+PGF_00049304	Fluoribacter	369.75	1.04	S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284)
+PGF_00049330	Fluoribacter	382.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Fluoribacter	342.00	9.26	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049363	Fluoribacter	282.62	0.52	S-formylglutathione hydrolase (EC 3.1.2.12)
+PGF_00049827	Fluoribacter	256.00	0.00	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Fluoribacter	105.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Fluoribacter	132.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Fluoribacter	114.00	22.22	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Fluoribacter	118.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Fluoribacter	100.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Fluoribacter	91.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Fluoribacter	85.75	1.04	SSU ribosomal protein S16p
+PGF_00049858	Fluoribacter	75.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Fluoribacter	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Fluoribacter	218.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Fluoribacter	206.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Fluoribacter	169.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Fluoribacter	112.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Fluoribacter	174.25	1.04	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Fluoribacter	130.50	0.93	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Fluoribacter	143.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Fluoribacter	265.88	2.59	Segregation and condensation protein A
+PGF_00050984	Fluoribacter	471.62	2.83	Sensory histidine kinase QseC
+PGF_00050995	Fluoribacter	501.62	0.52	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Fluoribacter	232.25	1.04	Septum site-determining protein MinC
+PGF_00051326	Fluoribacter	431.12	0.35	Serine transporter
+PGF_00051525	Fluoribacter	427.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Fluoribacter	459.00	0.00	Signal recognition particle protein Ffh
+PGF_00052705	Fluoribacter	144.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00053622	Fluoribacter	330.38	2.83	Aminoglycoside 9-phosphotransferase (EC 2.7.1.-) => APH(9)-I
+PGF_00053770	Fluoribacter	365.75	10.65	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053894	Fluoribacter	201.00	0.00	Spore maturation protein A
+PGF_00053897	Fluoribacter	177.38	0.52	Spore maturation protein B
+PGF_00054301	Fluoribacter	206.00	0.00	Stringent starvation protein A
+PGF_00054302	Fluoribacter	136.62	0.52	Stringent starvation protein B
+PGF_00054323	Fluoribacter	208.00	3.70	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Fluoribacter	115.00	0.00	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Fluoribacter	240.38	0.52	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Fluoribacter	386.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054542	Fluoribacter	467.75	1.04	Succinyl-diaminopimelate desuccinylase
+PGF_00054543	Fluoribacter	451.62	0.52	Succinylarginine dihydrolase (EC 3.5.3.23)
+PGF_00054560	Fluoribacter	495.75	1.91	Succinylglutamic semialdehyde dehydrogenase (EC 1.2.1.71)
+PGF_00055273	Fluoribacter	192.00	0.00	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055354	Fluoribacter	430.00	0.00	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055966	Fluoribacter	364.38	0.52	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Fluoribacter	331.50	11.19	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056544	Fluoribacter	261.62	0.52	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Fluoribacter	343.38	1.77	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056828	Fluoribacter	710.62	0.52	Anthranilate synthase, aminase component (EC 4.1.3.27) / Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00056872	Fluoribacter	202.88	0.83	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Fluoribacter	211.62	0.52	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Fluoribacter	264.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Fluoribacter	480.00	0.00	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Fluoribacter	152.00	0.00	Tol biopolymer transport system, TolR protein
+PGF_00057270	Fluoribacter	750.00	0.00	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Fluoribacter	147.00	0.00	Transamidase GatB domain protein
+PGF_00057483	Fluoribacter	420.00	0.00	Transcription termination factor Rho
+PGF_00057485	Fluoribacter	492.00	0.00	Transcription termination protein NusA
+PGF_00057488	Fluoribacter	149.50	4.63	Transcription termination protein NusB
+PGF_00060398	Fluoribacter	668.25	5.57	Transketolase (EC 2.2.1.1)
+PGF_00060409	Fluoribacter	694.00	0.00	Translation elongation factor G
+PGF_00060411	Fluoribacter	696.25	0.46	Translation elongation factor G paralog VC2342
+PGF_00060414	Fluoribacter	601.00	0.00	Translation elongation factor LepA
+PGF_00060421	Fluoribacter	189.00	0.00	Translation elongation factor P
+PGF_00060422	Fluoribacter	184.00	1.85	Translation elongation factor P Lys34 hydroxylase
+PGF_00060424	Fluoribacter	313.00	0.00	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Fluoribacter	292.00	0.00	Translation elongation factor Ts
+PGF_00060431	Fluoribacter	73.00	0.00	Translation initiation factor 1
+PGF_00060478	Fluoribacter	131.25	4.92	Translation initiation factor 3
+PGF_00062023	Fluoribacter	269.25	1.04	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Fluoribacter	399.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Fluoribacter	404.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062866	Fluoribacter	225.00	0.00	Two-component system response regulator QseB
+PGF_00063167	Fluoribacter	95.75	0.46	Type I antifreeze protein
+PGF_00063697	Fluoribacter	244.88	8.68	Type IV pilus (Tfp) assembly protein PilF
+PGF_00063761	Fluoribacter	160.62	15.30	Type IV pilus biogenesis protein PilP
+PGF_00063916	Fluoribacter	398.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Fluoribacter	239.00	0.00	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Fluoribacter	304.00	0.00	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063993	Fluoribacter	363.00	0.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Fluoribacter	454.38	11.98	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Fluoribacter	454.38	0.52	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064030	Fluoribacter	140.00	0.00	Archease
+PGF_00064251	Fluoribacter	422.00	0.00	UPF0229 protein YeaH
+PGF_00064270	Fluoribacter	258.00	0.00	UPF0246 protein YaaA
+PGF_00064359	Fluoribacter	151.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064393	Fluoribacter	290.38	0.52	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064438	Fluoribacter	203.75	1.04	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Fluoribacter	549.00	0.00	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064746	Fluoribacter	210.00	0.00	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00065410	Fluoribacter	163.50	2.93	Uncharacterized protein YbbK
+PGF_00065482	Fluoribacter	643.00	0.00	Uncharacterized protein YeaG
+PGF_00066031	Fluoribacter	147.75	2.82	Universal stress protein family COG0589
+PGF_00066123	Fluoribacter	214.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066248	Fluoribacter	210.38	0.52	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066260	Fluoribacter	554.00	0.00	Urocanate hydratase (EC 4.2.1.49)
+PGF_00066270	Fluoribacter	352.38	0.52	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066281	Fluoribacter	604.50	14.49	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)
+PGF_00066294	Fluoribacter	241.25	19.91	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Fluoribacter	921.00	0.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Fluoribacter	467.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Fluoribacter	134.88	1.55	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066867	Fluoribacter	435.00	0.00	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Fluoribacter	298.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067160	Fluoribacter	327.00	4.14	Aspartate--ammonia ligase (EC 6.3.1.1)
+PGF_00067188	Fluoribacter	340.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067412	Fluoribacter	81.00	0.00	YrbA protein
+PGF_00067466	Fluoribacter	593.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067547	Fluoribacter	148.75	1.39	Zinc uptake regulation protein Zur
+PGF_00067554	Fluoribacter	480.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067701	Fluoribacter	146.62	5.10	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_00067791	Fluoribacter	879.25	6.94	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00070354	Fluoribacter	358.00	0.00	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)
+PGF_00071194	Fluoribacter	445.88	1.81	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00072449	Fluoribacter	219.00	0.00	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00076171	Fluoribacter	334.62	1.69	hypothetical protein
+PGF_00084355	Fluoribacter	180.00	0.00	hypothetical protein
+PGF_00093742	Fluoribacter	433.88	1.25	hypothetical protein
+PGF_00096819	Fluoribacter	399.00	0.00	hypothetical protein
+PGF_00099122	Fluoribacter	449.62	231.23	hypothetical protein
+PGF_00101336	Fluoribacter	417.75	2.31	hypothetical protein
+PGF_00109300	Fluoribacter	219.25	12.78	hypothetical protein
+PGF_00113984	Fluoribacter	193.88	5.69	Flavin prenyltransferase UbiX
+PGF_00118021	Fluoribacter	497.62	30.97	hypothetical protein
+PGF_00119771	Fluoribacter	253.88	1.55	hypothetical protein
+PGF_00127414	Fluoribacter	330.00	0.00	hypothetical protein
+PGF_00129764	Fluoribacter	676.75	0.46	hypothetical protein
+PGF_00135833	Fluoribacter	405.88	3.44	hypothetical protein
+PGF_00137455	Fluoribacter	108.00	0.00	hypothetical protein
+PGF_00137605	Fluoribacter	484.38	2.33	hypothetical protein
+PGF_00140508	Fluoribacter	429.25	6.43	hypothetical protein
+PGF_00141359	Fluoribacter	392.38	1.41	hypothetical protein
+PGF_00141805	Fluoribacter	507.50	3.93	hypothetical protein
+PGF_00145417	Fluoribacter	390.75	2.31	hypothetical protein
+PGF_00149271	Fluoribacter	601.75	1.04	hypothetical protein
+PGF_00157686	Fluoribacter	254.38	0.52	hypothetical protein
+PGF_00161083	Fluoribacter	487.00	0.00	hypothetical protein
+PGF_00162333	Fluoribacter	276.50	0.93	hypothetical protein
+PGF_00174569	Fluoribacter	152.50	0.93	hypothetical protein
+PGF_00180536	Fluoribacter	141.00	0.00	hypothetical protein
+PGF_00180751	Fluoribacter	279.00	0.00	hypothetical protein
+PGF_00182103	Fluoribacter	247.12	6.27	Uracil DNA glycosylase superfamily protein
+PGF_00184874	Fluoribacter	394.00	0.00	hypothetical protein
+PGF_00191801	Fluoribacter	261.62	0.52	hypothetical protein
+PGF_00201594	Fluoribacter	469.62	0.52	hypothetical protein
+PGF_00205258	Fluoribacter	220.00	0.00	hypothetical protein
+PGF_00206267	Fluoribacter	111.12	0.83	hypothetical protein
+PGF_00209418	Fluoribacter	202.50	7.91	hypothetical protein
+PGF_00217040	Fluoribacter	146.00	0.00	hypothetical protein
+PGF_00222644	Fluoribacter	722.25	0.46	ABC transporter, substrate-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00226070	Fluoribacter	617.88	1.25	hypothetical protein
+PGF_00227825	Fluoribacter	947.62	9.13	hypothetical protein
+PGF_00232494	Fluoribacter	96.00	0.00	hypothetical protein
+PGF_00233299	Fluoribacter	323.88	5.91	hypothetical protein
+PGF_00233891	Fluoribacter	365.12	4.88	hypothetical protein
+PGF_00242677	Fluoribacter	376.00	0.00	hypothetical protein
+PGF_00243122	Fluoribacter	479.50	8.59	hypothetical protein
+PGF_00250961	Fluoribacter	235.00	0.00	hypothetical protein
+PGF_00254914	Fluoribacter	414.00	2.78	hypothetical protein
+PGF_00259139	Fluoribacter	181.75	0.46	hypothetical protein
+PGF_00261173	Fluoribacter	361.00	0.00	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00266982	Fluoribacter	161.00	0.00	hypothetical protein
+PGF_00285620	Fluoribacter	212.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00286432	Fluoribacter	525.50	7.23	hypothetical protein
+PGF_00295348	Fluoribacter	397.00	0.00	ABC-type antimicrobial peptide transport system, permease component
+PGF_00295919	Fluoribacter	133.38	0.52	hypothetical protein
+PGF_00295936	Fluoribacter	219.00	0.00	ABC transporter, ATP-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_00297575	Fluoribacter	129.00	0.00	hypothetical protein
+PGF_00304395	Fluoribacter	522.25	0.46	hypothetical protein
+PGF_00306574	Fluoribacter	326.00	0.00	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00311622	Fluoribacter	256.00	0.00	hypothetical protein
+PGF_00315805	Fluoribacter	345.75	1.91	hypothetical protein
+PGF_00329387	Fluoribacter	257.75	1.04	hypothetical protein
+PGF_00330320	Fluoribacter	67.00	0.00	hypothetical protein
+PGF_00334806	Fluoribacter	844.25	1.04	hypothetical protein
+PGF_00335963	Fluoribacter	145.12	1.55	hypothetical protein
+PGF_00337754	Fluoribacter	357.00	0.93	hypothetical protein
+PGF_00341021	Fluoribacter	485.00	1.85	hypothetical protein
+PGF_00347547	Fluoribacter	611.38	11.39	hypothetical protein
+PGF_00355640	Fluoribacter	61.00	0.00	hypothetical protein
+PGF_00356159	Fluoribacter	251.12	9.75	hypothetical protein
+PGF_00356694	Fluoribacter	598.12	2.90	hypothetical protein
+PGF_00367351	Fluoribacter	152.50	0.93	hypothetical protein
+PGF_00369432	Fluoribacter	430.75	1.04	hypothetical protein
+PGF_00370245	Fluoribacter	244.62	3.89	hypothetical protein
+PGF_00383259	Fluoribacter	148.00	0.00	hypothetical protein
+PGF_00389177	Fluoribacter	456.00	0.00	hypothetical protein
+PGF_00393386	Fluoribacter	128.00	0.00	hypothetical protein
+PGF_00396497	Fluoribacter	180.38	0.52	hypothetical protein
+PGF_00398052	Fluoribacter	354.62	3.85	hypothetical protein
+PGF_00398998	Fluoribacter	319.12	0.83	hypothetical protein
+PGF_00399630	Fluoribacter	303.00	0.00	hypothetical protein PA3071
+PGF_00400019	Fluoribacter	330.50	32.53	Aerotolerance protein BatA
+PGF_00400030	Fluoribacter	309.00	0.00	Aerotolerance protein BatB
+PGF_00400694	Fluoribacter	374.00	0.00	low-specificity D-threonine aldolase
+PGF_00401752	Fluoribacter	250.00	0.00	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00403273	Fluoribacter	484.88	8.13	2-methylcitrate dehydratase (EC 4.2.1.79)
+PGF_00403434	Fluoribacter	372.00	0.00	2-methylcitrate synthase (EC 2.3.3.5)
+PGF_00404019	Fluoribacter	632.00	0.00	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Fluoribacter	160.25	0.46	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Fluoribacter	446.00	0.00	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Fluoribacter	327.62	0.52	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404384	Fluoribacter	315.00	0.00	Biotin synthase (EC 2.8.1.6)
+PGF_00404831	Fluoribacter	273.25	4.17	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00405612	Fluoribacter	431.00	0.00	putative 7-dehydrocholesterol reductase
+PGF_00406043	Fluoribacter	219.50	2.07	Uncharacterized SAM-dependent O-methyltransferase
+PGF_00406692	Fluoribacter	937.25	6.02	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00412162	Fluoribacter	745.00	0.00	TTP-dependent protein, related to E1 component of pyruvate/2-oxoglutarate/acetoin dehydrogenase
+PGF_00412178	Fluoribacter	324.00	0.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413203	Fluoribacter	159.75	14.29	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Fluoribacter	249.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Fluoribacter	316.38	23.84	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413286	Fluoribacter	347.25	11.61	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Fluoribacter	262.00	0.00	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Fluoribacter	300.38	0.52	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Fluoribacter	624.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Fluoribacter	280.00	0.00	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413319	Fluoribacter	211.88	8.11	tRNA-(ms[2]io[6]A)-hydroxylase
+PGF_00413327	Fluoribacter	231.00	0.00	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+PGF_00413351	Fluoribacter	147.50	2.78	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Fluoribacter	158.00	0.00	tmRNA-binding protein SmpB
+PGF_00415118	Fluoribacter	549.88	1.81	Thiamine pyrophosphate-requiring enzymes
+PGF_00415150	Fluoribacter	276.62	0.52	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415332	Fluoribacter	302.88	1.55	23S rRNA (cytidine(2498)-2'-O)-methyltransferase (EC 2.1.1.186)
+PGF_00415346	Fluoribacter	390.00	0.00	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415422	Fluoribacter	707.38	0.52	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415481	Fluoribacter	361.75	11.39	SAM-dependent methyltransferase, MidA
+PGF_00415486	Fluoribacter	156.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Fluoribacter	222.88	13.97	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416129	Fluoribacter	543.50	0.93	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Fluoribacter	1067.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Fluoribacter	185.00	0.00	3'-to-5' oligoribonuclease (orn)
+PGF_00416584	Fluoribacter	238.00	0.00	Dienelactone hydrolase family protein
+PGF_00417047	Fluoribacter	246.25	6.02	Cell division protein FtsQ
+PGF_00417366	Fluoribacter	859.88	1.81	Cellulose synthase catalytic subunit [UDP-forming] (EC 2.4.1.12)
+PGF_00417429	Fluoribacter	379.00	0.00	Chaperone protein DnaJ
+PGF_00417433	Fluoribacter	647.38	0.52	Chaperone protein DnaK
+PGF_00417577	Fluoribacter	150.00	0.00	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417580	Fluoribacter	352.00	0.00	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417658	Fluoribacter	369.25	4.17	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Fluoribacter	230.75	1.04	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Fluoribacter	353.00	0.93	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Fluoribacter	174.00	0.00	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418054	Fluoribacter	217.38	18.57	CidA-associated membrane protein CidB
+PGF_00418128	Fluoribacter	272.75	1.04	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418791	Fluoribacter	193.75	2.31	Type IV pilus biogenesis protein PilN
+PGF_00419575	Fluoribacter	468.75	1.39	Copper sensory histidine kinase CpxA
+PGF_00419702	Fluoribacter	172.00	0.00	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419870	Fluoribacter	879.00	0.00	Cyanophycin synthase (EC 6.3.2.29)(EC 6.3.2.30)
+PGF_00419875	Fluoribacter	287.25	1.39	Cyanophycinase (EC 3.4.15.6)
+PGF_00419915	Fluoribacter	262.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420019	Fluoribacter	384.00	0.00	Cystathionine gamma-lyase (EC 4.4.1.1)
+PGF_00420048	Fluoribacter	386.75	6.02	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420121	Fluoribacter	231.62	3.62	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420482	Fluoribacter	247.00	0.00	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Fluoribacter	649.62	0.52	Cytochrome c heme lyase subunit CcmF
+PGF_00420582	Fluoribacter	178.00	0.00	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420584	Fluoribacter	213.75	0.46	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center
+PGF_00420731	Fluoribacter	483.75	3.37	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420737	Fluoribacter	460.00	0.00	Cytosolic IMP-GMP specific 5'-nucleotidase
+PGF_00420764	Fluoribacter	355.75	0.46	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+PGF_00420798	Fluoribacter	364.00	0.00	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Fluoribacter	320.00	0.00	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421071	Fluoribacter	145.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Fluoribacter	568.38	3.25	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421322	Fluoribacter	1091.75	1.04	DNA helicase, SNF2/RAD54 family domain protein
+PGF_00421408	Fluoribacter	228.25	3.11	DNA mismatch repair endonuclease MutH
+PGF_00421489	Fluoribacter	1147.25	1.04	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Fluoribacter	367.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Fluoribacter	572.75	1.04	DNA primase (EC 2.7.7.-)
+PGF_00421733	Fluoribacter	355.00	0.00	DNA recombination and repair protein RecF
+PGF_00421792	Fluoribacter	449.00	0.00	DNA repair protein RadA
+PGF_00421796	Fluoribacter	556.50	4.63	DNA repair protein RecN
+PGF_00422271	Fluoribacter	330.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422711	Fluoribacter	217.12	6.85	DedA protein
+PGF_00422726	Fluoribacter	349.00	22.63	DegP protease
+PGF_00422918	Fluoribacter	188.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Fluoribacter	152.00	0.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423016	Fluoribacter	500.00	0.00	Di-tripeptide/H+ symporter
+PGF_00423018	Fluoribacter	509.12	4.32	Di-tripeptide/H+ symporter
+PGF_00423097	Fluoribacter	276.00	0.00	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Fluoribacter	387.75	99.27	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423382	Fluoribacter	347.38	11.87	Dihydroorotase (EC 3.5.2.3)
+PGF_00423472	Fluoribacter	652.00	0.00	DinG family ATP-dependent helicase YoaA
+PGF_00423613	Fluoribacter	316.00	0.00	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+PGF_00423709	Fluoribacter	298.88	2.59	DnaJ-like protein DjlA
+PGF_00423801	Fluoribacter	1028.38	7.25	DotA protein
+PGF_00423802	Fluoribacter	376.50	0.93	DotB protein
+PGF_00423803	Fluoribacter	284.62	0.52	DotC protein
+PGF_00423927	Fluoribacter	276.62	5.01	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424123	Fluoribacter	539.50	2.67	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424307	Fluoribacter	364.50	0.93	beta-1,4-glucanase (cellulase) (EC 3.2.1.4)
+PGF_00424425	Fluoribacter	350.00	0.00	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+PGF_00424447	Fluoribacter	324.38	0.52	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424564	Fluoribacter	353.75	2.31	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9) homolog
+PGF_00424627	Fluoribacter	622.25	2.12	Epi-inositol hydrolase (EC 3.7.1.-)
+PGF_00424971	Fluoribacter	617.75	1.67	Excinuclease ABC subunit C
+PGF_00425024	Fluoribacter	444.25	1.04	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425212	Fluoribacter	461.00	0.00	Exported zinc metalloprotease YfgC precursor
+PGF_00425214	Fluoribacter	109.00	0.00	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425665	Fluoribacter	236.50	15.74	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425684	Fluoribacter	247.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425704	Fluoribacter	89.50	2.07	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425725	Fluoribacter	195.88	2.59	FIG001590: Putative conserved exported protein precursor
+PGF_00425726	Fluoribacter	765.00	0.00	FIG001592: Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated
+PGF_00425775	Fluoribacter	553.88	13.66	Cellulose biosynthesis protein BcsG
+PGF_00425804	Fluoribacter	317.00	0.00	FIG002781: Alpha-L-glutamate ligase family protein
+PGF_00425918	Fluoribacter	269.00	0.00	FIG003879: Uncharacterized subgroup of the nitrilase superfamily
+PGF_00425997	Fluoribacter	327.12	8.11	FIG004453: protein YceG like
+PGF_00426231	Fluoribacter	503.25	1.04	FIG004684: SpoVR-like protein
+PGF_00426810	Fluoribacter	251.00	0.00	5'-nucleotidase SurE (EC 3.1.3.5) @ Exopolyphosphatase (EC 3.6.1.11)
+PGF_00438421	Fluoribacter	195.00	0.00	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447508	Fluoribacter	401.50	5.88	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00451246	Fluoribacter	91.00	0.00	RNA-binding protein YhbY
+PGF_00456604	Fluoribacter	145.75	1.39	hypothetical protein
+PGF_00466006	Fluoribacter	411.88	18.60	Multidrug translocase MdfA
+PGF_00467720	Fluoribacter	430.38	0.52	Lysophospholipid transporter LplT
+PGF_00488496	Fluoribacter	288.00	148.13	Type IV pilus assembly ATPase component PilU
+PGF_00529632	Fluoribacter	858.00	0.00	ClpB protein
+PGF_00538878	Fluoribacter	273.12	0.83	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00549302	Fluoribacter	449.75	0.46	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00550718	Fluoribacter	140.00	0.00	General secretion pathway protein G
+PGF_00565351	Fluoribacter	226.00	0.00	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00580333	Fluoribacter	389.00	0.00	Lipopolysaccharide assembly protein LapB
+PGF_00582270	Fluoribacter	462.38	0.52	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00616490	Fluoribacter	251.00	0.00	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Fluoribacter	375.62	0.52	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Fluoribacter	228.12	0.83	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00639841	Fluoribacter	549.00	0.00	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Fluoribacter	322.50	13.16	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644212	Fluoribacter	300.88	3.31	Nucleoside-diphosphate-sugar epimerases
+PGF_00644844	Fluoribacter	481.88	3.31	Long-chain fatty acid transport protein
+PGF_00644953	Fluoribacter	295.50	1.31	DnaJ-class molecular chaperone CbpA
+PGF_00648054	Fluoribacter	224.00	0.00	Tol-Pal system protein TolQ
+PGF_00655131	Fluoribacter	489.00	0.00	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Fluoribacter	483.00	0.00	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Fluoribacter	210.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Fluoribacter	425.00	0.00	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Fluoribacter	109.50	2.78	Ribosomal silencing factor RsfA
+PGF_00666130	Fluoribacter	254.00	0.00	Phosphatidylcholine synthase (EC 2.7.8.24)
+PGF_00671129	Fluoribacter	113.00	0.00	Nitrogen regulatory protein P-II, GlnK
+PGF_00694978	Fluoribacter	261.00	0.00	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00699922	Fluoribacter	291.38	0.52	Polysaccharide deacetylase family protein
+PGF_00710183	Fluoribacter	217.38	3.50	hypothetical protein
+PGF_00717495	Fluoribacter	423.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00723018	Fluoribacter	411.50	0.93	Uncharacterized MFS-type transporter
+PGF_00725839	Fluoribacter	838.12	4.88	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00728510	Fluoribacter	747.38	6.80	Cyclic di-GMP-binding protein BcsB
+PGF_00730641	Fluoribacter	217.00	0.00	4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+PGF_00734372	Fluoribacter	674.00	0.00	2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)
+PGF_00734482	Fluoribacter	762.12	1.55	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00734751	Fluoribacter	146.62	15.05	Cytochrome c heme lyase subunit CcmL
+PGF_00769483	Fluoribacter	672.00	0.00	Enoyl-CoA hydratase (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_00774395	Fluoribacter	455.38	10.49	Uncharacterized MFS-type transporter
+PGF_00777371	Fluoribacter	232.00	0.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00808195	Fluoribacter	165.00	0.00	DNA protection during starvation protein
+PGF_00813259	Fluoribacter	256.75	16.26	FolM Alternative dihydrofolate reductase 1
+PGF_00827555	Fluoribacter	559.62	7.80	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00829010	Fluoribacter	436.12	5.14	Uncharacterized MFS-type transporter
+PGF_00833932	Fluoribacter	394.00	0.00	hypothetical protein
+PGF_00851332	Fluoribacter	251.38	0.52	Zinc transporter, ZIP family
+PGF_00853393	Fluoribacter	291.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Fluoribacter	406.75	0.46	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00856417	Fluoribacter	228.00	0.00	UPF0758 family protein
+PGF_00870299	Fluoribacter	355.50	1.31	hypothetical protein
+PGF_00874759	Fluoribacter	414.00	0.00	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00883150	Fluoribacter	270.12	3.44	Bem46 protein
+PGF_00885329	Fluoribacter	354.25	1.04	Flagellar motor switch protein FliM
+PGF_00902281	Fluoribacter	369.12	4.42	hypothetical protein
+PGF_00906931	Fluoribacter	319.00	0.00	Formiminoglutamase (EC 3.5.3.8)
+PGF_00908360	Fluoribacter	260.00	0.00	Phospholipid ABC transporter permease protein MlaE
+PGF_00909980	Fluoribacter	639.00	2.07	hypothetical protein
+PGF_00912265	Fluoribacter	319.25	1.91	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Fluoribacter	438.75	35.05	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Fluoribacter	596.50	14.49	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00931494	Fluoribacter	264.12	18.11	Enoyl-[acyl-carrier-protein] reductase [NADPH] (EC 1.3.1.10)
+PGF_00931764	Fluoribacter	793.88	4.12	General secretion pathway protein D
+PGF_00932272	Fluoribacter	190.25	10.61	21 kDa hemolysin precursor
+PGF_00936791	Fluoribacter	342.00	0.00	FIG003737: Predicted deacylase
+PGF_00943546	Fluoribacter	258.00	0.00	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00945299	Fluoribacter	180.62	0.52	Isochorismatase (EC 3.3.2.1)
+PGF_00948290	Fluoribacter	406.88	35.79	Murein hydrolase activator EnvC
+PGF_00950554	Fluoribacter	663.00	0.00	Excinuclease ABC subunit B
+PGF_00956835	Fluoribacter	249.25	7.87	4'-phosphopantetheinyl transferase (EC 2.7.8.-)
+PGF_00957419	Fluoribacter	139.00	0.00	Putative pre-16S rRNA nuclease Yqg
+PGF_00972541	Fluoribacter	422.00	0.00	Uncharacterized MFS-type transporter
+PGF_00973394	Fluoribacter	158.00	0.00	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00974598	Fluoribacter	252.00	9.26	3-hydroxyacyl-CoA dehydrogenase type II
+PGF_01008498	Fluoribacter	109.50	8.33	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Fluoribacter	247.00	0.00	Flagellar basal-body rod protein FlgF
+PGF_01011517	Fluoribacter	338.12	5.69	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01026884	Fluoribacter	292.75	0.46	Mevalonate kinase (EC 2.7.1.36)
+PGF_01033739	Fluoribacter	450.62	0.52	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+PGF_01040012	Fluoribacter	199.62	0.52	Phosphoheptose isomerase (EC 5.3.1.-)
+PGF_01043155	Fluoribacter	122.62	0.52	Cyanoglobin; Hemoglobin-like protein HbN
+PGF_01049250	Fluoribacter	241.25	1.04	Two-component transcriptional response regulator, LuxR family
+PGF_01052295	Fluoribacter	361.25	4.17	Lipopolysaccharide export system permease protein LptF
+PGF_01062987	Fluoribacter	95.38	2.13	PhnO-related protein
+PGF_01068038	Fluoribacter	418.75	10.15	Uncharacterized MFS-type transporter
+PGF_01084030	Fluoribacter	773.50	6.48	Outer membrane protein assembly factor YaeT
+PGF_01087691	Fluoribacter	404.25	10.61	Uncharacterized MFS-type transporter
+PGF_01095191	Fluoribacter	294.00	0.00	Methylisocitrate lyase (EC 4.1.3.30)
+PGF_01101526	Fluoribacter	450.00	0.00	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01124177	Fluoribacter	405.25	2.31	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Fluoribacter	372.00	0.00	Rod shape-determining protein RodA
+PGF_01147190	Fluoribacter	470.50	1.31	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01149804	Fluoribacter	544.00	0.00	Flagellar cap protein FliD
+PGF_01169833	Fluoribacter	375.62	0.52	Flagellar biosynthesis protein FlhF
+PGF_01170625	Fluoribacter	113.00	0.00	Cell division protein FtsL
+PGF_01172200	Fluoribacter	206.75	1.39	Uncharacterized membrane anchored protein Mext_4159
+PGF_01172485	Fluoribacter	412.00	0.00	Cell division protein FtsA
+PGF_01174739	Fluoribacter	249.75	1.04	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Fluoribacter	440.00	0.00	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Fluoribacter	638.50	0.93	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01181530	Fluoribacter	113.00	0.00	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01189572	Fluoribacter	274.25	6.02	Triphosphoribosyl-dephospho-CoA synthase (EC 2.4.2.52)
+PGF_01208184	Fluoribacter	183.62	2.13	Uncharacterized protein, YkwD family
+PGF_01212739	Fluoribacter	549.00	0.00	Heat shock protein 60 family chaperone GroEL
+PGF_01220766	Fluoribacter	276.00	0.00	Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)
+PGF_01223569	Fluoribacter	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01225591	Fluoribacter	219.00	0.00	Nucleotidyl transferase possibly involved in threonylcarbamoyladenosine formation
+PGF_01232770	Fluoribacter	147.25	7.54	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Fluoribacter	321.75	1.04	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01323228	Fluoribacter	284.12	6.98	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01336345	Fluoribacter	112.25	0.46	Type IV pilus biogenesis protein PilZ
+PGF_01351158	Fluoribacter	1151.00	0.00	Transcription-repair coupling factor
+PGF_01364427	Fluoribacter	199.25	0.46	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01382505	Fluoribacter	224.00	0.00	FIG00449901: hypothetical protein
+PGF_01382760	Fluoribacter	93.00	0.00	hypothetical protein
+PGF_01402518	Fluoribacter	498.75	0.46	Malonate-semialdehyde dehydrogenase [inositol] (EC 1.2.1.18)
+PGF_01404160	Fluoribacter	316.00	0.00	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01405081	Fluoribacter	340.00	0.00	Heat shock protein HtpX
+PGF_01415861	Fluoribacter	195.25	2.82	LPS-assembly lipoprotein LptE
+PGF_01420802	Fluoribacter	152.00	0.00	Cell division protein MraZ
+PGF_01421534	Fluoribacter	220.88	0.83	LSU ribosomal protein L25p
+PGF_01423501	Fluoribacter	156.75	2.31	Transcription elongation factor GreA
+PGF_01435544	Fluoribacter	262.00	0.00	Phenazine biosynthesis protein PhzF like
+PGF_01448031	Fluoribacter	97.75	1.39	Integration host factor alpha subunit
+PGF_01466819	Fluoribacter	480.12	0.83	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483460	Fluoribacter	356.38	0.52	Lipopolysaccharide export system permease protein LptG
+PGF_01492504	Fluoribacter	284.50	0.93	Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)
+PGF_01512690	Fluoribacter	290.38	1.69	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01514111	Fluoribacter	333.38	18.74	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01529147	Fluoribacter	468.62	0.52	Uncharacterized amino acid permease, GabP family
+PGF_01532393	Fluoribacter	693.00	1.85	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Fluoribacter	130.00	0.00	Flagellar basal-body rod protein FlgB
+PGF_01580528	Fluoribacter	854.88	0.83	Mg(2+) transport ATPase, P-type (EC 3.6.3.2)
+PGF_01602421	Fluoribacter	224.25	0.46	Flagellar basal-body rod modification protein FlgD
+PGF_01614964	Fluoribacter	307.25	1.04	Protease VII (Omptin) precursor (EC 3.4.23.49)
+PGF_01625234	Fluoribacter	319.38	0.52	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667322	Fluoribacter	474.00	0.00	Flagellin protein FlaB
+PGF_01667880	Fluoribacter	77.25	21.76	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Fluoribacter	190.38	10.27	RNA polymerase sigma factor RpoE
+PGF_01668974	Fluoribacter	726.75	20.83	DNA internalization-related competence protein ComEC/Rec2
+PGF_01669282	Fluoribacter	231.38	4.72	Transcriptional regulator, DeoR family
+PGF_01674551	Fluoribacter	125.00	0.00	Glycine cleavage system H protein
+PGF_01681377	Fluoribacter	211.00	0.00	UPF0126 inner membrane protein YicG
+PGF_01682834	Fluoribacter	147.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Fluoribacter	229.75	0.46	DNA recombination and repair protein RecO
+PGF_01719378	Fluoribacter	307.75	17.13	Signal peptide peptidase SppA, 36K type (EC 3.4.-.-)
+PGF_01719396	Fluoribacter	217.75	1.91	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01719705	Fluoribacter	505.00	0.00	Chitinase (EC 3.2.1.14)
+PGF_01734668	Fluoribacter	222.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Fluoribacter	274.00	0.00	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01747642	Fluoribacter	196.62	21.64	Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_01760799	Fluoribacter	700.62	0.52	Type IV pilus biogenesis protein PilQ
+PGF_01761890	Fluoribacter	68.00	2.07	DNA gyrase inhibitor YacG
+PGF_01767297	Fluoribacter	361.50	2.07	Uncharacterized UPF0118 membrane protein
+PGF_01771963	Fluoribacter	476.00	0.00	RNA-2',3'-PO4:RNA-5'-OH ligase
+PGF_01777142	Fluoribacter	211.00	0.00	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01783934	Fluoribacter	82.12	8.68	Uncharacterized transcriptional regulator YozG, Cro/CI family
+PGF_01797166	Fluoribacter	371.00	0.00	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01832663	Fluoribacter	360.38	2.33	Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)
+PGF_01853493	Fluoribacter	297.50	3.34	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01888177	Fluoribacter	150.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Fluoribacter	210.38	0.52	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Fluoribacter	277.00	0.00	Rod shape-determining protein MreC
+PGF_01900676	Fluoribacter	245.00	0.00	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01900807	Fluoribacter	266.50	10.60	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01905685	Fluoribacter	506.25	0.46	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_01910737	Fluoribacter	289.00	0.00	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01922580	Fluoribacter	389.00	2.07	2-polyprenylphenol hydroxylase
+PGF_01936994	Fluoribacter	364.00	0.00	Type IV pilus biogenesis protein PilM
+PGF_01949788	Fluoribacter	189.12	3.31	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Fluoribacter	604.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01985478	Fluoribacter	374.12	2.59	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01994657	Fluoribacter	447.12	1.55	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Fluoribacter	124.00	0.00	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Fluoribacter	255.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Fluoribacter	337.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Fluoribacter	353.00	0.00	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Fluoribacter	341.00	0.00	GTP-binding protein Obg
+PGF_02030844	Fluoribacter	606.12	0.83	ATP-dependent DNA helicase RecQ
+PGF_02057095	Fluoribacter	191.62	0.52	IcmQ protein
+PGF_02057135	Fluoribacter	446.75	1.39	Kynurenine 3-monooxygenase (EC 1.14.13.9) homolog
+PGF_02057236	Fluoribacter	181.75	1.67	hypothetical protein
+PGF_02057337	Fluoribacter	145.25	16.70	hypothetical protein
+PGF_02057364	Fluoribacter	145.62	0.52	hypothetical protein
+PGF_02057367	Fluoribacter	144.75	0.46	hypothetical protein
+PGF_02057540	Fluoribacter	109.00	0.00	hypothetical protein
+PGF_02057693	Fluoribacter	315.62	2.13	hypothetical protein
+PGF_02057715	Fluoribacter	299.62	0.52	hypothetical protein
+PGF_02057726	Fluoribacter	168.00	0.00	hypothetical protein
+PGF_02057737	Fluoribacter	240.75	5.57	hypothetical protein
+PGF_02057770	Fluoribacter	144.62	0.52	hypothetical protein
+PGF_02057780	Fluoribacter	102.00	0.00	hypothetical protein
+PGF_02057791	Fluoribacter	188.00	0.00	hypothetical protein
+PGF_02057812	Fluoribacter	185.00	0.00	hypothetical protein
+PGF_02057823	Fluoribacter	103.00	0.00	hypothetical protein
+PGF_02057834	Fluoribacter	225.00	12.59	hypothetical protein
+PGF_02057845	Fluoribacter	90.00	0.00	hypothetical protein
+PGF_02057856	Fluoribacter	167.38	1.69	hypothetical protein
+PGF_02057867	Fluoribacter	148.25	11.87	hypothetical protein
+PGF_02057919	Fluoribacter	535.50	3.82	hypothetical protein
+PGF_02057978	Fluoribacter	444.62	11.90	All0324 protein
+PGF_02058020	Fluoribacter	640.75	2.96	Cardiac ankyrin repeat protein
+PGF_02058041	Fluoribacter	161.38	12.94	Chromate transport protein
+PGF_02058122	Fluoribacter	162.75	1.04	Enhanced entry protein EnhB
+PGF_02058184	Fluoribacter	263.62	1.69	Generic methyl-transferase
+PGF_02058215	Fluoribacter	277.00	4.14	IcmG protein
+PGF_02058266	Fluoribacter	354.00	0.00	Membrane associated zinc metalloprotease (EC 3.4.24.-)
+PGF_02058525	Fluoribacter	201.00	0.00	hypothetical protein
+PGF_02058530	Fluoribacter	427.62	5.80	hypothetical protein
+PGF_02058539	Fluoribacter	143.00	14.51	hypothetical protein
+PGF_02058558	Fluoribacter	466.62	0.52	Ankyrin repeat domain protein
+PGF_02058724	Fluoribacter	549.00	0.00	Hemagglutinin/protease, zinc metalloprotease (EC 3.4.24.-)
+PGF_02058747	Fluoribacter	333.50	1.31	hypothetical protein
+PGF_02058799	Fluoribacter	227.62	0.52	ProP effector
+PGF_02058817	Fluoribacter	420.00	0.00	RND efflux membrane fusion protein, acriflavin resistance protein E
+PGF_02058872	Fluoribacter	203.38	0.52	Thiol:disulfide interchange protein dsbA precursor
+PGF_02058916	Fluoribacter	954.38	7.98	hypothetical protein
+PGF_02058934	Fluoribacter	331.75	2.66	hypothetical protein
+PGF_02058973	Fluoribacter	166.75	37.48	hypothetical protein
+PGF_02058995	Fluoribacter	161.62	0.52	hypothetical protein
+PGF_02059009	Fluoribacter	197.00	0.00	hypothetical protein
+PGF_02059020	Fluoribacter	557.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02059033	Fluoribacter	1080.12	0.83	ATP-dependent nuclease subunit A
+PGF_02059049	Fluoribacter	242.00	0.00	hypothetical protein
+PGF_02059110	Fluoribacter	1201.00	0.00	Enhanced entry protein EnhC
+PGF_02059137	Fluoribacter	539.75	1.39	hypothetical protein
+PGF_02059158	Fluoribacter	497.88	4.61	hypothetical protein
+PGF_02059187	Fluoribacter	424.00	14.96	Oxidoreductase
+PGF_02059193	Fluoribacter	278.00	0.00	Oxidoreductase dehydrogenase, short chain
+PGF_02059246	Fluoribacter	1873.38	29.24	SdhA, substrate of the Dot/Icm system
+PGF_02059254	Fluoribacter	222.50	2.07	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_02059356	Fluoribacter	218.25	1.04	hypothetical protein
+PGF_02059405	Fluoribacter	295.25	1.04	hypothetical protein
+PGF_02059414	Fluoribacter	155.00	0.00	hypothetical protein
+PGF_02059435	Fluoribacter	65.00	0.00	hypothetical protein
+PGF_02059543	Fluoribacter	678.12	0.83	Endothelin-converting enzyme 1 precursor (EC 3.4.24.71)
+PGF_02059651	Fluoribacter	402.00	16.77	Membrane-bound lytic murein transglycosylase A (MLT) family protein (EC 3.2.1.-)
+PGF_02059684	Fluoribacter	188.62	1.41	hypothetical protein
+PGF_02059693	Fluoribacter	231.25	17.57	Outer membrane protein
+PGF_02059697	Fluoribacter	366.88	3.44	hypothetical protein
+PGF_02059752	Fluoribacter	1999.12	1.25	hypothetical protein
+PGF_02059797	Fluoribacter	769.25	2.31	hypothetical protein
+PGF_02059807	Fluoribacter	395.25	1.04	hypothetical protein
+PGF_02059819	Fluoribacter	426.38	0.52	Xanthine/uracil permease
+PGF_02059850	Fluoribacter	196.00	0.00	hypothetical protein
+PGF_02059866	Fluoribacter	442.75	13.44	hypothetical protein
+PGF_02059872	Fluoribacter	227.25	0.46	hypothetical protein
+PGF_02059876	Fluoribacter	195.88	2.59	hypothetical protein
+PGF_02059895	Fluoribacter	336.25	10.65	hypothetical protein
+PGF_02059907	Fluoribacter	78.00	0.00	hypothetical protein
+PGF_02059916	Fluoribacter	88.00	0.00	hypothetical protein
+PGF_02059949	Fluoribacter	543.38	8.73	hypothetical protein
+PGF_02059959	Fluoribacter	185.00	0.00	2-dehydro-3-deoxy-phosphogluconate aldolase
+PGF_02060026	Fluoribacter	199.38	0.52	hypothetical protein
+PGF_02060042	Fluoribacter	193.00	0.00	FIG016519: Putative DNA-binding protein
+PGF_02060126	Fluoribacter	643.12	2.42	hypothetical protein
+PGF_02060157	Fluoribacter	284.62	6.95	Putative hydrolase
+PGF_02060164	Fluoribacter	297.75	0.46	Putative tellurite resistance protein
+PGF_02060253	Fluoribacter	546.88	3.44	hypothetical protein
+PGF_02060263	Fluoribacter	200.25	6.63	hypothetical protein
+PGF_02060271	Fluoribacter	472.88	1.55	hypothetical protein
+PGF_02060303	Fluoribacter	408.88	57.53	hypothetical protein
+PGF_02060353	Fluoribacter	62.00	0.00	hypothetical protein
+PGF_02060377	Fluoribacter	180.38	0.52	hypothetical protein
+PGF_02060399	Fluoribacter	124.00	0.00	hypothetical protein
+PGF_02060413	Fluoribacter	65.00	0.00	hypothetical protein
+PGF_02060489	Fluoribacter	139.00	0.00	Bacterial/Archaeal transporter family protein
+PGF_02060532	Fluoribacter	767.50	30.11	Chitinase (EC 3.2.1.14)
+PGF_02060656	Fluoribacter	180.00	0.00	IcmC protein
+PGF_02060674	Fluoribacter	235.12	39.24	Inner membrane protein AmpE
+PGF_02060759	Fluoribacter	295.00	0.00	hypothetical protein
+PGF_02060874	Fluoribacter	763.50	4.63	Sensory box protein/GGDEF/EAL domains
+PGF_02060907	Fluoribacter	2089.75	2.66	hypothetical protein
+PGF_02060984	Fluoribacter	426.88	79.34	hypothetical protein
+PGF_02060995	Fluoribacter	298.62	0.52	hypothetical protein
+PGF_02061015	Fluoribacter	393.00	0.00	hypothetical protein
+PGF_02061025	Fluoribacter	260.00	0.00	hypothetical protein
+PGF_02061058	Fluoribacter	246.88	0.83	hypothetical protein
+PGF_02061079	Fluoribacter	210.38	0.52	hypothetical protein
+PGF_02061098	Fluoribacter	119.62	15.82	hypothetical protein
+PGF_02061117	Fluoribacter	93.00	0.00	hypothetical protein
+PGF_02061136	Fluoribacter	301.75	2.31	hypothetical protein
+PGF_02061154	Fluoribacter	300.00	0.00	pyridoxal phosphate-dependent deaminase, putative
+PGF_02061241	Fluoribacter	774.88	40.70	hypothetical protein
+PGF_02061256	Fluoribacter	1150.88	8.43	Calcium-transporting ATPase (EC 3.6.3.8)
+PGF_02061264	Fluoribacter	213.50	8.33	Carboxylesterase/phospholipase
+PGF_02061310	Fluoribacter	187.25	0.46	Enhanced entry protein EnhB
+PGF_02061327	Fluoribacter	292.25	1.04	hypothetical protein
+PGF_02061400	Fluoribacter	294.12	10.67	hypothetical protein
+PGF_02061416	Fluoribacter	189.25	1.04	Lipopolysaccharide export system protein LptC
+PGF_02061436	Fluoribacter	185.00	0.00	LphA protein
+PGF_02061503	Fluoribacter	472.00	0.00	Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_02061621	Fluoribacter	325.25	2.82	Tyrosine phosphatase II superfamily protein
+PGF_02061650	Fluoribacter	545.00	0.00	hypothetical protein
+PGF_02061693	Fluoribacter	395.75	2.82	hypothetical protein
+PGF_02061703	Fluoribacter	684.50	2.93	hypothetical protein
+PGF_02061879	Fluoribacter	109.00	0.00	hypothetical protein
+PGF_02061900	Fluoribacter	129.00	0.00	hypothetical protein
+PGF_02061911	Fluoribacter	96.75	14.05	hypothetical protein
+PGF_02061940	Fluoribacter	638.50	20.22	5-keto-2-deoxygluconokinase (EC 2.7.1.92) / 5-deoxy-glucuronate isomerase (EC 5.3.1.-)
+PGF_02062106	Fluoribacter	209.50	0.93	hypothetical protein
+PGF_02062141	Fluoribacter	233.75	19.29	hypothetical protein
+PGF_02062300	Fluoribacter	271.25	1.39	hypothetical protein
+PGF_02062339	Fluoribacter	176.00	0.00	hypothetical protein
+PGF_02062370	Fluoribacter	478.88	11.89	hypothetical protein
+PGF_02062399	Fluoribacter	400.00	3.34	hypothetical protein
+PGF_02062441	Fluoribacter	310.00	0.00	hypothetical protein
+PGF_02062557	Fluoribacter	128.00	0.00	hypothetical protein
+PGF_02062598	Fluoribacter	425.12	3.80	Acetylpolyamine aminohydolase
+PGF_02062631	Fluoribacter	165.12	1.25	hypothetical protein
+PGF_02062665	Fluoribacter	85.00	0.00	hypothetical protein
+PGF_02062777	Fluoribacter	379.00	0.00	General secretion pathway protein L
+PGF_02062977	Fluoribacter	322.00	0.00	Quinone oxidoreductase
+PGF_02063129	Fluoribacter	657.25	21.95	acylaminoacyl-peptidase
+PGF_02063208	Fluoribacter	805.88	13.66	hypothetical protein
+PGF_02063236	Fluoribacter	428.50	4.72	hypothetical protein
+PGF_02063302	Fluoribacter	292.75	5.18	hypothetical protein
+PGF_02063308	Fluoribacter	479.25	4.65	hypothetical protein
+PGF_02063317	Fluoribacter	427.50	2.07	hypothetical protein
+PGF_02063340	Fluoribacter	122.00	0.00	hypothetical protein
+PGF_02063360	Fluoribacter	760.88	2.90	hypothetical protein
+PGF_02063371	Fluoribacter	90.00	0.00	hypothetical protein
+PGF_02063422	Fluoribacter	122.88	1.55	hypothetical protein
+PGF_02063433	Fluoribacter	152.25	0.46	hypothetical protein
+PGF_02063441	Fluoribacter	117.75	0.46	hypothetical protein
+PGF_02063462	Fluoribacter	132.00	0.00	hypothetical protein
+PGF_02063505	Fluoribacter	127.00	0.00	hypothetical protein
+PGF_02063551	Fluoribacter	272.00	0.00	3'-nucleotidase/nuclease
+PGF_02063573	Fluoribacter	251.00	0.00	3-oxoacyl reductase (EC 1.1.1.100)
+PGF_02063604	Fluoribacter	318.75	48.79	Biotin synthesis protein BioZ
+PGF_02063614	Fluoribacter	397.75	1.67	Choline kinase (EC 2.7.1.32)
+PGF_02063733	Fluoribacter	143.12	11.81	IcmV protein
+PGF_02063753	Fluoribacter	644.75	2.82	L-gulono-gamma-lactone oxidase (EC 1.1.3.8)
+PGF_02063864	Fluoribacter	213.00	0.00	Probable short chain oxidoreductase
+PGF_02063975	Fluoribacter	255.38	10.36	conserved hypothetical protein-putative ATP/GTP-binding protein
+PGF_02064037	Fluoribacter	246.62	0.52	hypothetical protein
+PGF_02064142	Fluoribacter	201.50	29.00	hypothetical protein
+PGF_02064164	Fluoribacter	305.75	1.04	DNA recombination-dependent growth factor RdgC
+PGF_02064175	Fluoribacter	141.25	1.39	hypothetical protein
+PGF_02064208	Fluoribacter	77.00	0.00	hypothetical protein
+PGF_02064230	Fluoribacter	238.00	0.00	hypothetical protein
+PGF_02064283	Fluoribacter	87.00	1.85	hypothetical protein
+PGF_02064294	Fluoribacter	70.00	0.00	hypothetical protein
+PGF_02064356	Fluoribacter	365.62	5.50	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_02064585	Fluoribacter	167.25	4.95	Lipopolysaccharide export system protein LptA
+PGF_02065163	Fluoribacter	120.25	16.26	hypothetical protein
+PGF_02065174	Fluoribacter	104.00	0.00	hypothetical protein
+PGF_02065185	Fluoribacter	265.25	0.46	hypothetical protein
+PGF_02065196	Fluoribacter	131.50	0.93	hypothetical protein
+PGF_02065217	Fluoribacter	101.38	0.52	hypothetical protein
+PGF_02065290	Fluoribacter	75.00	0.00	Acyl carrier protein
+PGF_02066104	Fluoribacter	355.62	2.83	hypothetical protein
+PGF_02066298	Fluoribacter	133.00	0.00	hypothetical protein
+PGF_02066342	Fluoribacter	296.12	0.83	hypothetical protein
+PGF_02066383	Fluoribacter	117.12	53.71	hypothetical protein
+PGF_02067094	Fluoribacter	228.88	0.83	hypothetical protein
+PGF_02067172	Fluoribacter	597.00	0.00	Sphingosine-1-phosphate lyase 1 (EC 4.1.2.27)
+PGF_02067534	Fluoribacter	95.00	1.85	hypothetical protein
+PGF_02067622	Fluoribacter	65.25	1.39	hypothetical protein
+PGF_02067717	Fluoribacter	122.25	1.04	hypothetical protein
+PGF_02067774	Fluoribacter	489.25	4.56	Coenzyme F390 synthetase
+PGF_02068132	Fluoribacter	115.00	0.00	hypothetical protein
+PGF_02068443	Fluoribacter	213.75	44.78	hypothetical protein
+PGF_02069086	Fluoribacter	197.00	44.48	hypothetical protein
+PGF_02069089	Fluoribacter	187.62	1.41	hypothetical protein
+PGF_02069132	Fluoribacter	102.75	6.94	hypothetical protein
+PGF_02069206	Fluoribacter	94.00	0.00	hypothetical protein
+PGF_02069272	Fluoribacter	355.25	126.42	hypothetical protein
+PGF_02069428	Fluoribacter	973.00	0.00	IcmF protein
+PGF_02069450	Fluoribacter	80.75	1.39	hypothetical protein
+PGF_02069488	Fluoribacter	432.50	1.31	hypothetical protein
+PGF_02069507	Fluoribacter	262.00	0.00	OmpA/MotB domain
+PGF_02069642	Fluoribacter	677.62	13.93	hypothetical protein
+PGF_02069706	Fluoribacter	96.00	0.00	hypothetical protein
+PGF_02069711	Fluoribacter	406.38	28.57	hypothetical protein
+PGF_02069716	Fluoribacter	100.62	15.20	hypothetical protein
+PGF_02069717	Fluoribacter	173.75	1.67	hypothetical protein
+PGF_02069782	Fluoribacter	146.00	0.00	hypothetical protein
+PGF_02069819	Fluoribacter	758.88	11.81	hypothetical protein
+PGF_02069837	Fluoribacter	94.75	11.39	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02069838	Fluoribacter	299.25	0.46	hypothetical protein
+PGF_02069840	Fluoribacter	174.38	0.52	hypothetical protein
+PGF_02069844	Fluoribacter	84.00	0.00	hypothetical protein
+PGF_02069917	Fluoribacter	142.75	0.46	hypothetical protein
+PGF_02069920	Fluoribacter	162.50	8.54	hypothetical protein
+PGF_02070018	Fluoribacter	443.62	17.23	hypothetical protein
+PGF_02070129	Fluoribacter	502.00	5.86	hypothetical protein
+PGF_02070156	Fluoribacter	291.00	0.00	hypothetical protein
+PGF_02070157	Fluoribacter	300.00	0.00	hypothetical protein
+PGF_02070160	Fluoribacter	310.00	0.00	hypothetical protein
+PGF_02070219	Fluoribacter	304.00	0.00	hypothetical protein
+PGF_02070259	Fluoribacter	202.62	0.52	Phospholipid ABC transporter shuttle protein MlaC
+PGF_02070263	Fluoribacter	572.88	0.83	hypothetical protein
+PGF_02070292	Fluoribacter	98.00	11.31	hypothetical protein
+PGF_02070296	Fluoribacter	216.88	0.83	hypothetical protein
+PGF_02070297	Fluoribacter	115.75	28.24	hypothetical protein
+PGF_02070298	Fluoribacter	257.12	1.25	hypothetical protein
+PGF_02070302	Fluoribacter	242.25	0.46	Putative transport protein
+PGF_02070306	Fluoribacter	149.62	0.52	hypothetical protein
+PGF_02070310	Fluoribacter	200.00	0.00	hypothetical protein
+PGF_02070322	Fluoribacter	149.00	0.00	hypothetical protein
+PGF_02070403	Fluoribacter	272.00	0.00	Small-molecule methyltransferase IraA
+PGF_02070434	Fluoribacter	755.50	1.31	hypothetical protein
+PGF_02070435	Fluoribacter	633.62	0.52	hypothetical protein
+PGF_02070439	Fluoribacter	152.00	0.00	hypothetical protein
+PGF_02070458	Fluoribacter	359.00	3.34	hypothetical protein
+PGF_02070466	Fluoribacter	297.75	0.46	hypothetical protein
+PGF_02070475	Fluoribacter	405.75	2.12	hypothetical protein
+PGF_02070498	Fluoribacter	135.00	0.00	hypothetical protein
+PGF_02070502	Fluoribacter	164.25	7.87	hypothetical protein
+PGF_02070503	Fluoribacter	154.50	2.07	hypothetical protein
+PGF_02070507	Fluoribacter	99.62	0.52	hypothetical protein
+PGF_02070508	Fluoribacter	110.12	0.83	hypothetical protein
+PGF_02070510	Fluoribacter	137.50	0.93	hypothetical protein
+PGF_02070511	Fluoribacter	91.00	0.00	hypothetical protein
+PGF_02070512	Fluoribacter	317.00	0.00	hypothetical protein
+PGF_02070513	Fluoribacter	263.50	0.93	hypothetical protein
+PGF_02070516	Fluoribacter	89.00	0.00	hypothetical protein
+PGF_02070521	Fluoribacter	317.25	5.18	hypothetical protein
+PGF_02070525	Fluoribacter	118.00	0.00	hypothetical protein
+PGF_02070671	Fluoribacter	129.38	0.52	Activator of ProP osmoprotectant transporter
+PGF_02070799	Fluoribacter	200.50	0.93	hypothetical protein
+PGF_02070802	Fluoribacter	164.00	0.00	hypothetical protein
+PGF_02070805	Fluoribacter	294.00	0.00	hypothetical protein
+PGF_02070810	Fluoribacter	168.00	0.00	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50) @ Folate biosynthesis protein PTPS-III, catalyzes a reaction that bypasses dihydroneopterin aldolase (FolB)
+PGF_02070820	Fluoribacter	95.88	0.83	hypothetical protein
+PGF_02070822	Fluoribacter	107.25	0.46	hypothetical protein
+PGF_02070834	Fluoribacter	157.00	0.00	hypothetical protein
+PGF_02070835	Fluoribacter	288.50	28.70	hypothetical protein
+PGF_02070847	Fluoribacter	184.00	0.00	hypothetical protein
+PGF_02070849	Fluoribacter	624.38	0.52	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_02070850	Fluoribacter	196.38	31.09	hypothetical protein
+PGF_02070855	Fluoribacter	83.00	0.00	hypothetical protein
+PGF_02070870	Fluoribacter	157.12	1.25	hypothetical protein
+PGF_02070887	Fluoribacter	948.00	0.93	hypothetical protein
+PGF_02070937	Fluoribacter	88.88	12.92	hypothetical protein
+PGF_02070976	Fluoribacter	212.00	0.00	IcmL (DotI) protein
+PGF_02071207	Fluoribacter	233.00	0.93	Outer membrane protein MIP precursor (Macrophage infectivity potentiator) (Peptidyl-prolyl cis-trans isomerase) (EC 5.2.1.8)
+PGF_02071220	Fluoribacter	458.62	14.86	Protease
+PGF_02071222	Fluoribacter	230.38	18.75	hypothetical protein
+PGF_02071248	Fluoribacter	1112.38	21.39	hypothetical protein
+PGF_02071262	Fluoribacter	271.25	21.86	hypothetical protein
+PGF_02071266	Fluoribacter	586.25	38.25	hypothetical protein
+PGF_02071280	Fluoribacter	118.50	14.49	hypothetical protein
+PGF_02071283	Fluoribacter	407.00	0.00	hypothetical protein
+PGF_02071349	Fluoribacter	561.62	0.52	TPR domain protein
+PGF_02071360	Fluoribacter	288.00	0.00	hypothetical protein
+PGF_02071438	Fluoribacter	276.38	3.11	hypothetical protein
+PGF_02071439	Fluoribacter	233.88	15.82	hypothetical protein
+PGF_02071441	Fluoribacter	200.25	0.46	hypothetical protein
+PGF_02071445	Fluoribacter	259.75	1.91	hypothetical protein
+PGF_02071447	Fluoribacter	217.88	1.81	hypothetical protein
+PGF_02071452	Fluoribacter	882.75	1.91	hypothetical protein
+PGF_02071468	Fluoribacter	279.88	7.57	hypothetical protein
+PGF_02071497	Fluoribacter	235.25	5.09	hypothetical protein
+PGF_02071502	Fluoribacter	407.00	0.00	hypothetical protein
+PGF_02071512	Fluoribacter	164.00	0.00	hypothetical protein
+PGF_02071529	Fluoribacter	302.25	3.73	hypothetical protein
+PGF_02071535	Fluoribacter	259.50	1.31	hypothetical protein
+PGF_02071537	Fluoribacter	80.00	0.00	hypothetical protein
+PGF_02071538	Fluoribacter	110.00	0.00	hypothetical protein
+PGF_02071539	Fluoribacter	193.25	4.92	hypothetical protein
+PGF_02071547	Fluoribacter	137.62	0.52	hypothetical protein
+PGF_02071563	Fluoribacter	91.25	13.07	hypothetical protein
+PGF_02071570	Fluoribacter	161.62	0.52	hypothetical protein
+PGF_02071609	Fluoribacter	102.75	9.90	hypothetical protein
+PGF_02071743	Fluoribacter	71.75	0.71	hypothetical protein
+PGF_02071747	Fluoribacter	276.88	6.13	hypothetical protein
+PGF_02071792	Fluoribacter	293.12	0.83	hypothetical protein
+PGF_02071896	Fluoribacter	253.00	0.00	All0326 protein
+PGF_02071910	Fluoribacter	426.38	7.71	hypothetical protein
+PGF_02072210	Fluoribacter	322.00	0.00	Dodecaprenyl diphosphate synthase
+PGF_02072212	Fluoribacter	160.50	3.46	DotD
+PGF_02072254	Fluoribacter	466.38	0.52	hypothetical protein
+PGF_02072257	Fluoribacter	336.75	1.04	GMP reductase (EC 1.7.1.7)
+PGF_02072288	Fluoribacter	226.00	4.14	Glr3318 protein
+PGF_02072298	Fluoribacter	358.88	2.59	hypothetical protein
+PGF_02072354	Fluoribacter	283.12	23.09	hypothetical protein
+PGF_02072378	Fluoribacter	349.50	8.73	hypothetical protein
+PGF_02072384	Fluoribacter	440.25	1.83	hypothetical protein
+PGF_02072392	Fluoribacter	204.00	32.34	hypothetical protein
+PGF_02072406	Fluoribacter	304.75	0.46	hypothetical protein
+PGF_02072692	Fluoribacter	458.00	0.00	Membrane-bound lytic murein transglycosylase A
+PGF_02072696	Fluoribacter	133.00	4.14	hypothetical protein
+PGF_02072702	Fluoribacter	86.38	4.17	hypothetical protein
+PGF_02072708	Fluoribacter	175.00	0.00	hypothetical protein
+PGF_02072784	Fluoribacter	256.00	0.00	hypothetical protein
+PGF_02072794	Fluoribacter	195.12	0.83	hypothetical protein
+PGF_02072814	Fluoribacter	308.00	0.93	hypothetical protein
+PGF_02072821	Fluoribacter	235.38	3.85	hypothetical protein
+PGF_02072829	Fluoribacter	241.75	20.50	hypothetical protein
+PGF_02072880	Fluoribacter	140.75	1.04	hypothetical protein
+PGF_02072888	Fluoribacter	116.75	1.04	hypothetical protein
+PGF_02072914	Fluoribacter	95.00	0.00	hypothetical protein
+PGF_02072919	Fluoribacter	91.12	1.55	hypothetical protein
+PGF_02072924	Fluoribacter	427.12	1.81	hypothetical protein
+PGF_02072925	Fluoribacter	232.88	2.42	hypothetical protein
+PGF_02072950	Fluoribacter	138.88	1.25	hypothetical protein
+PGF_02072951	Fluoribacter	215.38	0.52	hypothetical protein
+PGF_02073089	Fluoribacter	107.00	0.00	hypothetical protein
+PGF_02073318	Fluoribacter	233.00	0.00	hypothetical protein
+PGF_02073328	Fluoribacter	117.25	7.78	hypothetical protein
+PGF_02073466	Fluoribacter	133.25	0.46	Thioesterase
+PGF_02073734	Fluoribacter	297.88	16.66	hypothetical protein
+PGF_02073772	Fluoribacter	276.00	0.00	hypothetical protein
+PGF_02073798	Fluoribacter	165.00	0.00	hypothetical protein
+PGF_02073808	Fluoribacter	268.00	0.00	hypothetical protein
+PGF_02073818	Fluoribacter	93.00	0.00	hypothetical protein
+PGF_02073827	Fluoribacter	108.00	0.00	hypothetical protein
+PGF_02073844	Fluoribacter	88.25	1.04	hypothetical protein
+PGF_02073855	Fluoribacter	408.62	1.77	proton/glutamate symporter family protein, putative
+PGF_02073942	Fluoribacter	719.75	1.04	2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) / Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)
+PGF_02073946	Fluoribacter	537.88	9.19	hypothetical protein
+PGF_02073972	Fluoribacter	364.25	0.46	ATPase N2B
+PGF_02074018	Fluoribacter	150.88	0.83	hypothetical protein
+PGF_02074031	Fluoribacter	269.62	0.52	Cell division protein ZipA
+PGF_02075241	Fluoribacter	654.00	0.00	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02085373	Fluoribacter	159.00	0.00	UPF0225 protein YchJ
+PGF_02098099	Fluoribacter	509.00	0.00	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02109968	Fluoribacter	329.00	0.00	Flagellar motor switch protein FliG
+PGF_02141097	Fluoribacter	784.00	0.00	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02169237	Fluoribacter	233.00	0.00	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Fluoribacter	425.00	0.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Fluoribacter	383.00	0.00	Flagellar biosynthesis protein FlhB
+PGF_02199145	Fluoribacter	201.00	1.85	Flavoprotein WrbA
+PGF_02204321	Fluoribacter	344.00	0.00	Twitching motility protein PilT
+PGF_02214779	Fluoribacter	910.00	0.00	Signal transduction histidine-protein kinase BarA (EC 2.7.13.3)
+PGF_02226715	Fluoribacter	680.25	7.87	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02229778	Fluoribacter	409.00	0.00	Arsenic efflux pump protein
+PGF_02239557	Fluoribacter	260.00	0.00	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02286202	Fluoribacter	312.25	2.12	General secretion pathway protein K
+PGF_02295498	Fluoribacter	94.50	19.44	Ferredoxin, 2Fe-2S
+PGF_02313996	Fluoribacter	113.00	0.00	Possible carboxymuconolactone decarboxylase family protein (EC 4.1.1.44)
+PGF_02315316	Fluoribacter	493.25	12.94	Peptidase, M23/M37 family
+PGF_02325838	Fluoribacter	504.50	17.58	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328820	Fluoribacter	64.25	0.46	hypothetical protein
+PGF_02346669	Fluoribacter	357.25	1.91	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Fluoribacter	860.00	0.00	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Fluoribacter	353.00	11.31	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Fluoribacter	893.25	1.04	DNA polymerase I (EC 2.7.7.7)
+PGF_02407790	Fluoribacter	424.00	0.00	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9), FadA2
+PGF_02450432	Fluoribacter	262.75	2.31	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Fluoribacter	88.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Fluoribacter	197.00	0.00	Recombination protein RecR
+PGF_02473279	Fluoribacter	251.00	0.00	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473679	Fluoribacter	574.88	6.64	Type IV fimbrial assembly, ATPase PilB
+PGF_02499550	Fluoribacter	205.00	0.00	Ubiquinone biosynthesis protein UbiJ
+PGF_02516666	Fluoribacter	390.12	20.17	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Fluoribacter	421.75	0.46	Enolase (EC 4.2.1.11)
+PGF_02517984	Fluoribacter	59.00	0.00	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02578186	Fluoribacter	357.00	0.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02592886	Fluoribacter	249.25	9.32	Flagellar biosynthesis protein FliR
+PGF_02593689	Fluoribacter	443.00	0.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601796	Fluoribacter	323.00	0.00	Ornithine cyclodeaminase (EC 4.3.1.12)
+PGF_02611620	Fluoribacter	460.00	0.00	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619970	Fluoribacter	89.00	0.00	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Fluoribacter	323.62	0.52	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Fluoribacter	1413.50	4.75	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Fluoribacter	118.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Fluoribacter	845.25	2.60	DNA mismatch repair protein MutS
+PGF_02744871	Fluoribacter	108.12	5.69	Flagellar hook-basal body complex protein FliE
+PGF_02750320	Fluoribacter	523.12	6.40	Rtn protein
+PGF_02772091	Fluoribacter	350.88	2.59	Methylphosphotriester-DNA--protein-cysteine S-methyltransferase (EC 2.1.1.n11) / ADA regulatory protein / Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02773452	Fluoribacter	165.62	0.52	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+PGF_02787494	Fluoribacter	221.50	2.78	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02789532	Fluoribacter	268.00	0.00	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Fluoribacter	216.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Fluoribacter	454.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Fluoribacter	1368.00	0.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02820109	Fluoribacter	181.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02825959	Fluoribacter	384.00	0.00	Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12)
+PGF_02838109	Fluoribacter	175.00	0.00	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Fluoribacter	243.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Fluoribacter	402.62	0.52	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02875609	Fluoribacter	452.00	0.00	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877531	Fluoribacter	992.50	19.94	hypothetical protein
+PGF_02879537	Fluoribacter	125.00	0.00	hypothetical protein
+PGF_02880937	Fluoribacter	126.50	1.31	hypothetical protein
+PGF_02883852	Fluoribacter	140.50	2.07	UPF0047 protein YjbQ
+PGF_02887031	Fluoribacter	484.88	4.22	Septum-associated cell division protein DamX
+PGF_02890229	Fluoribacter	575.62	12.94	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02891004	Fluoribacter	425.00	0.00	Glycerol-3-phosphate ABC transporter, substrate-binding protein UgpB
+PGF_02898176	Fluoribacter	208.25	9.32	Methionine ABC transporter permease protein
+PGF_02899131	Fluoribacter	64.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Fluoribacter	202.00	0.00	Outer membrane lipoprotein carrier protein LolA
+PGF_02903501	Fluoribacter	299.75	14.35	Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)
+PGF_02906681	Fluoribacter	780.00	0.00	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02911364	Fluoribacter	304.00	0.00	HflC protein
+PGF_02912009	Fluoribacter	199.00	0.00	Type IV pilus biogenesis protein PilO
+PGF_02912272	Fluoribacter	166.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02914964	Fluoribacter	371.25	0.46	Glutamate--UDP-2-acetamido-2-deoxy-D-ribohex-3-uluronic acid aminotransferase (PLP cofactor) (EC 2.6.1.98)
+PGF_02919681	Fluoribacter	118.00	0.00	hypothetical protein
+PGF_02919689	Fluoribacter	245.38	0.52	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02922755	Fluoribacter	242.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_02923127	Fluoribacter	246.50	0.93	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02929441	Fluoribacter	211.75	2.31	hypothetical protein
+PGF_02930687	Fluoribacter	320.00	0.00	Oxidoreductase, Gfo/Idh/MocA family
+PGF_02936332	Fluoribacter	290.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02937881	Fluoribacter	398.62	0.52	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+PGF_02944588	Fluoribacter	769.00	0.00	Na(+)-dependent bicarbonate transporter BicA / Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_02944756	Fluoribacter	394.00	0.00	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Fluoribacter	558.75	0.46	SSU ribosomal protein S1p
+PGF_02950579	Fluoribacter	276.00	0.00	Septum site-determining protein MinD
+PGF_02956462	Fluoribacter	127.00	0.00	RidA/YER057c/UK114 superfamily protein
+PGF_02967061	Fluoribacter	169.00	0.00	putative membrane protein
+PGF_02975568	Fluoribacter	76.62	0.52	hypothetical protein
+PGF_02976396	Fluoribacter	350.00	0.00	3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4)
+PGF_02980852	Fluoribacter	302.00	0.00	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02981371	Fluoribacter	263.38	0.52	27kDa outer membrane protein
+PGF_02992495	Fluoribacter	107.25	1.04	Protein translocase membrane subunit SecG
+PGF_02992984	Fluoribacter	225.00	0.00	hypothetical protein
+PGF_03006190	Fluoribacter	398.75	1.67	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03007790	Fluoribacter	152.00	0.00	hypothetical protein
+PGF_03007931	Fluoribacter	469.25	1.04	hypothetical protein
+PGF_03011092	Fluoribacter	293.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017775	Fluoribacter	497.00	0.00	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Fluoribacter	199.38	0.52	Septum formation protein Maf
+PGF_03025675	Fluoribacter	588.00	0.00	Lipid A export permease/ATP-binding protein MsbA
+PGF_03026450	Fluoribacter	1164.00	0.00	Chromosome partition protein smc
+PGF_03033930	Fluoribacter	457.75	1.04	Type I secretion outer membrane protein, TolC family
+PGF_03037358	Fluoribacter	166.00	0.00	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_03043990	Fluoribacter	294.75	1.04	Inosose dehydratase (EC 4.2.1.44)
+PGF_03046220	Fluoribacter	64.00	0.00	hypothetical protein
+PGF_03051361	Fluoribacter	146.75	1.04	hypothetical protein
+PGF_03054699	Fluoribacter	793.88	7.74	DNA translocase FtsK
+PGF_03057384	Fluoribacter	330.62	0.52	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03057944	Fluoribacter	466.38	0.52	hypothetical protein
+PGF_03059539	Fluoribacter	301.50	6.48	3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)
+PGF_03069524	Fluoribacter	73.00	0.00	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03070402	Fluoribacter	424.38	0.52	Proton/glutamate symporter @ Sodium/glutamate symporter
+PGF_03070510	Fluoribacter	289.00	0.00	Flagellar synthesis regulator FleN
+PGF_03072991	Fluoribacter	157.00	0.00	hypothetical protein
+PGF_03074362	Fluoribacter	374.00	0.00	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03076427	Fluoribacter	446.12	97.00	hypothetical protein
+PGF_03092802	Fluoribacter	396.88	4.88	hypothetical protein
+PGF_03099389	Fluoribacter	230.00	0.00	hypothetical protein
+PGF_03111948	Fluoribacter	249.00	0.00	Electron transfer flavoprotein, beta subunit
+PGF_03122066	Fluoribacter	158.00	9.97	Protein YaiI
+PGF_03125514	Fluoribacter	434.00	0.00	FIG015287: Zinc protease
+PGF_03126065	Fluoribacter	334.12	0.83	Putative esterase YheT functionally coupled to phosphoribulokinase homolog
+PGF_03128228	Fluoribacter	384.00	0.00	Outer membrane beta-barrel assembly protein BamB
+PGF_03142586	Fluoribacter	113.00	0.00	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03144011	Fluoribacter	161.75	1.04	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146150	Fluoribacter	382.12	63.65	hypothetical protein
+PGF_03146406	Fluoribacter	589.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03152003	Fluoribacter	232.62	7.76	Cytochrome c heme lyase subunit CcmH
+PGF_03154343	Fluoribacter	122.00	20.37	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Fluoribacter	256.00	0.00	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Fluoribacter	183.25	3.11	Transcription antitermination protein NusG
+PGF_03186757	Fluoribacter	185.25	2.31	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+PGF_03197083	Fluoribacter	768.00	0.00	Penicillin-insensitive transglycosylase (EC 2.4.2.-) & transpeptidase PBP-1C
+PGF_03198792	Fluoribacter	423.00	2.62	Glucan 1,4-alpha-glucosidase (EC 3.2.1.3)
+PGF_03222913	Fluoribacter	140.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Fluoribacter	77.88	16.11	UPF0125 protein RatB
+PGF_03272313	Fluoribacter	872.62	8.16	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277417	Fluoribacter	341.00	0.00	Methionine ABC transporter ATP-binding protein
+PGF_03278866	Fluoribacter	70.75	13.42	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03333815	Fluoribacter	219.00	16.80	Copper-sensing two-component system response regulator CpxR
+PGF_03337139	Fluoribacter	549.62	6.37	hypothetical protein
+PGF_03341277	Fluoribacter	230.00	0.00	Flagellar L-ring protein FlgH
+PGF_03348128	Fluoribacter	178.00	0.00	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03367066	Fluoribacter	229.00	0.00	Sll8048 protein
+PGF_03369967	Fluoribacter	386.00	0.00	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03394288	Fluoribacter	457.00	0.00	Succinate-semialdehyde dehydrogenase [NAD] (EC 1.2.1.24); Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79)
+PGF_03421722	Fluoribacter	445.50	2.07	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Fluoribacter	282.00	0.00	33 kDa chaperonin HslO
+PGF_03439582	Fluoribacter	233.50	23.15	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03439690	Fluoribacter	149.12	30.27	Ferric uptake regulation protein FUR
+PGF_03441339	Fluoribacter	323.75	10.65	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03441843	Fluoribacter	788.00	0.00	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03447545	Fluoribacter	305.00	0.00	Integral membrane protein
+PGF_03456505	Fluoribacter	542.38	4.66	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03474542	Fluoribacter	447.25	0.46	Flagellum-specific ATP synthase FliI
+PGF_03514188	Fluoribacter	451.38	0.52	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Fluoribacter	141.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Fluoribacter	395.62	0.52	Cell division protein FtsZ
+PGF_03561555	Fluoribacter	225.00	0.00	Acid phosphatase, class B
+PGF_03609651	Fluoribacter	553.00	0.00	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Fluoribacter	161.00	0.00	UPF0234 protein Yitk
+PGF_03682090	Fluoribacter	104.38	0.52	small multidrug resistance family (SMR) protein
+PGF_03683423	Fluoribacter	288.75	17.20	ABC transporter, substrate-binding protein (cluster 9, phospholipid)
+PGF_03687611	Fluoribacter	289.00	0.00	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12) / Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03694962	Fluoribacter	325.12	4.12	TolA protein
+PGF_03699416	Fluoribacter	336.00	16.48	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Fluoribacter	309.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03705121	Fluoribacter	320.50	2.07	Glycosyl transferase, group 2 family
+PGF_03708253	Fluoribacter	79.50	18.38	Protein translocase subunit SecE
+PGF_03719269	Fluoribacter	200.00	0.93	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Fluoribacter	162.25	0.46	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729004	Fluoribacter	346.75	0.46	Arginine N-succinyltransferase (EC 2.3.1.109)
+PGF_03729040	Fluoribacter	146.00	0.00	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03729141	Fluoribacter	187.00	0.00	UPF0301 protein YqgE
+PGF_03739563	Fluoribacter	111.00	0.00	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Fluoribacter	461.12	1.55	Chromosomal replication initiator protein DnaA
+PGF_03750599	Fluoribacter	325.12	6.13	Cell division coordinator CpoB
+PGF_03751065	Fluoribacter	58.00	0.00	Rubredoxin
+PGF_03751823	Fluoribacter	203.88	6.13	Heat shock protein GrpE
+PGF_03753933	Fluoribacter	151.25	4.95	Iron-sulfur cluster regulator IscR
+PGF_03756205	Fluoribacter	382.00	0.00	ABC transporter, RND-adapter-like protein
+PGF_03757137	Fluoribacter	411.88	0.35	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Fluoribacter	211.75	1.04	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03767152	Fluoribacter	87.00	0.00	Proposed lipoate regulatory protein YbeD
+PGF_03768099	Fluoribacter	283.88	2.59	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03777189	Fluoribacter	179.00	0.00	Protein YrdA
+PGF_03778780	Fluoribacter	350.00	0.00	Signal recognition particle receptor FtsY
+PGF_03781125	Fluoribacter	253.88	0.83	Endonuclease/exonuclease/phosphatase family protein
+PGF_03790040	Fluoribacter	226.62	1.41	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Fluoribacter	277.25	0.46	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Fluoribacter	75.12	2.59	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03804538	Fluoribacter	539.00	0.00	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03810089	Fluoribacter	495.00	0.00	General secretion pathway protein E
+PGF_03810115	Fluoribacter	224.00	0.00	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Fluoribacter	354.62	0.52	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03822630	Fluoribacter	594.25	6.34	hypothetical protein
+PGF_03835760	Fluoribacter	414.00	4.14	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03906292	Fluoribacter	93.25	0.46	Phospholipid ABC transporter-binding protein MlaB
+PGF_03912513	Fluoribacter	150.25	11.68	DNA protection during starvation protein
+PGF_03934498	Fluoribacter	437.00	0.00	Flagellar two-component response regulator FleR
+PGF_03935716	Fluoribacter	390.00	0.00	Inner membrane protein, KefB/KefC family
+PGF_03954476	Fluoribacter	286.00	0.00	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03960810	Fluoribacter	225.00	0.00	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03964345	Fluoribacter	159.00	0.00	Sodium-dependent phosphate transporter
+PGF_03969636	Fluoribacter	132.00	0.00	PhbF
+PGF_03974401	Fluoribacter	362.00	0.00	dehydrogenase, NADP-dependent
+PGF_03982088	Fluoribacter	135.50	0.93	hypothetical protein
+PGF_03991729	Fluoribacter	389.00	0.00	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04006398	Fluoribacter	87.75	3.24	hypothetical protein
+PGF_04007946	Fluoribacter	200.00	0.00	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Fluoribacter	443.75	6.02	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Fluoribacter	128.00	0.93	Large-conductance mechanosensitive channel
+PGF_04033297	Fluoribacter	245.00	0.00	hypothetical protein
+PGF_04034430	Fluoribacter	76.00	0.00	SSU ribosomal protein S21p
+PGF_04041316	Fluoribacter	941.62	0.52	Excinuclease ABC subunit A
+PGF_04043408	Fluoribacter	116.25	2.31	hypothetical protein
+PGF_04044189	Fluoribacter	334.75	1.67	hypothetical protein
+PGF_04045122	Fluoribacter	205.00	2.93	hypothetical protein
+PGF_04075064	Fluoribacter	111.50	2.78	hypothetical protein
+PGF_04085192	Fluoribacter	67.12	3.31	hypothetical protein
+PGF_04091295	Fluoribacter	257.00	0.00	Flagellar motor rotation protein MotA
+PGF_04108689	Fluoribacter	50.75	4.95	hypothetical protein
+PGF_04108824	Fluoribacter	556.00	0.00	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04110368	Fluoribacter	552.75	1.39	Aerotolerance protein BatD
+PGF_04127376	Fluoribacter	229.00	0.00	Twin-arginine translocation protein TatC
+PGF_04131439	Fluoribacter	393.00	0.00	Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)
+PGF_04139721	Fluoribacter	258.00	0.00	Enoyl-CoA hydratase (EC 4.2.1.17)
+PGF_04147121	Fluoribacter	506.00	0.00	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04151476	Fluoribacter	169.00	0.00	16S rRNA processing protein RimM
+PGF_04154333	Fluoribacter	61.00	0.00	Twin-arginine translocation protein TatA
+PGF_04162809	Fluoribacter	201.00	0.00	Alkyl hydroperoxide reductase subunit C-like protein
+PGF_04163139	Fluoribacter	223.12	15.01	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Fluoribacter	216.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04198961	Fluoribacter	184.00	0.00	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04213876	Fluoribacter	254.62	0.52	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04240096	Fluoribacter	762.00	3.34	Signal transduction histidine kinase CheA
+PGF_04255756	Fluoribacter	54.38	3.62	hypothetical protein
+PGF_04275878	Fluoribacter	229.38	0.52	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04280486	Fluoribacter	162.12	6.73	hypothetical protein
+PGF_04305971	Fluoribacter	50.62	5.80	hypothetical protein
+PGF_04306800	Fluoribacter	373.00	0.00	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04315180	Fluoribacter	155.62	0.52	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04316415	Fluoribacter	1011.12	15.98	Cellulose synthase operon protein C
+PGF_04332037	Fluoribacter	135.00	0.00	hypothetical protein
+PGF_04337447	Fluoribacter	147.00	0.00	hypothetical protein
+PGF_04345693	Fluoribacter	459.25	0.46	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04358941	Fluoribacter	105.88	2.42	hypothetical protein
+PGF_04359199	Fluoribacter	669.38	0.52	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04360357	Fluoribacter	896.62	0.52	Protein translocase subunit SecA
+PGF_04380075	Fluoribacter	158.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04397031	Fluoribacter	81.00	0.00	hypothetical protein
+PGF_04431830	Fluoribacter	493.00	0.00	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04457297	Fluoribacter	189.00	5.55	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04468817	Fluoribacter	70.12	4.88	hypothetical protein
+PGF_04475011	Fluoribacter	198.75	0.46	Cytochrome c4
+PGF_04493258	Fluoribacter	377.62	0.52	Cobalt-zinc-cadmium resistance protein
+PGF_04496981	Fluoribacter	411.75	224.51	hypothetical protein
+PGF_04505269	Fluoribacter	254.12	1.25	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Fluoribacter	345.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Fluoribacter	441.00	0.00	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04527312	Fluoribacter	424.88	1.55	Chloride channel protein
+PGF_04550604	Fluoribacter	53.62	7.76	hypothetical protein
+PGF_04569524	Fluoribacter	517.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Fluoribacter	225.75	0.46	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Fluoribacter	249.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04608820	Fluoribacter	587.75	11.57	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04626869	Fluoribacter	230.00	0.00	hypothetical protein
+PGF_04630848	Fluoribacter	143.00	0.00	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Fluoribacter	92.00	0.00	DNA-binding protein HU-beta
+PGF_04660832	Fluoribacter	154.75	0.46	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04661410	Fluoribacter	213.25	0.46	Two-component transcriptional response regulator, LuxR family
+PGF_04662829	Fluoribacter	805.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04677635	Fluoribacter	547.00	0.00	DipZ protein
+PGF_04679223	Fluoribacter	143.75	1.04	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04714433	Fluoribacter	273.25	3.37	hypothetical protein
+PGF_04734234	Fluoribacter	625.00	0.00	Kup system potassium uptake protein
+PGF_04741997	Fluoribacter	165.00	0.93	hypothetical protein
+PGF_04749763	Fluoribacter	869.50	2.93	Translation initiation factor 2
+PGF_04757308	Fluoribacter	657.00	0.00	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Fluoribacter	189.00	0.00	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04797175	Fluoribacter	156.62	0.52	hypothetical protein
+PGF_04807486	Fluoribacter	315.75	5.18	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Fluoribacter	120.62	0.52	LSU ribosomal protein L19p
+PGF_04865638	Fluoribacter	82.25	15.53	hypothetical protein
+PGF_04905411	Fluoribacter	66.00	0.00	hypothetical protein
+PGF_04906634	Fluoribacter	136.88	13.66	hypothetical protein
+PGF_04909552	Fluoribacter	62.75	1.04	hypothetical protein
+PGF_04941724	Fluoribacter	65.38	0.52	hypothetical protein
+PGF_04960746	Fluoribacter	212.00	0.00	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Fluoribacter	731.25	7.25	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Fluoribacter	67.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Fluoribacter	103.00	0.00	LSU ribosomal protein L21p
+PGF_04979579	Fluoribacter	479.00	1.85	Na+/H+ antiporter
+PGF_05079020	Fluoribacter	333.00	0.00	MoxR-like ATPase in aerotolerance operon
+PGF_05111929	Fluoribacter	580.00	0.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Fluoribacter	916.25	0.46	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Fluoribacter	824.00	0.00	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05144592	Fluoribacter	509.88	8.58	Putative diheme cytochrome c-553
+PGF_05165078	Fluoribacter	313.62	0.52	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05181117	Fluoribacter	1418.62	0.52	Uncharacterized ATP-dependent DNA helicase PA3272
+PGF_05195027	Fluoribacter	458.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Fluoribacter	475.25	1.04	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05255412	Fluoribacter	452.25	3.24	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05257314	Fluoribacter	1309.50	7.76	FIG005080: Possible exported protein
+PGF_05267152	Fluoribacter	177.00	0.00	Cytochrome B561, bacterial
+PGF_05280843	Fluoribacter	439.00	0.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Fluoribacter	789.00	0.00	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05294175	Fluoribacter	174.75	0.46	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Fluoribacter	434.50	16.72	ATP-dependent RNA helicase RhlE
+PGF_05322198	Fluoribacter	404.75	0.46	hypothetical protein
+PGF_05325943	Fluoribacter	117.38	2.13	hypothetical protein
+PGF_05326570	Fluoribacter	267.62	6.95	hypothetical protein
+PGF_05330640	Fluoribacter	64.00	0.00	hypothetical protein
+PGF_05338234	Fluoribacter	288.00	0.00	Protein YicC
+PGF_05342787	Fluoribacter	49.00	0.00	hypothetical protein
+PGF_05366548	Fluoribacter	258.75	1.04	Methionine ABC transporter substrate-binding protein
+PGF_05374359	Fluoribacter	326.75	0.46	Fumarylacetoacetate hydrolase family protein
+PGF_05386032	Fluoribacter	192.00	0.00	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05409279	Fluoribacter	190.00	0.00	Integral membrane protein
+PGF_05421896	Fluoribacter	96.50	8.38	hypothetical protein
+PGF_05436054	Fluoribacter	60.00	0.00	hypothetical protein
+PGF_05439724	Fluoribacter	672.50	0.93	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Fluoribacter	294.25	11.39	NAD kinase (EC 2.7.1.23)
+PGF_05471252	Fluoribacter	147.12	1.55	hypothetical protein
+PGF_05480968	Fluoribacter	292.00	1.85	hypothetical protein
+PGF_05498463	Fluoribacter	399.75	3.11	Glutamate-pyruvate aminotransferase AlaC (EC 2.6.1.2)
+PGF_05507938	Fluoribacter	548.00	0.93	DNA mismatch repair protein MutL
+PGF_05512409	Fluoribacter	127.12	1.25	hypothetical protein
+PGF_05514477	Fluoribacter	186.00	0.00	Chromate reductase (EC 1.6.5.2)
+PGF_05515206	Fluoribacter	604.38	0.52	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)
+PGF_05560886	Fluoribacter	270.88	1.81	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05561345	Fluoribacter	417.00	0.00	hypothetical protein
+PGF_05581732	Fluoribacter	442.50	0.93	Protein translocase subunit SecY
+PGF_05598173	Fluoribacter	369.62	0.52	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05603546	Fluoribacter	91.00	0.00	hypothetical protein
+PGF_05622318	Fluoribacter	417.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05643076	Fluoribacter	447.50	0.93	ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)
+PGF_05657253	Fluoribacter	216.00	0.00	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05687458	Fluoribacter	106.00	1.85	hypothetical protein
+PGF_05693577	Fluoribacter	103.00	0.00	Integration host factor beta subunit
+PGF_05712128	Fluoribacter	557.00	0.00	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Fluoribacter	115.50	0.93	FIG138056: a glutathione-dependent thiol reductase
+PGF_05769513	Fluoribacter	419.00	0.00	Tol-Pal system beta propeller repeat protein TolB
+PGF_05783000	Fluoribacter	875.88	0.83	hypothetical protein
+PGF_05790670	Fluoribacter	315.12	1.55	hypothetical protein
+PGF_05812443	Fluoribacter	199.00	3.34	hypothetical protein
+PGF_05872952	Fluoribacter	257.50	0.93	Outer membrane beta-barrel assembly protein BamD
+PGF_05875292	Fluoribacter	103.00	0.00	hypothetical protein
+PGF_05949521	Fluoribacter	618.00	0.00	Protein translocase subunit SecD
+PGF_05965455	Fluoribacter	419.38	0.52	AmpG permease
+PGF_05971611	Fluoribacter	401.00	0.00	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05985177	Fluoribacter	322.00	0.00	Lipase
+PGF_05999853	Fluoribacter	379.75	8.21	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06000040	Fluoribacter	406.00	0.00	Type IV fimbrial assembly protein PilC
+PGF_06005188	Fluoribacter	627.00	0.00	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06025565	Fluoribacter	304.00	0.00	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06027248	Fluoribacter	495.00	0.00	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06037862	Fluoribacter	608.00	3.82	Penicillin-binding protein activator LpoA
+PGF_06051594	Fluoribacter	466.00	0.00	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06053106	Fluoribacter	285.00	0.00	RNA polymerase sigma factor RpoH
+PGF_06054960	Fluoribacter	113.62	0.52	hypothetical protein
+PGF_06061522	Fluoribacter	124.00	0.00	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06075233	Fluoribacter	468.62	0.52	PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase
+PGF_06104788	Fluoribacter	71.00	0.00	hypothetical protein
+PGF_06105420	Fluoribacter	80.75	1.67	hypothetical protein
+PGF_06114369	Fluoribacter	219.25	2.49	Xenobiotic acyltransferase XAT family
+PGF_06120144	Fluoribacter	143.25	1.04	Ribosome association toxin RatA
+PGF_06170558	Fluoribacter	150.00	0.00	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Fluoribacter	144.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Fluoribacter	492.88	0.83	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Fluoribacter	96.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Fluoribacter	357.00	0.00	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06285692	Fluoribacter	175.38	0.52	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06293576	Fluoribacter	503.88	23.64	Polymyxin resistance protein ArnT, undecaprenyl phosphate-alpha-L-Ara4N transferase; Melittin resistance protein PqaB
+PGF_06308504	Fluoribacter	49.12	6.73	hypothetical protein
+PGF_06315406	Fluoribacter	422.00	0.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06323462	Fluoribacter	186.50	4.24	21 kDa hemolysin precursor
+PGF_06326847	Fluoribacter	267.12	19.68	Flagellar biosynthesis protein FliP
+PGF_06339305	Fluoribacter	260.00	0.00	hypothetical protein
+PGF_06362312	Fluoribacter	504.25	1.04	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06366389	Fluoribacter	444.50	6.48	hypothetical protein
+PGF_06377073	Fluoribacter	185.25	1.04	hypothetical protein
+PGF_06379377	Fluoribacter	434.12	1.55	Replication-associated recombination protein RarA
+PGF_06412007	Fluoribacter	827.00	0.00	Acyl-coenzyme A dehydrogenase FadE
+PGF_06431835	Fluoribacter	154.62	24.32	hypothetical protein
+PGF_06458877	Fluoribacter	160.00	0.00	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Fluoribacter	317.00	0.00	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06495447	Fluoribacter	240.88	5.22	hypothetical protein
+PGF_06524027	Fluoribacter	667.00	0.00	ATP-dependent DNA helicase Rep
+PGF_06530721	Fluoribacter	226.50	0.93	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06558873	Fluoribacter	415.50	2.27	hypothetical protein
+PGF_06561214	Fluoribacter	126.75	9.77	hypothetical protein
+PGF_06611438	Fluoribacter	129.50	10.35	hypothetical protein
+PGF_06644010	Fluoribacter	312.00	1.85	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Fluoribacter	82.00	0.00	Acyl carrier protein
+PGF_06649360	Fluoribacter	188.00	0.00	Segregation and condensation protein B
+PGF_06658689	Fluoribacter	284.62	2.13	hypothetical protein
+PGF_06660718	Fluoribacter	330.00	0.00	Bifunctional protein: zinc-containing alcohol dehydrogenase; quinone oxidoreductase ( NADPH:quinone reductase) (EC 1.1.1.-); Similar to arginate lyase
+PGF_06693963	Fluoribacter	111.75	1.39	Nucleoid-associated protein YaaK
+PGF_06706859	Fluoribacter	167.88	1.25	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06743269	Fluoribacter	393.75	1.04	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06745583	Fluoribacter	233.62	3.50	hypothetical protein
+PGF_06755829	Fluoribacter	319.50	0.93	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06758946	Fluoribacter	64.12	0.83	hypothetical protein
+PGF_06772993	Fluoribacter	647.38	1.41	Ribonuclease E (EC 3.1.26.12)
+PGF_06889881	Fluoribacter	303.00	0.00	Flagellar motor rotation protein MotA
+PGF_06899856	Fluoribacter	318.38	0.52	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+PGF_07072294	Fluoribacter	312.00	0.00	Electron transfer flavoprotein, alpha subunit
+PGF_07072582	Fluoribacter	621.62	0.52	RNA polymerase sigma factor RpoD
+PGF_07101513	Fluoribacter	106.00	0.00	Flagellar motor switch protein FliN
+PGF_07191223	Fluoribacter	284.62	0.52	hypothetical protein
+PGF_07242312	Fluoribacter	624.25	6.02	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07344415	Fluoribacter	177.38	10.25	Intracellular septation protein IspA
+PGF_07368600	Fluoribacter	277.25	7.07	hypothetical protein
+PGF_07692438	Fluoribacter	364.62	0.52	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase paralog YfaY, no functional activity
+PGF_08027326	Fluoribacter	105.00	0.00	Probable monothiol glutaredoxin GrlA
+PGF_08034480	Fluoribacter	45.00	0.00	hypothetical protein
+PGF_08047520	Fluoribacter	488.75	4.92	Uncharacterized amino acid permease, GabP family
+PGF_08053758	Fluoribacter	227.62	4.57	hypothetical protein
+PGF_08059428	Fluoribacter	87.00	0.00	Cell division topological specificity factor MinE
+PGF_08061357	Fluoribacter	130.12	1.25	Iron-sulfur cluster insertion protein ErpA
+PGF_08076243	Fluoribacter	430.00	0.00	hypothetical protein
+PGF_08090411	Fluoribacter	305.38	19.49	hypothetical protein
+PGF_08092081	Fluoribacter	75.00	0.00	hypothetical protein
+PGF_08125361	Fluoribacter	425.62	0.52	Uncharacterized MFS-type transporter
+PGF_08144097	Fluoribacter	787.88	3.94	hypothetical protein
+PGF_08147453	Fluoribacter	406.88	0.83	DNA recombination protein RmuC
+PGF_08153913	Fluoribacter	254.00	0.00	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08158105	Fluoribacter	498.00	0.93	hypothetical protein
+PGF_08183187	Fluoribacter	391.00	0.00	Cell division protein FtsW

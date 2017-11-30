@@ -1,0 +1,853 @@
+PGF_00000212	Paenarthrobacter	232.40	3.58	FIG00727695: hypothetical protein
+PGF_00000494	Paenarthrobacter	200.40	87.45	FIG00816212: Putative membrane protein
+PGF_00000520	Paenarthrobacter	331.00	55.98	AAA ATPase, central domain protein
+PGF_00001487	Paenarthrobacter	518.80	48.55	ABC transporter
+PGF_00001493	Paenarthrobacter	591.60	7.67	ABC transporter
+PGF_00001505	Paenarthrobacter	242.60	0.55	ABC transporter
+PGF_00001849	Paenarthrobacter	135.80	44.78	FIG01122152: hypothetical protein
+PGF_00002542	Paenarthrobacter	122.20	0.45	FIG017342: transmembrane protein
+PGF_00002864	Paenarthrobacter	164.80	18.34	FIG024784: Integral membrane protein related to pyrimidine synthesis
+PGF_00003179	Paenarthrobacter	190.40	17.60	FIG049476: HIT family protein
+PGF_00003506	Paenarthrobacter	238.00	15.65	FIG137478: Hypothetical protein
+PGF_00004624	Paenarthrobacter	176.20	0.45	Ferritin Dps family protein
+PGF_00006015	Paenarthrobacter	259.80	36.17	Flp pilus assembly protein TadB
+PGF_00006023	Paenarthrobacter	293.00	3.00	Type II/IV secretion system protein TadC, associated with Flp pilus assembly
+PGF_00006046	Paenarthrobacter	359.20	124.22	Flp pilus assembly protein, ATPase CpaF
+PGF_00006987	Paenarthrobacter	221.60	18.23	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007027	Paenarthrobacter	335.60	32.67	GTP-binding protein Era
+PGF_00007304	Paenarthrobacter	300.40	14.83	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Paenarthrobacter	321.20	24.15	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Paenarthrobacter	308.80	73.87	Glucokinase (EC 2.7.1.2)
+PGF_00007925	Paenarthrobacter	299.80	11.63	Glucosamine-6-phosphate deaminase [isomerizing], alternative (EC 3.5.99.6)
+PGF_00007971	Paenarthrobacter	473.80	12.97	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007999	Paenarthrobacter	389.40	0.89	Glucose-fructose oxidoreductase (EC 1.1.99.28)
+PGF_00008514	Paenarthrobacter	285.80	10.52	Glyceraldehyde-3-phosphate ketol-isomerase (EC 5.3.1.1)
+PGF_00008542	Paenarthrobacter	230.80	42.93	Glycerol uptake facilitator protein
+PGF_00008964	Paenarthrobacter	433.20	100.18	Glycosyl hydrolase, family 32
+PGF_00009500	Paenarthrobacter	189.40	3.13	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009629	Paenarthrobacter	348.00	40.98	Glycosyltransferase
+PGF_00010034	Paenarthrobacter	292.00	4.47	Glyoxalase family protein
+PGF_00010064	Paenarthrobacter	125.20	0.45	Glyoxalase/bleomycin resistance protein/dioxygenase
+PGF_00010205	Paenarthrobacter	250.20	8.53	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010356	Paenarthrobacter	171.40	21.31	Guanyl-specific ribonuclease (EC 3.1.27.3)
+PGF_00010360	Paenarthrobacter	194.20	9.39	Guanylate kinase (EC 2.7.4.8)
+PGF_00010386	Paenarthrobacter	390.60	103.41	Tetracycline resistance, MFS efflux pump => unclassified
+PGF_00011947	Paenarthrobacter	483.40	3.71	Histidine transport protein (permease)
+PGF_00012152	Paenarthrobacter	108.00	0.71	Histone protein Lsr2
+PGF_00012264	Paenarthrobacter	331.20	59.93	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012288	Paenarthrobacter	317.40	0.89	Homocysteine S-methyltransferase (EC 2.1.1.10)
+PGF_00012356	Paenarthrobacter	306.80	38.46	Homoserine kinase (EC 2.7.1.39)
+PGF_00013244	Paenarthrobacter	210.80	8.44	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013272	Paenarthrobacter	132.00	28.86	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013492	Paenarthrobacter	183.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013803	Paenarthrobacter	258.80	113.59	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014264	Paenarthrobacter	317.00	19.18	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014306	Paenarthrobacter	149.80	27.84	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014355	Paenarthrobacter	337.20	26.95	Inositol transport system permease protein
+PGF_00014381	Paenarthrobacter	361.00	0.00	Inositol-1-phosphate synthase (EC 5.5.1.4)
+PGF_00015216	Paenarthrobacter	275.20	0.45	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Paenarthrobacter	291.80	9.39	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015289	Paenarthrobacter	162.60	0.89	ATP synthase protein I
+PGF_00015355	Paenarthrobacter	272.40	15.90	Iron utilization protein
+PGF_00015467	Paenarthrobacter	231.40	0.89	Iron-dependent repressor IdeR/DtxR
+PGF_00015543	Paenarthrobacter	268.40	3.13	Iron-sulfur cluster regulator SufR
+PGF_00015724	Paenarthrobacter	414.00	176.10	Isoniazid inductible protein IniC, dynamin-like protein
+PGF_00015855	Paenarthrobacter	313.80	60.82	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015931	Paenarthrobacter	408.60	8.76	Kynureninase (EC 3.7.1.3)
+PGF_00016074	Paenarthrobacter	414.20	17.05	L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC (EC 6.3.1.13)
+PGF_00016202	Paenarthrobacter	131.80	6.10	L-rhamnose mutarotase (EC 5.1.3.32)
+PGF_00016328	Paenarthrobacter	190.00	18.53	LSU ribosomal protein L10p (P0)
+PGF_00016342	Paenarthrobacter	160.20	0.45	LSU ribosomal protein L15p (L27Ae)
+PGF_00016353	Paenarthrobacter	127.40	0.89	LSU ribosomal protein L18p (L5e)
+PGF_00016358	Paenarthrobacter	222.60	1.34	LSU ribosomal protein L20p
+PGF_00016361	Paenarthrobacter	113.00	15.65	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Paenarthrobacter	121.20	0.45	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Paenarthrobacter	94.20	15.21	LSU ribosomal protein L23p (L23Ae)
+PGF_00016385	Paenarthrobacter	87.20	0.45	LSU ribosomal protein L27p
+PGF_00016395	Paenarthrobacter	68.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Paenarthrobacter	58.20	12.38	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Paenarthrobacter	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Paenarthrobacter	45.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Paenarthrobacter	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Paenarthrobacter	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Paenarthrobacter	215.20	1.79	LSU ribosomal protein L3p (L3e)
+PGF_00016443	Paenarthrobacter	193.20	1.64	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Paenarthrobacter	178.20	0.45	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Paenarthrobacter	125.20	0.45	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016895	Paenarthrobacter	154.20	0.45	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_00017729	Paenarthrobacter	382.80	41.85	Lycopene elongase (EC 2.5.1.-)
+PGF_00018232	Paenarthrobacter	342.00	50.32	METAL-ACTIVATED PYRIDOXAL ENZYME
+PGF_00018971	Paenarthrobacter	467.00	76.03	Malate:quinone oxidoreductase (EC 1.1.5.4)
+PGF_00019307	Paenarthrobacter	360.00	125.22	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019483	Paenarthrobacter	421.20	56.58	Membrane alanine aminopeptidase (EC 3.4.11.2)
+PGF_00020361	Paenarthrobacter	164.60	16.99	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020650	Paenarthrobacter	93.20	26.71	ATP/GTP-binding protein
+PGF_00020703	Paenarthrobacter	350.40	14.76	Methicillin resistance protein
+PGF_00021544	Paenarthrobacter	288.00	122.98	Mll2313 protein
+PGF_00021684	Paenarthrobacter	232.20	30.91	ATPase component BioM of energizing module of biotin ECF transporter
+PGF_00022453	Paenarthrobacter	136.00	0.00	Molybdate-binding domain of ModE
+PGF_00022507	Paenarthrobacter	165.80	1.10	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00023326	Paenarthrobacter	197.20	10.73	MarC family integral membrane protein
+PGF_00023419	Paenarthrobacter	152.00	2.12	MutT-like domain protein
+PGF_00023532	Paenarthrobacter	288.60	27.73	Mycothiol S-conjugate amidase Mca
+PGF_00023683	Paenarthrobacter	374.80	145.42	N-acetyl-D-glucosamine ABC transporter, substrate-binding protein
+PGF_00024234	Paenarthrobacter	375.80	9.01	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024274	Paenarthrobacter	376.20	42.04	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024322	Paenarthrobacter	468.00	24.60	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024410	Paenarthrobacter	307.40	46.06	NAD-dependent dehydrogenase (EC 1.1.1.18)
+PGF_00024430	Paenarthrobacter	295.60	33.33	NAD-dependent epimerase/dehydratase
+PGF_00024479	Paenarthrobacter	354.80	92.13	NAD-dependent malic enzyme (EC 1.1.1.38)
+PGF_00024482	Paenarthrobacter	309.40	8.62	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024644	Paenarthrobacter	366.60	18.47	NADH-dependent dehydrogenase
+PGF_00024833	Paenarthrobacter	308.00	91.00	NADPH dehydrogenase
+PGF_00025127	Paenarthrobacter	296.60	56.80	NUDIX hydrolase
+PGF_00025215	Paenarthrobacter	170.20	0.45	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025379	Paenarthrobacter	318.20	4.02	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025489	Paenarthrobacter	476.20	30.65	Niacin transporter NiaP
+PGF_00025562	Paenarthrobacter	201.40	14.76	Nicotinamidase (EC 3.5.1.19)
+PGF_00026409	Paenarthrobacter	221.60	24.09	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026419	Paenarthrobacter	450.40	134.97	Nucleoside-diphosphate-sugar epimerase
+PGF_00026666	Paenarthrobacter	267.00	40.25	O-antigen export system permease protein
+PGF_00027002	Paenarthrobacter	269.80	1.64	ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00027464	Paenarthrobacter	130.20	28.62	Organic hydroperoxide resistance protein
+PGF_00027968	Paenarthrobacter	236.20	7.12	Acetyltransferase, GNAT family
+PGF_00028530	Paenarthrobacter	161.80	1.30	Oxidase regulatory-related protein
+PGF_00028981	Paenarthrobacter	395.20	0.45	P-hydroxybenzoate hydroxylase (EC 1.14.13.2)
+PGF_00029146	Paenarthrobacter	429.00	226.22	PDZ/DHR/GLGF domain protein
+PGF_00029491	Paenarthrobacter	143.60	41.14	PTS system, IIA component
+PGF_00029917	Paenarthrobacter	296.00	8.94	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030437	Paenarthrobacter	371.20	35.89	Peptidase M50
+PGF_00033253	Paenarthrobacter	352.00	33.54	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033363	Paenarthrobacter	235.80	42.69	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033515	Paenarthrobacter	235.00	9.00	Phosphoglycerate mutase
+PGF_00033523	Paenarthrobacter	196.60	1.52	Phosphoglycerate mutase
+PGF_00033660	Paenarthrobacter	206.00	1.00	Phosphohydrolase
+PGF_00033877	Paenarthrobacter	162.40	24.71	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033917	Paenarthrobacter	502.40	143.91	Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases
+PGF_00033924	Paenarthrobacter	90.60	8.05	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033941	Paenarthrobacter	194.40	9.81	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033950	Paenarthrobacter	242.60	9.84	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Paenarthrobacter	381.80	0.45	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Paenarthrobacter	250.80	17.30	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Paenarthrobacter	189.40	0.89	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034988	Paenarthrobacter	298.40	61.72	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035370	Paenarthrobacter	232.20	0.45	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035400	Paenarthrobacter	229.40	35.66	Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family
+PGF_00035514	Paenarthrobacter	395.60	6.50	Adenylate cyclase (EC 4.6.1.1)
+PGF_00035548	Paenarthrobacter	222.40	21.47	Predicted D-glucarate or D-galactorate regulator, GntR family
+PGF_00035733	Paenarthrobacter	292.40	0.55	Predicted beta-xyloside ABC transporter, permease component
+PGF_00036580	Paenarthrobacter	133.60	11.50	Protein translocase subunit YajC
+PGF_00036800	Paenarthrobacter	341.40	39.64	Probable GTPase related to EngC
+PGF_00037510	Paenarthrobacter	67.00	0.00	Prokaryotic ubiquitin-like protein Pup
+PGF_00037511	Paenarthrobacter	358.40	115.38	Prolidase (EC 3.4.13.9)
+PGF_00037588	Paenarthrobacter	595.00	17.89	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037835	Paenarthrobacter	726.20	18.51	Protease II (EC 3.4.21.83)
+PGF_00037865	Paenarthrobacter	235.40	0.89	Proteasome subunit alpha (EC 3.4.25.1), bacterial
+PGF_00038060	Paenarthrobacter	308.20	0.45	Protein containing domains DUF403
+PGF_00038061	Paenarthrobacter	518.40	0.89	Protein containing domains DUF404, DUF407
+PGF_00038071	Paenarthrobacter	275.20	17.44	Protein containing transglutaminase-like domain, putative cysteine protease
+PGF_00038196	Paenarthrobacter	224.00	41.37	Protein of pXO2-46
+PGF_00038434	Paenarthrobacter	242.40	49.98	Uncharacterized UPF0721 integral membrane protein
+PGF_00038579	Paenarthrobacter	114.00	0.00	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038674	Paenarthrobacter	328.40	1.34	Protein translocase subunit SecF
+PGF_00038796	Paenarthrobacter	85.00	0.00	Protein translocase membrane subunit SecG
+PGF_00038986	Paenarthrobacter	259.60	27.73	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00040008	Paenarthrobacter	139.20	45.86	Putative activity regulator of membrane protease YbbK
+PGF_00040561	Paenarthrobacter	314.80	63.63	Putative dehydrogenase
+PGF_00041048	Paenarthrobacter	321.40	90.24	Putative glycosyltransferase
+PGF_00041096	Paenarthrobacter	281.40	9.37	Putative glycosyltransferase
+PGF_00041488	Paenarthrobacter	400.20	21.78	Putative hydrolase SCO1113
+PGF_00041946	Paenarthrobacter	305.80	46.46	Putative membrane protein YeiH
+PGF_00042294	Paenarthrobacter	530.00	47.09	Putative methyltransferase SCO3545
+PGF_00042570	Paenarthrobacter	289.20	84.52	Putative oxidoreducatse SCO7286
+PGF_00042796	Paenarthrobacter	661.60	74.53	Putative oxidoreductase
+PGF_00044148	Paenarthrobacter	431.80	194.64	Putative signal transduction histidine kinase
+PGF_00044154	Paenarthrobacter	355.00	59.17	Putative signal transduction histidine kinase
+PGF_00044308	Paenarthrobacter	540.40	27.04	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54) / Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_00045694	Paenarthrobacter	385.80	1.79	Putative uroporphyrinogen-III synthase (EC 4.2.1.75), related to YjjA (in BS) / Response regulator
+PGF_00045787	Paenarthrobacter	229.60	7.60	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045929	Paenarthrobacter	325.80	40.92	Pyrimidine-specific ribonucleoside hydrolase RihB (EC 3.2.2.8)
+PGF_00046082	Paenarthrobacter	302.40	1.95	Quinate/shikimate 5-dehydrogenase I delta (EC 1.1.1.25)
+PGF_00046101	Paenarthrobacter	260.80	62.14	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Paenarthrobacter	435.20	0.45	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046192	Paenarthrobacter	162.40	33.89	RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+PGF_00046430	Paenarthrobacter	195.00	13.42	RNA polymerase sigma-70 factor
+PGF_00046915	Paenarthrobacter	348.20	13.68	Radical SAM domain protein
+PGF_00047152	Paenarthrobacter	141.40	21.47	Redox-sensitive transcriptional activator SoxR
+PGF_00047155	Paenarthrobacter	214.80	36.22	Redox-sensing transcriptional repressor Rex
+PGF_00047894	Paenarthrobacter	262.80	57.69	Response regulator CitB of citrate metabolism
+PGF_00048302	Paenarthrobacter	136.60	1.34	Rhodanese domain protein
+PGF_00048480	Paenarthrobacter	204.00	11.18	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048482	Paenarthrobacter	233.40	1.95	Riboflavin transporter PnuX
+PGF_00048556	Paenarthrobacter	260.60	22.86	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048643	Paenarthrobacter	163.60	7.09	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048645	Paenarthrobacter	161.80	12.97	Ribonucleotide reduction protein NrdI
+PGF_00048829	Paenarthrobacter	441.20	84.30	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048917	Paenarthrobacter	231.80	22.81	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Paenarthrobacter	185.40	0.89	Ribosome recycling factor
+PGF_00048936	Paenarthrobacter	157.20	21.91	Ribosome-binding factor A
+PGF_00048985	Paenarthrobacter	203.40	39.57	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049029	Paenarthrobacter	130.20	0.45	RidA/YER057c/UK114 superfamily, group 6
+PGF_00049398	Paenarthrobacter	212.40	26.17	Alternative RNA polymerase sigma factor SigE
+PGF_00049827	Paenarthrobacter	273.40	36.51	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Paenarthrobacter	98.40	8.05	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Paenarthrobacter	126.40	14.76	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Paenarthrobacter	126.20	23.88	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Paenarthrobacter	128.20	7.16	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Paenarthrobacter	88.20	28.62	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Paenarthrobacter	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Paenarthrobacter	147.20	10.99	SSU ribosomal protein S16p
+PGF_00049854	Paenarthrobacter	95.60	3.29	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Paenarthrobacter	79.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Paenarthrobacter	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Paenarthrobacter	273.20	0.45	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Paenarthrobacter	186.40	30.67	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Paenarthrobacter	225.80	18.34	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Paenarthrobacter	101.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Paenarthrobacter	146.00	22.36	SSU ribosomal protein S7p (S5e)
+PGF_00050055	Paenarthrobacter	406.60	1.34	Sarcosine oxidase beta subunit (EC 1.5.3.1)
+PGF_00050059	Paenarthrobacter	162.00	50.45	Sarcosine oxidase delta subunit (EC 1.5.3.1)
+PGF_00050060	Paenarthrobacter	214.20	1.79	Sarcosine oxidase gamma subunit (EC 1.5.3.1)
+PGF_00051226	Paenarthrobacter	334.00	85.53	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051537	Paenarthrobacter	246.40	38.14	Shikimate 5-dehydrogenase I gamma (EC 1.1.1.25)
+PGF_00052565	Paenarthrobacter	268.40	28.32	Similar to citrate lyase beta chain, 3
+PGF_00052705	Paenarthrobacter	140.20	6.26	LSU ribosomal protein L11p (L12e)
+PGF_00052852	Paenarthrobacter	235.40	23.08	Sirohydrochlorin ferrochelatase SirB (EC 4.99.1.4)
+PGF_00052943	Paenarthrobacter	315.00	8.94	Site-specific tyrosine recombinase XerD
+PGF_00053513	Paenarthrobacter	351.00	35.78	Solanesyl diphosphate synthase (EC 2.5.1.11)
+PGF_00053687	Paenarthrobacter	238.60	98.35	Spermidine synthase-like protein
+PGF_00053952	Paenarthrobacter	177.80	8.93	Sporulation regulatory protein WhiB
+PGF_00054323	Paenarthrobacter	206.40	0.89	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054461	Paenarthrobacter	126.20	0.45	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_00054477	Paenarthrobacter	152.40	9.96	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054528	Paenarthrobacter	383.00	5.48	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054828	Paenarthrobacter	291.40	27.17	Sugar phosphate isomerases/epimerase
+PGF_00054961	Paenarthrobacter	338.80	13.01	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00055155	Paenarthrobacter	315.40	96.04	Sulfur oxidation molybdopterin C protein
+PGF_00055295	Paenarthrobacter	262.00	0.00	Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00056078	Paenarthrobacter	169.60	73.89	Ankyrin
+PGF_00056525	Paenarthrobacter	189.20	80.19	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety, TenA subgroup with conserved Glu in active site
+PGF_00056544	Paenarthrobacter	248.40	40.56	Thiazole synthase (EC 2.8.1.10)
+PGF_00056872	Paenarthrobacter	237.80	13.01	Thymidine kinase (EC 2.7.1.21)
+PGF_00057385	Paenarthrobacter	260.20	2.68	Trans-aconitate 2-methyltransferase (EC 2.1.1.144)
+PGF_00057488	Paenarthrobacter	130.40	12.52	Transcription termination protein NusB
+PGF_00058619	Paenarthrobacter	147.20	26.39	Transcriptional regulator MarR
+PGF_00059238	Paenarthrobacter	151.20	15.77	Transcriptional regulator, Fur family
+PGF_00059667	Paenarthrobacter	126.00	5.05	Transcriptional regulator, MecI family
+PGF_00059672	Paenarthrobacter	269.60	14.05	(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)
+PGF_00059733	Paenarthrobacter	266.40	61.72	Transcriptional regulator, PaaX family
+PGF_00060204	Paenarthrobacter	217.80	5.02	Tricarboxylate transport transcriptional regulator TctD => Citrate response regulator CitB
+PGF_00060412	Paenarthrobacter	563.00	282.68	Elongation factor G-like protein TM_1651
+PGF_00060421	Paenarthrobacter	187.20	0.45	Translation elongation factor P
+PGF_00060427	Paenarthrobacter	278.00	0.00	Translation elongation factor Ts
+PGF_00060428	Paenarthrobacter	396.80	1.79	Translation elongation factor Tu
+PGF_00060472	Paenarthrobacter	138.60	14.42	Antitoxin HigA
+PGF_00060505	Paenarthrobacter	185.40	55.08	Transmembrane component BioN of energizing module of biotin ECF transporter
+PGF_00060537	Paenarthrobacter	264.20	0.45	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_00062045	Paenarthrobacter	359.40	24.36	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062973	Paenarthrobacter	531.40	91.91	Tricarboxylate transport sensor protein TctE => Citrate response regulator CitA
+PGF_00063437	Paenarthrobacter	267.80	107.24	Type II/IV secretion system protein TadC, associated with Flp pilus assembly
+PGF_00064363	Paenarthrobacter	86.20	0.45	UPF0410 protein
+PGF_00064786	Paenarthrobacter	312.00	125.22	Arogenate dehydrogenase (EC 1.3.1.43)
+PGF_00064856	Paenarthrobacter	271.80	8.50	Uncharacterized oxidoreductase YohF
+PGF_00064858	Paenarthrobacter	318.80	9.39	Uncharacterized oxidoreductase YrpG
+PGF_00065286	Paenarthrobacter	208.60	21.58	Uncharacterized protein Q1 colocalized with Q
+PGF_00065326	Paenarthrobacter	245.60	51.74	Uncharacterized protein SCO4203
+PGF_00066123	Paenarthrobacter	210.60	2.88	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Paenarthrobacter	233.60	48.41	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066203	Paenarthrobacter	157.60	0.89	Urease accessory protein UreE
+PGF_00066214	Paenarthrobacter	204.00	2.24	Urease accessory protein UreG
+PGF_00066216	Paenarthrobacter	111.60	17.84	Urease beta subunit (EC 3.5.1.5)
+PGF_00066218	Paenarthrobacter	104.20	9.39	Urease gamma subunit (EC 3.5.1.5)
+PGF_00066238	Paenarthrobacter	304.00	0.00	Uricase (urate oxidase) (EC 1.7.3.3)
+PGF_00066270	Paenarthrobacter	402.00	32.76	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066286	Paenarthrobacter	318.20	57.69	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066562	Paenarthrobacter	160.60	14.05	Very-short-patch mismatch repair endonuclease (G-T specific)
+PGF_00066839	Paenarthrobacter	82.20	0.45	WhiB-like transcription regulator
+PGF_00067062	Paenarthrobacter	386.80	35.90	Xylose isomerase (EC 5.3.1.5)
+PGF_00067213	Paenarthrobacter	158.60	2.88	YbaK/prolyl-tRNA synthetase associated region
+PGF_00067389	Paenarthrobacter	92.00	12.92	YlxP-like protein
+PGF_00070417	Paenarthrobacter	148.40	9.84	cytosolic long-chain acyl-CoA thioester hydrolase family protein
+PGF_00070567	Paenarthrobacter	354.80	2.49	diacylglycerol kinase, catalytic region
+PGF_00070873	Paenarthrobacter	231.60	18.23	BRAMP
+PGF_00071170	Paenarthrobacter	351.60	63.33	Glycosyl transferase, family 2
+PGF_00071460	Paenarthrobacter	315.40	94.16	fructose-bisphosphate aldolase family protein
+PGF_00071462	Paenarthrobacter	278.80	26.18	fructose/tagatose bisphosphate aldolase
+PGF_00071509	Paenarthrobacter	461.00	20.16	gamma-aminobutyrate (GABA) permease
+PGF_00072338	Paenarthrobacter	207.40	0.55	homoserine/homoserine lactone efflux protein
+PGF_00076923	Paenarthrobacter	143.40	12.52	(3R)-hydroxyacyl-ACP dehydratase subunit HadA
+PGF_00080236	Paenarthrobacter	211.20	37.17	hypothetical protein
+PGF_00086239	Paenarthrobacter	188.20	0.45	Na(+) H(+) antiporter subunit E
+PGF_00087441	Paenarthrobacter	237.00	11.05	hypothetical protein
+PGF_00088076	Paenarthrobacter	158.20	0.45	hypothetical protein
+PGF_00097620	Paenarthrobacter	133.00	11.79	hypothetical protein
+PGF_00098480	Paenarthrobacter	75.40	5.37	hypothetical protein
+PGF_00100482	Paenarthrobacter	306.40	75.69	weak similarity to aminoglycoside phosphotransferase
+PGF_00101919	Paenarthrobacter	88.40	17.13	hypothetical protein
+PGF_00113327	Paenarthrobacter	272.60	21.02	hypothetical protein
+PGF_00122248	Paenarthrobacter	75.40	0.89	hypothetical protein
+PGF_00131565	Paenarthrobacter	222.80	29.05	hypothetical protein
+PGF_00136072	Paenarthrobacter	320.60	1.34	hypothetical protein
+PGF_00138053	Paenarthrobacter	181.20	10.03	hypothetical protein
+PGF_00139401	Paenarthrobacter	205.80	30.08	hypothetical protein
+PGF_00146920	Paenarthrobacter	115.00	0.00	hypothetical protein
+PGF_00147351	Paenarthrobacter	200.00	2.35	hypothetical protein
+PGF_00148710	Paenarthrobacter	170.80	9.23	hypothetical protein
+PGF_00149453	Paenarthrobacter	54.20	0.45	hypothetical protein
+PGF_00152186	Paenarthrobacter	149.20	24.89	hypothetical protein
+PGF_00154452	Paenarthrobacter	212.20	16.10	hypothetical protein
+PGF_00156369	Paenarthrobacter	130.00	0.00	Protein of unknown function DUF1304
+PGF_00157340	Paenarthrobacter	97.20	7.16	hypothetical protein
+PGF_00161489	Paenarthrobacter	123.40	14.40	hypothetical protein
+PGF_00162666	Paenarthrobacter	107.20	16.92	hypothetical protein
+PGF_00167031	Paenarthrobacter	210.20	0.45	hypothetical protein
+PGF_00170148	Paenarthrobacter	144.00	18.59	hypothetical protein
+PGF_00173695	Paenarthrobacter	157.80	58.49	hypothetical protein
+PGF_00188360	Paenarthrobacter	135.40	5.37	hypothetical protein
+PGF_00192944	Paenarthrobacter	107.20	18.74	hypothetical protein
+PGF_00200998	Paenarthrobacter	101.40	14.76	hypothetical protein
+PGF_00205049	Paenarthrobacter	166.60	14.31	hypothetical protein
+PGF_00211739	Paenarthrobacter	69.00	0.00	hypothetical protein
+PGF_00213073	Paenarthrobacter	230.20	17.50	2-hydroxychromene-2-carboxylate isomerase/DsbA-like thioredoxin domain
+PGF_00214337	Paenarthrobacter	116.40	22.29	hypothetical protein
+PGF_00215668	Paenarthrobacter	213.80	69.77	hypothetical protein
+PGF_00219162	Paenarthrobacter	169.00	29.82	hypothetical protein
+PGF_00219262	Paenarthrobacter	239.40	13.81	hypothetical protein
+PGF_00231010	Paenarthrobacter	115.40	27.25	hypothetical protein
+PGF_00237701	Paenarthrobacter	140.80	12.77	hypothetical protein
+PGF_00238649	Paenarthrobacter	121.20	11.08	hypothetical protein
+PGF_00239712	Paenarthrobacter	202.00	8.15	hypothetical protein
+PGF_00250590	Paenarthrobacter	162.20	2.28	hypothetical protein
+PGF_00250741	Paenarthrobacter	85.20	25.04	hypothetical protein
+PGF_00252089	Paenarthrobacter	295.00	94.06	hypothetical protein
+PGF_00252129	Paenarthrobacter	65.20	1.79	hypothetical protein
+PGF_00256341	Paenarthrobacter	86.00	0.00	hypothetical protein
+PGF_00280252	Paenarthrobacter	145.60	3.58	hypothetical protein
+PGF_00302705	Paenarthrobacter	252.00	68.19	hypothetical protein
+PGF_00302707	Paenarthrobacter	146.40	27.29	hypothetical protein
+PGF_00305932	Paenarthrobacter	99.00	0.00	hypothetical protein
+PGF_00307283	Paenarthrobacter	250.00	24.18	hypothetical protein
+PGF_00310321	Paenarthrobacter	74.60	9.84	hypothetical protein
+PGF_00312581	Paenarthrobacter	243.00	26.83	hypothetical protein
+PGF_00314904	Paenarthrobacter	153.20	18.98	UPF0145 protein SCO3412
+PGF_00315170	Paenarthrobacter	125.80	1.79	hypothetical protein
+PGF_00316273	Paenarthrobacter	88.00	0.00	hypothetical protein
+PGF_00326236	Paenarthrobacter	117.20	1.10	hypothetical protein
+PGF_00330221	Paenarthrobacter	257.80	45.34	hypothetical protein
+PGF_00331591	Paenarthrobacter	100.20	0.45	hypothetical protein
+PGF_00334873	Paenarthrobacter	75.80	6.26	hypothetical protein
+PGF_00336478	Paenarthrobacter	198.80	4.92	Two-component transcriptional response regulator PdtaR, LuxR family
+PGF_00346509	Paenarthrobacter	99.00	24.35	hypothetical protein
+PGF_00348888	Paenarthrobacter	305.00	15.65	hypothetical protein
+PGF_00350745	Paenarthrobacter	144.00	16.63	hypothetical protein
+PGF_00351557	Paenarthrobacter	263.60	54.56	hypothetical protein
+PGF_00365801	Paenarthrobacter	151.40	1.82	hypothetical protein
+PGF_00367222	Paenarthrobacter	298.80	26.44	hypothetical protein
+PGF_00384006	Paenarthrobacter	128.40	45.39	hypothetical protein
+PGF_00390355	Paenarthrobacter	179.60	13.24	hypothetical protein
+PGF_00393545	Paenarthrobacter	334.00	6.71	Uncharacterized sodium-dependent transporter YocS
+PGF_00395909	Paenarthrobacter	293.40	6.35	hypothetical protein
+PGF_00399630	Paenarthrobacter	282.40	54.06	hypothetical protein PA3071
+PGF_00400019	Paenarthrobacter	286.80	62.58	Aerotolerance protein BatA
+PGF_00401588	Paenarthrobacter	410.60	3.13	Major facilitator family transporter YfmO
+PGF_00402103	Paenarthrobacter	258.20	20.81	Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
+PGF_00402663	Paenarthrobacter	237.20	44.00	peptidyl-prolyl cis-trans isomerase, cyclophilin type
+PGF_00404999	Paenarthrobacter	141.00	6.28	protein of unknown function DUF1469
+PGF_00405229	Paenarthrobacter	136.00	0.00	protein of unknown function DUF419
+PGF_00405251	Paenarthrobacter	453.20	25.82	protein of unknown function DUF445
+PGF_00405276	Paenarthrobacter	126.20	0.45	protein of unknown function DUF485
+PGF_00406163	Paenarthrobacter	184.00	0.00	putative YceI-like family protein
+PGF_00406260	Paenarthrobacter	132.40	34.88	putative alkaline shock protein
+PGF_00406310	Paenarthrobacter	285.80	2.05	glutamine amidotransferases, class-II
+PGF_00406486	Paenarthrobacter	314.00	113.67	putative carbohydrate kinase
+PGF_00407302	Paenarthrobacter	275.40	61.72	putative hydrolase, NUDIX family domain protein
+PGF_00407441	Paenarthrobacter	133.20	0.45	Integral membrane protein
+PGF_00408509	Paenarthrobacter	131.80	2.68	putative lyase
+PGF_00408520	Paenarthrobacter	322.20	31.51	putative mRNA-binding protein
+PGF_00409706	Paenarthrobacter	435.20	92.35	putative membrane protein, YibE/F-like family
+PGF_00409755	Paenarthrobacter	302.60	65.14	putative metalloprotease
+PGF_00410251	Paenarthrobacter	152.00	25.17	putative protein of unknown function (DUF805)
+PGF_00410804	Paenarthrobacter	220.60	23.26	putative short-chain dehydrogenase/oxidoreductase
+PGF_00411125	Paenarthrobacter	200.80	41.00	putative thioesterase family domain protein
+PGF_00411392	Paenarthrobacter	384.40	72.98	putative xylitol oxidase
+PGF_00411437	Paenarthrobacter	312.80	8.50	pyridoxal-phosphate dependent enzyme family protein
+PGF_00411967	Paenarthrobacter	144.60	10.48	rifampin ADP-ribosyl transferase
+PGF_00413203	Paenarthrobacter	151.80	7.16	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Paenarthrobacter	253.00	29.07	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413227	Paenarthrobacter	389.60	149.60	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_00413295	Paenarthrobacter	295.40	15.71	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Paenarthrobacter	176.60	5.68	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413368	Paenarthrobacter	289.00	18.00	tRNA/rRNA methyltransferase
+PGF_00413554	Paenarthrobacter	156.00	0.00	tmRNA-binding protein SmpB
+PGF_00413733	Paenarthrobacter	221.80	38.46	transcriptional regulator, LytR/AlgR family
+PGF_00414583	Paenarthrobacter	503.60	4.77	Unknown substrate:proton symporter, NAT/NCS2 family
+PGF_00415308	Paenarthrobacter	270.00	0.00	23S rRNA (cytidine(1920)-2'-O)-methyltransferase (EC 2.1.1.226) @ 16S rRNA (cytidine(1409)-2'-O)-methyltransferase (EC 2.1.1.227)
+PGF_00416024	Paenarthrobacter	199.20	57.69	2H phosphoesterase superfamily protein Bsu1186 (yjcG)
+PGF_00416525	Paenarthrobacter	198.20	12.97	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416584	Paenarthrobacter	201.00	96.67	Dienelactone hydrolase family protein
+PGF_00416770	Paenarthrobacter	294.40	30.98	Cation transporter
+PGF_00416983	Paenarthrobacter	210.00	21.94	Cell division protein FtsL
+PGF_00417175	Paenarthrobacter	216.60	28.35	Cell surface lipoprotein MPT83 precursor
+PGF_00417577	Paenarthrobacter	160.80	11.95	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417816	Paenarthrobacter	129.00	0.00	Chorismate mutase I (EC 5.4.99.5)
+PGF_00417840	Paenarthrobacter	396.80	4.92	Chorismate synthase (EC 4.2.3.5)
+PGF_00418586	Paenarthrobacter	124.40	31.67	Cold shock protein of CSP family => SCO4325
+PGF_00418733	Paenarthrobacter	310.60	4.04	1,2-phenylacetyl-CoA epoxidase, subunit C (EC 1.14.13.149)
+PGF_00419013	Paenarthrobacter	192.20	2.77	1,2-phenylacetyl-CoA epoxidase, subunit D (EC 1.14.13.149)
+PGF_00419415	Paenarthrobacter	372.00	71.55	Conserved hypothetical protein potentially related to ribose or hydroxymethylpyrimidine metabolism
+PGF_00419621	Paenarthrobacter	235.80	6.26	Coproheme decarboxylase HemQ (no EC)
+PGF_00419678	Paenarthrobacter	445.40	61.27	Creatinase (EC 3.5.3.3)
+PGF_00419702	Paenarthrobacter	186.00	12.96	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419913	Paenarthrobacter	176.00	2.55	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Paenarthrobacter	285.20	35.33	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420081	Paenarthrobacter	389.60	23.26	Cysteine synthesis adenylyltransferase/sulfurtransferase
+PGF_00420121	Paenarthrobacter	233.00	8.94	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420406	Paenarthrobacter	133.20	0.45	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420612	Paenarthrobacter	233.40	46.06	Cytoplasmic copper homeostasis protein CutC
+PGF_00420683	Paenarthrobacter	136.80	38.36	Cytosine deaminase (EC 3.5.4.1)
+PGF_00420975	Paenarthrobacter	381.80	70.89	D-inositol-3-phosphate glycosyltransferase (EC 2.4.1.250)
+PGF_00421196	Paenarthrobacter	144.40	14.42	DNA binding domain, excisionase family
+PGF_00421347	Paenarthrobacter	374.00	35.78	DNA integrity scanning protein DisA
+PGF_00421651	Paenarthrobacter	348.00	20.57	DNA polymerase-like protein MT3142
+PGF_00421775	Paenarthrobacter	525.00	60.37	DNA repair helicase
+PGF_00422691	Paenarthrobacter	238.00	7.48	DedA family protein
+PGF_00422982	Paenarthrobacter	440.80	16.13	Desferrioxamine E biosynthesis protein DesB @ Siderophore biosynthesis protein, monooxygenase
+PGF_00423089	Paenarthrobacter	375.20	7.46	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423263	Paenarthrobacter	300.60	11.59	Dihydrodipicolinate synthase family
+PGF_00423361	Paenarthrobacter	119.00	0.00	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Paenarthrobacter	421.60	45.08	Dihydroorotase (EC 3.5.2.3)
+PGF_00423427	Paenarthrobacter	336.20	33.28	Dihydroxyacetone kinase-like protein, phosphatase domain
+PGF_00423915	Paenarthrobacter	531.80	6.18	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_00425520	Paenarthrobacter	484.60	39.51	FAD dependent oxidoreductase
+PGF_00425665	Paenarthrobacter	208.60	54.89	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Paenarthrobacter	311.60	10.29	RNase adapter protein RapZ
+PGF_00425684	Paenarthrobacter	251.20	0.45	Probable transcriptional regulatory protein YebC
+PGF_00425993	Paenarthrobacter	375.40	42.15	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426236	Paenarthrobacter	370.00	24.74	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426285	Paenarthrobacter	208.80	64.52	FIG004853: possible toxin to DivIC
+PGF_00426474	Paenarthrobacter	257.40	88.55	5-deoxy-glucuronate isomerase (EC 5.3.1.-)
+PGF_00426572	Paenarthrobacter	339.20	1.10	5-keto-2-deoxygluconokinase (EC 2.7.1.92)
+PGF_00426932	Paenarthrobacter	161.20	0.45	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447438	Paenarthrobacter	222.00	57.43	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00510935	Paenarthrobacter	95.00	0.00	DNA-binding protein HU
+PGF_00518790	Paenarthrobacter	252.80	36.22	tRNA/rRNA methyltransferase
+PGF_00518946	Paenarthrobacter	239.00	51.46	Short-chain dehydrogenase/reductase SDR?
+PGF_00534525	Paenarthrobacter	209.20	44.73	Acetyltransferase, GNAT family
+PGF_00546752	Paenarthrobacter	168.00	8.94	Phosphohistidine phosphatase SixA
+PGF_00577920	Paenarthrobacter	164.60	4.28	Tripartite tricarboxylate transporter TctB family
+PGF_00585913	Paenarthrobacter	356.60	1.34	ABC transporter, substrate-binding protein (cluster 8, B12/iron complex)
+PGF_00634936	Paenarthrobacter	325.00	1.73	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Paenarthrobacter	595.80	22.70	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00644212	Paenarthrobacter	260.80	59.71	Nucleoside-diphosphate-sugar epimerases
+PGF_00659194	Paenarthrobacter	190.80	1.79	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00663914	Paenarthrobacter	196.40	26.00	Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)
+PGF_00665875	Paenarthrobacter	134.00	0.00	Ribosomal silencing factor RsfA
+PGF_00671457	Paenarthrobacter	77.00	0.00	hypothetical protein
+PGF_00671598	Paenarthrobacter	165.00	0.00	hypothetical protein
+PGF_00671720	Paenarthrobacter	205.00	0.00	hypothetical protein
+PGF_00672013	Paenarthrobacter	241.00	2.24	HAD-superfamily hydrolase, subfamily IA, variant 1
+PGF_00672033	Paenarthrobacter	267.60	19.35	NLP/P60 protein
+PGF_00672442	Paenarthrobacter	126.20	0.45	hypothetical protein
+PGF_00672849	Paenarthrobacter	212.00	24.74	hypothetical protein
+PGF_00672857	Paenarthrobacter	183.80	25.67	regulatory proteins, AsnC/Lrp
+PGF_00672886	Paenarthrobacter	244.40	9.10	hypothetical protein
+PGF_00673076	Paenarthrobacter	125.00	14.56	hypothetical protein
+PGF_00673236	Paenarthrobacter	132.20	17.75	hypothetical protein
+PGF_00673288	Paenarthrobacter	180.80	10.71	hypothetical protein
+PGF_00673580	Paenarthrobacter	255.40	22.63	hypothetical protein
+PGF_00673693	Paenarthrobacter	91.80	0.45	Antibiotic biosynthesis monooxygenase
+PGF_00673938	Paenarthrobacter	157.80	10.94	hypothetical protein
+PGF_00673942	Paenarthrobacter	123.60	13.67	hypothetical protein
+PGF_00674025	Paenarthrobacter	154.00	7.97	hypothetical protein
+PGF_00674159	Paenarthrobacter	129.00	4.47	hypothetical protein
+PGF_00674636	Paenarthrobacter	170.60	34.44	hypothetical protein
+PGF_00674652	Paenarthrobacter	114.40	31.71	hypothetical protein
+PGF_00674703	Paenarthrobacter	106.80	5.76	hypothetical protein
+PGF_00674731	Paenarthrobacter	187.40	21.37	peptidase A24A, prepilin type IV
+PGF_00675263	Paenarthrobacter	108.20	0.45	hypothetical protein
+PGF_00675727	Paenarthrobacter	105.40	7.67	hypothetical protein
+PGF_00675769	Paenarthrobacter	131.20	4.92	hypothetical protein
+PGF_00675778	Paenarthrobacter	82.40	6.02	hypothetical protein
+PGF_00675799	Paenarthrobacter	101.00	0.00	hypothetical protein
+PGF_00675819	Paenarthrobacter	207.80	27.00	membrane protein DedA family
+PGF_00676177	Paenarthrobacter	196.40	45.52	LysE-family efflux protein
+PGF_00676674	Paenarthrobacter	77.00	2.24	hypothetical protein
+PGF_00676685	Paenarthrobacter	37.00	0.00	hypothetical protein
+PGF_00676726	Paenarthrobacter	97.00	0.00	putative YCII-related domain protein
+PGF_00676747	Paenarthrobacter	123.60	1.95	putative glyoxalase family protein
+PGF_00676758	Paenarthrobacter	270.00	15.65	putative hydrolase, alpha/beta fold family protein
+PGF_00677245	Paenarthrobacter	162.00	13.42	putative universal stress family domain protein
+PGF_00677311	Paenarthrobacter	274.00	104.55	ABC transporter, permease protein
+PGF_00677687	Paenarthrobacter	108.80	22.81	Barstar, ribonuclease (Barnase) inhibitor
+PGF_00677980	Paenarthrobacter	113.20	25.04	hypothetical protein
+PGF_00678041	Paenarthrobacter	218.60	65.70	putative Tat pathway signal sequence domain protein
+PGF_00678060	Paenarthrobacter	194.60	65.90	hypothetical protein
+PGF_00678575	Paenarthrobacter	63.20	0.45	hypothetical protein
+PGF_00678657	Paenarthrobacter	298.80	66.11	hypothetical protein
+PGF_00678783	Paenarthrobacter	257.20	32.65	hypothetical protein
+PGF_00680048	Paenarthrobacter	223.40	95.26	Efflux ABC transporter, permease protein
+PGF_00680118	Paenarthrobacter	91.00	20.12	phage shock protein C, PspC
+PGF_00680137	Paenarthrobacter	168.40	1.67	hypothetical protein
+PGF_00680487	Paenarthrobacter	387.40	96.11	FIG01326805: variable size protein family
+PGF_00680865	Paenarthrobacter	39.00	0.00	hypothetical protein
+PGF_00683363	Paenarthrobacter	215.00	47.58	hypothetical protein
+PGF_00683541	Paenarthrobacter	127.20	3.83	hypothetical protein
+PGF_00684272	Paenarthrobacter	209.00	4.47	hypothetical protein
+PGF_00686440	Paenarthrobacter	73.00	0.00	hypothetical protein
+PGF_00688322	Paenarthrobacter	142.20	17.40	hypothetical protein
+PGF_00688680	Paenarthrobacter	105.00	19.29	hypothetical protein
+PGF_00690750	Paenarthrobacter	240.00	0.00	hypothetical protein
+PGF_00690909	Paenarthrobacter	307.60	15.44	hypothetical protein
+PGF_00691652	Paenarthrobacter	56.00	0.00	hypothetical protein
+PGF_00691965	Paenarthrobacter	200.00	28.04	hypothetical protein
+PGF_00691972	Paenarthrobacter	174.00	12.92	hypothetical protein
+PGF_00691973	Paenarthrobacter	162.60	33.80	hypothetical protein
+PGF_00691980	Paenarthrobacter	124.20	2.49	hypothetical protein
+PGF_00691983	Paenarthrobacter	117.80	0.45	hypothetical protein
+PGF_00691984	Paenarthrobacter	112.60	17.26	hypothetical protein
+PGF_00691990	Paenarthrobacter	77.40	18.89	hypothetical protein
+PGF_00691991	Paenarthrobacter	71.80	9.68	hypothetical protein
+PGF_00691993	Paenarthrobacter	74.80	2.68	hypothetical protein
+PGF_00691997	Paenarthrobacter	65.00	0.00	hypothetical protein
+PGF_00692055	Paenarthrobacter	113.00	0.71	hypothetical protein
+PGF_00692072	Paenarthrobacter	57.00	2.24	hypothetical protein
+PGF_00692081	Paenarthrobacter	41.00	6.71	hypothetical protein
+PGF_00692086	Paenarthrobacter	56.00	0.00	hypothetical protein
+PGF_00692140	Paenarthrobacter	189.00	11.81	hypothetical protein
+PGF_00692164	Paenarthrobacter	49.00	5.43	hypothetical protein
+PGF_00692198	Paenarthrobacter	155.40	0.89	hypothetical protein
+PGF_00692207	Paenarthrobacter	82.00	44.91	hypothetical protein
+PGF_00692216	Paenarthrobacter	50.00	6.93	hypothetical protein
+PGF_00692293	Paenarthrobacter	228.80	23.94	hypothetical protein
+PGF_00692407	Paenarthrobacter	70.20	0.45	hypothetical protein
+PGF_00692418	Paenarthrobacter	134.60	22.98	hypothetical protein
+PGF_00692810	Paenarthrobacter	129.80	29.52	hypothetical protein
+PGF_00693082	Paenarthrobacter	98.00	14.97	hypothetical protein
+PGF_00693090	Paenarthrobacter	107.20	9.04	hypothetical protein
+PGF_00693240	Paenarthrobacter	361.20	15.21	RelA/SpoT domain protein
+PGF_00693270	Paenarthrobacter	131.00	2.24	UspA domain protein
+PGF_00694978	Paenarthrobacter	274.60	1.34	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00709443	Paenarthrobacter	131.40	2.30	Twin-arginine translocation protein TatB
+PGF_00727500	Paenarthrobacter	325.00	150.81	Putative transmembrane efflux protein
+PGF_00743367	Paenarthrobacter	248.80	78.71	Putative hydrolase
+PGF_00754432	Paenarthrobacter	515.60	111.05	putative protein phosphatase
+PGF_00754619	Paenarthrobacter	487.20	56.02	3'-to-5' exoribonuclease RNase R
+PGF_00771474	Paenarthrobacter	216.20	0.45	DedA family protein
+PGF_00782438	Paenarthrobacter	152.60	12.38	hypothetical protein
+PGF_00805794	Paenarthrobacter	515.20	147.13	Probable phosphomannomutase pmmB (EC 5.4.2.8)
+PGF_00809878	Paenarthrobacter	320.60	9.84	hypothetical protein
+PGF_00819745	Paenarthrobacter	128.40	6.39	Integral membrane protein
+PGF_00820124	Paenarthrobacter	143.00	0.00	hypothetical protein
+PGF_00821644	Paenarthrobacter	202.80	17.48	Phosphatidylinositol phosphate synthase @ Archaetidylinositol phosphate synthase (EC 2.7.8.39)
+PGF_00844347	Paenarthrobacter	258.80	6.72	Short-chain dehydrogenase/reductase SDR?
+PGF_00851099	Paenarthrobacter	279.60	58.69	hypothetical protein
+PGF_00906931	Paenarthrobacter	280.40	79.61	Formiminoglutamase (EC 3.5.3.8)
+PGF_00912542	Paenarthrobacter	254.20	37.57	L-cystine ABC transporter, substrate-binding protein TcyA
+PGF_00917281	Paenarthrobacter	465.60	78.84	2,6-beta-fructan 6-levanbiohydrolase (EC 3.2.1.64)
+PGF_00924363	Paenarthrobacter	197.20	19.68	Substrate-specific component YkoE of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_00925844	Paenarthrobacter	364.60	18.70	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00925985	Paenarthrobacter	157.00	29.07	Acetyltransferase
+PGF_00930459	Paenarthrobacter	235.60	42.84	hypothetical protein
+PGF_00947277	Paenarthrobacter	456.00	33.54	Peptidase M23B
+PGF_00950638	Paenarthrobacter	246.60	12.52	Putative oxidoreductase
+PGF_00957747	Paenarthrobacter	163.00	62.18	Heat shock protein 22.5 (Hsp22.5)
+PGF_00962573	Paenarthrobacter	135.80	78.92	hypothetical protein
+PGF_00977719	Paenarthrobacter	294.20	82.97	Transcriptional regulator, LysR family
+PGF_00982735	Paenarthrobacter	96.40	21.47	hypothetical protein
+PGF_01008311	Paenarthrobacter	299.80	24.15	Protein of unknown function DUF4031 / COG4339 metal-dependent phosphohydrolase, HD superfamily
+PGF_01013088	Paenarthrobacter	107.40	6.99	Anti-sigma B factor antagonist RsbV
+PGF_01042606	Paenarthrobacter	81.40	12.07	hypothetical protein
+PGF_01062357	Paenarthrobacter	213.80	78.71	Lipoate-protein ligase A
+PGF_01075683	Paenarthrobacter	148.60	15.22	Hemoglobin-like protein HbO
+PGF_01079998	Paenarthrobacter	356.00	116.28	3-oxoadipyl-CoA thiolase (EC 2.3.1.174) @ 3-oxo-5,6-dehydrosuberyl-CoA thiolase (EC 2.3.1.223)
+PGF_01086688	Paenarthrobacter	464.20	6.26	Uncharacterized MFS-type transporter
+PGF_01102205	Paenarthrobacter	126.20	24.15	hypothetical protein
+PGF_01147190	Paenarthrobacter	398.80	150.32	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01199758	Paenarthrobacter	263.60	75.50	Phosphoesterase, PA-phosphatase related
+PGF_01199776	Paenarthrobacter	233.80	94.41	Urease accessory protein UreD
+PGF_01199920	Paenarthrobacter	111.20	12.97	Integral membrane protein
+PGF_01204920	Paenarthrobacter	128.20	30.86	membrane protein of unknown function
+PGF_01205147	Paenarthrobacter	136.00	11.79	hypothetical protein
+PGF_01205877	Paenarthrobacter	168.40	6.07	hypothetical protein
+PGF_01206852	Paenarthrobacter	142.40	0.89	Organic hydroperoxide resistance protein
+PGF_01212904	Paenarthrobacter	354.20	10.73	Ribonuclease BN
+PGF_01223569	Paenarthrobacter	185.00	0.71	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Paenarthrobacter	164.80	36.22	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01251696	Paenarthrobacter	201.60	61.29	hypothetical protein
+PGF_01291823	Paenarthrobacter	226.60	2.97	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01364427	Paenarthrobacter	209.20	5.02	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01366457	Paenarthrobacter	535.20	78.94	Lipoprotein LpqB, modulates activity of MtrAB two-component system
+PGF_01366502	Paenarthrobacter	178.00	11.18	FIG027937: secreted protein
+PGF_01373256	Paenarthrobacter	99.40	8.05	putative membrane protein
+PGF_01380674	Paenarthrobacter	372.80	47.40	trypsin-like serine protease
+PGF_01389077	Paenarthrobacter	72.80	4.92	Uncharacterized protein YbcJ
+PGF_01389102	Paenarthrobacter	378.20	152.17	Peptidoglycan-binding LysM
+PGF_01420802	Paenarthrobacter	127.60	34.44	Cell division protein MraZ
+PGF_01423501	Paenarthrobacter	159.40	10.29	Transcription elongation factor GreA
+PGF_01435311	Paenarthrobacter	333.60	105.71	Putative hydrolase
+PGF_01435565	Paenarthrobacter	158.80	1.10	TrkA, Potassium channel
+PGF_01444546	Paenarthrobacter	98.20	0.45	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01467296	Paenarthrobacter	250.00	59.46	Nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+PGF_01513257	Paenarthrobacter	512.60	6.23	sodium-solute symporter, putative
+PGF_01514726	Paenarthrobacter	97.00	0.00	hypothetical protein
+PGF_01576148	Paenarthrobacter	164.40	10.92	transmembrane protein, distant homology with ydbS
+PGF_01614738	Paenarthrobacter	85.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01682537	Paenarthrobacter	115.20	0.45	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Paenarthrobacter	173.80	65.29	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Paenarthrobacter	215.40	77.37	DNA recombination and repair protein RecO
+PGF_01692355	Paenarthrobacter	518.20	172.27	Serine/threonine protein kinase
+PGF_01727508	Paenarthrobacter	356.60	13.65	Iron-chelator utilization protein
+PGF_01734516	Paenarthrobacter	138.20	44.27	FHA-domain-containing protein
+PGF_01745391	Paenarthrobacter	345.80	131.40	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01832663	Paenarthrobacter	356.40	8.05	Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)
+PGF_01867628	Paenarthrobacter	336.40	3.13	Heat-inducible transcription repressor HrcA
+PGF_01898497	Paenarthrobacter	258.00	13.42	Endonuclease III (EC 4.2.99.18)
+PGF_01900530	Paenarthrobacter	251.20	2.49	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900807	Paenarthrobacter	313.20	0.45	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01963010	Paenarthrobacter	105.40	3.58	hypothetical protein
+PGF_01974399	Paenarthrobacter	194.00	55.90	L-cystine ABC transporter, permease protein TcyB
+PGF_01979610	Paenarthrobacter	315.60	38.91	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK
+PGF_02029783	Paenarthrobacter	528.80	1.79	GTP-binding protein Obg
+PGF_02060348	Paenarthrobacter	150.60	16.55	MutT/Nudix family protein
+PGF_02098099	Paenarthrobacter	450.60	177.54	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02150921	Paenarthrobacter	125.80	18.39	FIG00820565: hypothetical protein
+PGF_02166416	Paenarthrobacter	671.60	33.80	PTS system, mannitol-specific IIC component / PTS system, mannitol-specific IIB component (EC 2.7.1.197) / PTS system, mannitol-specific IIA component (EC 2.7.1.197)
+PGF_02166472	Paenarthrobacter	292.60	10.45	Uncharacterized membrane protein YoaT
+PGF_02227981	Paenarthrobacter	423.80	92.71	Serine protease
+PGF_02229751	Paenarthrobacter	295.80	36.27	N-acetylglucosamine kinase of eukaryotic type (EC 2.7.1.59)
+PGF_02230495	Paenarthrobacter	228.00	0.00	N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)
+PGF_02239557	Paenarthrobacter	249.40	0.89	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02246334	Paenarthrobacter	214.00	5.00	Integral membrane protein
+PGF_02247058	Paenarthrobacter	310.60	33.42	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+PGF_02297251	Paenarthrobacter	224.20	6.94	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02311293	Paenarthrobacter	370.40	7.50	Peptide chain release factor 2
+PGF_02349208	Paenarthrobacter	206.60	19.83	Hypothetical, related to broad specificity phosphatases COG0406
+PGF_02361912	Paenarthrobacter	321.80	26.94	Patatin
+PGF_02386652	Paenarthrobacter	137.40	26.84	Ribonuclease E inhibitor RraA
+PGF_02404524	Paenarthrobacter	388.60	128.35	3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35), FabG4
+PGF_02437557	Paenarthrobacter	371.80	32.88	Alkanesulfonate monooxygenase (EC 1.14.14.5)
+PGF_02454577	Paenarthrobacter	86.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Paenarthrobacter	197.20	4.02	Recombination protein RecR
+PGF_02474513	Paenarthrobacter	276.20	132.26	Sulfatase modifying factor 1 precursor (C-alpha-formyglycine- generating enzyme 1)
+PGF_02489591	Paenarthrobacter	219.80	11.63	Uncharacterized Nudix hydrolase NudL
+PGF_02518459	Paenarthrobacter	125.00	29.07	Nitrogen regulatory protein P-II
+PGF_02518965	Paenarthrobacter	148.40	21.50	Regulatory protein RecX
+PGF_02564693	Paenarthrobacter	401.80	37.71	Uncharacterized UPF0118 membrane protein
+PGF_02565280	Paenarthrobacter	118.00	67.08	Molybdopterin synthase sulfur carrier subunit
+PGF_02587605	Paenarthrobacter	150.40	10.29	Zinc uptake regulation protein Zur
+PGF_02593689	Paenarthrobacter	525.40	5.13	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02619970	Paenarthrobacter	286.80	38.33	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02708483	Paenarthrobacter	174.80	52.58	Acetyltransferase
+PGF_02717569	Paenarthrobacter	220.20	4.02	Tricarboxylate transport transcriptional regulator TctD
+PGF_02717713	Paenarthrobacter	375.40	61.27	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02746016	Paenarthrobacter	261.60	2.61	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02748398	Paenarthrobacter	154.40	32.65	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline (OHCU) decarboxylase (EC 4.1.1.97)
+PGF_02776739	Paenarthrobacter	124.60	40.15	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02792560	Paenarthrobacter	250.00	60.37	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02798941	Paenarthrobacter	661.60	19.35	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02827138	Paenarthrobacter	252.20	9.63	Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+PGF_02838109	Paenarthrobacter	165.20	41.19	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Paenarthrobacter	263.40	25.49	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02866413	Paenarthrobacter	244.40	44.03	Rhomboid family protein
+PGF_02894327	Paenarthrobacter	264.60	1.34	hypothetical protein
+PGF_02897312	Paenarthrobacter	103.80	2.95	hypothetical protein
+PGF_02898176	Paenarthrobacter	194.00	55.90	Methionine ABC transporter permease protein
+PGF_02899131	Paenarthrobacter	108.60	5.81	LSU ribosomal protein L29p (L35e)
+PGF_02902034	Paenarthrobacter	269.00	2.74	hypothetical protein
+PGF_02905033	Paenarthrobacter	490.40	191.67	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1
+PGF_02906317	Paenarthrobacter	350.00	16.99	Integral membrane protein
+PGF_02923127	Paenarthrobacter	245.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02924036	Paenarthrobacter	367.80	99.56	Putative Na+/H+ antiporter
+PGF_02930420	Paenarthrobacter	334.00	49.19	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_02941174	Paenarthrobacter	151.00	9.51	Uncharacterized N-acetyltransferase YedL
+PGF_02942351	Paenarthrobacter	199.00	87.21	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Paenarthrobacter	470.40	48.31	SSU ribosomal protein S1p
+PGF_02961667	Paenarthrobacter	196.80	2.49	hypothetical protein
+PGF_02994938	Paenarthrobacter	341.20	127.57	Integral membrane protein
+PGF_03002792	Paenarthrobacter	172.40	43.97	putative lipoprotein
+PGF_03006024	Paenarthrobacter	61.00	1.22	hypothetical protein
+PGF_03017978	Paenarthrobacter	221.80	2.28	Septum formation protein Maf
+PGF_03018022	Paenarthrobacter	414.20	124.77	Nitrate/nitrite transporter
+PGF_03021263	Paenarthrobacter	182.80	10.73	SepF, FtsZ-interacting protein related to cell division
+PGF_03025044	Paenarthrobacter	170.20	8.50	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03027918	Paenarthrobacter	292.00	131.38	Transcriptional regulator
+PGF_03029489	Paenarthrobacter	221.00	24.60	GlnR-family transcriptional regulator
+PGF_03033479	Paenarthrobacter	359.40	15.44	hypothetical protein
+PGF_03036396	Paenarthrobacter	403.00	18.63	Integral membrane protein
+PGF_03038172	Paenarthrobacter	84.20	2.95	Mycoredoxin (EC 1.20.4.3)
+PGF_03040035	Paenarthrobacter	163.60	23.68	hypothetical protein
+PGF_03048120	Paenarthrobacter	370.00	134.16	putative membrane protein
+PGF_03051206	Paenarthrobacter	63.40	11.50	hypothetical protein
+PGF_03055333	Paenarthrobacter	143.60	2.19	PhnB protein; putative DNA binding 3-demethylubiquinone-9 3-methyltransferase domain protein
+PGF_03058563	Paenarthrobacter	144.20	3.90	Glyoxalase family protein
+PGF_03059539	Paenarthrobacter	312.60	3.58	3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)
+PGF_03062930	Paenarthrobacter	336.40	75.13	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.35)
+PGF_03070505	Paenarthrobacter	155.00	41.81	hypothetical protein
+PGF_03072132	Paenarthrobacter	154.80	11.63	CarD-like transcriptional regulator
+PGF_03081665	Paenarthrobacter	85.60	21.02	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03090941	Paenarthrobacter	72.20	0.45	hypothetical protein
+PGF_03096717	Paenarthrobacter	217.40	86.31	5-keto-D-gluconate 5-reductase (EC 1.1.1.69)
+PGF_03097247	Paenarthrobacter	59.00	0.00	hypothetical protein
+PGF_03108192	Paenarthrobacter	154.20	27.54	hypothetical protein
+PGF_03111988	Paenarthrobacter	230.00	3.08	Cell division initiation protein DivIVA
+PGF_03112202	Paenarthrobacter	151.80	18.34	hypothetical protein
+PGF_03122494	Paenarthrobacter	142.00	0.00	hypothetical protein
+PGF_03123604	Paenarthrobacter	58.20	10.62	hypothetical protein
+PGF_03127349	Paenarthrobacter	141.40	89.18	Late competence protein ComEA, DNA receptor
+PGF_03139761	Paenarthrobacter	388.20	129.24	DNA-damage-inducible protein F
+PGF_03140041	Paenarthrobacter	145.00	2.24	CBS domain protein
+PGF_03144011	Paenarthrobacter	167.80	3.49	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03152833	Paenarthrobacter	254.00	48.08	Ku domain protein
+PGF_03174068	Paenarthrobacter	281.00	19.57	Transcription antitermination protein NusG
+PGF_03222913	Paenarthrobacter	107.20	29.52	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03224027	Paenarthrobacter	164.00	13.15	Diadenosine hexaphosphate (Ap6A) hydrolase; Bis(5'-nucleosyl)-tetraphosphatase (Ap4A) (Asymmetrical) (EC 3.6.1.17)
+PGF_03257845	Paenarthrobacter	253.80	13.59	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03278866	Paenarthrobacter	78.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03393978	Paenarthrobacter	302.80	38.46	hypothetical protein
+PGF_03440002	Paenarthrobacter	338.20	20.41	Transcriptional regulator of rhamnose utilization, LacI family
+PGF_03518570	Paenarthrobacter	139.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03584110	Paenarthrobacter	51.00	0.00	FIG011121: hypothetical protein
+PGF_03594773	Paenarthrobacter	120.40	14.76	hypothetical protein
+PGF_03642571	Paenarthrobacter	342.40	131.03	Similarity with glutathionylspermidine synthase (EC 6.3.1.8), group 1
+PGF_03656978	Paenarthrobacter	166.00	0.00	Integral membrane protein
+PGF_03674008	Paenarthrobacter	124.20	31.18	1,2-phenylacetyl-CoA epoxidase, subunit B (EC 1.14.13.149)
+PGF_03674165	Paenarthrobacter	305.40	38.07	1,2-phenylacetyl-CoA epoxidase, subunit A (EC 1.14.13.149)
+PGF_03674463	Paenarthrobacter	369.60	94.81	Uncharacterized MFS-type transporter
+PGF_03739563	Paenarthrobacter	110.00	0.00	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750600	Paenarthrobacter	181.60	7.06	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Paenarthrobacter	131.40	12.20	Membrane protein insertion efficiency factor YidD
+PGF_03753122	Paenarthrobacter	294.80	33.48	Site-specific tyrosine recombinase XerC
+PGF_03754184	Paenarthrobacter	161.40	9.18	Na(+) H(+) antiporter subunit C
+PGF_03778127	Paenarthrobacter	162.60	1.34	FHA-domain-containing protein
+PGF_03778780	Paenarthrobacter	362.80	85.42	Signal recognition particle receptor FtsY
+PGF_03787622	Paenarthrobacter	413.20	32.29	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Paenarthrobacter	227.40	19.23	Ribonuclease III (EC 3.1.26.3)
+PGF_03794833	Paenarthrobacter	239.00	84.98	Membrane proteins related to metalloendopeptidases
+PGF_03801195	Paenarthrobacter	241.80	20.44	Putative amidotransferase similar to cobyric acid synthase
+PGF_03801201	Paenarthrobacter	273.60	20.07	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03854267	Paenarthrobacter	433.00	12.21	hypothetical protein
+PGF_03912513	Paenarthrobacter	160.00	2.24	DNA protection during starvation protein
+PGF_03942499	Paenarthrobacter	696.20	240.66	FUPA23 P-type ATPase
+PGF_03951032	Paenarthrobacter	49.60	1.52	hypothetical protein
+PGF_03963233	Paenarthrobacter	402.40	103.65	Chlorohydrolase/deaminase family protein
+PGF_03975593	Paenarthrobacter	69.00	7.84	hypothetical protein
+PGF_03990569	Paenarthrobacter	46.20	0.45	hypothetical protein
+PGF_03991069	Paenarthrobacter	120.20	0.45	hypothetical protein
+PGF_03991678	Paenarthrobacter	65.60	5.81	hypothetical protein
+PGF_03998787	Paenarthrobacter	44.00	6.71	hypothetical protein
+PGF_04004610	Paenarthrobacter	185.80	41.37	Protocatechuate 3,4-dioxygenase alpha chain (EC 1.13.11.3)
+PGF_04007946	Paenarthrobacter	211.00	24.60	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Paenarthrobacter	151.60	1.34	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04025415	Paenarthrobacter	137.60	33.42	Large-conductance mechanosensitive channel
+PGF_04026508	Paenarthrobacter	74.60	3.58	hypothetical protein
+PGF_04033266	Paenarthrobacter	178.60	26.23	hypothetical protein
+PGF_04036472	Paenarthrobacter	78.00	4.47	KH domain RNA binding protein YlqC
+PGF_04047265	Paenarthrobacter	78.60	9.84	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04055837	Paenarthrobacter	355.60	152.66	ABC transporter, permease protein 2 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04094270	Paenarthrobacter	219.20	9.07	TrkA-like protein
+PGF_04111895	Paenarthrobacter	70.00	8.94	hypothetical protein
+PGF_04127376	Paenarthrobacter	254.40	45.35	Twin-arginine translocation protein TatC
+PGF_04154333	Paenarthrobacter	90.80	2.49	Twin-arginine translocation protein TatA
+PGF_04156755	Paenarthrobacter	92.20	0.45	Na(+) H(+) antiporter subunit F
+PGF_04162809	Paenarthrobacter	164.80	3.90	Alkyl hydroperoxide reductase subunit C-like protein
+PGF_04165902	Paenarthrobacter	375.80	23.38	Acyl-CoA dehydrogenase
+PGF_04182459	Paenarthrobacter	256.00	3.46	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04192284	Paenarthrobacter	237.40	18.72	Conserved membrane protein in copper uptake, YcnI
+PGF_04198961	Paenarthrobacter	187.40	51.23	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04206647	Paenarthrobacter	310.80	67.68	hypothetical protein
+PGF_04251642	Paenarthrobacter	145.20	0.45	(3R)-hydroxyacyl-ACP dehydratase subunit HadB
+PGF_04345693	Paenarthrobacter	501.60	32.47	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04402936	Paenarthrobacter	63.00	0.00	Transcriptional regulator, Xre family
+PGF_04413368	Paenarthrobacter	248.40	97.55	Gluconolactonase (EC 3.1.1.17)
+PGF_04457297	Paenarthrobacter	166.80	72.45	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458349	Paenarthrobacter	372.00	41.59	putative secreted protein
+PGF_04466281	Paenarthrobacter	340.60	17.81	hypothetical protein
+PGF_04469179	Paenarthrobacter	147.40	28.17	Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase
+PGF_04522363	Paenarthrobacter	87.80	12.97	hypothetical protein
+PGF_04679223	Paenarthrobacter	158.80	16.12	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04788810	Paenarthrobacter	182.00	26.83	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04845029	Paenarthrobacter	117.00	0.00	LSU ribosomal protein L19p
+PGF_04921566	Paenarthrobacter	480.80	31.75	hypothetical protein
+PGF_04970608	Paenarthrobacter	86.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04971017	Paenarthrobacter	342.20	55.45	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Paenarthrobacter	94.20	16.89	LSU ribosomal protein L21p
+PGF_05004411	Paenarthrobacter	187.40	37.85	hypothetical protein
+PGF_05065588	Paenarthrobacter	371.00	61.49	Type II/IV secretion system ATPase TadZ/CpaE, associated with Flp pilus assembly
+PGF_05079020	Paenarthrobacter	339.00	8.94	MoxR-like ATPase in aerotolerance operon
+PGF_05097305	Paenarthrobacter	185.60	38.91	hypothetical protein
+PGF_05109279	Paenarthrobacter	86.20	8.50	hypothetical protein
+PGF_05139407	Paenarthrobacter	216.20	8.50	hypothetical protein
+PGF_05165078	Paenarthrobacter	322.20	53.17	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05207025	Paenarthrobacter	185.20	2.68	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_05218024	Paenarthrobacter	575.20	105.22	Serine/threonine-protein kinase PknB (EC 2.7.11.1)
+PGF_05296102	Paenarthrobacter	292.20	68.87	Acetyl-CoA:Cys-GlcN-Ins acetyltransferase, mycothiol synthase MshD (EC 2.3.1.189)
+PGF_05314902	Paenarthrobacter	216.20	60.52	Two-component transcriptional response regulator, winged helix family
+PGF_05322618	Paenarthrobacter	163.60	0.55	hypothetical protein
+PGF_05366548	Paenarthrobacter	271.40	50.54	Methionine ABC transporter substrate-binding protein
+PGF_05375205	Paenarthrobacter	170.40	21.09	putative general stress protein
+PGF_05386032	Paenarthrobacter	248.60	80.72	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05463076	Paenarthrobacter	409.20	162.98	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05514477	Paenarthrobacter	209.60	14.76	Chromate reductase (EC 1.6.5.2)
+PGF_05523175	Paenarthrobacter	187.20	41.05	hypothetical protein
+PGF_05595534	Paenarthrobacter	297.40	63.01	DNA polymerase I 5'-3' exonuclease domain
+PGF_05598173	Paenarthrobacter	394.60	27.17	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Paenarthrobacter	268.00	80.55	Phytoene synthase (EC 2.5.1.32)
+PGF_05613682	Paenarthrobacter	327.00	47.97	Putative ADP-ribosylglycohydrolase
+PGF_05634514	Paenarthrobacter	223.40	25.94	hypothetical protein
+PGF_05644356	Paenarthrobacter	123.40	21.27	hypothetical protein
+PGF_05707961	Paenarthrobacter	90.40	16.83	hypothetical protein
+PGF_05710599	Paenarthrobacter	295.00	15.65	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05788512	Paenarthrobacter	213.40	40.83	FIG003003: hypothetical protein
+PGF_06044589	Paenarthrobacter	245.20	48.75	TesB-like acyl-CoA thioesterase 5
+PGF_06051594	Paenarthrobacter	415.20	67.43	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06052155	Paenarthrobacter	148.80	46.94	hypothetical protein
+PGF_06085876	Paenarthrobacter	239.60	1.34	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_06103466	Paenarthrobacter	87.80	0.45	hypothetical protein
+PGF_06180597	Paenarthrobacter	165.20	40.70	LSU ribosomal protein L13p (L13Ae)
+PGF_06248337	Paenarthrobacter	301.80	94.49	Siderophore staphylobactin ABC transporter, substrate-binding protein SirA, putative @ ABC-type Fe3+-siderophore transport system, periplasmic iron-binding component
+PGF_06251884	Paenarthrobacter	299.40	28.57	hypothetical protein
+PGF_06254345	Paenarthrobacter	89.80	18.34	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Paenarthrobacter	378.40	51.79	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06285692	Paenarthrobacter	146.60	29.96	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06366402	Paenarthrobacter	89.60	23.26	hypothetical protein
+PGF_06366599	Paenarthrobacter	302.80	11.63	Probable (3R)-hydroxyacyl-CoA dehydratase HtdX
+PGF_06495818	Paenarthrobacter	243.00	53.75	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06511905	Paenarthrobacter	227.00	69.32	Phosphoglycerate mutase family protein
+PGF_06530721	Paenarthrobacter	290.00	26.31	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06594013	Paenarthrobacter	146.20	0.45	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06619834	Paenarthrobacter	265.20	9.39	hypothetical protein
+PGF_06640452	Paenarthrobacter	487.00	95.20	hypothetical protein
+PGF_06644010	Paenarthrobacter	325.40	14.76	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06649360	Paenarthrobacter	214.00	10.70	Segregation and condensation protein B
+PGF_06672507	Paenarthrobacter	602.60	185.38	Probable serine/threonine-protein kinase pknL (EC 2.7.11.1)
+PGF_06683449	Paenarthrobacter	357.40	12.52	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06694996	Paenarthrobacter	478.40	16.13	dicarboxylic acid transporter PcaT
+PGF_06701488	Paenarthrobacter	183.00	0.00	RNA-binding protein Jag
+PGF_06718352	Paenarthrobacter	141.60	55.20	Cys-tRNA(Pro) deacylase YbaK
+PGF_06749324	Paenarthrobacter	119.60	21.09	hypothetical protein
+PGF_06755829	Paenarthrobacter	383.20	0.45	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06759300	Paenarthrobacter	223.00	114.12	hypothetical protein
+PGF_06781102	Paenarthrobacter	378.60	10.29	coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase
+PGF_06781655	Paenarthrobacter	361.60	65.25	Benzoate transport protein
+PGF_06794943	Paenarthrobacter	900.00	243.73	alpha-mannosidase (EC 3.2.1.24)
+PGF_06797049	Paenarthrobacter	185.40	30.61	hypothetical protein
+PGF_06863675	Paenarthrobacter	232.60	19.92	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_07489479	Paenarthrobacter	230.60	54.03	hypothetical protein
+PGF_07553719	Paenarthrobacter	85.60	5.86	hypothetical protein
+PGF_07632748	Paenarthrobacter	140.80	0.45	hypothetical protein
+PGF_07679512	Paenarthrobacter	76.20	21.91	hypothetical protein
+PGF_08036834	Paenarthrobacter	213.00	26.83	Nitroreductase
+PGF_08047282	Paenarthrobacter	66.40	6.66	hypothetical protein
+PGF_08055738	Paenarthrobacter	73.20	0.45	Integral membrane protein
+PGF_08059698	Paenarthrobacter	68.40	9.21	hypothetical protein
+PGF_08069063	Paenarthrobacter	156.00	28.75	Ligand-binding SRPBCC domain CalC
+PGF_08084933	Paenarthrobacter	405.20	37.40	Multiple sugar ABC transporter, substrate-binding protein
+PGF_08093761	Paenarthrobacter	76.00	0.00	hypothetical protein
+PGF_08109250	Paenarthrobacter	86.20	17.44	hypothetical protein
+PGF_08117870	Paenarthrobacter	115.80	4.92	Ferredoxin, 2Fe-2S
+PGF_08119268	Paenarthrobacter	262.40	56.66	Short-chain dehydrogenase/reductase SDR
+PGF_08127329	Paenarthrobacter	221.40	45.56	Glutamine amidotransferase, class I
+PGF_08128943	Paenarthrobacter	181.60	47.85	hypothetical protein
+PGF_08168243	Paenarthrobacter	62.60	0.89	hypothetical protein
+PGF_08176251	Paenarthrobacter	119.20	0.45	hypothetical protein
+PGF_08197987	Paenarthrobacter	129.40	0.55	Iron-sulfur cluster insertion protein SCO2161

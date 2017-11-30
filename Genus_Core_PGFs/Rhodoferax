@@ -1,0 +1,645 @@
+PGF_00000416	Rhodoferax	353.60	11.12	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000936	Rhodoferax	135.50	4.74	FIG00899427: hypothetical protein
+PGF_00002491	Rhodoferax	475.00	14.13	FIG015547: peptidase, M16 family
+PGF_00003448	Rhodoferax	420.80	9.73	FIG110192: hypothetical protein
+PGF_00003516	Rhodoferax	254.70	8.91	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003528	Rhodoferax	214.50	6.02	UPF0307 protein YjgA
+PGF_00003749	Rhodoferax	154.00	0.82	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00004315	Rhodoferax	93.80	17.62	Ferredoxin
+PGF_00005284	Rhodoferax	564.30	5.56	Flagellar M-ring protein FliF
+PGF_00005288	Rhodoferax	381.80	3.01	Flagellar P-ring protein FlgI
+PGF_00005354	Rhodoferax	134.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005384	Rhodoferax	693.60	1.26	Flagellar biosynthesis protein FlhA
+PGF_00005402	Rhodoferax	88.20	1.69	Flagellar biosynthesis protein FliQ
+PGF_00005450	Rhodoferax	419.00	13.69	Flagellar hook protein FlgE
+PGF_00005454	Rhodoferax	646.80	9.20	Flagellar hook-associated protein FlgK
+PGF_00005572	Rhodoferax	302.30	5.89	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005630	Rhodoferax	181.30	3.30	Flagellar transcriptional activator FlhC
+PGF_00006100	Rhodoferax	310.00	4.47	tRNA-modifying protein YgfZ
+PGF_00006332	Rhodoferax	410.90	16.12	Fosmidomycin resistance protein
+PGF_00006511	Rhodoferax	230.20	3.26	Fumarylacetoacetase (EC 3.7.1.2)
+PGF_00006935	Rhodoferax	505.40	116.19	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007026	Rhodoferax	245.40	9.13	GTP-binding protein EngB
+PGF_00007028	Rhodoferax	385.80	11.96	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Rhodoferax	607.70	0.95	GTP-binding protein TypA/BipA
+PGF_00007057	Rhodoferax	466.40	5.02	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007162	Rhodoferax	430.40	3.72	Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
+PGF_00007304	Rhodoferax	308.70	5.29	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007988	Rhodoferax	525.40	8.93	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Rhodoferax	435.90	20.32	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008075	Rhodoferax	385.20	75.26	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Rhodoferax	272.10	6.69	Glutamate racemase (EC 5.1.1.3)
+PGF_00008159	Rhodoferax	520.90	9.42	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008161	Rhodoferax	429.80	1.93	Glutamate--cysteine ligase (EC 6.3.2.2), divergent, of Alpha- and Beta-proteobacteria type
+PGF_00008164	Rhodoferax	436.80	1.87	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008335	Rhodoferax	422.00	134.25	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008469	Rhodoferax	323.40	5.70	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008611	Rhodoferax	340.60	3.89	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Rhodoferax	971.40	12.16	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Rhodoferax	223.20	4.42	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Rhodoferax	200.90	24.27	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Rhodoferax	319.20	18.88	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Rhodoferax	730.60	14.00	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010332	Rhodoferax	438.20	6.51	Guanine deaminase (EC 3.5.4.3)
+PGF_00010349	Rhodoferax	759.40	9.47	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010356	Rhodoferax	128.10	8.32	Guanyl-specific ribonuclease (EC 3.1.27.3)
+PGF_00010360	Rhodoferax	206.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Rhodoferax	315.80	0.63	HPr kinase/phosphorylase
+PGF_00011634	Rhodoferax	459.40	11.66	HflK protein
+PGF_00012135	Rhodoferax	238.70	7.15	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012264	Rhodoferax	355.20	2.15	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Rhodoferax	446.20	5.59	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00013017	Rhodoferax	339.60	3.75	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013272	Rhodoferax	135.00	5.56	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Rhodoferax	233.80	4.16	UPF0001 protein YggS
+PGF_00013801	Rhodoferax	500.30	23.27	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013857	Rhodoferax	700.70	150.41	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014140	Rhodoferax	305.20	5.22	Inner membrane protein YedI
+PGF_00014306	Rhodoferax	175.60	7.32	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014485	Rhodoferax	281.00	71.68	Integral membrane protein
+PGF_00014735	Rhodoferax	231.60	1.35	Integral membrane protein, interacts with FtsH
+PGF_00015039	Rhodoferax	294.90	4.09	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Rhodoferax	82.60	2.37	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Rhodoferax	176.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Rhodoferax	295.70	3.06	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015701	Rhodoferax	417.30	0.95	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015855	Rhodoferax	338.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016328	Rhodoferax	174.90	8.72	LSU ribosomal protein L10p (P0)
+PGF_00016338	Rhodoferax	420.70	0.67	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Rhodoferax	117.10	14.06	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Rhodoferax	143.30	0.67	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Rhodoferax	124.10	29.89	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Rhodoferax	127.10	7.81	LSU ribosomal protein L17p
+PGF_00016353	Rhodoferax	121.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Rhodoferax	231.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Rhodoferax	113.90	12.49	LSU ribosomal protein L20p
+PGF_00016361	Rhodoferax	122.20	5.18	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Rhodoferax	108.90	5.90	LSU ribosomal protein L22p (L17e)
+PGF_00016377	Rhodoferax	106.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016393	Rhodoferax	260.00	39.29	LSU ribosomal protein L2p (L8e)
+PGF_00016406	Rhodoferax	60.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Rhodoferax	56.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Rhodoferax	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Rhodoferax	67.40	0.84	LSU ribosomal protein L35p
+PGF_00016443	Rhodoferax	179.20	0.63	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Rhodoferax	175.40	5.06	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Rhodoferax	123.50	0.53	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Rhodoferax	150.00	0.00	LSU ribosomal protein L9p
+PGF_00016919	Rhodoferax	245.60	20.06	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Rhodoferax	386.20	5.75	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017326	Rhodoferax	200.90	6.64	Lipopolysaccharide export system protein LptC
+PGF_00017400	Rhodoferax	288.20	10.17	Murein hydrolase activator NlpD
+PGF_00017459	Rhodoferax	500.60	9.94	ATP-dependent RNA helicase Bcep18194_A5658
+PGF_00017464	Rhodoferax	249.80	13.99	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017655	Rhodoferax	240.40	1.26	LrgA-associated membrane protein LrgB
+PGF_00018552	Rhodoferax	199.50	1.78	Maf-like protein YceF
+PGF_00019856	Rhodoferax	289.70	7.78	Membrane protein
+PGF_00020168	Rhodoferax	375.50	19.53	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Rhodoferax	273.80	1.93	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00021030	Rhodoferax	520.40	11.06	Methylphosphotriester-DNA--protein-cysteine S-methyltransferase (EC 2.1.1.n11) / DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_00021125	Rhodoferax	301.90	14.22	SAM-dependent methyltransferase
+PGF_00021186	Rhodoferax	365.50	0.85	ATPase
+PGF_00022479	Rhodoferax	211.10	8.21	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022507	Rhodoferax	198.20	1.87	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Rhodoferax	83.00	0.00	Molybdopterin synthase sulfur carrier subunit
+PGF_00022925	Rhodoferax	569.60	18.70	Multi-sensor signal transduction histidine kinase
+PGF_00023476	Rhodoferax	157.80	1.81	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Rhodoferax	338.80	44.43	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Rhodoferax	309.80	4.92	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023818	Rhodoferax	449.40	0.84	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00023946	Rhodoferax	162.50	7.55	N-acetyltransferase ElaA
+PGF_00024232	Rhodoferax	406.90	6.97	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024309	Rhodoferax	540.00	113.31	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Rhodoferax	472.40	2.46	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024692	Rhodoferax	166.20	5.88	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Rhodoferax	217.70	3.33	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Rhodoferax	102.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Rhodoferax	491.00	0.00	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Rhodoferax	495.20	0.42	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025090	Rhodoferax	597.50	10.64	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Rhodoferax	163.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025890	Rhodoferax	359.80	4.94	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Rhodoferax	324.60	0.52	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Rhodoferax	199.60	1.26	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026563	Rhodoferax	163.10	6.69	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Rhodoferax	297.80	2.70	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026904	Rhodoferax	683.40	5.70	Oligopeptidase A (EC 3.4.24.70)
+PGF_00028423	Rhodoferax	392.20	25.96	Outer membrane stress sensor protease DegS
+PGF_00028700	Rhodoferax	137.90	7.00	Oxidoreductase probably involved in sulfite reduction
+PGF_00029287	Rhodoferax	820.10	142.01	Aconitate hydratase 2 (EC 4.2.1.3)
+PGF_00029343	Rhodoferax	379.20	12.45	PQQ-dependent oxidoreductase, gdhB family
+PGF_00029464	Rhodoferax	154.40	5.34	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00030812	Rhodoferax	168.00	0.00	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00031127	Rhodoferax	218.90	3.31	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00033095	Rhodoferax	811.00	1.70	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033253	Rhodoferax	291.00	5.75	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Rhodoferax	346.90	4.12	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Rhodoferax	392.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033402	Rhodoferax	798.20	1.69	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033411	Rhodoferax	266.40	22.68	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033489	Rhodoferax	282.80	2.53	Phosphogluconate repressor HexR, RpiR family
+PGF_00033729	Rhodoferax	264.20	1.69	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Rhodoferax	276.00	6.70	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033767	Rhodoferax	244.60	6.24	Phospholipid and glycerol acyltransferase (EC 2.3.1.51)
+PGF_00033877	Rhodoferax	165.70	2.50	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Rhodoferax	433.90	4.18	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033946	Rhodoferax	244.10	6.74	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033963	Rhodoferax	1246.60	421.50	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033971	Rhodoferax	407.90	4.75	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00034645	Rhodoferax	200.70	23.46	Polyhydroxyalkanoate granule-associated protein PhaF
+PGF_00034776	Rhodoferax	647.60	186.80	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Rhodoferax	336.90	1.20	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035378	Rhodoferax	483.50	4.55	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035752	Rhodoferax	455.30	4.45	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035948	Rhodoferax	411.70	85.18	Predicted hydroxymethylpyrimidine transporter CytX
+PGF_00036580	Rhodoferax	109.10	0.99	Protein translocase subunit YajC
+PGF_00037427	Rhodoferax	360.90	15.81	Probable two-component sensor, near polyamine transporter
+PGF_00037431	Rhodoferax	845.40	15.85	Probable two-component transmembrane sensor histidine kinase transcription regulator protein (EC 2.7.3.-)
+PGF_00038592	Rhodoferax	254.30	3.06	Protein phosphatase 2C-like
+PGF_00038674	Rhodoferax	317.50	0.53	Protein translocase subunit SecF
+PGF_00040578	Rhodoferax	264.20	0.42	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Rhodoferax	284.50	21.69	Putative deoxyribonuclease YjjV
+PGF_00041289	Rhodoferax	273.70	22.92	Putative hemolysin
+PGF_00041794	Rhodoferax	187.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00042385	Rhodoferax	397.90	7.11	Putative n-hydroxybenzoate hydroxylase
+PGF_00043383	Rhodoferax	609.20	5.57	Putative protease
+PGF_00044566	Rhodoferax	138.20	8.32	Putative transmembrane protein
+PGF_00045738	Rhodoferax	301.90	13.53	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045833	Rhodoferax	217.50	4.30	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Rhodoferax	245.00	27.12	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045941	Rhodoferax	754.30	70.23	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00046101	Rhodoferax	266.40	79.93	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046377	Rhodoferax	237.80	0.42	RNA polymerase sigma factor for flagellar operon
+PGF_00046622	Rhodoferax	82.30	0.67	RNA-binding protein Hfq
+PGF_00047078	Rhodoferax	366.30	7.47	RecA protein
+PGF_00047408	Rhodoferax	209.00	0.00	Regulatory protein, LuxR:Response regulator receiver
+PGF_00047500	Rhodoferax	700.50	26.75	Two-component system sensor histidine kinase/response regulator hybrid
+PGF_00048480	Rhodoferax	212.10	4.48	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Rhodoferax	179.40	5.27	Outer membrane beta-barrel assembly protein BamE
+PGF_00048542	Rhodoferax	149.70	2.50	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Rhodoferax	215.70	11.36	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Rhodoferax	239.50	4.99	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Rhodoferax	148.60	0.84	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Rhodoferax	324.80	0.42	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048824	Rhodoferax	219.10	4.93	Ribosomal large subunit pseudouridine(746) synthase (EC 5.4.99.29) @ tRNA pseudouridine(32) synthase (EC 5.4.99.28)
+PGF_00048829	Rhodoferax	428.60	40.25	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Rhodoferax	295.90	3.31	Ribosomal protein L11 methyltransferase
+PGF_00048842	Rhodoferax	320.40	56.28	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Rhodoferax	436.50	92.96	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Rhodoferax	244.60	13.70	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Rhodoferax	111.10	6.64	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Rhodoferax	186.00	0.00	Ribosome recycling factor
+PGF_00048928	Rhodoferax	300.30	24.13	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Rhodoferax	137.70	2.83	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Rhodoferax	123.20	1.23	Ribosome-binding factor A
+PGF_00049163	Rhodoferax	176.10	0.32	Rod shape-determining protein MreD
+PGF_00049362	Rhodoferax	363.70	8.30	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049553	Rhodoferax	292.30	12.06	SAM-dependent methyltransferase, BioC-like
+PGF_00049658	Rhodoferax	149.30	0.95	Alternative dihydrofolate reductase 3
+PGF_00049827	Rhodoferax	260.50	5.21	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049837	Rhodoferax	134.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Rhodoferax	117.80	15.18	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Rhodoferax	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Rhodoferax	99.50	1.58	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Rhodoferax	88.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Rhodoferax	84.20	2.57	SSU ribosomal protein S16p
+PGF_00049854	Rhodoferax	89.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Rhodoferax	93.80	0.42	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Rhodoferax	89.60	5.15	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Rhodoferax	299.10	2.92	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Rhodoferax	207.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Rhodoferax	173.80	0.63	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Rhodoferax	121.20	0.42	SSU ribosomal protein S6p
+PGF_00049904	Rhodoferax	154.80	6.96	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Rhodoferax	131.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Rhodoferax	119.70	32.57	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Rhodoferax	278.50	7.43	Segregation and condensation protein A
+PGF_00052238	Rhodoferax	455.50	1.58	Signal recognition particle protein Ffh
+PGF_00052561	Rhodoferax	346.90	7.62	Similar to citrate lyase beta chain, 10
+PGF_00052574	Rhodoferax	321.00	8.19	Similar to cobalamin biosynthesis protein CbiB
+PGF_00052674	Rhodoferax	221.80	3.65	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052705	Rhodoferax	143.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Rhodoferax	304.20	3.36	Site-specific tyrosine recombinase XerD
+PGF_00054301	Rhodoferax	201.60	4.43	Stringent starvation protein A
+PGF_00054323	Rhodoferax	207.80	1.69	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Rhodoferax	119.50	5.46	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Rhodoferax	234.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Rhodoferax	390.60	7.20	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054541	Rhodoferax	212.00	0.00	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00054959	Rhodoferax	452.30	53.96	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00055052	Rhodoferax	603.10	4.51	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055273	Rhodoferax	193.00	0.00	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055354	Rhodoferax	449.70	7.24	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00056273	Rhodoferax	318.90	82.37	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056320	Rhodoferax	240.40	51.20	Tetrapyrrole methylase family protein
+PGF_00056814	Rhodoferax	509.50	16.63	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056877	Rhodoferax	819.20	36.71	Thymidine phosphorylase (EC 2.4.2.4)
+PGF_00056883	Rhodoferax	215.10	3.87	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057032	Rhodoferax	142.80	5.22	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Rhodoferax	801.30	8.21	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Rhodoferax	149.00	2.11	Transamidase GatB domain protein
+PGF_00057435	Rhodoferax	187.10	2.73	Transcription elongation factor GreB
+PGF_00057483	Rhodoferax	420.20	0.42	Transcription termination factor Rho
+PGF_00057485	Rhodoferax	498.70	0.95	Transcription termination protein NusA
+PGF_00057488	Rhodoferax	180.80	4.37	Transcription termination protein NusB
+PGF_00058555	Rhodoferax	99.90	0.32	Antibiotic biosynthesis monooxygenase
+PGF_00060414	Rhodoferax	602.80	0.42	Translation elongation factor LepA
+PGF_00060421	Rhodoferax	184.00	0.00	Translation elongation factor P
+PGF_00060427	Rhodoferax	307.70	1.83	Translation elongation factor Ts
+PGF_00060478	Rhodoferax	183.10	18.69	Translation initiation factor 3
+PGF_00062027	Rhodoferax	403.60	104.67	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Rhodoferax	432.70	3.20	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062561	Rhodoferax	223.70	0.95	Two-component response regulatory protein BP2547
+PGF_00062790	Rhodoferax	483.20	3.82	Two-component system histidine kinase BP2548
+PGF_00063167	Rhodoferax	110.90	4.72	Type I antifreeze protein
+PGF_00063916	Rhodoferax	410.00	9.08	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Rhodoferax	266.50	8.14	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063948	Rhodoferax	330.00	3.46	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Rhodoferax	337.40	65.48	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063999	Rhodoferax	474.80	1.23	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064184	Rhodoferax	488.00	41.82	UPF0061 protein YdiU
+PGF_00064270	Rhodoferax	258.50	1.78	UPF0246 protein YaaA
+PGF_00064460	Rhodoferax	522.10	2.33	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064557	Rhodoferax	353.00	1.63	Uncharacterized GTP-binding protein YjiA
+PGF_00064685	Rhodoferax	91.10	3.03	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Rhodoferax	209.80	4.54	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00064813	Rhodoferax	448.70	24.52	Uncharacterized membrane-anchored protein
+PGF_00065887	Rhodoferax	238.00	13.81	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Rhodoferax	213.60	2.50	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Rhodoferax	166.00	3.68	Pyrimidine operon regulatory protein PyrR
+PGF_00066440	Rhodoferax	401.50	3.92	VWA containing CoxE family protein
+PGF_00066867	Rhodoferax	463.50	3.21	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00067188	Rhodoferax	382.50	5.30	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067192	Rhodoferax	187.10	3.48	YaeQ protein
+PGF_00067277	Rhodoferax	394.60	1.26	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067466	Rhodoferax	604.00	4.08	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067472	Rhodoferax	383.10	2.42	Zinc carboxypeptidase domain protein
+PGF_00067739	Rhodoferax	348.70	45.22	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00068045	Rhodoferax	374.00	22.67	AttH component of AttEFGH ABC transport system
+PGF_00071693	Rhodoferax	294.20	79.54	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00124261	Rhodoferax	139.50	43.39	hypothetical protein
+PGF_00131272	Rhodoferax	54.00	0.00	UPF0391 membrane protein RGE_28580
+PGF_00145108	Rhodoferax	71.40	2.22	hypothetical protein
+PGF_00202496	Rhodoferax	48.50	1.43	hypothetical protein
+PGF_00215428	Rhodoferax	412.30	6.57	hypothetical protein
+PGF_00221213	Rhodoferax	123.80	3.88	Membrane protein
+PGF_00230491	Rhodoferax	78.60	6.33	hypothetical protein
+PGF_00255767	Rhodoferax	466.10	8.05	Osmolarity sensory histidine kinase EnvZ
+PGF_00261173	Rhodoferax	379.20	6.51	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00294392	Rhodoferax	105.40	7.59	hypothetical protein
+PGF_00300187	Rhodoferax	368.90	53.37	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00306574	Rhodoferax	376.00	17.51	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00342563	Rhodoferax	805.30	24.17	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00350921	Rhodoferax	339.90	23.58	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00376758	Rhodoferax	279.90	45.67	ATP/GTP-binding protein
+PGF_00399622	Rhodoferax	142.50	7.50	Barstar, ribonuclease (Barnase) inhibitor
+PGF_00403860	Rhodoferax	209.10	1.66	Ferric siderophore transport system, biopolymer transport protein ExbB
+PGF_00404406	Rhodoferax	156.70	2.06	probable membrane protein YPO3302
+PGF_00404831	Rhodoferax	283.50	3.17	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Rhodoferax	955.40	9.94	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408879	Rhodoferax	297.90	2.18	putative membrane protein
+PGF_00411115	Rhodoferax	256.50	1.96	putative tetratricopeptide repeat family protein
+PGF_00413203	Rhodoferax	158.80	5.90	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Rhodoferax	247.60	9.12	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Rhodoferax	331.60	15.38	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Rhodoferax	261.20	1.55	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Rhodoferax	336.80	28.56	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Rhodoferax	675.70	10.44	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Rhodoferax	311.40	15.47	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413340	Rhodoferax	338.30	19.48	tRNA-dihydrouridine(16) synthase
+PGF_00413554	Rhodoferax	157.00	0.00	tmRNA-binding protein SmpB
+PGF_00414156	Rhodoferax	134.10	2.02	twitching motility protein PilG
+PGF_00414165	Rhodoferax	755.20	7.69	twitching motility protein PilJ
+PGF_00414926	Rhodoferax	425.30	6.99	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Rhodoferax	316.60	18.51	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415372	Rhodoferax	144.90	5.90	COG0840: Methyl-accepting chemotaxis protein
+PGF_00415486	Rhodoferax	155.60	1.90	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415652	Rhodoferax	264.20	30.29	FIG00005326: uncharacterized protein
+PGF_00416129	Rhodoferax	507.00	151.11	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Rhodoferax	1042.40	156.37	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Rhodoferax	198.00	3.65	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Rhodoferax	374.60	4.50	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416895	Rhodoferax	327.60	62.53	Cell division protein
+PGF_00416982	Rhodoferax	109.70	5.56	Cell division protein FtsL
+PGF_00417840	Rhodoferax	364.20	0.42	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Rhodoferax	187.30	11.03	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418156	Rhodoferax	154.60	18.63	ClpXP protease specificity-enhancing factor / Stringent starvation protein B
+PGF_00418379	Rhodoferax	464.00	18.40	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419628	Rhodoferax	462.80	23.07	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419915	Rhodoferax	294.50	9.17	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420078	Rhodoferax	298.60	4.43	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420731	Rhodoferax	458.50	93.89	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420798	Rhodoferax	323.90	12.70	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Rhodoferax	332.30	1.25	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421071	Rhodoferax	154.00	4.37	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421365	Rhodoferax	290.50	19.75	DNA ligase (ATP) (EC 6.5.1.1)
+PGF_00421489	Rhodoferax	1162.80	99.08	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421796	Rhodoferax	550.90	3.87	DNA repair protein RecN
+PGF_00421876	Rhodoferax	923.50	248.98	DNA topoisomerase III, Burkholderia type (EC 5.99.1.2)
+PGF_00422271	Rhodoferax	329.20	0.42	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422711	Rhodoferax	214.20	4.21	DedA protein
+PGF_00422959	Rhodoferax	148.60	0.52	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423234	Rhodoferax	609.10	23.62	Diguanylate cyclase/phosphodiesterase domain 2 (EAL)
+PGF_00423335	Rhodoferax	475.20	3.01	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423356	Rhodoferax	126.50	3.10	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423376	Rhodoferax	158.80	16.09	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423378	Rhodoferax	429.80	10.83	Dihydroorotase (EC 3.5.2.3)
+PGF_00423382	Rhodoferax	352.90	11.06	Dihydroorotase (EC 3.5.2.3)
+PGF_00423480	Rhodoferax	251.40	16.87	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1
+PGF_00423533	Rhodoferax	285.90	9.59	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Rhodoferax	312.70	90.44	DksA family protein PA5536 (no Zn-finger)
+PGF_00423914	Rhodoferax	201.90	2.60	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Rhodoferax	293.80	8.43	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424569	Rhodoferax	259.00	11.66	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00425024	Rhodoferax	445.40	9.88	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425671	Rhodoferax	298.60	3.37	RNase adapter protein RapZ
+PGF_00425684	Rhodoferax	242.00	2.58	Probable transcriptional regulatory protein YebC
+PGF_00425704	Rhodoferax	92.10	6.30	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425810	Rhodoferax	251.20	0.42	Cell division protein ZapD
+PGF_00425929	Rhodoferax	303.80	10.91	5'-nucleotidase (EC 3.1.3.5)
+PGF_00426044	Rhodoferax	281.30	1.42	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Rhodoferax	608.10	66.12	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Rhodoferax	420.80	8.40	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426342	Rhodoferax	256.10	11.87	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426877	Rhodoferax	318.60	4.40	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Rhodoferax	157.50	0.53	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447508	Rhodoferax	467.50	1.96	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00464627	Rhodoferax	551.60	15.25	Sodium-dependent phosphate transporter
+PGF_00497557	Rhodoferax	518.00	8.67	Uncharacterized protein YjgR
+PGF_00508272	Rhodoferax	597.50	9.01	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00582270	Rhodoferax	466.80	9.55	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00616490	Rhodoferax	321.00	0.00	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Rhodoferax	389.30	10.89	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00644212	Rhodoferax	314.80	15.15	Nucleoside-diphosphate-sugar epimerases
+PGF_00649271	Rhodoferax	96.10	5.38	Cell division protein BolA
+PGF_00664069	Rhodoferax	453.80	4.24	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Rhodoferax	271.60	30.09	Ribosomal silencing factor RsfA
+PGF_00695496	Rhodoferax	242.30	16.52	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00709443	Rhodoferax	151.90	6.35	Twin-arginine translocation protein TatB
+PGF_00725839	Rhodoferax	795.80	14.09	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00733848	Rhodoferax	247.80	3.05	Endonuclease/exonuclease/phosphatase
+PGF_00757172	Rhodoferax	135.50	4.55	Putative transmembrane protein
+PGF_00819312	Rhodoferax	159.30	4.35	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_00851782	Rhodoferax	101.30	4.06	hypothetical protein
+PGF_00853393	Rhodoferax	297.10	0.32	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00874759	Rhodoferax	419.40	3.41	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00885329	Rhodoferax	333.10	2.18	Flagellar motor switch protein FliM
+PGF_00900256	Rhodoferax	481.50	11.96	Threonine synthase (EC 4.2.3.1)
+PGF_00908360	Rhodoferax	260.00	0.00	Phospholipid ABC transporter permease protein MlaE
+PGF_00909459	Rhodoferax	195.40	5.54	Flagellar basal body-associated protein FliL
+PGF_00926109	Rhodoferax	563.40	2.80	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00957419	Rhodoferax	135.00	8.51	Putative pre-16S rRNA nuclease Yqg
+PGF_00969847	Rhodoferax	141.20	10.16	Protein GlcG
+PGF_00973394	Rhodoferax	161.00	2.79	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_01008498	Rhodoferax	141.70	8.35	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Rhodoferax	246.00	0.00	Flagellar basal-body rod protein FlgF
+PGF_01042105	Rhodoferax	180.10	1.66	hypothetical protein
+PGF_01052295	Rhodoferax	370.50	2.32	Lipopolysaccharide export system permease protein LptF
+PGF_01067821	Rhodoferax	400.40	59.91	Beta-ureidopropionase (EC 3.5.1.6)
+PGF_01075683	Rhodoferax	136.50	4.50	Hemoglobin-like protein HbO
+PGF_01084030	Rhodoferax	765.50	6.60	Outer membrane protein assembly factor YaeT
+PGF_01092098	Rhodoferax	174.00	0.00	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01124177	Rhodoferax	424.00	4.27	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Rhodoferax	383.80	0.63	Rod shape-determining protein RodA
+PGF_01151115	Rhodoferax	115.90	4.91	Antiholin-like protein LrgA
+PGF_01166636	Rhodoferax	85.60	0.52	Glutaredoxin 3 (Grx3)
+PGF_01172200	Rhodoferax	213.70	2.41	Uncharacterized membrane anchored protein Mext_4159
+PGF_01172431	Rhodoferax	131.00	2.26	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172485	Rhodoferax	409.00	0.00	Cell division protein FtsA
+PGF_01174739	Rhodoferax	254.10	5.49	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Rhodoferax	594.10	135.67	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01220766	Rhodoferax	285.40	4.58	Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)
+PGF_01221134	Rhodoferax	349.80	5.90	Renalase (EC 1.6.3.5), oxidases 1,2-dihydro- and 1,6-dihydro- beta-NAD(P)H isomers back to NAD(P)
+PGF_01223569	Rhodoferax	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01291803	Rhodoferax	333.90	6.51	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01325304	Rhodoferax	226.50	1.65	Molybdenum ABC transporter permease protein ModB
+PGF_01336345	Rhodoferax	119.10	5.24	Type IV pilus biogenesis protein PilZ
+PGF_01351158	Rhodoferax	1125.30	218.96	Transcription-repair coupling factor
+PGF_01382505	Rhodoferax	228.40	6.55	FIG00449901: hypothetical protein
+PGF_01415861	Rhodoferax	175.90	12.19	LPS-assembly lipoprotein LptE
+PGF_01420802	Rhodoferax	135.20	20.57	Cell division protein MraZ
+PGF_01421534	Rhodoferax	213.40	27.46	LSU ribosomal protein L25p
+PGF_01448031	Rhodoferax	108.40	5.15	Integration host factor alpha subunit
+PGF_01483460	Rhodoferax	368.10	1.10	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Rhodoferax	265.10	17.96	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01532393	Rhodoferax	714.70	18.04	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Rhodoferax	145.20	5.31	Flagellar basal-body rod protein FlgB
+PGF_01602421	Rhodoferax	213.60	11.98	Flagellar basal-body rod modification protein FlgD
+PGF_01614738	Rhodoferax	88.20	2.86	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01667880	Rhodoferax	87.90	3.48	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Rhodoferax	213.10	3.54	RNA polymerase sigma factor RpoE
+PGF_01674551	Rhodoferax	123.70	0.48	Glycine cleavage system H protein
+PGF_01682834	Rhodoferax	206.80	4.76	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Rhodoferax	248.10	3.96	DNA recombination and repair protein RecO
+PGF_01734668	Rhodoferax	217.50	1.58	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Rhodoferax	290.50	8.13	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01739753	Rhodoferax	305.00	25.61	Zinc metalloprotease
+PGF_01763725	Rhodoferax	278.90	52.14	Protein phosphatase 2C-like
+PGF_01777142	Rhodoferax	202.90	5.97	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Rhodoferax	145.50	7.06	Protein YhfA
+PGF_01852683	Rhodoferax	514.90	13.60	Nucleoside ABC transporter, ATP-binding protein
+PGF_01867628	Rhodoferax	334.00	0.00	Heat-inducible transcription repressor HrcA
+PGF_01888177	Rhodoferax	145.50	0.71	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01899924	Rhodoferax	315.10	2.02	Flagellar motor rotation protein MotB
+PGF_01899937	Rhodoferax	302.50	10.43	Rod shape-determining protein MreC
+PGF_01960322	Rhodoferax	627.80	4.78	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Rhodoferax	436.10	0.32	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Rhodoferax	263.20	3.61	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Rhodoferax	354.60	4.60	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Rhodoferax	370.30	5.50	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02059020	Rhodoferax	553.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02085373	Rhodoferax	137.80	2.20	UPF0225 protein YchJ
+PGF_02109968	Rhodoferax	333.60	3.44	Flagellar motor switch protein FliG
+PGF_02111888	Rhodoferax	321.90	8.57	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Rhodoferax	713.90	3.18	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02185217	Rhodoferax	436.80	3.33	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Rhodoferax	384.40	0.52	Flagellar biosynthesis protein FlhB
+PGF_02211177	Rhodoferax	257.40	2.80	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02224568	Rhodoferax	382.10	0.32	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Rhodoferax	701.60	54.43	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02295498	Rhodoferax	121.90	5.07	Ferredoxin, 2Fe-2S
+PGF_02317534	Rhodoferax	146.10	1.10	Thioredoxin 2
+PGF_02323834	Rhodoferax	290.50	1.27	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02325838	Rhodoferax	521.70	28.45	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328820	Rhodoferax	67.10	1.10	hypothetical protein
+PGF_02328856	Rhodoferax	278.30	5.29	Type IV pilus biogenesis protein PilF
+PGF_02355769	Rhodoferax	374.00	6.36	Alanine racemase (EC 5.1.1.1)
+PGF_02405545	Rhodoferax	321.70	19.59	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02420191	Rhodoferax	494.30	18.45	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02463284	Rhodoferax	196.00	0.00	Recombination protein RecR
+PGF_02473279	Rhodoferax	274.70	13.24	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Rhodoferax	230.30	11.12	Uncharacterized Nudix hydrolase NudL
+PGF_02515882	Rhodoferax	422.10	0.32	Aspartokinase (EC 2.7.2.4)
+PGF_02517984	Rhodoferax	60.00	0.00	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Rhodoferax	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02518965	Rhodoferax	150.60	3.24	Regulatory protein RecX
+PGF_02592886	Rhodoferax	253.00	7.04	Flagellar biosynthesis protein FliR
+PGF_02593689	Rhodoferax	555.20	48.64	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601905	Rhodoferax	149.80	2.53	Transcriptional regulator PA2737, MerR family
+PGF_02623406	Rhodoferax	328.40	7.35	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02719231	Rhodoferax	121.20	5.57	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02776739	Rhodoferax	132.40	3.75	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02787494	Rhodoferax	215.00	0.00	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02792560	Rhodoferax	236.20	5.09	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Rhodoferax	467.60	11.47	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Rhodoferax	1287.10	262.15	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02813191	Rhodoferax	123.00	2.16	FIG146285: Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+PGF_02820109	Rhodoferax	238.00	3.46	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02866666	Rhodoferax	838.90	8.97	ABC transporter, fused permease protein
+PGF_02873723	Rhodoferax	492.80	3.79	Ribonuclease G
+PGF_02875609	Rhodoferax	478.70	11.83	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Rhodoferax	349.80	39.51	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Rhodoferax	356.70	3.06	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02891004	Rhodoferax	435.80	1.32	Glycerol-3-phosphate ABC transporter, substrate-binding protein UgpB
+PGF_02899131	Rhodoferax	68.30	0.48	LSU ribosomal protein L29p (L35e)
+PGF_02901271	Rhodoferax	147.60	0.52	PTS system, IIA component
+PGF_02902854	Rhodoferax	213.50	4.95	Outer membrane lipoprotein carrier protein LolA
+PGF_02911133	Rhodoferax	196.70	16.99	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Rhodoferax	300.50	1.65	HflC protein
+PGF_02912272	Rhodoferax	174.60	4.38	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Rhodoferax	240.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Rhodoferax	381.70	14.13	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Rhodoferax	289.50	13.31	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Rhodoferax	377.00	5.62	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02938730	Rhodoferax	357.40	5.23	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942020	Rhodoferax	209.40	15.36	Peptidyl-prolyl cis-trans isomerase PpiA precursor (EC 5.2.1.8)
+PGF_02946231	Rhodoferax	536.50	90.60	SSU ribosomal protein S1p
+PGF_02992100	Rhodoferax	248.70	2.50	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Rhodoferax	119.70	4.95	Protein translocase membrane subunit SecG
+PGF_02997723	Rhodoferax	155.70	2.50	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03020126	Rhodoferax	68.00	0.00	hypothetical protein
+PGF_03025675	Rhodoferax	582.20	7.21	Lipid A export permease/ATP-binding protein MsbA
+PGF_03026450	Rhodoferax	1076.00	307.10	Chromosome partition protein smc
+PGF_03033930	Rhodoferax	440.80	7.36	Type I secretion outer membrane protein, TolC family
+PGF_03070334	Rhodoferax	171.60	12.68	Putative transmembrane protein
+PGF_03070510	Rhodoferax	278.00	0.94	Flagellar synthesis regulator FleN
+PGF_03074362	Rhodoferax	412.40	3.10	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03125514	Rhodoferax	442.30	38.53	FIG015287: Zinc protease
+PGF_03128228	Rhodoferax	378.30	1.89	Outer membrane beta-barrel assembly protein BamB
+PGF_03132336	Rhodoferax	411.40	92.43	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Rhodoferax	426.30	13.70	Flagellar hook-associated protein FlgL
+PGF_03138644	Rhodoferax	205.40	9.00	Arginine exporter protein ArgO
+PGF_03146406	Rhodoferax	599.90	2.64	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Rhodoferax	271.10	1.91	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Rhodoferax	200.50	3.41	Transcription antitermination protein NusG
+PGF_03222913	Rhodoferax	138.30	0.95	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03278866	Rhodoferax	77.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03364965	Rhodoferax	736.10	148.14	Type cbb3 cytochrome oxidase biogenesis protein CcoI; Copper-translocating P-type ATPase (EC 3.6.3.4)
+PGF_03369967	Rhodoferax	394.70	6.09	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03421722	Rhodoferax	478.70	7.26	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Rhodoferax	320.50	24.78	33 kDa chaperonin HslO
+PGF_03439690	Rhodoferax	143.70	3.13	Ferric uptake regulation protein FUR
+PGF_03441339	Rhodoferax	337.10	16.05	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03470321	Rhodoferax	180.60	1.43	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Rhodoferax	470.80	3.58	Flagellum-specific ATP synthase FliI
+PGF_03518570	Rhodoferax	141.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03589991	Rhodoferax	155.10	18.05	Proteins containing SET domain
+PGF_03609651	Rhodoferax	700.80	6.34	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03694903	Rhodoferax	643.50	11.97	ATP-dependent RNA helicase NGO0650
+PGF_03708253	Rhodoferax	127.00	0.00	Protein translocase subunit SecE
+PGF_03719269	Rhodoferax	204.60	10.37	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Rhodoferax	171.10	23.72	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729098	Rhodoferax	339.40	6.28	Sigma factor RpoE negative regulatory protein RseB precursor
+PGF_03729877	Rhodoferax	121.80	1.93	twitching motility protein PilH
+PGF_03750571	Rhodoferax	464.00	24.86	Chromosomal replication initiator protein DnaA
+PGF_03750599	Rhodoferax	258.30	6.75	Cell division coordinator CpoB
+PGF_03751823	Rhodoferax	179.00	11.61	Heat shock protein GrpE
+PGF_03753122	Rhodoferax	329.50	12.45	Site-specific tyrosine recombinase XerC
+PGF_03757137	Rhodoferax	478.50	6.79	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03768099	Rhodoferax	283.60	3.37	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03778780	Rhodoferax	365.80	40.60	Signal recognition particle receptor FtsY
+PGF_03783620	Rhodoferax	174.00	0.00	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Rhodoferax	188.40	3.41	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Rhodoferax	414.60	7.55	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Rhodoferax	226.90	1.91	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Rhodoferax	274.40	8.33	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03807952	Rhodoferax	59.10	3.73	hypothetical protein
+PGF_03815442	Rhodoferax	302.50	2.27	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_03846586	Rhodoferax	186.90	2.08	Putative transmembrane protein
+PGF_03954476	Rhodoferax	270.90	39.78	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03957141	Rhodoferax	571.20	5.47	Probable inner membrane transmembrane protein
+PGF_03960810	Rhodoferax	255.00	2.26	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03969636	Rhodoferax	171.90	12.63	PhbF
+PGF_04009106	Rhodoferax	153.90	33.26	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04034430	Rhodoferax	70.00	0.00	SSU ribosomal protein S21p
+PGF_04108824	Rhodoferax	577.80	1.55	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Rhodoferax	263.90	0.99	Twin-arginine translocation protein TatC
+PGF_04150742	Rhodoferax	295.10	2.51	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Rhodoferax	187.10	3.81	16S rRNA processing protein RimM
+PGF_04154333	Rhodoferax	77.60	1.43	Twin-arginine translocation protein TatA
+PGF_04163139	Rhodoferax	236.10	9.45	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04213876	Rhodoferax	258.20	6.92	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04284526	Rhodoferax	416.60	17.48	Alpha-aminoadipate aminotransferase (EC 2.6.1.39) @ Leucine transaminase (EC 2.6.1.6) @ Valine transaminase
+PGF_04315180	Rhodoferax	152.50	1.90	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Rhodoferax	474.10	8.70	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04395505	Rhodoferax	314.20	1.99	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Rhodoferax	110.00	0.00	Thioredoxin
+PGF_04521913	Rhodoferax	474.30	6.02	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Rhodoferax	517.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Rhodoferax	246.90	0.32	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04634699	Rhodoferax	156.60	8.28	hypothetical protein
+PGF_04636538	Rhodoferax	90.00	0.00	DNA-binding protein HU-beta
+PGF_04662829	Rhodoferax	869.50	4.25	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Rhodoferax	408.90	3.21	Alanine transaminase (EC 2.6.1.2)
+PGF_04679223	Rhodoferax	139.90	0.74	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04749763	Rhodoferax	971.00	11.38	Translation initiation factor 2
+PGF_04757308	Rhodoferax	678.00	9.85	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Rhodoferax	211.60	24.22	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Rhodoferax	283.80	4.85	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04807486	Rhodoferax	333.90	34.55	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04965976	Rhodoferax	367.00	1.25	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Rhodoferax	67.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_05056505	Rhodoferax	711.90	133.36	Nitrogen regulation protein NtrY
+PGF_05117712	Rhodoferax	904.60	5.82	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Rhodoferax	912.60	27.18	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05154119	Rhodoferax	291.40	8.24	Putative transmembrane protein
+PGF_05165078	Rhodoferax	333.40	19.63	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Rhodoferax	473.90	1.60	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05257314	Rhodoferax	1369.50	13.35	FIG005080: Possible exported protein
+PGF_05364204	Rhodoferax	221.00	2.83	FIG004556: membrane metalloprotease
+PGF_05383972	Rhodoferax	166.80	17.92	G:T/U mismatch-specific uracil/thymine DNA-glycosylase (EC 3.2.2.27)
+PGF_05421852	Rhodoferax	661.10	7.32	Chaperone protein HtpG
+PGF_05435672	Rhodoferax	337.40	8.55	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05439724	Rhodoferax	702.20	18.49	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463439	Rhodoferax	107.80	4.42	hypothetical protein
+PGF_05463808	Rhodoferax	303.10	9.73	NAD kinase (EC 2.7.1.23)
+PGF_05572289	Rhodoferax	398.80	1.69	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aromatic-amino-acid aminotransferase (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+PGF_05581732	Rhodoferax	436.40	0.84	Protein translocase subunit SecY
+PGF_05598173	Rhodoferax	397.90	8.35	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05693577	Rhodoferax	103.00	2.87	Integration host factor beta subunit
+PGF_05712128	Rhodoferax	570.70	2.26	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05769513	Rhodoferax	433.00	18.79	Tol-Pal system beta propeller repeat protein TolB
+PGF_05872952	Rhodoferax	268.60	1.90	Outer membrane beta-barrel assembly protein BamD
+PGF_05949521	Rhodoferax	626.00	0.00	Protein translocase subunit SecD
+PGF_05965455	Rhodoferax	447.70	13.58	AmpG permease
+PGF_05971611	Rhodoferax	412.20	10.32	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06000040	Rhodoferax	406.10	1.45	Type IV fimbrial assembly protein PilC
+PGF_06005188	Rhodoferax	653.80	13.55	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06048886	Rhodoferax	181.50	3.63	Ubiquinone biosynthesis protein UbiJ
+PGF_06051594	Rhodoferax	575.20	16.88	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06061522	Rhodoferax	143.50	11.42	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06120144	Rhodoferax	146.00	0.94	Ribosome association toxin RatA
+PGF_06170558	Rhodoferax	159.80	1.55	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Rhodoferax	145.20	5.71	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Rhodoferax	264.00	6.65	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Rhodoferax	484.70	6.52	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06285197	Rhodoferax	501.90	34.90	Intracellular PHB depolymerase
+PGF_06287652	Rhodoferax	260.00	8.84	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06290616	Rhodoferax	171.30	16.17	hypothetical protein
+PGF_06323462	Rhodoferax	211.00	4.62	21 kDa hemolysin precursor
+PGF_06326847	Rhodoferax	250.50	9.38	Flagellar biosynthesis protein FliP
+PGF_06379377	Rhodoferax	434.40	4.95	Replication-associated recombination protein RarA
+PGF_06458877	Rhodoferax	177.00	26.65	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06461498	Rhodoferax	284.30	8.41	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06524027	Rhodoferax	684.20	60.92	ATP-dependent DNA helicase Rep
+PGF_06545170	Rhodoferax	128.00	6.58	Fluoride ion transporter CrcB
+PGF_06644010	Rhodoferax	314.70	7.02	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06649360	Rhodoferax	229.20	5.81	Segregation and condensation protein B
+PGF_06693963	Rhodoferax	110.00	0.00	Nucleoid-associated protein YaaK
+PGF_06735060	Rhodoferax	745.90	196.48	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06757295	Rhodoferax	529.10	10.14	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06772993	Rhodoferax	976.30	120.03	Ribonuclease E (EC 3.1.26.12)
+PGF_07101513	Rhodoferax	141.60	3.89	Flagellar motor switch protein FliN
+PGF_07242312	Rhodoferax	679.80	14.67	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_08153913	Rhodoferax	253.90	5.32	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08183187	Rhodoferax	418.10	4.89	Cell division protein FtsW

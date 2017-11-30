@@ -1,0 +1,904 @@
+PGF_00000027	Rhizobium	272.91	15.75	Uncharacterized protein YmdB
+PGF_00000416	Rhizobium	363.96	27.40	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000760	Rhizobium	335.91	23.70	ABC alpha-glucoside transporter, inner membrane subunit AglF
+PGF_00000939	Rhizobium	395.10	23.91	Uncharacterized protein YhiN
+PGF_00002124	Rhizobium	215.04	4.48	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002554	Rhizobium	336.08	2.99	FIG017823: ATPase, MoxR family
+PGF_00002570	Rhizobium	86.88	3.43	FIG018229: hypothetical protein
+PGF_00002592	Rhizobium	221.23	12.83	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00002615	Rhizobium	128.86	2.74	FIG020313: hypothetical protein
+PGF_00002885	Rhizobium	124.57	5.22	FIG026765: hypothetical protein
+PGF_00003021	Rhizobium	89.77	2.65	FIG035060: hypothetical protein
+PGF_00003090	Rhizobium	1058.26	44.07	FIG041266: ATP-dependent nuclease subunit B
+PGF_00003100	Rhizobium	171.23	9.39	FIG042921: similarity to aminoacyl-tRNA editing enzymes YbaK, ProX
+PGF_00003175	Rhizobium	311.92	37.98	FIG049039: Transcriptional regulator, LysR family
+PGF_00003220	Rhizobium	846.07	54.57	FIG056333: sensor
+PGF_00003243	Rhizobium	1133.52	215.57	FIG061771: ATP-dependent nuclease subunit A
+PGF_00003448	Rhizobium	396.45	7.54	FIG110192: hypothetical protein
+PGF_00003537	Rhizobium	305.99	4.17	FIG139612: Possible conserved membrane protein
+PGF_00003689	Rhizobium	149.20	20.32	FIG167255: hypothetical protein
+PGF_00003989	Rhizobium	375.95	29.49	FOG: TPR repeat, SEL1 subfamily
+PGF_00004378	Rhizobium	272.68	19.01	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00005284	Rhizobium	548.83	48.05	Flagellar M-ring protein FliF
+PGF_00005288	Rhizobium	372.65	1.76	Flagellar P-ring protein FlgI
+PGF_00005354	Rhizobium	138.00	4.47	Flagellar basal-body rod protein FlgC
+PGF_00005358	Rhizobium	260.48	11.68	Flagellar basal-body rod protein FlgG
+PGF_00005402	Rhizobium	88.15	2.17	Flagellar biosynthesis protein FliQ
+PGF_00005572	Rhizobium	184.84	9.91	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005614	Rhizobium	115.96	2.51	Flagellar protein FliJ
+PGF_00005662	Rhizobium	149.04	0.29	Flagellum biosynthesis repressor protein FlbT
+PGF_00005989	Rhizobium	240.30	10.28	Flp pilus assembly protein CpaD
+PGF_00006034	Rhizobium	276.56	14.26	Flp pilus assembly protein TadD, contains TPR repeat
+PGF_00006100	Rhizobium	280.52	16.01	tRNA-modifying protein YgfZ
+PGF_00006372	Rhizobium	258.55	20.22	Fructose ABC transporter, ATP-binding component FrcA
+PGF_00006374	Rhizobium	355.77	4.63	Fructose ABC transporter, permease component FrcC
+PGF_00006375	Rhizobium	341.57	10.02	Fructose ABC transporter, substrate-binding component FrcB
+PGF_00006461	Rhizobium	461.23	39.43	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Rhizobium	519.65	30.52	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Rhizobium	367.81	5.93	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007014	Rhizobium	357.45	21.78	GTP-binding protein
+PGF_00007024	Rhizobium	473.50	10.62	GTP-binding protein EngA
+PGF_00007026	Rhizobium	216.79	10.80	GTP-binding protein EngB
+PGF_00007027	Rhizobium	313.77	11.46	GTP-binding protein Era
+PGF_00007028	Rhizobium	442.97	21.42	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Rhizobium	604.47	26.96	GTP-binding protein TypA/BipA
+PGF_00007057	Rhizobium	423.62	48.33	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007235	Rhizobium	176.73	10.67	GcrA cell cycle regulator
+PGF_00007304	Rhizobium	306.87	25.99	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Rhizobium	338.93	12.80	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Rhizobium	339.72	17.76	Glucokinase (EC 2.7.1.2)
+PGF_00007971	Rhizobium	419.50	3.35	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007988	Rhizobium	539.70	20.73	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Rhizobium	456.72	35.74	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Rhizobium	384.81	27.59	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Rhizobium	410.15	31.53	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Rhizobium	261.72	33.38	Glutamate racemase (EC 5.1.1.3)
+PGF_00008246	Rhizobium	269.67	10.51	Glutamine amidotransferases class-II
+PGF_00008337	Rhizobium	484.93	11.06	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008611	Rhizobium	325.64	21.18	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Rhizobium	934.45	123.62	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008778	Rhizobium	382.74	27.89	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00009500	Rhizobium	184.85	4.51	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Rhizobium	314.48	22.67	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Rhizobium	708.28	105.16	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010001	Rhizobium	138.21	1.81	Glyoxalase family protein
+PGF_00010205	Rhizobium	242.99	17.24	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Rhizobium	733.92	72.30	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Rhizobium	219.88	4.97	Guanylate kinase (EC 2.7.4.8)
+PGF_00010738	Rhizobium	163.23	12.48	HTH-type transcriptional regulator PetP
+PGF_00011081	Rhizobium	726.73	86.25	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011277	Rhizobium	371.49	15.07	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_00011321	Rhizobium	312.05	31.09	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011528	Rhizobium	548.41	35.30	Heparinase II/III-like
+PGF_00011634	Rhizobium	365.55	11.07	HflK protein
+PGF_00012084	Rhizobium	167.82	5.67	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012264	Rhizobium	342.05	28.37	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012918	Rhizobium	289.70	13.80	ADA regulatory protein / Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_00013003	Rhizobium	629.09	20.11	Bis-ABC ATPase YheS
+PGF_00013266	Rhizobium	257.06	15.94	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013272	Rhizobium	144.73	6.47	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Rhizobium	218.94	5.55	UPF0001 protein YggS
+PGF_00013455	Rhizobium	326.78	4.74	Hypothetical transmembrane iron-regulated protein
+PGF_00013492	Rhizobium	180.23	3.86	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Rhizobium	529.64	53.77	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013801	Rhizobium	493.13	41.86	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013803	Rhizobium	203.09	6.43	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Rhizobium	269.71	9.83	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Rhizobium	488.40	48.47	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Rhizobium	250.71	6.22	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015121	Rhizobium	204.80	9.28	ATP synthase F0 sector subunit b' (EC 3.6.3.14)
+PGF_00015142	Rhizobium	75.23	4.03	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Rhizobium	186.01	3.67	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Rhizobium	293.39	1.79	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015263	Rhizobium	129.90	1.12	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_00015289	Rhizobium	115.31	5.78	ATP synthase protein I
+PGF_00015416	Rhizobium	290.76	3.68	ATP-DEPENDENT PROTEASE SUBUNIT
+PGF_00015476	Rhizobium	423.68	24.85	Iron-regulated protein A precursor
+PGF_00015489	Rhizobium	158.91	2.67	Iron-responsive repressor RirA
+PGF_00015510	Rhizobium	250.36	21.98	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Rhizobium	488.08	13.75	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Rhizobium	423.61	5.73	Iron-sulfur cluster assembly protein SufD
+PGF_00015718	Rhizobium	958.11	113.73	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Rhizobium	336.66	24.50	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015902	Rhizobium	2194.02	447.62	Kinesin-like protein
+PGF_00016225	Rhizobium	462.09	44.17	L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016325	Rhizobium	831.86	56.10	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Rhizobium	172.10	0.30	LSU ribosomal protein L10p (P0)
+PGF_00016338	Rhizobium	423.80	7.37	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Rhizobium	121.39	2.91	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Rhizobium	157.76	2.90	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Rhizobium	137.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Rhizobium	139.97	6.60	LSU ribosomal protein L17p
+PGF_00016353	Rhizobium	119.12	4.25	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Rhizobium	231.86	2.73	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Rhizobium	134.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Rhizobium	129.07	0.38	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Rhizobium	97.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Rhizobium	101.77	2.01	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Rhizobium	88.93	1.50	LSU ribosomal protein L27p
+PGF_00016393	Rhizobium	276.24	15.09	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Rhizobium	68.62	0.98	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Rhizobium	60.49	3.16	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Rhizobium	55.38	3.50	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Rhizobium	66.99	0.20	LSU ribosomal protein L35p
+PGF_00016425	Rhizobium	41.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016431	Rhizobium	213.79	9.01	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Rhizobium	206.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Rhizobium	184.94	1.49	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Rhizobium	173.97	7.96	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Rhizobium	125.79	11.18	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Rhizobium	191.63	0.57	LSU ribosomal protein L9p
+PGF_00016477	Rhizobium	1035.20	103.13	ATP-dependent DNA helicase
+PGF_00016669	Rhizobium	1126.57	73.50	Large exoproteins involved in heme utilization or adhesion
+PGF_00016919	Rhizobium	203.69	4.09	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Rhizobium	389.61	23.69	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Rhizobium	263.13	9.35	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017389	Rhizobium	503.62	30.93	ATP-dependent RNA helicase Atu1833
+PGF_00017406	Rhizobium	643.11	49.80	ATP-dependent RNA helicase Atu4171
+PGF_00017464	Rhizobium	227.97	9.37	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017939	Rhizobium	347.60	24.51	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018560	Rhizobium	377.11	23.94	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Rhizobium	320.58	4.28	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Rhizobium	434.30	15.75	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Rhizobium	175.58	6.96	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Rhizobium	869.55	84.51	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00020168	Rhizobium	367.64	38.61	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Rhizobium	285.39	1.12	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Rhizobium	169.61	2.84	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Rhizobium	273.76	5.71	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020793	Rhizobium	190.68	11.47	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020996	Rhizobium	125.35	6.32	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021019	Rhizobium	134.71	2.33	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00021186	Rhizobium	386.09	4.52	ATPase
+PGF_00021491	Rhizobium	426.90	10.86	Mitochondrial processing peptidase-like protein (EC 3.4.24.64)
+PGF_00021556	Rhizobium	84.37	9.48	Mll2721 protein
+PGF_00021684	Rhizobium	225.46	7.53	ATPase component BioM of energizing module of biotin ECF transporter
+PGF_00021718	Rhizobium	183.22	1.82	Mlr0777 protein
+PGF_00021719	Rhizobium	208.53	12.86	Mlr0789 protein
+PGF_00021808	Rhizobium	170.12	11.90	Mlr4354 like protein
+PGF_00021883	Rhizobium	225.75	2.95	FIG00449901: hypothetical protein
+PGF_00022467	Rhizobium	181.14	14.23	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00022565	Rhizobium	84.44	0.84	Molybdopterin synthase sulfur carrier subunit
+PGF_00022605	Rhizobium	237.80	21.59	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022665	Rhizobium	358.18	25.37	MotA/TolQ/ExbB proton channel family protein, probably associated with flagella
+PGF_00022666	Rhizobium	341.59	20.64	MotB-like protein Atu3746
+PGF_00023326	Rhizobium	212.51	4.20	MarC family integral membrane protein
+PGF_00023328	Rhizobium	490.59	26.67	Multiple polyol-specific dehydrogenase (EC 1.1.1.-)
+PGF_00023591	Rhizobium	365.58	14.72	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Rhizobium	310.09	2.57	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024234	Rhizobium	397.24	38.27	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Rhizobium	164.42	7.34	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Rhizobium	356.26	3.83	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024465	Rhizobium	951.60	78.97	NAD-dependent formate dehydrogenase alpha subunit
+PGF_00024470	Rhizobium	515.16	33.70	NAD-dependent formate dehydrogenase beta subunit
+PGF_00024475	Rhizobium	159.19	5.62	NAD-dependent formate dehydrogenase gamma subunit
+PGF_00024479	Rhizobium	770.20	35.19	NAD-dependent malic enzyme (EC 1.1.1.38)
+PGF_00024615	Rhizobium	319.05	12.56	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024801	Rhizobium	131.05	8.52	NADH:ubiquinone oxidoreductase 17.2 kD subunit
+PGF_00024855	Rhizobium	153.88	1.70	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00024908	Rhizobium	332.73	25.90	NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13) / NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00025003	Rhizobium	284.30	6.78	NLP/P60 family lipoprotein
+PGF_00025215	Rhizobium	189.79	5.60	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025562	Rhizobium	209.02	4.69	Nicotinamidase (EC 3.5.1.19)
+PGF_00025598	Rhizobium	435.25	4.65	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025623	Rhizobium	340.18	7.01	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025890	Rhizobium	382.94	2.68	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Rhizobium	315.15	22.54	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Rhizobium	214.51	2.52	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Rhizobium	279.41	3.93	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Rhizobium	300.29	5.88	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026614	Rhizobium	144.86	7.04	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026615	Rhizobium	297.95	19.64	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026888	Rhizobium	614.97	34.93	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00027308	Rhizobium	188.33	22.10	Acetyltransferase
+PGF_00027544	Rhizobium	230.39	8.41	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00027752	Rhizobium	625.62	31.31	Outer membrane component of TAM transport system
+PGF_00027831	Rhizobium	172.19	11.41	Outer membrane beta-barrel assembly protein BamE
+PGF_00028539	Rhizobium	284.12	5.30	Oxidoreductase
+PGF_00028700	Rhizobium	168.93	7.91	Oxidoreductase probably involved in sulfite reduction
+PGF_00029343	Rhizobium	386.54	33.50	PQQ-dependent oxidoreductase, gdhB family
+PGF_00029921	Rhizobium	329.27	12.87	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030246	Rhizobium	353.32	24.69	Penicillin-insensitive murein endopeptidase
+PGF_00030640	Rhizobium	357.99	14.65	Peptide chain release factor 1
+PGF_00030643	Rhizobium	520.97	51.63	Peptide chain release factor 3
+PGF_00031127	Rhizobium	246.72	20.71	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00031585	Rhizobium	160.41	7.28	Peroxiredoxin
+PGF_00032999	Rhizobium	189.98	11.36	PhbF
+PGF_00033095	Rhizobium	800.51	64.23	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Rhizobium	349.45	9.83	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Rhizobium	347.24	22.11	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033293	Rhizobium	243.78	9.43	Phosphatidylcholine synthase (EC 2.7.8.24)
+PGF_00033359	Rhizobium	358.75	40.22	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033411	Rhizobium	271.34	15.26	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033479	Rhizobium	541.38	13.73	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033488	Rhizobium	604.07	33.51	Phosphogluconate dehydratase (EC 4.2.1.12)
+PGF_00033511	Rhizobium	403.18	6.56	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033545	Rhizobium	195.87	3.51	Phosphoglycerate mutase family (Rhiz)
+PGF_00033618	Rhizobium	229.38	12.28	Phosphoglycolate phosphatase
+PGF_00033725	Rhizobium	299.99	11.22	Phospholipase/carboxylesterase family protein
+PGF_00033729	Rhizobium	271.22	1.57	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033877	Rhizobium	165.65	10.17	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Rhizobium	401.18	34.26	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033928	Rhizobium	420.22	32.59	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Rhizobium	253.45	13.50	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Rhizobium	224.74	12.05	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Rhizobium	246.43	12.84	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Rhizobium	355.20	19.59	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Rhizobium	222.29	12.39	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Rhizobium	732.09	74.43	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Rhizobium	222.11	9.58	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033988	Rhizobium	390.43	23.56	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034548	Rhizobium	456.42	1.33	Pole remodelling regulatory diguanylate cyclase
+PGF_00034776	Rhizobium	706.92	57.80	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034923	Rhizobium	189.26	9.74	Polysaccharide export protein
+PGF_00034988	Rhizobium	335.67	21.82	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035194	Rhizobium	320.93	26.06	Adenosine deaminase (EC 3.5.4.4)
+PGF_00035334	Rhizobium	326.32	22.75	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035439	Rhizobium	245.17	16.11	Precorrin-2 C(20)-methyltransferase (EC 2.1.1.130)
+PGF_00035464	Rhizobium	253.13	9.70	Precorrin-4 C(11)-methyltransferase (EC 2.1.1.133)
+PGF_00035467	Rhizobium	410.62	18.95	Precorrin-6Y C(5,15)-methyltransferase [decarboxylating] (EC 2.1.1.132)
+PGF_00035468	Rhizobium	220.77	59.21	Precorrin-8X methylmutase (EC 5.4.99.61)
+PGF_00035721	Rhizobium	436.71	7.07	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035831	Rhizobium	253.80	14.95	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00036128	Rhizobium	504.04	24.24	Predicted nucleoside ABC transporter, ATP-binding component
+PGF_00036129	Rhizobium	368.34	3.79	Predicted nucleoside ABC transporter, permease 1 component
+PGF_00036513	Rhizobium	329.86	16.20	Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)
+PGF_00036580	Rhizobium	115.04	5.09	Protein translocase subunit YajC
+PGF_00037394	Rhizobium	516.25	51.33	Probable thiol oxidoreductase with 2 cytochrome c heme-binding sites
+PGF_00037523	Rhizobium	1201.91	160.74	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037588	Rhizobium	438.98	31.94	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037826	Rhizobium	319.99	12.03	Protease HtpX homolog
+PGF_00038060	Rhizobium	312.56	6.91	Protein containing domains DUF403
+PGF_00038061	Rhizobium	467.41	27.89	Protein containing domains DUF404, DUF407
+PGF_00038062	Rhizobium	802.43	40.30	Protein containing domains DUF404, DUF407, DUF403
+PGF_00038612	Rhizobium	113.21	1.14	Protein secretion chaperonin CsaA
+PGF_00038782	Rhizobium	253.84	4.92	Protein-disulfide isomerase
+PGF_00038879	Rhizobium	178.27	8.46	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039827	Rhizobium	505.97	15.44	Putative Zn-dependent protease
+PGF_00040578	Rhizobium	257.32	20.97	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041206	Rhizobium	427.82	23.82	Uncharacterized chaperone protein YegD
+PGF_00041786	Rhizobium	149.45	3.69	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042620	Rhizobium	377.44	1.87	Putative oxidoreductase
+PGF_00043159	Rhizobium	383.90	17.23	Putative permease often clustered with de novo purine synthesis
+PGF_00043265	Rhizobium	315.41	26.05	Putative phosphoribosylaminoimidazole-succinocarboxamide synthase 2 (SAICAR synthetase 2)
+PGF_00044110	Rhizobium	95.50	36.08	hypothetical protein
+PGF_00044215	Rhizobium	320.65	25.31	Galactofuranose ABC transporter, permease protein 2
+PGF_00044216	Rhizobium	338.03	19.93	Galactofuranose ABC transporter, permease protein 1
+PGF_00044963	Rhizobium	233.21	12.11	YdcF-like protein
+PGF_00044989	Rhizobium	886.65	65.89	Methyl-accepting chemotaxis protein
+PGF_00045738	Rhizobium	302.67	4.84	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045833	Rhizobium	206.02	6.82	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Rhizobium	250.96	9.35	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045936	Rhizobium	401.39	24.23	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00045941	Rhizobium	710.57	23.51	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00046197	Rhizobium	257.24	18.09	RNA binding methyltransferase FtsJ like
+PGF_00046224	Rhizobium	283.81	14.10	RNA methyltransferase Atu0341
+PGF_00046622	Rhizobium	86.45	19.99	RNA-binding protein Hfq
+PGF_00046915	Rhizobium	379.85	34.94	Radical SAM domain protein
+PGF_00047078	Rhizobium	359.59	11.70	RecA protein
+PGF_00047093	Rhizobium	377.61	37.45	RecD-like DNA helicase Atu2026
+PGF_00047903	Rhizobium	199.23	6.91	Response regulator NasT
+PGF_00047906	Rhizobium	382.59	28.13	Alpha-glucoside transport system permease protein AglG
+PGF_00048333	Rhizobium	316.44	9.95	Rhodanese domain protein UPF0176, cyanobacterial/alphaproteobacterial subgroup
+PGF_00048480	Rhizobium	204.59	1.57	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048528	Rhizobium	208.61	4.31	Ribonuclease D related protein
+PGF_00048556	Rhizobium	225.22	15.89	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Rhizobium	239.17	3.48	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Rhizobium	157.58	5.31	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048840	Rhizobium	291.87	7.83	Ribosomal protein L11 methyltransferase
+PGF_00048917	Rhizobium	185.31	10.52	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Rhizobium	186.01	1.59	Ribosome recycling factor
+PGF_00048933	Rhizobium	134.03	5.71	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00049330	Rhizobium	410.71	36.36	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049360	Rhizobium	412.02	30.85	S-adenosylmethionine:diacylglycerol 3-amino-3-carboxypropyl transferase, BtaA protein
+PGF_00049361	Rhizobium	224.29	4.91	S-adenosylmethionine:diacylgycerolhomoserine-N-methyltransferase, BtaB protein
+PGF_00049362	Rhizobium	361.89	7.72	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049461	Rhizobium	361.82	28.14	SAM-dependent methyltransferase
+PGF_00049533	Rhizobium	252.58	6.79	SAM-dependent methyltransferase 2, in cluster with Hydroxyacylglutathione hydrolase
+PGF_00049555	Rhizobium	293.23	19.19	SAM-dependent methyltransferase, BioC-like
+PGF_00049827	Rhizobium	274.38	14.29	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Rhizobium	101.73	2.80	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Rhizobium	129.11	1.55	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Rhizobium	121.77	11.03	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Rhizobium	121.24	6.65	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Rhizobium	99.07	6.89	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Rhizobium	90.52	7.44	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Rhizobium	122.39	3.10	SSU ribosomal protein S16p
+PGF_00049854	Rhizobium	78.50	2.13	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Rhizobium	82.02	0.20	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Rhizobium	91.71	3.06	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Rhizobium	242.00	2.35	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Rhizobium	202.55	8.22	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Rhizobium	189.16	2.10	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Rhizobium	151.17	8.25	SSU ribosomal protein S6p
+PGF_00049904	Rhizobium	155.95	0.75	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Rhizobium	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Rhizobium	155.16	0.65	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Rhizobium	283.50	5.45	Segregation and condensation protein A
+PGF_00050557	Rhizobium	595.36	6.67	Sensor histidine kinase ChvG (EC 2.7.3.-)
+PGF_00050995	Rhizobium	489.65	34.56	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Rhizobium	425.87	16.22	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052214	Rhizobium	193.58	28.67	Signal recognition particle GTPase
+PGF_00052238	Rhizobium	525.53	7.12	Signal recognition particle protein Ffh
+PGF_00052421	Rhizobium	1238.44	162.51	Cell-division control histidine kinase PdhS
+PGF_00052556	Rhizobium	494.84	13.62	Amino acid regulated cytosolic protein
+PGF_00052674	Rhizobium	218.53	20.38	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052705	Rhizobium	142.29	4.58	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Rhizobium	316.70	19.97	Site-specific tyrosine recombinase XerD
+PGF_00053553	Rhizobium	469.95	34.68	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+PGF_00053770	Rhizobium	378.50	45.47	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053966	Rhizobium	415.94	12.64	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00054476	Rhizobium	125.91	0.82	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Rhizobium	255.86	20.73	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Rhizobium	395.68	14.68	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054835	Rhizobium	253.21	0.92	Sugar phosphate isomerases/epimerases
+PGF_00054883	Rhizobium	329.91	22.02	Uncharacterized protein GguC
+PGF_00055052	Rhizobium	551.10	52.89	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055099	Rhizobium	143.15	6.70	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055354	Rhizobium	314.00	12.15	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055471	Rhizobium	291.12	8.90	TPR domain protein
+PGF_00055966	Rhizobium	370.78	43.57	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056057	Rhizobium	345.82	20.31	Tas protein, an NADP(H)-dependent aldo-keto reductase
+PGF_00056273	Rhizobium	347.97	20.39	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056662	Rhizobium	338.50	2.18	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056712	Rhizobium	218.88	13.61	Thiol:disulfide oxidoreductase TlpA
+PGF_00056828	Rhizobium	724.58	42.39	Anthranilate synthase, aminase component (EC 4.1.3.27) / Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00056883	Rhizobium	227.60	10.13	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056900	Rhizobium	305.67	6.30	2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)
+PGF_00056935	Rhizobium	470.05	16.06	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Rhizobium	148.26	11.12	Tol biopolymer transport system, TolR protein
+PGF_00057032	Rhizobium	150.18	3.79	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Rhizobium	739.96	74.25	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Rhizobium	150.71	2.03	Transamidase GatB domain protein
+PGF_00057430	Rhizobium	157.47	13.69	Transcription elongation factor
+PGF_00057445	Rhizobium	210.97	5.33	2-dehydro-3-deoxyphosphogalactonate aldolase (EC 4.1.2.21)
+PGF_00057483	Rhizobium	418.95	24.42	Transcription termination factor Rho
+PGF_00057485	Rhizobium	532.57	31.00	Transcription termination protein NusA
+PGF_00057488	Rhizobium	161.09	2.00	Transcription termination protein NusB
+PGF_00057872	Rhizobium	469.88	2.65	Transcriptional regulator
+PGF_00058499	Rhizobium	298.34	15.85	Transcriptional regulator Atu4705, LysR family
+PGF_00059034	Rhizobium	335.69	22.54	Transcriptional regulator, ArsR family / Methyltransferase fusion
+PGF_00059092	Rhizobium	123.17	3.31	Transcriptional regulator, Xre family
+PGF_00060409	Rhizobium	692.34	56.55	Translation elongation factor G
+PGF_00060414	Rhizobium	609.26	2.09	Translation elongation factor LepA
+PGF_00060424	Rhizobium	350.41	16.61	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Rhizobium	307.81	21.65	Translation elongation factor Ts
+PGF_00060431	Rhizobium	72.89	4.91	Translation initiation factor 1
+PGF_00060478	Rhizobium	165.59	22.74	Translation initiation factor 3
+PGF_00060720	Rhizobium	212.61	14.95	UPF0126 inner membrane protein CC_3680
+PGF_00061607	Rhizobium	130.68	7.28	ApaG protein
+PGF_00062023	Rhizobium	278.72	1.31	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062058	Rhizobium	502.95	3.09	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE / Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00062705	Rhizobium	759.97	87.20	Two-component sensor histidine kinase PleC
+PGF_00063938	Rhizobium	291.81	7.19	UDP-2,3-diacylglucosamine pyrophosphatase
+PGF_00063944	Rhizobium	317.50	4.90	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Rhizobium	353.39	9.56	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Rhizobium	321.43	16.67	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Rhizobium	372.17	22.28	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Rhizobium	469.84	16.61	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064184	Rhizobium	492.85	58.15	UPF0061 protein YdiU
+PGF_00064280	Rhizobium	160.24	6.96	UPF0260 protein YcgN
+PGF_00064436	Rhizobium	192.88	21.19	Ubiquinol-cytochrome C chaperone
+PGF_00064438	Rhizobium	188.74	9.89	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Rhizobium	523.87	3.13	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064839	Rhizobium	110.94	0.35	Uncharacterized monothiol glutaredoxin ycf64-like
+PGF_00064933	Rhizobium	534.60	59.18	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_00065784	Rhizobium	81.61	6.16	Uncharacterized protein, Bsl7517 homolog
+PGF_00065887	Rhizobium	245.21	7.67	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066117	Rhizobium	165.74	2.43	Uracil DNA glycosylase
+PGF_00066123	Rhizobium	209.68	4.76	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Rhizobium	232.13	14.84	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066203	Rhizobium	176.83	21.24	Urease accessory protein UreE
+PGF_00066214	Rhizobium	202.74	25.73	Urease accessory protein UreG
+PGF_00066215	Rhizobium	566.56	31.98	Urease alpha subunit (EC 3.5.1.5)
+PGF_00066216	Rhizobium	101.02	0.19	Urease beta subunit (EC 3.5.1.5)
+PGF_00066218	Rhizobium	99.99	0.28	Urease gamma subunit (EC 3.5.1.5)
+PGF_00066237	Rhizobium	307.75	6.89	Uricase (urate oxidase) (EC 1.7.3.3)
+PGF_00066270	Rhizobium	334.32	27.90	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Rhizobium	944.39	66.54	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Rhizobium	614.12	31.88	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Rhizobium	316.15	6.65	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067029	Rhizobium	315.12	12.60	Xylose ABC transporter, periplasmic xylose-binding protein XylF
+PGF_00067063	Rhizobium	432.06	32.44	Xylose isomerase (EC 5.3.1.5)
+PGF_00067401	Rhizobium	304.05	16.91	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067412	Rhizobium	76.98	0.47	YrbA protein
+PGF_00067466	Rhizobium	583.98	103.99	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067547	Rhizobium	133.35	5.56	Zinc uptake regulation protein Zur
+PGF_00067554	Rhizobium	497.67	27.34	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Rhizobium	386.94	19.70	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Rhizobium	953.33	75.69	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00069558	Rhizobium	270.17	10.80	2-hydroxymuconic semialdehyde hydrolase (EC 3.7.1.9)
+PGF_00070639	Rhizobium	352.88	20.33	diguanylate cyclase (GGDEF domain) with PAS/PAC sensor
+PGF_00071194	Rhizobium	456.84	28.64	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071337	Rhizobium	114.65	3.17	Flagellar synthesis regulatory protein FlaF
+PGF_00071938	Rhizobium	161.58	4.70	Bacterioferritin (EC 1.16.3.1)
+PGF_00084680	Rhizobium	378.81	3.42	Type II restriction adenine-specific methylase (EC 2.1.1.72)
+PGF_00099640	Rhizobium	85.01	0.12	hypothetical protein
+PGF_00158997	Rhizobium	623.01	57.17	Aerobic cobaltochelatase CobT subunit (EC 6.6.1.2)
+PGF_00191696	Rhizobium	67.54	2.89	hypothetical protein
+PGF_00209569	Rhizobium	137.42	17.12	hypothetical protein
+PGF_00213073	Rhizobium	222.44	5.47	2-hydroxychromene-2-carboxylate isomerase/DsbA-like thioredoxin domain
+PGF_00214817	Rhizobium	278.66	11.14	FIG00986216: hypothetical protein
+PGF_00238590	Rhizobium	109.09	1.00	hypothetical protein
+PGF_00261173	Rhizobium	404.46	17.68	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00329637	Rhizobium	328.75	17.33	putative membrane protein
+PGF_00365723	Rhizobium	128.70	3.62	hypothetical protein
+PGF_00371056	Rhizobium	85.66	71.33	hypothetical protein
+PGF_00393063	Rhizobium	202.49	3.61	hypothetical protein
+PGF_00400659	Rhizobium	169.91	15.45	lipoprotein Omp19
+PGF_00401071	Rhizobium	196.60	21.46	membrane c-type cytochrome cy
+PGF_00401190	Rhizobium	580.04	56.85	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA (EC 3.6.3.42)
+PGF_00401752	Rhizobium	257.61	11.42	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00402817	Rhizobium	477.34	56.34	Betaine aldehyde dehydrogenase (EC 1.2.1.8)
+PGF_00404491	Rhizobium	402.27	31.03	probable periplasmic protein Cj0610c {imported} - Campylobacter jejuni (strain NCTC 11168)
+PGF_00404660	Rhizobium	318.67	6.78	Dioxygenases related to 2-nitropropane dioxygenase
+PGF_00404817	Rhizobium	141.29	7.74	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404996	Rhizobium	170.55	1.95	protein of unknown function DUF1465
+PGF_00405888	Rhizobium	246.79	17.80	putative GerE/LuxR family transcriptional regulator
+PGF_00406692	Rhizobium	991.68	110.11	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408042	Rhizobium	191.60	10.03	putative lipoprotein
+PGF_00408083	Rhizobium	270.30	25.98	putative lipoprotein
+PGF_00410540	Rhizobium	329.97	22.66	putative secreted protein
+PGF_00412885	Rhizobium	351.75	24.46	Lipopolysaccharide core biosynthesis mannosyltransferase WadC
+PGF_00413203	Rhizobium	153.72	10.12	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Rhizobium	229.78	13.89	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Rhizobium	335.87	41.21	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Rhizobium	262.93	8.05	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Rhizobium	308.74	18.74	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Rhizobium	422.70	20.04	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Rhizobium	608.99	79.33	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Rhizobium	293.08	7.49	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Rhizobium	150.77	7.95	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413503	Rhizobium	217.41	3.63	thiamine-phosphate pyrophosphorylase, putative
+PGF_00413554	Rhizobium	158.51	6.51	tmRNA-binding protein SmpB
+PGF_00414926	Rhizobium	416.91	16.21	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415045	Rhizobium	401.65	3.95	L-arabinose ABC transporter, permease protein AraH
+PGF_00415150	Rhizobium	288.20	3.73	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415481	Rhizobium	363.43	21.44	SAM-dependent methyltransferase, MidA
+PGF_00415486	Rhizobium	159.44	5.74	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415551	Rhizobium	201.66	12.40	COG1896: Predicted hydrolases of HD superfamily
+PGF_00415581	Rhizobium	244.49	8.63	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415637	Rhizobium	229.00	13.03	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination / Ribosomal protein L7Ae family protein YlxQ
+PGF_00415840	Rhizobium	129.22	3.59	COGs COG3339
+PGF_00416115	Rhizobium	313.80	17.08	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Rhizobium	542.99	18.05	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Rhizobium	1153.80	91.26	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00417009	Rhizobium	156.93	18.85	Cell division protein FtsL
+PGF_00417043	Rhizobium	306.46	16.89	Cell division protein FtsQ
+PGF_00417249	Rhizobium	387.10	13.99	Cell wall hydrolyses involved in spore germination
+PGF_00417429	Rhizobium	376.12	12.46	Chaperone protein DnaJ
+PGF_00417433	Rhizobium	632.20	47.74	Chaperone protein DnaK
+PGF_00417457	Rhizobium	260.46	15.53	Chaperone required for the assembly of the mitochondrial F1-ATPase
+PGF_00417658	Rhizobium	372.43	27.56	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Rhizobium	248.67	10.35	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417816	Rhizobium	104.43	2.59	Chorismate mutase I (EC 5.4.99.5)
+PGF_00417840	Rhizobium	374.23	25.21	Chorismate synthase (EC 4.2.3.5)
+PGF_00418128	Rhizobium	249.04	6.06	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418252	Rhizobium	346.74	25.66	CobW GTPase involved in cobalt insertion for B12 biosynthesis
+PGF_00418254	Rhizobium	230.35	10.25	Cobalamin biosynthesis protein BluB @ 5,6-dimethylbenzimidazole synthase, flavin destructase family
+PGF_00418368	Rhizobium	484.75	4.41	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418406	Rhizobium	171.00	0.15	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418583	Rhizobium	190.41	13.32	Cold shock protein of CSP family => dimer
+PGF_00418658	Rhizobium	203.85	5.06	Colicin V production protein
+PGF_00419419	Rhizobium	104.01	0.32	Conserved hypothetical protein probably involved in sulfate reduction
+PGF_00419487	Rhizobium	163.85	1.35	Conserved uncharacterized protein CreA
+PGF_00419627	Rhizobium	302.87	10.46	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Rhizobium	169.39	9.36	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419913	Rhizobium	163.21	7.19	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420121	Rhizobium	213.95	5.58	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420582	Rhizobium	202.42	6.34	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420731	Rhizobium	496.10	30.40	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00421013	Rhizobium	405.25	6.42	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421078	Rhizobium	502.96	43.34	D-xylose transport ATP-binding protein XylG
+PGF_00421679	Rhizobium	660.65	64.67	DNA primase (EC 2.7.7.-)
+PGF_00421733	Rhizobium	373.43	23.78	DNA recombination and repair protein RecF
+PGF_00421738	Rhizobium	256.08	11.61	DNA recombination and repair protein RecO
+PGF_00421792	Rhizobium	462.79	28.13	DNA repair protein RadA
+PGF_00421796	Rhizobium	554.17	32.20	DNA repair protein RecN
+PGF_00421908	Rhizobium	281.60	13.22	DNA uptake lipoprotein ComL
+PGF_00422163	Rhizobium	247.88	10.14	DNA-binding response regulator ChvI
+PGF_00422183	Rhizobium	232.86	8.34	DNA-binding response regulator PetR
+PGF_00422271	Rhizobium	336.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422651	Rhizobium	337.39	5.04	Decaprenyl diphosphate synthase (EC 2.5.1.91)
+PGF_00422918	Rhizobium	358.75	31.88	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422923	Rhizobium	195.28	5.35	Deoxycytidylate deaminase (EC 3.5.4.12)
+PGF_00422959	Rhizobium	155.12	7.22	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423335	Rhizobium	465.34	27.34	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Rhizobium	121.88	3.51	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423382	Rhizobium	345.74	22.36	Dihydroorotase (EC 3.5.2.3)
+PGF_00423530	Rhizobium	301.70	41.85	Dipeptide transport ATP-binding protein DppF (TC 3.A.1.5.2)
+PGF_00423604	Rhizobium	691.19	42.69	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+PGF_00423663	Rhizobium	138.87	1.79	DksA family protein PA5536 (no Zn-finger)
+PGF_00423709	Rhizobium	238.87	7.36	DnaJ-like protein DjlA
+PGF_00424496	Rhizobium	737.63	2.01	Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_00424971	Rhizobium	677.13	31.88	Excinuclease ABC subunit C
+PGF_00425024	Rhizobium	527.52	38.85	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Rhizobium	262.21	17.87	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425684	Rhizobium	247.94	5.53	Probable transcriptional regulatory protein YebC
+PGF_00425685	Rhizobium	324.84	3.63	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425710	Rhizobium	251.50	16.45	FIG001385: N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_00425834	Rhizobium	212.34	3.34	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00425857	Rhizobium	687.26	27.74	FIG003492: Threonine dehydrogenase and related Zn-dependent dehydrogenases
+PGF_00425900	Rhizobium	926.34	93.11	FIG003603: membrane protein, putative
+PGF_00425967	Rhizobium	407.26	26.47	FIG004335: Membrane-bound lytic murein transglycosylase B precursor (EC 3.2.1.-)
+PGF_00425985	Rhizobium	290.44	36.71	Cell division organizing protein PopZ
+PGF_00425993	Rhizobium	396.19	11.65	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Rhizobium	403.36	22.51	FIG004453: protein YceG like
+PGF_00426115	Rhizobium	636.88	24.34	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426195	Rhizobium	152.44	6.78	FIG00451006: hypothetical protein
+PGF_00426236	Rhizobium	414.61	30.83	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426629	Rhizobium	136.81	6.55	5-methyl-dCTP pyrophosphohydrolase (EC 3.6.1.-)
+PGF_00426722	Rhizobium	1204.42	199.91	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426871	Rhizobium	188.09	22.24	50S ribosomal protein acetyltransferase
+PGF_00426932	Rhizobium	151.93	7.46	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00435859	Rhizobium	129.32	14.29	PTS system permease (IIAMan), nitrogen regulatory IIA protein
+PGF_00438421	Rhizobium	285.41	6.24	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447508	Rhizobium	416.04	54.65	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00447765	Rhizobium	97.00	0.59	YciL protein
+PGF_00473519	Rhizobium	200.74	12.35	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Rhizobium	449.07	27.45	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00497557	Rhizobium	514.38	43.86	Uncharacterized protein YjgR
+PGF_00502238	Rhizobium	347.48	4.62	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00538878	Rhizobium	268.78	15.69	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00549302	Rhizobium	435.44	36.45	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00565351	Rhizobium	217.69	13.08	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00601220	Rhizobium	241.24	15.23	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+PGF_00618776	Rhizobium	410.78	24.14	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00644734	Rhizobium	305.06	11.93	putative phosphohydrolases, Icc family
+PGF_00648054	Rhizobium	237.65	2.45	Tol-Pal system protein TolQ
+PGF_00655358	Rhizobium	493.28	24.62	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659286	Rhizobium	455.56	24.20	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00662997	Rhizobium	259.32	6.39	Cobalamin synthase (EC 2.7.8.26)
+PGF_00665875	Rhizobium	143.60	18.14	Ribosomal silencing factor RsfA
+PGF_00671129	Rhizobium	114.91	3.42	Nitrogen regulatory protein P-II, GlnK
+PGF_00693855	Rhizobium	456.26	33.44	Uncharacterized MFS-type transporter
+PGF_00695458	Rhizobium	268.48	21.95	Urease accessory protein UreD
+PGF_00702199	Rhizobium	120.01	1.58	Response regulator
+PGF_00709443	Rhizobium	221.57	24.32	Twin-arginine translocation protein TatB
+PGF_00721835	Rhizobium	320.34	20.90	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Rhizobium	773.19	54.09	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00730641	Rhizobium	212.36	2.09	4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+PGF_00734482	Rhizobium	882.52	55.82	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00747014	Rhizobium	156.60	5.26	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_00776587	Rhizobium	110.33	4.34	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Rhizobium	233.55	2.31	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00797311	Rhizobium	123.68	4.35	hypothetical protein
+PGF_00827555	Rhizobium	614.75	66.31	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Rhizobium	298.38	18.68	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Rhizobium	412.10	19.56	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00874759	Rhizobium	432.15	31.01	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00900256	Rhizobium	467.38	40.53	Threonine synthase (EC 4.2.3.1)
+PGF_00904119	Rhizobium	192.57	7.01	Mll7752 protein
+PGF_00912265	Rhizobium	323.43	24.37	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Rhizobium	289.17	28.09	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00924117	Rhizobium	506.74	31.42	Galactofuranose ABC transporter, ATP-binding protein
+PGF_00950554	Rhizobium	969.46	159.75	Excinuclease ABC subunit B
+PGF_00957419	Rhizobium	163.56	4.39	Putative pre-16S rRNA nuclease Yqg
+PGF_00980481	Rhizobium	277.28	16.80	ATP/GTP-binding site motif A
+PGF_00983050	Rhizobium	376.09	18.53	Pyridoxal 5-phosphate (PLP)-dependent ornithine decarboxylase (EC 4.1.1.17)
+PGF_00983926	Rhizobium	134.47	3.99	Ribosome-binding factor A
+PGF_01008498	Rhizobium	130.68	9.50	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Rhizobium	243.81	2.27	Flagellar basal-body rod protein FlgF
+PGF_01026260	Rhizobium	103.50	7.70	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_01028936	Rhizobium	320.78	23.89	Predicted nucleoside ABC transporter, permease 2 component
+PGF_01058078	Rhizobium	1001.59	131.93	Soluble lytic murein transglycosylase (EC 3.2.1.-)
+PGF_01065911	Rhizobium	231.17	10.06	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01075683	Rhizobium	135.20	11.81	Hemoglobin-like protein HbO
+PGF_01079016	Rhizobium	292.40	14.38	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Rhizobium	769.66	58.61	Outer membrane protein assembly factor YaeT
+PGF_01092098	Rhizobium	167.07	12.11	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01101526	Rhizobium	389.62	55.73	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01104399	Rhizobium	265.05	11.74	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Rhizobium	410.86	34.65	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01172200	Rhizobium	232.57	13.68	Uncharacterized membrane anchored protein Mext_4159
+PGF_01172431	Rhizobium	106.50	1.11	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172485	Rhizobium	442.08	11.75	Cell division protein FtsA
+PGF_01174739	Rhizobium	295.11	15.42	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Rhizobium	386.59	23.29	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Rhizobium	662.09	37.28	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01196008	Rhizobium	232.97	4.39	Tim44-like domain protein
+PGF_01223569	Rhizobium	162.35	1.02	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Rhizobium	172.04	14.79	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Rhizobium	340.04	8.00	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Rhizobium	259.68	24.81	Chromosome (plasmid) partitioning protein ParA
+PGF_01325304	Rhizobium	231.79	18.43	Molybdenum ABC transporter permease protein ModB
+PGF_01364427	Rhizobium	203.83	9.23	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Rhizobium	182.27	8.36	HNH endonuclease family protein
+PGF_01404160	Rhizobium	344.06	20.31	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01408166	Rhizobium	312.95	10.46	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_01420802	Rhizobium	146.13	7.78	Cell division protein MraZ
+PGF_01421534	Rhizobium	203.24	9.62	LSU ribosomal protein L25p
+PGF_01423501	Rhizobium	157.62	6.67	Transcription elongation factor GreA
+PGF_01427606	Rhizobium	400.39	24.24	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_01444546	Rhizobium	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Rhizobium	108.72	9.73	Integration host factor alpha subunit
+PGF_01466742	Rhizobium	417.80	19.74	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Rhizobium	409.81	29.55	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01481272	Rhizobium	182.08	9.47	Chemotaxis protein CheD
+PGF_01483460	Rhizobium	361.08	8.29	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Rhizobium	295.63	5.71	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01515965	Rhizobium	242.91	11.49	FIG006285: ICC-like protein phosphoesterase
+PGF_01532393	Rhizobium	722.17	81.06	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Rhizobium	128.59	6.54	Flagellar basal-body rod protein FlgB
+PGF_01602421	Rhizobium	146.25	9.60	Flagellar basal-body rod modification protein FlgD
+PGF_01614738	Rhizobium	73.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01668012	Rhizobium	274.00	5.74	Sulfur carrier protein FdhD
+PGF_01670799	Rhizobium	203.33	3.49	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01674551	Rhizobium	119.65	3.39	Glycine cleavage system H protein
+PGF_01682537	Rhizobium	134.68	1.99	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Rhizobium	199.51	14.79	Bacterial ribosome SSU maturation protein RimP
+PGF_01719396	Rhizobium	217.27	9.41	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01739753	Rhizobium	247.53	14.86	Zinc metalloprotease
+PGF_01763778	Rhizobium	308.83	19.34	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01768042	Rhizobium	425.41	11.33	Type II/IV secretion system ATPase TadZ/CpaE, associated with Flp pilus assembly
+PGF_01777142	Rhizobium	208.47	10.91	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01837450	Rhizobium	1777.95	237.93	PAN domain protein
+PGF_01841446	Rhizobium	486.91	36.25	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01842781	Rhizobium	553.58	34.33	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Rhizobium	286.08	28.57	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Rhizobium	361.88	15.56	Heat-inducible transcription repressor HrcA
+PGF_01898497	Rhizobium	257.38	16.49	Endonuclease III (EC 4.2.99.18)
+PGF_01899924	Rhizobium	431.58	31.73	Flagellar motor rotation protein MotB
+PGF_01900746	Rhizobium	470.24	33.52	Murein hydrolase activator EnvC
+PGF_01910737	Rhizobium	289.38	19.54	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01912476	Rhizobium	284.30	10.60	Phytoene synthase (EC 2.5.1.32)
+PGF_01949788	Rhizobium	208.48	10.11	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01975680	Rhizobium	122.67	6.96	Polar-differentiation response regulator DivK
+PGF_01981185	Rhizobium	334.87	32.45	Integral membrane protein
+PGF_01981390	Rhizobium	239.43	8.57	Uncharacterized integral membrane protein Mlr5338
+PGF_01994657	Rhizobium	491.51	25.74	Cell division trigger factor (EC 5.2.1.8)
+PGF_01996161	Rhizobium	334.06	16.56	Flp pilus assembly protein TadB
+PGF_02010018	Rhizobium	130.62	10.09	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Rhizobium	258.77	20.60	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Rhizobium	360.05	6.48	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Rhizobium	345.30	6.73	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Rhizobium	356.63	24.82	GTP-binding protein Obg
+PGF_02059020	Rhizobium	543.28	47.49	Energy-dependent translational throttle protein EttA
+PGF_02061452	Rhizobium	375.10	15.55	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Rhizobium	343.52	24.58	Flagellar motor switch protein FliG
+PGF_02111888	Rhizobium	333.36	28.11	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02167922	Rhizobium	179.39	2.08	Flagellar motility protein MotE, a chaperone for MotC folding
+PGF_02169237	Rhizobium	236.11	13.72	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Rhizobium	506.03	43.88	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Rhizobium	358.49	21.79	Flagellar biosynthesis protein FlhB
+PGF_02224568	Rhizobium	372.56	21.09	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Rhizobium	694.91	61.34	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02246123	Rhizobium	170.14	6.66	Flagellar basal body-associated protein FliL
+PGF_02323834	Rhizobium	308.25	1.79	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02325838	Rhizobium	526.67	43.33	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02346768	Rhizobium	874.57	84.18	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02369559	Rhizobium	986.73	103.71	DNA polymerase I (EC 2.7.7.7)
+PGF_02454011	Rhizobium	241.40	6.67	Hydrolase, haloacid dehalogenase-like family
+PGF_02454577	Rhizobium	91.34	6.44	SSU ribosomal protein S20p
+PGF_02463284	Rhizobium	200.03	10.86	Recombination protein RecR
+PGF_02473279	Rhizobium	276.81	4.67	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Rhizobium	214.01	2.66	Uncharacterized Nudix hydrolase NudL
+PGF_02505159	Rhizobium	343.00	22.94	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02507218	Rhizobium	227.00	18.19	Outer membrane porin, OmpA family
+PGF_02517984	Rhizobium	62.13	1.03	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Rhizobium	111.99	1.35	Nitrogen regulatory protein P-II
+PGF_02593689	Rhizobium	468.00	7.40	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601905	Rhizobium	178.45	3.80	Transcriptional regulator PA2737, MerR family
+PGF_02604083	Rhizobium	196.72	25.10	Ribose 1,5-bisphosphate phosphokinase PhnN (EC 2.7.4.23)
+PGF_02611620	Rhizobium	496.50	28.97	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Rhizobium	323.34	32.13	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Rhizobium	1383.62	129.69	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02710247	Rhizobium	331.89	20.18	Glyoxylate reductase (EC 1.1.1.79) / Glyoxylate reductase (EC 1.1.1.26) / Hydroxypyruvate reductase (EC 1.1.1.81)
+PGF_02728524	Rhizobium	906.53	23.14	DNA mismatch repair protein MutS
+PGF_02728989	Rhizobium	223.11	9.37	Transcriptional regulatory protein PhoP
+PGF_02744871	Rhizobium	112.15	6.27	Flagellar hook-basal body complex protein FliE
+PGF_02776739	Rhizobium	150.77	6.38	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Rhizobium	287.56	14.94	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Rhizobium	173.95	6.85	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Rhizobium	218.76	16.95	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Rhizobium	459.19	55.91	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Rhizobium	1354.21	155.02	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Rhizobium	524.79	31.56	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02838109	Rhizobium	198.04	10.44	Shikimate kinase I (EC 2.7.1.71)
+PGF_02866109	Rhizobium	225.64	5.74	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02866666	Rhizobium	836.02	78.24	ABC transporter, fused permease protein
+PGF_02873160	Rhizobium	210.38	12.21	Putative preQ0 transporter YhhQ
+PGF_02875609	Rhizobium	448.24	10.16	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02883852	Rhizobium	139.33	11.41	UPF0047 protein YjbQ
+PGF_02893930	Rhizobium	250.64	15.96	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02895613	Rhizobium	477.10	16.35	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02898096	Rhizobium	481.50	43.51	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Rhizobium	65.96	0.54	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Rhizobium	222.98	6.18	Outer membrane lipoprotein carrier protein LolA
+PGF_02904832	Rhizobium	320.99	11.60	Homoserine kinase (EC 2.7.1.39)
+PGF_02906681	Rhizobium	749.51	103.60	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02911133	Rhizobium	215.45	5.47	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Rhizobium	313.52	13.96	HflC protein
+PGF_02923127	Rhizobium	238.26	6.96	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02946231	Rhizobium	562.13	50.25	SSU ribosomal protein S1p
+PGF_02947204	Rhizobium	532.38	32.39	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02959749	Rhizobium	381.65	14.28	Ribonuclease D (EC 3.1.26.3)
+PGF_02982550	Rhizobium	244.37	13.82	Ser-tRNA(Ala) deacylase @ Gly-tRNA(Ala) deacylase
+PGF_02990610	Rhizobium	450.40	28.36	Alpha-glucosides-binding periplasmic protein AglE precursor
+PGF_02992100	Rhizobium	254.91	10.96	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Rhizobium	166.47	16.48	Protein translocase membrane subunit SecG
+PGF_02997723	Rhizobium	164.27	6.03	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03017775	Rhizobium	492.91	39.04	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03022560	Rhizobium	498.05	0.75	Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27)
+PGF_03026450	Rhizobium	1143.99	85.51	Chromosome partition protein smc
+PGF_03029859	Rhizobium	606.81	2.75	Bis-ABC ATPase Uup
+PGF_03041139	Rhizobium	238.02	6.19	Pyridoxal-5'-phosphate phosphatase (EC 3.1.3.74), Alphaproteobacterial type
+PGF_03051288	Rhizobium	366.08	22.91	Iron-regulated protein A precursor
+PGF_03057384	Rhizobium	360.13	20.63	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03069524	Rhizobium	84.05	2.67	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03072132	Rhizobium	189.42	4.90	CarD-like transcriptional regulator
+PGF_03074362	Rhizobium	397.28	7.92	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03081665	Rhizobium	103.42	11.45	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03089196	Rhizobium	539.39	37.18	Bis-ABC ATPase SMa0036
+PGF_03094694	Rhizobium	458.75	36.95	Peptidase B (EC 3.4.11.23)
+PGF_03116802	Rhizobium	295.01	8.21	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03132336	Rhizobium	425.59	24.11	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03135926	Rhizobium	311.35	6.49	Acetylspermidine deacetylase (EC 3.5.1.48); Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_03142586	Rhizobium	104.76	14.04	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03144011	Rhizobium	165.94	5.33	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03145455	Rhizobium	462.42	19.91	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03146406	Rhizobium	604.94	55.68	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Rhizobium	130.04	2.39	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Rhizobium	283.33	13.41	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Rhizobium	176.93	7.32	Transcription antitermination protein NusG
+PGF_03187392	Rhizobium	306.13	19.37	Fructokinase (EC 2.7.1.4)
+PGF_03202871	Rhizobium	224.67	5.06	Hydrolase SMc00528, alpha/beta fold family
+PGF_03222913	Rhizobium	134.89	2.91	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03257845	Rhizobium	238.38	20.09	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Rhizobium	912.06	73.00	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Rhizobium	99.13	7.82	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Rhizobium	230.83	5.19	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03341277	Rhizobium	237.75	1.30	Flagellar L-ring protein FlgH
+PGF_03396423	Rhizobium	269.67	14.26	FIG043197: Inositol monophosphatase family protein
+PGF_03429638	Rhizobium	327.97	19.86	33 kDa chaperonin HslO
+PGF_03441339	Rhizobium	330.45	3.44	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03474542	Rhizobium	463.80	5.78	Flagellum-specific ATP synthase FliI
+PGF_03503126	Rhizobium	211.93	14.93	Hypothetical protein VC0266 (sugar utilization related?)
+PGF_03507859	Rhizobium	334.95	6.67	Luciferase-like monooxygenase YhbW
+PGF_03514188	Rhizobium	459.31	28.23	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Rhizobium	139.61	6.04	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03593265	Rhizobium	141.97	4.10	FIG018171: hypothetical protein of Cupin superfamily
+PGF_03642389	Rhizobium	359.14	20.69	putative membrane protein
+PGF_03679540	Rhizobium	223.44	11.32	Urease accessory protein UreF
+PGF_03683488	Rhizobium	195.89	9.63	2'-5' RNA ligase
+PGF_03683953	Rhizobium	806.41	78.21	Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)
+PGF_03708253	Rhizobium	63.60	7.95	Protein translocase subunit SecE
+PGF_03729141	Rhizobium	201.47	4.99	UPF0301 protein YqgE
+PGF_03739563	Rhizobium	126.34	4.34	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03742549	Rhizobium	353.07	17.65	L-arabinose ABC transporter, substrate-binding protein AraF
+PGF_03750571	Rhizobium	500.51	73.57	Chromosomal replication initiator protein DnaA
+PGF_03750599	Rhizobium	328.69	30.51	Cell division coordinator CpoB
+PGF_03751823	Rhizobium	210.26	10.95	Heat shock protein GrpE
+PGF_03752544	Rhizobium	235.39	16.61	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Rhizobium	310.58	3.95	Site-specific tyrosine recombinase XerC
+PGF_03778780	Rhizobium	506.00	49.51	Signal recognition particle receptor FtsY
+PGF_03783620	Rhizobium	174.78	9.69	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Rhizobium	197.46	12.99	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Rhizobium	238.09	11.25	Ribonuclease III (EC 3.1.26.3)
+PGF_03810115	Rhizobium	231.27	11.10	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03835760	Rhizobium	436.11	34.12	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03846068	Rhizobium	292.41	5.30	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03862500	Rhizobium	214.87	8.70	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03934926	Rhizobium	149.19	1.63	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03945558	Rhizobium	171.58	5.93	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_03960810	Rhizobium	291.05	23.82	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03971420	Rhizobium	111.35	3.77	Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)
+PGF_03987764	Rhizobium	208.04	7.97	FIG003620: Proteophosphoglycan precursor (Fragment)
+PGF_04007946	Rhizobium	244.32	41.97	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Rhizobium	154.09	3.89	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Rhizobium	467.84	23.25	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019834	Rhizobium	337.41	22.31	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04025415	Rhizobium	143.25	9.39	Large-conductance mechanosensitive channel
+PGF_04041316	Rhizobium	969.12	77.65	Excinuclease ABC subunit A
+PGF_04047265	Rhizobium	79.98	0.33	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04127376	Rhizobium	273.47	2.55	Twin-arginine translocation protein TatC
+PGF_04151476	Rhizobium	197.90	17.46	16S rRNA processing protein RimM
+PGF_04182459	Rhizobium	219.03	6.01	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04284526	Rhizobium	407.73	3.23	Alpha-aminoadipate aminotransferase (EC 2.6.1.39) @ Leucine transaminase (EC 2.6.1.6) @ Valine transaminase
+PGF_04315180	Rhizobium	159.21	10.91	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04325499	Rhizobium	349.62	1.67	Choline binding ABC transport system ATP-binding protein ChoV
+PGF_04345693	Rhizobium	450.54	27.77	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Rhizobium	898.16	50.41	Protein translocase subunit SecA
+PGF_04368280	Rhizobium	317.47	25.25	Galactofuranose ABC transporter, substrate-binding protein
+PGF_04398036	Rhizobium	249.22	18.67	hypothetical protein
+PGF_04406156	Rhizobium	177.96	10.00	Cation transport protein ChaC
+PGF_04433650	Rhizobium	48.88	6.37	hypothetical protein
+PGF_04452754	Rhizobium	252.86	8.38	Precorrin-6A reductase (EC 1.3.1.54)
+PGF_04505269	Rhizobium	254.39	11.10	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Rhizobium	474.23	39.64	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04561069	Rhizobium	435.69	4.36	Hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolyzing) (EC 6.3.5.9)
+PGF_04569524	Rhizobium	507.06	29.26	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04576386	Rhizobium	281.64	16.09	Choline binding ABC transport system permease protein ChoW
+PGF_04577966	Rhizobium	765.23	90.03	Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
+PGF_04608820	Rhizobium	681.03	67.99	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04636538	Rhizobium	90.12	4.74	DNA-binding protein HU-beta
+PGF_04645277	Rhizobium	153.46	5.57	hypothetical protein
+PGF_04662829	Rhizobium	807.50	88.73	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04724831	Rhizobium	354.05	26.84	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Rhizobium	870.35	135.71	Translation initiation factor 2
+PGF_04752158	Rhizobium	437.87	25.33	Sensor histidine kinase PrrB (RegB) (EC 2.7.3.-)
+PGF_04757308	Rhizobium	659.32	56.63	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Rhizobium	240.50	10.50	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Rhizobium	296.82	13.02	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Rhizobium	181.94	8.91	LSU ribosomal protein L19p
+PGF_04913120	Rhizobium	1235.50	211.93	Aerobic cobaltochelatase CobN subunit (EC 6.6.1.2)
+PGF_04919938	Rhizobium	390.18	21.73	Lipopolysaccharide export system permease protein LptF
+PGF_04960746	Rhizobium	296.41	12.02	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Rhizobium	783.08	16.92	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Rhizobium	132.78	5.17	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Rhizobium	106.21	5.17	LSU ribosomal protein L21p
+PGF_04987270	Rhizobium	248.95	25.73	Efflux ABC transporter, permease protein
+PGF_05091456	Rhizobium	305.20	3.98	Uncharacterized inner membrane protein RarD
+PGF_05111929	Rhizobium	597.37	37.19	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Rhizobium	980.02	69.38	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05165078	Rhizobium	308.36	25.47	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Rhizobium	219.19	7.32	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Rhizobium	476.31	39.77	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05294175	Rhizobium	176.61	3.67	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Rhizobium	548.25	48.31	ATP-dependent RNA helicase RhlE
+PGF_05303619	Rhizobium	114.28	10.97	hypothetical protein
+PGF_05338234	Rhizobium	293.65	14.90	Protein YicC
+PGF_05463808	Rhizobium	256.91	8.22	NAD kinase (EC 2.7.1.23)
+PGF_05504162	Rhizobium	647.20	76.81	5'-nucleotidase (EC 3.1.3.5)
+PGF_05507938	Rhizobium	600.64	59.70	DNA mismatch repair protein MutL
+PGF_05519582	Rhizobium	405.85	10.31	NAD(FAD)-utilizing dehydrogenases
+PGF_05579323	Rhizobium	340.27	23.48	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Rhizobium	445.56	3.83	Protein translocase subunit SecY
+PGF_05589579	Rhizobium	287.27	20.95	ABC-type amino acid transport/signal transduction system, periplasmic component/domain
+PGF_05598173	Rhizobium	404.16	14.45	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05614987	Rhizobium	409.30	17.73	Transcriptional regulator FrcR for fructose utilization, ROK family
+PGF_05657253	Rhizobium	232.81	6.12	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05681779	Rhizobium	191.43	21.13	Lysine decarboxylase family
+PGF_05712128	Rhizobium	593.09	46.75	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05729472	Rhizobium	1581.32	115.23	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05769513	Rhizobium	434.54	21.42	Tol-Pal system beta propeller repeat protein TolB
+PGF_05971611	Rhizobium	400.11	30.66	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05999853	Rhizobium	385.43	13.72	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06005188	Rhizobium	685.90	65.25	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06051345	Rhizobium	1234.27	203.75	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06053106	Rhizobium	301.14	2.59	RNA polymerase sigma factor RpoH
+PGF_06061522	Rhizobium	126.82	9.03	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06120144	Rhizobium	147.37	8.06	Ribosome association toxin RatA
+PGF_06162164	Rhizobium	479.15	37.45	Homospermidine synthase (EC 2.5.1.44)
+PGF_06162541	Rhizobium	330.01	12.38	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_06170558	Rhizobium	157.13	4.69	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Rhizobium	151.17	9.92	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Rhizobium	488.32	42.63	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06285197	Rhizobium	422.52	35.04	Intracellular PHB depolymerase
+PGF_06326847	Rhizobium	243.76	5.18	Flagellar biosynthesis protein FliP
+PGF_06379377	Rhizobium	434.84	29.96	Replication-associated recombination protein RarA
+PGF_06403579	Rhizobium	796.07	48.05	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06447349	Rhizobium	755.13	53.66	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06451924	Rhizobium	326.50	20.24	Fructokinase (EC 2.7.1.4)
+PGF_06495818	Rhizobium	259.42	25.47	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06530721	Rhizobium	233.30	3.12	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06531931	Rhizobium	464.71	86.19	Two-component system response regulator protein
+PGF_06605246	Rhizobium	87.48	8.10	hypothetical protein
+PGF_06635957	Rhizobium	328.56	15.05	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06644010	Rhizobium	309.29	3.01	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06664917	Rhizobium	393.99	31.49	L-amino acid ABC transporter (Glu/Asp/His/...), permease protein 1 AapQ
+PGF_06668048	Rhizobium	136.06	11.68	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+PGF_06672158	Rhizobium	196.95	18.16	Nitroreductase family protein
+PGF_06693963	Rhizobium	107.28	2.59	Nucleoid-associated protein YaaK
+PGF_06755829	Rhizobium	337.65	29.17	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Rhizobium	414.63	19.30	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06772993	Rhizobium	937.26	138.76	Ribonuclease E (EC 3.1.26.12)
+PGF_06781655	Rhizobium	392.51	37.48	Benzoate transport protein
+PGF_06889881	Rhizobium	299.14	17.83	Flagellar motor rotation protein MotA
+PGF_06940846	Rhizobium	356.17	84.45	Flagellar biosynthesis protein FliO / Domain of unknown function RL2641.C
+PGF_07091275	Rhizobium	458.15	5.22	Osmolarity sensor protein EnvZ (EC 2.7.3.-)
+PGF_07101513	Rhizobium	191.58	15.57	Flagellar motor switch protein FliN
+PGF_07344415	Rhizobium	218.11	15.26	Intracellular septation protein IspA
+PGF_07507244	Rhizobium	229.18	7.27	Glutathione S-transferase family protein
+PGF_07577276	Rhizobium	240.11	10.00	putative membrane protein
+PGF_08027009	Rhizobium	623.40	61.90	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_08044016	Rhizobium	248.57	5.93	Flagellar biosynthesis protein FliR
+PGF_08050537	Rhizobium	308.21	6.61	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08084299	Rhizobium	277.37	34.73	probable iron-sulfur binding protein YPO1417
+PGF_08097473	Rhizobium	233.24	10.49	hypothetical protein
+PGF_08107305	Rhizobium	104.49	4.34	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_08139315	Rhizobium	91.20	3.44	Phosphocarrier protein, nitrogen regulation associated
+PGF_08147453	Rhizobium	405.84	26.06	DNA recombination protein RmuC
+PGF_08153913	Rhizobium	256.13	2.26	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08177691	Rhizobium	158.24	5.83	Arsenate reductase (EC 1.20.4.1) glutaredoxin-coupled, LMWP family
+PGF_08183187	Rhizobium	382.91	12.87	Cell division protein FtsW

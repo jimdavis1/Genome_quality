@@ -1,0 +1,591 @@
+PGF_00000027	Selenomonas	257.46	13.56	Uncharacterized protein YmdB
+PGF_00000196	Selenomonas	415.73	8.88	FIG007079: UPF0348 protein family
+PGF_00001613	Selenomonas	1006.95	35.81	FIG01055026: hypothetical protein
+PGF_00003269	Selenomonas	312.92	9.61	FIG069887: hypothetical protein
+PGF_00003516	Selenomonas	268.00	1.70	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00005284	Selenomonas	514.29	59.20	Flagellar M-ring protein FliF
+PGF_00005288	Selenomonas	370.22	2.94	Flagellar P-ring protein FlgI
+PGF_00005354	Selenomonas	145.61	17.85	Flagellar basal-body rod protein FlgC
+PGF_00005358	Selenomonas	263.49	2.76	Flagellar basal-body rod protein FlgG
+PGF_00005384	Selenomonas	693.30	6.63	Flagellar biosynthesis protein FlhA
+PGF_00005402	Selenomonas	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005454	Selenomonas	590.00	14.42	Flagellar hook-associated protein FlgK
+PGF_00006245	Selenomonas	554.65	11.74	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006277	Selenomonas	426.11	3.74	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+PGF_00006377	Selenomonas	640.08	15.03	Fructose-1,6-bisphosphatase, Bacillus type (EC 3.1.3.11)
+PGF_00006457	Selenomonas	280.00	0.00	Fumarate hydratase class I, alpha region (EC 4.2.1.2); L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)
+PGF_00006935	Selenomonas	517.49	1.56	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006983	Selenomonas	261.54	9.72	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007024	Selenomonas	441.43	3.41	GTP-binding protein EngA
+PGF_00007026	Selenomonas	207.78	2.12	GTP-binding protein EngB
+PGF_00007027	Selenomonas	312.54	47.64	GTP-binding protein Era
+PGF_00007041	Selenomonas	606.70	4.03	GTP-binding protein TypA/BipA
+PGF_00007045	Selenomonas	267.55	14.28	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Selenomonas	460.84	6.46	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007971	Selenomonas	383.65	1.38	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007988	Selenomonas	479.68	28.89	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Selenomonas	446.46	3.11	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Selenomonas	375.22	1.72	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Selenomonas	403.54	1.64	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Selenomonas	262.86	6.42	Glutamate racemase (EC 5.1.1.3)
+PGF_00008262	Selenomonas	631.73	7.48	Glutamine synthetase, clostridia type (EC 6.3.1.2)
+PGF_00008326	Selenomonas	556.03	1.98	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Selenomonas	422.03	52.41	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Selenomonas	486.19	5.76	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008629	Selenomonas	258.68	8.30	Glycerol-3-phosphate regulon repressor, DeoR family
+PGF_00008838	Selenomonas	231.45	38.45	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008864	Selenomonas	368.49	1.07	Glycogen biosynthesis protein GlgD, glucose-1-phosphate adenylyltransferase family
+PGF_00008874	Selenomonas	819.05	35.26	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Selenomonas	479.59	1.85	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Selenomonas	188.51	5.25	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Selenomonas	286.08	37.90	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010205	Selenomonas	248.35	4.80	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Selenomonas	740.89	1.74	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00011081	Selenomonas	809.76	8.57	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011541	Selenomonas	323.78	13.21	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011792	Selenomonas	101.38	9.54	His repressor
+PGF_00012264	Selenomonas	342.81	2.20	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Selenomonas	418.97	59.73	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Selenomonas	310.24	9.00	Homoserine kinase (EC 2.7.1.39)
+PGF_00012920	Selenomonas	548.73	4.94	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00013003	Selenomonas	650.92	14.74	Bis-ABC ATPase YheS
+PGF_00013017	Selenomonas	325.35	2.54	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013283	Selenomonas	234.35	3.70	UPF0001 protein YggS
+PGF_00013347	Selenomonas	80.59	9.10	UPF0297 protein YrzL
+PGF_00013418	Selenomonas	503.73	5.81	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_00013492	Selenomonas	193.03	72.49	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Selenomonas	195.70	8.59	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00014264	Selenomonas	224.30	1.79	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014311	Selenomonas	498.81	11.13	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Selenomonas	225.35	4.64	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015259	Selenomonas	282.30	3.76	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015514	Selenomonas	468.19	13.19	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Selenomonas	277.41	6.50	Iron-sulfur cluster assembly protein SufD
+PGF_00015718	Selenomonas	1040.00	2.11	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Selenomonas	337.76	0.43	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016328	Selenomonas	180.86	8.04	LSU ribosomal protein L10p (P0)
+PGF_00016340	Selenomonas	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Selenomonas	147.35	1.16	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Selenomonas	144.24	8.94	LSU ribosomal protein L16p (L10e)
+PGF_00016357	Selenomonas	226.97	1.69	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Selenomonas	115.95	6.41	LSU ribosomal protein L20p
+PGF_00016368	Selenomonas	111.43	0.73	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Selenomonas	93.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Selenomonas	109.08	1.01	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Selenomonas	97.16	2.05	LSU ribosomal protein L27p
+PGF_00016393	Selenomonas	274.54	2.48	LSU ribosomal protein L2p (L8e)
+PGF_00016423	Selenomonas	65.00	0.41	LSU ribosomal protein L35p
+PGF_00016439	Selenomonas	204.30	16.44	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Selenomonas	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016445	Selenomonas	119.34	17.17	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Selenomonas	146.92	0.76	LSU ribosomal protein L9p
+PGF_00016546	Selenomonas	121.95	2.33	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00017109	Selenomonas	380.73	3.66	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Selenomonas	239.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017281	Selenomonas	340.62	3.02	Lipopolysaccharide core heptosyltransferase I
+PGF_00018952	Selenomonas	319.08	3.04	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Selenomonas	463.41	12.13	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Selenomonas	179.68	0.75	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020025	Selenomonas	694.00	49.50	ATP-dependent protease LonB-like Type I
+PGF_00020089	Selenomonas	377.42	36.86	Membrane proteins related to metalloendopeptidases
+PGF_00020147	Selenomonas	384.22	4.68	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020264	Selenomonas	283.78	1.97	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020735	Selenomonas	294.00	6.28	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020759	Selenomonas	227.54	4.27	Methionine synthase activation domain (EC 2.1.1.13)
+PGF_00020984	Selenomonas	286.70	2.90	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021020	Selenomonas	548.51	0.77	Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00021217	Selenomonas	513.22	4.48	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00023412	Selenomonas	594.84	33.34	MutS-related protein, family 1
+PGF_00023591	Selenomonas	343.05	8.36	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Selenomonas	345.35	6.20	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023812	Selenomonas	415.78	39.77	N-acetylglucosaminyltransferase (EC 2.4.1.-)
+PGF_00023833	Selenomonas	243.76	3.77	N-acetylmannosaminyltransferase (EC 2.4.1.187)
+PGF_00024273	Selenomonas	164.70	13.17	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024309	Selenomonas	595.62	38.74	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024314	Selenomonas	534.49	2.82	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024478	Selenomonas	336.68	0.58	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024831	Selenomonas	447.41	11.32	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024855	Selenomonas	163.46	0.65	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025267	Selenomonas	504.05	6.10	Na+/H+ antiporter
+PGF_00025463	Selenomonas	228.70	5.03	Ni/Fe-hydrogenase, b-type cytochrome subunit
+PGF_00025600	Selenomonas	485.11	0.31	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025825	Selenomonas	499.03	1.04	Acetyl-CoA hydrolase (EC 3.1.2.1)
+PGF_00026362	Selenomonas	200.89	5.37	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026615	Selenomonas	294.14	0.48	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00028366	Selenomonas	649.76	16.46	Outer membrane protein/protective antigen OMA87
+PGF_00029141	Selenomonas	467.81	8.11	PDZ domain protein
+PGF_00029345	Selenomonas	310.22	11.74	PRC-barrel domain protein
+PGF_00030640	Selenomonas	354.81	1.43	Peptide chain release factor 1
+PGF_00030643	Selenomonas	541.14	2.50	Peptide chain release factor 3
+PGF_00033095	Selenomonas	810.35	0.92	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Selenomonas	334.92	11.78	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Selenomonas	340.27	5.19	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Selenomonas	320.84	11.08	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033423	Selenomonas	575.41	5.68	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Selenomonas	659.78	59.84	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033511	Selenomonas	398.84	3.31	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Selenomonas	273.03	4.97	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Selenomonas	248.50	2.23	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033877	Selenomonas	162.38	2.19	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Selenomonas	422.70	6.20	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Selenomonas	262.92	25.59	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033940	Selenomonas	387.97	17.34	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00033941	Selenomonas	207.78	11.91	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Selenomonas	350.32	3.47	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Selenomonas	1244.38	80.51	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Selenomonas	205.84	3.49	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Selenomonas	362.97	4.98	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Selenomonas	671.03	103.01	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Selenomonas	324.76	2.07	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035334	Selenomonas	314.16	13.94	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035378	Selenomonas	407.38	36.59	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035721	Selenomonas	431.27	4.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Selenomonas	428.76	4.60	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036814	Selenomonas	462.95	2.94	Probable M18-family aminopeptidase 1 (EC 3.4.11.-)
+PGF_00037171	Selenomonas	326.58	29.78	Probable low-affinity inorganic phosphate transporter
+PGF_00037565	Selenomonas	491.62	1.19	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00038674	Selenomonas	305.49	1.12	Protein translocase subunit SecF
+PGF_00039149	Selenomonas	358.05	3.06	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00040578	Selenomonas	254.32	31.73	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041788	Selenomonas	144.89	5.05	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00045926	Selenomonas	443.27	10.22	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045939	Selenomonas	422.19	3.90	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00045970	Selenomonas	459.57	8.02	Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)
+PGF_00045991	Selenomonas	471.81	2.18	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046007	Selenomonas	1154.78	137.64	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+PGF_00046060	Selenomonas	242.84	0.55	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046197	Selenomonas	269.35	1.49	RNA binding methyltransferase FtsJ like
+PGF_00046199	Selenomonas	151.03	5.98	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046377	Selenomonas	252.32	5.17	RNA polymerase sigma factor for flagellar operon
+PGF_00046555	Selenomonas	261.32	11.33	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Selenomonas	78.95	3.67	RNA-binding protein Hfq
+PGF_00047025	Selenomonas	395.03	1.86	Radical SAM heme biosynthesis protein AhbC, 12,18-didecarboxysirohaem deacetylase
+PGF_00047026	Selenomonas	353.62	27.40	Radical SAM heme biosynthesis protein AhbD, Fe-coproporphyrin III decarboxylase
+PGF_00047078	Selenomonas	360.49	20.43	RecA protein
+PGF_00047095	Selenomonas	703.66	117.24	RecD-like DNA helicase YrrC
+PGF_00048480	Selenomonas	211.89	2.09	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Selenomonas	228.08	9.56	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Selenomonas	258.59	6.17	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048566	Selenomonas	183.78	10.56	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048586	Selenomonas	248.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Selenomonas	156.00	3.27	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Selenomonas	315.92	1.53	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048846	Selenomonas	442.51	0.65	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Selenomonas	181.54	4.07	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Selenomonas	185.05	0.33	Ribosome recycling factor
+PGF_00048928	Selenomonas	294.43	6.18	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Selenomonas	123.22	4.54	Ribosome-binding factor A
+PGF_00049330	Selenomonas	397.76	7.38	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Selenomonas	350.51	20.40	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049677	Selenomonas	465.11	1.95	SCIFF radical SAM maturase
+PGF_00049731	Selenomonas	410.65	11.97	Aluminum resistance protein
+PGF_00049827	Selenomonas	289.89	2.12	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Selenomonas	102.05	5.75	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Selenomonas	130.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049840	Selenomonas	122.35	0.63	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Selenomonas	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Selenomonas	88.68	4.61	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Selenomonas	90.24	0.93	SSU ribosomal protein S16p
+PGF_00049854	Selenomonas	85.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Selenomonas	90.97	5.20	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Selenomonas	222.54	0.51	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Selenomonas	197.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Selenomonas	168.73	2.21	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Selenomonas	97.81	4.70	SSU ribosomal protein S6p
+PGF_00049904	Selenomonas	148.16	26.86	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Selenomonas	132.41	2.47	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Selenomonas	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Selenomonas	241.41	2.83	Segregation and condensation protein A
+PGF_00050995	Selenomonas	480.30	3.14	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Selenomonas	224.59	9.59	Septum site-determining protein MinC
+PGF_00051525	Selenomonas	424.95	5.86	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Selenomonas	459.32	2.17	Signal recognition particle protein Ffh
+PGF_00052705	Selenomonas	141.11	0.46	LSU ribosomal protein L11p (L12e)
+PGF_00052829	Selenomonas	157.16	11.48	Siroheme decarboxylase AhbA, alternate heme biosynthesis pathway
+PGF_00053966	Selenomonas	411.86	2.79	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00053991	Selenomonas	357.27	38.31	Stage 0 sporulation protein YaaT
+PGF_00054466	Selenomonas	207.73	5.37	Succinate dehydrogenase cytochrome b558 subunit
+PGF_00054528	Selenomonas	395.84	0.65	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055284	Selenomonas	126.89	1.13	Superoxide reductase (EC 1.15.1.2)
+PGF_00055813	Selenomonas	643.76	6.58	TRAP transporter, 4TM/12TM fusion protein, unknown substrate 1
+PGF_00056662	Selenomonas	339.76	2.10	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Selenomonas	497.38	6.49	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Selenomonas	225.92	5.00	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057485	Selenomonas	378.11	1.54	Transcription termination protein NusA
+PGF_00060409	Selenomonas	686.70	15.43	Translation elongation factor G
+PGF_00060414	Selenomonas	601.76	8.01	Translation elongation factor LepA
+PGF_00060421	Selenomonas	185.00	0.00	Translation elongation factor P
+PGF_00060428	Selenomonas	395.35	0.82	Translation elongation factor Tu
+PGF_00060431	Selenomonas	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Selenomonas	185.78	17.45	Translation initiation factor 3
+PGF_00062023	Selenomonas	261.46	4.31	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062045	Selenomonas	339.43	8.83	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Selenomonas	409.43	40.38	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063938	Selenomonas	267.27	0.45	UDP-2,3-diacylglucosamine pyrophosphatase
+PGF_00063944	Selenomonas	273.16	7.39	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Selenomonas	339.54	1.37	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Selenomonas	304.49	1.87	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Selenomonas	371.16	1.66	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Selenomonas	607.24	159.19	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064422	Selenomonas	486.54	2.29	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00064519	Selenomonas	532.46	1.73	Uncharacterized ABC1 family protein Bbr_0249
+PGF_00064863	Selenomonas	448.84	3.86	Aromatic amino acid transport protein AroP
+PGF_00065887	Selenomonas	269.73	18.97	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Selenomonas	215.11	2.91	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Selenomonas	182.32	1.73	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Selenomonas	227.30	4.17	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066245	Selenomonas	539.46	8.78	Uridine kinase (EC 2.7.1.48)
+PGF_00066286	Selenomonas	490.89	57.12	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Selenomonas	889.76	4.87	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066906	Selenomonas	314.32	1.86	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Selenomonas	420.92	10.90	Uracil permease @ Uracil:proton symporter UraA
+PGF_00067188	Selenomonas	343.57	2.17	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067466	Selenomonas	602.16	2.11	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Selenomonas	479.22	0.42	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067788	Selenomonas	221.38	2.74	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00070089	Selenomonas	130.81	0.40	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00075770	Selenomonas	439.79	56.27	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00082342	Selenomonas	185.00	3.97	hypothetical protein
+PGF_00084324	Selenomonas	281.11	1.71	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00103198	Selenomonas	85.57	4.27	hypothetical protein
+PGF_00104957	Selenomonas	236.24	2.67	hypothetical protein
+PGF_00113984	Selenomonas	186.22	4.52	Flavin prenyltransferase UbiX
+PGF_00134118	Selenomonas	972.70	2.39	Predicted insulinase-like Zn-dependent peptidase DVU0941
+PGF_00136594	Selenomonas	68.51	1.88	hypothetical protein
+PGF_00165832	Selenomonas	1407.74	172.80	hypothetical protein
+PGF_00181903	Selenomonas	322.89	20.64	hypothetical protein
+PGF_00187945	Selenomonas	271.81	8.44	hypothetical protein
+PGF_00203877	Selenomonas	667.62	75.16	hypothetical protein
+PGF_00231491	Selenomonas	313.84	4.09	hypothetical protein
+PGF_00231630	Selenomonas	238.41	5.90	hypothetical protein
+PGF_00231949	Selenomonas	68.81	8.87	hypothetical protein
+PGF_00232013	Selenomonas	275.11	8.33	hypothetical protein
+PGF_00292049	Selenomonas	684.73	3.28	hypothetical protein
+PGF_00298302	Selenomonas	354.43	5.37	hypothetical protein
+PGF_00303505	Selenomonas	313.94	3.49	hypothetical protein
+PGF_00311240	Selenomonas	398.57	9.90	hypothetical protein
+PGF_00382715	Selenomonas	82.97	9.05	hypothetical protein
+PGF_00385742	Selenomonas	410.68	3.01	hypothetical protein
+PGF_00391084	Selenomonas	537.35	12.39	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00403927	Selenomonas	395.65	1.89	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00404333	Selenomonas	325.70	2.87	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404384	Selenomonas	333.22	8.95	Biotin synthase (EC 2.8.1.6)
+PGF_00405289	Selenomonas	221.97	14.24	Uncharacterized membrane anchored protein
+PGF_00406160	Selenomonas	379.27	4.81	putative UDP-glucuronosyltransferase
+PGF_00413203	Selenomonas	161.43	15.78	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Selenomonas	250.30	9.21	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Selenomonas	262.49	6.03	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Selenomonas	293.97	3.56	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Selenomonas	432.43	4.25	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Selenomonas	613.89	73.43	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Selenomonas	263.19	4.05	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413554	Selenomonas	157.05	0.33	tmRNA-binding protein SmpB
+PGF_00414926	Selenomonas	421.16	19.36	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415486	Selenomonas	157.38	9.86	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00416115	Selenomonas	313.22	5.07	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Selenomonas	535.57	2.12	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Selenomonas	1075.08	0.28	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416508	Selenomonas	73.92	2.69	Carbon storage regulator
+PGF_00416622	Selenomonas	384.70	5.77	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Selenomonas	395.55	52.35	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00416674	Selenomonas	403.97	1.69	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417433	Selenomonas	621.37	12.70	Chaperone protein DnaK
+PGF_00417577	Selenomonas	147.76	4.32	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417840	Selenomonas	388.00	1.94	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Selenomonas	186.21	6.05	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Selenomonas	243.62	1.69	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418278	Selenomonas	363.27	4.94	Cobalt-precorrin 5A hydrolase (EC 3.7.1.12)
+PGF_00418285	Selenomonas	246.84	4.64	Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)
+PGF_00418291	Selenomonas	251.43	0.90	Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+PGF_00418292	Selenomonas	370.54	2.66	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418294	Selenomonas	256.54	6.07	Cobalt-precorrin-6A reductase (EC 1.3.1.106)
+PGF_00418304	Selenomonas	211.86	4.98	Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289)
+PGF_00418309	Selenomonas	211.73	3.47	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Selenomonas	512.32	1.87	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Selenomonas	459.92	4.71	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419420	Selenomonas	420.05	0.33	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419702	Selenomonas	163.30	9.85	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419740	Selenomonas	151.22	7.28	Transcriptional regulator CtsR
+PGF_00420075	Selenomonas	312.46	8.39	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Selenomonas	218.59	3.46	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420572	Selenomonas	455.54	1.22	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420732	Selenomonas	483.27	5.39	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00421071	Selenomonas	146.30	7.18	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421498	Selenomonas	374.27	18.01	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Selenomonas	599.22	13.97	DNA primase (EC 2.7.7.-)
+PGF_00421733	Selenomonas	370.03	3.80	DNA recombination and repair protein RecF
+PGF_00421792	Selenomonas	459.51	2.27	DNA repair protein RadA
+PGF_00421796	Selenomonas	571.27	2.33	DNA repair protein RecN
+PGF_00422061	Selenomonas	91.54	4.52	DNA-binding protein HBsu
+PGF_00422271	Selenomonas	319.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422959	Selenomonas	150.95	3.55	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Selenomonas	372.78	13.75	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Selenomonas	280.16	2.88	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Selenomonas	435.38	3.91	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423378	Selenomonas	429.89	2.01	Dihydroorotase (EC 3.5.2.3)
+PGF_00423533	Selenomonas	290.11	9.03	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424236	Selenomonas	145.27	2.80	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424971	Selenomonas	610.16	5.06	Excinuclease ABC subunit C
+PGF_00425011	Selenomonas	250.30	0.52	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Selenomonas	404.54	7.39	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Selenomonas	1028.27	45.44	Exonuclease SbcC
+PGF_00425092	Selenomonas	383.57	3.13	Exonuclease SbcD
+PGF_00425665	Selenomonas	270.76	5.67	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Selenomonas	307.73	6.13	RNase adapter protein RapZ
+PGF_00425679	Selenomonas	215.19	3.44	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425720	Selenomonas	263.76	0.93	Putative RNA-binding protein YlmH
+PGF_00425747	Selenomonas	166.89	4.23	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Selenomonas	514.57	7.51	Ribonuclease Y
+PGF_00425806	Selenomonas	434.38	4.34	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425997	Selenomonas	371.43	17.49	FIG004453: protein YceG like
+PGF_00426236	Selenomonas	358.73	1.41	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426877	Selenomonas	299.51	9.02	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Selenomonas	154.54	0.51	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Selenomonas	284.86	7.34	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00482828	Selenomonas	450.76	4.23	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00598888	Selenomonas	166.22	4.73	Mini-ribonuclease III
+PGF_00616490	Selenomonas	173.92	1.01	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Selenomonas	347.19	2.45	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Selenomonas	225.38	12.96	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00641071	Selenomonas	367.14	6.31	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00659194	Selenomonas	191.62	0.86	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Selenomonas	114.32	0.91	Ribosomal silencing factor RsfA
+PGF_00717613	Selenomonas	204.49	3.83	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00730161	Selenomonas	497.97	64.19	hypothetical protein
+PGF_00734482	Selenomonas	760.78	23.94	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00751363	Selenomonas	201.89	10.13	Protein of unknown function DUF208
+PGF_00777371	Selenomonas	237.89	0.66	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00827555	Selenomonas	603.81	30.16	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00856141	Selenomonas	411.24	1.16	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00885329	Selenomonas	333.89	1.17	Flagellar motor switch protein FliM
+PGF_00900256	Selenomonas	495.00	14.60	Threonine synthase (EC 4.2.3.1)
+PGF_00912265	Selenomonas	322.19	2.20	tRNA-dihydrouridine synthase DusB
+PGF_00926109	Selenomonas	551.65	0.79	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00948901	Selenomonas	223.49	2.96	Two-component transcriptional response regulator, LuxR family
+PGF_00950554	Selenomonas	682.38	10.30	Excinuclease ABC subunit B
+PGF_00957419	Selenomonas	140.16	3.35	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Selenomonas	316.08	2.55	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00960894	Selenomonas	108.38	2.23	Uncharacterized homolog of the cytoplasmic domain of flagellar protein FhlB
+PGF_01008498	Selenomonas	119.95	10.27	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01040342	Selenomonas	285.46	0.96	Spermidine synthase (EC 2.5.1.16)
+PGF_01065911	Selenomonas	210.16	3.56	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01068086	Selenomonas	260.00	0.00	Flagellar biosynthesis protein FliR
+PGF_01079016	Selenomonas	329.08	21.56	Chromosome (plasmid) partitioning protein ParB
+PGF_01126005	Selenomonas	367.00	2.53	Rod shape-determining protein RodA
+PGF_01169833	Selenomonas	468.22	33.88	Flagellar biosynthesis protein FlhF
+PGF_01170345	Selenomonas	67.43	5.61	Flagellar protein FlbD
+PGF_01172485	Selenomonas	850.57	17.92	Cell division protein FtsA
+PGF_01174739	Selenomonas	288.16	18.41	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Selenomonas	636.11	13.83	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Selenomonas	279.73	2.53	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Selenomonas	541.84	0.65	Heat shock protein 60 family chaperone GroEL
+PGF_01295821	Selenomonas	205.16	3.36	DedA
+PGF_01323228	Selenomonas	195.27	2.46	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01332636	Selenomonas	235.78	9.79	Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)
+PGF_01351158	Selenomonas	1106.57	13.99	Transcription-repair coupling factor
+PGF_01351690	Selenomonas	509.03	0.16	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3); Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+PGF_01364427	Selenomonas	197.46	8.75	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01416650	Selenomonas	268.54	3.43	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Selenomonas	145.57	1.46	Cell division protein MraZ
+PGF_01423501	Selenomonas	157.49	3.59	Transcription elongation factor GreA
+PGF_01444546	Selenomonas	99.46	5.90	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01469197	Selenomonas	454.82	62.74	RNA methyltransferase, TrmA family
+PGF_01481272	Selenomonas	160.41	1.92	Chemotaxis protein CheD
+PGF_01482335	Selenomonas	1419.00	7.80	Activator of (R)-2-hydroxyglutaryl-CoA dehydratase
+PGF_01496598	Selenomonas	311.73	32.51	Chemotaxis protein CheV (EC 2.7.3.-)
+PGF_01512690	Selenomonas	262.03	0.37	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01513923	Selenomonas	250.65	19.82	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01529260	Selenomonas	167.46	13.61	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01555804	Selenomonas	136.84	9.95	Flagellar basal-body rod protein FlgB
+PGF_01557745	Selenomonas	416.22	1.86	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01602421	Selenomonas	176.19	4.13	Flagellar basal-body rod modification protein FlgD
+PGF_01618915	Selenomonas	354.68	6.98	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667880	Selenomonas	89.81	11.01	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01677191	Selenomonas	309.97	3.52	Sporulation transcription regulator WhiA
+PGF_01682537	Selenomonas	123.95	8.98	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Selenomonas	150.38	2.37	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Selenomonas	212.70	8.40	Adenylate kinase (EC 2.7.4.3)
+PGF_01767358	Selenomonas	248.70	6.87	HesA/MoeB/ThiF family protein
+PGF_01769256	Selenomonas	119.81	1.15	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+PGF_01777142	Selenomonas	204.14	2.24	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Selenomonas	558.35	6.17	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Selenomonas	284.00	2.94	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Selenomonas	344.51	1.56	Heat-inducible transcription repressor HrcA
+PGF_01898497	Selenomonas	210.59	1.91	Endonuclease III (EC 4.2.99.18)
+PGF_01899924	Selenomonas	298.71	14.88	Flagellar motor rotation protein MotB
+PGF_01899937	Selenomonas	318.41	13.10	Rod shape-determining protein MreC
+PGF_01942824	Selenomonas	387.29	4.25	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01960322	Selenomonas	609.08	0.49	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01984533	Selenomonas	89.05	6.50	UPF0296 protein YlzA
+PGF_01994657	Selenomonas	431.30	8.48	Cell division trigger factor (EC 5.2.1.8)
+PGF_02019462	Selenomonas	342.11	2.50	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02026136	Selenomonas	299.11	8.76	Uncharacterized S1 RNA binding domain protein YitL
+PGF_02029783	Selenomonas	426.78	0.92	GTP-binding protein Obg
+PGF_02049468	Selenomonas	66.00	0.00	Cold shock protein of CSP family
+PGF_02061452	Selenomonas	373.65	5.43	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Selenomonas	331.29	48.50	Flagellar motor switch protein FliG
+PGF_02111888	Selenomonas	275.51	0.96	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Selenomonas	415.05	35.50	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Selenomonas	361.30	28.50	Flagellar biosynthesis protein FlhB
+PGF_02204321	Selenomonas	340.92	11.48	Twitching motility protein PilT
+PGF_02211177	Selenomonas	250.84	19.71	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02226715	Selenomonas	671.08	79.81	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227929	Selenomonas	279.95	0.66	ABC transporter, permease protein (cluster 14, Mn/Zn)
+PGF_02346669	Selenomonas	309.92	1.01	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Selenomonas	869.57	20.42	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Selenomonas	358.37	51.47	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Selenomonas	197.92	11.39	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02450432	Selenomonas	274.00	1.87	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Selenomonas	198.54	1.95	Recombination protein RecR
+PGF_02515882	Selenomonas	409.46	5.35	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Selenomonas	433.95	2.73	Enolase (EC 4.2.1.11)
+PGF_02593689	Selenomonas	458.24	4.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02623406	Selenomonas	313.51	6.43	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Selenomonas	1338.95	8.00	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02728524	Selenomonas	864.41	2.99	DNA mismatch repair protein MutS
+PGF_02737642	Selenomonas	267.13	1.93	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02746016	Selenomonas	250.22	8.95	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02769449	Selenomonas	327.95	2.11	hypothetical protein
+PGF_02779037	Selenomonas	394.08	1.09	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+PGF_02787494	Selenomonas	207.14	5.26	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02788582	Selenomonas	787.76	5.74	Recombination inhibitory protein MutS2
+PGF_02789532	Selenomonas	291.59	2.34	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Selenomonas	192.11	5.03	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Selenomonas	242.24	5.34	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Selenomonas	475.46	0.61	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Selenomonas	1240.95	11.28	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02820109	Selenomonas	193.49	6.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Selenomonas	174.73	1.54	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Selenomonas	262.86	5.21	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Selenomonas	393.45	55.64	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02883702	Selenomonas	355.89	1.05	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02895613	Selenomonas	442.11	3.01	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02899131	Selenomonas	64.00	1.89	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Selenomonas	732.62	13.48	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02907975	Selenomonas	814.08	97.59	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13) / Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_02913813	Selenomonas	631.29	77.56	hypothetical protein
+PGF_02919689	Selenomonas	236.19	1.10	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Selenomonas	241.08	0.36	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Selenomonas	296.57	3.65	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02946231	Selenomonas	372.08	14.89	SSU ribosomal protein S1p
+PGF_02947204	Selenomonas	542.92	12.75	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Selenomonas	263.35	1.55	Septum site-determining protein MinD
+PGF_02992495	Selenomonas	75.05	0.94	Protein translocase membrane subunit SecG
+PGF_02995302	Selenomonas	220.68	9.11	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_02997723	Selenomonas	159.41	6.03	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03003352	Selenomonas	556.97	4.76	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03017775	Selenomonas	505.11	73.42	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Selenomonas	190.32	23.36	Septum formation protein Maf
+PGF_03026450	Selenomonas	1178.03	29.98	Chromosome partition protein smc
+PGF_03029062	Selenomonas	309.92	3.34	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03042775	Selenomonas	219.54	2.08	Phosphoheptose isomerase (EC 5.3.1.-)
+PGF_03054699	Selenomonas	838.08	111.86	DNA translocase FtsK
+PGF_03066520	Selenomonas	414.22	0.63	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03070510	Selenomonas	299.81	9.03	Flagellar synthesis regulator FleN
+PGF_03073470	Selenomonas	550.05	0.23	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03084693	Selenomonas	554.14	7.25	FIG006789: Stage V sporulation protein
+PGF_03104567	Selenomonas	449.00	1.53	Trk potassium uptake system protein TrkA
+PGF_03117711	Selenomonas	193.70	2.52	Hydrolase (HAD superfamily), YqeK
+PGF_03124650	Selenomonas	488.78	0.82	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Selenomonas	410.34	56.99	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03154343	Selenomonas	131.30	5.18	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Selenomonas	276.03	33.75	Prolipoprotein diacylglyceryl transferase
+PGF_03235459	Selenomonas	364.46	4.39	polysaccharide pyruvyl transferase
+PGF_03268078	Selenomonas	617.49	95.97	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03272313	Selenomonas	811.30	4.37	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03291914	Selenomonas	138.14	0.59	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03313800	Selenomonas	186.43	2.03	hypothetical protein
+PGF_03317812	Selenomonas	156.62	10.13	hypothetical protein
+PGF_03317829	Selenomonas	137.89	15.23	hypothetical protein
+PGF_03318606	Selenomonas	136.68	5.17	hypothetical protein
+PGF_03439582	Selenomonas	199.76	1.34	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03439690	Selenomonas	154.22	5.40	Ferric uptake regulation protein FUR
+PGF_03470321	Selenomonas	166.81	3.60	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Selenomonas	454.68	9.38	Flagellum-specific ATP synthase FliI
+PGF_03507290	Selenomonas	416.19	1.96	Serine/threonine:Na+ symporter SstT
+PGF_03518570	Selenomonas	140.81	4.11	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03558774	Selenomonas	286.57	3.14	Peptidase M48, Ste24p precursor
+PGF_03609651	Selenomonas	570.42	108.85	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03701810	Selenomonas	295.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03723827	Selenomonas	160.70	13.25	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750600	Selenomonas	158.41	1.04	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Selenomonas	69.73	3.54	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Selenomonas	197.97	10.61	Heat shock protein GrpE
+PGF_03757137	Selenomonas	473.59	1.26	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Selenomonas	307.76	3.26	Signal recognition particle receptor FtsY
+PGF_03790040	Selenomonas	238.41	1.96	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Selenomonas	265.35	5.13	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Selenomonas	66.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03846068	Selenomonas	269.13	31.82	Pyridoxal kinase (EC 2.7.1.35)
+PGF_04005838	Selenomonas	413.15	58.49	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04016408	Selenomonas	429.11	60.82	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04034430	Selenomonas	57.95	6.23	SSU ribosomal protein S21p
+PGF_04036472	Selenomonas	75.00	0.00	KH domain RNA binding protein YlqC
+PGF_04041316	Selenomonas	943.65	3.26	Excinuclease ABC subunit A
+PGF_04091295	Selenomonas	264.22	10.82	Flagellar motor rotation protein MotA
+PGF_04119806	Selenomonas	287.24	8.11	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Selenomonas	275.27	18.63	Twin-arginine translocation protein TatC
+PGF_04182459	Selenomonas	228.03	0.16	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Selenomonas	259.97	5.69	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04345693	Selenomonas	454.89	2.22	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04395505	Selenomonas	341.89	9.47	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04485101	Selenomonas	217.32	14.14	gamma-glutamyl ligase (similar to F420:0 gamma-glutamyl ligase)
+PGF_04505269	Selenomonas	239.03	10.08	SSU ribosomal protein S2p (SAe)
+PGF_04569524	Selenomonas	505.24	1.01	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Selenomonas	249.57	2.06	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04608820	Selenomonas	188.46	20.42	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04620152	Selenomonas	485.86	39.78	Pantothenate:Na+ symporter (TC 2.A.21.1.1)
+PGF_04655384	Selenomonas	302.43	1.17	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Selenomonas	150.24	5.38	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Selenomonas	680.43	6.45	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Selenomonas	278.84	35.73	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Selenomonas	799.38	85.40	Translation initiation factor 2
+PGF_04788810	Selenomonas	209.19	6.74	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Selenomonas	316.46	8.15	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Selenomonas	113.00	0.00	LSU ribosomal protein L19p
+PGF_04846590	Selenomonas	317.00	0.00	Magnesium and cobalt transport protein CorA
+PGF_04958295	Selenomonas	138.49	3.20	Flagellar biosynthesis protein FliS
+PGF_04962192	Selenomonas	877.76	130.48	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Selenomonas	103.00	0.00	LSU ribosomal protein L21p
+PGF_05022117	Selenomonas	541.62	6.04	Bis-ABC ATPase YbiT
+PGF_05111929	Selenomonas	659.59	4.15	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05165078	Selenomonas	314.00	8.79	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Selenomonas	459.63	65.42	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05280843	Selenomonas	433.89	6.51	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05364204	Selenomonas	208.51	0.56	FIG004556: membrane metalloprotease
+PGF_05421852	Selenomonas	651.38	2.34	Chaperone protein HtpG
+PGF_05463808	Selenomonas	284.57	2.12	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Selenomonas	637.81	14.16	DNA mismatch repair protein MutL
+PGF_05519582	Selenomonas	398.05	26.95	NAD(FAD)-utilizing dehydrogenases
+PGF_05560886	Selenomonas	286.81	5.33	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Selenomonas	417.43	3.80	Protein translocase subunit SecY
+PGF_05598173	Selenomonas	356.81	0.78	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05925776	Selenomonas	292.30	2.55	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Selenomonas	415.78	4.94	Protein translocase subunit SecD
+PGF_05971611	Selenomonas	402.89	6.14	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06084258	Selenomonas	369.22	7.06	Serine protease, DegP/HtrA, do-like (EC 3.4.21.-)
+PGF_06180597	Selenomonas	146.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Selenomonas	518.65	4.98	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Selenomonas	93.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Selenomonas	357.22	25.98	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Selenomonas	423.38	4.64	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06326847	Selenomonas	251.19	5.52	Flagellar biosynthesis protein FliP
+PGF_06377994	Selenomonas	423.76	3.71	FtsW-like cell division membrane protein CA_C0505
+PGF_06403579	Selenomonas	770.81	4.07	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06459503	Selenomonas	586.86	3.47	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06530721	Selenomonas	216.16	3.72	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06586947	Selenomonas	382.84	24.93	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06644010	Selenomonas	301.34	36.61	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Selenomonas	76.47	1.98	Acyl carrier protein
+PGF_06649360	Selenomonas	209.97	8.92	Segregation and condensation protein B
+PGF_06660812	Selenomonas	164.49	2.39	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06693963	Selenomonas	109.62	1.52	Nucleoid-associated protein YaaK
+PGF_06701488	Selenomonas	303.49	47.18	RNA-binding protein Jag
+PGF_06750600	Selenomonas	332.35	30.99	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06770993	Selenomonas	365.92	1.93	Lipopolysaccharide export system permease protein LptF @ Lipopolysaccharide export system permease protein LptG
+PGF_07101513	Selenomonas	406.19	13.35	Flagellar motor switch protein FliN
+PGF_07146095	Selenomonas	154.03	0.16	Chemotaxis protein CheX
+PGF_07263029	Selenomonas	349.57	1.98	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_08040528	Selenomonas	636.41	1.14	Uptake [NiFe] hydrogenase, large subunit HyaB (EC 1.12.99.6)
+PGF_08047383	Selenomonas	361.62	3.20	Uptake [NiFe] hydrogenase, small subunit HyaA (EC 1.12.99.6)
+PGF_08050537	Selenomonas	310.62	4.62	Homoserine O-succinyltransferase (EC 2.3.1.46)

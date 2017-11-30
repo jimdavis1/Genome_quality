@@ -1,0 +1,978 @@
+PGF_00000027	Paenisporosarcina	270.20	5.22	Uncharacterized protein YmdB
+PGF_00000196	Paenisporosarcina	403.40	0.89	FIG007079: UPF0348 protein family
+PGF_00000284	Paenisporosarcina	99.20	0.45	FIG007421: forespore shell protein
+PGF_00000416	Paenisporosarcina	357.00	5.39	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001028	Paenisporosarcina	433.80	0.45	Uncharacterized zinc protease YmfH
+PGF_00001047	Paenisporosarcina	417.00	1.87	FIG009300: TPR-repeat-containing protein
+PGF_00001219	Paenisporosarcina	103.80	0.84	FIG009688: Thioredoxin
+PGF_00002047	Paenisporosarcina	116.00	0.00	Uncharacterized protein YojF
+PGF_00002343	Paenisporosarcina	78.20	0.45	DUF1450 superfamily protein
+PGF_00002359	Paenisporosarcina	146.00	0.00	UPF0403 protein YqiW
+PGF_00002361	Paenisporosarcina	165.80	0.45	Uncharacterized protein YlaL
+PGF_00002371	Paenisporosarcina	60.80	0.45	FIG01227217: hypothetical protein
+PGF_00002387	Paenisporosarcina	127.60	0.89	Sigma-W pathway protein YsdB
+PGF_00002451	Paenisporosarcina	230.40	1.34	N-acetylglucosaminyl-L-malate N-acetyl hydrolase
+PGF_00003516	Paenisporosarcina	372.00	0.00	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004058	Paenisporosarcina	196.20	7.16	Fatty acid metabolism regulator protein FadR, TetR family
+PGF_00004169	Paenisporosarcina	582.20	1.10	Fe-S oxidoreductase
+PGF_00004728	Paenisporosarcina	562.80	1.10	Fibronectin/fibrinogen-binding protein
+PGF_00005241	Paenisporosarcina	397.00	0.71	ABC transporter, permease protein EscB
+PGF_00006270	Paenisporosarcina	183.20	1.48	Acetyltransferase, GNAT family
+PGF_00006378	Paenisporosarcina	324.40	6.54	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006452	Paenisporosarcina	515.00	6.93	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006461	Paenisporosarcina	459.60	1.14	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Paenisporosarcina	517.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006987	Paenisporosarcina	253.60	0.89	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007012	Paenisporosarcina	366.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Paenisporosarcina	436.00	0.00	GTP-binding protein EngA
+PGF_00007026	Paenisporosarcina	196.80	2.28	GTP-binding protein EngB
+PGF_00007027	Paenisporosarcina	304.40	0.89	GTP-binding protein Era
+PGF_00007041	Paenisporosarcina	615.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007043	Paenisporosarcina	423.20	0.45	GTP-binding protein related to HflX
+PGF_00007045	Paenisporosarcina	259.00	0.00	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Paenisporosarcina	469.80	19.68	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007083	Paenisporosarcina	318.00	5.66	ABC-type Fe3+-siderophore transport system, periplasmic iron-binding component
+PGF_00007304	Paenisporosarcina	293.00	0.00	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007479	Paenisporosarcina	124.00	0.00	General stress protein 13
+PGF_00007489	Paenisporosarcina	154.80	6.06	UPF0478 protein YtxG
+PGF_00007632	Paenisporosarcina	316.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00008051	Paenisporosarcina	453.60	2.97	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008106	Paenisporosarcina	265.00	0.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Paenisporosarcina	1524.40	8.17	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008258	Paenisporosarcina	444.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008269	Paenisporosarcina	202.40	2.19	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008313	Paenisporosarcina	390.20	3.27	Glutamine-dependent 2-keto-4-methylthiobutyrate transaminase
+PGF_00008329	Paenisporosarcina	357.00	0.00	Glutamyl aminopeptidase (EC 3.4.11.7); Deblocking aminopeptidase
+PGF_00008334	Paenisporosarcina	455.80	3.49	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Paenisporosarcina	486.60	0.89	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008774	Paenisporosarcina	448.00	0.00	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Paenisporosarcina	486.00	0.00	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008838	Paenisporosarcina	237.20	0.45	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Paenisporosarcina	188.80	0.45	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009760	Paenisporosarcina	379.20	1.79	UDP-N-acetylglucosamine:L-malate glycosyltransferase
+PGF_00009966	Paenisporosarcina	460.00	0.00	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Paenisporosarcina	245.20	0.45	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Paenisporosarcina	731.00	0.71	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Paenisporosarcina	206.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010471	Paenisporosarcina	191.60	0.89	HAD-superfamily hydrolase-like protein
+PGF_00011081	Paenisporosarcina	803.80	0.45	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011246	Paenisporosarcina	275.00	2.24	HemX protein, negative effector of steady-state concentration of glutamyl-tRNA reductase
+PGF_00011321	Paenisporosarcina	305.80	1.10	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011541	Paenisporosarcina	323.40	2.51	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011542	Paenisporosarcina	230.20	0.45	Heptaprenylglyceryl phosphate synthase (EC 2.5.1.n9)
+PGF_00011792	Paenisporosarcina	107.00	2.24	His repressor
+PGF_00011953	Paenisporosarcina	141.00	0.00	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00012264	Paenisporosarcina	333.80	1.79	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012639	Paenisporosarcina	265.60	1.34	FIG00003568: ACT domain protein
+PGF_00012652	Paenisporosarcina	173.00	0.00	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00012657	Paenisporosarcina	151.00	0.00	ACT domain-containing protein
+PGF_00012877	Paenisporosarcina	309.40	0.89	Uncharacterized membrane anchored protein YqkD
+PGF_00013003	Paenisporosarcina	643.80	1.79	Bis-ABC ATPase YheS
+PGF_00013144	Paenisporosarcina	153.00	0.00	Terminal oxidase biogenesis protein CtaM, putative heme A, heme O chaperone
+PGF_00013207	Paenisporosarcina	326.20	0.45	Uncharacterized membrane protein YfhP
+PGF_00013283	Paenisporosarcina	230.00	1.73	UPF0001 protein YggS
+PGF_00013347	Paenisporosarcina	88.00	0.00	UPF0297 protein YrzL
+PGF_00013492	Paenisporosarcina	180.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Paenisporosarcina	511.20	0.45	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013804	Paenisporosarcina	417.40	0.89	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00014051	Paenisporosarcina	262.20	0.84	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014183	Paenisporosarcina	317.60	11.74	Inner membrane protein YihY, formerly thought to be RNase BN
+PGF_00014264	Paenisporosarcina	256.80	1.30	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014311	Paenisporosarcina	487.20	0.45	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Paenisporosarcina	235.40	3.71	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Paenisporosarcina	74.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Paenisporosarcina	285.60	0.89	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Paenisporosarcina	259.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Paenisporosarcina	465.60	0.55	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Paenisporosarcina	434.20	0.45	Iron-sulfur cluster assembly protein SufD
+PGF_00015686	Paenisporosarcina	458.60	3.13	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015701	Paenisporosarcina	421.80	0.45	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015888	Paenisporosarcina	225.00	0.00	KinB signaling pathway activation protein
+PGF_00015931	Paenisporosarcina	422.60	2.19	Kynureninase (EC 3.7.1.3)
+PGF_00016014	Paenisporosarcina	313.00	4.24	L-alanyl-gamma-D-glutamyl-L-diamino acid endopeptidase
+PGF_00016046	Paenisporosarcina	321.00	2.45	L-asparaginase (EC 3.5.1.1)
+PGF_00016223	Paenisporosarcina	298.20	0.45	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Paenisporosarcina	220.00	0.00	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016257	Paenisporosarcina	315.40	2.88	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016328	Paenisporosarcina	166.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Paenisporosarcina	422.20	0.45	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Paenisporosarcina	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Paenisporosarcina	146.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Paenisporosarcina	144.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Paenisporosarcina	126.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Paenisporosarcina	118.20	0.45	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Paenisporosarcina	232.40	1.34	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Paenisporosarcina	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Paenisporosarcina	113.20	0.45	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Paenisporosarcina	94.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Paenisporosarcina	102.80	0.45	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Paenisporosarcina	96.80	0.45	LSU ribosomal protein L27p
+PGF_00016393	Paenisporosarcina	276.40	0.89	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Paenisporosarcina	59.20	0.45	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Paenisporosarcina	57.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Paenisporosarcina	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Paenisporosarcina	66.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Paenisporosarcina	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Paenisporosarcina	209.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Paenisporosarcina	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Paenisporosarcina	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Paenisporosarcina	179.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Paenisporosarcina	120.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Paenisporosarcina	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016739	Paenisporosarcina	334.20	26.26	Late competence protein ComGA, access of DNA to ComEA
+PGF_00017127	Paenisporosarcina	329.80	0.45	Lipoate-protein ligase A
+PGF_00017227	Paenisporosarcina	612.00	3.39	ATP-dependent DNA ligase (EC 6.5.1.1) clustered with Ku protein, LigD
+PGF_00017468	Paenisporosarcina	633.00	0.71	Lipoteichoic acid synthase LtaS Type IIIa
+PGF_00017479	Paenisporosarcina	307.80	1.79	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017608	Paenisporosarcina	189.00	18.63	Low temperature requirement C protein
+PGF_00017863	Paenisporosarcina	480.40	1.34	ATP-dependent RNA helicase YxiN
+PGF_00018944	Paenisporosarcina	74.60	0.55	Major transcriptional regulator of spore coat formation GerE
+PGF_00018952	Paenisporosarcina	311.60	0.89	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018971	Paenisporosarcina	502.40	6.88	Malate:quinone oxidoreductase (EC 1.1.5.4)
+PGF_00019038	Paenisporosarcina	464.60	1.52	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019221	Paenisporosarcina	1239.00	1.58	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Paenisporosarcina	309.00	0.00	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019427	Paenisporosarcina	110.60	0.89	MazG nucleotide pyrophosphohydrolase
+PGF_00019428	Paenisporosarcina	182.00	0.00	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019563	Paenisporosarcina	237.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
+PGF_00020147	Paenisporosarcina	349.60	22.73	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020272	Paenisporosarcina	254.60	2.51	Menaquinone-cytochrome C oxidoreductase, cytochrome C subunit
+PGF_00020273	Paenisporosarcina	167.00	0.00	Menaquinone-cytochrome C reductase iron-sulfur subunit
+PGF_00020275	Paenisporosarcina	224.00	0.00	Menaquinone-cytochrome c reductase, cytochrome B subunit
+PGF_00020361	Paenisporosarcina	161.80	0.45	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Paenisporosarcina	249.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020742	Paenisporosarcina	403.20	4.71	Methionine gamma-lyase (EC 4.4.1.11)
+PGF_00020981	Paenisporosarcina	513.00	0.00	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Paenisporosarcina	287.20	2.39	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Paenisporosarcina	134.20	0.45	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021022	Paenisporosarcina	717.40	0.89	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021036	Paenisporosarcina	345.20	6.80	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021037	Paenisporosarcina	207.40	2.70	Methylthioribulose-1-phosphate dehydratase (EC 4.2.1.109)
+PGF_00021217	Paenisporosarcina	513.40	0.89	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022707	Paenisporosarcina	330.20	1.30	MreB-like protein (Mbl protein)
+PGF_00023102	Paenisporosarcina	581.60	3.13	Efflux ABC transporter, permease/ATP-binding protein YgaD
+PGF_00023479	Paenisporosarcina	157.20	1.10	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Paenisporosarcina	340.00	2.24	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023946	Paenisporosarcina	148.00	3.32	N-acetyltransferase ElaA
+PGF_00024273	Paenisporosarcina	162.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Paenisporosarcina	373.80	0.45	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Paenisporosarcina	275.00	0.00	NAD synthetase (EC 6.3.1.5)
+PGF_00024505	Paenisporosarcina	414.00	0.00	NAD-specific glutamate dehydrogenase (EC 1.4.1.2)
+PGF_00024509	Paenisporosarcina	459.00	0.00	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024855	Paenisporosarcina	165.60	0.89	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025379	Paenisporosarcina	272.00	0.00	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025383	Paenisporosarcina	359.20	0.45	Naringenin-chalcone synthase (EC 2.3.1.74)
+PGF_00025410	Paenisporosarcina	222.00	0.00	Negative regulator of genetic competence MecA
+PGF_00025489	Paenisporosarcina	404.00	2.24	Niacin transporter NiaP
+PGF_00025760	Paenisporosarcina	629.20	1.30	Nitric oxide reductase activation protein NorD
+PGF_00026279	Paenisporosarcina	317.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026300	Paenisporosarcina	276.60	0.89	Novel pyridoxal kinase, thiD family (EC 2.7.1.35)
+PGF_00026362	Paenisporosarcina	198.40	0.89	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026391	Paenisporosarcina	312.40	0.89	Nucleoside binding-domain containing protein YvoD
+PGF_00026453	Paenisporosarcina	287.00	1.73	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026461	Paenisporosarcina	209.00	1.22	Nucleotidase YfbR, HD superfamily
+PGF_00026863	Paenisporosarcina	278.00	0.00	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase, LipM (EC 2.3.1.181)
+PGF_00026864	Paenisporosarcina	280.40	1.82	Octanoyl-[GcvH]:protein N-octanoyltransferase (EC 2.3.1.204)
+PGF_00027563	Paenisporosarcina	101.40	3.21	Ortholog of S. aureus MRSA252 (BX571856) SAR1694
+PGF_00027684	Paenisporosarcina	210.00	0.00	Acetyltransferase AcuA, acetyl-CoA synthetase inhibitor
+PGF_00028472	Paenisporosarcina	180.00	2.92	Outer spore coat protein CotE
+PGF_00028694	Paenisporosarcina	406.20	1.64	2,3-diketo-5-methylthiopentyl-1-phosphate enolase (EC 5.3.2.5)
+PGF_00029132	Paenisporosarcina	371.60	0.55	PBS lyase HEAT-like repeat domain protein
+PGF_00029917	Paenisporosarcina	281.80	3.27	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029922	Paenisporosarcina	275.40	1.34	Pantothenate kinase type II, eukaryotic (EC 2.7.1.33)
+PGF_00030640	Paenisporosarcina	359.00	0.00	Peptide chain release factor 1
+PGF_00030643	Paenisporosarcina	523.60	0.89	Peptide chain release factor 3
+PGF_00031478	Paenisporosarcina	404.60	1.34	Uncharacterized MFS-type transporter
+PGF_00031568	Paenisporosarcina	147.20	1.10	Peroxide stress regulator PerR, FUR family
+PGF_00032917	Paenisporosarcina	251.40	54.40	Phage-encoded chromosome degrading nuclease YokF
+PGF_00033092	Paenisporosarcina	121.00	0.00	Phenylalanyl-tRNA synthetase alpha subunit
+PGF_00033095	Paenisporosarcina	803.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033197	Paenisporosarcina	324.40	5.94	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Paenisporosarcina	319.20	1.30	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Paenisporosarcina	330.00	0.71	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Paenisporosarcina	323.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033411	Paenisporosarcina	267.40	0.89	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033437	Paenisporosarcina	364.40	2.79	Phosphoesterase
+PGF_00033444	Paenisporosarcina	651.60	14.31	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033479	Paenisporosarcina	576.20	1.79	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Paenisporosarcina	394.80	0.45	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033877	Paenisporosarcina	161.00	0.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Paenisporosarcina	393.60	0.89	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033928	Paenisporosarcina	418.20	0.84	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033932	Paenisporosarcina	525.00	1.87	Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases, YtcI homolog
+PGF_00033936	Paenisporosarcina	238.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Paenisporosarcina	203.60	5.41	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Paenisporosarcina	353.00	1.22	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Paenisporosarcina	228.00	0.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Paenisporosarcina	743.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Paenisporosarcina	195.40	8.96	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034131	Paenisporosarcina	658.20	0.84	Acylamino-acid-releasing enzyme (EC 3.4.19.1)
+PGF_00034431	Paenisporosarcina	353.80	4.55	Acyltransferase 3
+PGF_00034776	Paenisporosarcina	706.40	2.61	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Paenisporosarcina	170.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Paenisporosarcina	377.00	113.48	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035334	Paenisporosarcina	297.60	46.18	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035370	Paenisporosarcina	300.40	16.80	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035721	Paenisporosarcina	431.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Paenisporosarcina	428.20	0.45	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036800	Paenisporosarcina	359.40	5.37	Probable GTPase related to EngC
+PGF_00036988	Paenisporosarcina	290.00	0.00	Agmatinase (EC 3.5.3.11)
+PGF_00036997	Paenisporosarcina	535.40	2.19	Probable cell division protein YtgP
+PGF_00037468	Paenisporosarcina	397.20	7.36	Alanyl-tRNA synthetase family protein
+PGF_00037481	Paenisporosarcina	94.00	2.24	Programmed cell death antitoxin YdcD
+PGF_00037527	Paenisporosarcina	365.80	1.64	Proline dipeptidase (EC 3.4.13.9)
+PGF_00037565	Paenisporosarcina	494.00	0.00	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037852	Paenisporosarcina	186.40	4.72	Protease production regulatory protein Hpr (ScoC)
+PGF_00037919	Paenisporosarcina	214.60	2.88	Protein LiaH, similar to phage shock protein A
+PGF_00037937	Paenisporosarcina	113.00	0.00	Protein PhnA
+PGF_00038619	Paenisporosarcina	250.20	2.68	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038971	Paenisporosarcina	277.80	2.95	Pur operon repressor PurR
+PGF_00039149	Paenisporosarcina	365.60	0.89	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00039710	Paenisporosarcina	263.40	3.29	Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00039997	Paenisporosarcina	171.60	3.13	Putative acetyltransferase YvoF
+PGF_00040334	Paenisporosarcina	236.60	0.89	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PGF_00040464	Paenisporosarcina	377.00	0.00	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040578	Paenisporosarcina	256.00	0.00	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041788	Paenisporosarcina	145.40	0.89	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041892	Paenisporosarcina	359.60	0.55	Putative lipoprotein SAV1865
+PGF_00042167	Paenisporosarcina	144.40	18.23	Putative metallopeptidase (Zinc) SprT family
+PGF_00043199	Paenisporosarcina	378.80	1.64	Putative pheromone cAM373 precursor lipoprotein CamS
+PGF_00043439	Paenisporosarcina	200.00	1.22	Putative reductase
+PGF_00045787	Paenisporosarcina	194.80	1.79	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Paenisporosarcina	296.20	0.45	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Paenisporosarcina	433.00	2.24	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045994	Paenisporosarcina	586.20	0.45	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00046197	Paenisporosarcina	272.00	0.00	RNA binding methyltransferase FtsJ like
+PGF_00046199	Paenisporosarcina	140.40	1.52	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046350	Paenisporosarcina	260.60	0.89	RNA polymerase sigma factor SigB
+PGF_00046367	Paenisporosarcina	179.20	1.10	RNA polymerase sigma factor SigX
+PGF_00046551	Paenisporosarcina	235.00	0.00	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046553	Paenisporosarcina	267.80	14.70	RNA polymerase sporulation specific sigma factor SigG
+PGF_00046555	Paenisporosarcina	215.00	1.22	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Paenisporosarcina	74.60	0.89	RNA-binding protein Hfq
+PGF_00047078	Paenisporosarcina	353.00	1.73	RecA protein
+PGF_00047095	Paenisporosarcina	809.40	4.04	RecD-like DNA helicase YrrC
+PGF_00047155	Paenisporosarcina	216.80	2.17	Redox-sensing transcriptional repressor Rex
+PGF_00047533	Paenisporosarcina	396.00	0.00	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00048331	Paenisporosarcina	321.20	3.70	Rhodanese domain protein UPF0176, Firmicutes subgroup
+PGF_00048480	Paenisporosarcina	209.40	0.89	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Paenisporosarcina	252.40	3.58	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048557	Paenisporosarcina	311.40	0.89	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048564	Paenisporosarcina	555.00	0.00	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PGF_00048566	Paenisporosarcina	188.80	1.79	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048594	Paenisporosarcina	315.00	2.35	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048630	Paenisporosarcina	740.60	0.55	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048636	Paenisporosarcina	345.40	1.34	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Paenisporosarcina	155.60	0.89	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048651	Paenisporosarcina	145.80	0.45	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Paenisporosarcina	319.20	0.45	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Paenisporosarcina	244.40	0.55	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048836	Paenisporosarcina	234.00	0.00	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Paenisporosarcina	314.80	0.45	Ribosomal protein L11 methyltransferase
+PGF_00048868	Paenisporosarcina	237.60	1.34	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Paenisporosarcina	186.00	0.71	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Paenisporosarcina	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Paenisporosarcina	293.00	0.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Paenisporosarcina	96.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Paenisporosarcina	120.20	9.04	Ribosome-binding factor A
+PGF_00048985	Paenisporosarcina	222.00	0.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049245	Paenisporosarcina	120.00	0.00	RsbS, negative regulator of sigma-B
+PGF_00049330	Paenisporosarcina	398.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Paenisporosarcina	350.80	2.68	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Paenisporosarcina	156.20	0.45	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049453	Paenisporosarcina	212.80	4.02	SAM-dependent methlytransferase YrrT
+PGF_00049731	Paenisporosarcina	419.00	2.35	Aluminum resistance protein
+PGF_00049827	Paenisporosarcina	295.80	4.15	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Paenisporosarcina	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Paenisporosarcina	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Paenisporosarcina	139.80	0.45	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Paenisporosarcina	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Paenisporosarcina	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Paenisporosarcina	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Paenisporosarcina	90.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Paenisporosarcina	87.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Paenisporosarcina	78.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Paenisporosarcina	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Paenisporosarcina	218.60	1.34	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Paenisporosarcina	200.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Paenisporosarcina	166.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Paenisporosarcina	97.20	2.68	SSU ribosomal protein S6p
+PGF_00049904	Paenisporosarcina	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Paenisporosarcina	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Paenisporosarcina	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Paenisporosarcina	259.00	0.00	Segregation and condensation protein A
+PGF_00050568	Paenisporosarcina	354.20	4.76	Sensor histidine kinase LiaS
+PGF_00050579	Paenisporosarcina	580.00	17.41	Sensor histidine kinase ResE (EC 2.7.13.3)
+PGF_00050712	Paenisporosarcina	381.80	1.64	Sensor protein DegS
+PGF_00050995	Paenisporosarcina	473.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051108	Paenisporosarcina	566.40	0.55	Septation ring formation regulator EzrA
+PGF_00051226	Paenisporosarcina	333.60	0.89	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051320	Paenisporosarcina	631.00	0.00	Serine protein kinase (prkA protein), P-loop containing
+PGF_00051525	Paenisporosarcina	424.80	0.45	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052218	Paenisporosarcina	110.80	1.10	Signal recognition particle associated protein
+PGF_00052238	Paenisporosarcina	452.00	1.00	Signal recognition particle protein Ffh
+PGF_00052685	Paenisporosarcina	294.60	5.50	Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YjbO type
+PGF_00052705	Paenisporosarcina	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052905	Paenisporosarcina	218.40	1.34	Site-specific recombinase, resolvase family
+PGF_00052943	Paenisporosarcina	299.80	0.45	Site-specific tyrosine recombinase XerD
+PGF_00053035	Paenisporosarcina	60.80	2.17	Small acid-soluble spore protein
+PGF_00053040	Paenisporosarcina	67.80	1.10	Small acid-soluble spore protein, alpha/beta family, SASP_1
+PGF_00053770	Paenisporosarcina	367.00	0.00	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053877	Paenisporosarcina	267.40	6.66	Spore cortex-lytic enzyme, lytic transglycosylase SleB
+PGF_00053878	Paenisporosarcina	346.80	4.92	Spore germination endopeptidase Gpr (EC 3.4.24.78)
+PGF_00053925	Paenisporosarcina	123.20	8.90	Sporulation initiation phosphotransferase (Spo0F)
+PGF_00053991	Paenisporosarcina	273.00	2.74	Stage 0 sporulation protein YaaT
+PGF_00053997	Paenisporosarcina	263.00	0.00	Stage 0 sporulation two-component response regulator (Spo0A)
+PGF_00054075	Paenisporosarcina	87.00	6.71	Stage III sporulation protein D
+PGF_00054087	Paenisporosarcina	492.00	0.00	Stage IV sporulation protein A
+PGF_00054097	Paenisporosarcina	151.00	0.00	Stage V sporulation protein AC (SpoVAC)
+PGF_00054100	Paenisporosarcina	117.60	7.60	Stage V sporulation protein AE1 (SpoVAE1)
+PGF_00054103	Paenisporosarcina	455.60	18.96	Stage V sporulation protein AF (SpoVAF)
+PGF_00054106	Paenisporosarcina	491.20	26.00	Stage V sporulation protein B
+PGF_00054116	Paenisporosarcina	178.00	0.00	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+PGF_00054117	Paenisporosarcina	466.80	3.70	Spore cortex synthesis protein SpoVR
+PGF_00054118	Paenisporosarcina	89.20	0.84	Spore core dehydratation and coat assembly protein SpoVS
+PGF_00054425	Paenisporosarcina	175.00	1.41	Substrate-specific component TrpP of tryptophan ECF transporter
+PGF_00054466	Paenisporosarcina	203.00	0.00	Succinate dehydrogenase cytochrome b558 subunit
+PGF_00054480	Paenisporosarcina	257.40	0.55	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Paenisporosarcina	386.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055430	Paenisporosarcina	231.00	0.00	Anaerobic regulatory protein Fnr
+PGF_00056362	Paenisporosarcina	218.00	0.00	TPR repeat-containing protein YrrB
+PGF_00056634	Paenisporosarcina	168.60	1.34	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056662	Paenisporosarcina	343.00	0.00	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Paenisporosarcina	455.80	3.49	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Paenisporosarcina	202.60	7.67	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Paenisporosarcina	212.60	2.61	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Paenisporosarcina	314.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057019	Paenisporosarcina	133.00	0.00	Anti-sigma B factor RsbT
+PGF_00057127	Paenisporosarcina	149.60	0.89	Anti-sigma F factor (EC 2.7.11.1)
+PGF_00057198	Paenisporosarcina	118.00	0.00	Anti-sigma F factor antagonist
+PGF_00057270	Paenisporosarcina	812.20	2.17	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Paenisporosarcina	215.80	0.45	Transaldolase (EC 2.2.1.2)
+PGF_00057429	Paenisporosarcina	73.00	0.00	Transcription attenuation protein MtrB
+PGF_00057440	Paenisporosarcina	192.80	2.68	Transcription factor FapR
+PGF_00057483	Paenisporosarcina	427.00	0.00	Transcription termination factor Rho
+PGF_00057485	Paenisporosarcina	381.80	5.97	Transcription termination protein NusA
+PGF_00057488	Paenisporosarcina	128.40	2.61	Transcription termination protein NusB
+PGF_00058501	Paenisporosarcina	680.20	4.38	Transcriptional regulator BkdR of isoleucine and valine catabolism operon
+PGF_00058523	Paenisporosarcina	224.00	0.00	Transcriptional regulator DegU, LuxR family
+PGF_00058741	Paenisporosarcina	242.00	0.00	Transcriptional regulator in cluster with Zn-dependent hydrolase
+PGF_00058747	Paenisporosarcina	287.00	2.55	Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system
+PGF_00059216	Paenisporosarcina	73.00	0.00	Transcriptional regulator, DeoR family
+PGF_00060185	Paenisporosarcina	238.80	0.45	Transcriptional regulatory protein YeeN
+PGF_00060190	Paenisporosarcina	234.60	0.55	ABC transporter-like sensor linked response regulator YxdJ
+PGF_00060261	Paenisporosarcina	183.60	4.34	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060398	Paenisporosarcina	667.60	0.89	Transketolase (EC 2.2.1.1)
+PGF_00060409	Paenisporosarcina	691.40	0.55	Translation elongation factor G
+PGF_00060414	Paenisporosarcina	607.40	0.89	Translation elongation factor LepA
+PGF_00060421	Paenisporosarcina	185.80	0.45	Translation elongation factor P
+PGF_00060427	Paenisporosarcina	294.80	0.84	Translation elongation factor Ts
+PGF_00060428	Paenisporosarcina	395.00	0.00	Translation elongation factor Tu
+PGF_00060431	Paenisporosarcina	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Paenisporosarcina	168.00	0.00	Translation initiation factor 3
+PGF_00060769	Paenisporosarcina	408.20	4.60	Uncharacterized MFS-type transporter YuxJ
+PGF_00060799	Paenisporosarcina	292.20	7.16	Uncharacterized UPF0750 membrane protein YpjC
+PGF_00061922	Paenisporosarcina	408.00	0.00	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062002	Paenisporosarcina	284.40	4.77	Tryptophan 2,3-dioxygenase (EC 1.13.11.11)
+PGF_00062023	Paenisporosarcina	262.40	0.55	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Paenisporosarcina	401.80	0.45	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Paenisporosarcina	328.40	0.89	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062579	Paenisporosarcina	376.80	1.10	Sensor histidine kinase DesK
+PGF_00063916	Paenisporosarcina	420.80	0.45	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Paenisporosarcina	304.20	0.45	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Paenisporosarcina	358.00	0.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Paenisporosarcina	431.40	0.89	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064147	Paenisporosarcina	320.20	4.44	UPF0020, Putative RNA methylase family UPF0020
+PGF_00064169	Paenisporosarcina	300.80	1.10	Arginase (EC 3.5.3.1)
+PGF_00064244	Paenisporosarcina	491.60	5.81	Arginine decarboxylase (EC 4.1.1.19)
+PGF_00064251	Paenisporosarcina	387.40	1.67	UPF0229 protein YeaH
+PGF_00064298	Paenisporosarcina	220.20	1.10	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase (EC 3.1.3.87)
+PGF_00064359	Paenisporosarcina	149.20	0.45	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064517	Paenisporosarcina	435.00	0.00	Arginine utilization regulatory protein RocR
+PGF_00064600	Paenisporosarcina	457.20	1.10	Uncharacterized RNA methyltransferase YfjO
+PGF_00064602	Paenisporosarcina	275.80	10.73	Uncharacterized SAV1743 homolog
+PGF_00064857	Paenisporosarcina	300.80	1.79	Uncharacterized oxidoreductase YqkF
+PGF_00065372	Paenisporosarcina	123.20	2.17	Uncharacterized protein UPF0344
+PGF_00065379	Paenisporosarcina	394.40	1.82	Uncharacterized protein YaaN
+PGF_00065380	Paenisporosarcina	475.20	1.79	Uncharacterized protein YaaO
+PGF_00065384	Paenisporosarcina	414.60	27.06	Uncharacterized protein YabE
+PGF_00065678	Paenisporosarcina	734.60	2.88	Uncharacterized protein YqgF
+PGF_00065887	Paenisporosarcina	264.00	0.00	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Paenisporosarcina	209.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Paenisporosarcina	179.00	0.00	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Paenisporosarcina	221.80	2.95	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Paenisporosarcina	212.00	0.00	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066260	Paenisporosarcina	556.60	0.89	Urocanate hydratase (EC 4.2.1.49)
+PGF_00066270	Paenisporosarcina	349.20	0.45	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066435	Paenisporosarcina	614.80	0.45	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) YisO
+PGF_00066453	Paenisporosarcina	881.00	0.71	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Paenisporosarcina	431.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Paenisporosarcina	127.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066695	Paenisporosarcina	488.20	0.45	Vitamin B12 ABC transporter, ATP-binding protein BtuD / Adenosylcobinamide amidohydrolase (EC 3.5.1.90)
+PGF_00066906	Paenisporosarcina	291.80	0.45	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Paenisporosarcina	437.00	1.87	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066964	Paenisporosarcina	445.00	1.41	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Paenisporosarcina	346.40	0.89	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067378	Paenisporosarcina	256.00	2.24	Putative esterase YitV
+PGF_00067389	Paenisporosarcina	81.60	14.24	YlxP-like protein
+PGF_00067418	Paenisporosarcina	109.00	2.00	YuzD-like protein
+PGF_00067481	Paenisporosarcina	314.00	0.00	Probable metallo-hydrolase YqjP
+PGF_00067554	Paenisporosarcina	475.80	0.45	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067667	Paenisporosarcina	431.60	11.65	Zn-dependent protease
+PGF_00068417	Paenisporosarcina	143.40	3.78	Uncharacterized protein YneK
+PGF_00070068	Paenisporosarcina	1085.80	0.45	B12 binding domain / kinase domain / Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070244	Paenisporosarcina	349.80	1.30	BH0638 unknown conserved protein
+PGF_00070432	Paenisporosarcina	433.80	1.79	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070561	Paenisporosarcina	150.20	1.79	BH3430 unknown conserved protein
+PGF_00072452	Paenisporosarcina	171.40	0.89	Uncharacterized protein YwhD
+PGF_00074752	Paenisporosarcina	114.80	0.45	hypothetical protein
+PGF_00118588	Paenisporosarcina	225.40	4.67	Protease PrsW
+PGF_00145687	Paenisporosarcina	302.40	3.51	hypothetical protein
+PGF_00148528	Paenisporosarcina	198.80	0.45	hypothetical protein
+PGF_00166536	Paenisporosarcina	108.60	0.89	Uncharacterized protein YuiB
+PGF_00181170	Paenisporosarcina	232.20	3.90	hypothetical protein
+PGF_00197495	Paenisporosarcina	190.00	0.00	Putative acetyltransferase YjbC
+PGF_00224621	Paenisporosarcina	229.80	2.49	hypothetical protein
+PGF_00243841	Paenisporosarcina	264.00	0.00	hypothetical protein
+PGF_00250180	Paenisporosarcina	252.80	9.65	hypothetical protein
+PGF_00258564	Paenisporosarcina	295.20	1.79	hypothetical protein
+PGF_00261173	Paenisporosarcina	372.40	1.34	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00267624	Paenisporosarcina	144.20	1.10	hypothetical protein
+PGF_00271745	Paenisporosarcina	79.80	0.45	Uncharacterized membrane protein YqgY
+PGF_00272412	Paenisporosarcina	163.80	8.35	hypothetical protein
+PGF_00295226	Paenisporosarcina	357.20	3.27	Purine nucleoside ABC transporter, substrate-binding protein
+PGF_00308813	Paenisporosarcina	392.00	0.00	Uncharacterized MFS-type transporter YfkF
+PGF_00309959	Paenisporosarcina	69.00	0.00	Small, acid-soluble spore protein I
+PGF_00346814	Paenisporosarcina	207.40	1.52	DUF1054 superfamily protein
+PGF_00381050	Paenisporosarcina	99.40	0.89	Uncharacterized protein YneQ
+PGF_00403691	Paenisporosarcina	487.60	2.61	possible tetrapyrrole methyltransferase domain / Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00404078	Paenisporosarcina	167.60	2.07	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Paenisporosarcina	449.60	0.55	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404321	Paenisporosarcina	451.60	0.89	Biotin carboxylase of methylcrotonyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Paenisporosarcina	327.40	0.89	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404866	Paenisporosarcina	109.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00406692	Paenisporosarcina	934.20	2.17	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408683	Paenisporosarcina	291.00	1.41	Uncharacterized transporter YwfM
+PGF_00409415	Paenisporosarcina	284.00	9.11	UPF0750 membrane protein YvjA
+PGF_00412532	Paenisporosarcina	204.40	7.40	Transcriptional repressor CcpN, MarR family
+PGF_00413189	Paenisporosarcina	231.60	1.52	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Paenisporosarcina	157.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Paenisporosarcina	245.40	1.34	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Paenisporosarcina	249.00	0.00	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Paenisporosarcina	308.80	1.79	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Paenisporosarcina	629.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413554	Paenisporosarcina	155.00	0.00	tmRNA-binding protein SmpB
+PGF_00414366	Paenisporosarcina	572.00	0.00	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414889	Paenisporosarcina	215.40	0.89	CBS domain protein AcuB
+PGF_00414926	Paenisporosarcina	397.40	1.95	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Paenisporosarcina	377.40	1.34	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415436	Paenisporosarcina	401.80	0.45	glycoside hydrolase
+PGF_00415631	Paenisporosarcina	92.00	0.00	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416025	Paenisporosarcina	164.80	15.55	2H phosphoesterase superfamily protein Bsu1186 (yjcG)
+PGF_00416129	Paenisporosarcina	531.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416152	Paenisporosarcina	122.40	2.41	Cadmium efflux system accessory protein
+PGF_00416410	Paenisporosarcina	1065.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416436	Paenisporosarcina	312.40	0.89	3'->5' exoribonuclease Bsu YhaM
+PGF_00416517	Paenisporosarcina	514.00	0.71	Carbon-nitrogen hydrolase
+PGF_00416525	Paenisporosarcina	184.00	2.92	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416621	Paenisporosarcina	395.40	0.89	3'-to-5' oligoribonuclease B, Bacillus type
+PGF_00416674	Paenisporosarcina	319.00	106.81	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416683	Paenisporosarcina	332.20	0.45	Catabolite control protein A
+PGF_00417069	Paenisporosarcina	353.20	15.77	Cell division protein FtsW @ Stage V sporulation protein E
+PGF_00417093	Paenisporosarcina	97.40	0.89	Cell division protein GpsB, coordinates the switch between cylindrical and septal cell wall synthesis by re-localization of PBP1
+PGF_00417381	Paenisporosarcina	344.60	0.89	Central glycolytic genes regulator
+PGF_00417429	Paenisporosarcina	371.60	1.34	Chaperone protein DnaJ
+PGF_00417658	Paenisporosarcina	367.40	1.34	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417829	Paenisporosarcina	361.00	0.00	Chorismate mutase I (EC 5.4.99.5) / 2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00417839	Paenisporosarcina	122.00	1.41	Chorismate mutase II (EC 5.4.99.5)
+PGF_00417840	Paenisporosarcina	393.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00417995	Paenisporosarcina	237.00	1.00	Chromosome replication initiation protein DnaD
+PGF_00418368	Paenisporosarcina	276.80	0.45	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418737	Paenisporosarcina	448.20	3.63	ComF operon protein A, DNA transporter ATPase
+PGF_00419414	Paenisporosarcina	90.40	5.81	UPF0358 protein YlaN
+PGF_00419622	Paenisporosarcina	249.00	0.00	Coproheme decarboxylase HemQ (no EC)
+PGF_00419740	Paenisporosarcina	156.20	0.45	Transcriptional regulator CtsR
+PGF_00419915	Paenisporosarcina	279.20	3.27	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00419982	Paenisporosarcina	295.00	2.24	Cys regulon transcriptional activator CysB
+PGF_00420020	Paenisporosarcina	377.20	0.45	Cystathionine gamma-lyase (EC 4.4.1.1) @ Homocysteine desulfhydrase (EC 4.4.1.2)
+PGF_00420087	Paenisporosarcina	180.20	1.10	Cysteinyl-tRNA synthetase related protein
+PGF_00420121	Paenisporosarcina	224.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420404	Paenisporosarcina	110.40	0.55	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420500	Paenisporosarcina	552.00	0.00	Cytochrome c-type biogenesis protein Ccs1/ResB
+PGF_00420572	Paenisporosarcina	447.80	0.45	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420574	Paenisporosarcina	341.20	0.45	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_00420731	Paenisporosarcina	502.20	1.92	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420792	Paenisporosarcina	283.00	0.00	D-alanine aminotransferase (EC 2.6.1.21)
+PGF_00420798	Paenisporosarcina	361.60	1.14	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420891	Paenisporosarcina	331.00	10.07	D-aminopeptidase (EC 3.4.11.19)
+PGF_00421071	Paenisporosarcina	145.80	0.45	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Paenisporosarcina	515.20	2.17	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421181	Paenisporosarcina	101.20	4.55	DNA base-flipping protein
+PGF_00421489	Paenisporosarcina	1025.20	3.70	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421624	Paenisporosarcina	570.00	7.84	DNA polymerase X family
+PGF_00421679	Paenisporosarcina	623.40	26.88	DNA primase (EC 2.7.7.-)
+PGF_00421733	Paenisporosarcina	371.80	0.45	DNA recombination and repair protein RecF
+PGF_00421792	Paenisporosarcina	457.60	0.89	DNA repair protein RadA
+PGF_00421796	Paenisporosarcina	564.60	1.34	DNA repair protein RecN
+PGF_00421807	Paenisporosarcina	120.60	2.19	DNA replication intiation control protein YabA
+PGF_00422061	Paenisporosarcina	90.00	0.00	DNA-binding protein HBsu
+PGF_00422085	Paenisporosarcina	95.80	0.45	DNA-binding protein SpoVG
+PGF_00422153	Paenisporosarcina	215.20	0.45	Uncharacterized response regulator YhcZ
+PGF_00422186	Paenisporosarcina	238.00	0.00	DNA-binding response regulator ResD
+PGF_00422271	Paenisporosarcina	314.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422280	Paenisporosarcina	180.40	3.05	DNA-directed RNA polymerase delta subunit (EC 2.7.7.6)
+PGF_00422446	Paenisporosarcina	266.20	1.10	DUF124 domain-containing protein
+PGF_00422645	Paenisporosarcina	350.60	0.89	Deblocking aminopeptidase (EC 3.4.11.-)
+PGF_00422888	Paenisporosarcina	514.00	0.00	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422910	Paenisporosarcina	222.20	0.45	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxycytidine kinase (EC 2.7.1.74)
+PGF_00422924	Paenisporosarcina	211.60	0.89	Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00423089	Paenisporosarcina	362.20	5.45	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Paenisporosarcina	317.60	21.09	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423343	Paenisporosarcina	476.00	0.00	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Paenisporosarcina	121.80	0.45	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Paenisporosarcina	426.00	0.71	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Paenisporosarcina	554.20	1.79	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423433	Paenisporosarcina	161.60	0.89	Dimeric dUTPase (EC 3.6.1.23)
+PGF_00423472	Paenisporosarcina	925.60	3.13	DinG family ATP-dependent helicase YoaA
+PGF_00423474	Paenisporosarcina	635.20	1.79	DinG family ATP-dependent helicase YpvA
+PGF_00423533	Paenisporosarcina	288.00	0.00	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423593	Paenisporosarcina	237.20	33.06	Dipeptidyl aminopeptidases/acylaminoacyl-peptidase
+PGF_00423621	Paenisporosarcina	196.20	1.10	Dipicolinate synthase subunit B
+PGF_00424065	Paenisporosarcina	198.60	89.28	EcsC protein
+PGF_00424236	Paenisporosarcina	141.00	0.00	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424261	Paenisporosarcina	125.40	3.13	Uncharacterized protein YurQ
+PGF_00424337	Paenisporosarcina	294.80	0.45	Endonuclease IV (EC 3.1.21.2)
+PGF_00424569	Paenisporosarcina	257.20	1.64	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Paenisporosarcina	596.40	0.55	Excinuclease ABC subunit C
+PGF_00425011	Paenisporosarcina	252.60	2.51	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Paenisporosarcina	452.60	1.34	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Paenisporosarcina	1029.20	1.79	Exonuclease SbcC
+PGF_00425092	Paenisporosarcina	393.40	3.58	Exonuclease SbcD
+PGF_00425662	Paenisporosarcina	272.00	5.83	FIG00002411: Thioredoxin-fold protein
+PGF_00425665	Paenisporosarcina	254.40	1.67	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Paenisporosarcina	294.40	0.55	RNase adapter protein RapZ
+PGF_00425679	Paenisporosarcina	210.60	0.89	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425714	Paenisporosarcina	731.60	1.34	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425720	Paenisporosarcina	261.80	0.45	Putative RNA-binding protein YlmH
+PGF_00425729	Paenisporosarcina	427.40	2.51	FIG001621: Zinc protease
+PGF_00425734	Paenisporosarcina	120.00	0.00	FIG001802: Putative alkaline-shock protein
+PGF_00425747	Paenisporosarcina	155.40	2.88	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Paenisporosarcina	523.20	13.31	Ribonuclease Y
+PGF_00425787	Paenisporosarcina	226.60	1.34	FIG002379: metal-dependent hydrolase
+PGF_00425806	Paenisporosarcina	328.60	3.13	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Paenisporosarcina	382.20	0.45	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Paenisporosarcina	371.80	0.45	FIG004453: protein YceG like
+PGF_00426115	Paenisporosarcina	634.40	1.14	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Paenisporosarcina	374.20	6.18	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426730	Paenisporosarcina	186.60	0.89	UPF0398 protein YpsA
+PGF_00426782	Paenisporosarcina	404.60	2.19	5-methylthioribose kinase (EC 2.7.1.100)
+PGF_00426877	Paenisporosarcina	287.00	2.45	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Paenisporosarcina	154.80	0.45	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427033	Paenisporosarcina	72.00	0.00	UPF0154 protein YneF
+PGF_00438421	Paenisporosarcina	290.40	0.89	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00440726	Paenisporosarcina	167.80	1.79	FIG009886: phosphoesterase
+PGF_00464627	Paenisporosarcina	543.00	0.00	Sodium-dependent phosphate transporter
+PGF_00473519	Paenisporosarcina	202.00	0.00	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Paenisporosarcina	450.20	0.45	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00499795	Paenisporosarcina	111.40	2.88	Anti-sigma B factor antagonist RsbV
+PGF_00502238	Paenisporosarcina	371.60	1.34	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00529632	Paenisporosarcina	705.60	3.13	ClpB protein
+PGF_00591197	Paenisporosarcina	246.40	4.22	RNA polymerase sporulation specific sigma factor SigK
+PGF_00598888	Paenisporosarcina	142.00	1.73	Mini-ribonuclease III
+PGF_00625415	Paenisporosarcina	222.20	0.45	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00641071	Paenisporosarcina	326.60	0.89	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00641077	Paenisporosarcina	111.20	0.45	FIG139598: Potential ribosomal protein
+PGF_00641311	Paenisporosarcina	345.80	4.66	ABC transporter, permease protein (cluster 15, trp?)
+PGF_00650532	Paenisporosarcina	335.00	1.73	UPF0365 protein YqfA
+PGF_00659107	Paenisporosarcina	329.20	0.45	cation efflux family protein
+PGF_00659194	Paenisporosarcina	210.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Paenisporosarcina	116.20	0.45	Ribosomal silencing factor RsfA
+PGF_00667256	Paenisporosarcina	253.20	0.45	Hypothetical NagD-like phosphatase
+PGF_00682508	Paenisporosarcina	304.80	6.42	transporter, EamA family
+PGF_00694978	Paenisporosarcina	264.00	2.24	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00730148	Paenisporosarcina	638.40	1.95	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Sporulation peptidoglycan synthetase SpoVD
+PGF_00730331	Paenisporosarcina	114.80	1.64	Uncharacterized DUF1027 domain protein YutD
+PGF_00730798	Paenisporosarcina	126.20	0.45	Transcriptional regulator GlnR
+PGF_00732613	Paenisporosarcina	52.40	8.05	hypothetical protein
+PGF_00734482	Paenisporosarcina	691.00	0.00	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00748442	Paenisporosarcina	102.20	0.45	hypothetical protein
+PGF_00762954	Paenisporosarcina	61.00	0.00	Probable diacid tautomerase of unidentified natural substrate YwhB
+PGF_00776587	Paenisporosarcina	120.00	0.00	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Paenisporosarcina	236.60	0.55	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Paenisporosarcina	230.40	0.89	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00788787	Paenisporosarcina	91.80	0.45	Transition state regulatory protein AbrB
+PGF_00797662	Paenisporosarcina	146.40	0.89	CBS domain-containing protein YkuL
+PGF_00806303	Paenisporosarcina	508.00	0.00	TPR repeat-containing protein YvcD
+PGF_00814461	Paenisporosarcina	209.20	0.45	hypothetical protein
+PGF_00827555	Paenisporosarcina	587.80	3.35	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00828128	Paenisporosarcina	362.00	0.00	Putative aminopeptidase YsdC
+PGF_00828227	Paenisporosarcina	414.00	3.61	hypothetical protein
+PGF_00829085	Paenisporosarcina	502.20	3.56	transmembrane protein, distant homology with ydbT
+PGF_00840774	Paenisporosarcina	583.20	2.77	Heterodimeric efflux ABC transporter, multidrug resistance => BmrD subunit of BmrCD
+PGF_00846659	Paenisporosarcina	276.60	3.65	Polysaccharide deacetylase
+PGF_00853393	Paenisporosarcina	300.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Paenisporosarcina	409.20	0.45	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00912265	Paenisporosarcina	341.20	0.45	tRNA-dihydrouridine synthase DusB
+PGF_00924363	Paenisporosarcina	196.60	3.29	Substrate-specific component YkoE of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_00925844	Paenisporosarcina	463.40	3.85	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00931494	Paenisporosarcina	248.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADPH] (EC 1.3.1.10)
+PGF_00932867	Paenisporosarcina	190.00	5.87	Putative rRNA methylase YtqB
+PGF_00935308	Paenisporosarcina	256.80	1.79	FIG011178: rRNA methylase
+PGF_00950554	Paenisporosarcina	655.40	10.29	Excinuclease ABC subunit B
+PGF_00957419	Paenisporosarcina	140.60	0.89	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Paenisporosarcina	312.60	4.77	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00982352	Paenisporosarcina	647.60	3.78	Ribosome protection-type tetracycline resistance related proteins, group 2
+PGF_01008498	Paenisporosarcina	115.00	0.00	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01075683	Paenisporosarcina	132.00	0.00	Hemoglobin-like protein HbO
+PGF_01079016	Paenisporosarcina	278.80	0.45	Chromosome (plasmid) partitioning protein ParB
+PGF_01102287	Paenisporosarcina	675.60	382.23	Alkaline phosphatase (EC 3.1.3.1)
+PGF_01124177	Paenisporosarcina	416.00	4.00	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01124268	Paenisporosarcina	203.60	3.36	RecU Holliday junction resolvase
+PGF_01126005	Paenisporosarcina	394.00	1.41	Rod shape-determining protein RodA
+PGF_01127158	Paenisporosarcina	262.00	0.00	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01167921	Paenisporosarcina	156.00	0.00	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_01174739	Paenisporosarcina	251.60	2.61	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Paenisporosarcina	472.40	2.19	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01191170	Paenisporosarcina	159.00	0.00	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01212500	Paenisporosarcina	277.80	0.45	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Paenisporosarcina	542.60	0.89	Heat shock protein 60 family chaperone GroEL
+PGF_01223569	Paenisporosarcina	166.20	19.74	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Paenisporosarcina	168.80	7.73	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01296193	Paenisporosarcina	253.00	0.00	Chromosome (plasmid) partitioning protein ParA
+PGF_01305075	Paenisporosarcina	276.60	23.31	Inner membrane protein translocase and chaperone YidC, OxaA protein
+PGF_01313780	Paenisporosarcina	372.80	1.79	Uncharacterized peptidase YqjE
+PGF_01315291	Paenisporosarcina	413.60	7.70	Uncharacterized zinc protease YmxG
+PGF_01328579	Paenisporosarcina	309.60	1.34	Uncharacterized protease small subunit YrrN
+PGF_01350798	Paenisporosarcina	335.60	0.89	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351158	Paenisporosarcina	1179.60	1.52	Transcription-repair coupling factor
+PGF_01351690	Paenisporosarcina	515.20	0.45	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3); Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+PGF_01364427	Paenisporosarcina	206.00	0.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01380808	Paenisporosarcina	314.60	0.89	Phosphoglycerate dehydrogenase and related dehydrogenases
+PGF_01389077	Paenisporosarcina	75.20	0.45	Uncharacterized protein YbcJ
+PGF_01404160	Paenisporosarcina	310.40	1.52	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01416650	Paenisporosarcina	265.00	0.00	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Paenisporosarcina	148.60	8.62	Cell division protein MraZ
+PGF_01444054	Paenisporosarcina	754.60	8.91	ATP-dependent RNA helicase
+PGF_01444546	Paenisporosarcina	96.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448568	Paenisporosarcina	66.20	2.28	Uncharacterized protein YwbE
+PGF_01462542	Paenisporosarcina	170.40	4.93	CcdC protein
+PGF_01465362	Paenisporosarcina	139.00	1.73	Mn-dependent transcriptional regulator MntR
+PGF_01483918	Paenisporosarcina	290.00	0.00	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01513923	Paenisporosarcina	258.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01538186	Paenisporosarcina	116.00	0.00	Programmed cell death toxin YdcE
+PGF_01576148	Paenisporosarcina	159.00	0.00	transmembrane protein, distant homology with ydbS
+PGF_01603398	Paenisporosarcina	592.40	0.89	Efflux ABC transporter, permease/ATP-binding protein MdlB
+PGF_01604929	Paenisporosarcina	226.20	7.16	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01618915	Paenisporosarcina	343.60	0.89	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01670678	Paenisporosarcina	319.80	1.79	Purine nucleoside ABC transporter, permease protein 2
+PGF_01673335	Paenisporosarcina	275.40	2.88	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01674551	Paenisporosarcina	126.00	0.00	Glycine cleavage system H protein
+PGF_01675343	Paenisporosarcina	582.20	4.92	Heterodimeric efflux ABC transporter, multidrug resistance => BmrC subunit of BmrCD
+PGF_01675349	Paenisporosarcina	517.00	1.41	Purine nucleoside ABC transporter, ATP-binding protein
+PGF_01675591	Paenisporosarcina	271.60	5.90	Putative phosphatase YitU
+PGF_01677191	Paenisporosarcina	315.20	2.59	Sporulation transcription regulator WhiA
+PGF_01677463	Paenisporosarcina	187.60	1.34	RNA polymerase sigma factor SigW
+PGF_01682834	Paenisporosarcina	158.60	0.89	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Paenisporosarcina	262.80	1.79	DNA recombination and repair protein RecO
+PGF_01734668	Paenisporosarcina	217.20	0.45	Adenylate kinase (EC 2.7.4.3)
+PGF_01751397	Paenisporosarcina	310.40	2.07	Adenine-specific methyltransferase (EC 2.1.1.72)
+PGF_01752845	Paenisporosarcina	255.80	0.45	2,4-dienoyl-CoA reductase (EC 1.3.1.34)
+PGF_01767358	Paenisporosarcina	253.20	0.45	HesA/MoeB/ThiF family protein
+PGF_01841446	Paenisporosarcina	484.20	0.45	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01842781	Paenisporosarcina	556.80	0.45	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Paenisporosarcina	283.20	1.10	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Paenisporosarcina	344.40	0.55	Heat-inducible transcription repressor HrcA
+PGF_01898497	Paenisporosarcina	218.80	0.45	Endonuclease III (EC 4.2.99.18)
+PGF_01899042	Paenisporosarcina	350.60	0.55	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01899098	Paenisporosarcina	135.60	8.17	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01899937	Paenisporosarcina	299.40	1.95	Rod shape-determining protein MreC
+PGF_01900530	Paenisporosarcina	233.60	0.89	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900753	Paenisporosarcina	366.20	0.45	Prephenate dehydrogenase (EC 1.3.1.12)
+PGF_01900807	Paenisporosarcina	282.20	2.17	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01910737	Paenisporosarcina	208.00	0.00	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01933275	Paenisporosarcina	210.80	0.45	HD domain protein
+PGF_01933362	Paenisporosarcina	209.00	0.71	Spore coat protein F-like protein YhcQ
+PGF_01942824	Paenisporosarcina	348.20	53.23	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01960322	Paenisporosarcina	599.80	0.45	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01981332	Paenisporosarcina	156.60	6.35	Transcriptional regulator, AsnC family
+PGF_01994657	Paenisporosarcina	428.00	1.22	Cell division trigger factor (EC 5.2.1.8)
+PGF_02009924	Paenisporosarcina	394.80	3.27	UPF0118 membrane protein YubA
+PGF_02011560	Paenisporosarcina	357.40	6.11	ABC transporter-like sensor linked histidine kinase YvcQ
+PGF_02015262	Paenisporosarcina	313.00	0.71	Helicase loader DnaI
+PGF_02019462	Paenisporosarcina	345.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02019584	Paenisporosarcina	133.20	2.68	Regulatory protein Spx
+PGF_02026136	Paenisporosarcina	290.00	4.69	Uncharacterized S1 RNA binding domain protein YitL
+PGF_02029783	Paenisporosarcina	428.80	0.45	GTP-binding protein Obg
+PGF_02031924	Paenisporosarcina	241.60	4.28	Uncharacterized DUF554 membrane protein
+PGF_02038611	Paenisporosarcina	111.40	0.89	Broad-specificity multidrug efflux pump YkkC
+PGF_02061452	Paenisporosarcina	379.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02098099	Paenisporosarcina	502.80	5.76	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02111888	Paenisporosarcina	325.00	0.00	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02154745	Paenisporosarcina	1441.20	2.39	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02162014	Paenisporosarcina	212.00	0.71	Uncharacterized membrane protein YhjE
+PGF_02177520	Paenisporosarcina	260.00	0.00	RNA polymerase sporulation specific sigma factor SigF
+PGF_02185217	Paenisporosarcina	432.00	3.94	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02204321	Paenisporosarcina	346.00	0.00	Twitching motility protein PilT
+PGF_02226715	Paenisporosarcina	682.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227578	Paenisporosarcina	225.40	0.55	Putative membrane protease YugP
+PGF_02254418	Paenisporosarcina	366.60	0.89	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57) @ Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_02265871	Paenisporosarcina	174.80	1.64	Inosine/xanthosine triphosphatase (EC 3.6.1.-)
+PGF_02330496	Paenisporosarcina	419.40	3.71	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Paenisporosarcina	321.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Paenisporosarcina	875.40	0.89	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Paenisporosarcina	370.80	4.60	Alanine racemase (EC 5.1.1.1)
+PGF_02434074	Paenisporosarcina	383.00	0.00	ATP-dependent RNA helicase YfmL
+PGF_02450432	Paenisporosarcina	264.20	1.10	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Paenisporosarcina	81.40	1.34	SSU ribosomal protein S20p
+PGF_02463284	Paenisporosarcina	198.00	0.00	Recombination protein RecR
+PGF_02473354	Paenisporosarcina	543.40	11.57	Glucosaminyl-malate:cysteine ligase
+PGF_02473679	Paenisporosarcina	550.20	2.17	Type IV fimbrial assembly, ATPase PilB
+PGF_02481237	Paenisporosarcina	715.80	1.64	Uncharacterized bis 4Fe-4S ferredoxin, membrane protein FadF (repressed by FadR)
+PGF_02489591	Paenisporosarcina	206.80	5.72	Uncharacterized Nudix hydrolase NudL
+PGF_02516666	Paenisporosarcina	364.40	4.34	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Paenisporosarcina	431.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02518965	Paenisporosarcina	269.80	0.45	Regulatory protein RecX
+PGF_02522403	Paenisporosarcina	388.00	0.00	Pheromone shutdown protein
+PGF_02587605	Paenisporosarcina	136.00	0.00	Zinc uptake regulation protein Zur
+PGF_02593689	Paenisporosarcina	450.20	0.45	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Paenisporosarcina	451.60	1.52	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02611683	Paenisporosarcina	67.00	0.00	Uncharacterized protein YlaI
+PGF_02613121	Paenisporosarcina	244.20	2.17	FIG01225447: hypothetical protein
+PGF_02619921	Paenisporosarcina	367.00	0.00	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+PGF_02623406	Paenisporosarcina	316.40	0.55	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627816	Paenisporosarcina	210.60	0.89	FIG011945: O-methyltransferase family protein
+PGF_02643324	Paenisporosarcina	145.60	0.89	Uncharacterized protein YmaD
+PGF_02645954	Paenisporosarcina	90.00	0.00	UPF0298 protein YlbG
+PGF_02652319	Paenisporosarcina	185.20	6.10	UPF0340 protein YwlG
+PGF_02704551	Paenisporosarcina	1200.00	0.00	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Paenisporosarcina	193.00	0.00	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02708612	Paenisporosarcina	205.60	1.34	Uncharacterized protein YheG
+PGF_02728524	Paenisporosarcina	858.20	2.49	DNA mismatch repair protein MutS
+PGF_02746016	Paenisporosarcina	231.20	1.79	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02773452	Paenisporosarcina	178.80	1.79	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+PGF_02788357	Paenisporosarcina	606.60	0.89	Two-component sensor kinase SA14-24
+PGF_02789532	Paenisporosarcina	272.20	20.54	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Paenisporosarcina	233.60	3.36	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Paenisporosarcina	466.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Paenisporosarcina	1183.20	0.45	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02816951	Paenisporosarcina	189.40	0.55	hypothetical protein
+PGF_02817505	Paenisporosarcina	183.20	3.27	hypothetical protein
+PGF_02818492	Paenisporosarcina	371.00	0.00	Sensor histidine kinase YhcY
+PGF_02820109	Paenisporosarcina	189.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02829981	Paenisporosarcina	628.00	9.25	Bis-ABC ATPase BA0228
+PGF_02830955	Paenisporosarcina	199.80	0.45	Transcriptional response regulator DesR, LuxR family
+PGF_02836627	Paenisporosarcina	331.00	0.00	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02838109	Paenisporosarcina	173.40	4.88	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Paenisporosarcina	262.80	2.68	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Paenisporosarcina	402.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866866	Paenisporosarcina	311.00	2.45	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02888001	Paenisporosarcina	291.80	26.36	Stage II sporulation protein D (SpoIID)
+PGF_02890229	Paenisporosarcina	534.00	0.00	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02895613	Paenisporosarcina	435.60	0.89	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02896192	Paenisporosarcina	348.00	0.00	Purine nucleoside ABC transporter, permease protein 1
+PGF_02897045	Paenisporosarcina	555.00	0.00	Ribonuclease J2 (endoribonuclease in RNA processing)
+PGF_02898096	Paenisporosarcina	494.80	0.45	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Paenisporosarcina	66.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Paenisporosarcina	720.40	2.61	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02917467	Paenisporosarcina	239.20	0.45	YLXX protein
+PGF_02922961	Paenisporosarcina	99.40	0.89	FIG004454: RNA binding protein
+PGF_02923127	Paenisporosarcina	241.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02944756	Paenisporosarcina	391.00	0.00	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Paenisporosarcina	379.60	1.34	SSU ribosomal protein S1p
+PGF_02947204	Paenisporosarcina	528.60	0.89	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Paenisporosarcina	265.20	0.45	Septum site-determining protein MinD
+PGF_02970853	Paenisporosarcina	117.60	0.89	Small basic protein Sbp
+PGF_02992495	Paenisporosarcina	75.00	0.00	Protein translocase membrane subunit SecG
+PGF_02997723	Paenisporosarcina	151.00	0.00	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03002395	Paenisporosarcina	303.40	7.54	Uncharacterized lipase YqhO
+PGF_03011298	Paenisporosarcina	149.80	1.30	ComK regulator YlbF
+PGF_03017978	Paenisporosarcina	202.40	1.34	Septum formation protein Maf
+PGF_03026450	Paenisporosarcina	1192.20	4.60	Chromosome partition protein smc
+PGF_03028237	Paenisporosarcina	425.20	6.98	Uncharacterized flavin-containing protein YtfP
+PGF_03029062	Paenisporosarcina	303.20	0.45	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03029859	Paenisporosarcina	625.00	1.00	Bis-ABC ATPase Uup
+PGF_03056554	Paenisporosarcina	188.60	0.89	Uncharacterized protein SAV1929
+PGF_03058789	Paenisporosarcina	379.00	0.00	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03070587	Paenisporosarcina	397.00	0.00	Ornithine aminotransferase (EC 2.6.1.13)
+PGF_03076739	Paenisporosarcina	155.00	7.28	Uncharacterized transcriptional regulator YsmB, MarR family
+PGF_03081665	Paenisporosarcina	86.20	0.45	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03084693	Paenisporosarcina	540.40	3.85	FIG006789: Stage V sporulation protein
+PGF_03110657	Paenisporosarcina	701.00	6.75	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111948	Paenisporosarcina	257.00	0.00	Electron transfer flavoprotein, beta subunit
+PGF_03111988	Paenisporosarcina	172.00	5.61	Cell division initiation protein DivIVA
+PGF_03117711	Paenisporosarcina	189.40	0.89	Hydrolase (HAD superfamily), YqeK
+PGF_03121715	Paenisporosarcina	259.40	3.36	FIG01225377: hypothetical protein
+PGF_03122609	Paenisporosarcina	424.80	0.45	Uncharacterized protease large subunit YrrO
+PGF_03124650	Paenisporosarcina	488.60	0.89	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03128546	Paenisporosarcina	205.00	3.81	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
+PGF_03136340	Paenisporosarcina	510.00	0.00	Superfamily II DNA/RNA helicases, SNF2 family
+PGF_03145455	Paenisporosarcina	325.00	0.00	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03146406	Paenisporosarcina	584.40	0.55	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03147273	Paenisporosarcina	147.40	3.05	Nitrite-sensitive transcriptional repressor NsrR
+PGF_03152833	Paenisporosarcina	275.00	1.87	Ku domain protein
+PGF_03174068	Paenisporosarcina	174.40	15.61	Transcription antitermination protein NusG
+PGF_03222913	Paenisporosarcina	135.00	0.71	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03226402	Paenisporosarcina	175.80	1.10	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase (EC 1.13.11.54)
+PGF_03244749	Paenisporosarcina	523.20	1.30	Bis-ABC ATPase SPy1206
+PGF_03272313	Paenisporosarcina	847.40	4.28	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Paenisporosarcina	62.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03281686	Paenisporosarcina	65.00	0.00	Uncharacterized protein YozC
+PGF_03291914	Paenisporosarcina	137.80	1.64	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03351651	Paenisporosarcina	584.00	0.00	Efflux ABC transporter, permease/ATP-binding protein MdlA
+PGF_03429638	Paenisporosarcina	292.80	0.45	33 kDa chaperonin HslO
+PGF_03439690	Paenisporosarcina	151.80	2.86	Ferric uptake regulation protein FUR
+PGF_03441843	Paenisporosarcina	789.20	2.68	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03448459	Paenisporosarcina	128.20	1.64	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03456282	Paenisporosarcina	168.40	1.52	Uncharacterized protein YwgA
+PGF_03456505	Paenisporosarcina	459.00	5.83	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03460365	Paenisporosarcina	282.20	1.79	hypothetical protein
+PGF_03461748	Paenisporosarcina	121.00	0.00	hypothetical protein
+PGF_03461830	Paenisporosarcina	159.40	0.55	hypothetical protein
+PGF_03462401	Paenisporosarcina	267.40	0.89	Peptidoglycan-N-acetylmuramic acid deacetylase PdaA
+PGF_03466304	Paenisporosarcina	282.40	1.52	Quorum-quenching lactonase YtnP
+PGF_03470321	Paenisporosarcina	176.60	1.34	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03473104	Paenisporosarcina	321.80	3.03	tRNA-dihydrouridine synthase 2
+PGF_03518570	Paenisporosarcina	148.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Paenisporosarcina	389.60	3.21	Cell division protein FtsZ
+PGF_03574598	Paenisporosarcina	349.20	0.84	Lon-like protease with PDZ domain
+PGF_03609651	Paenisporosarcina	651.40	1.95	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03684283	Paenisporosarcina	417.20	2.28	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03708253	Paenisporosarcina	61.00	0.00	Protein translocase subunit SecE
+PGF_03719269	Paenisporosarcina	195.80	0.45	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Paenisporosarcina	150.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750541	Paenisporosarcina	353.00	0.00	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750571	Paenisporosarcina	448.00	0.71	Chromosomal replication initiator protein DnaA
+PGF_03750600	Paenisporosarcina	158.20	0.45	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Paenisporosarcina	78.60	3.13	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Paenisporosarcina	188.60	6.15	Heat shock protein GrpE
+PGF_03752544	Paenisporosarcina	219.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03753933	Paenisporosarcina	142.40	7.06	Iron-sulfur cluster regulator IscR
+PGF_03755656	Paenisporosarcina	158.00	0.00	Uncharacterized membrane protein YuiD
+PGF_03755892	Paenisporosarcina	344.40	5.50	Fatty acid desaturase
+PGF_03757137	Paenisporosarcina	456.00	0.71	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03761031	Paenisporosarcina	490.20	13.31	hypothetical protein; putative phospholipase D endonuclease domain
+PGF_03768099	Paenisporosarcina	260.00	0.00	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03778780	Paenisporosarcina	335.40	3.21	Signal recognition particle receptor FtsY
+PGF_03787199	Paenisporosarcina	192.40	0.89	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Paenisporosarcina	422.00	6.63	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Paenisporosarcina	254.40	1.34	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Paenisporosarcina	270.20	0.45	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802330	Paenisporosarcina	201.00	0.00	Phenylalanyl-tRNA synthetase domain protein (Bsu YtpR)
+PGF_03804538	Paenisporosarcina	620.80	0.45	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03856084	Paenisporosarcina	668.00	2.24	Cell division protein FtsH
+PGF_03889350	Paenisporosarcina	293.40	3.13	Uncharacterized protein YgxA
+PGF_03912513	Paenisporosarcina	149.60	1.34	DNA protection during starvation protein
+PGF_03939428	Paenisporosarcina	127.60	7.27	hypothetical protein
+PGF_03954476	Paenisporosarcina	251.00	0.00	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03978449	Paenisporosarcina	79.20	0.45	hypothetical protein
+PGF_03999196	Paenisporosarcina	815.20	2.17	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04016408	Paenisporosarcina	513.00	1.22	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019277	Paenisporosarcina	289.00	0.00	Nitric oxide reductase activation protein NorQ
+PGF_04024952	Paenisporosarcina	455.40	1.34	5'-nucleotidase family protein in cluster with NagD-like phosphatase
+PGF_04025415	Paenisporosarcina	127.40	1.14	Large-conductance mechanosensitive channel
+PGF_04034430	Paenisporosarcina	57.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Paenisporosarcina	77.20	0.45	KH domain RNA binding protein YlqC
+PGF_04041316	Paenisporosarcina	965.60	1.52	Excinuclease ABC subunit A
+PGF_04047265	Paenisporosarcina	84.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04147121	Paenisporosarcina	492.40	2.07	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04150742	Paenisporosarcina	286.80	2.68	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Paenisporosarcina	171.00	0.71	16S rRNA processing protein RimM
+PGF_04156755	Paenisporosarcina	94.00	0.00	Na(+) H(+) antiporter subunit F
+PGF_04182459	Paenisporosarcina	221.40	14.76	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Paenisporosarcina	255.20	3.27	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04240134	Paenisporosarcina	303.20	1.30	hypothetical protein
+PGF_04267011	Paenisporosarcina	1021.00	1.22	RND efflux system, inner membrane transporter
+PGF_04327282	Paenisporosarcina	274.00	1.22	Squalene synthase (EC 2.5.1.21)
+PGF_04345693	Paenisporosarcina	455.40	1.34	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04424114	Paenisporosarcina	388.00	4.30	L-lysine dehydrogenase
+PGF_04431830	Paenisporosarcina	501.40	2.61	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04457297	Paenisporosarcina	190.60	1.95	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Paenisporosarcina	319.00	0.00	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04477106	Paenisporosarcina	349.80	7.66	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04481164	Paenisporosarcina	87.00	0.00	Veg protein
+PGF_04505269	Paenisporosarcina	237.60	1.34	SSU ribosomal protein S2p (SAe)
+PGF_04560429	Paenisporosarcina	456.40	1.34	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04567743	Paenisporosarcina	395.80	3.49	Flavohemoglobin / Nitric oxide dioxygenase (EC 1.14.12.17)
+PGF_04569524	Paenisporosarcina	502.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Paenisporosarcina	253.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04662829	Paenisporosarcina	640.60	0.89	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Paenisporosarcina	220.00	1.22	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04730942	Paenisporosarcina	179.60	1.95	Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter
+PGF_04749763	Paenisporosarcina	783.80	135.22	Translation initiation factor 2
+PGF_04788810	Paenisporosarcina	187.40	0.89	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Paenisporosarcina	307.80	1.64	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Paenisporosarcina	114.20	0.45	LSU ribosomal protein L19p
+PGF_04846590	Paenisporosarcina	320.20	0.45	Magnesium and cobalt transport protein CorA
+PGF_04872827	Paenisporosarcina	271.40	37.14	Chromosome (plasmid) partitioning protein ParB-2
+PGF_04962192	Paenisporosarcina	772.00	1.58	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Paenisporosarcina	74.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04973327	Paenisporosarcina	719.40	1.95	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Penicillin-binding protein 2B
+PGF_04978890	Paenisporosarcina	102.00	0.00	LSU ribosomal protein L21p
+PGF_05022117	Paenisporosarcina	534.60	0.89	Bis-ABC ATPase YbiT
+PGF_05062134	Paenisporosarcina	265.00	0.00	ABC transporter, ATP-binding protein (cluster 15, trp?)
+PGF_05091456	Paenisporosarcina	305.80	3.96	Uncharacterized inner membrane protein RarD
+PGF_05111929	Paenisporosarcina	783.40	1.34	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05113267	Paenisporosarcina	303.60	1.95	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_05135220	Paenisporosarcina	803.80	0.45	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05151061	Paenisporosarcina	156.40	1.14	hypothetical protein
+PGF_05165078	Paenisporosarcina	313.00	0.00	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05192570	Paenisporosarcina	274.00	0.00	D-aminopeptidase dipeptide-binding protein DppA (EC 3.4.11.-)
+PGF_05195027	Paenisporosarcina	471.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05269328	Paenisporosarcina	432.80	0.45	DEAD-box ATP-dependent RNA helicase CshB (EC 3.6.4.13)
+PGF_05377575	Paenisporosarcina	248.40	1.34	ABC transporter, ATP-binding protein EcsA
+PGF_05439724	Paenisporosarcina	667.40	0.55	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05444169	Paenisporosarcina	289.80	0.45	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05463076	Paenisporosarcina	470.20	4.27	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05463808	Paenisporosarcina	266.40	0.89	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Paenisporosarcina	599.00	2.12	DNA mismatch repair protein MutL
+PGF_05514537	Paenisporosarcina	800.60	9.74	hypothetical protein
+PGF_05560886	Paenisporosarcina	279.60	2.19	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05579323	Paenisporosarcina	356.40	0.89	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Paenisporosarcina	429.80	0.45	Protein translocase subunit SecY
+PGF_05598173	Paenisporosarcina	366.40	0.89	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Paenisporosarcina	411.40	0.55	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05714136	Paenisporosarcina	119.40	0.55	FIG138056: a glutathione-dependent thiol reductase
+PGF_05837052	Paenisporosarcina	428.40	1.95	Isocitrate lyase (EC 4.1.3.1)
+PGF_05925776	Paenisporosarcina	293.20	0.45	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05971611	Paenisporosarcina	403.80	1.79	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06000040	Paenisporosarcina	402.60	0.89	Type IV fimbrial assembly protein PilC
+PGF_06005188	Paenisporosarcina	656.80	0.45	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06016284	Paenisporosarcina	77.40	0.55	NifU-like domain protein
+PGF_06051345	Paenisporosarcina	854.00	0.71	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06084258	Paenisporosarcina	408.60	3.71	Serine protease, DegP/HtrA, do-like (EC 3.4.21.-)
+PGF_06103095	Paenisporosarcina	85.00	0.00	Catabolite repression HPr-like protein Crh
+PGF_06111528	Paenisporosarcina	378.20	0.45	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06115957	Paenisporosarcina	400.40	0.55	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Paenisporosarcina	1164.20	0.45	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06170558	Paenisporosarcina	159.40	0.55	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Paenisporosarcina	145.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Paenisporosarcina	94.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Paenisporosarcina	297.00	2.24	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06287652	Paenisporosarcina	255.40	3.78	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06364262	Paenisporosarcina	234.80	0.45	Two-component response regulator SA14-24
+PGF_06403579	Paenisporosarcina	775.00	1.73	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06459503	Paenisporosarcina	652.00	6.20	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06481545	Paenisporosarcina	480.00	4.47	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06530721	Paenisporosarcina	215.40	2.07	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06586947	Paenisporosarcina	381.00	5.66	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06589185	Paenisporosarcina	594.20	1.79	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06644010	Paenisporosarcina	309.40	0.89	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06649360	Paenisporosarcina	192.80	3.19	Segregation and condensation protein B
+PGF_06659440	Paenisporosarcina	253.00	0.00	hypothetical protein
+PGF_06660046	Paenisporosarcina	908.60	3.21	Helicase, SNF2/RAD54 family
+PGF_06671388	Paenisporosarcina	201.20	1.64	Carboxylesterase (EC 3.1.1.1)
+PGF_06693963	Paenisporosarcina	106.00	0.00	Nucleoid-associated protein YaaK
+PGF_06701488	Paenisporosarcina	247.20	1.10	RNA-binding protein Jag
+PGF_06735060	Paenisporosarcina	742.80	0.45	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Paenisporosarcina	337.20	6.61	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_07072294	Paenisporosarcina	324.20	0.45	Electron transfer flavoprotein, alpha subunit
+PGF_07072582	Paenisporosarcina	375.60	0.89	RNA polymerase sigma factor RpoD
+PGF_07263029	Paenisporosarcina	347.80	3.49	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07426744	Paenisporosarcina	248.00	0.00	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08059715	Paenisporosarcina	389.20	0.45	hypothetical protein
+PGF_08082398	Paenisporosarcina	337.00	0.00	Protease IV
+PGF_08133003	Paenisporosarcina	392.40	1.34	NAD-independent protein deacetylase AcuC
+PGF_08133058	Paenisporosarcina	357.40	2.07	hypothetical protein
+PGF_08149255	Paenisporosarcina	373.00	37.15	FtsW-like protein YlaO
+PGF_08187921	Paenisporosarcina	168.20	3.96	hypothetical protein
+PGF_08199027	Paenisporosarcina	511.60	3.71	Inner membrane protein YqiK

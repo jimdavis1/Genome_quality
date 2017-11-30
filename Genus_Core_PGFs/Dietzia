@@ -1,0 +1,980 @@
+PGF_00000494	Dietzia	183.00	0.00	FIG00816212: Putative membrane protein
+PGF_00000568	Dietzia	112.82	3.92	FIG00820327: hypothetical protein
+PGF_00000582	Dietzia	225.82	5.71	FIG00820733: hypothetical protein, Rv0207c
+PGF_00001331	Dietzia	227.09	3.62	Endonuclease NucS
+PGF_00001344	Dietzia	286.09	0.30	FIG00999917: Enoyl-CoA hydratase
+PGF_00001720	Dietzia	374.73	11.42	ABC transporter ATP-binding protein SCO2422
+PGF_00001849	Dietzia	167.70	4.11	FIG01122152: hypothetical protein
+PGF_00002542	Dietzia	138.55	2.54	FIG017342: transmembrane protein
+PGF_00002584	Dietzia	671.36	2.46	FIG019045: long form Mg-chelase associated protein with vWA domain
+PGF_00002835	Dietzia	273.09	3.62	O-antigen export system, ATP-binding protein
+PGF_00003179	Dietzia	198.09	3.30	FIG049476: HIT family protein
+PGF_00003671	Dietzia	404.10	138.80	FIG149030: hypothetical protein
+PGF_00003777	Dietzia	226.08	20.80	FMN reductase (EC 1.5.1.29)
+PGF_00004381	Dietzia	504.00	12.29	Ferredoxin--NADP(+) reductase, actinobacterial (eukaryote-like) type (EC 1.18.1.2)
+PGF_00004392	Dietzia	565.73	6.07	Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)
+PGF_00006046	Dietzia	318.33	99.15	Flp pilus assembly protein, ATPase CpaF
+PGF_00006320	Dietzia	288.82	2.71	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006378	Dietzia	335.36	2.11	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006394	Dietzia	345.82	0.98	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006449	Dietzia	565.00	0.00	Fumarate hydratase class I (EC 4.2.1.2)
+PGF_00006461	Dietzia	467.36	1.21	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Dietzia	543.09	19.67	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Dietzia	361.00	3.46	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Dietzia	488.36	3.41	GTP-binding protein EngA
+PGF_00007027	Dietzia	302.00	0.00	GTP-binding protein Era
+PGF_00007028	Dietzia	473.36	13.80	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007632	Dietzia	339.73	0.90	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007982	Dietzia	293.00	0.00	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00008024	Dietzia	318.36	28.30	Glucosyl-3-phosphoglycerate synthase (EC 2.4.1.266)
+PGF_00008061	Dietzia	355.91	40.81	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Dietzia	406.36	2.38	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Dietzia	269.00	11.60	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Dietzia	411.36	103.47	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008249	Dietzia	303.91	15.35	Glutamine cyclotransferase
+PGF_00008334	Dietzia	430.91	72.68	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Dietzia	491.18	7.12	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008537	Dietzia	518.55	1.51	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Dietzia	332.27	3.41	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Dietzia	958.73	1.85	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Dietzia	240.55	12.07	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009131	Dietzia	298.10	0.32	Glycosyl transferase, family 2
+PGF_00009500	Dietzia	197.09	5.45	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009662	Dietzia	457.30	0.67	Glycosyltransferase
+PGF_00009966	Dietzia	481.82	15.19	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Dietzia	254.91	29.91	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Dietzia	782.55	21.97	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Dietzia	200.45	0.93	Guanylate kinase (EC 2.7.4.8)
+PGF_00011321	Dietzia	319.18	19.51	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011576	Dietzia	248.45	16.10	Heteromeric decaprenylphosphoryl-beta-D-ribose 2'-epimerase (EC 1.1.1.333) subunit DprE2
+PGF_00011578	Dietzia	485.42	6.65	Heteromeric decaprenylphosphoryl-beta-D-ribose 2'-epimerase (EC 1.1.98.3) subunit DprE1
+PGF_00011979	Dietzia	452.82	11.68	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Dietzia	367.55	3.08	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Dietzia	445.64	7.51	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Dietzia	320.18	3.84	Homoserine kinase (EC 2.7.1.39)
+PGF_00012430	Dietzia	136.82	9.46	HspR, transcriptional repressor of DnaK operon
+PGF_00013283	Dietzia	244.09	6.93	UPF0001 protein YggS
+PGF_00013509	Dietzia	533.18	35.88	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Dietzia	207.27	0.90	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Dietzia	271.91	6.33	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014306	Dietzia	168.91	3.62	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Dietzia	510.73	0.90	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014314	Dietzia	380.00	3.32	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00014381	Dietzia	362.64	2.11	Inositol-1-phosphate synthase (EC 5.5.1.4)
+PGF_00014855	Dietzia	282.82	0.60	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00014938	Dietzia	107.00	0.00	Integration host factor MihF
+PGF_00015142	Dietzia	79.64	1.12	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Dietzia	272.27	0.90	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Dietzia	328.36	1.21	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015467	Dietzia	230.00	5.46	Iron-dependent repressor IdeR/DtxR
+PGF_00015510	Dietzia	255.91	0.30	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Dietzia	483.55	0.93	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Dietzia	402.64	2.11	Iron-sulfur cluster assembly protein SufD
+PGF_00015543	Dietzia	225.82	40.49	Iron-sulfur cluster regulator SufR
+PGF_00015703	Dietzia	760.60	11.47	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Dietzia	1069.73	4.31	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015735	Dietzia	191.20	7.76	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Dietzia	337.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015972	Dietzia	154.91	15.92	L-2,4-diaminobutyric acid acetyltransferase (EC 2.3.1.178)
+PGF_00016074	Dietzia	413.36	9.38	L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC (EC 6.3.1.13)
+PGF_00016083	Dietzia	139.36	2.11	L-ectoine synthase (EC 4.2.1.108)
+PGF_00016124	Dietzia	396.45	6.33	L-gulono-1,4-lactone oxidase (EC 1.1.3.8)
+PGF_00016132	Dietzia	315.40	3.95	L-lactate dehydrogenase (EC 1.1.1.27)
+PGF_00016175	Dietzia	339.36	13.90	L-malyl-CoA/beta-methylmalyl-CoA lyase (EC 4.1.3.-), actinobacterial type
+PGF_00016284	Dietzia	265.64	1.21	LOG family protein
+PGF_00016328	Dietzia	170.18	0.60	LSU ribosomal protein L10p (P0)
+PGF_00016338	Dietzia	422.27	0.90	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Dietzia	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Dietzia	148.73	0.47	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Dietzia	138.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Dietzia	196.73	26.48	LSU ribosomal protein L17p
+PGF_00016353	Dietzia	131.73	1.01	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Dietzia	240.73	1.01	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Dietzia	126.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Dietzia	101.55	9.55	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Dietzia	142.18	3.12	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Dietzia	100.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Dietzia	104.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Dietzia	87.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Dietzia	278.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Dietzia	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016416	Dietzia	54.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Dietzia	47.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Dietzia	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016425	Dietzia	40.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016431	Dietzia	221.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Dietzia	228.36	3.23	LSU ribosomal protein L4p (L1e)
+PGF_00016444	Dietzia	178.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016613	Dietzia	355.73	28.88	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_00016787	Dietzia	303.91	6.33	Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)
+PGF_00016824	Dietzia	714.00	8.81	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+PGF_00017479	Dietzia	338.55	4.66	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017540	Dietzia	649.73	5.44	Polyketide synthase modules and related proteins @ Long-chain fatty-acid-AMP ligase, Mycobacterial subgroup FadD32
+PGF_00017729	Dietzia	437.80	16.63	Lycopene elongase (EC 2.5.1.-)
+PGF_00018212	Dietzia	341.40	2.95	MCE-family protein MceC
+PGF_00018956	Dietzia	333.00	5.48	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018965	Dietzia	726.55	1.81	Malate synthase G (EC 2.3.3.9)
+PGF_00019051	Dietzia	599.80	33.19	Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141)
+PGF_00019108	Dietzia	829.27	5.87	Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)
+PGF_00019145	Dietzia	431.09	19.25	Maltodextrin ABC transporter, substrate-binding protein MdxE
+PGF_00019217	Dietzia	318.80	21.50	Manganese ABC transporter, periplasmic-binding protein SitA
+PGF_00019307	Dietzia	406.00	2.37	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019965	Dietzia	129.64	4.46	Membrane protein Rv3632, enhances catalytic activity of PpgS
+PGF_00020173	Dietzia	319.18	4.07	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Dietzia	160.55	1.29	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020611	Dietzia	671.36	7.59	Metallopeptidase
+PGF_00020981	Dietzia	521.64	16.27	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Dietzia	286.09	1.04	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021018	Dietzia	157.45	1.63	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00021022	Dietzia	758.82	5.86	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021023	Dietzia	611.27	10.85	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021684	Dietzia	241.50	10.80	ATPase component BioM of energizing module of biotin ECF transporter
+PGF_00021968	Dietzia	232.73	10.88	Mn-dependent transcriptional regulator MntR
+PGF_00022722	Dietzia	379.09	0.30	Mrp protein homolog
+PGF_00023283	Dietzia	150.00	0.89	Multimeric flavodoxin WrbA
+PGF_00023514	Dietzia	227.00	0.00	Mycobacterial persistence response regulator MprA
+PGF_00023522	Dietzia	407.00	0.00	Mycofactocin system heme/flavin dehydrogenase
+PGF_00023523	Dietzia	108.09	0.30	Mycofactocin binding protein MftB
+PGF_00023532	Dietzia	306.45	1.81	Mycothiol S-conjugate amidase Mca
+PGF_00023739	Dietzia	351.45	8.19	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023803	Dietzia	283.82	43.17	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase (EC 2.4.1.289)
+PGF_00024143	Dietzia	489.55	5.28	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_00024232	Dietzia	369.91	1.81	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Dietzia	397.64	15.27	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Dietzia	170.36	6.30	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Dietzia	428.18	2.86	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024322	Dietzia	476.18	11.57	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024478	Dietzia	338.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024567	Dietzia	402.00	3.00	Acetate kinase (EC 2.7.2.1)
+PGF_00024615	Dietzia	309.09	4.70	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024831	Dietzia	448.00	0.00	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024911	Dietzia	465.91	0.30	NADPH-dependent mycothiol reductase Mtr
+PGF_00025090	Dietzia	629.45	8.14	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Dietzia	167.91	0.30	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025379	Dietzia	327.55	12.70	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025600	Dietzia	449.73	3.61	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025623	Dietzia	568.09	59.48	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00026193	Dietzia	297.09	30.35	Non functional Dihydropteroate synthase 2
+PGF_00026284	Dietzia	812.20	3.43	Not trehalose-6-phosphate phosphatase
+PGF_00026289	Dietzia	511.82	12.66	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Dietzia	313.36	7.84	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00027216	Dietzia	306.00	0.00	OpcA, an allosteric effector of glucose-6-phosphate dehydrogenase, actinobacterial
+PGF_00028530	Dietzia	171.36	5.26	Oxidase regulatory-related protein
+PGF_00029377	Dietzia	240.40	10.51	PROBABLE CONSERVED INTEGRAL MEMBRANE ALANINE AND LEUCINE RICH PROTEIN
+PGF_00029917	Dietzia	320.00	28.58	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Dietzia	307.73	7.54	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Dietzia	360.73	0.90	Peptide chain release factor 1
+PGF_00030889	Dietzia	118.18	0.60	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00031181	Dietzia	466.73	4.63	Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE24
+PGF_00032651	Dietzia	275.27	0.65	Phage shock protein A (IM30), suppresses sigma54-dependent transcription
+PGF_00033237	Dietzia	358.82	12.24	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Dietzia	304.64	1.43	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033327	Dietzia	372.45	12.01	Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
+PGF_00033328	Dietzia	374.82	19.16	Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
+PGF_00033359	Dietzia	363.91	0.30	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Dietzia	261.91	6.33	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033390	Dietzia	609.91	5.07	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+PGF_00033392	Dietzia	872.83	215.38	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033511	Dietzia	406.00	4.02	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Dietzia	248.73	1.79	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033877	Dietzia	159.18	7.24	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033913	Dietzia	183.90	1.10	Phosphoribohydrolase involved in Mycobacterial cytokinins production, homolog of plant cytokinin-activating enzyme LOG
+PGF_00033924	Dietzia	87.00	0.00	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Dietzia	421.09	6.09	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Dietzia	298.00	3.32	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033950	Dietzia	248.82	6.60	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033959	Dietzia	225.09	0.30	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Dietzia	207.64	17.59	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Dietzia	420.00	5.56	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033987	Dietzia	374.00	0.00	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034349	Dietzia	93.73	6.33	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative
+PGF_00034769	Dietzia	247.09	13.87	Polyprenyl-phospho-N-acetylgalactosaminyl synthase PpgS
+PGF_00034776	Dietzia	753.45	2.77	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Dietzia	180.09	9.35	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Dietzia	344.27	8.26	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035142	Dietzia	681.18	33.23	Possible arabinofuranosyltransferase AftB
+PGF_00035346	Dietzia	358.91	0.30	Potassium channel protein
+PGF_00035378	Dietzia	487.91	0.30	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035440	Dietzia	519.91	11.39	Precorrin-2 C(20)-methyltransferase (EC 2.1.1.130) / Precorrin-3B C(17)-methyltransferase (EC 2.1.1.131)
+PGF_00035464	Dietzia	289.18	114.13	Precorrin-4 C(11)-methyltransferase (EC 2.1.1.133)
+PGF_00035467	Dietzia	393.91	59.90	Precorrin-6Y C(5,15)-methyltransferase [decarboxylating] (EC 2.1.1.132)
+PGF_00035468	Dietzia	224.36	7.24	Precorrin-8X methylmutase (EC 5.4.99.61)
+PGF_00035721	Dietzia	475.73	18.54	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035882	Dietzia	385.20	1.93	Predicted glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21), Actinobacterial type
+PGF_00036328	Dietzia	608.30	32.80	Predicted signal-transduction protein containing cAMP-binding and CBS domains
+PGF_00037510	Dietzia	58.00	0.00	Prokaryotic ubiquitin-like protein Pup
+PGF_00037835	Dietzia	749.27	5.68	Protease II (EC 3.4.21.83)
+PGF_00038579	Dietzia	101.00	0.00	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038649	Dietzia	765.00	0.00	Protein translocase subunit SecA paralog 1
+PGF_00038674	Dietzia	352.64	1.57	Protein translocase subunit SecF
+PGF_00038796	Dietzia	77.18	0.60	Protein translocase membrane subunit SecG
+PGF_00038969	Dietzia	499.55	4.89	Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'
+PGF_00038970	Dietzia	467.73	0.90	Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'
+PGF_00038986	Dietzia	261.60	56.80	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039500	Dietzia	411.90	9.01	Putative N-methyltransferase Bcep18194_A3584
+PGF_00040529	Dietzia	206.82	6.00	Putative decaprenylphosphoryl-5-phosphoribose phosphatase (EC 3.1.3.-)
+PGF_00040753	Dietzia	369.31	7.99	Putative esterase
+PGF_00040882	Dietzia	641.40	64.51	Putative glucanase glgE (EC 3.2.1.-)
+PGF_00041217	Dietzia	847.64	1.21	Putative helicase
+PGF_00041794	Dietzia	198.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00042294	Dietzia	520.64	23.76	Putative methyltransferase SCO3545
+PGF_00042330	Dietzia	295.18	79.82	Putative monooxygenase
+PGF_00042612	Dietzia	361.90	33.63	Putative oxidoreductase
+PGF_00042696	Dietzia	399.18	21.77	Putative oxidoreductase
+PGF_00042867	Dietzia	174.00	0.00	Alkyl hydroperoxide reductase AhpD (EC 1.11.1.15)
+PGF_00045122	Dietzia	492.91	108.02	Putative transport protein
+PGF_00045787	Dietzia	203.91	3.81	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Dietzia	301.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045982	Dietzia	953.64	36.94	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00045991	Dietzia	471.00	4.40	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046101	Dietzia	308.73	7.32	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Dietzia	359.64	3.23	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046192	Dietzia	179.45	7.19	RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+PGF_00046352	Dietzia	322.00	0.00	RNA polymerase sigma factor SigB
+PGF_00047078	Dietzia	366.82	1.66	RecA protein
+PGF_00047092	Dietzia	300.18	16.71	RecB family exonuclease
+PGF_00048246	Dietzia	203.40	20.97	Resuscitation-promoting factor RpfA
+PGF_00048249	Dietzia	224.64	31.12	Alpha-ketoglutarate-dependent dioxygenase AlkB (EC 1.14.11.33)
+PGF_00048393	Dietzia	138.00	0.00	Rhodanese-related sulfurtransferase
+PGF_00048482	Dietzia	245.00	4.86	Riboflavin transporter PnuX
+PGF_00048556	Dietzia	227.82	13.56	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Dietzia	258.91	7.30	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048640	Dietzia	713.27	8.25	Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048641	Dietzia	338.09	0.30	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Dietzia	138.82	33.43	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048645	Dietzia	147.36	3.23	Ribonucleotide reduction protein NrdI
+PGF_00048829	Dietzia	253.36	4.52	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048917	Dietzia	233.73	5.37	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Dietzia	185.00	0.00	Ribosome recycling factor
+PGF_00048933	Dietzia	117.18	13.89	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Dietzia	151.82	1.99	Ribosome-binding factor A
+PGF_00048985	Dietzia	221.73	0.90	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Dietzia	406.82	3.03	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049398	Dietzia	207.64	4.78	Alternative RNA polymerase sigma factor SigE
+PGF_00049828	Dietzia	104.36	11.16	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Dietzia	133.09	6.33	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Dietzia	123.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Dietzia	120.73	4.22	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Dietzia	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Dietzia	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Dietzia	165.91	2.70	SSU ribosomal protein S16p
+PGF_00049854	Dietzia	90.73	0.90	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Dietzia	84.82	0.60	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Dietzia	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Dietzia	273.09	2.66	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Dietzia	201.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Dietzia	219.09	1.14	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Dietzia	95.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Dietzia	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Dietzia	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Dietzia	180.09	2.02	SSU ribosomal protein S9p (S16e)
+PGF_00049979	Dietzia	469.80	64.59	Amidase family protein SAV_5232
+PGF_00050290	Dietzia	286.82	9.24	Segregation and condensation protein A
+PGF_00050369	Dietzia	485.90	10.40	Selenoprotein O and cysteine-containing homologs
+PGF_00050995	Dietzia	539.18	17.30	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Dietzia	420.91	3.36	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Dietzia	527.27	4.15	Signal recognition particle protein Ffh
+PGF_00052705	Dietzia	143.91	0.30	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Dietzia	315.18	2.40	Site-specific tyrosine recombinase XerD
+PGF_00053513	Dietzia	350.09	5.68	Solanesyl diphosphate synthase (EC 2.5.1.11)
+PGF_00053770	Dietzia	370.18	0.98	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053952	Dietzia	102.36	0.92	Sporulation regulatory protein WhiB
+PGF_00054121	Dietzia	432.80	9.54	Aminotransferase
+PGF_00054343	Dietzia	199.80	5.01	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054461	Dietzia	132.91	7.27	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_00054477	Dietzia	143.00	0.00	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054495	Dietzia	529.09	13.59	Succinate-semialdehyde dehydrogenase [NADP+] dependent (Ssdh) gabD2
+PGF_00054528	Dietzia	390.18	7.24	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054959	Dietzia	639.64	4.88	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Dietzia	304.73	2.10	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00055665	Dietzia	284.64	70.29	TPR-repeat-containing protein
+PGF_00056634	Dietzia	165.00	0.00	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056662	Dietzia	353.55	1.92	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Dietzia	514.55	3.45	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Dietzia	221.55	6.73	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Dietzia	266.09	0.30	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057381	Dietzia	266.00	7.55	Trans,polycis-decaprenyl diphosphate synthase (EC 2.5.1.86)
+PGF_00057483	Dietzia	630.36	118.12	Transcription termination factor Rho
+PGF_00057485	Dietzia	329.00	3.32	Transcription termination protein NusA
+PGF_00057488	Dietzia	188.00	4.43	Transcription termination protein NusB
+PGF_00058582	Dietzia	244.45	7.19	Transcriptional regulator KstR, TetR family
+PGF_00059042	Dietzia	93.27	0.90	Transcriptional regulator, AsnC family
+PGF_00059238	Dietzia	141.82	13.14	Transcriptional regulator, Fur family
+PGF_00059672	Dietzia	264.64	9.21	(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)
+PGF_00060398	Dietzia	711.00	21.69	Transketolase (EC 2.2.1.1)
+PGF_00060409	Dietzia	703.00	0.00	Translation elongation factor G
+PGF_00060414	Dietzia	620.73	5.10	Translation elongation factor LepA
+PGF_00060421	Dietzia	187.00	0.00	Translation elongation factor P
+PGF_00060427	Dietzia	274.00	0.00	Translation elongation factor Ts
+PGF_00060428	Dietzia	396.00	0.00	Translation elongation factor Tu
+PGF_00060431	Dietzia	73.00	0.00	Translation initiation factor 1
+PGF_00060478	Dietzia	205.18	11.66	Translation initiation factor 3
+PGF_00060585	Dietzia	252.45	2.42	Transmembrane protein MT2276, clustered with lipoate gene
+PGF_00061790	Dietzia	367.91	17.32	Trehalose O-mycolyltransferase (EC 2.3.1.122)
+PGF_00061810	Dietzia	484.45	7.50	Trehalose-6-phosphate synthase (EC 2.4.1.15)
+PGF_00062019	Dietzia	440.30	0.95	Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)
+PGF_00062023	Dietzia	262.45	1.51	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Dietzia	439.36	5.87	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Dietzia	362.20	5.29	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062711	Dietzia	395.36	10.96	Arabinofuranan 3-O-arabinosyltransferase (EC 2.4.2.47)
+PGF_00062734	Dietzia	588.80	134.24	Arabinofuranosyltransferase AftA (EC 2.4.2.46)
+PGF_00063755	Dietzia	268.64	0.92	Archaeal fructose-1,6-bisphosphatase and related enzymes of inositol monophosphatase family
+PGF_00063916	Dietzia	425.55	1.29	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063993	Dietzia	337.27	88.16	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00064043	Dietzia	317.64	7.49	UDP-galactofuranosyl transferase GlfT1 (EC 2.4.1.287), catalyzes initiation of cell wall galactan polymerization
+PGF_00064046	Dietzia	399.09	2.07	UDP-galactopyranose mutase (EC 5.4.99.9)
+PGF_00064272	Dietzia	254.64	5.52	UPF0246 protein YaaA
+PGF_00064359	Dietzia	165.64	2.11	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064454	Dietzia	288.18	9.88	Ubiquinol-cytochrome C reductase, diheme cytochrome cc subunit
+PGF_00064786	Dietzia	272.20	75.60	Arogenate dehydrogenase (EC 1.3.1.43)
+PGF_00065286	Dietzia	195.64	4.90	Uncharacterized protein Q1 colocalized with Q
+PGF_00065911	Dietzia	258.91	3.81	Undecaprenyl-phosphate mannosyltransferase (EC 2.4.1.54)
+PGF_00066124	Dietzia	193.64	0.92	Pyrimidine operon regulatory protein PyrR
+PGF_00066270	Dietzia	372.27	6.53	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Dietzia	888.55	12.32	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Dietzia	140.73	0.90	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066839	Dietzia	82.00	0.00	WhiB-like transcription regulator
+PGF_00066854	Dietzia	489.09	4.44	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066906	Dietzia	312.91	0.30	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066964	Dietzia	490.55	5.47	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067277	Dietzia	384.40	8.69	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067401	Dietzia	299.73	9.70	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067466	Dietzia	600.09	1.58	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00068508	Dietzia	478.08	44.52	amino acid carrier protein
+PGF_00068747	Dietzia	264.10	0.32	2-hydroxyhepta-2,4-diene-1,7-dioate isomerase (EC 5.3.3.-) / 5-carboxymethyl-2-oxo-hex-3- ene-1,7-dioate decarboxylase (EC 4.1.1.68)
+PGF_00068886	Dietzia	312.80	1.14	Auxin efflux carrier family protein
+PGF_00069976	Dietzia	185.40	7.44	conserved GtrA-like protein
+PGF_00070354	Dietzia	371.27	12.31	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)
+PGF_00071194	Dietzia	469.00	2.49	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071558	Dietzia	570.91	15.31	Bacterial proteasome-activating AAA-ATPase (PAN)
+PGF_00071693	Dietzia	283.27	55.69	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00084324	Dietzia	293.09	1.14	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00172869	Dietzia	383.60	6.40	Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)
+PGF_00211739	Dietzia	68.00	0.00	hypothetical protein
+PGF_00261173	Dietzia	375.18	3.06	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00267378	Dietzia	181.73	12.66	AIG2-like domain protein
+PGF_00282879	Dietzia	158.27	9.32	hypothetical protein
+PGF_00330705	Dietzia	186.18	41.43	hypothetical protein
+PGF_00399630	Dietzia	332.55	18.73	hypothetical protein PA3071
+PGF_00399653	Dietzia	318.82	6.31	phospholipase/thioesterase
+PGF_00400019	Dietzia	326.18	0.60	Aerotolerance protein BatA
+PGF_00403992	Dietzia	600.10	25.98	probable RNA helicase
+PGF_00404359	Dietzia	355.18	21.70	Monooxygenase IpdC
+PGF_00404384	Dietzia	366.91	13.63	Biotin synthase (EC 2.8.1.6)
+PGF_00404638	Dietzia	511.73	70.97	probable sulfite oxidase
+PGF_00405449	Dietzia	512.82	12.22	UPF0118 membrane protein SCO0513
+PGF_00405726	Dietzia	324.91	0.30	putative Adenosine kinase (EC 2.7.1.20)
+PGF_00406117	Dietzia	318.18	18.66	putative SimX4 homolog
+PGF_00406422	Dietzia	193.50	10.38	Bll3817 protein
+PGF_00407441	Dietzia	132.36	19.40	Integral membrane protein
+PGF_00410279	Dietzia	671.91	24.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00410499	Dietzia	246.20	6.07	putative secreted protein
+PGF_00410523	Dietzia	318.82	26.81	putative secreted protein
+PGF_00410606	Dietzia	222.00	3.90	putative secreted protein
+PGF_00410883	Dietzia	191.82	2.96	Single-stranded DNA-binding protein
+PGF_00413192	Dietzia	279.00	0.00	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413203	Dietzia	161.64	3.23	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Dietzia	270.73	6.60	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413295	Dietzia	297.64	18.16	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Dietzia	151.73	5.59	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413362	Dietzia	278.20	1.03	tRNA/rRNA methyltransferase
+PGF_00413554	Dietzia	169.09	0.30	tmRNA-binding protein SmpB
+PGF_00414366	Dietzia	522.00	127.78	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414926	Dietzia	548.91	19.72	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415308	Dietzia	273.36	5.24	23S rRNA (cytidine(1920)-2'-O)-methyltransferase (EC 2.1.1.226) @ 16S rRNA (cytidine(1409)-2'-O)-methyltransferase (EC 2.1.1.227)
+PGF_00415697	Dietzia	260.60	2.95	Uncharacterized NRDE family protein
+PGF_00416115	Dietzia	300.83	17.91	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416410	Dietzia	1119.55	0.69	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Dietzia	223.27	4.92	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Dietzia	425.91	8.64	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417658	Dietzia	376.45	5.52	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Dietzia	405.27	4.82	Chorismate synthase (EC 4.2.3.5)
+PGF_00418244	Dietzia	204.18	0.60	Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ Cob(I)alamin adenosyltransferase (EC 2.5.1.17), clustered with cobalamin synthesis
+PGF_00418368	Dietzia	518.09	9.50	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Dietzia	464.00	125.65	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00418586	Dietzia	134.36	5.22	Cold shock protein of CSP family => SCO4325
+PGF_00419420	Dietzia	487.18	1.83	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419621	Dietzia	231.00	0.00	Coproheme decarboxylase HemQ (no EC)
+PGF_00419702	Dietzia	227.36	42.63	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419915	Dietzia	290.91	3.27	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420121	Dietzia	244.45	6.79	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420406	Dietzia	137.00	3.32	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420798	Dietzia	366.18	6.46	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421071	Dietzia	147.00	4.31	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Dietzia	658.27	38.60	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421347	Dietzia	345.70	13.30	DNA integrity scanning protein DisA
+PGF_00421489	Dietzia	1181.64	0.92	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Dietzia	391.09	0.30	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421622	Dietzia	510.90	79.20	DNA polymerase IV-like protein ImuB
+PGF_00421733	Dietzia	412.18	10.77	DNA recombination and repair protein RecF
+PGF_00421775	Dietzia	555.09	0.30	DNA repair helicase
+PGF_00421796	Dietzia	584.45	5.01	DNA repair protein RecN
+PGF_00421925	Dietzia	215.90	16.80	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_00422271	Dietzia	338.18	19.30	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422545	Dietzia	312.30	3.77	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422922	Dietzia	187.09	0.30	Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)
+PGF_00422959	Dietzia	147.18	35.20	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00422984	Dietzia	810.50	122.14	Desferrioxamine E biosynthesis protein DesD @ Siderophore synthetase superfamily, group C @ Siderophore synthetase component, ligase
+PGF_00423086	Dietzia	431.55	1.81	Diaminobutyrate--2-oxoglutarate transaminase (EC 2.6.1.76)
+PGF_00423097	Dietzia	307.45	9.99	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Dietzia	538.55	21.71	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423351	Dietzia	1285.27	16.13	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) / 2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) @ 2-oxoglutarate decarboxylase (EC 4.1.1.71) @ 2-hydroxy-3-oxoadipate synthase (EC 2.2.1.5)
+PGF_00423361	Dietzia	130.00	4.88	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Dietzia	439.64	7.61	Dihydroorotase (EC 3.5.2.3)
+PGF_00423604	Dietzia	700.45	4.80	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+PGF_00424068	Dietzia	290.00	10.10	Ectoine hydroxylase (EC 1.17.-.-)
+PGF_00424569	Dietzia	280.45	6.67	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424619	Dietzia	323.27	16.50	4-nitrophenylphosphatase (EC 3.1.3.41)
+PGF_00424971	Dietzia	696.09	8.01	Excinuclease ABC subunit C
+PGF_00425601	Dietzia	485.00	10.48	FAD/FMN-containing dehydrogenases
+PGF_00425665	Dietzia	218.00	37.56	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Dietzia	293.27	3.69	RNase adapter protein RapZ
+PGF_00425679	Dietzia	218.45	18.76	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Dietzia	250.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425806	Dietzia	328.91	6.02	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Dietzia	388.00	2.11	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Dietzia	389.91	0.30	FIG004453: protein YceG like
+PGF_00426044	Dietzia	325.00	9.46	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Dietzia	623.64	6.74	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426155	Dietzia	346.18	4.26	5-Phosphoribosyl diphosphate (PRPP): decaprenyl-phosphate 5-phosphoribosyltransferase (EC 2.4.2.45)
+PGF_00426236	Dietzia	387.40	13.40	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426285	Dietzia	183.82	2.71	FIG004853: possible toxin to DivIC
+PGF_00426726	Dietzia	887.09	3.62	FIG005666: putative helicase
+PGF_00426932	Dietzia	157.36	2.46	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427299	Dietzia	491.73	5.73	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00438421	Dietzia	258.30	87.72	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447508	Dietzia	540.27	0.90	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00474012	Dietzia	477.55	7.50	Uncharacterized MFS-type transporter YhjE
+PGF_00482828	Dietzia	452.45	0.93	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00501272	Dietzia	463.70	8.96	Siderophore biosynthesis protein, monooxygenase
+PGF_00518942	Dietzia	227.50	3.81	Two component system response regulator MtrA
+PGF_00537048	Dietzia	144.10	5.59	hypothetical protein
+PGF_00569671	Dietzia	310.45	6.27	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580685	Dietzia	618.73	23.20	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD6
+PGF_00618776	Dietzia	369.73	1.62	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Dietzia	447.73	9.82	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00650260	Dietzia	142.82	2.71	HIT family protein
+PGF_00659194	Dietzia	176.09	29.22	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00660666	Dietzia	232.73	64.45	FIG00814129: Possible chaperone
+PGF_00663914	Dietzia	204.50	14.23	Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)
+PGF_00665875	Dietzia	147.45	1.51	Ribosomal silencing factor RsfA
+PGF_00692117	Dietzia	371.36	5.52	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_00717495	Dietzia	428.82	0.60	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Dietzia	351.45	3.56	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00731239	Dietzia	222.55	4.74	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety, TenA subgroup with Cys in active site
+PGF_00734482	Dietzia	992.55	10.28	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735685	Dietzia	1006.91	58.98	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_00785029	Dietzia	460.55	11.90	Uracil permease
+PGF_00832006	Dietzia	234.10	0.32	Phosphoglycerate mutase family protein
+PGF_00853393	Dietzia	300.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Dietzia	419.27	1.49	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00897652	Dietzia	276.60	20.05	hypothetical protein
+PGF_00907900	Dietzia	235.27	6.34	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_00912265	Dietzia	393.36	4.86	tRNA-dihydrouridine synthase DusB
+PGF_00919160	Dietzia	857.91	9.02	ABC transporter, fused permease protein
+PGF_00922738	Dietzia	288.64	5.22	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00923730	Dietzia	309.50	65.68	hypothetical protein
+PGF_00925731	Dietzia	128.20	16.57	hypothetical protein
+PGF_00957419	Dietzia	157.36	8.25	Putative pre-16S rRNA nuclease Yqg
+PGF_00982735	Dietzia	107.00	0.00	hypothetical protein
+PGF_01008498	Dietzia	110.20	13.31	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01009564	Dietzia	527.91	48.14	hypothetical protein
+PGF_01011517	Dietzia	315.27	18.03	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01026961	Dietzia	73.00	0.00	hypothetical protein
+PGF_01070050	Dietzia	553.36	25.05	Phytoene dehydrogenase (EC 1.14.99.-)
+PGF_01075683	Dietzia	133.18	1.94	Hemoglobin-like protein HbO
+PGF_01079016	Dietzia	382.73	9.31	Chromosome (plasmid) partitioning protein ParB
+PGF_01086688	Dietzia	452.50	33.74	Uncharacterized MFS-type transporter
+PGF_01104399	Dietzia	401.09	32.53	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01147190	Dietzia	464.00	7.68	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01174739	Dietzia	322.09	0.30	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Dietzia	409.09	11.45	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Dietzia	698.55	1.86	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01181530	Dietzia	114.64	2.80	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01232770	Dietzia	174.82	8.68	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Dietzia	308.00	0.00	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01340327	Dietzia	486.73	8.00	Transcriptional regulator, Xre family
+PGF_01351158	Dietzia	1192.91	92.42	Transcription-repair coupling factor
+PGF_01362034	Dietzia	276.27	12.87	Glutamate ABC transporter, substrate-binding protein GluB
+PGF_01364570	Dietzia	435.73	12.65	ABC1 family protein
+PGF_01367201	Dietzia	202.27	1.62	HNH endonuclease family protein
+PGF_01368025	Dietzia	361.00	0.00	Formaldehyde dehydrogenase MscR, NAD/mycothiol-dependent (EC 1.2.1.66) / S-nitrosomycothiol reductase MscR
+PGF_01382356	Dietzia	266.70	16.41	hypothetical protein
+PGF_01389077	Dietzia	93.09	10.12	Uncharacterized protein YbcJ
+PGF_01393746	Dietzia	422.91	30.09	Putative oxidoreductase
+PGF_01408166	Dietzia	287.30	0.95	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_01420802	Dietzia	164.73	3.93	Cell division protein MraZ
+PGF_01421534	Dietzia	211.45	5.72	LSU ribosomal protein L25p
+PGF_01423501	Dietzia	164.91	0.70	Transcription elongation factor GreA
+PGF_01443824	Dietzia	460.30	3.59	putative membrane protein
+PGF_01444546	Dietzia	98.91	0.30	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01454586	Dietzia	306.50	7.91	CorD2 protein
+PGF_01467052	Dietzia	222.09	9.25	G/U mismatch-specific uracil DNA glycosylase (EC 3.2.2.28)
+PGF_01483918	Dietzia	300.08	8.93	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01532393	Dietzia	710.64	37.84	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555249	Dietzia	261.18	0.60	Enoyl-CoA hydratase (EC 4.2.1.17) => degradation of branched-chain amino acids and alpha-keto acids
+PGF_01604929	Dietzia	222.18	33.56	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01614738	Dietzia	85.91	0.54	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01668012	Dietzia	257.55	12.69	Sulfur carrier protein FdhD
+PGF_01668148	Dietzia	542.36	35.66	Sodium-dependent transporter
+PGF_01668186	Dietzia	260.73	1.49	Metal-dependent hydrolases of the beta-lactamase superfamily III
+PGF_01670799	Dietzia	217.10	16.37	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01674551	Dietzia	135.45	4.82	Glycine cleavage system H protein
+PGF_01676411	Dietzia	326.09	0.54	ABC transporter, substrate-binding protein (cluster 15, trp?)
+PGF_01682537	Dietzia	161.18	33.64	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01692355	Dietzia	835.73	54.46	Serine/threonine protein kinase
+PGF_01734516	Dietzia	145.00	0.00	FHA-domain-containing protein
+PGF_01734668	Dietzia	181.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01739753	Dietzia	223.73	29.78	Zinc metalloprotease
+PGF_01777142	Dietzia	249.09	11.49	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Dietzia	733.73	17.07	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01867628	Dietzia	345.91	0.30	Heat-inducible transcription repressor HrcA
+PGF_01898497	Dietzia	256.82	9.14	Endonuclease III (EC 4.2.99.18)
+PGF_01900530	Dietzia	230.91	10.37	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900807	Dietzia	301.09	10.68	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01910737	Dietzia	194.18	7.24	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01937476	Dietzia	791.64	21.75	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01949788	Dietzia	219.73	8.73	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01985478	Dietzia	354.64	5.30	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01993620	Dietzia	331.73	8.19	Maltodextrin ABC transporter, permease protein MdxF
+PGF_01994657	Dietzia	466.36	3.35	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010969	Dietzia	638.91	7.27	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) AsnB
+PGF_02019462	Dietzia	352.09	5.01	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Dietzia	486.09	0.30	GTP-binding protein Obg
+PGF_02059020	Dietzia	557.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02061452	Dietzia	428.09	5.66	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02075241	Dietzia	637.50	149.61	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02111888	Dietzia	335.50	5.28	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02150552	Dietzia	219.00	0.00	Putative hydrolase in cluster with formaldehyde/S-nitrosomycothiol reductase MscR
+PGF_02185217	Dietzia	425.91	0.30	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02226715	Dietzia	762.09	10.10	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02237713	Dietzia	684.00	141.84	Prolyl endopeptidase (EC 3.4.21.26)
+PGF_02311293	Dietzia	368.00	0.77	Peptide chain release factor 2
+PGF_02346669	Dietzia	316.91	4.64	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02349208	Dietzia	295.36	19.51	Hypothetical, related to broad specificity phosphatases COG0406
+PGF_02355769	Dietzia	439.64	131.83	Alanine racemase (EC 5.1.1.1)
+PGF_02386652	Dietzia	159.91	0.30	Ribonuclease E inhibitor RraA
+PGF_02399143	Dietzia	695.91	7.35	Fatty-acyl-CoA oxidase (EC 1.3.3.6), related to yeast fatty acid beta-oxidation enzyme POX1
+PGF_02404524	Dietzia	449.00	0.00	3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35), FabG4
+PGF_02405545	Dietzia	349.55	2.54	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02406951	Dietzia	465.60	1.90	Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase; Diacyglycerol O-acyltransferase (EC 2.3.1.20)
+PGF_02407790	Dietzia	437.09	0.30	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9), FadA2
+PGF_02430085	Dietzia	393.55	24.39	Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE23
+PGF_02432027	Dietzia	504.36	2.11	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02435548	Dietzia	533.00	18.20	Integral membrane protein Rv1459c
+PGF_02444102	Dietzia	531.09	3.42	CoA ligase @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD5
+PGF_02450432	Dietzia	296.00	11.69	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Dietzia	255.91	30.00	Recombination protein RecR
+PGF_02514958	Dietzia	353.40	17.71	putative periplasmic protein kinase ArgK and related GTPases of G3E family
+PGF_02515882	Dietzia	420.00	0.00	Aspartokinase (EC 2.7.2.4)
+PGF_02516666	Dietzia	373.73	4.10	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Dietzia	425.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02518459	Dietzia	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02552445	Dietzia	544.64	5.43	Bis-ABC ATPase SCO1840
+PGF_02567701	Dietzia	470.82	39.25	Two component system sensor histidine kinase MprB
+PGF_02587605	Dietzia	145.18	8.69	Zinc uptake regulation protein Zur
+PGF_02611620	Dietzia	607.64	1.80	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Dietzia	329.45	7.17	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Dietzia	1318.55	1.51	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02732386	Dietzia	452.09	81.29	Glucose/mannose:H+ symporter GlcP
+PGF_02737404	Dietzia	237.45	58.80	Trehalose-6-phosphate phosphatase (EC 3.1.3.12)
+PGF_02738107	Dietzia	275.18	50.17	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02746016	Dietzia	280.10	51.63	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02776739	Dietzia	117.91	4.50	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02787474	Dietzia	261.73	69.83	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02789532	Dietzia	309.09	35.50	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02818638	Dietzia	451.30	2.63	Hemolysins and related proteins containing CBS domains
+PGF_02820109	Dietzia	205.45	4.23	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02825959	Dietzia	357.91	96.50	Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12)
+PGF_02844091	Dietzia	251.82	3.76	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Dietzia	399.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866866	Dietzia	357.73	9.35	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02873160	Dietzia	290.30	5.60	Putative preQ0 transporter YhhQ
+PGF_02874431	Dietzia	230.09	6.35	Glucosyl-3-phosphoglycerate phosphatase (EC 3.1.3.85)
+PGF_02883702	Dietzia	328.09	35.52	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02890573	Dietzia	91.64	9.55	hypothetical protein
+PGF_02893930	Dietzia	298.82	4.62	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02895544	Dietzia	250.18	6.82	TrkA-like protein
+PGF_02897543	Dietzia	183.73	12.36	Phospholipid-binding protein
+PGF_02898096	Dietzia	490.00	0.00	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Dietzia	75.91	0.30	LSU ribosomal protein L29p (L35e)
+PGF_02923127	Dietzia	240.82	0.40	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02927448	Dietzia	172.91	0.30	FIG00820146: hypothetical protein
+PGF_02930420	Dietzia	396.45	1.86	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_02938730	Dietzia	339.30	44.84	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02946231	Dietzia	490.45	0.69	SSU ribosomal protein S1p
+PGF_02959749	Dietzia	409.60	6.92	Ribonuclease D (EC 3.1.26.3)
+PGF_02967337	Dietzia	752.90	2.42	Catalase KatE-intracellular protease (EC 1.11.1.6)
+PGF_02979277	Dietzia	605.75	5.75	3-methylmercaptopropionyl-CoA dehydrogenase (DmdC)
+PGF_02982225	Dietzia	265.27	48.78	SAM-dependent methyltransferase
+PGF_02996064	Dietzia	382.00	1.70	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4) @ Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE19
+PGF_03000070	Dietzia	342.73	4.31	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03003352	Dietzia	619.36	0.67	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03017775	Dietzia	544.18	1.99	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03021263	Dietzia	198.80	52.26	SepF, FtsZ-interacting protein related to cell division
+PGF_03022560	Dietzia	508.00	0.00	Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27)
+PGF_03029489	Dietzia	227.82	3.60	GlnR-family transcriptional regulator
+PGF_03030703	Dietzia	553.00	0.00	Bis-ABC ATPase SCO6742
+PGF_03054699	Dietzia	796.45	165.41	DNA translocase FtsK
+PGF_03057384	Dietzia	355.18	0.60	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03059539	Dietzia	297.82	3.66	3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)
+PGF_03059968	Dietzia	250.00	0.00	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_03062930	Dietzia	383.64	14.20	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.35)
+PGF_03065358	Dietzia	611.90	0.32	Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE5
+PGF_03069524	Dietzia	77.55	2.54	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03081927	Dietzia	281.18	1.47	Polyphosphate glucokinase (EC 2.7.1.63)
+PGF_03111948	Dietzia	262.82	6.03	Electron transfer flavoprotein, beta subunit
+PGF_03138644	Dietzia	200.20	4.13	Arginine exporter protein ArgO
+PGF_03138855	Dietzia	71.00	0.00	Biotin carboxyl carrier protein
+PGF_03154343	Dietzia	154.80	56.78	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Dietzia	303.45	8.90	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Dietzia	308.09	15.35	Transcription antitermination protein NusG
+PGF_03176555	Dietzia	243.90	6.54	hypothetical protein
+PGF_03232407	Dietzia	183.00	0.00	Protein yceI precursor
+PGF_03253896	Dietzia	228.64	2.25	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Dietzia	230.00	6.40	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Dietzia	841.73	0.65	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03272699	Dietzia	525.33	3.31	Beta-carotene ketolase
+PGF_03278866	Dietzia	78.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03282992	Dietzia	103.00	1.05	Heme-degrading protein MhuD (no EC)
+PGF_03284618	Dietzia	846.00	72.65	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_03340305	Dietzia	158.55	1.21	RidA/YER057c/UK114 superfamily, group 1
+PGF_03394288	Dietzia	454.18	5.17	Succinate-semialdehyde dehydrogenase [NAD] (EC 1.2.1.24); Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79)
+PGF_03518570	Dietzia	137.00	2.49	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Dietzia	391.82	24.63	Cell division protein FtsZ
+PGF_03584110	Dietzia	56.36	0.92	FIG011121: hypothetical protein
+PGF_03591205	Dietzia	495.91	22.63	Serine/threonine phosphatase PPP (EC 3.1.3.16)
+PGF_03609651	Dietzia	615.27	2.41	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03617831	Dietzia	393.00	0.00	Acyl-CoA dehydrogenase (EC 1.3.8.-), Mycobacterial subgroup FadE12 in terpen utilization operon
+PGF_03647550	Dietzia	162.45	5.13	UPF0234 protein Yitk
+PGF_03659350	Dietzia	512.64	34.00	Protein-O-mannosyltransferase
+PGF_03699416	Dietzia	217.00	0.00	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Dietzia	300.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Dietzia	112.70	1.25	Protein translocase subunit SecE
+PGF_03719269	Dietzia	359.09	11.79	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03729119	Dietzia	415.91	27.90	Aspartate transaminase (EC 2.6.1.1)
+PGF_03744900	Dietzia	203.40	2.01	Cell wall-associated hydrolases (invasion-associated proteins)
+PGF_03747718	Dietzia	1022.18	4.49	putative membrane protein
+PGF_03750541	Dietzia	366.64	2.11	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750571	Dietzia	500.73	0.65	Chromosomal replication initiator protein DnaA
+PGF_03757137	Dietzia	482.09	3.81	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Dietzia	243.90	50.03	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03778127	Dietzia	152.09	0.30	FHA-domain-containing protein
+PGF_03778780	Dietzia	459.18	85.72	Signal recognition particle receptor FtsY
+PGF_03797809	Dietzia	387.82	4.85	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_03801195	Dietzia	282.91	12.10	Putative amidotransferase similar to cobyric acid synthase
+PGF_03810115	Dietzia	241.36	3.29	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Dietzia	377.64	3.88	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03862500	Dietzia	220.91	0.30	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03968875	Dietzia	347.82	32.56	AFG1 family ATPase
+PGF_03977347	Dietzia	355.91	0.30	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_03991729	Dietzia	405.55	3.70	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03999196	Dietzia	883.18	0.60	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Dietzia	469.82	8.65	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Dietzia	228.55	7.97	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04025415	Dietzia	142.00	0.00	Large-conductance mechanosensitive channel
+PGF_04036472	Dietzia	79.73	0.90	KH domain RNA binding protein YlqC
+PGF_04047265	Dietzia	83.91	0.30	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04070877	Dietzia	178.20	0.63	hypothetical protein
+PGF_04077545	Dietzia	158.00	0.00	hypothetical protein
+PGF_04085658	Dietzia	248.20	7.57	hypothetical protein
+PGF_04094270	Dietzia	221.64	4.80	TrkA-like protein
+PGF_04095279	Dietzia	292.45	11.08	hypothetical protein
+PGF_04105254	Dietzia	186.90	3.31	hypothetical protein
+PGF_04110697	Dietzia	684.80	45.24	hypothetical protein
+PGF_04119806	Dietzia	330.09	43.90	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04121836	Dietzia	479.50	7.53	Carbon monoxide oxidation accessory protein CoxE
+PGF_04131439	Dietzia	429.83	37.04	Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)
+PGF_04150742	Dietzia	282.18	0.60	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Dietzia	178.73	5.73	16S rRNA processing protein RimM
+PGF_04156755	Dietzia	99.82	9.03	Na(+) H(+) antiporter subunit F
+PGF_04163139	Dietzia	204.45	77.24	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04171290	Dietzia	108.70	1.89	hypothetical protein
+PGF_04182459	Dietzia	227.80	2.53	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04192698	Dietzia	417.80	15.70	hypothetical protein
+PGF_04197126	Dietzia	142.90	3.48	hypothetical protein
+PGF_04198961	Dietzia	227.70	24.05	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04212683	Dietzia	282.20	2.35	hypothetical protein
+PGF_04224136	Dietzia	334.09	8.23	Proline iminopeptidase (EC 3.4.11.5)
+PGF_04232955	Dietzia	341.70	5.56	hypothetical protein
+PGF_04242417	Dietzia	199.80	12.02	hypothetical protein
+PGF_04254169	Dietzia	231.40	6.55	hypothetical protein
+PGF_04256257	Dietzia	463.09	0.30	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04258763	Dietzia	205.00	0.00	hypothetical protein
+PGF_04271949	Dietzia	345.90	100.39	hypothetical protein
+PGF_04279341	Dietzia	103.00	57.98	hypothetical protein
+PGF_04280434	Dietzia	187.00	0.00	hypothetical protein
+PGF_04288921	Dietzia	310.80	14.46	hypothetical protein
+PGF_04305090	Dietzia	280.30	0.48	hypothetical protein
+PGF_04310056	Dietzia	375.91	2.59	Acyltransferase family protein
+PGF_04318145	Dietzia	410.00	64.75	hypothetical protein
+PGF_04322796	Dietzia	388.00	0.00	hypothetical protein
+PGF_04345693	Dietzia	494.09	4.09	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04352807	Dietzia	221.10	2.85	hypothetical protein
+PGF_04360357	Dietzia	932.91	16.05	Protein translocase subunit SecA
+PGF_04372241	Dietzia	263.00	0.00	Efflux ABC transporter, permease protein Rv1457c
+PGF_04372681	Dietzia	75.00	0.00	hypothetical protein
+PGF_04377522	Dietzia	228.00	0.00	hypothetical protein
+PGF_04381510	Dietzia	327.50	0.53	hypothetical protein
+PGF_04383054	Dietzia	160.20	12.52	hypothetical protein
+PGF_04398941	Dietzia	563.30	25.24	hypothetical protein
+PGF_04419094	Dietzia	110.50	0.71	hypothetical protein
+PGF_04427379	Dietzia	137.60	11.66	hypothetical protein
+PGF_04436965	Dietzia	61.80	14.09	hypothetical protein
+PGF_04445739	Dietzia	343.00	0.00	hypothetical protein
+PGF_04452217	Dietzia	240.90	79.09	hypothetical protein
+PGF_04457297	Dietzia	202.36	13.28	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04462903	Dietzia	394.60	11.11	hypothetical protein
+PGF_04467095	Dietzia	188.20	6.37	hypothetical protein
+PGF_04467844	Dietzia	227.36	2.11	hypothetical protein
+PGF_04469179	Dietzia	159.00	5.44	Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase
+PGF_04469731	Dietzia	122.90	9.55	hypothetical protein
+PGF_04477106	Dietzia	388.00	3.32	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04484810	Dietzia	142.90	9.48	hypothetical protein
+PGF_04490570	Dietzia	396.27	30.12	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04493258	Dietzia	296.18	0.60	Cobalt-zinc-cadmium resistance protein
+PGF_04494963	Dietzia	176.90	1.45	hypothetical protein
+PGF_04498396	Dietzia	187.50	16.47	hypothetical protein
+PGF_04505269	Dietzia	293.45	4.91	SSU ribosomal protein S2p (SAe)
+PGF_04513772	Dietzia	257.00	19.02	hypothetical protein
+PGF_04540446	Dietzia	249.90	19.13	hypothetical protein
+PGF_04545581	Dietzia	97.70	0.95	hypothetical protein
+PGF_04545767	Dietzia	159.00	0.00	hypothetical protein
+PGF_04559117	Dietzia	222.00	0.00	hypothetical protein
+PGF_04569524	Dietzia	545.82	0.60	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Dietzia	261.55	1.81	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04609289	Dietzia	122.27	6.44	hypothetical protein
+PGF_04635467	Dietzia	237.20	8.97	hypothetical protein
+PGF_04646637	Dietzia	382.00	4.67	hypothetical protein
+PGF_04647504	Dietzia	159.20	14.53	hypothetical protein
+PGF_04662829	Dietzia	707.55	3.67	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04672093	Dietzia	199.00	0.00	hypothetical protein
+PGF_04674234	Dietzia	157.40	4.88	hypothetical protein
+PGF_04686143	Dietzia	196.30	19.08	hypothetical protein
+PGF_04701164	Dietzia	262.20	13.50	hypothetical protein
+PGF_04702932	Dietzia	157.80	2.30	hypothetical protein
+PGF_04703692	Dietzia	276.70	0.67	hypothetical protein
+PGF_04704185	Dietzia	468.00	0.00	NAD(P)H quinone reductase LpdA (EC 1.6.5.2)
+PGF_04710246	Dietzia	253.80	10.42	hypothetical protein
+PGF_04710608	Dietzia	224.60	1.65	hypothetical protein
+PGF_04715296	Dietzia	154.50	29.60	hypothetical protein
+PGF_04724776	Dietzia	62.50	1.58	hypothetical protein
+PGF_04732408	Dietzia	292.30	2.63	hypothetical protein
+PGF_04757043	Dietzia	107.10	9.17	hypothetical protein
+PGF_04769015	Dietzia	194.00	28.87	hypothetical protein
+PGF_04770609	Dietzia	290.00	36.13	hypothetical protein
+PGF_04783143	Dietzia	189.90	11.11	hypothetical protein
+PGF_04785154	Dietzia	134.00	0.00	hypothetical protein
+PGF_04788810	Dietzia	201.82	3.87	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04790094	Dietzia	60.60	11.78	hypothetical protein
+PGF_04807486	Dietzia	339.55	75.11	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04809304	Dietzia	239.20	10.12	hypothetical protein
+PGF_04814642	Dietzia	67.00	0.47	hypothetical protein
+PGF_04826267	Dietzia	202.10	0.32	hypothetical protein
+PGF_04826719	Dietzia	231.00	0.00	hypothetical protein
+PGF_04833769	Dietzia	181.40	21.51	hypothetical protein
+PGF_04845029	Dietzia	113.00	0.00	LSU ribosomal protein L19p
+PGF_04852888	Dietzia	199.80	4.49	hypothetical protein
+PGF_04878164	Dietzia	253.80	0.42	hypothetical protein
+PGF_04892482	Dietzia	159.30	29.61	hypothetical protein
+PGF_04930123	Dietzia	286.60	7.32	hypothetical protein
+PGF_04941032	Dietzia	207.50	3.63	hypothetical protein
+PGF_04945912	Dietzia	124.60	5.44	hypothetical protein
+PGF_04965156	Dietzia	288.50	9.54	hypothetical protein
+PGF_04970608	Dietzia	94.18	0.60	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04971017	Dietzia	359.30	2.21	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Dietzia	101.00	0.00	LSU ribosomal protein L21p
+PGF_04981115	Dietzia	165.00	10.34	hypothetical protein
+PGF_04989144	Dietzia	207.70	4.16	hypothetical protein
+PGF_04995834	Dietzia	238.70	4.11	hypothetical protein
+PGF_05007359	Dietzia	379.30	0.95	hypothetical protein
+PGF_05010981	Dietzia	229.90	0.32	hypothetical protein
+PGF_05015770	Dietzia	143.00	3.68	hypothetical protein
+PGF_05042648	Dietzia	210.00	0.00	hypothetical protein
+PGF_05062134	Dietzia	263.00	0.00	ABC transporter, ATP-binding protein (cluster 15, trp?)
+PGF_05067500	Dietzia	183.20	2.53	hypothetical protein
+PGF_05078309	Dietzia	181.00	16.57	hypothetical protein
+PGF_05079018	Dietzia	468.82	23.51	hypothetical protein
+PGF_05079020	Dietzia	358.73	14.48	MoxR-like ATPase in aerotolerance operon
+PGF_05087223	Dietzia	88.20	2.90	hypothetical protein
+PGF_05091365	Dietzia	260.70	7.04	hypothetical protein
+PGF_05093612	Dietzia	141.82	0.60	hypothetical protein
+PGF_05099561	Dietzia	210.00	6.32	hypothetical protein
+PGF_05100550	Dietzia	204.00	29.17	hypothetical protein
+PGF_05103737	Dietzia	127.80	5.69	hypothetical protein
+PGF_05108366	Dietzia	184.40	42.63	hypothetical protein
+PGF_05126983	Dietzia	341.10	72.80	hypothetical protein
+PGF_05165078	Dietzia	308.45	6.35	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182240	Dietzia	263.10	0.32	hypothetical protein
+PGF_05190152	Dietzia	94.70	8.94	hypothetical protein
+PGF_05207025	Dietzia	179.00	14.42	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_05218024	Dietzia	611.00	158.28	Serine/threonine-protein kinase PknB (EC 2.7.11.1)
+PGF_05220334	Dietzia	472.36	34.65	Succinate-semialdehyde dehydrogenase [NAD(P)+] (EC 1.2.1.16)
+PGF_05222804	Dietzia	60.40	0.70	hypothetical protein
+PGF_05238012	Dietzia	220.00	0.00	hypothetical protein
+PGF_05255412	Dietzia	454.33	15.16	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05263768	Dietzia	269.30	12.13	hypothetical protein
+PGF_05283398	Dietzia	103.70	10.51	hypothetical protein
+PGF_05287992	Dietzia	191.50	32.50	hypothetical protein
+PGF_05289145	Dietzia	248.80	5.25	hypothetical protein
+PGF_05296102	Dietzia	303.00	51.51	Acetyl-CoA:Cys-GlcN-Ins acetyltransferase, mycothiol synthase MshD (EC 2.3.1.189)
+PGF_05298064	Dietzia	294.10	0.74	hypothetical protein
+PGF_05298217	Dietzia	438.80	23.14	hypothetical protein
+PGF_05310163	Dietzia	370.60	15.49	hypothetical protein
+PGF_05314090	Dietzia	280.00	7.75	hypothetical protein
+PGF_05314824	Dietzia	243.80	11.67	hypothetical protein
+PGF_05321336	Dietzia	96.40	1.65	hypothetical protein
+PGF_05322642	Dietzia	157.40	5.06	hypothetical protein
+PGF_05327724	Dietzia	193.80	1.75	hypothetical protein
+PGF_05340547	Dietzia	341.90	3.31	hypothetical protein
+PGF_05348002	Dietzia	349.80	70.06	hypothetical protein
+PGF_05355391	Dietzia	329.00	25.81	hypothetical protein
+PGF_05356833	Dietzia	196.40	3.47	hypothetical protein
+PGF_05372377	Dietzia	269.60	3.10	hypothetical protein
+PGF_05373126	Dietzia	239.00	10.21	hypothetical protein
+PGF_05379163	Dietzia	248.00	13.30	hypothetical protein
+PGF_05386032	Dietzia	226.45	1.51	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05397428	Dietzia	265.09	59.32	TesB-like acyl-CoA thioesterase 2
+PGF_05421852	Dietzia	680.18	7.57	Chaperone protein HtpG
+PGF_05432848	Dietzia	335.80	68.65	hypothetical protein
+PGF_05439724	Dietzia	721.64	17.34	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Dietzia	463.18	5.12	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05463414	Dietzia	159.80	32.46	hypothetical protein
+PGF_05463808	Dietzia	311.55	8.44	NAD kinase (EC 2.7.1.23)
+PGF_05475561	Dietzia	489.67	130.83	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+PGF_05479959	Dietzia	399.00	7.75	hypothetical protein
+PGF_05480807	Dietzia	142.20	5.49	hypothetical protein
+PGF_05512932	Dietzia	201.20	12.57	hypothetical protein
+PGF_05526254	Dietzia	178.60	2.27	hypothetical protein
+PGF_05548819	Dietzia	160.10	21.86	hypothetical protein
+PGF_05560886	Dietzia	235.55	68.65	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05579323	Dietzia	367.91	3.88	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Dietzia	439.91	0.30	Protein translocase subunit SecY
+PGF_05593203	Dietzia	126.40	1.26	hypothetical protein
+PGF_05596040	Dietzia	157.60	1.26	hypothetical protein
+PGF_05597155	Dietzia	165.60	7.85	hypothetical protein
+PGF_05598173	Dietzia	402.45	1.21	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05603958	Dietzia	178.20	17.97	hypothetical protein
+PGF_05608121	Dietzia	171.30	9.70	hypothetical protein
+PGF_05621276	Dietzia	219.20	4.89	hypothetical protein
+PGF_05622318	Dietzia	433.82	0.60	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05662350	Dietzia	225.90	6.62	hypothetical protein
+PGF_05672159	Dietzia	41.10	5.30	hypothetical protein
+PGF_05674671	Dietzia	144.50	2.55	hypothetical protein
+PGF_05679920	Dietzia	1304.91	3.36	ATP-dependent helicase HrpA
+PGF_05686896	Dietzia	379.70	185.51	hypothetical protein
+PGF_05687071	Dietzia	158.10	3.14	hypothetical protein
+PGF_05700257	Dietzia	106.50	6.52	hypothetical protein
+PGF_05710599	Dietzia	305.27	34.03	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05714194	Dietzia	96.00	0.00	hypothetical protein
+PGF_05718613	Dietzia	215.80	3.97	hypothetical protein
+PGF_05718784	Dietzia	126.30	18.20	hypothetical protein
+PGF_05732449	Dietzia	211.09	6.89	Protein disulfide oxidoreductase
+PGF_05732875	Dietzia	712.80	2.78	Limit dextrin alpha-1,6-maltotetraose-hydrolase (EC 3.2.1.196)
+PGF_05738585	Dietzia	211.40	1.90	hypothetical protein
+PGF_05739774	Dietzia	90.90	0.32	hypothetical protein
+PGF_05743061	Dietzia	918.64	5.52	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05756849	Dietzia	412.36	111.73	hypothetical protein
+PGF_05774574	Dietzia	311.30	5.12	hypothetical protein
+PGF_05808515	Dietzia	229.70	1.70	hypothetical protein
+PGF_05816277	Dietzia	300.80	12.84	hypothetical protein
+PGF_05820470	Dietzia	360.00	34.37	hypothetical protein
+PGF_05829777	Dietzia	203.82	11.50	hypothetical protein
+PGF_05837787	Dietzia	121.60	4.53	hypothetical protein
+PGF_05890946	Dietzia	255.30	37.41	hypothetical protein
+PGF_05908643	Dietzia	334.09	11.79	putative membrane protein
+PGF_05913706	Dietzia	84.20	3.88	hypothetical protein
+PGF_05926877	Dietzia	152.00	0.47	hypothetical protein
+PGF_05929221	Dietzia	163.60	1.26	hypothetical protein
+PGF_05948634	Dietzia	297.10	33.15	hypothetical protein
+PGF_05949521	Dietzia	559.82	11.34	Protein translocase subunit SecD
+PGF_05963012	Dietzia	235.90	0.32	hypothetical protein
+PGF_05984178	Dietzia	83.00	6.32	hypothetical protein
+PGF_05985184	Dietzia	59.00	0.00	hypothetical protein
+PGF_05991947	Dietzia	180.10	1.45	hypothetical protein
+PGF_06034246	Dietzia	210.20	0.63	hypothetical protein
+PGF_06051594	Dietzia	451.55	1.81	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06064929	Dietzia	245.90	9.94	hypothetical protein
+PGF_06080331	Dietzia	343.00	38.76	hypothetical protein
+PGF_06082178	Dietzia	204.70	31.93	hypothetical protein
+PGF_06098633	Dietzia	449.18	27.03	Uncharacterized DUF349-containing protein SCO1511
+PGF_06099556	Dietzia	159.30	13.08	hypothetical protein
+PGF_06102726	Dietzia	267.00	2.67	hypothetical protein
+PGF_06112022	Dietzia	149.00	0.00	hypothetical protein
+PGF_06127220	Dietzia	431.20	16.48	hypothetical protein
+PGF_06133146	Dietzia	292.00	5.35	hypothetical protein
+PGF_06149998	Dietzia	567.09	31.72	Phosphodiesterase/alkaline phosphatase D
+PGF_06152621	Dietzia	326.10	9.93	hypothetical protein
+PGF_06166559	Dietzia	446.30	13.87	hypothetical protein
+PGF_06173668	Dietzia	112.90	8.72	hypothetical protein
+PGF_06213055	Dietzia	258.00	0.00	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06226452	Dietzia	157.20	52.63	hypothetical protein
+PGF_06234894	Dietzia	242.09	12.53	hypothetical protein
+PGF_06246853	Dietzia	201.60	27.97	hypothetical protein
+PGF_06247563	Dietzia	137.00	0.00	hypothetical protein
+PGF_06254345	Dietzia	95.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06268025	Dietzia	245.70	1.64	hypothetical protein
+PGF_06285041	Dietzia	388.55	31.61	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06287652	Dietzia	290.00	34.04	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06290642	Dietzia	293.90	6.37	hypothetical protein
+PGF_06294815	Dietzia	327.91	3.83	Sodium/bile acid symporter family
+PGF_06298671	Dietzia	282.46	15.85	Efflux ABC transporter, permease protein
+PGF_06314786	Dietzia	178.10	0.32	hypothetical protein
+PGF_06315406	Dietzia	426.55	2.66	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06316607	Dietzia	110.20	18.54	hypothetical protein
+PGF_06323778	Dietzia	244.82	0.87	hypothetical protein
+PGF_06329961	Dietzia	410.36	0.81	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06331221	Dietzia	275.50	21.36	hypothetical protein
+PGF_06331579	Dietzia	294.82	0.60	O-antigen export system permease protein RfbD
+PGF_06366599	Dietzia	302.40	4.09	Probable (3R)-hydroxyacyl-CoA dehydratase HtdX
+PGF_06370056	Dietzia	122.50	12.67	hypothetical protein
+PGF_06371630	Dietzia	364.40	10.63	hypothetical protein
+PGF_06373140	Dietzia	136.00	0.00	hypothetical protein
+PGF_06375036	Dietzia	199.50	7.86	hypothetical protein
+PGF_06377994	Dietzia	483.64	6.70	FtsW-like cell division membrane protein CA_C0505
+PGF_06378331	Dietzia	101.70	8.64	hypothetical protein
+PGF_06379377	Dietzia	453.82	9.06	Replication-associated recombination protein RarA
+PGF_06391417	Dietzia	430.20	0.42	4-hydroxybutyrate coenzyme A transferase
+PGF_06394854	Dietzia	246.30	0.67	hypothetical protein
+PGF_06401314	Dietzia	287.60	16.05	hypothetical protein
+PGF_06418354	Dietzia	190.90	6.06	hypothetical protein
+PGF_06445234	Dietzia	254.90	2.85	hypothetical protein
+PGF_06452610	Dietzia	201.40	0.52	hypothetical protein
+PGF_06461498	Dietzia	284.09	3.51	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06484356	Dietzia	280.00	33.65	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_06510062	Dietzia	79.10	8.21	hypothetical protein
+PGF_06514861	Dietzia	131.40	5.06	hypothetical protein
+PGF_06530721	Dietzia	257.09	8.31	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06532408	Dietzia	122.40	23.77	hypothetical protein
+PGF_06565350	Dietzia	375.60	30.36	hypothetical protein
+PGF_06608223	Dietzia	63.10	11.09	hypothetical protein
+PGF_06614974	Dietzia	190.00	33.44	hypothetical protein
+PGF_06619608	Dietzia	140.20	18.97	hypothetical protein
+PGF_06644010	Dietzia	312.64	82.73	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06649360	Dietzia	235.27	11.67	Segregation and condensation protein B
+PGF_06660718	Dietzia	324.00	26.16	Bifunctional protein: zinc-containing alcohol dehydrogenase; quinone oxidoreductase ( NADPH:quinone reductase) (EC 1.1.1.-); Similar to arginate lyase
+PGF_06660812	Dietzia	198.09	1.14	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06665587	Dietzia	210.00	0.00	hypothetical protein
+PGF_06667414	Dietzia	228.40	37.74	hypothetical protein
+PGF_06692201	Dietzia	234.60	13.39	hypothetical protein
+PGF_06693963	Dietzia	111.45	1.51	Nucleoid-associated protein YaaK
+PGF_06701488	Dietzia	163.18	3.92	RNA-binding protein Jag
+PGF_06716477	Dietzia	148.60	5.48	hypothetical protein
+PGF_06718352	Dietzia	179.64	11.35	Cys-tRNA(Pro) deacylase YbaK
+PGF_06735060	Dietzia	826.73	7.42	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06742070	Dietzia	664.20	7.13	hypothetical protein
+PGF_06755829	Dietzia	392.55	45.42	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06775855	Dietzia	95.90	6.38	hypothetical protein
+PGF_06791136	Dietzia	202.70	12.66	hypothetical protein
+PGF_06798107	Dietzia	149.00	11.89	hypothetical protein
+PGF_06822849	Dietzia	218.80	33.16	hypothetical protein
+PGF_06863675	Dietzia	243.60	0.84	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_06940158	Dietzia	132.60	1.26	hypothetical protein
+PGF_07072294	Dietzia	316.00	0.00	Electron transfer flavoprotein, alpha subunit
+PGF_08056227	Dietzia	194.00	0.00	Flavin-dependent monooxygenase, reductase subunit HsaB (EC 1.5.1.36)
+PGF_08061344	Dietzia	275.64	8.48	Short-chain dehydrogenase
+PGF_08069681	Dietzia	125.00	3.32	hypothetical protein
+PGF_08072126	Dietzia	174.10	0.32	hypothetical protein
+PGF_08125688	Dietzia	352.64	6.68	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_08186622	Dietzia	366.36	71.76	Probable acetyl-CoA acetyltransferase FadA5 (EC 2.3.1.9)
+PGF_08197987	Dietzia	115.45	1.51	Iron-sulfur cluster insertion protein SCO2161

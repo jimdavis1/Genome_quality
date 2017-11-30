@@ -1,0 +1,998 @@
+PGF_00000027	Jeotgalibacillus	264.00	1.22	Uncharacterized protein YmdB
+PGF_00000196	Jeotgalibacillus	404.00	6.44	FIG007079: UPF0348 protein family
+PGF_00000416	Jeotgalibacillus	370.00	5.00	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001028	Jeotgalibacillus	431.40	2.30	Uncharacterized zinc protease YmfH
+PGF_00001219	Jeotgalibacillus	105.80	0.84	FIG009688: Thioredoxin
+PGF_00002047	Jeotgalibacillus	124.40	19.35	Uncharacterized protein YojF
+PGF_00002359	Jeotgalibacillus	145.00	0.00	UPF0403 protein YqiW
+PGF_00002451	Jeotgalibacillus	226.00	2.83	N-acetylglucosaminyl-L-malate N-acetyl hydrolase
+PGF_00002484	Jeotgalibacillus	313.60	1.34	ABC transporter permease YhcI
+PGF_00002970	Jeotgalibacillus	248.00	1.41	FIG145533: Methyltransferase (EC 2.1.1.-)
+PGF_00003516	Jeotgalibacillus	372.60	0.55	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003812	Jeotgalibacillus	584.60	0.89	Efflux ABC transporter, permease/ATP-binding protein YknU
+PGF_00004058	Jeotgalibacillus	199.60	10.29	Fatty acid metabolism regulator protein FadR, TetR family
+PGF_00004323	Jeotgalibacillus	82.00	0.00	Ferredoxin
+PGF_00004728	Jeotgalibacillus	569.40	0.55	Fibronectin/fibrinogen-binding protein
+PGF_00005241	Jeotgalibacillus	407.00	1.87	ABC transporter, permease protein EscB
+PGF_00005244	Jeotgalibacillus	82.00	0.00	Firmicutes ribosomal L7Ae family protein
+PGF_00005286	Jeotgalibacillus	531.40	2.70	Flagellar M-ring protein FliF
+PGF_00005354	Jeotgalibacillus	150.80	1.30	Flagellar basal-body rod protein FlgC
+PGF_00005384	Jeotgalibacillus	677.00	0.00	Flagellar biosynthesis protein FlhA
+PGF_00005402	Jeotgalibacillus	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005454	Jeotgalibacillus	536.40	17.52	Flagellar hook-associated protein FlgK
+PGF_00006378	Jeotgalibacillus	320.40	0.55	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006394	Jeotgalibacillus	285.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Jeotgalibacillus	462.20	0.45	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Jeotgalibacillus	517.00	0.71	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Jeotgalibacillus	366.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Jeotgalibacillus	436.80	1.10	GTP-binding protein EngA
+PGF_00007026	Jeotgalibacillus	195.20	0.45	GTP-binding protein EngB
+PGF_00007027	Jeotgalibacillus	301.80	1.10	GTP-binding protein Era
+PGF_00007028	Jeotgalibacillus	421.20	12.91	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007045	Jeotgalibacillus	258.80	0.45	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Jeotgalibacillus	460.60	1.52	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Jeotgalibacillus	294.00	2.00	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007479	Jeotgalibacillus	127.80	1.79	General stress protein 13
+PGF_00007481	Jeotgalibacillus	170.00	1.22	ThiJ/PfpI family protein YhbO
+PGF_00007489	Jeotgalibacillus	155.80	9.44	UPF0478 protein YtxG
+PGF_00007632	Jeotgalibacillus	310.80	0.45	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Jeotgalibacillus	321.80	0.45	Glucokinase (EC 2.7.1.2)
+PGF_00007971	Jeotgalibacillus	384.40	2.51	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00008051	Jeotgalibacillus	444.20	1.92	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008075	Jeotgalibacillus	407.60	0.89	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Jeotgalibacillus	262.80	5.89	Glutamate racemase (EC 5.1.1.3)
+PGF_00008269	Jeotgalibacillus	200.20	0.45	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008313	Jeotgalibacillus	392.40	2.70	Glutamine-dependent 2-keto-4-methylthiobutyrate transaminase
+PGF_00008329	Jeotgalibacillus	357.00	0.00	Glutamyl aminopeptidase (EC 3.4.11.7); Deblocking aminopeptidase
+PGF_00008334	Jeotgalibacillus	452.80	10.71	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Jeotgalibacillus	484.60	0.89	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008537	Jeotgalibacillus	496.00	0.00	Glycerol kinase (EC 2.7.1.30)
+PGF_00008542	Jeotgalibacillus	282.80	26.56	Glycerol uptake facilitator protein
+PGF_00008611	Jeotgalibacillus	348.40	5.13	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008774	Jeotgalibacillus	447.20	0.45	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Jeotgalibacillus	490.40	1.34	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008838	Jeotgalibacillus	239.40	3.78	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008864	Jeotgalibacillus	341.60	0.89	Glycogen biosynthesis protein GlgD, glucose-1-phosphate adenylyltransferase family
+PGF_00008874	Jeotgalibacillus	797.20	2.05	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Jeotgalibacillus	480.00	2.24	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Jeotgalibacillus	188.60	2.88	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009760	Jeotgalibacillus	379.60	1.67	UDP-N-acetylglucosamine:L-malate glycosyltransferase
+PGF_00010205	Jeotgalibacillus	246.20	12.13	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Jeotgalibacillus	204.20	0.45	Guanylate kinase (EC 2.7.4.8)
+PGF_00010468	Jeotgalibacillus	267.60	14.66	Hydrolase (HAD superfamily) in cluster with DUF1447
+PGF_00010471	Jeotgalibacillus	191.80	0.84	HAD-superfamily hydrolase-like protein
+PGF_00011081	Jeotgalibacillus	798.60	5.77	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011246	Jeotgalibacillus	276.80	0.45	HemX protein, negative effector of steady-state concentration of glutamyl-tRNA reductase
+PGF_00011536	Jeotgalibacillus	260.60	5.73	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
+PGF_00011541	Jeotgalibacillus	320.00	0.00	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011542	Jeotgalibacillus	225.20	1.64	Heptaprenylglyceryl phosphate synthase (EC 2.5.1.n9)
+PGF_00011792	Jeotgalibacillus	104.20	0.84	His repressor
+PGF_00011940	Jeotgalibacillus	432.60	16.59	Histidine permease YuiF
+PGF_00011953	Jeotgalibacillus	141.40	2.07	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00011979	Jeotgalibacillus	424.20	2.17	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Jeotgalibacillus	333.00	1.00	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Jeotgalibacillus	307.60	2.88	Homoserine kinase (EC 2.7.1.39)
+PGF_00012639	Jeotgalibacillus	263.60	1.34	FIG00003568: ACT domain protein
+PGF_00012652	Jeotgalibacillus	172.60	0.55	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00012657	Jeotgalibacillus	150.20	1.79	ACT domain-containing protein
+PGF_00012877	Jeotgalibacillus	310.00	9.03	Uncharacterized membrane anchored protein YqkD
+PGF_00013003	Jeotgalibacillus	644.40	1.34	Bis-ABC ATPase YheS
+PGF_00013144	Jeotgalibacillus	158.00	11.18	Terminal oxidase biogenesis protein CtaM, putative heme A, heme O chaperone
+PGF_00013207	Jeotgalibacillus	327.00	0.00	Uncharacterized membrane protein YfhP
+PGF_00013283	Jeotgalibacillus	224.40	3.13	UPF0001 protein YggS
+PGF_00013347	Jeotgalibacillus	88.40	0.55	UPF0297 protein YrzL
+PGF_00013492	Jeotgalibacillus	181.60	0.89	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Jeotgalibacillus	512.00	2.92	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Jeotgalibacillus	196.00	1.22	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Jeotgalibacillus	260.00	7.21	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Jeotgalibacillus	256.40	2.88	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014311	Jeotgalibacillus	487.40	0.55	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Jeotgalibacillus	238.00	3.39	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Jeotgalibacillus	73.20	1.79	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Jeotgalibacillus	286.60	0.55	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Jeotgalibacillus	260.20	0.45	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Jeotgalibacillus	465.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Jeotgalibacillus	435.80	0.84	Iron-sulfur cluster assembly protein SufD
+PGF_00015686	Jeotgalibacillus	467.00	3.00	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015701	Jeotgalibacillus	422.20	0.45	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015737	Jeotgalibacillus	313.00	81.06	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00015822	Jeotgalibacillus	205.00	1.58	KapD, inhibitor of KinA pathway to sporulation
+PGF_00015855	Jeotgalibacillus	342.40	0.55	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015983	Jeotgalibacillus	248.60	0.89	L-cystine ABC transporter, ATP-binding protein TcyC
+PGF_00016003	Jeotgalibacillus	365.40	0.89	L-alanine-DL-glutamate epimerase (EC 5.1.1.n1)
+PGF_00016223	Jeotgalibacillus	295.60	2.61	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Jeotgalibacillus	220.00	0.00	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016328	Jeotgalibacillus	166.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Jeotgalibacillus	422.40	1.34	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Jeotgalibacillus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Jeotgalibacillus	146.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Jeotgalibacillus	144.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Jeotgalibacillus	125.60	3.58	LSU ribosomal protein L17p
+PGF_00016353	Jeotgalibacillus	119.20	1.10	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Jeotgalibacillus	232.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Jeotgalibacillus	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Jeotgalibacillus	113.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Jeotgalibacillus	94.20	0.45	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Jeotgalibacillus	102.60	0.89	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Jeotgalibacillus	95.60	0.89	LSU ribosomal protein L27p
+PGF_00016393	Jeotgalibacillus	276.20	0.45	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Jeotgalibacillus	59.80	0.45	LSU ribosomal protein L30p (L7e)
+PGF_00016431	Jeotgalibacillus	209.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Jeotgalibacillus	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Jeotgalibacillus	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Jeotgalibacillus	178.20	0.45	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Jeotgalibacillus	120.60	1.34	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Jeotgalibacillus	148.60	0.55	LSU ribosomal protein L9p
+PGF_00016495	Jeotgalibacillus	254.20	2.59	Lactam utilization protein LamB
+PGF_00016739	Jeotgalibacillus	355.40	2.88	Late competence protein ComGA, access of DNA to ComEA
+PGF_00017479	Jeotgalibacillus	307.40	6.19	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017863	Jeotgalibacillus	479.20	2.28	ATP-dependent RNA helicase YxiN
+PGF_00018944	Jeotgalibacillus	72.40	2.19	Major transcriptional regulator of spore coat formation GerE
+PGF_00018952	Jeotgalibacillus	313.40	0.89	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Jeotgalibacillus	469.80	1.64	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019221	Jeotgalibacillus	1233.20	11.58	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Jeotgalibacillus	310.00	1.00	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019427	Jeotgalibacillus	112.80	1.64	MazG nucleotide pyrophosphohydrolase
+PGF_00019428	Jeotgalibacillus	180.20	0.45	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019563	Jeotgalibacillus	236.80	0.45	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
+PGF_00020147	Jeotgalibacillus	366.80	1.79	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020272	Jeotgalibacillus	254.60	0.55	Menaquinone-cytochrome C oxidoreductase, cytochrome C subunit
+PGF_00020273	Jeotgalibacillus	168.80	1.10	Menaquinone-cytochrome C reductase iron-sulfur subunit
+PGF_00020275	Jeotgalibacillus	224.00	0.00	Menaquinone-cytochrome c reductase, cytochrome B subunit
+PGF_00020361	Jeotgalibacillus	157.00	1.73	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020793	Jeotgalibacillus	223.20	67.63	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020981	Jeotgalibacillus	511.80	1.64	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Jeotgalibacillus	284.80	3.49	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Jeotgalibacillus	127.80	5.36	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021217	Jeotgalibacillus	510.20	0.45	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021390	Jeotgalibacillus	229.20	1.10	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00021976	Jeotgalibacillus	398.00	3.46	Uncharacterized metal ion transporter YcsG, Mn(2+)/Fe(2+) NRAMP family
+PGF_00022467	Jeotgalibacillus	168.60	1.34	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00022577	Jeotgalibacillus	170.80	3.77	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00022707	Jeotgalibacillus	333.00	0.00	MreB-like protein (Mbl protein)
+PGF_00023102	Jeotgalibacillus	579.80	3.42	Efflux ABC transporter, permease/ATP-binding protein YgaD
+PGF_00023189	Jeotgalibacillus	396.00	4.36	Uncharacterized MFS-type transporter YttB
+PGF_00023479	Jeotgalibacillus	152.60	1.34	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Jeotgalibacillus	339.40	4.45	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023719	Jeotgalibacillus	381.80	6.69	N-acetyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.-)
+PGF_00023739	Jeotgalibacillus	344.40	0.89	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023794	Jeotgalibacillus	390.80	5.40	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00023833	Jeotgalibacillus	244.20	7.98	N-acetylmannosaminyltransferase (EC 2.4.1.187)
+PGF_00023835	Jeotgalibacillus	302.20	3.56	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00024273	Jeotgalibacillus	171.20	20.02	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Jeotgalibacillus	378.40	4.16	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Jeotgalibacillus	274.40	1.34	NAD synthetase (EC 6.3.1.5)
+PGF_00024567	Jeotgalibacillus	394.20	0.45	Acetate kinase (EC 2.7.2.1)
+PGF_00024656	Jeotgalibacillus	371.40	12.34	Uncharacterized NADH-dependent flavin oxidoreductase YqiG
+PGF_00024855	Jeotgalibacillus	165.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00024973	Jeotgalibacillus	285.20	0.45	NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)
+PGF_00025090	Jeotgalibacillus	578.60	2.88	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025181	Jeotgalibacillus	460.80	5.85	Na(+)-linked D-alanine glycine permease
+PGF_00025215	Jeotgalibacillus	170.60	0.89	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025410	Jeotgalibacillus	217.80	0.45	Negative regulator of genetic competence MecA
+PGF_00025760	Jeotgalibacillus	637.00	1.58	Nitric oxide reductase activation protein NorD
+PGF_00025778	Jeotgalibacillus	376.60	7.92	Nitric oxide synthase oxygenase (EC 1.-.-.-)
+PGF_00026279	Jeotgalibacillus	321.60	2.30	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026300	Jeotgalibacillus	277.20	3.49	Novel pyridoxal kinase, thiD family (EC 2.7.1.35)
+PGF_00026362	Jeotgalibacillus	196.00	1.87	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026391	Jeotgalibacillus	314.80	2.17	Nucleoside binding-domain containing protein YvoD
+PGF_00026453	Jeotgalibacillus	288.40	2.30	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026468	Jeotgalibacillus	182.60	1.34	Nucleotide excision repair protein, with UvrB/UvrC motif
+PGF_00026615	Jeotgalibacillus	258.00	1.58	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026794	Jeotgalibacillus	367.60	1.95	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00026864	Jeotgalibacillus	280.60	0.55	Octanoyl-[GcvH]:protein N-octanoyltransferase (EC 2.3.1.204)
+PGF_00027563	Jeotgalibacillus	93.20	0.45	Ortholog of S. aureus MRSA252 (BX571856) SAR1694
+PGF_00027684	Jeotgalibacillus	210.80	1.79	Acetyltransferase AcuA, acetyl-CoA synthetase inhibitor
+PGF_00028472	Jeotgalibacillus	178.40	2.70	Outer spore coat protein CotE
+PGF_00028690	Jeotgalibacillus	301.00	2.24	Oxidoreductase YdhF
+PGF_00029132	Jeotgalibacillus	377.60	0.89	PBS lyase HEAT-like repeat domain protein
+PGF_00029866	Jeotgalibacillus	477.00	4.12	PTS system, trehalose-specific IIB component (EC 2.7.1.201) / PTS system, trehalose-specific IIC component
+PGF_00029917	Jeotgalibacillus	282.00	5.52	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Jeotgalibacillus	358.80	1.64	Peptide chain release factor 1
+PGF_00031568	Jeotgalibacillus	147.40	1.34	Peroxide stress regulator PerR, FUR family
+PGF_00033092	Jeotgalibacillus	119.40	0.55	Phenylalanyl-tRNA synthetase alpha subunit
+PGF_00033095	Jeotgalibacillus	803.60	0.55	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033197	Jeotgalibacillus	323.20	0.45	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033201	Jeotgalibacillus	300.20	0.84	Branched-chain phosphotransacylase (EC 2.3.1.- )
+PGF_00033237	Jeotgalibacillus	320.60	0.89	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Jeotgalibacillus	292.40	0.89	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Jeotgalibacillus	328.60	3.21	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Jeotgalibacillus	324.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033411	Jeotgalibacillus	270.20	2.17	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Jeotgalibacillus	571.60	0.89	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Jeotgalibacillus	659.80	2.39	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033479	Jeotgalibacillus	577.40	2.07	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Jeotgalibacillus	394.40	0.55	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033877	Jeotgalibacillus	160.80	1.10	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Jeotgalibacillus	394.40	0.55	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Jeotgalibacillus	212.20	6.10	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Jeotgalibacillus	419.40	1.95	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033932	Jeotgalibacillus	526.40	2.19	Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases, YtcI homolog
+PGF_00033936	Jeotgalibacillus	238.60	1.34	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Jeotgalibacillus	205.00	6.60	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Jeotgalibacillus	242.60	1.34	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Jeotgalibacillus	345.00	2.00	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Jeotgalibacillus	227.60	0.55	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Jeotgalibacillus	738.60	2.07	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Jeotgalibacillus	194.40	4.28	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Jeotgalibacillus	362.80	4.97	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034131	Jeotgalibacillus	660.00	2.12	Acylamino-acid-releasing enzyme (EC 3.4.19.1)
+PGF_00034776	Jeotgalibacillus	705.00	1.00	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Jeotgalibacillus	170.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Jeotgalibacillus	325.00	1.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035009	Jeotgalibacillus	147.40	5.18	Positive regulator of CheA protein activity (CheW)
+PGF_00035721	Jeotgalibacillus	431.40	0.55	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Jeotgalibacillus	430.00	1.22	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036543	Jeotgalibacillus	555.60	3.13	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036580	Jeotgalibacillus	89.20	1.10	Protein translocase subunit YajC
+PGF_00036988	Jeotgalibacillus	290.00	0.00	Agmatinase (EC 3.5.3.11)
+PGF_00036997	Jeotgalibacillus	539.60	2.51	Probable cell division protein YtgP
+PGF_00037481	Jeotgalibacillus	78.00	24.35	Programmed cell death antitoxin YdcD
+PGF_00037527	Jeotgalibacillus	361.40	4.04	Proline dipeptidase (EC 3.4.13.9)
+PGF_00037588	Jeotgalibacillus	569.40	3.05	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037852	Jeotgalibacillus	197.40	3.58	Protease production regulatory protein Hpr (ScoC)
+PGF_00038619	Jeotgalibacillus	252.00	1.41	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038653	Jeotgalibacillus	751.20	8.04	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038971	Jeotgalibacillus	282.60	2.07	Pur operon repressor PurR
+PGF_00038987	Jeotgalibacillus	233.80	0.45	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039149	Jeotgalibacillus	359.80	1.79	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00039710	Jeotgalibacillus	258.40	2.19	Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00039842	Jeotgalibacillus	243.20	1.79	Putative acetyl esterase YjcH (EC 3.1.1.-)
+PGF_00039997	Jeotgalibacillus	170.20	2.86	Putative acetyltransferase YvoF
+PGF_00040334	Jeotgalibacillus	237.40	1.67	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PGF_00040578	Jeotgalibacillus	254.60	0.55	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Jeotgalibacillus	137.60	1.67	Alkaline shock protein
+PGF_00041788	Jeotgalibacillus	145.00	1.22	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041892	Jeotgalibacillus	362.20	3.83	Putative lipoprotein SAV1865
+PGF_00042167	Jeotgalibacillus	157.60	6.99	Putative metallopeptidase (Zinc) SprT family
+PGF_00042913	Jeotgalibacillus	287.40	4.88	Sporulation-specific protease YabG
+PGF_00043199	Jeotgalibacillus	403.00	4.12	Putative pheromone cAM373 precursor lipoprotein CamS
+PGF_00043821	Jeotgalibacillus	393.80	0.84	Putative ribosomal RNA large subunit methyltransferase YwbD
+PGF_00045926	Jeotgalibacillus	433.40	3.21	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045930	Jeotgalibacillus	216.80	0.45	Pyrophosphatase PpaX (EC 3.6.1.1)
+PGF_00045963	Jeotgalibacillus	1147.20	0.45	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045994	Jeotgalibacillus	585.80	0.45	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00046060	Jeotgalibacillus	244.80	1.64	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046197	Jeotgalibacillus	280.20	3.56	RNA binding methyltransferase FtsJ like
+PGF_00046199	Jeotgalibacillus	143.60	8.76	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046350	Jeotgalibacillus	263.60	0.89	RNA polymerase sigma factor SigB
+PGF_00046367	Jeotgalibacillus	180.80	8.47	RNA polymerase sigma factor SigX
+PGF_00046377	Jeotgalibacillus	256.20	1.30	RNA polymerase sigma factor for flagellar operon
+PGF_00046551	Jeotgalibacillus	239.80	1.10	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046553	Jeotgalibacillus	258.20	1.30	RNA polymerase sporulation specific sigma factor SigG
+PGF_00046555	Jeotgalibacillus	213.60	7.13	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Jeotgalibacillus	76.20	2.05	RNA-binding protein Hfq
+PGF_00047078	Jeotgalibacillus	350.00	1.87	RecA protein
+PGF_00047155	Jeotgalibacillus	222.00	4.00	Redox-sensing transcriptional repressor Rex
+PGF_00047533	Jeotgalibacillus	397.00	5.96	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00047555	Jeotgalibacillus	559.40	3.29	Alpha-glucosidase (EC 3.2.1.20)
+PGF_00048331	Jeotgalibacillus	320.60	2.41	Rhodanese domain protein UPF0176, Firmicutes subgroup
+PGF_00048480	Jeotgalibacillus	214.00	2.83	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Jeotgalibacillus	253.80	2.17	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048557	Jeotgalibacillus	308.00	3.32	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048564	Jeotgalibacillus	555.00	0.00	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PGF_00048566	Jeotgalibacillus	186.00	0.00	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048586	Jeotgalibacillus	251.00	4.06	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Jeotgalibacillus	307.80	5.17	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048643	Jeotgalibacillus	152.80	0.45	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048651	Jeotgalibacillus	147.20	1.10	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Jeotgalibacillus	318.60	0.89	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Jeotgalibacillus	242.60	0.89	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Jeotgalibacillus	315.40	3.51	Ribosomal protein L11 methyltransferase
+PGF_00048868	Jeotgalibacillus	237.60	1.34	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Jeotgalibacillus	193.00	3.08	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Jeotgalibacillus	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Jeotgalibacillus	294.00	2.24	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Jeotgalibacillus	86.80	1.10	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Jeotgalibacillus	113.00	5.70	Ribosome-binding factor A
+PGF_00048985	Jeotgalibacillus	217.00	0.71	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049245	Jeotgalibacillus	119.00	1.41	RsbS, negative regulator of sigma-B
+PGF_00049330	Jeotgalibacillus	399.20	0.45	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Jeotgalibacillus	341.20	0.45	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Jeotgalibacillus	157.20	0.45	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049731	Jeotgalibacillus	419.80	3.11	Aluminum resistance protein
+PGF_00049827	Jeotgalibacillus	292.80	1.79	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Jeotgalibacillus	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Jeotgalibacillus	129.40	0.89	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Jeotgalibacillus	139.00	0.71	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Jeotgalibacillus	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Jeotgalibacillus	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Jeotgalibacillus	90.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Jeotgalibacillus	87.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Jeotgalibacillus	78.20	0.45	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Jeotgalibacillus	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Jeotgalibacillus	219.20	1.10	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Jeotgalibacillus	200.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Jeotgalibacillus	166.40	0.89	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Jeotgalibacillus	96.00	0.71	SSU ribosomal protein S6p
+PGF_00049904	Jeotgalibacillus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Jeotgalibacillus	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Jeotgalibacillus	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Jeotgalibacillus	255.00	4.42	Segregation and condensation protein A
+PGF_00050568	Jeotgalibacillus	346.60	8.62	Sensor histidine kinase LiaS
+PGF_00050579	Jeotgalibacillus	586.60	3.78	Sensor histidine kinase ResE (EC 2.7.13.3)
+PGF_00050712	Jeotgalibacillus	376.80	6.98	Sensor protein DegS
+PGF_00050995	Jeotgalibacillus	473.60	1.34	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Jeotgalibacillus	225.40	2.30	Septum site-determining protein MinC
+PGF_00051525	Jeotgalibacillus	425.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051938	Jeotgalibacillus	225.00	0.71	ABC transporter, permease protein YckA (cluster 3, basic aa/glutamine/opines)
+PGF_00052218	Jeotgalibacillus	108.40	2.19	Signal recognition particle associated protein
+PGF_00052238	Jeotgalibacillus	448.40	1.34	Signal recognition particle protein Ffh
+PGF_00052705	Jeotgalibacillus	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052905	Jeotgalibacillus	217.80	2.95	Site-specific recombinase, resolvase family
+PGF_00052943	Jeotgalibacillus	295.60	2.19	Site-specific tyrosine recombinase XerD
+PGF_00053035	Jeotgalibacillus	62.80	11.50	Small acid-soluble spore protein
+PGF_00053770	Jeotgalibacillus	367.00	5.79	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053877	Jeotgalibacillus	266.20	20.63	Spore cortex-lytic enzyme, lytic transglycosylase SleB
+PGF_00053894	Jeotgalibacillus	195.60	3.85	Spore maturation protein A
+PGF_00053897	Jeotgalibacillus	178.00	2.00	Spore maturation protein B
+PGF_00053909	Jeotgalibacillus	137.80	11.76	Spore protein GerW (YtfJ), not involved in spore germination
+PGF_00053925	Jeotgalibacillus	120.80	2.05	Sporulation initiation phosphotransferase (Spo0F)
+PGF_00054038	Jeotgalibacillus	296.80	12.85	Stage III sporulation protein AA
+PGF_00054088	Jeotgalibacillus	293.20	148.27	Stage IV sporulation protein B
+PGF_00054116	Jeotgalibacillus	178.00	0.00	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+PGF_00054118	Jeotgalibacillus	84.40	3.58	Spore core dehydratation and coat assembly protein SpoVS
+PGF_00054134	Jeotgalibacillus	309.80	11.23	Stage V sporulation protein SpoVK
+PGF_00054466	Jeotgalibacillus	202.00	0.00	Succinate dehydrogenase cytochrome b558 subunit
+PGF_00054480	Jeotgalibacillus	257.40	2.88	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Jeotgalibacillus	385.80	0.45	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055295	Jeotgalibacillus	222.40	3.13	Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00056362	Jeotgalibacillus	220.80	2.68	TPR repeat-containing protein YrrB
+PGF_00056634	Jeotgalibacillus	166.20	0.45	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056662	Jeotgalibacillus	339.20	0.84	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056797	Jeotgalibacillus	378.80	12.42	Uncharacterized radical SAM protein YfkA
+PGF_00056802	Jeotgalibacillus	105.40	0.55	Thioredoxin-like protein YdbP
+PGF_00056814	Jeotgalibacillus	475.20	22.32	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Jeotgalibacillus	200.40	3.65	Thymidine kinase (EC 2.7.1.21)
+PGF_00057019	Jeotgalibacillus	133.00	0.00	Anti-sigma B factor RsbT
+PGF_00057270	Jeotgalibacillus	808.20	1.79	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057279	Jeotgalibacillus	123.20	12.93	Toprim domain protein
+PGF_00057399	Jeotgalibacillus	213.20	0.84	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Jeotgalibacillus	147.60	0.89	Transamidase GatB domain protein
+PGF_00057429	Jeotgalibacillus	75.00	1.00	Transcription attenuation protein MtrB
+PGF_00057440	Jeotgalibacillus	191.40	4.39	Transcription factor FapR
+PGF_00057451	Jeotgalibacillus	110.40	3.71	Transcription regulator CDS_ID OB0894
+PGF_00057483	Jeotgalibacillus	426.80	2.77	Transcription termination factor Rho
+PGF_00057485	Jeotgalibacillus	373.60	0.89	Transcription termination protein NusA
+PGF_00057488	Jeotgalibacillus	132.80	1.10	Transcription termination protein NusB
+PGF_00058501	Jeotgalibacillus	679.40	8.62	Transcriptional regulator BkdR of isoleucine and valine catabolism operon
+PGF_00058523	Jeotgalibacillus	225.00	2.24	Transcriptional regulator DegU, LuxR family
+PGF_00058741	Jeotgalibacillus	241.00	0.00	Transcriptional regulator in cluster with Zn-dependent hydrolase
+PGF_00058747	Jeotgalibacillus	298.60	3.44	Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system
+PGF_00060185	Jeotgalibacillus	238.80	0.45	Transcriptional regulatory protein YeeN
+PGF_00060261	Jeotgalibacillus	178.60	0.89	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060280	Jeotgalibacillus	249.80	0.84	Transcriptional repressor of the fructose operon, DeoR family
+PGF_00060398	Jeotgalibacillus	667.20	1.30	Transketolase (EC 2.2.1.1)
+PGF_00060409	Jeotgalibacillus	692.00	0.00	Translation elongation factor G
+PGF_00060414	Jeotgalibacillus	609.40	0.89	Translation elongation factor LepA
+PGF_00060421	Jeotgalibacillus	185.60	0.55	Translation elongation factor P
+PGF_00060427	Jeotgalibacillus	293.00	0.00	Translation elongation factor Ts
+PGF_00060428	Jeotgalibacillus	396.00	0.00	Translation elongation factor Tu
+PGF_00060478	Jeotgalibacillus	186.00	17.66	Translation initiation factor 3
+PGF_00060769	Jeotgalibacillus	396.80	5.40	Uncharacterized MFS-type transporter YuxJ
+PGF_00060799	Jeotgalibacillus	289.20	0.45	Uncharacterized UPF0750 membrane protein YpjC
+PGF_00061922	Jeotgalibacillus	409.40	2.19	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062023	Jeotgalibacillus	261.60	3.78	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Jeotgalibacillus	400.00	1.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Jeotgalibacillus	329.60	1.52	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062135	Jeotgalibacillus	59.40	2.51	Twin-arginine translocation protein TatAy
+PGF_00062144	Jeotgalibacillus	263.40	8.65	Twin-arginine translocation protein TatCy
+PGF_00062579	Jeotgalibacillus	366.20	12.46	Sensor histidine kinase DesK
+PGF_00063974	Jeotgalibacillus	298.60	11.84	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Jeotgalibacillus	359.00	2.35	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Jeotgalibacillus	434.80	1.64	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064169	Jeotgalibacillus	299.20	1.79	Arginase (EC 3.5.3.1)
+PGF_00064244	Jeotgalibacillus	503.60	7.67	Arginine decarboxylase (EC 4.1.1.19)
+PGF_00064251	Jeotgalibacillus	342.00	93.56	UPF0229 protein YeaH
+PGF_00064359	Jeotgalibacillus	149.80	0.45	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064517	Jeotgalibacillus	452.80	11.69	Arginine utilization regulatory protein RocR
+PGF_00064587	Jeotgalibacillus	158.20	1.10	Uncharacterized N-acetyltransferase BT9727_3663 (EC 2.3.1.-)
+PGF_00064600	Jeotgalibacillus	464.00	6.16	Uncharacterized RNA methyltransferase YfjO
+PGF_00064753	Jeotgalibacillus	314.20	0.45	Uncharacterized iron compound ABC uptake transporter, permease protein
+PGF_00064754	Jeotgalibacillus	317.60	1.95	Uncharacterized iron compound ABC uptake transporter, permease protein
+PGF_00064766	Jeotgalibacillus	182.60	3.21	Uncharacterized isochorismatase family protein YaaI
+PGF_00064857	Jeotgalibacillus	306.20	2.39	Uncharacterized oxidoreductase YqkF
+PGF_00064906	Jeotgalibacillus	1202.20	9.04	Uncharacterized protein Bsub YpbR
+PGF_00065380	Jeotgalibacillus	476.00	8.57	Uncharacterized protein YaaO
+PGF_00065679	Jeotgalibacillus	315.20	1.64	Uncharacterized protein YqhQ
+PGF_00065685	Jeotgalibacillus	85.80	0.45	Uncharacterized protein YrkD
+PGF_00065882	Jeotgalibacillus	315.00	143.11	Uncharacterized zinc-type alcohol dehydrogenase-like protein YbdR
+PGF_00066123	Jeotgalibacillus	209.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Jeotgalibacillus	179.00	1.22	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Jeotgalibacillus	224.00	1.41	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Jeotgalibacillus	211.00	0.00	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066270	Jeotgalibacillus	345.00	4.47	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066435	Jeotgalibacillus	613.20	2.17	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) YisO
+PGF_00066502	Jeotgalibacillus	430.20	0.45	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Jeotgalibacillus	127.80	0.45	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066695	Jeotgalibacillus	478.40	20.91	Vitamin B12 ABC transporter, ATP-binding protein BtuD / Adenosylcobinamide amidohydrolase (EC 3.5.1.90)
+PGF_00066906	Jeotgalibacillus	302.00	1.22	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Jeotgalibacillus	440.20	3.27	Uracil permease @ Uracil:proton symporter UraA
+PGF_00067188	Jeotgalibacillus	346.80	0.45	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067362	Jeotgalibacillus	266.40	3.58	AB hydrolase superfamily protein YisY
+PGF_00067363	Jeotgalibacillus	293.60	7.60	UPF0750 membrane protein YitT
+PGF_00067378	Jeotgalibacillus	258.60	8.62	Putative esterase YitV
+PGF_00067389	Jeotgalibacillus	92.00	0.00	YlxP-like protein
+PGF_00067418	Jeotgalibacillus	110.20	3.83	YuzD-like protein
+PGF_00067481	Jeotgalibacillus	325.20	6.14	Probable metallo-hydrolase YqjP
+PGF_00067554	Jeotgalibacillus	476.80	0.45	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067660	Jeotgalibacillus	469.80	0.45	Zn-dependent hydroxyacylglutathione hydrolase / Polysulfide binding protein
+PGF_00068417	Jeotgalibacillus	142.40	0.55	Uncharacterized protein YneK
+PGF_00070541	Jeotgalibacillus	181.20	20.41	BH3197 unknown conserved protein
+PGF_00070561	Jeotgalibacillus	153.40	11.97	BH3430 unknown conserved protein
+PGF_00072452	Jeotgalibacillus	171.00	0.71	Uncharacterized protein YwhD
+PGF_00074194	Jeotgalibacillus	141.20	0.84	hypothetical protein
+PGF_00118588	Jeotgalibacillus	222.40	4.10	Protease PrsW
+PGF_00144272	Jeotgalibacillus	164.00	3.81	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00166536	Jeotgalibacillus	107.60	0.89	Uncharacterized protein YuiB
+PGF_00187167	Jeotgalibacillus	149.40	1.82	Thiol-disulfide oxidoreductase YkuV
+PGF_00197495	Jeotgalibacillus	190.40	0.89	Putative acetyltransferase YjbC
+PGF_00224621	Jeotgalibacillus	216.40	6.19	hypothetical protein
+PGF_00234864	Jeotgalibacillus	449.20	0.45	KtrCD potassium uptake system, integral membrane component KtrD
+PGF_00236102	Jeotgalibacillus	282.40	0.89	UPF0759 protein YunF
+PGF_00246054	Jeotgalibacillus	148.00	0.00	Uncharacterized protein YtoQ
+PGF_00247656	Jeotgalibacillus	337.00	3.08	Putative membrane-bound acyltransferase YkrP
+PGF_00261173	Jeotgalibacillus	371.80	1.79	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00271745	Jeotgalibacillus	80.40	0.55	Uncharacterized membrane protein YqgY
+PGF_00295226	Jeotgalibacillus	360.00	1.00	Purine nucleoside ABC transporter, substrate-binding protein
+PGF_00316846	Jeotgalibacillus	97.20	1.79	Uncharacterized protein YneR
+PGF_00322934	Jeotgalibacillus	61.00	1.41	ComG operon repressor ComZ
+PGF_00345079	Jeotgalibacillus	277.40	8.73	UPF0721 transmembrane protein YunE
+PGF_00346814	Jeotgalibacillus	211.60	0.55	DUF1054 superfamily protein
+PGF_00400733	Jeotgalibacillus	333.00	0.00	Uncharacterized luciferase-like protein YwcH
+PGF_00402090	Jeotgalibacillus	285.40	116.50	outer membrane lipoprotein receptor
+PGF_00403691	Jeotgalibacillus	486.80	1.79	possible tetrapyrrole methyltransferase domain / Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00404078	Jeotgalibacillus	164.00	3.39	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404333	Jeotgalibacillus	326.80	4.66	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404814	Jeotgalibacillus	246.20	1.30	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404866	Jeotgalibacillus	109.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00406573	Jeotgalibacillus	263.80	2.95	Putative phosphotransferase YtmP
+PGF_00406692	Jeotgalibacillus	940.40	3.36	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408670	Jeotgalibacillus	155.60	1.52	UPF0756 membrane protein YtwI
+PGF_00408683	Jeotgalibacillus	293.40	4.72	Uncharacterized transporter YwfM
+PGF_00409415	Jeotgalibacillus	290.00	8.00	UPF0750 membrane protein YvjA
+PGF_00411946	Jeotgalibacillus	101.60	0.89	Ribosomal protein L7Ae family protein YlxQ
+PGF_00412532	Jeotgalibacillus	212.00	0.00	Transcriptional repressor CcpN, MarR family
+PGF_00413189	Jeotgalibacillus	229.80	8.01	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Jeotgalibacillus	166.60	21.47	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Jeotgalibacillus	245.80	2.17	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413295	Jeotgalibacillus	305.00	2.45	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Jeotgalibacillus	447.20	2.28	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Jeotgalibacillus	629.80	1.10	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Jeotgalibacillus	174.20	15.45	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413411	Jeotgalibacillus	363.80	3.03	Branched-chain acyl kinase (EC 2.7.2.-)
+PGF_00413554	Jeotgalibacillus	154.40	0.89	tmRNA-binding protein SmpB
+PGF_00414366	Jeotgalibacillus	574.40	5.27	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414748	Jeotgalibacillus	248.00	2.24	CAAX amino terminal protease family protein
+PGF_00414889	Jeotgalibacillus	214.80	0.45	CBS domain protein AcuB
+PGF_00415407	Jeotgalibacillus	380.60	2.61	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415486	Jeotgalibacillus	159.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415631	Jeotgalibacillus	91.80	1.30	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416025	Jeotgalibacillus	171.60	0.89	2H phosphoesterase superfamily protein Bsu1186 (yjcG)
+PGF_00416129	Jeotgalibacillus	532.40	1.52	CTP synthase (EC 6.3.4.2)
+PGF_00416436	Jeotgalibacillus	316.40	1.82	3'->5' exoribonuclease Bsu YhaM
+PGF_00416508	Jeotgalibacillus	71.80	1.30	Carbon storage regulator
+PGF_00416674	Jeotgalibacillus	397.20	0.45	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416683	Jeotgalibacillus	333.20	1.30	Catabolite control protein A
+PGF_00417093	Jeotgalibacillus	104.60	3.91	Cell division protein GpsB, coordinates the switch between cylindrical and septal cell wall synthesis by re-localization of PBP1
+PGF_00417233	Jeotgalibacillus	323.40	9.26	L-Ala--D-Glu endopeptidase
+PGF_00417381	Jeotgalibacillus	347.00	11.42	Central glycolytic genes regulator
+PGF_00417429	Jeotgalibacillus	373.60	1.14	Chaperone protein DnaJ
+PGF_00417433	Jeotgalibacillus	609.60	1.52	Chaperone protein DnaK
+PGF_00417577	Jeotgalibacillus	148.80	1.64	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417580	Jeotgalibacillus	362.40	7.70	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417658	Jeotgalibacillus	361.40	3.29	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417829	Jeotgalibacillus	359.60	1.95	Chorismate mutase I (EC 5.4.99.5) / 2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00417839	Jeotgalibacillus	125.80	1.30	Chorismate mutase II (EC 5.4.99.5)
+PGF_00417840	Jeotgalibacillus	390.20	0.45	Chorismate synthase (EC 4.2.3.5)
+PGF_00417864	Jeotgalibacillus	392.80	3.83	Chromate transport protein ChrA
+PGF_00417995	Jeotgalibacillus	230.20	4.02	Chromosome replication initiation protein DnaD
+PGF_00418737	Jeotgalibacillus	466.00	31.74	ComF operon protein A, DNA transporter ATPase
+PGF_00419414	Jeotgalibacillus	98.20	7.12	UPF0358 protein YlaN
+PGF_00419420	Jeotgalibacillus	468.80	2.05	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419622	Jeotgalibacillus	250.00	2.24	Coproheme decarboxylase HemQ (no EC)
+PGF_00419740	Jeotgalibacillus	153.20	0.45	Transcriptional regulator CtsR
+PGF_00419913	Jeotgalibacillus	166.80	2.28	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Jeotgalibacillus	278.60	0.89	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420087	Jeotgalibacillus	178.20	4.09	Cysteinyl-tRNA synthetase related protein
+PGF_00420121	Jeotgalibacillus	227.40	2.07	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420404	Jeotgalibacillus	109.80	0.84	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420500	Jeotgalibacillus	556.20	8.01	Cytochrome c-type biogenesis protein Ccs1/ResB
+PGF_00420574	Jeotgalibacillus	339.40	3.91	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_00420731	Jeotgalibacillus	502.20	1.79	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420792	Jeotgalibacillus	287.40	3.05	D-alanine aminotransferase (EC 2.6.1.21)
+PGF_00420798	Jeotgalibacillus	358.00	3.39	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420994	Jeotgalibacillus	622.00	2.83	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421071	Jeotgalibacillus	145.40	0.55	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421347	Jeotgalibacillus	356.20	2.49	DNA integrity scanning protein DisA
+PGF_00421498	Jeotgalibacillus	378.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421624	Jeotgalibacillus	569.80	0.45	DNA polymerase X family
+PGF_00421679	Jeotgalibacillus	606.00	8.60	DNA primase (EC 2.7.7.-)
+PGF_00421733	Jeotgalibacillus	373.00	2.00	DNA recombination and repair protein RecF
+PGF_00421792	Jeotgalibacillus	461.80	8.50	DNA repair protein RadA
+PGF_00421796	Jeotgalibacillus	569.20	5.22	DNA repair protein RecN
+PGF_00421807	Jeotgalibacillus	120.60	2.61	DNA replication intiation control protein YabA
+PGF_00421925	Jeotgalibacillus	294.00	7.91	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_00422061	Jeotgalibacillus	90.40	0.89	DNA-binding protein HBsu
+PGF_00422085	Jeotgalibacillus	96.20	1.92	DNA-binding protein SpoVG
+PGF_00422186	Jeotgalibacillus	238.00	1.22	DNA-binding response regulator ResD
+PGF_00422271	Jeotgalibacillus	314.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422492	Jeotgalibacillus	179.40	3.85	DUF309 domain-containing protein
+PGF_00422519	Jeotgalibacillus	79.40	3.05	DUF378 domain-containing protein
+PGF_00422545	Jeotgalibacillus	305.20	3.49	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422645	Jeotgalibacillus	348.80	1.64	Deblocking aminopeptidase (EC 3.4.11.-)
+PGF_00422910	Jeotgalibacillus	221.00	2.24	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxycytidine kinase (EC 2.7.1.74)
+PGF_00422924	Jeotgalibacillus	212.40	3.29	Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00423089	Jeotgalibacillus	362.00	1.41	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Jeotgalibacillus	323.80	23.07	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Jeotgalibacillus	430.40	5.41	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423343	Jeotgalibacillus	473.40	0.55	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Jeotgalibacillus	120.00	0.00	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Jeotgalibacillus	423.60	2.70	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Jeotgalibacillus	556.60	2.19	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423472	Jeotgalibacillus	929.40	14.42	DinG family ATP-dependent helicase YoaA
+PGF_00423474	Jeotgalibacillus	640.60	5.37	DinG family ATP-dependent helicase YpvA
+PGF_00423533	Jeotgalibacillus	282.20	12.46	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423593	Jeotgalibacillus	261.80	2.95	Dipeptidyl aminopeptidases/acylaminoacyl-peptidase
+PGF_00423621	Jeotgalibacillus	198.00	1.41	Dipicolinate synthase subunit B
+PGF_00424236	Jeotgalibacillus	143.40	4.10	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424337	Jeotgalibacillus	297.00	0.71	Endonuclease IV (EC 3.1.21.2)
+PGF_00424569	Jeotgalibacillus	257.20	0.45	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Jeotgalibacillus	590.00	0.00	Excinuclease ABC subunit C
+PGF_00425024	Jeotgalibacillus	450.40	2.51	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425052	Jeotgalibacillus	530.00	1.22	Exoenzymes regulatory protein AepA precursor
+PGF_00425091	Jeotgalibacillus	1057.40	40.76	Exonuclease SbcC
+PGF_00425092	Jeotgalibacillus	383.40	6.54	Exonuclease SbcD
+PGF_00425662	Jeotgalibacillus	288.80	5.81	FIG00002411: Thioredoxin-fold protein
+PGF_00425665	Jeotgalibacillus	271.80	3.70	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Jeotgalibacillus	294.60	0.55	RNase adapter protein RapZ
+PGF_00425679	Jeotgalibacillus	213.20	2.17	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425714	Jeotgalibacillus	724.60	27.74	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425720	Jeotgalibacillus	257.60	0.55	Putative RNA-binding protein YlmH
+PGF_00425729	Jeotgalibacillus	425.20	1.10	FIG001621: Zinc protease
+PGF_00425734	Jeotgalibacillus	120.00	0.00	FIG001802: Putative alkaline-shock protein
+PGF_00425747	Jeotgalibacillus	141.00	6.12	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Jeotgalibacillus	519.20	0.45	Ribonuclease Y
+PGF_00425787	Jeotgalibacillus	226.00	0.71	FIG002379: metal-dependent hydrolase
+PGF_00425788	Jeotgalibacillus	271.80	3.03	FIG002434: Uncharacterized protein YtpQ
+PGF_00425806	Jeotgalibacillus	326.40	3.58	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425840	Jeotgalibacillus	179.80	1.10	UPF0302 protein YpiB
+PGF_00425993	Jeotgalibacillus	382.40	0.89	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Jeotgalibacillus	387.00	15.59	FIG004453: protein YceG like
+PGF_00426057	Jeotgalibacillus	616.40	3.58	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20) / Homolog of homocysteine-binding domain
+PGF_00426115	Jeotgalibacillus	632.80	0.45	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Jeotgalibacillus	371.40	2.51	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426701	Jeotgalibacillus	280.40	0.55	FIG005590: DegV family protein
+PGF_00426877	Jeotgalibacillus	287.00	3.94	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Jeotgalibacillus	155.60	0.89	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427033	Jeotgalibacillus	72.60	0.55	UPF0154 protein YneF
+PGF_00438421	Jeotgalibacillus	285.20	0.84	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00440726	Jeotgalibacillus	168.60	0.55	FIG009886: phosphoesterase
+PGF_00482828	Jeotgalibacillus	448.80	0.45	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Jeotgalibacillus	370.20	0.45	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00598888	Jeotgalibacillus	141.20	1.30	Mini-ribonuclease III
+PGF_00599219	Jeotgalibacillus	327.20	1.30	Uncharacterized oxidoreductase YgjR
+PGF_00618776	Jeotgalibacillus	357.80	5.36	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Jeotgalibacillus	219.20	1.79	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00641071	Jeotgalibacillus	327.60	1.14	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00641077	Jeotgalibacillus	106.00	8.03	FIG139598: Potential ribosomal protein
+PGF_00650532	Jeotgalibacillus	331.40	2.88	UPF0365 protein YqfA
+PGF_00653334	Jeotgalibacillus	445.40	14.69	Uncharacterized transporter YisQ
+PGF_00655628	Jeotgalibacillus	514.20	2.17	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00656741	Jeotgalibacillus	121.20	4.15	Protein RibT
+PGF_00659194	Jeotgalibacillus	203.80	3.49	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Jeotgalibacillus	117.80	0.45	Ribosomal silencing factor RsfA
+PGF_00667256	Jeotgalibacillus	257.60	6.43	Hypothetical NagD-like phosphatase
+PGF_00694978	Jeotgalibacillus	266.20	3.35	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00717613	Jeotgalibacillus	209.20	1.48	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00718789	Jeotgalibacillus	283.80	1.79	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00730798	Jeotgalibacillus	130.80	2.95	Transcriptional regulator GlnR
+PGF_00732613	Jeotgalibacillus	58.40	3.29	hypothetical protein
+PGF_00734482	Jeotgalibacillus	692.00	0.71	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00739843	Jeotgalibacillus	64.00	0.00	hypothetical protein
+PGF_00741059	Jeotgalibacillus	323.80	1.10	Uncharacterized membrane protein YqjA
+PGF_00762954	Jeotgalibacillus	61.60	0.55	Probable diacid tautomerase of unidentified natural substrate YwhB
+PGF_00776587	Jeotgalibacillus	120.00	0.00	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Jeotgalibacillus	236.60	3.21	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Jeotgalibacillus	234.00	5.34	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00788787	Jeotgalibacillus	93.20	0.45	Transition state regulatory protein AbrB
+PGF_00798679	Jeotgalibacillus	80.00	0.00	Uncharacterized protein YtmB
+PGF_00806303	Jeotgalibacillus	489.20	12.85	TPR repeat-containing protein YvcD
+PGF_00827555	Jeotgalibacillus	566.60	3.91	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00827721	Jeotgalibacillus	127.80	1.92	Uncharacterized membrane protein YqhP
+PGF_00828128	Jeotgalibacillus	361.00	0.00	Putative aminopeptidase YsdC
+PGF_00829085	Jeotgalibacillus	505.00	8.51	transmembrane protein, distant homology with ydbT
+PGF_00840774	Jeotgalibacillus	669.80	2.17	Heterodimeric efflux ABC transporter, multidrug resistance => BmrD subunit of BmrCD
+PGF_00853393	Jeotgalibacillus	300.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Jeotgalibacillus	408.40	1.34	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00885329	Jeotgalibacillus	332.00	0.00	Flagellar motor switch protein FliM
+PGF_00912542	Jeotgalibacillus	268.40	2.19	L-cystine ABC transporter, substrate-binding protein TcyA
+PGF_00925844	Jeotgalibacillus	464.60	18.81	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00931494	Jeotgalibacillus	248.40	0.89	Enoyl-[acyl-carrier-protein] reductase [NADPH] (EC 1.3.1.10)
+PGF_00932867	Jeotgalibacillus	191.60	2.19	Putative rRNA methylase YtqB
+PGF_00935308	Jeotgalibacillus	248.60	1.82	FIG011178: rRNA methylase
+PGF_00950554	Jeotgalibacillus	660.20	0.45	Excinuclease ABC subunit B
+PGF_00955412	Jeotgalibacillus	251.80	2.05	Probable iron export permease protein FetB
+PGF_00957419	Jeotgalibacillus	138.40	0.55	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Jeotgalibacillus	312.20	1.30	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00979610	Jeotgalibacillus	561.00	1.22	Trehalose-6-phosphate hydrolase (EC 3.2.1.93)
+PGF_01008498	Jeotgalibacillus	117.80	1.10	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Jeotgalibacillus	277.20	4.02	Flagellar basal-body rod protein FlgF
+PGF_01028579	Jeotgalibacillus	448.20	3.56	Sodium-dependent transporter, SNF family
+PGF_01068086	Jeotgalibacillus	258.60	0.89	Flagellar biosynthesis protein FliR
+PGF_01075683	Jeotgalibacillus	132.40	0.55	Hemoglobin-like protein HbO
+PGF_01079016	Jeotgalibacillus	280.60	1.82	Chromosome (plasmid) partitioning protein ParB
+PGF_01093474	Jeotgalibacillus	433.60	0.89	Guanine/hypoxanthine permease PbuO
+PGF_01101526	Jeotgalibacillus	421.80	2.28	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01124177	Jeotgalibacillus	422.00	5.34	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01124268	Jeotgalibacillus	206.00	3.61	RecU Holliday junction resolvase
+PGF_01127158	Jeotgalibacillus	264.00	1.22	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01167921	Jeotgalibacillus	157.20	1.64	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_01169833	Jeotgalibacillus	366.60	2.30	Flagellar biosynthesis protein FlhF
+PGF_01170345	Jeotgalibacillus	77.20	6.69	Flagellar protein FlbD
+PGF_01174739	Jeotgalibacillus	247.40	0.89	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Jeotgalibacillus	470.00	2.55	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01190544	Jeotgalibacillus	284.00	2.83	ABC transporter, substrate-binding protein YckB (cluster 3, basic aa/glutamine/opines)
+PGF_01212739	Jeotgalibacillus	541.60	1.67	Heat shock protein 60 family chaperone GroEL
+PGF_01212940	Jeotgalibacillus	290.20	1.10	UPF0701 protein YloC
+PGF_01223569	Jeotgalibacillus	172.00	1.22	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Jeotgalibacillus	172.40	3.13	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01276854	Jeotgalibacillus	65.60	1.34	FIG001891: protein involved in chromosome partitioning
+PGF_01291823	Jeotgalibacillus	213.60	5.50	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296054	Jeotgalibacillus	728.40	17.54	putative ATP-dependent DNA helicase YjcD
+PGF_01296193	Jeotgalibacillus	253.00	0.00	Chromosome (plasmid) partitioning protein ParA
+PGF_01309240	Jeotgalibacillus	166.80	0.84	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01311261	Jeotgalibacillus	692.00	4.06	PTS system, glucose-specific IIC component / PTS system, glucose-specific IIB component (EC 2.7.1.199) / PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01313780	Jeotgalibacillus	372.60	1.14	Uncharacterized peptidase YqjE
+PGF_01315291	Jeotgalibacillus	411.40	1.67	Uncharacterized zinc protease YmxG
+PGF_01325304	Jeotgalibacillus	220.60	3.78	Molybdenum ABC transporter permease protein ModB
+PGF_01329056	Jeotgalibacillus	234.40	2.07	N-acetylglucosaminyl-L-malate N-acetyl hydrolase
+PGF_01350798	Jeotgalibacillus	341.80	2.95	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351158	Jeotgalibacillus	1180.60	2.07	Transcription-repair coupling factor
+PGF_01351690	Jeotgalibacillus	514.00	3.08	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3); Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+PGF_01364427	Jeotgalibacillus	202.60	0.89	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01389077	Jeotgalibacillus	76.60	4.28	Uncharacterized protein YbcJ
+PGF_01393949	Jeotgalibacillus	572.00	0.00	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01404160	Jeotgalibacillus	307.00	1.22	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01416650	Jeotgalibacillus	266.20	1.10	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Jeotgalibacillus	144.00	2.24	Cell division protein MraZ
+PGF_01421534	Jeotgalibacillus	213.40	8.68	LSU ribosomal protein L25p
+PGF_01423501	Jeotgalibacillus	157.80	0.45	Transcription elongation factor GreA
+PGF_01444054	Jeotgalibacillus	762.40	9.58	ATP-dependent RNA helicase
+PGF_01444546	Jeotgalibacillus	96.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01447607	Jeotgalibacillus	136.00	0.71	Uncharacterized CoA-binding protein YneT
+PGF_01448568	Jeotgalibacillus	63.80	0.84	Uncharacterized protein YwbE
+PGF_01462537	Jeotgalibacillus	573.80	2.49	Efflux ABC transporter, permease/ATP-binding protein YwjA
+PGF_01462542	Jeotgalibacillus	150.80	20.57	CcdC protein
+PGF_01462895	Jeotgalibacillus	435.20	13.37	Uncharacterized protein YtoI
+PGF_01465362	Jeotgalibacillus	139.60	1.34	Mn-dependent transcriptional regulator MntR
+PGF_01466742	Jeotgalibacillus	585.80	3.90	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01481272	Jeotgalibacillus	163.20	2.39	Chemotaxis protein CheD
+PGF_01483918	Jeotgalibacillus	287.20	5.22	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01496598	Jeotgalibacillus	307.40	12.12	Chemotaxis protein CheV (EC 2.7.3.-)
+PGF_01512690	Jeotgalibacillus	257.00	0.71	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01513923	Jeotgalibacillus	256.80	3.11	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01538186	Jeotgalibacillus	99.20	23.00	Programmed cell death toxin YdcE
+PGF_01576148	Jeotgalibacillus	158.40	3.05	transmembrane protein, distant homology with ydbS
+PGF_01602421	Jeotgalibacillus	196.40	31.56	Flagellar basal-body rod modification protein FlgD
+PGF_01604929	Jeotgalibacillus	222.00	0.71	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01618915	Jeotgalibacillus	350.80	3.35	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667880	Jeotgalibacillus	87.40	0.55	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668974	Jeotgalibacillus	760.60	11.63	DNA internalization-related competence protein ComEC/Rec2
+PGF_01670678	Jeotgalibacillus	318.20	0.45	Purine nucleoside ABC transporter, permease protein 2
+PGF_01673335	Jeotgalibacillus	271.40	2.88	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01674551	Jeotgalibacillus	127.00	0.00	Glycine cleavage system H protein
+PGF_01675343	Jeotgalibacillus	585.00	0.00	Heterodimeric efflux ABC transporter, multidrug resistance => BmrC subunit of BmrCD
+PGF_01675349	Jeotgalibacillus	510.40	0.55	Purine nucleoside ABC transporter, ATP-binding protein
+PGF_01675591	Jeotgalibacillus	269.40	0.89	Putative phosphatase YitU
+PGF_01677191	Jeotgalibacillus	315.40	0.55	Sporulation transcription regulator WhiA
+PGF_01677463	Jeotgalibacillus	187.00	0.00	RNA polymerase sigma factor SigW
+PGF_01682537	Jeotgalibacillus	119.00	1.22	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Jeotgalibacillus	155.60	0.55	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Jeotgalibacillus	259.00	4.64	DNA recombination and repair protein RecO
+PGF_01734668	Jeotgalibacillus	216.20	0.45	Adenylate kinase (EC 2.7.4.3)
+PGF_01737958	Jeotgalibacillus	261.60	2.88	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01751397	Jeotgalibacillus	327.00	1.00	Adenine-specific methyltransferase (EC 2.1.1.72)
+PGF_01752285	Jeotgalibacillus	170.40	0.89	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01752845	Jeotgalibacillus	253.00	2.00	2,4-dienoyl-CoA reductase (EC 1.3.1.34)
+PGF_01767358	Jeotgalibacillus	252.40	0.89	HesA/MoeB/ThiF family protein
+PGF_01777142	Jeotgalibacillus	189.00	3.54	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01797166	Jeotgalibacillus	428.20	3.96	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01819962	Jeotgalibacillus	141.80	0.84	Na(+) H(+) antiporter subunit B
+PGF_01853493	Jeotgalibacillus	274.60	6.31	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Jeotgalibacillus	346.00	1.87	Heat-inducible transcription repressor HrcA
+PGF_01877133	Jeotgalibacillus	422.20	4.92	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Jeotgalibacillus	140.20	0.45	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Jeotgalibacillus	220.00	1.00	Endonuclease III (EC 4.2.99.18)
+PGF_01899098	Jeotgalibacillus	139.00	0.00	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01899937	Jeotgalibacillus	291.60	2.41	Rod shape-determining protein MreC
+PGF_01900530	Jeotgalibacillus	234.40	1.95	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900753	Jeotgalibacillus	367.80	1.79	Prephenate dehydrogenase (EC 1.3.1.12)
+PGF_01900807	Jeotgalibacillus	288.00	7.71	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01910737	Jeotgalibacillus	208.60	0.89	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01920535	Jeotgalibacillus	569.80	1.64	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01932548	Jeotgalibacillus	300.40	140.34	SpoIVD-associated factor SafA
+PGF_01933855	Jeotgalibacillus	129.60	3.05	Uncharacterized protein YqjT
+PGF_01960322	Jeotgalibacillus	600.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01974399	Jeotgalibacillus	227.00	11.42	L-cystine ABC transporter, permease protein TcyB
+PGF_01984533	Jeotgalibacillus	87.40	0.89	UPF0296 protein YlzA
+PGF_01994657	Jeotgalibacillus	428.20	2.39	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011114	Jeotgalibacillus	89.80	1.30	UPF0223 protein YktA
+PGF_02011760	Jeotgalibacillus	252.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02015262	Jeotgalibacillus	311.80	0.84	Helicase loader DnaI
+PGF_02019462	Jeotgalibacillus	346.40	1.34	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02020240	Jeotgalibacillus	193.00	3.81	Adenylate cyclase (EC 4.6.1.1)
+PGF_02026136	Jeotgalibacillus	290.00	5.05	Uncharacterized S1 RNA binding domain protein YitL
+PGF_02029783	Jeotgalibacillus	428.60	0.55	GTP-binding protein Obg
+PGF_02031924	Jeotgalibacillus	238.20	6.30	Uncharacterized DUF554 membrane protein
+PGF_02031958	Jeotgalibacillus	179.40	1.82	Possible colicin V production protein
+PGF_02032393	Jeotgalibacillus	238.80	0.45	Trehalose operon transcriptional repressor
+PGF_02061452	Jeotgalibacillus	379.40	0.89	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Jeotgalibacillus	337.20	0.45	Flagellar motor switch protein FliG
+PGF_02111888	Jeotgalibacillus	323.80	6.18	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02154745	Jeotgalibacillus	1440.20	7.92	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02155509	Jeotgalibacillus	700.40	6.80	ATP-dependent Clp protease, ATP-binding subunit ClpE
+PGF_02162014	Jeotgalibacillus	230.00	12.98	Uncharacterized membrane protein YhjE
+PGF_02167696	Jeotgalibacillus	801.40	0.55	Na(+) H(+) antiporter subunit A
+PGF_02185217	Jeotgalibacillus	422.40	1.95	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Jeotgalibacillus	359.60	0.55	Flagellar biosynthesis protein FlhB
+PGF_02224568	Jeotgalibacillus	393.00	1.87	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02227578	Jeotgalibacillus	225.00	0.00	Putative membrane protease YugP
+PGF_02254418	Jeotgalibacillus	361.00	0.71	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57) @ Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_02346669	Jeotgalibacillus	315.20	2.49	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Jeotgalibacillus	877.60	0.55	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02357764	Jeotgalibacillus	161.80	12.03	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02405545	Jeotgalibacillus	313.20	2.49	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02434074	Jeotgalibacillus	373.40	2.07	ATP-dependent RNA helicase YfmL
+PGF_02454577	Jeotgalibacillus	84.80	1.79	SSU ribosomal protein S20p
+PGF_02463284	Jeotgalibacillus	198.00	0.00	Recombination protein RecR
+PGF_02473354	Jeotgalibacillus	537.60	1.95	Glucosaminyl-malate:cysteine ligase
+PGF_02512719	Jeotgalibacillus	158.00	0.00	Na(+) H(+) antiporter subunit E
+PGF_02516666	Jeotgalibacillus	369.80	8.79	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Jeotgalibacillus	430.40	0.55	Enolase (EC 4.2.1.11)
+PGF_02518965	Jeotgalibacillus	267.60	2.88	Regulatory protein RecX
+PGF_02587605	Jeotgalibacillus	138.60	3.78	Zinc uptake regulation protein Zur
+PGF_02593689	Jeotgalibacillus	449.80	0.84	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611683	Jeotgalibacillus	67.20	0.45	Uncharacterized protein YlaI
+PGF_02611684	Jeotgalibacillus	103.40	0.89	Uncharacterized membrane protein YlaH
+PGF_02613069	Jeotgalibacillus	247.20	1.10	Phosphatase YcsE
+PGF_02613121	Jeotgalibacillus	246.80	3.90	FIG01225447: hypothetical protein
+PGF_02614845	Jeotgalibacillus	372.80	2.17	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+PGF_02619921	Jeotgalibacillus	367.60	0.89	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+PGF_02627816	Jeotgalibacillus	218.20	6.14	FIG011945: O-methyltransferase family protein
+PGF_02643324	Jeotgalibacillus	145.40	2.70	Uncharacterized protein YmaD
+PGF_02645954	Jeotgalibacillus	82.80	14.29	UPF0298 protein YlbG
+PGF_02652319	Jeotgalibacillus	182.00	10.77	UPF0340 protein YwlG
+PGF_02704551	Jeotgalibacillus	1199.00	0.00	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Jeotgalibacillus	164.80	13.54	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02708612	Jeotgalibacillus	205.20	0.84	Uncharacterized protein YheG
+PGF_02728524	Jeotgalibacillus	858.40	10.31	DNA mismatch repair protein MutS
+PGF_02738107	Jeotgalibacillus	332.60	2.51	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02740181	Jeotgalibacillus	124.40	0.55	Na(+) H(+) antiporter subunit G
+PGF_02744871	Jeotgalibacillus	89.40	20.48	Flagellar hook-basal body complex protein FliE
+PGF_02746016	Jeotgalibacillus	228.40	2.61	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02787474	Jeotgalibacillus	261.60	8.76	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02788357	Jeotgalibacillus	616.80	4.71	Two-component sensor kinase SA14-24
+PGF_02788582	Jeotgalibacillus	785.80	2.17	Recombination inhibitory protein MutS2
+PGF_02792560	Jeotgalibacillus	232.40	2.51	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Jeotgalibacillus	465.80	0.84	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Jeotgalibacillus	1187.40	3.13	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02817932	Jeotgalibacillus	385.20	1.30	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02820109	Jeotgalibacillus	201.80	6.94	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Jeotgalibacillus	145.60	1.14	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02829255	Jeotgalibacillus	581.60	6.77	Multidrug resistance ABC transporter permease/ATP-binding protein BmrA
+PGF_02830955	Jeotgalibacillus	199.00	0.00	Transcriptional response regulator DesR, LuxR family
+PGF_02836627	Jeotgalibacillus	331.00	25.43	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02844091	Jeotgalibacillus	266.60	1.52	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Jeotgalibacillus	404.40	0.89	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866866	Jeotgalibacillus	309.20	0.84	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02883702	Jeotgalibacillus	365.80	0.45	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02885413	Jeotgalibacillus	144.00	0.00	UPF0403 protein YphP
+PGF_02888001	Jeotgalibacillus	332.00	12.17	Stage II sporulation protein D (SpoIID)
+PGF_02895613	Jeotgalibacillus	434.80	0.84	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02896192	Jeotgalibacillus	348.40	1.52	Purine nucleoside ABC transporter, permease protein 1
+PGF_02897045	Jeotgalibacillus	555.00	0.00	Ribonuclease J2 (endoribonuclease in RNA processing)
+PGF_02899131	Jeotgalibacillus	66.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02901183	Jeotgalibacillus	726.60	197.85	Stage II sporulation serine phosphatase for sigma-F activation (SpoIIE)
+PGF_02906681	Jeotgalibacillus	726.40	7.64	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02918991	Jeotgalibacillus	160.20	2.86	Uncharacterized protein YrkE
+PGF_02922961	Jeotgalibacillus	98.80	1.64	FIG004454: RNA binding protein
+PGF_02923127	Jeotgalibacillus	240.80	0.45	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02929665	Jeotgalibacillus	76.60	3.97	UPF0435 protein YfkK
+PGF_02931322	Jeotgalibacillus	336.80	2.49	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Jeotgalibacillus	295.60	3.13	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02944756	Jeotgalibacillus	391.80	0.45	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Jeotgalibacillus	381.40	1.14	SSU ribosomal protein S1p
+PGF_02947204	Jeotgalibacillus	529.60	1.52	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Jeotgalibacillus	266.40	0.89	Septum site-determining protein MinD
+PGF_02967337	Jeotgalibacillus	679.60	4.28	Catalase KatE-intracellular protease (EC 1.11.1.6)
+PGF_02980852	Jeotgalibacillus	299.60	1.82	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02985217	Jeotgalibacillus	125.80	0.45	Regulatory protein spx
+PGF_02991161	Jeotgalibacillus	390.60	2.07	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02992495	Jeotgalibacillus	77.00	0.71	Protein translocase membrane subunit SecG
+PGF_02993851	Jeotgalibacillus	220.20	1.10	KtrCD potassium uptake system, peripheral membrane component KtrC
+PGF_02997723	Jeotgalibacillus	150.60	0.55	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03011298	Jeotgalibacillus	148.20	0.45	ComK regulator YlbF
+PGF_03017775	Jeotgalibacillus	495.80	1.79	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Jeotgalibacillus	186.40	2.30	Septum formation protein Maf
+PGF_03026450	Jeotgalibacillus	1187.00	1.41	Chromosome partition protein smc
+PGF_03028237	Jeotgalibacillus	417.80	8.58	Uncharacterized flavin-containing protein YtfP
+PGF_03029062	Jeotgalibacillus	312.20	0.84	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03029859	Jeotgalibacillus	623.60	4.16	Bis-ABC ATPase Uup
+PGF_03031334	Jeotgalibacillus	605.40	1.34	Efflux ABC transporter, permease/ATP-binding protein YknV
+PGF_03034879	Jeotgalibacillus	273.20	10.59	Cell division protein FtsQ
+PGF_03046709	Jeotgalibacillus	448.40	24.83	Ammonium transporter
+PGF_03058789	Jeotgalibacillus	380.00	0.00	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03066520	Jeotgalibacillus	412.20	1.10	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03070402	Jeotgalibacillus	414.80	1.79	Proton/glutamate symporter @ Sodium/glutamate symporter
+PGF_03070510	Jeotgalibacillus	287.40	4.83	Flagellar synthesis regulator FleN
+PGF_03070587	Jeotgalibacillus	408.40	19.45	Ornithine aminotransferase (EC 2.6.1.13)
+PGF_03073470	Jeotgalibacillus	563.20	3.11	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03076739	Jeotgalibacillus	149.60	2.19	Uncharacterized transcriptional regulator YsmB, MarR family
+PGF_03081665	Jeotgalibacillus	87.60	3.91	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03084693	Jeotgalibacillus	526.60	5.13	FIG006789: Stage V sporulation protein
+PGF_03110657	Jeotgalibacillus	715.00	2.45	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111988	Jeotgalibacillus	168.80	2.95	Cell division initiation protein DivIVA
+PGF_03117711	Jeotgalibacillus	189.20	3.56	Hydrolase (HAD superfamily), YqeK
+PGF_03120492	Jeotgalibacillus	248.80	1.79	Carboxylesterase (EC 3.1.1.1)
+PGF_03128546	Jeotgalibacillus	203.60	6.84	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
+PGF_03132336	Jeotgalibacillus	417.60	2.41	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Jeotgalibacillus	307.80	30.95	Flagellar hook-associated protein FlgL
+PGF_03136340	Jeotgalibacillus	540.40	16.80	Superfamily II DNA/RNA helicases, SNF2 family
+PGF_03137636	Jeotgalibacillus	986.60	1.67	Probable oxidoreductase YjgC
+PGF_03145797	Jeotgalibacillus	123.00	0.00	UPF0382 membrane protein YwdK
+PGF_03146406	Jeotgalibacillus	586.20	0.45	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Jeotgalibacillus	134.60	2.07	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Jeotgalibacillus	274.80	3.27	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Jeotgalibacillus	171.80	12.76	Transcription antitermination protein NusG
+PGF_03222913	Jeotgalibacillus	133.60	0.89	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03244749	Jeotgalibacillus	512.20	14.11	Bis-ABC ATPase SPy1206
+PGF_03257845	Jeotgalibacillus	206.00	0.71	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03268078	Jeotgalibacillus	629.60	8.96	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03280882	Jeotgalibacillus	106.80	2.17	Thioredoxin
+PGF_03281686	Jeotgalibacillus	67.20	0.45	Uncharacterized protein YozC
+PGF_03287477	Jeotgalibacillus	210.60	2.41	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03291914	Jeotgalibacillus	140.40	0.55	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03400333	Jeotgalibacillus	331.60	0.89	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03421722	Jeotgalibacillus	459.80	2.05	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Jeotgalibacillus	291.80	0.45	33 kDa chaperonin HslO
+PGF_03439690	Jeotgalibacillus	150.00	5.79	Ferric uptake regulation protein FUR
+PGF_03440867	Jeotgalibacillus	133.60	1.95	UPF0047 protein Bsu YugU
+PGF_03441843	Jeotgalibacillus	797.20	9.98	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03448459	Jeotgalibacillus	126.00	0.00	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03455444	Jeotgalibacillus	311.20	1.30	Uncharacterized protein YybS
+PGF_03456282	Jeotgalibacillus	166.60	0.55	Uncharacterized protein YwgA
+PGF_03466304	Jeotgalibacillus	283.40	1.52	Quorum-quenching lactonase YtnP
+PGF_03470321	Jeotgalibacillus	179.60	4.34	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03473104	Jeotgalibacillus	331.60	2.70	tRNA-dihydrouridine synthase 2
+PGF_03474542	Jeotgalibacillus	441.60	2.07	Flagellum-specific ATP synthase FliI
+PGF_03507820	Jeotgalibacillus	320.40	1.52	Uncharacterized radical SAM protein YtqA
+PGF_03518570	Jeotgalibacillus	148.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Jeotgalibacillus	389.20	6.14	Cell division protein FtsZ
+PGF_03574598	Jeotgalibacillus	345.80	4.09	Lon-like protease with PDZ domain
+PGF_03609651	Jeotgalibacillus	660.20	2.77	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03684283	Jeotgalibacillus	417.20	2.77	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Jeotgalibacillus	294.40	0.89	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Jeotgalibacillus	201.60	5.37	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Jeotgalibacillus	155.60	8.20	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03739563	Jeotgalibacillus	102.00	0.00	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750541	Jeotgalibacillus	352.60	0.55	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750571	Jeotgalibacillus	447.60	0.89	Chromosomal replication initiator protein DnaA
+PGF_03750600	Jeotgalibacillus	158.20	0.45	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Jeotgalibacillus	64.60	17.97	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Jeotgalibacillus	183.60	3.97	Heat shock protein GrpE
+PGF_03752797	Jeotgalibacillus	610.40	3.78	Efflux ABC transporter, permease/ATP-binding protein YfiC
+PGF_03753122	Jeotgalibacillus	299.00	3.00	Site-specific tyrosine recombinase XerC
+PGF_03753334	Jeotgalibacillus	576.60	2.51	Efflux ABC transporter, permease/ATP-binding protein YfiB
+PGF_03753933	Jeotgalibacillus	139.00	0.00	Iron-sulfur cluster regulator IscR
+PGF_03754184	Jeotgalibacillus	113.00	0.00	Na(+) H(+) antiporter subunit C
+PGF_03778780	Jeotgalibacillus	332.80	2.17	Signal recognition particle receptor FtsY
+PGF_03783620	Jeotgalibacillus	175.20	2.77	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03786627	Jeotgalibacillus	509.40	5.37	Gluconokinase (EC 2.7.1.12)
+PGF_03787199	Jeotgalibacillus	192.20	0.45	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Jeotgalibacillus	249.60	1.82	Ribonuclease III (EC 3.1.26.3)
+PGF_03797809	Jeotgalibacillus	396.40	2.30	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_03802330	Jeotgalibacillus	200.60	1.52	Phenylalanyl-tRNA synthetase domain protein (Bsu YtpR)
+PGF_03804538	Jeotgalibacillus	620.60	16.33	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03862500	Jeotgalibacillus	211.60	0.55	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03888286	Jeotgalibacillus	249.00	0.00	FMN reductase (NADPH) (EC 1.5.1.38)
+PGF_03889350	Jeotgalibacillus	290.00	4.30	Uncharacterized protein YgxA
+PGF_03889414	Jeotgalibacillus	215.60	3.29	Uncharacterized protein YuiC
+PGF_03981123	Jeotgalibacillus	286.80	9.65	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_03999196	Jeotgalibacillus	812.40	1.67	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Jeotgalibacillus	439.40	2.19	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04009106	Jeotgalibacillus	152.80	4.02	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Jeotgalibacillus	513.00	2.24	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019277	Jeotgalibacillus	292.40	2.61	Nitric oxide reductase activation protein NorQ
+PGF_04024952	Jeotgalibacillus	454.20	4.66	5'-nucleotidase family protein in cluster with NagD-like phosphatase
+PGF_04025415	Jeotgalibacillus	129.20	3.11	Large-conductance mechanosensitive channel
+PGF_04034430	Jeotgalibacillus	57.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Jeotgalibacillus	78.20	1.64	KH domain RNA binding protein YlqC
+PGF_04041316	Jeotgalibacillus	959.60	1.52	Excinuclease ABC subunit A
+PGF_04047265	Jeotgalibacillus	84.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04151476	Jeotgalibacillus	171.40	1.82	16S rRNA processing protein RimM
+PGF_04182459	Jeotgalibacillus	228.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04189945	Jeotgalibacillus	205.20	2.28	Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)
+PGF_04213876	Jeotgalibacillus	257.00	3.08	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04240096	Jeotgalibacillus	669.40	13.18	Signal transduction histidine kinase CheA
+PGF_04306800	Jeotgalibacillus	374.00	2.83	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04345693	Jeotgalibacillus	456.80	0.45	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04431830	Jeotgalibacillus	503.20	2.28	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04457297	Jeotgalibacillus	184.60	7.77	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Jeotgalibacillus	319.00	0.00	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04481164	Jeotgalibacillus	87.20	1.10	Veg protein
+PGF_04505269	Jeotgalibacillus	239.60	3.58	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Jeotgalibacillus	455.80	2.68	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Jeotgalibacillus	502.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Jeotgalibacillus	253.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04588167	Jeotgalibacillus	394.00	12.92	FIG002343: hypothetical protein
+PGF_04655384	Jeotgalibacillus	304.60	1.34	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Jeotgalibacillus	161.40	1.34	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04679223	Jeotgalibacillus	129.40	2.51	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04749763	Jeotgalibacillus	721.20	8.96	Translation initiation factor 2
+PGF_04788810	Jeotgalibacillus	187.40	0.55	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Jeotgalibacillus	308.00	3.81	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Jeotgalibacillus	114.60	0.55	LSU ribosomal protein L19p
+PGF_04872827	Jeotgalibacillus	285.20	2.59	Chromosome (plasmid) partitioning protein ParB-2
+PGF_04874118	Jeotgalibacillus	295.20	14.99	Cytochrome c oxidase caa3-type assembly factor CtaG_BS (unrelated to Cox11-CtaG family)
+PGF_04882920	Jeotgalibacillus	301.80	0.45	Fumarylacetoacetate hydrolase family protein
+PGF_04958295	Jeotgalibacillus	133.00	0.00	Flagellar biosynthesis protein FliS
+PGF_04962192	Jeotgalibacillus	783.00	12.21	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Jeotgalibacillus	73.40	3.58	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04973327	Jeotgalibacillus	726.20	8.11	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Penicillin-binding protein 2B
+PGF_04978890	Jeotgalibacillus	102.00	0.00	LSU ribosomal protein L21p
+PGF_05113267	Jeotgalibacillus	302.40	11.50	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_05135220	Jeotgalibacillus	803.40	0.55	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Jeotgalibacillus	314.40	3.58	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Jeotgalibacillus	470.20	1.64	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Jeotgalibacillus	469.20	0.45	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05200824	Jeotgalibacillus	379.80	4.55	Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)
+PGF_05220334	Jeotgalibacillus	471.20	5.22	Succinate-semialdehyde dehydrogenase [NAD(P)+] (EC 1.2.1.16)
+PGF_05269328	Jeotgalibacillus	435.20	2.17	DEAD-box ATP-dependent RNA helicase CshB (EC 3.6.4.13)
+PGF_05280843	Jeotgalibacillus	427.60	1.14	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05424184	Jeotgalibacillus	494.20	1.64	Na(+) H(+) antiporter subunit D
+PGF_05463076	Jeotgalibacillus	472.20	2.17	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05507938	Jeotgalibacillus	617.80	13.63	DNA mismatch repair protein MutL
+PGF_05560886	Jeotgalibacillus	274.40	7.57	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05564656	Jeotgalibacillus	347.20	2.95	6-phosphogluconolactonase (EC 3.1.1.31)
+PGF_05581732	Jeotgalibacillus	432.40	0.89	Protein translocase subunit SecY
+PGF_05622318	Jeotgalibacillus	412.20	1.79	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05714136	Jeotgalibacillus	118.60	0.55	FIG138056: a glutathione-dependent thiol reductase
+PGF_05925776	Jeotgalibacillus	293.00	1.73	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05971611	Jeotgalibacillus	404.00	2.35	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Jeotgalibacillus	655.20	0.45	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06016284	Jeotgalibacillus	78.00	0.00	NifU-like domain protein
+PGF_06103095	Jeotgalibacillus	85.00	0.00	Catabolite repression HPr-like protein Crh
+PGF_06111528	Jeotgalibacillus	378.00	4.53	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06115957	Jeotgalibacillus	403.60	1.95	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Jeotgalibacillus	1156.40	8.50	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06170558	Jeotgalibacillus	156.40	0.55	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Jeotgalibacillus	145.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Jeotgalibacillus	94.20	0.45	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Jeotgalibacillus	290.20	4.32	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06326847	Jeotgalibacillus	221.00	0.00	Flagellar biosynthesis protein FliP
+PGF_06364262	Jeotgalibacillus	235.80	0.45	Two-component response regulator SA14-24
+PGF_06379377	Jeotgalibacillus	420.00	1.22	Replication-associated recombination protein RarA
+PGF_06403579	Jeotgalibacillus	773.80	0.45	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06459503	Jeotgalibacillus	661.20	13.83	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06481545	Jeotgalibacillus	485.80	10.89	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06495818	Jeotgalibacillus	250.60	10.81	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06530721	Jeotgalibacillus	213.00	1.22	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06586947	Jeotgalibacillus	384.60	10.06	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06589185	Jeotgalibacillus	591.20	0.45	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06644010	Jeotgalibacillus	311.20	1.30	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Jeotgalibacillus	77.00	0.00	Acyl carrier protein
+PGF_06649360	Jeotgalibacillus	197.20	2.77	Segregation and condensation protein B
+PGF_06660812	Jeotgalibacillus	193.40	3.71	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06671388	Jeotgalibacillus	200.20	1.30	Carboxylesterase (EC 3.1.1.1)
+PGF_06693963	Jeotgalibacillus	105.00	2.83	Nucleoid-associated protein YaaK
+PGF_06701488	Jeotgalibacillus	208.20	3.90	RNA-binding protein Jag
+PGF_06735060	Jeotgalibacillus	741.60	3.58	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Jeotgalibacillus	333.00	2.24	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_07072582	Jeotgalibacillus	375.40	2.61	RNA polymerase sigma factor RpoD
+PGF_07101513	Jeotgalibacillus	393.40	11.01	Flagellar motor switch protein FliN
+PGF_07263029	Jeotgalibacillus	349.60	4.77	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07426744	Jeotgalibacillus	247.00	0.00	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08082398	Jeotgalibacillus	332.60	1.52	Protease IV
+PGF_08133003	Jeotgalibacillus	394.60	3.78	NAD-independent protein deacetylase AcuC
+PGF_08199027	Jeotgalibacillus	513.80	3.63	Inner membrane protein YqiK

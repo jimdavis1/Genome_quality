@@ -1,0 +1,833 @@
+PGF_00000196	Caloranaerobacter	419.25	0.50	FIG007079: UPF0348 protein family
+PGF_00000311	Caloranaerobacter	290.50	1.73	8-oxoguanine-DNA-glycosylase
+PGF_00000411	Caloranaerobacter	148.00	0.00	FIG00814129: Possible chaperone
+PGF_00001028	Caloranaerobacter	428.25	0.50	Uncharacterized zinc protease YmfH
+PGF_00002375	Caloranaerobacter	340.00	11.34	ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00003269	Caloranaerobacter	318.00	0.00	FIG069887: hypothetical protein
+PGF_00003409	Caloranaerobacter	613.00	0.00	FIG092679: Fe-S oxidoreductase
+PGF_00003431	Caloranaerobacter	404.00	26.44	FIG099352: hypothetical protein
+PGF_00003516	Caloranaerobacter	367.00	0.00	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003693	Caloranaerobacter	240.00	1.15	FIG168882: metal-dependent phosphoesterases (PHP family)
+PGF_00004169	Caloranaerobacter	602.50	8.35	Fe-S oxidoreductase
+PGF_00004177	Caloranaerobacter	445.00	0.00	Fe-S oxidoreductase, related to NifB/MoaA family with PDZ N-terminal domain
+PGF_00004323	Caloranaerobacter	56.00	0.00	Ferredoxin
+PGF_00004337	Caloranaerobacter	242.50	4.43	Ferredoxin 3 fused to uncharacterized domain
+PGF_00004728	Caloranaerobacter	589.00	0.00	Fibronectin/fibrinogen-binding protein
+PGF_00005291	Caloranaerobacter	150.00	0.00	Flagellar assembly factor FliW
+PGF_00005354	Caloranaerobacter	146.25	0.50	Flagellar basal-body rod protein FlgC
+PGF_00005358	Caloranaerobacter	265.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Caloranaerobacter	677.00	0.00	Flagellar biosynthesis protein FlhA
+PGF_00005402	Caloranaerobacter	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Caloranaerobacter	422.50	0.58	Flagellar hook protein FlgE
+PGF_00005653	Caloranaerobacter	415.75	167.52	Flagellin protein FlaA
+PGF_00006186	Caloranaerobacter	270.50	4.36	Formate efflux transporter (TC 2.A.44 family)
+PGF_00006245	Caloranaerobacter	559.00	0.00	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006334	Caloranaerobacter	426.00	0.00	Fragment flavodoxin oxidoreductase
+PGF_00006394	Caloranaerobacter	283.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006457	Caloranaerobacter	262.50	35.00	Fumarate hydratase class I, alpha region (EC 4.2.1.2); L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)
+PGF_00006935	Caloranaerobacter	509.75	0.50	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Caloranaerobacter	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Caloranaerobacter	438.00	0.00	GTP-binding protein EngA
+PGF_00007026	Caloranaerobacter	195.25	0.50	GTP-binding protein EngB
+PGF_00007027	Caloranaerobacter	295.00	0.00	GTP-binding protein Era
+PGF_00007028	Caloranaerobacter	433.25	19.21	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007045	Caloranaerobacter	260.00	0.00	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Caloranaerobacter	460.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Caloranaerobacter	282.50	0.58	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Caloranaerobacter	310.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Caloranaerobacter	448.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Caloranaerobacter	446.00	0.00	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008057	Caloranaerobacter	420.00	0.00	Glutamate 2,3-aminomutase (EC 5.4.3.9)
+PGF_00008106	Caloranaerobacter	268.00	0.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008192	Caloranaerobacter	305.00	0.00	Glutaminase (EC 3.5.1.2)
+PGF_00008326	Caloranaerobacter	551.00	0.00	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008337	Caloranaerobacter	493.00	0.00	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008605	Caloranaerobacter	511.00	45.58	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00008611	Caloranaerobacter	342.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008785	Caloranaerobacter	428.00	0.00	Glycine reductase component B beta subunit (EC 1.21.4.2) / Glycine reductase component B alpha subunit (EC 1.21.4.2)
+PGF_00008838	Caloranaerobacter	238.25	0.50	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008857	Caloranaerobacter	512.00	0.00	Glycine/sarcosine/betaine reductase component C chain 1
+PGF_00008858	Caloranaerobacter	393.00	0.00	Glycine/sarcosine/betaine reductase component C chain 2
+PGF_00008872	Caloranaerobacter	538.00	0.00	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009500	Caloranaerobacter	184.00	0.00	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Caloranaerobacter	295.25	0.50	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Caloranaerobacter	693.00	0.00	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Caloranaerobacter	248.00	0.00	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010287	Caloranaerobacter	126.50	0.58	GrdX protein
+PGF_00010349	Caloranaerobacter	717.00	0.00	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Caloranaerobacter	201.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Caloranaerobacter	308.00	0.00	HPr kinase/phosphorylase
+PGF_00010930	Caloranaerobacter	228.00	0.00	Hcp transcriptional regulator HcpR (Crp/Fnr family)
+PGF_00011081	Caloranaerobacter	827.00	0.00	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011792	Caloranaerobacter	102.50	0.58	His repressor
+PGF_00011983	Caloranaerobacter	248.00	0.00	Histidinol phosphatase and related hydrolases of the PHP family
+PGF_00011989	Caloranaerobacter	266.00	0.00	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012264	Caloranaerobacter	339.00	0.00	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012920	Caloranaerobacter	547.50	1.00	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012970	Caloranaerobacter	437.00	0.00	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013244	Caloranaerobacter	181.00	0.00	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Caloranaerobacter	212.50	15.00	UPF0001 protein YggS
+PGF_00013341	Caloranaerobacter	337.00	2.45	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013347	Caloranaerobacter	84.00	0.00	UPF0297 protein YrzL
+PGF_00013418	Caloranaerobacter	494.00	0.00	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_00013509	Caloranaerobacter	510.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013741	Caloranaerobacter	327.25	0.50	AIR Synthase, TMP kinase, hydrogenase maturation protein HypE superfamily
+PGF_00013804	Caloranaerobacter	425.25	2.87	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00014064	Caloranaerobacter	591.00	0.00	Indolepyruvate oxidoreductase subunit IorA (EC 1.2.7.8)
+PGF_00014067	Caloranaerobacter	191.00	0.00	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)
+PGF_00014264	Caloranaerobacter	234.00	0.00	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014311	Caloranaerobacter	484.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Caloranaerobacter	223.00	0.00	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Caloranaerobacter	88.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Caloranaerobacter	286.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015525	Caloranaerobacter	140.25	0.50	Iron-sulfur cluster assembly scaffold protein IscU/NifU-like
+PGF_00015718	Caloranaerobacter	924.25	0.50	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015736	Caloranaerobacter	569.00	0.00	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00016046	Caloranaerobacter	329.00	0.00	L-asparaginase (EC 3.5.1.1)
+PGF_00016063	Caloranaerobacter	518.00	0.00	L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3) @ D-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.4)
+PGF_00016064	Caloranaerobacter	251.00	0.00	L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3) @ D-lysine 5,6-aminomutase beta subunit (EC 5.4.3.4)
+PGF_00016223	Caloranaerobacter	289.00	0.00	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Caloranaerobacter	226.00	0.00	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016231	Caloranaerobacter	471.25	2.50	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016261	Caloranaerobacter	348.00	0.00	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016338	Caloranaerobacter	425.00	0.00	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Caloranaerobacter	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Caloranaerobacter	146.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Caloranaerobacter	147.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Caloranaerobacter	113.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Caloranaerobacter	122.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Caloranaerobacter	232.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Caloranaerobacter	118.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Caloranaerobacter	111.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Caloranaerobacter	97.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Caloranaerobacter	103.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Caloranaerobacter	97.50	0.58	LSU ribosomal protein L27p
+PGF_00016387	Caloranaerobacter	63.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016393	Caloranaerobacter	276.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Caloranaerobacter	58.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Caloranaerobacter	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Caloranaerobacter	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Caloranaerobacter	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Caloranaerobacter	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Caloranaerobacter	208.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Caloranaerobacter	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Caloranaerobacter	180.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Caloranaerobacter	179.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Caloranaerobacter	127.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Caloranaerobacter	148.00	0.00	LSU ribosomal protein L9p
+PGF_00017608	Caloranaerobacter	156.50	1.00	Low temperature requirement C protein
+PGF_00017939	Caloranaerobacter	419.75	2.63	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00019038	Caloranaerobacter	464.00	0.00	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019100	Caloranaerobacter	334.00	0.00	Maltose operon transcriptional repressor MalR, LacI family
+PGF_00019104	Caloranaerobacter	769.00	1.15	Maltose phosphorylase (EC 2.4.1.8)
+PGF_00019221	Caloranaerobacter	1195.00	0.00	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019307	Caloranaerobacter	324.50	0.58	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Caloranaerobacter	185.00	6.00	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019563	Caloranaerobacter	244.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
+PGF_00019567	Caloranaerobacter	797.25	6.50	ATP-dependent protease La (EC 3.4.21.53) Type II
+PGF_00020147	Caloranaerobacter	364.00	0.00	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020361	Caloranaerobacter	154.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020530	Caloranaerobacter	268.00	0.00	ATP-utilizing enzyme of the PP-loop superfamily
+PGF_00020735	Caloranaerobacter	248.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020984	Caloranaerobacter	286.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Caloranaerobacter	133.50	2.38	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021020	Caloranaerobacter	559.00	0.00	Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00021180	Caloranaerobacter	362.00	0.00	ATPase
+PGF_00021217	Caloranaerobacter	510.00	0.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021390	Caloranaerobacter	217.00	6.00	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00021445	Caloranaerobacter	312.00	0.00	Microsomal dipeptidase (EC 3.4.13.19)
+PGF_00023591	Caloranaerobacter	352.25	16.50	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023833	Caloranaerobacter	253.00	0.00	N-acetylmannosaminyltransferase (EC 2.4.1.187)
+PGF_00024273	Caloranaerobacter	167.00	6.78	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024308	Caloranaerobacter	241.00	0.00	NAD synthetase (EC 6.3.1.5)
+PGF_00024349	Caloranaerobacter	212.00	0.00	NAD(P)H nitroreductase (EC 1.-.-.-)
+PGF_00024478	Caloranaerobacter	337.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024505	Caloranaerobacter	417.00	0.00	NAD-specific glutamate dehydrogenase (EC 1.4.1.2)
+PGF_00024567	Caloranaerobacter	396.00	0.00	Acetate kinase (EC 2.7.2.1)
+PGF_00025825	Caloranaerobacter	499.25	0.96	Acetyl-CoA hydrolase (EC 3.1.2.1)
+PGF_00026279	Caloranaerobacter	316.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Caloranaerobacter	202.00	0.00	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Caloranaerobacter	494.00	0.00	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Caloranaerobacter	303.00	0.00	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00028512	Caloranaerobacter	465.00	0.00	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)
+PGF_00028516	Caloranaerobacter	393.00	0.00	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)
+PGF_00028941	Caloranaerobacter	363.00	0.00	Oxygen-independent coproporphyrinogen III oxidase (EC 1.-.-.-)
+PGF_00029908	Caloranaerobacter	255.00	0.00	Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+PGF_00029917	Caloranaerobacter	282.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030083	Caloranaerobacter	283.00	0.00	Patatin-like phospholipase
+PGF_00030640	Caloranaerobacter	355.00	0.00	Peptide chain release factor 1
+PGF_00031018	Caloranaerobacter	348.00	0.00	2,4-diaminopentanoate dehydrogenase (EC 1.4.1.12)
+PGF_00033095	Caloranaerobacter	797.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033201	Caloranaerobacter	302.00	0.00	Branched-chain phosphotransacylase (EC 2.3.1.- )
+PGF_00033237	Caloranaerobacter	325.00	0.00	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Caloranaerobacter	285.00	0.00	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Caloranaerobacter	337.50	1.00	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Caloranaerobacter	319.50	0.58	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033411	Caloranaerobacter	273.00	0.00	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033444	Caloranaerobacter	668.25	0.96	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033511	Caloranaerobacter	397.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033807	Caloranaerobacter	574.00	2.45	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033877	Caloranaerobacter	159.00	0.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Caloranaerobacter	391.00	0.00	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033928	Caloranaerobacter	419.00	0.00	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Caloranaerobacter	235.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033954	Caloranaerobacter	347.00	0.00	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Caloranaerobacter	234.50	1.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Caloranaerobacter	733.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Caloranaerobacter	208.00	0.00	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034569	Caloranaerobacter	373.00	0.00	Poly(glycerol-phosphate) alpha-glucosyltransferase (EC 2.4.1.52)
+PGF_00034776	Caloranaerobacter	698.00	0.00	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Caloranaerobacter	170.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035299	Caloranaerobacter	331.00	0.00	Possible subunit of benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase
+PGF_00035334	Caloranaerobacter	317.50	1.00	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035721	Caloranaerobacter	477.50	3.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Caloranaerobacter	428.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036814	Caloranaerobacter	475.00	0.00	Probable M18-family aminopeptidase 1 (EC 3.4.11.-)
+PGF_00036988	Caloranaerobacter	283.50	0.58	Agmatinase (EC 3.5.3.11)
+PGF_00037295	Caloranaerobacter	455.00	0.00	Probable reactivating factor for D-ornithine aminomutase
+PGF_00037481	Caloranaerobacter	94.50	7.00	Programmed cell death antitoxin YdcD
+PGF_00037588	Caloranaerobacter	574.00	0.00	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037650	Caloranaerobacter	384.00	0.00	Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_00038619	Caloranaerobacter	244.25	0.50	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038674	Caloranaerobacter	295.00	0.00	Protein translocase subunit SecF
+PGF_00038904	Caloranaerobacter	307.00	0.00	Pseudouridine 5'-phosphate glycosidase (EC 4.2.1.70)
+PGF_00038971	Caloranaerobacter	276.00	0.00	Pur operon repressor PurR
+PGF_00039149	Caloranaerobacter	341.00	0.00	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00040578	Caloranaerobacter	255.00	0.00	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Caloranaerobacter	133.00	0.00	Alkaline shock protein
+PGF_00045787	Caloranaerobacter	193.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Caloranaerobacter	290.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Caloranaerobacter	437.00	0.00	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045963	Caloranaerobacter	1143.00	1.15	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045994	Caloranaerobacter	585.00	0.00	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00046027	Caloranaerobacter	394.00	0.00	Pyruvate:ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.1)
+PGF_00046029	Caloranaerobacter	310.00	0.00	Pyruvate:ferredoxin oxidoreductase, beta subunit (EC 1.2.7.1)
+PGF_00046031	Caloranaerobacter	101.00	0.00	Pyruvate:ferredoxin oxidoreductase, delta subunit (EC 1.2.7.1)
+PGF_00046034	Caloranaerobacter	195.00	0.00	Pyruvate:ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.1)
+PGF_00046060	Caloranaerobacter	210.00	0.00	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Caloranaerobacter	276.00	0.00	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Caloranaerobacter	316.00	15.01	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046197	Caloranaerobacter	269.00	0.00	RNA binding methyltransferase FtsJ like
+PGF_00046350	Caloranaerobacter	262.00	0.00	RNA polymerase sigma factor SigB
+PGF_00046403	Caloranaerobacter	459.25	0.50	RNA polymerase sigma-54 factor RpoN
+PGF_00046551	Caloranaerobacter	242.00	0.00	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046553	Caloranaerobacter	260.00	0.00	RNA polymerase sporulation specific sigma factor SigG
+PGF_00046555	Caloranaerobacter	215.00	0.00	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Caloranaerobacter	92.00	0.00	RNA-binding protein Hfq
+PGF_00046806	Caloranaerobacter	316.00	0.00	ROK family protein (putative glucokinase)
+PGF_00047078	Caloranaerobacter	347.00	0.00	RecA protein
+PGF_00047095	Caloranaerobacter	742.00	0.00	RecD-like DNA helicase YrrC
+PGF_00047155	Caloranaerobacter	212.00	0.00	Redox-sensing transcriptional repressor Rex
+PGF_00047468	Caloranaerobacter	425.00	0.00	Related to 2-hydroxyglutaryl-CoA dehydratase, beta subunit
+PGF_00047556	Caloranaerobacter	757.00	0.00	Alpha-glucosidase (EC 3.2.1.20)
+PGF_00047642	Caloranaerobacter	87.00	0.00	Repressor CsoR of the copZA operon
+PGF_00048556	Caloranaerobacter	217.00	0.00	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048566	Caloranaerobacter	178.00	0.00	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048586	Caloranaerobacter	258.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048627	Caloranaerobacter	719.75	14.61	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048643	Caloranaerobacter	152.00	0.00	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048651	Caloranaerobacter	150.00	0.00	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Caloranaerobacter	315.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Caloranaerobacter	235.00	0.00	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Caloranaerobacter	318.00	0.00	Ribosomal protein L11 methyltransferase
+PGF_00048846	Caloranaerobacter	450.00	0.00	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Caloranaerobacter	240.00	0.00	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Caloranaerobacter	176.00	0.00	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Caloranaerobacter	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Caloranaerobacter	291.00	0.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Caloranaerobacter	79.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Caloranaerobacter	128.00	0.00	Ribosome-binding factor A
+PGF_00048985	Caloranaerobacter	219.75	0.50	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049323	Caloranaerobacter	272.00	0.00	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+PGF_00049330	Caloranaerobacter	395.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Caloranaerobacter	341.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049548	Caloranaerobacter	104.00	0.00	2-amino-4-ketopentanoate thiolase, alpha subunit
+PGF_00049677	Caloranaerobacter	447.00	0.00	SCIFF radical SAM maturase
+PGF_00049731	Caloranaerobacter	433.25	3.50	Aluminum resistance protein
+PGF_00049815	Caloranaerobacter	472.00	0.00	2-amino-4-ketopentanoate thiolase, beta subunit
+PGF_00049827	Caloranaerobacter	289.00	0.00	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Caloranaerobacter	108.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Caloranaerobacter	132.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Caloranaerobacter	137.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Caloranaerobacter	123.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Caloranaerobacter	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Caloranaerobacter	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Caloranaerobacter	89.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Caloranaerobacter	84.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049857	Caloranaerobacter	73.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049860	Caloranaerobacter	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Caloranaerobacter	222.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Caloranaerobacter	168.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Caloranaerobacter	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Caloranaerobacter	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Caloranaerobacter	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Caloranaerobacter	244.00	0.00	Segregation and condensation protein A
+PGF_00050310	Caloranaerobacter	387.00	1.15	Amidohydrolase
+PGF_00050368	Caloranaerobacter	351.25	1.50	Selenophosphate-dependent tRNA 2-selenouridine synthase
+PGF_00050712	Caloranaerobacter	387.00	0.00	Sensor protein DegS
+PGF_00050995	Caloranaerobacter	462.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Caloranaerobacter	215.00	0.00	Septum site-determining protein MinC
+PGF_00051525	Caloranaerobacter	424.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Caloranaerobacter	446.00	0.00	Signal recognition particle protein Ffh
+PGF_00052551	Caloranaerobacter	265.00	0.00	Similar to benzoyl-CoA reductase subunit D
+PGF_00052705	Caloranaerobacter	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Caloranaerobacter	298.50	7.00	Site-specific tyrosine recombinase XerD
+PGF_00053876	Caloranaerobacter	427.00	0.00	Spore cortex-lytic enzyme, N-acetylglucosaminidase SleL
+PGF_00053877	Caloranaerobacter	231.50	1.73	Spore cortex-lytic enzyme, lytic transglycosylase SleB
+PGF_00053878	Caloranaerobacter	324.00	0.00	Spore germination endopeptidase Gpr (EC 3.4.24.78)
+PGF_00053892	Caloranaerobacter	456.00	0.00	Spore germination protein YpeB
+PGF_00053894	Caloranaerobacter	191.00	0.00	Spore maturation protein A
+PGF_00053897	Caloranaerobacter	176.50	0.58	Spore maturation protein B
+PGF_00053900	Caloranaerobacter	334.50	7.00	Spore photoproduct lyase (EC 4.1.99.14)
+PGF_00053909	Caloranaerobacter	144.00	0.00	Spore protein GerW (YtfJ), not involved in spore germination
+PGF_00053966	Caloranaerobacter	409.00	0.00	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00053991	Caloranaerobacter	277.00	0.00	Stage 0 sporulation protein YaaT
+PGF_00053997	Caloranaerobacter	268.00	0.00	Stage 0 sporulation two-component response regulator (Spo0A)
+PGF_00054034	Caloranaerobacter	224.50	0.58	Stage II sporulation protein required for processing of pro-sigma-E (SpoIIR)
+PGF_00054038	Caloranaerobacter	339.00	0.00	Stage III sporulation protein AA
+PGF_00054046	Caloranaerobacter	65.00	0.00	Stage III sporulation protein AC
+PGF_00054049	Caloranaerobacter	128.00	0.00	Stage III sporulation protein AD
+PGF_00054051	Caloranaerobacter	392.00	2.00	Stage III sporulation protein AE
+PGF_00054075	Caloranaerobacter	85.00	0.00	Stage III sporulation protein D
+PGF_00054087	Caloranaerobacter	492.00	0.00	Stage IV sporulation protein A
+PGF_00054088	Caloranaerobacter	434.50	0.58	Stage IV sporulation protein B
+PGF_00054097	Caloranaerobacter	147.00	0.00	Stage V sporulation protein AC (SpoVAC)
+PGF_00054098	Caloranaerobacter	339.00	0.00	Stage V sporulation protein AD (SpoVAD)
+PGF_00054100	Caloranaerobacter	118.00	0.00	Stage V sporulation protein AE1 (SpoVAE1)
+PGF_00054102	Caloranaerobacter	188.75	7.23	Stage V sporulation protein AE2 (SpoVAE2)
+PGF_00054103	Caloranaerobacter	485.00	2.00	Stage V sporulation protein AF (SpoVAF)
+PGF_00054116	Caloranaerobacter	182.50	0.58	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+PGF_00054118	Caloranaerobacter	86.00	0.00	Spore core dehydratation and coat assembly protein SpoVS
+PGF_00054134	Caloranaerobacter	306.00	3.46	Stage V sporulation protein SpoVK
+PGF_00054360	Caloranaerobacter	174.00	3.37	Substrate-specific component CblT of predicted B12-regulated ECF transporter for dimethylbenzimidazole
+PGF_00055125	Caloranaerobacter	268.00	0.00	Sulfur carrier protein ThiS / Sulfur carrier protein ThiS adenylyltransferase (EC 2.7.7.73)
+PGF_00055284	Caloranaerobacter	125.00	0.00	Superoxide reductase (EC 1.15.1.2)
+PGF_00056544	Caloranaerobacter	258.00	0.00	Thiazole synthase (EC 2.8.1.10)
+PGF_00056872	Caloranaerobacter	192.00	0.00	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Caloranaerobacter	214.00	0.00	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056935	Caloranaerobacter	462.00	0.00	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057127	Caloranaerobacter	145.00	0.00	Anti-sigma F factor (EC 2.7.11.1)
+PGF_00057402	Caloranaerobacter	147.00	0.00	Transamidase GatB domain protein
+PGF_00057440	Caloranaerobacter	186.00	0.00	Transcription factor FapR
+PGF_00057483	Caloranaerobacter	449.50	1.00	Transcription termination factor Rho
+PGF_00057485	Caloranaerobacter	347.00	0.00	Transcription termination protein NusA
+PGF_00057488	Caloranaerobacter	137.00	0.00	Transcription termination protein NusB
+PGF_00058501	Caloranaerobacter	572.00	0.00	Transcriptional regulator BkdR of isoleucine and valine catabolism operon
+PGF_00059406	Caloranaerobacter	1021.00	3.74	TPR-repeat-containing ATPase
+PGF_00059819	Caloranaerobacter	293.00	0.00	Transcriptional regulator, RpiR family
+PGF_00060409	Caloranaerobacter	702.00	0.00	Translation elongation factor G
+PGF_00060412	Caloranaerobacter	696.50	11.00	Elongation factor G-like protein TM_1651
+PGF_00060414	Caloranaerobacter	603.00	0.00	Translation elongation factor LepA
+PGF_00060421	Caloranaerobacter	185.00	0.00	Translation elongation factor P
+PGF_00060427	Caloranaerobacter	215.00	0.00	Translation elongation factor Ts
+PGF_00060431	Caloranaerobacter	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Caloranaerobacter	162.25	20.43	Translation initiation factor 3
+PGF_00060487	Caloranaerobacter	254.00	0.00	Translocation-enhancing protein TepA
+PGF_00061922	Caloranaerobacter	409.00	2.16	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062045	Caloranaerobacter	333.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Caloranaerobacter	408.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Caloranaerobacter	304.00	0.00	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Caloranaerobacter	368.00	0.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Caloranaerobacter	462.00	0.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064244	Caloranaerobacter	483.00	0.00	Arginine decarboxylase (EC 4.1.1.19)
+PGF_00064359	Caloranaerobacter	150.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064923	Caloranaerobacter	317.00	1.15	Uncharacterized protein DSY2363
+PGF_00065380	Caloranaerobacter	472.00	0.00	Uncharacterized protein YaaO
+PGF_00065410	Caloranaerobacter	147.00	0.00	Uncharacterized protein YbbK
+PGF_00065736	Caloranaerobacter	190.50	0.58	Uncharacterized protein similar to PduL
+PGF_00066123	Caloranaerobacter	209.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Caloranaerobacter	178.50	0.58	Pyrimidine operon regulatory protein PyrR
+PGF_00066245	Caloranaerobacter	554.00	0.00	Uridine kinase (EC 2.7.1.48)
+PGF_00066248	Caloranaerobacter	211.75	1.89	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066260	Caloranaerobacter	681.00	0.00	Urocanate hydratase (EC 4.2.1.49)
+PGF_00066453	Caloranaerobacter	882.00	0.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Caloranaerobacter	463.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066854	Caloranaerobacter	465.00	0.00	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066867	Caloranaerobacter	423.50	6.61	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Caloranaerobacter	307.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Caloranaerobacter	421.00	0.00	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066960	Caloranaerobacter	143.00	3.46	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067188	Caloranaerobacter	330.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067554	Caloranaerobacter	475.25	0.50	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068051	Caloranaerobacter	354.25	0.50	alanine racemase domain protein
+PGF_00069740	Caloranaerobacter	368.75	0.50	2-iminoacetate synthase (ThiH) (EC 4.1.99.19)
+PGF_00070089	Caloranaerobacter	133.00	0.00	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070129	Caloranaerobacter	373.00	0.00	conserved membrane protein ML1361
+PGF_00070166	Caloranaerobacter	160.00	0.00	conserved protein, permease-related
+PGF_00071507	Caloranaerobacter	423.00	0.00	gamma-D-glutamyl-L-diamino acid endopeptidase I
+PGF_00084324	Caloranaerobacter	275.50	0.58	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00084921	Caloranaerobacter	115.00	0.00	hypothetical protein
+PGF_00118588	Caloranaerobacter	237.50	4.04	Protease PrsW
+PGF_00132889	Caloranaerobacter	131.00	0.00	hypothetical protein
+PGF_00195855	Caloranaerobacter	179.00	0.00	Transcriptional regulator, MerR family, near polyamine transporter
+PGF_00240378	Caloranaerobacter	183.00	0.00	hypothetical protein
+PGF_00261173	Caloranaerobacter	364.00	0.00	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00279650	Caloranaerobacter	339.00	0.00	hypothetical protein
+PGF_00285620	Caloranaerobacter	194.25	0.50	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00286985	Caloranaerobacter	410.50	1.73	[FeFe]-hydrogenase maturation protein HydF
+PGF_00333984	Caloranaerobacter	212.00	0.00	hypothetical protein
+PGF_00342563	Caloranaerobacter	621.00	0.00	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00350921	Caloranaerobacter	321.00	0.00	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00354504	Caloranaerobacter	171.00	0.00	FIG072699: hypothetical protein
+PGF_00375077	Caloranaerobacter	247.50	0.58	hypothetical protein
+PGF_00391084	Caloranaerobacter	543.00	0.00	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00398357	Caloranaerobacter	91.00	0.00	hypothetical protein
+PGF_00399676	Caloranaerobacter	224.00	0.00	hypothetical protein TM1757
+PGF_00404078	Caloranaerobacter	147.00	0.00	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Caloranaerobacter	452.25	6.13	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Caloranaerobacter	326.75	0.96	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404569	Caloranaerobacter	351.25	33.50	probable secreted protein homolog of yjcM/yhbB B. subtilis
+PGF_00404866	Caloranaerobacter	109.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00407282	Caloranaerobacter	249.75	1.50	putative histidinol phosphatase and related hydrolases of the PHP family
+PGF_00409415	Caloranaerobacter	288.00	0.00	UPF0750 membrane protein YvjA
+PGF_00412532	Caloranaerobacter	214.00	1.15	Transcriptional repressor CcpN, MarR family
+PGF_00412608	Caloranaerobacter	57.00	0.00	small acid-soluble spore protein (alpha/beta-type SASP)
+PGF_00412824	Caloranaerobacter	574.00	5.35	spore peptidoglycan hydrolase (N-acetylglucosaminidase)
+PGF_00413189	Caloranaerobacter	231.00	0.00	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Caloranaerobacter	156.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Caloranaerobacter	244.50	1.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Caloranaerobacter	244.25	0.50	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Caloranaerobacter	298.50	1.73	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Caloranaerobacter	435.00	0.00	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Caloranaerobacter	632.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413554	Caloranaerobacter	156.00	1.15	tmRNA-binding protein SmpB
+PGF_00414926	Caloranaerobacter	475.00	0.00	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415346	Caloranaerobacter	389.00	0.00	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415407	Caloranaerobacter	379.00	0.00	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415436	Caloranaerobacter	410.00	2.00	glycoside hydrolase
+PGF_00415631	Caloranaerobacter	89.50	0.58	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00415946	Caloranaerobacter	296.00	4.00	CRISPR-associated negative autoregulator Cas7/Cst2
+PGF_00416115	Caloranaerobacter	314.00	0.00	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Caloranaerobacter	533.25	0.50	CTP synthase (EC 6.3.4.2)
+PGF_00416408	Caloranaerobacter	313.00	0.00	Carbamate kinase (EC 2.7.2.2)
+PGF_00416795	Caloranaerobacter	345.00	0.00	3,5-diaminohexanoate dehydrogenase (EC 1.4.1.11)
+PGF_00417115	Caloranaerobacter	95.00	0.00	Cell division topological specificity factor MinE
+PGF_00417225	Caloranaerobacter	131.50	2.89	3-aminobutyryl-CoA ammonia-lyase (EC 4.3.1.14)
+PGF_00417243	Caloranaerobacter	147.00	0.00	Cell wall hydrolase cwlJ
+PGF_00417381	Caloranaerobacter	341.00	0.00	Central glycolytic genes regulator
+PGF_00417433	Caloranaerobacter	614.00	0.00	Chaperone protein DnaK
+PGF_00417577	Caloranaerobacter	152.25	1.89	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417580	Caloranaerobacter	349.00	0.00	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417626	Caloranaerobacter	256.00	0.00	Chitooligosaccharide deacetylase (EC 3.5.1.-)
+PGF_00417658	Caloranaerobacter	360.00	0.00	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Caloranaerobacter	383.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00418089	Caloranaerobacter	248.00	0.00	Circadian phase modifier @ NCAIR mutase (PurE)-related protein
+PGF_00418368	Caloranaerobacter	502.00	5.77	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418626	Caloranaerobacter	259.00	0.00	3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)
+PGF_00419702	Caloranaerobacter	164.00	0.00	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419740	Caloranaerobacter	155.25	6.50	Transcriptional regulator CtsR
+PGF_00419915	Caloranaerobacter	278.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420019	Caloranaerobacter	327.00	98.01	Cystathionine gamma-lyase (EC 4.4.1.1)
+PGF_00420075	Caloranaerobacter	304.00	0.00	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Caloranaerobacter	218.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420782	Caloranaerobacter	742.00	0.00	D-Ornithine 4,5-aminomutase E subunit (EC 5.4.3.5)
+PGF_00420783	Caloranaerobacter	121.00	0.00	D-Ornithine 4,5-aminomutase S subunit (EC 5.4.3.5)
+PGF_00420798	Caloranaerobacter	387.25	0.50	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421071	Caloranaerobacter	149.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Caloranaerobacter	527.00	0.00	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421347	Caloranaerobacter	357.00	0.00	DNA integrity scanning protein DisA
+PGF_00421489	Caloranaerobacter	1161.00	0.00	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Caloranaerobacter	368.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Caloranaerobacter	610.00	0.00	DNA primase (EC 2.7.7.-)
+PGF_00421733	Caloranaerobacter	370.00	0.82	DNA recombination and repair protein RecF
+PGF_00421792	Caloranaerobacter	453.00	0.00	DNA repair protein RadA
+PGF_00421796	Caloranaerobacter	566.00	0.00	DNA repair protein RecN
+PGF_00421816	Caloranaerobacter	328.00	0.00	DNA replication helicase loader DnaC/DnaI
+PGF_00422061	Caloranaerobacter	92.00	0.00	DNA-binding protein HBsu
+PGF_00422085	Caloranaerobacter	90.00	0.00	DNA-binding protein SpoVG
+PGF_00422271	Caloranaerobacter	315.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422446	Caloranaerobacter	201.75	102.51	DUF124 domain-containing protein
+PGF_00423097	Caloranaerobacter	277.00	0.00	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Caloranaerobacter	430.50	0.58	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423378	Caloranaerobacter	386.00	1.15	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Caloranaerobacter	539.50	0.58	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423533	Caloranaerobacter	283.00	0.00	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424109	Caloranaerobacter	379.00	0.00	Electron bifurcating butyryl-CoA dehydrogenase (NAD+, ferredoxin)
+PGF_00424111	Caloranaerobacter	260.00	0.00	Electron bifurcating butyryl-CoA dehydrogenase, electron transfer flavoprotein beta
+PGF_00424147	Caloranaerobacter	517.25	95.83	Electron-bifurcating [FeFe]-hydrogenase subunit B (NAD+ reductase, ferredoxin reductase)
+PGF_00424148	Caloranaerobacter	122.00	0.00	Electron-bifurcating [FeFe]-hydrogenase subunit C (2Fe2S protein)
+PGF_00424149	Caloranaerobacter	163.00	2.00	Electron-bifurcating [FeFe]-hydrogenase subunit D
+PGF_00424337	Caloranaerobacter	274.75	0.50	Endonuclease IV (EC 3.1.21.2)
+PGF_00424971	Caloranaerobacter	625.75	9.50	Excinuclease ABC subunit C
+PGF_00425024	Caloranaerobacter	407.00	0.00	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Caloranaerobacter	1170.75	6.08	Exonuclease SbcC
+PGF_00425671	Caloranaerobacter	283.00	0.00	RNase adapter protein RapZ
+PGF_00425679	Caloranaerobacter	215.00	0.00	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Caloranaerobacter	246.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425720	Caloranaerobacter	262.00	0.00	Putative RNA-binding protein YlmH
+PGF_00425729	Caloranaerobacter	424.00	0.00	FIG001621: Zinc protease
+PGF_00425734	Caloranaerobacter	118.00	0.00	FIG001802: Putative alkaline-shock protein
+PGF_00425747	Caloranaerobacter	148.25	0.50	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Caloranaerobacter	506.00	0.00	Ribonuclease Y
+PGF_00425806	Caloranaerobacter	390.00	54.27	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Caloranaerobacter	382.00	0.00	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Caloranaerobacter	347.00	1.15	FIG004453: protein YceG like
+PGF_00426115	Caloranaerobacter	624.75	1.50	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Caloranaerobacter	348.00	0.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426877	Caloranaerobacter	282.00	0.00	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Caloranaerobacter	146.00	14.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00440651	Caloranaerobacter	120.00	0.00	hypothetical protein
+PGF_00482828	Caloranaerobacter	448.00	0.00	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00535698	Caloranaerobacter	247.00	0.00	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+PGF_00549405	Caloranaerobacter	146.50	1.91	Putative membrane-spanning protein
+PGF_00591197	Caloranaerobacter	234.50	0.58	RNA polymerase sporulation specific sigma factor SigK
+PGF_00598374	Caloranaerobacter	192.00	0.00	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00618776	Caloranaerobacter	346.00	1.15	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Caloranaerobacter	219.50	0.58	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00639841	Caloranaerobacter	499.00	1.15	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Caloranaerobacter	346.00	0.00	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00650532	Caloranaerobacter	331.00	0.00	UPF0365 protein YqfA
+PGF_00655358	Caloranaerobacter	485.50	1.00	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Caloranaerobacter	193.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00661821	Caloranaerobacter	265.00	0.00	Transcriptional regulator, TrmB family
+PGF_00665875	Caloranaerobacter	117.00	0.00	Ribosomal silencing factor RsfA
+PGF_00676916	Caloranaerobacter	92.00	0.00	hypothetical protein
+PGF_00697864	Caloranaerobacter	168.00	0.00	Ferritin
+PGF_00717613	Caloranaerobacter	204.00	0.00	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00718789	Caloranaerobacter	281.00	0.00	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00721835	Caloranaerobacter	337.75	1.50	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00730148	Caloranaerobacter	724.00	0.00	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Sporulation peptidoglycan synthetase SpoVD
+PGF_00730297	Caloranaerobacter	247.50	0.58	Predicted alpha-ribazole-5-phosphate synthase CblS for cobalamin biosynthesis
+PGF_00733063	Caloranaerobacter	144.50	0.58	Anti-sigma B factor RsbT
+PGF_00734482	Caloranaerobacter	694.00	0.00	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735202	Caloranaerobacter	428.00	0.00	hypothetical protein
+PGF_00777996	Caloranaerobacter	231.00	0.00	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00783284	Caloranaerobacter	149.00	0.00	DUF327 family protein YaaR
+PGF_00788787	Caloranaerobacter	79.75	0.50	Transition state regulatory protein AbrB
+PGF_00827555	Caloranaerobacter	557.00	5.23	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00841957	Caloranaerobacter	111.50	0.58	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_00856417	Caloranaerobacter	231.00	0.00	UPF0758 family protein
+PGF_00885329	Caloranaerobacter	332.00	0.00	Flagellar motor switch protein FliM
+PGF_00912265	Caloranaerobacter	322.00	0.00	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Caloranaerobacter	474.75	0.50	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00932867	Caloranaerobacter	190.00	0.00	Putative rRNA methylase YtqB
+PGF_00947647	Caloranaerobacter	184.75	3.77	Fumarate hydratase class I, beta region (EC 4.2.1.2); L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)
+PGF_00950554	Caloranaerobacter	658.00	1.15	Excinuclease ABC subunit B
+PGF_00956706	Caloranaerobacter	316.00	0.00	Ferredoxin
+PGF_00957419	Caloranaerobacter	139.75	2.63	Putative pre-16S rRNA nuclease Yqg
+PGF_00957430	Caloranaerobacter	224.50	1.00	Uncharacterized protein YteA
+PGF_00959691	Caloranaerobacter	219.00	0.00	Butyrate--acetoacetate CoA-transferase subunit A (EC 2.8.3.9)
+PGF_00960579	Caloranaerobacter	322.00	2.31	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00981596	Caloranaerobacter	456.00	0.00	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_01020154	Caloranaerobacter	205.00	0.00	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)
+PGF_01028579	Caloranaerobacter	525.00	0.00	Sodium-dependent transporter, SNF family
+PGF_01031955	Caloranaerobacter	246.00	1.41	Zinc transporter, ZIP family
+PGF_01040342	Caloranaerobacter	284.00	0.00	Spermidine synthase (EC 2.5.1.16)
+PGF_01041268	Caloranaerobacter	277.00	0.00	FIG003879: Predicted amidohydrolase / Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_01065911	Caloranaerobacter	214.00	0.00	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01068086	Caloranaerobacter	255.00	2.00	Flagellar biosynthesis protein FliR
+PGF_01079016	Caloranaerobacter	290.00	0.00	Chromosome (plasmid) partitioning protein ParB
+PGF_01124257	Caloranaerobacter	568.00	6.00	Autolysis histidine kinase LytS
+PGF_01126005	Caloranaerobacter	382.00	0.00	Rod shape-determining protein RodA
+PGF_01127158	Caloranaerobacter	264.00	0.00	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01137150	Caloranaerobacter	228.00	0.00	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01138219	Caloranaerobacter	362.25	1.50	Xylose ABC transporter, periplasmic xylose-binding protein XylF
+PGF_01149804	Caloranaerobacter	576.00	24.68	Flagellar cap protein FliD
+PGF_01169833	Caloranaerobacter	379.50	5.20	Flagellar biosynthesis protein FlhF
+PGF_01174739	Caloranaerobacter	248.00	0.00	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Caloranaerobacter	452.00	0.00	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Caloranaerobacter	636.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Caloranaerobacter	275.00	4.00	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Caloranaerobacter	542.00	0.00	Heat shock protein 60 family chaperone GroEL
+PGF_01212940	Caloranaerobacter	293.00	0.00	UPF0701 protein YloC
+PGF_01218448	Caloranaerobacter	322.00	1.15	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01219088	Caloranaerobacter	79.00	0.00	Redox-active disulfide protein 2
+PGF_01232770	Caloranaerobacter	163.00	3.46	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01234013	Caloranaerobacter	311.00	0.00	YgfD: protein that forms a complex with the methylmalonyl-CoA mutase in a pathway for conversion of succinyl-CoA to propionyl-CoA
+PGF_01265715	Caloranaerobacter	198.00	0.00	Hypothetical protein Cj1505c
+PGF_01284176	Caloranaerobacter	183.00	0.00	Rubrerythrin
+PGF_01284357	Caloranaerobacter	341.00	0.00	Cell wall-binding protein
+PGF_01284487	Caloranaerobacter	84.00	0.00	hypothetical protein
+PGF_01291803	Caloranaerobacter	308.00	0.00	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Caloranaerobacter	339.00	0.00	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Caloranaerobacter	256.50	0.58	Chromosome (plasmid) partitioning protein ParA
+PGF_01308514	Caloranaerobacter	340.25	3.77	Electron bifurcating butyryl-CoA dehydrogenase, electron transfer flavoprotein alpha
+PGF_01315291	Caloranaerobacter	421.00	0.00	Uncharacterized zinc protease YmxG
+PGF_01315806	Caloranaerobacter	170.00	0.00	Uncharacterized protein SAV1929
+PGF_01323228	Caloranaerobacter	198.00	0.00	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01350798	Caloranaerobacter	345.50	0.58	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351158	Caloranaerobacter	1179.00	0.00	Transcription-repair coupling factor
+PGF_01351690	Caloranaerobacter	515.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3); Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+PGF_01364427	Caloranaerobacter	194.00	0.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01389077	Caloranaerobacter	69.00	0.00	Uncharacterized protein YbcJ
+PGF_01404160	Caloranaerobacter	319.00	0.00	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01416650	Caloranaerobacter	265.00	0.00	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Caloranaerobacter	143.00	0.00	Cell division protein MraZ
+PGF_01421572	Caloranaerobacter	207.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01423501	Caloranaerobacter	158.00	0.00	Transcription elongation factor GreA
+PGF_01444069	Caloranaerobacter	231.00	0.00	Iron-sulfur cluster-binding protein
+PGF_01446257	Caloranaerobacter	263.00	0.00	Hydroxymethylpyrimidine ABC transporter, transmembrane component
+PGF_01462537	Caloranaerobacter	574.25	9.50	Efflux ABC transporter, permease/ATP-binding protein YwjA
+PGF_01462895	Caloranaerobacter	432.00	0.00	Uncharacterized protein YtoI
+PGF_01466742	Caloranaerobacter	587.00	0.00	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01481272	Caloranaerobacter	160.00	0.00	Chemotaxis protein CheD
+PGF_01488625	Caloranaerobacter	84.00	0.00	hypothetical protein
+PGF_01512690	Caloranaerobacter	256.00	0.00	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01513923	Caloranaerobacter	235.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01538186	Caloranaerobacter	116.00	0.00	Programmed cell death toxin YdcE
+PGF_01599021	Caloranaerobacter	148.00	1.15	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Caloranaerobacter	137.00	10.42	Flagellar basal-body rod modification protein FlgD
+PGF_01604929	Caloranaerobacter	223.00	0.00	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01618915	Caloranaerobacter	371.00	1.15	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01668148	Caloranaerobacter	502.50	1.73	Sodium-dependent transporter
+PGF_01677191	Caloranaerobacter	330.00	0.00	Sporulation transcription regulator WhiA
+PGF_01682834	Caloranaerobacter	154.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Caloranaerobacter	248.00	0.00	DNA recombination and repair protein RecO
+PGF_01719396	Caloranaerobacter	211.00	0.00	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Caloranaerobacter	216.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01740148	Caloranaerobacter	836.25	1.50	CoA-disulfide reductase (EC 1.8.1.14) / Disulfide bond regulator
+PGF_01752285	Caloranaerobacter	174.00	0.00	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01767358	Caloranaerobacter	252.00	1.15	HesA/MoeB/ThiF family protein
+PGF_01777142	Caloranaerobacter	224.50	0.58	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Caloranaerobacter	555.50	0.58	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Caloranaerobacter	263.00	0.00	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Caloranaerobacter	343.25	0.96	Heat-inducible transcription repressor HrcA
+PGF_01888177	Caloranaerobacter	143.50	1.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Caloranaerobacter	213.50	0.58	Endonuclease III (EC 4.2.99.18)
+PGF_01898546	Caloranaerobacter	452.00	0.00	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01899098	Caloranaerobacter	133.00	0.00	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01899924	Caloranaerobacter	247.75	0.50	Flagellar motor rotation protein MotB
+PGF_01949788	Caloranaerobacter	187.50	2.89	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Caloranaerobacter	608.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01984533	Caloranaerobacter	90.00	0.00	UPF0296 protein YlzA
+PGF_01990221	Caloranaerobacter	433.00	0.00	Aspartyl aminopeptidase (EC 3.4.11.21)
+PGF_01994657	Caloranaerobacter	428.00	0.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Caloranaerobacter	232.00	0.00	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02019462	Caloranaerobacter	340.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Caloranaerobacter	426.00	0.00	GTP-binding protein Obg
+PGF_02049468	Caloranaerobacter	66.00	0.00	Cold shock protein of CSP family
+PGF_02061452	Caloranaerobacter	372.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02098099	Caloranaerobacter	508.00	0.00	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02109968	Caloranaerobacter	335.50	0.58	Flagellar motor switch protein FliG
+PGF_02154745	Caloranaerobacter	1431.00	3.65	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02177520	Caloranaerobacter	257.00	0.00	RNA polymerase sporulation specific sigma factor SigF
+PGF_02185217	Caloranaerobacter	422.00	0.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02185943	Caloranaerobacter	494.50	0.58	Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1)
+PGF_02186693	Caloranaerobacter	361.00	0.00	Flagellar biosynthesis protein FlhB
+PGF_02204321	Caloranaerobacter	344.25	13.50	Twitching motility protein PilT
+PGF_02226715	Caloranaerobacter	686.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227578	Caloranaerobacter	230.00	0.00	Putative membrane protease YugP
+PGF_02297251	Caloranaerobacter	216.75	1.50	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02346669	Caloranaerobacter	331.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Caloranaerobacter	878.00	0.00	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Caloranaerobacter	390.00	1.15	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Caloranaerobacter	890.50	0.58	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Caloranaerobacter	305.25	0.50	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02432027	Caloranaerobacter	479.00	71.78	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02454577	Caloranaerobacter	87.00	0.00	SSU ribosomal protein S20p
+PGF_02462544	Caloranaerobacter	413.00	0.00	Arginine deiminase (EC 3.5.3.6)
+PGF_02463284	Caloranaerobacter	199.00	0.00	Recombination protein RecR
+PGF_02473679	Caloranaerobacter	559.00	0.00	Type IV fimbrial assembly, ATPase PilB
+PGF_02515882	Caloranaerobacter	403.25	0.50	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Caloranaerobacter	429.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02593689	Caloranaerobacter	457.50	3.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Caloranaerobacter	447.00	0.00	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02614845	Caloranaerobacter	383.00	0.00	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+PGF_02623406	Caloranaerobacter	304.00	0.00	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627816	Caloranaerobacter	217.00	0.00	FIG011945: O-methyltransferase family protein
+PGF_02704551	Caloranaerobacter	1171.25	2.50	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Caloranaerobacter	150.00	0.00	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02713816	Caloranaerobacter	198.50	0.58	Uncharacterized protein YyaC
+PGF_02728524	Caloranaerobacter	874.00	14.38	DNA mismatch repair protein MutS
+PGF_02745613	Caloranaerobacter	315.50	0.58	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02745651	Caloranaerobacter	450.50	0.58	[FeFe]-hydrogenase maturation protein HydE
+PGF_02746016	Caloranaerobacter	232.00	0.00	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02769386	Caloranaerobacter	308.00	0.00	hypothetical protein
+PGF_02776556	Caloranaerobacter	88.00	0.00	hypothetical protein
+PGF_02788357	Caloranaerobacter	598.00	0.00	Two-component sensor kinase SA14-24
+PGF_02788986	Caloranaerobacter	597.00	0.00	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 2
+PGF_02789532	Caloranaerobacter	297.00	0.00	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Caloranaerobacter	186.00	0.00	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02797400	Caloranaerobacter	465.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Caloranaerobacter	1197.50	0.58	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02820109	Caloranaerobacter	187.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02829859	Caloranaerobacter	294.50	3.00	Uncharacterized protein YpuA
+PGF_02844091	Caloranaerobacter	251.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02873723	Caloranaerobacter	501.00	0.00	Ribonuclease G
+PGF_02888001	Caloranaerobacter	328.00	1.41	Stage II sporulation protein D (SpoIID)
+PGF_02895613	Caloranaerobacter	440.00	0.00	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02897665	Caloranaerobacter	379.75	4.92	Glycerate kinase (EC 2.7.1.31)
+PGF_02899131	Caloranaerobacter	67.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Caloranaerobacter	718.50	3.00	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02916109	Caloranaerobacter	301.00	0.00	Phosphate butyryltransferase (EC 2.3.1.19)
+PGF_02918148	Caloranaerobacter	409.00	0.00	peptidase, U32 family large subunit [C1]
+PGF_02923127	Caloranaerobacter	238.50	0.58	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Caloranaerobacter	295.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02944116	Caloranaerobacter	668.00	0.00	K(+)-stimulated pyrophosphate-energized sodium pump
+PGF_02950579	Caloranaerobacter	264.00	0.00	Septum site-determining protein MinD
+PGF_02995302	Caloranaerobacter	260.00	0.00	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_02997723	Caloranaerobacter	148.00	0.00	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03009868	Caloranaerobacter	228.00	0.00	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+PGF_03017775	Caloranaerobacter	493.00	0.00	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03026450	Caloranaerobacter	1193.00	0.00	Chromosome partition protein smc
+PGF_03029062	Caloranaerobacter	300.75	0.50	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03039428	Caloranaerobacter	823.00	0.00	Protease
+PGF_03050772	Caloranaerobacter	236.00	0.00	Transcriptional regulator, Crp/Fnr family
+PGF_03054699	Caloranaerobacter	750.25	5.32	DNA translocase FtsK
+PGF_03066520	Caloranaerobacter	411.75	0.50	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03070510	Caloranaerobacter	298.75	0.50	Flagellar synthesis regulator FleN
+PGF_03072132	Caloranaerobacter	158.00	0.00	CarD-like transcriptional regulator
+PGF_03075401	Caloranaerobacter	232.00	0.00	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03092774	Caloranaerobacter	109.00	0.00	FIG025307: hypothetical protein
+PGF_03095069	Caloranaerobacter	318.00	0.00	COG1242: Predicted Fe-S oxidoreductase
+PGF_03110657	Caloranaerobacter	705.00	0.00	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111988	Caloranaerobacter	152.50	0.58	Cell division initiation protein DivIVA
+PGF_03117711	Caloranaerobacter	173.00	8.87	Hydrolase (HAD superfamily), YqeK
+PGF_03121826	Caloranaerobacter	200.00	0.00	hypothetical protein
+PGF_03124650	Caloranaerobacter	493.00	1.15	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03131015	Caloranaerobacter	336.00	0.00	Membrane-associated zinc metalloprotease
+PGF_03132467	Caloranaerobacter	340.50	23.74	Flagellar hook-associated protein FlgL
+PGF_03140041	Caloranaerobacter	142.00	0.00	CBS domain protein
+PGF_03154343	Caloranaerobacter	136.00	0.00	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Caloranaerobacter	244.50	1.00	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Caloranaerobacter	175.00	0.00	Transcription antitermination protein NusG
+PGF_03214662	Caloranaerobacter	213.00	0.00	Zn-dependent hydrolases of the metallo-beta-lactamase superfamily
+PGF_03221340	Caloranaerobacter	271.50	0.58	3-keto-5-aminohexanoate cleavage enzyme (EC 2.3.1.247)
+PGF_03253896	Caloranaerobacter	231.00	0.00	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03254598	Caloranaerobacter	190.00	0.00	Manganese catalase (EC 1.11.1.6) => Spore coat protein CotJC
+PGF_03257845	Caloranaerobacter	207.50	0.58	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Caloranaerobacter	811.75	0.96	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03291914	Caloranaerobacter	133.00	0.00	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03318742	Caloranaerobacter	461.00	2.31	PTS system, N-acetylglucosamine-specific IIC component / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.193)
+PGF_03421722	Caloranaerobacter	453.50	1.00	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Caloranaerobacter	298.00	1.15	33 kDa chaperonin HslO
+PGF_03439690	Caloranaerobacter	145.00	0.00	Ferric uptake regulation protein FUR
+PGF_03441339	Caloranaerobacter	321.50	0.58	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03448459	Caloranaerobacter	134.25	15.50	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03474542	Caloranaerobacter	439.00	0.00	Flagellum-specific ATP synthase FliI
+PGF_03504453	Caloranaerobacter	181.00	1.15	Substrate-specific component ThiT of thiamin ECF transporter
+PGF_03520151	Caloranaerobacter	362.00	0.00	Cell division protein FtsZ
+PGF_03609651	Caloranaerobacter	648.00	0.00	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03683431	Caloranaerobacter	313.50	1.91	ADP-ribosylglycohydrolase
+PGF_03701810	Caloranaerobacter	282.25	10.50	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Caloranaerobacter	207.00	0.00	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03720595	Caloranaerobacter	459.00	0.00	Tryptophanase (EC 4.1.99.1)
+PGF_03723827	Caloranaerobacter	152.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03743176	Caloranaerobacter	635.00	0.00	Selenocysteine-specific translation elongation factor
+PGF_03750541	Caloranaerobacter	355.75	7.41	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750571	Caloranaerobacter	444.00	0.00	Chromosomal replication initiator protein DnaA
+PGF_03750600	Caloranaerobacter	157.00	0.00	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Caloranaerobacter	69.00	0.00	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Caloranaerobacter	193.75	0.50	Heat shock protein GrpE
+PGF_03751878	Caloranaerobacter	200.00	0.00	Substrate-specific component RibU of riboflavin ECF transporter
+PGF_03752280	Caloranaerobacter	472.00	0.00	[FeFe]-hydrogenase maturation protein HydG
+PGF_03752391	Caloranaerobacter	329.50	0.58	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily M
+PGF_03752544	Caloranaerobacter	215.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Caloranaerobacter	318.00	0.00	Site-specific tyrosine recombinase XerC
+PGF_03753933	Caloranaerobacter	149.00	0.00	Iron-sulfur cluster regulator IscR
+PGF_03778780	Caloranaerobacter	348.50	0.58	Signal recognition particle receptor FtsY
+PGF_03780858	Caloranaerobacter	577.00	0.00	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1
+PGF_03782093	Caloranaerobacter	209.00	2.00	Putative membrane-spanning protein
+PGF_03790040	Caloranaerobacter	240.00	0.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03790089	Caloranaerobacter	378.50	9.81	Uncharacterized di-Fe4-S4 cluster-containing protein AF_1153
+PGF_03802211	Caloranaerobacter	72.50	7.51	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03846586	Caloranaerobacter	220.00	0.00	Putative transmembrane protein
+PGF_03948493	Caloranaerobacter	214.00	0.00	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19) / Hydrolase, haloacid dehalogenase-like family
+PGF_03954476	Caloranaerobacter	250.75	0.96	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03999196	Caloranaerobacter	810.00	0.00	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04016408	Caloranaerobacter	447.00	0.00	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04031671	Caloranaerobacter	240.25	1.50	FIG007013: polysaccharide deacetylase, putative
+PGF_04034430	Caloranaerobacter	60.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Caloranaerobacter	76.00	0.00	KH domain RNA binding protein YlqC
+PGF_04041316	Caloranaerobacter	941.00	0.00	Excinuclease ABC subunit A
+PGF_04091295	Caloranaerobacter	261.00	0.00	Flagellar motor rotation protein MotA
+PGF_04150742	Caloranaerobacter	278.00	0.00	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Caloranaerobacter	164.00	0.00	16S rRNA processing protein RimM
+PGF_04163139	Caloranaerobacter	246.25	4.92	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Caloranaerobacter	228.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Caloranaerobacter	255.00	0.00	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04225975	Caloranaerobacter	393.00	0.00	Aspartate aminotransferase (AspB-4) (EC 2.6.1.1)
+PGF_04240096	Caloranaerobacter	669.00	3.46	Signal transduction histidine kinase CheA
+PGF_04345693	Caloranaerobacter	461.00	0.00	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Caloranaerobacter	911.00	0.00	Protein translocase subunit SecA
+PGF_04412082	Caloranaerobacter	105.25	0.50	Thioredoxin
+PGF_04454639	Caloranaerobacter	466.00	0.00	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04457297	Caloranaerobacter	192.50	1.00	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Caloranaerobacter	319.00	0.00	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04481164	Caloranaerobacter	87.00	0.00	Veg protein
+PGF_04493258	Caloranaerobacter	320.75	1.50	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Caloranaerobacter	232.00	0.00	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Caloranaerobacter	546.00	2.00	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Caloranaerobacter	444.00	0.00	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Caloranaerobacter	506.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Caloranaerobacter	248.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04662829	Caloranaerobacter	636.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Caloranaerobacter	399.00	0.00	Alanine transaminase (EC 2.6.1.2)
+PGF_04677682	Caloranaerobacter	61.00	0.00	hypothetical protein
+PGF_04695681	Caloranaerobacter	223.00	0.00	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Caloranaerobacter	671.00	6.98	Translation initiation factor 2
+PGF_04788810	Caloranaerobacter	186.00	0.00	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Caloranaerobacter	316.00	0.00	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Caloranaerobacter	115.00	0.00	LSU ribosomal protein L19p
+PGF_04872827	Caloranaerobacter	265.00	0.00	Chromosome (plasmid) partitioning protein ParB-2
+PGF_04958295	Caloranaerobacter	129.00	2.00	Flagellar biosynthesis protein FliS
+PGF_04962192	Caloranaerobacter	704.00	0.00	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Caloranaerobacter	69.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Caloranaerobacter	103.00	0.00	LSU ribosomal protein L21p
+PGF_05111929	Caloranaerobacter	846.00	0.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Caloranaerobacter	824.00	0.00	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Caloranaerobacter	309.00	0.00	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Caloranaerobacter	465.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05280843	Caloranaerobacter	428.25	0.50	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Caloranaerobacter	982.75	5.56	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05435253	Caloranaerobacter	473.50	2.89	hypothetical protein
+PGF_05439724	Caloranaerobacter	666.75	0.50	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Caloranaerobacter	272.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Caloranaerobacter	619.50	1.91	DNA mismatch repair protein MutL
+PGF_05519582	Caloranaerobacter	407.00	0.00	NAD(FAD)-utilizing dehydrogenases
+PGF_05579323	Caloranaerobacter	346.50	0.58	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Caloranaerobacter	424.00	0.00	Protein translocase subunit SecY
+PGF_05587835	Caloranaerobacter	206.75	15.73	Hydroxymethylpyrimidine ABC transporter, ATPase component
+PGF_05622318	Caloranaerobacter	409.50	0.58	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05694328	Caloranaerobacter	384.00	0.00	Iron-sulfur cluster-binding protein
+PGF_05847461	Caloranaerobacter	291.50	1.73	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05925776	Caloranaerobacter	297.00	0.00	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Caloranaerobacter	422.00	0.00	Protein translocase subunit SecD
+PGF_05971611	Caloranaerobacter	396.00	0.00	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06000040	Caloranaerobacter	403.00	0.00	Type IV fimbrial assembly protein PilC
+PGF_06042577	Caloranaerobacter	462.50	1.00	hypothetical protein
+PGF_06051345	Caloranaerobacter	957.00	213.62	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06103095	Caloranaerobacter	88.00	0.00	Catabolite repression HPr-like protein Crh
+PGF_06111528	Caloranaerobacter	373.50	0.58	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06115957	Caloranaerobacter	394.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Caloranaerobacter	1137.25	9.18	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06180597	Caloranaerobacter	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Caloranaerobacter	251.00	0.00	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06254345	Caloranaerobacter	93.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Caloranaerobacter	364.00	0.00	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06326847	Caloranaerobacter	255.00	2.00	Flagellar biosynthesis protein FliP
+PGF_06364262	Caloranaerobacter	229.00	0.00	Two-component response regulator SA14-24
+PGF_06379377	Caloranaerobacter	428.00	26.00	Replication-associated recombination protein RarA
+PGF_06403579	Caloranaerobacter	784.00	0.00	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06459503	Caloranaerobacter	663.25	1.26	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06461498	Caloranaerobacter	285.00	0.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06501669	Caloranaerobacter	309.00	0.00	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)
+PGF_06530721	Caloranaerobacter	212.00	0.00	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06586947	Caloranaerobacter	378.50	0.58	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06589185	Caloranaerobacter	595.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06609275	Caloranaerobacter	49.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06648993	Caloranaerobacter	76.00	0.00	Acyl carrier protein
+PGF_06649360	Caloranaerobacter	178.75	0.50	Segregation and condensation protein B
+PGF_06701488	Caloranaerobacter	216.00	0.00	RNA-binding protein Jag
+PGF_06735060	Caloranaerobacter	731.00	4.00	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Caloranaerobacter	327.00	0.00	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06758939	Caloranaerobacter	726.50	5.20	hypothetical protein
+PGF_06767187	Caloranaerobacter	308.00	0.00	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06863675	Caloranaerobacter	215.00	0.00	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_07011057	Caloranaerobacter	190.25	17.17	hypothetical protein
+PGF_07076144	Caloranaerobacter	55.00	0.00	hypothetical protein
+PGF_07101513	Caloranaerobacter	381.00	1.83	Flagellar motor switch protein FliN
+PGF_07121341	Caloranaerobacter	364.25	2.50	hypothetical protein
+PGF_07129098	Caloranaerobacter	390.00	0.00	hypothetical protein
+PGF_07149551	Caloranaerobacter	172.50	0.58	hypothetical protein
+PGF_07190744	Caloranaerobacter	546.50	1.73	hypothetical protein
+PGF_07195696	Caloranaerobacter	94.00	0.00	hypothetical protein
+PGF_07200378	Caloranaerobacter	86.25	0.50	hypothetical protein
+PGF_07239833	Caloranaerobacter	334.00	0.00	hypothetical protein
+PGF_07242312	Caloranaerobacter	1111.00	0.00	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07263029	Caloranaerobacter	348.50	4.04	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07357247	Caloranaerobacter	142.00	0.00	hypothetical protein
+PGF_07426744	Caloranaerobacter	252.75	0.50	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_07440436	Caloranaerobacter	151.00	0.00	hypothetical protein
+PGF_08079989	Caloranaerobacter	219.25	0.50	Butyrate--acetoacetate CoA-transferase subunit B (EC 2.8.3.9)
+PGF_08171143	Caloranaerobacter	383.00	0.00	hypothetical protein

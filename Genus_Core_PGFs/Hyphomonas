@@ -1,0 +1,988 @@
+PGF_00000027	Hyphomonas	276.20	9.16	Uncharacterized protein YmdB
+PGF_00000416	Hyphomonas	342.80	12.45	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00002554	Hyphomonas	319.87	48.15	FIG017823: ATPase, MoxR family
+PGF_00002570	Hyphomonas	84.21	1.63	FIG018229: hypothetical protein
+PGF_00003090	Hyphomonas	1016.47	4.63	FIG041266: ATP-dependent nuclease subunit B
+PGF_00003100	Hyphomonas	170.36	7.98	FIG042921: similarity to aminoacyl-tRNA editing enzymes YbaK, ProX
+PGF_00003220	Hyphomonas	816.00	1.77	FIG056333: sensor
+PGF_00003243	Hyphomonas	1175.20	4.60	FIG061771: ATP-dependent nuclease subunit A
+PGF_00003448	Hyphomonas	387.60	1.06	FIG110192: hypothetical protein
+PGF_00003537	Hyphomonas	287.93	0.26	FIG139612: Possible conserved membrane protein
+PGF_00003767	Hyphomonas	368.29	0.47	FMN oxidoreductase
+PGF_00004110	Hyphomonas	308.93	7.67	Fatty acid desaturase
+PGF_00004481	Hyphomonas	530.13	10.84	Ferric iron ABC transporter, permease protein
+PGF_00005284	Hyphomonas	511.67	20.60	Flagellar M-ring protein FliF
+PGF_00005288	Hyphomonas	348.53	68.65	Flagellar P-ring protein FlgI
+PGF_00005354	Hyphomonas	127.07	0.59	Flagellar basal-body rod protein FlgC
+PGF_00005358	Hyphomonas	257.00	6.87	Flagellar basal-body rod protein FlgG
+PGF_00005384	Hyphomonas	688.33	7.67	Flagellar biosynthesis protein FlhA
+PGF_00005402	Hyphomonas	84.07	6.55	Flagellar biosynthesis protein FliQ
+PGF_00005930	Hyphomonas	275.13	13.75	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+PGF_00006100	Hyphomonas	272.20	7.08	tRNA-modifying protein YgfZ
+PGF_00006195	Hyphomonas	586.93	3.39	Na(+) H(+) antiporter subunit A
+PGF_00006320	Hyphomonas	284.81	0.91	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006341	Hyphomonas	218.07	11.00	FrnE protein
+PGF_00006378	Hyphomonas	317.00	0.00	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006392	Hyphomonas	297.60	3.00	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006461	Hyphomonas	465.87	7.78	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006698	Hyphomonas	155.20	0.77	GAF domain-containing proteins
+PGF_00006935	Hyphomonas	518.93	6.91	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Hyphomonas	365.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Hyphomonas	511.80	6.20	GTP-binding protein EngA
+PGF_00007026	Hyphomonas	215.87	4.24	GTP-binding protein EngB
+PGF_00007027	Hyphomonas	315.53	2.07	GTP-binding protein Era
+PGF_00007028	Hyphomonas	439.87	3.11	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Hyphomonas	610.67	4.84	GTP-binding protein TypA/BipA
+PGF_00007057	Hyphomonas	442.33	1.63	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Hyphomonas	286.87	26.80	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Hyphomonas	339.93	5.40	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Hyphomonas	321.00	2.36	Glucokinase (EC 2.7.1.2)
+PGF_00007982	Hyphomonas	289.53	1.64	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Hyphomonas	517.67	4.72	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Hyphomonas	424.33	11.52	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008075	Hyphomonas	415.73	0.46	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008115	Hyphomonas	1451.50	243.60	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008239	Hyphomonas	238.86	1.92	Glutamine amidotransferase, class I
+PGF_00008258	Hyphomonas	467.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008355	Hyphomonas	85.67	0.62	Glutaredoxin 3 (Grx2)
+PGF_00008404	Hyphomonas	363.00	0.38	Glutathione S-transferase
+PGF_00008469	Hyphomonas	316.00	0.00	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008537	Hyphomonas	493.80	1.26	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Hyphomonas	339.47	9.53	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008774	Hyphomonas	446.13	3.36	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Hyphomonas	516.80	21.34	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008838	Hyphomonas	204.73	12.72	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009087	Hyphomonas	269.21	1.12	Glycosyl transferase family protein
+PGF_00009500	Hyphomonas	185.20	3.10	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009539	Hyphomonas	226.27	3.13	Glycosyl transferase, group 2 family
+PGF_00009967	Hyphomonas	298.53	2.00	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Hyphomonas	729.73	38.01	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Hyphomonas	248.40	14.75	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Hyphomonas	752.93	1.91	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Hyphomonas	214.13	5.54	Guanylate kinase (EC 2.7.4.8)
+PGF_00011277	Hyphomonas	349.33	7.08	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_00011321	Hyphomonas	317.07	1.03	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011528	Hyphomonas	575.33	2.23	Heparinase II/III-like
+PGF_00011634	Hyphomonas	376.33	7.17	HflK protein
+PGF_00011979	Hyphomonas	435.73	3.63	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Hyphomonas	343.13	1.46	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Hyphomonas	425.27	4.40	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012918	Hyphomonas	293.13	4.52	ADA regulatory protein / Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_00012978	Hyphomonas	399.27	0.70	Hydroxyproline dehydratase putative
+PGF_00013100	Hyphomonas	492.71	17.22	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013125	Hyphomonas	302.64	2.53	Hypothetical protein CC2019
+PGF_00013266	Hyphomonas	256.20	4.63	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013272	Hyphomonas	144.27	0.46	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013492	Hyphomonas	175.53	1.41	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Hyphomonas	531.80	2.70	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013801	Hyphomonas	483.73	1.83	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013803	Hyphomonas	198.33	1.11	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013829	Hyphomonas	433.21	2.36	Immunogenic protein
+PGF_00014051	Hyphomonas	266.40	1.06	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Hyphomonas	483.27	5.62	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Hyphomonas	257.87	2.45	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Hyphomonas	78.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Hyphomonas	290.33	4.61	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015263	Hyphomonas	114.33	11.52	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_00015510	Hyphomonas	254.60	2.67	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Hyphomonas	520.33	0.82	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Hyphomonas	408.47	1.81	Iron-sulfur cluster assembly protein SufD
+PGF_00015699	Hyphomonas	405.67	0.49	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015855	Hyphomonas	338.93	0.26	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016174	Hyphomonas	282.87	32.01	L-malyl-CoA/beta-methylmalyl-CoA lyase
+PGF_00016225	Hyphomonas	448.67	17.61	L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016328	Hyphomonas	170.53	1.81	LSU ribosomal protein L10p (P0)
+PGF_00016338	Hyphomonas	417.87	8.83	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Hyphomonas	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Hyphomonas	159.07	0.26	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Hyphomonas	138.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Hyphomonas	137.20	6.99	LSU ribosomal protein L17p
+PGF_00016353	Hyphomonas	118.60	2.90	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Hyphomonas	231.53	1.68	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Hyphomonas	115.00	19.36	LSU ribosomal protein L20p
+PGF_00016361	Hyphomonas	121.93	20.17	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Hyphomonas	127.67	5.16	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Hyphomonas	99.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Hyphomonas	105.07	0.26	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Hyphomonas	87.53	5.68	LSU ribosomal protein L27p
+PGF_00016393	Hyphomonas	276.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Hyphomonas	60.87	1.19	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Hyphomonas	52.27	8.83	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Hyphomonas	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Hyphomonas	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Hyphomonas	66.60	0.63	LSU ribosomal protein L35p
+PGF_00016431	Hyphomonas	260.67	24.06	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Hyphomonas	214.33	3.02	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Hyphomonas	184.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Hyphomonas	203.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Hyphomonas	126.13	0.74	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Hyphomonas	195.20	1.01	LSU ribosomal protein L9p
+PGF_00016495	Hyphomonas	247.87	12.13	Lactam utilization protein LamB
+PGF_00016546	Hyphomonas	157.00	0.00	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016686	Hyphomonas	1657.73	6.41	Large extracellular alpha-helical protein
+PGF_00017109	Hyphomonas	389.20	3.53	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Hyphomonas	244.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017389	Hyphomonas	522.87	23.09	ATP-dependent RNA helicase Atu1833
+PGF_00017406	Hyphomonas	677.60	30.53	ATP-dependent RNA helicase Atu4171
+PGF_00017479	Hyphomonas	329.20	8.56	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Hyphomonas	341.13	2.07	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017640	Hyphomonas	174.43	4.16	Lipopolysaccharide export system protein LptA
+PGF_00018026	Hyphomonas	323.67	28.32	Lysophospholipase (EC 3.1.1.5)
+PGF_00018084	Hyphomonas	530.47	1.92	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+PGF_00018158	Hyphomonas	498.00	4.94	M20/M25/M40 family peptidase
+PGF_00018560	Hyphomonas	267.87	15.98	Magnesium and cobalt efflux protein CorC
+PGF_00019038	Hyphomonas	434.13	0.35	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019181	Hyphomonas	351.33	3.24	Malyl-CoA lyase (EC 4.1.3.24) @ Beta-methylmalyl-CoA lyase (EC 4.1.3.-) @ Citramalyl-CoA lyase (EC 4.1.3.-)
+PGF_00019237	Hyphomonas	398.20	17.51	Manganese transport protein MntH
+PGF_00019246	Hyphomonas	136.50	5.06	Manganese uptake regulation protein MUR
+PGF_00019428	Hyphomonas	182.73	16.75	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Hyphomonas	861.00	6.32	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00020168	Hyphomonas	401.40	15.52	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Hyphomonas	275.73	2.58	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Hyphomonas	149.80	1.78	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Hyphomonas	256.27	17.63	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020793	Hyphomonas	190.00	0.00	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00021022	Hyphomonas	719.33	0.90	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021023	Hyphomonas	617.33	75.79	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021186	Hyphomonas	375.07	4.18	ATPase
+PGF_00021709	Hyphomonas	665.47	27.77	Mlr0011 protein
+PGF_00022605	Hyphomonas	352.87	37.19	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00023283	Hyphomonas	162.33	6.04	Multimeric flavodoxin WrbA
+PGF_00023326	Hyphomonas	215.73	0.46	MarC family integral membrane protein
+PGF_00023433	Hyphomonas	248.27	8.22	MutT/Nudix family protein
+PGF_00023591	Hyphomonas	372.87	12.60	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Hyphomonas	315.13	8.50	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024309	Hyphomonas	552.27	1.67	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Hyphomonas	471.93	0.26	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024518	Hyphomonas	238.93	2.12	NAD/NADP dependent oxidoreductase
+PGF_00024615	Hyphomonas	305.53	2.26	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024687	Hyphomonas	401.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024728	Hyphomonas	196.20	3.10	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Hyphomonas	101.40	2.32	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Hyphomonas	498.80	0.86	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Hyphomonas	475.20	1.08	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024763	Hyphomonas	100.29	4.36	NADH-ubiquinone oxidoreductase-related protein
+PGF_00024801	Hyphomonas	129.93	0.26	NADH:ubiquinone oxidoreductase 17.2 kD subunit
+PGF_00024855	Hyphomonas	155.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Hyphomonas	590.93	6.53	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Hyphomonas	188.73	2.55	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025890	Hyphomonas	353.00	4.21	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00025914	Hyphomonas	461.67	0.72	Nitrogen regulation protein NtrX
+PGF_00026177	Hyphomonas	151.00	0.00	Nodulation protein N
+PGF_00026279	Hyphomonas	319.27	1.22	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Hyphomonas	197.20	8.21	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Hyphomonas	274.67	4.75	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Hyphomonas	324.93	2.28	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Hyphomonas	298.20	1.42	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026630	Hyphomonas	398.14	6.38	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49)
+PGF_00027212	Hyphomonas	224.40	12.24	Outer membrane protein W precursor
+PGF_00027752	Hyphomonas	581.86	36.46	Outer membrane component of TAM transport system
+PGF_00027831	Hyphomonas	158.60	0.63	Outer membrane beta-barrel assembly protein BamE
+PGF_00028228	Hyphomonas	248.21	0.89	Outer membrane protein
+PGF_00028486	Hyphomonas	246.53	24.88	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00028559	Hyphomonas	314.60	3.58	Oxidoreductase
+PGF_00028700	Hyphomonas	162.20	1.42	Oxidoreductase probably involved in sulfite reduction
+PGF_00029453	Hyphomonas	1040.33	3.39	AcrB/AcrD/AcrF family protein
+PGF_00029464	Hyphomonas	155.80	0.41	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029917	Hyphomonas	284.67	15.77	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030517	Hyphomonas	419.33	1.11	Peptidase, M20/M25/M40 family
+PGF_00030640	Hyphomonas	357.80	0.77	Peptide chain release factor 1
+PGF_00030643	Hyphomonas	532.27	0.88	Peptide chain release factor 3
+PGF_00031585	Hyphomonas	160.00	0.00	Peroxiredoxin
+PGF_00032637	Hyphomonas	202.87	8.54	Phage repressor
+PGF_00032662	Hyphomonas	227.87	2.07	Phage shock protein A @ Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00032999	Hyphomonas	188.73	11.36	PhbF
+PGF_00033071	Hyphomonas	292.12	3.96	Phenylalanine-4-hydroxylase (EC 1.14.16.1)
+PGF_00033095	Hyphomonas	797.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033253	Hyphomonas	521.27	4.61	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Hyphomonas	343.67	1.11	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Hyphomonas	397.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Hyphomonas	247.31	3.84	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033380	Hyphomonas	392.53	8.18	Phosphodiesterase/alkaline phosphatase D
+PGF_00033411	Hyphomonas	282.67	5.60	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Hyphomonas	750.33	7.96	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033488	Hyphomonas	607.93	7.53	Phosphogluconate dehydratase (EC 4.2.1.12)
+PGF_00033496	Hyphomonas	507.33	6.39	Phosphoglucosamine mutase (EC 5.4.2.10) / Phosphomannomutase (EC 5.4.2.8)
+PGF_00033511	Hyphomonas	398.00	1.41	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Hyphomonas	237.00	0.00	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033729	Hyphomonas	235.20	50.38	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Hyphomonas	254.07	0.26	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033877	Hyphomonas	161.47	9.34	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Hyphomonas	431.13	8.98	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Hyphomonas	257.33	0.90	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Hyphomonas	209.93	2.94	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Hyphomonas	233.27	32.74	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Hyphomonas	341.87	1.77	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Hyphomonas	226.27	12.80	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Hyphomonas	760.67	6.72	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033988	Hyphomonas	387.33	0.49	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034131	Hyphomonas	654.53	167.53	Acylamino-acid-releasing enzyme (EC 3.4.19.1)
+PGF_00034548	Hyphomonas	455.07	0.27	Pole remodelling regulatory diguanylate cyclase
+PGF_00034776	Hyphomonas	710.80	7.09	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Hyphomonas	329.87	4.45	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035048	Hyphomonas	341.07	3.08	Possible Galanin
+PGF_00035183	Hyphomonas	165.20	14.35	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035194	Hyphomonas	335.60	1.99	Adenosine deaminase (EC 3.5.4.4)
+PGF_00035378	Hyphomonas	465.00	2.07	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035633	Hyphomonas	314.80	2.14	Predicted NAD regulator in Alphaproteobacteria
+PGF_00035721	Hyphomonas	429.07	4.45	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Hyphomonas	430.13	0.52	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036513	Hyphomonas	326.60	1.06	Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)
+PGF_00036580	Hyphomonas	122.93	0.88	Protein translocase subunit YajC
+PGF_00037006	Hyphomonas	331.33	8.76	Agmatine deiminase (EC 3.5.3.12)
+PGF_00037523	Hyphomonas	1048.20	15.19	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037758	Hyphomonas	510.40	1.55	Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)
+PGF_00037826	Hyphomonas	297.53	2.00	Protease HtpX homolog
+PGF_00037937	Hyphomonas	110.93	0.47	Protein PhnA
+PGF_00038060	Hyphomonas	312.00	3.87	Protein containing domains DUF403
+PGF_00038061	Hyphomonas	475.33	5.29	Protein containing domains DUF404, DUF407
+PGF_00038071	Hyphomonas	266.13	0.74	Protein containing transglutaminase-like domain, putative cysteine protease
+PGF_00038367	Hyphomonas	145.00	0.00	Protein of unknown function DUF55
+PGF_00038612	Hyphomonas	124.29	3.27	Protein secretion chaperonin CsaA
+PGF_00038674	Hyphomonas	328.73	1.44	Protein translocase subunit SecF
+PGF_00038879	Hyphomonas	143.07	2.05	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00038937	Hyphomonas	360.60	8.45	Psp operon transcriptional activator
+PGF_00039342	Hyphomonas	282.27	0.46	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039519	Hyphomonas	340.79	0.70	Putative NADP-dependent oxidoreductase PA1648
+PGF_00040578	Hyphomonas	257.47	0.64	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041293	Hyphomonas	301.73	4.57	Putative hemolysin
+PGF_00041786	Hyphomonas	156.27	12.93	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041794	Hyphomonas	184.93	2.06	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00042715	Hyphomonas	244.57	1.60	Putative oxidoreductase
+PGF_00045242	Hyphomonas	332.93	1.10	Putative transporter
+PGF_00045900	Hyphomonas	248.60	2.03	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045941	Hyphomonas	715.00	6.47	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00046060	Hyphomonas	224.67	16.44	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Hyphomonas	284.33	1.05	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Hyphomonas	377.93	8.57	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046178	Hyphomonas	207.50	15.64	RIKEN cDNA 2310005O14
+PGF_00046197	Hyphomonas	244.40	3.11	RNA binding methyltransferase FtsJ like
+PGF_00046224	Hyphomonas	270.93	6.94	RNA methyltransferase Atu0341
+PGF_00046403	Hyphomonas	497.13	2.80	RNA polymerase sigma-54 factor RpoN
+PGF_00046622	Hyphomonas	75.87	15.79	RNA-binding protein Hfq
+PGF_00046915	Hyphomonas	376.40	4.27	Radical SAM domain protein
+PGF_00047078	Hyphomonas	367.33	13.82	RecA protein
+PGF_00047152	Hyphomonas	153.73	3.26	Redox-sensitive transcriptional activator SoxR
+PGF_00048333	Hyphomonas	322.93	12.36	Rhodanese domain protein UPF0176, cyanobacterial/alphaproteobacterial subgroup
+PGF_00048480	Hyphomonas	207.33	2.50	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Hyphomonas	151.13	7.24	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048586	Hyphomonas	240.60	1.84	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048630	Hyphomonas	622.67	9.66	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048634	Hyphomonas	344.33	3.79	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Hyphomonas	144.87	17.80	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048834	Hyphomonas	186.60	9.82	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048840	Hyphomonas	280.73	13.77	Ribosomal protein L11 methyltransferase
+PGF_00048846	Hyphomonas	453.00	13.56	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Hyphomonas	225.64	4.60	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Hyphomonas	196.87	4.29	Ribosome hibernation promoting factor Hpf
+PGF_00048985	Hyphomonas	221.47	1.41	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049085	Hyphomonas	367.13	3.07	Rieske 2Fe-2S family protein
+PGF_00049127	Hyphomonas	548.86	11.47	RloF
+PGF_00049330	Hyphomonas	393.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Hyphomonas	330.53	69.13	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049363	Hyphomonas	279.64	8.96	S-formylglutathione hydrolase (EC 3.1.2.12)
+PGF_00049533	Hyphomonas	249.13	8.26	SAM-dependent methyltransferase 2, in cluster with Hydroxyacylglutathione hydrolase
+PGF_00049544	Hyphomonas	203.67	9.15	SAM-dependent methyltransferase PA0798 (UbiE paralog)
+PGF_00049555	Hyphomonas	302.27	3.41	SAM-dependent methyltransferase, BioC-like
+PGF_00049786	Hyphomonas	481.67	1.29	Amidase
+PGF_00049827	Hyphomonas	280.47	3.34	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Hyphomonas	106.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Hyphomonas	129.20	0.41	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Hyphomonas	89.20	35.14	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Hyphomonas	122.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Hyphomonas	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Hyphomonas	90.20	2.81	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Hyphomonas	148.73	10.49	SSU ribosomal protein S16p
+PGF_00049854	Hyphomonas	81.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Hyphomonas	85.27	1.03	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Hyphomonas	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Hyphomonas	244.87	0.52	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Hyphomonas	201.73	12.65	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Hyphomonas	193.80	3.38	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Hyphomonas	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Hyphomonas	131.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Hyphomonas	158.60	5.21	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Hyphomonas	276.87	4.82	Segregation and condensation protein A
+PGF_00050369	Hyphomonas	466.40	9.61	Selenoprotein O and cysteine-containing homologs
+PGF_00050556	Hyphomonas	474.14	3.98	Sensor histidine kinase CC_2765
+PGF_00050557	Hyphomonas	532.87	6.50	Sensor histidine kinase ChvG (EC 2.7.3.-)
+PGF_00050602	Hyphomonas	472.33	8.96	Sensor histidine kinase in cluster with mercury reductase
+PGF_00050995	Hyphomonas	475.33	28.60	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051142	Hyphomonas	410.93	20.37	Septum-associated rare lipoprotein A
+PGF_00051525	Hyphomonas	449.27	31.04	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051722	Hyphomonas	269.33	1.29	Short-chain dehydrogenase/reductase SDR
+PGF_00052238	Hyphomonas	489.67	4.79	Signal recognition particle protein Ffh
+PGF_00052705	Hyphomonas	145.27	9.06	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Hyphomonas	305.87	3.54	Site-specific tyrosine recombinase XerD
+PGF_00053756	Hyphomonas	412.47	0.74	Sphingosine-1-phosphate lyase (EC 4.1.2.27)
+PGF_00053770	Hyphomonas	386.87	4.41	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054125	Hyphomonas	383.29	8.47	Aminotransferase
+PGF_00054476	Hyphomonas	130.27	1.44	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Hyphomonas	260.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Hyphomonas	397.20	1.21	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054541	Hyphomonas	208.81	0.40	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00055273	Hyphomonas	201.13	1.64	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055354	Hyphomonas	414.60	0.63	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055771	Hyphomonas	221.33	3.72	TRAP dicarboxylate transporter, DctQ subunit, unknown substrate 6
+PGF_00055966	Hyphomonas	374.57	5.33	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Hyphomonas	331.33	1.95	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056544	Hyphomonas	257.87	3.70	Thiazole synthase (EC 2.8.1.10)
+PGF_00056569	Hyphomonas	157.13	7.14	Thioesterase
+PGF_00056578	Hyphomonas	142.93	1.16	Thioesterase
+PGF_00056662	Hyphomonas	344.27	3.20	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Hyphomonas	474.93	0.70	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Hyphomonas	217.33	2.55	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Hyphomonas	269.13	13.05	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Hyphomonas	459.38	29.71	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Hyphomonas	146.20	1.82	Tol biopolymer transport system, TolR protein
+PGF_00057032	Hyphomonas	151.93	1.44	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Hyphomonas	744.07	0.26	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057483	Hyphomonas	428.60	1.55	Transcription termination factor Rho
+PGF_00057485	Hyphomonas	590.27	4.01	Transcription termination protein NusA
+PGF_00057488	Hyphomonas	156.67	3.66	Transcription termination protein NusB
+PGF_00059034	Hyphomonas	306.93	41.61	Transcriptional regulator, ArsR family / Methyltransferase fusion
+PGF_00060409	Hyphomonas	709.60	3.96	Translation elongation factor G
+PGF_00060414	Hyphomonas	601.87	2.00	Translation elongation factor LepA
+PGF_00060421	Hyphomonas	188.93	1.03	Translation elongation factor P
+PGF_00060431	Hyphomonas	76.80	10.85	Translation initiation factor 1
+PGF_00060478	Hyphomonas	161.40	17.15	Translation initiation factor 3
+PGF_00061607	Hyphomonas	127.71	14.06	ApaG protein
+PGF_00062023	Hyphomonas	275.07	0.26	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Hyphomonas	403.33	0.72	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062299	Hyphomonas	383.53	10.18	Two-component oxygen-sensor histidine kinase FixL
+PGF_00062705	Hyphomonas	792.33	12.24	Two-component sensor histidine kinase PleC
+PGF_00063815	Hyphomonas	481.87	13.08	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
+PGF_00063916	Hyphomonas	416.07	0.26	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063938	Hyphomonas	271.27	15.13	UDP-2,3-diacylglucosamine pyrophosphatase
+PGF_00063944	Hyphomonas	305.53	11.34	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063974	Hyphomonas	315.73	4.28	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Hyphomonas	364.00	7.62	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00064218	Hyphomonas	106.50	1.29	UPF0145 protein YbjQ
+PGF_00064280	Hyphomonas	150.93	9.67	UPF0260 protein YcgN
+PGF_00064393	Hyphomonas	290.47	1.46	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064460	Hyphomonas	506.07	1.79	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064521	Hyphomonas	459.93	12.90	Uncharacterized ABC1 family protein CC_3312
+PGF_00064839	Hyphomonas	111.87	0.64	Uncharacterized monothiol glutaredoxin ycf64-like
+PGF_00064911	Hyphomonas	164.80	7.75	Uncharacterized protein CC_2099
+PGF_00064932	Hyphomonas	478.00	1.25	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_00065779	Hyphomonas	63.14	3.61	Uncharacterized protein ynbE; probable lipoprotein STY1424
+PGF_00066270	Hyphomonas	345.20	1.82	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Hyphomonas	923.80	34.87	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066906	Hyphomonas	317.29	6.26	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067277	Hyphomonas	378.43	2.47	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067401	Hyphomonas	281.64	1.39	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067412	Hyphomonas	78.67	6.81	YrbA protein
+PGF_00067466	Hyphomonas	610.67	46.05	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067515	Hyphomonas	470.53	6.28	Zinc protease
+PGF_00067520	Hyphomonas	452.67	2.16	Zinc protease
+PGF_00067547	Hyphomonas	157.06	13.21	Zinc uptake regulation protein Zur
+PGF_00067554	Hyphomonas	501.53	4.87	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067569	Hyphomonas	698.33	19.60	Zinc-regulated outer membrane receptor
+PGF_00067791	Hyphomonas	947.93	2.25	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00069282	Hyphomonas	307.07	19.54	Putative esterase
+PGF_00070754	Hyphomonas	614.13	7.37	ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines) / ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00070995	Hyphomonas	458.20	24.15	Membrane-bound lytic murein transglycosylase B
+PGF_00071070	Hyphomonas	206.47	8.40	exopolysaccharide synthesis protein ExoD-related protein
+PGF_00071194	Hyphomonas	458.87	1.25	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071597	Hyphomonas	302.80	1.66	gluconolactonase, putative
+PGF_00071693	Hyphomonas	281.07	2.46	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00071938	Hyphomonas	161.27	1.58	Bacterioferritin (EC 1.16.3.1)
+PGF_00084324	Hyphomonas	284.00	1.89	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00084680	Hyphomonas	359.73	1.67	Type II restriction adenine-specific methylase (EC 2.1.1.72)
+PGF_00086156	Hyphomonas	113.07	4.57	hypothetical protein
+PGF_00092303	Hyphomonas	180.86	4.26	hypothetical protein
+PGF_00099158	Hyphomonas	123.71	2.20	hypothetical protein
+PGF_00111264	Hyphomonas	184.86	12.17	hypothetical protein
+PGF_00119794	Hyphomonas	183.57	9.42	hypothetical protein
+PGF_00123336	Hyphomonas	137.00	7.26	hypothetical protein
+PGF_00133110	Hyphomonas	119.00	0.65	hypothetical protein
+PGF_00141505	Hyphomonas	146.93	1.00	hypothetical protein
+PGF_00144272	Hyphomonas	178.20	2.57	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00146616	Hyphomonas	200.07	4.92	hypothetical protein
+PGF_00149487	Hyphomonas	43.00	0.00	hypothetical protein
+PGF_00153116	Hyphomonas	248.64	8.08	hypothetical protein
+PGF_00158997	Hyphomonas	663.73	3.53	Aerobic cobaltochelatase CobT subunit (EC 6.6.1.2)
+PGF_00163327	Hyphomonas	116.13	4.22	hypothetical protein
+PGF_00165896	Hyphomonas	123.79	1.19	hypothetical protein
+PGF_00166296	Hyphomonas	175.79	2.33	hypothetical protein
+PGF_00183088	Hyphomonas	51.53	5.89	hypothetical protein
+PGF_00196879	Hyphomonas	157.29	13.89	hypothetical protein
+PGF_00214649	Hyphomonas	335.73	8.62	hypothetical protein
+PGF_00219062	Hyphomonas	154.14	3.78	hypothetical protein
+PGF_00236552	Hyphomonas	91.33	1.29	hypothetical protein
+PGF_00238590	Hyphomonas	134.27	16.51	hypothetical protein
+PGF_00238806	Hyphomonas	187.00	9.98	hypothetical protein
+PGF_00250298	Hyphomonas	127.47	2.26	hypothetical protein
+PGF_00250883	Hyphomonas	138.93	3.41	hypothetical protein
+PGF_00251564	Hyphomonas	214.36	13.01	hypothetical protein
+PGF_00251728	Hyphomonas	349.79	0.97	hypothetical protein
+PGF_00256463	Hyphomonas	202.79	1.81	hypothetical protein
+PGF_00257878	Hyphomonas	175.21	2.94	hypothetical protein
+PGF_00259028	Hyphomonas	212.00	14.44	hypothetical protein
+PGF_00261173	Hyphomonas	394.40	1.55	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00278406	Hyphomonas	240.00	6.20	hypothetical protein
+PGF_00283046	Hyphomonas	111.43	11.69	hypothetical protein
+PGF_00283241	Hyphomonas	160.57	7.43	hypothetical protein
+PGF_00301253	Hyphomonas	138.71	8.39	hypothetical protein
+PGF_00306574	Hyphomonas	363.47	2.17	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00326459	Hyphomonas	121.79	0.43	hypothetical protein
+PGF_00339555	Hyphomonas	430.40	6.30	hypothetical protein
+PGF_00349114	Hyphomonas	345.21	21.46	hypothetical protein
+PGF_00351366	Hyphomonas	142.40	2.29	Flagellum biosynthesis repressor protein FlbT
+PGF_00369592	Hyphomonas	181.60	1.06	hypothetical protein
+PGF_00373671	Hyphomonas	111.27	1.98	hypothetical protein
+PGF_00374135	Hyphomonas	176.71	8.94	hypothetical protein
+PGF_00385254	Hyphomonas	262.73	10.98	hypothetical protein
+PGF_00394095	Hyphomonas	214.73	3.84	hypothetical protein
+PGF_00397648	Hyphomonas	346.00	11.20	hypothetical protein
+PGF_00398808	Hyphomonas	308.36	8.69	hypothetical protein
+PGF_00403782	Hyphomonas	350.00	1.77	2-methylfumaryl-CoA hydratase (EC 4.2.1.148)
+PGF_00404078	Hyphomonas	151.67	22.65	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Hyphomonas	456.93	4.27	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404817	Hyphomonas	145.20	4.38	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00406075	Hyphomonas	170.60	5.19	putative RNA methyltransferase, TrmH family
+PGF_00406692	Hyphomonas	1002.40	0.83	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408888	Hyphomonas	436.27	2.84	putative membrane protein
+PGF_00411951	Hyphomonas	489.29	0.47	ribosomal protein S6 glutaminyl transferase related protein
+PGF_00413208	Hyphomonas	243.67	3.98	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Hyphomonas	319.20	13.81	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Hyphomonas	245.87	7.82	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Hyphomonas	314.07	3.26	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Hyphomonas	426.47	8.94	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413306	Hyphomonas	298.33	4.58	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Hyphomonas	151.73	2.99	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Hyphomonas	157.67	4.81	tmRNA-binding protein SmpB
+PGF_00414926	Hyphomonas	401.67	8.81	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Hyphomonas	261.87	4.07	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415481	Hyphomonas	348.47	2.75	SAM-dependent methyltransferase, MidA
+PGF_00415551	Hyphomonas	192.87	8.92	COG1896: Predicted hydrolases of HD superfamily
+PGF_00415581	Hyphomonas	235.00	1.73	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415637	Hyphomonas	203.87	19.89	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination / Ribosomal protein L7Ae family protein YlxQ
+PGF_00415660	Hyphomonas	442.80	8.24	COG2907: Amine oxidase, flavin-containing
+PGF_00416129	Hyphomonas	544.53	0.52	CTP synthase (EC 6.3.4.2)
+PGF_00416622	Hyphomonas	380.60	3.72	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416674	Hyphomonas	376.00	2.85	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416702	Hyphomonas	727.67	6.88	Catalase-peroxidase KatG (EC 1.11.1.21)
+PGF_00417043	Hyphomonas	287.93	4.33	Cell division protein FtsQ
+PGF_00417086	Hyphomonas	288.87	4.19	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_00417249	Hyphomonas	366.47	10.23	Cell wall hydrolyses involved in spore germination
+PGF_00417433	Hyphomonas	634.40	2.13	Chaperone protein DnaK
+PGF_00417577	Hyphomonas	145.47	1.77	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Hyphomonas	376.07	1.98	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Hyphomonas	251.73	22.98	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417816	Hyphomonas	103.13	2.10	Chorismate mutase I (EC 5.4.99.5)
+PGF_00418128	Hyphomonas	269.33	0.62	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418178	Hyphomonas	421.13	1.96	Co2 transporter containing CBS domains
+PGF_00418406	Hyphomonas	179.00	2.51	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418858	Hyphomonas	478.00	0.00	Coniferyl aldehyde dehydrogenase (EC 1.2.1.68)
+PGF_00419406	Hyphomonas	219.87	11.80	Conserved hypothetical protein 2001
+PGF_00419627	Hyphomonas	297.87	5.37	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Hyphomonas	167.33	0.82	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419707	Hyphomonas	421.50	6.55	Crotonyl-CoA carboxylase/reductase, ethylmalonyl-CoA producing
+PGF_00419886	Hyphomonas	280.87	0.74	3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2)
+PGF_00419915	Hyphomonas	279.27	6.23	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420121	Hyphomonas	212.20	0.77	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420482	Hyphomonas	244.93	6.73	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Hyphomonas	632.00	10.77	Cytochrome c heme lyase subunit CcmF
+PGF_00420582	Hyphomonas	193.93	6.27	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420584	Hyphomonas	205.87	16.79	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center
+PGF_00420798	Hyphomonas	310.27	26.68	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Hyphomonas	320.40	0.83	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420912	Hyphomonas	262.21	0.43	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_00421498	Hyphomonas	376.40	10.83	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Hyphomonas	632.87	14.23	DNA primase (EC 2.7.7.-)
+PGF_00421733	Hyphomonas	370.07	0.96	DNA recombination and repair protein RecF
+PGF_00421738	Hyphomonas	242.47	1.19	DNA recombination and repair protein RecO
+PGF_00421763	Hyphomonas	447.27	8.24	DNA repair and recombination protein, putative helicase
+PGF_00421792	Hyphomonas	459.47	12.15	DNA repair protein RadA
+PGF_00421796	Hyphomonas	562.73	1.83	DNA repair protein RecN
+PGF_00421908	Hyphomonas	276.73	2.43	DNA uptake lipoprotein ComL
+PGF_00422163	Hyphomonas	247.87	12.99	DNA-binding response regulator ChvI
+PGF_00422183	Hyphomonas	226.80	1.26	DNA-binding response regulator PetR
+PGF_00422271	Hyphomonas	345.47	2.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422651	Hyphomonas	337.53	1.60	Decaprenyl diphosphate synthase (EC 2.5.1.91)
+PGF_00422918	Hyphomonas	339.07	1.39	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Hyphomonas	151.00	0.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423097	Hyphomonas	268.00	2.07	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Hyphomonas	416.60	1.30	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423533	Hyphomonas	294.47	3.44	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Hyphomonas	142.80	12.67	DksA family protein PA5536 (no Zn-finger)
+PGF_00423668	Hyphomonas	191.13	3.87	Dna binding response regulator PrrA (RegA)
+PGF_00423709	Hyphomonas	232.07	11.33	DnaJ-like protein DjlA
+PGF_00423927	Hyphomonas	373.80	17.34	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424123	Hyphomonas	559.73	0.46	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424425	Hyphomonas	364.69	1.58	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+PGF_00424496	Hyphomonas	743.40	0.51	Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_00424565	Hyphomonas	513.00	18.13	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9), inferred for PFA pathway
+PGF_00424578	Hyphomonas	294.13	4.29	Enoyl-[acyl-carrier-protein] reductase [NADPH] (EC 1.3.1.10)
+PGF_00424586	Hyphomonas	267.87	0.52	1-acyl-sn-glycerol-3-phosphate acyltransferase
+PGF_00424921	Hyphomonas	668.47	10.52	Ethylmalonyl-CoA mutase, methylsuccinyl-CoA-forming
+PGF_00424971	Hyphomonas	625.40	14.40	Excinuclease ABC subunit C
+PGF_00425214	Hyphomonas	113.13	0.35	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425265	Hyphomonas	423.50	17.97	ABC transporter, substrate-binding protein (cluster 4, leucine/isoleucine/valine/benzoate)
+PGF_00425684	Hyphomonas	253.13	4.97	Probable transcriptional regulatory protein YebC
+PGF_00425685	Hyphomonas	291.87	12.70	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425828	Hyphomonas	846.93	27.76	ATP-dependent, 3'-5' DNA helicase with strand annealing activity
+PGF_00425847	Hyphomonas	202.13	12.78	FIG003437: hypothetical with DnaJ-like domain
+PGF_00425900	Hyphomonas	954.87	9.76	FIG003603: membrane protein, putative
+PGF_00425985	Hyphomonas	224.73	13.26	Cell division organizing protein PopZ
+PGF_00425993	Hyphomonas	397.07	8.70	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Hyphomonas	342.67	1.29	FIG004453: protein YceG like
+PGF_00426115	Hyphomonas	639.93	0.26	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426204	Hyphomonas	405.07	0.26	5-aminolevulinate synthase (EC 2.3.1.37)
+PGF_00426629	Hyphomonas	136.20	3.12	5-methyl-dCTP pyrophosphohydrolase (EC 3.6.1.-)
+PGF_00426932	Hyphomonas	142.20	0.56	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Hyphomonas	281.60	7.57	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447508	Hyphomonas	485.53	1.60	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Hyphomonas	446.73	1.28	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00497557	Hyphomonas	510.13	4.96	Uncharacterized protein YjgR
+PGF_00502238	Hyphomonas	329.13	9.84	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00529632	Hyphomonas	855.20	76.25	ClpB protein
+PGF_00538878	Hyphomonas	271.60	0.63	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00546752	Hyphomonas	174.80	1.08	Phosphohistidine phosphatase SixA
+PGF_00549302	Hyphomonas	444.73	4.91	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00565351	Hyphomonas	221.00	0.00	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00569671	Hyphomonas	295.27	19.48	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00570054	Hyphomonas	207.40	2.61	Two-component nitrogen fixation transcriptional regulator FixJ
+PGF_00611793	Hyphomonas	266.00	5.53	SapC-like S-layer protein
+PGF_00616490	Hyphomonas	285.53	5.22	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Hyphomonas	386.60	6.41	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Hyphomonas	232.80	13.09	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00634936	Hyphomonas	315.27	7.44	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Hyphomonas	512.20	8.34	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Hyphomonas	328.40	20.55	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644212	Hyphomonas	283.73	16.52	Nucleoside-diphosphate-sugar epimerases
+PGF_00648054	Hyphomonas	236.73	0.46	Tol-Pal system protein TolQ
+PGF_00655358	Hyphomonas	478.93	0.88	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Hyphomonas	513.00	3.46	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00658277	Hyphomonas	598.60	4.37	Serine protease
+PGF_00659194	Hyphomonas	193.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00659286	Hyphomonas	460.40	4.32	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00664069	Hyphomonas	434.20	0.41	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Hyphomonas	105.87	18.26	Ribosomal silencing factor RsfA
+PGF_00675537	Hyphomonas	112.67	4.69	Isochorismate pyruvate-lyase (EC 4.2.99.21)
+PGF_00679890	Hyphomonas	523.13	8.91	Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)
+PGF_00695496	Hyphomonas	236.75	8.66	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00701090	Hyphomonas	619.73	10.77	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+PGF_00702065	Hyphomonas	160.93	1.58	hypothetical protein
+PGF_00704717	Hyphomonas	125.57	12.28	Uncharacterized protein DUF983 associated with cytochrome c oxidase?
+PGF_00704972	Hyphomonas	762.36	6.87	Protease
+PGF_00709443	Hyphomonas	137.36	8.91	Twin-arginine translocation protein TatB
+PGF_00710223	Hyphomonas	334.00	18.74	hypothetical protein
+PGF_00718789	Hyphomonas	292.53	1.19	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00725839	Hyphomonas	722.79	12.04	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Hyphomonas	846.27	53.60	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00757600	Hyphomonas	406.53	12.09	Uncharacterized MFS-type transporter
+PGF_00763623	Hyphomonas	378.20	13.14	Putative glycosyl transferase
+PGF_00770540	Hyphomonas	127.57	0.85	Flagellum biosynthesis repressor protein FlbT
+PGF_00773182	Hyphomonas	404.86	5.72	Murein hydrolase activator EnvC
+PGF_00776587	Hyphomonas	113.53	8.02	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00783372	Hyphomonas	680.07	25.55	TonB-dependent receptor
+PGF_00813259	Hyphomonas	249.93	2.46	FolM Alternative dihydrofolate reductase 1
+PGF_00827555	Hyphomonas	568.33	7.35	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Hyphomonas	300.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Hyphomonas	407.80	1.66	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00856417	Hyphomonas	202.60	54.18	UPF0758 family protein
+PGF_00863433	Hyphomonas	342.29	5.58	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_00908360	Hyphomonas	266.27	10.05	Phospholipid ABC transporter permease protein MlaE
+PGF_00909659	Hyphomonas	710.40	20.50	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00912265	Hyphomonas	324.53	12.86	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Hyphomonas	291.07	1.58	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00925844	Hyphomonas	339.67	35.73	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Hyphomonas	600.67	30.21	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00945390	Hyphomonas	241.93	29.40	Flagellar biosynthesis protein FliR
+PGF_00955461	Hyphomonas	302.80	0.77	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00957419	Hyphomonas	148.07	9.90	Putative pre-16S rRNA nuclease Yqg
+PGF_00973394	Hyphomonas	185.33	19.19	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00983050	Hyphomonas	364.07	60.41	Pyridoxal 5-phosphate (PLP)-dependent ornithine decarboxylase (EC 4.1.1.17)
+PGF_00983926	Hyphomonas	132.67	5.67	Ribosome-binding factor A
+PGF_01008556	Hyphomonas	239.33	3.56	Flagellar basal-body rod protein FlgF
+PGF_01026260	Hyphomonas	87.20	2.01	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_01028579	Hyphomonas	462.67	28.80	Sodium-dependent transporter, SNF family
+PGF_01067056	Hyphomonas	104.93	3.88	Periplasmic divalent cation tolerance protein CutA
+PGF_01091360	Hyphomonas	442.27	48.18	Flagellin protein FlaA
+PGF_01091412	Hyphomonas	205.07	4.11	hypothetical protein
+PGF_01101526	Hyphomonas	387.93	3.20	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01102287	Hyphomonas	528.87	3.83	Alkaline phosphatase (EC 3.1.3.1)
+PGF_01104399	Hyphomonas	245.87	9.85	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01115564	Hyphomonas	307.80	1.21	Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)
+PGF_01124177	Hyphomonas	507.60	5.91	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Hyphomonas	403.93	6.06	Rod shape-determining protein RodA
+PGF_01162681	Hyphomonas	910.20	14.75	Aconitate hydratase (EC 4.2.1.3)
+PGF_01171915	Hyphomonas	286.00	7.92	HAD superfamily protein involved in N-acetyl-glucosamine catabolism
+PGF_01172485	Hyphomonas	430.13	1.77	Cell division protein FtsA
+PGF_01174739	Hyphomonas	270.20	17.33	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174827	Hyphomonas	89.73	3.20	FIG152265: Sodium:solute symporter associated protein
+PGF_01175575	Hyphomonas	656.33	2.19	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01196008	Hyphomonas	200.00	12.85	Tim44-like domain protein
+PGF_01198184	Hyphomonas	65.87	3.44	hypothetical protein
+PGF_01220568	Hyphomonas	167.80	14.08	Polymer-forming bactofilin
+PGF_01223569	Hyphomonas	195.93	3.85	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Hyphomonas	172.21	4.41	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Hyphomonas	344.00	7.09	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Hyphomonas	224.60	4.88	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Hyphomonas	259.20	12.32	Chromosome (plasmid) partitioning protein ParA
+PGF_01323228	Hyphomonas	206.40	3.09	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01351158	Hyphomonas	1158.87	14.65	Transcription-repair coupling factor
+PGF_01364427	Hyphomonas	205.60	4.64	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Hyphomonas	181.20	13.71	HNH endonuclease family protein
+PGF_01404160	Hyphomonas	335.60	10.51	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01421534	Hyphomonas	218.33	2.85	LSU ribosomal protein L25p
+PGF_01423501	Hyphomonas	156.33	1.76	Transcription elongation factor GreA
+PGF_01427606	Hyphomonas	369.93	28.63	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_01435544	Hyphomonas	273.47	4.16	Phenazine biosynthesis protein PhzF like
+PGF_01444546	Hyphomonas	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Hyphomonas	97.14	0.36	Integration host factor alpha subunit
+PGF_01451911	Hyphomonas	369.00	0.00	TRAP transporter solute receptor, unknown substrate 6
+PGF_01466742	Hyphomonas	457.20	9.16	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Hyphomonas	397.40	17.29	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483918	Hyphomonas	276.47	7.78	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01496670	Hyphomonas	296.80	16.23	ATPase associated with various cellular activities, AAA_5
+PGF_01512690	Hyphomonas	280.47	1.30	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01514111	Hyphomonas	360.80	5.58	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01515965	Hyphomonas	244.60	10.89	FIG006285: ICC-like protein phosphoesterase
+PGF_01532393	Hyphomonas	724.53	6.73	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01557745	Hyphomonas	407.73	1.03	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01599021	Hyphomonas	175.73	0.59	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Hyphomonas	213.73	12.30	Flagellar basal-body rod modification protein FlgD
+PGF_01614738	Hyphomonas	71.00	3.87	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Hyphomonas	313.20	2.04	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667999	Hyphomonas	174.79	13.47	RNA polymerase sigma factor RpoE
+PGF_01674551	Hyphomonas	126.33	3.24	Glycine cleavage system H protein
+PGF_01682537	Hyphomonas	135.73	1.16	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Hyphomonas	196.47	6.95	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Hyphomonas	186.47	6.69	Adenylate kinase (EC 2.7.4.3)
+PGF_01739753	Hyphomonas	239.87	1.36	Zinc metalloprotease
+PGF_01763778	Hyphomonas	320.40	2.06	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01769256	Hyphomonas	121.00	0.00	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+PGF_01776921	Hyphomonas	236.36	7.15	Nodulin-related protein CC_0717
+PGF_01791400	Hyphomonas	509.67	14.07	Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_01853493	Hyphomonas	278.14	1.03	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Hyphomonas	360.87	4.31	Heat-inducible transcription repressor HrcA
+PGF_01898497	Hyphomonas	243.33	8.97	Endonuclease III (EC 4.2.99.18)
+PGF_01899042	Hyphomonas	397.40	15.06	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01899937	Hyphomonas	301.14	21.22	Rod shape-determining protein MreC
+PGF_01900676	Hyphomonas	254.33	0.62	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01910737	Hyphomonas	291.27	1.33	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01913957	Hyphomonas	862.33	2.99	Sensor kinase
+PGF_01914158	Hyphomonas	192.00	0.96	Thioredoxin-like proteins and domains
+PGF_01914518	Hyphomonas	211.64	18.50	hypothetical protein
+PGF_01915012	Hyphomonas	578.64	2.84	ampG protein, putative
+PGF_01915020	Hyphomonas	464.67	6.24	hypothetical protein
+PGF_01915096	Hyphomonas	204.47	4.64	hypothetical protein
+PGF_01915107	Hyphomonas	149.00	4.99	hypothetical protein
+PGF_01915145	Hyphomonas	469.00	9.02	hypothetical protein
+PGF_01915154	Hyphomonas	141.29	2.30	hypothetical protein
+PGF_01915174	Hyphomonas	141.86	10.73	hypothetical protein
+PGF_01915185	Hyphomonas	150.81	13.31	hypothetical protein
+PGF_01915206	Hyphomonas	341.60	7.62	hypothetical protein
+PGF_01915276	Hyphomonas	108.14	14.36	hypothetical protein
+PGF_01915287	Hyphomonas	200.00	1.00	hypothetical protein
+PGF_01915297	Hyphomonas	149.86	6.13	hypothetical protein
+PGF_01915326	Hyphomonas	148.79	9.58	hypothetical protein
+PGF_01915337	Hyphomonas	258.33	35.55	hypothetical protein
+PGF_01915348	Hyphomonas	137.57	3.50	hypothetical protein
+PGF_01915368	Hyphomonas	295.57	16.41	hypothetical protein
+PGF_01915390	Hyphomonas	187.93	3.71	hypothetical protein
+PGF_01915399	Hyphomonas	238.80	8.20	hypothetical protein
+PGF_01915419	Hyphomonas	143.43	6.48	hypothetical protein
+PGF_01915430	Hyphomonas	237.53	22.38	hypothetical protein
+PGF_01915441	Hyphomonas	101.93	2.12	hypothetical protein
+PGF_01915479	Hyphomonas	232.79	3.66	hypothetical protein
+PGF_01915510	Hyphomonas	302.73	19.36	hypothetical protein
+PGF_01915521	Hyphomonas	162.93	3.20	hypothetical protein
+PGF_01915541	Hyphomonas	146.67	2.06	hypothetical protein
+PGF_01915552	Hyphomonas	139.73	0.46	hypothetical protein
+PGF_01915572	Hyphomonas	222.60	9.39	hypothetical protein
+PGF_01915583	Hyphomonas	307.50	0.85	hypothetical protein
+PGF_01915614	Hyphomonas	528.27	4.15	hypothetical protein
+PGF_01915645	Hyphomonas	259.80	2.08	hypothetical protein
+PGF_01915697	Hyphomonas	385.93	27.08	hypothetical protein
+PGF_01915708	Hyphomonas	273.53	0.83	hypothetical protein
+PGF_01915719	Hyphomonas	101.00	5.71	hypothetical protein
+PGF_01915740	Hyphomonas	121.40	6.20	hypothetical protein
+PGF_01915782	Hyphomonas	79.93	1.87	hypothetical protein
+PGF_01915793	Hyphomonas	69.33	0.72	hypothetical protein
+PGF_01915884	Hyphomonas	349.86	82.97	Lipopolysaccharide export system permease protein LptG
+PGF_01916034	Hyphomonas	250.20	28.02	toluenesulfonate zinc-independent alcohol dehydrogenase
+PGF_01917011	Hyphomonas	172.53	9.52	hypothetical protein
+PGF_01917017	Hyphomonas	339.60	1.40	hypothetical protein
+PGF_01917075	Hyphomonas	1080.07	11.30	AcrB/AcrD/AcrF family protein
+PGF_01917091	Hyphomonas	386.47	1.41	Bll5519 protein
+PGF_01917207	Hyphomonas	504.33	0.49	COGs COG0183
+PGF_01917316	Hyphomonas	109.80	19.72	Cell division protein FtsL
+PGF_01917516	Hyphomonas	88.00	0.00	DNA-binding protein HU
+PGF_01917741	Hyphomonas	168.07	24.13	hypothetical protein
+PGF_01917766	Hyphomonas	408.87	14.26	FOG: EAL domain
+PGF_01917774	Hyphomonas	296.53	0.52	Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)
+PGF_01917880	Hyphomonas	501.53	2.67	Na(+) H(+) antiporter subunit A
+PGF_01917960	Hyphomonas	336.00	1.07	Flagellar biosynthesis protein FlhF
+PGF_01918005	Hyphomonas	88.00	0.68	Flagellar motor switch protein FliN
+PGF_01918283	Hyphomonas	261.00	0.00	Gluconate 5-dehydrogenase (EC 1.1.1.69)
+PGF_01918304	Hyphomonas	493.53	6.12	Hybrid sensory histidine kinase
+PGF_01918384	Hyphomonas	431.53	2.00	InterPro IPR002668 COGs COG1972
+PGF_01919006	Hyphomonas	298.14	6.70	Mll3551 protein
+PGF_01919029	Hyphomonas	172.71	4.39	Mlr5215 protein
+PGF_01919114	Hyphomonas	307.86	2.38	Myo-inositol 2-dehydrogenase (EC 1.1.1.18)
+PGF_01919496	Hyphomonas	155.93	19.52	Outer membrane lipoprotein slyB precursor
+PGF_01919757	Hyphomonas	144.71	4.50	Phage shock protein C
+PGF_01920189	Hyphomonas	227.00	0.00	Putative transcriptional regulatory protein
+PGF_01920195	Hyphomonas	486.53	8.72	Putative transporter
+PGF_01920341	Hyphomonas	235.47	4.94	Response regulator CtrA
+PGF_01960322	Hyphomonas	608.20	0.77	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01962206	Hyphomonas	212.13	9.01	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01975680	Hyphomonas	128.67	2.72	Polar-differentiation response regulator DivK
+PGF_01994657	Hyphomonas	445.47	1.46	Cell division trigger factor (EC 5.2.1.8)
+PGF_02019462	Hyphomonas	358.93	2.12	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Hyphomonas	357.53	2.47	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Hyphomonas	348.40	3.83	GTP-binding protein Obg
+PGF_02059020	Hyphomonas	554.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02061452	Hyphomonas	382.87	6.67	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02111888	Hyphomonas	315.67	1.63	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Hyphomonas	697.00	3.76	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02166472	Hyphomonas	299.07	13.66	Uncharacterized membrane protein YoaT
+PGF_02169237	Hyphomonas	232.53	0.52	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02186693	Hyphomonas	358.33	1.91	Flagellar biosynthesis protein FlhB
+PGF_02211177	Hyphomonas	253.00	0.00	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02226715	Hyphomonas	684.53	8.26	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02239557	Hyphomonas	260.00	0.00	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02323834	Hyphomonas	314.33	2.19	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02325838	Hyphomonas	547.73	2.84	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02333669	Hyphomonas	282.50	5.39	Class D beta-lactamase (EC 3.5.2.6)
+PGF_02346768	Hyphomonas	879.60	1.06	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02369559	Hyphomonas	929.27	1.03	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Hyphomonas	468.87	4.32	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02454577	Hyphomonas	87.00	0.00	SSU ribosomal protein S20p
+PGF_02473279	Hyphomonas	253.27	18.61	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Hyphomonas	206.73	0.96	Uncharacterized Nudix hydrolase NudL
+PGF_02512719	Hyphomonas	151.00	11.11	Na(+) H(+) antiporter subunit E
+PGF_02515882	Hyphomonas	417.80	10.57	Aspartokinase (EC 2.7.2.4)
+PGF_02517984	Hyphomonas	77.50	3.94	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02593689	Hyphomonas	471.13	0.52	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02603215	Hyphomonas	260.87	18.09	hypothetical protein
+PGF_02611620	Hyphomonas	497.67	1.54	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Hyphomonas	307.87	2.39	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Hyphomonas	1405.47	2.75	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02710247	Hyphomonas	326.60	5.42	Glyoxylate reductase (EC 1.1.1.79) / Glyoxylate reductase (EC 1.1.1.26) / Hydroxypyruvate reductase (EC 1.1.1.81)
+PGF_02719231	Hyphomonas	124.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02740181	Hyphomonas	122.73	1.75	Na(+) H(+) antiporter subunit G
+PGF_02744871	Hyphomonas	95.60	13.78	Flagellar hook-basal body complex protein FliE
+PGF_02759160	Hyphomonas	242.93	0.26	Gliding motility-associated ABC transporter ATP-binding protein GldA
+PGF_02776739	Hyphomonas	132.47	1.88	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Hyphomonas	281.13	10.32	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Hyphomonas	214.07	0.46	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797402	Hyphomonas	1378.67	2.61	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02817932	Hyphomonas	383.67	6.86	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02827614	Hyphomonas	135.73	9.41	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02833670	Hyphomonas	280.87	11.62	Zn-dependent protease with chaperone function PA4632
+PGF_02838109	Hyphomonas	187.60	6.48	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Hyphomonas	278.33	21.43	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Hyphomonas	413.53	3.87	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02869965	Hyphomonas	315.00	0.00	Glutathione S-transferase
+PGF_02875609	Hyphomonas	450.33	8.24	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02883702	Hyphomonas	348.80	4.83	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02893929	Hyphomonas	263.67	5.23	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02895613	Hyphomonas	468.67	9.50	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02898096	Hyphomonas	480.73	0.46	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Hyphomonas	67.53	2.88	LSU ribosomal protein L29p (L35e)
+PGF_02901359	Hyphomonas	289.40	9.39	Spacial regulator of FtsZ polymerization, MipZ
+PGF_02903388	Hyphomonas	230.57	7.28	Transcriptional regulatory protein
+PGF_02904832	Hyphomonas	326.13	2.00	Homoserine kinase (EC 2.7.1.39)
+PGF_02911364	Hyphomonas	303.07	21.85	HflC protein
+PGF_02912272	Hyphomonas	161.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02927155	Hyphomonas	355.93	0.59	Bll1370 protein
+PGF_02936332	Hyphomonas	293.13	15.10	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Hyphomonas	411.53	6.10	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02940505	Hyphomonas	274.80	0.41	UDP-galactose-lipid carrier transferase (EC 2.-.-.-)
+PGF_02942351	Hyphomonas	229.40	4.61	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Hyphomonas	661.47	16.52	SSU ribosomal protein S1p
+PGF_02954217	Hyphomonas	279.93	0.46	N-carbamoylputrescine amidase (EC 3.5.1.53)
+PGF_02959749	Hyphomonas	379.60	28.46	Ribonuclease D (EC 3.1.26.3)
+PGF_02992100	Hyphomonas	245.93	12.10	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Hyphomonas	160.53	9.45	Protein translocase membrane subunit SecG
+PGF_03000070	Hyphomonas	349.62	9.08	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03029859	Hyphomonas	604.60	3.14	Bis-ABC ATPase Uup
+PGF_03035890	Hyphomonas	566.67	4.17	Methylsuccinyl-CoA dehydrogenase, predicted by (Erb et al, 2007)
+PGF_03041139	Hyphomonas	246.00	6.95	Pyridoxal-5'-phosphate phosphatase (EC 3.1.3.74), Alphaproteobacterial type
+PGF_03054699	Hyphomonas	830.00	19.08	DNA translocase FtsK
+PGF_03057384	Hyphomonas	350.67	3.44	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03062230	Hyphomonas	158.53	3.62	16 kDa heat shock protein A
+PGF_03066520	Hyphomonas	441.44	52.96	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03069524	Hyphomonas	81.33	1.29	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03070510	Hyphomonas	279.00	0.76	Flagellar synthesis regulator FleN
+PGF_03072132	Hyphomonas	168.73	13.42	CarD-like transcriptional regulator
+PGF_03074362	Hyphomonas	385.33	11.71	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03094694	Hyphomonas	454.27	1.53	Peptidase B (EC 3.4.11.23)
+PGF_03104567	Hyphomonas	456.33	2.58	Trk potassium uptake system protein TrkA
+PGF_03124650	Hyphomonas	490.07	0.26	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03131321	Hyphomonas	434.00	3.30	DNA-damage-inducible protein F
+PGF_03140041	Hyphomonas	148.20	16.55	CBS domain protein
+PGF_03142586	Hyphomonas	97.44	1.86	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03144011	Hyphomonas	158.47	5.36	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03145455	Hyphomonas	464.47	3.83	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03146406	Hyphomonas	595.07	0.26	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Hyphomonas	318.47	1.55	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Hyphomonas	182.07	5.26	Transcription antitermination protein NusG
+PGF_03202871	Hyphomonas	230.73	8.49	Hydrolase SMc00528, alpha/beta fold family
+PGF_03222913	Hyphomonas	135.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03253896	Hyphomonas	228.13	0.35	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Hyphomonas	226.73	0.59	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Hyphomonas	930.53	4.66	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Hyphomonas	94.67	1.18	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Hyphomonas	239.93	4.51	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03340305	Hyphomonas	152.93	0.26	RidA/YER057c/UK114 superfamily, group 1
+PGF_03341277	Hyphomonas	235.33	9.35	Flagellar L-ring protein FlgH
+PGF_03348128	Hyphomonas	184.07	40.65	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03396423	Hyphomonas	371.07	5.56	FIG043197: Inositol monophosphatase family protein
+PGF_03429638	Hyphomonas	309.53	2.72	33 kDa chaperonin HslO
+PGF_03439827	Hyphomonas	469.67	7.14	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03456505	Hyphomonas	446.20	5.03	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03474542	Hyphomonas	442.33	14.95	Flagellum-specific ATP synthase FliI
+PGF_03507859	Hyphomonas	333.43	3.86	Luciferase-like monooxygenase YhbW
+PGF_03514188	Hyphomonas	465.33	2.58	Glutathione reductase (EC 1.8.1.7)
+PGF_03520151	Hyphomonas	482.33	11.71	Cell division protein FtsZ
+PGF_03593265	Hyphomonas	142.33	18.50	FIG018171: hypothetical protein of Cupin superfamily
+PGF_03609651	Hyphomonas	578.53	4.10	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03719269	Hyphomonas	202.07	0.46	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Hyphomonas	144.60	16.20	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Hyphomonas	189.60	8.70	UPF0301 protein YqgE
+PGF_03739563	Hyphomonas	126.80	2.27	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Hyphomonas	491.73	12.74	Chromosomal replication initiator protein DnaA
+PGF_03750599	Hyphomonas	335.71	11.78	Cell division coordinator CpoB
+PGF_03751823	Hyphomonas	197.80	11.78	Heat shock protein GrpE
+PGF_03752544	Hyphomonas	228.40	2.35	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Hyphomonas	288.40	32.26	Site-specific tyrosine recombinase XerC
+PGF_03754184	Hyphomonas	171.40	3.31	Na(+) H(+) antiporter subunit C
+PGF_03757137	Hyphomonas	465.53	0.92	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Hyphomonas	459.33	36.75	Signal recognition particle receptor FtsY
+PGF_03783620	Hyphomonas	176.07	0.26	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Hyphomonas	221.27	13.37	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Hyphomonas	249.53	5.32	Ribonuclease III (EC 3.1.26.3)
+PGF_03804538	Hyphomonas	557.53	3.66	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03810115	Hyphomonas	236.50	1.09	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Hyphomonas	364.00	1.71	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03835760	Hyphomonas	413.40	28.95	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03862500	Hyphomonas	215.00	4.81	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03934926	Hyphomonas	156.93	0.59	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03937990	Hyphomonas	159.27	5.74	hypothetical protein
+PGF_03960810	Hyphomonas	325.07	13.42	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03987764	Hyphomonas	195.40	5.65	FIG003620: Proteophosphoglycan precursor (Fragment)
+PGF_04001842	Hyphomonas	481.80	9.59	Sodium-dependent anion transporter family
+PGF_04005838	Hyphomonas	423.80	0.77	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04016408	Hyphomonas	462.33	4.47	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019834	Hyphomonas	345.93	0.73	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04025415	Hyphomonas	136.40	0.91	Large-conductance mechanosensitive channel
+PGF_04027135	Hyphomonas	292.20	5.23	hypothetical protein
+PGF_04031412	Hyphomonas	654.60	17.13	Alkyl sulfatase and related hydrolases, MBL-fold metallo-hydrolase superfamily
+PGF_04034430	Hyphomonas	61.73	16.38	SSU ribosomal protein S21p
+PGF_04041316	Hyphomonas	1009.93	13.55	Excinuclease ABC subunit A
+PGF_04047265	Hyphomonas	80.67	0.49	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04058106	Hyphomonas	149.43	1.09	hypothetical protein
+PGF_04108824	Hyphomonas	541.40	5.67	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04119806	Hyphomonas	295.20	4.80	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Hyphomonas	274.67	1.11	Twin-arginine translocation protein TatC
+PGF_04151476	Hyphomonas	178.47	6.14	16S rRNA processing protein RimM
+PGF_04156755	Hyphomonas	98.13	1.30	Na(+) H(+) antiporter subunit F
+PGF_04163139	Hyphomonas	240.20	34.84	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Hyphomonas	250.93	4.23	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Hyphomonas	219.60	73.84	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04304571	Hyphomonas	169.43	8.03	hypothetical protein
+PGF_04315180	Hyphomonas	163.87	10.76	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Hyphomonas	451.80	10.30	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04359199	Hyphomonas	615.27	6.52	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04380075	Hyphomonas	189.53	0.74	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Hyphomonas	293.73	0.70	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Hyphomonas	105.93	0.26	Thioredoxin
+PGF_04560429	Hyphomonas	462.67	5.89	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04571944	Hyphomonas	207.20	1.47	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Hyphomonas	247.33	4.43	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04608820	Hyphomonas	679.73	33.58	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04630848	Hyphomonas	139.87	4.03	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04687504	Hyphomonas	457.73	0.46	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04695681	Hyphomonas	269.80	0.56	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Hyphomonas	853.80	2.43	Translation initiation factor 2
+PGF_04752158	Hyphomonas	461.27	9.57	Sensor histidine kinase PrrB (RegB) (EC 2.7.3.-)
+PGF_04757308	Hyphomonas	713.87	4.37	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Hyphomonas	204.73	5.43	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Hyphomonas	315.93	1.87	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Hyphomonas	187.13	5.15	LSU ribosomal protein L19p
+PGF_04960746	Hyphomonas	258.13	10.99	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Hyphomonas	761.67	4.40	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Hyphomonas	116.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_05053989	Hyphomonas	535.73	7.56	ATP-dependent DNA ligase (EC 6.5.1.1) LigC
+PGF_05111929	Hyphomonas	596.80	1.66	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Hyphomonas	896.33	4.92	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Hyphomonas	855.13	1.68	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05182506	Hyphomonas	246.67	8.74	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Hyphomonas	488.73	37.87	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Hyphomonas	471.33	0.90	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05215981	Hyphomonas	139.07	10.06	Uncharacterized protein CC_3748
+PGF_05299528	Hyphomonas	462.67	11.84	ATP-dependent RNA helicase RhlE
+PGF_05338234	Hyphomonas	293.47	2.39	Protein YicC
+PGF_05374359	Hyphomonas	336.33	0.49	Fumarylacetoacetate hydrolase family protein
+PGF_05406959	Hyphomonas	345.93	2.99	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05424184	Hyphomonas	510.40	0.99	Na(+) H(+) antiporter subunit D
+PGF_05444169	Hyphomonas	286.47	1.19	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05463808	Hyphomonas	256.27	1.71	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Hyphomonas	629.00	14.02	DNA mismatch repair protein MutL
+PGF_05519582	Hyphomonas	403.21	6.34	NAD(FAD)-utilizing dehydrogenases
+PGF_05560886	Hyphomonas	270.67	0.49	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Hyphomonas	451.53	2.03	Protein translocase subunit SecY
+PGF_05598173	Hyphomonas	391.47	8.50	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Hyphomonas	435.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Hyphomonas	232.80	0.77	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05681779	Hyphomonas	188.00	2.70	Lysine decarboxylase family
+PGF_05693577	Hyphomonas	99.67	2.58	Integration host factor beta subunit
+PGF_05712128	Hyphomonas	608.87	6.52	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Hyphomonas	116.27	2.43	FIG138056: a glutathione-dependent thiol reductase
+PGF_05729472	Hyphomonas	1572.53	4.87	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05769513	Hyphomonas	451.93	1.67	Tol-Pal system beta propeller repeat protein TolB
+PGF_05925776	Hyphomonas	298.93	1.67	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Hyphomonas	534.80	8.14	Protein translocase subunit SecD
+PGF_05971611	Hyphomonas	410.80	2.78	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05999853	Hyphomonas	370.80	10.74	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06005188	Hyphomonas	665.87	1.13	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06027248	Hyphomonas	488.87	0.35	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06043321	Hyphomonas	353.53	11.38	Ferric iron ABC transporter, iron-binding protein
+PGF_06061522	Hyphomonas	124.00	11.71	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06109969	Hyphomonas	410.40	11.26	MFS family multidrug efflux protein, similarity to bicyclomycin resistance protein Bcr
+PGF_06170558	Hyphomonas	155.80	1.78	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Hyphomonas	151.00	6.21	LSU ribosomal protein L13p (L13Ae)
+PGF_06211427	Hyphomonas	291.73	0.70	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06213055	Hyphomonas	274.13	2.64	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Hyphomonas	464.73	56.42	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Hyphomonas	97.07	2.43	Heat shock protein 60 family co-chaperone GroES
+PGF_06285197	Hyphomonas	428.40	6.41	Intracellular PHB depolymerase
+PGF_06298671	Hyphomonas	271.93	18.04	Efflux ABC transporter, permease protein
+PGF_06315406	Hyphomonas	426.07	1.49	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06326847	Hyphomonas	254.67	7.96	Flagellar biosynthesis protein FliP
+PGF_06447349	Hyphomonas	750.40	12.59	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06451924	Hyphomonas	332.00	0.00	Fructokinase (EC 2.7.1.4)
+PGF_06469881	Hyphomonas	313.27	6.47	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06530721	Hyphomonas	232.93	4.38	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Hyphomonas	127.00	0.00	Fluoride ion transporter CrcB
+PGF_06635957	Hyphomonas	317.40	3.33	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06644010	Hyphomonas	322.73	4.67	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Hyphomonas	77.20	0.56	Acyl carrier protein
+PGF_06649360	Hyphomonas	337.27	22.48	Segregation and condensation protein B
+PGF_06683449	Hyphomonas	321.47	14.39	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06735060	Hyphomonas	779.60	0.91	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Hyphomonas	309.86	3.72	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06759389	Hyphomonas	251.67	0.49	Gliding motility-associated ABC transporter permease protein GldF
+PGF_06816681	Hyphomonas	196.64	11.55	Nitroreductase family protein
+PGF_07011327	Hyphomonas	224.73	7.30	RNA binding S1 domain protein
+PGF_07072582	Hyphomonas	656.13	7.29	RNA polymerase sigma factor RpoD
+PGF_07242312	Hyphomonas	644.67	2.74	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07397007	Hyphomonas	287.80	10.18	gluconolactonase family protein
+PGF_07476582	Hyphomonas	1126.64	4.97	Large exoproteins involved in heme utilization or adhesion
+PGF_07507244	Hyphomonas	222.20	6.01	Glutathione S-transferase family protein
+PGF_07675971	Hyphomonas	433.47	1.51	Chromosome (plasmid) partitioning protein ParA
+PGF_08041143	Hyphomonas	143.00	0.00	MaoC family protein
+PGF_08050537	Hyphomonas	308.53	4.90	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08059014	Hyphomonas	323.53	5.58	Putative hydrolase
+PGF_08097473	Hyphomonas	223.87	1.81	hypothetical protein
+PGF_08126362	Hyphomonas	444.40	4.56	DNA recombination protein RmuC
+PGF_08138911	Hyphomonas	69.64	1.86	Protein translocase subunit SecE
+PGF_08153913	Hyphomonas	255.73	1.75	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08155751	Hyphomonas	119.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_08183187	Hyphomonas	374.60	12.79	Cell division protein FtsW

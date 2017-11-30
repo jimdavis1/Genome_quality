@@ -1,0 +1,594 @@
+PGF_00000416	Demequina	301.75	6.86	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000494	Demequina	175.00	4.81	FIG00816212: Putative membrane protein
+PGF_00000760	Demequina	353.43	9.02	ABC alpha-glucoside transporter, inner membrane subunit AglF
+PGF_00001331	Demequina	227.62	9.55	Endonuclease NucS
+PGF_00001849	Demequina	165.00	0.00	FIG01122152: hypothetical protein
+PGF_00002839	Demequina	659.75	14.62	Efflux ABC transporter, permease/ATP-binding protein SCO2464
+PGF_00003516	Demequina	275.00	3.25	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004381	Demequina	457.25	1.16	Ferredoxin--NADP(+) reductase, actinobacterial (eukaryote-like) type (EC 1.18.1.2)
+PGF_00004392	Demequina	594.88	6.88	Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)
+PGF_00006015	Demequina	286.00	0.00	Flp pilus assembly protein TadB
+PGF_00006100	Demequina	383.12	3.44	tRNA-modifying protein YgfZ
+PGF_00006320	Demequina	284.12	0.99	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006461	Demequina	467.88	3.68	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Demequina	525.00	2.67	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Demequina	366.00	7.39	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007027	Demequina	302.75	1.49	GTP-binding protein Era
+PGF_00007028	Demequina	498.50	7.11	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Demequina	632.00	0.93	GTP-binding protein TypA/BipA
+PGF_00007304	Demequina	288.50	10.03	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Demequina	328.00	1.41	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00008061	Demequina	372.62	2.20	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008106	Demequina	269.25	4.83	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Demequina	441.12	11.56	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008334	Demequina	432.88	2.70	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Demequina	494.88	6.94	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008537	Demequina	503.00	1.69	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Demequina	332.88	0.35	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008651	Demequina	253.56	5.17	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+PGF_00008773	Demequina	948.12	10.97	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Demequina	231.38	12.05	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008874	Demequina	822.38	2.07	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009500	Demequina	196.38	11.30	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009966	Demequina	460.38	0.74	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00011979	Demequina	442.38	10.43	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012340	Demequina	428.50	15.24	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Demequina	308.12	0.83	Homoserine kinase (EC 2.7.1.39)
+PGF_00013224	Demequina	178.50	3.93	ADP-ribose pyrophosphatase
+PGF_00013283	Demequina	244.25	2.55	UPF0001 protein YggS
+PGF_00013492	Demequina	185.25	1.98	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Demequina	518.50	0.53	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Demequina	205.12	3.83	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014264	Demequina	339.88	20.17	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014306	Demequina	173.38	0.52	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Demequina	504.25	4.37	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014314	Demequina	374.12	0.35	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00014381	Demequina	363.25	0.46	Inositol-1-phosphate synthase (EC 5.5.1.4)
+PGF_00015039	Demequina	283.75	9.63	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Demequina	76.62	1.06	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Demequina	297.00	0.53	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015467	Demequina	231.25	4.83	Iron-dependent repressor IdeR/DtxR
+PGF_00015699	Demequina	405.00	0.00	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Demequina	1078.62	17.93	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Demequina	342.62	0.92	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016132	Demequina	316.88	0.83	L-lactate dehydrogenase (EC 1.1.1.27)
+PGF_00016284	Demequina	253.88	6.13	LOG family protein
+PGF_00016328	Demequina	173.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Demequina	422.12	6.88	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Demequina	123.75	0.46	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Demequina	243.12	21.98	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Demequina	139.12	0.35	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Demequina	187.00	10.58	LSU ribosomal protein L17p
+PGF_00016353	Demequina	123.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Demequina	231.88	0.35	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Demequina	126.38	0.52	LSU ribosomal protein L20p
+PGF_00016361	Demequina	95.00	0.00	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Demequina	123.38	1.19	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Demequina	101.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Demequina	112.62	0.52	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Demequina	83.38	0.52	LSU ribosomal protein L27p
+PGF_00016387	Demequina	63.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016393	Demequina	278.88	0.64	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Demequina	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Demequina	64.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016423	Demequina	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Demequina	219.75	0.46	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Demequina	229.88	3.23	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Demequina	186.25	0.46	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Demequina	178.12	0.35	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Demequina	127.12	0.83	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Demequina	147.75	0.46	LSU ribosomal protein L9p
+PGF_00016824	Demequina	665.50	7.03	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+PGF_00017479	Demequina	336.62	2.62	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017729	Demequina	292.62	1.41	Lycopene elongase (EC 2.5.1.-)
+PGF_00018956	Demequina	329.88	2.30	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019051	Demequina	585.25	9.29	Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141)
+PGF_00019279	Demequina	370.12	11.62	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)
+PGF_00020173	Demequina	314.62	1.19	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Demequina	150.75	1.75	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020611	Demequina	648.00	6.23	Metallopeptidase
+PGF_00020984	Demequina	297.00	4.17	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021030	Demequina	514.62	30.00	Methylphosphotriester-DNA--protein-cysteine S-methyltransferase (EC 2.1.1.n11) / DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_00022722	Demequina	375.88	2.85	Mrp protein homolog
+PGF_00023591	Demequina	353.00	16.46	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023794	Demequina	301.00	25.52	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00024232	Demequina	372.50	1.41	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Demequina	366.62	4.34	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Demequina	167.88	0.83	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Demequina	380.62	0.74	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Demequina	547.62	0.92	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Demequina	469.62	6.46	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024509	Demequina	422.62	2.00	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024567	Demequina	378.25	0.71	Acetate kinase (EC 2.7.2.1)
+PGF_00024615	Demequina	304.88	16.08	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024687	Demequina	448.12	1.25	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Demequina	219.88	6.20	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Demequina	263.12	7.95	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Demequina	99.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Demequina	496.50	1.07	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Demequina	526.12	0.83	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025090	Demequina	614.50	7.01	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Demequina	174.12	3.09	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025379	Demequina	310.38	2.00	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025508	Demequina	328.12	0.35	Acetyl xylan esterase
+PGF_00026362	Demequina	207.75	4.20	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026797	Demequina	289.12	20.84	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00028560	Demequina	292.71	7.72	Oxidoreductase
+PGF_00028660	Demequina	392.57	9.03	Oxidoreductase
+PGF_00029269	Demequina	919.12	24.80	Aconitate hydratase (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_00029917	Demequina	291.62	16.91	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Demequina	326.12	13.40	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Demequina	361.00	0.00	Peptide chain release factor 1
+PGF_00033237	Demequina	388.50	63.74	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033327	Demequina	381.75	1.91	Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
+PGF_00033359	Demequina	363.38	2.56	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Demequina	240.62	5.37	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033479	Demequina	558.75	1.04	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033536	Demequina	248.12	2.42	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033877	Demequina	159.38	0.74	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Demequina	429.50	10.10	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Demequina	297.75	0.46	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033950	Demequina	248.75	10.61	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Demequina	370.62	4.60	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Demequina	233.50	0.53	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Demequina	775.25	8.36	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Demequina	210.50	10.39	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033987	Demequina	378.62	11.07	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Demequina	737.25	2.31	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Demequina	168.62	1.51	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Demequina	327.25	0.71	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035194	Demequina	356.12	1.81	Adenosine deaminase (EC 3.5.4.4)
+PGF_00035340	Demequina	338.50	1.07	Potassium channel beta chain
+PGF_00035721	Demequina	479.75	9.02	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Demequina	431.25	1.04	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035922	Demequina	246.75	4.53	Hydrolase, alpha/beta fold family
+PGF_00037588	Demequina	603.00	7.58	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00038579	Demequina	110.88	4.36	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038986	Demequina	266.25	2.82	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00040578	Demequina	280.62	2.56	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040882	Demequina	665.14	1.07	Putative glucanase glgE (EC 3.2.1.-)
+PGF_00041217	Demequina	905.38	9.36	Putative helicase
+PGF_00041951	Demequina	732.88	6.42	transporter, MMPL family
+PGF_00042294	Demequina	521.12	5.59	Putative methyltransferase SCO3545
+PGF_00042570	Demequina	325.12	5.06	Putative oxidoreducatse SCO7286
+PGF_00045926	Demequina	439.25	3.37	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045936	Demequina	399.00	0.00	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00045941	Demequina	771.11	18.82	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045982	Demequina	906.12	10.08	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046101	Demequina	301.12	5.79	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Demequina	397.88	8.06	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046192	Demequina	173.50	25.66	RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+PGF_00046597	Demequina	153.00	8.49	RNA polymerase-binding transcription factor DksA
+PGF_00047078	Demequina	363.75	8.05	RecA protein
+PGF_00047088	Demequina	143.25	34.28	RecA/RadA recombinase
+PGF_00047906	Demequina	315.43	2.07	Alpha-glucoside transport system permease protein AglG
+PGF_00048542	Demequina	154.38	2.88	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Demequina	232.62	7.98	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Demequina	247.12	3.44	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048630	Demequina	994.00	10.97	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048635	Demequina	328.00	0.00	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Demequina	157.12	5.54	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048720	Demequina	353.71	4.54	Ribose ABC transporter, periplasmic ribose-binding protein RbsB (TC 3.A.1.2.1)
+PGF_00048917	Demequina	224.12	7.72	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Demequina	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Demequina	340.75	3.37	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Demequina	138.38	23.42	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Demequina	148.25	4.20	Ribosome-binding factor A
+PGF_00049398	Demequina	203.12	5.28	Alternative RNA polymerase sigma factor SigE
+PGF_00049827	Demequina	287.50	3.89	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Demequina	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Demequina	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Demequina	124.12	0.35	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Demequina	122.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Demequina	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Demequina	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Demequina	173.62	17.90	SSU ribosomal protein S16p
+PGF_00049854	Demequina	95.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Demequina	78.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Demequina	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Demequina	271.38	4.31	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Demequina	188.12	1.55	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Demequina	96.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Demequina	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Demequina	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Demequina	162.38	5.13	SSU ribosomal protein S9p (S16e)
+PGF_00050995	Demequina	490.62	1.06	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051220	Demequina	482.12	3.68	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051525	Demequina	428.88	16.62	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Demequina	531.25	2.12	Signal recognition particle protein Ffh
+PGF_00052705	Demequina	143.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00053513	Demequina	335.88	7.28	Solanesyl diphosphate synthase (EC 2.5.1.11)
+PGF_00053770	Demequina	381.88	9.31	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053952	Demequina	105.75	0.71	Sporulation regulatory protein WhiB
+PGF_00053953	Demequina	101.62	16.73	Sporulation regulatory protein WhiD
+PGF_00054461	Demequina	114.00	6.21	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_00054477	Demequina	152.12	3.27	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Demequina	255.38	1.06	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Demequina	388.00	1.07	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00056662	Demequina	346.12	0.35	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056883	Demequina	217.50	6.52	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057270	Demequina	814.88	4.19	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057381	Demequina	245.38	14.54	Trans,polycis-decaprenyl diphosphate synthase (EC 2.5.1.86)
+PGF_00057483	Demequina	645.12	25.73	Transcription termination factor Rho
+PGF_00057485	Demequina	338.75	8.56	Transcription termination protein NusA
+PGF_00059238	Demequina	156.25	7.13	Transcriptional regulator, Fur family
+PGF_00059672	Demequina	253.88	0.35	(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)
+PGF_00060409	Demequina	621.33	163.33	Translation elongation factor G
+PGF_00060414	Demequina	616.62	0.52	Translation elongation factor LepA
+PGF_00060427	Demequina	279.00	0.00	Translation elongation factor Ts
+PGF_00060428	Demequina	396.00	0.00	Translation elongation factor Tu
+PGF_00060431	Demequina	73.00	0.00	Translation initiation factor 1
+PGF_00060478	Demequina	244.88	85.99	Translation initiation factor 3
+PGF_00061003	Demequina	383.11	13.60	ABC transporter, ATP-binding protein (cluster 1, maltose/g3p/polyamine/iron); ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00062045	Demequina	340.12	5.62	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063974	Demequina	359.88	5.19	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Demequina	373.62	6.30	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Demequina	460.25	8.50	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064034	Demequina	527.88	20.23	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7)
+PGF_00064272	Demequina	264.38	15.37	UPF0246 protein YaaA
+PGF_00064378	Demequina	245.00	11.31	Transmembrane protein YfcA
+PGF_00064454	Demequina	260.50	0.53	Ubiquinol-cytochrome C reductase, diheme cytochrome cc subunit
+PGF_00065286	Demequina	194.88	10.91	Uncharacterized protein Q1 colocalized with Q
+PGF_00066123	Demequina	212.25	1.04	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Demequina	226.12	13.60	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066270	Demequina	367.00	11.46	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Demequina	934.12	14.28	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Demequina	155.86	6.69	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066839	Demequina	84.00	0.00	WhiB-like transcription regulator
+PGF_00066867	Demequina	459.12	3.76	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066964	Demequina	490.14	6.77	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067062	Demequina	397.75	2.96	Xylose isomerase (EC 5.3.1.5)
+PGF_00067188	Demequina	346.00	1.41	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067383	Demequina	536.00	8.47	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067554	Demequina	505.50	1.69	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067791	Demequina	599.88	17.49	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00070432	Demequina	427.00	7.52	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00071194	Demequina	450.00	4.47	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071422	Demequina	287.38	4.27	formate/nitrite transporter family protein
+PGF_00076923	Demequina	148.62	2.20	(3R)-hydroxyacyl-ACP dehydratase subunit HadA
+PGF_00261173	Demequina	368.25	14.41	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00269108	Demequina	52.12	0.35	hypothetical protein
+PGF_00294865	Demequina	543.12	16.64	Two component system sensor histidine kinase MtrB
+PGF_00404271	Demequina	607.38	12.79	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00407331	Demequina	264.50	1.85	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_00410523	Demequina	301.62	4.07	putative secreted protein
+PGF_00412178	Demequina	342.88	7.62	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413203	Demequina	165.50	8.65	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Demequina	233.88	6.31	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Demequina	296.62	2.56	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Demequina	313.62	6.55	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Demequina	149.50	3.55	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Demequina	155.38	2.07	tmRNA-binding protein SmpB
+PGF_00414366	Demequina	559.12	11.34	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414926	Demequina	495.88	13.53	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00416115	Demequina	302.00	5.26	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416576	Demequina	204.12	5.54	3'-to-5' oligoribonuclease (orn)
+PGF_00416847	Demequina	553.00	11.11	Ccs1/ResB-related putative cytochrome C-type biogenesis protein
+PGF_00417323	Demequina	807.00	0.00	Cellobiose phosphorylase (EC 2.4.1.20)
+PGF_00417433	Demequina	623.00	3.02	Chaperone protein DnaK
+PGF_00418031	Demequina	467.50	20.42	Chromosome segregation ATPases
+PGF_00418586	Demequina	127.00	0.00	Cold shock protein of CSP family => SCO4325
+PGF_00419420	Demequina	475.25	1.91	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419570	Demequina	621.88	13.03	Copper resistance protein CopD / Cytochrome c oxidase caa3-type assembly factor CtaG_BS (unrelated to Cox11-CtaG family)
+PGF_00419621	Demequina	223.62	1.06	Coproheme decarboxylase HemQ (no EC)
+PGF_00419915	Demequina	269.50	6.52	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Demequina	311.00	0.00	Cysteine synthase (EC 2.5.1.47)
+PGF_00420406	Demequina	133.00	0.00	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420731	Demequina	498.44	49.79	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420994	Demequina	723.38	3.16	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421071	Demequina	141.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421489	Demequina	1186.62	4.90	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Demequina	375.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Demequina	654.62	23.08	DNA primase (EC 2.7.7.-)
+PGF_00421733	Demequina	395.62	18.91	DNA recombination and repair protein RecF
+PGF_00421792	Demequina	461.75	5.57	DNA repair protein RadA
+PGF_00422271	Demequina	330.38	2.33	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422463	Demequina	191.38	14.03	DUF1794
+PGF_00422545	Demequina	290.75	2.66	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422922	Demequina	191.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)
+PGF_00422959	Demequina	152.38	6.25	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423097	Demequina	299.12	6.79	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423351	Demequina	1285.38	23.23	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) / 2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) @ 2-oxoglutarate decarboxylase (EC 4.1.1.71) @ 2-hydroxy-3-oxoadipate synthase (EC 2.2.1.5)
+PGF_00423429	Demequina	507.12	9.43	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423472	Demequina	657.38	15.05	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Demequina	311.75	4.40	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00425024	Demequina	443.25	24.26	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Demequina	243.62	8.77	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425685	Demequina	309.38	6.05	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425786	Demequina	487.12	2.80	Ribonuclease Y
+PGF_00425993	Demequina	385.25	2.12	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426044	Demequina	297.56	9.13	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Demequina	621.25	2.66	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Demequina	378.00	4.81	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426285	Demequina	173.12	9.11	FIG004853: possible toxin to DivIC
+PGF_00438421	Demequina	314.50	2.56	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447508	Demequina	563.00	16.44	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Demequina	453.38	0.52	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00501577	Demequina	200.12	0.83	Small Ras-like GTPase, component of G-protein-coupled receptor (GPCR) system
+PGF_00518942	Demequina	227.38	1.06	Two component system response regulator MtrA
+PGF_00530588	Demequina	431.12	12.52	Glycine betaine ABC transport system, ATP-binding protein OpuAA (EC 3.6.3.32)
+PGF_00596539	Demequina	534.88	9.86	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00616490	Demequina	210.25	15.88	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Demequina	370.50	1.20	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Demequina	564.38	1.06	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00659194	Demequina	187.88	0.35	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00663914	Demequina	205.38	0.74	Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)
+PGF_00664069	Demequina	444.75	5.20	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Demequina	117.25	4.86	Ribosomal silencing factor RsfA
+PGF_00699046	Demequina	551.75	20.60	transmembrane protein, distant homology with ydbT
+PGF_00709443	Demequina	123.38	14.98	Twin-arginine translocation protein TatB
+PGF_00709681	Demequina	320.12	1.36	Inner membrane protein YrbG, predicted calcium/sodium:proton antiporter
+PGF_00717495	Demequina	430.88	3.76	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Demequina	332.12	0.35	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00734482	Demequina	894.88	6.03	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735685	Demequina	996.88	3.31	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_00739388	Demequina	284.25	3.20	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming) (EC 1.1.1.274)
+PGF_00762106	Demequina	177.50	9.84	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00827555	Demequina	729.12	35.84	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Demequina	294.12	2.30	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00907900	Demequina	227.00	11.58	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_00911315	Demequina	339.75	29.01	Alkanal monooxygenase alpha chain (EC 1.14.14.3)
+PGF_00912265	Demequina	394.38	2.39	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Demequina	293.12	1.89	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00925844	Demequina	334.12	3.09	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Demequina	559.12	4.05	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_01008498	Demequina	105.00	4.96	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01039483	Demequina	1000.38	54.04	Fe-S protein, homolog of lactate dehydrogenase SO1521
+PGF_01070050	Demequina	553.00	8.82	Phytoene dehydrogenase (EC 1.14.99.-)
+PGF_01075683	Demequina	144.75	5.34	Hemoglobin-like protein HbO
+PGF_01079016	Demequina	342.00	9.52	Chromosome (plasmid) partitioning protein ParB
+PGF_01111670	Demequina	797.00	127.97	Beta-mannosidase (EC 3.2.1.25)
+PGF_01174739	Demequina	320.50	2.93	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Demequina	356.25	33.97	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01206334	Demequina	528.71	0.76	hypothetical protein
+PGF_01212739	Demequina	541.25	0.46	Heat shock protein 60 family chaperone GroEL
+PGF_01223569	Demequina	187.12	1.55	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01291803	Demequina	305.25	0.46	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Demequina	352.88	31.30	Chromosome (plasmid) partitioning protein ParA
+PGF_01325304	Demequina	263.25	9.04	Molybdenum ABC transporter permease protein ModB
+PGF_01351158	Demequina	1173.00	12.26	Transcription-repair coupling factor
+PGF_01373666	Demequina	577.12	24.87	Efflux ABC transporter, permease/ATP-binding protein SCO2463
+PGF_01377030	Demequina	213.62	4.37	hypothetical protein
+PGF_01393949	Demequina	670.75	12.53	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01420802	Demequina	155.00	0.00	Cell division protein MraZ
+PGF_01421534	Demequina	205.38	5.07	LSU ribosomal protein L25p
+PGF_01444546	Demequina	100.75	4.95	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01466742	Demequina	375.12	4.05	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01483918	Demequina	317.62	8.50	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01514111	Demequina	459.50	22.18	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01532393	Demequina	761.50	36.70	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01576148	Demequina	159.00	0.00	transmembrane protein, distant homology with ydbS
+PGF_01599021	Demequina	165.50	2.78	Peptide deformylase (EC 3.5.1.88)
+PGF_01667392	Demequina	474.62	3.20	Xylulose kinase (EC 2.7.1.17)
+PGF_01668974	Demequina	787.57	19.92	DNA internalization-related competence protein ComEC/Rec2
+PGF_01674551	Demequina	127.25	1.16	Glycine cleavage system H protein
+PGF_01682537	Demequina	118.12	0.64	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Demequina	158.50	7.05	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Demequina	247.38	3.16	DNA recombination and repair protein RecO
+PGF_01722857	Demequina	433.75	2.12	Aspartate aminotransferase (AspB-14) (EC 2.6.1.1)
+PGF_01734668	Demequina	188.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Demequina	275.12	2.53	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01776921	Demequina	240.12	2.90	Nodulin-related protein CC_0717
+PGF_01797166	Demequina	492.88	13.12	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01842781	Demequina	560.00	0.00	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Demequina	282.50	18.02	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Demequina	337.00	1.31	Heat-inducible transcription repressor HrcA
+PGF_01898497	Demequina	235.25	11.62	Endonuclease III (EC 4.2.99.18)
+PGF_01898546	Demequina	458.38	2.20	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01899917	Demequina	504.62	1.06	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_01900807	Demequina	292.11	3.59	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01910737	Demequina	207.12	13.95	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01920535	Demequina	560.25	16.34	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01937476	Demequina	694.12	4.22	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01940838	Demequina	145.88	0.35	Roadblock/LC7 protein, putative GTPase-activating (GAP) component of G-protein-coupled receptor (GPCR) system
+PGF_01949788	Demequina	189.38	2.33	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Demequina	618.62	7.56	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01985478	Demequina	357.25	5.52	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01994657	Demequina	445.38	7.89	Cell division trigger factor (EC 5.2.1.8)
+PGF_02029783	Demequina	508.50	2.07	GTP-binding protein Obg
+PGF_02049468	Demequina	67.00	0.00	Cold shock protein of CSP family
+PGF_02059020	Demequina	560.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02111888	Demequina	325.75	1.04	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Demequina	829.00	5.45	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02150921	Demequina	134.25	11.29	FIG00820565: hypothetical protein
+PGF_02226715	Demequina	760.50	10.86	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02297251	Demequina	220.75	0.46	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02311293	Demequina	378.88	14.27	Peptide chain release factor 2
+PGF_02346669	Demequina	312.12	8.44	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02349208	Demequina	209.50	21.29	Hypothetical, related to broad specificity phosphatases COG0406
+PGF_02357230	Demequina	181.25	4.92	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02409931	Demequina	1087.50	10.27	ATP-dependent DNA helicase SCO5184
+PGF_02432027	Demequina	505.75	1.16	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02450432	Demequina	379.38	50.94	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Demequina	86.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Demequina	198.00	0.00	Recombination protein RecR
+PGF_02515882	Demequina	422.75	0.46	Aspartokinase (EC 2.7.2.4)
+PGF_02516666	Demequina	276.38	8.38	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02518459	Demequina	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02578186	Demequina	377.25	6.52	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02593689	Demequina	462.12	9.17	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601796	Demequina	345.25	3.69	Ornithine cyclodeaminase (EC 4.3.1.12)
+PGF_02611620	Demequina	454.62	0.74	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Demequina	330.62	7.87	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Demequina	1291.00	0.00	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02717713	Demequina	773.88	2.47	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02719231	Demequina	119.12	0.35	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02745613	Demequina	339.38	20.44	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02789532	Demequina	296.50	4.04	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Demequina	203.00	2.07	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Demequina	474.00	3.21	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Demequina	1158.25	1.04	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Demequina	566.75	16.02	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Demequina	204.25	9.90	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02844091	Demequina	247.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02883702	Demequina	349.75	8.46	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02895544	Demequina	227.00	1.85	TrkA-like protein
+PGF_02899131	Demequina	80.50	1.60	LSU ribosomal protein L29p (L35e)
+PGF_02912272	Demequina	232.38	6.97	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Demequina	248.50	0.93	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930391	Demequina	1011.25	9.79	UPF0182 protein AF1421
+PGF_02930420	Demequina	355.25	4.71	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_02936332	Demequina	298.12	0.83	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02938730	Demequina	328.50	3.02	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02959749	Demequina	433.75	14.96	Ribonuclease D (EC 3.1.26.3)
+PGF_02984442	Demequina	747.62	0.52	Periplasmic beta-glucosidase (EC 3.2.1.21)
+PGF_02990610	Demequina	455.14	28.95	Alpha-glucosides-binding periplasmic protein AglE precursor
+PGF_03000349	Demequina	90.75	7.40	Metal-sensitive transcriptional repressor
+PGF_03003352	Demequina	583.50	5.13	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03009868	Demequina	256.75	3.58	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+PGF_03017775	Demequina	503.00	4.78	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Demequina	215.75	6.65	Septum formation protein Maf
+PGF_03021263	Demequina	157.00	1.69	SepF, FtsZ-interacting protein related to cell division
+PGF_03026450	Demequina	1189.00	8.11	Chromosome partition protein smc
+PGF_03029859	Demequina	621.00	19.70	Bis-ABC ATPase Uup
+PGF_03048120	Demequina	430.00	0.00	putative membrane protein
+PGF_03057384	Demequina	335.75	1.83	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03062930	Demequina	434.75	56.48	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.35)
+PGF_03066520	Demequina	411.50	0.76	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03072132	Demequina	160.00	0.00	CarD-like transcriptional regulator
+PGF_03081665	Demequina	97.43	2.07	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03081927	Demequina	272.88	4.29	Polyphosphate glucokinase (EC 2.7.1.63)
+PGF_03099722	Demequina	325.75	11.22	Serine/threonine-protein kinase PknA (EC 2.7.11.1)
+PGF_03107265	Demequina	529.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03111948	Demequina	262.25	0.71	Electron transfer flavoprotein, beta subunit
+PGF_03111988	Demequina	339.25	57.51	Cell division initiation protein DivIVA
+PGF_03132336	Demequina	433.25	8.05	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03133617	Demequina	393.43	10.88	Cystathionine beta-lyase, type II (EC 4.4.1.8)
+PGF_03146406	Demequina	589.25	1.75	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Demequina	133.62	2.20	Cytidine deaminase (EC 3.5.4.5)
+PGF_03174068	Demequina	274.12	13.32	Transcription antitermination protein NusG
+PGF_03223464	Demequina	305.25	12.61	Pseudouridine synthase (EC 4.2.1.70), PA2043 type
+PGF_03224027	Demequina	174.38	14.43	Diadenosine hexaphosphate (Ap6A) hydrolase; Bis(5'-nucleosyl)-tetraphosphatase (Ap4A) (Asymmetrical) (EC 3.6.1.17)
+PGF_03253896	Demequina	231.12	0.83	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Demequina	238.50	4.87	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03267468	Demequina	1522.75	260.78	Putative sensor and ATPase, component of G-protein-coupled receptor (GPCR) system
+PGF_03272313	Demequina	890.50	12.90	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03340305	Demequina	156.50	1.93	RidA/YER057c/UK114 superfamily, group 1
+PGF_03518570	Demequina	144.25	6.07	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Demequina	391.88	3.94	Cell division protein FtsZ
+PGF_03552618	Demequina	210.88	3.00	hypothetical protein
+PGF_03558774	Demequina	293.12	8.98	Peptidase M48, Ste24p precursor
+PGF_03574598	Demequina	372.00	12.86	Lon-like protease with PDZ domain
+PGF_03584110	Demequina	50.75	1.04	FIG011121: hypothetical protein
+PGF_03591205	Demequina	419.50	20.61	Serine/threonine phosphatase PPP (EC 3.1.3.16)
+PGF_03609651	Demequina	597.50	0.53	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Demequina	162.88	0.35	UPF0234 protein Yitk
+PGF_03674577	Demequina	346.88	18.30	Cytochrome c-type biogenesis protein CcsA/ResC
+PGF_03699416	Demequina	225.00	6.21	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Demequina	303.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03723827	Demequina	167.25	8.41	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750571	Demequina	465.12	3.00	Chromosomal replication initiator protein DnaA
+PGF_03750600	Demequina	158.12	1.46	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Demequina	108.88	6.45	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Demequina	198.38	3.85	Heat shock protein GrpE
+PGF_03753122	Demequina	307.50	14.63	Site-specific tyrosine recombinase XerC
+PGF_03755230	Demequina	437.00	7.69	FIG007959: peptidase, M16 family
+PGF_03778780	Demequina	378.62	5.97	Signal recognition particle receptor FtsY
+PGF_03790040	Demequina	243.12	9.60	Ribonuclease III (EC 3.1.26.3)
+PGF_03802211	Demequina	68.38	0.52	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03804538	Demequina	573.62	7.95	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03811905	Demequina	370.88	19.45	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03862500	Demequina	221.50	8.19	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03999196	Demequina	858.88	4.73	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04007946	Demequina	235.00	5.01	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Demequina	515.38	10.77	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Demequina	127.00	2.56	Large-conductance mechanosensitive channel
+PGF_04047265	Demequina	85.50	8.30	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04094270	Demequina	218.50	2.67	TrkA-like protein
+PGF_04150742	Demequina	265.67	61.83	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Demequina	180.71	4.07	16S rRNA processing protein RimM
+PGF_04182459	Demequina	233.25	6.02	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04217145	Demequina	911.62	5.83	Acetaldehyde dehydrogenase (EC 1.2.1.10) / Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_04251642	Demequina	143.00	0.00	(3R)-hydroxyacyl-ACP dehydratase subunit HadB
+PGF_04306800	Demequina	364.62	4.50	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04360357	Demequina	958.00	38.21	Protein translocase subunit SecA
+PGF_04363098	Demequina	77.71	3.55	hypothetical protein
+PGF_04367709	Demequina	67.25	1.75	Excisionase/Xis, DNA-binding
+PGF_04380075	Demequina	183.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04388677	Demequina	359.62	5.32	Linoleoyl-CoA desaturase (EC 1.14.19.3)
+PGF_04469179	Demequina	152.62	9.07	Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase
+PGF_04505269	Demequina	341.12	32.28	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Demequina	473.12	16.62	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Demequina	428.38	6.02	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Demequina	544.38	1.92	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Demequina	238.38	12.19	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04643868	Demequina	255.38	1.77	hypothetical protein
+PGF_04660832	Demequina	181.00	8.02	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Demequina	669.50	6.91	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Demequina	216.88	3.68	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04743928	Demequina	159.00	0.00	hypothetical protein
+PGF_04749763	Demequina	909.50	14.35	Translation initiation factor 2
+PGF_04757308	Demequina	625.88	0.35	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04768494	Demequina	267.29	0.49	hypothetical protein
+PGF_04788810	Demequina	195.38	11.29	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04845029	Demequina	115.00	0.00	LSU ribosomal protein L19p
+PGF_04882920	Demequina	269.90	11.40	Fumarylacetoacetate hydrolase family protein
+PGF_04971017	Demequina	352.00	0.00	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Demequina	102.00	0.00	LSU ribosomal protein L21p
+PGF_04979787	Demequina	106.00	0.93	4Fe-4S ferredoxin, iron-sulfur binding
+PGF_05091456	Demequina	316.12	11.85	Uncharacterized inner membrane protein RarD
+PGF_05135220	Demequina	862.12	76.75	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05158606	Demequina	545.67	20.88	hypothetical protein
+PGF_05168620	Demequina	192.11	27.09	hypothetical protein
+PGF_05181322	Demequina	274.25	14.38	hypothetical protein
+PGF_05184133	Demequina	114.50	14.09	hypothetical protein
+PGF_05195027	Demequina	505.38	8.09	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Demequina	461.00	0.00	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05218024	Demequina	714.88	17.50	Serine/threonine-protein kinase PknB (EC 2.7.11.1)
+PGF_05280843	Demequina	440.50	6.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05304567	Demequina	278.62	10.42	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+PGF_05386032	Demequina	208.00	0.53	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05439724	Demequina	711.00	18.85	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05471309	Demequina	319.12	3.60	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05475561	Demequina	523.25	6.82	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+PGF_05504494	Demequina	70.88	15.51	hypothetical protein
+PGF_05541886	Demequina	537.00	3.59	hypothetical protein
+PGF_05560886	Demequina	284.00	5.78	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Demequina	432.12	0.83	Protein translocase subunit SecY
+PGF_05605679	Demequina	306.00	19.16	Phytoene synthase (EC 2.5.1.32)
+PGF_05609035	Demequina	150.38	1.60	hypothetical protein
+PGF_05622318	Demequina	430.38	0.74	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05637792	Demequina	152.43	7.35	hypothetical protein
+PGF_05662084	Demequina	171.43	6.58	hypothetical protein
+PGF_05679920	Demequina	1460.25	63.11	ATP-dependent helicase HrpA
+PGF_05682204	Demequina	315.50	10.64	Glycine betaine ABC transport system, permease protein OpuAB
+PGF_05710599	Demequina	303.62	12.56	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05715111	Demequina	328.38	21.61	hypothetical protein
+PGF_05732875	Demequina	708.00	10.88	Limit dextrin alpha-1,6-maltotetraose-hydrolase (EC 3.2.1.196)
+PGF_05741410	Demequina	185.25	1.39	hypothetical protein
+PGF_06005188	Demequina	700.00	3.66	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06051594	Demequina	454.25	1.16	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06164037	Demequina	333.29	0.49	Inosose isomerase (EC 5.3.99.11)
+PGF_06170558	Demequina	158.50	7.11	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Demequina	147.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06222375	Demequina	323.75	0.71	hypothetical protein
+PGF_06241615	Demequina	159.88	4.58	hypothetical protein
+PGF_06254345	Demequina	98.25	2.38	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Demequina	410.62	27.04	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06310118	Demequina	250.43	3.55	ABC transporter, ATP-binding protein (cluster 13, osmolytes)
+PGF_06315406	Demequina	439.38	4.69	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06377994	Demequina	452.88	22.00	FtsW-like cell division membrane protein CA_C0505
+PGF_06381845	Demequina	202.12	1.81	hypothetical protein
+PGF_06457956	Demequina	187.29	11.34	hypothetical protein
+PGF_06469881	Demequina	314.38	2.92	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Demequina	344.62	10.74	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06495818	Demequina	255.88	10.83	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06513690	Demequina	759.62	5.55	Pyruvate formate-lyase (EC 2.3.1.54)
+PGF_06586947	Demequina	395.75	9.30	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06609275	Demequina	54.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06627640	Demequina	139.12	1.36	hypothetical protein
+PGF_06644010	Demequina	305.25	0.71	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Demequina	81.50	0.53	Acyl carrier protein
+PGF_06660812	Demequina	212.12	0.35	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06672507	Demequina	653.29	5.94	Probable serine/threonine-protein kinase pknL (EC 2.7.11.1)
+PGF_06701488	Demequina	163.25	3.20	RNA-binding protein Jag
+PGF_06735060	Demequina	815.12	39.82	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06750600	Demequina	342.25	2.49	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06755829	Demequina	384.38	9.74	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757690	Demequina	835.25	6.58	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
+PGF_06772993	Demequina	831.38	58.59	Ribonuclease E (EC 3.1.26.12)
+PGF_06781102	Demequina	395.38	1.77	coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase
+PGF_07072294	Demequina	318.62	2.50	Electron transfer flavoprotein, alpha subunit
+PGF_07072582	Demequina	432.38	22.44	RNA polymerase sigma factor RpoD
+PGF_08126362	Demequina	467.38	35.44	DNA recombination protein RmuC
+PGF_08197987	Demequina	117.00	0.00	Iron-sulfur cluster insertion protein SCO2161

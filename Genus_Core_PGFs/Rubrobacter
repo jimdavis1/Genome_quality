@@ -1,0 +1,621 @@
+PGF_00000134	Rubrobacter	816.25	26.80	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1 / 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2
+PGF_00004384	Rubrobacter	561.50	15.78	Ferredoxin--nitrite reductase (EC 1.7.7.1)
+PGF_00006100	Rubrobacter	319.00	28.27	tRNA-modifying protein YgfZ
+PGF_00006146	Rubrobacter	347.00	19.36	Formate dehydrogenase O putative subunit
+PGF_00006378	Rubrobacter	339.75	4.50	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006391	Rubrobacter	344.50	2.52	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006461	Rubrobacter	465.50	2.52	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006744	Rubrobacter	148.50	10.12	GENE II AND X PROTEINS
+PGF_00006935	Rubrobacter	506.50	1.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Rubrobacter	361.75	4.92	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Rubrobacter	442.75	9.46	GTP-binding protein EngA
+PGF_00007028	Rubrobacter	452.75	15.44	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007304	Rubrobacter	272.25	6.13	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Rubrobacter	314.75	2.22	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007982	Rubrobacter	295.50	5.00	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Rubrobacter	531.75	66.50	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008075	Rubrobacter	402.25	23.57	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Rubrobacter	281.25	16.82	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Rubrobacter	1499.25	19.17	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008164	Rubrobacter	442.50	3.32	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008239	Rubrobacter	263.25	6.60	Glutamine amidotransferase, class I
+PGF_00008255	Rubrobacter	447.75	13.87	Glutamine synthetase family protein in hypothetical Actinobacterial gene cluster
+PGF_00008258	Rubrobacter	443.50	0.58	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008334	Rubrobacter	432.00	3.46	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008439	Rubrobacter	319.00	4.24	Glutathione S-transferase, omega (EC 2.5.1.18)
+PGF_00008542	Rubrobacter	278.00	33.53	Glycerol uptake facilitator protein
+PGF_00008774	Rubrobacter	429.75	1.50	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Rubrobacter	475.50	3.32	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008872	Rubrobacter	695.50	22.11	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008882	Rubrobacter	424.75	2.87	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00008885	Rubrobacter	496.00	6.16	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009966	Rubrobacter	464.50	4.36	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010161	Rubrobacter	587.50	3.00	Glyoxylate carboligase (EC 4.1.1.47)
+PGF_00010337	Rubrobacter	457.00	1.15	Guanine deaminase (EC 3.5.4.3); Hydroxydechloroatrazine ethylaminohydrolase (EC 3.5.99.3)
+PGF_00010349	Rubrobacter	744.75	21.65	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Rubrobacter	188.50	7.72	Guanylate kinase (EC 2.7.4.8)
+PGF_00010581	Rubrobacter	187.25	2.22	HDIG domain protein
+PGF_00011979	Rubrobacter	428.00	7.44	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011989	Rubrobacter	252.25	0.96	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012264	Rubrobacter	369.25	15.88	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Rubrobacter	360.00	4.24	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Rubrobacter	310.00	0.00	Homoserine kinase (EC 2.7.1.39)
+PGF_00012982	Rubrobacter	269.50	0.58	Hydroxypyruvate isomerase (EC 5.3.1.22)
+PGF_00013283	Rubrobacter	238.50	1.73	UPF0001 protein YggS
+PGF_00013341	Rubrobacter	333.50	4.12	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013509	Rubrobacter	521.25	13.84	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Rubrobacter	186.75	14.50	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Rubrobacter	258.00	2.00	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014314	Rubrobacter	385.75	0.50	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00015039	Rubrobacter	261.25	3.77	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015255	Rubrobacter	261.00	2.45	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015259	Rubrobacter	295.00	5.03	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015357	Rubrobacter	442.00	10.00	Iron(II)-dependent oxidoreductase EgtB (hercynine sythase)
+PGF_00015510	Rubrobacter	251.25	0.96	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Rubrobacter	470.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Rubrobacter	455.25	2.06	Iron-sulfur cluster assembly protein SufD
+PGF_00015686	Rubrobacter	478.50	8.81	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015704	Rubrobacter	360.25	3.20	Isocitrate dehydrogenase [NAD] (EC 1.1.1.41)
+PGF_00015718	Rubrobacter	1061.25	16.28	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Rubrobacter	332.75	5.50	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016231	Rubrobacter	466.50	20.24	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016338	Rubrobacter	419.25	4.19	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Rubrobacter	122.25	0.50	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Rubrobacter	152.75	0.50	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Rubrobacter	138.50	0.58	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Rubrobacter	124.50	3.00	LSU ribosomal protein L17p
+PGF_00016353	Rubrobacter	116.00	2.45	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Rubrobacter	229.25	0.50	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Rubrobacter	219.50	105.73	LSU ribosomal protein L20p
+PGF_00016368	Rubrobacter	126.25	2.06	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Rubrobacter	95.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Rubrobacter	104.00	0.82	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Rubrobacter	87.25	4.79	LSU ribosomal protein L27p
+PGF_00016393	Rubrobacter	274.75	8.50	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Rubrobacter	64.00	2.00	LSU ribosomal protein L30p (L7e)
+PGF_00016418	Rubrobacter	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Rubrobacter	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Rubrobacter	37.50	0.58	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Rubrobacter	199.50	6.35	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Rubrobacter	211.75	3.86	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Rubrobacter	180.75	2.87	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Rubrobacter	177.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Rubrobacter	127.00	1.15	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Rubrobacter	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016613	Rubrobacter	317.00	4.90	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_00016843	Rubrobacter	186.00	0.00	LemA protein
+PGF_00016850	Rubrobacter	367.50	1.73	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)
+PGF_00016919	Rubrobacter	194.25	2.87	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017479	Rubrobacter	341.50	1.91	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Rubrobacter	349.50	7.90	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017729	Rubrobacter	279.75	9.39	Lycopene elongase (EC 2.5.1.-)
+PGF_00018964	Rubrobacter	536.75	0.50	Malate synthase (EC 2.3.3.9)
+PGF_00018979	Rubrobacter	339.25	0.50	Maleylacetate reductase (EC 1.3.1.32)
+PGF_00019051	Rubrobacter	605.25	1.26	Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141)
+PGF_00019248	Rubrobacter	540.00	0.00	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019276	Rubrobacter	345.25	1.50	Mannose-1-phosphate guanylyltransferase
+PGF_00020172	Rubrobacter	271.50	2.52	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020275	Rubrobacter	270.50	9.75	Menaquinone-cytochrome c reductase, cytochrome B subunit
+PGF_00020321	Rubrobacter	255.50	13.40	Metal transporter, ZIP family
+PGF_00020361	Rubrobacter	134.25	1.50	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020530	Rubrobacter	289.75	7.23	ATP-utilizing enzyme of the PP-loop superfamily
+PGF_00020735	Rubrobacter	261.25	7.23	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020981	Rubrobacter	534.75	4.50	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00022467	Rubrobacter	174.00	1.41	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00023591	Rubrobacter	329.50	1.00	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Rubrobacter	332.50	8.85	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023794	Rubrobacter	466.00	160.01	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00024188	Rubrobacter	214.25	4.86	N-carbamoylsarcosine amidase (EC 3.5.1.59)
+PGF_00024232	Rubrobacter	391.00	5.03	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Rubrobacter	363.50	7.37	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024267	Rubrobacter	334.75	4.92	N5,N10-methylenetetrahydromethanopterin reductase-related protein, SCO6416-type
+PGF_00024274	Rubrobacter	381.25	4.50	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Rubrobacter	585.25	10.14	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Rubrobacter	469.50	1.73	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024478	Rubrobacter	333.25	0.50	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Rubrobacter	246.75	0.50	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024687	Rubrobacter	395.75	0.50	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024735	Rubrobacter	113.25	1.89	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00025090	Rubrobacter	576.25	8.34	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025379	Rubrobacter	283.00	0.00	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025562	Rubrobacter	203.50	7.14	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Rubrobacter	383.75	6.18	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025623	Rubrobacter	355.50	4.43	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025639	Rubrobacter	391.25	0.50	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00025736	Rubrobacter	403.00	24.30	Nitrate/nitrite transporter NarK
+PGF_00026279	Rubrobacter	319.75	0.96	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026453	Rubrobacter	239.50	49.89	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026934	Rubrobacter	565.25	16.28	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)
+PGF_00028981	Rubrobacter	402.00	17.74	P-hydroxybenzoate hydroxylase (EC 1.14.13.2)
+PGF_00029917	Rubrobacter	291.00	5.66	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Rubrobacter	366.75	2.06	Peptide chain release factor 1
+PGF_00033095	Rubrobacter	813.50	2.38	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Rubrobacter	331.75	21.36	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Rubrobacter	287.75	10.87	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Rubrobacter	336.50	5.20	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Rubrobacter	329.50	0.58	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Rubrobacter	252.25	7.59	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033423	Rubrobacter	543.00	0.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033511	Rubrobacter	392.00	2.83	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033530	Rubrobacter	403.25	0.50	Phosphoglycerate mutase (2,3-diphosphoglycerate-independent), archaeal type (EC 5.4.2.12)
+PGF_00033807	Rubrobacter	451.25	0.50	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033877	Rubrobacter	220.00	106.68	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Rubrobacter	388.00	4.69	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033920	Rubrobacter	219.00	2.71	Phosphoribosyl transferase domain protein
+PGF_00033922	Rubrobacter	214.25	2.06	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Rubrobacter	424.75	0.96	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Rubrobacter	235.50	1.73	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Rubrobacter	242.00	1.15	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Rubrobacter	349.50	9.43	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Rubrobacter	222.25	2.06	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Rubrobacter	735.50	6.81	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Rubrobacter	200.50	7.90	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034776	Rubrobacter	682.75	5.91	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Rubrobacter	183.00	7.70	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Rubrobacter	323.50	3.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035334	Rubrobacter	306.75	4.50	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035591	Rubrobacter	244.00	5.42	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Rubrobacter	501.00	10.92	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035721	Rubrobacter	437.25	1.50	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Rubrobacter	423.25	10.84	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00037750	Rubrobacter	631.50	3.32	Propionate--CoA ligase (EC 6.2.1.17)
+PGF_00038555	Rubrobacter	455.50	2.89	Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster
+PGF_00038612	Rubrobacter	109.25	5.50	Protein secretion chaperonin CsaA
+PGF_00038674	Rubrobacter	305.25	6.60	Protein translocase subunit SecF
+PGF_00038839	Rubrobacter	239.00	4.69	Protocatechuate 3,4-dioxygenase beta chain (EC 1.13.11.3)
+PGF_00038987	Rubrobacter	236.75	0.50	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039341	Rubrobacter	820.00	12.99	Putative Dimethylglycine oxidase
+PGF_00040400	Rubrobacter	528.00	3.27	Putative cation/acetate symporter
+PGF_00040578	Rubrobacter	263.00	8.98	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041788	Rubrobacter	137.50	2.38	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00043309	Rubrobacter	303.00	10.68	Putative polysaccharide deacetylase
+PGF_00044198	Rubrobacter	320.00	29.17	Putative stomatin/prohibitin-family membrane protease subunit aq_911
+PGF_00044560	Rubrobacter	125.00	26.00	Putative transmembrane protein
+PGF_00045787	Rubrobacter	194.25	3.77	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Rubrobacter	302.50	4.12	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045833	Rubrobacter	214.75	1.50	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045926	Rubrobacter	426.00	5.77	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045963	Rubrobacter	1131.50	3.79	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045991	Rubrobacter	475.75	2.87	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046101	Rubrobacter	299.50	8.66	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Rubrobacter	325.75	2.50	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046197	Rubrobacter	270.75	12.84	RNA binding methyltransferase FtsJ like
+PGF_00046350	Rubrobacter	251.25	9.60	RNA polymerase sigma factor SigB
+PGF_00046846	Rubrobacter	646.50	1.91	Alpha-amylase (EC 3.2.1.1)
+PGF_00046915	Rubrobacter	444.00	172.68	Radical SAM domain protein
+PGF_00047078	Rubrobacter	349.00	7.70	RecA protein
+PGF_00047155	Rubrobacter	215.25	1.50	Redox-sensing transcriptional repressor Rex
+PGF_00047556	Rubrobacter	816.75	14.93	Alpha-glucosidase (EC 3.2.1.20)
+PGF_00047728	Rubrobacter	1222.75	4.50	Respiratory nitrate reductase alpha chain (EC 1.7.99.4)
+PGF_00047730	Rubrobacter	545.75	5.68	Respiratory nitrate reductase beta chain (EC 1.7.99.4)
+PGF_00047732	Rubrobacter	206.50	1.73	Respiratory nitrate reductase delta chain (EC 1.7.99.4)
+PGF_00047734	Rubrobacter	273.75	9.18	Respiratory nitrate reductase gamma chain (EC 1.7.99.4)
+PGF_00048480	Rubrobacter	217.25	9.11	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Rubrobacter	192.50	12.90	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048643	Rubrobacter	158.00	5.35	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Rubrobacter	327.00	7.35	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Rubrobacter	240.25	6.75	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048917	Rubrobacter	188.50	0.58	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Rubrobacter	186.00	0.00	Ribosome recycling factor
+PGF_00049029	Rubrobacter	133.25	2.06	RidA/YER057c/UK114 superfamily, group 6
+PGF_00049330	Rubrobacter	401.00	14.17	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049827	Rubrobacter	268.75	5.32	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Rubrobacter	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Rubrobacter	137.50	4.12	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Rubrobacter	108.50	27.69	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Rubrobacter	122.75	0.50	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Rubrobacter	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Rubrobacter	88.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Rubrobacter	81.25	2.50	SSU ribosomal protein S16p
+PGF_00049854	Rubrobacter	143.25	20.11	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Rubrobacter	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Rubrobacter	221.00	2.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Rubrobacter	192.00	9.24	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Rubrobacter	191.00	11.58	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Rubrobacter	128.00	19.90	SSU ribosomal protein S6p
+PGF_00049904	Rubrobacter	150.50	11.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Rubrobacter	130.25	4.92	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Rubrobacter	128.50	9.95	SSU ribosomal protein S9p (S16e)
+PGF_00050356	Rubrobacter	344.50	1.00	Predicted amidohydrolase SSO1643
+PGF_00050995	Rubrobacter	494.50	9.47	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Rubrobacter	425.00	1.15	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051868	Rubrobacter	246.75	16.50	Short-chain dehydrogenase/reductase in hypothetical Actinobacterial gene cluster
+PGF_00052238	Rubrobacter	458.75	18.79	Signal recognition particle protein Ffh
+PGF_00052705	Rubrobacter	141.00	7.35	LSU ribosomal protein L11p (L12e)
+PGF_00052831	Rubrobacter	362.25	24.13	Siroheme decarboxylase AhbA, alternate heme biosynthesis pathway / Siroheme decarboxylase AhbB, alternate heme biosynthesis pathway
+PGF_00053743	Rubrobacter	410.25	8.69	Aminomethyl transferase family protein
+PGF_00053770	Rubrobacter	367.25	3.95	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053789	Rubrobacter	372.75	4.72	Aminopeptidase
+PGF_00054343	Rubrobacter	184.25	7.23	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054480	Rubrobacter	280.75	6.13	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Rubrobacter	383.50	3.32	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054955	Rubrobacter	392.50	9.11	Sulfate adenylyltransferase (EC 2.7.7.4)
+PGF_00055071	Rubrobacter	379.25	4.50	Sulfolipid sulfoquinovosyldiacylglycerol biosynthesis protein
+PGF_00056662	Rubrobacter	345.00	8.72	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Rubrobacter	507.75	7.41	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Rubrobacter	209.50	5.45	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057399	Rubrobacter	364.50	0.58	Transaldolase (EC 2.2.1.2)
+PGF_00057483	Rubrobacter	507.25	23.91	Transcription termination factor Rho
+PGF_00057485	Rubrobacter	375.75	4.50	Transcription termination protein NusA
+PGF_00057488	Rubrobacter	136.00	2.45	Transcription termination protein NusB
+PGF_00058354	Rubrobacter	526.50	1.73	Transcriptional regulator
+PGF_00059320	Rubrobacter	114.50	4.12	Transcriptional regulator, HxlR family
+PGF_00060394	Rubrobacter	621.00	3.83	Transketolase (EC 2.2.1.1)
+PGF_00060414	Rubrobacter	615.25	44.33	Translation elongation factor LepA
+PGF_00060421	Rubrobacter	185.00	0.00	Translation elongation factor P
+PGF_00060427	Rubrobacter	195.00	0.00	Translation elongation factor Ts
+PGF_00060431	Rubrobacter	73.00	0.00	Translation initiation factor 1
+PGF_00060478	Rubrobacter	169.25	9.07	Translation initiation factor 3
+PGF_00061800	Rubrobacter	1131.75	9.74	Trehalose synthase (EC 5.4.99.16)
+PGF_00062019	Rubrobacter	450.25	3.30	Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)
+PGF_00062023	Rubrobacter	267.50	6.40	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Rubrobacter	414.00	8.04	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Rubrobacter	330.50	0.58	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Rubrobacter	387.00	2.45	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Rubrobacter	299.75	3.77	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Rubrobacter	337.50	3.32	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Rubrobacter	447.75	0.50	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064034	Rubrobacter	500.75	18.17	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7)
+PGF_00064132	Rubrobacter	318.00	2.83	UDP-glucuronate decarboxylase (EC 4.1.1.35)
+PGF_00064143	Rubrobacter	394.75	8.96	UDP-sulfoquinovose synthase (EC 3.13.1.1)
+PGF_00064169	Rubrobacter	308.00	10.00	Arginase (EC 3.5.3.1)
+PGF_00065887	Rubrobacter	241.50	13.30	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Rubrobacter	217.75	4.50	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Rubrobacter	190.75	7.23	Pyrimidine operon regulatory protein PyrR
+PGF_00066238	Rubrobacter	289.50	3.00	Uricase (urate oxidase) (EC 1.7.3.3)
+PGF_00066286	Rubrobacter	510.75	3.20	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Rubrobacter	860.00	4.69	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Rubrobacter	390.50	10.34	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066930	Rubrobacter	799.50	11.70	Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)
+PGF_00066964	Rubrobacter	452.00	1.41	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Rubrobacter	324.50	6.14	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067383	Rubrobacter	533.00	10.10	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067466	Rubrobacter	607.00	8.87	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Rubrobacter	489.75	3.69	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00070089	Rubrobacter	128.75	3.77	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070432	Rubrobacter	323.50	3.70	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00132497	Rubrobacter	619.75	4.72	hypothetical protein
+PGF_00350921	Rubrobacter	375.75	17.84	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00400650	Rubrobacter	526.50	1.00	Benzoate--CoA ligase (EC 6.2.1.25)
+PGF_00402103	Rubrobacter	264.25	2.87	Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
+PGF_00403126	Rubrobacter	330.00	4.76	phosphotriesterase, putative
+PGF_00404638	Rubrobacter	545.50	31.13	probable sulfite oxidase
+PGF_00404809	Rubrobacter	465.25	19.70	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00405415	Rubrobacter	178.25	4.72	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline (OHCU) decarboxylase (EC 4.1.1.97)
+PGF_00406692	Rubrobacter	975.50	26.60	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408485	Rubrobacter	407.00	34.37	putative lipoprotein
+PGF_00410976	Rubrobacter	248.25	11.09	putative succinate dehydrogenase [membrane anchor subunit] (succinic dehydrogenase)
+PGF_00412178	Rubrobacter	327.50	0.58	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413208	Rubrobacter	228.75	7.50	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Rubrobacter	253.50	2.52	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Rubrobacter	276.00	9.56	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Rubrobacter	156.00	6.00	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Rubrobacter	150.00	0.00	tmRNA-binding protein SmpB
+PGF_00414366	Rubrobacter	593.00	13.69	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414926	Rubrobacter	509.50	5.97	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415486	Rubrobacter	157.25	0.50	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00416129	Rubrobacter	549.50	4.36	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Rubrobacter	1059.50	7.14	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416506	Rubrobacter	610.75	64.46	Carbon starvation protein A
+PGF_00416525	Rubrobacter	166.50	5.20	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416769	Rubrobacter	67.00	1.15	Cation transport regulator chaB
+PGF_00417376	Rubrobacter	453.75	10.18	3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)
+PGF_00417433	Rubrobacter	631.50	13.08	Chaperone protein DnaK
+PGF_00417577	Rubrobacter	152.25	4.27	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417645	Rubrobacter	649.75	23.58	ChlI component of cobalt chelatase involved in B12 biosynthesis / ChlD component of cobalt chelatase involved in B12 biosynthesis
+PGF_00417658	Rubrobacter	365.50	7.55	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Rubrobacter	396.75	11.59	Chorismate synthase (EC 4.2.3.5)
+PGF_00418087	Rubrobacter	275.50	22.66	Circadian phase modifier
+PGF_00418244	Rubrobacter	195.00	3.56	Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ Cob(I)alamin adenosyltransferase (EC 2.5.1.17), clustered with cobalamin synthesis
+PGF_00418292	Rubrobacter	386.75	12.37	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418308	Rubrobacter	411.00	11.66	Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289) / Cobalt-precorrin-6B C15-methyltransferase [decarboxylating] (EC 2.1.1.196)
+PGF_00418309	Rubrobacter	206.25	5.19	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Rubrobacter	526.00	18.49	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Rubrobacter	458.00	19.90	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419420	Rubrobacter	468.00	1.15	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419623	Rubrobacter	241.50	3.00	Coproheme decarboxylase HemQ (no EC)
+PGF_00419694	Rubrobacter	243.50	22.16	Creatinine amidohydrolase (EC 3.5.2.10)
+PGF_00419702	Rubrobacter	188.50	6.35	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419913	Rubrobacter	150.25	2.87	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420051	Rubrobacter	524.25	2.06	3-methylmercaptopropionyl-CoA ligase (EC 6.2.1.44) of DmdB1 type
+PGF_00420121	Rubrobacter	251.00	18.06	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420957	Rubrobacter	436.00	13.37	D-glycerate 2-kinase (EC 2.7.1.165)
+PGF_00420994	Rubrobacter	710.25	42.68	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421071	Rubrobacter	145.50	0.58	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421296	Rubrobacter	467.75	12.89	DNA helicase (Rad25 homolog)
+PGF_00421489	Rubrobacter	1169.75	14.64	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421679	Rubrobacter	603.00	16.06	DNA primase (EC 2.7.7.-)
+PGF_00421733	Rubrobacter	381.00	13.11	DNA recombination and repair protein RecF
+PGF_00421792	Rubrobacter	471.00	11.49	DNA repair protein RadA
+PGF_00421796	Rubrobacter	577.50	23.13	DNA repair protein RecN
+PGF_00422271	Rubrobacter	307.00	5.77	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422545	Rubrobacter	299.75	2.99	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422888	Rubrobacter	517.50	2.52	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422944	Rubrobacter	463.00	2.45	Deoxyribodipyrimidine photolyase, type II (EC 4.1.99.3)
+PGF_00422959	Rubrobacter	150.50	1.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423097	Rubrobacter	267.25	7.89	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Rubrobacter	408.75	20.27	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423378	Rubrobacter	434.50	3.00	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Rubrobacter	546.25	19.55	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423533	Rubrobacter	298.50	9.11	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423748	Rubrobacter	529.50	6.61	Dolichol-phosphate mannosyltransferase (EC 2.4.1.83) homolog
+PGF_00424338	Rubrobacter	230.00	1.15	Endonuclease V (EC 3.1.21.7)
+PGF_00424569	Rubrobacter	259.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00425455	Rubrobacter	340.75	3.30	F420-dependent oxidoreductase
+PGF_00425671	Rubrobacter	301.50	12.92	RNase adapter protein RapZ
+PGF_00425684	Rubrobacter	246.00	8.00	Probable transcriptional regulatory protein YebC
+PGF_00425786	Rubrobacter	513.75	3.69	Ribonuclease Y
+PGF_00425806	Rubrobacter	317.00	4.90	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Rubrobacter	386.50	15.07	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Rubrobacter	370.25	6.60	FIG004453: protein YceG like
+PGF_00426057	Rubrobacter	657.75	57.70	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20) / Homolog of homocysteine-binding domain
+PGF_00426236	Rubrobacter	357.00	0.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426531	Rubrobacter	117.75	5.32	5-hydroxyisourate hydrolase (EC 3.5.2.17)
+PGF_00426932	Rubrobacter	174.25	3.30	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427299	Rubrobacter	307.00	4.00	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00473519	Rubrobacter	207.00	2.00	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Rubrobacter	448.75	16.34	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Rubrobacter	347.00	5.83	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00538878	Rubrobacter	268.00	2.83	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00618776	Rubrobacter	367.75	8.62	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625587	Rubrobacter	454.50	216.81	SAM-dependent methyltransferase
+PGF_00655628	Rubrobacter	513.25	3.95	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00662997	Rubrobacter	262.25	4.27	Cobalamin synthase (EC 2.7.8.26)
+PGF_00670694	Rubrobacter	200.25	2.63	2-hydroxychromene-2-carboxylate isomerase family protein
+PGF_00679595	Rubrobacter	292.00	2.00	Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)
+PGF_00690672	Rubrobacter	308.25	9.88	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_00719345	Rubrobacter	205.50	5.00	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), ADP-binding subunit DhaL
+PGF_00734482	Rubrobacter	720.25	29.23	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00776587	Rubrobacter	117.50	5.20	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00781976	Rubrobacter	267.75	9.00	3-oxoadipate CoA-transferase subunit B (EC 2.8.3.6)
+PGF_00798173	Rubrobacter	296.25	0.50	Manganese catalase (EC 1.11.1.6)
+PGF_00800643	Rubrobacter	463.50	12.50	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
+PGF_00821644	Rubrobacter	213.25	11.44	Phosphatidylinositol phosphate synthase @ Archaetidylinositol phosphate synthase (EC 2.7.8.39)
+PGF_00827555	Rubrobacter	622.75	42.33	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00833025	Rubrobacter	292.50	41.00	Oxidoreductase, aldo/keto reductase family
+PGF_00853393	Rubrobacter	291.50	1.91	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856417	Rubrobacter	227.50	1.00	UPF0758 family protein
+PGF_00925844	Rubrobacter	446.50	21.50	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Rubrobacter	544.50	8.19	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00944166	Rubrobacter	334.50	1.00	Isocitrate dehydrogenase [NAD] (EC 1.1.1.41)
+PGF_00950554	Rubrobacter	644.25	27.05	Excinuclease ABC subunit B
+PGF_00955461	Rubrobacter	312.00	1.41	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00960579	Rubrobacter	321.00	6.68	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_01008498	Rubrobacter	93.25	22.50	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01039698	Rubrobacter	352.25	14.22	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_01124177	Rubrobacter	434.00	18.87	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Rubrobacter	373.00	12.00	Rod shape-determining protein RodA
+PGF_01174739	Rubrobacter	189.25	46.88	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Rubrobacter	643.00	11.49	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01218094	Rubrobacter	280.25	4.27	Glutamine ABC transporter, substrate-binding protein GlnH
+PGF_01232770	Rubrobacter	171.50	5.45	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Rubrobacter	303.25	7.09	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01323228	Rubrobacter	206.25	9.36	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Rubrobacter	286.75	30.77	Molybdenum ABC transporter permease protein ModB
+PGF_01332636	Rubrobacter	242.75	6.08	Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)
+PGF_01351158	Rubrobacter	1067.25	8.85	Transcription-repair coupling factor
+PGF_01364427	Rubrobacter	203.50	5.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01389077	Rubrobacter	68.00	2.83	Uncharacterized protein YbcJ
+PGF_01405081	Rubrobacter	324.50	3.70	Heat shock protein HtpX
+PGF_01416650	Rubrobacter	262.75	2.06	Transmembrane component of general energizing module of ECF transporters
+PGF_01423501	Rubrobacter	159.75	3.86	Transcription elongation factor GreA
+PGF_01435544	Rubrobacter	229.50	1.73	Phenazine biosynthesis protein PhzF like
+PGF_01443715	Rubrobacter	137.00	0.00	Bll6165 protein
+PGF_01479586	Rubrobacter	787.25	16.28	Universal stress protein
+PGF_01528300	Rubrobacter	289.50	15.26	Formate dehydrogenase O beta subunit (EC 1.2.1.2)
+PGF_01532393	Rubrobacter	707.50	21.99	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01581893	Rubrobacter	381.25	29.64	Ferredoxin reductase
+PGF_01599021	Rubrobacter	164.00	0.00	Peptide deformylase (EC 3.5.1.88)
+PGF_01604929	Rubrobacter	235.00	0.00	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01667880	Rubrobacter	84.00	3.37	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668012	Rubrobacter	288.75	0.96	Sulfur carrier protein FdhD
+PGF_01673335	Rubrobacter	267.00	23.64	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01674551	Rubrobacter	125.75	0.50	Glycine cleavage system H protein
+PGF_01682537	Rubrobacter	147.50	12.15	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01683258	Rubrobacter	251.25	3.95	DNA recombination and repair protein RecO
+PGF_01744781	Rubrobacter	184.75	1.26	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01777142	Rubrobacter	241.00	18.00	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01797166	Rubrobacter	465.00	20.00	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01810645	Rubrobacter	499.00	22.21	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01842781	Rubrobacter	553.00	4.90	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Rubrobacter	287.75	7.09	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Rubrobacter	346.00	2.71	Heat-inducible transcription repressor HrcA
+PGF_01877133	Rubrobacter	411.75	5.50	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01898497	Rubrobacter	217.75	6.95	Endonuclease III (EC 4.2.99.18)
+PGF_01911320	Rubrobacter	411.00	8.98	N-carbamoyl-L-amino acid hydrolase (EC 3.5.1.87)
+PGF_01943486	Rubrobacter	176.75	2.06	O-acetyl-ADP-ribose deacetylase
+PGF_01962206	Rubrobacter	213.00	36.82	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01979610	Rubrobacter	335.75	6.18	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK
+PGF_01994657	Rubrobacter	476.50	3.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Rubrobacter	254.50	5.20	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Rubrobacter	346.00	3.46	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02061452	Rubrobacter	374.50	9.40	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02075241	Rubrobacter	663.50	14.06	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02086898	Rubrobacter	309.50	16.36	Sirohydrochlorin cobaltochelatase CbiX(long) (EC 4.99.1.3)
+PGF_02111888	Rubrobacter	408.50	1.00	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Rubrobacter	429.75	4.50	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02224568	Rubrobacter	436.75	15.86	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Rubrobacter	709.00	5.72	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02239557	Rubrobacter	258.75	5.68	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02314677	Rubrobacter	155.75	2.99	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)
+PGF_02346669	Rubrobacter	317.75	4.27	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Rubrobacter	890.25	7.89	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Rubrobacter	362.25	6.40	Alanine racemase (EC 5.1.1.1)
+PGF_02357764	Rubrobacter	262.00	5.72	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02405545	Rubrobacter	316.00	3.37	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02420191	Rubrobacter	486.00	4.69	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02432027	Rubrobacter	502.00	8.12	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02450432	Rubrobacter	255.50	1.00	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Rubrobacter	199.00	0.00	Recombination protein RecR
+PGF_02489591	Rubrobacter	231.50	6.61	Uncharacterized Nudix hydrolase NudL
+PGF_02516909	Rubrobacter	430.75	0.50	Enolase (EC 4.2.1.11)
+PGF_02578186	Rubrobacter	338.25	5.50	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02593689	Rubrobacter	463.50	15.70	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02594696	Rubrobacter	357.75	3.20	acyl-CoA dehydrogenase, putative phosphotransferase
+PGF_02611620	Rubrobacter	460.25	1.50	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Rubrobacter	301.75	2.99	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Rubrobacter	1270.50	40.40	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Rubrobacter	164.25	4.86	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02728524	Rubrobacter	785.00	1.15	DNA mismatch repair protein MutS
+PGF_02746016	Rubrobacter	236.50	4.93	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02746079	Rubrobacter	310.50	21.61	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+PGF_02787474	Rubrobacter	266.00	2.45	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02789532	Rubrobacter	290.00	5.66	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Rubrobacter	192.75	12.39	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02797400	Rubrobacter	481.00	8.25	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Rubrobacter	1126.00	0.82	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02820109	Rubrobacter	200.25	2.06	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Rubrobacter	180.50	18.06	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Rubrobacter	257.75	1.50	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Rubrobacter	408.75	1.89	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866109	Rubrobacter	215.00	4.24	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02877184	Rubrobacter	373.25	11.41	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Rubrobacter	353.75	12.74	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02895613	Rubrobacter	448.00	0.82	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02899131	Rubrobacter	65.25	1.26	LSU ribosomal protein L29p (L35e)
+PGF_02923127	Rubrobacter	265.75	8.62	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Rubrobacter	336.00	6.53	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Rubrobacter	298.25	1.26	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02944756	Rubrobacter	392.00	0.00	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Rubrobacter	426.25	25.25	SSU ribosomal protein S1p
+PGF_02947204	Rubrobacter	525.00	15.34	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_03000070	Rubrobacter	353.00	15.51	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03017978	Rubrobacter	193.25	4.35	Septum formation protein Maf
+PGF_03025044	Rubrobacter	178.75	9.46	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03026450	Rubrobacter	1112.25	14.20	Chromosome partition protein smc
+PGF_03036196	Rubrobacter	225.00	40.91	NAD(P)H dehydrogenase (quinone), Type IV (EC 1.6.5.2)
+PGF_03046709	Rubrobacter	473.00	4.24	Ammonium transporter
+PGF_03058789	Rubrobacter	394.75	4.50	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03059968	Rubrobacter	396.75	176.84	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_03066353	Rubrobacter	582.00	91.95	Xanthine-uracil permease
+PGF_03073470	Rubrobacter	562.50	2.38	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03075401	Rubrobacter	158.25	4.57	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081927	Rubrobacter	254.25	3.77	Polyphosphate glucokinase (EC 2.7.1.63)
+PGF_03107265	Rubrobacter	525.50	3.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03124227	Rubrobacter	297.50	18.01	Pyruvate:Oxaloacetate transcarboxylase domain protein
+PGF_03124650	Rubrobacter	491.25	8.30	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03145455	Rubrobacter	330.50	1.00	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03146406	Rubrobacter	593.50	4.36	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Rubrobacter	133.00	20.35	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Rubrobacter	281.25	2.36	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Rubrobacter	178.00	1.41	Transcription antitermination protein NusG
+PGF_03192349	Rubrobacter	415.50	1.00	Putative cytochrome P450 hydroxylase
+PGF_03272313	Rubrobacter	864.25	8.22	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03287477	Rubrobacter	220.50	3.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03331181	Rubrobacter	492.75	8.81	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)
+PGF_03340305	Rubrobacter	159.50	3.32	RidA/YER057c/UK114 superfamily, group 1
+PGF_03394288	Rubrobacter	463.25	5.32	Succinate-semialdehyde dehydrogenase [NAD] (EC 1.2.1.24); Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79)
+PGF_03440867	Rubrobacter	134.00	0.00	UPF0047 protein Bsu YugU
+PGF_03441843	Rubrobacter	787.50	7.90	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03518570	Rubrobacter	132.75	0.96	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Rubrobacter	360.25	1.71	Cell division protein FtsZ
+PGF_03556786	Rubrobacter	652.75	4.50	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.135)
+PGF_03609651	Rubrobacter	568.25	13.82	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03684283	Rubrobacter	420.50	3.32	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03743176	Rubrobacter	618.25	7.46	Selenocysteine-specific translation elongation factor
+PGF_03750571	Rubrobacter	452.50	5.00	Chromosomal replication initiator protein DnaA
+PGF_03750600	Rubrobacter	161.50	2.38	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Rubrobacter	222.75	14.43	Heat shock protein GrpE
+PGF_03757137	Rubrobacter	465.25	7.63	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Rubrobacter	397.75	44.84	Signal recognition particle receptor FtsY
+PGF_03790040	Rubrobacter	219.50	0.58	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Rubrobacter	263.00	1.15	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03810115	Rubrobacter	245.25	4.35	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03862500	Rubrobacter	206.00	5.03	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03935716	Rubrobacter	665.25	6.50	Inner membrane protein, KefB/KefC family
+PGF_03954476	Rubrobacter	268.00	20.93	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03991729	Rubrobacter	409.75	8.62	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03999196	Rubrobacter	842.25	6.18	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04004610	Rubrobacter	191.25	3.86	Protocatechuate 3,4-dioxygenase alpha chain (EC 1.13.11.3)
+PGF_04007946	Rubrobacter	233.00	10.68	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Rubrobacter	147.25	2.06	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04041316	Rubrobacter	940.50	14.84	Excinuclease ABC subunit A
+PGF_04119806	Rubrobacter	277.25	0.50	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04121836	Rubrobacter	389.50	6.61	Carbon monoxide oxidation accessory protein CoxE
+PGF_04127376	Rubrobacter	272.75	12.58	Twin-arginine translocation protein TatC
+PGF_04132127	Rubrobacter	327.00	47.35	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04154333	Rubrobacter	96.75	14.13	Twin-arginine translocation protein TatA
+PGF_04163139	Rubrobacter	234.50	11.09	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04198961	Rubrobacter	178.25	28.44	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04345693	Rubrobacter	467.25	11.32	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Rubrobacter	896.25	6.50	Protein translocase subunit SecA
+PGF_04380075	Rubrobacter	279.75	19.26	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Rubrobacter	321.25	2.87	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04431830	Rubrobacter	515.75	7.23	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04454639	Rubrobacter	451.75	4.86	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04502464	Rubrobacter	721.00	13.47	DNA topoisomerase III (EC 5.99.1.2)
+PGF_04505269	Rubrobacter	347.50	30.65	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Rubrobacter	458.00	4.24	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Rubrobacter	534.25	5.68	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Rubrobacter	163.00	0.00	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Rubrobacter	256.00	1.41	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04662829	Rubrobacter	646.75	2.99	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04749763	Rubrobacter	720.25	38.23	Translation initiation factor 2
+PGF_04784962	Rubrobacter	282.50	0.58	Aerobic carbon monoxide dehydrogenase (quinone), medium chain (EC 1.2.5.3)
+PGF_04788810	Rubrobacter	185.00	14.72	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Rubrobacter	296.00	5.77	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Rubrobacter	108.25	0.50	LSU ribosomal protein L19p
+PGF_04866046	Rubrobacter	684.50	1.91	Uncharacterized protein YyaL
+PGF_04913120	Rubrobacter	1249.75	10.34	Aerobic cobaltochelatase CobN subunit (EC 6.6.1.2)
+PGF_04962192	Rubrobacter	567.50	28.11	3'-to-5' exoribonuclease RNase R
+PGF_04971017	Rubrobacter	359.25	10.21	Threonine synthase (EC 4.2.3.1)
+PGF_05111929	Rubrobacter	555.25	10.87	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Rubrobacter	804.75	23.95	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Rubrobacter	309.00	4.69	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Rubrobacter	514.50	12.77	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05220334	Rubrobacter	490.75	6.08	Succinate-semialdehyde dehydrogenase [NAD(P)+] (EC 1.2.1.16)
+PGF_05280843	Rubrobacter	453.50	4.43	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05305024	Rubrobacter	230.75	19.36	Acetoacetyl-CoA reductase (EC 1.1.1.36)
+PGF_05406020	Rubrobacter	126.25	2.22	4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
+PGF_05439724	Rubrobacter	680.75	6.99	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Rubrobacter	267.50	12.37	NAD kinase (EC 2.7.1.23)
+PGF_05560886	Rubrobacter	284.00	1.41	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Rubrobacter	427.75	1.50	Protein translocase subunit SecY
+PGF_05598173	Rubrobacter	371.50	1.91	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Rubrobacter	312.25	5.68	Phytoene synthase (EC 2.5.1.32)
+PGF_05657253	Rubrobacter	231.25	1.89	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05729472	Rubrobacter	1627.75	11.18	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05732875	Rubrobacter	716.75	1.50	Limit dextrin alpha-1,6-maltotetraose-hydrolase (EC 3.2.1.196)
+PGF_05824817	Rubrobacter	411.00	17.96	Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)
+PGF_05837052	Rubrobacter	432.00	2.83	Isocitrate lyase (EC 4.1.3.1)
+PGF_05949521	Rubrobacter	508.75	19.29	Protein translocase subunit SecD
+PGF_06051345	Rubrobacter	766.75	14.97	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06075233	Rubrobacter	454.25	4.27	PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase
+PGF_06111528	Rubrobacter	386.00	17.32	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06128454	Rubrobacter	254.00	15.36	Haloacid dehalogenase, type II (EC 3.8.1.2)
+PGF_06170558	Rubrobacter	151.00	2.45	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Rubrobacter	143.75	2.22	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Rubrobacter	300.00	10.07	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Rubrobacter	508.50	3.00	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Rubrobacter	88.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Rubrobacter	379.50	9.00	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Rubrobacter	430.75	3.30	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06377994	Rubrobacter	434.50	5.00	FtsW-like cell division membrane protein CA_C0505
+PGF_06379377	Rubrobacter	435.50	4.36	Replication-associated recombination protein RarA
+PGF_06447349	Rubrobacter	482.25	2.50	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06459503	Rubrobacter	756.50	73.49	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06461498	Rubrobacter	286.00	4.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06463602	Rubrobacter	235.25	2.99	Glutathione S-transferase (EC 2.5.1.18)
+PGF_06469881	Rubrobacter	313.75	2.36	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Rubrobacter	481.00	2.71	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06495818	Rubrobacter	267.25	5.32	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06522139	Rubrobacter	919.75	4.50	Acetyl-CoA synthetase (ADP-forming) alpha and beta chains, putative
+PGF_06594013	Rubrobacter	140.75	2.99	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06644010	Rubrobacter	311.00	4.00	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Rubrobacter	80.50	0.58	Acyl carrier protein
+PGF_06660812	Rubrobacter	195.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06671388	Rubrobacter	214.75	4.50	Carboxylesterase (EC 3.1.1.1)
+PGF_06686458	Rubrobacter	471.75	7.89	Dihydropyrimidinase (EC 3.5.2.2) @ D-hydantoinase (EC 3.5.2.2)
+PGF_06735060	Rubrobacter	725.75	21.69	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Rubrobacter	364.50	8.39	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757690	Rubrobacter	930.50	14.71	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
+PGF_06875731	Rubrobacter	285.00	7.79	3-oxoadipate CoA-transferase subunit A (EC 2.8.3.6)
+PGF_07263029	Rubrobacter	332.50	4.36	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07418429	Rubrobacter	364.00	22.20	Transcriptional regulator, LacI family
+PGF_07821699	Rubrobacter	851.75	37.21	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_07885505	Rubrobacter	576.25	6.75	hypothetical protein
+PGF_07944587	Rubrobacter	457.50	1.91	Beta-glucosidase/6-phospho-beta-glucosidase/beta- galactosidase
+PGF_08011471	Rubrobacter	326.75	11.47	Efflux ABC transporter, ATP-binding protein
+PGF_08133003	Rubrobacter	400.75	14.20	NAD-independent protein deacetylase AcuC
+PGF_08166729	Rubrobacter	137.50	1.00	ComA-related protein
+PGF_08183187	Rubrobacter	405.00	15.45	Cell division protein FtsW

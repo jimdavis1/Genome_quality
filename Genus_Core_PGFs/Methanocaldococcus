@@ -1,0 +1,735 @@
+PGF_00000125	Methanocaldococcus	358.75	2.31	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1
+PGF_00000144	Methanocaldococcus	358.25	1.39	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2
+PGF_00003516	Methanocaldococcus	244.38	7.01	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003748	Methanocaldococcus	229.12	5.46	FKBP-type peptidyl-prolyl cis-trans isomerase MJ0825 (EC 5.2.1.8)
+PGF_00004671	Methanocaldococcus	654.75	26.40	Ferrous iron transport protein B
+PGF_00005255	Methanocaldococcus	147.50	9.24	Flagella-related protein FlaC
+PGF_00005259	Methanocaldococcus	136.62	5.18	Flagella-related protein FlaE
+PGF_00005265	Methanocaldococcus	230.00	0.00	Flagella-related protein FlaH
+PGF_00005269	Methanocaldococcus	558.38	0.74	Flagella-related protein FlaJ
+PGF_00005666	Methanocaldococcus	324.12	2.75	Flap structure-specific endonuclease
+PGF_00006244	Methanocaldococcus	361.00	0.00	Formate--phosphoribosylaminoimidazolecarboxamide ligase (EC 6.3.4.23)
+PGF_00006297	Methanocaldococcus	149.25	3.81	Formylmethanofuran dehydrogenase (tungsten) operon gene H
+PGF_00006303	Methanocaldococcus	133.50	4.07	Formylmethanofuran dehydrogenase (tungsten) subunit D (EC 1.2.99.5)
+PGF_00006401	Methanocaldococcus	297.12	16.00	Fructose-bisphosphate aldolase, archaeal class I (EC 4.1.2.13) @ Methylglyoxal--fructose-6-phosphate transaldolase (EC 2.2.1.11) @ Methylglyoxal--fructose-1,6-bisphosphate transaldolase (EC 2.2.1.11)
+PGF_00006402	Methanocaldococcus	385.00	1.85	Fructose-bisphosphate aldolase/bisphosphatase ancestral bifunctional (EC 4.1.2.13) (EC 3.1.3.11)
+PGF_00006457	Methanocaldococcus	282.00	3.42	Fumarate hydratase class I, alpha region (EC 4.2.1.2); L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)
+PGF_00006933	Methanocaldococcus	309.50	0.93	GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006934	Methanocaldococcus	186.88	1.96	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2)
+PGF_00006991	Methanocaldococcus	261.62	13.71	GTP cyclohydrolase III (EC 3.5.4.29)
+PGF_00007012	Methanocaldococcus	391.75	1.04	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007026	Methanocaldococcus	211.12	7.70	GTP-binding protein EngB
+PGF_00007028	Methanocaldococcus	395.88	15.67	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007040	Methanocaldococcus	368.62	5.45	GTP-binding protein RBG1/RBG2
+PGF_00007044	Methanocaldococcus	340.38	4.78	OBG-family ribosome assembly protein NOG1/MJ1408
+PGF_00007525	Methanocaldococcus	316.88	0.64	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007988	Methanocaldococcus	395.00	15.33	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008075	Methanocaldococcus	396.50	7.62	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008115	Methanocaldococcus	507.75	3.24	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008116	Methanocaldococcus	257.62	0.52	Glutamate synthase [NADPH] putative GlxC chain (EC 1.4.1.13)
+PGF_00008244	Methanocaldococcus	361.88	0.35	Glutamine amidotransferase, class-II
+PGF_00008258	Methanocaldococcus	453.75	17.09	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008269	Methanocaldococcus	196.50	0.53	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008334	Methanocaldococcus	383.75	17.08	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008336	Methanocaldococcus	547.00	8.86	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008338	Methanocaldococcus	418.00	2.33	Glutamyl-tRNA(Gln) amidotransferase asparaginase subunit (EC 6.3.5.7)
+PGF_00008341	Methanocaldococcus	628.12	6.06	Glutamyl-tRNA(Gln) amidotransferase transferase subunit (EC 6.3.5.7)
+PGF_00008515	Methanocaldococcus	619.25	3.28	Glyceraldehyde-3-phosphate: ferredoxin oxidoreductase (EC 1.2.7.6)
+PGF_00008548	Methanocaldococcus	330.12	5.62	Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261)
+PGF_00008872	Methanocaldococcus	519.12	0.35	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Methanocaldococcus	517.00	5.10	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009213	Methanocaldococcus	234.88	6.98	Glycosyl transferase, family 2?
+PGF_00009717	Methanocaldococcus	388.00	11.64	Glycosyltransferase
+PGF_00010384	Methanocaldococcus	346.75	6.94	H(2)-dependent N5,N10-methylenetetrahydromethanopterin dehydrogenase
+PGF_00010703	Methanocaldococcus	119.75	4.40	HTH DNA-binding protein
+PGF_00010739	Methanocaldococcus	140.25	0.46	Transcriptional regulator Ptr2, AsnC family
+PGF_00011979	Methanocaldococcus	425.25	1.04	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012340	Methanocaldococcus	335.75	2.43	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Methanocaldococcus	293.50	5.40	Homoserine kinase (EC 2.7.1.39)
+PGF_00012505	Methanocaldococcus	448.25	2.43	Hydrogenase expression/formation protein
+PGF_00012797	Methanocaldococcus	159.75	1.28	ACT-domain-containing protein, predicted allosteric regulator of homoserine dehydrogenase
+PGF_00012920	Methanocaldococcus	544.88	4.49	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012928	Methanocaldococcus	345.00	0.00	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+PGF_00012966	Methanocaldococcus	416.00	10.58	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7) / Thiamin-phosphate synthase ThiN (EC 2.5.1.3)
+PGF_00012970	Methanocaldococcus	425.50	0.76	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013060	Methanocaldococcus	453.62	9.55	ADP-dependent glucokinase (EC 2.7.1.147) @ ADP-dependent phosphofructokinase (EC 2.7.1.146)
+PGF_00013244	Methanocaldococcus	168.75	2.92	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013362	Methanocaldococcus	193.62	7.74	Hypothetical protein with distant similarity to Ribonuclease E inhibitor RraA (former MenG)
+PGF_00013510	Methanocaldococcus	201.50	1.69	IMP cyclohydrolase (EC 3.5.4.10) [alternate form]
+PGF_00013803	Methanocaldococcus	193.50	4.24	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013822	Methanocaldococcus	502.25	1.04	AMP phosphorylase (EC 2.4.2.57)
+PGF_00014051	Methanocaldococcus	258.38	17.70	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Methanocaldococcus	493.50	2.93	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014316	Methanocaldococcus	299.12	0.99	Inosine-guanosine kinase (EC 2.7.1.73); Cytidine kinase
+PGF_00014855	Methanocaldococcus	289.00	4.63	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00015360	Methanocaldococcus	254.75	2.82	Iron(III) ABC transporter, ATP-binding protein
+PGF_00015510	Methanocaldococcus	242.38	4.93	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015595	Methanocaldococcus	192.88	15.20	Iron-sulfur flavoprotein MJ0731
+PGF_00015597	Methanocaldococcus	150.00	2.73	Iron-sulfur protein clustered with CO dehydrogenase/acetyl-CoA synthase
+PGF_00015730	Methanocaldococcus	254.88	8.03	Isopentenyl phosphate kinase (EC 2.7.4.26)
+PGF_00015732	Methanocaldococcus	446.12	4.36	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015737	Methanocaldococcus	348.25	24.93	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00015813	Methanocaldococcus	711.75	214.67	Uncharacterized KH and PIN-domain containing protein MJ1533
+PGF_00015968	Methanocaldococcus	417.25	0.89	L,L-diaminopimelate aminotransferase (EC 2.6.1.83), methanococcal
+PGF_00015980	Methanocaldococcus	256.38	19.78	L-Aspartate dehydrogenase (EC 1.4.1.21)
+PGF_00016120	Methanocaldococcus	180.75	2.43	L-fuculose phosphate aldolase (EC 4.1.2.17)
+PGF_00016230	Methanocaldococcus	245.75	4.06	L-seryl-tRNA(Sec) kinase
+PGF_00016242	Methanocaldococcus	343.88	1.25	L-sulfolactate dehydrogenase (EC 1.1.1.272)
+PGF_00016267	Methanocaldococcus	384.88	11.28	L-tyrosine decarboxylase (EC 4.1.1.25)
+PGF_00016320	Methanocaldococcus	206.00	19.06	LSU ribosomal protein L10Ae (L1p)
+PGF_00016321	Methanocaldococcus	174.00	0.00	LSU ribosomal protein L10e (L16p)
+PGF_00016331	Methanocaldococcus	188.12	2.42	LSU ribosomal protein L11e (L5p)
+PGF_00016333	Methanocaldococcus	101.88	0.64	LSU ribosomal protein P1/P2 (L7p/L12p)
+PGF_00016334	Methanocaldococcus	161.88	1.36	LSU ribosomal protein L12e (L11p)
+PGF_00016335	Methanocaldococcus	137.12	0.35	LSU ribosomal protein L13Ae (L13p)
+PGF_00016339	Methanocaldococcus	80.00	0.53	LSU ribosomal protein L14e
+PGF_00016345	Methanocaldococcus	153.00	0.93	LSU ribosomal protein L17e (L22p)
+PGF_00016352	Methanocaldococcus	120.12	0.64	LSU ribosomal protein L18e
+PGF_00016354	Methanocaldococcus	136.75	33.44	LSU ribosomal protein L19e
+PGF_00016356	Methanocaldococcus	251.38	1.06	LSU ribosomal protein L1e (L4p)
+PGF_00016363	Methanocaldococcus	98.12	0.83	LSU ribosomal protein L21e
+PGF_00016371	Methanocaldococcus	86.00	0.00	LSU ribosomal protein L23Ae (L23p)
+PGF_00016373	Methanocaldococcus	132.00	0.00	LSU ribosomal protein L23e (L14p)
+PGF_00016376	Methanocaldococcus	68.38	1.60	LSU ribosomal protein L24e
+PGF_00016382	Methanocaldococcus	116.62	9.56	LSU ribosomal protein L26e (L24p)
+PGF_00016384	Methanocaldococcus	143.00	0.00	LSU ribosomal protein L27Ae (L15p)
+PGF_00016394	Methanocaldococcus	104.38	3.74	LSU ribosomal protein L30e
+PGF_00016417	Methanocaldococcus	89.12	0.35	LSU ribosomal protein L34e
+PGF_00016421	Methanocaldococcus	69.38	1.69	LSU ribosomal protein L35e (L29p)
+PGF_00016426	Methanocaldococcus	91.75	0.46	LSU ribosomal protein L37Ae
+PGF_00016427	Methanocaldococcus	61.00	0.00	LSU ribosomal protein L37e
+PGF_00016429	Methanocaldococcus	51.00	0.00	LSU ribosomal protein L39e
+PGF_00016430	Methanocaldococcus	334.00	1.41	LSU ribosomal protein L3e (L3p)
+PGF_00016434	Methanocaldococcus	47.00	0.00	LSU ribosomal protein L40e
+PGF_00016438	Methanocaldococcus	93.38	1.51	LSU ribosomal protein L44e
+PGF_00016442	Methanocaldococcus	195.00	0.00	LSU ribosomal protein L5e (L18p)
+PGF_00016446	Methanocaldococcus	118.38	3.89	LSU ribosomal protein L7Ae
+PGF_00016447	Methanocaldococcus	154.00	0.00	LSU ribosomal protein L7e (L30p)
+PGF_00016449	Methanocaldococcus	242.12	0.64	LSU ribosomal protein L8e (L2p)
+PGF_00016450	Methanocaldococcus	182.75	0.89	LSU ribosomal protein L9e (L6p)
+PGF_00016455	Methanocaldococcus	337.88	0.64	LSU ribosomal protein P0 (L10p)
+PGF_00017141	Methanocaldococcus	571.25	2.87	ATP-dependent DNA ligase (EC 6.5.1.1)
+PGF_00017243	Methanocaldococcus	388.50	2.27	ATP-dependent DNA ligase, homolog of eukaryotic ligase III
+PGF_00017939	Methanocaldococcus	608.12	16.44	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018145	Methanocaldococcus	147.50	42.63	M. jannaschii predicted coding region MJ1053
+PGF_00018148	Methanocaldococcus	328.50	4.07	M. jannaschii predicted coding region MJ1370
+PGF_00018952	Methanocaldococcus	312.62	0.52	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019248	Methanocaldococcus	307.50	1.85	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019414	Methanocaldococcus	264.12	9.66	MarR family transcriptional regulator MJ0558
+PGF_00019964	Methanocaldococcus	645.88	10.19	ATP-dependent protease LonB Type II
+PGF_00020530	Methanocaldococcus	245.50	5.32	ATP-utilizing enzyme of the PP-loop superfamily
+PGF_00020633	Methanocaldococcus	396.75	72.34	Methanogen homoaconitase, large subunit (EC 4.2.1.114)
+PGF_00020735	Methanocaldococcus	293.00	2.07	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020788	Methanocaldococcus	411.25	5.50	Methyl coenzyme M reductase associated protein @ Fe-S oxidoreductase, related to NifB/MoaA family
+PGF_00020791	Methanocaldococcus	196.00	6.57	Methyl coenzyme M reductase operon protein C
+PGF_00020796	Methanocaldococcus	533.25	0.71	Methyl coenzyme M reductase system component A2
+PGF_00020798	Methanocaldococcus	552.62	5.42	Methyl coenzyme M reductase system component A2 homolog
+PGF_00021036	Methanocaldococcus	327.50	4.14	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021212	Methanocaldococcus	364.38	1.06	Methyltransferase MJ0906
+PGF_00022028	Methanocaldococcus	498.88	7.24	MoaA/NifB/PqqE family protein MJ0619
+PGF_00022507	Methanocaldococcus	163.50	2.07	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022531	Methanocaldococcus	617.00	4.44	Molybdopterin molybdenumtransferase (EC 2.10.1.1) / Periplasmic molybdate-binding domain
+PGF_00022706	Methanocaldococcus	238.88	9.49	MptB, dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase
+PGF_00023590	Methanocaldococcus	322.62	1.06	N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase (EC 3.5.4.27)
+PGF_00023739	Methanocaldococcus	338.50	3.25	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024273	Methanocaldococcus	157.12	6.27	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024281	Methanocaldococcus	230.00	0.76	N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit D (EC 2.1.1.86)
+PGF_00024282	Methanocaldococcus	300.12	1.96	N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit E (EC 2.1.1.86)
+PGF_00024285	Methanocaldococcus	80.75	3.54	N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit G (EC 2.1.1.86)
+PGF_00024286	Methanocaldococcus	316.25	7.78	N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit H (EC 2.1.1.86)
+PGF_00024287	Methanocaldococcus	241.50	5.81	N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit X
+PGF_00024308	Methanocaldococcus	251.00	2.39	NAD synthetase (EC 6.3.1.5)
+PGF_00024323	Methanocaldococcus	342.75	0.46	NAD(P)-dependent glyceraldehyde 3-phosphate dehydrogenase archaeal (EC 1.2.1.59)
+PGF_00024604	Methanocaldococcus	444.62	4.37	NADH oxidase of the flavin-dependent disulfide reductase family, MJ0649
+PGF_00025031	Methanocaldococcus	365.62	3.89	NMD protein affecting ribosome stability and mRNA decay
+PGF_00025215	Methanocaldococcus	167.38	0.92	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025384	Methanocaldococcus	124.12	7.02	Nascent polypeptide-associated complex protein
+PGF_00025440	Methanocaldococcus	390.88	1.81	Acetyl CoA synthase (Acetyl-CoA c-acetyltransferase) (EC 2.3.1.9)
+PGF_00025580	Methanocaldococcus	169.62	2.13	Nicotinamide-nucleotide adenylyltransferase, NadM family (EC 2.7.7.1)
+PGF_00025622	Methanocaldococcus	347.50	5.26	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00026615	Methanocaldococcus	293.12	2.03	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026790	Methanocaldococcus	539.88	3.72	O-phosphoseryl-tRNA(Cys) synthetase (EC 6.1.1.27)
+PGF_00026791	Methanocaldococcus	433.25	2.96	O-phosphoseryl-tRNA(Sec) selenium transferase (EC 2.9.1.2)
+PGF_00026792	Methanocaldococcus	381.75	6.52	O-phosphoseryl-tRNA:Cysteinyl-tRNA synthase
+PGF_00026805	Methanocaldococcus	298.25	2.25	OB-fold nucleic acid binding domain protein
+PGF_00029181	Methanocaldococcus	346.25	1.39	PELOTA homolog; COG1537: Predicted RNA-binding proteins
+PGF_00029916	Methanocaldococcus	265.50	9.40	Pantoate kinase, archaeal (EC 2.7.1.169)
+PGF_00030842	Methanocaldococcus	112.50	6.63	Peptidyl-tRNA hydrolase, archaeal type (EC 3.1.1.29)
+PGF_00033095	Methanocaldococcus	545.75	4.10	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033378	Methanocaldococcus	165.62	0.52	Phosphodiesterase MJ0936 (EC 3.1.4.-)
+PGF_00033485	Methanocaldococcus	444.62	5.78	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8) @ Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00033511	Methanocaldococcus	412.88	2.70	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033878	Methanocaldococcus	149.62	3.11	Phosphopantetheine adenylyltransferase, type II eukaryotic (EC 2.7.7.3)
+PGF_00033890	Methanocaldococcus	256.62	4.69	Phosphopantothenate synthetase, archaeal (EC 6.3.2.36)
+PGF_00033928	Methanocaldococcus	444.50	0.76	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Methanocaldococcus	241.12	1.25	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Methanocaldococcus	220.38	3.11	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Methanocaldococcus	235.75	3.01	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Methanocaldococcus	348.25	2.87	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Methanocaldococcus	228.38	2.13	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Methanocaldococcus	728.38	6.41	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033971	Methanocaldococcus	387.50	2.07	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00034027	Methanocaldococcus	252.88	2.75	Phosphosulfolactate synthase (EC 4.4.1.19)
+PGF_00034213	Methanocaldococcus	396.50	4.14	Phytoene dehydrogenase and related proteins
+PGF_00034252	Methanocaldococcus	369.88	6.90	2,5-diamino-6-ribitylamino-pyrimidinone 5-phosphate deaminase, archaeal (EC 3.5.4.-)
+PGF_00034973	Methanocaldococcus	182.75	1.28	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Methanocaldococcus	322.25	2.05	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035067	Methanocaldococcus	217.75	2.60	2,5-diamino-6-ribosylamino-pyrimidinone 5-phosphate reductase, fungal/archaeal (EC 1.1.1.302)
+PGF_00035334	Methanocaldococcus	311.12	5.79	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035378	Methanocaldococcus	415.12	0.35	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035648	Methanocaldococcus	209.38	6.09	RNA methylase
+PGF_00035649	Methanocaldococcus	210.50	9.04	Predicted RNA-binding protein COG1491
+PGF_00035651	Methanocaldococcus	158.25	2.12	Predicted RNA-binding protein involved in ribosomal biogenesis, contains PUA domain
+PGF_00035666	Methanocaldococcus	54.38	0.52	Predicted Zn-ribbon RNA-binding protein with a function in translation
+PGF_00035721	Methanocaldococcus	440.75	22.54	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035846	Methanocaldococcus	169.25	1.16	Predicted exosome subunit containing the IMP4 domain present in small nuclear ribonucleoprotein,
+PGF_00036193	Methanocaldococcus	158.25	0.89	Predicted phosphoesterase MJ0623
+PGF_00036468	Methanocaldococcus	273.88	49.08	Predicted transcriptional regulator with C-terminal CBS domain
+PGF_00036538	Methanocaldococcus	138.00	3.21	Prefoldin subunit alpha
+PGF_00036988	Methanocaldococcus	283.00	1.41	Agmatinase (EC 3.5.3.11)
+PGF_00037586	Methanocaldococcus	453.50	2.07	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037864	Methanocaldococcus	256.00	5.55	Proteasome subunit alpha (EC 3.4.25.1), archaeal
+PGF_00037870	Methanocaldococcus	425.38	6.57	Proteasome-activating AAA-ATPase (PAN), archaeal
+PGF_00038629	Methanocaldococcus	633.62	1.06	Protein similar to polyadenylation specificity factor, MJ1236 type
+PGF_00038664	Methanocaldococcus	70.12	3.44	Protein translocase subunit SecE
+PGF_00038673	Methanocaldococcus	283.12	2.42	Protein translocase subunit SecF
+PGF_00038675	Methanocaldococcus	440.38	0.52	Protein translocase subunit SecY
+PGF_00039674	Methanocaldococcus	214.62	5.93	Putative RNA-binding protein COG1094
+PGF_00039822	Methanocaldococcus	447.25	1.04	Putative Zn-dependent hydrolase in polyisoprenoid biosynthetic cluster
+PGF_00040271	Methanocaldococcus	383.62	1.77	Putative ammonium transporter MJ1343
+PGF_00040427	Methanocaldococcus	355.62	2.26	Putative coenzyme F420-dependent oxidoreductase MJ1349
+PGF_00040578	Methanocaldococcus	240.38	16.57	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00044391	Methanocaldococcus	147.88	3.72	Putative transcription antitermination protein NusG
+PGF_00045787	Methanocaldococcus	186.50	1.77	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Methanocaldococcus	330.50	1.07	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045965	Methanocaldococcus	500.88	2.47	Pyruvate carboxylase subunit A (EC 6.4.1.1)
+PGF_00046022	Methanocaldococcus	163.50	1.69	Pyruvate:ferredoxin oxidoreductase, PorE subunit (EC 1.2.7.1)
+PGF_00046027	Methanocaldococcus	383.38	3.74	Pyruvate:ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.1)
+PGF_00046029	Methanocaldococcus	295.00	0.00	Pyruvate:ferredoxin oxidoreductase, beta subunit (EC 1.2.7.1)
+PGF_00046031	Methanocaldococcus	85.88	0.35	Pyruvate:ferredoxin oxidoreductase, delta subunit (EC 1.2.7.1)
+PGF_00046034	Methanocaldococcus	178.25	0.46	Pyruvate:ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.1)
+PGF_00046039	Methanocaldococcus	164.62	2.83	Pyruvoyl-dependent arginine decarboxylase (EC 4.1.1.19)
+PGF_00046060	Methanocaldococcus	239.38	5.01	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Methanocaldococcus	282.00	2.45	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Methanocaldococcus	305.62	0.52	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046137	Methanocaldococcus	272.62	0.52	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase (EC 2.2.1.10)
+PGF_00046635	Methanocaldococcus	355.62	7.69	RNA-binding protein, containing THUMP domain
+PGF_00046769	Methanocaldococcus	586.12	2.75	RNase L inhibitor
+PGF_00046844	Methanocaldococcus	449.38	31.19	Alpha-amylase (EC 3.2.1.1)
+PGF_00047472	Methanocaldococcus	524.25	9.78	Related to Dihydropteroate synthase
+PGF_00047549	Methanocaldococcus	494.00	21.64	Replication factor C large subunit
+PGF_00048479	Methanocaldococcus	156.12	1.64	Riboflavin synthase archaeal (EC 2.5.1.9)
+PGF_00048572	Methanocaldococcus	94.75	0.71	Ribonuclease P protein component 1 (EC 3.1.26.5)
+PGF_00048575	Methanocaldococcus	129.25	3.41	Ribonuclease P protein component 2 (EC 3.1.26.5)
+PGF_00048580	Methanocaldococcus	229.12	1.89	Ribonuclease P protein component 3 (EC 3.1.26.5)
+PGF_00048583	Methanocaldococcus	124.12	9.95	Ribonuclease P protein component 4 (EC 3.1.26.5)
+PGF_00048594	Methanocaldococcus	312.88	2.85	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048782	Methanocaldococcus	284.38	1.92	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048895	Methanocaldococcus	57.00	2.56	Ribosome biogenesis protein Nop10
+PGF_00048896	Methanocaldococcus	168.75	8.10	Ribosome biogenesis protein TSR3
+PGF_00048985	Methanocaldococcus	226.75	6.20	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049827	Methanocaldococcus	270.12	5.14	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049829	Methanocaldococcus	117.00	0.93	SSU ribosomal protein S11e (S17p)
+PGF_00049839	Methanocaldococcus	153.00	0.00	SSU ribosomal protein S13e (S15p)
+PGF_00049841	Methanocaldococcus	128.88	0.35	SSU ribosomal protein S14e (S11p)
+PGF_00049845	Methanocaldococcus	130.00	0.00	SSU ribosomal protein S15Ae (S8p)
+PGF_00049846	Methanocaldococcus	151.62	0.52	SSU ribosomal protein S15e (S19p)
+PGF_00049848	Methanocaldococcus	135.88	0.35	SSU ribosomal protein S16e (S9p)
+PGF_00049850	Methanocaldococcus	62.50	0.76	SSU ribosomal protein S17e
+PGF_00049855	Methanocaldococcus	157.25	10.86	SSU ribosomal protein S18e (S13p)
+PGF_00049859	Methanocaldococcus	149.00	1.85	SSU ribosomal protein S19e
+PGF_00049862	Methanocaldococcus	101.50	0.93	SSU ribosomal protein S20e (S10p)
+PGF_00049869	Methanocaldococcus	148.00	0.00	SSU ribosomal protein S23e (S12p)
+PGF_00049876	Methanocaldococcus	60.50	0.53	SSU ribosomal protein S27Ae
+PGF_00049878	Methanocaldococcus	61.88	1.36	SSU ribosomal protein S27e
+PGF_00049879	Methanocaldococcus	75.00	0.00	SSU ribosomal protein S28e
+PGF_00049880	Methanocaldococcus	53.00	0.00	SSU ribosomal protein S29e (S14p)
+PGF_00049881	Methanocaldococcus	217.00	0.00	SSU ribosomal protein S2e (S5p)
+PGF_00049887	Methanocaldococcus	206.62	2.67	SSU ribosomal protein S3e (S3p)
+PGF_00049894	Methanocaldococcus	191.00	0.00	SSU ribosomal protein S5e (S7p)
+PGF_00049898	Methanocaldococcus	137.50	14.88	SSU ribosomal protein S6e
+PGF_00049905	Methanocaldococcus	129.50	0.76	SSU ribosomal protein S8e
+PGF_00049907	Methanocaldococcus	185.62	1.41	SSU ribosomal protein S9e (S4p)
+PGF_00049978	Methanocaldococcus	223.38	5.73	2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5-monophosphate deformylase (EC 3.5.1.102)
+PGF_00050294	Methanocaldococcus	178.75	5.97	Segregation and condensation protein B
+PGF_00051543	Methanocaldococcus	280.62	2.00	Shikimate kinase II (EC 2.7.1.71)
+PGF_00051879	Methanocaldococcus	231.62	9.55	Shwachman-Bodian-Diamond syndrome protein; predicted exosome subunit
+PGF_00052238	Methanocaldococcus	449.25	2.25	Signal recognition particle protein Ffh
+PGF_00053067	Methanocaldococcus	147.12	0.64	Small heat shock protein HSP16.5
+PGF_00053271	Methanocaldococcus	118.25	28.39	Small primase-like proteins (Toprim domain)
+PGF_00053516	Methanocaldococcus	267.00	4.24	Soluble P-type ATPase-like phosphatase (EC 3.6.3.-)
+PGF_00054147	Methanocaldococcus	188.50	8.82	Staphylococcus nuclease (SNase) domain
+PGF_00054383	Methanocaldococcus	217.25	6.04	Substrate-specific component NikM of nickel ECF transporter
+PGF_00054528	Methanocaldococcus	363.25	1.67	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055077	Methanocaldococcus	186.75	2.05	Sulfopyruvate decarboxylase - beta subunit (EC 4.1.1.79)
+PGF_00055284	Methanocaldococcus	103.75	25.23	Superoxide reductase (EC 1.15.1.2)
+PGF_00055392	Methanocaldococcus	180.88	2.47	TATA-box binding protein
+PGF_00056543	Methanocaldococcus	258.62	5.48	Thiazole biosynthetic enzyme Thi4 / Ribose 1,5-bisphosphate or 5-ribose-1,2-cyclic phosphate dehydrogenase
+PGF_00056662	Methanocaldococcus	334.50	1.93	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056735	Methanocaldococcus	84.00	1.51	Thioredoxin
+PGF_00056814	Methanocaldococcus	469.25	11.87	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Methanocaldococcus	184.75	2.19	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056913	Methanocaldococcus	292.12	2.30	TilS-like 3
+PGF_00056914	Methanocaldococcus	277.00	2.78	TilS-like type 2
+PGF_00056935	Methanocaldococcus	452.75	3.92	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057399	Methanocaldococcus	217.75	1.04	Transaldolase (EC 2.2.1.2)
+PGF_00057441	Methanocaldococcus	107.12	1.36	Transcription factor S
+PGF_00060399	Methanocaldococcus	315.25	1.75	Transketolase, C-terminal section (EC 2.2.1.1)
+PGF_00060402	Methanocaldococcus	428.00	0.00	Translation elongation factor 1 alpha subunit
+PGF_00060404	Methanocaldococcus	307.38	1.92	Translation elongation factor 1 alpha-related protein
+PGF_00060405	Methanocaldococcus	89.25	0.46	Translation elongation factor 1 beta subunit
+PGF_00060408	Methanocaldococcus	726.00	0.00	Translation elongation factor 2
+PGF_00060434	Methanocaldococcus	100.50	1.85	Translation initiation factor 1A
+PGF_00061926	Methanocaldococcus	292.88	0.35	Triphosphoribosyl-dephospho-CoA synthetase
+PGF_00062027	Methanocaldococcus	399.62	1.92	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062044	Methanocaldococcus	363.38	5.04	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062073	Methanocaldococcus	340.25	10.63	Tungstate ABC transporter, substrate-binding protein WtpA
+PGF_00062074	Methanocaldococcus	247.38	5.95	Tungstate ABC transporter, permease protein WtpB
+PGF_00063452	Methanocaldococcus	785.25	55.86	Archaea-specific Superfamily II helicase MJ1401
+PGF_00063560	Methanocaldococcus	1358.50	206.39	Archaeal DNA polymerase II large subunit (EC 2.7.7.7)
+PGF_00063594	Methanocaldococcus	583.25	18.93	Archaeal DNA polymerase II small subunit (EC 2.7.7.7)
+PGF_00063608	Methanocaldococcus	406.50	1.41	S-adenosylmethionine synthetase, archaeal (EC 2.5.1.6)
+PGF_00063915	Methanocaldococcus	306.50	1.69	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00064002	Methanocaldococcus	198.75	3.81	Archaeosine cluster protein X
+PGF_00064030	Methanocaldococcus	138.00	1.93	Archease
+PGF_00064146	Methanocaldococcus	439.62	9.65	UPF0004 protein MJ0865
+PGF_00064185	Methanocaldococcus	426.00	11.81	UPF0063 protein MJ0103
+PGF_00064246	Methanocaldococcus	173.25	35.71	UPF0218 protein MJ0395
+PGF_00064263	Methanocaldococcus	97.50	2.73	UPF0235 protein MJ0618
+PGF_00064278	Methanocaldococcus	166.75	3.24	UPF0254 protein MTH_1148
+PGF_00064293	Methanocaldococcus	496.50	2.07	UPF0288 protein MJ1412
+PGF_00064367	Methanocaldococcus	365.12	12.12	UPF0425 pyridoxal phosphate-dependent protein MJ0158
+PGF_00064393	Methanocaldococcus	283.00	0.93	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064425	Methanocaldococcus	416.12	7.43	UbiD family decarboxylase, MJ1133 type
+PGF_00064541	Methanocaldococcus	646.62	6.72	Uncharacterized ATP-dependent helicase MJ0104
+PGF_00064547	Methanocaldococcus	348.75	21.80	Uncharacterized Fe-S oxidoreductase MJ0550
+PGF_00064561	Methanocaldococcus	295.75	0.46	Uncharacterized HTH-type transcriptional regulator MJ0300
+PGF_00064564	Methanocaldococcus	162.38	3.29	Uncharacterized HTH-type transcriptional regulator MJ0586
+PGF_00064566	Methanocaldococcus	171.50	0.93	Uncharacterized HTH-type transcriptional regulator MJ0621
+PGF_00064567	Methanocaldococcus	408.75	0.71	Uncharacterized HTH-type transcriptional regulator MJ0774
+PGF_00064605	Methanocaldococcus	188.75	2.25	Uncharacterized Zn-dependent protease MJ0611
+PGF_00064677	Methanocaldococcus	131.12	0.35	Uncharacterized ferredoxin MJ0099
+PGF_00064679	Methanocaldococcus	507.00	0.00	Uncharacterized ferredoxin oxidoreductase MJ0100
+PGF_00064821	Methanocaldococcus	163.38	14.35	Uncharacterized metal-dependent phosphohydrolase MJ0778
+PGF_00065004	Methanocaldococcus	375.12	2.17	Uncharacterized protein MJ0021
+PGF_00065013	Methanocaldococcus	306.12	1.36	Uncharacterized protein MJ0094
+PGF_00065023	Methanocaldococcus	200.38	3.02	Uncharacterized protein MJ0175
+PGF_00065039	Methanocaldococcus	508.50	7.03	Uncharacterized protein MJ0274
+PGF_00065044	Methanocaldococcus	232.00	1.77	Uncharacterized protein MJ0308
+PGF_00065049	Methanocaldococcus	97.00	0.00	Uncharacterized protein MJ0319
+PGF_00065051	Methanocaldococcus	205.75	3.96	Uncharacterized protein MJ0388
+PGF_00065052	Methanocaldococcus	152.12	5.33	Uncharacterized protein MJ0404
+PGF_00065053	Methanocaldococcus	127.75	0.46	Uncharacterized protein MJ0405
+PGF_00065054	Methanocaldococcus	121.88	1.36	Uncharacterized protein MJ0408
+PGF_00065059	Methanocaldococcus	267.25	1.67	Uncharacterized protein MJ0440
+PGF_00065062	Methanocaldococcus	197.38	1.77	Uncharacterized protein MJ0480
+PGF_00065065	Methanocaldococcus	188.12	12.53	Uncharacterized protein MJ0482
+PGF_00065067	Methanocaldococcus	265.88	10.29	Uncharacterized protein MJ0489
+PGF_00065075	Methanocaldococcus	129.25	9.13	Uncharacterized protein MJ0497
+PGF_00065076	Methanocaldococcus	153.00	3.16	Uncharacterized protein MJ0498
+PGF_00065077	Methanocaldococcus	192.62	2.97	Uncharacterized protein MJ0504
+PGF_00065087	Methanocaldococcus	291.75	1.75	Uncharacterized protein MJ0548
+PGF_00065093	Methanocaldococcus	141.00	0.00	Uncharacterized protein MJ0596
+PGF_00065098	Methanocaldococcus	79.12	0.35	Uncharacterized protein MJ0607
+PGF_00065101	Methanocaldococcus	187.00	4.54	Uncharacterized protein MJ0645
+PGF_00065112	Methanocaldococcus	288.00	3.12	Uncharacterized protein MJ0664
+PGF_00065113	Methanocaldococcus	335.38	4.50	Uncharacterized protein MJ0665
+PGF_00065114	Methanocaldococcus	355.62	3.66	Uncharacterized protein MJ0670
+PGF_00065115	Methanocaldococcus	203.88	3.00	Uncharacterized protein MJ0693
+PGF_00065119	Methanocaldococcus	60.75	0.71	Uncharacterized protein MJ0737
+PGF_00065120	Methanocaldococcus	91.12	3.18	Uncharacterized protein MJ0738
+PGF_00065127	Methanocaldococcus	114.25	12.03	Uncharacterized protein MJ0759
+PGF_00065128	Methanocaldococcus	271.88	0.83	Uncharacterized protein MJ0760
+PGF_00065134	Methanocaldococcus	339.38	5.21	Uncharacterized protein MJ0780
+PGF_00065135	Methanocaldococcus	501.75	4.37	Uncharacterized protein MJ0787
+PGF_00065138	Methanocaldococcus	412.00	0.00	Uncharacterized protein MJ0800
+PGF_00065139	Methanocaldococcus	189.62	10.53	Uncharacterized protein MJ0802
+PGF_00065140	Methanocaldococcus	282.25	5.50	Uncharacterized protein MJ0804
+PGF_00065141	Methanocaldococcus	285.88	11.91	Uncharacterized protein MJ0816
+PGF_00065149	Methanocaldococcus	159.62	1.69	Uncharacterized protein MJ0859
+PGF_00065160	Methanocaldococcus	439.50	8.82	Uncharacterized protein MJ0966
+PGF_00065173	Methanocaldococcus	110.50	9.90	Uncharacterized protein MJ0989
+PGF_00065210	Methanocaldococcus	219.25	1.75	Uncharacterized protein MJ1295
+PGF_00065212	Methanocaldococcus	400.00	5.07	Uncharacterized protein MJ1313
+PGF_00065217	Methanocaldococcus	292.00	6.19	Uncharacterized protein MJ1361
+PGF_00065225	Methanocaldococcus	370.75	4.20	Uncharacterized protein MJ1450
+PGF_00065226	Methanocaldococcus	483.25	1.04	Uncharacterized protein MJ1451
+PGF_00065253	Methanocaldococcus	497.12	5.22	Uncharacterized protein MJ1620
+PGF_00065254	Methanocaldococcus	234.50	5.58	Uncharacterized protein MJ1634
+PGF_00065257	Methanocaldococcus	237.12	2.59	Uncharacterized protein MJ1676
+PGF_00065258	Methanocaldococcus	378.38	3.02	Uncharacterized protein MJ1681, including 4Fe-4S domain
+PGF_00065712	Methanocaldococcus	170.25	4.20	Uncharacterized protein MJ0224
+PGF_00066372	Methanocaldococcus	587.38	3.16	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066375	Methanocaldococcus	464.12	3.18	V-type ATP synthase subunit B (EC 3.6.3.14)
+PGF_00066389	Methanocaldococcus	214.75	2.82	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066407	Methanocaldococcus	97.88	0.35	V-type ATP synthase subunit F (EC 3.6.3.14)
+PGF_00066423	Methanocaldococcus	678.75	9.00	V-type ATP synthase subunit I (EC 3.6.3.14)
+PGF_00066453	Methanocaldococcus	875.88	4.26	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066470	Methanocaldococcus	348.88	7.49	Nitrogenase vanadium-cofactor synthesis protein VnfN
+PGF_00066906	Methanocaldococcus	304.38	3.07	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066960	Methanocaldococcus	146.38	2.33	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00066964	Methanocaldococcus	434.12	0.35	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00066972	Methanocaldococcus	187.75	6.41	Xanthosine/inosine triphosphate pyrophosphatase
+PGF_00067186	Methanocaldococcus	371.75	0.71	2-hydroxyglutaryl-CoA dehydratase (Component D) related protein
+PGF_00067188	Methanocaldococcus	347.75	0.46	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067228	Methanocaldococcus	240.25	1.39	Probable iron export permease protein FetB
+PGF_00067382	Methanocaldococcus	490.75	0.46	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067771	Methanocaldococcus	355.88	3.31	[NiFe] hydrogenase metallocenter assembly protein HypD
+PGF_00067772	Methanocaldococcus	332.88	2.95	[NiFe] hydrogenase metallocenter assembly protein HypE
+PGF_00067788	Methanocaldococcus	220.88	3.14	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00068220	Methanocaldococcus	142.25	3.54	alpha-ribazole-5'-phosphate phosphatase CobZ (EC 3.1.3.73)
+PGF_00068727	Methanocaldococcus	127.62	6.35	archaeal transcriptional regulator
+PGF_00068886	Methanocaldococcus	302.88	1.55	Auxin efflux carrier family protein
+PGF_00069989	Methanocaldococcus	138.62	1.92	Uncharacterized protein MJ0922
+PGF_00070024	Methanocaldococcus	223.00	0.00	Uncharacterized protein MJ0570
+PGF_00070158	Methanocaldococcus	131.88	3.72	conserved protein associated with acetyl-CoA C-acyltransferase and HMGCo
+PGF_00070163	Methanocaldococcus	136.25	44.68	conserved protein with predicted RNA binding PUA domain
+PGF_00070432	Methanocaldococcus	449.00	4.72	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070777	Methanocaldococcus	319.25	7.50	Diphthamide biosynthesis protein 1
+PGF_00070868	Methanocaldococcus	234.75	0.46	4-(hydroxymethyl)-2-furancarboxaldehyde-phosphate synthase
+PGF_00070870	Methanocaldococcus	194.88	3.83	eRF1 methyltransferase catalytic subunit MTQ2
+PGF_00071193	Methanocaldococcus	273.50	7.31	Digeranylgeranylglyceryl phosphate synthase (EC 2.5.1.42)
+PGF_00072295	Methanocaldococcus	535.38	2.07	Uncharacterized acetyltransferase SSO0480
+PGF_00075770	Methanocaldococcus	457.50	0.93	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00083508	Methanocaldococcus	183.50	2.27	Uncharacterized protein MJ0920
+PGF_00095397	Methanocaldococcus	265.88	3.27	hypothetical protein
+PGF_00095680	Methanocaldococcus	264.38	5.21	Septum site-determining protein MinD
+PGF_00110626	Methanocaldococcus	338.12	15.26	hypothetical protein
+PGF_00113984	Methanocaldococcus	179.00	10.72	Flavin prenyltransferase UbiX
+PGF_00121614	Methanocaldococcus	223.88	0.35	Uncharacterized protein MJ0317
+PGF_00152547	Methanocaldococcus	132.38	10.34	hypothetical protein
+PGF_00169963	Methanocaldococcus	121.38	1.69	Uncharacterized protein MJ0949
+PGF_00176909	Methanocaldococcus	250.38	78.16	Methyltransferase
+PGF_00188552	Methanocaldococcus	309.88	10.47	Uncharacterized transcriptional regulatory protein MJ1164, Cro/C1 family
+PGF_00205254	Methanocaldococcus	149.25	4.10	UPF0179 protein MJ1627
+PGF_00253158	Methanocaldococcus	234.00	0.00	hypothetical protein
+PGF_00260942	Methanocaldococcus	349.88	6.79	UPF0348 protein MJ0951
+PGF_00349129	Methanocaldococcus	93.38	0.52	UPF0147 protein MJ1419
+PGF_00354192	Methanocaldococcus	307.62	3.07	Uncharacterized protein MJ1002
+PGF_00355134	Methanocaldococcus	329.12	5.67	Uncharacterized protein MJ0988
+PGF_00365463	Methanocaldococcus	234.88	3.09	hypothetical protein
+PGF_00400444	Methanocaldococcus	192.75	1.16	iron-sulfur flavoprotein (isf)
+PGF_00400790	Methanocaldococcus	420.12	2.36	Protein similar to polyadenylation specificity factor, MJ0162 type
+PGF_00401226	Methanocaldococcus	394.00	10.18	methanogen enzyme similar to murein synthesis amino acid ligase
+PGF_00403322	Methanocaldococcus	208.75	5.68	polyprenyl synthetase
+PGF_00404384	Methanocaldococcus	323.75	23.47	Biotin synthase (EC 2.8.1.6)
+PGF_00404455	Methanocaldococcus	355.12	3.87	Biotin synthase-related protein in some methanogens
+PGF_00404817	Methanocaldococcus	128.75	0.46	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00405697	Methanocaldococcus	585.25	16.22	putative ATP-dependent protease
+PGF_00407246	Methanocaldococcus	365.62	2.83	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00411447	Methanocaldococcus	488.75	20.78	pyruvate + formaldehyde -> hydroxyacetone + carbon dioxide, thiamine pyrophosphate-dependent
+PGF_00411462	Methanocaldococcus	226.25	4.13	Box C/D RNA-guided RNA methyltransferase subunit fibrillarin
+PGF_00411463	Methanocaldococcus	381.62	80.93	Box C/D RNA-guided RNA methyltransferase subunit Nop5
+PGF_00411474	Methanocaldococcus	204.00	0.76	rRNA small subunit pseudouridine methyltransferase Nep1 (EC 2.1.1.260)
+PGF_00413191	Methanocaldococcus	276.50	5.78	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase (EC 2.1.1.219)
+PGF_00413204	Methanocaldococcus	166.75	29.03	tRNA (cytidine(56)-2'-O)-methyltransferase (EC 2.1.1.206)
+PGF_00413205	Methanocaldococcus	345.75	7.48	tRNA (guanine(10)-N(2))-dimethyltransferase (EC 2.1.1.213)
+PGF_00413206	Methanocaldococcus	371.00	5.78	tRNA (guanine(26)-N(2))-dimethyltransferase (EC 2.1.1.216)
+PGF_00413210	Methanocaldococcus	334.38	2.26	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413218	Methanocaldococcus	380.62	1.06	tRNA (guanine(6)-N(2))-methyltransferase (EC 2.1.1.256)
+PGF_00413224	Methanocaldococcus	204.62	2.97	tRNA (pseudouridine(54)-N(1))-methyltransferase (EC 2.1.1.257)
+PGF_00413235	Methanocaldococcus	310.12	3.94	tRNA 4-demethylwyosine synthase (AdoMet-dependent) (EC 4.1.3.44)
+PGF_00413256	Methanocaldococcus	414.00	2.07	tRNA N6-threonylcarbamoyladenosine 2-methylthiotransferase (putative) @ tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_00413287	Methanocaldococcus	436.62	7.48	tRNA pseudouridine(54/55) synthase
+PGF_00413290	Methanocaldococcus	258.50	0.53	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413306	Methanocaldococcus	325.62	21.18	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413307	Methanocaldococcus	421.00	2.07	tRNA(Ile)(2)-agmatinylcytidine synthase (EC 6.3.4.22)
+PGF_00413313	Methanocaldococcus	248.12	2.80	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase (EC 2.5.1.114)
+PGF_00413314	Methanocaldococcus	192.88	3.31	tRNA(Phe) 7-((3-amino-3-carboxypropyl)-4-demethylwyosine(37)-N(4))-methyltransferase (EC 2.1.1.282)
+PGF_00413317	Methanocaldococcus	297.12	5.28	tRNA(U54)-2-thioribothymidine synthetase
+PGF_00413344	Methanocaldococcus	532.75	19.75	Archaeosine synthase (EC 2.6.1.97)
+PGF_00413346	Methanocaldococcus	170.75	4.27	tRNA-splicing endonuclease (EC 4.6.1.16)
+PGF_00414519	Methanocaldococcus	249.88	3.83	Phosphoglycerol geranylgeranyltransferase (EC 2.5.1.41)
+PGF_00414916	Methanocaldococcus	263.75	7.42	CBS/parB domain-containing protein
+PGF_00414927	Methanocaldococcus	432.50	7.48	CCA tRNA nucleotidyltransferase, archaeal type (EC 2.7.7.72)
+PGF_00415093	Methanocaldococcus	766.25	5.80	CO dehydrogenase/acetyl-CoA synthase subunit alpha, CO dehydrogenase subcomplex (EC 1.2.7.4)
+PGF_00415095	Methanocaldococcus	392.38	4.47	CO dehydrogenase/acetyl-CoA synthase subunit delta, corrinoid iron-sulfur subcomplex small subunit
+PGF_00415417	Methanocaldococcus	332.00	1.41	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+PGF_00415433	Methanocaldococcus	668.88	2.47	RNA-binding protein homologous to eukaryotic snRNP
+PGF_00415574	Methanocaldococcus	254.38	0.92	FIG00137952: Uncharacterized protein (ATP-grasp superfamily)
+PGF_00415578	Methanocaldococcus	203.62	7.50	COG2078: Uncharacterized ACR
+PGF_00415583	Methanocaldococcus	197.25	0.46	COG2117: Predicted ATPase of the PP-loop superfamily
+PGF_00415686	Methanocaldococcus	74.75	3.11	COG3269, Predicted RNA-binding protein, contains TRAM domain
+PGF_00416129	Methanocaldococcus	534.88	2.42	CTP synthase (EC 6.3.4.2)
+PGF_00416652	Methanocaldococcus	225.38	2.26	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+PGF_00416834	Methanocaldococcus	361.12	0.35	3,7-dideoxy-D-threo-hepto-2, 6-diulosonate synthase (EC 4.2.3.-)
+PGF_00417481	Methanocaldococcus	201.88	45.67	3-dehydroquinate dehydratase I (EC 4.2.1.10)
+PGF_00417644	Methanocaldococcus	355.00	12.24	ChlI component of cobalt chelatase involved in B12 biosynthesis
+PGF_00417840	Methanocaldococcus	373.75	0.46	Chorismate synthase (EC 4.2.3.5)
+PGF_00418278	Methanocaldococcus	321.00	3.12	Cobalt-precorrin 5A hydrolase (EC 3.7.1.12)
+PGF_00418285	Methanocaldococcus	249.75	3.33	Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)
+PGF_00418292	Methanocaldococcus	358.50	2.73	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418294	Methanocaldococcus	249.50	2.93	Cobalt-precorrin-6A reductase (EC 1.3.1.106)
+PGF_00418304	Methanocaldococcus	207.12	3.27	Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289)
+PGF_00418309	Methanocaldococcus	210.75	2.92	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Methanocaldococcus	490.75	3.58	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418424	Methanocaldococcus	405.88	5.96	Coenzyme F420 hydrogenase alpha subunit (FruA) (EC 1.12.98.1) @ selenocysteine-containing
+PGF_00418426	Methanocaldococcus	282.00	0.00	Coenzyme F420 hydrogenase beta subunit (FruB) (EC 1.12.98.1)
+PGF_00418428	Methanocaldococcus	226.38	0.92	Coenzyme F420 hydrogenase gamma subunit (FruG) (EC 1.12.98.1)
+PGF_00418491	Methanocaldococcus	287.00	1.41	Coenzyme gamma-F420-2:L-glutamate ligase (EC 6.3.2.32)
+PGF_00418521	Methanocaldococcus	218.88	3.44	2-phospho-L-lactate guanylyltransferase (EC 2.7.7.68)
+PGF_00418706	Methanocaldococcus	403.25	1.04	Collagenase
+PGF_00419913	Methanocaldococcus	151.62	2.88	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420734	Methanocaldococcus	284.75	7.30	Cytosolic Fe-S cluster assembling factor NBP35
+PGF_00421629	Methanocaldococcus	247.00	0.00	DNA polymerase sliding clamp protein PCNA
+PGF_00421665	Methanocaldococcus	398.38	26.94	DNA primase (EC 2.7.7.-)
+PGF_00421689	Methanocaldococcus	363.12	25.27	DNA primase large subunit (EC 2.7.7.-)
+PGF_00421693	Methanocaldococcus	343.00	9.38	DNA primase small subunit (EC 2.7.7.-)
+PGF_00421761	Methanocaldococcus	314.38	15.91	DNA repair and recombination protein RadA
+PGF_00421762	Methanocaldococcus	211.50	1.85	DNA repair and recombination protein RadB
+PGF_00421843	Methanocaldococcus	1202.12	208.65	DNA reverse gyrase (EC 3.6.4.12) (EC 5.99.1.3) @ intein-containing
+PGF_00421878	Methanocaldococcus	369.00	0.00	DNA topoisomerase VI subunit A (EC 5.99.1.3)
+PGF_00421879	Methanocaldococcus	656.00	0.00	DNA topoisomerase VI subunit B (EC 5.99.1.3)
+PGF_00422084	Methanocaldococcus	108.88	0.35	DNA-binding protein MTH1615
+PGF_00422338	Methanocaldococcus	629.88	7.36	DNA-directed RNA polymerase subunit B' (EC 2.7.7.6)
+PGF_00422339	Methanocaldococcus	495.38	1.85	DNA-directed RNA polymerase subunit B'' (EC 2.7.7.6)
+PGF_00422340	Methanocaldococcus	193.75	4.10	DNA-directed RNA polymerase subunit D (EC 2.7.7.6)
+PGF_00422341	Methanocaldococcus	184.88	5.38	DNA-directed RNA polymerase subunit E' (EC 2.7.7.6)
+PGF_00422356	Methanocaldococcus	78.00	0.00	DNA-directed RNA polymerase subunit H (EC 2.7.7.6)
+PGF_00422362	Methanocaldococcus	72.38	0.52	DNA-directed RNA polymerase subunit N (EC 2.7.7.6)
+PGF_00422531	Methanocaldococcus	155.12	15.55	UPF0201 protein MJ1564
+PGF_00422921	Methanocaldococcus	202.88	3.48	Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)
+PGF_00422938	Methanocaldococcus	339.50	13.40	Deoxyhypusine synthase (EC 2.5.1.46)
+PGF_00422958	Methanocaldococcus	156.00	0.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00422979	Methanocaldococcus	196.12	1.25	Dephospho-CoA kinase archaeal, predicted (EC 2.7.1.24)
+PGF_00423097	Methanocaldococcus	291.75	4.50	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423378	Methanocaldococcus	416.62	13.10	Dihydroorotase (EC 3.5.2.3)
+PGF_00423472	Methanocaldococcus	648.12	8.15	DinG family ATP-dependent helicase YoaA
+PGF_00423616	Methanocaldococcus	256.62	0.52	Diphthine synthase (EC 2.1.1.98)
+PGF_00424018	Methanocaldococcus	166.50	3.21	4-hydroxybenzoate synthetase (chorismate lyase)
+PGF_00424336	Methanocaldococcus	267.12	4.52	Endonuclease IV (EC 3.1.21.2)
+PGF_00424384	Methanocaldococcus	212.50	2.45	Energy conserving hydrogenase Eha associated gene 2
+PGF_00424385	Methanocaldococcus	248.25	3.11	Energy conserving hydrogenase Eha associated polyferredoxin
+PGF_00424390	Methanocaldococcus	373.25	5.26	Energy conserving hydrogenase Eha large subunit homolog (protein O)
+PGF_00424396	Methanocaldococcus	137.12	0.99	Energy conserving hydrogenase Eha protein M
+PGF_00424397	Methanocaldococcus	216.50	3.46	Energy conserving hydrogenase Eha proton-sodium antiporter homolog protein H
+PGF_00424398	Methanocaldococcus	146.62	3.34	Energy conserving hydrogenase Eha small subunit homolog (protein N)
+PGF_00424399	Methanocaldococcus	162.62	2.56	Energy conserving hydrogenase Eha transmembrane protein B
+PGF_00424400	Methanocaldococcus	80.12	1.64	Energy conserving hydrogenase Eha transmembrane protein C
+PGF_00424408	Methanocaldococcus	150.38	4.75	Energy conserving hydrogenase Eha transmembrane protein F
+PGF_00424409	Methanocaldococcus	220.12	18.57	Energy conserving hydrogenase Eha transmembrane protein G
+PGF_00424410	Methanocaldococcus	289.38	3.16	Energy conserving hydrogenase Eha transmembrane protein J
+PGF_00424412	Methanocaldococcus	211.50	0.93	Energy conserving hydrogenase Eha-associated regulator
+PGF_00424415	Methanocaldococcus	476.88	4.97	Energy conserving hydrogenase Ehb anchor subunit F
+PGF_00424416	Methanocaldococcus	163.88	1.36	Energy conserving hydrogenase Ehb ferredoxin-containing protein L
+PGF_00424417	Methanocaldococcus	319.88	3.00	Energy conserving hydrogenase Ehb integral membrane protein O
+PGF_00424418	Methanocaldococcus	373.25	2.31	Energy conserving hydrogenase Ehb large subunit (protein N)
+PGF_00424419	Methanocaldococcus	470.00	11.51	Energy conserving hydrogenase Ehb polyferredoxin (protein K)
+PGF_00424420	Methanocaldococcus	99.75	0.46	Energy conserving hydrogenase Ehb protein A
+PGF_00424422	Methanocaldococcus	88.25	1.39	Energy conserving hydrogenase Ehb protein C
+PGF_00424423	Methanocaldococcus	79.00	0.00	Energy conserving hydrogenase Ehb protein D
+PGF_00424427	Methanocaldococcus	259.88	3.09	Energy conserving hydrogenase Ehb protein H / Energy conserving hydrogenase Ehb protein I
+PGF_00424430	Methanocaldococcus	217.12	1.36	Energy conserving hydrogenase Ehb protein Q
+PGF_00424431	Methanocaldococcus	145.50	5.90	Energy conserving hydrogenase Ehb small subunit (protein M)
+PGF_00424432	Methanocaldococcus	117.62	0.52	Energy conserving hydrogenase Ehb transmembrane protein E
+PGF_00424924	Methanocaldococcus	394.50	70.95	Eukaryotic peptide chain release factor subunit 1
+PGF_00424925	Methanocaldococcus	262.62	0.52	Eukaryotic translation initiation factor 2 alpha subunit
+PGF_00424930	Methanocaldococcus	410.50	0.93	Eukaryotic translation initiation factor 2 gamma subunit
+PGF_00424939	Methanocaldococcus	131.00	1.41	Eukaryotic translation initiation factor 5A
+PGF_00425454	Methanocaldococcus	274.38	4.75	F420-dependent methylenetetrahydromethanopterin dehydrogenase (EC 1.5.99.9)
+PGF_00425458	Methanocaldococcus	410.88	4.82	Coenzyme F420H2 oxidase (EC 1.5.3.22)
+PGF_00425790	Methanocaldococcus	418.38	1.06	5'-deoxyadenosine deaminase
+PGF_00425999	Methanocaldococcus	128.25	2.49	FIG004454: RNA binding protein
+PGF_00426105	Methanocaldococcus	375.75	6.67	5,6,7,8-tetrahydromethanopterin hydro-lyase (EC 4.2.1.147) @ Formaldehyde activating enzyme / D-arabino-3-hexulose 6-phosphate formaldehyde-lyase (EC 4.1.2.43)
+PGF_00426932	Methanocaldococcus	139.25	3.58	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Methanocaldococcus	268.12	5.72	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00503288	Methanocaldococcus	727.88	73.80	[NiFe] hydrogenase metallocenter assembly protein HypF
+PGF_00549250	Methanocaldococcus	390.50	11.93	V-type ATP synthase subunit C (EC 3.6.3.14)
+PGF_00616490	Methanocaldococcus	201.75	14.58	Signal peptidase I (EC 3.4.21.89)
+PGF_00625415	Methanocaldococcus	232.00	0.00	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00659194	Methanocaldococcus	174.00	3.12	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00661622	Methanocaldococcus	241.75	4.43	Thymidylate synthase (EC 2.1.1.45)
+PGF_00662458	Methanocaldococcus	253.88	3.00	TatD-related DNase
+PGF_00665628	Methanocaldococcus	140.00	8.47	Sirohydrochlorin cobaltochelatase CbiX(small) (EC 4.99.1.3)
+PGF_00678961	Methanocaldococcus	176.88	8.89	NusA protein homolog, archaeal
+PGF_00684135	Methanocaldococcus	342.12	12.57	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_00709311	Methanocaldococcus	380.88	5.94	Uncharacterized MFS-type transporter
+PGF_00742055	Methanocaldococcus	102.00	0.00	Translation initiation factor SUI1-related protein
+PGF_00743561	Methanocaldococcus	194.88	2.36	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00787942	Methanocaldococcus	148.75	8.63	Universal stress protein MJ0531
+PGF_00853393	Methanocaldococcus	287.62	1.60	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00894813	Methanocaldococcus	370.75	0.71	Cell division protein FtsH
+PGF_00926109	Methanocaldococcus	559.50	9.10	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00928238	Methanocaldococcus	366.88	0.99	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00977246	Methanocaldococcus	332.38	3.89	F420-dependent N(5),N(10)-methylenetetrahydromethanopterin reductase (EC 1.5.99.11)
+PGF_00982259	Methanocaldococcus	432.12	2.75	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00984073	Methanocaldococcus	280.62	1.06	Phosphate transport system regulatory protein PhoU
+PGF_01005731	Methanocaldococcus	336.38	3.25	RNA 3'-terminal-phosphate cyclase (GTP) (EC 6.5.1.5)
+PGF_01036334	Methanocaldococcus	421.62	10.45	UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)
+PGF_01039218	Methanocaldococcus	235.12	7.64	FIG006285: ICC-like protein phosphoesterase
+PGF_01040342	Methanocaldococcus	290.62	4.34	Spermidine synthase (EC 2.5.1.16)
+PGF_01102972	Methanocaldococcus	408.38	5.01	Acetylornithine deacetylase (EC 3.5.1.16)
+PGF_01159117	Methanocaldococcus	345.75	4.89	Selenide,water dikinase (EC 2.7.9.3) @ selenocysteine-containing
+PGF_01172431	Methanocaldococcus	95.25	1.28	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01284176	Methanocaldococcus	193.12	2.64	Rubrerythrin
+PGF_01305640	Methanocaldococcus	221.62	22.06	Phytyl-phosphate kinase (EC 2.7.4.-)
+PGF_01332636	Methanocaldococcus	226.88	0.99	Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)
+PGF_01467839	Methanocaldococcus	604.62	11.67	Glucoamylase (EC 3.2.1.3)
+PGF_01513247	Methanocaldococcus	123.38	20.80	Nucleotide binding protein, PINc
+PGF_01513745	Methanocaldococcus	218.50	7.63	Proteasome subunit beta (EC 3.4.25.1), archaeal
+PGF_01513918	Methanocaldococcus	177.62	5.42	Adenylate cyclase (EC 4.6.1.1)
+PGF_01513923	Methanocaldococcus	251.38	8.60	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01514006	Methanocaldococcus	174.12	3.72	Adenylate kinase isoenzyme 6 homolog FAP7, plays role in rRNA maturation
+PGF_01558104	Methanocaldococcus	257.00	2.78	ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_01625234	Methanocaldococcus	300.38	1.51	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667671	Methanocaldococcus	178.38	1.41	Cytidylate kinase (EC 2.7.4.25)
+PGF_01737958	Methanocaldococcus	227.75	1.49	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01913335	Methanocaldococcus	211.62	3.42	5-(aminomethyl)-3-furanmethanol phosphate kinase
+PGF_01942824	Methanocaldococcus	353.88	20.74	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01981062	Methanocaldococcus	249.00	1.60	Coenzyme F420-0:L-glutamate ligase (EC 6.3.2.31) @ F420-1:L-glutamate ligase (EC 6.3.2.34)
+PGF_02019462	Methanocaldococcus	478.25	2.43	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02185217	Methanocaldococcus	410.25	4.10	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02189378	Methanocaldococcus	372.38	25.52	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02211177	Methanocaldococcus	268.75	4.53	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02244871	Methanocaldococcus	302.88	1.96	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02265871	Methanocaldococcus	210.75	15.31	Inosine/xanthosine triphosphatase (EC 3.6.1.-)
+PGF_02266630	Methanocaldococcus	924.38	4.87	Oligosaccharide:protein transferase in flagellin glycosylation pathway
+PGF_02266753	Methanocaldococcus	109.88	8.84	Prefoldin subunit beta
+PGF_02275797	Methanocaldococcus	356.25	9.25	Predicted ATP-dependent carboligase related to biotin carboxylase
+PGF_02275871	Methanocaldococcus	177.50	12.26	Uncharacterized protein MJ1106
+PGF_02275933	Methanocaldococcus	81.38	2.26	Uncharacterized protein MJ0594a
+PGF_02276154	Methanocaldococcus	309.62	0.74	2-phosphoglycerate kinase (2pgk)
+PGF_02277455	Methanocaldococcus	46.00	0.00	DNA-directed RNA polymerase subunit P (EC 2.7.7.6)
+PGF_02277456	Methanocaldococcus	131.62	1.06	Energy conserving hydrogenase Eha protein T
+PGF_02277457	Methanocaldococcus	425.75	4.80	Beta-hydroxylase, bleomycin/phleomycin binding protein, ankyrin homologue, bleomycin and transport protein
+PGF_02277458	Methanocaldococcus	254.75	0.71	M. jannaschii predicted coding region MJ1020
+PGF_02277459	Methanocaldococcus	143.00	1.60	Uncharacterized protein MJ1199
+PGF_02277461	Methanocaldococcus	229.38	7.89	M. jannaschii predicted coding region MJ1463
+PGF_02277462	Methanocaldococcus	264.75	4.03	Metal-dependent hydrolase of the beta-lactamase superfamily
+PGF_02277463	Methanocaldococcus	194.75	0.89	NADH oxidase
+PGF_02277464	Methanocaldococcus	108.62	0.92	Nitrogen regulatory protein PII homolog
+PGF_02277467	Methanocaldococcus	123.62	13.34	Uncharacterized protein MJ0095
+PGF_02277469	Methanocaldococcus	189.88	0.83	hypothetical protein
+PGF_02277472	Methanocaldococcus	380.00	9.37	hypothetical protein
+PGF_02277477	Methanocaldococcus	261.25	6.36	Uncharacterized protein MJ1188
+PGF_02277484	Methanocaldococcus	275.75	6.36	putative molybdenum cofactor biosynthesis protein
+PGF_02277487	Methanocaldococcus	82.25	0.46	hypothetical protein
+PGF_02277488	Methanocaldococcus	72.00	1.41	hypothetical protein
+PGF_02277489	Methanocaldococcus	93.12	4.29	hypothetical protein
+PGF_02277490	Methanocaldococcus	83.75	0.89	hypothetical protein
+PGF_02277491	Methanocaldococcus	146.12	6.03	hypothetical protein
+PGF_02277492	Methanocaldococcus	102.25	25.56	hypothetical protein
+PGF_02277493	Methanocaldococcus	102.12	1.36	hypothetical protein
+PGF_02277498	Methanocaldococcus	242.25	2.87	UPF0280 protein MJ1526
+PGF_02277521	Methanocaldococcus	274.50	12.33	Serine/threonine-protein kinase RIO2 (EC 2.7.11.1)
+PGF_02277707	Methanocaldococcus	336.75	3.73	Uncharacterized protein MJ0835.2
+PGF_02277931	Methanocaldococcus	97.38	0.52	Uncharacterized protein MJ0273
+PGF_02278032	Methanocaldococcus	193.62	3.93	Uncharacterized C4-type Zn finger protein MJ0530
+PGF_02278091	Methanocaldococcus	280.38	5.78	Serine/threonine-protein kinase RIO1 (EC 2.7.11.1)
+PGF_02278149	Methanocaldococcus	162.25	2.38	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02278171	Methanocaldococcus	222.12	1.36	NADPH-dependent F420 reductase
+PGF_02279005	Methanocaldococcus	349.25	82.55	ABC transporter, substrate-binding protein N-domain MJ1180 / ABC transporter, substrate-binding protein C-domain MJ1181
+PGF_02279015	Methanocaldococcus	396.88	8.03	Uncharacterized protein MJ1079
+PGF_02279299	Methanocaldococcus	273.62	9.09	Uncharacterized protein MJ1311
+PGF_02279863	Methanocaldococcus	71.12	0.35	tRNA 5-methylaminomethyl-2-thiouridine synthesis sulfur carrier protein TusA
+PGF_02279959	Methanocaldococcus	538.38	1.06	Transcriptional repressor of nif and glnA operons
+PGF_02280019	Methanocaldococcus	225.62	3.62	UPF0278 protein MJ0950
+PGF_02280075	Methanocaldococcus	183.00	3.38	UPF0215 protein MJ1150
+PGF_02281000	Methanocaldococcus	211.62	3.34	Cacineurin superfamily phosphoesterase
+PGF_02281258	Methanocaldococcus	174.38	3.62	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase (EC 2.7.7.67)
+PGF_02281324	Methanocaldococcus	337.12	3.80	Uncharacterized protein MJ1086
+PGF_02282027	Methanocaldococcus	351.50	8.04	Uncharacterized transmembrane protein MJ1032
+PGF_02282713	Methanocaldococcus	94.25	5.23	DNA-directed RNA polymerase subunit L (EC 2.7.7.6)
+PGF_02283727	Methanocaldococcus	141.62	1.92	Eukaryotic translation initiation factor 2 beta subunit
+PGF_02329487	Methanocaldococcus	325.00	4.17	4-[[4-(2-aminoethyl)phenoxy]-methyl]-2-furanmethanamine-glutamate synthase
+PGF_02330496	Methanocaldococcus	213.50	2.51	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Methanocaldococcus	299.25	14.32	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Methanocaldococcus	885.25	10.86	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02357764	Methanocaldococcus	160.50	6.21	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02515882	Methanocaldococcus	470.25	2.25	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Methanocaldococcus	427.12	0.35	Enolase (EC 4.2.1.11)
+PGF_02517245	Methanocaldococcus	306.00	2.73	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_02517281	Methanocaldococcus	244.12	0.35	SSU ribosomal protein S4e
+PGF_02557763	Methanocaldococcus	194.12	15.53	Intracellular protease
+PGF_02717713	Methanocaldococcus	302.50	13.09	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02776739	Methanocaldococcus	125.88	4.73	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02787188	Methanocaldococcus	89.62	0.52	ACT domain protein
+PGF_02812975	Methanocaldococcus	263.50	7.87	tRNA/RNA cytosine-C5-methylase (EC 2.1.1.-)
+PGF_02844091	Methanocaldococcus	266.50	16.62	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Methanocaldococcus	392.75	3.49	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02895999	Methanocaldococcus	614.75	6.50	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_02897110	Methanocaldococcus	172.25	4.98	6-phospho-3-hexuloisomerase (EC 5.3.1.27)
+PGF_02904032	Methanocaldococcus	384.75	4.03	Na+/H+ antiporter NapA-like protein
+PGF_02910807	Methanocaldococcus	183.12	2.64	Archaeal transcription factor E
+PGF_02931322	Methanocaldococcus	287.38	18.84	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Methanocaldococcus	288.38	0.92	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02937881	Methanocaldococcus	523.75	0.71	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+PGF_02940601	Methanocaldococcus	220.38	3.07	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_02960761	Methanocaldococcus	316.62	1.51	Iron-sulfur cluster assembly protein SufB
+PGF_02961521	Methanocaldococcus	483.38	8.62	Fumarate reductase (CoM/CoB), subunit TfrB (EC 1.3.4.1)
+PGF_02973919	Methanocaldococcus	533.75	6.69	Fumarate reductase (CoM/CoB), subunit TfrA (EC 1.3.4.1)
+PGF_03013570	Methanocaldococcus	303.00	50.20	H/ACA ribonucleoprotein complex subunit CBF5
+PGF_03029062	Methanocaldococcus	300.88	1.81	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03055832	Methanocaldococcus	290.00	2.33	DUF89 protein CxxC subfamily
+PGF_03058080	Methanocaldococcus	230.62	1.06	Uncharacterized transcriptional regulator MJ1545, Cro/C1 family
+PGF_03060112	Methanocaldococcus	131.00	1.41	UPF0216 protein MJ1224
+PGF_03073470	Methanocaldococcus	552.38	2.62	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03104567	Methanocaldococcus	218.00	1.31	Trk potassium uptake system protein TrkA
+PGF_03105009	Methanocaldococcus	343.25	8.73	Glycosyl transferase MMP0356
+PGF_03116802	Methanocaldococcus	209.62	2.72	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03124650	Methanocaldococcus	433.38	0.92	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03142784	Methanocaldococcus	254.75	5.26	hypothetical protein
+PGF_03197417	Methanocaldococcus	179.88	1.25	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)
+PGF_03267589	Methanocaldococcus	274.50	3.63	Transketolase, N-terminal section (EC 2.2.1.1)
+PGF_03318456	Methanocaldococcus	471.00	6.52	Trk potassium uptake system protein TrkH
+PGF_03440867	Methanocaldococcus	132.50	2.88	UPF0047 protein Bsu YugU
+PGF_03448459	Methanocaldococcus	123.50	0.76	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03518570	Methanocaldococcus	137.75	3.11	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03609651	Methanocaldococcus	646.25	7.30	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03683488	Methanocaldococcus	172.50	0.93	2'-5' RNA ligase
+PGF_03729023	Methanocaldococcus	300.38	4.10	Nitrogenase FeMo-cofactor synthesis FeS core scaffold and assembly protein NifB
+PGF_03743176	Methanocaldococcus	462.88	2.36	Selenocysteine-specific translation elongation factor
+PGF_03750541	Methanocaldococcus	327.50	26.37	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03752544	Methanocaldococcus	225.75	4.92	Phosphate transport system regulatory protein PhoU
+PGF_03754547	Methanocaldococcus	366.38	12.65	DNA double-strand break repair protein Mre11
+PGF_03757137	Methanocaldococcus	483.38	0.92	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Methanocaldococcus	373.88	44.28	Signal recognition particle receptor FtsY
+PGF_03797809	Methanocaldococcus	373.00	3.55	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_03862500	Methanocaldococcus	195.50	0.76	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03975667	Methanocaldococcus	87.88	3.94	hypothetical protein
+PGF_03977347	Methanocaldococcus	270.38	2.39	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_03991729	Methanocaldococcus	394.25	4.80	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03994619	Methanocaldococcus	443.88	4.09	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43) / Ferredoxin-fold anticodon binding domain
+PGF_04005838	Methanocaldococcus	432.25	4.74	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04047265	Methanocaldococcus	83.12	0.64	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04171616	Methanocaldococcus	164.38	4.96	Ribosomal RNA processing endonuclease Nob1
+PGF_04258098	Methanocaldococcus	303.00	0.76	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+PGF_04345693	Methanocaldococcus	412.50	10.36	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04359948	Methanocaldococcus	323.50	0.76	Selenophosphate synthetase-related protein MJ0640
+PGF_04375438	Methanocaldococcus	396.75	3.54	Coenzyme B synthesis from 2-oxoglutarate: steps 1, 6, and 10
+PGF_04395505	Methanocaldococcus	286.88	1.55	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04493258	Methanocaldococcus	283.75	1.28	Cobalt-zinc-cadmium resistance protein
+PGF_04527312	Methanocaldococcus	391.38	2.62	Chloride channel protein
+PGF_04614911	Methanocaldococcus	256.00	3.85	ABC transporter, permease protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_04737739	Methanocaldococcus	141.62	5.15	LSU ribosomal protein L32e
+PGF_04815798	Methanocaldococcus	305.38	10.24	Mevalonate kinase (EC 2.7.1.36)
+PGF_04846590	Methanocaldococcus	315.88	1.55	Magnesium and cobalt transport protein CorA
+PGF_04854613	Methanocaldococcus	168.00	1.60	Sulfopyruvate decarboxylase - alpha subunit (EC 4.1.1.79)
+PGF_04971017	Methanocaldococcus	404.62	1.06	Threonine synthase (EC 4.2.3.1)
+PGF_05241964	Methanocaldococcus	471.25	5.50	Kef-type K+ transport systems (NAD-binding component fused to domain related to exopolyphosphatase)
+PGF_05280843	Methanocaldococcus	426.12	1.25	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05373727	Methanocaldococcus	290.12	7.26	Tyramine--L-glutamate ligase (EC 6.3.4.24)
+PGF_05493552	Methanocaldococcus	80.62	1.41	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05560886	Methanocaldococcus	283.00	6.50	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05598173	Methanocaldococcus	351.62	3.34	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05657253	Methanocaldococcus	223.62	3.34	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05810353	Methanocaldococcus	767.38	18.43	Putative ATP-dependent RNA helicase
+PGF_05971611	Methanocaldococcus	392.62	8.05	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06013190	Methanocaldococcus	217.12	2.47	Metal-dependent hydrolase
+PGF_06115957	Methanocaldococcus	373.12	1.36	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06211427	Methanocaldococcus	251.12	1.73	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06230969	Methanocaldococcus	477.50	3.34	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06426254	Methanocaldococcus	325.50	4.84	beta-ribofuranosylaminobenzene 5'-phosphate synthase (EC 2.4.2.54)
+PGF_06461498	Methanocaldococcus	212.75	1.83	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Methanocaldococcus	314.50	7.23	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06522139	Methanocaldococcus	692.75	12.10	Acetyl-CoA synthetase (ADP-forming) alpha and beta chains, putative
+PGF_06545170	Methanocaldococcus	122.88	2.10	Fluoride ion transporter CrcB
+PGF_06607455	Methanocaldococcus	229.50	56.27	Predicted 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase
+PGF_06644010	Methanocaldococcus	289.00	5.40	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06766367	Methanocaldococcus	547.12	0.35	Flagella-related ATPase FlaI
+PGF_06821068	Methanocaldococcus	527.50	4.57	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+PGF_06848311	Methanocaldococcus	97.00	3.70	Uncharacterized protein MJ0639
+PGF_07263029	Methanocaldococcus	288.88	12.57	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_08057031	Methanocaldococcus	134.75	1.49	CoB--CoM-reducing hydrogenase (Sec) delta subunit @ selenocysteine-containing
+PGF_08106715	Methanocaldococcus	382.38	3.58	AknN
+PGF_08147311	Methanocaldococcus	284.50	0.93	CoB--CoM-reducing hydrogenase (Sec) gamma subunit

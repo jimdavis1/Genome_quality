@@ -1,0 +1,949 @@
+PGF_00000027	Anaerovibrio	258.40	0.89	Uncharacterized protein YmdB
+PGF_00000196	Anaerovibrio	409.60	3.58	FIG007079: UPF0348 protein family
+PGF_00001613	Anaerovibrio	1013.60	0.89	FIG01055026: hypothetical protein
+PGF_00002375	Anaerovibrio	312.20	0.45	ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00003269	Anaerovibrio	300.20	1.30	FIG069887: hypothetical protein
+PGF_00003516	Anaerovibrio	272.80	0.45	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003750	Anaerovibrio	284.00	0.00	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004169	Anaerovibrio	617.80	10.33	Fe-S oxidoreductase
+PGF_00004323	Anaerovibrio	57.00	0.00	Ferredoxin
+PGF_00004481	Anaerovibrio	549.00	0.00	Ferric iron ABC transporter, permease protein
+PGF_00004671	Anaerovibrio	640.00	0.00	Ferrous iron transport protein B
+PGF_00004728	Anaerovibrio	585.00	0.00	Fibronectin/fibrinogen-binding protein
+PGF_00004734	Anaerovibrio	205.40	3.29	Fic domain protein, HP1159 type
+PGF_00005284	Anaerovibrio	529.00	0.00	Flagellar M-ring protein FliF
+PGF_00005288	Anaerovibrio	362.20	19.68	Flagellar P-ring protein FlgI
+PGF_00005291	Anaerovibrio	146.40	0.55	Flagellar assembly factor FliW
+PGF_00005354	Anaerovibrio	152.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005358	Anaerovibrio	263.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Anaerovibrio	691.00	0.00	Flagellar biosynthesis protein FlhA
+PGF_00005402	Anaerovibrio	84.20	4.38	Flagellar biosynthesis protein FliQ
+PGF_00005450	Anaerovibrio	516.80	89.40	Flagellar hook protein FlgE
+PGF_00005454	Anaerovibrio	538.60	13.07	Flagellar hook-associated protein FlgK
+PGF_00006231	Anaerovibrio	294.00	0.00	Hydrogenase-4 component C
+PGF_00006245	Anaerovibrio	531.40	52.77	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006277	Anaerovibrio	427.00	0.00	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+PGF_00006377	Anaerovibrio	635.00	0.00	Fructose-1,6-bisphosphatase, Bacillus type (EC 3.1.3.11)
+PGF_00006394	Anaerovibrio	322.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006457	Anaerovibrio	271.00	8.22	Fumarate hydratase class I, alpha region (EC 4.2.1.2); L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)
+PGF_00006935	Anaerovibrio	514.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006983	Anaerovibrio	262.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007012	Anaerovibrio	368.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Anaerovibrio	443.00	0.00	GTP-binding protein EngA
+PGF_00007026	Anaerovibrio	214.20	1.79	GTP-binding protein EngB
+PGF_00007027	Anaerovibrio	489.80	0.45	GTP-binding protein Era
+PGF_00007028	Anaerovibrio	602.40	0.89	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Anaerovibrio	607.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007045	Anaerovibrio	263.00	0.00	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Anaerovibrio	472.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007971	Anaerovibrio	362.80	54.11	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007982	Anaerovibrio	299.00	0.00	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Anaerovibrio	482.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Anaerovibrio	442.00	0.00	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Anaerovibrio	374.00	0.00	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Anaerovibrio	403.00	0.00	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Anaerovibrio	231.60	56.85	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Anaerovibrio	543.00	0.00	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008124	Anaerovibrio	779.00	0.00	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_00008164	Anaerovibrio	439.00	0.00	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008262	Anaerovibrio	628.00	0.00	Glutamine synthetase, clostridia type (EC 6.3.1.2)
+PGF_00008293	Anaerovibrio	218.00	0.00	Glutamine ABC transporter, permease protein GlnP
+PGF_00008326	Anaerovibrio	558.00	0.00	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Anaerovibrio	422.00	10.95	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Anaerovibrio	489.00	0.00	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008629	Anaerovibrio	258.40	7.60	Glycerol-3-phosphate regulon repressor, DeoR family
+PGF_00008838	Anaerovibrio	238.20	0.45	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008864	Anaerovibrio	367.00	2.24	Glycogen biosynthesis protein GlgD, glucose-1-phosphate adenylyltransferase family
+PGF_00008874	Anaerovibrio	815.00	0.00	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Anaerovibrio	477.00	0.00	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Anaerovibrio	192.20	5.85	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Anaerovibrio	293.00	0.00	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Anaerovibrio	687.00	0.00	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Anaerovibrio	249.00	0.00	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Anaerovibrio	761.00	0.00	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Anaerovibrio	204.80	0.45	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Anaerovibrio	824.60	8.88	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011541	Anaerovibrio	323.00	0.00	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011604	Anaerovibrio	425.00	0.00	Hexokinase (EC 2.7.1.1)
+PGF_00011792	Anaerovibrio	98.00	0.00	His repressor
+PGF_00011979	Anaerovibrio	447.00	0.00	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Anaerovibrio	338.60	0.55	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Anaerovibrio	429.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Anaerovibrio	305.80	2.39	Homoserine kinase (EC 2.7.1.39)
+PGF_00012657	Anaerovibrio	151.00	0.00	ACT domain-containing protein
+PGF_00012920	Anaerovibrio	531.80	0.45	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012970	Anaerovibrio	437.00	0.00	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013003	Anaerovibrio	652.00	0.71	Bis-ABC ATPase YheS
+PGF_00013017	Anaerovibrio	333.00	0.00	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013244	Anaerovibrio	181.00	0.00	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Anaerovibrio	232.20	4.44	UPF0001 protein YggS
+PGF_00013347	Anaerovibrio	82.00	0.00	UPF0297 protein YrzL
+PGF_00013418	Anaerovibrio	497.60	1.34	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_00013492	Anaerovibrio	178.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Anaerovibrio	197.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Anaerovibrio	196.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Anaerovibrio	256.40	0.89	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014064	Anaerovibrio	608.80	2.68	Indolepyruvate oxidoreductase subunit IorA (EC 1.2.7.8)
+PGF_00014067	Anaerovibrio	194.80	3.35	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)
+PGF_00014264	Anaerovibrio	222.00	0.00	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014936	Anaerovibrio	333.20	2.68	Integrase/recombinase xerD homolog
+PGF_00015039	Anaerovibrio	222.20	0.45	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Anaerovibrio	83.20	0.45	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Anaerovibrio	180.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Anaerovibrio	286.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015718	Anaerovibrio	1058.40	23.26	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Anaerovibrio	338.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015963	Anaerovibrio	383.00	62.61	L,L-diaminopimelate aminotransferase (EC 2.6.1.83)
+PGF_00016047	Anaerovibrio	320.00	0.00	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016130	Anaerovibrio	340.00	0.00	L-lactate dehydrogenase
+PGF_00016139	Anaerovibrio	544.80	0.45	L-lactate permease
+PGF_00016223	Anaerovibrio	289.00	0.00	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Anaerovibrio	220.00	0.00	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016263	Anaerovibrio	287.00	0.00	L-threonine kinase in B12 biosynthesis (EC 2.7.1.177)
+PGF_00016328	Anaerovibrio	182.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016340	Anaerovibrio	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Anaerovibrio	146.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016346	Anaerovibrio	113.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Anaerovibrio	119.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Anaerovibrio	227.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Anaerovibrio	117.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Anaerovibrio	110.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Anaerovibrio	93.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Anaerovibrio	110.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Anaerovibrio	97.00	0.00	LSU ribosomal protein L27p
+PGF_00016387	Anaerovibrio	63.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016393	Anaerovibrio	275.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Anaerovibrio	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Anaerovibrio	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Anaerovibrio	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Anaerovibrio	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Anaerovibrio	214.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Anaerovibrio	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Anaerovibrio	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Anaerovibrio	183.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Anaerovibrio	122.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Anaerovibrio	148.00	0.00	LSU ribosomal protein L9p
+PGF_00016494	Anaerovibrio	381.00	0.00	Lactaldehyde reductase (EC 1.1.1.77)
+PGF_00016495	Anaerovibrio	289.60	21.02	Lactam utilization protein LamB
+PGF_00017109	Anaerovibrio	385.40	0.55	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Anaerovibrio	239.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017281	Anaerovibrio	345.00	0.71	Lipopolysaccharide core heptosyltransferase I
+PGF_00018522	Anaerovibrio	372.00	10.17	Macrolide-specific efflux protein MacA
+PGF_00018952	Anaerovibrio	317.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Anaerovibrio	464.20	0.45	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019221	Anaerovibrio	1266.40	2.19	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Anaerovibrio	308.40	0.89	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019307	Anaerovibrio	329.60	3.58	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Anaerovibrio	180.00	0.00	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020025	Anaerovibrio	663.20	0.45	ATP-dependent protease LonB-like Type I
+PGF_00020147	Anaerovibrio	417.80	26.29	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020271	Anaerovibrio	282.00	0.00	Menaquinone via futalosine step 4, possible alternative
+PGF_00020321	Anaerovibrio	266.80	6.61	Metal transporter, ZIP family
+PGF_00020437	Anaerovibrio	354.00	0.00	Metal-dependent phosphohydrolase
+PGF_00020735	Anaerovibrio	291.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020764	Anaerovibrio	437.00	0.00	Methionine transporter MetT
+PGF_00020793	Anaerovibrio	165.00	0.00	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020984	Anaerovibrio	286.40	0.55	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Anaerovibrio	129.00	0.00	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021020	Anaerovibrio	548.00	0.00	Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00021022	Anaerovibrio	733.00	0.00	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021023	Anaerovibrio	733.00	0.00	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021036	Anaerovibrio	362.20	3.27	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021217	Anaerovibrio	510.00	0.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021390	Anaerovibrio	229.00	0.00	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00023289	Anaerovibrio	205.00	0.00	Multimeric flavodoxin WrbA family protein
+PGF_00023412	Anaerovibrio	589.40	0.55	MutS-related protein, family 1
+PGF_00023591	Anaerovibrio	353.20	7.53	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Anaerovibrio	345.00	0.00	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023794	Anaerovibrio	387.80	0.45	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00023812	Anaerovibrio	417.00	0.00	N-acetylglucosaminyltransferase (EC 2.4.1.-)
+PGF_00023835	Anaerovibrio	302.20	1.10	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00024273	Anaerovibrio	164.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024309	Anaerovibrio	622.20	10.73	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024314	Anaerovibrio	539.00	0.00	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024478	Anaerovibrio	337.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Anaerovibrio	244.00	0.00	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024540	Anaerovibrio	425.80	10.73	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024550	Anaerovibrio	662.00	0.00	Hydrogenase-4 component B
+PGF_00024687	Anaerovibrio	365.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024735	Anaerovibrio	103.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Anaerovibrio	511.20	0.45	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Anaerovibrio	482.00	0.00	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Anaerovibrio	165.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025181	Anaerovibrio	473.40	18.01	Na(+)-linked D-alanine glycine permease
+PGF_00025267	Anaerovibrio	501.00	0.00	Na+/H+ antiporter
+PGF_00025489	Anaerovibrio	459.00	0.00	Niacin transporter NiaP
+PGF_00025562	Anaerovibrio	173.60	0.89	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Anaerovibrio	351.00	0.00	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025825	Anaerovibrio	501.00	0.00	Acetyl-CoA hydrolase (EC 3.1.2.1)
+PGF_00026288	Anaerovibrio	428.80	1.79	Novel D-mannonate dehydrogenase (EC 1.1.1.57)
+PGF_00026362	Anaerovibrio	197.00	0.00	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Anaerovibrio	478.40	0.89	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026615	Anaerovibrio	297.40	1.34	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00028476	Anaerovibrio	359.60	1.34	Outer surface protein of unknown function, cellobiose operon
+PGF_00029141	Anaerovibrio	467.00	0.00	PDZ domain protein
+PGF_00029917	Anaerovibrio	282.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Anaerovibrio	358.00	0.00	Peptide chain release factor 1
+PGF_00030643	Anaerovibrio	537.00	0.00	Peptide chain release factor 3
+PGF_00030909	Anaerovibrio	496.00	0.00	Periplasmic [FeFe] hydrogenase large subunit (EC 1.12.7.2)
+PGF_00033095	Anaerovibrio	811.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033289	Anaerovibrio	342.80	0.45	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Anaerovibrio	323.00	5.52	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033417	Anaerovibrio	128.00	0.00	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), subunit DhaM; DHA-specific IIA component
+PGF_00033423	Anaerovibrio	568.00	0.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Anaerovibrio	673.80	0.45	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033511	Anaerovibrio	399.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Anaerovibrio	279.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033802	Anaerovibrio	503.20	0.45	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033877	Anaerovibrio	159.00	0.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Anaerovibrio	391.00	0.00	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Anaerovibrio	233.00	0.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Anaerovibrio	426.00	0.00	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Anaerovibrio	238.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033940	Anaerovibrio	390.00	0.00	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00033946	Anaerovibrio	243.00	0.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Anaerovibrio	297.00	118.51	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Anaerovibrio	1258.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Anaerovibrio	200.80	7.16	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Anaerovibrio	363.00	0.00	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Anaerovibrio	689.00	0.00	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Anaerovibrio	183.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Anaerovibrio	325.00	0.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035378	Anaerovibrio	413.00	0.00	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035592	Anaerovibrio	720.00	0.00	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE / Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035721	Anaerovibrio	430.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Anaerovibrio	429.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035888	Anaerovibrio	461.00	0.00	Predicted glycolate dehydrogenase, 2-subunit type (EC 1.1.99.14), iron-sulfur subunit GlcD
+PGF_00036814	Anaerovibrio	467.00	0.00	Probable M18-family aminopeptidase 1 (EC 3.4.11.-)
+PGF_00036988	Anaerovibrio	292.00	0.00	Agmatinase (EC 3.5.3.11)
+PGF_00037171	Anaerovibrio	330.60	0.55	Probable low-affinity inorganic phosphate transporter
+PGF_00037565	Anaerovibrio	480.20	24.15	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037588	Anaerovibrio	557.00	26.83	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00038674	Anaerovibrio	318.00	0.00	Protein translocase subunit SecF
+PGF_00038987	Anaerovibrio	237.00	0.00	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00038990	Anaerovibrio	334.00	0.00	Purine nucleotide synthesis repressor
+PGF_00039342	Anaerovibrio	274.00	0.00	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040578	Anaerovibrio	262.60	2.61	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Anaerovibrio	131.00	0.00	Alkaline shock protein
+PGF_00041590	Anaerovibrio	425.00	0.00	Putative inner membrane protein
+PGF_00045926	Anaerovibrio	469.80	22.19	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045970	Anaerovibrio	456.00	0.00	Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)
+PGF_00045991	Anaerovibrio	472.00	0.00	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046007	Anaerovibrio	1173.00	0.00	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+PGF_00046060	Anaerovibrio	239.40	8.05	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046197	Anaerovibrio	276.00	0.00	RNA binding methyltransferase FtsJ like
+PGF_00046199	Anaerovibrio	161.20	1.10	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046377	Anaerovibrio	251.00	0.00	RNA polymerase sigma factor for flagellar operon
+PGF_00046555	Anaerovibrio	248.00	0.00	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Anaerovibrio	80.20	2.68	RNA-binding protein Hfq
+PGF_00046657	Anaerovibrio	275.80	7.43	Alpha-acetolactate decarboxylase (EC 4.1.1.5)
+PGF_00047025	Anaerovibrio	396.00	0.00	Radical SAM heme biosynthesis protein AhbC, 12,18-didecarboxysirohaem deacetylase
+PGF_00047026	Anaerovibrio	330.00	0.00	Radical SAM heme biosynthesis protein AhbD, Fe-coproporphyrin III decarboxylase
+PGF_00047027	Anaerovibrio	417.20	0.45	Radical SAM protein DVU1407
+PGF_00047078	Anaerovibrio	300.00	105.10	RecA protein
+PGF_00047095	Anaerovibrio	723.40	1.34	RecD-like DNA helicase YrrC
+PGF_00047642	Anaerovibrio	114.40	3.58	Repressor CsoR of the copZA operon
+PGF_00048556	Anaerovibrio	265.20	0.45	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048566	Anaerovibrio	182.60	8.05	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048586	Anaerovibrio	247.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048598	Anaerovibrio	269.00	0.00	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048643	Anaerovibrio	145.00	21.81	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Anaerovibrio	316.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Anaerovibrio	245.40	1.34	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Anaerovibrio	311.00	0.00	Ribosomal protein L11 methyltransferase
+PGF_00048846	Anaerovibrio	441.20	0.45	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Anaerovibrio	185.00	6.71	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Anaerovibrio	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Anaerovibrio	298.00	0.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Anaerovibrio	118.00	0.00	Ribosome-binding factor A
+PGF_00048985	Anaerovibrio	216.00	0.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049323	Anaerovibrio	266.00	0.00	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+PGF_00049330	Anaerovibrio	395.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Anaerovibrio	343.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049677	Anaerovibrio	470.00	0.00	SCIFF radical SAM maturase
+PGF_00049731	Anaerovibrio	414.00	0.00	Aluminum resistance protein
+PGF_00049827	Anaerovibrio	307.00	0.00	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Anaerovibrio	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Anaerovibrio	130.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049840	Anaerovibrio	122.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Anaerovibrio	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Anaerovibrio	88.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Anaerovibrio	91.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Anaerovibrio	85.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049857	Anaerovibrio	77.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049860	Anaerovibrio	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Anaerovibrio	222.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Anaerovibrio	197.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Anaerovibrio	166.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Anaerovibrio	94.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Anaerovibrio	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Anaerovibrio	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Anaerovibrio	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Anaerovibrio	228.40	7.80	Segregation and condensation protein A
+PGF_00051120	Anaerovibrio	215.00	0.00	Septum site-determining protein MinC
+PGF_00051525	Anaerovibrio	422.20	10.73	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052218	Anaerovibrio	122.00	0.00	Signal recognition particle associated protein
+PGF_00052238	Anaerovibrio	451.00	0.00	Signal recognition particle protein Ffh
+PGF_00052705	Anaerovibrio	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052714	Anaerovibrio	136.00	0.00	Amino acid-binding ACT
+PGF_00053966	Anaerovibrio	411.00	0.00	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00053991	Anaerovibrio	268.60	14.31	Stage 0 sporulation protein YaaT
+PGF_00054415	Anaerovibrio	185.00	13.53	Substrate-specific component ThiW of predicted thiazole ECF transporter
+PGF_00054466	Anaerovibrio	206.00	0.00	Succinate dehydrogenase cytochrome b558 subunit
+PGF_00054480	Anaerovibrio	251.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Anaerovibrio	399.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054920	Anaerovibrio	223.40	1.34	Sugar fermentation stimulation protein SfsA
+PGF_00055284	Anaerovibrio	122.00	0.00	Superoxide reductase (EC 1.15.1.2)
+PGF_00055324	Anaerovibrio	540.00	0.00	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+PGF_00055340	Anaerovibrio	413.00	0.00	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+PGF_00055377	Anaerovibrio	373.60	44.37	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+PGF_00055788	Anaerovibrio	316.40	0.55	TRAP transporter solute receptor, TAXI family precursor
+PGF_00055813	Anaerovibrio	645.00	0.00	TRAP transporter, 4TM/12TM fusion protein, unknown substrate 1
+PGF_00056662	Anaerovibrio	340.80	0.45	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056883	Anaerovibrio	224.20	0.45	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057078	Anaerovibrio	101.40	16.99	Anti-sigma B factor antagonist RsbV
+PGF_00057440	Anaerovibrio	183.40	5.81	Transcription factor FapR
+PGF_00057485	Anaerovibrio	384.80	0.45	Transcription termination protein NusA
+PGF_00057488	Anaerovibrio	139.00	11.18	Transcription termination protein NusB
+PGF_00059076	Anaerovibrio	160.80	4.92	Transcriptional regulator, CarD family
+PGF_00060261	Anaerovibrio	176.80	2.68	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060280	Anaerovibrio	246.00	4.47	Transcriptional repressor of the fructose operon, DeoR family
+PGF_00060398	Anaerovibrio	664.80	0.45	Transketolase (EC 2.2.1.1)
+PGF_00060409	Anaerovibrio	555.40	251.86	Translation elongation factor G
+PGF_00060412	Anaerovibrio	695.00	0.00	Elongation factor G-like protein TM_1651
+PGF_00060414	Anaerovibrio	598.00	0.00	Translation elongation factor LepA
+PGF_00060421	Anaerovibrio	185.00	0.00	Translation elongation factor P
+PGF_00060427	Anaerovibrio	290.00	0.00	Translation elongation factor Ts
+PGF_00060428	Anaerovibrio	395.00	0.00	Translation elongation factor Tu
+PGF_00060431	Anaerovibrio	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Anaerovibrio	164.00	63.73	Translation initiation factor 3
+PGF_00062023	Anaerovibrio	263.00	0.00	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Anaerovibrio	394.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Anaerovibrio	364.40	1.34	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063098	Anaerovibrio	227.00	6.71	Two-component transcriptional response regulator, winged helix family
+PGF_00063416	Anaerovibrio	422.00	85.53	Type II/IV secretion system ATP hydrolase TadA/VirB11/CpaF, TadA subfamily
+PGF_00063916	Anaerovibrio	407.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063938	Anaerovibrio	269.00	0.00	UDP-2,3-diacylglucosamine pyrophosphatase
+PGF_00063944	Anaerovibrio	275.00	0.00	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Anaerovibrio	339.00	0.00	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Anaerovibrio	305.00	0.00	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Anaerovibrio	371.80	0.45	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Anaerovibrio	455.00	0.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064046	Anaerovibrio	373.80	0.84	UDP-galactopyranose mutase (EC 5.4.99.9)
+PGF_00064359	Anaerovibrio	153.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064378	Anaerovibrio	251.00	0.00	Transmembrane protein YfcA
+PGF_00064422	Anaerovibrio	486.00	0.00	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00064863	Anaerovibrio	452.00	0.00	Aromatic amino acid transport protein AroP
+PGF_00064906	Anaerovibrio	1222.20	7.92	Uncharacterized protein Bsub YpbR
+PGF_00065410	Anaerovibrio	145.60	24.38	Uncharacterized protein YbbK
+PGF_00065887	Anaerovibrio	243.00	43.61	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066038	Anaerovibrio	466.00	0.00	Unknown pentose isomerase TM0951
+PGF_00066123	Anaerovibrio	211.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Anaerovibrio	183.00	0.00	Pyrimidine operon regulatory protein PyrR
+PGF_00066245	Anaerovibrio	330.00	0.00	Uridine kinase (EC 2.7.1.48)
+PGF_00066286	Anaerovibrio	505.00	0.00	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Anaerovibrio	888.00	0.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Anaerovibrio	130.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066854	Anaerovibrio	480.40	36.67	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066906	Anaerovibrio	316.40	3.13	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Anaerovibrio	352.20	140.43	Uracil permease @ Uracil:proton symporter UraA
+PGF_00067188	Anaerovibrio	345.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067466	Anaerovibrio	599.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Anaerovibrio	449.60	67.98	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00070089	Anaerovibrio	129.00	0.00	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070432	Anaerovibrio	332.00	0.00	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00072362	Anaerovibrio	500.00	0.00	Hydrogenase-4 component G
+PGF_00075770	Anaerovibrio	453.00	0.00	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00082342	Anaerovibrio	181.40	10.29	hypothetical protein
+PGF_00084324	Anaerovibrio	281.20	0.45	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00086878	Anaerovibrio	638.00	0.00	hypothetical protein
+PGF_00088965	Anaerovibrio	273.20	0.45	hypothetical protein
+PGF_00103198	Anaerovibrio	86.00	0.00	hypothetical protein
+PGF_00104957	Anaerovibrio	234.00	0.00	hypothetical protein
+PGF_00113984	Anaerovibrio	188.20	3.27	Flavin prenyltransferase UbiX
+PGF_00134118	Anaerovibrio	878.80	217.35	Predicted insulinase-like Zn-dependent peptidase DVU0941
+PGF_00134635	Anaerovibrio	572.00	0.00	hypothetical protein
+PGF_00136594	Anaerovibrio	65.80	0.45	hypothetical protein
+PGF_00181903	Anaerovibrio	309.00	0.00	hypothetical protein
+PGF_00187945	Anaerovibrio	290.80	0.45	hypothetical protein
+PGF_00203877	Anaerovibrio	682.60	20.84	hypothetical protein
+PGF_00226263	Anaerovibrio	115.00	0.00	hypothetical protein
+PGF_00231630	Anaerovibrio	234.80	0.45	hypothetical protein
+PGF_00231949	Anaerovibrio	70.00	0.00	hypothetical protein
+PGF_00232919	Anaerovibrio	307.40	135.51	hypothetical protein
+PGF_00261173	Anaerovibrio	358.00	0.00	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00280549	Anaerovibrio	308.00	0.00	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00286985	Anaerovibrio	411.00	4.69	[FeFe]-hydrogenase maturation protein HydF
+PGF_00292049	Anaerovibrio	672.20	20.80	hypothetical protein
+PGF_00293602	Anaerovibrio	77.00	5.48	hypothetical protein
+PGF_00295348	Anaerovibrio	401.80	4.38	ABC-type antimicrobial peptide transport system, permease component
+PGF_00298302	Anaerovibrio	361.00	1.87	hypothetical protein
+PGF_00311240	Anaerovibrio	404.80	3.83	hypothetical protein
+PGF_00317990	Anaerovibrio	397.00	60.37	hypothetical protein
+PGF_00320928	Anaerovibrio	490.40	0.89	hypothetical protein
+PGF_00327441	Anaerovibrio	74.00	0.00	hypothetical protein
+PGF_00332867	Anaerovibrio	254.00	0.00	hypothetical protein
+PGF_00336478	Anaerovibrio	191.00	0.00	Two-component transcriptional response regulator PdtaR, LuxR family
+PGF_00342563	Anaerovibrio	586.00	102.90	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00376758	Anaerovibrio	412.00	0.00	ATP/GTP-binding protein
+PGF_00385742	Anaerovibrio	409.00	0.00	hypothetical protein
+PGF_00388412	Anaerovibrio	48.80	0.45	hypothetical protein
+PGF_00390577	Anaerovibrio	168.00	0.00	hypothetical protein
+PGF_00401757	Anaerovibrio	279.00	120.75	no significant homology.
+PGF_00401768	Anaerovibrio	231.00	0.00	no significant homology.
+PGF_00401868	Anaerovibrio	278.80	1.10	Iron-sulfur cluster carrier protein, CA_C2982 type
+PGF_00403927	Anaerovibrio	397.00	0.00	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00404333	Anaerovibrio	325.60	5.81	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00405249	Anaerovibrio	412.00	0.00	protein of unknown function DUF445
+PGF_00409915	Anaerovibrio	262.60	2.19	Quad-[4Fe-4S] ferredoxin, HycB/HydN/HyfA family
+PGF_00411484	Anaerovibrio	309.40	1.34	radical activating enzyme
+PGF_00411973	Anaerovibrio	389.80	1.10	rubredoxin-oxygen oxidoreductase
+PGF_00413189	Anaerovibrio	225.00	0.00	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Anaerovibrio	160.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Anaerovibrio	248.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Anaerovibrio	261.00	1.41	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Anaerovibrio	279.40	41.59	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Anaerovibrio	433.00	0.00	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Anaerovibrio	634.20	1.64	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Anaerovibrio	271.80	6.30	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Anaerovibrio	173.80	5.85	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Anaerovibrio	154.40	0.89	tmRNA-binding protein SmpB
+PGF_00414653	Anaerovibrio	269.20	0.45	voltage-gated sodium channel
+PGF_00414926	Anaerovibrio	410.00	0.00	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415417	Anaerovibrio	278.60	2.61	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+PGF_00415486	Anaerovibrio	159.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415631	Anaerovibrio	88.00	0.00	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00415739	Anaerovibrio	257.00	0.00	COG4123: Predicted O-methyltransferase
+PGF_00416115	Anaerovibrio	313.00	0.00	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Anaerovibrio	535.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416151	Anaerovibrio	123.20	6.10	Cadmium efflux system accessory protein
+PGF_00416410	Anaerovibrio	887.60	425.75	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416622	Anaerovibrio	396.00	0.00	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Anaerovibrio	402.00	0.00	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00416674	Anaerovibrio	401.00	0.00	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416705	Anaerovibrio	463.00	0.00	Catalytic LigB subunit of aromatic ring-opening dioxygenase / COG2078: Uncharacterized ACR
+PGF_00417115	Anaerovibrio	86.00	0.00	Cell division topological specificity factor MinE
+PGF_00417429	Anaerovibrio	387.20	0.45	Chaperone protein DnaJ
+PGF_00417433	Anaerovibrio	616.00	0.00	Chaperone protein DnaK
+PGF_00417577	Anaerovibrio	149.00	0.00	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417839	Anaerovibrio	121.40	0.89	Chorismate mutase II (EC 5.4.99.5)
+PGF_00417840	Anaerovibrio	385.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Anaerovibrio	186.00	0.00	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Anaerovibrio	238.00	16.43	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418278	Anaerovibrio	356.00	0.00	Cobalt-precorrin 5A hydrolase (EC 3.7.1.12)
+PGF_00418285	Anaerovibrio	246.00	0.00	Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)
+PGF_00418291	Anaerovibrio	253.00	0.00	Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+PGF_00418292	Anaerovibrio	366.00	0.00	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418294	Anaerovibrio	255.00	0.00	Cobalt-precorrin-6A reductase (EC 1.3.1.106)
+PGF_00418309	Anaerovibrio	211.00	0.00	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Anaerovibrio	509.00	0.00	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Anaerovibrio	459.60	1.34	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419420	Anaerovibrio	419.00	0.00	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419702	Anaerovibrio	164.00	0.00	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419740	Anaerovibrio	149.00	0.00	Transcriptional regulator CtsR
+PGF_00419900	Anaerovibrio	340.00	0.00	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00420075	Anaerovibrio	309.40	0.89	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Anaerovibrio	218.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420732	Anaerovibrio	485.00	1.22	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420792	Anaerovibrio	286.00	0.00	D-alanine aminotransferase (EC 2.6.1.21)
+PGF_00420798	Anaerovibrio	312.00	0.00	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Anaerovibrio	322.00	0.00	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420918	Anaerovibrio	471.00	0.00	D-beta-hydroxybutyrate permease
+PGF_00420994	Anaerovibrio	809.60	20.22	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421032	Anaerovibrio	446.00	0.00	D-serine ammonia-lyase (EC 4.3.1.18)
+PGF_00421071	Anaerovibrio	149.20	0.45	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Anaerovibrio	430.00	0.00	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Anaerovibrio	1139.20	0.45	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421679	Anaerovibrio	598.00	0.00	DNA primase (EC 2.7.7.-)
+PGF_00421733	Anaerovibrio	373.00	0.00	DNA recombination and repair protein RecF
+PGF_00421792	Anaerovibrio	459.00	0.00	DNA repair protein RadA
+PGF_00421796	Anaerovibrio	569.40	0.89	DNA repair protein RecN
+PGF_00422061	Anaerovibrio	110.00	0.00	DNA-binding protein HBsu
+PGF_00422078	Anaerovibrio	91.00	0.00	DNA-binding protein HU-alpha
+PGF_00422951	Anaerovibrio	311.80	0.45	Deoxyribonucleoside regulator DeoR (transcriptional repressor)
+PGF_00422959	Anaerovibrio	150.20	4.02	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Anaerovibrio	366.80	9.65	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Anaerovibrio	279.00	0.00	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Anaerovibrio	478.80	4.38	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Anaerovibrio	124.20	0.45	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Anaerovibrio	430.00	0.00	Dihydroorotase (EC 3.5.2.3)
+PGF_00423428	Anaerovibrio	440.00	3.08	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423533	Anaerovibrio	292.00	0.00	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423662	Anaerovibrio	231.00	0.00	Division initiation protein
+PGF_00424236	Anaerovibrio	135.00	0.00	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424337	Anaerovibrio	249.60	61.86	Endonuclease IV (EC 3.1.21.2)
+PGF_00424971	Anaerovibrio	598.60	1.34	Excinuclease ABC subunit C
+PGF_00425011	Anaerovibrio	250.00	0.00	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Anaerovibrio	400.00	0.00	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Anaerovibrio	270.40	4.16	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Anaerovibrio	300.00	0.00	RNase adapter protein RapZ
+PGF_00425679	Anaerovibrio	210.20	1.10	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Anaerovibrio	243.20	0.45	Probable transcriptional regulatory protein YebC
+PGF_00425720	Anaerovibrio	264.00	0.00	Putative RNA-binding protein YlmH
+PGF_00425747	Anaerovibrio	175.40	0.89	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Anaerovibrio	500.20	14.43	Ribonuclease Y
+PGF_00425806	Anaerovibrio	437.00	0.00	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Anaerovibrio	382.60	0.55	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Anaerovibrio	367.20	1.64	FIG004453: protein YceG like
+PGF_00426082	Anaerovibrio	248.20	1.64	5,10-methylenetetrahydrofolate reductase-related protein
+PGF_00426115	Anaerovibrio	628.00	0.00	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Anaerovibrio	354.00	0.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426722	Anaerovibrio	791.00	0.00	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426877	Anaerovibrio	314.60	4.98	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Anaerovibrio	156.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Anaerovibrio	286.40	1.95	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00482828	Anaerovibrio	451.20	0.45	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00508272	Anaerovibrio	576.00	0.00	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00529632	Anaerovibrio	856.40	1.34	ClpB protein
+PGF_00538878	Anaerovibrio	259.00	0.00	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00543052	Anaerovibrio	312.40	1.52	Glycosyl transferase, family 2?
+PGF_00549302	Anaerovibrio	383.00	0.00	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00598888	Anaerovibrio	162.60	1.34	Mini-ribonuclease III
+PGF_00616490	Anaerovibrio	173.00	0.00	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Anaerovibrio	346.00	0.00	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Anaerovibrio	227.00	0.00	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00641071	Anaerovibrio	368.00	0.00	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00641311	Anaerovibrio	292.40	0.89	ABC transporter, permease protein (cluster 15, trp?)
+PGF_00650532	Anaerovibrio	336.00	0.00	UPF0365 protein YqfA
+PGF_00655358	Anaerovibrio	498.00	0.00	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Anaerovibrio	198.80	1.64	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662997	Anaerovibrio	252.00	0.00	Cobalamin synthase (EC 2.7.8.26)
+PGF_00665875	Anaerovibrio	116.00	0.00	Ribosomal silencing factor RsfA
+PGF_00691283	Anaerovibrio	413.00	0.00	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00717613	Anaerovibrio	205.00	0.00	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00719345	Anaerovibrio	201.00	0.00	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), ADP-binding subunit DhaL
+PGF_00730161	Anaerovibrio	406.00	0.00	hypothetical protein
+PGF_00734482	Anaerovibrio	768.00	2.74	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00740287	Anaerovibrio	437.00	0.00	Predicted glycolate dehydrogenase, 2-subunit type (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00743561	Anaerovibrio	190.00	1.41	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00751363	Anaerovibrio	200.00	6.93	Protein of unknown function DUF208
+PGF_00777371	Anaerovibrio	238.00	0.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00805507	Anaerovibrio	128.00	0.00	Response regulator receiver protein
+PGF_00823329	Anaerovibrio	307.40	2.19	Transcriptional regulator, LysR family
+PGF_00827555	Anaerovibrio	572.60	0.89	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00839553	Anaerovibrio	199.00	0.00	Uridine kinase (EC 2.7.1.48)
+PGF_00846939	Anaerovibrio	129.80	0.45	Flagellar operon protein CA_C2155
+PGF_00853393	Anaerovibrio	300.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00885329	Anaerovibrio	335.00	0.00	Flagellar motor switch protein FliM
+PGF_00912265	Anaerovibrio	318.00	0.00	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Anaerovibrio	471.40	0.55	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Anaerovibrio	553.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00947647	Anaerovibrio	162.20	50.98	Fumarate hydratase class I, beta region (EC 4.2.1.2); L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)
+PGF_00948901	Anaerovibrio	223.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_00950554	Anaerovibrio	674.40	0.89	Excinuclease ABC subunit B
+PGF_00955461	Anaerovibrio	305.00	0.00	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00957419	Anaerovibrio	138.60	1.34	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Anaerovibrio	313.00	0.00	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00960894	Anaerovibrio	106.00	6.86	Uncharacterized homolog of the cytoplasmic domain of flagellar protein FhlB
+PGF_00983050	Anaerovibrio	390.80	6.06	Pyridoxal 5-phosphate (PLP)-dependent ornithine decarboxylase (EC 4.1.1.17)
+PGF_01008556	Anaerovibrio	269.00	0.00	Flagellar basal-body rod protein FlgF
+PGF_01028579	Anaerovibrio	464.00	0.00	Sodium-dependent transporter, SNF family
+PGF_01035657	Anaerovibrio	1123.80	0.45	FIG007317: Chromosome segregation protein SMC-like
+PGF_01040342	Anaerovibrio	284.00	0.00	Spermidine synthase (EC 2.5.1.16)
+PGF_01060118	Anaerovibrio	422.00	0.00	Arginine decarboxylase (EC 4.1.1.19) / Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01065911	Anaerovibrio	212.00	0.00	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01068086	Anaerovibrio	260.00	0.00	Flagellar biosynthesis protein FliR
+PGF_01072275	Anaerovibrio	427.20	30.86	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+PGF_01076590	Anaerovibrio	207.80	3.83	MotA/TolQ/ExbB proton channel family protein
+PGF_01079016	Anaerovibrio	343.00	0.00	Chromosome (plasmid) partitioning protein ParB
+PGF_01101526	Anaerovibrio	343.00	0.00	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01126005	Anaerovibrio	369.00	0.00	Rod shape-determining protein RodA
+PGF_01127158	Anaerovibrio	253.00	0.00	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01169833	Anaerovibrio	479.00	122.21	Flagellar biosynthesis protein FlhF
+PGF_01170345	Anaerovibrio	65.00	0.00	Flagellar protein FlbD
+PGF_01172485	Anaerovibrio	887.40	18.12	Cell division protein FtsA
+PGF_01174739	Anaerovibrio	272.00	22.19	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Anaerovibrio	639.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Anaerovibrio	287.20	3.83	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Anaerovibrio	462.00	183.36	Heat shock protein 60 family chaperone GroEL
+PGF_01212940	Anaerovibrio	292.00	0.00	UPF0701 protein YloC
+PGF_01217629	Anaerovibrio	136.00	0.00	Biopolymer transport protein ExbD/TolR
+PGF_01218094	Anaerovibrio	257.20	0.45	Glutamine ABC transporter, substrate-binding protein GlnH
+PGF_01232770	Anaerovibrio	170.60	1.34	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01284176	Anaerovibrio	180.00	0.00	Rubrerythrin
+PGF_01291823	Anaerovibrio	216.00	0.00	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01295821	Anaerovibrio	204.00	0.00	DedA
+PGF_01296193	Anaerovibrio	256.60	10.29	Chromosome (plasmid) partitioning protein ParA
+PGF_01313780	Anaerovibrio	373.40	2.61	Uncharacterized peptidase YqjE
+PGF_01323228	Anaerovibrio	200.20	1.79	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01332636	Anaerovibrio	232.20	0.45	Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)
+PGF_01351690	Anaerovibrio	511.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3); Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+PGF_01364427	Anaerovibrio	204.00	0.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01389077	Anaerovibrio	76.00	0.00	Uncharacterized protein YbcJ
+PGF_01407825	Anaerovibrio	308.00	0.00	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_01416650	Anaerovibrio	266.00	0.00	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Anaerovibrio	143.00	0.00	Cell division protein MraZ
+PGF_01421686	Anaerovibrio	466.20	0.45	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit B
+PGF_01423501	Anaerovibrio	157.00	0.00	Transcription elongation factor GreA
+PGF_01444546	Anaerovibrio	96.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01469197	Anaerovibrio	454.80	1.10	RNA methyltransferase, TrmA family
+PGF_01474007	Anaerovibrio	140.00	1.22	hypothetical protein
+PGF_01474056	Anaerovibrio	188.00	0.00	Lytic transglycosylase, catalytic
+PGF_01480798	Anaerovibrio	279.00	0.00	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit A
+PGF_01481272	Anaerovibrio	132.80	25.74	Chemotaxis protein CheD
+PGF_01482335	Anaerovibrio	1389.60	48.98	Activator of (R)-2-hydroxyglutaryl-CoA dehydratase
+PGF_01483918	Anaerovibrio	276.00	0.00	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01496598	Anaerovibrio	309.00	0.00	Chemotaxis protein CheV (EC 2.7.3.-)
+PGF_01513923	Anaerovibrio	217.80	101.07	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01514111	Anaerovibrio	345.00	0.00	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01529260	Anaerovibrio	155.40	21.47	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01555804	Anaerovibrio	137.00	0.00	Flagellar basal-body rod protein FlgB
+PGF_01557745	Anaerovibrio	415.00	0.00	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01602421	Anaerovibrio	165.00	0.00	Flagellar basal-body rod modification protein FlgD
+PGF_01604929	Anaerovibrio	221.00	0.00	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01668974	Anaerovibrio	746.00	84.99	DNA internalization-related competence protein ComEC/Rec2
+PGF_01677191	Anaerovibrio	318.00	0.00	Sporulation transcription regulator WhiA
+PGF_01682537	Anaerovibrio	123.00	0.00	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Anaerovibrio	147.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Anaerovibrio	214.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Anaerovibrio	273.80	2.68	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01744781	Anaerovibrio	191.80	13.29	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01752285	Anaerovibrio	176.00	0.00	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01767358	Anaerovibrio	246.00	0.00	HesA/MoeB/ThiF family protein
+PGF_01769256	Anaerovibrio	120.00	0.00	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+PGF_01777142	Anaerovibrio	204.20	0.45	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Anaerovibrio	553.00	0.00	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Anaerovibrio	283.00	0.00	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01888177	Anaerovibrio	146.20	0.45	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Anaerovibrio	210.80	0.45	Endonuclease III (EC 4.2.99.18)
+PGF_01899924	Anaerovibrio	251.00	11.18	Flagellar motor rotation protein MotB
+PGF_01899937	Anaerovibrio	298.80	10.76	Rod shape-determining protein MreC
+PGF_01942824	Anaerovibrio	386.00	0.00	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01960322	Anaerovibrio	609.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01979610	Anaerovibrio	329.00	0.00	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK
+PGF_01984533	Anaerovibrio	83.00	0.00	UPF0296 protein YlzA
+PGF_01990221	Anaerovibrio	419.20	28.15	Aspartyl aminopeptidase (EC 3.4.11.21)
+PGF_01994657	Anaerovibrio	429.00	0.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_01996161	Anaerovibrio	322.00	0.00	Flp pilus assembly protein TadB
+PGF_02011760	Anaerovibrio	252.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Anaerovibrio	342.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02026136	Anaerovibrio	290.00	0.00	Uncharacterized S1 RNA binding domain protein YitL
+PGF_02029783	Anaerovibrio	429.00	0.00	GTP-binding protein Obg
+PGF_02031924	Anaerovibrio	206.60	7.70	Uncharacterized DUF554 membrane protein
+PGF_02049259	Anaerovibrio	288.00	0.00	Efflux ABC transporter, ATP-binding protein
+PGF_02061452	Anaerovibrio	377.60	0.89	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Anaerovibrio	318.20	48.75	Flagellar motor switch protein FliG
+PGF_02111888	Anaerovibrio	275.00	0.00	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02155126	Anaerovibrio	144.20	0.45	Organic hydroperoxide resistance transcriptional regulator
+PGF_02185217	Anaerovibrio	416.00	0.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Anaerovibrio	379.20	1.64	Flagellar biosynthesis protein FlhB
+PGF_02223083	Anaerovibrio	131.20	0.45	hypothetical protein
+PGF_02223845	Anaerovibrio	211.00	0.00	hypothetical protein
+PGF_02224568	Anaerovibrio	394.00	0.00	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Anaerovibrio	688.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227929	Anaerovibrio	269.60	5.27	ABC transporter, permease protein (cluster 14, Mn/Zn)
+PGF_02246376	Anaerovibrio	331.00	0.00	Ribose ABC transport system, periplasmic ribose-binding protein RbsB (TC 3.A.1.2.1)
+PGF_02282896	Anaerovibrio	224.00	0.00	Integral membrane protein
+PGF_02315316	Anaerovibrio	311.20	0.45	Peptidase, M23/M37 family
+PGF_02346669	Anaerovibrio	310.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Anaerovibrio	874.00	0.00	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Anaerovibrio	369.00	0.00	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Anaerovibrio	188.00	0.00	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02357764	Anaerovibrio	158.40	8.76	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02358818	Anaerovibrio	350.60	72.57	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_02369559	Anaerovibrio	902.40	13.16	DNA polymerase I (EC 2.7.7.7)
+PGF_02409231	Anaerovibrio	467.00	0.00	FAD/FMN-containing dehydrogenase
+PGF_02450432	Anaerovibrio	275.00	0.00	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Anaerovibrio	80.00	15.65	SSU ribosomal protein S20p
+PGF_02463284	Anaerovibrio	192.60	12.07	Recombination protein RecR
+PGF_02504770	Anaerovibrio	216.40	5.37	ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)
+PGF_02515882	Anaerovibrio	409.00	0.00	Aspartokinase (EC 2.7.2.4)
+PGF_02516495	Anaerovibrio	439.80	12.77	PTS system, IIC component / PTS system, IIB component / PTS system, IIA component
+PGF_02518459	Anaerovibrio	126.20	0.45	Nitrogen regulatory protein P-II
+PGF_02593689	Anaerovibrio	455.00	0.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02617023	Anaerovibrio	517.00	0.00	Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)
+PGF_02623406	Anaerovibrio	307.00	0.00	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627816	Anaerovibrio	204.40	0.89	FIG011945: O-methyltransferase family protein
+PGF_02635429	Anaerovibrio	229.40	2.41	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02648683	Anaerovibrio	462.40	0.89	PTS system, N-acetylmuramic acid-specific IIB component (EC 2.7.1.192) / PTS system, N-acetylmuramic acid-specific IIC component
+PGF_02704551	Anaerovibrio	1158.00	478.53	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Anaerovibrio	152.00	0.00	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02719231	Anaerovibrio	117.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Anaerovibrio	865.00	0.00	DNA mismatch repair protein MutS
+PGF_02737642	Anaerovibrio	264.20	0.45	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02738107	Anaerovibrio	363.60	9.02	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02744871	Anaerovibrio	99.20	3.49	Flagellar hook-basal body complex protein FliE
+PGF_02745613	Anaerovibrio	289.60	20.26	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02745651	Anaerovibrio	327.20	15.64	[FeFe]-hydrogenase maturation protein HydE
+PGF_02746016	Anaerovibrio	253.80	2.49	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02746079	Anaerovibrio	289.00	0.00	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+PGF_02779037	Anaerovibrio	393.00	0.00	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+PGF_02787188	Anaerovibrio	105.80	16.10	ACT domain protein
+PGF_02787494	Anaerovibrio	209.00	0.00	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02788582	Anaerovibrio	772.20	42.04	Recombination inhibitory protein MutS2
+PGF_02789532	Anaerovibrio	289.00	0.00	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Anaerovibrio	185.00	0.00	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Anaerovibrio	245.40	8.76	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Anaerovibrio	479.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Anaerovibrio	1206.40	153.39	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02820109	Anaerovibrio	188.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Anaerovibrio	170.00	0.00	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Anaerovibrio	263.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Anaerovibrio	406.60	8.05	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02873723	Anaerovibrio	477.00	0.00	Ribonuclease G
+PGF_02883702	Anaerovibrio	355.00	0.00	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02895613	Anaerovibrio	436.00	0.00	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02897665	Anaerovibrio	379.60	0.89	Glycerate kinase (EC 2.7.1.31)
+PGF_02898176	Anaerovibrio	217.00	0.00	Methionine ABC transporter permease protein
+PGF_02899131	Anaerovibrio	63.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Anaerovibrio	730.80	0.45	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02907975	Anaerovibrio	830.60	0.55	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13) / Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_02913813	Anaerovibrio	649.00	0.00	hypothetical protein
+PGF_02918148	Anaerovibrio	406.00	0.00	peptidase, U32 family large subunit [C1]
+PGF_02919689	Anaerovibrio	234.00	0.00	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02920792	Anaerovibrio	220.00	0.00	Radical SAM domain protein
+PGF_02923127	Anaerovibrio	238.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930287	Anaerovibrio	182.00	0.00	Reverse rubrerythrin
+PGF_02935470	Anaerovibrio	270.40	3.71	UPF0317 protein YcsI
+PGF_02936332	Anaerovibrio	294.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02937881	Anaerovibrio	526.00	0.00	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+PGF_02942351	Anaerovibrio	221.40	0.89	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02943959	Anaerovibrio	377.60	0.55	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3) @ Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41) @ Glutaconyl-CoA decarboxylase beta subunit (EC 4.1.1.70)
+PGF_02946231	Anaerovibrio	356.60	7.60	SSU ribosomal protein S1p
+PGF_02947204	Anaerovibrio	533.00	0.00	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Anaerovibrio	263.80	1.64	Septum site-determining protein MinD
+PGF_02960761	Anaerovibrio	306.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_02964541	Anaerovibrio	482.20	0.45	Glycosyl transferase, family 39
+PGF_02992495	Anaerovibrio	74.00	0.00	Protein translocase membrane subunit SecG
+PGF_02995302	Anaerovibrio	229.00	0.00	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_02999476	Anaerovibrio	390.00	24.60	Putative hydrogenase cytochrome b subunit
+PGF_03000070	Anaerovibrio	326.00	0.00	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03003352	Anaerovibrio	556.00	1.22	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03017775	Anaerovibrio	501.00	0.00	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Anaerovibrio	195.00	0.00	Septum formation protein Maf
+PGF_03026450	Anaerovibrio	1186.00	0.00	Chromosome partition protein smc
+PGF_03029062	Anaerovibrio	306.80	0.45	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03029859	Anaerovibrio	636.20	0.45	Bis-ABC ATPase Uup
+PGF_03039428	Anaerovibrio	834.00	0.00	Protease
+PGF_03042775	Anaerovibrio	215.00	0.00	Phosphoheptose isomerase (EC 5.3.1.-)
+PGF_03046709	Anaerovibrio	436.00	0.00	Ammonium transporter
+PGF_03054699	Anaerovibrio	1116.00	23.47	DNA translocase FtsK
+PGF_03059183	Anaerovibrio	371.80	6.10	Outer membrane protein romA
+PGF_03066520	Anaerovibrio	414.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03070510	Anaerovibrio	303.80	1.64	Flagellar synthesis regulator FleN
+PGF_03073470	Anaerovibrio	552.00	0.00	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03075401	Anaerovibrio	144.00	8.69	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03084693	Anaerovibrio	560.20	4.76	FIG006789: Stage V sporulation protein
+PGF_03095069	Anaerovibrio	320.80	6.57	COG1242: Predicted Fe-S oxidoreductase
+PGF_03097046	Anaerovibrio	220.00	0.00	NLP/P60
+PGF_03104567	Anaerovibrio	445.00	0.00	Trk potassium uptake system protein TrkA
+PGF_03111948	Anaerovibrio	263.00	0.00	Electron transfer flavoprotein, beta subunit
+PGF_03117711	Anaerovibrio	190.40	0.89	Hydrolase (HAD superfamily), YqeK
+PGF_03124650	Anaerovibrio	438.60	112.70	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Anaerovibrio	418.60	0.89	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03144011	Anaerovibrio	155.80	1.79	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146406	Anaerovibrio	600.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Anaerovibrio	144.80	3.11	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Anaerovibrio	268.40	3.58	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Anaerovibrio	182.00	0.00	Transcription antitermination protein NusG
+PGF_03181524	Anaerovibrio	296.00	0.00	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_03222913	Anaerovibrio	132.40	21.47	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03234514	Anaerovibrio	108.00	2.12	hypothetical protein
+PGF_03235459	Anaerovibrio	369.20	0.45	polysaccharide pyruvyl transferase
+PGF_03244749	Anaerovibrio	471.80	103.31	Bis-ABC ATPase SPy1206
+PGF_03253896	Anaerovibrio	232.00	0.00	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Anaerovibrio	204.00	0.00	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03268078	Anaerovibrio	627.40	0.55	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03272313	Anaerovibrio	809.00	0.00	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277417	Anaerovibrio	352.40	0.55	Methionine ABC transporter ATP-binding protein
+PGF_03287477	Anaerovibrio	219.60	1.34	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03291914	Anaerovibrio	140.00	0.00	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03313759	Anaerovibrio	252.00	0.00	hypothetical protein
+PGF_03317439	Anaerovibrio	292.00	0.00	hypothetical protein
+PGF_03317518	Anaerovibrio	463.80	12.48	hypothetical protein
+PGF_03317699	Anaerovibrio	198.40	23.70	hypothetical protein
+PGF_03317829	Anaerovibrio	135.00	0.00	hypothetical protein
+PGF_03317835	Anaerovibrio	181.00	0.00	hypothetical protein
+PGF_03318028	Anaerovibrio	257.60	18.78	hypothetical protein
+PGF_03318251	Anaerovibrio	114.00	2.74	Transcriptional regulator
+PGF_03318456	Anaerovibrio	481.00	0.00	Trk potassium uptake system protein TrkH
+PGF_03318606	Anaerovibrio	139.40	0.89	hypothetical protein
+PGF_03319057	Anaerovibrio	378.00	0.00	Acyltransferase 3
+PGF_03319259	Anaerovibrio	187.40	0.55	hypothetical protein
+PGF_03429638	Anaerovibrio	291.00	0.00	33 kDa chaperonin HslO
+PGF_03439582	Anaerovibrio	200.00	0.00	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03470321	Anaerovibrio	177.20	10.73	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03473453	Anaerovibrio	372.20	17.22	Metal chaperone, involved in Zn homeostasis
+PGF_03474542	Anaerovibrio	435.00	0.00	Flagellum-specific ATP synthase FliI
+PGF_03504453	Anaerovibrio	179.00	0.00	Substrate-specific component ThiT of thiamin ECF transporter
+PGF_03507290	Anaerovibrio	409.00	0.00	Serine/threonine:Na+ symporter SstT
+PGF_03518570	Anaerovibrio	138.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03558774	Anaerovibrio	287.20	0.45	Peptidase M48, Ste24p precursor
+PGF_03609651	Anaerovibrio	549.40	222.72	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03676764	Anaerovibrio	246.60	1.34	Formate hydrogenlyase subunit 7-like protein
+PGF_03684283	Anaerovibrio	265.00	0.00	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Anaerovibrio	295.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Anaerovibrio	200.00	0.00	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Anaerovibrio	158.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03742549	Anaerovibrio	338.00	0.00	L-arabinose ABC transporter, substrate-binding protein AraF
+PGF_03750541	Anaerovibrio	358.60	1.34	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750600	Anaerovibrio	157.00	0.00	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Anaerovibrio	197.60	1.34	Heat shock protein GrpE
+PGF_03752215	Anaerovibrio	133.00	4.47	D-ribose pyranase (EC 5.4.99.62)
+PGF_03752280	Anaerovibrio	473.00	1.41	[FeFe]-hydrogenase maturation protein HydG
+PGF_03753933	Anaerovibrio	135.40	2.19	Iron-sulfur cluster regulator IscR
+PGF_03757137	Anaerovibrio	475.80	0.45	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Anaerovibrio	304.60	0.55	Signal recognition particle receptor FtsY
+PGF_03787622	Anaerovibrio	380.80	0.45	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Anaerovibrio	230.80	6.57	Ribonuclease III (EC 3.1.26.3)
+PGF_03790089	Anaerovibrio	374.00	0.00	Uncharacterized di-Fe4-S4 cluster-containing protein AF_1153
+PGF_03797303	Anaerovibrio	569.40	17.56	Adenine deaminase (EC 3.5.4.2)
+PGF_03801201	Anaerovibrio	268.20	1.64	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Anaerovibrio	65.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811469	Anaerovibrio	445.60	39.25	Sodium:alanine symporter family protein
+PGF_03811905	Anaerovibrio	356.00	0.00	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03822872	Anaerovibrio	154.00	0.00	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_03846068	Anaerovibrio	275.00	0.00	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03856084	Anaerovibrio	665.00	0.00	Cell division protein FtsH
+PGF_03953373	Anaerovibrio	240.00	0.71	hypothetical protein
+PGF_03996546	Anaerovibrio	217.60	14.86	hypothetical protein
+PGF_04001842	Anaerovibrio	439.40	168.49	Sodium-dependent anion transporter family
+PGF_04016408	Anaerovibrio	443.00	0.00	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04034430	Anaerovibrio	60.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Anaerovibrio	76.00	0.00	KH domain RNA binding protein YlqC
+PGF_04041316	Anaerovibrio	942.20	1.10	Excinuclease ABC subunit A
+PGF_04091295	Anaerovibrio	257.00	5.48	Flagellar motor rotation protein MotA
+PGF_04119806	Anaerovibrio	298.60	7.50	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Anaerovibrio	260.60	10.85	Twin-arginine translocation protein TatC
+PGF_04151476	Anaerovibrio	172.00	0.00	16S rRNA processing protein RimM
+PGF_04163139	Anaerovibrio	215.00	8.94	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Anaerovibrio	228.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Anaerovibrio	254.00	0.00	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04345693	Anaerovibrio	455.00	0.00	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04380075	Anaerovibrio	190.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04452097	Anaerovibrio	284.20	8.41	hypothetical protein
+PGF_04457297	Anaerovibrio	196.00	0.00	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04485101	Anaerovibrio	222.00	0.00	gamma-glutamyl ligase (similar to F420:0 gamma-glutamyl ligase)
+PGF_04505269	Anaerovibrio	238.40	0.89	SSU ribosomal protein S2p (SAe)
+PGF_04511123	Anaerovibrio	345.00	0.00	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)
+PGF_04521913	Anaerovibrio	459.00	0.00	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04563023	Anaerovibrio	194.60	0.89	hypothetical protein
+PGF_04569524	Anaerovibrio	505.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Anaerovibrio	166.00	0.00	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Anaerovibrio	250.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04620152	Anaerovibrio	494.20	0.45	Pantothenate:Na+ symporter (TC 2.A.21.1.1)
+PGF_04655384	Anaerovibrio	258.40	97.49	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Anaerovibrio	155.60	4.93	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Anaerovibrio	632.80	54.11	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Anaerovibrio	303.20	0.45	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04730942	Anaerovibrio	179.40	7.60	Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter
+PGF_04749763	Anaerovibrio	838.60	84.57	Translation initiation factor 2
+PGF_04757308	Anaerovibrio	632.00	0.00	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Anaerovibrio	228.00	9.25	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Anaerovibrio	309.60	1.34	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Anaerovibrio	113.00	0.00	LSU ribosomal protein L19p
+PGF_04846590	Anaerovibrio	317.00	0.00	Magnesium and cobalt transport protein CorA
+PGF_04958295	Anaerovibrio	128.00	0.00	Flagellar biosynthesis protein FliS
+PGF_04962192	Anaerovibrio	783.60	9.37	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Anaerovibrio	103.00	0.00	LSU ribosomal protein L21p
+PGF_05003102	Anaerovibrio	233.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_05022117	Anaerovibrio	540.00	0.00	Bis-ABC ATPase YbiT
+PGF_05062134	Anaerovibrio	264.00	0.00	ABC transporter, ATP-binding protein (cluster 15, trp?)
+PGF_05111929	Anaerovibrio	659.00	0.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Anaerovibrio	735.80	204.54	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05140475	Anaerovibrio	455.40	3.58	Branched-chain amino acid transport system carrier protein
+PGF_05165078	Anaerovibrio	310.00	0.00	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Anaerovibrio	460.60	21.02	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05233375	Anaerovibrio	217.80	6.10	hypothetical protein
+PGF_05280843	Anaerovibrio	432.00	0.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05364204	Anaerovibrio	208.20	0.45	FIG004556: membrane metalloprotease
+PGF_05366548	Anaerovibrio	271.00	0.00	Methionine ABC transporter substrate-binding protein
+PGF_05406020	Anaerovibrio	228.60	75.52	4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
+PGF_05421852	Anaerovibrio	652.00	0.00	Chaperone protein HtpG
+PGF_05439724	Anaerovibrio	668.00	0.00	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Anaerovibrio	286.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Anaerovibrio	301.20	0.45	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05472099	Anaerovibrio	284.00	0.00	hypothetical protein
+PGF_05519582	Anaerovibrio	416.20	0.45	NAD(FAD)-utilizing dehydrogenases
+PGF_05533149	Anaerovibrio	133.60	0.55	hypothetical protein
+PGF_05560886	Anaerovibrio	285.20	0.45	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05579323	Anaerovibrio	360.40	2.51	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Anaerovibrio	347.40	142.21	Protein translocase subunit SecY
+PGF_05598173	Anaerovibrio	357.00	0.00	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Anaerovibrio	415.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05641506	Anaerovibrio	492.40	16.99	Hydrogenase-4 component F
+PGF_05714136	Anaerovibrio	122.00	7.62	FIG138056: a glutathione-dependent thiol reductase
+PGF_05757268	Anaerovibrio	102.20	0.45	hypothetical protein
+PGF_05897703	Anaerovibrio	558.80	15.34	Efflux ABC transporter, permease/ATP-binding protein
+PGF_05925776	Anaerovibrio	294.00	0.00	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Anaerovibrio	417.00	0.00	Protein translocase subunit SecD
+PGF_05971611	Anaerovibrio	404.40	14.31	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05999853	Anaerovibrio	256.00	0.00	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06043321	Anaerovibrio	347.00	0.00	Ferric iron ABC transporter, iron-binding protein
+PGF_06084258	Anaerovibrio	363.00	0.00	Serine protease, DegP/HtrA, do-like (EC 3.4.21.-)
+PGF_06122323	Anaerovibrio	1180.40	2.30	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06167333	Anaerovibrio	84.00	0.00	hypothetical protein
+PGF_06180597	Anaerovibrio	146.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Anaerovibrio	292.80	1.79	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Anaerovibrio	94.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Anaerovibrio	367.00	0.00	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Anaerovibrio	421.00	0.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06326847	Anaerovibrio	252.00	0.00	Flagellar biosynthesis protein FliP
+PGF_06377994	Anaerovibrio	419.00	0.00	FtsW-like cell division membrane protein CA_C0505
+PGF_06379377	Anaerovibrio	441.60	3.51	Replication-associated recombination protein RarA
+PGF_06403579	Anaerovibrio	770.00	0.00	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06421645	Anaerovibrio	204.60	1.34	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_06455222	Anaerovibrio	411.00	0.00	Coenzyme A ligase
+PGF_06459503	Anaerovibrio	600.20	0.45	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06496536	Anaerovibrio	427.00	0.00	Na+/H+ antiporter NhaD and related arsenite permeases
+PGF_06530721	Anaerovibrio	216.00	0.00	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06609275	Anaerovibrio	49.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06649360	Anaerovibrio	186.60	1.34	Segregation and condensation protein B
+PGF_06660812	Anaerovibrio	166.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06683449	Anaerovibrio	309.00	0.00	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06690276	Anaerovibrio	214.60	37.90	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Anaerovibrio	111.00	0.00	Nucleoid-associated protein YaaK
+PGF_06701488	Anaerovibrio	223.00	0.00	RNA-binding protein Jag
+PGF_06718352	Anaerovibrio	158.00	0.00	Cys-tRNA(Pro) deacylase YbaK
+PGF_06735060	Anaerovibrio	785.20	11.37	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06770993	Anaerovibrio	363.00	0.00	Lipopolysaccharide export system permease protein LptF @ Lipopolysaccharide export system permease protein LptG
+PGF_06952812	Anaerovibrio	296.00	2.24	hypothetical protein
+PGF_07072294	Anaerovibrio	398.00	0.00	Electron transfer flavoprotein, alpha subunit
+PGF_07101513	Anaerovibrio	422.40	0.55	Flagellar motor switch protein FliN
+PGF_07146095	Anaerovibrio	153.00	0.00	Chemotaxis protein CheX
+PGF_07242312	Anaerovibrio	646.80	1.10	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07263029	Anaerovibrio	309.20	64.14	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07370370	Anaerovibrio	508.00	45.30	Voltage-gated H(+)/2Cl(-) exchange transporter ClcA
+PGF_07389836	Anaerovibrio	118.00	0.00	hypothetical protein
+PGF_07507449	Anaerovibrio	255.00	0.00	hypothetical protein
+PGF_07778104	Anaerovibrio	67.00	0.00	hypothetical protein
+PGF_07784898	Anaerovibrio	101.00	0.00	hypothetical protein
+PGF_07787934	Anaerovibrio	518.80	17.58	hypothetical protein
+PGF_07797441	Anaerovibrio	246.00	0.00	hypothetical protein
+PGF_07797937	Anaerovibrio	324.00	11.18	hypothetical protein
+PGF_07809912	Anaerovibrio	442.00	0.00	hypothetical protein
+PGF_07825901	Anaerovibrio	501.20	3.19	hypothetical protein
+PGF_07838345	Anaerovibrio	338.20	0.84	hypothetical protein
+PGF_07842824	Anaerovibrio	182.80	1.79	hypothetical protein
+PGF_07846476	Anaerovibrio	563.00	0.00	hypothetical protein
+PGF_07847782	Anaerovibrio	757.80	1.79	hypothetical protein
+PGF_07849861	Anaerovibrio	157.00	0.00	hypothetical protein
+PGF_07864393	Anaerovibrio	574.80	1.79	hypothetical protein
+PGF_07868365	Anaerovibrio	60.60	1.34	hypothetical protein
+PGF_07875241	Anaerovibrio	250.00	0.00	hypothetical protein
+PGF_07876547	Anaerovibrio	641.00	0.00	hypothetical protein
+PGF_07883365	Anaerovibrio	207.40	0.89	hypothetical protein
+PGF_07894591	Anaerovibrio	363.00	0.00	hypothetical protein
+PGF_07907748	Anaerovibrio	449.00	3.67	hypothetical protein
+PGF_07911453	Anaerovibrio	253.00	2.24	hypothetical protein
+PGF_07916899	Anaerovibrio	142.00	0.00	hypothetical protein
+PGF_07919033	Anaerovibrio	147.20	30.24	hypothetical protein
+PGF_07922739	Anaerovibrio	330.40	2.30	hypothetical protein
+PGF_07924504	Anaerovibrio	196.20	0.45	hypothetical protein
+PGF_07927469	Anaerovibrio	285.40	0.55	hypothetical protein
+PGF_07932035	Anaerovibrio	168.00	0.00	hypothetical protein
+PGF_07933821	Anaerovibrio	314.00	0.00	hypothetical protein
+PGF_07964281	Anaerovibrio	376.00	0.00	hypothetical protein
+PGF_07972981	Anaerovibrio	222.80	1.79	hypothetical protein
+PGF_07983674	Anaerovibrio	107.00	0.00	hypothetical protein
+PGF_07992443	Anaerovibrio	159.00	13.42	hypothetical protein
+PGF_08002630	Anaerovibrio	339.00	0.00	hypothetical protein
+PGF_08004308	Anaerovibrio	73.60	3.29	hypothetical protein
+PGF_08004931	Anaerovibrio	549.60	0.89	hypothetical protein
+PGF_08010644	Anaerovibrio	216.00	0.00	hypothetical protein
+PGF_08015241	Anaerovibrio	106.00	0.00	hypothetical protein
+PGF_08047063	Anaerovibrio	376.40	0.89	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08050537	Anaerovibrio	264.40	108.67	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08066171	Anaerovibrio	245.00	0.00	Efflux ABC transporter, permease protein
+PGF_08147453	Anaerovibrio	387.80	1.79	DNA recombination protein RmuC
+PGF_08183187	Anaerovibrio	386.80	16.71	Cell division protein FtsW

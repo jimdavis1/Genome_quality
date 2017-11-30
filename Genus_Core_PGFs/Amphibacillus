@@ -1,0 +1,823 @@
+PGF_00000027	Amphibacillus	265.00	0.00	Uncharacterized protein YmdB
+PGF_00000185	Amphibacillus	312.00	10.65	FIG006988: Lipase/Acylhydrolase with GDSL-like motif
+PGF_00000196	Amphibacillus	405.00	1.41	FIG007079: UPF0348 protein family
+PGF_00000286	Amphibacillus	100.00	0.00	FIG007421: forespore shell protein
+PGF_00000416	Amphibacillus	358.75	3.40	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000937	Amphibacillus	201.00	3.27	Uncharacterized protein YpjA
+PGF_00001028	Amphibacillus	428.25	0.50	Uncharacterized zinc protease YmfH
+PGF_00001219	Amphibacillus	105.50	1.00	FIG009688: Thioredoxin
+PGF_00002299	Amphibacillus	110.25	0.50	FIG012070: hypothetical protein
+PGF_00002385	Amphibacillus	766.00	4.08	FIG01229509: hypothetical protein
+PGF_00003251	Amphibacillus	789.50	1.00	Macrolide export ATP-binding/permease protein
+PGF_00003485	Amphibacillus	245.00	0.00	Uncharacterized protein YabS
+PGF_00003516	Amphibacillus	372.25	1.50	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003812	Amphibacillus	582.00	0.00	Efflux ABC transporter, permease/ATP-binding protein YknU
+PGF_00004728	Amphibacillus	571.75	3.50	Fibronectin/fibrinogen-binding protein
+PGF_00005023	Amphibacillus	421.00	1.15	ABC transporter, permease protein
+PGF_00005244	Amphibacillus	83.00	0.00	Firmicutes ribosomal L7Ae family protein
+PGF_00005286	Amphibacillus	534.50	4.36	Flagellar M-ring protein FliF
+PGF_00005354	Amphibacillus	146.50	9.68	Flagellar basal-body rod protein FlgC
+PGF_00005384	Amphibacillus	677.25	0.50	Flagellar biosynthesis protein FlhA
+PGF_00005402	Amphibacillus	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005454	Amphibacillus	507.50	9.11	Flagellar hook-associated protein FlgK
+PGF_00006245	Amphibacillus	556.00	0.00	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006394	Amphibacillus	284.25	0.50	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Amphibacillus	461.75	3.77	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Amphibacillus	511.75	0.50	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006983	Amphibacillus	307.75	1.89	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007012	Amphibacillus	366.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Amphibacillus	436.00	0.00	GTP-binding protein EngA
+PGF_00007026	Amphibacillus	195.50	4.36	GTP-binding protein EngB
+PGF_00007027	Amphibacillus	301.00	0.82	GTP-binding protein Era
+PGF_00007028	Amphibacillus	409.25	3.30	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Amphibacillus	606.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007045	Amphibacillus	260.25	0.96	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Amphibacillus	458.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Amphibacillus	392.50	3.51	Galactokinase (EC 2.7.1.6)
+PGF_00007119	Amphibacillus	495.00	0.82	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007304	Amphibacillus	290.75	0.96	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007479	Amphibacillus	122.75	2.99	General stress protein 13
+PGF_00007632	Amphibacillus	325.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007795	Amphibacillus	303.75	0.96	GltC, transcription activator of glutamate synthase operon
+PGF_00007844	Amphibacillus	319.75	0.96	Glucokinase (EC 2.7.1.2)
+PGF_00007988	Amphibacillus	448.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Amphibacillus	450.75	0.96	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Amphibacillus	372.75	1.26	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Amphibacillus	408.25	0.50	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Amphibacillus	274.00	3.65	Glutamate racemase (EC 5.1.1.3)
+PGF_00008159	Amphibacillus	491.25	2.75	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008269	Amphibacillus	199.00	0.00	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008329	Amphibacillus	355.00	0.00	Glutamyl aminopeptidase (EC 3.4.11.7); Deblocking aminopeptidase
+PGF_00008337	Amphibacillus	486.75	0.50	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008611	Amphibacillus	346.50	0.58	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Amphibacillus	238.25	0.50	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Amphibacillus	191.25	5.19	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Amphibacillus	296.75	0.50	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Amphibacillus	694.75	0.50	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Amphibacillus	249.00	0.00	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Amphibacillus	206.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010468	Amphibacillus	260.25	1.89	Hydrolase (HAD superfamily) in cluster with DUF1447
+PGF_00010692	Amphibacillus	317.00	0.00	HPr kinase/phosphorylase
+PGF_00011081	Amphibacillus	802.25	0.50	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011098	Amphibacillus	445.75	3.77	Helicase loader DnaB
+PGF_00011542	Amphibacillus	228.00	0.82	Heptaprenylglyceryl phosphate synthase (EC 2.5.1.n9)
+PGF_00011792	Amphibacillus	101.50	1.29	His repressor
+PGF_00011953	Amphibacillus	142.00	0.82	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00011979	Amphibacillus	430.25	3.30	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Amphibacillus	334.25	0.50	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Amphibacillus	430.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Amphibacillus	296.25	3.30	Homoserine kinase (EC 2.7.1.39)
+PGF_00012652	Amphibacillus	171.00	0.00	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00012657	Amphibacillus	149.25	0.50	ACT domain-containing protein
+PGF_00013207	Amphibacillus	324.00	4.00	Uncharacterized membrane protein YfhP
+PGF_00013244	Amphibacillus	180.25	0.50	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Amphibacillus	228.75	4.27	UPF0001 protein YggS
+PGF_00013347	Amphibacillus	88.00	0.00	UPF0297 protein YrzL
+PGF_00013492	Amphibacillus	180.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Amphibacillus	510.50	1.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Amphibacillus	195.50	0.58	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Amphibacillus	259.50	3.11	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Amphibacillus	256.50	1.00	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014311	Amphibacillus	490.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015510	Amphibacillus	261.25	0.50	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Amphibacillus	465.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Amphibacillus	435.75	0.96	Iron-sulfur cluster assembly protein SufD
+PGF_00015701	Amphibacillus	423.25	0.50	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015737	Amphibacillus	342.50	1.00	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00015855	Amphibacillus	343.25	0.50	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016028	Amphibacillus	495.75	0.96	L-arabinose isomerase (EC 5.3.1.4)
+PGF_00016218	Amphibacillus	228.00	0.00	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
+PGF_00016223	Amphibacillus	350.00	113.38	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016328	Amphibacillus	166.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Amphibacillus	423.50	1.29	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Amphibacillus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Amphibacillus	145.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Amphibacillus	144.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Amphibacillus	117.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Amphibacillus	120.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Amphibacillus	230.25	0.96	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Amphibacillus	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Amphibacillus	113.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Amphibacillus	97.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Amphibacillus	102.75	0.50	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Amphibacillus	96.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Amphibacillus	276.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Amphibacillus	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Amphibacillus	57.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016416	Amphibacillus	49.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Amphibacillus	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Amphibacillus	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Amphibacillus	209.75	0.50	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Amphibacillus	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Amphibacillus	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Amphibacillus	178.50	1.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Amphibacillus	120.50	0.58	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Amphibacillus	148.00	0.00	LSU ribosomal protein L9p
+PGF_00016941	Amphibacillus	372.00	1.41	Arabinose metabolism transcriptional repressor AraR
+PGF_00017127	Amphibacillus	331.00	0.00	Lipoate-protein ligase A
+PGF_00017468	Amphibacillus	630.75	0.50	Lipoteichoic acid synthase LtaS Type IIIa
+PGF_00017608	Amphibacillus	169.50	1.00	Low temperature requirement C protein
+PGF_00018944	Amphibacillus	70.25	23.67	Major transcriptional regulator of spore coat formation GerE
+PGF_00019038	Amphibacillus	466.00	1.41	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019221	Amphibacillus	1239.50	1.91	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Amphibacillus	308.00	0.00	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019249	Amphibacillus	255.00	0.00	Manganese-dependent protein-tyrosine phosphatase (EC 3.1.3.48)
+PGF_00019427	Amphibacillus	116.00	3.56	MazG nucleotide pyrophosphohydrolase
+PGF_00019428	Amphibacillus	181.25	0.50	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020089	Amphibacillus	480.25	2.87	Membrane proteins related to metalloendopeptidases
+PGF_00020147	Amphibacillus	370.00	2.00	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020321	Amphibacillus	269.00	0.00	Metal transporter, ZIP family
+PGF_00020361	Amphibacillus	155.25	0.50	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020385	Amphibacillus	243.00	1.15	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020756	Amphibacillus	366.75	3.59	Methionine synthase II (cobalamin-independent)
+PGF_00020793	Amphibacillus	186.00	2.16	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020984	Amphibacillus	283.50	1.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Amphibacillus	135.00	0.82	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021217	Amphibacillus	511.00	0.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021390	Amphibacillus	221.50	16.36	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00022707	Amphibacillus	333.00	0.00	MreB-like protein (Mbl protein)
+PGF_00023591	Amphibacillus	345.00	2.31	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Amphibacillus	346.00	2.00	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024273	Amphibacillus	163.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Amphibacillus	373.25	0.50	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Amphibacillus	246.00	1.41	NAD synthetase (EC 6.3.1.5)
+PGF_00024478	Amphibacillus	333.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024540	Amphibacillus	401.75	1.71	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024544	Amphibacillus	620.75	1.50	NADH dehydrogenase (EC 1.6.99.3) in cluster with putative pheromone precursor
+PGF_00024567	Amphibacillus	384.25	12.47	Acetate kinase (EC 2.7.2.1)
+PGF_00025090	Amphibacillus	573.75	0.50	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Amphibacillus	174.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025410	Amphibacillus	227.00	1.41	Negative regulator of genetic competence MecA
+PGF_00025413	Amphibacillus	190.75	0.96	Negative regulator of genetic competence MecA
+PGF_00025600	Amphibacillus	370.00	1.41	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026050	Amphibacillus	199.00	0.00	Nitroreductase family protein
+PGF_00026279	Amphibacillus	315.25	1.26	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026300	Amphibacillus	264.25	0.50	Novel pyridoxal kinase, thiD family (EC 2.7.1.35)
+PGF_00026453	Amphibacillus	286.75	0.96	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Amphibacillus	262.00	0.00	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026864	Amphibacillus	280.00	1.41	Octanoyl-[GcvH]:protein N-octanoyltransferase (EC 2.3.1.204)
+PGF_00027103	Amphibacillus	376.25	0.96	Oligosaccharide reducing-end xylanase (EC 3.2.1.156)
+PGF_00027563	Amphibacillus	92.75	0.96	Ortholog of S. aureus MRSA252 (BX571856) SAR1694
+PGF_00028472	Amphibacillus	182.00	0.00	Outer spore coat protein CotE
+PGF_00029866	Amphibacillus	479.25	0.96	PTS system, trehalose-specific IIB component (EC 2.7.1.201) / PTS system, trehalose-specific IIC component
+PGF_00029917	Amphibacillus	287.75	4.50	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Amphibacillus	356.00	0.00	Peptide chain release factor 1
+PGF_00030643	Amphibacillus	528.25	1.26	Peptide chain release factor 3
+PGF_00031568	Amphibacillus	146.00	2.00	Peroxide stress regulator PerR, FUR family
+PGF_00033197	Amphibacillus	323.25	0.50	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Amphibacillus	320.25	2.06	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Amphibacillus	333.75	1.50	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Amphibacillus	327.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Amphibacillus	917.25	0.50	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033411	Amphibacillus	269.00	1.41	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Amphibacillus	571.00	0.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Amphibacillus	656.50	0.58	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033479	Amphibacillus	579.00	0.82	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Amphibacillus	396.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033877	Amphibacillus	161.25	0.50	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Amphibacillus	394.75	1.71	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033928	Amphibacillus	414.00	7.44	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Amphibacillus	236.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Amphibacillus	200.25	0.96	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Amphibacillus	235.50	1.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Amphibacillus	342.25	0.50	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Amphibacillus	226.50	1.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Amphibacillus	742.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Amphibacillus	194.50	1.73	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Amphibacillus	359.50	1.00	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Amphibacillus	705.50	1.73	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Amphibacillus	170.25	0.50	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035721	Amphibacillus	431.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Amphibacillus	430.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036124	Amphibacillus	346.00	0.00	Predicted nicotinate-regulated transporter BH3254
+PGF_00036580	Amphibacillus	96.00	8.12	Protein translocase subunit YajC
+PGF_00036997	Amphibacillus	543.25	0.50	Probable cell division protein YtgP
+PGF_00037481	Amphibacillus	90.00	2.00	Programmed cell death antitoxin YdcD
+PGF_00037588	Amphibacillus	566.50	1.00	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00038619	Amphibacillus	252.50	1.73	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038653	Amphibacillus	752.50	3.00	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038971	Amphibacillus	270.50	1.00	Pur operon repressor PurR
+PGF_00038987	Amphibacillus	236.25	1.89	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00038989	Amphibacillus	271.75	0.50	Purine nucleoside phosphorylase (EC 2.4.2.1) @ N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1)
+PGF_00039149	Amphibacillus	355.25	0.50	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00039997	Amphibacillus	173.50	1.73	Putative acetyltransferase YvoF
+PGF_00040464	Amphibacillus	378.25	1.50	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040578	Amphibacillus	256.75	1.50	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041788	Amphibacillus	146.75	1.26	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041794	Amphibacillus	188.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041831	Amphibacillus	508.25	0.50	Alkyl hydroperoxide reductase protein F
+PGF_00042022	Amphibacillus	447.00	1.63	Putative membrane-bound ClpP-class protease associated with aq_911
+PGF_00042167	Amphibacillus	151.00	3.46	Putative metallopeptidase (Zinc) SprT family
+PGF_00042825	Amphibacillus	305.00	0.00	Putative oxidoreductase SCO7655
+PGF_00042913	Amphibacillus	288.25	2.22	Sporulation-specific protease YabG
+PGF_00043199	Amphibacillus	386.50	2.38	Putative pheromone cAM373 precursor lipoprotein CamS
+PGF_00043341	Amphibacillus	312.50	0.58	Putative prenyltransferase, contains 1,4-dihydroxy-2-naphthoate octaprenyltransferase domain
+PGF_00045926	Amphibacillus	433.50	0.58	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045994	Amphibacillus	587.00	0.00	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00046197	Amphibacillus	274.25	3.20	RNA binding methyltransferase FtsJ like
+PGF_00046199	Amphibacillus	134.50	3.00	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046350	Amphibacillus	262.75	0.50	RNA polymerase sigma factor SigB
+PGF_00046367	Amphibacillus	170.75	1.50	RNA polymerase sigma factor SigX
+PGF_00046377	Amphibacillus	252.50	1.00	RNA polymerase sigma factor for flagellar operon
+PGF_00046551	Amphibacillus	239.00	0.00	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046553	Amphibacillus	261.50	3.11	RNA polymerase sporulation specific sigma factor SigG
+PGF_00046555	Amphibacillus	219.00	0.00	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Amphibacillus	74.00	0.00	RNA-binding protein Hfq
+PGF_00047078	Amphibacillus	344.25	1.71	RecA protein
+PGF_00047155	Amphibacillus	212.25	1.26	Redox-sensing transcriptional repressor Rex
+PGF_00048331	Amphibacillus	321.25	1.71	Rhodanese domain protein UPF0176, Firmicutes subgroup
+PGF_00048347	Amphibacillus	138.50	1.00	Rhodanese-like domain protein
+PGF_00048480	Amphibacillus	213.25	4.92	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Amphibacillus	259.25	4.99	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048557	Amphibacillus	310.25	2.06	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048564	Amphibacillus	555.00	0.00	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PGF_00048566	Amphibacillus	186.50	1.73	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048586	Amphibacillus	249.50	1.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Amphibacillus	308.00	2.00	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048627	Amphibacillus	651.25	49.26	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048643	Amphibacillus	155.75	2.87	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048829	Amphibacillus	251.00	5.89	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Amphibacillus	314.00	2.00	Ribosomal protein L11 methyltransferase
+PGF_00048868	Amphibacillus	236.75	0.50	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Amphibacillus	184.25	1.50	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Amphibacillus	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Amphibacillus	293.25	0.50	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Amphibacillus	88.75	1.71	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Amphibacillus	116.00	0.00	Ribosome-binding factor A
+PGF_00048964	Amphibacillus	532.75	1.50	Ribulokinase (EC 2.7.1.16)
+PGF_00049245	Amphibacillus	118.00	0.00	RsbS, negative regulator of sigma-B
+PGF_00049362	Amphibacillus	342.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Amphibacillus	292.25	2.36	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Amphibacillus	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Amphibacillus	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Amphibacillus	137.25	0.50	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Amphibacillus	120.75	0.50	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Amphibacillus	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Amphibacillus	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Amphibacillus	90.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Amphibacillus	87.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Amphibacillus	77.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Amphibacillus	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Amphibacillus	213.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Amphibacillus	200.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Amphibacillus	167.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Amphibacillus	95.75	0.50	SSU ribosomal protein S6p
+PGF_00049904	Amphibacillus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Amphibacillus	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Amphibacillus	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Amphibacillus	244.75	0.50	Segregation and condensation protein A
+PGF_00050579	Amphibacillus	519.00	98.25	Sensor histidine kinase ResE (EC 2.7.13.3)
+PGF_00050712	Amphibacillus	377.00	0.00	Sensor protein DegS
+PGF_00050995	Amphibacillus	470.25	1.89	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Amphibacillus	226.25	0.50	Septum site-determining protein MinC
+PGF_00051226	Amphibacillus	336.00	0.00	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051525	Amphibacillus	424.25	0.50	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052218	Amphibacillus	108.25	0.50	Signal recognition particle associated protein
+PGF_00052238	Amphibacillus	450.00	0.00	Signal recognition particle protein Ffh
+PGF_00052943	Amphibacillus	295.00	0.00	Site-specific tyrosine recombinase XerD
+PGF_00053040	Amphibacillus	67.00	2.16	Small acid-soluble spore protein, alpha/beta family, SASP_1
+PGF_00053858	Amphibacillus	150.50	0.58	Spore coat protein of CotY/CotZ family
+PGF_00053872	Amphibacillus	138.75	0.50	Spore cortex-lytic enzyme CwlJ
+PGF_00053876	Amphibacillus	428.25	0.50	Spore cortex-lytic enzyme, N-acetylglucosaminidase SleL
+PGF_00053877	Amphibacillus	309.25	25.17	Spore cortex-lytic enzyme, lytic transglycosylase SleB
+PGF_00053878	Amphibacillus	364.50	1.91	Spore germination endopeptidase Gpr (EC 3.4.24.78)
+PGF_00053892	Amphibacillus	447.00	2.45	Spore germination protein YpeB
+PGF_00053894	Amphibacillus	194.75	1.26	Spore maturation protein A
+PGF_00053897	Amphibacillus	177.00	0.00	Spore maturation protein B
+PGF_00053909	Amphibacillus	140.25	5.50	Spore protein GerW (YtfJ), not involved in spore germination
+PGF_00053991	Amphibacillus	275.00	0.00	Stage 0 sporulation protein YaaT
+PGF_00053997	Amphibacillus	259.00	0.00	Stage 0 sporulation two-component response regulator (Spo0A)
+PGF_00054034	Amphibacillus	191.25	4.11	Stage II sporulation protein required for processing of pro-sigma-E (SpoIIR)
+PGF_00054038	Amphibacillus	324.25	1.71	Stage III sporulation protein AA
+PGF_00054046	Amphibacillus	68.00	0.00	Stage III sporulation protein AC
+PGF_00054075	Amphibacillus	85.75	0.50	Stage III sporulation protein D
+PGF_00054087	Amphibacillus	492.00	0.00	Stage IV sporulation protein A
+PGF_00054088	Amphibacillus	425.50	1.73	Stage IV sporulation protein B
+PGF_00054097	Amphibacillus	152.50	0.58	Stage V sporulation protein AC (SpoVAC)
+PGF_00054098	Amphibacillus	336.00	0.00	Stage V sporulation protein AD (SpoVAD)
+PGF_00054100	Amphibacillus	116.00	0.00	Stage V sporulation protein AE1 (SpoVAE1)
+PGF_00054106	Amphibacillus	513.25	0.50	Stage V sporulation protein B
+PGF_00054116	Amphibacillus	177.00	0.00	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+PGF_00054118	Amphibacillus	86.00	0.00	Spore core dehydratation and coat assembly protein SpoVS
+PGF_00054134	Amphibacillus	283.50	24.41	Stage V sporulation protein SpoVK
+PGF_00054415	Amphibacillus	162.00	0.82	Substrate-specific component ThiW of predicted thiazole ECF transporter
+PGF_00055430	Amphibacillus	233.25	0.50	Anaerobic regulatory protein Fnr
+PGF_00056519	Amphibacillus	226.00	1.41	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety
+PGF_00056662	Amphibacillus	339.00	3.56	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Amphibacillus	459.75	1.71	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Amphibacillus	205.75	5.25	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Amphibacillus	208.50	0.58	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Amphibacillus	319.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057019	Amphibacillus	132.75	0.50	Anti-sigma B factor RsbT
+PGF_00057127	Amphibacillus	147.00	2.00	Anti-sigma F factor (EC 2.7.11.1)
+PGF_00057198	Amphibacillus	116.25	0.96	Anti-sigma F factor antagonist
+PGF_00057270	Amphibacillus	815.75	0.50	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Amphibacillus	148.00	0.00	Transamidase GatB domain protein
+PGF_00057440	Amphibacillus	186.75	0.50	Transcription factor FapR
+PGF_00057483	Amphibacillus	428.00	1.63	Transcription termination factor Rho
+PGF_00057485	Amphibacillus	370.75	1.71	Transcription termination protein NusA
+PGF_00058523	Amphibacillus	223.75	0.50	Transcriptional regulator DegU, LuxR family
+PGF_00058741	Amphibacillus	240.50	1.00	Transcriptional regulator in cluster with Zn-dependent hydrolase
+PGF_00059604	Amphibacillus	155.50	1.29	Transcriptional regulator, MarR family
+PGF_00060261	Amphibacillus	178.25	0.50	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060409	Amphibacillus	692.00	0.00	Translation elongation factor G
+PGF_00060414	Amphibacillus	604.25	0.50	Translation elongation factor LepA
+PGF_00060421	Amphibacillus	185.25	0.50	Translation elongation factor P
+PGF_00060427	Amphibacillus	294.00	0.00	Translation elongation factor Ts
+PGF_00060428	Amphibacillus	396.00	0.00	Translation elongation factor Tu
+PGF_00060431	Amphibacillus	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Amphibacillus	173.00	0.00	Translation initiation factor 3
+PGF_00061922	Amphibacillus	411.25	0.50	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062023	Amphibacillus	260.50	1.73	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Amphibacillus	401.25	0.50	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Amphibacillus	330.50	0.58	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062694	Amphibacillus	333.50	10.34	Two-component sensor histidine kinase BceS
+PGF_00063916	Amphibacillus	421.00	1.15	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063993	Amphibacillus	356.50	1.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Amphibacillus	431.75	1.71	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064184	Amphibacillus	485.75	3.30	UPF0061 protein YdiU
+PGF_00064359	Amphibacillus	149.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064488	Amphibacillus	219.00	0.00	Arginine transport system permease protein ArtQ
+PGF_00065238	Amphibacillus	353.25	4.11	Arsenical-resistance protein ACR3
+PGF_00065678	Amphibacillus	709.25	4.99	Uncharacterized protein YqgF
+PGF_00066124	Amphibacillus	181.00	2.00	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Amphibacillus	228.00	2.45	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066389	Amphibacillus	208.75	0.50	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066410	Amphibacillus	103.00	0.00	V-type ATP synthase subunit F (EC 3.6.3.14)
+PGF_00066453	Amphibacillus	881.00	0.82	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Amphibacillus	430.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Amphibacillus	128.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Amphibacillus	316.50	9.71	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Amphibacillus	465.75	24.84	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066964	Amphibacillus	433.00	1.15	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067000	Amphibacillus	683.25	0.50	Xylan alpha-1,2-glucuronosidase (EC 3.2.1.131)
+PGF_00067063	Amphibacillus	437.00	0.00	Xylose isomerase (EC 5.3.1.5)
+PGF_00067188	Amphibacillus	347.75	0.96	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067363	Amphibacillus	282.25	0.50	UPF0750 membrane protein YitT
+PGF_00067389	Amphibacillus	93.00	0.00	YlxP-like protein
+PGF_00067554	Amphibacillus	476.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068903	Amphibacillus	74.50	0.58	bacterial seryl-tRNA synthetase related
+PGF_00070244	Amphibacillus	344.75	2.75	BH0638 unknown conserved protein
+PGF_00072105	Amphibacillus	782.50	2.38	ATP-dependent DNA helicase IV (EC 3.6.4.12)
+PGF_00075770	Amphibacillus	453.00	0.00	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00084324	Amphibacillus	272.25	1.26	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00090925	Amphibacillus	374.50	1.00	hypothetical protein
+PGF_00144272	Amphibacillus	162.00	0.00	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00236102	Amphibacillus	282.75	0.50	UPF0759 protein YunF
+PGF_00261173	Amphibacillus	369.25	0.50	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00309959	Amphibacillus	71.75	0.50	Small, acid-soluble spore protein I
+PGF_00332937	Amphibacillus	446.75	1.26	hypothetical protein
+PGF_00365400	Amphibacillus	241.50	1.73	Trehalose utilization protein ThuA
+PGF_00402090	Amphibacillus	340.50	0.58	outer membrane lipoprotein receptor
+PGF_00403691	Amphibacillus	485.00	2.94	possible tetrapyrrole methyltransferase domain / Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00404078	Amphibacillus	155.75	3.20	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Amphibacillus	453.75	1.26	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Amphibacillus	326.00	1.41	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404814	Amphibacillus	247.50	0.58	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404866	Amphibacillus	109.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00406573	Amphibacillus	264.00	1.63	Putative phosphotransferase YtmP
+PGF_00409415	Amphibacillus	288.00	0.00	UPF0750 membrane protein YvjA
+PGF_00412178	Amphibacillus	328.00	0.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413189	Amphibacillus	234.75	2.50	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Amphibacillus	159.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Amphibacillus	241.25	2.06	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Amphibacillus	250.75	2.99	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Amphibacillus	305.00	7.62	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Amphibacillus	630.50	2.89	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Amphibacillus	165.75	7.18	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Amphibacillus	153.75	0.96	tmRNA-binding protein SmpB
+PGF_00414748	Amphibacillus	234.75	2.87	CAAX amino terminal protease family protein
+PGF_00414926	Amphibacillus	400.00	2.16	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Amphibacillus	380.00	1.83	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415436	Amphibacillus	406.25	0.96	glycoside hydrolase
+PGF_00415631	Amphibacillus	93.00	0.00	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416115	Amphibacillus	314.00	2.16	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Amphibacillus	531.75	0.50	CTP synthase (EC 6.3.4.2)
+PGF_00416152	Amphibacillus	124.25	3.20	Cadmium efflux system accessory protein
+PGF_00416508	Amphibacillus	73.50	3.00	Carbon storage regulator
+PGF_00416674	Amphibacillus	396.75	3.77	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416683	Amphibacillus	331.25	0.50	Catabolite control protein A
+PGF_00417069	Amphibacillus	365.00	0.00	Cell division protein FtsW @ Stage V sporulation protein E
+PGF_00417233	Amphibacillus	311.25	1.26	L-Ala--D-Glu endopeptidase
+PGF_00417381	Amphibacillus	331.00	22.67	Central glycolytic genes regulator
+PGF_00417429	Amphibacillus	373.50	1.00	Chaperone protein DnaJ
+PGF_00417433	Amphibacillus	608.75	2.22	Chaperone protein DnaK
+PGF_00417481	Amphibacillus	248.75	2.87	3-dehydroquinate dehydratase I (EC 4.2.1.10)
+PGF_00417580	Amphibacillus	358.50	1.00	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417658	Amphibacillus	359.00	0.82	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417829	Amphibacillus	354.25	0.50	Chorismate mutase I (EC 5.4.99.5) / 2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00417840	Amphibacillus	388.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00417995	Amphibacillus	228.25	2.50	Chromosome replication initiation protein DnaD
+PGF_00418737	Amphibacillus	424.75	43.18	ComF operon protein A, DNA transporter ATPase
+PGF_00419414	Amphibacillus	94.25	2.50	UPF0358 protein YlaN
+PGF_00419420	Amphibacillus	467.50	0.58	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419740	Amphibacillus	152.75	0.50	Transcriptional regulator CtsR
+PGF_00419915	Amphibacillus	276.50	3.32	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Amphibacillus	307.25	0.50	Cysteine synthase (EC 2.5.1.47)
+PGF_00420087	Amphibacillus	177.25	0.50	Cysteinyl-tRNA synthetase related protein
+PGF_00420121	Amphibacillus	226.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00421071	Amphibacillus	148.50	0.58	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Amphibacillus	484.75	1.26	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Amphibacillus	1103.00	4.83	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Amphibacillus	379.75	0.50	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421624	Amphibacillus	574.75	0.96	DNA polymerase X family
+PGF_00421679	Amphibacillus	606.25	2.63	DNA primase (EC 2.7.7.-)
+PGF_00421733	Amphibacillus	374.00	0.00	DNA recombination and repair protein RecF
+PGF_00421792	Amphibacillus	449.50	9.68	DNA repair protein RadA
+PGF_00421796	Amphibacillus	573.25	3.59	DNA repair protein RecN
+PGF_00421807	Amphibacillus	116.00	1.83	DNA replication intiation control protein YabA
+PGF_00422061	Amphibacillus	90.00	0.00	DNA-binding protein HBsu
+PGF_00422085	Amphibacillus	96.00	0.00	DNA-binding protein SpoVG
+PGF_00422186	Amphibacillus	244.00	10.68	DNA-binding response regulator ResD
+PGF_00422271	Amphibacillus	314.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422280	Amphibacillus	183.25	4.43	DNA-directed RNA polymerase delta subunit (EC 2.7.7.6)
+PGF_00422519	Amphibacillus	84.75	11.50	DUF378 domain-containing protein
+PGF_00422645	Amphibacillus	345.75	0.50	Deblocking aminopeptidase (EC 3.4.11.-)
+PGF_00423089	Amphibacillus	358.75	5.85	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Amphibacillus	422.75	5.50	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423343	Amphibacillus	473.75	1.50	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Amphibacillus	122.25	0.96	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Amphibacillus	425.75	2.87	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Amphibacillus	553.00	0.00	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423472	Amphibacillus	909.25	3.77	DinG family ATP-dependent helicase YoaA
+PGF_00423613	Amphibacillus	326.00	0.00	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+PGF_00423618	Amphibacillus	292.75	0.50	Dipicolinate synthase subunit A
+PGF_00423621	Amphibacillus	193.00	0.00	Dipicolinate synthase subunit B
+PGF_00424236	Amphibacillus	140.75	0.50	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424337	Amphibacillus	296.50	0.58	Endonuclease IV (EC 3.1.21.2)
+PGF_00424569	Amphibacillus	259.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Amphibacillus	596.25	1.50	Excinuclease ABC subunit C
+PGF_00425024	Amphibacillus	448.75	2.06	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425662	Amphibacillus	299.50	0.58	FIG00002411: Thioredoxin-fold protein
+PGF_00425665	Amphibacillus	269.25	1.50	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Amphibacillus	293.00	0.00	RNase adapter protein RapZ
+PGF_00425679	Amphibacillus	211.75	0.96	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425714	Amphibacillus	737.00	4.24	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425720	Amphibacillus	259.75	0.50	Putative RNA-binding protein YlmH
+PGF_00425729	Amphibacillus	428.25	0.96	FIG001621: Zinc protease
+PGF_00425734	Amphibacillus	120.25	0.96	FIG001802: Putative alkaline-shock protein
+PGF_00425747	Amphibacillus	146.50	1.29	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Amphibacillus	523.00	0.82	Ribonuclease Y
+PGF_00425788	Amphibacillus	274.25	0.50	FIG002434: Uncharacterized protein YtpQ
+PGF_00425806	Amphibacillus	319.75	9.67	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425840	Amphibacillus	192.25	1.26	UPF0302 protein YpiB
+PGF_00425997	Amphibacillus	406.75	3.77	FIG004453: protein YceG like
+PGF_00426701	Amphibacillus	280.00	0.00	FIG005590: DegV family protein
+PGF_00426877	Amphibacillus	282.75	0.96	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00427033	Amphibacillus	74.75	1.50	UPF0154 protein YneF
+PGF_00438421	Amphibacillus	286.75	0.96	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00464627	Amphibacillus	548.00	0.00	Sodium-dependent phosphate transporter
+PGF_00473519	Amphibacillus	202.75	0.50	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Amphibacillus	450.75	4.19	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00499795	Amphibacillus	111.25	0.50	Anti-sigma B factor antagonist RsbV
+PGF_00502238	Amphibacillus	360.00	0.00	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00503151	Amphibacillus	392.25	2.22	Xylose-responsive transcription regulator, ROK family
+PGF_00549302	Amphibacillus	490.50	1.29	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00598888	Amphibacillus	134.00	2.00	Mini-ribonuclease III
+PGF_00599219	Amphibacillus	328.00	0.00	Uncharacterized oxidoreductase YgjR
+PGF_00618776	Amphibacillus	353.75	0.50	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Amphibacillus	353.25	6.55	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00641311	Amphibacillus	329.25	1.89	ABC transporter, permease protein (cluster 15, trp?)
+PGF_00650532	Amphibacillus	330.00	2.00	UPF0365 protein YqfA
+PGF_00655628	Amphibacillus	505.25	2.06	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Amphibacillus	205.50	1.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Amphibacillus	118.25	2.06	Ribosomal silencing factor RsfA
+PGF_00667256	Amphibacillus	255.75	2.22	Hypothetical NagD-like phosphatase
+PGF_00717495	Amphibacillus	371.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00717613	Amphibacillus	200.75	19.19	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00721386	Amphibacillus	232.50	0.58	hypothetical protein
+PGF_00730148	Amphibacillus	643.75	1.26	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Sporulation peptidoglycan synthetase SpoVD
+PGF_00734482	Amphibacillus	692.25	0.50	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00745704	Amphibacillus	352.75	0.50	hypothetical protein
+PGF_00762954	Amphibacillus	61.50	0.58	Probable diacid tautomerase of unidentified natural substrate YwhB
+PGF_00776587	Amphibacillus	118.50	0.58	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Amphibacillus	234.75	2.22	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Amphibacillus	230.00	0.82	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00797516	Amphibacillus	402.75	6.29	Siderophore transport protein
+PGF_00797662	Amphibacillus	154.75	2.22	CBS domain-containing protein YkuL
+PGF_00827555	Amphibacillus	565.75	1.71	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00828128	Amphibacillus	358.00	0.00	Putative aminopeptidase YsdC
+PGF_00856141	Amphibacillus	406.00	0.00	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00885329	Amphibacillus	333.00	0.00	Flagellar motor switch protein FliM
+PGF_00925844	Amphibacillus	465.75	1.89	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00935308	Amphibacillus	246.00	0.82	FIG011178: rRNA methylase
+PGF_00950554	Amphibacillus	660.00	0.00	Excinuclease ABC subunit B
+PGF_00957419	Amphibacillus	137.50	0.58	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Amphibacillus	313.50	2.38	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_01008498	Amphibacillus	115.50	6.35	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Amphibacillus	273.50	1.00	Flagellar basal-body rod protein FlgF
+PGF_01068086	Amphibacillus	259.00	0.00	Flagellar biosynthesis protein FliR
+PGF_01079016	Amphibacillus	281.50	1.29	Chromosome (plasmid) partitioning protein ParB
+PGF_01101526	Amphibacillus	418.00	0.00	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01111670	Amphibacillus	836.50	1.91	Beta-mannosidase (EC 3.2.1.25)
+PGF_01124268	Amphibacillus	196.75	1.26	RecU Holliday junction resolvase
+PGF_01127158	Amphibacillus	265.00	0.00	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01149804	Amphibacillus	513.75	14.75	Flagellar cap protein FliD
+PGF_01162681	Amphibacillus	900.00	4.69	Aconitate hydratase (EC 4.2.1.3)
+PGF_01167921	Amphibacillus	157.75	0.50	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_01169833	Amphibacillus	372.25	2.22	Flagellar biosynthesis protein FlhF
+PGF_01174739	Amphibacillus	247.00	0.00	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Amphibacillus	649.50	0.58	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01190544	Amphibacillus	293.75	4.03	ABC transporter, substrate-binding protein YckB (cluster 3, basic aa/glutamine/opines)
+PGF_01191170	Amphibacillus	158.75	3.69	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01212500	Amphibacillus	273.75	0.96	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Amphibacillus	543.25	1.71	Heat shock protein 60 family chaperone GroEL
+PGF_01212940	Amphibacillus	293.00	0.00	UPF0701 protein YloC
+PGF_01232770	Amphibacillus	171.50	3.00	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291823	Amphibacillus	214.25	1.50	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Amphibacillus	257.00	0.00	Chromosome (plasmid) partitioning protein ParA
+PGF_01313780	Amphibacillus	372.25	0.50	Uncharacterized peptidase YqjE
+PGF_01323228	Amphibacillus	195.00	0.00	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01350798	Amphibacillus	342.75	4.50	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351158	Amphibacillus	1173.75	0.50	Transcription-repair coupling factor
+PGF_01364427	Amphibacillus	202.25	1.26	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01420802	Amphibacillus	143.00	0.00	Cell division protein MraZ
+PGF_01423501	Amphibacillus	158.00	0.00	Transcription elongation factor GreA
+PGF_01461826	Amphibacillus	388.00	0.82	Endonuclease Q, cleaves 5' to damaged DNA bases
+PGF_01462895	Amphibacillus	437.00	0.00	Uncharacterized protein YtoI
+PGF_01465362	Amphibacillus	140.25	0.96	Mn-dependent transcriptional regulator MntR
+PGF_01466742	Amphibacillus	449.75	17.95	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01481272	Amphibacillus	165.25	1.50	Chemotaxis protein CheD
+PGF_01483918	Amphibacillus	276.00	0.00	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01512690	Amphibacillus	257.00	0.00	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01513923	Amphibacillus	255.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01532393	Amphibacillus	700.00	8.76	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01538186	Amphibacillus	116.00	0.00	Programmed cell death toxin YdcE
+PGF_01555804	Amphibacillus	130.00	0.00	Flagellar basal-body rod protein FlgB
+PGF_01577570	Amphibacillus	108.25	3.77	Uncharacterized membrane protein YrvD
+PGF_01602421	Amphibacillus	149.00	0.00	Flagellar basal-body rod modification protein FlgD
+PGF_01614738	Amphibacillus	81.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Amphibacillus	346.50	10.21	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667392	Amphibacillus	497.00	0.00	Xylulose kinase (EC 2.7.1.17)
+PGF_01668148	Amphibacillus	490.75	0.96	Sodium-dependent transporter
+PGF_01675343	Amphibacillus	581.00	0.00	Heterodimeric efflux ABC transporter, multidrug resistance => BmrC subunit of BmrCD
+PGF_01675591	Amphibacillus	273.50	1.00	Putative phosphatase YitU
+PGF_01676411	Amphibacillus	330.00	9.49	ABC transporter, substrate-binding protein (cluster 15, trp?)
+PGF_01677191	Amphibacillus	316.50	3.32	Sporulation transcription regulator WhiA
+PGF_01682537	Amphibacillus	119.50	3.00	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Amphibacillus	158.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Amphibacillus	247.50	0.58	DNA recombination and repair protein RecO
+PGF_01719396	Amphibacillus	219.00	2.31	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Amphibacillus	217.75	3.50	Adenylate kinase (EC 2.7.4.3)
+PGF_01737958	Amphibacillus	257.75	2.22	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01745391	Amphibacillus	368.00	4.24	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01751397	Amphibacillus	323.25	2.36	Adenine-specific methyltransferase (EC 2.1.1.72)
+PGF_01752285	Amphibacillus	169.00	0.00	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01777142	Amphibacillus	189.00	2.16	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01797166	Amphibacillus	412.75	3.77	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01841446	Amphibacillus	484.25	10.59	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01853493	Amphibacillus	282.00	14.02	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Amphibacillus	339.25	0.50	Heat-inducible transcription repressor HrcA
+PGF_01888177	Amphibacillus	139.50	0.58	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01899042	Amphibacillus	346.25	1.50	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01899924	Amphibacillus	254.50	3.70	Flagellar motor rotation protein MotB
+PGF_01899937	Amphibacillus	293.25	3.86	Rod shape-determining protein MreC
+PGF_01900753	Amphibacillus	366.00	0.00	Prephenate dehydrogenase (EC 1.3.1.12)
+PGF_01901984	Amphibacillus	90.25	0.50	Transcriptional repressor SdpR
+PGF_01960322	Amphibacillus	602.25	4.50	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01984533	Amphibacillus	86.25	0.50	UPF0296 protein YlzA
+PGF_01994657	Amphibacillus	428.00	0.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Amphibacillus	252.50	1.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02015262	Amphibacillus	311.25	3.20	Helicase loader DnaI
+PGF_02019462	Amphibacillus	346.75	5.50	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Amphibacillus	426.00	0.00	GTP-binding protein Obg
+PGF_02032393	Amphibacillus	237.00	0.00	Trehalose operon transcriptional repressor
+PGF_02049468	Amphibacillus	66.00	0.00	Cold shock protein of CSP family
+PGF_02060348	Amphibacillus	162.25	21.19	MutT/Nudix family protein
+PGF_02061452	Amphibacillus	379.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Amphibacillus	336.75	0.96	Flagellar motor switch protein FliG
+PGF_02154390	Amphibacillus	361.75	1.26	Phosphomevalonate kinase (EC 2.7.4.2)
+PGF_02154745	Amphibacillus	1429.50	1.00	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02155509	Amphibacillus	704.75	0.96	ATP-dependent Clp protease, ATP-binding subunit ClpE
+PGF_02163575	Amphibacillus	437.75	0.50	6-phospho-beta-glucosidase (EC 3.2.1.86)
+PGF_02177520	Amphibacillus	250.00	1.41	RNA polymerase sporulation specific sigma factor SigF
+PGF_02185217	Amphibacillus	429.00	16.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Amphibacillus	359.75	1.26	Flagellar biosynthesis protein FlhB
+PGF_02204321	Amphibacillus	343.25	1.50	Twitching motility protein PilT
+PGF_02226715	Amphibacillus	675.00	6.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227578	Amphibacillus	231.25	2.99	Putative membrane protease YugP
+PGF_02254418	Amphibacillus	367.00	1.15	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57) @ Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_02346669	Amphibacillus	315.00	1.15	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Amphibacillus	877.00	0.00	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02450432	Amphibacillus	265.75	5.50	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Amphibacillus	88.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Amphibacillus	198.00	0.00	Recombination protein RecR
+PGF_02473679	Amphibacillus	541.50	4.43	Type IV fimbrial assembly, ATPase PilB
+PGF_02475999	Amphibacillus	293.50	9.00	RsbT co-antagonist protein RsbRA
+PGF_02516909	Amphibacillus	428.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02522403	Amphibacillus	390.25	0.50	Pheromone shutdown protein
+PGF_02578186	Amphibacillus	327.25	0.50	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02587605	Amphibacillus	135.25	0.50	Zinc uptake regulation protein Zur
+PGF_02593689	Amphibacillus	448.00	0.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Amphibacillus	455.00	0.00	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619921	Amphibacillus	368.50	3.11	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+PGF_02623406	Amphibacillus	313.00	2.94	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627816	Amphibacillus	215.00	4.69	FIG011945: O-methyltransferase family protein
+PGF_02704551	Amphibacillus	1205.25	1.89	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Amphibacillus	152.25	0.96	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02713816	Amphibacillus	195.75	0.96	Uncharacterized protein YyaC
+PGF_02728524	Amphibacillus	859.75	4.50	DNA mismatch repair protein MutS
+PGF_02744871	Amphibacillus	100.00	1.41	Flagellar hook-basal body complex protein FliE
+PGF_02773452	Amphibacillus	196.75	3.77	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+PGF_02787188	Amphibacillus	90.50	1.00	ACT domain protein
+PGF_02787474	Amphibacillus	267.50	2.38	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02788357	Amphibacillus	608.00	0.82	Two-component sensor kinase SA14-24
+PGF_02788986	Amphibacillus	638.75	1.50	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 2
+PGF_02789532	Amphibacillus	273.75	20.55	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Amphibacillus	230.00	2.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Amphibacillus	466.25	0.96	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Amphibacillus	1166.00	23.34	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02817932	Amphibacillus	391.50	2.38	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02831085	Amphibacillus	254.00	133.34	Maltose O-acetyltransferase (EC 2.3.1.79)
+PGF_02844091	Amphibacillus	267.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02863224	Amphibacillus	352.25	1.26	Endoglucanase
+PGF_02873723	Amphibacillus	481.75	1.89	Ribonuclease G
+PGF_02883702	Amphibacillus	356.50	2.08	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02888001	Amphibacillus	332.00	9.90	Stage II sporulation protein D (SpoIID)
+PGF_02896943	Amphibacillus	385.00	143.83	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_02899131	Amphibacillus	66.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02901183	Amphibacillus	808.75	0.96	Stage II sporulation serine phosphatase for sigma-F activation (SpoIIE)
+PGF_02906681	Amphibacillus	722.00	2.71	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02918872	Amphibacillus	589.00	8.00	Neopullulanase (EC 3.2.1.135)
+PGF_02922961	Amphibacillus	96.00	0.00	FIG004454: RNA binding protein
+PGF_02923127	Amphibacillus	240.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02940601	Amphibacillus	158.25	0.50	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_02946231	Amphibacillus	379.50	1.00	SSU ribosomal protein S1p
+PGF_02950579	Amphibacillus	265.00	0.00	Septum site-determining protein MinD
+PGF_02967264	Amphibacillus	305.25	10.87	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_02973376	Amphibacillus	47.75	1.89	hypothetical protein
+PGF_02979098	Amphibacillus	150.75	3.86	alternate gene name: ipa-62r
+PGF_02992495	Amphibacillus	75.75	0.50	Protein translocase membrane subunit SecG
+PGF_02993851	Amphibacillus	222.75	0.50	KtrCD potassium uptake system, peripheral membrane component KtrC
+PGF_03009868	Amphibacillus	247.00	0.00	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+PGF_03017775	Amphibacillus	494.25	0.96	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03026450	Amphibacillus	1188.75	0.96	Chromosome partition protein smc
+PGF_03028237	Amphibacillus	418.00	0.00	Uncharacterized flavin-containing protein YtfP
+PGF_03029062	Amphibacillus	303.75	1.89	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03029859	Amphibacillus	625.50	2.65	Bis-ABC ATPase Uup
+PGF_03031334	Amphibacillus	609.00	0.00	Efflux ABC transporter, permease/ATP-binding protein YknV
+PGF_03034879	Amphibacillus	269.75	6.18	Cell division protein FtsQ
+PGF_03041162	Amphibacillus	49.00	4.08	hypothetical protein
+PGF_03041598	Amphibacillus	175.75	1.50	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
+PGF_03066520	Amphibacillus	412.50	0.58	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03070510	Amphibacillus	290.00	1.41	Flagellar synthesis regulator FleN
+PGF_03075522	Amphibacillus	195.00	0.00	hypothetical protein
+PGF_03076739	Amphibacillus	151.50	2.08	Uncharacterized transcriptional regulator YsmB, MarR family
+PGF_03081665	Amphibacillus	85.75	1.89	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03087426	Amphibacillus	203.50	1.73	hypothetical protein
+PGF_03104029	Amphibacillus	402.25	3.50	Sporulation integral membrane protein YlbJ
+PGF_03110657	Amphibacillus	715.00	7.62	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111988	Amphibacillus	165.00	0.82	Cell division initiation protein DivIVA
+PGF_03117711	Amphibacillus	190.75	0.50	Hydrolase (HAD superfamily), YqeK
+PGF_03120492	Amphibacillus	247.00	0.00	Carboxylesterase (EC 3.1.1.1)
+PGF_03122609	Amphibacillus	407.50	0.58	Uncharacterized protease large subunit YrrO
+PGF_03124650	Amphibacillus	492.25	1.50	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Amphibacillus	415.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03136340	Amphibacillus	544.25	2.06	Superfamily II DNA/RNA helicases, SNF2 family
+PGF_03142037	Amphibacillus	167.25	8.22	Uncharacterized protein YrkC
+PGF_03143682	Amphibacillus	287.25	2.22	Uncharacterized protein YhbB
+PGF_03145455	Amphibacillus	325.00	0.00	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03154343	Amphibacillus	135.50	3.00	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Amphibacillus	275.50	1.00	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Amphibacillus	177.75	0.50	Transcription antitermination protein NusG
+PGF_03248819	Amphibacillus	880.75	0.50	P-type Ca(2+)-transport ATPase (EC 3.6.3.8)
+PGF_03268078	Amphibacillus	623.00	4.08	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03272313	Amphibacillus	824.75	3.69	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Amphibacillus	62.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Amphibacillus	205.25	1.26	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03400333	Amphibacillus	333.00	0.82	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03421722	Amphibacillus	460.00	0.00	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03439690	Amphibacillus	149.75	1.26	Ferric uptake regulation protein FUR
+PGF_03439803	Amphibacillus	580.75	4.57	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85) / Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_03440867	Amphibacillus	132.00	0.00	UPF0047 protein Bsu YugU
+PGF_03456282	Amphibacillus	167.00	1.83	Uncharacterized protein YwgA
+PGF_03456505	Amphibacillus	500.25	48.90	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03473104	Amphibacillus	319.25	1.50	tRNA-dihydrouridine synthase 2
+PGF_03474542	Amphibacillus	437.00	1.63	Flagellum-specific ATP synthase FliI
+PGF_03504453	Amphibacillus	190.00	0.82	Substrate-specific component ThiT of thiamin ECF transporter
+PGF_03520151	Amphibacillus	374.50	1.73	Cell division protein FtsZ
+PGF_03556786	Amphibacillus	608.50	1.00	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.135)
+PGF_03609651	Amphibacillus	655.25	13.18	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03684283	Amphibacillus	416.75	3.30	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Amphibacillus	286.00	12.75	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Amphibacillus	198.25	0.50	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Amphibacillus	150.00	1.15	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03739563	Amphibacillus	103.25	0.50	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750541	Amphibacillus	353.00	0.00	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750571	Amphibacillus	450.00	0.82	Chromosomal replication initiator protein DnaA
+PGF_03751823	Amphibacillus	191.25	3.40	Heat shock protein GrpE
+PGF_03751878	Amphibacillus	192.75	1.71	Substrate-specific component RibU of riboflavin ECF transporter
+PGF_03752544	Amphibacillus	219.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Amphibacillus	303.25	1.71	Site-specific tyrosine recombinase XerC
+PGF_03753933	Amphibacillus	139.00	0.00	Iron-sulfur cluster regulator IscR
+PGF_03755656	Amphibacillus	158.00	1.63	Uncharacterized membrane protein YuiD
+PGF_03778780	Amphibacillus	329.00	2.83	Signal recognition particle receptor FtsY
+PGF_03780858	Amphibacillus	579.00	0.00	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1
+PGF_03787199	Amphibacillus	192.00	0.00	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Amphibacillus	229.25	0.50	Ribonuclease III (EC 3.1.26.3)
+PGF_03797303	Amphibacillus	593.75	0.50	Adenine deaminase (EC 3.5.4.2)
+PGF_03855260	Amphibacillus	485.75	1.71	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)
+PGF_03912513	Amphibacillus	149.25	0.50	DNA protection during starvation protein
+PGF_03919938	Amphibacillus	367.25	0.50	Maltodextrin ABC transporter, ATP-binding protein MsmX
+PGF_03954476	Amphibacillus	251.00	0.00	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03999196	Amphibacillus	809.50	1.00	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Amphibacillus	432.25	0.50	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04024952	Amphibacillus	464.25	2.22	5'-nucleotidase family protein in cluster with NagD-like phosphatase
+PGF_04034430	Amphibacillus	57.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Amphibacillus	75.00	0.00	KH domain RNA binding protein YlqC
+PGF_04041316	Amphibacillus	957.50	1.91	Excinuclease ABC subunit A
+PGF_04042054	Amphibacillus	299.50	1.00	Efflux ABC transporter, ATP-binding protein
+PGF_04091295	Amphibacillus	274.50	0.58	Flagellar motor rotation protein MotA
+PGF_04151476	Amphibacillus	177.75	13.52	16S rRNA processing protein RimM
+PGF_04182459	Amphibacillus	231.00	6.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Amphibacillus	256.50	1.91	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04217145	Amphibacillus	868.50	1.00	Acetaldehyde dehydrogenase (EC 1.2.1.10) / Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_04240096	Amphibacillus	668.50	1.29	Signal transduction histidine kinase CheA
+PGF_04297012	Amphibacillus	353.75	3.10	Sporulation integral membrane protein YtvI
+PGF_04345693	Amphibacillus	458.00	0.00	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Amphibacillus	835.00	0.00	Protein translocase subunit SecA
+PGF_04395505	Amphibacillus	357.25	0.96	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Amphibacillus	104.00	0.00	Thioredoxin
+PGF_04431830	Amphibacillus	495.75	0.50	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04454639	Amphibacillus	454.50	1.29	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04457297	Amphibacillus	184.50	1.29	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04481164	Amphibacillus	88.00	0.00	Veg protein
+PGF_04505269	Amphibacillus	254.00	5.16	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Amphibacillus	447.25	1.26	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04652157	Amphibacillus	229.25	0.50	Tyrosine-protein kinase EpsD (EC 2.7.10.2)
+PGF_04655384	Amphibacillus	305.00	2.83	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Amphibacillus	155.25	0.50	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Amphibacillus	641.25	1.50	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Amphibacillus	218.75	0.50	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Amphibacillus	682.25	9.36	Translation initiation factor 2
+PGF_04788810	Amphibacillus	186.25	1.26	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Amphibacillus	313.00	3.37	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04815798	Amphibacillus	325.50	3.00	Mevalonate kinase (EC 2.7.1.36)
+PGF_04845029	Amphibacillus	114.00	0.00	LSU ribosomal protein L19p
+PGF_04872827	Amphibacillus	282.25	3.10	Chromosome (plasmid) partitioning protein ParB-2
+PGF_04958295	Amphibacillus	132.25	0.50	Flagellar biosynthesis protein FliS
+PGF_04962192	Amphibacillus	761.00	5.72	3'-to-5' exoribonuclease RNase R
+PGF_04971017	Amphibacillus	353.00	0.00	Threonine synthase (EC 4.2.3.1)
+PGF_04973327	Amphibacillus	718.50	6.66	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Penicillin-binding protein 2B
+PGF_04978890	Amphibacillus	102.00	0.00	LSU ribosomal protein L21p
+PGF_05022117	Amphibacillus	539.25	0.50	Bis-ABC ATPase YbiT
+PGF_05062134	Amphibacillus	264.00	0.00	ABC transporter, ATP-binding protein (cluster 15, trp?)
+PGF_05111929	Amphibacillus	772.50	2.89	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Amphibacillus	805.75	0.50	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Amphibacillus	314.75	2.06	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05197855	Amphibacillus	468.75	0.50	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05269328	Amphibacillus	435.75	1.26	DEAD-box ATP-dependent RNA helicase CshB (EC 3.6.4.13)
+PGF_05280843	Amphibacillus	428.50	1.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05304567	Amphibacillus	249.00	1.15	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+PGF_05321649	Amphibacillus	507.75	4.92	ABC transporter, ATP-binding protein (cluster 2, ribose/xylose/arabinose/galactose) / ABC transporter, ATP-binding protein (cluster 2, ribose/xylose/arabinose/galactose)
+PGF_05322683	Amphibacillus	883.00	2.71	Cation-transporting ATPase
+PGF_05377575	Amphibacillus	244.75	1.50	ABC transporter, ATP-binding protein EcsA
+PGF_05406020	Amphibacillus	127.75	5.50	4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
+PGF_05421852	Amphibacillus	625.25	0.50	Chaperone protein HtpG
+PGF_05439724	Amphibacillus	665.75	0.96	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05471309	Amphibacillus	512.00	1.63	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05507938	Amphibacillus	611.50	6.35	DNA mismatch repair protein MutL
+PGF_05560886	Amphibacillus	278.25	2.06	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05564656	Amphibacillus	348.50	0.58	6-phosphogluconolactonase (EC 3.1.1.31)
+PGF_05581732	Amphibacillus	431.00	0.00	Protein translocase subunit SecY
+PGF_05587835	Amphibacillus	258.50	2.89	Hydroxymethylpyrimidine ABC transporter, ATPase component
+PGF_05622318	Amphibacillus	410.75	0.50	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05714136	Amphibacillus	117.75	0.50	FIG138056: a glutathione-dependent thiol reductase
+PGF_05925776	Amphibacillus	294.25	0.50	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05964592	Amphibacillus	387.25	0.50	Acyl-CoA dehydrogenase
+PGF_05971611	Amphibacillus	399.75	0.96	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Amphibacillus	651.50	1.00	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06016284	Amphibacillus	74.00	0.82	NifU-like domain protein
+PGF_06027248	Amphibacillus	489.75	0.50	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06111528	Amphibacillus	378.50	1.00	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06115957	Amphibacillus	400.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Amphibacillus	1158.75	6.85	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06180597	Amphibacillus	145.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Amphibacillus	94.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Amphibacillus	304.00	4.69	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06326847	Amphibacillus	221.00	1.41	Flagellar biosynthesis protein FliP
+PGF_06364262	Amphibacillus	233.00	0.00	Two-component response regulator SA14-24
+PGF_06379377	Amphibacillus	422.75	0.50	Replication-associated recombination protein RarA
+PGF_06403579	Amphibacillus	776.00	6.00	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06447349	Amphibacillus	392.50	8.23	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06459503	Amphibacillus	685.25	1.50	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06469881	Amphibacillus	323.50	1.00	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06513690	Amphibacillus	752.00	0.00	Pyruvate formate-lyase (EC 2.3.1.54)
+PGF_06586947	Amphibacillus	387.00	0.82	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06589185	Amphibacillus	591.50	2.38	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06648993	Amphibacillus	77.00	0.00	Acyl carrier protein
+PGF_06649360	Amphibacillus	195.00	4.32	Segregation and condensation protein B
+PGF_06660812	Amphibacillus	196.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06671388	Amphibacillus	201.50	1.00	Carboxylesterase (EC 3.1.1.1)
+PGF_06693963	Amphibacillus	108.00	0.00	Nucleoid-associated protein YaaK
+PGF_06701488	Amphibacillus	205.75	0.96	RNA-binding protein Jag
+PGF_06735060	Amphibacillus	743.50	2.65	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Amphibacillus	334.00	12.00	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Amphibacillus	419.00	0.00	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_07072582	Amphibacillus	372.75	0.50	RNA polymerase sigma factor RpoD
+PGF_07101513	Amphibacillus	385.25	2.63	Flagellar motor switch protein FliN
+PGF_07178226	Amphibacillus	255.00	6.22	hypothetical protein
+PGF_07410757	Amphibacillus	347.25	0.50	Aldose 1-epimerase (EC 5.1.3.3)
+PGF_07426744	Amphibacillus	245.50	1.00	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08045858	Amphibacillus	390.75	0.50	ABC transporter, permease protein (cluster 2, ribose/xylose/arabinose/galactose)
+PGF_08063949	Amphibacillus	278.75	0.96	Betaine ABC transporter, permease protein BusAB.1

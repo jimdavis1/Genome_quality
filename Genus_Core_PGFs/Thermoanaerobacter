@@ -1,0 +1,897 @@
+PGF_00000027	Thermoanaerobacter	259.67	0.48	Uncharacterized protein YmdB
+PGF_00000196	Thermoanaerobacter	382.05	62.48	FIG007079: UPF0348 protein family
+PGF_00000290	Thermoanaerobacter	98.00	0.00	FIG007421: forespore shell protein
+PGF_00000311	Thermoanaerobacter	293.29	10.69	8-oxoguanine-DNA-glycosylase
+PGF_00000335	Thermoanaerobacter	83.10	1.61	FIG007697: hypothetical protein
+PGF_00000411	Thermoanaerobacter	154.00	0.00	FIG00814129: Possible chaperone
+PGF_00002011	Thermoanaerobacter	79.10	4.02	FIG01165854: hypothetical protein
+PGF_00002349	Thermoanaerobacter	83.43	1.96	UPF0180 protein YkuS
+PGF_00002375	Thermoanaerobacter	335.76	1.09	ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00002481	Thermoanaerobacter	90.05	0.22	FIG015094: hypothetical protein
+PGF_00003269	Thermoanaerobacter	280.83	65.15	FIG069887: hypothetical protein
+PGF_00003409	Thermoanaerobacter	589.05	120.28	FIG092679: Fe-S oxidoreductase
+PGF_00003516	Thermoanaerobacter	366.95	18.55	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004147	Thermoanaerobacter	446.57	2.40	Fe-S oxidoreductase
+PGF_00004177	Thermoanaerobacter	417.36	66.58	Fe-S oxidoreductase, related to NifB/MoaA family with PDZ N-terminal domain
+PGF_00005284	Thermoanaerobacter	479.95	73.44	Flagellar M-ring protein FliF
+PGF_00005291	Thermoanaerobacter	151.10	27.05	Flagellar assembly factor FliW
+PGF_00005354	Thermoanaerobacter	147.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005358	Thermoanaerobacter	266.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Thermoanaerobacter	642.77	101.58	Flagellar biosynthesis protein FlhA
+PGF_00005402	Thermoanaerobacter	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Thermoanaerobacter	397.41	77.56	Flagellar hook protein FlgE
+PGF_00005454	Thermoanaerobacter	459.00	89.63	Flagellar hook-associated protein FlgK
+PGF_00005480	Thermoanaerobacter	452.62	8.03	Flagellar hook-length control protein FliK
+PGF_00005548	Thermoanaerobacter	111.10	10.13	Flagellar protein FlaG
+PGF_00005560	Thermoanaerobacter	192.00	0.00	Flagellar protein FlbB
+PGF_00005609	Thermoanaerobacter	140.41	21.34	Flagellar protein FliJ
+PGF_00005653	Thermoanaerobacter	360.82	92.76	Flagellin protein FlaA
+PGF_00006091	Thermoanaerobacter	121.95	0.22	Folate biosynthesis protein PTPS-III, catalyzes a reaction that bypasses dihydroneopterin aldolase (FolB)
+PGF_00006245	Thermoanaerobacter	531.14	99.29	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006457	Thermoanaerobacter	280.00	0.00	Fumarate hydratase class I, alpha region (EC 4.2.1.2); L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)
+PGF_00007026	Thermoanaerobacter	192.67	0.97	GTP-binding protein EngB
+PGF_00007027	Thermoanaerobacter	286.77	50.85	GTP-binding protein Era
+PGF_00007028	Thermoanaerobacter	372.13	97.20	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Thermoanaerobacter	607.00	1.00	GTP-binding protein TypA/BipA
+PGF_00007045	Thermoanaerobacter	250.00	0.00	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Thermoanaerobacter	445.00	71.04	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Thermoanaerobacter	268.62	21.57	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Thermoanaerobacter	308.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Thermoanaerobacter	450.67	5.01	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Thermoanaerobacter	424.00	64.63	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Thermoanaerobacter	354.59	61.33	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Thermoanaerobacter	370.57	81.87	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Thermoanaerobacter	253.45	50.82	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Thermoanaerobacter	492.81	20.56	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008130	Thermoanaerobacter	228.36	43.06	Glutamate synthase, alpha subunit domain protein
+PGF_00008239	Thermoanaerobacter	235.23	7.03	Glutamine amidotransferase, class I
+PGF_00008244	Thermoanaerobacter	356.32	65.24	Glutamine amidotransferase, class-II
+PGF_00008258	Thermoanaerobacter	444.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008263	Thermoanaerobacter	190.14	0.65	Glutamine synthetase-associated two-component response regulator
+PGF_00008366	Thermoanaerobacter	177.09	42.19	Glutaredoxin and related proteins
+PGF_00008611	Thermoanaerobacter	315.36	49.69	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Thermoanaerobacter	229.09	42.91	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008872	Thermoanaerobacter	541.71	1.79	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009500	Thermoanaerobacter	184.10	0.44	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009966	Thermoanaerobacter	440.82	75.83	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010166	Thermoanaerobacter	323.00	0.00	Glyoxylate reductase (EC 1.1.1.26) @ Hydroxypyruvate reductase (EC 1.1.1.81)
+PGF_00010205	Thermoanaerobacter	209.74	65.32	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Thermoanaerobacter	206.38	2.42	Guanylate kinase (EC 2.7.4.8)
+PGF_00010487	Thermoanaerobacter	629.48	10.21	HAMP domain/GAF domain/HD domain protein
+PGF_00010692	Thermoanaerobacter	305.00	0.00	HPr kinase/phosphorylase
+PGF_00011081	Thermoanaerobacter	697.00	122.97	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011979	Thermoanaerobacter	407.82	63.36	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011983	Thermoanaerobacter	234.09	40.58	Histidinol phosphatase and related hydrolases of the PHP family
+PGF_00011989	Thermoanaerobacter	272.00	0.00	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012264	Thermoanaerobacter	338.00	0.00	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Thermoanaerobacter	304.19	12.03	Homoserine kinase (EC 2.7.1.39)
+PGF_00012652	Thermoanaerobacter	166.10	0.44	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00012796	Thermoanaerobacter	146.00	0.00	ACT-domain-containing protein, predicted allosteric regulator of homoserine dehydrogenase
+PGF_00012820	Thermoanaerobacter	215.55	34.83	Hydrolase, haloacid dehalogenase-like family
+PGF_00012970	Thermoanaerobacter	432.00	0.00	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013244	Thermoanaerobacter	179.00	0.00	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Thermoanaerobacter	202.10	0.44	UPF0001 protein YggS
+PGF_00013347	Thermoanaerobacter	84.90	0.44	UPF0297 protein YrzL
+PGF_00013492	Thermoanaerobacter	180.67	1.53	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013741	Thermoanaerobacter	316.00	56.88	AIR Synthase, TMP kinase, hydrogenase maturation protein HypE superfamily
+PGF_00013803	Thermoanaerobacter	194.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Thermoanaerobacter	260.00	0.00	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Thermoanaerobacter	206.00	0.00	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00015506	Thermoanaerobacter	134.62	0.67	Iron-sulfur binding protein
+PGF_00015629	Thermoanaerobacter	374.41	60.61	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015699	Thermoanaerobacter	403.00	0.00	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Thermoanaerobacter	849.83	226.64	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015736	Thermoanaerobacter	545.55	95.94	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015911	Thermoanaerobacter	676.88	204.62	Kojibiose phosphorylase (EC 2.4.1.230)
+PGF_00016132	Thermoanaerobacter	299.95	35.58	L-lactate dehydrogenase (EC 1.1.1.27)
+PGF_00016134	Thermoanaerobacter	137.00	0.00	L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy acid dehydrogenases
+PGF_00016223	Thermoanaerobacter	282.82	51.41	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Thermoanaerobacter	222.00	0.00	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016338	Thermoanaerobacter	424.00	0.00	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Thermoanaerobacter	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016343	Thermoanaerobacter	144.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Thermoanaerobacter	112.00	0.00	LSU ribosomal protein L17p
+PGF_00016358	Thermoanaerobacter	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Thermoanaerobacter	111.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Thermoanaerobacter	97.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Thermoanaerobacter	107.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Thermoanaerobacter	95.00	0.00	LSU ribosomal protein L27p
+PGF_00016387	Thermoanaerobacter	62.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016393	Thermoanaerobacter	275.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016404	Thermoanaerobacter	60.05	0.50	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Thermoanaerobacter	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Thermoanaerobacter	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Thermoanaerobacter	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Thermoanaerobacter	210.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Thermoanaerobacter	206.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Thermoanaerobacter	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Thermoanaerobacter	165.00	40.59	LSU ribosomal protein L6p (L9e)
+PGF_00016452	Thermoanaerobacter	147.00	0.00	LSU ribosomal protein L9p
+PGF_00017127	Thermoanaerobacter	311.05	51.88	Lipoate-protein ligase A
+PGF_00017444	Thermoanaerobacter	178.38	7.53	Lipoprotein yhcN precursor
+PGF_00017608	Thermoanaerobacter	148.77	28.47	Low temperature requirement C protein
+PGF_00017760	Thermoanaerobacter	485.05	100.35	LysM domain-containing membrane protein
+PGF_00017773	Thermoanaerobacter	264.29	11.53	LysM-repeat proteins and domains
+PGF_00019100	Thermoanaerobacter	337.00	0.00	Maltose operon transcriptional repressor MalR, LacI family
+PGF_00019102	Thermoanaerobacter	336.00	0.00	Maltose operon transcriptional repressor MalR, LacI family
+PGF_00019248	Thermoanaerobacter	514.82	102.68	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019307	Thermoanaerobacter	318.00	0.00	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019563	Thermoanaerobacter	235.48	13.67	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
+PGF_00020147	Thermoanaerobacter	366.90	0.30	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020361	Thermoanaerobacter	158.95	0.22	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Thermoanaerobacter	248.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020752	Thermoanaerobacter	550.00	0.00	Methionine synthase I, cobalamin-binding domain
+PGF_00020984	Thermoanaerobacter	270.68	31.91	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Thermoanaerobacter	130.29	4.11	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021217	Thermoanaerobacter	489.77	91.14	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022340	Thermoanaerobacter	179.48	0.51	Mobile element-associated NusG-like protein
+PGF_00022707	Thermoanaerobacter	342.57	1.12	MreB-like protein (Mbl protein)
+PGF_00023684	Thermoanaerobacter	385.23	77.73	Trehalose ABC transporter, substrate-binding protein
+PGF_00023739	Thermoanaerobacter	326.45	57.09	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023794	Thermoanaerobacter	383.90	2.49	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00024248	Thermoanaerobacter	129.77	20.26	N-terminal of elongation factor Ts
+PGF_00024478	Thermoanaerobacter	335.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Thermoanaerobacter	237.18	38.91	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024855	Thermoanaerobacter	133.57	1.43	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Thermoanaerobacter	528.73	84.03	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Thermoanaerobacter	173.57	9.96	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025562	Thermoanaerobacter	238.91	41.57	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Thermoanaerobacter	344.00	0.00	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026362	Thermoanaerobacter	196.62	6.34	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026468	Thermoanaerobacter	170.95	0.22	Nucleotide excision repair protein, with UvrB/UvrC motif
+PGF_00026536	Thermoanaerobacter	142.91	22.25	Nudix hydrolase family protein
+PGF_00026615	Thermoanaerobacter	297.10	8.73	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00027460	Thermoanaerobacter	85.00	0.00	OrfX
+PGF_00028941	Thermoanaerobacter	355.95	7.79	Oxygen-independent coproporphyrinogen III oxidase (EC 1.-.-.-)
+PGF_00029260	Thermoanaerobacter	475.00	0.00	PLP-dependent aminotransferase
+PGF_00029596	Thermoanaerobacter	103.43	5.62	PTS system, beta-glucoside-specific, IIA component
+PGF_00029631	Thermoanaerobacter	148.71	1.31	PTS system, fructose-specific IIA component (EC 2.7.1.202)
+PGF_00029917	Thermoanaerobacter	283.76	2.41	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00031568	Thermoanaerobacter	144.45	26.68	Peroxide stress regulator PerR, FUR family
+PGF_00031582	Thermoanaerobacter	143.14	1.31	Peroxide stress regulator; Ferric uptake regulation protein; Fe2+/Zn2+ uptake regulation proteins
+PGF_00033095	Thermoanaerobacter	757.77	132.16	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033197	Thermoanaerobacter	331.48	0.98	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Thermoanaerobacter	313.59	50.34	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Thermoanaerobacter	321.09	63.08	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033312	Thermoanaerobacter	161.00	33.75	Phosphatidylglycerophosphatase B (EC 3.1.3.27)
+PGF_00033359	Thermoanaerobacter	316.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033423	Thermoanaerobacter	573.00	0.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033511	Thermoanaerobacter	375.82	72.56	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033904	Thermoanaerobacter	371.18	61.48	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Thermoanaerobacter	219.10	0.44	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Thermoanaerobacter	418.00	3.95	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Thermoanaerobacter	223.91	38.27	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Thermoanaerobacter	203.00	0.00	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Thermoanaerobacter	234.90	0.44	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Thermoanaerobacter	320.68	59.48	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Thermoanaerobacter	223.43	2.86	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Thermoanaerobacter	194.32	32.58	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034776	Thermoanaerobacter	668.18	115.02	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Thermoanaerobacter	168.95	18.55	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035370	Thermoanaerobacter	283.52	0.60	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035721	Thermoanaerobacter	473.05	0.22	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Thermoanaerobacter	371.42	121.27	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036242	Thermoanaerobacter	275.14	2.15	Predicted regulator of fructose utilization, DeoR family
+PGF_00036580	Thermoanaerobacter	99.00	0.00	Protein translocase subunit YajC
+PGF_00036697	Thermoanaerobacter	230.35	34.12	Probable 2-phosphosulfolactate phosphatase (EC 3.1.3.71)
+PGF_00036988	Thermoanaerobacter	262.65	57.35	Agmatinase (EC 3.5.3.11)
+PGF_00037588	Thermoanaerobacter	570.05	0.22	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00038619	Thermoanaerobacter	247.00	0.00	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038674	Thermoanaerobacter	303.00	0.00	Protein translocase subunit SecF
+PGF_00038846	Thermoanaerobacter	358.59	61.07	Aldo/keto reductase, 4Fe-4S-containing, TM1183 family
+PGF_00038971	Thermoanaerobacter	272.57	6.55	Pur operon repressor PurR
+PGF_00038987	Thermoanaerobacter	233.00	0.00	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039149	Thermoanaerobacter	338.48	2.40	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00040294	Thermoanaerobacter	234.57	26.35	Alkaline phosphatase like protein
+PGF_00040464	Thermoanaerobacter	383.00	0.00	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040578	Thermoanaerobacter	254.41	0.50	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Thermoanaerobacter	134.48	0.75	Alkaline shock protein
+PGF_00042913	Thermoanaerobacter	270.36	44.57	Sporulation-specific protease YabG
+PGF_00043387	Thermoanaerobacter	395.43	40.59	Putative protease
+PGF_00045634	Thermoanaerobacter	686.92	240.96	Alpha,alpha-trehalose phosphorylase (2.4.1.64)
+PGF_00045787	Thermoanaerobacter	180.18	27.50	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Thermoanaerobacter	292.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Thermoanaerobacter	417.62	59.29	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045994	Thermoanaerobacter	583.00	0.00	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00045999	Thermoanaerobacter	836.86	149.42	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+PGF_00046020	Thermoanaerobacter	465.00	0.00	Pyruvate:Oxaloacetate transcarboxylase domain protein
+PGF_00046197	Thermoanaerobacter	265.24	1.00	RNA binding methyltransferase FtsJ like
+PGF_00046199	Thermoanaerobacter	140.81	1.25	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046551	Thermoanaerobacter	240.77	1.07	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046553	Thermoanaerobacter	256.00	0.00	RNA polymerase sporulation specific sigma factor SigG
+PGF_00046555	Thermoanaerobacter	214.95	2.01	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Thermoanaerobacter	86.05	0.21	RNA-binding protein Hfq
+PGF_00047078	Thermoanaerobacter	339.45	6.81	RecA protein
+PGF_00047155	Thermoanaerobacter	223.76	1.09	Redox-sensing transcriptional repressor Rex
+PGF_00047479	Thermoanaerobacter	395.27	64.71	Related to HTH domain of SpoOJ/ParA/ParB/repB family, involved in chromosome partitioning
+PGF_00048480	Thermoanaerobacter	207.00	0.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Thermoanaerobacter	146.41	23.61	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Thermoanaerobacter	230.95	42.17	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Thermoanaerobacter	257.62	14.14	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Thermoanaerobacter	157.86	0.65	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Thermoanaerobacter	287.48	75.58	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Thermoanaerobacter	236.00	0.00	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Thermoanaerobacter	305.86	10.05	Ribosomal protein L11 methyltransferase
+PGF_00048846	Thermoanaerobacter	436.00	0.00	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Thermoanaerobacter	229.95	38.98	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Thermoanaerobacter	181.00	0.00	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Thermoanaerobacter	184.00	0.00	Ribosome recycling factor
+PGF_00048928	Thermoanaerobacter	293.00	0.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Thermoanaerobacter	81.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Thermoanaerobacter	119.00	0.00	Ribosome-binding factor A
+PGF_00049161	Thermoanaerobacter	171.67	1.15	Rod shape-determining protein MreD
+PGF_00049362	Thermoanaerobacter	341.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049381	Thermoanaerobacter	304.17	128.70	S-layer homology domain
+PGF_00049550	Thermoanaerobacter	121.00	0.00	Alternative dihydrofolate reductase 2 / Dihydropteroate synthase (EC 2.5.1.15)
+PGF_00049731	Thermoanaerobacter	424.71	1.65	Aluminum resistance protein
+PGF_00049827	Thermoanaerobacter	272.95	0.22	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Thermoanaerobacter	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Thermoanaerobacter	130.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049840	Thermoanaerobacter	122.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Thermoanaerobacter	60.52	2.18	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Thermoanaerobacter	91.57	2.31	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Thermoanaerobacter	86.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Thermoanaerobacter	83.57	1.96	SSU ribosomal protein S17p (S11e)
+PGF_00049857	Thermoanaerobacter	88.19	0.40	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049860	Thermoanaerobacter	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Thermoanaerobacter	221.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049901	Thermoanaerobacter	95.00	0.00	SSU ribosomal protein S6p
+PGF_00049906	Thermoanaerobacter	132.05	0.22	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Thermoanaerobacter	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Thermoanaerobacter	221.30	55.64	Segregation and condensation protein A
+PGF_00050995	Thermoanaerobacter	442.09	87.26	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Thermoanaerobacter	204.05	34.04	Septum site-determining protein MinC
+PGF_00051214	Thermoanaerobacter	414.57	109.92	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051525	Thermoanaerobacter	423.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052218	Thermoanaerobacter	117.00	0.00	Signal recognition particle associated protein
+PGF_00052238	Thermoanaerobacter	423.73	76.75	Signal recognition particle protein Ffh
+PGF_00052685	Thermoanaerobacter	285.00	0.00	Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YjbO type
+PGF_00052943	Thermoanaerobacter	277.27	44.53	Site-specific tyrosine recombinase XerD
+PGF_00053770	Thermoanaerobacter	368.29	1.31	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053784	Thermoanaerobacter	86.00	0.00	SpoVS-related protein, type 4
+PGF_00053867	Thermoanaerobacter	158.05	0.22	Spore cortex biosynthesis protein
+PGF_00053878	Thermoanaerobacter	305.77	52.38	Spore germination endopeptidase Gpr (EC 3.4.24.78)
+PGF_00053887	Thermoanaerobacter	480.05	0.22	Aminopeptidase N
+PGF_00053894	Thermoanaerobacter	184.91	33.66	Spore maturation protein A
+PGF_00053897	Thermoanaerobacter	173.00	0.00	Spore maturation protein B
+PGF_00053900	Thermoanaerobacter	318.00	61.48	Spore photoproduct lyase (EC 4.1.99.14)
+PGF_00053909	Thermoanaerobacter	140.73	25.38	Spore protein GerW (YtfJ), not involved in spore germination
+PGF_00053991	Thermoanaerobacter	292.86	0.48	Stage 0 sporulation protein YaaT
+PGF_00053997	Thermoanaerobacter	260.00	0.00	Stage 0 sporulation two-component response regulator (Spo0A)
+PGF_00054013	Thermoanaerobacter	207.00	0.00	Stage II sporulation protein M (SpoIIM)
+PGF_00054034	Thermoanaerobacter	200.05	39.44	Stage II sporulation protein required for processing of pro-sigma-E (SpoIIR)
+PGF_00054042	Thermoanaerobacter	160.73	25.29	Stage III sporulation protein AB
+PGF_00054046	Thermoanaerobacter	65.00	0.00	Stage III sporulation protein AC
+PGF_00054049	Thermoanaerobacter	128.00	0.00	Stage III sporulation protein AD
+PGF_00054051	Thermoanaerobacter	366.23	67.67	Stage III sporulation protein AE
+PGF_00054062	Thermoanaerobacter	186.90	3.13	Stage III sporulation protein AF
+PGF_00054075	Thermoanaerobacter	82.14	12.20	Stage III sporulation protein D
+PGF_00054079	Thermoanaerobacter	284.14	0.65	Stage IV sporulation pro-sigma-K processing enzyme (SpoIVFB)
+PGF_00054087	Thermoanaerobacter	493.43	4.51	Stage IV sporulation protein A
+PGF_00054088	Thermoanaerobacter	375.12	120.71	Stage IV sporulation protein B
+PGF_00054097	Thermoanaerobacter	148.00	0.00	Stage V sporulation protein AC (SpoVAC)
+PGF_00054098	Thermoanaerobacter	331.29	14.34	Stage V sporulation protein AD (SpoVAD)
+PGF_00054100	Thermoanaerobacter	118.00	0.00	Stage V sporulation protein AE1 (SpoVAE1)
+PGF_00054116	Thermoanaerobacter	183.24	1.09	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+PGF_00054134	Thermoanaerobacter	285.09	54.00	Stage V sporulation protein SpoVK
+PGF_00054381	Thermoanaerobacter	158.41	27.43	Substrate-specific component NiaX of predicted niacin ECF transporter
+PGF_00054388	Thermoanaerobacter	176.14	1.49	Substrate-specific component PanT of predicted pantothenate ECF transporter
+PGF_00054403	Thermoanaerobacter	156.00	0.00	Substrate-specific component QueT (COG4708) of predicted queuosine-regulated ECF transporter
+PGF_00054920	Thermoanaerobacter	220.50	39.34	Sugar fermentation stimulation protein SfsA
+PGF_00055491	Thermoanaerobacter	268.00	0.00	TPR domain protein
+PGF_00055714	Thermoanaerobacter	411.00	90.85	TPR-repeat-containing proteins
+PGF_00056662	Thermoanaerobacter	307.48	71.40	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Thermoanaerobacter	453.77	77.69	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Thermoanaerobacter	193.00	0.00	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Thermoanaerobacter	192.09	30.01	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057127	Thermoanaerobacter	143.00	0.00	Anti-sigma F factor (EC 2.7.11.1)
+PGF_00057198	Thermoanaerobacter	111.00	0.00	Anti-sigma F factor antagonist
+PGF_00057402	Thermoanaerobacter	147.00	0.00	Transamidase GatB domain protein
+PGF_00057483	Thermoanaerobacter	485.36	88.05	Transcription termination factor Rho
+PGF_00057485	Thermoanaerobacter	346.00	0.00	Transcription termination protein NusA
+PGF_00057488	Thermoanaerobacter	127.57	33.12	Transcription termination protein NusB
+PGF_00057599	Thermoanaerobacter	651.68	134.46	Transcriptional antiterminator, BglG
+PGF_00058285	Thermoanaerobacter	174.00	0.00	Transcriptional regulator
+PGF_00058324	Thermoanaerobacter	241.39	58.41	Transcriptional regulator
+PGF_00059819	Thermoanaerobacter	287.00	0.00	Transcriptional regulator, RpiR family
+PGF_00060261	Thermoanaerobacter	170.00	0.00	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060412	Thermoanaerobacter	619.65	137.66	Elongation factor G-like protein TM_1651
+PGF_00060414	Thermoanaerobacter	575.59	99.85	Translation elongation factor LepA
+PGF_00060421	Thermoanaerobacter	184.43	2.62	Translation elongation factor P
+PGF_00060427	Thermoanaerobacter	204.00	0.00	Translation elongation factor Ts
+PGF_00060431	Thermoanaerobacter	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Thermoanaerobacter	144.67	5.31	Translation initiation factor 3
+PGF_00060487	Thermoanaerobacter	236.86	2.10	Translocation-enhancing protein TepA
+PGF_00062023	Thermoanaerobacter	261.76	1.09	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Thermoanaerobacter	372.45	72.03	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063683	Thermoanaerobacter	167.67	11.55	Type IV pilin PilA
+PGF_00063687	Thermoanaerobacter	182.91	53.10	Type IV pilin PilA
+PGF_00063688	Thermoanaerobacter	119.10	9.07	Type IV pilin PilA
+PGF_00063916	Thermoanaerobacter	403.29	12.44	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Thermoanaerobacter	286.27	53.13	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Thermoanaerobacter	364.00	0.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Thermoanaerobacter	442.91	78.87	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064195	Thermoanaerobacter	123.00	0.00	UPF0102 protein TTE1452
+PGF_00064244	Thermoanaerobacter	495.00	0.00	Arginine decarboxylase (EC 4.1.1.19)
+PGF_00064276	Thermoanaerobacter	115.67	5.99	UPF0251 protein CTC_01373
+PGF_00064359	Thermoanaerobacter	151.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064450	Thermoanaerobacter	210.62	2.97	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase related protein
+PGF_00064893	Thermoanaerobacter	171.00	0.00	Uncharacterized protein AF_2201
+PGF_00065380	Thermoanaerobacter	431.91	123.85	Uncharacterized protein YaaO
+PGF_00065410	Thermoanaerobacter	143.24	1.41	Uncharacterized protein YbbK
+PGF_00065887	Thermoanaerobacter	237.95	44.99	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065904	Thermoanaerobacter	244.78	69.10	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_00066123	Thermoanaerobacter	200.18	32.63	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Thermoanaerobacter	170.00	30.46	Pyrimidine operon regulatory protein PyrR
+PGF_00066245	Thermoanaerobacter	501.13	122.40	Uridine kinase (EC 2.7.1.48)
+PGF_00066435	Thermoanaerobacter	576.38	115.84	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) YisO
+PGF_00066589	Thermoanaerobacter	116.48	2.87	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Thermoanaerobacter	304.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Thermoanaerobacter	378.30	102.77	Uracil permease @ Uracil:proton symporter UraA
+PGF_00067108	Thermoanaerobacter	363.00	62.46	Xylose-responsive transcription regulator, ROK family
+PGF_00067188	Thermoanaerobacter	329.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067216	Thermoanaerobacter	242.48	8.38	Probable iron export ATP-binding protein FetA
+PGF_00067346	Thermoanaerobacter	216.00	0.00	YheO-like PAS domain
+PGF_00067383	Thermoanaerobacter	496.23	97.78	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067473	Thermoanaerobacter	65.00	0.00	Zinc finger domain
+PGF_00067554	Thermoanaerobacter	454.86	84.35	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067607	Thermoanaerobacter	311.38	0.80	Zn-dependent dipeptidase-like protein
+PGF_00068771	Thermoanaerobacter	202.42	68.22	Autolysis response regulater LytR
+PGF_00070432	Thermoanaerobacter	335.09	2.94	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00071333	Thermoanaerobacter	139.38	3.20	Uncharacterized protein YvyF
+PGF_00084324	Thermoanaerobacter	257.14	45.40	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00096245	Thermoanaerobacter	111.00	2.39	hypothetical protein
+PGF_00115615	Thermoanaerobacter	307.71	1.31	hypothetical protein
+PGF_00132889	Thermoanaerobacter	131.19	0.87	hypothetical protein
+PGF_00138572	Thermoanaerobacter	85.81	3.71	hypothetical protein
+PGF_00173649	Thermoanaerobacter	55.00	0.00	hypothetical protein
+PGF_00174286	Thermoanaerobacter	60.68	0.48	hypothetical protein
+PGF_00177269	Thermoanaerobacter	86.00	0.00	hypothetical protein
+PGF_00182282	Thermoanaerobacter	94.43	0.60	hypothetical protein
+PGF_00184421	Thermoanaerobacter	183.19	8.29	Uncharacterized protein YviE clustered with flagellar hook-associated proteins
+PGF_00191282	Thermoanaerobacter	206.82	39.22	hypothetical protein
+PGF_00194052	Thermoanaerobacter	104.09	16.64	Transcriptional regulator
+PGF_00195399	Thermoanaerobacter	338.55	57.29	hypothetical protein
+PGF_00201880	Thermoanaerobacter	56.00	0.00	hypothetical protein
+PGF_00233777	Thermoanaerobacter	90.76	4.79	hypothetical protein
+PGF_00244412	Thermoanaerobacter	127.00	0.00	hypothetical protein
+PGF_00261130	Thermoanaerobacter	191.29	11.62	hypothetical protein
+PGF_00277534	Thermoanaerobacter	89.05	0.22	hypothetical protein
+PGF_00285620	Thermoanaerobacter	195.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00286985	Thermoanaerobacter	386.68	64.93	[FeFe]-hydrogenase maturation protein HydF
+PGF_00296393	Thermoanaerobacter	113.29	7.05	hypothetical protein
+PGF_00299748	Thermoanaerobacter	130.00	0.00	hypothetical protein
+PGF_00302358	Thermoanaerobacter	163.33	0.48	hypothetical protein
+PGF_00309959	Thermoanaerobacter	66.00	0.00	Small, acid-soluble spore protein I
+PGF_00325010	Thermoanaerobacter	65.00	0.00	hypothetical protein
+PGF_00325570	Thermoanaerobacter	201.62	4.87	hypothetical protein
+PGF_00327096	Thermoanaerobacter	118.48	5.89	hypothetical protein
+PGF_00333984	Thermoanaerobacter	202.95	32.21	hypothetical protein
+PGF_00337787	Thermoanaerobacter	204.95	20.36	hypothetical protein
+PGF_00339542	Thermoanaerobacter	160.00	0.00	hypothetical protein
+PGF_00342037	Thermoanaerobacter	300.71	1.31	Foldase protein PrsA precursor (EC 5.2.1.8)
+PGF_00350921	Thermoanaerobacter	277.77	47.86	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00354504	Thermoanaerobacter	167.00	0.00	FIG072699: hypothetical protein
+PGF_00356067	Thermoanaerobacter	152.67	0.97	hypothetical protein
+PGF_00363358	Thermoanaerobacter	69.00	0.00	hypothetical protein
+PGF_00381158	Thermoanaerobacter	231.64	42.46	hypothetical protein
+PGF_00381291	Thermoanaerobacter	480.67	2.42	hypothetical protein
+PGF_00383497	Thermoanaerobacter	150.90	0.44	hypothetical protein
+PGF_00393498	Thermoanaerobacter	166.81	5.46	hypothetical protein
+PGF_00399040	Thermoanaerobacter	77.00	0.00	hypothetical protein
+PGF_00403761	Thermoanaerobacter	394.32	79.57	Hydrolase, alpha/beta fold family
+PGF_00404184	Thermoanaerobacter	224.00	0.00	probable enzyme with TIM-barrel fold
+PGF_00404196	Thermoanaerobacter	400.41	84.30	probable exported protein STY2149
+PGF_00404333	Thermoanaerobacter	326.00	0.00	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404569	Thermoanaerobacter	359.68	67.60	probable secreted protein homolog of yjcM/yhbB B. subtilis
+PGF_00404809	Thermoanaerobacter	449.38	2.46	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00404817	Thermoanaerobacter	114.00	0.00	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404866	Thermoanaerobacter	109.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00407282	Thermoanaerobacter	245.00	0.00	putative histidinol phosphatase and related hydrolases of the PHP family
+PGF_00409305	Thermoanaerobacter	301.00	0.00	putative membrane protein
+PGF_00409857	Thermoanaerobacter	249.71	2.78	putative nucleotide-binding protein
+PGF_00411484	Thermoanaerobacter	296.57	5.87	radical activating enzyme
+PGF_00411946	Thermoanaerobacter	106.62	1.75	Ribosomal protein L7Ae family protein YlxQ
+PGF_00412608	Thermoanaerobacter	65.00	0.00	small acid-soluble spore protein (alpha/beta-type SASP)
+PGF_00413189	Thermoanaerobacter	227.50	36.16	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413191	Thermoanaerobacter	254.05	0.22	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase (EC 2.1.1.219)
+PGF_00413203	Thermoanaerobacter	155.52	2.18	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Thermoanaerobacter	241.05	0.22	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413261	Thermoanaerobacter	460.24	2.05	tRNA and rRNA cytosine-C5-methylase Type 1
+PGF_00413283	Thermoanaerobacter	369.18	67.81	tRNA nucleotidyltransferase-like protein
+PGF_00413290	Thermoanaerobacter	230.70	40.52	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Thermoanaerobacter	283.05	1.12	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Thermoanaerobacter	457.52	8.66	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413306	Thermoanaerobacter	224.95	34.41	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Thermoanaerobacter	148.05	1.75	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413368	Thermoanaerobacter	248.67	13.39	tRNA/rRNA methyltransferase
+PGF_00413554	Thermoanaerobacter	156.00	0.00	tmRNA-binding protein SmpB
+PGF_00414926	Thermoanaerobacter	433.86	107.26	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415346	Thermoanaerobacter	387.36	68.87	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415631	Thermoanaerobacter	88.48	4.81	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416020	Thermoanaerobacter	240.95	10.49	CRISPR-associated protein Cas5
+PGF_00416115	Thermoanaerobacter	309.00	0.00	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Thermoanaerobacter	533.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416408	Thermoanaerobacter	313.14	0.65	Carbamate kinase (EC 2.7.2.2)
+PGF_00416410	Thermoanaerobacter	950.48	261.10	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416674	Thermoanaerobacter	396.00	0.00	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416985	Thermoanaerobacter	144.33	14.08	Cell division protein FtsL
+PGF_00417044	Thermoanaerobacter	236.90	0.62	Cell division protein FtsQ
+PGF_00417069	Thermoanaerobacter	368.00	0.00	Cell division protein FtsW @ Stage V sporulation protein E
+PGF_00417115	Thermoanaerobacter	91.10	0.30	Cell division topological specificity factor MinE
+PGF_00417381	Thermoanaerobacter	340.71	12.68	Central glycolytic genes regulator
+PGF_00417429	Thermoanaerobacter	349.91	85.65	Chaperone protein DnaJ
+PGF_00417577	Thermoanaerobacter	148.00	0.00	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417619	Thermoanaerobacter	292.59	53.43	Chitinase family protein
+PGF_00417658	Thermoanaerobacter	356.00	0.00	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Thermoanaerobacter	334.09	59.41	Chorismate synthase (EC 4.2.3.5)
+PGF_00418182	Thermoanaerobacter	134.00	5.02	CoA-binding domain
+PGF_00418368	Thermoanaerobacter	484.27	79.75	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Thermoanaerobacter	405.04	128.71	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419420	Thermoanaerobacter	417.71	0.46	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419702	Thermoanaerobacter	177.95	7.42	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419875	Thermoanaerobacter	273.00	0.00	Cyanophycinase (EC 3.4.15.6)
+PGF_00419915	Thermoanaerobacter	260.82	48.54	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00421018	Thermoanaerobacter	366.00	0.00	D-octopine dehydrogenase (EC 1.5.1.11)
+PGF_00421071	Thermoanaerobacter	149.10	0.30	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421489	Thermoanaerobacter	1086.91	230.50	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Thermoanaerobacter	370.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421733	Thermoanaerobacter	329.09	89.20	DNA recombination and repair protein RecF
+PGF_00421792	Thermoanaerobacter	415.35	108.91	DNA repair protein RadA
+PGF_00421816	Thermoanaerobacter	327.00	0.00	DNA replication helicase loader DnaC/DnaI
+PGF_00421830	Thermoanaerobacter	323.81	7.61	DNA replication protein DnaD
+PGF_00422061	Thermoanaerobacter	89.33	7.64	DNA-binding protein HBsu
+PGF_00422085	Thermoanaerobacter	91.81	0.60	DNA-binding protein SpoVG
+PGF_00422271	Thermoanaerobacter	284.91	80.43	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422703	Thermoanaerobacter	207.71	5.45	DedA family protein
+PGF_00422813	Thermoanaerobacter	354.43	3.64	Dehydrogenases
+PGF_00422959	Thermoanaerobacter	148.00	0.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Thermoanaerobacter	343.09	61.23	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Thermoanaerobacter	258.27	49.54	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Thermoanaerobacter	402.59	71.52	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423378	Thermoanaerobacter	409.14	79.38	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Thermoanaerobacter	481.48	118.73	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423662	Thermoanaerobacter	238.00	9.17	Division initiation protein
+PGF_00424129	Thermoanaerobacter	308.27	49.65	Electron transfer subunit protein
+PGF_00424236	Thermoanaerobacter	131.68	21.07	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424336	Thermoanaerobacter	290.86	1.49	Endonuclease IV (EC 3.1.21.2)
+PGF_00424620	Thermoanaerobacter	330.36	80.59	Enterotoxin
+PGF_00424971	Thermoanaerobacter	587.23	100.21	Excinuclease ABC subunit C
+PGF_00425024	Thermoanaerobacter	401.95	2.01	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425037	Thermoanaerobacter	75.00	0.00	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_00425092	Thermoanaerobacter	383.86	71.81	Exonuclease SbcD
+PGF_00425665	Thermoanaerobacter	254.32	52.36	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Thermoanaerobacter	257.91	61.74	RNase adapter protein RapZ
+PGF_00425679	Thermoanaerobacter	215.95	0.22	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Thermoanaerobacter	245.90	0.44	Probable transcriptional regulatory protein YebC
+PGF_00425720	Thermoanaerobacter	248.00	0.00	Putative RNA-binding protein YlmH
+PGF_00425729	Thermoanaerobacter	402.82	67.12	FIG001621: Zinc protease
+PGF_00425786	Thermoanaerobacter	507.10	6.27	Ribonuclease Y
+PGF_00425806	Thermoanaerobacter	309.09	51.18	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425891	Thermoanaerobacter	302.00	0.00	FIG003573: hypothetical protein
+PGF_00425997	Thermoanaerobacter	317.52	75.81	FIG004453: protein YceG like
+PGF_00426041	Thermoanaerobacter	275.17	78.18	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Thermoanaerobacter	588.36	99.39	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Thermoanaerobacter	336.36	63.30	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426722	Thermoanaerobacter	770.77	117.33	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Thermoanaerobacter	154.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Thermoanaerobacter	274.05	0.22	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00440726	Thermoanaerobacter	165.10	4.15	FIG009886: phosphoesterase
+PGF_00538878	Thermoanaerobacter	256.41	47.46	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00549302	Thermoanaerobacter	398.00	0.00	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00565750	Thermoanaerobacter	241.00	4.58	ATPase component NikO of energizing module of nickel ECF transporter
+PGF_00581547	Thermoanaerobacter	280.00	0.00	DegV family protein
+PGF_00591197	Thermoanaerobacter	222.09	43.04	RNA polymerase sporulation specific sigma factor SigK
+PGF_00598888	Thermoanaerobacter	137.38	14.69	Mini-ribonuclease III
+PGF_00616490	Thermoanaerobacter	165.95	29.57	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Thermoanaerobacter	327.00	54.89	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641077	Thermoanaerobacter	104.14	18.96	FIG139598: Potential ribosomal protein
+PGF_00655358	Thermoanaerobacter	483.00	0.00	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Thermoanaerobacter	397.76	0.44	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Thermoanaerobacter	190.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00717613	Thermoanaerobacter	203.76	8.51	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00718387	Thermoanaerobacter	91.00	0.00	Negative regulator of flagellin synthesis FlgM (anti-sigma28)
+PGF_00730148	Thermoanaerobacter	623.59	101.16	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Sporulation peptidoglycan synthetase SpoVD
+PGF_00743561	Thermoanaerobacter	183.36	36.57	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00749034	Thermoanaerobacter	510.68	101.08	Penicillin-binding protein 4B
+PGF_00762321	Thermoanaerobacter	206.57	1.94	Two-component transcriptional response regulator, LuxR family
+PGF_00788787	Thermoanaerobacter	83.00	0.00	Transition state regulatory protein AbrB
+PGF_00803080	Thermoanaerobacter	427.00	0.00	Glucose inhibited division protein GidA
+PGF_00803690	Thermoanaerobacter	191.76	3.49	hypothetical protein
+PGF_00806694	Thermoanaerobacter	175.05	18.11	hypothetical protein
+PGF_00815739	Thermoanaerobacter	243.00	64.55	Uncharacterized integral membrane protein YdaH
+PGF_00829753	Thermoanaerobacter	281.64	49.75	Transcriptional regulator
+PGF_00846939	Thermoanaerobacter	122.00	0.00	Flagellar operon protein CA_C2155
+PGF_00856417	Thermoanaerobacter	229.14	3.77	UPF0758 family protein
+PGF_00885329	Thermoanaerobacter	313.73	54.34	Flagellar motor switch protein FliM
+PGF_00909459	Thermoanaerobacter	134.24	1.61	Flagellar basal body-associated protein FliL
+PGF_00912265	Thermoanaerobacter	325.05	11.60	tRNA-dihydrouridine synthase DusB
+PGF_00921396	Thermoanaerobacter	470.55	72.17	ATP-dependent zinc metalloproteinase similar to FtsH
+PGF_00923636	Thermoanaerobacter	132.00	0.00	Polymer-forming bactofilin
+PGF_00925844	Thermoanaerobacter	437.86	81.52	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Thermoanaerobacter	490.75	151.53	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00927206	Thermoanaerobacter	165.05	1.63	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_00940841	Thermoanaerobacter	85.00	0.00	Polypeptide composition of the spore coat protein CotJB
+PGF_00947647	Thermoanaerobacter	186.33	0.48	Fumarate hydratase class I, beta region (EC 4.2.1.2); L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)
+PGF_00955412	Thermoanaerobacter	238.23	40.91	Probable iron export permease protein FetB
+PGF_00960579	Thermoanaerobacter	317.00	0.00	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00972965	Thermoanaerobacter	111.00	0.32	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_01008498	Thermoanaerobacter	111.57	11.13	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Thermoanaerobacter	251.00	0.00	Flagellar basal-body rod protein FlgF
+PGF_01010490	Thermoanaerobacter	307.59	52.27	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_01015120	Thermoanaerobacter	345.32	144.14	putative membrane protein
+PGF_01019790	Thermoanaerobacter	208.67	0.48	PilZ domain-containing protein associated with flagellar synthesis TM0905
+PGF_01020154	Thermoanaerobacter	212.57	0.93	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)
+PGF_01031955	Thermoanaerobacter	239.05	0.22	Zinc transporter, ZIP family
+PGF_01038186	Thermoanaerobacter	375.70	101.64	HD-GYP domain
+PGF_01040342	Thermoanaerobacter	277.00	0.00	Spermidine synthase (EC 2.5.1.16)
+PGF_01049231	Thermoanaerobacter	276.19	43.92	Surface antigen
+PGF_01068086	Thermoanaerobacter	247.55	47.60	Flagellar biosynthesis protein FliR
+PGF_01079016	Thermoanaerobacter	268.36	48.74	Chromosome (plasmid) partitioning protein ParB
+PGF_01124512	Thermoanaerobacter	193.05	0.74	Stage III sporulation protein AG
+PGF_01126005	Thermoanaerobacter	349.17	62.13	Rod shape-determining protein RodA
+PGF_01127158	Thermoanaerobacter	248.95	41.59	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01137150	Thermoanaerobacter	214.48	32.57	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01149804	Thermoanaerobacter	509.82	96.61	Flagellar cap protein FliD
+PGF_01162681	Thermoanaerobacter	638.10	12.47	Aconitate hydratase (EC 4.2.1.3)
+PGF_01169833	Thermoanaerobacter	324.55	55.43	Flagellar biosynthesis protein FlhF
+PGF_01170345	Thermoanaerobacter	67.48	1.83	Flagellar protein FlbD
+PGF_01174739	Thermoanaerobacter	226.00	55.69	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Thermoanaerobacter	634.05	0.22	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Thermoanaerobacter	540.67	0.73	Heat shock protein 60 family chaperone GroEL
+PGF_01212940	Thermoanaerobacter	290.05	0.22	UPF0701 protein YloC
+PGF_01232770	Thermoanaerobacter	157.59	27.29	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01284176	Thermoanaerobacter	164.67	10.69	Rubrerythrin
+PGF_01284357	Thermoanaerobacter	343.00	0.00	Cell wall-binding protein
+PGF_01288671	Thermoanaerobacter	259.32	57.69	Stage II sporulation protein related to metaloproteases (SpoIIQ)
+PGF_01296193	Thermoanaerobacter	255.00	0.00	Chromosome (plasmid) partitioning protein ParA
+PGF_01313623	Thermoanaerobacter	407.73	76.23	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)
+PGF_01315291	Thermoanaerobacter	418.00	0.00	Uncharacterized zinc protease YmxG
+PGF_01350798	Thermoanaerobacter	305.48	74.82	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351690	Thermoanaerobacter	516.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3); Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+PGF_01364427	Thermoanaerobacter	187.00	0.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01389077	Thermoanaerobacter	68.00	0.00	Uncharacterized protein YbcJ
+PGF_01416650	Thermoanaerobacter	244.65	63.51	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Thermoanaerobacter	139.10	16.58	Cell division protein MraZ
+PGF_01421534	Thermoanaerobacter	192.09	31.24	LSU ribosomal protein L25p
+PGF_01421572	Thermoanaerobacter	206.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01423501	Thermoanaerobacter	155.71	5.89	Transcription elongation factor GreA
+PGF_01444069	Thermoanaerobacter	234.81	11.97	Iron-sulfur cluster-binding protein
+PGF_01444546	Thermoanaerobacter	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01445739	Thermoanaerobacter	108.00	0.00	hypothetical protein
+PGF_01446257	Thermoanaerobacter	270.00	0.00	Hydroxymethylpyrimidine ABC transporter, transmembrane component
+PGF_01461826	Thermoanaerobacter	370.27	74.43	Endonuclease Q, cleaves 5' to damaged DNA bases
+PGF_01462895	Thermoanaerobacter	435.95	4.36	Uncharacterized protein YtoI
+PGF_01466742	Thermoanaerobacter	428.73	89.92	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01477557	Thermoanaerobacter	151.33	24.69	DUF458 domain-containing protein
+PGF_01481272	Thermoanaerobacter	162.00	0.00	Chemotaxis protein CheD
+PGF_01513923	Thermoanaerobacter	242.38	1.12	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01555804	Thermoanaerobacter	132.90	9.60	Flagellar basal-body rod protein FlgB
+PGF_01599021	Thermoanaerobacter	159.52	2.25	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Thermoanaerobacter	124.82	19.72	Flagellar basal-body rod modification protein FlgD
+PGF_01604929	Thermoanaerobacter	221.43	5.93	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01618915	Thermoanaerobacter	334.77	69.81	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01668186	Thermoanaerobacter	229.18	35.50	Metal-dependent hydrolases of the beta-lactamase superfamily III
+PGF_01668974	Thermoanaerobacter	691.00	155.05	DNA internalization-related competence protein ComEC/Rec2
+PGF_01677191	Thermoanaerobacter	318.00	0.00	Sporulation transcription regulator WhiA
+PGF_01682834	Thermoanaerobacter	151.05	0.21	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Thermoanaerobacter	248.00	0.00	DNA recombination and repair protein RecO
+PGF_01683265	Thermoanaerobacter	511.09	98.80	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Sporulation peptidoglycan synthetase SpoVD
+PGF_01719396	Thermoanaerobacter	211.00	0.00	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Thermoanaerobacter	205.41	38.05	Adenylate kinase (EC 2.7.4.3)
+PGF_01767358	Thermoanaerobacter	226.45	40.45	HesA/MoeB/ThiF family protein
+PGF_01767866	Thermoanaerobacter	264.19	28.01	Metal-dependent hydrolases of the beta-lactamase superfamily II
+PGF_01777142	Thermoanaerobacter	191.87	48.13	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Thermoanaerobacter	554.00	0.00	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Thermoanaerobacter	257.41	44.33	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Thermoanaerobacter	340.81	10.04	Heat-inducible transcription repressor HrcA
+PGF_01888177	Thermoanaerobacter	141.14	3.93	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01899098	Thermoanaerobacter	143.10	6.02	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01899924	Thermoanaerobacter	237.90	0.83	Flagellar motor rotation protein MotB
+PGF_01899937	Thermoanaerobacter	263.23	41.47	Rod shape-determining protein MreC
+PGF_01943486	Thermoanaerobacter	166.45	29.22	O-acetyl-ADP-ribose deacetylase
+PGF_01949788	Thermoanaerobacter	180.09	33.47	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01984533	Thermoanaerobacter	91.27	16.58	UPF0296 protein YlzA
+PGF_01994657	Thermoanaerobacter	421.76	49.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02008990	Thermoanaerobacter	627.00	0.00	Efflux ABC transporter, permease/ATP-binding protein BLi02169
+PGF_02010018	Thermoanaerobacter	221.95	37.12	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Thermoanaerobacter	241.27	38.62	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Thermoanaerobacter	322.91	57.77	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02049468	Thermoanaerobacter	67.00	0.00	Cold shock protein of CSP family
+PGF_02061452	Thermoanaerobacter	358.50	63.84	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Thermoanaerobacter	313.23	59.51	Flagellar motor switch protein FliG
+PGF_02154745	Thermoanaerobacter	1227.67	432.17	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02177520	Thermoanaerobacter	223.70	60.53	RNA polymerase sporulation specific sigma factor SigF
+PGF_02185943	Thermoanaerobacter	431.52	110.55	Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1)
+PGF_02186693	Thermoanaerobacter	344.18	55.18	Flagellar biosynthesis protein FlhB
+PGF_02189378	Thermoanaerobacter	341.50	61.78	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02211177	Thermoanaerobacter	252.19	0.40	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02224568	Thermoanaerobacter	363.23	67.05	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02227578	Thermoanaerobacter	227.00	0.00	Putative membrane protease YugP
+PGF_02311293	Thermoanaerobacter	328.33	7.64	Peptide chain release factor 2
+PGF_02315316	Thermoanaerobacter	301.57	5.67	Peptidase, M23/M37 family
+PGF_02346669	Thermoanaerobacter	313.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Thermoanaerobacter	798.39	230.02	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02357764	Thermoanaerobacter	155.38	0.50	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02405545	Thermoanaerobacter	299.00	0.00	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02450432	Thermoanaerobacter	247.50	37.25	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Thermoanaerobacter	94.38	2.69	SSU ribosomal protein S20p
+PGF_02463284	Thermoanaerobacter	199.00	0.00	Recombination protein RecR
+PGF_02472275	Thermoanaerobacter	186.19	1.69	Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)
+PGF_02473679	Thermoanaerobacter	562.00	19.94	Type IV fimbrial assembly, ATPase PilB
+PGF_02504770	Thermoanaerobacter	217.32	50.93	ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)
+PGF_02515882	Thermoanaerobacter	396.19	9.25	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Thermoanaerobacter	409.45	65.11	Enolase (EC 4.2.1.11)
+PGF_02587605	Thermoanaerobacter	136.67	8.03	Zinc uptake regulation protein Zur
+PGF_02611620	Thermoanaerobacter	421.00	64.87	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02614845	Thermoanaerobacter	390.05	0.49	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+PGF_02619970	Thermoanaerobacter	95.19	0.87	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Thermoanaerobacter	298.50	50.65	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627816	Thermoanaerobacter	212.67	2.06	FIG011945: O-methyltransferase family protein
+PGF_02635429	Thermoanaerobacter	136.91	5.58	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02652319	Thermoanaerobacter	188.86	6.33	UPF0340 protein YwlG
+PGF_02691520	Thermoanaerobacter	453.71	7.86	PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_02728524	Thermoanaerobacter	789.57	226.24	DNA mismatch repair protein MutS
+PGF_02737642	Thermoanaerobacter	240.13	64.71	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02744871	Thermoanaerobacter	97.71	1.31	Flagellar hook-basal body complex protein FliE
+PGF_02746016	Thermoanaerobacter	227.57	1.21	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02746079	Thermoanaerobacter	217.23	103.45	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+PGF_02759160	Thermoanaerobacter	306.41	49.96	Gliding motility-associated ABC transporter ATP-binding protein GldA
+PGF_02769310	Thermoanaerobacter	181.00	0.00	Stage III sporulation protein AH
+PGF_02788582	Thermoanaerobacter	660.80	254.99	Recombination inhibitory protein MutS2
+PGF_02789532	Thermoanaerobacter	276.52	11.35	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Thermoanaerobacter	230.19	0.40	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Thermoanaerobacter	466.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02798941	Thermoanaerobacter	521.19	0.87	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Thermoanaerobacter	186.90	5.02	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Thermoanaerobacter	171.00	0.00	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Thermoanaerobacter	248.62	10.91	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Thermoanaerobacter	410.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02868734	Thermoanaerobacter	473.17	125.39	Stage V sporulation protein B
+PGF_02873723	Thermoanaerobacter	450.82	80.37	Ribonuclease G
+PGF_02878356	Thermoanaerobacter	300.68	58.47	Putative ROK-family transcriptional regulator
+PGF_02883702	Thermoanaerobacter	355.00	0.00	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02891794	Thermoanaerobacter	265.76	45.44	Transmembrane component NikQ of energizing module of nickel ECF transporter
+PGF_02899131	Thermoanaerobacter	68.81	0.87	LSU ribosomal protein L29p (L35e)
+PGF_02899915	Thermoanaerobacter	273.00	0.00	Hydrolase, HAD superfamily
+PGF_02901183	Thermoanaerobacter	745.18	124.73	Stage II sporulation serine phosphatase for sigma-F activation (SpoIIE)
+PGF_02918148	Thermoanaerobacter	405.33	1.20	peptidase, U32 family large subunit [C1]
+PGF_02923127	Thermoanaerobacter	224.43	7.35	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02932719	Thermoanaerobacter	236.41	40.88	Stage IV sporulation protein FA (SpoIVFA)
+PGF_02950579	Thermoanaerobacter	264.14	0.65	Septum site-determining protein MinD
+PGF_02956462	Thermoanaerobacter	117.77	23.76	RidA/YER057c/UK114 superfamily protein
+PGF_02965779	Thermoanaerobacter	365.36	68.04	Re face-specific citrate synthase (EC 2.3.3.3)
+PGF_02989922	Thermoanaerobacter	343.83	83.39	Murein hydrolase activator EnvC
+PGF_02992495	Thermoanaerobacter	79.00	0.00	Protein translocase membrane subunit SecG
+PGF_02997723	Thermoanaerobacter	148.00	0.00	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03003601	Thermoanaerobacter	65.73	9.02	hypothetical protein
+PGF_03017775	Thermoanaerobacter	476.32	95.61	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Thermoanaerobacter	190.43	2.62	Septum formation protein Maf
+PGF_03029062	Thermoanaerobacter	287.95	50.27	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03053273	Thermoanaerobacter	319.00	0.00	Type IV pilus biogenesis protein PilM
+PGF_03066520	Thermoanaerobacter	409.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03081665	Thermoanaerobacter	99.95	0.22	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03092774	Thermoanaerobacter	114.00	0.00	FIG025307: hypothetical protein
+PGF_03092934	Thermoanaerobacter	412.00	0.00	alkaline serine protease
+PGF_03110657	Thermoanaerobacter	652.00	102.36	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111988	Thermoanaerobacter	161.00	0.00	Cell division initiation protein DivIVA
+PGF_03117047	Thermoanaerobacter	90.00	0.00	Acylphosphate phosphohydrolase (EC 3.6.1.7)
+PGF_03117272	Thermoanaerobacter	352.50	80.74	Myo-inositol 2-dehydrogenase 1 (EC 1.1.1.18)
+PGF_03117711	Thermoanaerobacter	192.67	1.93	Hydrolase (HAD superfamily), YqeK
+PGF_03124650	Thermoanaerobacter	488.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03127349	Thermoanaerobacter	203.29	5.36	Late competence protein ComEA, DNA receptor
+PGF_03129201	Thermoanaerobacter	420.48	105.75	Gliding motility-associated ABC transporter substrate-binding protein GldG
+PGF_03132336	Thermoanaerobacter	414.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Thermoanaerobacter	295.33	6.28	Flagellar hook-associated protein FlgL
+PGF_03137076	Thermoanaerobacter	521.57	117.91	Cyclomaltodextrinase (EC 3.2.1.54)
+PGF_03149844	Thermoanaerobacter	116.00	0.00	FIG001802: Putative alkaline-shock protein
+PGF_03154343	Thermoanaerobacter	135.00	0.00	Cytidine deaminase (EC 3.5.4.5)
+PGF_03181524	Thermoanaerobacter	267.27	41.20	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_03214662	Thermoanaerobacter	213.43	1.21	Zn-dependent hydrolases of the metallo-beta-lactamase superfamily
+PGF_03235349	Thermoanaerobacter	393.52	7.24	Uncharacterized protein YqfD
+PGF_03240628	Thermoanaerobacter	86.00	10.04	Inhibitor of pro-sigmaK processing BofA
+PGF_03248819	Thermoanaerobacter	802.30	186.58	P-type Ca(2+)-transport ATPase (EC 3.6.3.8)
+PGF_03253896	Thermoanaerobacter	233.86	0.91	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03254598	Thermoanaerobacter	192.10	9.60	Manganese catalase (EC 1.11.1.6) => Spore coat protein CotJC
+PGF_03272313	Thermoanaerobacter	806.67	0.86	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03287477	Thermoanaerobacter	204.36	33.60	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03318742	Thermoanaerobacter	453.57	56.95	PTS system, N-acetylglucosamine-specific IIC component / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.193)
+PGF_03421722	Thermoanaerobacter	455.19	2.58	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Thermoanaerobacter	269.26	58.92	33 kDa chaperonin HslO
+PGF_03439690	Thermoanaerobacter	146.00	0.00	Ferric uptake regulation protein FUR
+PGF_03448459	Thermoanaerobacter	124.00	0.00	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03462401	Thermoanaerobacter	293.95	2.80	Peptidoglycan-N-acetylmuramic acid deacetylase PdaA
+PGF_03470321	Thermoanaerobacter	161.00	0.00	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Thermoanaerobacter	414.73	78.21	Flagellum-specific ATP synthase FliI
+PGF_03504453	Thermoanaerobacter	210.38	7.42	Substrate-specific component ThiT of thiamin ECF transporter
+PGF_03518570	Thermoanaerobacter	135.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Thermoanaerobacter	340.77	53.85	Cell division protein FtsZ
+PGF_03558781	Thermoanaerobacter	143.05	8.95	Small heat shock protein
+PGF_03609651	Thermoanaerobacter	603.00	98.54	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03677349	Thermoanaerobacter	257.91	57.58	Trehalose ABC transporter, permease protein
+PGF_03683488	Thermoanaerobacter	183.81	8.29	2'-5' RNA ligase
+PGF_03684283	Thermoanaerobacter	413.19	0.87	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Thermoanaerobacter	295.10	5.16	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Thermoanaerobacter	188.64	30.76	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Thermoanaerobacter	152.90	0.30	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03741901	Thermoanaerobacter	273.82	53.39	Two-component system sensor histidine kinase
+PGF_03741902	Thermoanaerobacter	70.57	1.43	Sigma-F transcribed protein csfB
+PGF_03741903	Thermoanaerobacter	96.81	10.04	Small acid-soluble spore protein, alpha-type SASP
+PGF_03741904	Thermoanaerobacter	77.00	0.00	Sporulation protein and related proteins
+PGF_03741906	Thermoanaerobacter	161.19	0.87	Uncharacterized protein SAV1929
+PGF_03741908	Thermoanaerobacter	277.86	17.65	Trehalose ABC transporter, permease protein
+PGF_03741909	Thermoanaerobacter	116.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_03741910	Thermoanaerobacter	146.95	17.69	Type IV fimbrial biogenesis protein FimT
+PGF_03741912	Thermoanaerobacter	246.86	10.43	Type IV pilus biogenesis protein PilO
+PGF_03741913	Thermoanaerobacter	74.29	2.88	UPF0291 protein BCE_3725
+PGF_03741914	Thermoanaerobacter	160.33	7.64	[Fe] hydrogenase, HymD subunit, putative
+PGF_03741915	Thermoanaerobacter	107.00	0.00	hypothetical protein
+PGF_03741916	Thermoanaerobacter	300.00	0.00	hypothetical protein
+PGF_03741917	Thermoanaerobacter	120.48	9.99	FIG01165657: hypothetical protein
+PGF_03741918	Thermoanaerobacter	122.00	0.00	hypothetical protein
+PGF_03741919	Thermoanaerobacter	72.38	9.70	hypothetical protein
+PGF_03741920	Thermoanaerobacter	195.86	2.15	hypothetical protein
+PGF_03741921	Thermoanaerobacter	73.48	9.05	hypothetical protein
+PGF_03741922	Thermoanaerobacter	172.00	0.00	hypothetical protein
+PGF_03741924	Thermoanaerobacter	81.38	2.67	hypothetical protein
+PGF_03741925	Thermoanaerobacter	185.76	24.18	hypothetical protein
+PGF_03741927	Thermoanaerobacter	92.57	5.72	hypothetical protein
+PGF_03741928	Thermoanaerobacter	140.81	2.93	hypothetical protein
+PGF_03741930	Thermoanaerobacter	63.57	7.61	hypothetical protein
+PGF_03741931	Thermoanaerobacter	124.43	4.24	hypothetical protein
+PGF_03741932	Thermoanaerobacter	75.05	3.23	hypothetical protein
+PGF_03741933	Thermoanaerobacter	101.81	0.40	hypothetical protein
+PGF_03741934	Thermoanaerobacter	80.76	5.67	hypothetical protein
+PGF_03741935	Thermoanaerobacter	64.33	4.02	hypothetical protein
+PGF_03741936	Thermoanaerobacter	46.29	7.34	hypothetical protein
+PGF_03741937	Thermoanaerobacter	77.00	0.00	hypothetical protein
+PGF_03741938	Thermoanaerobacter	183.00	0.00	hypothetical protein
+PGF_03741939	Thermoanaerobacter	152.90	0.44	hypothetical protein
+PGF_03741940	Thermoanaerobacter	189.27	31.14	hypothetical protein
+PGF_03741942	Thermoanaerobacter	52.38	2.84	hypothetical protein
+PGF_03741943	Thermoanaerobacter	75.00	0.00	hypothetical protein
+PGF_03741944	Thermoanaerobacter	98.00	0.00	hypothetical protein
+PGF_03741945	Thermoanaerobacter	93.43	1.96	hypothetical protein
+PGF_03741946	Thermoanaerobacter	101.95	0.22	hypothetical protein
+PGF_03741947	Thermoanaerobacter	124.00	0.00	hypothetical protein
+PGF_03741949	Thermoanaerobacter	67.00	0.00	hypothetical protein
+PGF_03741950	Thermoanaerobacter	55.19	3.71	hypothetical protein
+PGF_03741952	Thermoanaerobacter	70.95	0.22	hypothetical protein
+PGF_03741953	Thermoanaerobacter	420.35	108.76	sporulation kinase A
+PGF_03741956	Thermoanaerobacter	43.00	0.00	hypothetical protein
+PGF_03741971	Thermoanaerobacter	88.81	1.08	hypothetical protein
+PGF_03742014	Thermoanaerobacter	188.00	0.00	FIG033889: YebC paralog in Clostridia
+PGF_03742035	Thermoanaerobacter	192.86	28.15	hypothetical protein
+PGF_03742039	Thermoanaerobacter	183.33	8.42	RecB family exonuclease
+PGF_03742123	Thermoanaerobacter	152.00	0.00	hypothetical protein
+PGF_03742158	Thermoanaerobacter	85.00	8.81	BofA B.subtilis ortholog, SigmaK-factor processing regulatory protein
+PGF_03742246	Thermoanaerobacter	382.22	115.69	ABC transporter, predicted N-acetylneuraminate-binding protein
+PGF_03742320	Thermoanaerobacter	173.05	16.27	Chromate resistance protein ChrB
+PGF_03742550	Thermoanaerobacter	394.50	63.35	Cell division topological determinant MinJ
+PGF_03742570	Thermoanaerobacter	200.76	3.77	Membrane metalloprotease
+PGF_03743012	Thermoanaerobacter	276.09	57.24	hypothetical protein
+PGF_03743081	Thermoanaerobacter	249.77	39.66	hypothetical protein
+PGF_03743102	Thermoanaerobacter	136.45	23.37	hypothetical protein
+PGF_03743120	Thermoanaerobacter	53.00	0.00	hypothetical protein
+PGF_03743584	Thermoanaerobacter	186.68	36.08	Regulatory protein RecX
+PGF_03744460	Thermoanaerobacter	502.09	116.41	Diguanylate cyclase/phosphodiesterase domain 1
+PGF_03744526	Thermoanaerobacter	130.90	9.88	FHA-domain containing secreted protein
+PGF_03744527	Thermoanaerobacter	66.48	0.51	FIG01165659: hypothetical protein
+PGF_03744528	Thermoanaerobacter	241.45	44.91	Flagellar assembly protein FliH
+PGF_03744529	Thermoanaerobacter	148.23	29.20	Flagellar biosynthesis protein FlgN
+PGF_03744530	Thermoanaerobacter	120.10	0.44	Glycine-rich cell wall structural protein precursor
+PGF_03744533	Thermoanaerobacter	348.14	0.48	Nucleoside-diphosphate-sugar pyrophosphorylase
+PGF_03744534	Thermoanaerobacter	118.14	5.24	Permease
+PGF_03744535	Thermoanaerobacter	537.77	89.32	Phosphoenolpyruvate synthase
+PGF_03744536	Thermoanaerobacter	165.00	0.00	Putative NADH dehydrogenase/NAD(P)H nitroreductase AF_2267 (EC 1.-.-.-)
+PGF_03750541	Thermoanaerobacter	354.00	0.00	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750571	Thermoanaerobacter	422.95	66.19	Chromosomal replication initiator protein DnaA
+PGF_03750600	Thermoanaerobacter	161.10	4.88	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Thermoanaerobacter	68.14	3.93	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Thermoanaerobacter	187.14	31.71	Heat shock protein GrpE
+PGF_03751878	Thermoanaerobacter	194.00	0.00	Substrate-specific component RibU of riboflavin ECF transporter
+PGF_03752280	Thermoanaerobacter	446.09	84.36	[FeFe]-hydrogenase maturation protein HydG
+PGF_03753122	Thermoanaerobacter	329.71	1.19	Site-specific tyrosine recombinase XerC
+PGF_03753933	Thermoanaerobacter	146.43	11.78	Iron-sulfur cluster regulator IscR
+PGF_03757137	Thermoanaerobacter	442.00	13.69	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Thermoanaerobacter	315.62	9.57	Signal recognition particle receptor FtsY
+PGF_03782093	Thermoanaerobacter	196.05	3.43	Putative membrane-spanning protein
+PGF_03783620	Thermoanaerobacter	185.00	0.00	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790089	Thermoanaerobacter	372.00	0.00	Uncharacterized di-Fe4-S4 cluster-containing protein AF_1153
+PGF_03801195	Thermoanaerobacter	243.14	0.65	Putative amidotransferase similar to cobyric acid synthase
+PGF_03801201	Thermoanaerobacter	264.64	5.64	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Thermoanaerobacter	72.14	3.07	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811905	Thermoanaerobacter	320.35	85.18	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03862500	Thermoanaerobacter	202.90	0.44	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03919938	Thermoanaerobacter	342.91	86.94	Maltodextrin ABC transporter, ATP-binding protein MsmX
+PGF_03954476	Thermoanaerobacter	240.77	39.18	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03991729	Thermoanaerobacter	368.05	58.50	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03999196	Thermoanaerobacter	816.00	0.00	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Thermoanaerobacter	445.00	0.00	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04016408	Thermoanaerobacter	448.27	75.56	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Thermoanaerobacter	122.29	3.70	Large-conductance mechanosensitive channel
+PGF_04034430	Thermoanaerobacter	61.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Thermoanaerobacter	75.00	0.00	KH domain RNA binding protein YlqC
+PGF_04041316	Thermoanaerobacter	846.17	211.45	Excinuclease ABC subunit A
+PGF_04047265	Thermoanaerobacter	80.81	5.46	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04091295	Thermoanaerobacter	272.19	1.12	Flagellar motor rotation protein MotA
+PGF_04108824	Thermoanaerobacter	461.71	24.72	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04151476	Thermoanaerobacter	157.41	31.05	16S rRNA processing protein RimM
+PGF_04163139	Thermoanaerobacter	229.00	0.00	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Thermoanaerobacter	228.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Thermoanaerobacter	255.95	1.02	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04297012	Thermoanaerobacter	338.14	67.78	Sporulation integral membrane protein YtvI
+PGF_04345693	Thermoanaerobacter	460.19	5.02	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Thermoanaerobacter	815.96	209.02	Protein translocase subunit SecA
+PGF_04395505	Thermoanaerobacter	290.95	0.22	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04477106	Thermoanaerobacter	349.27	55.33	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04481164	Thermoanaerobacter	86.38	9.09	Veg protein
+PGF_04505269	Thermoanaerobacter	253.57	12.04	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Thermoanaerobacter	339.10	0.44	Rod shape-determining protein MreB
+PGF_04521913	Thermoanaerobacter	459.57	3.37	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04574228	Thermoanaerobacter	252.95	3.98	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04662829	Thermoanaerobacter	633.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04730942	Thermoanaerobacter	155.86	32.82	Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter
+PGF_04749763	Thermoanaerobacter	633.09	165.66	Translation initiation factor 2
+PGF_04788810	Thermoanaerobacter	176.64	28.22	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Thermoanaerobacter	300.36	48.10	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Thermoanaerobacter	114.00	0.00	LSU ribosomal protein L19p
+PGF_04872827	Thermoanaerobacter	256.27	44.55	Chromosome (plasmid) partitioning protein ParB-2
+PGF_04912921	Thermoanaerobacter	78.71	8.95	FIG011856: hypothetical protein
+PGF_04960746	Thermoanaerobacter	183.43	8.12	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04971017	Thermoanaerobacter	334.95	51.90	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Thermoanaerobacter	103.86	0.65	LSU ribosomal protein L21p
+PGF_05135220	Thermoanaerobacter	778.77	121.58	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Thermoanaerobacter	294.23	53.51	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182720	Thermoanaerobacter	57.00	0.00	Protein CotJA
+PGF_05268056	Thermoanaerobacter	204.81	22.75	hypothetical protein
+PGF_05280843	Thermoanaerobacter	423.00	0.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Thermoanaerobacter	792.86	128.89	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05439724	Thermoanaerobacter	662.00	0.00	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Thermoanaerobacter	282.24	4.21	NAD kinase (EC 2.7.1.23)
+PGF_05497680	Thermoanaerobacter	287.92	89.38	Predicted transcriptional regulator of the myo-inositol catabolic operon
+PGF_05519582	Thermoanaerobacter	368.22	91.46	NAD(FAD)-utilizing dehydrogenases
+PGF_05560886	Thermoanaerobacter	284.76	2.41	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05579323	Thermoanaerobacter	344.27	68.98	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Thermoanaerobacter	415.57	11.13	Protein translocase subunit SecY
+PGF_05587835	Thermoanaerobacter	248.14	0.65	Hydroxymethylpyrimidine ABC transporter, ATPase component
+PGF_05598173	Thermoanaerobacter	356.48	4.09	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Thermoanaerobacter	414.24	5.03	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05672678	Thermoanaerobacter	264.76	2.55	Beta-propeller domains of methanol dehydrogenase type
+PGF_05710599	Thermoanaerobacter	294.14	5.19	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05790213	Thermoanaerobacter	461.18	78.66	Vancomycin B-type resistance protein VanW
+PGF_05843198	Thermoanaerobacter	207.14	34.51	FIG017108: hypothetical protein
+PGF_05850653	Thermoanaerobacter	349.19	58.70	Myo-inositol 2-dehydrogenase 1 (EC 1.1.1.18)
+PGF_05925776	Thermoanaerobacter	280.45	45.08	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Thermoanaerobacter	358.08	121.91	Protein translocase subunit SecD
+PGF_05971611	Thermoanaerobacter	399.00	0.00	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06027248	Thermoanaerobacter	461.64	85.44	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06042577	Thermoanaerobacter	460.00	0.00	hypothetical protein
+PGF_06103095	Thermoanaerobacter	88.00	0.00	Catabolite repression HPr-like protein Crh
+PGF_06115957	Thermoanaerobacter	380.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Thermoanaerobacter	1001.67	311.38	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06180597	Thermoanaerobacter	143.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06241294	Thermoanaerobacter	217.00	7.21	SigI-like RNA polymerase sigma factor
+PGF_06285041	Thermoanaerobacter	343.82	64.97	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06326847	Thermoanaerobacter	212.38	39.50	Flagellar biosynthesis protein FliP
+PGF_06377994	Thermoanaerobacter	414.05	0.22	FtsW-like cell division membrane protein CA_C0505
+PGF_06379377	Thermoanaerobacter	442.14	3.93	Replication-associated recombination protein RarA
+PGF_06403579	Thermoanaerobacter	744.95	137.54	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06459503	Thermoanaerobacter	625.52	1.08	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06461498	Thermoanaerobacter	304.86	10.02	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06501669	Thermoanaerobacter	313.57	1.21	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)
+PGF_06586947	Thermoanaerobacter	358.09	60.17	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06607455	Thermoanaerobacter	242.00	0.00	Predicted 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase
+PGF_06648993	Thermoanaerobacter	75.00	0.00	Acyl carrier protein
+PGF_06649360	Thermoanaerobacter	168.67	3.06	Segregation and condensation protein B
+PGF_06660812	Thermoanaerobacter	160.43	0.51	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06693963	Thermoanaerobacter	111.00	0.00	Nucleoid-associated protein YaaK
+PGF_06701488	Thermoanaerobacter	206.00	0.00	RNA-binding protein Jag
+PGF_06755829	Thermoanaerobacter	324.00	0.00	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06759389	Thermoanaerobacter	224.50	34.11	Gliding motility-associated ABC transporter permease protein GldF
+PGF_06863675	Thermoanaerobacter	215.19	0.40	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_06944619	Thermoanaerobacter	378.39	84.32	Uncharacterized MFS-type transporter
+PGF_07242312	Thermoanaerobacter	726.36	128.84	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_08072342	Thermoanaerobacter	279.90	12.93	Flagellar synthesis regulator FleN
+PGF_08182826	Thermoanaerobacter	253.05	1.20	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_08199292	Thermoanaerobacter	224.00	0.63	Two-component transcriptional response regulator, LuxR family

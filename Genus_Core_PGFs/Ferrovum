@@ -1,0 +1,828 @@
+PGF_00000261	Ferrovum	384.50	2.38	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000416	Ferrovum	341.00	5.35	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000936	Ferrovum	126.00	1.15	FIG00899427: hypothetical protein
+PGF_00000939	Ferrovum	397.00	4.69	Uncharacterized protein YhiN
+PGF_00002124	Ferrovum	201.50	0.58	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00003750	Ferrovum	159.50	1.73	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004094	Ferrovum	394.00	1.15	Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)
+PGF_00004378	Ferrovum	258.00	0.00	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00004671	Ferrovum	621.00	0.00	Ferrous iron transport protein B
+PGF_00006100	Ferrovum	302.25	2.63	tRNA-modifying protein YgfZ
+PGF_00006287	Ferrovum	413.00	0.00	Formyl-coenzyme A transferase (EC 2.8.3.16)
+PGF_00006454	Ferrovum	507.50	0.58	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006935	Ferrovum	521.75	0.50	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006983	Ferrovum	278.75	6.45	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007012	Ferrovum	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Ferrovum	474.00	3.46	GTP-binding protein EngA
+PGF_00007026	Ferrovum	211.50	6.40	GTP-binding protein EngB
+PGF_00007027	Ferrovum	284.50	26.64	GTP-binding protein Era
+PGF_00007028	Ferrovum	415.00	6.93	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Ferrovum	604.00	1.15	GTP-binding protein TypA/BipA
+PGF_00007057	Ferrovum	443.75	8.66	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Ferrovum	288.25	6.65	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Ferrovum	315.00	1.15	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007812	Ferrovum	650.25	10.87	Glucans biosynthesis glucosyltransferase H (EC 2.4.1.-)
+PGF_00008051	Ferrovum	431.50	9.81	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Ferrovum	374.25	0.50	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Ferrovum	406.50	1.73	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008115	Ferrovum	1539.25	1.50	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008161	Ferrovum	428.00	1.15	Glutamate--cysteine ligase (EC 6.3.2.2), divergent, of Alpha- and Beta-proteobacteria type
+PGF_00008164	Ferrovum	427.00	1.15	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Ferrovum	469.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Ferrovum	568.00	16.17	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Ferrovum	424.00	2.31	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Ferrovum	463.00	5.48	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008611	Ferrovum	327.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Ferrovum	211.00	5.77	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008885	Ferrovum	415.50	8.66	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009500	Ferrovum	181.00	3.83	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Ferrovum	296.00	1.15	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Ferrovum	689.25	0.50	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Ferrovum	239.25	8.42	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Ferrovum	710.50	1.73	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Ferrovum	204.00	3.46	Guanylate kinase (EC 2.7.4.8)
+PGF_00010609	Ferrovum	408.50	34.06	HIPA PROTEIN
+PGF_00010692	Ferrovum	321.00	0.00	HPr kinase/phosphorylase
+PGF_00011081	Ferrovum	659.25	2.50	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011634	Ferrovum	395.25	32.51	HflK protein
+PGF_00011979	Ferrovum	432.50	1.73	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Ferrovum	342.00	6.98	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Ferrovum	438.75	0.50	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012970	Ferrovum	634.00	0.00	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013003	Ferrovum	586.75	37.84	Bis-ABC ATPase YheS
+PGF_00013017	Ferrovum	334.25	1.50	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013244	Ferrovum	189.50	1.00	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Ferrovum	228.50	5.26	UPF0001 protein YggS
+PGF_00013509	Ferrovum	519.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Ferrovum	198.00	3.46	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013857	Ferrovum	717.75	9.50	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014051	Ferrovum	263.50	0.58	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014284	Ferrovum	391.25	5.91	Inner membrane transport protein YajR
+PGF_00014306	Ferrovum	178.50	4.04	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Ferrovum	486.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Ferrovum	256.00	0.00	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Ferrovum	88.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Ferrovum	177.50	0.58	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015517	Ferrovum	428.50	1.73	Iron-sulfur cluster assembly protein SufD
+PGF_00015701	Ferrovum	412.50	0.58	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Ferrovum	945.00	1.15	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Ferrovum	338.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016325	Ferrovum	754.50	2.89	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Ferrovum	175.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Ferrovum	418.00	0.00	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Ferrovum	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Ferrovum	148.50	0.58	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Ferrovum	132.25	9.50	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Ferrovum	129.75	0.96	LSU ribosomal protein L17p
+PGF_00016353	Ferrovum	117.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Ferrovum	231.50	0.58	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Ferrovum	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Ferrovum	103.00	1.15	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Ferrovum	111.25	0.50	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Ferrovum	102.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Ferrovum	104.50	0.58	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Ferrovum	89.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Ferrovum	275.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Ferrovum	62.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Ferrovum	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Ferrovum	51.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Ferrovum	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Ferrovum	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Ferrovum	214.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Ferrovum	206.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Ferrovum	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Ferrovum	177.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Ferrovum	125.00	1.41	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Ferrovum	148.25	0.50	LSU ribosomal protein L9p
+PGF_00016546	Ferrovum	132.00	0.00	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00017109	Ferrovum	380.00	1.15	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Ferrovum	240.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017281	Ferrovum	318.00	3.27	Lipopolysaccharide core heptosyltransferase I
+PGF_00017464	Ferrovum	228.00	2.83	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Ferrovum	308.75	1.50	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017640	Ferrovum	194.25	3.40	Lipopolysaccharide export system protein LptA
+PGF_00018560	Ferrovum	281.00	1.15	Magnesium and cobalt efflux protein CorC
+PGF_00018956	Ferrovum	327.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00020168	Ferrovum	408.50	8.81	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Ferrovum	273.25	0.96	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020184	Ferrovum	504.75	19.47	Membrane-bound lytic murein transglycosylase D
+PGF_00020190	Ferrovum	502.50	1.73	Membrane-bound lytic murein transglycosylase F (EC 4.2.2.n1)
+PGF_00020361	Ferrovum	155.50	4.12	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Ferrovum	264.50	0.58	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020741	Ferrovum	194.50	0.58	Methionine biosynthesis protein MetW
+PGF_00020982	Ferrovum	288.00	1.15	Methylene tetrahydromethanopterin dehydrogenase (EC 1.5.99.9)
+PGF_00022540	Ferrovum	479.50	8.66	Molybdopterin oxidoreductase
+PGF_00022545	Ferrovum	201.50	5.69	Molybdopterin oxidoreductase subunit, predicted; chaperone protein HtpG
+PGF_00023405	Ferrovum	315.75	13.45	Murein-DD-endopeptidase (EC 3.4.99.-)
+PGF_00023591	Ferrovum	342.00	1.15	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Ferrovum	343.25	0.96	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023818	Ferrovum	439.75	3.50	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00024232	Ferrovum	397.00	1.15	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Ferrovum	376.50	0.58	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Ferrovum	164.25	6.40	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Ferrovum	379.50	5.20	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Ferrovum	693.00	6.98	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Ferrovum	463.50	1.73	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024478	Ferrovum	337.00	1.15	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024567	Ferrovum	378.25	24.54	Acetate kinase (EC 2.7.2.1)
+PGF_00024687	Ferrovum	419.50	1.73	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Ferrovum	159.00	1.15	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Ferrovum	198.00	0.00	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Ferrovum	101.50	0.58	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Ferrovum	492.50	0.58	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Ferrovum	482.50	0.58	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Ferrovum	142.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Ferrovum	569.00	0.00	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Ferrovum	163.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025890	Ferrovum	356.75	6.08	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Ferrovum	320.50	0.58	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Ferrovum	199.00	2.31	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Ferrovum	289.50	1.73	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Ferrovum	301.00	0.00	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026866	Ferrovum	322.50	0.58	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Ferrovum	676.75	4.92	Oligopeptidase A (EC 3.4.24.70)
+PGF_00028423	Ferrovum	391.75	4.92	Outer membrane stress sensor protease DegS
+PGF_00028486	Ferrovum	236.75	6.85	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00029464	Ferrovum	159.00	2.31	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029571	Ferrovum	1082.00	8.08	Acriflavin resistance protein
+PGF_00029917	Ferrovum	275.00	2.31	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Ferrovum	360.50	1.73	Peptide chain release factor 1
+PGF_00030812	Ferrovum	163.00	0.00	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00033095	Ferrovum	788.75	2.63	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033110	Ferrovum	365.75	1.26	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit
+PGF_00033237	Ferrovum	318.00	5.77	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Ferrovum	287.00	1.15	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Ferrovum	340.50	3.00	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Ferrovum	362.00	1.15	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Ferrovum	919.50	0.58	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033402	Ferrovum	569.00	302.97	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033423	Ferrovum	577.25	0.96	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033511	Ferrovum	392.75	0.96	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Ferrovum	249.00	0.00	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033729	Ferrovum	261.50	4.04	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033740	Ferrovum	205.25	5.91	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Ferrovum	166.00	0.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Ferrovum	424.00	1.41	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Ferrovum	292.50	0.58	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Ferrovum	212.00	10.52	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Ferrovum	250.00	2.31	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Ferrovum	359.00	5.77	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Ferrovum	1298.00	2.31	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Ferrovum	207.75	10.69	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033981	Ferrovum	291.50	0.58	Phosphoribulokinase (EC 2.7.1.19)
+PGF_00034566	Ferrovum	436.00	1.15	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Ferrovum	703.50	4.04	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Ferrovum	333.50	0.58	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Ferrovum	159.00	2.31	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035370	Ferrovum	417.50	1.00	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035378	Ferrovum	436.50	0.58	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035721	Ferrovum	459.25	7.85	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Ferrovum	431.00	1.15	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035831	Ferrovum	228.50	3.00	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00036746	Ferrovum	393.50	6.35	Probable Co/Zn/Cd efflux system membrane fusion protein
+PGF_00037588	Ferrovum	571.00	1.15	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037650	Ferrovum	342.50	11.00	Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_00037937	Ferrovum	112.00	1.15	Protein PhnA
+PGF_00038367	Ferrovum	154.75	1.50	Protein of unknown function DUF55
+PGF_00038674	Ferrovum	310.75	0.50	Protein translocase subunit SecF
+PGF_00038879	Ferrovum	141.00	0.82	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039342	Ferrovum	278.50	1.73	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040578	Ferrovum	254.00	0.00	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041289	Ferrovum	258.50	0.58	Putative hemolysin
+PGF_00041948	Ferrovum	428.50	4.04	Putative membrane protein YfjD
+PGF_00043159	Ferrovum	340.25	18.32	Putative permease often clustered with de novo purine synthesis
+PGF_00044735	Ferrovum	434.00	0.00	Putative transmembrane protein
+PGF_00045900	Ferrovum	241.50	1.00	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045939	Ferrovum	425.75	2.63	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00045982	Ferrovum	887.50	1.73	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00045991	Ferrovum	476.50	0.58	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046060	Ferrovum	208.50	10.50	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Ferrovum	289.50	7.51	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Ferrovum	363.50	0.58	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046403	Ferrovum	469.25	2.06	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Ferrovum	139.50	0.58	RNA polymerase-binding transcription factor DksA
+PGF_00046622	Ferrovum	79.50	0.58	RNA-binding protein Hfq
+PGF_00047006	Ferrovum	285.00	2.31	Radical SAM domain protein
+PGF_00047078	Ferrovum	339.75	0.96	RecA protein
+PGF_00048393	Ferrovum	150.00	0.00	Rhodanese-related sulfurtransferase
+PGF_00048480	Ferrovum	202.00	4.90	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Ferrovum	141.25	10.97	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Ferrovum	202.50	0.58	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Ferrovum	240.50	2.89	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048620	Ferrovum	228.00	2.31	Ribonucleotide reductase of class II (coenzyme B12-dependent), alpha subunit (EC 1.17.4.1)
+PGF_00048643	Ferrovum	147.00	0.00	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Ferrovum	316.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048840	Ferrovum	296.75	0.50	Ribosomal protein L11 methyltransferase
+PGF_00048846	Ferrovum	449.75	0.50	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048926	Ferrovum	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Ferrovum	303.50	15.59	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048985	Ferrovum	219.00	0.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049029	Ferrovum	129.00	1.15	RidA/YER057c/UK114 superfamily, group 6
+PGF_00049330	Ferrovum	385.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Ferrovum	349.25	1.26	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Ferrovum	262.50	4.04	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Ferrovum	106.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Ferrovum	131.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Ferrovum	125.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Ferrovum	120.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Ferrovum	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Ferrovum	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Ferrovum	86.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Ferrovum	91.50	0.58	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Ferrovum	90.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Ferrovum	94.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Ferrovum	238.50	2.89	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Ferrovum	168.50	0.58	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Ferrovum	126.00	1.15	SSU ribosomal protein S6p
+PGF_00049904	Ferrovum	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Ferrovum	131.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Ferrovum	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Ferrovum	192.75	92.10	Segregation and condensation protein A
+PGF_00050995	Ferrovum	506.50	0.58	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051142	Ferrovum	183.25	5.25	Septum-associated rare lipoprotein A
+PGF_00051334	Ferrovum	414.00	2.31	Serine--pyruvate aminotransferase (EC 2.6.1.51) / L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
+PGF_00051525	Ferrovum	427.25	1.50	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Ferrovum	450.50	0.58	Signal recognition particle protein Ffh
+PGF_00052676	Ferrovum	221.75	3.20	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase
+PGF_00052705	Ferrovum	144.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Ferrovum	289.00	18.00	Site-specific tyrosine recombinase XerD
+PGF_00053948	Ferrovum	500.50	16.74	Aminopeptidase PepA-related protein
+PGF_00054301	Ferrovum	200.00	1.15	Stringent starvation protein A
+PGF_00054476	Ferrovum	114.00	0.00	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Ferrovum	231.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054920	Ferrovum	214.25	42.84	Sugar fermentation stimulation protein SfsA
+PGF_00054959	Ferrovum	422.00	1.15	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00055052	Ferrovum	558.75	0.96	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055273	Ferrovum	199.75	7.63	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055302	Ferrovum	315.50	0.58	Surface antigen
+PGF_00055354	Ferrovum	454.25	17.04	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055966	Ferrovum	357.50	8.66	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Ferrovum	331.25	13.50	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056544	Ferrovum	263.00	2.31	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Ferrovum	339.25	0.50	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Ferrovum	489.50	1.91	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Ferrovum	206.50	1.73	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Ferrovum	303.50	45.61	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057016	Ferrovum	137.00	1.15	Tol biopolymer transport system, TolR protein
+PGF_00057032	Ferrovum	138.25	2.63	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Ferrovum	786.25	8.96	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057435	Ferrovum	186.00	2.71	Transcription elongation factor GreB
+PGF_00057483	Ferrovum	419.00	0.00	Transcription termination factor Rho
+PGF_00057485	Ferrovum	491.00	0.00	Transcription termination protein NusA
+PGF_00057488	Ferrovum	145.00	2.31	Transcription termination protein NusB
+PGF_00060313	Ferrovum	455.00	6.93	Transcriptional response regulatory protein GlrR
+PGF_00060398	Ferrovum	662.00	1.15	Transketolase (EC 2.2.1.1)
+PGF_00060409	Ferrovum	697.00	0.00	Translation elongation factor G
+PGF_00060414	Ferrovum	600.25	6.50	Translation elongation factor LepA
+PGF_00060421	Ferrovum	187.00	2.00	Translation elongation factor P
+PGF_00060427	Ferrovum	294.50	0.58	Translation elongation factor Ts
+PGF_00060431	Ferrovum	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Ferrovum	198.00	1.15	Translation initiation factor 3
+PGF_00062023	Ferrovum	267.50	1.00	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Ferrovum	399.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Ferrovum	400.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063167	Ferrovum	89.75	3.77	Type I antifreeze protein
+PGF_00063815	Ferrovum	427.25	4.35	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
+PGF_00063916	Ferrovum	400.50	2.89	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Ferrovum	241.75	0.50	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Ferrovum	302.25	12.20	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Ferrovum	344.50	0.58	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063952	Ferrovum	304.25	6.60	UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13)
+PGF_00063974	Ferrovum	306.50	5.20	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Ferrovum	369.50	1.73	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Ferrovum	471.75	2.36	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Ferrovum	457.50	4.04	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064135	Ferrovum	347.00	0.00	UDP-glucuronic acid oxidase (UDP-4-keto-hexauronic acid decarboxylating) (EC 1.1.1.305)
+PGF_00064184	Ferrovum	485.25	1.50	UPF0061 protein YdiU
+PGF_00064290	Ferrovum	749.50	0.58	Arginine decarboxylase (EC 4.1.1.19); Ornithine decarboxylase (EC 4.1.1.17); Lysine decarboxylase (EC 4.1.1.18)
+PGF_00064438	Ferrovum	200.00	0.00	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Ferrovum	512.00	4.62	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064685	Ferrovum	85.50	1.73	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Ferrovum	222.50	15.59	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00064880	Ferrovum	430.75	14.20	Uncharacterized protease YegQ
+PGF_00064997	Ferrovum	406.50	7.55	Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+PGF_00065238	Ferrovum	339.50	1.00	Arsenical-resistance protein ACR3
+PGF_00065887	Ferrovum	258.00	4.00	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065892	Ferrovum	123.00	0.00	Undecaprenyl phosphate-aminoarabinose flippase subunit ArnE @ Undecaprenyl phosphate-aminoarabinose flippase subunit ArnF
+PGF_00065901	Ferrovum	319.00	3.37	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53)
+PGF_00066270	Ferrovum	354.50	0.58	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Ferrovum	910.00	6.93	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Ferrovum	125.00	2.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066867	Ferrovum	439.00	3.46	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Ferrovum	321.75	0.96	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067127	Ferrovum	256.00	2.16	Xylulose-1,5-bisphosphate phosphatase CbbY, converts this Rubisco inhibiting byproduct to xylulose-5P
+PGF_00067188	Ferrovum	375.50	0.58	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067412	Ferrovum	84.50	5.20	YrbA protein
+PGF_00067466	Ferrovum	587.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067538	Ferrovum	255.75	2.99	Zinc transporter, ZIP family
+PGF_00067554	Ferrovum	477.50	0.58	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067568	Ferrovum	681.75	185.32	Zinc-regulated outer membrane receptor
+PGF_00067739	Ferrovum	360.50	0.58	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Ferrovum	858.50	6.35	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00070354	Ferrovum	358.00	1.15	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)
+PGF_00071432	Ferrovum	310.50	0.58	formyltransferase
+PGF_00084324	Ferrovum	273.50	0.58	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00130924	Ferrovum	315.00	8.08	hypothetical protein
+PGF_00140751	Ferrovum	365.00	0.00	hypothetical protein
+PGF_00144272	Ferrovum	172.75	6.13	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00261173	Ferrovum	357.50	12.26	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Ferrovum	206.75	3.20	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00306574	Ferrovum	333.50	0.58	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00350921	Ferrovum	333.50	23.04	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00401752	Ferrovum	243.00	0.00	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00404256	Ferrovum	449.50	0.58	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404384	Ferrovum	329.50	0.58	Biotin synthase (EC 2.8.1.6)
+PGF_00404831	Ferrovum	272.50	4.36	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Ferrovum	921.50	17.90	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00410883	Ferrovum	156.25	5.50	Single-stranded DNA-binding protein
+PGF_00413203	Ferrovum	154.00	0.82	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Ferrovum	255.25	0.96	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Ferrovum	258.75	3.40	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Ferrovum	314.75	1.50	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Ferrovum	630.00	2.45	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Ferrovum	307.00	2.31	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Ferrovum	153.25	2.63	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413478	Ferrovum	339.50	1.73	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases / CDP-6-deoxy-delta-3,4-glucoseen reductase-like
+PGF_00413554	Ferrovum	147.00	0.00	tmRNA-binding protein SmpB
+PGF_00414926	Ferrovum	380.75	5.50	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Ferrovum	384.25	0.50	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415481	Ferrovum	388.25	2.63	SAM-dependent methyltransferase, MidA
+PGF_00415581	Ferrovum	214.50	5.20	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416115	Ferrovum	307.25	1.50	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Ferrovum	549.25	1.89	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Ferrovum	1079.00	1.15	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Ferrovum	182.00	0.00	3'-to-5' oligoribonuclease (orn)
+PGF_00417429	Ferrovum	381.25	2.99	Chaperone protein DnaJ
+PGF_00417433	Ferrovum	641.25	0.50	Chaperone protein DnaK
+PGF_00417577	Ferrovum	144.00	0.00	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Ferrovum	370.00	2.45	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Ferrovum	235.00	3.46	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Ferrovum	366.00	1.15	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Ferrovum	178.00	0.00	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Ferrovum	256.25	2.06	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00419420	Ferrovum	467.75	0.96	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419627	Ferrovum	303.00	5.77	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419628	Ferrovum	466.50	11.79	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Ferrovum	175.00	10.39	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419915	Ferrovum	265.00	0.82	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00419986	Ferrovum	317.00	8.98	Cys regulon transcriptional activator CysB
+PGF_00420078	Ferrovum	295.75	0.50	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420121	Ferrovum	219.00	1.15	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420152	Ferrovum	677.25	2.36	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420155	Ferrovum	204.00	2.31	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+PGF_00420358	Ferrovum	468.00	0.00	Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1)
+PGF_00420363	Ferrovum	315.50	2.89	Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)
+PGF_00420482	Ferrovum	245.25	2.36	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Ferrovum	645.00	4.62	Cytochrome c heme lyase subunit CcmF
+PGF_00420584	Ferrovum	209.00	2.31	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center
+PGF_00420731	Ferrovum	493.50	0.58	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420762	Ferrovum	467.75	7.18	D-2-hydroxyglutarate dehydrogenase (EC 1.1.99.2)
+PGF_00420792	Ferrovum	278.50	1.73	D-alanine aminotransferase (EC 2.6.1.21)
+PGF_00420798	Ferrovum	333.75	2.06	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Ferrovum	332.25	2.22	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420957	Ferrovum	425.00	3.46	D-glycerate 2-kinase (EC 2.7.1.165)
+PGF_00421489	Ferrovum	1149.75	3.77	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Ferrovum	362.75	13.84	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Ferrovum	583.00	1.15	DNA primase (EC 2.7.7.-)
+PGF_00421796	Ferrovum	556.75	1.50	DNA repair protein RecN
+PGF_00421925	Ferrovum	261.25	45.35	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_00422271	Ferrovum	328.50	0.58	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422711	Ferrovum	216.75	2.06	DedA protein
+PGF_00422918	Ferrovum	188.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Ferrovum	149.50	0.58	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Ferrovum	369.00	8.08	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Ferrovum	282.50	3.70	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Ferrovum	424.00	1.15	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Ferrovum	467.50	8.66	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423376	Ferrovum	149.50	4.04	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423378	Ferrovum	427.00	0.00	Dihydroorotase (EC 3.5.2.3)
+PGF_00423382	Ferrovum	360.25	16.60	Dihydroorotase (EC 3.5.2.3)
+PGF_00423450	Ferrovum	309.75	11.93	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)
+PGF_00423472	Ferrovum	652.25	8.06	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Ferrovum	281.50	4.04	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423560	Ferrovum	590.75	4.72	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)
+PGF_00423914	Ferrovum	190.25	14.73	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Ferrovum	283.00	0.00	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424123	Ferrovum	535.25	19.50	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424569	Ferrovum	261.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Ferrovum	604.00	3.46	Excinuclease ABC subunit C
+PGF_00425011	Ferrovum	266.50	7.51	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425161	Ferrovum	612.50	4.04	Exoribonuclease II (EC 3.1.13.1)
+PGF_00425212	Ferrovum	477.00	0.00	Exported zinc metalloprotease YfgC precursor
+PGF_00425214	Ferrovum	108.50	1.73	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425665	Ferrovum	245.50	6.35	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Ferrovum	291.00	12.70	RNase adapter protein RapZ
+PGF_00425684	Ferrovum	242.25	2.50	Probable transcriptional regulatory protein YebC
+PGF_00425704	Ferrovum	90.25	0.50	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425918	Ferrovum	294.75	2.63	FIG003879: Uncharacterized subgroup of the nitrilase superfamily
+PGF_00425993	Ferrovum	393.50	0.58	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Ferrovum	330.00	1.15	FIG004453: protein YceG like
+PGF_00426044	Ferrovum	283.25	2.63	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Ferrovum	628.00	0.00	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Ferrovum	408.00	3.56	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426342	Ferrovum	267.25	18.64	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426722	Ferrovum	1236.50	2.52	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Ferrovum	158.00	6.93	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447508	Ferrovum	404.00	1.15	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00457990	Ferrovum	180.50	1.73	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00461658	Ferrovum	397.25	19.35	ABC-type branched-chain amino acid transport systems, periplasmic component
+PGF_00474012	Ferrovum	425.25	2.63	Uncharacterized MFS-type transporter YhjE
+PGF_00482828	Ferrovum	448.50	1.73	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00529632	Ferrovum	859.25	1.26	ClpB protein
+PGF_00535698	Ferrovum	246.50	0.58	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+PGF_00538878	Ferrovum	275.50	0.58	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00549302	Ferrovum	478.00	12.73	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00550718	Ferrovum	150.00	4.62	General secretion pathway protein G
+PGF_00565351	Ferrovum	221.00	4.76	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00580333	Ferrovum	396.50	3.00	Lipopolysaccharide assembly protein LapB
+PGF_00582270	Ferrovum	457.00	0.00	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00616490	Ferrovum	324.00	1.15	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Ferrovum	359.75	1.26	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Ferrovum	230.50	2.89	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00639841	Ferrovum	528.75	2.06	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Ferrovum	333.75	35.61	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644212	Ferrovum	286.50	4.12	Nucleoside-diphosphate-sugar epimerases
+PGF_00648054	Ferrovum	229.25	2.06	Tol-Pal system protein TolQ
+PGF_00655358	Ferrovum	495.00	12.81	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Ferrovum	518.50	4.04	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Ferrovum	217.25	3.20	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Ferrovum	431.00	0.00	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Ferrovum	123.75	2.63	Ribosomal silencing factor RsfA
+PGF_00717495	Ferrovum	431.50	0.58	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00720161	Ferrovum	541.75	6.95	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase (EC 2.4.2.43) @ Melittin resistance protein PqaB @ Polymyxin resistance protein PmrK
+PGF_00725839	Ferrovum	822.00	39.26	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Ferrovum	857.75	20.32	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00734751	Ferrovum	156.00	6.93	Cytochrome c heme lyase subunit CcmL
+PGF_00777371	Ferrovum	236.50	1.73	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00827555	Ferrovum	520.75	12.61	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00833025	Ferrovum	328.00	0.00	Oxidoreductase, aldo/keto reductase family
+PGF_00874759	Ferrovum	341.50	146.33	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00908360	Ferrovum	264.50	0.58	Phospholipid ABC transporter permease protein MlaE
+PGF_00909659	Ferrovum	529.50	24.09	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00912265	Ferrovum	339.25	0.96	tRNA-dihydrouridine synthase DusB
+PGF_00924816	Ferrovum	244.00	1.15	Thiol:disulfide interchange protein DsbC
+PGF_00925844	Ferrovum	394.50	74.48	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Ferrovum	589.00	5.77	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00948290	Ferrovum	401.50	9.33	Murein hydrolase activator EnvC
+PGF_00950554	Ferrovum	675.50	9.71	Excinuclease ABC subunit B
+PGF_00955461	Ferrovum	347.00	1.41	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00973394	Ferrovum	162.00	2.31	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00981596	Ferrovum	506.00	0.00	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_01043155	Ferrovum	120.00	0.00	Cyanoglobin; Hemoglobin-like protein HbN
+PGF_01052295	Ferrovum	365.25	10.84	Lipopolysaccharide export system permease protein LptF
+PGF_01065911	Ferrovum	218.00	3.46	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01084030	Ferrovum	764.50	0.58	Outer membrane protein assembly factor YaeT
+PGF_01104399	Ferrovum	265.50	12.87	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Ferrovum	394.00	7.62	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Ferrovum	361.00	6.00	Rod shape-determining protein RodA
+PGF_01162681	Ferrovum	893.75	2.99	Aconitate hydratase (EC 4.2.1.3)
+PGF_01166636	Ferrovum	81.75	7.85	Glutaredoxin 3 (Grx3)
+PGF_01172200	Ferrovum	206.00	3.46	Uncharacterized membrane anchored protein Mext_4159
+PGF_01172431	Ferrovum	114.00	4.69	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172485	Ferrovum	413.50	0.58	Cell division protein FtsA
+PGF_01173493	Ferrovum	413.25	5.50	D-amino acid dehydrogenase (EC 1.4.99.6)
+PGF_01174739	Ferrovum	249.75	2.63	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Ferrovum	644.25	9.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Ferrovum	547.00	0.00	Heat shock protein 60 family chaperone GroEL
+PGF_01223569	Ferrovum	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Ferrovum	167.00	4.62	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Ferrovum	325.50	2.89	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Ferrovum	261.25	4.35	Chromosome (plasmid) partitioning protein ParA
+PGF_01313623	Ferrovum	396.50	7.51	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)
+PGF_01323228	Ferrovum	202.00	3.46	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Ferrovum	221.50	2.38	Molybdenum ABC transporter permease protein ModB
+PGF_01351158	Ferrovum	1128.25	9.54	Transcription-repair coupling factor
+PGF_01364427	Ferrovum	198.00	0.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01393949	Ferrovum	657.50	0.58	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01420802	Ferrovum	154.75	8.30	Cell division protein MraZ
+PGF_01421534	Ferrovum	218.75	2.63	LSU ribosomal protein L25p
+PGF_01421572	Ferrovum	208.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01423501	Ferrovum	158.00	0.00	Transcription elongation factor GreA
+PGF_01448031	Ferrovum	101.75	0.96	Integration host factor alpha subunit
+PGF_01466742	Ferrovum	436.75	2.63	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Ferrovum	461.00	11.86	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483918	Ferrovum	275.75	3.77	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01514111	Ferrovum	347.00	0.00	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01532393	Ferrovum	695.00	16.83	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01580528	Ferrovum	790.00	218.00	Mg(2+) transport ATPase, P-type (EC 3.6.3.2)
+PGF_01625234	Ferrovum	320.00	0.00	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667880	Ferrovum	89.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Ferrovum	244.00	2.83	RNA polymerase sigma factor RpoE
+PGF_01674551	Ferrovum	124.50	0.58	Glycine cleavage system H protein
+PGF_01682537	Ferrovum	125.00	2.00	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Ferrovum	142.75	3.95	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Ferrovum	218.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Ferrovum	285.50	4.04	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01777142	Ferrovum	216.75	6.40	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Ferrovum	141.75	3.40	Protein YhfA
+PGF_01853493	Ferrovum	276.50	11.09	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Ferrovum	341.75	11.24	Heat-inducible transcription repressor HrcA
+PGF_01888177	Ferrovum	150.25	0.96	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Ferrovum	210.00	0.00	Endonuclease III (EC 4.2.99.18)
+PGF_01899098	Ferrovum	161.50	2.89	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01960322	Ferrovum	609.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01985478	Ferrovum	371.00	5.77	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01994657	Ferrovum	433.00	1.15	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Ferrovum	127.50	2.89	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Ferrovum	254.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Ferrovum	339.50	0.58	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Ferrovum	367.50	0.58	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Ferrovum	363.75	13.50	GTP-binding protein Obg
+PGF_02049259	Ferrovum	246.50	1.73	Efflux ABC transporter, ATP-binding protein
+PGF_02059020	Ferrovum	552.50	5.00	Energy-dependent translational throttle protein EttA
+PGF_02061452	Ferrovum	369.00	1.41	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02082034	Ferrovum	910.50	2.38	Zinc protease
+PGF_02096336	Ferrovum	310.75	5.62	Uncharacterized inner membrane transporter YijE
+PGF_02111888	Ferrovum	311.50	0.58	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Ferrovum	793.00	0.00	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02141339	Ferrovum	182.00	15.01	hypothetical protein
+PGF_02142348	Ferrovum	330.50	2.89	ABC transporter, substrate-binding protein (cluster 6, sulfate/molybdate/tungstate/phosphate)
+PGF_02185217	Ferrovum	422.00	0.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02189378	Ferrovum	392.50	6.35	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02211177	Ferrovum	257.50	11.68	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02224568	Ferrovum	322.00	2.31	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Ferrovum	682.00	1.15	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02323834	Ferrovum	292.50	1.73	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02325838	Ferrovum	498.00	1.15	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328820	Ferrovum	65.50	1.73	hypothetical protein
+PGF_02346669	Ferrovum	304.75	0.50	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Ferrovum	865.50	2.89	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Ferrovum	355.00	2.31	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Ferrovum	909.00	1.15	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Ferrovum	326.25	6.40	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02420191	Ferrovum	493.50	8.54	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02450432	Ferrovum	267.75	8.06	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Ferrovum	77.50	12.12	SSU ribosomal protein S20p
+PGF_02463284	Ferrovum	201.50	1.73	Recombination protein RecR
+PGF_02473279	Ferrovum	250.00	6.93	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02515882	Ferrovum	413.00	2.31	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Ferrovum	426.50	0.58	Enolase (EC 4.2.1.11)
+PGF_02517984	Ferrovum	59.50	0.58	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Ferrovum	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02593689	Ferrovum	461.75	3.77	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02595016	Ferrovum	391.50	8.66	Multidrug efflux system MdtABC-TolC, membrane fusion component MdtA
+PGF_02601905	Ferrovum	146.50	12.37	Transcriptional regulator PA2737, MerR family
+PGF_02611620	Ferrovum	458.00	2.31	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Ferrovum	312.00	2.31	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Ferrovum	1402.00	1.15	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02715462	Ferrovum	284.00	6.93	Glycosyl transferase, family 2
+PGF_02719231	Ferrovum	118.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Ferrovum	860.25	7.80	DNA mismatch repair protein MutS
+PGF_02746016	Ferrovum	232.50	0.58	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02776739	Ferrovum	133.50	4.12	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Ferrovum	273.50	1.73	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Ferrovum	232.50	5.20	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Ferrovum	460.50	1.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Ferrovum	1356.00	0.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Ferrovum	515.50	5.20	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02827614	Ferrovum	338.50	8.66	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02838109	Ferrovum	179.50	1.00	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Ferrovum	273.25	7.32	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Ferrovum	407.50	4.43	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02873160	Ferrovum	236.25	9.60	Putative preQ0 transporter YhhQ
+PGF_02873723	Ferrovum	483.75	0.50	Ribonuclease G
+PGF_02874055	Ferrovum	539.75	3.40	3-methylmercaptopropionyl-CoA ligase (EC 6.2.1.44) of DmdB2 type
+PGF_02875609	Ferrovum	448.50	1.73	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Ferrovum	360.00	1.15	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Ferrovum	356.75	1.26	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02898096	Ferrovum	478.00	0.00	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Ferrovum	64.50	1.00	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Ferrovum	205.75	0.50	Outer membrane lipoprotein carrier protein LolA
+PGF_02904832	Ferrovum	312.50	0.58	Homoserine kinase (EC 2.7.1.39)
+PGF_02911364	Ferrovum	295.00	2.31	HflC protein
+PGF_02912272	Ferrovum	162.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02919689	Ferrovum	266.00	4.62	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Ferrovum	237.25	0.50	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Ferrovum	293.75	3.20	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02938730	Ferrovum	338.00	0.00	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02944756	Ferrovum	395.00	1.15	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Ferrovum	570.00	1.41	SSU ribosomal protein S1p
+PGF_02979277	Ferrovum	596.75	2.63	3-methylmercaptopropionyl-CoA dehydrogenase (DmdC)
+PGF_02992100	Ferrovum	248.25	3.40	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Ferrovum	113.00	2.31	Protein translocase membrane subunit SecG
+PGF_02997723	Ferrovum	149.00	2.31	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03000781	Ferrovum	742.50	7.55	Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+PGF_03003632	Ferrovum	1023.75	7.41	Multidrug efflux system MdtABC-TolC, inner-membrane proton/drug antiporter MdtB (RND type)
+PGF_03006190	Ferrovum	392.00	0.00	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03017775	Ferrovum	494.00	1.15	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03025675	Ferrovum	595.50	26.40	Lipid A export permease/ATP-binding protein MsbA
+PGF_03029859	Ferrovum	606.25	0.96	Bis-ABC ATPase Uup
+PGF_03038852	Ferrovum	120.50	2.89	FIG00018398: hypothetical regulator
+PGF_03050772	Ferrovum	237.50	0.58	Transcriptional regulator, Crp/Fnr family
+PGF_03053958	Ferrovum	311.00	110.86	Outer membrane protein A precursor
+PGF_03054699	Ferrovum	781.00	1.15	DNA translocase FtsK
+PGF_03057384	Ferrovum	335.25	3.20	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03059183	Ferrovum	372.25	7.89	Outer membrane protein romA
+PGF_03074362	Ferrovum	380.50	1.73	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03111948	Ferrovum	249.50	0.58	Electron transfer flavoprotein, beta subunit
+PGF_03132336	Ferrovum	421.50	0.58	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03146406	Ferrovum	588.00	2.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03152003	Ferrovum	417.25	4.35	Cytochrome c heme lyase subunit CcmH
+PGF_03172904	Ferrovum	268.75	6.08	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Ferrovum	176.75	1.26	Transcription antitermination protein NusG
+PGF_03186757	Ferrovum	187.00	4.62	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+PGF_03195616	Ferrovum	440.25	32.62	hypothetical protein
+PGF_03203461	Ferrovum	579.50	43.01	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03253896	Ferrovum	241.00	8.12	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Ferrovum	200.50	0.58	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Ferrovum	861.75	13.57	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Ferrovum	78.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Ferrovum	223.75	9.18	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03325319	Ferrovum	186.50	21.00	DnaA initiator-associating protein DiaA
+PGF_03348128	Ferrovum	187.50	10.97	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03400061	Ferrovum	481.25	16.28	Cyclohexanone monooxygenase (EC 1.14.13.22)
+PGF_03421722	Ferrovum	438.00	4.62	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03439690	Ferrovum	145.50	0.58	Ferric uptake regulation protein FUR
+PGF_03441339	Ferrovum	340.25	28.66	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03441843	Ferrovum	794.50	1.91	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03456505	Ferrovum	499.50	73.34	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03518570	Ferrovum	141.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Ferrovum	379.50	4.20	Cell division protein FtsZ
+PGF_03609651	Ferrovum	611.50	69.86	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Ferrovum	161.00	0.00	UPF0234 protein Yitk
+PGF_03694903	Ferrovum	504.00	82.02	ATP-dependent RNA helicase NGO0650
+PGF_03699416	Ferrovum	189.50	0.58	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03719269	Ferrovum	210.25	7.46	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Ferrovum	163.00	5.48	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Ferrovum	189.00	3.46	UPF0301 protein YqgE
+PGF_03739563	Ferrovum	148.50	22.52	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Ferrovum	465.25	42.87	Chromosomal replication initiator protein DnaA
+PGF_03750600	Ferrovum	159.00	2.31	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751065	Ferrovum	60.00	0.00	Rubredoxin
+PGF_03751823	Ferrovum	186.00	2.31	Heat shock protein GrpE
+PGF_03752544	Ferrovum	237.25	0.50	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Ferrovum	298.00	9.35	Site-specific tyrosine recombinase XerC
+PGF_03757137	Ferrovum	476.50	11.36	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Ferrovum	232.50	5.74	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03778780	Ferrovum	318.50	0.58	Signal recognition particle receptor FtsY
+PGF_03783620	Ferrovum	177.00	4.62	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Ferrovum	189.00	2.31	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Ferrovum	226.75	4.35	Ribonuclease III (EC 3.1.26.3)
+PGF_03801156	Ferrovum	288.50	17.90	Cobalt-zinc-cadmium resistance protein CzcD
+PGF_03801201	Ferrovum	269.00	2.31	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Ferrovum	68.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03810089	Ferrovum	477.50	1.00	General secretion pathway protein E
+PGF_03811905	Ferrovum	355.00	3.56	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03835760	Ferrovum	417.25	0.50	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03862500	Ferrovum	210.50	0.58	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03935716	Ferrovum	657.00	0.00	Inner membrane protein, KefB/KefC family
+PGF_03960810	Ferrovum	243.50	0.58	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03991729	Ferrovum	390.50	0.58	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04006867	Ferrovum	316.50	0.58	Hydroxypyruvate reductase (EC 1.1.1.81)
+PGF_04007946	Ferrovum	216.25	3.40	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009223	Ferrovum	335.25	4.92	Uncharacterized protein EC-HemX
+PGF_04016408	Ferrovum	435.50	11.00	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04034430	Ferrovum	70.00	0.00	SSU ribosomal protein S21p
+PGF_04037464	Ferrovum	259.25	3.30	rRNA methylases
+PGF_04041316	Ferrovum	947.00	2.00	Excinuclease ABC subunit A
+PGF_04098783	Ferrovum	208.00	2.31	hypothetical protein
+PGF_04108824	Ferrovum	577.50	0.58	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Ferrovum	253.25	2.06	Twin-arginine translocation protein TatC
+PGF_04143227	Ferrovum	189.00	2.31	hypothetical protein
+PGF_04145024	Ferrovum	156.50	0.58	hypothetical protein
+PGF_04150822	Ferrovum	159.75	7.23	hypothetical protein
+PGF_04154333	Ferrovum	79.25	1.26	Twin-arginine translocation protein TatA
+PGF_04212927	Ferrovum	465.50	5.20	hypothetical protein
+PGF_04261669	Ferrovum	112.00	1.15	Transcriptional regulator, ArsR family
+PGF_04315180	Ferrovum	154.50	0.58	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Ferrovum	452.00	17.34	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Ferrovum	910.50	3.00	Protein translocase subunit SecA
+PGF_04380075	Ferrovum	160.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Ferrovum	308.00	0.00	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04401655	Ferrovum	173.75	19.57	hypothetical protein
+PGF_04428744	Ferrovum	327.00	5.77	hypothetical protein
+PGF_04431595	Ferrovum	602.75	199.60	Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
+PGF_04457297	Ferrovum	197.75	2.87	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04464944	Ferrovum	137.00	2.31	hypothetical protein
+PGF_04477026	Ferrovum	92.25	4.19	hypothetical protein
+PGF_04477106	Ferrovum	378.25	2.63	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04501688	Ferrovum	367.75	9.54	hypothetical protein
+PGF_04505269	Ferrovum	246.50	0.58	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Ferrovum	347.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Ferrovum	454.50	7.51	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04533991	Ferrovum	474.00	5.77	hypothetical protein
+PGF_04569524	Ferrovum	513.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Ferrovum	198.50	1.73	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Ferrovum	257.00	5.35	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04630848	Ferrovum	147.50	2.89	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04660832	Ferrovum	161.50	6.35	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Ferrovum	802.50	4.04	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04666574	Ferrovum	170.00	5.35	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_04687504	Ferrovum	475.00	1.15	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04687755	Ferrovum	130.75	2.22	hypothetical protein
+PGF_04695681	Ferrovum	229.75	3.20	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04734234	Ferrovum	622.50	0.58	Kup system potassium uptake protein
+PGF_04749763	Ferrovum	949.25	11.93	Translation initiation factor 2
+PGF_04757308	Ferrovum	651.50	0.58	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Ferrovum	192.75	1.26	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Ferrovum	316.00	3.56	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04810709	Ferrovum	539.00	27.35	hypothetical protein
+PGF_04845029	Ferrovum	129.75	3.20	LSU ribosomal protein L19p
+PGF_04887285	Ferrovum	84.50	4.04	hypothetical protein
+PGF_04905995	Ferrovum	98.25	3.20	hypothetical protein
+PGF_04936159	Ferrovum	82.00	2.31	hypothetical protein
+PGF_04962192	Ferrovum	733.00	1.15	3'-to-5' exoribonuclease RNase R
+PGF_04971017	Ferrovum	372.00	0.00	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Ferrovum	109.50	6.35	LSU ribosomal protein L21p
+PGF_05025448	Ferrovum	247.00	2.31	Pseudouridine synthase
+PGF_05111929	Ferrovum	570.25	0.96	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05119600	Ferrovum	1035.00	6.93	Multidrug efflux system MdtABC-TolC, inner-membrane proton/drug antiporter MdtC (RND type)
+PGF_05122891	Ferrovum	307.00	4.62	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_05135220	Ferrovum	819.50	24.41	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Ferrovum	311.50	2.89	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Ferrovum	459.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Ferrovum	476.50	4.04	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05255412	Ferrovum	432.00	0.82	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Ferrovum	437.50	4.04	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Ferrovum	749.75	1.50	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05294175	Ferrovum	169.75	4.92	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Ferrovum	446.50	27.15	ATP-dependent RNA helicase RhlE
+PGF_05309437	Ferrovum	222.50	8.66	hypothetical protein
+PGF_05338234	Ferrovum	291.00	2.83	Protein YicC
+PGF_05368844	Ferrovum	140.00	0.82	hypothetical protein
+PGF_05375190	Ferrovum	337.75	6.08	hypothetical protein
+PGF_05386032	Ferrovum	191.50	0.58	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05404134	Ferrovum	195.25	13.57	hypothetical protein
+PGF_05406959	Ferrovum	336.75	3.77	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05421852	Ferrovum	622.50	8.66	Chaperone protein HtpG
+PGF_05423748	Ferrovum	91.75	11.87	hypothetical protein
+PGF_05435672	Ferrovum	314.75	23.29	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05439724	Ferrovum	672.25	2.99	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Ferrovum	289.00	1.15	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Ferrovum	491.25	0.50	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05475561	Ferrovum	523.00	0.00	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+PGF_05498463	Ferrovum	400.00	6.93	Glutamate-pyruvate aminotransferase AlaC (EC 2.6.1.2)
+PGF_05507938	Ferrovum	612.25	26.27	DNA mismatch repair protein MutL
+PGF_05560886	Ferrovum	278.75	2.06	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05566204	Ferrovum	252.00	8.08	hypothetical protein
+PGF_05581732	Ferrovum	435.50	2.89	Protein translocase subunit SecY
+PGF_05598173	Ferrovum	383.50	1.91	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Ferrovum	417.00	4.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05628006	Ferrovum	215.00	1.41	hypothetical protein
+PGF_05657253	Ferrovum	220.00	1.15	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05679920	Ferrovum	1246.00	8.12	ATP-dependent helicase HrpA
+PGF_05685583	Ferrovum	264.50	2.89	hypothetical protein
+PGF_05693577	Ferrovum	100.75	0.50	Integration host factor beta subunit
+PGF_05712128	Ferrovum	550.75	1.50	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05744473	Ferrovum	485.75	4.72	hypothetical protein
+PGF_05769513	Ferrovum	425.50	1.73	Tol-Pal system beta propeller repeat protein TolB
+PGF_05862116	Ferrovum	622.50	3.00	hypothetical protein
+PGF_05872952	Ferrovum	265.75	15.46	Outer membrane beta-barrel assembly protein BamD
+PGF_05925776	Ferrovum	301.25	3.20	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Ferrovum	615.50	10.97	Protein translocase subunit SecD
+PGF_05965455	Ferrovum	414.75	3.77	AmpG permease
+PGF_05971611	Ferrovum	403.00	9.38	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Ferrovum	652.50	14.06	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06023291	Ferrovum	254.50	2.89	Metal-dependent hydrolases of the beta-lactamase superfamily I
+PGF_06051345	Ferrovum	713.00	1.15	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06051594	Ferrovum	465.50	0.58	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06053106	Ferrovum	288.75	1.50	RNA polymerase sigma factor RpoH
+PGF_06061522	Ferrovum	123.50	5.20	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06078815	Ferrovum	101.50	1.73	hypothetical protein
+PGF_06087136	Ferrovum	191.00	1.15	hypothetical protein
+PGF_06111528	Ferrovum	351.25	8.14	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06120144	Ferrovum	146.50	2.89	Ribosome association toxin RatA
+PGF_06180597	Ferrovum	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06205879	Ferrovum	447.50	4.04	hypothetical protein
+PGF_06213055	Ferrovum	261.00	3.46	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Ferrovum	384.25	108.87	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Ferrovum	96.50	0.58	Heat shock protein 60 family co-chaperone GroES
+PGF_06292524	Ferrovum	353.00	1.15	hypothetical protein
+PGF_06298671	Ferrovum	251.50	0.58	Efflux ABC transporter, permease protein
+PGF_06313849	Ferrovum	42.00	0.00	hypothetical protein
+PGF_06315406	Ferrovum	420.75	0.50	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Ferrovum	355.00	0.00	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06320166	Ferrovum	258.00	13.34	Spermidine synthase-like protein
+PGF_06331579	Ferrovum	272.00	4.24	O-antigen export system permease protein RfbD
+PGF_06340618	Ferrovum	377.00	106.71	hypothetical protein
+PGF_06374212	Ferrovum	86.50	3.32	hypothetical protein
+PGF_06379377	Ferrovum	435.50	1.00	Replication-associated recombination protein RarA
+PGF_06403579	Ferrovum	807.75	5.50	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06458140	Ferrovum	253.75	4.92	hypothetical protein
+PGF_06458877	Ferrovum	161.50	0.58	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Ferrovum	323.00	0.00	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06480730	Ferrovum	444.00	1.41	hypothetical protein
+PGF_06495818	Ferrovum	257.00	12.54	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06530721	Ferrovum	225.00	8.72	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Ferrovum	130.75	0.50	Fluoride ion transporter CrcB
+PGF_06545548	Ferrovum	48.25	5.32	hypothetical protein
+PGF_06592825	Ferrovum	223.25	7.32	hypothetical protein
+PGF_06636335	Ferrovum	251.00	1.15	hypothetical protein
+PGF_06644010	Ferrovum	313.75	6.24	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Ferrovum	79.00	0.00	Acyl carrier protein
+PGF_06660812	Ferrovum	213.50	1.73	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06691951	Ferrovum	182.00	0.00	hypothetical protein
+PGF_06693963	Ferrovum	107.00	0.00	Nucleoid-associated protein YaaK
+PGF_06706859	Ferrovum	163.00	3.46	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06735060	Ferrovum	717.75	2.22	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06757295	Ferrovum	507.50	0.58	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06767187	Ferrovum	313.00	1.15	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06772993	Ferrovum	894.00	25.13	Ribonuclease E (EC 3.1.26.12)
+PGF_06777631	Ferrovum	304.50	7.51	hypothetical protein
+PGF_07072294	Ferrovum	314.00	3.46	Electron transfer flavoprotein, alpha subunit
+PGF_07072582	Ferrovum	626.25	1.50	RNA polymerase sigma factor RpoD
+PGF_07242312	Ferrovum	632.50	6.35	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07344415	Ferrovum	186.00	1.41	Intracellular septation protein IspA
+PGF_08046522	Ferrovum	94.25	14.20	Glutaredoxin-related protein
+PGF_08153913	Ferrovum	251.75	26.15	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08183187	Ferrovum	387.50	1.73	Cell division protein FtsW

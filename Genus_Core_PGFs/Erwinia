@@ -1,0 +1,961 @@
+PGF_00000416	Erwinia	350.33	49.92	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00002592	Erwinia	225.97	33.15	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00003516	Erwinia	250.71	5.70	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003528	Erwinia	180.17	0.89	UPF0307 protein YjgA
+PGF_00003749	Erwinia	156.00	0.00	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003750	Erwinia	177.14	13.71	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004253	Erwinia	405.53	56.87	Fermentation/respiration switch protein
+PGF_00004378	Erwinia	248.00	0.00	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00004652	Erwinia	259.40	49.54	Ferrous iron transport permease EfeU
+PGF_00005921	Erwinia	172.97	4.29	Flavodoxin 2
+PGF_00006320	Erwinia	270.29	43.95	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006376	Erwinia	336.38	2.61	Fructose repressor FruR, LacI family
+PGF_00006394	Erwinia	359.29	1.18	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006403	Erwinia	369.14	47.17	PTS system, fructose-specific IIA component (EC 2.7.1.202) / Fructose-specific phosphocarrier protein HPr
+PGF_00006447	Erwinia	241.03	36.64	Fumarate and nitrate reduction regulatory protein
+PGF_00006935	Erwinia	525.97	0.17	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006955	Erwinia	305.97	56.09	Uncharacterized GNAT family acetyltransferase YiiD
+PGF_00006987	Erwinia	191.76	8.33	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007012	Erwinia	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Erwinia	497.46	3.49	GTP-binding protein EngA
+PGF_00007026	Erwinia	214.89	13.74	GTP-binding protein EngB
+PGF_00007027	Erwinia	300.34	3.89	GTP-binding protein Era
+PGF_00007028	Erwinia	423.06	15.41	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Erwinia	606.86	0.43	GTP-binding protein TypA/BipA
+PGF_00007304	Erwinia	286.74	1.17	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Erwinia	312.57	0.50	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007812	Erwinia	850.60	7.01	Glucans biosynthesis glucosyltransferase H (EC 2.4.1.-)
+PGF_00007821	Erwinia	533.11	83.64	Glucans biosynthesis protein D precursor
+PGF_00007822	Erwinia	518.51	6.34	Glucans biosynthesis protein G precursor
+PGF_00007844	Erwinia	321.00	0.00	Glucokinase (EC 2.7.1.2)
+PGF_00007968	Erwinia	547.50	82.71	Glucose-1-phosphatase (EC 3.1.3.10)
+PGF_00007988	Erwinia	547.94	1.97	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Erwinia	422.61	59.88	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Erwinia	366.46	10.55	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008106	Erwinia	274.03	12.65	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Erwinia	1717.36	270.35	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008159	Erwinia	525.14	19.60	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008164	Erwinia	405.83	71.50	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008326	Erwinia	555.94	5.76	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Erwinia	414.86	9.82	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Erwinia	469.74	1.07	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008469	Erwinia	314.03	0.17	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008502	Erwinia	386.36	2.00	Putative acid--amine ligase YgiC
+PGF_00008510	Erwinia	250.23	0.88	16S rRNA (guanine(1516)-N(2))-methyltransferase (EC 2.1.1.242)
+PGF_00008595	Erwinia	785.89	104.44	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+PGF_00008611	Erwinia	338.94	1.49	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Erwinia	954.71	2.44	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00009500	Erwinia	201.26	0.85	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00010205	Erwinia	236.58	27.46	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Erwinia	671.70	126.94	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Erwinia	207.34	4.82	Guanylate kinase (EC 2.7.4.8)
+PGF_00010851	Erwinia	70.74	4.86	Haemolysin expression modulating protein
+PGF_00011081	Erwinia	711.81	113.18	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Erwinia	291.34	18.47	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011634	Erwinia	414.66	9.76	HflK protein
+PGF_00011979	Erwinia	434.78	1.35	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Erwinia	354.91	0.28	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012264	Erwinia	334.20	0.72	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Erwinia	300.50	37.82	Homoserine kinase (EC 2.7.1.39)
+PGF_00012972	Erwinia	193.09	9.15	ADP compounds hydrolase NudE (EC 3.6.1.-)
+PGF_00013017	Erwinia	310.00	0.00	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013066	Erwinia	150.56	2.15	Hypothetical flavoprotein YqcA (clustered with tRNA pseudouridine synthase C)
+PGF_00013082	Erwinia	192.94	5.75	Hypothetical lipoprotein YajG precursor
+PGF_00013100	Erwinia	474.26	16.28	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013273	Erwinia	122.86	21.50	Uncharacterized protein YaeR with similarity to glyoxylase family
+PGF_00013283	Erwinia	239.06	21.10	UPF0001 protein YggS
+PGF_00013492	Erwinia	180.29	10.49	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Erwinia	530.14	4.71	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013790	Erwinia	703.03	12.18	IgaA: a membrane protein that prevents overactivation of the Rcs regulatory system
+PGF_00013857	Erwinia	720.22	90.77	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014144	Erwinia	561.67	76.89	Inner membrane protein YejM, alkaline phosphatase superfamily
+PGF_00014207	Erwinia	129.60	4.70	Inner membrane protein YqjE
+PGF_00014279	Erwinia	101.41	4.38	Inner membrane protein yciS
+PGF_00014284	Erwinia	449.00	20.96	Inner membrane transport protein YajR
+PGF_00014311	Erwinia	485.26	11.30	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015510	Erwinia	241.25	28.34	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Erwinia	496.31	2.42	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Erwinia	425.71	3.23	Iron-sulfur cluster assembly protein SufD
+PGF_00015718	Erwinia	909.86	126.19	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Erwinia	491.83	0.38	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015958	Erwinia	378.26	46.28	L,D-transpeptidase YbiS
+PGF_00016325	Erwinia	733.94	93.84	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Erwinia	167.14	3.03	LSU ribosomal protein L10p (P0)
+PGF_00016340	Erwinia	120.60	2.98	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Erwinia	143.49	3.04	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Erwinia	136.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Erwinia	128.00	0.24	LSU ribosomal protein L17p
+PGF_00016357	Erwinia	234.00	0.24	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Erwinia	118.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Erwinia	109.46	3.21	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Erwinia	100.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Erwinia	104.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Erwinia	85.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Erwinia	272.34	3.89	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Erwinia	59.91	1.01	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Erwinia	54.43	4.53	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Erwinia	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016431	Erwinia	209.20	1.18	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Erwinia	186.97	34.22	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Erwinia	166.31	17.82	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Erwinia	176.74	1.52	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Erwinia	116.86	16.22	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Erwinia	149.97	0.17	LSU ribosomal protein L9p
+PGF_00016546	Erwinia	133.34	13.36	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00017054	Erwinia	226.74	36.70	Lipid A 1-diphosphate synthase
+PGF_00017109	Erwinia	372.19	44.97	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Erwinia	233.97	33.08	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017229	Erwinia	343.97	3.73	Lipopolysaccharide biosynthesis protein WzzE
+PGF_00017281	Erwinia	322.09	2.20	Lipopolysaccharide core heptosyltransferase I
+PGF_00017283	Erwinia	342.64	54.69	Lipopolysaccharide core heptosyltransferase III
+PGF_00017327	Erwinia	186.83	10.39	Lipopolysaccharide export system protein LptC
+PGF_00017400	Erwinia	367.17	47.80	Murein hydrolase activator NlpD
+PGF_00017407	Erwinia	288.57	12.82	Lipoprotein NlpI
+PGF_00017409	Erwinia	195.63	13.49	Lipoprotein YcfM, part of a salvage pathway of unknown substrate
+PGF_00017464	Erwinia	233.83	0.71	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Erwinia	320.47	1.73	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017518	Erwinia	587.43	40.92	Lon protease homolog YcbZ
+PGF_00017579	Erwinia	428.06	10.22	ATP-dependent RNA helicase RhlB
+PGF_00017621	Erwinia	429.28	52.83	ATP-dependent RNA helicase SrmB
+PGF_00017640	Erwinia	179.91	3.07	Lipopolysaccharide export system protein LptA
+PGF_00017805	Erwinia	266.37	35.21	LysR family transcriptional regulator HdfR
+PGF_00017939	Erwinia	335.80	11.41	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018560	Erwinia	291.89	4.39	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Erwinia	311.06	0.24	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Erwinia	443.11	0.32	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019236	Erwinia	412.37	4.38	Manganese transport protein MntH
+PGF_00019428	Erwinia	170.09	11.09	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019480	Erwinia	260.91	3.27	Membrane Protein Functionally coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00019972	Erwinia	244.09	4.32	Membrane protein YciC, linked to IspA
+PGF_00020168	Erwinia	372.08	54.86	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Erwinia	274.23	3.99	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020176	Erwinia	352.06	54.41	Membrane-bound lytic murein transglycosylase C (EC 3.2.1.n1)
+PGF_00020184	Erwinia	440.85	46.98	Membrane-bound lytic murein transglycosylase D
+PGF_00020190	Erwinia	452.36	111.63	Membrane-bound lytic murein transglycosylase F (EC 4.2.2.n1)
+PGF_00020361	Erwinia	155.51	0.89	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020747	Erwinia	101.92	13.50	Methionine repressor MetJ
+PGF_00020984	Erwinia	288.86	3.53	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00022781	Erwinia	374.94	0.84	ATPase, AFG1 family
+PGF_00023403	Erwinia	441.14	0.55	Murein DD-endopeptidase MepM
+PGF_00023404	Erwinia	166.47	23.77	Murein DD-endopeptidase MepS @ Murein LD-carboxypeptidase (EC 3.4.17.13)
+PGF_00023476	Erwinia	129.18	8.04	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Erwinia	339.23	11.13	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023796	Erwinia	409.11	2.93	N-acetylglucosamine-6P-responsive transcriptional repressor NagC, ROK family
+PGF_00023818	Erwinia	435.44	62.15	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00023835	Erwinia	295.38	33.55	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00024234	Erwinia	374.34	19.23	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Erwinia	169.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Erwinia	357.63	7.65	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Erwinia	275.03	0.17	NAD synthetase (EC 6.3.1.5)
+PGF_00024370	Erwinia	232.89	4.25	NAD(P)H-flavin reductase (EC 1.5.1.41) (EC 1.16.1.3)
+PGF_00024478	Erwinia	331.33	0.93	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024567	Erwinia	392.00	33.51	Acetate kinase (EC 2.7.2.1)
+PGF_00024685	Erwinia	601.43	7.50	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Erwinia	170.37	2.97	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024701	Erwinia	882.72	104.61	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_00024728	Erwinia	183.86	0.43	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Erwinia	100.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Erwinia	505.23	3.59	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Erwinia	483.03	10.17	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025215	Erwinia	161.14	11.51	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025289	Erwinia	386.25	5.18	Na+/H+ antiporter NhaA type
+PGF_00025366	Erwinia	388.80	84.30	NadR transcriptional regulator / Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)
+PGF_00025448	Erwinia	189.67	14.50	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025588	Erwinia	290.75	35.03	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) @ Dimethylallyltransferase (EC 2.5.1.1)
+PGF_00025598	Erwinia	402.12	9.45	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025890	Erwinia	349.29	1.69	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Erwinia	319.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026349	Erwinia	333.68	2.25	Nucleoid-associated protein NdpA
+PGF_00026362	Erwinia	195.94	6.00	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Erwinia	253.89	32.70	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Erwinia	290.89	45.42	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Erwinia	251.92	38.12	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026819	Erwinia	405.26	1.74	Acetylornithine aminotransferase (EC 2.6.1.11) @ N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)
+PGF_00026866	Erwinia	323.31	2.19	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00027674	Erwinia	203.18	2.12	Osmotically inducible protein OsmY
+PGF_00027728	Erwinia	342.54	3.42	Outer membrane beta-barrel assembly protein BamC
+PGF_00027752	Erwinia	574.94	7.10	Outer membrane component of TAM transport system
+PGF_00027881	Erwinia	368.00	10.65	Outer membrane porin OmpC
+PGF_00028319	Erwinia	168.60	5.87	Outer membrane protein X precursor
+PGF_00028423	Erwinia	360.40	10.80	Outer membrane stress sensor protease DegS
+PGF_00028486	Erwinia	252.97	0.17	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00029464	Erwinia	160.46	4.88	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029917	Erwinia	284.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Erwinia	317.71	12.39	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Erwinia	349.53	46.43	Peptide chain release factor 1
+PGF_00030643	Erwinia	513.36	61.51	Peptide chain release factor 3
+PGF_00030694	Erwinia	321.50	49.92	Peptide transport system ATP-binding protein SapD
+PGF_00030812	Erwinia	164.00	0.00	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00030829	Erwinia	200.34	11.74	Acyl-ACP:glycerol-3-phosphate O-acyltransferase (EC 2.3.1.n5)
+PGF_00030901	Erwinia	524.53	78.55	Murein peptide ABC transporter, substrate-binding protein (requires DppBCDF)
+PGF_00033095	Erwinia	787.03	47.16	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033289	Erwinia	336.46	20.45	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033312	Erwinia	248.91	28.12	Phosphatidylglycerophosphatase B (EC 3.1.3.27)
+PGF_00033359	Erwinia	360.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Erwinia	243.14	0.36	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033392	Erwinia	882.37	4.91	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033423	Erwinia	582.37	43.61	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033479	Erwinia	528.57	64.77	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Erwinia	375.39	49.26	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033539	Erwinia	208.26	27.79	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033642	Erwinia	242.69	17.09	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00033729	Erwinia	262.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Erwinia	262.49	23.65	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Erwinia	210.97	0.45	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Erwinia	157.97	2.50	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Erwinia	407.00	0.00	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Erwinia	197.50	23.73	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033936	Erwinia	237.29	2.92	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Erwinia	245.09	0.70	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Erwinia	348.40	8.26	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Erwinia	1257.33	161.83	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Erwinia	205.31	30.94	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Erwinia	366.24	80.72	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033985	Erwinia	360.31	2.83	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034566	Erwinia	450.80	10.72	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Erwinia	710.20	2.45	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Erwinia	182.00	11.10	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Erwinia	324.71	7.30	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Erwinia	174.83	0.38	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035257	Erwinia	347.80	3.10	Possible protease sohB (EC 3.4.21.-)
+PGF_00035721	Erwinia	456.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Erwinia	438.06	6.71	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035775	Erwinia	112.40	15.28	Predicted chaperone lipoprotein YacC, potentially involved in protein secretion
+PGF_00036567	Erwinia	236.15	12.60	Aerobic respiration control protein arcA
+PGF_00036575	Erwinia	780.03	10.96	Aerobic respiration control sensor protein ArcB (EC 2.7.13.3)
+PGF_00036580	Erwinia	107.51	6.42	Protein translocase subunit YajC
+PGF_00036688	Erwinia	222.54	32.07	RNA chaperone ProQ
+PGF_00036988	Erwinia	307.58	3.01	Agmatinase (EC 3.5.3.11)
+PGF_00037828	Erwinia	292.64	0.87	Protease HtpX
+PGF_00037837	Erwinia	961.00	1.35	Protease III precursor (EC 3.4.24.55)
+PGF_00037973	Erwinia	88.50	10.24	Protein YcgL
+PGF_00037979	Erwinia	275.17	1.89	Protein YeeZ
+PGF_00037991	Erwinia	460.11	103.92	Protein YhjJ, putative peptidase
+PGF_00037998	Erwinia	112.00	0.00	UPF0438 protein YifE
+PGF_00038363	Erwinia	242.69	2.82	Protein of unknown function DUF541
+PGF_00038542	Erwinia	155.97	4.24	Protein of unknown function Smg
+PGF_00038642	Erwinia	177.60	27.68	Protein SprT
+PGF_00038674	Erwinia	315.25	40.67	Protein translocase subunit SecF
+PGF_00038758	Erwinia	633.09	92.67	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeK
+PGF_00038987	Erwinia	239.03	0.17	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039347	Erwinia	438.86	58.74	Putative ECA polymerase WzyE
+PGF_00039356	Erwinia	500.09	8.68	Putative GTP-binding protein YdgA
+PGF_00039502	Erwinia	244.43	39.37	Putative NAD(P)-dependent oxidoreductase EC-YbbO
+PGF_00039503	Erwinia	176.43	32.11	Putative NAD(P)H nitroreductase YdjA
+PGF_00040401	Erwinia	456.17	72.52	Cell division protein FtsP
+PGF_00040500	Erwinia	134.00	3.42	Putative cytochrome d ubiquinol oxidase subunit III (EC 1.10.3.-) (Cytochrome bd-I oxidase subunit III)
+PGF_00040502	Erwinia	339.34	3.40	Uncharacterized protein YfeH
+PGF_00040536	Erwinia	153.23	8.14	Putative dehydrogenase
+PGF_00040578	Erwinia	254.61	33.06	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041948	Erwinia	408.20	80.09	Putative membrane protein YfjD
+PGF_00042798	Erwinia	253.63	2.73	Putative oxidoreductase
+PGF_00043067	Erwinia	306.97	4.33	Putative periplasmic protein YibQ, distant homology with nucleoside diphosphatase and polysaccharide deacetylase
+PGF_00045599	Erwinia	258.37	1.33	Putative two-domain glycosyltransferase
+PGF_00045657	Erwinia	197.86	9.16	Uncharacterized protein YiiQ
+PGF_00045677	Erwinia	826.66	168.91	Putative uncharacterized protein ydbH
+PGF_00045833	Erwinia	228.47	69.21	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Erwinia	242.97	0.17	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045982	Erwinia	862.03	135.43	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046060	Erwinia	224.46	8.45	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046104	Erwinia	224.24	145.52	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046403	Erwinia	472.29	6.82	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Erwinia	151.00	0.00	RNA polymerase-binding transcription factor DksA
+PGF_00047078	Erwinia	344.94	42.16	RecA protein
+PGF_00047152	Erwinia	152.63	13.43	Redox-sensitive transcriptional activator SoxR
+PGF_00047187	Erwinia	339.74	2.50	Regulator of RpoS
+PGF_00047358	Erwinia	136.69	9.35	DNA-binding transcriptional dual regulator SoxS
+PGF_00048290	Erwinia	86.94	0.34	Rho-specific inhibitor of transcription termination (YaeO)
+PGF_00048334	Erwinia	352.29	9.69	Rhodanese domain protein, Enterobacterial subgroup, YceA homolog
+PGF_00048419	Erwinia	272.17	3.17	Rhomboid protease GlpG (EC 3.4.21.105)
+PGF_00048535	Erwinia	115.86	5.30	Outer membrane beta-barrel assembly protein BamE
+PGF_00048539	Erwinia	139.69	1.30	Ribonuclease E inhibitor RraB
+PGF_00048542	Erwinia	150.36	17.98	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Erwinia	208.63	2.80	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048589	Erwinia	222.53	4.98	Ribonuclease T
+PGF_00048594	Erwinia	304.11	0.47	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048643	Erwinia	139.86	17.39	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Erwinia	315.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048817	Erwinia	265.41	38.05	Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)
+PGF_00048834	Erwinia	190.60	41.57	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048842	Erwinia	310.00	0.00	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048898	Erwinia	111.38	1.04	Ribosome-associated inhibitor A
+PGF_00048917	Erwinia	89.43	16.25	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Erwinia	187.11	7.18	Ribosome recycling factor
+PGF_00048928	Erwinia	352.97	2.86	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Erwinia	133.06	0.34	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Erwinia	136.17	2.05	Ribosome-binding factor A
+PGF_00048955	Erwinia	221.17	45.86	Ribosyl nicotinamide transporter, PnuC-like
+PGF_00049163	Erwinia	160.85	6.69	Rod shape-determining protein MreD
+PGF_00049231	Erwinia	148.06	22.05	Rrf2 family transcriptional regulator, group III
+PGF_00049330	Erwinia	385.00	3.92	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049344	Erwinia	247.81	44.47	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00049362	Erwinia	358.20	2.56	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049363	Erwinia	280.49	0.66	S-formylglutathione hydrolase (EC 3.1.2.12)
+PGF_00049433	Erwinia	171.00	0.00	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049827	Erwinia	273.66	6.85	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Erwinia	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049838	Erwinia	120.94	12.61	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Erwinia	118.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Erwinia	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Erwinia	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Erwinia	81.85	0.86	SSU ribosomal protein S16p
+PGF_00049858	Erwinia	75.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049889	Erwinia	231.31	4.23	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Erwinia	202.51	9.01	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Erwinia	166.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Erwinia	130.77	0.60	SSU ribosomal protein S6p
+PGF_00049904	Erwinia	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Erwinia	129.71	0.71	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Erwinia	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050030	Erwinia	242.66	13.26	SanA protein
+PGF_00050230	Erwinia	158.97	19.04	Secretion monitor SecM
+PGF_00050577	Erwinia	922.83	119.36	Sensor histidine kinase RcsC (EC 2.7.13.3)
+PGF_00050995	Erwinia	505.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Erwinia	229.76	7.83	Septum site-determining protein MinC
+PGF_00051133	Erwinia	311.61	55.23	Septum-associated cell division protein DamX
+PGF_00051140	Erwinia	229.89	48.83	Septum-associated cell division protein DedD
+PGF_00051142	Erwinia	346.92	79.11	Septum-associated rare lipoprotein A
+PGF_00051143	Erwinia	174.29	12.23	SeqA protein, negative modulator of initiation of replication
+PGF_00051525	Erwinia	430.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051530	Erwinia	546.47	91.40	SgrR, sugar-phosphate stress, transcriptional activator of SgrS small RNA
+PGF_00051717	Erwinia	248.76	3.99	3-hydroxypropionate dehydrogenase (EC 1.1.1.298)
+PGF_00052210	Erwinia	614.57	13.03	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Erwinia	454.15	4.66	Signal recognition particle protein Ffh
+PGF_00052511	Erwinia	151.73	48.14	Uncharacterized protein YrdD
+PGF_00052705	Erwinia	139.03	13.16	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Erwinia	298.26	3.71	Site-specific tyrosine recombinase XerD
+PGF_00053553	Erwinia	453.36	54.23	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+PGF_00054301	Erwinia	213.00	0.00	Stringent starvation protein A
+PGF_00054476	Erwinia	115.43	0.50	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Erwinia	238.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Erwinia	389.50	5.78	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054818	Erwinia	219.00	0.00	Sugar phosphatase YfbT (EC 3.1.3.23)
+PGF_00054959	Erwinia	469.09	28.99	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Erwinia	301.09	5.41	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00054964	Erwinia	361.97	0.17	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+PGF_00054986	Erwinia	276.94	0.24	Sulfate transport system permease protein CysT
+PGF_00054988	Erwinia	290.57	1.60	Sulfate transport system permease protein CysW
+PGF_00055009	Erwinia	328.97	4.88	Sulfate-binding protein Sbp
+PGF_00055052	Erwinia	570.66	1.86	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055099	Erwinia	139.19	3.25	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055354	Erwinia	431.83	3.54	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055363	Erwinia	182.14	14.31	Syd protein
+PGF_00055398	Erwinia	338.40	25.40	TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase (EC 2.4.1.325)
+PGF_00056273	Erwinia	306.78	66.73	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056496	Erwinia	235.34	3.22	Thiamin ABC transporter, ATPase component
+PGF_00056502	Erwinia	520.72	62.45	Thiamin ABC transporter, transmembrane component
+PGF_00056527	Erwinia	272.46	28.48	Thiamine kinase (EC 2.7.1.89) @ Adenosylcobinamide kinase (EC 2.7.1.156)
+PGF_00056662	Erwinia	324.24	45.45	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Erwinia	504.31	61.83	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Erwinia	198.59	27.33	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Erwinia	210.14	0.43	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Erwinia	264.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Erwinia	467.14	68.35	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Erwinia	142.23	0.43	Tol biopolymer transport system, TolR protein
+PGF_00057270	Erwinia	736.06	113.24	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057483	Erwinia	418.43	3.38	Transcription termination factor Rho
+PGF_00057485	Erwinia	486.83	76.81	Transcription termination protein NusA
+PGF_00057488	Erwinia	139.00	0.00	Transcription termination protein NusB
+PGF_00057511	Erwinia	312.06	1.49	Transcriptional activator MetR
+PGF_00057520	Erwinia	153.60	23.82	Transcriptional activator RfaH
+PGF_00057553	Erwinia	297.78	40.85	Transcriptional activator protein LysR
+PGF_00058666	Erwinia	198.37	2.20	Transcriptional regulator SlmA, TetR family
+PGF_00060263	Erwinia	254.91	2.83	Transcriptional repressor for pyruvate dehydrogenase complex
+PGF_00060287	Erwinia	109.71	0.52	Transcriptional repressor protein TrpR
+PGF_00060289	Erwinia	523.62	10.39	Transcriptional repressor protein TyrR
+PGF_00060313	Erwinia	442.89	7.30	Transcriptional response regulatory protein GlrR
+PGF_00060414	Erwinia	598.29	4.23	Translation elongation factor LepA
+PGF_00060421	Erwinia	185.00	6.09	Translation elongation factor P
+PGF_00060424	Erwinia	324.37	3.72	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Erwinia	282.89	0.32	Translation elongation factor Ts
+PGF_00060431	Erwinia	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Erwinia	129.40	19.42	Translation initiation factor 3
+PGF_00060481	Erwinia	107.97	0.17	Translation initiation factor SUI1-related protein
+PGF_00061607	Erwinia	125.00	0.00	ApaG protein
+PGF_00061788	Erwinia	544.75	69.95	Trehalase (EC 3.2.1.28) @ Periplasmic trehalase (EC 3.2.1.28)
+PGF_00062023	Erwinia	267.86	0.54	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Erwinia	383.43	59.39	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Erwinia	334.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062061	Erwinia	397.60	10.73	Selenite- and tellurite-inducible protein TsgA
+PGF_00063916	Erwinia	422.89	9.22	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Erwinia	238.86	1.72	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Erwinia	304.94	3.27	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Erwinia	333.11	40.74	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Erwinia	344.38	10.91	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Erwinia	339.75	48.01	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Erwinia	492.97	3.89	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Erwinia	451.09	3.76	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064131	Erwinia	326.14	42.79	UDP-glucuronate 5'-epimerase (EC 5.1.3.12)
+PGF_00064141	Erwinia	562.42	39.84	UDP-sugar hydrolase (EC 3.6.1.45); 5'-nucleotidase (EC 3.1.3.5)
+PGF_00064171	Erwinia	518.51	1.80	UPF0053 inner membrane protein YoaE
+PGF_00064180	Erwinia	243.91	12.70	Arginine ABC transporter, ATP-binding protein ArtP
+PGF_00064204	Erwinia	222.49	0.51	Arginine ABC transporter, permease protein ArtM
+PGF_00064212	Erwinia	112.89	9.41	UPF0131 protein YtfP
+PGF_00064239	Erwinia	149.11	5.42	UPF0208 membrane protein YfbV
+PGF_00064270	Erwinia	249.00	39.07	UPF0246 protein YaaA
+PGF_00064283	Erwinia	105.40	2.93	UPF0265 protein YeeX
+PGF_00064294	Erwinia	261.65	12.27	UPF0294 protein YafD
+PGF_00064295	Erwinia	131.17	4.16	UPF0299 membrane protein YohJ
+PGF_00064341	Erwinia	69.29	6.17	UPF0352 protein YejL
+PGF_00064342	Erwinia	61.74	1.73	UPF0370 protein YpfN
+PGF_00064389	Erwinia	327.69	34.39	Semialdehyde dehydrogenase, USG-1 protein
+PGF_00064460	Erwinia	544.91	0.51	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064489	Erwinia	237.34	4.60	Arginine ABC transporter, permease protein ArtQ
+PGF_00064506	Erwinia	242.76	41.17	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064774	Erwinia	196.59	4.25	Uncharacterized lipoprotein YeaY
+PGF_00064781	Erwinia	183.89	17.83	Uncharacterized lipoprotein YmbA
+PGF_00064803	Erwinia	199.75	33.25	Uncharacterized membrane protein YhhN
+PGF_00064805	Erwinia	101.00	0.00	Uncharacterized membrane protein YqjD
+PGF_00064819	Erwinia	217.57	32.18	Uncharacterized metabolite ABC transporter in Enterobacteriaceae, ATP-binding protein EC-YbbA
+PGF_00064820	Erwinia	725.78	230.87	Uncharacterized metabolite ABC transporter in Enterobacteriaceae, permease protein EC-YbbP
+PGF_00065405	Erwinia	50.09	2.23	Uncharacterized protein YbaM
+PGF_00065406	Erwinia	264.67	8.11	Uncharacterized protein YbaP
+PGF_00065454	Erwinia	374.85	34.69	Uncharacterized protein YciW
+PGF_00065477	Erwinia	1000.43	135.17	Uncharacterized protein YdiJ
+PGF_00065481	Erwinia	91.53	3.47	Uncharacterized protein YeaC
+PGF_00065514	Erwinia	152.32	27.42	Uncharacterized protein YehS
+PGF_00065535	Erwinia	196.80	33.85	Arylsulfatase (EC 3.1.6.1)
+PGF_00065593	Erwinia	88.40	2.13	Uncharacterized protein YhhL
+PGF_00065765	Erwinia	92.89	0.53	Uncharacterized protein YbfE
+PGF_00065815	Erwinia	238.00	0.00	Uncharacterized putative hydrolase YigB
+PGF_00065856	Erwinia	344.54	1.60	Uncharacterized tRNA/rRNA methyltransferase YfiF
+PGF_00065887	Erwinia	245.89	7.97	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065934	Erwinia	146.06	1.16	Universal stress protein A
+PGF_00065937	Erwinia	109.34	8.76	Universal stress protein B
+PGF_00065941	Erwinia	317.03	6.80	Universal stress protein E
+PGF_00066041	Erwinia	616.68	16.01	AsmA protein
+PGF_00066089	Erwinia	213.97	10.22	Unsaturated fatty acid biosythesis repressor FabR, TetR family
+PGF_00066139	Erwinia	226.21	0.77	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Erwinia	212.11	5.24	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066257	Erwinia	253.57	0.50	Uridine phosphorylase (EC 2.4.2.3)
+PGF_00066270	Erwinia	345.19	43.26	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066294	Erwinia	246.17	1.56	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Erwinia	951.00	0.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Erwinia	464.14	10.99	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066715	Erwinia	397.06	6.25	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00066867	Erwinia	427.03	62.01	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Erwinia	302.36	39.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066960	Erwinia	154.60	8.74	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067188	Erwinia	367.17	4.47	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067254	Erwinia	117.11	6.27	YcfF/hinT protein: a purine nucleoside phosphoramidase
+PGF_00067273	Erwinia	102.60	21.94	YebG, DNA damage-inducible gene in SOS regulon, expressed in stationary phase
+PGF_00067346	Erwinia	238.73	4.99	YheO-like PAS domain
+PGF_00067379	Erwinia	251.74	4.94	YjfP protein
+PGF_00067401	Erwinia	262.38	64.61	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067739	Erwinia	358.53	47.12	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Erwinia	861.03	137.48	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00069596	Erwinia	287.23	52.80	Ferrous-iron efflux pump FieF
+PGF_00070457	Erwinia	375.54	4.64	dTDP-4-amino-4,6-dideoxygalactose transaminase (EC 2.6.1.59)
+PGF_00070488	Erwinia	231.46	5.55	dTDP-fucosamine acetyltransferase (EC 2.3.1.210)
+PGF_00070995	Erwinia	358.78	2.74	Membrane-bound lytic murein transglycosylase B
+PGF_00071382	Erwinia	176.31	1.83	Flavodoxin 1
+PGF_00071693	Erwinia	282.86	58.82	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00072449	Erwinia	218.82	0.87	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00084324	Erwinia	272.75	5.56	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00102041	Erwinia	181.86	31.24	Esterase YqiA
+PGF_00141955	Erwinia	568.51	25.88	K(+)/H(+) antiporter NhaP2
+PGF_00227318	Erwinia	297.24	3.90	Threonine/homoserine exporter RhtA
+PGF_00261173	Erwinia	358.58	48.82	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00300187	Erwinia	284.54	25.66	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00401928	Erwinia	251.00	0.00	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201) @ Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_00403787	Erwinia	80.89	8.81	Biofilm regulator BssS
+PGF_00403929	Erwinia	400.69	12.47	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57)
+PGF_00404019	Erwinia	659.06	16.16	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Erwinia	155.58	2.44	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Erwinia	449.00	0.93	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Erwinia	319.56	1.67	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404831	Erwinia	267.89	12.03	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Erwinia	935.67	5.22	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00407886	Erwinia	612.91	111.32	RNase E specificity factor CsrD
+PGF_00408176	Erwinia	216.53	26.02	UPF0441 protein YgiB
+PGF_00408955	Erwinia	641.75	170.71	Uncharacterized protein YhfK
+PGF_00413182	Erwinia	321.20	0.47	tRNA (mo5U34)-methyltransferase
+PGF_00413208	Erwinia	255.12	7.85	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413223	Erwinia	231.00	4.73	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+PGF_00413230	Erwinia	246.46	3.64	tRNA (cmo5U34)-methyltransferase
+PGF_00413232	Erwinia	104.47	15.67	tRNA 2-thiouridine synthesis protein TusE
+PGF_00413237	Erwinia	482.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413243	Erwinia	119.09	0.28	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusC
+PGF_00413245	Erwinia	127.97	0.17	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD
+PGF_00413266	Erwinia	342.97	13.14	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Erwinia	269.91	6.00	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Erwinia	314.74	2.48	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413554	Erwinia	158.66	4.25	tmRNA-binding protein SmpB
+PGF_00414228	Erwinia	252.47	38.96	Two-component system response regulator OmpR
+PGF_00414926	Erwinia	406.71	7.97	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00414976	Erwinia	451.31	0.47	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_00415346	Erwinia	362.64	98.27	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415422	Erwinia	704.43	49.75	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415486	Erwinia	152.97	18.17	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Erwinia	209.00	0.00	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416200	Erwinia	353.37	50.30	Calcium/proton antiporter
+PGF_00416410	Erwinia	1045.25	165.74	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416508	Erwinia	50.97	9.03	Carbon storage regulator
+PGF_00416576	Erwinia	184.37	2.98	3'-to-5' oligoribonuclease (orn)
+PGF_00416654	Erwinia	217.23	2.03	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+PGF_00416872	Erwinia	170.14	16.69	Cell division inhibitor
+PGF_00417010	Erwinia	105.80	8.72	Cell division protein FtsL
+PGF_00417104	Erwinia	306.43	45.97	Cell division protein ZipA
+PGF_00417429	Erwinia	368.39	53.62	Chaperone protein DnaJ
+PGF_00417433	Erwinia	637.09	0.78	Chaperone protein DnaK
+PGF_00417658	Erwinia	361.14	3.44	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Erwinia	245.11	7.21	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417831	Erwinia	371.69	7.60	Chorismate mutase I (EC 5.4.99.5) / Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_00417840	Erwinia	350.89	47.98	Chorismate synthase (EC 4.2.3.5)
+PGF_00417843	Erwinia	172.23	6.72	Chorismate--pyruvate lyase (EC 4.1.3.40)
+PGF_00417957	Erwinia	1442.06	194.25	Chromosome partition protein MukB
+PGF_00417959	Erwinia	239.74	3.12	Chromosome partition protein MukE
+PGF_00417961	Erwinia	440.00	0.00	Chromosome partition protein MukF
+PGF_00417987	Erwinia	187.83	0.71	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Erwinia	245.76	16.13	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418156	Erwinia	164.57	1.58	ClpXP protease specificity-enhancing factor / Stringent starvation protein B
+PGF_00418406	Erwinia	172.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00419627	Erwinia	302.23	1.31	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Erwinia	172.63	4.32	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419816	Erwinia	129.37	13.48	Curlin genes transcriptional activator
+PGF_00419891	Erwinia	210.00	0.00	Cyclic AMP receptor protein
+PGF_00419986	Erwinia	324.51	1.90	Cys regulon transcriptional activator CysB
+PGF_00420048	Erwinia	397.40	6.48	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420121	Erwinia	227.26	5.01	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420152	Erwinia	662.17	2.98	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420155	Erwinia	201.17	8.09	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+PGF_00420728	Erwinia	351.94	20.82	Cytoskeleton protein RodZ
+PGF_00420731	Erwinia	502.91	0.29	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420764	Erwinia	378.20	3.04	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+PGF_00421013	Erwinia	406.78	0.48	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421071	Erwinia	142.43	13.28	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Erwinia	631.91	16.49	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421156	Erwinia	185.44	39.60	DJ-1/YajL/PfpI superfamily, includes chaperone protein YajL (former ThiJ), parkinsonism-associated protein DJ-1, peptidases PfpI, Hsp31
+PGF_00421181	Erwinia	103.97	12.11	DNA base-flipping protein
+PGF_00421408	Erwinia	229.94	8.26	DNA mismatch repair endonuclease MutH
+PGF_00421568	Erwinia	143.15	7.58	DNA polymerase III psi subunit (EC 2.7.7.7)
+PGF_00421760	Erwinia	294.94	35.83	DNA recombination-dependent growth factor RdgC
+PGF_00421792	Erwinia	451.71	49.02	DNA repair protein RadA
+PGF_00421796	Erwinia	553.00	0.00	DNA repair protein RecN
+PGF_00421954	Erwinia	215.74	2.03	DNA-binding capsular synthesis response regulator RcsB
+PGF_00422078	Erwinia	90.03	0.17	DNA-binding protein HU-alpha
+PGF_00422271	Erwinia	324.43	13.90	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422675	Erwinia	242.66	49.99	DedA family inner membrane protein YabI
+PGF_00422681	Erwinia	219.50	19.79	DedA family inner membrane protein YqjA
+PGF_00422711	Erwinia	219.11	0.58	DedA protein
+PGF_00422916	Erwinia	187.11	21.75	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Erwinia	149.26	6.25	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Erwinia	367.11	1.02	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Erwinia	271.08	32.95	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Erwinia	404.56	21.55	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Erwinia	119.69	4.06	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423376	Erwinia	142.29	8.28	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423382	Erwinia	348.65	4.10	Dihydroorotase (EC 3.5.2.3)
+PGF_00423533	Erwinia	289.06	4.88	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423709	Erwinia	273.74	1.22	DnaJ-like protein DjlA
+PGF_00423927	Erwinia	287.09	9.69	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424134	Erwinia	191.34	1.21	Electron transport complex protein RnfB
+PGF_00424141	Erwinia	232.80	0.53	Electron transport complex protein RnfE
+PGF_00424338	Erwinia	213.77	31.42	Endonuclease V (EC 3.1.21.7)
+PGF_00424800	Erwinia	256.09	13.58	Esterase ybfF (EC 3.1.-.-)
+PGF_00424971	Erwinia	600.53	13.55	Excinuclease ABC subunit C
+PGF_00425010	Erwinia	474.47	6.91	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425011	Erwinia	282.47	16.05	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425212	Erwinia	486.40	9.71	Exported zinc metalloprotease YfgC precursor
+PGF_00425671	Erwinia	284.00	0.00	RNase adapter protein RapZ
+PGF_00425684	Erwinia	263.37	20.40	Probable transcriptional regulatory protein YebC
+PGF_00425704	Erwinia	89.83	1.01	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425722	Erwinia	171.06	17.78	FIG001587: exported protein
+PGF_00425757	Erwinia	106.97	3.41	FIG002060: uncharacterized protein YggL
+PGF_00425802	Erwinia	247.08	60.49	FIG002708: Protein SirB1
+PGF_00425806	Erwinia	287.40	54.09	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425810	Erwinia	237.86	33.21	Cell division protein ZapD
+PGF_00425812	Erwinia	207.67	26.16	High frequency lysogenization protein HflD
+PGF_00425922	Erwinia	237.94	1.03	FIG004016: Uncharacterized protein YggN
+PGF_00425970	Erwinia	223.00	17.49	Pyrimidine 5'-nucleotidase YjjG (EC 3.1.3.5)
+PGF_00425993	Erwinia	391.72	51.17	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Erwinia	340.37	1.11	FIG004453: protein YceG like
+PGF_00426044	Erwinia	300.54	1.98	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Erwinia	602.22	85.75	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Erwinia	372.97	0.17	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426342	Erwinia	228.83	32.50	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426810	Erwinia	251.31	8.45	5'-nucleotidase SurE (EC 3.1.3.5) @ Exopolyphosphatase (EC 3.6.1.11)
+PGF_00426932	Erwinia	156.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447438	Erwinia	193.66	9.12	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00482828	Erwinia	444.03	0.17	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00490053	Erwinia	505.49	17.12	Outer membrane channel TolC (OpmH)
+PGF_00502921	Erwinia	243.49	1.44	Arginine ABC transporter, substrate-binding protein ArtI
+PGF_00503312	Erwinia	294.71	18.11	Cell division protein FtsN
+PGF_00503343	Erwinia	189.49	3.22	Uncharacterized protein YraP
+PGF_00529632	Erwinia	854.14	13.53	ClpB protein
+PGF_00569671	Erwinia	304.37	2.20	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580333	Erwinia	389.00	0.00	Lipopolysaccharide assembly protein LapB
+PGF_00596539	Erwinia	558.20	124.75	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598374	Erwinia	191.29	1.15	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00616490	Erwinia	318.57	2.52	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Erwinia	387.69	5.39	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Erwinia	231.91	3.47	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00641071	Erwinia	322.46	20.56	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00648054	Erwinia	225.63	3.47	Tol-Pal system protein TolQ
+PGF_00649271	Erwinia	101.17	12.34	Cell division protein BolA
+PGF_00655131	Erwinia	495.03	2.18	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Erwinia	479.58	76.47	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Erwinia	522.00	0.49	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Erwinia	213.03	0.17	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Erwinia	446.43	0.88	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Erwinia	89.71	18.04	Ribosomal silencing factor RsfA
+PGF_00671129	Erwinia	104.83	20.52	Nitrogen regulatory protein P-II, GlnK
+PGF_00709443	Erwinia	187.23	19.54	Twin-arginine translocation protein TatB
+PGF_00709681	Erwinia	304.86	65.83	Inner membrane protein YrbG, predicted calcium/sodium:proton antiporter
+PGF_00717495	Erwinia	426.86	0.90	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00720623	Erwinia	134.57	20.15	TonB-ExbBD energy transducing system, ExbD subunit
+PGF_00721835	Erwinia	317.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Erwinia	785.83	18.14	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00777371	Erwinia	238.09	1.46	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Erwinia	234.94	8.20	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00800643	Erwinia	446.00	0.00	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
+PGF_00827555	Erwinia	628.03	83.90	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Erwinia	290.44	1.42	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Erwinia	406.46	1.20	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00871619	Erwinia	655.05	105.42	Tail-specific protease precursor (EC 3.4.21.102)
+PGF_00900256	Erwinia	427.94	0.24	Threonine synthase (EC 4.2.3.1)
+PGF_00904010	Erwinia	563.63	1.50	PTS system, inactive IIB catalytic domain / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_00908360	Erwinia	251.42	35.02	Phospholipid ABC transporter permease protein MlaE
+PGF_00926109	Erwinia	576.03	0.17	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00945778	Erwinia	393.56	13.15	Multidrug efflux system AcrAB-TolC, membrane fusion component AcrA
+PGF_00948290	Erwinia	414.75	65.39	Murein hydrolase activator EnvC
+PGF_00950554	Erwinia	674.94	5.60	Excinuclease ABC subunit B
+PGF_00973394	Erwinia	179.74	15.82	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00979178	Erwinia	120.66	5.36	Uncharacterized protein STM4441
+PGF_01033782	Erwinia	265.80	7.55	HAD phosphatase YigL
+PGF_01036334	Erwinia	422.17	2.76	UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)
+PGF_01040342	Erwinia	284.34	8.00	Spermidine synthase (EC 2.5.1.16)
+PGF_01052295	Erwinia	368.74	17.77	Lipopolysaccharide export system permease protein LptF
+PGF_01058419	Erwinia	1149.89	167.05	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01066071	Erwinia	201.83	21.19	Homoserine/homoserine lactone efflux protein
+PGF_01084030	Erwinia	793.66	18.51	Outer membrane protein assembly factor YaeT
+PGF_01114144	Erwinia	474.61	113.27	Multidrug efflux system EmrAB-OMF, inner-membrane proton/drug antiporter EmrB (MFS type)
+PGF_01124177	Erwinia	384.57	75.91	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01124253	Erwinia	130.40	1.48	UPF0102 protein YraN
+PGF_01126005	Erwinia	352.89	64.90	Rod shape-determining protein RodA
+PGF_01147190	Erwinia	478.00	4.11	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01148336	Erwinia	366.69	0.53	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_01172485	Erwinia	416.09	8.37	Cell division protein FtsA
+PGF_01174739	Erwinia	244.80	0.41	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Erwinia	446.94	33.05	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01176861	Erwinia	71.83	3.86	Uncharacterized protein YpeB
+PGF_01212739	Erwinia	532.40	79.34	Heat shock protein 60 family chaperone GroEL
+PGF_01232770	Erwinia	159.46	0.56	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Erwinia	318.41	12.76	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01309240	Erwinia	167.00	0.00	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01351158	Erwinia	1113.25	161.16	Transcription-repair coupling factor
+PGF_01364427	Erwinia	199.67	25.08	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01364543	Erwinia	322.38	2.73	Thiamin biosynthesis lipoprotein ApbE
+PGF_01382505	Erwinia	205.89	0.32	FIG00449901: hypothetical protein
+PGF_01388673	Erwinia	192.16	53.13	Transcriptional regulator of acrAB operon, AcrR
+PGF_01389077	Erwinia	71.66	6.83	Uncharacterized protein YbcJ
+PGF_01393949	Erwinia	628.89	100.61	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01412799	Erwinia	208.83	25.85	UPF0056 inner membrane protein YchE
+PGF_01415861	Erwinia	196.34	17.00	LPS-assembly lipoprotein LptE
+PGF_01420802	Erwinia	142.68	27.10	Cell division protein MraZ
+PGF_01421534	Erwinia	94.00	0.00	LSU ribosomal protein L25p
+PGF_01423501	Erwinia	159.31	0.96	Transcription elongation factor GreA
+PGF_01435544	Erwinia	270.65	43.40	Phenazine biosynthesis protein PhzF like
+PGF_01448031	Erwinia	99.00	0.00	Integration host factor alpha subunit
+PGF_01466742	Erwinia	422.81	48.47	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01483460	Erwinia	358.06	0.34	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Erwinia	262.83	8.67	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01484108	Erwinia	204.34	27.16	Electron transport complex protein RnfG
+PGF_01514111	Erwinia	316.00	39.40	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01532393	Erwinia	686.49	2.87	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01542417	Erwinia	69.00	0.00	Cold shock protein of CSP family => CspC (naming convention as in E.coli)
+PGF_01599021	Erwinia	169.23	0.88	Peptide deformylase (EC 3.5.1.88)
+PGF_01603398	Erwinia	561.38	97.45	Efflux ABC transporter, permease/ATP-binding protein MdlB
+PGF_01625234	Erwinia	321.49	6.62	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667880	Erwinia	83.71	5.25	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668974	Erwinia	684.50	179.83	DNA internalization-related competence protein ComEC/Rec2
+PGF_01674551	Erwinia	128.06	0.42	Glycine cleavage system H protein
+PGF_01682834	Erwinia	148.83	6.97	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Erwinia	244.66	0.76	DNA recombination and repair protein RecO
+PGF_01734668	Erwinia	213.43	3.38	Adenylate kinase (EC 2.7.4.3)
+PGF_01745391	Erwinia	385.72	1.67	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01747642	Erwinia	206.17	11.40	Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_01761890	Erwinia	67.09	1.98	DNA gyrase inhibitor YacG
+PGF_01763778	Erwinia	294.23	16.46	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01777142	Erwinia	224.00	3.45	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01810305	Erwinia	196.00	0.00	Uncharacterized protein YjaG
+PGF_01839055	Erwinia	327.22	18.12	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01841446	Erwinia	486.00	0.00	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01853493	Erwinia	269.89	37.14	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01898497	Erwinia	210.94	0.48	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Erwinia	328.06	52.47	Rod shape-determining protein MreC
+PGF_01900807	Erwinia	269.49	3.11	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01920666	Erwinia	107.00	13.18	Z-ring-associated protein ZapA
+PGF_01920667	Erwinia	133.53	22.98	Uncharacterized protein YqiB
+PGF_01920692	Erwinia	64.51	1.69	Cytoplasmic protein, probably associated with glutathione-regulated potassium-efflux
+PGF_01920828	Erwinia	266.74	1.93	HesA/MoeB/ThiF family protein => sulfur transfer pathway protein CsdL
+PGF_01921605	Erwinia	622.06	13.51	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01922580	Erwinia	400.03	0.62	2-polyprenylphenol hydroxylase
+PGF_01923866	Erwinia	84.29	3.69	Acid stress protein IbaG
+PGF_01937476	Erwinia	713.49	1.72	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01942824	Erwinia	363.64	44.05	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01953726	Erwinia	186.49	27.38	Uncharacterized protein YtfB
+PGF_01994657	Erwinia	422.17	54.37	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Erwinia	258.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Erwinia	319.36	47.83	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Erwinia	319.89	2.57	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02030844	Erwinia	610.97	6.15	ATP-dependent DNA helicase RecQ
+PGF_02061452	Erwinia	375.34	0.94	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Erwinia	86.97	4.79	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02111888	Erwinia	316.94	0.24	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02169237	Erwinia	245.43	7.66	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02204321	Erwinia	333.29	50.35	Twitching motility protein PilT
+PGF_02226715	Erwinia	693.94	3.45	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02265871	Erwinia	170.94	33.96	Inosine/xanthosine triphosphatase (EC 3.6.1.-)
+PGF_02268482	Erwinia	255.00	0.00	Putative glutamine amidotransferase YafJ
+PGF_02272288	Erwinia	672.23	47.83	DNA helicase IV (EC 3.6.4.12)
+PGF_02317534	Erwinia	133.14	19.12	Thioredoxin 2
+PGF_02325838	Erwinia	495.81	62.41	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328856	Erwinia	227.18	43.43	Type IV pilus biogenesis protein PilF
+PGF_02329420	Erwinia	375.69	1.11	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG
+PGF_02330496	Erwinia	206.57	3.45	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346768	Erwinia	875.54	0.51	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Erwinia	346.57	48.90	Alanine racemase (EC 5.1.1.1)
+PGF_02463284	Erwinia	193.31	15.26	Recombination protein RecR
+PGF_02473279	Erwinia	242.97	6.74	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Erwinia	177.89	41.88	Uncharacterized Nudix hydrolase NudL
+PGF_02499550	Erwinia	201.00	0.00	Ubiquinone biosynthesis protein UbiJ
+PGF_02505612	Erwinia	141.17	17.97	Uncharacterized protein YiiR
+PGF_02517984	Erwinia	60.00	0.00	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Erwinia	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02518965	Erwinia	165.74	8.06	Regulatory protein RecX
+PGF_02537450	Erwinia	470.97	26.19	HtrA protease/chaperone protein
+PGF_02593689	Erwinia	426.17	56.82	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02619970	Erwinia	104.26	1.90	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Erwinia	306.20	15.87	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Erwinia	1406.77	0.43	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02706008	Erwinia	252.94	30.53	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02719231	Erwinia	140.74	17.93	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Erwinia	848.20	6.94	DNA mismatch repair protein MutS
+PGF_02728989	Erwinia	223.26	5.20	Transcriptional regulatory protein PhoP
+PGF_02737404	Erwinia	265.37	6.40	Trehalose-6-phosphate phosphatase (EC 3.1.3.12)
+PGF_02746016	Erwinia	234.60	1.48	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02748988	Erwinia	432.72	3.76	Proton/glutamate symporter @ Proton/aspartate symporter
+PGF_02789532	Erwinia	279.29	2.08	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Erwinia	236.94	17.92	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Erwinia	452.03	64.37	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Erwinia	1342.00	0.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Erwinia	511.94	0.24	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02817932	Erwinia	396.83	1.61	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02820109	Erwinia	222.77	5.19	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Erwinia	116.20	9.59	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02838109	Erwinia	166.50	21.66	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Erwinia	268.77	24.50	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Erwinia	405.20	6.76	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02873723	Erwinia	473.43	59.37	Ribonuclease G
+PGF_02875609	Erwinia	446.11	0.68	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Erwinia	386.34	2.03	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02893929	Erwinia	246.35	0.77	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02902854	Erwinia	203.09	0.51	Outer membrane lipoprotein carrier protein LolA
+PGF_02906681	Erwinia	777.09	4.77	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02911133	Erwinia	199.32	34.20	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Erwinia	334.11	0.63	HflC protein
+PGF_02912272	Erwinia	180.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Erwinia	241.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02933974	Erwinia	599.54	55.15	L,D-transpeptidase YcbB
+PGF_02936332	Erwinia	290.86	4.66	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Erwinia	392.31	2.34	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02938730	Erwinia	342.20	4.73	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942020	Erwinia	188.23	7.24	Peptidyl-prolyl cis-trans isomerase PpiA precursor (EC 5.2.1.8)
+PGF_02942351	Erwinia	230.14	5.90	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Erwinia	557.77	2.82	SSU ribosomal protein S1p
+PGF_02950579	Erwinia	262.49	30.97	Septum site-determining protein MinD
+PGF_02959749	Erwinia	373.56	5.44	Ribonuclease D (EC 3.1.26.3)
+PGF_02961167	Erwinia	128.83	4.57	2-iminobutanoate/2-iminopropanoate deaminase RidA/TdcF (EC 3.5.99.10)
+PGF_02992495	Erwinia	107.17	9.29	Protein translocase membrane subunit SecG
+PGF_02997723	Erwinia	145.38	4.65	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_02998943	Erwinia	185.89	0.68	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03006190	Erwinia	383.47	23.05	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03011092	Erwinia	300.09	8.68	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017775	Erwinia	506.06	0.34	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Erwinia	194.53	2.14	Septum formation protein Maf
+PGF_03025675	Erwinia	580.83	7.28	Lipid A export permease/ATP-binding protein MsbA
+PGF_03029859	Erwinia	634.69	7.73	Bis-ABC ATPase Uup
+PGF_03038852	Erwinia	129.91	6.08	FIG00018398: hypothetical regulator
+PGF_03052345	Erwinia	413.74	6.73	Lipid III flippase
+PGF_03053958	Erwinia	355.43	2.68	Outer membrane protein A precursor
+PGF_03069524	Erwinia	81.29	4.26	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03073470	Erwinia	614.46	5.38	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03081665	Erwinia	180.18	3.16	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03083019	Erwinia	1107.57	17.54	Miniconductance mechanosensitive channel MscM
+PGF_03115661	Erwinia	228.97	32.77	Uncharacterized DUF484 protein YigA
+PGF_03128228	Erwinia	393.00	0.00	Outer membrane beta-barrel assembly protein BamB
+PGF_03128934	Erwinia	183.06	0.24	Glutathione-regulated potassium-efflux system ancillary protein KefG
+PGF_03132336	Erwinia	416.94	0.71	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03146406	Erwinia	588.46	1.29	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Erwinia	290.00	19.76	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Erwinia	292.00	0.84	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Erwinia	181.00	0.00	Transcription antitermination protein NusG
+PGF_03225027	Erwinia	95.03	0.17	UPF0125 protein RatB
+PGF_03253896	Erwinia	229.00	0.00	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Erwinia	201.57	2.90	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Erwinia	876.31	15.72	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Erwinia	66.29	10.25	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03310128	Erwinia	154.49	34.15	Uncharacterized protein YbeL
+PGF_03325319	Erwinia	196.03	11.56	DnaA initiator-associating protein DiaA
+PGF_03333815	Erwinia	232.51	0.61	Copper-sensing two-component system response regulator CpxR
+PGF_03348849	Erwinia	99.80	16.35	Uncharacterized protein YqiC
+PGF_03429638	Erwinia	277.11	57.28	33 kDa chaperonin HslO
+PGF_03441339	Erwinia	321.51	9.08	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03456505	Erwinia	543.97	81.86	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03470321	Erwinia	170.26	11.30	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03514188	Erwinia	450.83	1.48	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Erwinia	143.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Erwinia	384.17	0.57	Cell division protein FtsZ
+PGF_03609651	Erwinia	654.69	33.32	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Erwinia	163.63	2.59	UPF0234 protein Yitk
+PGF_03699416	Erwinia	185.26	8.90	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Erwinia	329.37	7.41	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Erwinia	125.91	4.53	Protein translocase subunit SecE
+PGF_03718818	Erwinia	276.74	9.57	Cell division protein FtsQ
+PGF_03719269	Erwinia	203.50	2.02	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Erwinia	153.97	13.12	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729040	Erwinia	151.29	0.94	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03729098	Erwinia	316.49	5.96	Sigma factor RpoE negative regulatory protein RseB precursor
+PGF_03729141	Erwinia	185.83	5.83	UPF0301 protein YqgE
+PGF_03729660	Erwinia	141.97	18.02	Sigma factor RpoE regulatory protein RseC
+PGF_03750599	Erwinia	259.97	14.30	Cell division coordinator CpoB
+PGF_03750600	Erwinia	157.77	1.06	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Erwinia	191.00	6.40	Heat shock protein GrpE
+PGF_03753122	Erwinia	301.40	1.87	Site-specific tyrosine recombinase XerC
+PGF_03753933	Erwinia	161.83	8.30	Iron-sulfur cluster regulator IscR
+PGF_03768099	Erwinia	297.86	7.69	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03772086	Erwinia	474.66	11.54	Sensor histidine kinase GlrK
+PGF_03777189	Erwinia	169.69	30.31	Protein YrdA
+PGF_03787199	Erwinia	179.15	16.64	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Erwinia	220.17	11.60	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Erwinia	270.88	5.70	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03835760	Erwinia	422.80	7.45	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03856084	Erwinia	640.57	19.89	Cell division protein FtsH
+PGF_03862500	Erwinia	196.00	0.00	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03906292	Erwinia	98.11	0.68	Phospholipid ABC transporter-binding protein MlaB
+PGF_03927891	Erwinia	100.29	9.08	ElaB protein
+PGF_03931564	Erwinia	556.17	21.66	Uncharacterized protein YicH
+PGF_03932611	Erwinia	284.06	37.35	DNA-binding transcriptional dual regulator Rob
+PGF_03949149	Erwinia	126.09	12.87	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_03980141	Erwinia	837.89	70.43	Adenylate cyclase (EC 4.6.1.1)
+PGF_03999642	Erwinia	76.59	3.02	DNA polymerase III theta subunit (EC 2.7.7.7)
+PGF_04005838	Erwinia	405.64	48.38	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Erwinia	222.69	12.60	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009223	Erwinia	381.26	5.18	Uncharacterized protein EC-HemX
+PGF_04012930	Erwinia	103.34	9.54	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)
+PGF_04019834	Erwinia	333.86	42.13	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04027970	Erwinia	230.86	49.92	Putative L,D-transpeptidase YafK
+PGF_04034430	Erwinia	71.00	0.00	SSU ribosomal protein S21p
+PGF_04041316	Erwinia	940.11	11.34	Excinuclease ABC subunit A
+PGF_04048555	Erwinia	362.54	45.64	UPF0118 inner membrane protein YdiK
+PGF_04108994	Erwinia	408.97	84.05	Inorganic triphosphatase (EC 3.6.1.25)
+PGF_04127376	Erwinia	252.06	2.86	Twin-arginine translocation protein TatC
+PGF_04151476	Erwinia	180.97	4.31	16S rRNA processing protein RimM
+PGF_04154333	Erwinia	83.43	1.99	Twin-arginine translocation protein TatA
+PGF_04182459	Erwinia	215.81	30.31	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04217548	Erwinia	614.54	3.17	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04275878	Erwinia	229.83	18.15	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04315180	Erwinia	153.51	1.56	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04360357	Erwinia	860.72	139.65	Protein translocase subunit SecA
+PGF_04380075	Erwinia	224.03	0.17	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04412082	Erwinia	109.29	0.46	Thioredoxin
+PGF_04457297	Erwinia	193.11	13.20	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04502464	Erwinia	643.43	14.33	DNA topoisomerase III (EC 5.99.1.2)
+PGF_04505269	Erwinia	239.77	2.28	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Erwinia	347.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Erwinia	453.43	5.93	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04586716	Erwinia	354.71	33.87	N-ethylmaleimide reductase
+PGF_04592595	Erwinia	473.40	8.10	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4) @ Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04636538	Erwinia	90.69	2.52	DNA-binding protein HU-beta
+PGF_04655384	Erwinia	305.31	43.77	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Erwinia	167.77	2.17	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04667681	Erwinia	405.31	3.28	Alanine transaminase (EC 2.6.1.2)
+PGF_04687504	Erwinia	452.33	57.36	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04749763	Erwinia	895.43	1.90	Translation initiation factor 2
+PGF_04757308	Erwinia	611.97	0.17	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Erwinia	194.89	0.40	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Erwinia	296.53	42.17	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04838801	Erwinia	650.81	89.59	tRNA cytosine(34) acetyltransferase (EC 2.3.1.193)
+PGF_04845029	Erwinia	114.35	7.10	LSU ribosomal protein L19p
+PGF_04970608	Erwinia	91.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Erwinia	96.40	9.89	LSU ribosomal protein L21p
+PGF_05022117	Erwinia	525.74	4.09	Bis-ABC ATPase YbiT
+PGF_05038169	Erwinia	317.40	3.41	COG1683: Uncharacterized conserved protein / FIG143828: Hypothetical protein YbgA
+PGF_05111929	Erwinia	570.31	12.64	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Erwinia	943.89	3.28	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05122891	Erwinia	300.74	17.16	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_05135220	Erwinia	835.25	105.34	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Erwinia	313.43	7.75	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Erwinia	207.51	9.89	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05294175	Erwinia	168.69	20.39	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Erwinia	470.31	7.04	ATP-dependent RNA helicase RhlE
+PGF_05338234	Erwinia	286.89	0.68	Protein YicC
+PGF_05406959	Erwinia	320.36	69.10	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05421852	Erwinia	623.29	0.96	Chaperone protein HtpG
+PGF_05442739	Erwinia	338.46	2.44	Sulfate and thiosulfate binding protein CysP
+PGF_05449103	Erwinia	141.97	3.54	Rhodanese-related sulfurtransferase YibN
+PGF_05463808	Erwinia	286.08	39.29	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Erwinia	508.26	1.22	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05498463	Erwinia	386.43	81.38	Glutamate-pyruvate aminotransferase AlaC (EC 2.6.1.2)
+PGF_05507938	Erwinia	619.57	19.77	DNA mismatch repair protein MutL
+PGF_05560886	Erwinia	264.81	34.25	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Erwinia	444.26	8.51	Protein translocase subunit SecY
+PGF_05598173	Erwinia	372.20	36.99	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Erwinia	418.89	8.79	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05626125	Erwinia	340.37	17.74	Inner membrane protein YhjD
+PGF_05657253	Erwinia	222.06	11.34	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05693577	Erwinia	94.69	0.47	Integration host factor beta subunit
+PGF_05769513	Erwinia	431.03	2.91	Tol-Pal system beta propeller repeat protein TolB
+PGF_05872952	Erwinia	235.49	32.90	Outer membrane beta-barrel assembly protein BamD
+PGF_05946087	Erwinia	298.83	0.66	Transcriptional regulator ArgP, LysR family
+PGF_05949521	Erwinia	610.60	5.47	Protein translocase subunit SecD
+PGF_05965455	Erwinia	475.36	69.23	AmpG permease
+PGF_05971611	Erwinia	390.08	63.86	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Erwinia	608.03	88.19	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06025565	Erwinia	307.97	0.17	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06027248	Erwinia	491.46	2.70	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06037862	Erwinia	636.43	118.66	Penicillin-binding protein activator LpoA
+PGF_06053106	Erwinia	284.03	0.62	RNA polymerase sigma factor RpoH
+PGF_06061522	Erwinia	97.14	29.57	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06170558	Erwinia	150.69	19.13	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Erwinia	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Erwinia	97.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06315406	Erwinia	419.57	1.56	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Erwinia	315.06	70.20	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06362312	Erwinia	481.63	109.91	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06379377	Erwinia	446.82	0.72	Replication-associated recombination protein RarA
+PGF_06403579	Erwinia	764.42	92.76	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06429852	Erwinia	216.74	0.82	Sigma factor RpoE negative regulatory protein RseA
+PGF_06458877	Erwinia	163.66	8.27	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Erwinia	324.89	0.32	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06524027	Erwinia	651.17	95.65	ATP-dependent DNA helicase Rep
+PGF_06530721	Erwinia	239.00	0.00	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06589185	Erwinia	599.31	13.85	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06594013	Erwinia	135.91	0.67	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06635957	Erwinia	319.49	43.61	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06644010	Erwinia	304.51	12.05	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Erwinia	78.00	0.00	Acyl carrier protein
+PGF_06679416	Erwinia	200.97	1.44	Adenylylsulfate kinase (EC 2.7.1.25)
+PGF_06683120	Erwinia	165.94	5.58	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_06693963	Erwinia	109.03	0.17	Nucleoid-associated protein YaaK
+PGF_06718352	Erwinia	151.47	29.66	Cys-tRNA(Pro) deacylase YbaK
+PGF_06721510	Erwinia	307.71	35.65	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+PGF_06735060	Erwinia	720.26	1.34	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06743269	Erwinia	396.00	0.00	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06755829	Erwinia	332.54	2.47	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Erwinia	514.77	2.03	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06949599	Erwinia	721.54	238.34	ATP-dependent helicase HrpB
+PGF_07072582	Erwinia	613.34	0.76	RNA polymerase sigma factor RpoD
+PGF_07171792	Erwinia	244.31	33.92	Glycerol-3-phosphate regulon repressor GlpR
+PGF_07344415	Erwinia	177.71	7.19	Intracellular septation protein IspA
+PGF_07368646	Erwinia	240.43	10.33	TonB-ExbBD energy transducing system, ExbB subunit
+PGF_07426744	Erwinia	235.06	37.71	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08050537	Erwinia	302.68	43.36	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08059428	Erwinia	69.88	22.58	Cell division topological specificity factor MinE
+PGF_08059713	Erwinia	90.00	0.00	Phosphocarrier protein, nitrogen regulation associated
+PGF_08061357	Erwinia	114.14	0.43	Iron-sulfur cluster insertion protein ErpA
+PGF_08074580	Erwinia	387.39	57.17	Lipoprotein releasing system transmembrane protein LolC
+PGF_08126362	Erwinia	499.80	10.25	DNA recombination protein RmuC
+PGF_08177814	Erwinia	413.49	3.61	Lipoprotein releasing system transmembrane protein LolE
+PGF_08183187	Erwinia	403.03	2.11	Cell division protein FtsW

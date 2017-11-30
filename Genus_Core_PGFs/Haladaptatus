@@ -1,0 +1,953 @@
+PGF_00000125	Haladaptatus	359.57	13.61	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1
+PGF_00000144	Haladaptatus	443.43	16.51	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2
+PGF_00000416	Haladaptatus	313.43	14.67	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00003106	Haladaptatus	279.43	4.72	FIG044987: protein with 4 CBS domains
+PGF_00003232	Haladaptatus	98.00	0.00	FIG059250: hypothetical protein
+PGF_00003516	Haladaptatus	262.29	13.31	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003748	Haladaptatus	306.43	1.99	FKBP-type peptidyl-prolyl cis-trans isomerase MJ0825 (EC 5.2.1.8)
+PGF_00003766	Haladaptatus	141.86	1.07	FMN adenylyltransferase, type 3 archaeal (EC 2.7.7.2)
+PGF_00004348	Haladaptatus	552.57	76.30	Ferredoxin reductase
+PGF_00004438	Haladaptatus	426.57	2.57	Vitamin B12 ABC transporter, ATP-binding protein BtuD
+PGF_00005666	Haladaptatus	326.00	0.00	Flap structure-specific endonuclease
+PGF_00006320	Haladaptatus	312.86	14.74	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006398	Haladaptatus	253.14	35.58	Fructose-bisphosphate aldolase, archaeal class I (EC 4.1.2.13)
+PGF_00006933	Haladaptatus	305.00	0.00	GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006934	Haladaptatus	182.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2)
+PGF_00006981	Haladaptatus	311.71	0.95	GTP cyclohydrolase MptA (EC 3.5.4.39)
+PGF_00007020	Haladaptatus	212.57	12.01	GTP-binding protein AF1181
+PGF_00007026	Haladaptatus	206.00	0.00	GTP-binding protein EngB
+PGF_00007040	Haladaptatus	350.00	50.27	GTP-binding protein RBG1/RBG2
+PGF_00007044	Haladaptatus	327.29	8.04	OBG-family ribosome assembly protein NOG1/MJ1408
+PGF_00007988	Haladaptatus	442.29	20.98	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008334	Haladaptatus	431.86	0.38	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008336	Haladaptatus	583.57	9.52	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008338	Haladaptatus	416.29	7.85	Glutamyl-tRNA(Gln) amidotransferase asparaginase subunit (EC 6.3.5.7)
+PGF_00008393	Haladaptatus	387.00	0.00	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008439	Haladaptatus	331.14	4.88	Glutathione S-transferase, omega (EC 2.5.1.18)
+PGF_00008542	Haladaptatus	325.86	12.42	Glycerol uptake facilitator protein
+PGF_00010991	Haladaptatus	287.57	7.16	Heat shock protein HtpX
+PGF_00011979	Haladaptatus	426.14	10.53	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012926	Haladaptatus	409.43	17.01	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_00013510	Haladaptatus	194.57	5.77	IMP cyclohydrolase (EC 3.5.4.10) [alternate form]
+PGF_00013741	Haladaptatus	312.00	31.88	AIR Synthase, TMP kinase, hydrogenase maturation protein HypE superfamily
+PGF_00013803	Haladaptatus	195.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013804	Haladaptatus	388.86	67.43	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00014051	Haladaptatus	251.86	0.38	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014306	Haladaptatus	178.43	3.78	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014855	Haladaptatus	277.00	13.23	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00014917	Haladaptatus	360.00	21.17	Integrase/recombinase
+PGF_00015510	Haladaptatus	300.86	0.38	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015519	Haladaptatus	401.71	0.49	Iron-sulfur cluster assembly protein SufD
+PGF_00015686	Haladaptatus	441.43	0.98	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015701	Haladaptatus	423.71	7.18	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015730	Haladaptatus	247.86	2.48	Isopentenyl phosphate kinase (EC 2.7.4.26)
+PGF_00015733	Haladaptatus	210.29	14.28	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Haladaptatus	351.71	2.21	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015931	Haladaptatus	416.00	0.00	Kynureninase (EC 3.7.1.3)
+PGF_00016241	Haladaptatus	771.71	0.49	ATP-dependant helicase
+PGF_00016267	Haladaptatus	353.14	1.95	L-tyrosine decarboxylase (EC 4.1.1.25)
+PGF_00016320	Haladaptatus	212.00	0.00	LSU ribosomal protein L10Ae (L1p)
+PGF_00016321	Haladaptatus	173.00	3.74	LSU ribosomal protein L10e (L16p)
+PGF_00016331	Haladaptatus	172.57	0.98	LSU ribosomal protein L11e (L5p)
+PGF_00016334	Haladaptatus	158.00	0.00	LSU ribosomal protein L12e (L11p)
+PGF_00016335	Haladaptatus	145.00	0.00	LSU ribosomal protein L13Ae (L13p)
+PGF_00016341	Haladaptatus	196.00	0.00	LSU ribosomal protein L15e
+PGF_00016345	Haladaptatus	153.00	0.00	LSU ribosomal protein L17e (L22p)
+PGF_00016352	Haladaptatus	112.14	8.30	LSU ribosomal protein L18e
+PGF_00016354	Haladaptatus	146.00	0.00	LSU ribosomal protein L19e
+PGF_00016356	Haladaptatus	248.00	0.00	LSU ribosomal protein L1e (L4p)
+PGF_00016363	Haladaptatus	96.00	0.00	LSU ribosomal protein L21e
+PGF_00016373	Haladaptatus	132.00	0.00	LSU ribosomal protein L23e (L14p)
+PGF_00016382	Haladaptatus	118.00	0.00	LSU ribosomal protein L26e (L24p)
+PGF_00016384	Haladaptatus	161.57	0.79	LSU ribosomal protein L27Ae (L15p)
+PGF_00016396	Haladaptatus	92.00	0.00	LSU ribosomal protein L31e
+PGF_00016421	Haladaptatus	66.00	6.30	LSU ribosomal protein L35e (L29p)
+PGF_00016426	Haladaptatus	94.00	5.29	LSU ribosomal protein L37Ae
+PGF_00016429	Haladaptatus	50.57	1.51	LSU ribosomal protein L39e
+PGF_00016430	Haladaptatus	315.00	29.24	LSU ribosomal protein L3e (L3p)
+PGF_00016434	Haladaptatus	49.00	0.00	LSU ribosomal protein L40e
+PGF_00016438	Haladaptatus	92.71	0.76	LSU ribosomal protein L44e
+PGF_00016442	Haladaptatus	162.57	26.73	LSU ribosomal protein L5e (L18p)
+PGF_00016446	Haladaptatus	120.00	0.00	LSU ribosomal protein L7Ae
+PGF_00016447	Haladaptatus	154.00	0.00	LSU ribosomal protein L7e (L30p)
+PGF_00016449	Haladaptatus	234.71	13.98	LSU ribosomal protein L8e (L2p)
+PGF_00016450	Haladaptatus	178.00	0.00	LSU ribosomal protein L9e (L6p)
+PGF_00017127	Haladaptatus	269.00	0.00	Lipoate-protein ligase A
+PGF_00017479	Haladaptatus	312.00	0.00	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Haladaptatus	340.57	4.39	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017729	Haladaptatus	275.86	2.27	Lycopene elongase (EC 2.5.1.-)
+PGF_00017895	Haladaptatus	800.43	8.02	ATP-dependent RNA helicase homolog eIF-4A
+PGF_00018952	Haladaptatus	304.71	0.49	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019279	Haladaptatus	329.00	0.00	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)
+PGF_00019384	Haladaptatus	127.00	2.52	MaoC family protein
+PGF_00020172	Haladaptatus	278.14	2.85	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020387	Haladaptatus	258.14	25.73	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020530	Haladaptatus	313.86	16.95	ATP-utilizing enzyme of the PP-loop superfamily
+PGF_00020793	Haladaptatus	177.00	0.00	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020984	Haladaptatus	297.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021217	Haladaptatus	497.71	21.05	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021389	Haladaptatus	426.00	10.82	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00021402	Haladaptatus	183.14	4.91	Mg/Co/Ni transporter MgtE
+PGF_00021445	Haladaptatus	347.29	4.61	Microsomal dipeptidase (EC 3.4.13.19)
+PGF_00022479	Haladaptatus	207.14	6.57	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022531	Haladaptatus	607.71	103.23	Molybdopterin molybdenumtransferase (EC 2.10.1.1) / Periplasmic molybdate-binding domain
+PGF_00022584	Haladaptatus	266.43	3.91	Molybdopterin-guanine dinucleotide biosynthesis protein MobB / Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_00023592	Haladaptatus	538.14	0.38	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234) / Kinase (Bud32/PRPK), required for threonylcarbamoyladenosine t(6)A37 formation in tRNA (p53-regulating)
+PGF_00023744	Haladaptatus	355.57	5.38	N-acetyl-lysine deacetylase (EC 3.5.1.-)
+PGF_00024163	Haladaptatus	348.71	58.96	N-acylamino acid racemase
+PGF_00024270	Haladaptatus	333.57	0.98	N5,N10-methylenetetrahydromethanopterin reductase-related protein, VNG1342Gm family
+PGF_00024273	Haladaptatus	206.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Haladaptatus	388.57	1.13	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024323	Haladaptatus	338.71	0.76	NAD(P)-dependent glyceraldehyde 3-phosphate dehydrogenase archaeal (EC 1.2.1.59)
+PGF_00024654	Haladaptatus	344.43	90.68	NADH-dependent flavin oxidoreductase
+PGF_00024728	Haladaptatus	73.43	22.23	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Haladaptatus	100.57	0.79	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Haladaptatus	514.29	2.56	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024893	Haladaptatus	191.00	3.42	NADPH-dependent FMN reductase( EC:1.5.1.29 )
+PGF_00025215	Haladaptatus	238.86	2.34	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025562	Haladaptatus	190.86	1.46	Nicotinamidase (EC 3.5.1.19)
+PGF_00025659	Haladaptatus	118.14	1.21	NifU-like domain protein
+PGF_00026362	Haladaptatus	178.14	0.38	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026658	Haladaptatus	315.43	3.69	Acetylglutamate kinase (EC 2.7.2.8) @ Acetylaminoadipate kinase (EC 2.7.2.-)
+PGF_00026888	Haladaptatus	596.00	0.00	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00030171	Haladaptatus	742.86	128.18	Penicillin acylase II (EC 3.5.1.11)
+PGF_00030842	Haladaptatus	112.00	0.00	Peptidyl-tRNA hydrolase, archaeal type (EC 3.1.1.29)
+PGF_00033075	Haladaptatus	502.57	0.98	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_00033511	Haladaptatus	405.00	12.37	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033643	Haladaptatus	228.00	4.16	Phosphoglycolate phosphatase, archaeal type (EC 3.1.3.18)
+PGF_00033825	Haladaptatus	324.00	0.00	Phosphomevalonate decarboxylase (EC 4.1.1.99)
+PGF_00033878	Haladaptatus	159.00	0.00	Phosphopantetheine adenylyltransferase, type II eukaryotic (EC 2.7.7.3)
+PGF_00033890	Haladaptatus	237.57	30.57	Phosphopantothenate synthetase, archaeal (EC 6.3.2.36)
+PGF_00033932	Haladaptatus	544.29	6.95	Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases, YtcI homolog
+PGF_00033933	Haladaptatus	339.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Haladaptatus	212.86	1.46	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Haladaptatus	240.00	0.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Haladaptatus	327.14	5.37	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Haladaptatus	210.29	38.06	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Haladaptatus	692.43	41.16	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00034002	Haladaptatus	287.00	0.00	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_00034973	Haladaptatus	188.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034985	Haladaptatus	238.14	3.02	Adenine phosphoribosyltransferase, fused to N-terminal DNA-binding domain
+PGF_00034988	Haladaptatus	327.00	0.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035067	Haladaptatus	209.86	1.68	2,5-diamino-6-ribosylamino-pyrimidinone 5-phosphate reductase, fungal/archaeal (EC 1.1.1.302)
+PGF_00035346	Haladaptatus	555.14	7.63	Potassium channel protein
+PGF_00035351	Haladaptatus	401.00	0.00	Potassium channel protein
+PGF_00035378	Haladaptatus	431.57	7.81	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035648	Haladaptatus	207.86	2.41	RNA methylase
+PGF_00035649	Haladaptatus	190.00	0.00	Predicted RNA-binding protein COG1491
+PGF_00035721	Haladaptatus	458.14	0.38	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00036470	Haladaptatus	179.00	0.00	Predicted transcriptional regulator with C-terminal CBS domain
+PGF_00036539	Haladaptatus	153.29	24.48	Prefoldin subunit beta
+PGF_00036573	Haladaptatus	51.14	4.88	Preprotein translocase secG subunit (Protein transport protein SEC61 subunit beta homolog)
+PGF_00036988	Haladaptatus	269.00	1.00	Agmatinase (EC 3.5.3.11)
+PGF_00037586	Haladaptatus	484.71	0.49	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00038673	Haladaptatus	281.57	10.00	Protein translocase subunit SecF
+PGF_00038675	Haladaptatus	483.00	11.82	Protein translocase subunit SecY
+PGF_00039674	Haladaptatus	181.14	1.46	Putative RNA-binding protein COG1094
+PGF_00039822	Haladaptatus	448.00	0.00	Putative Zn-dependent hydrolase in polyisoprenoid biosynthetic cluster
+PGF_00040014	Haladaptatus	178.14	3.02	Putative activity regulator of membrane protease YbbK
+PGF_00041788	Haladaptatus	137.71	1.11	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00043324	Haladaptatus	241.71	0.49	Putative preQ0 transporter YhhQ
+PGF_00044165	Haladaptatus	753.14	1.95	Putative ski2-type helicase MJ1124
+PGF_00045787	Haladaptatus	193.71	0.49	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Haladaptatus	302.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00046060	Haladaptatus	260.57	4.72	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046118	Haladaptatus	338.00	0.00	Quinone oxidoreductase
+PGF_00046769	Haladaptatus	603.00	0.00	RNase L inhibitor
+PGF_00046822	Haladaptatus	286.43	1.13	Alpha-aminoadipate--LysW ligase (EC 6.3.2.n4)
+PGF_00047473	Haladaptatus	272.29	0.49	Related to Dihydropteroate synthase / Alternative dihydrofolate reductase 2
+PGF_00047547	Haladaptatus	493.00	16.94	Replication factor A (ssDNA-binding protein)
+PGF_00047609	Haladaptatus	423.14	0.38	Replication protein A (two OB fold, one zinc finger)
+PGF_00048542	Haladaptatus	194.71	6.05	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Haladaptatus	214.71	7.18	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048581	Haladaptatus	234.00	0.00	Ribonuclease P protein component 3 (EC 3.1.26.5)
+PGF_00048594	Haladaptatus	308.00	0.00	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048643	Haladaptatus	165.57	5.83	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048895	Haladaptatus	57.43	6.80	Ribosome biogenesis protein Nop10
+PGF_00048896	Haladaptatus	175.86	19.17	Ribosome biogenesis protein TSR3
+PGF_00049546	Haladaptatus	258.57	27.97	SAM-dependent methyltransferase YafE (UbiE paralog)
+PGF_00049827	Haladaptatus	291.71	6.05	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049829	Haladaptatus	103.14	13.16	SSU ribosomal protein S11e (S17p)
+PGF_00049839	Haladaptatus	149.57	6.19	SSU ribosomal protein S13e (S15p)
+PGF_00049841	Haladaptatus	128.00	0.00	SSU ribosomal protein S14e (S11p)
+PGF_00049845	Haladaptatus	130.00	0.00	SSU ribosomal protein S15Ae (S8p)
+PGF_00049846	Haladaptatus	141.00	0.00	SSU ribosomal protein S15e (S19p)
+PGF_00049848	Haladaptatus	131.00	0.00	SSU ribosomal protein S16e (S9p)
+PGF_00049855	Haladaptatus	167.71	0.49	SSU ribosomal protein S18e (S13p)
+PGF_00049859	Haladaptatus	151.00	0.00	SSU ribosomal protein S19e
+PGF_00049862	Haladaptatus	102.00	0.00	SSU ribosomal protein S20e (S10p)
+PGF_00049869	Haladaptatus	142.00	0.00	SSU ribosomal protein S23e (S12p)
+PGF_00049872	Haladaptatus	107.29	0.49	SSU ribosomal protein S24e
+PGF_00049876	Haladaptatus	44.00	0.00	SSU ribosomal protein S27Ae
+PGF_00049878	Haladaptatus	57.00	0.00	SSU ribosomal protein S27e
+PGF_00049880	Haladaptatus	58.00	0.00	SSU ribosomal protein S29e (S14p)
+PGF_00049881	Haladaptatus	213.57	0.98	SSU ribosomal protein S2e (S5p)
+PGF_00049886	Haladaptatus	211.00	0.00	SSU ribosomal protein S3Ae
+PGF_00049888	Haladaptatus	308.43	11.25	SSU ribosomal protein S3e (S3p)
+PGF_00049894	Haladaptatus	205.43	1.13	SSU ribosomal protein S5e (S7p)
+PGF_00049905	Haladaptatus	131.57	12.14	SSU ribosomal protein S8e
+PGF_00049907	Haladaptatus	173.00	0.00	SSU ribosomal protein S9e (S4p)
+PGF_00049910	Haladaptatus	258.43	1.13	SSU ribosomal protein SAe (S2p)
+PGF_00050288	Haladaptatus	311.86	24.40	Segregation and condensation protein A
+PGF_00050995	Haladaptatus	489.14	5.67	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051315	Haladaptatus	761.00	0.00	Serine protein kinase
+PGF_00051334	Haladaptatus	387.29	12.26	Serine--pyruvate aminotransferase (EC 2.6.1.51) / L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
+PGF_00051543	Haladaptatus	286.14	9.08	Shikimate kinase II (EC 2.7.1.71)
+PGF_00051873	Haladaptatus	476.71	4.15	Short-chain fatty acids transporter
+PGF_00051879	Haladaptatus	241.00	0.00	Shwachman-Bodian-Diamond syndrome protein; predicted exosome subunit
+PGF_00051946	Haladaptatus	511.00	9.63	Siderophore biosynthesis L-2,4-diaminobutyrate decarboxylase
+PGF_00051947	Haladaptatus	468.29	13.47	Siderophore biosynthesis diaminobutyrate--2-oxoglutarate aminotransferase (EC 2.6.1.76)
+PGF_00052025	Haladaptatus	544.86	100.61	Siderophore synthetase superfamily, group A @ Siderophore synthetase large component, acetyltransferase
+PGF_00052030	Haladaptatus	612.43	4.04	Siderophore synthetase superfamily, group C @ Siderophore synthetase component, ligase
+PGF_00052206	Haladaptatus	328.57	8.79	Signal peptidase, type IV - prepilin/preflagellin
+PGF_00052238	Haladaptatus	462.29	2.29	Signal recognition particle protein Ffh
+PGF_00052565	Haladaptatus	289.57	19.01	Similar to citrate lyase beta chain, 3
+PGF_00053562	Haladaptatus	346.43	6.16	Sorbitol dehydrogenase (EC 1.1.1.14)
+PGF_00053970	Haladaptatus	356.14	2.34	Squalene synthase (EC 2.5.1.21)
+PGF_00054458	Haladaptatus	130.00	0.00	Succinate dehydrogenase cytochrome b subunit
+PGF_00054476	Haladaptatus	121.00	0.00	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00055295	Haladaptatus	279.29	3.30	Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00055324	Haladaptatus	563.00	14.25	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+PGF_00055376	Haladaptatus	443.29	2.21	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+PGF_00055723	Haladaptatus	142.29	10.29	TRAM domain protein
+PGF_00056501	Haladaptatus	557.29	0.76	Thiamin ABC transporter, transmembrane component
+PGF_00056543	Haladaptatus	301.29	16.45	Thiazole biosynthetic enzyme Thi4 / Ribose 1,5-bisphosphate or 5-ribose-1,2-cyclic phosphate dehydrogenase
+PGF_00056662	Haladaptatus	334.00	0.00	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Haladaptatus	544.86	14.46	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Haladaptatus	192.71	6.05	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Haladaptatus	198.57	2.82	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Haladaptatus	330.71	0.95	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056900	Haladaptatus	320.29	15.12	2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)
+PGF_00057792	Haladaptatus	205.57	29.02	Transcriptional regulator
+PGF_00058175	Haladaptatus	140.43	4.28	HTH-type transcriptional regulator LysM
+PGF_00058990	Haladaptatus	204.00	0.00	Transcriptional regulator, ArsR family
+PGF_00059756	Haladaptatus	165.00	7.48	Transcriptional regulator, PadR family
+PGF_00059831	Haladaptatus	269.71	2.14	Transcriptional regulator, TrmB family
+PGF_00059839	Haladaptatus	353.00	0.00	Transcriptional regulator, TrmB family
+PGF_00060405	Haladaptatus	83.71	5.35	Translation elongation factor 1 beta subunit
+PGF_00060449	Haladaptatus	283.00	0.00	Translation initiation factor 2B alpha/beta/delta-type subunit
+PGF_00060503	Haladaptatus	235.00	0.00	Transmembrane component BioN of energizing module of biotin ECF transporter
+PGF_00061926	Haladaptatus	278.86	1.46	Triphosphoribosyl-dephospho-CoA synthetase
+PGF_00062023	Haladaptatus	282.86	9.12	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00063365	Haladaptatus	730.14	13.83	Type II secretion system protein
+PGF_00063452	Haladaptatus	684.00	0.00	Archaea-specific Superfamily II helicase MJ1401
+PGF_00063544	Haladaptatus	893.00	0.00	Archaeal DNA polymerase I (EC 2.7.7.7) @ intein-containing
+PGF_00063560	Haladaptatus	1393.57	134.47	Archaeal DNA polymerase II large subunit (EC 2.7.7.7)
+PGF_00063608	Haladaptatus	401.57	12.42	S-adenosylmethionine synthetase, archaeal (EC 2.5.1.6)
+PGF_00063785	Haladaptatus	239.71	4.86	Archaeal heat shock regulator, ArsR family
+PGF_00063915	Haladaptatus	325.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063931	Haladaptatus	353.29	2.06	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronic acid 2-epimerase (EC 5.1.3.23)
+PGF_00064031	Haladaptatus	137.57	4.16	Archease
+PGF_00064169	Haladaptatus	306.00	0.00	Arginase (EC 3.5.3.1)
+PGF_00064240	Haladaptatus	80.29	0.49	UPF0213 protein YazA
+PGF_00064475	Haladaptatus	233.43	4.16	Ubiquinone/menaquinone biosynthesis methyltransferase UbiE/COQ5 (EC 2.1.1.-)
+PGF_00064482	Haladaptatus	556.29	0.49	Ucharacterized ABC1 family protein Saci_1664
+PGF_00064540	Haladaptatus	947.14	5.67	Uncharacterized ATP-dependent helicase AF1149
+PGF_00064547	Haladaptatus	354.00	5.29	Uncharacterized Fe-S oxidoreductase MJ0550
+PGF_00064605	Haladaptatus	208.57	4.47	Uncharacterized Zn-dependent protease MJ0611
+PGF_00065004	Haladaptatus	329.00	5.29	Uncharacterized protein MJ0021
+PGF_00065039	Haladaptatus	585.14	13.08	Uncharacterized protein MJ0274
+PGF_00065055	Haladaptatus	115.57	7.25	Uncharacterized protein MJ0408
+PGF_00065075	Haladaptatus	162.71	0.76	Uncharacterized protein MJ0497
+PGF_00065254	Haladaptatus	234.71	5.35	Uncharacterized protein MJ1634
+PGF_00065887	Haladaptatus	202.00	0.00	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065889	Haladaptatus	307.00	5.42	Undecaprenyl diphosphate synthase (geranylgeranyl diphosphate specific) (EC 2.5.1.89)
+PGF_00065922	Haladaptatus	149.00	0.00	Universal stress protein
+PGF_00066270	Haladaptatus	334.00	0.00	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066294	Haladaptatus	246.14	0.38	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066372	Haladaptatus	586.00	0.00	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066375	Haladaptatus	468.57	0.98	V-type ATP synthase subunit B (EC 3.6.3.14)
+PGF_00066389	Haladaptatus	224.86	6.41	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066398	Haladaptatus	192.57	1.13	V-type ATP synthase subunit E (EC 3.6.3.14)
+PGF_00066639	Haladaptatus	373.00	0.00	Aspartate aminotransferase
+PGF_00066734	Haladaptatus	86.86	6.41	Vng1086c
+PGF_00066867	Haladaptatus	369.86	103.64	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Haladaptatus	303.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066960	Haladaptatus	153.00	0.00	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067188	Haladaptatus	344.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067847	Haladaptatus	339.43	2.07	acetoin utilization protein
+PGF_00068420	Haladaptatus	370.71	45.73	Protein YzbB
+PGF_00068726	Haladaptatus	155.29	20.98	archaeal histone A1
+PGF_00068730	Haladaptatus	166.43	20.08	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) PUA domain
+PGF_00069847	Haladaptatus	337.57	72.34	circadian regulator
+PGF_00070089	Haladaptatus	139.43	3.78	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070148	Haladaptatus	124.14	1.46	conserved protein associated with acetyl-CoA C-acyltransferase
+PGF_00070163	Haladaptatus	177.00	19.68	conserved protein with predicted RNA binding PUA domain
+PGF_00070793	Haladaptatus	589.71	44.86	dolichol-P-glucose synthetase
+PGF_00071524	Haladaptatus	75.00	0.00	gar1 - like small nucleolar rnp
+PGF_00071600	Haladaptatus	237.14	4.02	glucose 1-dehydrogenase
+PGF_00071913	Haladaptatus	302.43	0.79	glycosyl transferase-like
+PGF_00072284	Haladaptatus	177.86	0.38	histidine triad protein
+PGF_00072295	Haladaptatus	561.29	16.30	Uncharacterized acetyltransferase SSO0480
+PGF_00072755	Haladaptatus	437.29	28.35	hypothetical protein
+PGF_00079503	Haladaptatus	158.86	0.38	hypothetical protein
+PGF_00081634	Haladaptatus	187.14	12.27	hypothetical protein
+PGF_00082734	Haladaptatus	281.86	0.38	hypothetical protein
+PGF_00084112	Haladaptatus	79.14	0.38	hypothetical protein
+PGF_00085003	Haladaptatus	161.29	4.07	hypothetical protein
+PGF_00085457	Haladaptatus	139.00	0.00	hypothetical protein
+PGF_00090768	Haladaptatus	195.71	0.49	hypothetical protein
+PGF_00095858	Haladaptatus	133.71	5.35	hypothetical protein
+PGF_00097937	Haladaptatus	116.57	0.98	hypothetical protein
+PGF_00098608	Haladaptatus	296.71	0.49	hypothetical protein
+PGF_00101644	Haladaptatus	378.57	2.07	hypothetical protein
+PGF_00108843	Haladaptatus	325.86	3.29	hypothetical protein
+PGF_00115266	Haladaptatus	196.00	0.00	hypothetical protein
+PGF_00120595	Haladaptatus	117.00	2.65	hypothetical protein
+PGF_00121000	Haladaptatus	81.00	0.00	hypothetical protein
+PGF_00123288	Haladaptatus	543.43	164.08	Sulfate permease, Trk-type
+PGF_00126052	Haladaptatus	249.00	0.00	hypothetical protein
+PGF_00126385	Haladaptatus	152.57	0.98	hypothetical protein
+PGF_00130230	Haladaptatus	647.86	13.31	Uncharacterized protein MJ1198
+PGF_00133777	Haladaptatus	209.57	13.38	Uncharacterized membrane anchored protein VNG2121C
+PGF_00135019	Haladaptatus	191.00	0.00	hypothetical protein
+PGF_00139156	Haladaptatus	193.00	0.00	hypothetical protein
+PGF_00139258	Haladaptatus	78.14	12.42	hypothetical protein
+PGF_00142248	Haladaptatus	207.29	9.03	hypothetical protein
+PGF_00146248	Haladaptatus	79.14	6.41	hypothetical protein
+PGF_00146393	Haladaptatus	77.71	20.85	hypothetical protein
+PGF_00150522	Haladaptatus	87.86	1.07	hypothetical protein
+PGF_00152153	Haladaptatus	152.14	21.96	hypothetical protein
+PGF_00159459	Haladaptatus	411.29	11.03	hypothetical protein
+PGF_00161035	Haladaptatus	254.71	7.18	hypothetical protein
+PGF_00164360	Haladaptatus	158.29	0.76	hypothetical protein
+PGF_00166012	Haladaptatus	103.00	0.00	hypothetical protein
+PGF_00166219	Haladaptatus	205.00	0.00	hypothetical protein
+PGF_00166717	Haladaptatus	163.57	9.07	ACT domain-containing protein
+PGF_00168491	Haladaptatus	178.14	2.48	hypothetical protein
+PGF_00169554	Haladaptatus	165.71	0.76	hypothetical protein
+PGF_00172676	Haladaptatus	286.57	19.36	hypothetical protein
+PGF_00176899	Haladaptatus	107.71	2.93	hypothetical protein
+PGF_00181915	Haladaptatus	121.71	3.90	hypothetical protein
+PGF_00186177	Haladaptatus	317.71	12.23	hypothetical protein
+PGF_00188552	Haladaptatus	314.57	15.91	Uncharacterized transcriptional regulatory protein MJ1164, Cro/C1 family
+PGF_00188791	Haladaptatus	84.00	10.25	hypothetical protein
+PGF_00189494	Haladaptatus	136.71	5.56	hypothetical protein
+PGF_00190223	Haladaptatus	176.00	3.42	hypothetical protein
+PGF_00197773	Haladaptatus	73.43	11.72	hypothetical protein
+PGF_00200695	Haladaptatus	103.00	0.00	hypothetical protein
+PGF_00202032	Haladaptatus	202.43	14.74	hypothetical protein
+PGF_00202075	Haladaptatus	260.57	4.39	hypothetical protein
+PGF_00204042	Haladaptatus	301.29	7.18	2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+PGF_00205254	Haladaptatus	149.00	0.00	UPF0179 protein MJ1627
+PGF_00209388	Haladaptatus	380.57	6.16	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_00210630	Haladaptatus	321.00	0.00	hypothetical protein
+PGF_00211571	Haladaptatus	260.71	8.69	hypothetical protein
+PGF_00212138	Haladaptatus	416.43	0.53	hypothetical protein
+PGF_00213740	Haladaptatus	139.71	1.60	hypothetical protein
+PGF_00215332	Haladaptatus	194.43	14.74	hypothetical protein
+PGF_00217383	Haladaptatus	151.43	7.70	hypothetical protein
+PGF_00219924	Haladaptatus	369.14	0.38	hypothetical protein
+PGF_00232944	Haladaptatus	97.71	12.23	hypothetical protein
+PGF_00233123	Haladaptatus	97.71	1.50	hypothetical protein
+PGF_00235841	Haladaptatus	643.00	3.87	hypothetical protein
+PGF_00236245	Haladaptatus	79.71	1.89	hypothetical protein
+PGF_00236455	Haladaptatus	223.29	0.49	Uncharacterized protein PH0618
+PGF_00238549	Haladaptatus	310.71	17.97	Uncharacterized protein AF1362
+PGF_00243634	Haladaptatus	170.00	7.48	hypothetical protein
+PGF_00244685	Haladaptatus	248.00	0.00	hypothetical protein
+PGF_00258246	Haladaptatus	438.00	0.00	Hypothetical domain / Phytyl-phosphate kinase (EC 2.7.4.-)
+PGF_00263025	Haladaptatus	92.43	9.07	hypothetical protein
+PGF_00267025	Haladaptatus	175.00	2.65	hypothetical protein
+PGF_00268115	Haladaptatus	85.43	5.22	hypothetical protein
+PGF_00270380	Haladaptatus	224.00	0.00	hypothetical protein
+PGF_00270717	Haladaptatus	201.00	0.00	hypothetical protein
+PGF_00271934	Haladaptatus	109.57	6.80	hypothetical protein
+PGF_00272568	Haladaptatus	125.00	26.19	hypothetical protein
+PGF_00276250	Haladaptatus	154.00	41.46	hypothetical protein
+PGF_00276707	Haladaptatus	276.71	0.49	hypothetical protein
+PGF_00277061	Haladaptatus	147.00	4.80	hypothetical protein
+PGF_00280549	Haladaptatus	298.71	1.98	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00289150	Haladaptatus	144.14	2.34	hypothetical protein
+PGF_00292250	Haladaptatus	227.00	0.00	Intracellular protease
+PGF_00293965	Haladaptatus	279.57	10.74	hypothetical protein
+PGF_00295110	Haladaptatus	242.14	1.95	hypothetical protein
+PGF_00295652	Haladaptatus	123.00	0.00	hypothetical protein
+PGF_00296683	Haladaptatus	280.71	0.95	hypothetical protein
+PGF_00297885	Haladaptatus	192.43	0.53	hypothetical protein
+PGF_00299265	Haladaptatus	123.57	8.02	hypothetical protein
+PGF_00300384	Haladaptatus	219.86	1.46	hypothetical protein
+PGF_00301472	Haladaptatus	135.43	14.36	hypothetical protein
+PGF_00303083	Haladaptatus	65.00	0.00	hypothetical protein
+PGF_00304487	Haladaptatus	146.00	0.00	hypothetical protein
+PGF_00309869	Haladaptatus	383.00	0.00	hypothetical protein
+PGF_00310942	Haladaptatus	245.86	15.50	hypothetical protein
+PGF_00311112	Haladaptatus	314.29	6.34	hypothetical protein
+PGF_00314670	Haladaptatus	133.57	1.51	hypothetical protein
+PGF_00314807	Haladaptatus	138.43	2.23	hypothetical protein
+PGF_00315004	Haladaptatus	282.00	0.00	hypothetical protein
+PGF_00316369	Haladaptatus	162.57	1.13	hypothetical protein
+PGF_00321868	Haladaptatus	409.00	1.15	hypothetical protein
+PGF_00324609	Haladaptatus	270.00	11.75	hypothetical protein
+PGF_00325855	Haladaptatus	125.43	11.72	hypothetical protein
+PGF_00327010	Haladaptatus	57.00	0.00	hypothetical protein
+PGF_00328122	Haladaptatus	258.00	0.00	hypothetical protein
+PGF_00328367	Haladaptatus	188.57	4.39	hypothetical protein
+PGF_00329894	Haladaptatus	140.00	26.51	hypothetical protein
+PGF_00330981	Haladaptatus	51.43	9.07	hypothetical protein
+PGF_00335103	Haladaptatus	134.43	0.79	hypothetical protein
+PGF_00337804	Haladaptatus	154.00	0.00	hypothetical protein
+PGF_00339201	Haladaptatus	152.71	0.49	hypothetical protein
+PGF_00339700	Haladaptatus	274.71	2.36	hypothetical protein
+PGF_00341056	Haladaptatus	273.71	0.49	hypothetical protein
+PGF_00343248	Haladaptatus	273.86	2.67	hypothetical protein
+PGF_00343530	Haladaptatus	51.00	0.00	hypothetical protein
+PGF_00345570	Haladaptatus	357.29	43.17	hypothetical protein
+PGF_00355403	Haladaptatus	453.00	0.00	Phosphomannomutase (EC 5.4.2.8); Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00364297	Haladaptatus	449.43	8.90	hypothetical protein
+PGF_00365400	Haladaptatus	278.29	100.41	Trehalose utilization protein ThuA
+PGF_00374420	Haladaptatus	145.14	6.72	hypothetical protein
+PGF_00377203	Haladaptatus	154.00	0.00	hypothetical protein
+PGF_00379122	Haladaptatus	85.14	1.35	hypothetical protein
+PGF_00380282	Haladaptatus	194.00	0.00	hypothetical protein
+PGF_00380937	Haladaptatus	292.57	6.80	hypothetical protein
+PGF_00382172	Haladaptatus	40.00	0.00	hypothetical protein
+PGF_00384866	Haladaptatus	134.00	3.42	hypothetical protein
+PGF_00387108	Haladaptatus	145.43	6.08	hypothetical protein
+PGF_00390078	Haladaptatus	88.00	1.83	hypothetical protein
+PGF_00392931	Haladaptatus	284.86	1.77	hypothetical protein
+PGF_00393820	Haladaptatus	166.00	11.49	hypothetical protein
+PGF_00395028	Haladaptatus	183.00	0.00	hypothetical protein
+PGF_00400421	Haladaptatus	142.00	0.00	iron-dependent repressor
+PGF_00400992	Haladaptatus	494.57	152.59	Benzoylformate decarboxylase (EC 4.1.1.7)
+PGF_00401174	Haladaptatus	498.29	6.60	transmembrane protein, distant homology with ydbT
+PGF_00401649	Haladaptatus	327.00	12.94	n-type ATP pyrophosphatase superfamily / TilS and TtcA-like
+PGF_00401947	Haladaptatus	207.86	0.38	orotate phosphoribosyltransferase( EC:2.4.2.10 )
+PGF_00402287	Haladaptatus	429.43	92.43	oxidoreductase, FAD-dependent
+PGF_00402444	Haladaptatus	210.86	9.35	2-methyl-6-phytyl-1,4-benzoquinone methyltransferase / 2-methyl-6-solanyl-1,4-benzoquinone methyltransferase
+PGF_00402963	Haladaptatus	301.14	97.85	phosphate regulatory protein homolog
+PGF_00403744	Haladaptatus	609.29	2.36	predicted ATPase
+PGF_00404355	Haladaptatus	328.71	0.49	probable mechanosensitive channel
+PGF_00404817	Haladaptatus	141.00	0.00	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00406521	Haladaptatus	700.00	26.03	putative cell surface protein
+PGF_00406529	Haladaptatus	547.86	60.05	2-oxoglutarate decarboxylase (EC 4.1.1.71)
+PGF_00411462	Haladaptatus	213.43	3.05	Box C/D RNA-guided RNA methyltransferase subunit fibrillarin
+PGF_00411463	Haladaptatus	283.86	2.67	Box C/D RNA-guided RNA methyltransferase subunit Nop5
+PGF_00412647	Haladaptatus	62.57	4.39	snRNP homolog
+PGF_00412664	Haladaptatus	392.14	5.37	sodium-dependent phosphate transporter
+PGF_00412749	Haladaptatus	110.14	0.69	soluble [2Fe-2S] ferredoxin
+PGF_00413096	Haladaptatus	198.00	0.00	sulfite oxidase homolog
+PGF_00413191	Haladaptatus	240.00	0.00	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase (EC 2.1.1.219)
+PGF_00413199	Haladaptatus	213.43	1.13	tRNA (carboxymethyluridine(34)-5-O)-methyltransferase (EC 2.1.1.229)
+PGF_00413205	Haladaptatus	325.86	11.10	tRNA (guanine(10)-N(2))-dimethyltransferase (EC 2.1.1.213)
+PGF_00413206	Haladaptatus	370.14	5.67	tRNA (guanine(26)-N(2))-dimethyltransferase (EC 2.1.1.216)
+PGF_00413224	Haladaptatus	198.00	0.00	tRNA (pseudouridine(54)-N(1))-methyltransferase (EC 2.1.1.257)
+PGF_00413256	Haladaptatus	420.43	9.07	tRNA N6-threonylcarbamoyladenosine 2-methylthiotransferase (putative) @ tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_00413263	Haladaptatus	761.86	7.56	tRNA cytosine(12) acetyltransferase, catalytic subunit @ SSU rRNA acetyltransferase, catalytic subunit
+PGF_00413271	Haladaptatus	301.00	0.00	tRNA m5C48-49 methylase
+PGF_00413287	Haladaptatus	431.86	1.46	tRNA pseudouridine(54/55) synthase
+PGF_00413290	Haladaptatus	270.86	19.05	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413313	Haladaptatus	333.29	0.49	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase (EC 2.5.1.114)
+PGF_00413342	Haladaptatus	490.00	0.00	tRNA-guanine(15) transglycosylase (EC 2.4.2.48)
+PGF_00413344	Haladaptatus	583.00	0.00	Archaeosine synthase (EC 2.6.1.97)
+PGF_00413346	Haladaptatus	343.00	0.00	tRNA-splicing endonuclease (EC 4.6.1.16)
+PGF_00413455	Haladaptatus	245.00	5.29	tetratricopeptide repeat protein
+PGF_00413864	Haladaptatus	999.29	54.85	transmembrane oligosaccharyl transferase
+PGF_00413928	Haladaptatus	311.86	8.30	transporter of the drug/metabolite transporter (DMT) superfamily
+PGF_00414366	Haladaptatus	584.14	2.19	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414707	Haladaptatus	522.57	9.03	xanthine/uracil permease family protein
+PGF_00414907	Haladaptatus	382.86	3.39	CBS-domain-containing protein
+PGF_00414916	Haladaptatus	282.71	3.40	CBS/parB domain-containing protein
+PGF_00414927	Haladaptatus	449.00	0.00	CCA tRNA nucleotidyltransferase, archaeal type (EC 2.7.7.72)
+PGF_00414966	Haladaptatus	190.00	27.34	Archaetidylglycerol phosphate synthase
+PGF_00415433	Haladaptatus	707.57	18.51	RNA-binding protein homologous to eukaryotic snRNP
+PGF_00415580	Haladaptatus	280.00	0.00	COG2106 Methylase
+PGF_00415581	Haladaptatus	253.14	1.07	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415583	Haladaptatus	183.57	40.82	COG2117: Predicted ATPase of the PP-loop superfamily
+PGF_00416126	Haladaptatus	343.43	3.78	CTAG modification methylase
+PGF_00416410	Haladaptatus	1053.43	14.74	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416506	Haladaptatus	564.57	34.99	Carbon starvation protein A
+PGF_00416712	Haladaptatus	443.00	58.16	Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit B
+PGF_00417429	Haladaptatus	383.86	0.69	Chaperone protein DnaJ
+PGF_00417433	Haladaptatus	637.29	3.77	Chaperone protein DnaK
+PGF_00417481	Haladaptatus	232.57	10.69	3-dehydroquinate dehydratase I (EC 4.2.1.10)
+PGF_00417822	Haladaptatus	88.00	0.00	Chorismate mutase I (EC 5.4.99.5)
+PGF_00418490	Haladaptatus	297.29	24.57	Coenzyme gamma-F420-2:L-glutamate ligase (EC 6.3.2.32)
+PGF_00418521	Haladaptatus	195.71	16.34	2-phospho-L-lactate guanylyltransferase (EC 2.7.7.68)
+PGF_00419420	Haladaptatus	473.29	8.10	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419624	Haladaptatus	493.86	24.80	Coproheme decarboxylase HemQ (no EC) / putative monooxygenase domain
+PGF_00419913	Haladaptatus	168.86	1.95	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Haladaptatus	268.14	1.46	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420735	Haladaptatus	346.00	0.00	Cytosolic Fe-S cluster assembling factor NBP35 / Chromosome (plasmid) partitioning protein ParA
+PGF_00421217	Haladaptatus	488.57	17.40	DNA damage-inducible protein
+PGF_00421296	Haladaptatus	446.71	2.98	DNA helicase (Rad25 homolog)
+PGF_00421629	Haladaptatus	247.00	0.00	DNA polymerase sliding clamp protein PCNA
+PGF_00421665	Haladaptatus	481.57	13.54	DNA primase (EC 2.7.7.-)
+PGF_00421693	Haladaptatus	390.00	0.00	DNA primase small subunit (EC 2.7.7.-)
+PGF_00421762	Haladaptatus	232.00	0.00	DNA repair and recombination protein RadB
+PGF_00421784	Haladaptatus	219.00	0.00	DNA repair protein
+PGF_00421878	Haladaptatus	363.57	0.53	DNA topoisomerase VI subunit A (EC 5.99.1.3)
+PGF_00421879	Haladaptatus	803.14	1.95	DNA topoisomerase VI subunit B (EC 5.99.1.3)
+PGF_00422335	Haladaptatus	393.29	0.49	DNA-directed RNA polymerase subunit A'' (EC 2.7.7.6)
+PGF_00422338	Haladaptatus	608.00	0.00	DNA-directed RNA polymerase subunit B' (EC 2.7.7.6)
+PGF_00422339	Haladaptatus	518.00	0.00	DNA-directed RNA polymerase subunit B'' (EC 2.7.7.6)
+PGF_00422340	Haladaptatus	248.00	0.00	DNA-directed RNA polymerase subunit D (EC 2.7.7.6)
+PGF_00422341	Haladaptatus	203.14	40.16	DNA-directed RNA polymerase subunit E' (EC 2.7.7.6)
+PGF_00422346	Haladaptatus	118.00	0.00	DNA-directed RNA polymerase subunit F (EC 2.7.7.6)
+PGF_00422356	Haladaptatus	71.57	4.28	DNA-directed RNA polymerase subunit H (EC 2.7.7.6)
+PGF_00422358	Haladaptatus	57.00	7.94	DNA-directed RNA polymerase subunit K (EC 2.7.7.6)
+PGF_00422360	Haladaptatus	98.57	13.87	DNA-directed RNA polymerase subunit L (EC 2.7.7.6)
+PGF_00422362	Haladaptatus	66.00	0.00	DNA-directed RNA polymerase subunit N (EC 2.7.7.6)
+PGF_00422364	Haladaptatus	44.00	0.00	DNA-directed RNA polymerase subunit P (EC 2.7.7.6)
+PGF_00422545	Haladaptatus	308.71	7.32	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422918	Haladaptatus	198.29	4.07	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00423044	Haladaptatus	136.57	14.36	Diadenosine 5'5'''-P1,P4-tetraphosphate pyrophosphohydrolase
+PGF_00423097	Haladaptatus	278.00	0.00	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423301	Haladaptatus	743.86	160.33	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17) / Alternative dihydrofolate reductase 2 / Dihydropteroate synthase (EC 2.5.1.15)
+PGF_00423378	Haladaptatus	423.57	0.98	Dihydroorotase (EC 3.5.2.3)
+PGF_00423616	Haladaptatus	304.71	98.90	Diphthine synthase (EC 2.1.1.98)
+PGF_00423730	Haladaptatus	69.57	6.45	Dodecin (COG3360) Flavin-binding
+PGF_00424272	Haladaptatus	386.14	48.08	Endoglucanase
+PGF_00424337	Haladaptatus	290.14	1.07	Endonuclease IV (EC 3.1.21.2)
+PGF_00424338	Haladaptatus	276.86	7.76	Endonuclease V (EC 3.1.21.7)
+PGF_00424924	Haladaptatus	413.00	0.00	Eukaryotic peptide chain release factor subunit 1
+PGF_00424925	Haladaptatus	266.00	0.00	Eukaryotic translation initiation factor 2 alpha subunit
+PGF_00424940	Haladaptatus	221.00	0.00	Eukaryotic translation initiation factor 6
+PGF_00426231	Haladaptatus	660.71	0.95	FIG004684: SpoVR-like protein
+PGF_00426750	Haladaptatus	331.00	0.00	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_00426932	Haladaptatus	134.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Haladaptatus	268.57	0.98	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00538878	Haladaptatus	458.14	5.30	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00549250	Haladaptatus	351.14	0.38	V-type ATP synthase subunit C (EC 3.6.3.14)
+PGF_00597528	Haladaptatus	506.29	7.39	Dihydrolipoamide acetyltransferase component (E2) of acetoin dehydrogenase complex (EC 2.3.1.12)
+PGF_00598374	Haladaptatus	205.29	19.49	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00625415	Haladaptatus	249.71	7.85	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00644212	Haladaptatus	282.57	2.44	Nucleoside-diphosphate-sugar epimerases
+PGF_00659194	Haladaptatus	175.71	2.36	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665189	Haladaptatus	376.86	1.46	Origin of replication recognition protein @ Cell division control protein 6
+PGF_00668978	Haladaptatus	432.86	0.38	Uncharacterized MFS-type transporter
+PGF_00682964	Haladaptatus	310.00	0.00	N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase-like protein
+PGF_00686942	Haladaptatus	130.14	3.53	hypothetical protein
+PGF_00698226	Haladaptatus	303.00	5.66	hypothetical protein
+PGF_00710797	Haladaptatus	439.29	8.08	ATPase, AAA family
+PGF_00719345	Haladaptatus	243.57	8.30	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), ADP-binding subunit DhaL
+PGF_00725735	Haladaptatus	381.14	5.70	sarcosine oxidase
+PGF_00742055	Haladaptatus	97.00	0.00	Translation initiation factor SUI1-related protein
+PGF_00743561	Haladaptatus	206.14	3.58	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00745416	Haladaptatus	97.43	0.53	hypothetical protein
+PGF_00770704	Haladaptatus	596.86	21.61	hypothetical protein
+PGF_00772942	Haladaptatus	338.00	0.00	Oligopeptide ABC transporter, permease protein
+PGF_00776587	Haladaptatus	121.71	0.49	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777319	Haladaptatus	147.57	7.32	hypothetical protein
+PGF_00782129	Haladaptatus	293.00	31.18	hypothetical protein
+PGF_00782936	Haladaptatus	401.00	53.56	hypothetical protein
+PGF_00803720	Haladaptatus	479.43	150.20	Uncharacterized protein YyaL
+PGF_00807849	Haladaptatus	192.71	10.73	hypothetical protein
+PGF_00818798	Haladaptatus	193.00	0.00	hypothetical protein
+PGF_00821612	Haladaptatus	285.57	22.04	hypothetical protein
+PGF_00848719	Haladaptatus	125.71	0.49	hypothetical protein
+PGF_00852852	Haladaptatus	236.00	0.00	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_00856141	Haladaptatus	417.57	9.02	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00856270	Haladaptatus	257.00	5.97	hypothetical protein
+PGF_00864579	Haladaptatus	344.00	0.00	hypothetical protein
+PGF_00878163	Haladaptatus	385.43	137.95	hypothetical protein
+PGF_00926109	Haladaptatus	587.86	8.30	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00936306	Haladaptatus	166.29	11.34	hypothetical protein
+PGF_00943089	Haladaptatus	64.29	3.90	hypothetical protein
+PGF_00947849	Haladaptatus	192.29	3.68	Isochorismatase (EC 3.3.2.1)
+PGF_00950554	Haladaptatus	687.00	3.42	Excinuclease ABC subunit B
+PGF_00966992	Haladaptatus	65.00	0.00	hypothetical protein
+PGF_00976077	Haladaptatus	173.57	3.78	Archaeal transcription factor E
+PGF_00976124	Haladaptatus	356.57	26.81	hypothetical protein
+PGF_00979562	Haladaptatus	254.00	0.00	hypothetical protein
+PGF_01009289	Haladaptatus	366.86	4.56	BioD-like N-terminal domain of phosphotransacetylase
+PGF_01017516	Haladaptatus	157.00	0.00	hypothetical protein
+PGF_01018694	Haladaptatus	147.00	4.58	hypothetical protein
+PGF_01062308	Haladaptatus	370.29	24.82	Uncharacterized MFS-type transporter
+PGF_01070050	Haladaptatus	504.57	8.00	Phytoene dehydrogenase (EC 1.14.99.-)
+PGF_01070150	Haladaptatus	414.71	0.76	Uncharacterized MFS-type transporter
+PGF_01072724	Haladaptatus	259.00	0.00	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)
+PGF_01104399	Haladaptatus	276.00	6.00	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01147190	Haladaptatus	468.29	8.81	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01172431	Haladaptatus	94.00	0.00	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01221134	Haladaptatus	339.43	3.26	Renalase (EC 1.6.3.5), oxidases 1,2-dihydro- and 1,6-dihydro- beta-NAD(P)H isomers back to NAD(P)
+PGF_01404160	Haladaptatus	326.00	0.00	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01407825	Haladaptatus	382.43	84.77	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_01444546	Haladaptatus	92.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01513918	Haladaptatus	181.57	3.36	Adenylate cyclase (EC 4.6.1.1)
+PGF_01514006	Haladaptatus	172.14	1.77	Adenylate kinase isoenzyme 6 homolog FAP7, plays role in rRNA maturation
+PGF_01576148	Haladaptatus	153.00	0.00	transmembrane protein, distant homology with ydbS
+PGF_01604929	Haladaptatus	220.86	12.93	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01667671	Haladaptatus	188.00	10.58	Cytidylate kinase (EC 2.7.4.25)
+PGF_01674551	Haladaptatus	121.57	9.27	Glycine cleavage system H protein
+PGF_01734668	Haladaptatus	205.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Haladaptatus	262.00	0.00	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01814948	Haladaptatus	129.29	0.49	putative heat shock protein
+PGF_01823326	Haladaptatus	102.43	2.07	hypothetical protein
+PGF_01824081	Haladaptatus	332.43	5.22	hypothetical protein
+PGF_01827051	Haladaptatus	357.00	0.00	hypothetical protein
+PGF_01827116	Haladaptatus	187.14	11.64	hypothetical protein
+PGF_01828475	Haladaptatus	159.00	0.00	hypothetical protein
+PGF_01829683	Haladaptatus	115.00	0.00	hypothetical protein
+PGF_01830503	Haladaptatus	217.00	0.00	hypothetical protein
+PGF_01831824	Haladaptatus	237.14	3.29	hypothetical protein
+PGF_01831957	Haladaptatus	157.00	0.00	Pyruvoyl-dependent arginine decarboxylase (EC 4.1.1.19)
+PGF_01857135	Haladaptatus	110.86	1.95	hypothetical protein
+PGF_01861186	Haladaptatus	500.43	6.02	hypothetical protein
+PGF_01862642	Haladaptatus	624.71	199.44	hypothetical protein
+PGF_01862718	Haladaptatus	310.43	14.84	hypothetical protein
+PGF_01865415	Haladaptatus	249.14	16.55	hypothetical protein
+PGF_01877133	Haladaptatus	423.29	11.93	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01899917	Haladaptatus	515.00	0.00	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_01900807	Haladaptatus	286.71	2.56	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01979610	Haladaptatus	334.00	1.83	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK
+PGF_01981062	Haladaptatus	253.00	0.00	Coenzyme F420-0:L-glutamate ligase (EC 6.3.2.31) @ F420-1:L-glutamate ligase (EC 6.3.2.34)
+PGF_01984142	Haladaptatus	268.00	4.80	weak similarity to aminoglycoside N(3)-acetyltransferase
+PGF_02011760	Haladaptatus	271.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02029456	Haladaptatus	347.57	2.44	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02185217	Haladaptatus	432.00	0.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02254418	Haladaptatus	375.57	14.36	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57) @ Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_02277521	Haladaptatus	307.00	5.29	Serine/threonine-protein kinase RIO2 (EC 2.7.11.1)
+PGF_02278091	Haladaptatus	287.57	0.53	Serine/threonine-protein kinase RIO1 (EC 2.7.11.1)
+PGF_02278106	Haladaptatus	419.14	5.61	5'->3' exoribonuclease
+PGF_02278154	Haladaptatus	888.00	0.00	DNA double-strand break repair Rad50 ATPase
+PGF_02281258	Haladaptatus	185.00	6.19	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase (EC 2.7.7.67)
+PGF_02283727	Haladaptatus	199.14	4.88	Eukaryotic translation initiation factor 2 beta subunit
+PGF_02288748	Haladaptatus	159.71	1.60	YbaK/prolyl-tRNA synthetase associated region
+PGF_02346669	Haladaptatus	301.00	6.83	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02357230	Haladaptatus	174.29	3.25	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02358818	Haladaptatus	380.86	1.07	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_02473279	Haladaptatus	249.00	0.00	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02478305	Haladaptatus	452.14	74.14	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10) / conserved protein associated with acetyl-CoA C-acyltransferase and HMGCo
+PGF_02484797	Haladaptatus	118.00	0.00	hypothetical protein
+PGF_02484887	Haladaptatus	180.57	2.37	hypothetical protein
+PGF_02489591	Haladaptatus	198.57	0.98	Uncharacterized Nudix hydrolase NudL
+PGF_02512719	Haladaptatus	243.43	87.03	Na(+) H(+) antiporter subunit E
+PGF_02516909	Haladaptatus	402.43	0.98	Enolase (EC 4.2.1.11)
+PGF_02517245	Haladaptatus	364.43	85.84	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_02517281	Haladaptatus	233.14	0.38	SSU ribosomal protein S4e
+PGF_02578186	Haladaptatus	319.29	79.13	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02719231	Haladaptatus	121.00	13.47	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02740181	Haladaptatus	103.29	7.32	Na(+) H(+) antiporter subunit G
+PGF_02776739	Haladaptatus	139.71	6.80	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Haladaptatus	198.14	10.30	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02818638	Haladaptatus	460.57	5.29	Hemolysins and related proteins containing CBS domains
+PGF_02844091	Haladaptatus	257.14	8.78	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Haladaptatus	389.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866389	Haladaptatus	106.00	0.00	Ferredoxin
+PGF_02883702	Haladaptatus	326.29	0.49	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02884818	Haladaptatus	112.00	10.98	hypothetical protein
+PGF_02895443	Haladaptatus	58.43	0.53	hypothetical protein
+PGF_02901457	Haladaptatus	412.86	2.34	Nitrite reductase probable [NAD(P)H] subunit (EC 1.7.1.4)
+PGF_02923127	Haladaptatus	238.71	0.76	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02923360	Haladaptatus	151.57	0.98	Uncharacterized protein YuxK
+PGF_02925426	Haladaptatus	604.71	5.28	Uncharacterized protein MJ0971
+PGF_02928498	Haladaptatus	475.57	17.02	Na+/H+ antiporter NhaC
+PGF_02929332	Haladaptatus	293.71	10.24	FIG056164: rhomboid family serine protease
+PGF_02929701	Haladaptatus	187.86	6.07	hypothetical protein
+PGF_02931322	Haladaptatus	317.00	16.42	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02940065	Haladaptatus	159.29	3.45	hypothetical protein
+PGF_02940601	Haladaptatus	91.57	1.27	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_02956944	Haladaptatus	464.57	35.91	UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)
+PGF_02976089	Haladaptatus	205.57	18.78	hypothetical protein
+PGF_02989278	Haladaptatus	199.43	3.31	Archaetidylserine decarboxylase @ Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03013570	Haladaptatus	290.00	0.00	H/ACA ribonucleoprotein complex subunit CBF5
+PGF_03025044	Haladaptatus	177.00	0.00	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03057384	Haladaptatus	352.00	0.00	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03058234	Haladaptatus	455.00	10.47	D-aminoacyl-tRNA deacylase (EC 3.1.1.96), archaeal type
+PGF_03059922	Haladaptatus	100.43	0.98	A. fulgidus predicted coding region AF0281
+PGF_03073470	Haladaptatus	567.43	5.09	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03080445	Haladaptatus	426.86	1.57	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+PGF_03094332	Haladaptatus	419.00	0.00	Uncharacterized protein SSO0872
+PGF_03107265	Haladaptatus	525.14	25.08	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03116802	Haladaptatus	211.00	0.00	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03128193	Haladaptatus	356.00	0.00	Glutamate--cysteine ligase archaeal (EC 6.3.2.2)
+PGF_03129224	Haladaptatus	113.00	0.00	V-type ATP synthase subunit F (EC 3.6.3.14)
+PGF_03142222	Haladaptatus	171.00	2.65	hypothetical protein
+PGF_03144011	Haladaptatus	167.00	0.00	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03151521	Haladaptatus	455.29	17.11	Heme A synthase, compact archaeal variant cCtaA / Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_03152737	Haladaptatus	295.71	4.99	8-oxoguanine DNA glycosylase
+PGF_03152841	Haladaptatus	299.00	0.00	hypothetical protein
+PGF_03154343	Haladaptatus	128.29	0.49	Cytidine deaminase (EC 3.5.4.5)
+PGF_03186757	Haladaptatus	189.29	8.73	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+PGF_03213998	Haladaptatus	501.29	66.01	selenium binding protein
+PGF_03291914	Haladaptatus	128.29	3.40	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03440867	Haladaptatus	129.43	14.36	UPF0047 protein Bsu YugU
+PGF_03507859	Haladaptatus	338.00	14.14	Luciferase-like monooxygenase YhbW
+PGF_03518570	Haladaptatus	145.14	12.42	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03594062	Haladaptatus	366.29	7.72	hypothetical protein
+PGF_03609651	Haladaptatus	725.86	33.32	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03674165	Haladaptatus	310.14	7.56	1,2-phenylacetyl-CoA epoxidase, subunit A (EC 1.14.13.149)
+PGF_03683488	Haladaptatus	185.00	0.00	2'-5' RNA ligase
+PGF_03751823	Haladaptatus	220.29	2.87	Heat shock protein GrpE
+PGF_03752544	Haladaptatus	225.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03754184	Haladaptatus	112.57	11.00	Na(+) H(+) antiporter subunit C
+PGF_03778780	Haladaptatus	379.43	9.62	Signal recognition particle receptor FtsY
+PGF_03787622	Haladaptatus	416.86	78.79	DNA polymerase IV (EC 2.7.7.7)
+PGF_03801156	Haladaptatus	313.43	29.34	Cobalt-zinc-cadmium resistance protein CzcD
+PGF_03862500	Haladaptatus	209.86	24.19	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03958563	Haladaptatus	215.29	3.40	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04041316	Haladaptatus	980.00	0.00	Excinuclease ABC subunit A
+PGF_04047265	Haladaptatus	88.43	9.27	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04049355	Haladaptatus	112.43	4.39	hypothetical protein
+PGF_04049913	Haladaptatus	337.86	77.04	hypothetical protein
+PGF_04067971	Haladaptatus	93.14	1.46	hypothetical protein
+PGF_04076372	Haladaptatus	130.86	1.07	hypothetical protein
+PGF_04087297	Haladaptatus	129.43	14.64	hypothetical protein
+PGF_04089593	Haladaptatus	260.43	4.76	hypothetical protein
+PGF_04127376	Haladaptatus	284.86	1.46	Twin-arginine translocation protein TatC
+PGF_04131576	Haladaptatus	157.00	3.32	hypothetical protein
+PGF_04147121	Haladaptatus	511.29	0.49	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04151705	Haladaptatus	234.29	1.89	hypothetical protein
+PGF_04171616	Haladaptatus	148.71	8.69	Ribosomal RNA processing endonuclease Nob1
+PGF_04189945	Haladaptatus	207.43	15.57	Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)
+PGF_04236558	Haladaptatus	376.57	106.15	hypothetical protein
+PGF_04237128	Haladaptatus	370.57	54.05	hypothetical protein
+PGF_04253672	Haladaptatus	156.00	6.53	hypothetical protein
+PGF_04281788	Haladaptatus	127.57	24.42	hypothetical protein
+PGF_04294080	Haladaptatus	338.86	2.67	hypothetical protein
+PGF_04330631	Haladaptatus	72.14	2.27	hypothetical protein
+PGF_04333545	Haladaptatus	79.29	0.95	hypothetical protein
+PGF_04334937	Haladaptatus	81.57	5.86	hypothetical protein
+PGF_04342251	Haladaptatus	281.43	5.09	hypothetical protein
+PGF_04350324	Haladaptatus	303.00	0.00	hypothetical protein
+PGF_04358288	Haladaptatus	100.43	3.74	hypothetical protein
+PGF_04369550	Haladaptatus	190.00	0.00	hypothetical protein
+PGF_04379703	Haladaptatus	130.43	3.82	hypothetical protein
+PGF_04395505	Haladaptatus	310.29	0.95	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04410930	Haladaptatus	192.00	15.25	hypothetical protein
+PGF_04412513	Haladaptatus	77.71	13.05	hypothetical protein
+PGF_04417413	Haladaptatus	75.29	16.63	hypothetical protein
+PGF_04424328	Haladaptatus	331.71	0.95	hypothetical protein
+PGF_04428814	Haladaptatus	109.14	2.27	hypothetical protein
+PGF_04447326	Haladaptatus	99.86	8.13	hypothetical protein
+PGF_04459328	Haladaptatus	137.71	21.92	hypothetical protein
+PGF_04462576	Haladaptatus	596.14	31.37	hypothetical protein
+PGF_04477106	Haladaptatus	390.43	5.56	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04494845	Haladaptatus	215.14	10.96	hypothetical protein
+PGF_04495118	Haladaptatus	151.86	6.99	hypothetical protein
+PGF_04495738	Haladaptatus	160.14	6.09	hypothetical protein
+PGF_04502019	Haladaptatus	133.57	14.13	hypothetical protein
+PGF_04509052	Haladaptatus	509.14	12.86	hypothetical protein
+PGF_04513001	Haladaptatus	174.14	28.54	hypothetical protein
+PGF_04524168	Haladaptatus	106.00	0.00	hypothetical protein
+PGF_04531418	Haladaptatus	245.29	0.49	hypothetical protein
+PGF_04542490	Haladaptatus	171.00	0.00	hypothetical protein
+PGF_04543003	Haladaptatus	191.14	4.91	hypothetical protein
+PGF_04547945	Haladaptatus	58.71	0.49	hypothetical protein
+PGF_04557475	Haladaptatus	214.00	87.19	hypothetical protein
+PGF_04567092	Haladaptatus	80.14	5.24	hypothetical protein
+PGF_04576356	Haladaptatus	148.57	13.59	hypothetical protein
+PGF_04579890	Haladaptatus	303.14	38.86	hypothetical protein
+PGF_04598124	Haladaptatus	110.14	8.32	hypothetical protein
+PGF_04606599	Haladaptatus	338.00	0.00	hypothetical protein
+PGF_04629095	Haladaptatus	152.14	21.44	hypothetical protein
+PGF_04634562	Haladaptatus	255.14	25.42	hypothetical protein
+PGF_04636230	Haladaptatus	666.43	4.35	hypothetical protein
+PGF_04655199	Haladaptatus	204.29	0.76	hypothetical protein
+PGF_04662829	Haladaptatus	639.43	3.78	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04689637	Haladaptatus	210.29	5.79	hypothetical protein
+PGF_04691183	Haladaptatus	194.29	3.90	hypothetical protein
+PGF_04700234	Haladaptatus	293.86	12.88	hypothetical protein
+PGF_04714365	Haladaptatus	60.43	14.44	hypothetical protein
+PGF_04715031	Haladaptatus	99.43	20.28	hypothetical protein
+PGF_04718950	Haladaptatus	154.14	1.95	hypothetical protein
+PGF_04723542	Haladaptatus	272.00	10.07	hypothetical protein
+PGF_04737739	Haladaptatus	234.00	1.00	LSU ribosomal protein L32e
+PGF_04743739	Haladaptatus	94.00	0.00	hypothetical protein
+PGF_04747004	Haladaptatus	157.29	3.40	hypothetical protein
+PGF_04757308	Haladaptatus	677.00	2.31	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04763555	Haladaptatus	200.71	9.16	hypothetical protein
+PGF_04767924	Haladaptatus	211.29	18.04	hypothetical protein
+PGF_04800294	Haladaptatus	267.43	5.03	hypothetical protein
+PGF_04805812	Haladaptatus	113.43	1.99	hypothetical protein
+PGF_04810211	Haladaptatus	67.14	2.34	hypothetical protein
+PGF_04815798	Haladaptatus	329.29	3.90	Mevalonate kinase (EC 2.7.1.36)
+PGF_04827717	Haladaptatus	102.00	0.00	hypothetical protein
+PGF_04845452	Haladaptatus	201.86	11.71	hypothetical protein
+PGF_04846146	Haladaptatus	346.43	16.20	hypothetical protein
+PGF_04846590	Haladaptatus	325.71	0.49	Magnesium and cobalt transport protein CorA
+PGF_04862966	Haladaptatus	61.00	2.83	hypothetical protein
+PGF_04877076	Haladaptatus	707.43	0.98	hypothetical protein
+PGF_04932189	Haladaptatus	47.86	0.38	hypothetical protein
+PGF_04937110	Haladaptatus	143.29	20.69	hypothetical protein
+PGF_04940004	Haladaptatus	135.00	0.00	hypothetical protein
+PGF_04941538	Haladaptatus	616.71	0.49	hypothetical protein
+PGF_04948478	Haladaptatus	89.00	0.00	hypothetical protein
+PGF_04957293	Haladaptatus	104.00	15.56	hypothetical protein
+PGF_04963263	Haladaptatus	366.00	13.00	hypothetical protein
+PGF_04964219	Haladaptatus	130.86	0.38	hypothetical protein
+PGF_04974241	Haladaptatus	63.57	5.86	hypothetical protein
+PGF_04983732	Haladaptatus	101.43	3.05	hypothetical protein
+PGF_04992973	Haladaptatus	329.00	0.00	hypothetical protein
+PGF_05024543	Haladaptatus	136.00	0.00	hypothetical protein
+PGF_05028976	Haladaptatus	101.43	3.64	hypothetical protein
+PGF_05045294	Haladaptatus	58.00	0.00	hypothetical protein
+PGF_05046486	Haladaptatus	207.86	1.35	hypothetical protein
+PGF_05060147	Haladaptatus	73.71	4.79	hypothetical protein
+PGF_05073837	Haladaptatus	203.00	0.00	hypothetical protein
+PGF_05076022	Haladaptatus	436.29	1.89	Nucleoside ABC transporter, permease protein 1
+PGF_05083516	Haladaptatus	132.86	37.28	hypothetical protein
+PGF_05111798	Haladaptatus	657.00	4.58	hypothetical protein
+PGF_05111929	Haladaptatus	471.14	2.04	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05116907	Haladaptatus	181.14	35.41	hypothetical protein
+PGF_05122753	Haladaptatus	345.86	13.93	hypothetical protein
+PGF_05146958	Haladaptatus	93.00	0.00	hypothetical protein
+PGF_05205700	Haladaptatus	161.71	0.49	hypothetical protein
+PGF_05222758	Haladaptatus	127.29	11.69	hypothetical protein
+PGF_05229330	Haladaptatus	123.71	7.72	hypothetical protein
+PGF_05270681	Haladaptatus	120.00	2.77	hypothetical protein
+PGF_05273291	Haladaptatus	251.57	7.02	hypothetical protein
+PGF_05304349	Haladaptatus	594.71	1.60	hypothetical protein
+PGF_05312744	Haladaptatus	209.29	9.76	hypothetical protein
+PGF_05315672	Haladaptatus	256.29	0.49	hypothetical protein
+PGF_05315853	Haladaptatus	148.00	4.80	hypothetical protein
+PGF_05323722	Haladaptatus	212.14	64.89	hypothetical protein
+PGF_05328834	Haladaptatus	270.29	13.17	hypothetical protein
+PGF_05341686	Haladaptatus	96.00	0.00	hypothetical protein
+PGF_05345077	Haladaptatus	82.00	0.00	hypothetical protein
+PGF_05365090	Haladaptatus	223.43	10.00	NADH oxidase
+PGF_05371809	Haladaptatus	244.00	24.17	hypothetical protein
+PGF_05395465	Haladaptatus	127.57	7.81	hypothetical protein
+PGF_05403537	Haladaptatus	262.57	6.43	hypothetical protein
+PGF_05409808	Haladaptatus	79.71	9.83	hypothetical protein
+PGF_05412667	Haladaptatus	234.86	3.58	hypothetical protein
+PGF_05419410	Haladaptatus	135.86	9.70	hypothetical protein
+PGF_05419478	Haladaptatus	67.00	12.37	hypothetical protein
+PGF_05424184	Haladaptatus	522.14	10.30	Na(+) H(+) antiporter subunit D
+PGF_05427001	Haladaptatus	131.00	6.83	hypothetical protein
+PGF_05429097	Haladaptatus	89.71	6.87	hypothetical protein
+PGF_05434438	Haladaptatus	176.43	24.89	hypothetical protein
+PGF_05439724	Haladaptatus	684.71	2.06	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05452825	Haladaptatus	247.00	7.94	hypothetical protein
+PGF_05458554	Haladaptatus	122.00	0.00	hypothetical protein
+PGF_05470817	Haladaptatus	402.00	13.44	hypothetical protein
+PGF_05474407	Haladaptatus	118.43	3.05	hypothetical protein
+PGF_05476996	Haladaptatus	271.43	0.98	hypothetical protein
+PGF_05483426	Haladaptatus	226.00	0.00	hypothetical protein
+PGF_05495823	Haladaptatus	150.00	13.23	hypothetical protein
+PGF_05509379	Haladaptatus	263.57	1.90	Efflux ABC transporter, permease protein
+PGF_05541442	Haladaptatus	182.71	2.93	hypothetical protein
+PGF_05543910	Haladaptatus	319.00	0.00	hypothetical protein
+PGF_05547788	Haladaptatus	200.86	1.95	hypothetical protein
+PGF_05560155	Haladaptatus	73.71	7.04	hypothetical protein
+PGF_05560886	Haladaptatus	266.86	1.68	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581946	Haladaptatus	249.00	0.00	hypothetical protein
+PGF_05598173	Haladaptatus	351.29	16.11	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05598228	Haladaptatus	84.14	4.22	hypothetical protein
+PGF_05600752	Haladaptatus	71.29	0.76	hypothetical protein
+PGF_05631931	Haladaptatus	352.43	2.07	hypothetical protein
+PGF_05635668	Haladaptatus	61.00	0.00	hypothetical protein
+PGF_05657253	Haladaptatus	227.43	0.98	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05693615	Haladaptatus	147.43	0.53	hypothetical protein
+PGF_05698887	Haladaptatus	298.71	6.73	hypothetical protein
+PGF_05702336	Haladaptatus	202.57	6.43	hypothetical protein
+PGF_05724659	Haladaptatus	366.29	3.40	hypothetical protein
+PGF_05758637	Haladaptatus	119.71	1.60	hypothetical protein
+PGF_05789285	Haladaptatus	171.57	2.07	hypothetical protein
+PGF_05792381	Haladaptatus	130.71	0.49	hypothetical protein
+PGF_05804724	Haladaptatus	200.43	8.20	hypothetical protein
+PGF_05824250	Haladaptatus	136.00	0.00	hypothetical protein
+PGF_05861197	Haladaptatus	259.71	4.15	hypothetical protein
+PGF_05873749	Haladaptatus	89.00	0.00	hypothetical protein
+PGF_05874923	Haladaptatus	159.71	1.60	hypothetical protein
+PGF_05876155	Haladaptatus	115.86	5.96	hypothetical protein
+PGF_05885498	Haladaptatus	68.43	9.07	hypothetical protein
+PGF_05891424	Haladaptatus	229.00	8.77	hypothetical protein
+PGF_05899417	Haladaptatus	189.71	2.87	hypothetical protein
+PGF_05902470	Haladaptatus	418.86	41.00	hypothetical protein
+PGF_05909098	Haladaptatus	71.14	4.88	hypothetical protein
+PGF_05915133	Haladaptatus	539.57	155.47	hypothetical protein
+PGF_05919728	Haladaptatus	182.29	5.88	hypothetical protein
+PGF_05922171	Haladaptatus	198.71	1.89	hypothetical protein
+PGF_05967231	Haladaptatus	377.00	18.52	hypothetical protein
+PGF_05971611	Haladaptatus	387.00	3.11	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05972145	Haladaptatus	113.86	10.21	hypothetical protein
+PGF_05997377	Haladaptatus	289.71	0.49	hypothetical protein
+PGF_06000127	Haladaptatus	471.57	49.89	hypothetical protein
+PGF_06003541	Haladaptatus	62.00	0.00	hypothetical protein
+PGF_06010994	Haladaptatus	113.00	0.00	hypothetical protein
+PGF_06015045	Haladaptatus	57.14	1.46	hypothetical protein
+PGF_06016555	Haladaptatus	188.71	0.95	hypothetical protein
+PGF_06029166	Haladaptatus	219.14	10.61	hypothetical protein
+PGF_06045978	Haladaptatus	59.29	9.76	hypothetical protein
+PGF_06049355	Haladaptatus	428.86	1.21	hypothetical protein
+PGF_06069294	Haladaptatus	229.29	7.76	hypothetical protein
+PGF_06078838	Haladaptatus	398.00	7.33	hypothetical protein
+PGF_06097513	Haladaptatus	331.86	17.33	hypothetical protein
+PGF_06115398	Haladaptatus	76.00	0.00	hypothetical protein
+PGF_06121105	Haladaptatus	347.29	14.01	hypothetical protein
+PGF_06145146	Haladaptatus	264.00	2.65	hypothetical protein
+PGF_06149634	Haladaptatus	161.57	3.74	hypothetical protein
+PGF_06171104	Haladaptatus	92.00	0.00	hypothetical protein
+PGF_06172048	Haladaptatus	132.29	13.33	hypothetical protein
+PGF_06173278	Haladaptatus	215.29	3.90	hypothetical protein
+PGF_06185671	Haladaptatus	102.86	2.67	hypothetical protein
+PGF_06211427	Haladaptatus	282.43	0.53	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06223736	Haladaptatus	182.71	1.70	hypothetical protein
+PGF_06230969	Haladaptatus	474.14	0.38	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06252850	Haladaptatus	98.86	6.26	hypothetical protein
+PGF_06271344	Haladaptatus	59.29	3.45	hypothetical protein
+PGF_06273748	Haladaptatus	267.00	0.00	hypothetical protein
+PGF_06280163	Haladaptatus	132.43	1.81	hypothetical protein
+PGF_06292534	Haladaptatus	111.00	0.00	hypothetical protein
+PGF_06293326	Haladaptatus	55.43	1.62	hypothetical protein
+PGF_06298166	Haladaptatus	93.57	1.13	hypothetical protein
+PGF_06298679	Haladaptatus	220.71	29.99	hypothetical protein
+PGF_06302506	Haladaptatus	244.14	5.67	hypothetical protein
+PGF_06318952	Haladaptatus	280.43	6.43	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06330508	Haladaptatus	452.86	34.83	hypothetical protein
+PGF_06330981	Haladaptatus	194.14	23.85	hypothetical protein
+PGF_06366779	Haladaptatus	154.71	0.49	hypothetical protein
+PGF_06369113	Haladaptatus	123.00	0.00	hypothetical protein
+PGF_06376447	Haladaptatus	50.29	0.49	hypothetical protein
+PGF_06380479	Haladaptatus	184.86	4.22	hypothetical protein
+PGF_06380547	Haladaptatus	103.43	3.82	hypothetical protein
+PGF_06386795	Haladaptatus	210.71	30.48	hypothetical protein
+PGF_06402073	Haladaptatus	138.71	1.38	hypothetical protein
+PGF_06408796	Haladaptatus	106.00	0.00	hypothetical protein
+PGF_06415994	Haladaptatus	54.86	4.45	hypothetical protein
+PGF_06426254	Haladaptatus	317.14	17.80	beta-ribofuranosylaminobenzene 5'-phosphate synthase (EC 2.4.2.54)
+PGF_06447349	Haladaptatus	751.29	0.49	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06451457	Haladaptatus	102.00	3.74	hypothetical protein
+PGF_06455222	Haladaptatus	382.43	120.57	Coenzyme A ligase
+PGF_06461313	Haladaptatus	161.29	19.33	hypothetical protein
+PGF_06461498	Haladaptatus	265.00	0.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06462291	Haladaptatus	472.43	112.06	hypothetical protein
+PGF_06481336	Haladaptatus	122.29	2.36	hypothetical protein
+PGF_06510300	Haladaptatus	79.71	0.49	hypothetical protein
+PGF_06510495	Haladaptatus	257.86	1.46	hypothetical protein
+PGF_06512786	Haladaptatus	183.29	7.41	hypothetical protein
+PGF_06522139	Haladaptatus	700.00	0.00	Acetyl-CoA synthetase (ADP-forming) alpha and beta chains, putative
+PGF_06522876	Haladaptatus	305.29	13.07	hypothetical protein
+PGF_06523131	Haladaptatus	93.14	1.46	hypothetical protein
+PGF_06538014	Haladaptatus	508.00	2.00	hypothetical protein
+PGF_06541693	Haladaptatus	125.00	0.00	hypothetical protein
+PGF_06566385	Haladaptatus	299.57	11.22	hypothetical protein
+PGF_06599818	Haladaptatus	166.86	5.24	hypothetical protein
+PGF_06602398	Haladaptatus	55.00	0.00	hypothetical protein
+PGF_06607041	Haladaptatus	55.00	0.00	hypothetical protein
+PGF_06621176	Haladaptatus	45.00	0.00	hypothetical protein
+PGF_06622556	Haladaptatus	52.29	6.34	hypothetical protein
+PGF_06630544	Haladaptatus	145.00	0.00	hypothetical protein
+PGF_06635282	Haladaptatus	172.86	4.06	hypothetical protein
+PGF_06642763	Haladaptatus	395.43	11.00	hypothetical protein
+PGF_06644010	Haladaptatus	353.71	38.72	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06647570	Haladaptatus	114.29	5.06	hypothetical protein
+PGF_06653075	Haladaptatus	117.86	20.46	hypothetical protein
+PGF_06660812	Haladaptatus	199.71	1.89	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06680131	Haladaptatus	69.29	0.76	hypothetical protein
+PGF_06684909	Haladaptatus	219.71	0.49	hypothetical protein
+PGF_06726518	Haladaptatus	169.57	4.39	hypothetical protein
+PGF_06731999	Haladaptatus	55.29	3.40	hypothetical protein
+PGF_06760684	Haladaptatus	50.86	8.49	hypothetical protein
+PGF_06761397	Haladaptatus	474.86	13.66	hypothetical protein
+PGF_06786295	Haladaptatus	261.14	24.50	hypothetical protein
+PGF_06791448	Haladaptatus	279.00	5.20	hypothetical protein
+PGF_06800428	Haladaptatus	86.71	1.11	hypothetical protein
+PGF_06812893	Haladaptatus	82.00	0.00	hypothetical protein
+PGF_06821068	Haladaptatus	550.71	0.49	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+PGF_06920681	Haladaptatus	139.00	8.74	Gas vesicle protein GvpJ
+PGF_06959716	Haladaptatus	182.86	5.49	hypothetical protein
+PGF_06983786	Haladaptatus	124.43	5.41	hypothetical protein
+PGF_07511808	Haladaptatus	331.43	35.53	hypothetical protein
+PGF_08038361	Haladaptatus	280.00	82.83	Putative oxidoreductase
+PGF_08046522	Haladaptatus	115.00	0.00	Glutaredoxin-related protein
+PGF_08072104	Haladaptatus	549.86	18.90	Electron transfer flavoprotein-quinone oxidoreductase
+PGF_08085026	Haladaptatus	228.29	6.18	hypothetical protein
+PGF_08130494	Haladaptatus	401.71	18.32	hypothetical protein
+PGF_08137358	Haladaptatus	126.14	1.95	hypothetical protein
+PGF_08147962	Haladaptatus	241.43	0.53	hypothetical protein
+PGF_08152615	Haladaptatus	239.57	0.53	hypothetical protein
+PGF_08158738	Haladaptatus	315.00	1.73	hypothetical protein
+PGF_08163050	Haladaptatus	383.00	0.00	Acetyl-CoA C-acyltransferase (EC 2.3.1.9)

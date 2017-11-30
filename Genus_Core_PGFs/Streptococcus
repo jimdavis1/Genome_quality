@@ -1,0 +1,655 @@
+PGF_00000196	Streptococcus	363.23	21.63	FIG007079: UPF0348 protein family
+PGF_00000416	Streptococcus	384.44	29.49	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001028	Streptococcus	421.35	41.43	Uncharacterized zinc protease YmfH
+PGF_00001219	Streptococcus	104.94	4.46	FIG009688: Thioredoxin
+PGF_00001745	Streptococcus	114.76	3.21	FIG01114333: hypothetical protein
+PGF_00002970	Streptococcus	246.08	15.47	FIG145533: Methyltransferase (EC 2.1.1.-)
+PGF_00003314	Streptococcus	255.96	11.12	ABC transporter, ATP-binding protein
+PGF_00003444	Streptococcus	130.45	5.59	FIG107367: tRNA-binding protein
+PGF_00003516	Streptococcus	263.51	14.79	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004728	Streptococcus	546.55	41.18	Fibronectin/fibrinogen-binding protein
+PGF_00005241	Streptococcus	345.77	21.93	ABC transporter, permease protein EscB
+PGF_00005853	Streptococcus	266.72	27.77	UPF0703 protein YcgQ
+PGF_00006359	Streptococcus	293.50	15.79	Fructokinase (EC 2.7.1.4)
+PGF_00006394	Streptococcus	291.86	14.66	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006699	Streptococcus	164.84	5.73	GAF domain-containing proteins
+PGF_00006935	Streptococcus	512.73	50.38	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Streptococcus	368.99	22.73	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Streptococcus	433.05	29.20	GTP-binding protein EngA
+PGF_00007026	Streptococcus	195.31	6.45	GTP-binding protein EngB
+PGF_00007027	Streptococcus	297.94	15.10	GTP-binding protein Era
+PGF_00007028	Streptococcus	406.43	37.61	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Streptococcus	611.56	43.42	GTP-binding protein TypA/BipA
+PGF_00007045	Streptococcus	260.94	11.99	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Streptococcus	452.38	40.75	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Streptococcus	287.47	17.47	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007479	Streptococcus	119.52	3.75	General stress protein 13
+PGF_00007632	Streptococcus	315.01	16.29	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007806	Streptococcus	529.82	46.20	Glucan 1,6-alpha-glucosidase (EC 3.2.1.70)
+PGF_00007844	Streptococcus	318.10	19.16	Glucokinase (EC 2.7.1.2)
+PGF_00007988	Streptococcus	445.27	34.70	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Streptococcus	433.78	32.21	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008106	Streptococcus	262.71	16.32	Glutamate racemase (EC 5.1.1.3)
+PGF_00008258	Streptococcus	445.05	30.32	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008269	Streptococcus	192.93	12.21	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008337	Streptococcus	480.10	41.50	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008611	Streptococcus	336.86	17.35	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Streptococcus	235.73	13.53	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008856	Streptococcus	363.79	28.24	Glycine/D-amino acid oxidases family
+PGF_00009500	Streptococcus	178.62	15.23	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Streptococcus	303.31	15.90	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Streptococcus	672.72	51.88	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Streptococcus	246.19	11.62	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Streptococcus	732.03	60.84	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Streptococcus	207.74	7.23	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Streptococcus	309.45	17.14	HPr kinase/phosphorylase
+PGF_00011081	Streptococcus	790.44	61.09	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011098	Streptococcus	385.95	25.96	Helicase loader DnaB
+PGF_00011471	Streptococcus	215.08	7.95	Hemolysin III
+PGF_00011953	Streptococcus	136.55	3.00	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00012264	Streptococcus	326.00	18.43	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012652	Streptococcus	174.92	5.86	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00012930	Streptococcus	395.88	17.53	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+PGF_00013003	Streptococcus	625.88	59.36	Bis-ABC ATPase YheS
+PGF_00013244	Streptococcus	180.74	9.01	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013255	Streptococcus	124.24	2.46	Hypothetical protein SP1558
+PGF_00013283	Streptococcus	221.56	14.87	UPF0001 protein YggS
+PGF_00013347	Streptococcus	88.08	2.08	UPF0297 protein YrzL
+PGF_00013492	Streptococcus	179.25	9.07	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00014264	Streptococcus	267.94	25.90	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014311	Streptococcus	488.16	37.57	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014678	Streptococcus	206.76	8.64	Integral membrane protein
+PGF_00015039	Streptococcus	236.31	15.72	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Streptococcus	65.96	1.18	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Streptococcus	176.79	10.68	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015255	Streptococcus	240.48	11.55	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015259	Streptococcus	290.87	14.44	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Streptococcus	255.63	13.57	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Streptococcus	466.42	36.39	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Streptococcus	418.22	23.02	Iron-sulfur cluster assembly protein SufD
+PGF_00015718	Streptococcus	915.94	101.50	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015737	Streptococcus	336.35	17.88	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00016046	Streptococcus	317.45	17.28	L-asparaginase (EC 3.5.1.1)
+PGF_00016328	Streptococcus	165.48	6.22	LSU ribosomal protein L10p (P0)
+PGF_00016338	Streptococcus	405.99	28.48	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Streptococcus	121.91	2.45	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Streptococcus	145.86	3.48	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Streptococcus	136.85	3.58	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Streptococcus	127.70	4.17	LSU ribosomal protein L17p
+PGF_00016353	Streptococcus	117.94	3.30	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Streptococcus	227.86	13.12	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Streptococcus	118.88	3.23	LSU ribosomal protein L20p
+PGF_00016368	Streptococcus	113.90	2.16	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Streptococcus	98.05	1.56	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Streptococcus	100.95	2.01	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Streptococcus	96.93	1.66	LSU ribosomal protein L27p
+PGF_00016393	Streptococcus	276.19	12.27	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Streptococcus	60.03	1.33	LSU ribosomal protein L30p (L7e)
+PGF_00016409	Streptococcus	59.98	0.61	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Streptococcus	49.04	5.08	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Streptococcus	44.08	0.44	LSU ribosomal protein L34p
+PGF_00016423	Streptococcus	65.93	0.75	LSU ribosomal protein L35p
+PGF_00016431	Streptococcus	207.60	7.22	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Streptococcus	206.59	7.03	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Streptococcus	179.71	5.30	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Streptococcus	177.74	5.25	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Streptococcus	121.44	4.72	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Streptococcus	149.40	6.97	LSU ribosomal protein L9p
+PGF_00016739	Streptococcus	309.17	30.11	Late competence protein ComGA, access of DNA to ComEA
+PGF_00016750	Streptococcus	292.54	26.79	Late competence protein ComGB, access of DNA to ComEA
+PGF_00018363	Streptococcus	134.20	8.16	MORN motif family protein
+PGF_00019063	Streptococcus	746.00	59.75	Maltodextrin phosphorylase (EC 2.4.1.1)
+PGF_00019100	Streptococcus	328.11	22.34	Maltose operon transcriptional repressor MalR, LacI family
+PGF_00019221	Streptococcus	1189.06	156.04	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Streptococcus	310.31	11.58	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019307	Streptococcus	311.04	24.99	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00020361	Streptococcus	164.69	4.67	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Streptococcus	284.56	15.08	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020739	Streptococcus	314.93	17.02	Methionine biosynthesis and transport regulator MtaR, LysR family
+PGF_00020984	Streptococcus	288.58	17.40	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021968	Streptococcus	211.08	26.09	Mn-dependent transcriptional regulator MntR
+PGF_00022872	Streptococcus	423.64	26.40	Multi antimicrobial extrusion (MATE) family transporter
+PGF_00023476	Streptococcus	154.67	6.86	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023478	Streptococcus	125.99	30.30	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Streptococcus	329.44	37.45	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00024308	Streptococcus	272.61	14.42	NAD synthetase (EC 6.3.1.5)
+PGF_00024478	Streptococcus	333.73	18.76	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024567	Streptococcus	394.12	23.84	Acetate kinase (EC 2.7.2.1)
+PGF_00024610	Streptococcus	455.93	24.88	NADH peroxidase (EC 1.11.1.1)
+PGF_00025409	Streptococcus	244.90	11.82	Negative regulator of genetic competence MecA
+PGF_00025422	Streptococcus	134.95	9.76	Negative transcriptional regulator-copper transport operon
+PGF_00025445	Streptococcus	625.83	44.36	Neutral endopeptidase O (EC 3.4.24.-)
+PGF_00025562	Streptococcus	187.46	9.88	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Streptococcus	481.48	37.44	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026279	Streptococcus	254.70	12.80	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026300	Streptococcus	253.38	18.93	Novel pyridoxal kinase, thiD family (EC 2.7.1.35)
+PGF_00026453	Streptococcus	286.96	15.03	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00027563	Streptococcus	101.60	2.99	Ortholog of S. aureus MRSA252 (BX571856) SAR1694
+PGF_00029752	Streptococcus	717.61	65.93	PTS system, maltose and glucose-specific IIC component / PTS system, maltose and glucose-specific IIB component (EC 2.7.1.208) / PTS system, maltose and glucose-specific IIA component
+PGF_00029812	Streptococcus	328.60	15.84	PTS system, mannose-specific IIA component (EC 2.7.1.191) / PTS system, mannose-specific IIB component (EC 2.7.1.191)
+PGF_00029921	Streptococcus	304.97	14.43	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Streptococcus	357.07	21.92	Peptide chain release factor 1
+PGF_00030643	Streptococcus	509.93	39.34	Peptide chain release factor 3
+PGF_00030720	Streptococcus	244.08	13.42	Acyl-ACP thioesterase
+PGF_00030776	Streptococcus	247.58	13.97	Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00030978	Streptococcus	391.38	52.74	ABC transporter, RND-adapter-like protein
+PGF_00033095	Streptococcus	781.72	108.54	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033197	Streptococcus	322.90	22.17	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Streptococcus	326.78	20.21	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Streptococcus	328.81	21.79	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Streptococcus	326.43	21.28	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Streptococcus	886.53	105.45	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033423	Streptococcus	569.10	48.59	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Streptococcus	646.86	68.50	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033479	Streptococcus	560.51	58.92	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Streptococcus	395.91	25.27	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Streptococcus	229.14	11.71	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033555	Streptococcus	205.37	14.49	Phosphoglycerate mutase family 5
+PGF_00033877	Streptococcus	161.13	10.31	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033900	Streptococcus	228.61	12.21	Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_00034486	Streptococcus	596.38	50.28	Acyltransferase family
+PGF_00034531	Streptococcus	201.57	10.35	Pneumococcal vaccine antigen A homolog
+PGF_00034776	Streptococcus	708.50	117.98	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Streptococcus	171.15	6.17	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035370	Streptococcus	215.66	43.24	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035752	Streptococcus	435.70	29.83	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036138	Streptococcus	91.36	2.41	Predicted nucleoside phosphatase
+PGF_00037588	Streptococcus	613.32	38.95	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037937	Streptococcus	111.48	3.58	Protein PhnA
+PGF_00038255	Streptococcus	76.68	1.32	Protein of unknown function DUF1447
+PGF_00038619	Streptococcus	245.39	9.57	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038927	Streptococcus	321.72	21.57	Pseudouridylate synthases, 23S RNA-specific
+PGF_00038971	Streptococcus	272.85	12.79	Pur operon repressor PurR
+PGF_00038989	Streptococcus	267.97	13.83	Purine nucleoside phosphorylase (EC 2.4.2.1) @ N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1)
+PGF_00040464	Streptococcus	383.99	35.14	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040578	Streptococcus	257.61	14.43	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Streptococcus	129.01	4.05	Alkaline shock protein
+PGF_00041788	Streptococcus	146.15	5.37	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041946	Streptococcus	332.47	29.30	Putative membrane protein YeiH
+PGF_00043457	Streptococcus	122.57	3.87	Putative regulator of the mannose operon, ManO
+PGF_00043821	Streptococcus	384.67	27.26	Putative ribosomal RNA large subunit methyltransferase YwbD
+PGF_00045991	Streptococcus	496.99	34.60	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046197	Streptococcus	271.17	11.75	RNA binding methyltransferase FtsJ like
+PGF_00047078	Streptococcus	383.18	24.97	RecA protein
+PGF_00047095	Streptococcus	783.71	81.09	RecD-like DNA helicase YrrC
+PGF_00047155	Streptococcus	212.21	9.74	Redox-sensing transcriptional repressor Rex
+PGF_00047897	Streptococcus	228.29	9.97	Response regulator CsrR
+PGF_00048556	Streptococcus	256.59	16.98	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048557	Streptococcus	292.74	23.23	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048564	Streptococcus	555.45	38.23	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PGF_00048566	Streptococcus	186.05	11.30	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048594	Streptococcus	307.79	14.93	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048627	Streptococcus	715.96	102.50	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048643	Streptococcus	158.07	6.08	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048829	Streptococcus	239.65	10.57	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Streptococcus	313.93	22.29	Ribosomal protein L11 methyltransferase
+PGF_00048917	Streptococcus	181.15	9.49	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Streptococcus	184.61	6.64	Ribosome recycling factor
+PGF_00048928	Streptococcus	290.81	13.68	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Streptococcus	88.41	2.85	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Streptococcus	116.04	3.38	Ribosome-binding factor A
+PGF_00049362	Streptococcus	340.67	17.56	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Streptococcus	159.71	5.61	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049827	Streptococcus	288.83	15.38	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Streptococcus	101.97	1.08	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Streptococcus	126.95	1.91	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Streptococcus	136.73	4.65	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Streptococcus	120.90	2.69	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Streptococcus	88.99	2.61	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Streptococcus	89.91	2.63	SSU ribosomal protein S16p
+PGF_00049854	Streptococcus	85.96	1.22	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Streptococcus	78.97	1.06	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Streptococcus	92.53	3.81	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Streptococcus	216.60	7.32	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Streptococcus	202.15	10.04	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Streptococcus	163.84	4.08	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Streptococcus	95.85	1.89	SSU ribosomal protein S6p
+PGF_00049904	Streptococcus	155.17	6.61	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Streptococcus	131.75	4.38	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Streptococcus	128.31	12.46	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Streptococcus	239.82	9.73	Segregation and condensation protein A
+PGF_00050586	Streptococcus	330.81	20.05	Sensor histidine kinase VraS
+PGF_00051108	Streptococcus	570.00	43.25	Septation ring formation regulator EzrA
+PGF_00051525	Streptococcus	421.24	28.69	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051550	Streptococcus	285.15	12.96	Shikimate/quinate 5-dehydrogenase I beta (EC 1.1.1.282)
+PGF_00052218	Streptococcus	110.24	3.21	Signal recognition particle associated protein
+PGF_00052238	Streptococcus	517.85	37.81	Signal recognition particle protein Ffh
+PGF_00052685	Streptococcus	296.43	14.60	Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YjbO type
+PGF_00052705	Streptococcus	140.66	5.11	LSU ribosomal protein L11p (L12e)
+PGF_00054235	Streptococcus	460.70	38.83	Streptococcal lipoprotein rotamase A; Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_00054381	Streptococcus	175.28	10.12	Substrate-specific component NiaX of predicted niacin ECF transporter
+PGF_00054388	Streptococcus	186.94	9.12	Substrate-specific component PanT of predicted pantothenate ECF transporter
+PGF_00054403	Streptococcus	169.82	7.66	Substrate-specific component QueT (COG4708) of predicted queuosine-regulated ECF transporter
+PGF_00054820	Streptococcus	264.19	25.31	Sugar phosphatase YidA (EC 3.1.3.23)
+PGF_00055448	Streptococcus	111.93	3.03	Anaerobic ribonucleoside-triphosphate reductase (EC 1.17.4.2)
+PGF_00055671	Streptococcus	406.79	26.49	TPR-repeat-containing protein
+PGF_00056872	Streptococcus	194.77	9.10	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Streptococcus	211.23	8.79	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Streptococcus	278.22	13.02	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057270	Streptococcus	806.22	63.17	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057383	Streptococcus	260.68	11.49	Trans-2,cis-3-Decenoyl-ACP isomerase
+PGF_00057485	Streptococcus	377.45	22.19	Transcription termination protein NusA
+PGF_00057488	Streptococcus	140.74	4.18	Transcription termination protein NusB
+PGF_00057696	Streptococcus	158.41	9.78	Transcriptional regulator
+PGF_00058673	Streptococcus	132.67	8.13	Transcriptional regulator SpxA1
+PGF_00058674	Streptococcus	131.74	4.60	Transcriptional regulator SpxA2
+PGF_00058776	Streptococcus	141.11	14.51	Transcriptional regulator of fatty acid biosynthesis FabT
+PGF_00060185	Streptococcus	236.37	15.49	Transcriptional regulatory protein YeeN
+PGF_00060261	Streptococcus	169.47	16.36	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060280	Streptococcus	244.35	18.51	Transcriptional repressor of the fructose operon, DeoR family
+PGF_00060409	Streptococcus	686.42	56.63	Translation elongation factor G
+PGF_00060414	Streptococcus	599.00	62.08	Translation elongation factor LepA
+PGF_00060421	Streptococcus	185.55	5.66	Translation elongation factor P
+PGF_00060427	Streptococcus	343.48	22.75	Translation elongation factor Ts
+PGF_00060428	Streptococcus	394.64	29.79	Translation elongation factor Tu
+PGF_00060431	Streptococcus	71.98	0.90	Translation initiation factor 1
+PGF_00060478	Streptococcus	182.81	11.59	Translation initiation factor 3
+PGF_00061826	Streptococcus	254.87	26.56	Tributyrin esterase
+PGF_00061922	Streptococcus	404.36	25.16	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062045	Streptococcus	338.90	21.15	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062168	Streptococcus	224.08	12.38	Two component system response regulator CiaR
+PGF_00062171	Streptococcus	441.65	25.14	Two component system sensor histidine kinase CiaH (EC 2.7.3.-)
+PGF_00062172	Streptococcus	209.89	10.47	Two component transcriptional regulator VraR
+PGF_00063867	Streptococcus	243.56	11.32	Site-specific tyrosine recombinase XerD
+PGF_00063916	Streptococcus	415.93	25.24	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Streptococcus	303.10	16.49	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Streptococcus	350.94	24.38	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Streptococcus	439.66	36.65	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064032	Streptococcus	477.82	33.75	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7)
+PGF_00064270	Streptococcus	239.02	15.25	UPF0246 protein YaaA
+PGF_00065887	Streptococcus	250.76	10.10	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Streptococcus	212.72	11.84	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Streptococcus	172.64	7.34	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Streptococcus	216.86	10.48	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Streptococcus	210.45	10.32	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066453	Streptococcus	866.56	105.97	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Streptococcus	445.09	26.71	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066880	Streptococcus	358.52	19.29	Xaa-Pro dipeptidase (EC 3.4.13.9)
+PGF_00066893	Streptococcus	750.25	79.17	Xaa-Pro dipeptidyl-peptidase (EC 3.4.14.11)
+PGF_00066906	Streptococcus	306.64	13.53	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Streptococcus	423.43	37.03	Uracil permease @ Uracil:proton symporter UraA
+PGF_00067435	Streptococcus	233.94	8.31	Zinc ABC transporter, ATP-binding protein AdcC
+PGF_00067449	Streptococcus	267.90	9.89	Zinc ABC transporter, permease protein AdcB
+PGF_00067459	Streptococcus	495.64	47.46	Zinc ABC transporter, substrate-binding lipoprotein AdcA
+PGF_00067554	Streptococcus	472.74	48.23	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068903	Streptococcus	71.55	3.46	bacterial seryl-tRNA synthetase related
+PGF_00070432	Streptococcus	430.04	38.32	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00072393	Streptococcus	318.14	20.57	Bactoprenol glucosyl transferase (EC 2.4.1.-); Glycosyltransferase, group 2 family protein
+PGF_00084324	Streptococcus	277.11	22.78	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00129918	Streptococcus	46.01	1.37	hypothetical protein
+PGF_00144272	Streptococcus	167.19	7.38	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00169888	Streptococcus	99.92	4.72	hypothetical protein
+PGF_00194052	Streptococcus	112.12	10.51	Transcriptional regulator
+PGF_00261173	Streptococcus	370.71	24.14	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00274012	Streptococcus	88.36	3.79	Veg protein
+PGF_00285620	Streptococcus	195.43	7.75	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00352513	Streptococcus	52.66	2.62	hypothetical protein
+PGF_00404078	Streptococcus	160.97	4.88	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Streptococcus	452.70	27.77	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Streptococcus	308.83	19.55	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404809	Streptococcus	443.66	30.93	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00406573	Streptococcus	262.89	12.38	Putative phosphotransferase YtmP
+PGF_00409578	Streptococcus	230.66	14.97	putative membrane protein
+PGF_00411117	Streptococcus	302.68	36.70	putative thiamine biosynthesis lipoprotein
+PGF_00411946	Streptococcus	99.25	2.27	Ribosomal protein L7Ae family protein YlxQ
+PGF_00413189	Streptococcus	225.02	10.35	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Streptococcus	170.84	9.58	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Streptococcus	239.11	15.05	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413262	Streptococcus	430.91	30.46	tRNA/rRNA cytosine-C5-methyltransferase
+PGF_00413290	Streptococcus	248.45	12.50	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Streptococcus	291.31	14.84	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Streptococcus	628.67	60.40	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Streptococcus	158.34	8.95	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Streptococcus	154.61	5.86	tmRNA-binding protein SmpB
+PGF_00414035	Streptococcus	241.26	16.76	C3-degrading proteinase
+PGF_00414550	Streptococcus	323.96	13.09	unknown domain / Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00414926	Streptococcus	394.54	24.27	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Streptococcus	378.73	37.01	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415486	Streptococcus	158.23	8.94	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415631	Streptococcus	97.19	1.97	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416115	Streptococcus	305.28	21.81	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Streptococcus	529.64	44.33	CTP synthase (EC 6.3.4.2)
+PGF_00416196	Streptococcus	889.37	69.09	Calcium-transporting ATPase (EC 3.6.3.8)
+PGF_00416410	Streptococcus	1043.67	109.01	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416436	Streptococcus	311.62	17.43	3'->5' exoribonuclease Bsu YhaM
+PGF_00416525	Streptococcus	166.12	9.16	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416548	Streptococcus	438.68	25.85	1,2-diacylglycerol 3-glucosyltransferase (EC 2.4.1.337)
+PGF_00416683	Streptococcus	333.72	18.42	Catabolite control protein A
+PGF_00417150	Streptococcus	427.75	45.91	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F1
+PGF_00417153	Streptococcus	355.98	46.48	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F2
+PGF_00417429	Streptococcus	374.06	30.24	Chaperone protein DnaJ
+PGF_00417433	Streptococcus	598.50	51.55	Chaperone protein DnaK
+PGF_00417481	Streptococcus	224.86	9.39	3-dehydroquinate dehydratase I (EC 4.2.1.10)
+PGF_00417658	Streptococcus	353.11	21.70	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Streptococcus	385.26	26.13	Chorismate synthase (EC 4.2.3.5)
+PGF_00417995	Streptococcus	224.86	8.17	Chromosome replication initiation protein DnaD
+PGF_00418737	Streptococcus	417.20	67.01	ComF operon protein A, DNA transporter ATPase
+PGF_00420010	Streptococcus	207.77	9.03	Cystathionine beta-lyase (EC 4.4.1.8) (EC 4.4.1.1)
+PGF_00420034	Streptococcus	301.01	16.11	Cysteine and methionine metabolism regulator CmbR, LysR family
+PGF_00420075	Streptococcus	304.31	22.22	Cysteine synthase (EC 2.5.1.47)
+PGF_00420087	Streptococcus	176.04	8.29	Cysteinyl-tRNA synthetase related protein
+PGF_00420121	Streptococcus	223.32	8.54	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420806	Streptococcus	510.45	45.82	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
+PGF_00420810	Streptococcus	78.95	1.24	D-alanine--poly(phosphoribitol) ligase ACP subunit (EC 6.1.1.13)
+PGF_00420819	Streptococcus	410.88	30.24	D-alanyl transfer protein DltB
+PGF_00421071	Streptococcus	146.85	4.57	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Streptococcus	521.22	36.79	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421211	Streptococcus	121.01	3.41	DNA binding protein, FIG046916
+PGF_00421489	Streptococcus	1011.50	129.66	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Streptococcus	374.78	28.61	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Streptococcus	579.89	53.22	DNA primase (EC 2.7.7.-)
+PGF_00421733	Streptococcus	361.14	32.03	DNA recombination and repair protein RecF
+PGF_00421792	Streptococcus	421.96	38.86	DNA repair protein RadA
+PGF_00421796	Streptococcus	550.90	37.70	DNA repair protein RecN
+PGF_00421807	Streptococcus	105.49	2.91	DNA replication intiation control protein YabA
+PGF_00422061	Streptococcus	90.88	2.31	DNA-binding protein HBsu
+PGF_00422271	Streptococcus	310.42	12.90	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422280	Streptococcus	193.77	9.41	DNA-directed RNA polymerase delta subunit (EC 2.7.7.6)
+PGF_00422959	Streptococcus	146.94	4.49	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423378	Streptococcus	420.37	32.91	Dihydroorotase (EC 3.5.2.3)
+PGF_00423393	Streptococcus	309.63	16.85	Dihydroorotate dehydrogenase (fumarate) (EC 1.3.98.1)
+PGF_00423429	Streptococcus	551.40	35.91	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423472	Streptococcus	804.62	90.90	DinG family ATP-dependent helicase YoaA
+PGF_00423613	Streptococcus	316.60	20.77	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+PGF_00424867	Streptococcus	60.03	1.35	4-oxalocrotonate tautomerase; Xylose transport system permease protein XylH
+PGF_00424971	Streptococcus	604.84	50.82	Excinuclease ABC subunit C
+PGF_00425024	Streptococcus	442.22	32.20	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425671	Streptococcus	294.70	15.10	RNase adapter protein RapZ
+PGF_00425679	Streptococcus	210.57	8.05	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425720	Streptococcus	257.25	24.76	Putative RNA-binding protein YlmH
+PGF_00425729	Streptococcus	408.74	44.46	FIG001621: Zinc protease
+PGF_00425734	Streptococcus	120.88	2.91	FIG001802: Putative alkaline-shock protein
+PGF_00425750	Streptococcus	184.35	13.38	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Streptococcus	533.50	32.86	Ribonuclease Y
+PGF_00425806	Streptococcus	323.43	16.71	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425997	Streptococcus	554.70	54.85	FIG004453: protein YceG like
+PGF_00426801	Streptococcus	227.20	10.17	FIG005935: membrane protein
+PGF_00426877	Streptococcus	282.64	24.14	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00427033	Streptococcus	81.30	2.32	UPF0154 protein YneF
+PGF_00440726	Streptococcus	172.94	4.49	FIG009886: phosphoesterase
+PGF_00473519	Streptococcus	200.83	7.27	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Streptococcus	446.98	31.31	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Streptococcus	319.81	22.32	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00570239	Streptococcus	353.23	26.24	Spermidine/putrescine import ABC transporter substrate-binding protein PotD (TC 3.A.1.11.1)
+PGF_00598888	Streptococcus	128.98	4.49	Mini-ribonuclease III
+PGF_00618776	Streptococcus	345.20	45.30	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Streptococcus	295.61	23.26	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00641071	Streptococcus	328.27	17.91	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00659194	Streptococcus	208.96	11.20	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Streptococcus	117.43	2.91	Ribosomal silencing factor RsfA
+PGF_00693753	Streptococcus	436.77	37.71	Sodium/glycine symporter GlyP
+PGF_00694978	Streptococcus	255.61	11.02	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00721835	Streptococcus	322.17	19.61	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00734482	Streptococcus	687.76	66.43	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735131	Streptococcus	128.91	4.53	General stress protein
+PGF_00777371	Streptococcus	231.55	12.11	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Streptococcus	229.35	8.78	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00827555	Streptococcus	548.23	39.16	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00854027	Streptococcus	469.65	39.52	Guanine-hypoxanthine permease
+PGF_00856141	Streptococcus	404.86	29.94	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00856417	Streptococcus	223.52	19.26	UPF0758 family protein
+PGF_00912265	Streptococcus	324.46	20.53	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Streptococcus	419.78	37.90	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Streptococcus	556.40	51.04	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00932099	Streptococcus	57.93	0.41	Protein translocase subunit SecE
+PGF_00935308	Streptococcus	244.80	12.10	FIG011178: rRNA methylase
+PGF_00937465	Streptococcus	624.30	53.75	PTS system, sucrose-specific IIB component (EC 2.7.1.211) / PTS system, sucrose-specific IIC component / PTS system, sucrose-specific IIA component (EC 2.7.1.211)
+PGF_00950554	Streptococcus	651.25	72.97	Excinuclease ABC subunit B
+PGF_00957419	Streptococcus	138.42	4.59	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Streptococcus	309.91	17.55	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00986107	Streptococcus	105.55	3.18	Cell division protein FtsL
+PGF_01008498	Streptococcus	120.80	5.87	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01101526	Streptococcus	416.77	24.09	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01124268	Streptococcus	198.23	9.56	RecU Holliday junction resolvase
+PGF_01127158	Streptococcus	267.56	14.39	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01172485	Streptococcus	454.73	24.98	Cell division protein FtsA
+PGF_01174739	Streptococcus	242.56	14.04	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Streptococcus	642.28	52.91	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01187253	Streptococcus	149.52	9.88	Late competence protein ComGF, access of DNA to ComEA, FIG012620
+PGF_01212500	Streptococcus	284.42	26.36	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Streptococcus	535.74	40.95	Heat shock protein 60 family chaperone GroEL
+PGF_01223569	Streptococcus	163.31	9.79	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01291803	Streptococcus	294.19	15.81	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01305075	Streptococcus	306.93	16.84	Inner membrane protein translocase and chaperone YidC, OxaA protein
+PGF_01323228	Streptococcus	212.81	10.73	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01350798	Streptococcus	343.70	17.58	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351158	Streptococcus	1128.19	180.05	Transcription-repair coupling factor
+PGF_01364427	Streptococcus	195.88	10.72	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01389077	Streptococcus	122.63	6.94	Uncharacterized protein YbcJ
+PGF_01416650	Streptococcus	262.96	14.24	Transmembrane component of general energizing module of ECF transporters
+PGF_01423501	Streptococcus	160.36	11.49	Transcription elongation factor GreA
+PGF_01444546	Streptococcus	100.13	2.81	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01447607	Streptococcus	145.01	4.79	Uncharacterized CoA-binding protein YneT
+PGF_01457046	Streptococcus	299.24	17.32	Uncharacterized membrane protein, YraQ family
+PGF_01469197	Streptococcus	442.64	60.84	RNA methyltransferase, TrmA family
+PGF_01483918	Streptococcus	273.49	16.75	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01529260	Streptococcus	195.86	9.94	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01576970	Streptococcus	56.36	0.89	hypothetical protein
+PGF_01578680	Streptococcus	712.81	67.74	Glutamine ABC transporter, substrate-binding protein GlnH / Glutamine ABC transporter, substrate-binding protein GlnH / Glutamine ABC transporter, permease protein GlnP
+PGF_01604929	Streptococcus	218.77	14.29	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01614738	Streptococcus	82.03	4.79	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01622582	Streptococcus	250.45	12.45	Short-chain dehydrogenase
+PGF_01667880	Streptococcus	86.92	1.81	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668974	Streptococcus	720.98	105.51	DNA internalization-related competence protein ComEC/Rec2
+PGF_01670678	Streptococcus	316.36	17.78	Purine nucleoside ABC transporter, permease protein 2
+PGF_01670799	Streptococcus	182.45	10.75	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01675349	Streptococcus	505.75	41.70	Purine nucleoside ABC transporter, ATP-binding protein
+PGF_01677191	Streptococcus	302.07	14.54	Sporulation transcription regulator WhiA
+PGF_01682537	Streptococcus	121.24	4.80	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Streptococcus	156.35	11.38	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Streptococcus	255.20	10.40	DNA recombination and repair protein RecO
+PGF_01719396	Streptococcus	216.53	9.45	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Streptococcus	211.88	8.35	Adenylate kinase (EC 2.7.4.3)
+PGF_01751397	Streptococcus	316.21	17.12	Adenine-specific methyltransferase (EC 2.1.1.72)
+PGF_01777142	Streptococcus	208.87	6.88	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01821079	Streptococcus	288.90	17.15	Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YhcT type
+PGF_01853493	Streptococcus	300.78	27.63	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Streptococcus	344.03	14.98	Heat-inducible transcription repressor HrcA
+PGF_01898497	Streptococcus	209.97	11.71	Endonuclease III (EC 4.2.99.18)
+PGF_01922493	Streptococcus	508.67	40.66	Cardiolipin synthetase (EC 2.7.8.-)
+PGF_01949788	Streptococcus	183.02	18.77	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Streptococcus	596.02	52.72	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Streptococcus	424.99	23.78	Cell division trigger factor (EC 5.2.1.8)
+PGF_02008335	Streptococcus	311.78	13.41	Uncharacterized UPF0750 membrane protein SPy2155
+PGF_02008894	Streptococcus	70.79	1.72	UPF0346 protein YozE
+PGF_02009924	Streptococcus	386.19	25.07	UPF0118 membrane protein YubA
+PGF_02010018	Streptococcus	131.25	4.75	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011026	Streptococcus	838.16	105.73	Uncharacterized membrane protein YfhO-like
+PGF_02011114	Streptococcus	88.87	7.76	UPF0223 protein YktA
+PGF_02015262	Streptococcus	296.81	17.37	Helicase loader DnaI
+PGF_02019462	Streptococcus	346.57	35.09	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02020240	Streptococcus	188.29	9.91	Adenylate cyclase (EC 4.6.1.1)
+PGF_02026136	Streptococcus	291.77	15.06	Uncharacterized S1 RNA binding domain protein YitL
+PGF_02029783	Streptococcus	432.71	31.05	GTP-binding protein Obg
+PGF_02061452	Streptococcus	377.24	26.47	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02152172	Streptococcus	307.59	38.13	Competence protein CoiA
+PGF_02154390	Streptococcus	335.05	18.93	Phosphomevalonate kinase (EC 2.7.4.2)
+PGF_02154745	Streptococcus	1432.65	179.80	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02155509	Streptococcus	739.57	77.66	ATP-dependent Clp protease, ATP-binding subunit ClpE
+PGF_02185217	Streptococcus	424.90	31.41	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02226715	Streptococcus	663.17	60.09	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02297251	Streptococcus	220.86	8.49	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02346768	Streptococcus	859.49	89.40	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Streptococcus	364.85	23.50	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Streptococcus	265.32	15.75	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02369559	Streptococcus	874.51	87.29	DNA polymerase I (EC 2.7.7.7)
+PGF_02434074	Streptococcus	356.27	30.63	ATP-dependent RNA helicase YfmL
+PGF_02450432	Streptococcus	265.57	12.30	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02452912	Streptococcus	440.57	30.94	Aminopeptidase C (EC 3.4.22.40)
+PGF_02454577	Streptococcus	77.76	2.11	SSU ribosomal protein S20p
+PGF_02463284	Streptococcus	197.40	8.53	Recombination protein RecR
+PGF_02505498	Streptococcus	382.21	24.77	Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)
+PGF_02516909	Streptococcus	430.73	32.72	Enolase (EC 4.2.1.11)
+PGF_02518965	Streptococcus	256.44	16.58	Regulatory protein RecX
+PGF_02593689	Streptococcus	446.28	33.46	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Streptococcus	446.65	33.28	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619921	Streptococcus	367.04	20.05	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+PGF_02623406	Streptococcus	303.93	20.43	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02652319	Streptococcus	186.93	8.72	UPF0340 protein YwlG
+PGF_02704551	Streptococcus	1198.05	140.79	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Streptococcus	154.00	7.25	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02728524	Streptococcus	835.73	79.97	DNA mismatch repair protein MutS
+PGF_02788357	Streptococcus	445.14	37.52	Two-component sensor kinase SA14-24
+PGF_02788582	Streptococcus	769.73	68.69	Recombination inhibitory protein MutS2
+PGF_02789532	Streptococcus	276.49	20.38	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Streptococcus	224.31	20.60	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Streptococcus	443.75	32.04	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Streptococcus	1179.97	131.52	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02818638	Streptococcus	438.80	37.00	Hemolysins and related proteins containing CBS domains
+PGF_02820109	Streptococcus	184.62	10.38	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Streptococcus	159.54	6.30	Shikimate kinase I (EC 2.7.1.71)
+PGF_02895613	Streptococcus	442.39	30.87	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02896192	Streptococcus	350.54	21.76	Purine nucleoside ABC transporter, permease protein 1
+PGF_02897045	Streptococcus	549.49	36.79	Ribonuclease J2 (endoribonuclease in RNA processing)
+PGF_02899131	Streptococcus	67.99	0.89	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Streptococcus	683.43	109.79	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02922961	Streptococcus	103.13	3.26	FIG004454: RNA binding protein
+PGF_02923127	Streptococcus	243.52	10.51	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02946231	Streptococcus	398.07	23.37	SSU ribosomal protein S1p
+PGF_02977685	Streptococcus	421.55	28.29	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_02989628	Streptococcus	182.68	14.45	hypothetical protein
+PGF_02992495	Streptococcus	77.14	1.64	Protein translocase membrane subunit SecG
+PGF_02997723	Streptococcus	143.68	6.36	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03017775	Streptococcus	491.42	42.72	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03022650	Streptococcus	71.89	2.50	Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib
+PGF_03026450	Streptococcus	1156.59	139.64	Chromosome partition protein smc
+PGF_03029859	Streptococcus	603.66	84.68	Bis-ABC ATPase Uup
+PGF_03034879	Streptococcus	389.15	34.24	Cell division protein FtsQ
+PGF_03051564	Streptococcus	230.86	10.66	Efflux ABC transporter, ATP-binding protein
+PGF_03054699	Streptococcus	768.12	66.48	DNA translocase FtsK
+PGF_03065239	Streptococcus	265.96	14.35	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+PGF_03069524	Streptococcus	70.32	1.16	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03075401	Streptococcus	142.11	7.14	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03117711	Streptococcus	196.32	6.63	Hydrolase (HAD superfamily), YqeK
+PGF_03124650	Streptococcus	484.33	58.24	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03127349	Streptococcus	215.70	17.00	Late competence protein ComEA, DNA receptor
+PGF_03132336	Streptococcus	415.13	30.23	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03145455	Streptococcus	326.96	25.73	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03152669	Streptococcus	266.96	10.97	PTS system, mannose-specific IIC component
+PGF_03172904	Streptococcus	259.51	14.93	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Streptococcus	178.31	7.77	Transcription antitermination protein NusG
+PGF_03207511	Streptococcus	224.37	9.65	Integral membrane protein
+PGF_03222913	Streptococcus	138.35	4.98	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03268078	Streptococcus	637.13	76.74	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03272313	Streptococcus	806.81	96.72	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277417	Streptococcus	349.96	27.67	Methionine ABC transporter ATP-binding protein
+PGF_03278866	Streptococcus	61.96	0.99	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03439822	Streptococcus	181.82	7.88	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36)
+PGF_03456505	Streptococcus	375.77	56.47	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03468665	Streptococcus	417.67	39.52	hypothetical protein
+PGF_03470321	Streptococcus	178.85	7.56	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03479854	Streptococcus	147.62	5.52	Flavodoxin
+PGF_03503126	Streptococcus	192.01	8.05	Hypothetical protein VC0266 (sugar utilization related?)
+PGF_03505417	Streptococcus	76.03	3.47	hypothetical protein
+PGF_03508087	Streptococcus	153.08	4.93	FIG042801: CBS domain containing protein
+PGF_03514188	Streptococcus	443.57	39.08	Glutathione reductase (EC 1.8.1.7)
+PGF_03515040	Streptococcus	153.16	8.94	Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter
+PGF_03515458	Streptococcus	76.43	11.66	hypothetical protein
+PGF_03520151	Streptococcus	419.22	21.76	Cell division protein FtsZ
+PGF_03523455	Streptococcus	685.39	89.87	ClpE-like protein
+PGF_03523583	Streptococcus	56.09	2.07	hypothetical protein
+PGF_03574598	Streptococcus	346.37	27.25	Lon-like protease with PDZ domain
+PGF_03609651	Streptococcus	658.22	60.55	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03699416	Streptococcus	198.99	7.66	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Streptococcus	306.59	17.78	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Streptococcus	199.78	7.45	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Streptococcus	147.88	6.87	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03739563	Streptococcus	110.00	4.30	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750541	Streptococcus	348.43	29.88	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750571	Streptococcus	449.24	39.39	Chromosomal replication initiator protein DnaA
+PGF_03751658	Streptococcus	79.51	7.05	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Streptococcus	174.33	8.44	Heat shock protein GrpE
+PGF_03751878	Streptococcus	187.54	7.08	Substrate-specific component RibU of riboflavin ECF transporter
+PGF_03778780	Streptococcus	441.00	46.77	Signal recognition particle receptor FtsY
+PGF_03787199	Streptococcus	180.37	7.11	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Streptococcus	345.84	52.82	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Streptococcus	230.40	10.27	Ribonuclease III (EC 3.1.26.3)
+PGF_03801195	Streptococcus	259.54	12.29	Putative amidotransferase similar to cobyric acid synthase
+PGF_03801201	Streptococcus	261.29	17.98	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802330	Streptococcus	207.29	9.41	Phenylalanyl-tRNA synthetase domain protein (Bsu YtpR)
+PGF_03855260	Streptococcus	482.39	34.62	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)
+PGF_03856084	Streptococcus	646.78	54.17	Cell division protein FtsH
+PGF_03883965	Streptococcus	84.79	2.80	UPF0291 protein YnzC
+PGF_03919938	Streptococcus	373.44	25.81	Maltodextrin ABC transporter, ATP-binding protein MsmX
+PGF_03938702	Streptococcus	99.46	8.58	hypothetical protein
+PGF_03981123	Streptococcus	248.51	84.66	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_04025415	Streptococcus	124.12	6.21	Large-conductance mechanosensitive channel
+PGF_04034430	Streptococcus	58.57	3.83	SSU ribosomal protein S21p
+PGF_04036472	Streptococcus	79.19	1.06	KH domain RNA binding protein YlqC
+PGF_04041316	Streptococcus	927.08	107.03	Excinuclease ABC subunit A
+PGF_04132127	Streptococcus	280.23	12.56	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04151476	Streptococcus	171.43	7.84	16S rRNA processing protein RimM
+PGF_04182459	Streptococcus	229.26	9.79	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04217145	Streptococcus	855.88	130.93	Acetaldehyde dehydrogenase (EC 1.2.1.10) / Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_04395505	Streptococcus	336.84	20.87	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Streptococcus	103.85	4.29	Thioredoxin
+PGF_04431595	Streptococcus	310.55	50.85	Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
+PGF_04458212	Streptococcus	334.22	17.94	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04490570	Streptococcus	369.28	22.70	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04493258	Streptococcus	395.17	27.28	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Streptococcus	257.56	11.72	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Streptococcus	452.17	37.87	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Streptococcus	498.22	30.87	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Streptococcus	250.57	13.93	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04655384	Streptococcus	300.60	22.28	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Streptococcus	152.64	6.03	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Streptococcus	641.02	57.64	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Streptococcus	402.30	20.45	Alanine transaminase (EC 2.6.1.2)
+PGF_04695681	Streptococcus	202.20	10.58	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Streptococcus	916.36	100.59	Translation initiation factor 2
+PGF_04788810	Streptococcus	188.57	8.20	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Streptococcus	294.95	14.40	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04815798	Streptococcus	292.39	18.91	Mevalonate kinase (EC 2.7.1.36)
+PGF_04845029	Streptococcus	114.92	2.44	LSU ribosomal protein L19p
+PGF_04947330	Streptococcus	414.03	43.19	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+PGF_04962192	Streptococcus	775.66	74.04	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Streptococcus	103.93	2.44	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04973327	Streptococcus	737.66	74.75	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Penicillin-binding protein 2B
+PGF_04978890	Streptococcus	103.86	2.72	LSU ribosomal protein L21p
+PGF_05022117	Streptococcus	535.40	39.23	Bis-ABC ATPase YbiT
+PGF_05048110	Streptococcus	255.56	16.22	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1)
+PGF_05111929	Streptococcus	730.01	67.61	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Streptococcus	815.17	100.76	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05154512	Streptococcus	68.59	9.01	Ferredoxin
+PGF_05165078	Streptococcus	310.04	14.33	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Streptococcus	464.33	35.52	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Streptococcus	565.70	48.45	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05269328	Streptococcus	443.34	33.99	DEAD-box ATP-dependent RNA helicase CshB (EC 3.6.4.13)
+PGF_05280843	Streptococcus	424.67	26.12	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05377575	Streptococcus	242.05	11.15	ABC transporter, ATP-binding protein EcsA
+PGF_05439724	Streptococcus	643.20	62.55	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Streptococcus	271.96	13.23	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Streptococcus	644.25	55.76	DNA mismatch repair protein MutL
+PGF_05519582	Streptococcus	378.52	49.44	NAD(FAD)-utilizing dehydrogenases
+PGF_05581732	Streptococcus	432.81	28.19	Protein translocase subunit SecY
+PGF_05589963	Streptococcus	516.86	35.33	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines) / ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)
+PGF_05622318	Streptococcus	414.03	32.24	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Streptococcus	225.53	10.41	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05714136	Streptococcus	117.64	7.17	FIG138056: a glutathione-dependent thiol reductase
+PGF_05925776	Streptococcus	289.28	15.65	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_06005188	Streptococcus	639.26	61.91	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06084258	Streptococcus	390.49	38.41	Serine protease, DegP/HtrA, do-like (EC 3.4.21.-)
+PGF_06115957	Streptococcus	401.30	27.70	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Streptococcus	1069.39	122.54	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06180597	Streptococcus	147.61	5.61	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Streptococcus	93.49	4.82	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Streptococcus	279.27	19.93	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06364262	Streptococcus	233.65	10.11	Two-component response regulator SA14-24
+PGF_06379377	Streptococcus	419.77	32.10	Replication-associated recombination protein RarA
+PGF_06401063	Streptococcus	266.80	26.59	Uncharacterized secreted protein associated with spyDAC
+PGF_06459503	Streptococcus	647.65	54.16	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06501669	Streptococcus	321.96	15.34	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)
+PGF_06530721	Streptococcus	210.53	8.98	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06586947	Streptococcus	372.59	26.15	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06589185	Streptococcus	580.99	45.55	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06649360	Streptococcus	188.83	6.68	Segregation and condensation protein B
+PGF_06683449	Streptococcus	449.79	88.29	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06693963	Streptococcus	98.79	3.93	Nucleoid-associated protein YaaK
+PGF_06701488	Streptococcus	318.94	31.39	RNA-binding protein Jag
+PGF_06735060	Streptococcus	763.90	115.58	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Streptococcus	291.61	24.47	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_07072582	Streptococcus	368.10	21.64	RNA polymerase sigma factor RpoD
+PGF_07426744	Streptococcus	248.60	19.89	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_07450087	Streptococcus	121.66	5.46	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_08147453	Streptococcus	416.71	23.44	DNA recombination protein RmuC
+PGF_08149255	Streptococcus	405.09	34.04	FtsW-like protein YlaO

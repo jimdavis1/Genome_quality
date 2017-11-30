@@ -1,0 +1,852 @@
+PGF_00000027	Halolactibacillus	265.00	0.00	Uncharacterized protein YmdB
+PGF_00000185	Halolactibacillus	282.75	55.17	FIG006988: Lipase/Acylhydrolase with GDSL-like motif
+PGF_00000196	Halolactibacillus	330.50	138.35	FIG007079: UPF0348 protein family
+PGF_00000937	Halolactibacillus	201.00	0.00	Uncharacterized protein YpjA
+PGF_00001028	Halolactibacillus	429.25	1.50	Uncharacterized zinc protease YmfH
+PGF_00001219	Halolactibacillus	103.00	0.00	FIG009688: Thioredoxin
+PGF_00003516	Halolactibacillus	373.00	0.00	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003812	Halolactibacillus	582.00	0.00	Efflux ABC transporter, permease/ATP-binding protein YknU
+PGF_00005023	Halolactibacillus	387.25	71.51	ABC transporter, permease protein
+PGF_00005244	Halolactibacillus	83.00	0.00	Firmicutes ribosomal L7Ae family protein
+PGF_00005286	Halolactibacillus	535.50	1.00	Flagellar M-ring protein FliF
+PGF_00005384	Halolactibacillus	677.25	0.50	Flagellar biosynthesis protein FlhA
+PGF_00005402	Halolactibacillus	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Halolactibacillus	293.75	0.50	Flagellar hook protein FlgE
+PGF_00006186	Halolactibacillus	274.00	6.00	Formate efflux transporter (TC 2.A.44 family)
+PGF_00006245	Halolactibacillus	556.00	0.00	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006377	Halolactibacillus	643.00	0.00	Fructose-1,6-bisphosphatase, Bacillus type (EC 3.1.3.11)
+PGF_00006378	Halolactibacillus	322.75	0.50	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006461	Halolactibacillus	451.00	2.00	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006931	Halolactibacillus	327.00	0.00	GMP reductase (EC 1.7.1.7)
+PGF_00006967	Halolactibacillus	170.25	79.50	Gpr1/Fun34/YaaH family protein BA3597
+PGF_00006983	Halolactibacillus	307.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007012	Halolactibacillus	366.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Halolactibacillus	436.00	0.00	GTP-binding protein EngA
+PGF_00007026	Halolactibacillus	193.00	0.00	GTP-binding protein EngB
+PGF_00007027	Halolactibacillus	302.00	0.00	GTP-binding protein Era
+PGF_00007028	Halolactibacillus	414.00	0.00	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007045	Halolactibacillus	261.00	0.00	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Halolactibacillus	455.75	6.50	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Halolactibacillus	388.75	1.50	Galactokinase (EC 2.7.1.6)
+PGF_00007304	Halolactibacillus	289.50	1.00	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007479	Halolactibacillus	125.00	0.82	General stress protein 13
+PGF_00007632	Halolactibacillus	324.50	0.58	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007795	Halolactibacillus	309.50	7.55	GltC, transcription activator of glutamate synthase operon
+PGF_00007844	Halolactibacillus	319.00	0.00	Glucokinase (EC 2.7.1.2)
+PGF_00007971	Halolactibacillus	371.25	4.79	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00008051	Halolactibacillus	447.25	9.74	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Halolactibacillus	372.50	1.00	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008106	Halolactibacillus	269.25	1.50	Glutamate racemase (EC 5.1.1.3)
+PGF_00008258	Halolactibacillus	445.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008313	Halolactibacillus	396.50	0.58	Glutamine-dependent 2-keto-4-methylthiobutyrate transaminase
+PGF_00008329	Halolactibacillus	354.00	0.00	Glutamyl aminopeptidase (EC 3.4.11.7); Deblocking aminopeptidase
+PGF_00008611	Halolactibacillus	348.75	0.50	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008651	Halolactibacillus	238.50	2.52	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+PGF_00008876	Halolactibacillus	480.00	0.00	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Halolactibacillus	194.25	10.50	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Halolactibacillus	295.25	1.50	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Halolactibacillus	695.00	0.00	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Halolactibacillus	237.75	22.50	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Halolactibacillus	208.50	3.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010468	Halolactibacillus	258.00	0.00	Hydrolase (HAD superfamily) in cluster with DUF1447
+PGF_00010692	Halolactibacillus	316.00	0.00	HPr kinase/phosphorylase
+PGF_00011098	Halolactibacillus	428.50	56.36	Helicase loader DnaB
+PGF_00011541	Halolactibacillus	326.00	0.00	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011542	Halolactibacillus	225.75	0.50	Heptaprenylglyceryl phosphate synthase (EC 2.5.1.n9)
+PGF_00011792	Halolactibacillus	100.00	0.00	His repressor
+PGF_00011940	Halolactibacillus	436.00	0.00	Histidine permease YuiF
+PGF_00011953	Halolactibacillus	142.00	0.00	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00011979	Halolactibacillus	400.25	51.50	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011989	Halolactibacillus	268.75	0.50	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012264	Halolactibacillus	334.50	1.91	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Halolactibacillus	427.75	4.50	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Halolactibacillus	264.50	63.00	Homoserine kinase (EC 2.7.1.39)
+PGF_00012652	Halolactibacillus	174.00	0.00	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00012657	Halolactibacillus	142.00	14.67	ACT domain-containing protein
+PGF_00012930	Halolactibacillus	389.00	0.00	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+PGF_00013003	Halolactibacillus	642.50	1.73	Bis-ABC ATPase YheS
+PGF_00013244	Halolactibacillus	180.25	0.50	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013347	Halolactibacillus	88.00	0.00	UPF0297 protein YrzL
+PGF_00013492	Halolactibacillus	183.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Halolactibacillus	510.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00014051	Halolactibacillus	253.00	0.00	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Halolactibacillus	258.00	0.00	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014311	Halolactibacillus	490.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Halolactibacillus	198.50	77.00	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015259	Halolactibacillus	292.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Halolactibacillus	259.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Halolactibacillus	465.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Halolactibacillus	433.00	0.00	Iron-sulfur cluster assembly protein SufD
+PGF_00015701	Halolactibacillus	423.75	0.50	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015737	Halolactibacillus	341.00	0.00	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00015855	Halolactibacillus	343.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016046	Halolactibacillus	322.00	0.00	L-asparaginase (EC 3.5.1.1)
+PGF_00016132	Halolactibacillus	316.25	0.50	L-lactate dehydrogenase (EC 1.1.1.27)
+PGF_00016223	Halolactibacillus	293.00	0.00	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016328	Halolactibacillus	166.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016340	Halolactibacillus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Halolactibacillus	145.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Halolactibacillus	144.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Halolactibacillus	117.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Halolactibacillus	120.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Halolactibacillus	231.50	1.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Halolactibacillus	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Halolactibacillus	113.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Halolactibacillus	97.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Halolactibacillus	103.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Halolactibacillus	97.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Halolactibacillus	276.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Halolactibacillus	61.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Halolactibacillus	57.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016416	Halolactibacillus	49.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Halolactibacillus	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Halolactibacillus	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Halolactibacillus	211.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Halolactibacillus	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Halolactibacillus	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Halolactibacillus	178.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Halolactibacillus	120.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Halolactibacillus	148.00	0.00	LSU ribosomal protein L9p
+PGF_00016739	Halolactibacillus	327.25	1.50	Late competence protein ComGA, access of DNA to ComEA
+PGF_00016941	Halolactibacillus	366.75	10.50	Arabinose metabolism transcriptional repressor AraR
+PGF_00017127	Halolactibacillus	331.00	0.00	Lipoate-protein ligase A
+PGF_00017468	Halolactibacillus	620.00	0.00	Lipoteichoic acid synthase LtaS Type IIIa
+PGF_00017608	Halolactibacillus	157.00	22.00	Low temperature requirement C protein
+PGF_00018092	Halolactibacillus	501.00	0.00	ATP-dependent Zn protease
+PGF_00019100	Halolactibacillus	306.25	69.50	Maltose operon transcriptional repressor MalR, LacI family
+PGF_00019104	Halolactibacillus	767.00	0.00	Maltose phosphorylase (EC 2.4.1.8)
+PGF_00019248	Halolactibacillus	288.00	40.67	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019249	Halolactibacillus	203.00	104.67	Manganese-dependent protein-tyrosine phosphatase (EC 3.1.3.48)
+PGF_00019307	Halolactibacillus	318.75	0.50	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019335	Halolactibacillus	821.75	57.17	Mannosylglycerate hydrolase (EC 3.2.1.170)
+PGF_00019427	Halolactibacillus	116.50	3.00	MazG nucleotide pyrophosphohydrolase
+PGF_00019428	Halolactibacillus	181.00	0.00	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019563	Halolactibacillus	239.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
+PGF_00020147	Halolactibacillus	369.75	6.18	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020361	Halolactibacillus	156.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020385	Halolactibacillus	244.00	0.00	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020793	Halolactibacillus	192.50	2.38	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020984	Halolactibacillus	285.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Halolactibacillus	132.25	0.50	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021217	Halolactibacillus	507.00	8.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021390	Halolactibacillus	229.00	0.00	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00021636	Halolactibacillus	650.00	65.34	Mll5128 protein
+PGF_00022465	Halolactibacillus	291.00	0.00	Molybdenum cofactor biosynthesis enzyme and related Fe-S oxidoreductases
+PGF_00022707	Halolactibacillus	331.25	1.26	MreB-like protein (Mbl protein)
+PGF_00023476	Halolactibacillus	135.00	0.82	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Halolactibacillus	343.00	0.00	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023719	Halolactibacillus	382.50	0.58	N-acetyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.-)
+PGF_00023739	Halolactibacillus	345.00	0.00	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023946	Halolactibacillus	147.25	10.34	N-acetyltransferase ElaA
+PGF_00024273	Halolactibacillus	163.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Halolactibacillus	374.25	2.06	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Halolactibacillus	249.00	0.00	NAD synthetase (EC 6.3.1.5)
+PGF_00024322	Halolactibacillus	466.00	0.00	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024478	Halolactibacillus	331.75	0.50	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024544	Halolactibacillus	623.50	1.00	NADH dehydrogenase (EC 1.6.99.3) in cluster with putative pheromone precursor
+PGF_00024567	Halolactibacillus	396.00	1.15	Acetate kinase (EC 2.7.2.1)
+PGF_00024638	Halolactibacillus	361.00	52.00	Long-chain-alcohol dehydrogenase (EC 1.1.1.192)
+PGF_00024831	Halolactibacillus	451.00	0.00	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024973	Halolactibacillus	281.00	2.00	NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)
+PGF_00025215	Halolactibacillus	173.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025410	Halolactibacillus	225.50	0.58	Negative regulator of genetic competence MecA
+PGF_00025422	Halolactibacillus	150.25	5.25	Negative transcriptional regulator-copper transport operon
+PGF_00025508	Halolactibacillus	281.75	70.50	Acetyl xylan esterase
+PGF_00025600	Halolactibacillus	369.00	0.00	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026300	Halolactibacillus	264.00	0.00	Novel pyridoxal kinase, thiD family (EC 2.7.1.35)
+PGF_00026362	Halolactibacillus	196.25	0.50	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Halolactibacillus	253.50	67.00	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Halolactibacillus	262.00	0.00	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026864	Halolactibacillus	275.00	0.00	Octanoyl-[GcvH]:protein N-octanoyltransferase (EC 2.3.1.204)
+PGF_00029866	Halolactibacillus	478.00	0.00	PTS system, trehalose-specific IIB component (EC 2.7.1.201) / PTS system, trehalose-specific IIC component
+PGF_00030083	Halolactibacillus	289.00	0.00	Patatin-like phospholipase
+PGF_00030231	Halolactibacillus	680.25	3.30	Penicillin-binding protein 3
+PGF_00030640	Halolactibacillus	356.00	0.00	Peptide chain release factor 1
+PGF_00030643	Halolactibacillus	527.00	0.00	Peptide chain release factor 3
+PGF_00031568	Halolactibacillus	152.50	1.00	Peroxide stress regulator PerR, FUR family
+PGF_00033237	Halolactibacillus	314.75	0.50	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Halolactibacillus	295.00	0.00	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Halolactibacillus	334.00	0.00	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Halolactibacillus	327.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Halolactibacillus	917.00	0.00	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033423	Halolactibacillus	571.00	0.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Halolactibacillus	657.00	0.00	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033877	Halolactibacillus	159.50	1.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Halolactibacillus	393.50	1.00	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033928	Halolactibacillus	397.75	36.50	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033941	Halolactibacillus	207.25	3.20	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Halolactibacillus	235.00	0.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033959	Halolactibacillus	227.00	0.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Halolactibacillus	192.00	0.00	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Halolactibacillus	363.00	0.00	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Halolactibacillus	708.75	13.50	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Halolactibacillus	171.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035192	Halolactibacillus	126.00	0.00	Possible glyoxylase family protein (Lactoylglutathione lyase) (EC 4.4.1.5)
+PGF_00035716	Halolactibacillus	439.00	22.67	Predicted arginine uptake transporter
+PGF_00036580	Halolactibacillus	93.00	0.00	Protein translocase subunit YajC
+PGF_00036988	Halolactibacillus	290.00	0.00	Agmatinase (EC 3.5.3.11)
+PGF_00036997	Halolactibacillus	541.25	0.50	Probable cell division protein YtgP
+PGF_00037481	Halolactibacillus	86.50	1.00	Programmed cell death antitoxin YdcD
+PGF_00038255	Halolactibacillus	69.00	0.00	Protein of unknown function DUF1447
+PGF_00038989	Halolactibacillus	271.25	0.50	Purine nucleoside phosphorylase (EC 2.4.2.1) @ N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1)
+PGF_00039149	Halolactibacillus	341.75	28.50	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00039710	Halolactibacillus	252.75	15.86	Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00040334	Halolactibacillus	201.75	58.50	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PGF_00040464	Halolactibacillus	379.00	0.00	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040925	Halolactibacillus	412.00	68.01	Putative glutathione transporter, permease component
+PGF_00040926	Halolactibacillus	490.00	0.00	Putative glutathione transporter, permease component; Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_00041526	Halolactibacillus	278.00	0.00	Alkanesulfonates transport system permease protein
+PGF_00041788	Halolactibacillus	146.00	0.00	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041794	Halolactibacillus	172.00	32.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041892	Halolactibacillus	363.50	1.00	Putative lipoprotein SAV1865
+PGF_00041946	Halolactibacillus	321.50	21.00	Putative membrane protein YeiH
+PGF_00042167	Halolactibacillus	146.25	27.34	Putative metallopeptidase (Zinc) SprT family
+PGF_00042825	Halolactibacillus	305.00	0.00	Putative oxidoreductase SCO7655
+PGF_00043341	Halolactibacillus	312.00	0.00	Putative prenyltransferase, contains 1,4-dihydroxy-2-naphthoate octaprenyltransferase domain
+PGF_00045788	Halolactibacillus	296.50	5.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Halolactibacillus	435.00	2.00	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045994	Halolactibacillus	587.00	0.00	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00046173	Halolactibacillus	588.50	18.34	RGD-containing lipoprotein
+PGF_00046197	Halolactibacillus	273.00	0.00	RNA binding methyltransferase FtsJ like
+PGF_00046199	Halolactibacillus	136.00	0.00	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046367	Halolactibacillus	173.00	0.00	RNA polymerase sigma factor SigX
+PGF_00046377	Halolactibacillus	251.50	1.00	RNA polymerase sigma factor for flagellar operon
+PGF_00046555	Halolactibacillus	221.00	4.00	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Halolactibacillus	74.00	0.00	RNA-binding protein Hfq
+PGF_00047155	Halolactibacillus	210.00	0.00	Redox-sensing transcriptional repressor Rex
+PGF_00048331	Halolactibacillus	321.25	0.50	Rhodanese domain protein UPF0176, Firmicutes subgroup
+PGF_00048347	Halolactibacillus	135.00	0.00	Rhodanese-like domain protein
+PGF_00048480	Halolactibacillus	216.00	0.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048557	Halolactibacillus	309.25	0.50	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048566	Halolactibacillus	186.00	0.00	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048586	Halolactibacillus	249.00	1.41	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Halolactibacillus	257.75	101.84	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048627	Halolactibacillus	607.25	33.53	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048630	Halolactibacillus	736.75	42.50	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048636	Halolactibacillus	347.00	0.00	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Halolactibacillus	161.25	4.92	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048829	Halolactibacillus	246.00	0.00	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Halolactibacillus	315.00	0.00	Ribosomal protein L11 methyltransferase
+PGF_00048917	Halolactibacillus	185.50	1.00	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Halolactibacillus	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Halolactibacillus	292.50	3.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Halolactibacillus	90.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Halolactibacillus	116.00	0.00	Ribosome-binding factor A
+PGF_00049245	Halolactibacillus	118.00	0.00	RsbS, negative regulator of sigma-B
+PGF_00049330	Halolactibacillus	401.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Halolactibacillus	342.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049731	Halolactibacillus	413.00	0.00	Aluminum resistance protein
+PGF_00049828	Halolactibacillus	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Halolactibacillus	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Halolactibacillus	139.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Halolactibacillus	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Halolactibacillus	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Halolactibacillus	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Halolactibacillus	90.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Halolactibacillus	87.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Halolactibacillus	77.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Halolactibacillus	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Halolactibacillus	213.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Halolactibacillus	200.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Halolactibacillus	167.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Halolactibacillus	95.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Halolactibacillus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Halolactibacillus	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Halolactibacillus	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Halolactibacillus	222.25	49.51	Segregation and condensation protein A
+PGF_00050579	Halolactibacillus	532.00	2.71	Sensor histidine kinase ResE (EC 2.7.13.3)
+PGF_00050712	Halolactibacillus	389.75	2.06	Sensor protein DegS
+PGF_00050995	Halolactibacillus	469.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Halolactibacillus	220.50	9.00	Septum site-determining protein MinC
+PGF_00051226	Halolactibacillus	336.00	0.00	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051525	Halolactibacillus	426.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052218	Halolactibacillus	106.00	0.00	Signal recognition particle associated protein
+PGF_00052705	Halolactibacillus	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052905	Halolactibacillus	220.00	0.00	Site-specific recombinase, resolvase family
+PGF_00052943	Halolactibacillus	294.00	0.00	Site-specific tyrosine recombinase XerD
+PGF_00052960	Halolactibacillus	487.25	45.50	Aminobenzoyl-glutamate transport protein
+PGF_00053966	Halolactibacillus	414.25	0.50	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00054343	Halolactibacillus	187.25	2.99	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054388	Halolactibacillus	186.25	48.84	Substrate-specific component PanT of predicted pantothenate ECF transporter
+PGF_00054425	Halolactibacillus	155.50	33.00	Substrate-specific component TrpP of tryptophan ECF transporter
+PGF_00055430	Halolactibacillus	232.75	0.50	Anaerobic regulatory protein Fnr
+PGF_00056519	Halolactibacillus	228.75	2.50	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety
+PGF_00056662	Halolactibacillus	319.50	42.34	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056872	Halolactibacillus	206.00	0.00	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Halolactibacillus	209.00	0.00	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Halolactibacillus	318.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056976	Halolactibacillus	560.00	0.00	Tn7-like transposition protein C
+PGF_00057019	Halolactibacillus	133.00	0.00	Anti-sigma B factor RsbT
+PGF_00057402	Halolactibacillus	148.00	0.00	Transamidase GatB domain protein
+PGF_00057429	Halolactibacillus	74.50	1.00	Transcription attenuation protein MtrB
+PGF_00057440	Halolactibacillus	187.00	0.00	Transcription factor FapR
+PGF_00057483	Halolactibacillus	414.00	26.04	Transcription termination factor Rho
+PGF_00057485	Halolactibacillus	361.00	28.67	Transcription termination protein NusA
+PGF_00057488	Halolactibacillus	126.00	0.00	Transcription termination protein NusB
+PGF_00060185	Halolactibacillus	239.50	0.58	Transcriptional regulatory protein YeeN
+PGF_00060280	Halolactibacillus	250.00	0.00	Transcriptional repressor of the fructose operon, DeoR family
+PGF_00060414	Halolactibacillus	604.00	0.00	Translation elongation factor LepA
+PGF_00060421	Halolactibacillus	185.00	0.00	Translation elongation factor P
+PGF_00060427	Halolactibacillus	294.00	0.00	Translation elongation factor Ts
+PGF_00060428	Halolactibacillus	396.00	0.00	Translation elongation factor Tu
+PGF_00060431	Halolactibacillus	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Halolactibacillus	173.00	0.00	Translation initiation factor 3
+PGF_00060769	Halolactibacillus	383.25	6.50	Uncharacterized MFS-type transporter YuxJ
+PGF_00061769	Halolactibacillus	692.00	50.00	Transposon Tn7 transposition protein tnsB
+PGF_00061922	Halolactibacillus	389.75	50.50	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062023	Halolactibacillus	258.50	1.00	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Halolactibacillus	399.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Halolactibacillus	331.50	0.58	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Halolactibacillus	423.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Halolactibacillus	305.00	0.00	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Halolactibacillus	361.00	3.46	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00064270	Halolactibacillus	247.00	0.00	UPF0246 protein YaaA
+PGF_00064359	Halolactibacillus	145.75	6.50	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064393	Halolactibacillus	290.25	0.50	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064488	Halolactibacillus	219.00	0.00	Arginine transport system permease protein ArtQ
+PGF_00064753	Halolactibacillus	315.00	0.00	Uncharacterized iron compound ABC uptake transporter, permease protein
+PGF_00064754	Halolactibacillus	297.50	40.34	Uncharacterized iron compound ABC uptake transporter, permease protein
+PGF_00065380	Halolactibacillus	478.75	0.50	Uncharacterized protein YaaO
+PGF_00065678	Halolactibacillus	637.25	138.49	Uncharacterized protein YqgF
+PGF_00066124	Halolactibacillus	180.00	0.00	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Halolactibacillus	227.75	3.77	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Halolactibacillus	213.00	0.00	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066263	Halolactibacillus	466.00	0.00	Uronate isomerase (EC 5.3.1.12)
+PGF_00066372	Halolactibacillus	588.75	10.50	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066375	Halolactibacillus	450.00	16.00	V-type ATP synthase subunit B (EC 3.6.3.14)
+PGF_00066389	Halolactibacillus	209.00	0.00	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066410	Halolactibacillus	103.00	0.00	V-type ATP synthase subunit F (EC 3.6.3.14)
+PGF_00066423	Halolactibacillus	610.50	87.00	V-type ATP synthase subunit I (EC 3.6.3.14)
+PGF_00066502	Halolactibacillus	430.75	0.50	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Halolactibacillus	122.75	11.18	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Halolactibacillus	314.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066964	Halolactibacillus	432.00	0.00	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Halolactibacillus	347.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067363	Halolactibacillus	254.75	55.18	UPF0750 membrane protein YitT
+PGF_00067420	Halolactibacillus	86.50	1.00	Z-ring-associated protein
+PGF_00068903	Halolactibacillus	71.00	0.00	bacterial seryl-tRNA synthetase related
+PGF_00070432	Halolactibacillus	437.50	3.00	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070739	Halolactibacillus	327.00	0.00	dihydroxyacetone kinase family protein
+PGF_00070873	Halolactibacillus	207.00	0.00	BRAMP
+PGF_00071231	Halolactibacillus	252.00	0.00	Uncharacterized iron compound ABC uptake transporter, ATP-binding protein
+PGF_00075770	Halolactibacillus	453.00	0.00	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00090925	Halolactibacillus	374.75	0.50	hypothetical protein
+PGF_00140405	Halolactibacillus	336.00	0.00	hypothetical protein
+PGF_00144272	Halolactibacillus	167.00	4.00	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00160932	Halolactibacillus	240.50	1.00	hypothetical protein
+PGF_00197495	Halolactibacillus	193.25	2.06	Putative acetyltransferase YjbC
+PGF_00222644	Halolactibacillus	517.50	87.45	ABC transporter, substrate-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00234864	Halolactibacillus	454.00	0.00	KtrCD potassium uptake system, integral membrane component KtrD
+PGF_00242238	Halolactibacillus	370.00	0.00	YibE/F family protein
+PGF_00242657	Halolactibacillus	360.00	0.00	UPF0118 membrane protein SAV1012
+PGF_00247656	Halolactibacillus	331.75	8.62	Putative membrane-bound acyltransferase YkrP
+PGF_00261173	Halolactibacillus	369.00	0.00	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Halolactibacillus	193.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00304779	Halolactibacillus	575.75	17.50	hypothetical protein
+PGF_00332937	Halolactibacillus	443.00	0.00	hypothetical protein
+PGF_00350921	Halolactibacillus	322.75	4.79	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00365400	Halolactibacillus	240.00	0.00	Trehalose utilization protein ThuA
+PGF_00368850	Halolactibacillus	503.00	0.82	hypothetical protein
+PGF_00369497	Halolactibacillus	243.50	1.00	hypothetical protein
+PGF_00403172	Halolactibacillus	435.50	123.67	Dehydrosqualene desaturase (EC 1.3.8.2) @ 4,4'-diapolycopene oxidase
+PGF_00404078	Halolactibacillus	159.25	0.96	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Halolactibacillus	451.25	2.50	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404814	Halolactibacillus	248.75	1.50	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404866	Halolactibacillus	109.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00408670	Halolactibacillus	158.50	5.00	UPF0756 membrane protein YtwI
+PGF_00409415	Halolactibacillus	262.50	51.00	UPF0750 membrane protein YvjA
+PGF_00412178	Halolactibacillus	303.50	47.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413189	Halolactibacillus	229.50	8.66	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Halolactibacillus	159.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Halolactibacillus	248.75	3.50	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413295	Halolactibacillus	302.00	0.00	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Halolactibacillus	421.25	50.17	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413351	Halolactibacillus	178.25	12.50	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Halolactibacillus	151.75	2.50	tmRNA-binding protein SmpB
+PGF_00413595	Halolactibacillus	111.00	0.00	C-125 initiation factor IF-I, RNA polymerase alpha subunit and ribosomal proteins, partial and complete cds
+PGF_00414748	Halolactibacillus	239.00	0.00	CAAX amino terminal protease family protein
+PGF_00414926	Halolactibacillus	400.75	2.50	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Halolactibacillus	377.00	0.00	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415436	Halolactibacillus	374.25	62.84	glycoside hydrolase
+PGF_00415486	Halolactibacillus	159.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415631	Halolactibacillus	93.25	0.50	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416115	Halolactibacillus	312.75	0.50	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416152	Halolactibacillus	126.50	0.58	Cadmium efflux system accessory protein
+PGF_00416508	Halolactibacillus	69.75	1.50	Carbon storage regulator
+PGF_00416525	Halolactibacillus	182.00	0.00	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416674	Halolactibacillus	397.00	0.00	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417093	Halolactibacillus	100.75	0.50	Cell division protein GpsB, coordinates the switch between cylindrical and septal cell wall synthesis by re-localization of PBP1
+PGF_00417381	Halolactibacillus	340.00	0.00	Central glycolytic genes regulator
+PGF_00417429	Halolactibacillus	372.00	2.00	Chaperone protein DnaJ
+PGF_00417481	Halolactibacillus	243.25	0.50	3-dehydroquinate dehydratase I (EC 4.2.1.10)
+PGF_00417580	Halolactibacillus	361.25	0.96	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417658	Halolactibacillus	359.00	0.00	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417829	Halolactibacillus	353.00	0.00	Chorismate mutase I (EC 5.4.99.5) / 2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00417839	Halolactibacillus	105.00	38.68	Chorismate mutase II (EC 5.4.99.5)
+PGF_00417840	Halolactibacillus	388.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00417995	Halolactibacillus	228.00	0.00	Chromosome replication initiation protein DnaD
+PGF_00418190	Halolactibacillus	565.00	0.00	CoA-disulfide reductase (EC 1.8.1.14)
+PGF_00418737	Halolactibacillus	506.50	28.52	ComF operon protein A, DNA transporter ATPase
+PGF_00419414	Halolactibacillus	94.00	0.00	UPF0358 protein YlaN
+PGF_00419740	Halolactibacillus	156.00	0.00	Transcriptional regulator CtsR
+PGF_00420087	Halolactibacillus	175.00	0.00	Cysteinyl-tRNA synthetase related protein
+PGF_00420121	Halolactibacillus	223.25	0.50	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420612	Halolactibacillus	209.50	1.91	Cytoplasmic copper homeostasis protein CutC
+PGF_00420798	Halolactibacillus	365.00	0.00	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421071	Halolactibacillus	149.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421277	Halolactibacillus	779.00	0.00	DNA helicase
+PGF_00421498	Halolactibacillus	379.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421624	Halolactibacillus	571.50	12.37	DNA polymerase X family
+PGF_00421679	Halolactibacillus	534.00	139.34	DNA primase (EC 2.7.7.-)
+PGF_00421733	Halolactibacillus	376.00	0.00	DNA recombination and repair protein RecF
+PGF_00421796	Halolactibacillus	575.25	1.50	DNA repair protein RecN
+PGF_00421807	Halolactibacillus	121.25	1.50	DNA replication intiation control protein YabA
+PGF_00422061	Halolactibacillus	90.00	0.00	DNA-binding protein HBsu
+PGF_00422085	Halolactibacillus	95.75	1.50	DNA-binding protein SpoVG
+PGF_00422186	Halolactibacillus	210.25	55.50	DNA-binding response regulator ResD
+PGF_00422271	Halolactibacillus	315.00	2.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422280	Halolactibacillus	184.75	2.06	DNA-directed RNA polymerase delta subunit (EC 2.7.7.6)
+PGF_00422510	Halolactibacillus	146.00	0.00	DUF327 family protein YaaR
+PGF_00422587	Halolactibacillus	393.25	2.50	4-O-beta-D-mannosyl-D-glucose phosphorylase (EC 2.4.1.281)
+PGF_00422645	Halolactibacillus	345.75	0.50	Deblocking aminopeptidase (EC 3.4.11.-)
+PGF_00422879	Halolactibacillus	486.75	9.57	Dehydrosqualene desaturase (EC 1.3.8.2)
+PGF_00422910	Halolactibacillus	219.00	0.00	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxycytidine kinase (EC 2.7.1.74)
+PGF_00422924	Halolactibacillus	195.00	27.34	Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00423089	Halolactibacillus	361.00	0.00	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Halolactibacillus	423.75	2.50	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423343	Halolactibacillus	471.00	0.00	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Halolactibacillus	122.00	0.00	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Halolactibacillus	425.00	0.00	Dihydroorotase (EC 3.5.2.3)
+PGF_00423613	Halolactibacillus	325.00	0.00	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+PGF_00423662	Halolactibacillus	226.75	0.50	Division initiation protein
+PGF_00424075	Halolactibacillus	206.75	24.50	Ectoine/hydroxyectoine ABC transporter permease protein, EhuC
+PGF_00424236	Halolactibacillus	138.25	0.50	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424569	Halolactibacillus	259.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00425024	Halolactibacillus	448.25	2.36	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Halolactibacillus	1036.00	0.00	Exonuclease SbcC
+PGF_00425662	Halolactibacillus	280.00	36.00	FIG00002411: Thioredoxin-fold protein
+PGF_00425665	Halolactibacillus	247.75	30.50	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Halolactibacillus	293.00	0.00	RNase adapter protein RapZ
+PGF_00425679	Halolactibacillus	210.25	0.50	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425714	Halolactibacillus	581.50	258.35	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425720	Halolactibacillus	260.00	0.00	Putative RNA-binding protein YlmH
+PGF_00425729	Halolactibacillus	383.50	78.34	FIG001621: Zinc protease
+PGF_00425734	Halolactibacillus	120.00	0.00	FIG001802: Putative alkaline-shock protein
+PGF_00425747	Halolactibacillus	149.75	0.96	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Halolactibacillus	523.00	0.00	Ribonuclease Y
+PGF_00425806	Halolactibacillus	325.00	0.00	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425997	Halolactibacillus	397.50	1.73	FIG004453: protein YceG like
+PGF_00426701	Halolactibacillus	280.00	0.00	FIG005590: DegV family protein
+PGF_00426877	Halolactibacillus	282.75	4.50	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Halolactibacillus	154.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427033	Halolactibacillus	76.00	0.00	UPF0154 protein YneF
+PGF_00438421	Halolactibacillus	286.00	7.57	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00440726	Halolactibacillus	170.00	0.00	FIG009886: phosphoesterase
+PGF_00464627	Halolactibacillus	548.00	0.00	Sodium-dependent phosphate transporter
+PGF_00482828	Halolactibacillus	449.50	1.00	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Halolactibacillus	360.00	0.00	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00530588	Halolactibacillus	313.00	1.15	Glycine betaine ABC transport system, ATP-binding protein OpuAA (EC 3.6.3.32)
+PGF_00535698	Halolactibacillus	244.00	0.00	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+PGF_00549250	Halolactibacillus	335.00	0.00	V-type ATP synthase subunit C (EC 3.6.3.14)
+PGF_00549302	Halolactibacillus	457.50	67.74	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00598888	Halolactibacillus	131.00	8.00	Mini-ribonuclease III
+PGF_00599219	Halolactibacillus	328.00	0.00	Uncharacterized oxidoreductase YgjR
+PGF_00618776	Halolactibacillus	355.00	0.00	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Halolactibacillus	327.00	0.00	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00641077	Halolactibacillus	113.00	0.00	FIG139598: Potential ribosomal protein
+PGF_00641311	Halolactibacillus	322.50	11.00	ABC transporter, permease protein (cluster 15, trp?)
+PGF_00650532	Halolactibacillus	332.25	0.50	UPF0365 protein YqfA
+PGF_00655628	Halolactibacillus	505.75	6.50	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Halolactibacillus	205.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Halolactibacillus	117.75	0.50	Ribosomal silencing factor RsfA
+PGF_00667256	Halolactibacillus	254.00	0.00	Hypothetical NagD-like phosphatase
+PGF_00689910	Halolactibacillus	303.00	0.00	Integral membrane protein
+PGF_00694978	Halolactibacillus	268.50	5.00	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00716434	Halolactibacillus	290.00	0.00	beta-galactoside ABC tramsporter, permease protein LacF
+PGF_00717495	Halolactibacillus	371.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00717613	Halolactibacillus	210.75	0.50	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00721386	Halolactibacillus	218.50	21.00	hypothetical protein
+PGF_00721835	Halolactibacillus	312.50	1.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00730331	Halolactibacillus	91.00	0.00	Uncharacterized DUF1027 domain protein YutD
+PGF_00730798	Halolactibacillus	133.00	0.00	Transcriptional regulator GlnR
+PGF_00732613	Halolactibacillus	57.00	0.00	hypothetical protein
+PGF_00777371	Halolactibacillus	235.50	1.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Halolactibacillus	231.75	3.50	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00812072	Halolactibacillus	1259.25	89.70	Mannan endo-1,4-beta-mannosidase (EC 3.2.1.78)
+PGF_00818774	Halolactibacillus	55.00	0.00	hypothetical protein
+PGF_00827555	Halolactibacillus	551.25	24.19	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00828128	Halolactibacillus	358.00	0.00	Putative aminopeptidase YsdC
+PGF_00840774	Halolactibacillus	627.00	92.67	Heterodimeric efflux ABC transporter, multidrug resistance => BmrD subunit of BmrCD
+PGF_00854453	Halolactibacillus	291.50	1.73	hypothetical protein
+PGF_00856141	Halolactibacillus	406.00	0.00	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00856417	Halolactibacillus	187.00	4.00	UPF0758 family protein
+PGF_00885329	Halolactibacillus	312.50	41.00	Flagellar motor switch protein FliM
+PGF_00925844	Halolactibacillus	452.25	14.95	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Halolactibacillus	556.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00932867	Halolactibacillus	189.25	1.50	Putative rRNA methylase YtqB
+PGF_00935308	Halolactibacillus	222.75	44.52	FIG011178: rRNA methylase
+PGF_00950554	Halolactibacillus	658.00	0.00	Excinuclease ABC subunit B
+PGF_00955412	Halolactibacillus	251.00	0.00	Probable iron export permease protein FetB
+PGF_01008498	Halolactibacillus	105.00	33.40	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Halolactibacillus	278.00	0.00	Flagellar basal-body rod protein FlgF
+PGF_01040342	Halolactibacillus	273.00	0.00	Spermidine synthase (EC 2.5.1.16)
+PGF_01068086	Halolactibacillus	241.00	34.00	Flagellar biosynthesis protein FliR
+PGF_01079016	Halolactibacillus	282.00	0.00	Chromosome (plasmid) partitioning protein ParB
+PGF_01124268	Halolactibacillus	196.00	0.00	RecU Holliday junction resolvase
+PGF_01127158	Halolactibacillus	266.00	0.00	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01147190	Halolactibacillus	465.00	0.00	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01149804	Halolactibacillus	509.50	4.73	Flagellar cap protein FliD
+PGF_01159117	Halolactibacillus	346.50	0.58	Selenide,water dikinase (EC 2.7.9.3) @ selenocysteine-containing
+PGF_01162681	Halolactibacillus	899.00	0.00	Aconitate hydratase (EC 4.2.1.3)
+PGF_01167921	Halolactibacillus	158.00	0.00	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_01169833	Halolactibacillus	389.75	4.50	Flagellar biosynthesis protein FlhF
+PGF_01170345	Halolactibacillus	73.00	0.00	Flagellar protein FlbD
+PGF_01174739	Halolactibacillus	248.25	0.50	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Halolactibacillus	650.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01188685	Halolactibacillus	212.00	0.00	NADH dehydrogenase (EC 1.6.99.3)
+PGF_01189288	Halolactibacillus	559.00	0.82	Oligo-1,6-glucosidase (EC 3.2.1.10)
+PGF_01191170	Halolactibacillus	149.00	20.00	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01212500	Halolactibacillus	273.00	0.00	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01232770	Halolactibacillus	169.00	4.00	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Halolactibacillus	282.75	40.50	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Halolactibacillus	210.50	1.00	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Halolactibacillus	253.00	0.00	Chromosome (plasmid) partitioning protein ParA
+PGF_01317811	Halolactibacillus	340.50	1.00	1,4-beta-mannosyl-N-acetylglucosamine phosphorylase (EC 2.4.1.320)
+PGF_01323228	Halolactibacillus	195.00	0.00	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01350798	Halolactibacillus	338.25	0.50	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01364427	Halolactibacillus	198.00	0.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01389077	Halolactibacillus	75.00	0.00	Uncharacterized protein YbcJ
+PGF_01393949	Halolactibacillus	544.25	0.50	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01394514	Halolactibacillus	232.00	0.00	Cellobiose phosphotransferase system YdjC-like protein
+PGF_01420802	Halolactibacillus	143.00	0.00	Cell division protein MraZ
+PGF_01421534	Halolactibacillus	212.00	1.63	LSU ribosomal protein L25p
+PGF_01423501	Halolactibacillus	158.00	0.00	Transcription elongation factor GreA
+PGF_01444546	Halolactibacillus	96.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01462895	Halolactibacillus	437.00	0.00	Uncharacterized protein YtoI
+PGF_01465362	Halolactibacillus	141.75	0.50	Mn-dependent transcriptional regulator MntR
+PGF_01466742	Halolactibacillus	422.50	69.00	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01481272	Halolactibacillus	154.50	23.00	Chemotaxis protein CheD
+PGF_01483918	Halolactibacillus	279.25	1.50	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01513923	Halolactibacillus	255.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01529260	Halolactibacillus	160.75	2.36	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01532393	Halolactibacillus	692.50	0.58	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01538186	Halolactibacillus	103.50	15.61	Programmed cell death toxin YdcE
+PGF_01555804	Halolactibacillus	130.00	0.00	Flagellar basal-body rod protein FlgB
+PGF_01576457	Halolactibacillus	282.50	11.15	Hydrolase, haloacid dehalogenase-like family
+PGF_01599021	Halolactibacillus	185.25	0.50	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Halolactibacillus	149.00	0.00	Flagellar basal-body rod modification protein FlgD
+PGF_01614738	Halolactibacillus	81.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Halolactibacillus	340.75	0.50	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01670678	Halolactibacillus	318.75	0.50	Purine nucleoside ABC transporter, permease protein 2
+PGF_01674551	Halolactibacillus	146.00	0.00	Glycine cleavage system H protein
+PGF_01675343	Halolactibacillus	515.00	134.00	Heterodimeric efflux ABC transporter, multidrug resistance => BmrC subunit of BmrCD
+PGF_01675349	Halolactibacillus	515.25	0.50	Purine nucleoside ABC transporter, ATP-binding protein
+PGF_01676411	Halolactibacillus	330.25	2.50	ABC transporter, substrate-binding protein (cluster 15, trp?)
+PGF_01677191	Halolactibacillus	318.25	3.50	Sporulation transcription regulator WhiA
+PGF_01678333	Halolactibacillus	327.25	0.50	Electron transport complex protein RnfD
+PGF_01682537	Halolactibacillus	121.50	4.36	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Halolactibacillus	156.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01719396	Halolactibacillus	214.25	1.50	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Halolactibacillus	216.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737958	Halolactibacillus	257.00	0.00	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01751397	Halolactibacillus	324.50	1.00	Adenine-specific methyltransferase (EC 2.1.1.72)
+PGF_01752285	Halolactibacillus	169.00	0.00	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01777142	Halolactibacillus	187.25	0.50	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01797166	Halolactibacillus	418.25	4.35	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01853493	Halolactibacillus	276.50	1.73	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Halolactibacillus	339.00	0.00	Heat-inducible transcription repressor HrcA
+PGF_01888177	Halolactibacillus	140.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898546	Halolactibacillus	393.75	98.50	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01899042	Halolactibacillus	297.25	98.83	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01899924	Halolactibacillus	261.00	0.00	Flagellar motor rotation protein MotB
+PGF_01899937	Halolactibacillus	244.50	93.00	Rod shape-determining protein MreC
+PGF_01900753	Halolactibacillus	349.50	31.00	Prephenate dehydrogenase (EC 1.3.1.12)
+PGF_01901984	Halolactibacillus	90.00	0.00	Transcriptional repressor SdpR
+PGF_01911320	Halolactibacillus	410.75	3.50	N-carbamoyl-L-amino acid hydrolase (EC 3.5.1.87)
+PGF_01932237	Halolactibacillus	554.25	19.50	CoA-disulfide reductase (EC 1.8.1.14) / Polysulfide binding and transferase domain
+PGF_01942824	Halolactibacillus	381.50	1.00	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01949788	Halolactibacillus	177.25	0.50	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Halolactibacillus	600.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01979610	Halolactibacillus	311.75	38.40	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK
+PGF_01981332	Halolactibacillus	163.75	2.50	Transcriptional regulator, AsnC family
+PGF_01984533	Halolactibacillus	86.00	0.00	UPF0296 protein YlzA
+PGF_01993620	Halolactibacillus	433.50	1.00	Maltodextrin ABC transporter, permease protein MdxF
+PGF_01994657	Halolactibacillus	428.00	0.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Halolactibacillus	252.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02015262	Halolactibacillus	311.00	0.00	Helicase loader DnaI
+PGF_02019462	Halolactibacillus	344.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02019584	Halolactibacillus	131.00	0.00	Regulatory protein Spx
+PGF_02020240	Halolactibacillus	192.50	3.79	Adenylate cyclase (EC 4.6.1.1)
+PGF_02032393	Halolactibacillus	240.50	1.00	Trehalose operon transcriptional repressor
+PGF_02109968	Halolactibacillus	336.00	0.00	Flagellar motor switch protein FliG
+PGF_02154390	Halolactibacillus	359.00	0.00	Phosphomevalonate kinase (EC 2.7.4.2)
+PGF_02155509	Halolactibacillus	704.50	0.58	ATP-dependent Clp protease, ATP-binding subunit ClpE
+PGF_02160287	Halolactibacillus	363.00	0.00	GGDEF domain protein
+PGF_02162014	Halolactibacillus	218.00	0.00	Uncharacterized membrane protein YhjE
+PGF_02186693	Halolactibacillus	362.25	0.50	Flagellar biosynthesis protein FlhB
+PGF_02204321	Halolactibacillus	315.75	60.06	Twitching motility protein PilT
+PGF_02210259	Halolactibacillus	249.25	116.41	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_02226715	Halolactibacillus	678.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227578	Halolactibacillus	227.00	0.00	Putative membrane protease YugP
+PGF_02246769	Halolactibacillus	232.00	0.00	Ectoine/hydroxyectoine ABC transporter permease protein, EhuD
+PGF_02267642	Halolactibacillus	275.50	1.00	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)
+PGF_02346669	Halolactibacillus	314.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02369559	Halolactibacillus	876.00	0.00	DNA polymerase I (EC 2.7.7.7)
+PGF_02382389	Halolactibacillus	291.25	1.50	Ribokinase (EC 2.7.1.15)
+PGF_02405545	Halolactibacillus	317.00	0.00	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02434074	Halolactibacillus	374.75	1.50	ATP-dependent RNA helicase YfmL
+PGF_02454577	Halolactibacillus	88.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Halolactibacillus	198.00	0.00	Recombination protein RecR
+PGF_02473679	Halolactibacillus	544.75	9.50	Type IV fimbrial assembly, ATPase PilB
+PGF_02475999	Halolactibacillus	289.75	0.50	RsbT co-antagonist protein RsbRA
+PGF_02518459	Halolactibacillus	113.00	0.00	Nitrogen regulatory protein P-II
+PGF_02522403	Halolactibacillus	405.50	1.00	Pheromone shutdown protein
+PGF_02557763	Halolactibacillus	175.25	0.50	Intracellular protease
+PGF_02565090	Halolactibacillus	182.00	32.67	Thiol:disulfide oxidoreductase related to ResA
+PGF_02576781	Halolactibacillus	290.00	0.00	Ectoine/hydroxyectoine ABC transporter solute-binding protein, EhuB
+PGF_02578186	Halolactibacillus	327.00	0.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02587605	Halolactibacillus	131.50	11.00	Zinc uptake regulation protein Zur
+PGF_02593689	Halolactibacillus	447.50	1.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Halolactibacillus	455.50	0.58	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619921	Halolactibacillus	369.00	0.00	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+PGF_02623406	Halolactibacillus	290.75	41.23	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627816	Halolactibacillus	216.25	3.86	FIG011945: O-methyltransferase family protein
+PGF_02645954	Halolactibacillus	92.00	0.00	UPF0298 protein YlbG
+PGF_02652319	Halolactibacillus	184.00	0.00	UPF0340 protein YwlG
+PGF_02675192	Halolactibacillus	185.00	0.00	Transcriptional regulator
+PGF_02728524	Halolactibacillus	884.50	1.73	DNA mismatch repair protein MutS
+PGF_02744871	Halolactibacillus	99.75	0.50	Flagellar hook-basal body complex protein FliE
+PGF_02776739	Halolactibacillus	217.00	0.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02787188	Halolactibacillus	90.00	0.00	ACT domain protein
+PGF_02787474	Halolactibacillus	254.25	20.43	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02788357	Halolactibacillus	609.00	0.00	Two-component sensor kinase SA14-24
+PGF_02788582	Halolactibacillus	780.00	0.00	Recombination inhibitory protein MutS2
+PGF_02789532	Halolactibacillus	285.00	0.00	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Halolactibacillus	230.25	0.50	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Halolactibacillus	465.50	5.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Halolactibacillus	1178.00	0.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02817932	Halolactibacillus	390.50	1.73	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02829859	Halolactibacillus	311.25	3.20	Uncharacterized protein YpuA
+PGF_02831085	Halolactibacillus	186.00	1.41	Maltose O-acetyltransferase (EC 2.3.1.79)
+PGF_02838109	Halolactibacillus	168.00	4.62	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Halolactibacillus	267.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Halolactibacillus	419.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02863224	Halolactibacillus	352.25	0.50	Endoglucanase
+PGF_02866413	Halolactibacillus	261.00	0.00	Rhomboid family protein
+PGF_02883702	Halolactibacillus	357.25	0.50	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02896192	Halolactibacillus	326.25	50.39	Purine nucleoside ABC transporter, permease protein 1
+PGF_02896943	Halolactibacillus	273.75	17.63	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_02898096	Halolactibacillus	491.00	0.00	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Halolactibacillus	66.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Halolactibacillus	726.00	1.15	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02917750	Halolactibacillus	285.00	0.00	Maltodextrin ABC transporter, permease protein MdxG
+PGF_02918872	Halolactibacillus	575.25	7.89	Neopullulanase (EC 3.2.1.135)
+PGF_02922961	Halolactibacillus	96.00	0.00	FIG004454: RNA binding protein
+PGF_02923127	Halolactibacillus	240.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Halolactibacillus	290.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02940601	Halolactibacillus	158.00	0.00	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_02941107	Halolactibacillus	328.00	0.00	Glyoxalase family protein
+PGF_02946226	Halolactibacillus	334.00	0.00	Oxidoreductase
+PGF_02946231	Halolactibacillus	382.00	0.00	SSU ribosomal protein S1p
+PGF_02950579	Halolactibacillus	266.00	0.00	Septum site-determining protein MinD
+PGF_02970853	Halolactibacillus	127.50	4.93	Small basic protein Sbp
+PGF_02977685	Halolactibacillus	408.50	43.00	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_02981550	Halolactibacillus	211.50	7.14	Kynurenine formamidase, bacterial (EC 3.5.1.9)
+PGF_02992495	Halolactibacillus	76.00	0.00	Protein translocase membrane subunit SecG
+PGF_02997723	Halolactibacillus	141.75	3.50	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03003601	Halolactibacillus	69.00	2.00	hypothetical protein
+PGF_03009868	Halolactibacillus	226.00	42.00	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+PGF_03017775	Halolactibacillus	494.00	0.00	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Halolactibacillus	186.50	3.32	Septum formation protein Maf
+PGF_03028237	Halolactibacillus	428.75	21.50	Uncharacterized flavin-containing protein YtfP
+PGF_03029062	Halolactibacillus	304.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03041162	Halolactibacillus	46.00	0.00	hypothetical protein
+PGF_03041598	Halolactibacillus	183.00	0.00	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
+PGF_03046709	Halolactibacillus	451.00	1.15	Ammonium transporter
+PGF_03066520	Halolactibacillus	413.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03076739	Halolactibacillus	153.50	6.76	Uncharacterized transcriptional regulator YsmB, MarR family
+PGF_03081665	Halolactibacillus	83.00	0.00	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03084693	Halolactibacillus	511.25	1.26	FIG006789: Stage V sporulation protein
+PGF_03092562	Halolactibacillus	295.50	47.00	sugar-binding transcriptional regulator, LacI family
+PGF_03110657	Halolactibacillus	723.50	1.00	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111988	Halolactibacillus	164.00	0.00	Cell division initiation protein DivIVA
+PGF_03120492	Halolactibacillus	250.75	5.19	Carboxylesterase (EC 3.1.1.1)
+PGF_03122609	Halolactibacillus	408.00	0.00	Uncharacterized protease large subunit YrrO
+PGF_03124650	Halolactibacillus	492.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Halolactibacillus	415.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Halolactibacillus	297.00	5.35	Flagellar hook-associated protein FlgL
+PGF_03145455	Halolactibacillus	325.00	0.00	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03174068	Halolactibacillus	178.00	0.00	Transcription antitermination protein NusG
+PGF_03222913	Halolactibacillus	136.00	0.82	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03233808	Halolactibacillus	287.00	0.00	hypothetical protein
+PGF_03234144	Halolactibacillus	249.25	0.50	hypothetical protein
+PGF_03268078	Halolactibacillus	620.75	0.50	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03272313	Halolactibacillus	847.50	5.20	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Halolactibacillus	62.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03281686	Halolactibacillus	69.00	0.00	Uncharacterized protein YozC
+PGF_03287477	Halolactibacillus	208.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03421722	Halolactibacillus	457.00	1.15	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Halolactibacillus	293.75	0.50	33 kDa chaperonin HslO
+PGF_03439690	Halolactibacillus	151.00	0.00	Ferric uptake regulation protein FUR
+PGF_03440867	Halolactibacillus	133.00	0.00	UPF0047 protein Bsu YugU
+PGF_03448459	Halolactibacillus	125.00	0.00	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03456505	Halolactibacillus	527.00	0.00	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03473104	Halolactibacillus	321.00	0.00	tRNA-dihydrouridine synthase 2
+PGF_03474542	Halolactibacillus	429.00	12.00	Flagellum-specific ATP synthase FliI
+PGF_03504453	Halolactibacillus	194.00	0.00	Substrate-specific component ThiT of thiamin ECF transporter
+PGF_03507820	Halolactibacillus	319.00	0.00	Uncharacterized radical SAM protein YtqA
+PGF_03574598	Halolactibacillus	339.50	5.00	Lon-like protease with PDZ domain
+PGF_03701810	Halolactibacillus	297.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Halolactibacillus	203.50	1.00	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Halolactibacillus	153.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03739563	Halolactibacillus	92.50	20.34	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750541	Halolactibacillus	353.00	0.00	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03751658	Halolactibacillus	84.25	2.22	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Halolactibacillus	194.00	2.00	Heat shock protein GrpE
+PGF_03751878	Halolactibacillus	196.00	0.00	Substrate-specific component RibU of riboflavin ECF transporter
+PGF_03752544	Halolactibacillus	219.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03753933	Halolactibacillus	139.00	0.00	Iron-sulfur cluster regulator IscR
+PGF_03755656	Halolactibacillus	157.00	0.00	Uncharacterized membrane protein YuiD
+PGF_03757137	Halolactibacillus	470.00	0.00	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Halolactibacillus	330.00	0.00	Signal recognition particle receptor FtsY
+PGF_03782093	Halolactibacillus	180.00	26.00	Putative membrane-spanning protein
+PGF_03787199	Halolactibacillus	194.00	0.00	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03793906	Halolactibacillus	275.75	0.50	FIG028593: membrane protein
+PGF_03797303	Halolactibacillus	594.00	2.00	Adenine deaminase (EC 3.5.4.2)
+PGF_03801156	Halolactibacillus	295.00	0.82	Cobalt-zinc-cadmium resistance protein CzcD
+PGF_03850044	Halolactibacillus	429.75	90.50	Sodium/glutamate symporter
+PGF_03862500	Halolactibacillus	195.25	7.50	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03883965	Halolactibacillus	74.00	0.00	UPF0291 protein YnzC
+PGF_03887519	Halolactibacillus	146.00	0.00	hypothetical protein
+PGF_03919938	Halolactibacillus	367.00	0.00	Maltodextrin ABC transporter, ATP-binding protein MsmX
+PGF_03954476	Halolactibacillus	252.00	4.00	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03991729	Halolactibacillus	391.25	0.50	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03999196	Halolactibacillus	809.75	0.50	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Halolactibacillus	431.00	0.00	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04016408	Halolactibacillus	504.00	0.00	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04021616	Halolactibacillus	338.00	15.45	FAD dependent oxidoreductase
+PGF_04024952	Halolactibacillus	464.50	3.00	5'-nucleotidase family protein in cluster with NagD-like phosphatase
+PGF_04034430	Halolactibacillus	57.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Halolactibacillus	75.00	0.00	KH domain RNA binding protein YlqC
+PGF_04041316	Halolactibacillus	947.00	2.00	Excinuclease ABC subunit A
+PGF_04042054	Halolactibacillus	298.00	0.00	Efflux ABC transporter, ATP-binding protein
+PGF_04047265	Halolactibacillus	82.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04081265	Halolactibacillus	275.00	0.00	beta-galactoside ABC tramsporter, permease protein LacG
+PGF_04091295	Halolactibacillus	274.00	0.00	Flagellar motor rotation protein MotA
+PGF_04151476	Halolactibacillus	174.00	0.00	16S rRNA processing protein RimM
+PGF_04182459	Halolactibacillus	234.75	13.50	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Halolactibacillus	258.00	1.41	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04217145	Halolactibacillus	869.00	0.00	Acetaldehyde dehydrogenase (EC 1.2.1.10) / Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_04297012	Halolactibacillus	352.00	0.00	Sporulation integral membrane protein YtvI
+PGF_04306800	Halolactibacillus	373.00	1.15	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04395505	Halolactibacillus	357.25	0.50	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Halolactibacillus	104.00	0.00	Thioredoxin
+PGF_04431830	Halolactibacillus	449.25	98.17	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04454639	Halolactibacillus	454.75	0.50	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04457297	Halolactibacillus	182.75	0.50	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04481164	Halolactibacillus	82.25	9.50	Veg protein
+PGF_04505269	Halolactibacillus	246.25	1.50	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Halolactibacillus	443.50	0.58	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Halolactibacillus	502.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Halolactibacillus	241.50	19.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04652157	Halolactibacillus	217.25	21.55	Tyrosine-protein kinase EpsD (EC 2.7.10.2)
+PGF_04655384	Halolactibacillus	306.00	2.00	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Halolactibacillus	153.00	0.00	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04695681	Halolactibacillus	218.25	2.50	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Halolactibacillus	648.25	4.50	Translation initiation factor 2
+PGF_04788810	Halolactibacillus	185.00	0.00	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04797479	Halolactibacillus	399.00	0.00	hypothetical protein
+PGF_04807486	Halolactibacillus	311.00	0.00	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04815798	Halolactibacillus	332.00	0.00	Mevalonate kinase (EC 2.7.1.36)
+PGF_04845029	Halolactibacillus	113.00	0.00	LSU ribosomal protein L19p
+PGF_04872827	Halolactibacillus	294.25	0.50	Chromosome (plasmid) partitioning protein ParB-2
+PGF_04958295	Halolactibacillus	131.00	0.00	Flagellar biosynthesis protein FliS
+PGF_04971017	Halolactibacillus	353.25	0.50	Threonine synthase (EC 4.2.3.1)
+PGF_04973327	Halolactibacillus	726.00	19.36	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Penicillin-binding protein 2B
+PGF_04978890	Halolactibacillus	102.00	0.00	LSU ribosomal protein L21p
+PGF_05062134	Halolactibacillus	264.00	0.00	ABC transporter, ATP-binding protein (cluster 15, trp?)
+PGF_05111929	Halolactibacillus	767.00	0.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05172659	Halolactibacillus	269.00	0.00	hypothetical protein
+PGF_05195027	Halolactibacillus	468.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Halolactibacillus	468.50	1.00	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05269328	Halolactibacillus	436.50	1.00	DEAD-box ATP-dependent RNA helicase CshB (EC 3.6.4.13)
+PGF_05280843	Halolactibacillus	430.25	0.96	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05304567	Halolactibacillus	250.00	0.00	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+PGF_05377575	Halolactibacillus	244.00	9.35	ABC transporter, ATP-binding protein EcsA
+PGF_05386032	Halolactibacillus	194.75	0.50	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05421852	Halolactibacillus	624.00	0.00	Chaperone protein HtpG
+PGF_05507938	Halolactibacillus	649.00	9.56	DNA mismatch repair protein MutL
+PGF_05560886	Halolactibacillus	277.00	1.15	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05564656	Halolactibacillus	348.00	0.00	6-phosphogluconolactonase (EC 3.1.1.31)
+PGF_05572832	Halolactibacillus	411.00	56.72	beta-galactoside ABC tramsporter, substrate-binding protein LacE
+PGF_05581732	Halolactibacillus	431.00	0.00	Protein translocase subunit SecY
+PGF_05595534	Halolactibacillus	295.00	0.00	DNA polymerase I 5'-3' exonuclease domain
+PGF_05605456	Halolactibacillus	263.75	114.50	hypothetical protein
+PGF_05622318	Halolactibacillus	411.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05714136	Halolactibacillus	120.00	2.31	FIG138056: a glutathione-dependent thiol reductase
+PGF_05971611	Halolactibacillus	399.00	1.15	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Halolactibacillus	635.75	30.50	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06027248	Halolactibacillus	497.00	0.00	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06111528	Halolactibacillus	391.25	2.87	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06122323	Halolactibacillus	1150.75	0.50	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06128857	Halolactibacillus	431.75	17.17	Electron transport complex protein RnfC
+PGF_06164037	Halolactibacillus	303.75	36.50	Inosose isomerase (EC 5.3.99.11)
+PGF_06170558	Halolactibacillus	154.00	0.00	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06172523	Halolactibacillus	505.00	0.00	Glycine betaine ABC transport system, permease protein OpuAB / Glycine betaine ABC transport system, glycine betaine-binding protein OpuAC
+PGF_06180597	Halolactibacillus	145.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Halolactibacillus	494.50	1.91	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Halolactibacillus	93.75	0.50	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Halolactibacillus	300.50	1.00	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06310118	Halolactibacillus	371.00	0.00	ABC transporter, ATP-binding protein (cluster 13, osmolytes)
+PGF_06326847	Halolactibacillus	222.00	0.00	Flagellar biosynthesis protein FliP
+PGF_06364262	Halolactibacillus	232.00	0.00	Two-component response regulator SA14-24
+PGF_06379377	Halolactibacillus	426.25	1.50	Replication-associated recombination protein RarA
+PGF_06403579	Halolactibacillus	772.00	0.00	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06459503	Halolactibacillus	673.50	1.73	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06469881	Halolactibacillus	329.25	4.19	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06530721	Halolactibacillus	213.25	0.50	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06586947	Halolactibacillus	390.50	4.51	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06589185	Halolactibacillus	586.00	12.68	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06591119	Halolactibacillus	234.25	1.50	hypothetical protein
+PGF_06609275	Halolactibacillus	48.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06648993	Halolactibacillus	77.00	0.00	Acyl carrier protein
+PGF_06649360	Halolactibacillus	194.00	0.00	Segregation and condensation protein B
+PGF_06660812	Halolactibacillus	196.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06693963	Halolactibacillus	106.25	0.50	Nucleoid-associated protein YaaK
+PGF_06701488	Halolactibacillus	205.25	3.50	RNA-binding protein Jag
+PGF_06757295	Halolactibacillus	418.00	0.00	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06863675	Halolactibacillus	209.50	10.34	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_06953354	Halolactibacillus	332.00	0.00	Putative sodium-dependent transporter
+PGF_06999244	Halolactibacillus	414.00	0.00	hypothetical protein
+PGF_07004333	Halolactibacillus	216.00	0.00	hypothetical protein
+PGF_07022166	Halolactibacillus	239.75	2.50	hypothetical protein
+PGF_07025615	Halolactibacillus	210.75	24.50	hypothetical protein
+PGF_07028085	Halolactibacillus	437.00	2.00	hypothetical protein
+PGF_07045490	Halolactibacillus	221.25	53.50	hypothetical protein
+PGF_07046111	Halolactibacillus	169.75	1.89	hypothetical protein
+PGF_07071566	Halolactibacillus	315.25	99.50	hypothetical protein
+PGF_07072582	Halolactibacillus	373.75	3.77	RNA polymerase sigma factor RpoD
+PGF_07085063	Halolactibacillus	276.00	0.00	hypothetical protein
+PGF_07093981	Halolactibacillus	303.75	0.50	hypothetical protein
+PGF_07101513	Halolactibacillus	390.00	14.17	Flagellar motor switch protein FliN
+PGF_07118853	Halolactibacillus	479.00	0.00	hypothetical protein
+PGF_07156946	Halolactibacillus	71.00	0.00	hypothetical protein
+PGF_07169163	Halolactibacillus	240.00	2.31	hypothetical protein
+PGF_07213215	Halolactibacillus	125.75	15.50	hypothetical protein
+PGF_07220192	Halolactibacillus	354.00	4.00	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)
+PGF_07247312	Halolactibacillus	235.25	21.50	hypothetical protein
+PGF_07263029	Halolactibacillus	350.00	4.00	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07291245	Halolactibacillus	261.00	4.00	hypothetical protein
+PGF_07347278	Halolactibacillus	164.00	0.00	hypothetical protein
+PGF_07369012	Halolactibacillus	409.75	63.71	hypothetical protein
+PGF_07380314	Halolactibacillus	290.00	0.00	hypothetical protein
+PGF_07383879	Halolactibacillus	148.50	42.98	hypothetical protein
+PGF_07410757	Halolactibacillus	311.00	72.00	Aldose 1-epimerase (EC 5.1.3.3)
+PGF_07426744	Halolactibacillus	244.00	0.00	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_07439033	Halolactibacillus	72.50	15.59	hypothetical protein
+PGF_08047063	Halolactibacillus	387.00	0.00	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08063949	Halolactibacillus	272.75	11.84	Betaine ABC transporter, permease protein BusAB.1
+PGF_08082398	Halolactibacillus	338.25	0.50	Protease IV
+PGF_08110978	Halolactibacillus	398.50	1.00	hypothetical protein
+PGF_08167695	Halolactibacillus	399.00	0.00	ROK family sugar kinase or transcriptional regulator
+PGF_08187921	Halolactibacillus	168.00	0.00	hypothetical protein

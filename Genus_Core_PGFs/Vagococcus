@@ -1,0 +1,694 @@
+PGF_00000027	Vagococcus	266.00	0.00	Uncharacterized protein YmdB
+PGF_00000185	Vagococcus	292.00	15.90	FIG006988: Lipase/Acylhydrolase with GDSL-like motif
+PGF_00000196	Vagococcus	386.25	28.93	FIG007079: UPF0348 protein family
+PGF_00000416	Vagococcus	391.25	14.61	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001028	Vagococcus	431.50	1.00	Uncharacterized zinc protease YmfH
+PGF_00001219	Vagococcus	105.25	4.50	FIG009688: Thioredoxin
+PGF_00002592	Vagococcus	214.25	0.50	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00002970	Vagococcus	245.00	1.15	FIG145533: Methyltransferase (EC 2.1.1.-)
+PGF_00003338	Vagococcus	615.25	1.89	Efflux ABC transporter, permease/ATP-binding protein EF2592
+PGF_00003516	Vagococcus	345.75	52.50	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003791	Vagococcus	203.75	1.50	FMN-dependent NADH-azoreductase (EC 1.7.1.6)
+PGF_00004728	Vagococcus	563.50	5.69	Fibronectin/fibrinogen-binding protein
+PGF_00006245	Vagococcus	557.25	1.50	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006377	Vagococcus	635.75	5.25	Fructose-1,6-bisphosphatase, Bacillus type (EC 3.1.3.11)
+PGF_00006394	Vagococcus	288.25	0.50	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006931	Vagococcus	325.00	0.00	GMP reductase (EC 1.7.1.7)
+PGF_00006935	Vagococcus	517.00	0.82	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007007	Vagococcus	224.25	1.26	GTP pyrophosphokinase (EC 2.7.6.5)
+PGF_00007012	Vagococcus	366.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Vagococcus	436.00	0.00	GTP-binding protein EngA
+PGF_00007026	Vagococcus	194.00	0.82	GTP-binding protein EngB
+PGF_00007027	Vagococcus	300.75	0.50	GTP-binding protein Era
+PGF_00007028	Vagococcus	407.50	11.70	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Vagococcus	618.00	8.68	GTP-binding protein TypA/BipA
+PGF_00007045	Vagococcus	264.00	0.00	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Vagococcus	463.75	0.50	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Vagococcus	387.75	0.96	Galactokinase (EC 2.7.1.6)
+PGF_00007304	Vagococcus	290.50	2.89	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Vagococcus	320.50	1.73	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Vagococcus	340.25	35.85	Glucokinase (EC 2.7.1.2)
+PGF_00007920	Vagococcus	235.50	2.89	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00008051	Vagococcus	456.25	1.26	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008106	Vagococcus	270.00	1.41	Glutamate racemase (EC 5.1.1.3)
+PGF_00008269	Vagococcus	200.25	0.50	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008329	Vagococcus	358.25	0.50	Glutamyl aminopeptidase (EC 3.4.11.7); Deblocking aminopeptidase
+PGF_00008337	Vagococcus	489.25	2.06	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008537	Vagococcus	501.50	2.52	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Vagococcus	337.25	2.50	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Vagococcus	239.25	0.50	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008856	Vagococcus	375.00	4.76	Glycine/D-amino acid oxidases family
+PGF_00009500	Vagococcus	185.00	0.82	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009856	Vagococcus	338.00	2.00	Glycosyltransferase LafB, responsible for the formation of Gal-Glc-DAG
+PGF_00009967	Vagococcus	300.25	0.96	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Vagococcus	691.50	1.73	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010034	Vagococcus	283.00	4.90	Glyoxalase family protein
+PGF_00010205	Vagococcus	251.75	0.96	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Vagococcus	696.00	84.00	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Vagococcus	204.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Vagococcus	313.75	2.99	HPr kinase/phosphorylase
+PGF_00011081	Vagococcus	807.25	0.96	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011541	Vagococcus	327.75	0.50	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011953	Vagococcus	142.00	1.41	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00012264	Vagococcus	336.00	1.15	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012652	Vagococcus	176.00	0.82	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00012930	Vagococcus	390.00	1.63	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+PGF_00013003	Vagococcus	647.00	2.45	Bis-ABC ATPase YheS
+PGF_00013244	Vagococcus	185.00	6.00	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Vagococcus	225.50	3.32	UPF0001 protein YggS
+PGF_00013347	Vagococcus	88.50	0.58	UPF0297 protein YrzL
+PGF_00013492	Vagococcus	181.25	0.50	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00014264	Vagococcus	272.50	1.00	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014678	Vagococcus	176.25	70.84	Integral membrane protein
+PGF_00015039	Vagococcus	242.25	1.89	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Vagococcus	71.00	2.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015255	Vagococcus	254.50	6.40	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015259	Vagococcus	305.50	1.91	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015274	Vagococcus	252.00	0.00	Iron compound ABC uptake transporter ATP-binding protein
+PGF_00015510	Vagococcus	256.50	1.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Vagococcus	464.50	1.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Vagococcus	428.50	1.00	Iron-sulfur cluster assembly protein SufD
+PGF_00015718	Vagococcus	927.25	0.96	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015737	Vagococcus	349.00	5.35	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00016046	Vagococcus	322.00	1.63	L-asparaginase (EC 3.5.1.1)
+PGF_00016223	Vagococcus	289.00	0.82	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Vagococcus	219.75	1.50	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016328	Vagococcus	166.75	0.50	LSU ribosomal protein L10p (P0)
+PGF_00016338	Vagococcus	419.25	3.50	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Vagococcus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016343	Vagococcus	144.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Vagococcus	127.50	1.00	LSU ribosomal protein L17p
+PGF_00016353	Vagococcus	118.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Vagococcus	229.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Vagococcus	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Vagococcus	115.50	0.58	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Vagococcus	95.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Vagococcus	103.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Vagococcus	94.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Vagococcus	276.75	0.50	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Vagococcus	59.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Vagococcus	58.25	1.50	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Vagococcus	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Vagococcus	66.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Vagococcus	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Vagococcus	210.25	0.96	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Vagococcus	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Vagococcus	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Vagococcus	178.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Vagococcus	122.50	1.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Vagococcus	150.00	0.00	LSU ribosomal protein L9p
+PGF_00016546	Vagococcus	124.25	0.50	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00017127	Vagococcus	334.75	0.50	Lipoate-protein ligase A
+PGF_00017473	Vagococcus	709.75	4.35	Lipoteichoic acid synthase LtaS Type IIc
+PGF_00017608	Vagococcus	165.75	2.87	Low temperature requirement C protein
+PGF_00018092	Vagococcus	505.00	0.82	ATP-dependent Zn protease
+PGF_00019038	Vagococcus	464.75	1.26	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019104	Vagococcus	760.50	3.00	Maltose phosphorylase (EC 2.4.1.8)
+PGF_00019217	Vagococcus	310.50	7.14	Manganese ABC transporter, periplasmic-binding protein SitA
+PGF_00019221	Vagococcus	1249.75	2.36	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Vagococcus	308.25	0.96	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019249	Vagococcus	254.50	0.58	Manganese-dependent protein-tyrosine phosphatase (EC 3.1.3.48)
+PGF_00019307	Vagococcus	319.75	0.96	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019427	Vagococcus	118.25	5.74	MazG nucleotide pyrophosphohydrolase
+PGF_00019428	Vagococcus	182.00	0.00	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020147	Vagococcus	366.00	7.07	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020361	Vagococcus	157.25	1.50	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Vagococcus	250.25	1.26	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020984	Vagococcus	286.50	4.73	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Vagococcus	127.75	4.86	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021217	Vagococcus	507.75	0.50	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021390	Vagococcus	221.25	25.54	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00023127	Vagococcus	403.00	4.00	Multidrug resistance efflux pump PmrA
+PGF_00023591	Vagococcus	341.75	4.35	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023835	Vagococcus	298.50	1.73	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00024308	Vagococcus	278.25	1.50	NAD synthetase (EC 6.3.1.5)
+PGF_00024478	Vagococcus	333.50	1.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Vagococcus	230.25	2.50	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024540	Vagococcus	401.50	0.58	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024544	Vagococcus	637.50	6.56	NADH dehydrogenase (EC 1.6.99.3) in cluster with putative pheromone precursor
+PGF_00024831	Vagococcus	448.25	0.50	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00025121	Vagococcus	265.50	22.17	NUDIX hydrolase
+PGF_00025412	Vagococcus	228.50	7.55	Negative regulator of genetic competence MecA
+PGF_00025562	Vagococcus	181.00	0.00	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Vagococcus	485.50	1.73	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026050	Vagococcus	198.00	0.00	Nitroreductase family protein
+PGF_00026279	Vagococcus	263.75	2.36	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026356	Vagococcus	161.25	4.27	Nucleoside 2-deoxyribosyltransferase
+PGF_00026453	Vagococcus	287.75	2.87	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026461	Vagococcus	210.00	2.83	Nucleotidase YfbR, HD superfamily
+PGF_00027383	Vagococcus	406.75	0.50	Acetyltransferase
+PGF_00027563	Vagococcus	104.50	0.58	Ortholog of S. aureus MRSA252 (BX571856) SAR1694
+PGF_00027663	Vagococcus	392.75	5.50	Choline ABC transport system, ATP-binding protein OpuBA
+PGF_00027664	Vagococcus	210.75	0.50	Choline ABC transport system, permease protein OpuBB
+PGF_00027665	Vagococcus	226.00	5.83	Choline ABC transport system, permease protein OpuBD
+PGF_00027666	Vagococcus	310.50	2.38	Choline ABC transport system, choline-binding protein OpuBC
+PGF_00029921	Vagococcus	307.00	0.00	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Vagococcus	356.25	0.50	Peptide chain release factor 1
+PGF_00030643	Vagococcus	525.00	0.00	Peptide chain release factor 3
+PGF_00030776	Vagococcus	213.00	2.71	Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00031568	Vagococcus	146.25	1.71	Peroxide stress regulator PerR, FUR family
+PGF_00033095	Vagococcus	806.25	2.06	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033197	Vagococcus	330.25	6.50	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Vagococcus	319.00	2.45	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Vagococcus	294.00	0.00	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Vagococcus	334.25	0.50	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Vagococcus	321.75	0.50	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033417	Vagococcus	122.25	0.50	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), subunit DhaM; DHA-specific IIA component
+PGF_00033423	Vagococcus	573.00	0.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033511	Vagococcus	394.50	1.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Vagococcus	228.00	0.00	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033802	Vagococcus	500.50	3.32	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033877	Vagococcus	163.00	2.71	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Vagococcus	389.00	0.82	Phosphopentomutase (EC 5.4.2.7)
+PGF_00034776	Vagococcus	712.25	5.91	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Vagococcus	170.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035370	Vagococcus	297.75	0.96	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00036580	Vagococcus	118.75	5.91	Protein translocase subunit YajC
+PGF_00036961	Vagococcus	190.25	3.20	Aggregation promoting factor
+PGF_00037588	Vagococcus	566.25	0.50	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037937	Vagococcus	111.25	1.89	Protein PhnA
+PGF_00038255	Vagococcus	71.00	0.00	Protein of unknown function DUF1447
+PGF_00038619	Vagococcus	250.25	0.50	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038971	Vagococcus	277.25	2.63	Pur operon repressor PurR
+PGF_00038989	Vagococcus	271.50	1.00	Purine nucleoside phosphorylase (EC 2.4.2.1) @ N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1)
+PGF_00040464	Vagococcus	382.50	1.00	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040578	Vagococcus	258.50	3.32	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041788	Vagococcus	156.75	0.50	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042167	Vagococcus	154.25	11.84	Putative metallopeptidase (Zinc) SprT family
+PGF_00042825	Vagococcus	305.50	1.00	Putative oxidoreductase SCO7655
+PGF_00045926	Vagococcus	433.00	0.00	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045963	Vagococcus	1141.75	0.50	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045994	Vagococcus	584.50	1.00	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00045999	Vagococcus	874.25	4.79	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+PGF_00046197	Vagococcus	277.75	4.27	RNA binding methyltransferase FtsJ like
+PGF_00046199	Vagococcus	156.25	8.22	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046403	Vagococcus	445.25	2.06	RNA polymerase sigma-54 factor RpoN
+PGF_00047078	Vagococcus	351.00	4.24	RecA protein
+PGF_00047095	Vagococcus	832.00	13.54	RecD-like DNA helicase YrrC
+PGF_00048331	Vagococcus	326.00	2.00	Rhodanese domain protein UPF0176, Firmicutes subgroup
+PGF_00048347	Vagococcus	131.25	1.50	Rhodanese-like domain protein
+PGF_00048556	Vagococcus	255.00	0.00	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048557	Vagococcus	309.50	1.91	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048564	Vagococcus	558.50	0.58	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PGF_00048566	Vagococcus	192.25	2.50	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048586	Vagococcus	450.50	1.91	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Vagococcus	311.00	2.45	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048627	Vagococcus	730.50	1.00	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048640	Vagococcus	721.00	1.15	Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048641	Vagococcus	322.25	0.96	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Vagococcus	155.50	4.43	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048645	Vagococcus	125.00	2.00	Ribonucleotide reduction protein NrdI
+PGF_00048782	Vagococcus	325.25	5.19	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Vagococcus	238.50	3.00	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Vagococcus	315.75	1.50	Ribosomal protein L11 methyltransferase
+PGF_00048868	Vagococcus	239.50	0.58	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Vagococcus	184.00	0.82	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Vagococcus	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Vagococcus	294.75	2.22	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Vagococcus	88.50	2.89	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Vagococcus	116.00	1.41	Ribosome-binding factor A
+PGF_00048985	Vagococcus	217.50	1.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Vagococcus	395.00	0.82	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Vagococcus	344.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Vagococcus	294.75	2.50	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Vagococcus	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Vagococcus	129.50	1.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Vagococcus	137.25	0.50	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Vagococcus	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Vagococcus	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049844	Vagococcus	89.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Vagococcus	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Vagococcus	91.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Vagococcus	87.75	0.50	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Vagococcus	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Vagococcus	218.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Vagococcus	203.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Vagococcus	166.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Vagococcus	99.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Vagococcus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Vagococcus	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00050290	Vagococcus	254.00	7.57	Segregation and condensation protein A
+PGF_00050586	Vagococcus	354.25	5.19	Sensor histidine kinase VraS
+PGF_00050589	Vagococcus	445.00	59.56	Sensor histidine kinase YclK
+PGF_00051108	Vagococcus	567.75	13.18	Septation ring formation regulator EzrA
+PGF_00051525	Vagococcus	424.75	1.50	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052218	Vagococcus	112.75	0.50	Signal recognition particle associated protein
+PGF_00052238	Vagococcus	477.25	0.50	Signal recognition particle protein Ffh
+PGF_00052647	Vagococcus	325.75	0.50	Similar to heptaprenyl diphosphate synthase component II
+PGF_00052685	Vagococcus	294.25	0.50	Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YjbO type
+PGF_00052705	Vagococcus	140.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Vagococcus	297.50	1.91	Site-specific tyrosine recombinase XerD
+PGF_00053966	Vagococcus	411.50	1.00	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00053991	Vagococcus	272.25	5.32	Stage 0 sporulation protein YaaT
+PGF_00054343	Vagococcus	178.00	0.82	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054381	Vagococcus	190.00	4.69	Substrate-specific component NiaX of predicted niacin ECF transporter
+PGF_00054388	Vagococcus	208.50	0.58	Substrate-specific component PanT of predicted pantothenate ECF transporter
+PGF_00054415	Vagococcus	177.25	8.88	Substrate-specific component ThiW of predicted thiazole ECF transporter
+PGF_00054820	Vagococcus	270.25	2.06	Sugar phosphatase YidA (EC 3.1.3.23)
+PGF_00055985	Vagococcus	330.00	0.00	Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)
+PGF_00056872	Vagococcus	195.25	4.27	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Vagococcus	214.50	3.32	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Vagococcus	315.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057270	Vagococcus	817.50	7.37	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Vagococcus	148.00	1.15	Transamidase GatB domain protein
+PGF_00057483	Vagococcus	423.25	0.50	Transcription termination factor Rho
+PGF_00057485	Vagococcus	397.75	4.50	Transcription termination protein NusA
+PGF_00057488	Vagococcus	142.50	4.20	Transcription termination protein NusB
+PGF_00058776	Vagococcus	146.00	0.00	Transcriptional regulator of fatty acid biosynthesis FabT
+PGF_00060398	Vagococcus	665.25	0.96	Transketolase (EC 2.2.1.1)
+PGF_00060409	Vagococcus	695.00	0.82	Translation elongation factor G
+PGF_00060414	Vagococcus	610.75	1.89	Translation elongation factor LepA
+PGF_00060427	Vagococcus	292.50	0.58	Translation elongation factor Ts
+PGF_00060428	Vagococcus	395.00	0.00	Translation elongation factor Tu
+PGF_00060431	Vagococcus	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Vagococcus	173.00	0.00	Translation initiation factor 3
+PGF_00062045	Vagococcus	338.00	2.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062172	Vagococcus	210.00	0.00	Two component transcriptional regulator VraR
+PGF_00063916	Vagococcus	420.75	1.50	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Vagococcus	299.25	0.50	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Vagococcus	362.25	1.26	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Vagococcus	445.00	0.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064032	Vagococcus	503.00	1.41	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7)
+PGF_00064393	Vagococcus	306.50	6.40	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00065379	Vagococcus	396.75	2.87	Uncharacterized protein YaaN
+PGF_00065678	Vagococcus	708.00	6.68	Uncharacterized protein YqgF
+PGF_00065866	Vagococcus	240.50	0.58	Uncharacterized transcriptional response regulator YclJ
+PGF_00065887	Vagococcus	267.25	2.87	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Vagococcus	209.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Vagococcus	178.25	1.50	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Vagococcus	228.25	6.13	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Vagococcus	210.50	0.58	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066453	Vagococcus	880.25	0.50	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Vagococcus	432.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066906	Vagococcus	308.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Vagococcus	432.00	4.00	Uracil permease @ Uracil:proton symporter UraA
+PGF_00067091	Vagococcus	237.00	1.15	Aspartate racemase (EC 5.1.1.13)
+PGF_00067435	Vagococcus	226.25	0.50	Zinc ABC transporter, ATP-binding protein AdcC
+PGF_00067449	Vagococcus	274.25	0.50	Zinc ABC transporter, permease protein AdcB
+PGF_00067554	Vagococcus	476.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00070432	Vagococcus	449.50	5.74	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070551	Vagococcus	339.50	3.32	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00084324	Vagococcus	277.75	0.96	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00195855	Vagococcus	181.50	1.73	Transcriptional regulator, MerR family, near polyamine transporter
+PGF_00240574	Vagococcus	374.50	6.61	UPF0118 membrane protein YueF
+PGF_00261173	Vagococcus	376.75	2.36	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00265022	Vagococcus	151.75	0.50	hypothetical protein
+PGF_00280549	Vagococcus	311.75	1.89	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00365400	Vagococcus	237.50	3.00	Trehalose utilization protein ThuA
+PGF_00402268	Vagococcus	280.50	3.70	oxidoreductase of aldo/keto reductase family, subgroup 1
+PGF_00404078	Vagococcus	153.25	3.77	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404184	Vagococcus	231.25	1.26	probable enzyme with TIM-barrel fold
+PGF_00404333	Vagococcus	324.00	0.82	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404809	Vagococcus	447.25	0.50	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00404866	Vagococcus	109.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00406573	Vagococcus	259.75	0.96	Putative phosphotransferase YtmP
+PGF_00410883	Vagococcus	171.00	3.56	Single-stranded DNA-binding protein
+PGF_00410945	Vagococcus	531.00	0.00	putative solute:Na symporter
+PGF_00412178	Vagococcus	329.00	1.15	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00412239	Vagococcus	391.25	1.50	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)
+PGF_00412532	Vagococcus	209.50	2.52	Transcriptional repressor CcpN, MarR family
+PGF_00413189	Vagococcus	234.75	2.36	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Vagococcus	167.25	0.50	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Vagococcus	246.50	0.58	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413295	Vagococcus	305.00	0.00	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Vagococcus	634.25	1.50	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Vagococcus	169.75	7.32	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Vagococcus	153.50	1.00	tmRNA-binding protein SmpB
+PGF_00414865	Vagococcus	215.00	1.41	CBS domain protein
+PGF_00414926	Vagococcus	402.00	2.83	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Vagococcus	393.00	8.45	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415486	Vagococcus	159.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415631	Vagococcus	98.50	1.00	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416115	Vagococcus	313.25	0.96	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416410	Vagococcus	1059.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416436	Vagococcus	312.75	0.50	3'->5' exoribonuclease Bsu YhaM
+PGF_00416548	Vagococcus	409.00	11.80	1,2-diacylglycerol 3-glucosyltransferase (EC 2.4.1.337)
+PGF_00416683	Vagococcus	333.00	0.00	Catabolite control protein A
+PGF_00417093	Vagococcus	135.25	10.44	Cell division protein GpsB, coordinates the switch between cylindrical and septal cell wall synthesis by re-localization of PBP1
+PGF_00417150	Vagococcus	340.00	16.00	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F1
+PGF_00417381	Vagococcus	345.00	0.00	Central glycolytic genes regulator
+PGF_00417429	Vagococcus	386.50	4.51	Chaperone protein DnaJ
+PGF_00417433	Vagococcus	609.25	0.50	Chaperone protein DnaK
+PGF_00417658	Vagococcus	355.00	3.74	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Vagococcus	388.75	1.50	Chorismate synthase (EC 4.2.3.5)
+PGF_00417995	Vagococcus	236.50	3.32	Chromosome replication initiation protein DnaD
+PGF_00418737	Vagococcus	404.50	69.77	ComF operon protein A, DNA transporter ATPase
+PGF_00419740	Vagococcus	147.00	14.67	Transcriptional regulator CtsR
+PGF_00419894	Vagococcus	619.00	7.12	Cyclic beta-1,2-glucan modification transmembrane protein
+PGF_00420075	Vagococcus	307.75	2.63	Cysteine synthase (EC 2.5.1.47)
+PGF_00420087	Vagococcus	177.50	1.00	Cysteinyl-tRNA synthetase related protein
+PGF_00420121	Vagococcus	223.75	1.50	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420572	Vagococcus	470.75	3.77	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420798	Vagococcus	348.50	1.00	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421071	Vagococcus	146.50	1.73	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Vagococcus	512.00	6.93	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Vagococcus	1107.50	1.91	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Vagococcus	376.25	0.50	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Vagococcus	613.50	3.32	DNA primase (EC 2.7.7.-)
+PGF_00421733	Vagococcus	376.00	1.41	DNA recombination and repair protein RecF
+PGF_00421792	Vagococcus	456.00	0.00	DNA repair protein RadA
+PGF_00421796	Vagococcus	557.25	1.50	DNA repair protein RecN
+PGF_00421964	Vagococcus	228.75	0.50	DNA-binding heavy metal response regulator
+PGF_00422061	Vagococcus	91.00	0.00	DNA-binding protein HBsu
+PGF_00422271	Vagococcus	312.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422280	Vagococcus	202.75	3.30	DNA-directed RNA polymerase delta subunit (EC 2.7.7.6)
+PGF_00422645	Vagococcus	344.25	0.50	Deblocking aminopeptidase (EC 3.4.11.-)
+PGF_00422959	Vagococcus	175.50	1.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423300	Vagococcus	430.75	3.40	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423343	Vagococcus	470.00	0.00	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
+PGF_00423378	Vagococcus	429.25	2.63	Dihydroorotase (EC 3.5.2.3)
+PGF_00423533	Vagococcus	285.00	0.00	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423613	Vagococcus	332.25	0.50	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+PGF_00423907	Vagococcus	471.50	8.54	Duplicated ATPase component BL0693 of energizing module of predicted ECF transporter
+PGF_00424337	Vagococcus	298.00	2.00	Endonuclease IV (EC 3.1.21.2)
+PGF_00424627	Vagococcus	637.00	0.00	Epi-inositol hydrolase (EC 3.7.1.-)
+PGF_00424706	Vagococcus	458.00	2.00	ErfK/YbiS/YcfS/YnhG family protein, putative
+PGF_00424971	Vagococcus	590.50	6.40	Excinuclease ABC subunit C
+PGF_00425024	Vagococcus	449.00	0.00	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425092	Vagococcus	379.25	4.50	Exonuclease SbcD
+PGF_00425671	Vagococcus	297.25	1.50	RNase adapter protein RapZ
+PGF_00425679	Vagococcus	206.75	11.98	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Vagococcus	240.50	0.58	Probable transcriptional regulatory protein YebC
+PGF_00425720	Vagococcus	261.00	2.00	Putative RNA-binding protein YlmH
+PGF_00425727	Vagococcus	306.50	0.58	FIG001614: Membrane protein
+PGF_00425729	Vagococcus	421.75	2.06	FIG001621: Zinc protease
+PGF_00425734	Vagococcus	120.00	0.00	FIG001802: Putative alkaline-shock protein
+PGF_00425786	Vagococcus	519.50	2.38	Ribonuclease Y
+PGF_00425806	Vagococcus	330.25	0.50	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425997	Vagococcus	404.25	39.13	FIG004453: protein YceG like
+PGF_00426474	Vagococcus	272.00	0.00	5-deoxy-glucuronate isomerase (EC 5.3.1.-)
+PGF_00426572	Vagococcus	320.00	1.15	5-keto-2-deoxygluconokinase (EC 2.7.1.92)
+PGF_00426806	Vagococcus	165.25	1.50	FIG005986: HD family hydrolase
+PGF_00426877	Vagococcus	283.25	1.26	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00440726	Vagococcus	171.50	0.58	FIG009886: phosphoesterase
+PGF_00473519	Vagococcus	202.50	0.58	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Vagococcus	451.25	0.50	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00529632	Vagococcus	865.25	2.06	ClpB protein
+PGF_00596539	Vagococcus	576.25	1.26	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598888	Vagococcus	138.00	1.15	Mini-ribonuclease III
+PGF_00618776	Vagococcus	354.25	2.06	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Vagococcus	329.00	6.00	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00659194	Vagococcus	207.50	1.91	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Vagococcus	102.75	17.65	Ribosomal silencing factor RsfA
+PGF_00667256	Vagococcus	254.50	1.00	Hypothetical NagD-like phosphatase
+PGF_00694978	Vagococcus	254.75	1.26	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00721835	Vagococcus	323.50	0.58	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00734482	Vagococcus	692.75	0.50	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735131	Vagococcus	142.75	2.22	General stress protein
+PGF_00743209	Vagococcus	244.00	12.08	ABC transporter, ATP-binding protein (cluster 12, methionine/phosphonates)
+PGF_00777371	Vagococcus	238.50	1.73	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Vagococcus	229.50	0.58	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00795056	Vagococcus	405.75	2.99	Betaine ABC transporter, ATP-binding protein BusAA
+PGF_00827555	Vagococcus	571.25	2.22	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00828128	Vagococcus	361.00	0.00	Putative aminopeptidase YsdC
+PGF_00856141	Vagococcus	410.25	0.50	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00912265	Vagococcus	329.25	0.50	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Vagococcus	467.00	4.00	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00929740	Vagococcus	902.00	4.00	phage infection protein
+PGF_00935308	Vagococcus	252.75	0.50	FIG011178: rRNA methylase
+PGF_00950554	Vagococcus	665.00	1.15	Excinuclease ABC subunit B
+PGF_00957419	Vagococcus	139.00	0.00	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Vagococcus	316.00	1.15	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00982329	Vagococcus	296.00	0.00	Transcriptional regulator, LysR family
+PGF_01008498	Vagococcus	112.75	1.50	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01058223	Vagococcus	321.50	6.14	Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+PGF_01063433	Vagococcus	355.75	13.50	Primosomal protein N' (replication factor Y) - superfamily II helicase
+PGF_01079016	Vagococcus	294.00	0.00	Chromosome (plasmid) partitioning protein ParB
+PGF_01124257	Vagococcus	581.75	12.12	Autolysis histidine kinase LytS
+PGF_01124268	Vagococcus	203.75	4.72	RecU Holliday junction resolvase
+PGF_01127158	Vagococcus	267.50	0.58	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01172485	Vagococcus	445.00	1.41	Cell division protein FtsA
+PGF_01174739	Vagococcus	268.25	5.50	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01190544	Vagococcus	276.75	4.86	ABC transporter, substrate-binding protein YckB (cluster 3, basic aa/glutamine/opines)
+PGF_01212500	Vagococcus	291.00	11.63	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Vagococcus	542.00	0.00	Heat shock protein 60 family chaperone GroEL
+PGF_01212940	Vagococcus	294.00	1.41	UPF0701 protein YloC
+PGF_01218094	Vagococcus	265.75	2.06	Glutamine ABC transporter, substrate-binding protein GlnH
+PGF_01286550	Vagococcus	386.75	2.22	Galactosamine-6-phosphate isomerase AgaS
+PGF_01288511	Vagococcus	344.00	4.90	Integral membrane protein LafC, accessory function in glycolipid and LTA synthesis
+PGF_01291803	Vagococcus	301.25	1.26	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Vagococcus	216.50	1.73	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Vagococcus	255.25	1.50	Chromosome (plasmid) partitioning protein ParA
+PGF_01305075	Vagococcus	279.75	61.33	Inner membrane protein translocase and chaperone YidC, OxaA protein
+PGF_01323228	Vagococcus	214.00	9.38	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01350798	Vagococcus	339.25	2.06	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351158	Vagococcus	1181.25	0.96	Transcription-repair coupling factor
+PGF_01364427	Vagococcus	205.50	1.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01389077	Vagococcus	78.50	3.00	Uncharacterized protein YbcJ
+PGF_01394899	Vagococcus	397.75	6.85	benzoate MFS transporter BenK
+PGF_01408166	Vagococcus	310.25	5.25	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_01416650	Vagococcus	225.25	79.50	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Vagococcus	143.00	0.00	Cell division protein MraZ
+PGF_01421534	Vagococcus	206.50	0.58	LSU ribosomal protein L25p
+PGF_01423501	Vagococcus	156.25	0.50	Transcription elongation factor GreA
+PGF_01444546	Vagococcus	101.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01462537	Vagococcus	571.50	1.00	Efflux ABC transporter, permease/ATP-binding protein YwjA
+PGF_01462895	Vagococcus	440.50	1.00	Uncharacterized protein YtoI
+PGF_01483918	Vagococcus	277.75	4.19	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01513923	Vagococcus	259.75	1.50	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01529260	Vagococcus	194.00	4.00	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01588364	Vagococcus	268.50	1.00	Transcriptional regulator, TrmB family
+PGF_01603398	Vagococcus	595.25	2.87	Efflux ABC transporter, permease/ATP-binding protein MdlB
+PGF_01614738	Vagococcus	87.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Vagococcus	346.50	2.38	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667880	Vagococcus	88.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668974	Vagococcus	773.50	7.90	DNA internalization-related competence protein ComEC/Rec2
+PGF_01670678	Vagococcus	318.50	1.73	Purine nucleoside ABC transporter, permease protein 2
+PGF_01675349	Vagococcus	521.50	1.00	Purine nucleoside ABC transporter, ATP-binding protein
+PGF_01677191	Vagococcus	310.50	2.52	Sporulation transcription regulator WhiA
+PGF_01682537	Vagococcus	116.25	0.50	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Vagococcus	157.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01719396	Vagococcus	217.50	3.70	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Vagococcus	216.75	0.50	Adenylate kinase (EC 2.7.4.3)
+PGF_01751397	Vagococcus	336.00	1.41	Adenine-specific methyltransferase (EC 2.1.1.72)
+PGF_01752285	Vagococcus	176.50	2.38	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01777142	Vagococcus	216.25	6.65	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01797166	Vagococcus	429.50	3.51	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01821079	Vagococcus	279.25	18.87	Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YhcT type
+PGF_01862412	Vagococcus	255.75	2.87	Transcriptional regulator, IclR family
+PGF_01867628	Vagococcus	347.25	1.50	Heat-inducible transcription repressor HrcA
+PGF_01888177	Vagococcus	142.25	0.50	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Vagococcus	222.00	5.42	Endonuclease III (EC 4.2.99.18)
+PGF_01898546	Vagococcus	448.75	2.87	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01922493	Vagococcus	509.50	1.00	Cardiolipin synthetase (EC 2.7.8.-)
+PGF_01960322	Vagococcus	603.25	2.50	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Vagococcus	427.00	0.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02009924	Vagococcus	392.50	4.12	UPF0118 membrane protein YubA
+PGF_02014594	Vagococcus	259.25	1.26	hypothetical protein
+PGF_02015262	Vagococcus	310.50	1.73	Helicase loader DnaI
+PGF_02017994	Vagococcus	572.00	0.00	Efflux ABC transporter, permease/ATP-binding protein EF2593
+PGF_02019462	Vagococcus	348.50	1.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02019584	Vagococcus	132.00	0.00	Regulatory protein Spx
+PGF_02026136	Vagococcus	287.50	3.70	Uncharacterized S1 RNA binding domain protein YitL
+PGF_02029783	Vagococcus	436.25	1.26	GTP-binding protein Obg
+PGF_02040916	Vagococcus	747.75	19.59	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-) / Penicillin-binding protein 1A/1B (PBP1)
+PGF_02061452	Vagococcus	381.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02154390	Vagococcus	368.25	2.99	Phosphomevalonate kinase (EC 2.7.4.2)
+PGF_02154745	Vagococcus	1445.25	0.50	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02155509	Vagococcus	721.75	11.73	ATP-dependent Clp protease, ATP-binding subunit ClpE
+PGF_02185217	Vagococcus	432.50	3.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02226715	Vagococcus	675.50	4.12	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02230495	Vagococcus	229.75	4.27	N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)
+PGF_02346768	Vagococcus	882.25	2.50	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Vagococcus	377.50	5.07	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Vagococcus	884.50	3.00	DNA polymerase I (EC 2.7.7.7)
+PGF_02382389	Vagococcus	302.50	1.73	Ribokinase (EC 2.7.1.15)
+PGF_02405545	Vagococcus	306.00	0.00	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02434074	Vagococcus	424.50	20.22	ATP-dependent RNA helicase YfmL
+PGF_02450432	Vagococcus	263.50	3.00	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Vagococcus	198.00	0.00	Recombination protein RecR
+PGF_02516909	Vagococcus	432.00	1.15	Enolase (EC 4.2.1.11)
+PGF_02578186	Vagococcus	328.00	0.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02587605	Vagococcus	142.75	1.71	Zinc uptake regulation protein Zur
+PGF_02593689	Vagococcus	456.50	4.36	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601796	Vagococcus	327.75	1.50	Ornithine cyclodeaminase (EC 4.3.1.12)
+PGF_02611620	Vagococcus	451.00	7.35	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619921	Vagococcus	369.00	0.00	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+PGF_02623406	Vagococcus	315.00	2.83	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Vagococcus	1216.50	0.58	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Vagococcus	149.00	23.64	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02728524	Vagococcus	847.00	30.67	DNA mismatch repair protein MutS
+PGF_02788357	Vagococcus	607.75	0.50	Two-component sensor kinase SA14-24
+PGF_02788582	Vagococcus	792.50	4.36	Recombination inhibitory protein MutS2
+PGF_02789532	Vagococcus	281.25	3.30	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Vagococcus	241.00	1.41	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Vagococcus	471.50	1.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Vagococcus	1188.50	5.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02827138	Vagococcus	235.25	2.50	Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+PGF_02870372	Vagococcus	329.75	4.50	Galactose operon repressor, GalR-LacI family of transcriptional regulators
+PGF_02895613	Vagococcus	437.25	0.96	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02896192	Vagococcus	363.00	7.35	Purine nucleoside ABC transporter, permease protein 1
+PGF_02896943	Vagococcus	353.75	1.26	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_02897045	Vagococcus	557.00	0.00	Ribonuclease J2 (endoribonuclease in RNA processing)
+PGF_02899131	Vagococcus	63.00	0.82	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Vagococcus	725.75	2.87	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02922961	Vagococcus	103.25	0.50	FIG004454: RNA binding protein
+PGF_02923127	Vagococcus	240.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02972882	Vagococcus	967.75	103.50	ABC transporter, coiled-coil domain and fused permease subunit
+PGF_02977685	Vagococcus	425.00	1.63	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_02992495	Vagococcus	78.00	0.00	Protein translocase membrane subunit SecG
+PGF_02993851	Vagococcus	220.25	0.50	KtrCD potassium uptake system, peripheral membrane component KtrC
+PGF_02997723	Vagococcus	157.00	15.79	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03003601	Vagococcus	61.50	4.12	hypothetical protein
+PGF_03017775	Vagococcus	498.75	3.50	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Vagococcus	184.50	3.70	Septum formation protein Maf
+PGF_03025044	Vagococcus	172.00	2.00	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03026450	Vagococcus	1190.75	1.50	Chromosome partition protein smc
+PGF_03029062	Vagococcus	305.75	0.50	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03041598	Vagococcus	178.25	2.99	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
+PGF_03054699	Vagococcus	715.75	116.53	DNA translocase FtsK
+PGF_03062916	Vagococcus	289.75	33.17	peptidase, U32 family small subunit [C1]
+PGF_03066520	Vagococcus	412.25	0.50	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03075401	Vagococcus	154.00	1.41	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Vagococcus	90.25	5.91	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03084693	Vagococcus	525.00	1.63	FIG006789: Stage V sporulation protein
+PGF_03110657	Vagococcus	676.25	94.17	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111988	Vagococcus	260.50	20.98	Cell division initiation protein DivIVA
+PGF_03117711	Vagococcus	198.75	0.50	Hydrolase (HAD superfamily), YqeK
+PGF_03122609	Vagococcus	411.75	2.22	Uncharacterized protease large subunit YrrO
+PGF_03124650	Vagococcus	489.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03128546	Vagococcus	215.75	1.50	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
+PGF_03140041	Vagococcus	215.50	2.52	CBS domain protein
+PGF_03154343	Vagococcus	130.75	1.26	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Vagococcus	272.50	1.00	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Vagococcus	181.00	2.00	Transcription antitermination protein NusG
+PGF_03207511	Vagococcus	237.50	5.26	Integral membrane protein
+PGF_03222913	Vagococcus	139.00	2.45	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03257845	Vagococcus	205.50	0.58	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03268078	Vagococcus	644.50	11.36	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03272313	Vagococcus	835.75	7.89	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Vagococcus	62.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03351651	Vagococcus	578.00	10.03	Efflux ABC transporter, permease/ATP-binding protein MdlA
+PGF_03400333	Vagococcus	332.75	1.50	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03429638	Vagococcus	297.50	2.89	33 kDa chaperonin HslO
+PGF_03439690	Vagococcus	158.25	8.62	Ferric uptake regulation protein FUR
+PGF_03473104	Vagococcus	321.75	1.50	tRNA-dihydrouridine synthase 2
+PGF_03499087	Vagococcus	574.75	2.06	Betaine ABC transporter, permease protein BusAB.1 / Betaine ABC transporter, substrate-binding protein BusAB.2
+PGF_03507820	Vagococcus	317.50	3.79	Uncharacterized radical SAM protein YtqA
+PGF_03514188	Vagococcus	447.75	0.96	Glutathione reductase (EC 1.8.1.7)
+PGF_03515458	Vagococcus	77.00	0.00	hypothetical protein
+PGF_03520151	Vagococcus	420.25	4.19	Cell division protein FtsZ
+PGF_03556786	Vagococcus	596.75	14.57	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.135)
+PGF_03574598	Vagococcus	346.75	7.23	Lon-like protease with PDZ domain
+PGF_03656992	Vagococcus	311.75	2.50	Tagatose-6-phosphate kinase (EC 2.7.1.144)
+PGF_03684283	Vagococcus	409.50	6.56	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Vagococcus	294.00	1.41	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Vagococcus	202.00	1.15	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Vagococcus	157.00	4.69	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750571	Vagococcus	446.50	0.58	Chromosomal replication initiator protein DnaA
+PGF_03751658	Vagococcus	94.25	0.50	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Vagococcus	191.00	4.90	Heat shock protein GrpE
+PGF_03752215	Vagococcus	131.00	0.00	D-ribose pyranase (EC 5.4.99.62)
+PGF_03752544	Vagococcus	224.50	0.58	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Vagococcus	297.50	1.73	Site-specific tyrosine recombinase XerC
+PGF_03778780	Vagococcus	401.75	45.59	Signal recognition particle receptor FtsY
+PGF_03786627	Vagococcus	467.25	2.99	Gluconokinase (EC 2.7.1.12)
+PGF_03787622	Vagococcus	375.75	3.40	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Vagococcus	233.00	0.82	Ribonuclease III (EC 3.1.26.3)
+PGF_03801195	Vagococcus	226.75	3.20	Putative amidotransferase similar to cobyric acid synthase
+PGF_03802330	Vagococcus	206.25	2.50	Phenylalanyl-tRNA synthetase domain protein (Bsu YtpR)
+PGF_03855260	Vagococcus	476.50	32.35	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)
+PGF_03856084	Vagococcus	693.50	11.00	Cell division protein FtsH
+PGF_03892353	Vagococcus	350.00	3.27	UPF0118 membrane protein YdbI
+PGF_03912513	Vagococcus	153.25	0.50	DNA protection during starvation protein
+PGF_03919938	Vagococcus	367.75	0.50	Maltodextrin ABC transporter, ATP-binding protein MsmX
+PGF_03967450	Vagococcus	296.50	43.00	Maltose operon transcriptional repressor MalR, LacI family
+PGF_03981123	Vagococcus	255.00	15.14	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_03999196	Vagococcus	820.00	2.83	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_03999530	Vagococcus	244.00	2.00	Cell wall-active antibiotics response protein VraT
+PGF_04018703	Vagococcus	271.75	0.96	Teichoic acid translocation permease protein TagG
+PGF_04024952	Vagococcus	456.75	3.77	5'-nucleotidase family protein in cluster with NagD-like phosphatase
+PGF_04025415	Vagococcus	151.50	6.40	Large-conductance mechanosensitive channel
+PGF_04034430	Vagococcus	58.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Vagococcus	82.25	2.87	KH domain RNA binding protein YlqC
+PGF_04041316	Vagococcus	939.50	0.58	Excinuclease ABC subunit A
+PGF_04132127	Vagococcus	284.75	0.50	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04151476	Vagococcus	174.75	1.50	16S rRNA processing protein RimM
+PGF_04182459	Vagococcus	228.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04258098	Vagococcus	292.50	3.00	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+PGF_04306800	Vagococcus	371.75	0.50	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04360357	Vagococcus	841.75	0.50	Protein translocase subunit SecA
+PGF_04395505	Vagococcus	339.75	4.50	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Vagococcus	103.00	0.00	Thioredoxin
+PGF_04431595	Vagococcus	339.75	0.50	Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
+PGF_04431830	Vagococcus	499.50	1.73	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04457297	Vagococcus	186.75	6.13	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Vagococcus	320.00	0.00	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04481164	Vagococcus	82.75	3.86	Veg protein
+PGF_04490570	Vagococcus	381.50	1.00	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04493258	Vagococcus	293.75	2.36	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Vagococcus	260.50	1.00	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Vagococcus	456.25	1.50	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Vagococcus	454.50	1.91	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Vagococcus	511.50	1.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Vagococcus	251.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04655384	Vagococcus	307.00	3.46	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Vagococcus	151.50	1.00	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Vagococcus	647.75	2.87	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Vagococcus	405.00	0.00	Alanine transaminase (EC 2.6.1.2)
+PGF_04695681	Vagococcus	213.00	40.82	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Vagococcus	763.50	20.42	Translation initiation factor 2
+PGF_04788810	Vagococcus	189.25	1.50	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Vagococcus	315.25	3.77	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04815798	Vagococcus	315.25	1.26	Mevalonate kinase (EC 2.7.1.36)
+PGF_04845029	Vagococcus	115.00	0.00	LSU ribosomal protein L19p
+PGF_04962192	Vagococcus	784.50	11.00	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Vagococcus	101.25	1.50	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04973327	Vagococcus	617.50	27.67	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Penicillin-binding protein 2B
+PGF_04978890	Vagococcus	102.00	0.00	LSU ribosomal protein L21p
+PGF_05039439	Vagococcus	350.25	20.69	Oxidoreductase, Gfo/Idh/MocA family
+PGF_05111929	Vagococcus	770.00	2.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Vagococcus	803.75	0.50	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05136495	Vagococcus	176.25	2.99	Integral membrane protein
+PGF_05140475	Vagococcus	449.00	3.74	Branched-chain amino acid transport system carrier protein
+PGF_05154512	Vagococcus	70.50	3.32	Ferredoxin
+PGF_05165078	Vagococcus	314.25	0.50	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Vagococcus	467.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05249824	Vagococcus	257.75	0.50	Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+PGF_05269328	Vagococcus	449.00	2.00	DEAD-box ATP-dependent RNA helicase CshB (EC 3.6.4.13)
+PGF_05280843	Vagococcus	427.00	0.82	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05377575	Vagococcus	244.50	1.00	ABC transporter, ATP-binding protein EcsA
+PGF_05439724	Vagococcus	673.50	1.00	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05444169	Vagococcus	300.75	15.76	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05463808	Vagococcus	271.25	3.59	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Vagococcus	641.25	5.74	DNA mismatch repair protein MutL
+PGF_05514477	Vagococcus	181.50	1.00	Chromate reductase (EC 1.6.5.2)
+PGF_05564656	Vagococcus	340.50	1.00	6-phosphogluconolactonase (EC 3.1.1.31)
+PGF_05581732	Vagococcus	432.00	0.00	Protein translocase subunit SecY
+PGF_05598173	Vagococcus	361.50	2.38	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Vagococcus	412.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Vagococcus	226.25	0.50	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05850653	Vagococcus	360.25	3.20	Myo-inositol 2-dehydrogenase 1 (EC 1.1.1.18)
+PGF_05925776	Vagococcus	298.25	2.50	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05971611	Vagococcus	181.25	3.20	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Vagococcus	674.00	3.83	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06027248	Vagococcus	505.25	4.27	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06084258	Vagococcus	444.00	17.44	Serine protease, DegP/HtrA, do-like (EC 3.4.21.-)
+PGF_06111528	Vagococcus	385.50	4.36	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06115957	Vagococcus	405.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Vagococcus	1196.25	11.62	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06133167	Vagococcus	209.00	0.00	MBL-fold metallo-hydrolase superfamily
+PGF_06164037	Vagococcus	322.00	0.00	Inosose isomerase (EC 5.3.99.11)
+PGF_06180597	Vagococcus	147.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Vagococcus	94.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Vagococcus	289.00	4.62	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06297806	Vagococcus	1067.50	8.35	DNA/RNA helicases, SNF2 family
+PGF_06364262	Vagococcus	234.25	0.50	Two-component response regulator SA14-24
+PGF_06379377	Vagococcus	425.25	0.96	Replication-associated recombination protein RarA
+PGF_06459503	Vagococcus	625.25	10.18	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06530721	Vagococcus	216.25	4.57	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06586947	Vagococcus	380.75	4.86	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06589185	Vagococcus	589.50	2.38	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06594013	Vagococcus	141.25	0.50	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06649360	Vagococcus	200.00	4.90	Segregation and condensation protein B
+PGF_06693963	Vagococcus	104.50	1.00	Nucleoid-associated protein YaaK
+PGF_06701488	Vagococcus	252.25	6.29	RNA-binding protein Jag
+PGF_06735060	Vagococcus	748.50	3.00	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06750600	Vagococcus	336.00	4.00	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06755829	Vagococcus	311.25	2.06	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06863675	Vagococcus	224.75	2.87	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_07072582	Vagococcus	374.25	2.99	RNA polymerase sigma factor RpoD
+PGF_07263029	Vagococcus	378.25	3.10	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07426744	Vagococcus	247.75	0.50	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_07552376	Vagococcus	408.00	2.45	Putative virion core protein (lumpy skin disease virus)
+PGF_08102025	Vagococcus	341.75	12.95	Putative membrane protein YeiH

@@ -1,0 +1,958 @@
+PGF_00000416	Thiomonas	376.00	9.94	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000936	Thiomonas	157.31	26.04	FIG00899427: hypothetical protein
+PGF_00000939	Thiomonas	410.54	4.93	Uncharacterized protein YhiN
+PGF_00002508	Thiomonas	216.31	7.39	FIG016425: Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)
+PGF_00002592	Thiomonas	229.92	8.35	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00002659	Thiomonas	714.31	14.10	FIG022606: AAA ATPase
+PGF_00003448	Thiomonas	388.23	5.80	FIG110192: hypothetical protein
+PGF_00003478	Thiomonas	200.92	8.90	FIG123464: Polysaccharide export protein
+PGF_00003516	Thiomonas	246.54	2.18	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003750	Thiomonas	168.38	1.12	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004094	Thiomonas	401.00	0.82	Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)
+PGF_00004671	Thiomonas	768.62	52.36	Ferrous iron transport protein B
+PGF_00005284	Thiomonas	561.15	11.77	Flagellar M-ring protein FliF
+PGF_00005288	Thiomonas	395.38	19.53	Flagellar P-ring protein FlgI
+PGF_00005354	Thiomonas	138.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005358	Thiomonas	261.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Thiomonas	698.62	4.44	Flagellar biosynthesis protein FlhA
+PGF_00005402	Thiomonas	89.62	4.70	Flagellar biosynthesis protein FliQ
+PGF_00005450	Thiomonas	414.31	1.18	Flagellar hook protein FlgE
+PGF_00005454	Thiomonas	667.15	0.69	Flagellar hook-associated protein FlgK
+PGF_00005572	Thiomonas	351.36	51.17	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005620	Thiomonas	371.00	6.66	Flagellar regulatory protein FleQ
+PGF_00006078	Thiomonas	434.08	3.33	Fmu (Sun) /eukaryotic nucleolar NOL1/Nop2p; tRNA/rRNA cytosine-C5-methyltransferase
+PGF_00006100	Thiomonas	299.31	55.73	tRNA-modifying protein YgfZ
+PGF_00006320	Thiomonas	282.00	32.45	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006331	Thiomonas	420.69	18.78	Fosmidomycin resistance protein
+PGF_00006394	Thiomonas	354.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006454	Thiomonas	511.69	8.59	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006461	Thiomonas	478.08	2.63	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006653	Thiomonas	410.15	0.38	Gate supefamily SpmA/SpmB domains protein
+PGF_00006935	Thiomonas	532.77	1.74	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Thiomonas	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Thiomonas	464.92	5.96	GTP-binding protein EngA
+PGF_00007026	Thiomonas	227.00	12.52	GTP-binding protein EngB
+PGF_00007027	Thiomonas	301.54	1.45	GTP-binding protein Era
+PGF_00007028	Thiomonas	371.69	19.19	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007057	Thiomonas	472.69	1.70	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Thiomonas	295.46	51.55	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007353	Thiomonas	404.92	2.25	General secretion pathway protein F
+PGF_00007632	Thiomonas	315.77	5.80	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007720	Thiomonas	570.00	0.00	ABC transporter, permease protein (cluster 10, nitrate/sulfonate/bicarbonate) / ABC transporter, permease protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00007844	Thiomonas	328.92	19.70	Glucokinase (EC 2.7.1.2)
+PGF_00007982	Thiomonas	295.54	1.33	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00008051	Thiomonas	456.08	11.54	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Thiomonas	376.69	4.03	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Thiomonas	412.38	3.38	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008161	Thiomonas	430.00	0.00	Glutamate--cysteine ligase (EC 6.3.2.2), divergent, of Alpha- and Beta-proteobacteria type
+PGF_00008164	Thiomonas	434.15	12.38	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008239	Thiomonas	262.07	12.93	Glutamine amidotransferase, class I
+PGF_00008334	Thiomonas	434.92	2.29	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Thiomonas	469.15	0.90	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008393	Thiomonas	391.31	7.39	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008469	Thiomonas	344.00	11.81	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008537	Thiomonas	501.08	2.78	Glycerol kinase (EC 2.7.1.30)
+PGF_00008773	Thiomonas	962.38	4.91	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008780	Thiomonas	369.15	8.39	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Thiomonas	223.69	1.55	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008882	Thiomonas	376.15	4.34	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00008885	Thiomonas	409.85	0.55	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009500	Thiomonas	214.62	16.05	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009530	Thiomonas	376.23	0.60	Glycosyl transferase, group 2 family
+PGF_00009614	Thiomonas	452.85	4.04	ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate) / C-terminal AAA-associated domain
+PGF_00009967	Thiomonas	339.69	27.66	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Thiomonas	716.62	6.89	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010161	Thiomonas	585.85	5.79	Glyoxylate carboligase (EC 4.1.1.47)
+PGF_00010332	Thiomonas	449.08	8.24	Guanine deaminase (EC 3.5.4.3)
+PGF_00010349	Thiomonas	786.08	15.25	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010356	Thiomonas	146.08	9.40	Guanyl-specific ribonuclease (EC 3.1.27.3)
+PGF_00010360	Thiomonas	208.31	1.80	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Thiomonas	317.08	0.28	HPr kinase/phosphorylase
+PGF_00011081	Thiomonas	760.38	10.16	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011634	Thiomonas	453.77	15.34	HflK protein
+PGF_00011979	Thiomonas	445.23	2.77	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Thiomonas	351.54	1.13	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Thiomonas	436.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012970	Thiomonas	659.31	18.35	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00012982	Thiomonas	257.46	1.66	Hydroxypyruvate isomerase (EC 5.3.1.22)
+PGF_00013003	Thiomonas	648.69	1.55	Bis-ABC ATPase YheS
+PGF_00013017	Thiomonas	331.77	3.81	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013244	Thiomonas	199.62	10.15	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013266	Thiomonas	260.15	8.60	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013283	Thiomonas	239.07	13.44	UPF0001 protein YggS
+PGF_00013509	Thiomonas	518.43	6.76	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013801	Thiomonas	508.00	9.17	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013803	Thiomonas	195.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013857	Thiomonas	737.08	5.16	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014051	Thiomonas	273.92	12.64	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014306	Thiomonas	176.00	1.22	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Thiomonas	491.46	16.99	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014735	Thiomonas	231.69	6.33	Integral membrane protein, interacts with FtsH
+PGF_00015039	Thiomonas	286.00	0.00	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Thiomonas	80.23	6.38	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Thiomonas	179.31	0.75	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Thiomonas	292.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Thiomonas	106.69	1.11	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015523	Thiomonas	144.46	6.98	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015573	Thiomonas	214.69	8.07	Iron-sulfur cluster-binding protein
+PGF_00015701	Thiomonas	416.15	0.38	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015707	Thiomonas	604.92	14.60	Isocitrate dehydrogenase phosphatase (EC 2.7.11.5)/kinase (EC 3.1.3.-)
+PGF_00015855	Thiomonas	338.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016046	Thiomonas	322.08	4.13	L-asparaginase (EC 3.5.1.1)
+PGF_00016225	Thiomonas	473.15	5.41	L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016325	Thiomonas	771.23	7.63	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Thiomonas	164.54	2.99	LSU ribosomal protein L10p (P0)
+PGF_00016338	Thiomonas	421.54	0.88	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016342	Thiomonas	148.00	0.41	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Thiomonas	138.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Thiomonas	129.62	4.99	LSU ribosomal protein L17p
+PGF_00016353	Thiomonas	119.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Thiomonas	235.69	0.85	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Thiomonas	118.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Thiomonas	90.62	13.14	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Thiomonas	108.54	1.66	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Thiomonas	104.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Thiomonas	104.00	3.61	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Thiomonas	85.69	1.70	LSU ribosomal protein L27p
+PGF_00016393	Thiomonas	274.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Thiomonas	61.69	1.32	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Thiomonas	60.15	0.55	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Thiomonas	55.85	0.38	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Thiomonas	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Thiomonas	217.38	8.05	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Thiomonas	206.15	0.38	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Thiomonas	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Thiomonas	175.77	4.44	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Thiomonas	124.62	0.77	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Thiomonas	150.00	0.00	LSU ribosomal protein L9p
+PGF_00016546	Thiomonas	131.85	7.77	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016852	Thiomonas	227.54	4.99	Leucine efflux protein
+PGF_00016872	Thiomonas	406.15	44.25	ABC-type branched-chain amino acid transport systems, periplasmic component
+PGF_00016919	Thiomonas	247.15	0.38	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Thiomonas	383.54	3.95	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017152	Thiomonas	370.62	1.39	Lipocalin-related protein and Bos/Can/Equ allergen
+PGF_00017190	Thiomonas	270.77	13.20	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017400	Thiomonas	320.23	6.43	Murein hydrolase activator NlpD
+PGF_00017459	Thiomonas	495.69	16.14	ATP-dependent RNA helicase Bcep18194_A5658
+PGF_00017464	Thiomonas	229.46	3.31	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Thiomonas	321.54	3.45	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Thiomonas	356.62	1.94	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00018956	Thiomonas	328.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018964	Thiomonas	536.23	15.94	Malate synthase (EC 2.3.3.9)
+PGF_00018992	Thiomonas	214.38	1.19	Maleylacetoacetate isomerase (EC 5.2.1.2) @ Glutathione S-transferase, zeta (EC 2.5.1.18)
+PGF_00019038	Thiomonas	440.69	2.98	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Thiomonas	180.38	5.30	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Thiomonas	891.00	5.54	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00019856	Thiomonas	303.15	11.89	Membrane protein
+PGF_00020168	Thiomonas	415.85	8.38	Membrane-bound lytic murein transglycosylase A
+PGF_00020184	Thiomonas	542.62	9.00	Membrane-bound lytic murein transglycosylase D
+PGF_00020361	Thiomonas	174.85	7.72	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Thiomonas	271.92	0.28	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020952	Thiomonas	201.15	8.86	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), glycolate utilization
+PGF_00020981	Thiomonas	534.77	2.31	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Thiomonas	286.77	3.68	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021186	Thiomonas	365.15	0.55	ATPase
+PGF_00022479	Thiomonas	203.92	6.86	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022577	Thiomonas	174.62	3.95	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00022605	Thiomonas	237.31	2.50	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00023591	Thiomonas	343.69	7.17	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023818	Thiomonas	444.92	7.45	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00024225	Thiomonas	1211.15	7.83	5-oxoprolinase (EC 3.5.2.9), HyuA-like domain / 5-oxoprolinase (EC 3.5.2.9), HyuB-like domain
+PGF_00024232	Thiomonas	401.77	3.00	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Thiomonas	382.62	1.71	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Thiomonas	161.54	1.20	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Thiomonas	389.31	0.75	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Thiomonas	332.08	3.35	NAD synthetase (EC 6.3.1.5)
+PGF_00024309	Thiomonas	555.85	9.64	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024478	Thiomonas	338.85	9.39	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024509	Thiomonas	444.31	50.15	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024567	Thiomonas	401.15	5.10	Acetate kinase (EC 2.7.2.1)
+PGF_00024681	Thiomonas	244.23	4.57	Acetoacetate decarboxylase (EC 4.1.1.4)
+PGF_00024687	Thiomonas	417.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Thiomonas	177.38	4.07	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Thiomonas	216.46	4.59	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Thiomonas	104.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Thiomonas	493.62	1.39	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Thiomonas	487.77	0.60	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Thiomonas	142.85	8.03	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025215	Thiomonas	163.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025252	Thiomonas	451.62	4.94	Na+-driven multidrug efflux pump
+PGF_00025344	Thiomonas	510.00	7.82	Na+/solute symporter
+PGF_00025598	Thiomonas	404.46	2.26	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025639	Thiomonas	394.00	4.45	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00025890	Thiomonas	362.31	4.03	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Thiomonas	326.85	4.56	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Thiomonas	239.08	17.37	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026563	Thiomonas	161.46	2.11	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Thiomonas	307.62	9.98	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026866	Thiomonas	324.38	9.72	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Thiomonas	689.62	1.56	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027752	Thiomonas	635.92	16.85	Outer membrane component of TAM transport system
+PGF_00028423	Thiomonas	399.31	10.11	Outer membrane stress sensor protease DegS
+PGF_00029269	Thiomonas	913.31	1.97	Aconitate hydratase (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_00029464	Thiomonas	155.77	0.83	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029571	Thiomonas	1104.46	4.98	Acriflavin resistance protein
+PGF_00029917	Thiomonas	281.38	0.77	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Thiomonas	358.00	1.00	Peptide chain release factor 1
+PGF_00030643	Thiomonas	543.08	3.12	Peptide chain release factor 3
+PGF_00033095	Thiomonas	811.38	2.75	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033110	Thiomonas	370.85	4.85	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit
+PGF_00033237	Thiomonas	362.00	21.92	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Thiomonas	362.00	6.40	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Thiomonas	390.62	2.63	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Thiomonas	950.15	24.02	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033411	Thiomonas	272.00	0.00	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Thiomonas	586.31	22.04	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033488	Thiomonas	626.23	9.17	Phosphogluconate dehydratase (EC 4.2.1.12)
+PGF_00033511	Thiomonas	403.85	6.34	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Thiomonas	234.69	1.11	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033729	Thiomonas	263.54	1.66	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Thiomonas	275.85	8.09	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033767	Thiomonas	247.31	8.91	Phospholipid and glycerol acyltransferase (EC 2.3.1.51)
+PGF_00033877	Thiomonas	166.31	5.34	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Thiomonas	426.85	0.38	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Thiomonas	295.08	2.78	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Thiomonas	219.46	2.93	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Thiomonas	244.62	1.94	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Thiomonas	357.23	17.03	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Thiomonas	1339.69	19.46	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Thiomonas	208.15	3.00	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Thiomonas	401.85	1.86	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033981	Thiomonas	289.31	9.52	Phosphoribulokinase (EC 2.7.1.19)
+PGF_00034566	Thiomonas	479.38	4.13	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Thiomonas	720.31	9.38	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034851	Thiomonas	264.15	16.18	Polysaccharide biosynthesis protein WlaX
+PGF_00034972	Thiomonas	181.62	1.94	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Thiomonas	335.92	3.90	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Thiomonas	195.92	4.07	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035378	Thiomonas	473.00	3.61	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035721	Thiomonas	468.08	3.23	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Thiomonas	439.08	2.25	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036427	Thiomonas	247.85	22.80	Predicted transcriptional regulator for fatty acid degradation FadP, TetR family
+PGF_00036543	Thiomonas	544.15	22.97	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036580	Thiomonas	100.62	14.10	Protein translocase subunit YajC
+PGF_00037431	Thiomonas	826.46	15.23	Probable two-component transmembrane sensor histidine kinase transcription regulator protein (EC 2.7.3.-)
+PGF_00037588	Thiomonas	583.38	18.07	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037750	Thiomonas	630.15	0.55	Propionate--CoA ligase (EC 6.2.1.17)
+PGF_00038455	Thiomonas	269.92	3.90	Uncharacterized UPF0721 integral membrane protein
+PGF_00038674	Thiomonas	311.38	20.25	Protein translocase subunit SecF
+PGF_00038879	Thiomonas	144.69	1.44	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039703	Thiomonas	180.54	18.00	Putative SAM-dependent methyltransferase Bucepa02006346
+PGF_00040149	Thiomonas	504.23	9.58	Putative amidase MSMEG_6673
+PGF_00040578	Thiomonas	266.08	10.67	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Thiomonas	289.46	6.13	Putative deoxyribonuclease YjjV
+PGF_00041278	Thiomonas	240.46	6.69	Putative heme iron utilization protein
+PGF_00041289	Thiomonas	275.92	24.85	Putative hemolysin
+PGF_00043383	Thiomonas	624.08	18.86	Putative protease
+PGF_00044735	Thiomonas	443.15	4.18	Putative transmembrane protein
+PGF_00044786	Thiomonas	310.00	7.74	Putative transmembrane protein
+PGF_00045833	Thiomonas	213.46	5.27	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Thiomonas	257.46	1.76	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045982	Thiomonas	905.46	9.88	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046104	Thiomonas	369.23	9.20	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046348	Thiomonas	345.92	12.35	RNA polymerase sigma factor RpoS
+PGF_00046377	Thiomonas	248.62	3.48	RNA polymerase sigma factor for flagellar operon
+PGF_00046403	Thiomonas	506.46	10.39	RNA polymerase sigma-54 factor RpoN
+PGF_00046622	Thiomonas	82.38	4.99	RNA-binding protein Hfq
+PGF_00047078	Thiomonas	352.31	2.29	RecA protein
+PGF_00048480	Thiomonas	211.00	4.24	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Thiomonas	149.31	7.39	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Thiomonas	211.00	5.20	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Thiomonas	238.23	17.20	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048630	Thiomonas	979.23	19.63	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048638	Thiomonas	400.77	12.99	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Thiomonas	164.15	3.60	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Thiomonas	323.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Thiomonas	557.00	42.28	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Thiomonas	299.69	2.21	Ribosomal protein L11 methyltransferase
+PGF_00048842	Thiomonas	311.77	6.88	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Thiomonas	464.85	2.27	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Thiomonas	112.92	9.95	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Thiomonas	186.69	5.81	Ribosome recycling factor
+PGF_00048936	Thiomonas	120.23	0.60	Ribosome-binding factor A
+PGF_00048973	Thiomonas	471.62	4.99	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)
+PGF_00048975	Thiomonas	112.00	4.92	Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)
+PGF_00048985	Thiomonas	234.08	1.44	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049163	Thiomonas	182.46	6.23	Rod shape-determining protein MreD
+PGF_00049330	Thiomonas	401.15	8.89	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Thiomonas	401.62	15.31	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Thiomonas	269.23	3.14	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Thiomonas	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Thiomonas	132.00	10.22	SSU ribosomal protein S11p (S14e)
+PGF_00049840	Thiomonas	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Thiomonas	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Thiomonas	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Thiomonas	85.31	7.34	SSU ribosomal protein S16p
+PGF_00049854	Thiomonas	88.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Thiomonas	95.54	1.13	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Thiomonas	89.92	3.88	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Thiomonas	275.08	4.05	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Thiomonas	208.62	5.82	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Thiomonas	172.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049906	Thiomonas	132.00	0.58	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Thiomonas	128.85	4.16	SSU ribosomal protein S9p (S16e)
+PGF_00049990	Thiomonas	99.08	0.28	SWIB/MDM2 domain-containing proteins
+PGF_00050290	Thiomonas	280.38	10.84	Segregation and condensation protein A
+PGF_00050368	Thiomonas	370.77	8.02	Selenophosphate-dependent tRNA 2-selenouridine synthase
+PGF_00050995	Thiomonas	500.08	0.28	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Thiomonas	267.77	8.70	Septum site-determining protein MinC
+PGF_00051358	Thiomonas	384.15	1.95	Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase
+PGF_00052238	Thiomonas	449.46	1.20	Signal recognition particle protein Ffh
+PGF_00052574	Thiomonas	323.38	1.12	Similar to cobalamin biosynthesis protein CbiB
+PGF_00052674	Thiomonas	219.31	0.85	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052676	Thiomonas	222.23	1.92	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase
+PGF_00052705	Thiomonas	143.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Thiomonas	321.15	11.26	Site-specific tyrosine recombinase XerD
+PGF_00053770	Thiomonas	390.85	10.47	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054301	Thiomonas	205.15	5.26	Stringent starvation protein A
+PGF_00054323	Thiomonas	211.77	1.88	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Thiomonas	120.15	3.05	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00055095	Thiomonas	336.31	3.71	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+PGF_00055186	Thiomonas	1001.54	14.58	Anaerobic dimethyl sulfoxide reductase chain A (EC 1.8.5.3), molybdopterin-binding domain
+PGF_00055240	Thiomonas	277.15	13.81	Anaerobic dimethyl sulfoxide reductase chain B (EC 1.8.5.3), iron-sulfur binding subunit
+PGF_00055267	Thiomonas	309.38	1.71	Anaerobic dimethyl sulfoxide reductase chain C (EC 1.8.5.3), anchor subunit
+PGF_00055273	Thiomonas	193.15	0.38	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055302	Thiomonas	349.85	1.68	Surface antigen
+PGF_00055966	Thiomonas	373.00	6.00	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Thiomonas	351.85	8.68	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056634	Thiomonas	165.15	0.38	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056662	Thiomonas	348.00	1.73	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056883	Thiomonas	214.38	1.56	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Thiomonas	279.38	8.43	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Thiomonas	485.92	1.04	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Thiomonas	155.38	0.96	Tol biopolymer transport system, TolR protein
+PGF_00057032	Thiomonas	153.69	9.36	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Thiomonas	779.38	5.91	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Thiomonas	151.38	3.93	Transamidase GatB domain protein
+PGF_00057435	Thiomonas	189.92	7.85	Transcription elongation factor GreB
+PGF_00057483	Thiomonas	420.00	0.00	Transcription termination factor Rho
+PGF_00057485	Thiomonas	492.00	0.00	Transcription termination protein NusA
+PGF_00057488	Thiomonas	202.85	3.46	Transcription termination protein NusB
+PGF_00057511	Thiomonas	309.00	6.56	Transcriptional activator MetR
+PGF_00060313	Thiomonas	454.77	2.62	Transcriptional response regulatory protein GlrR
+PGF_00060414	Thiomonas	601.38	2.63	Translation elongation factor LepA
+PGF_00060421	Thiomonas	184.00	0.00	Translation elongation factor P
+PGF_00060427	Thiomonas	293.54	3.76	Translation elongation factor Ts
+PGF_00060478	Thiomonas	141.46	10.77	Translation initiation factor 3
+PGF_00061607	Thiomonas	124.69	2.21	ApaG protein
+PGF_00062023	Thiomonas	284.15	11.57	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Thiomonas	411.38	1.71	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Thiomonas	406.85	5.94	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062561	Thiomonas	238.62	3.62	Two-component response regulatory protein BP2547
+PGF_00062790	Thiomonas	499.69	3.79	Two-component system histidine kinase BP2548
+PGF_00063167	Thiomonas	91.77	6.82	Type I antifreeze protein
+PGF_00063379	Thiomonas	611.69	3.15	Type II secretory pathway, ATPase PulE/Tfp pilus assembly pathway, ATPase PilB
+PGF_00063734	Thiomonas	208.31	3.45	Type IV pilus biogenesis protein PilN
+PGF_00063916	Thiomonas	419.38	14.67	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Thiomonas	283.85	7.01	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Thiomonas	307.08	4.27	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Thiomonas	358.15	4.45	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063952	Thiomonas	309.85	3.05	UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13)
+PGF_00063955	Thiomonas	378.23	0.83	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87)
+PGF_00063974	Thiomonas	336.54	10.45	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Thiomonas	392.15	26.83	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Thiomonas	469.62	1.19	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064169	Thiomonas	306.00	0.82	Arginase (EC 3.5.3.1)
+PGF_00064184	Thiomonas	518.46	9.36	UPF0061 protein YdiU
+PGF_00064270	Thiomonas	262.92	4.37	UPF0246 protein YaaA
+PGF_00064393	Thiomonas	294.08	1.44	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064460	Thiomonas	523.15	0.55	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064557	Thiomonas	355.15	4.22	Uncharacterized GTP-binding protein YjiA
+PGF_00064685	Thiomonas	89.00	4.88	Uncharacterized ferredoxin-like protein YfhL
+PGF_00065755	Thiomonas	427.69	27.67	Uncharacterized protein with LysM domain, COG1652
+PGF_00065887	Thiomonas	246.00	3.32	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065892	Thiomonas	123.00	0.00	Undecaprenyl phosphate-aminoarabinose flippase subunit ArnE @ Undecaprenyl phosphate-aminoarabinose flippase subunit ArnF
+PGF_00065901	Thiomonas	338.00	4.78	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53)
+PGF_00066124	Thiomonas	179.85	2.41	Pyrimidine operon regulatory protein PyrR
+PGF_00066270	Thiomonas	363.77	0.83	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Thiomonas	954.23	18.75	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Thiomonas	469.38	3.64	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Thiomonas	322.08	2.22	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067127	Thiomonas	255.00	3.27	Xylulose-1,5-bisphosphate phosphatase CbbY, converts this Rubisco inhibiting byproduct to xylulose-5P
+PGF_00067188	Thiomonas	379.08	6.41	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067192	Thiomonas	181.85	3.26	YaeQ protein
+PGF_00067277	Thiomonas	395.92	7.30	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067361	Thiomonas	329.69	4.07	YihE protein, required for LPS synthesis
+PGF_00067412	Thiomonas	82.85	0.90	YrbA protein
+PGF_00067466	Thiomonas	602.77	12.72	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Thiomonas	482.00	0.82	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Thiomonas	366.00	10.57	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Thiomonas	871.15	2.30	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068886	Thiomonas	298.85	0.55	Auxin efflux carrier family protein
+PGF_00070068	Thiomonas	1096.85	9.11	B12 binding domain / kinase domain / Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070995	Thiomonas	381.77	15.25	Membrane-bound lytic murein transglycosylase B
+PGF_00071693	Thiomonas	301.46	9.90	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00102041	Thiomonas	211.08	4.07	Esterase YqiA
+PGF_00144272	Thiomonas	166.62	3.23	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00221213	Thiomonas	125.54	3.10	Membrane protein
+PGF_00255767	Thiomonas	453.62	12.07	Osmolarity sensory histidine kinase EnvZ
+PGF_00261173	Thiomonas	365.00	6.20	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00306574	Thiomonas	344.15	9.88	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00368844	Thiomonas	165.54	16.42	hypothetical protein
+PGF_00376758	Thiomonas	318.00	5.87	ATP/GTP-binding protein
+PGF_00399622	Thiomonas	143.62	6.89	Barstar, ribonuclease (Barnase) inhibitor
+PGF_00400845	Thiomonas	438.77	6.15	Uncharacterized integral membrane endopeptidase Bmul_2226
+PGF_00401752	Thiomonas	248.77	0.83	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00403434	Thiomonas	386.62	0.96	2-methylcitrate synthase (EC 2.3.3.5)
+PGF_00403860	Thiomonas	212.23	11.40	Ferric siderophore transport system, biopolymer transport protein ExbB
+PGF_00404078	Thiomonas	160.38	3.88	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Thiomonas	449.85	0.38	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404660	Thiomonas	319.62	2.22	Dioxygenases related to 2-nitropropane dioxygenase
+PGF_00406692	Thiomonas	950.00	0.58	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00407056	Thiomonas	412.00	7.47	putative facilitator of salicylate uptake
+PGF_00413203	Thiomonas	156.62	1.19	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Thiomonas	254.92	2.33	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Thiomonas	332.85	50.31	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Thiomonas	259.62	10.68	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Thiomonas	338.69	12.28	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Thiomonas	664.38	16.97	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Thiomonas	322.62	15.64	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Thiomonas	188.08	8.35	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413478	Thiomonas	344.92	4.52	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases / CDP-6-deoxy-delta-3,4-glucoseen reductase-like
+PGF_00413554	Thiomonas	147.23	0.60	tmRNA-binding protein SmpB
+PGF_00413669	Thiomonas	132.92	3.25	transcriptional regulator SoxR
+PGF_00414156	Thiomonas	136.38	3.10	twitching motility protein PilG
+PGF_00414165	Thiomonas	730.23	18.53	twitching motility protein PilJ
+PGF_00414228	Thiomonas	242.00	0.00	Two-component system response regulator OmpR
+PGF_00414926	Thiomonas	421.85	13.93	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Thiomonas	286.38	11.35	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415346	Thiomonas	393.00	0.00	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415407	Thiomonas	420.31	14.67	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415481	Thiomonas	404.38	9.01	SAM-dependent methyltransferase, MidA
+PGF_00415486	Thiomonas	155.23	3.09	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Thiomonas	216.00	0.41	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415660	Thiomonas	433.00	6.03	COG2907: Amine oxidase, flavin-containing
+PGF_00416129	Thiomonas	550.38	3.40	CTP synthase (EC 6.3.4.2)
+PGF_00416576	Thiomonas	202.54	2.11	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Thiomonas	390.69	8.20	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416832	Thiomonas	396.85	2.38	1,2-diacylglycerol 3-glucosyltransferase (EC 2.4.1.157); diglucosyldiacylglycerol synthase (LTA membrane anchor synthesis)
+PGF_00417429	Thiomonas	378.85	6.94	Chaperone protein DnaJ
+PGF_00417437	Thiomonas	629.00	4.45	Chaperone protein HscA
+PGF_00417577	Thiomonas	151.85	5.46	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417755	Thiomonas	231.62	19.27	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417864	Thiomonas	402.85	3.60	Chromate transport protein ChrA
+PGF_00417987	Thiomonas	218.46	13.02	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Thiomonas	261.08	3.28	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418156	Thiomonas	170.46	12.73	ClpXP protease specificity-enhancing factor / Stringent starvation protein B
+PGF_00419014	Thiomonas	562.54	4.86	3-hydroxypropionate dehydrogenase DddA, flavin-containing (EC 1.1.1.59)
+PGF_00419627	Thiomonas	313.54	8.54	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419628	Thiomonas	479.46	29.53	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Thiomonas	201.54	14.07	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419915	Thiomonas	286.92	2.22	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420048	Thiomonas	405.23	2.77	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420051	Thiomonas	547.00	0.00	3-methylmercaptopropionyl-CoA ligase (EC 6.2.1.44) of DmdB1 type
+PGF_00420078	Thiomonas	300.15	0.55	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420358	Thiomonas	480.46	0.97	Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1)
+PGF_00420363	Thiomonas	212.23	1.88	Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)
+PGF_00420502	Thiomonas	735.46	11.04	Cytochrome c-type biogenesis protein Ccs1/ResB
+PGF_00420731	Thiomonas	487.69	1.70	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420798	Thiomonas	363.00	23.01	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Thiomonas	331.23	2.77	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420957	Thiomonas	449.92	12.72	D-glycerate 2-kinase (EC 2.7.1.165)
+PGF_00421098	Thiomonas	667.08	8.02	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Thiomonas	1148.15	5.27	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Thiomonas	374.85	8.17	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Thiomonas	618.08	33.42	DNA primase (EC 2.7.7.-)
+PGF_00421796	Thiomonas	558.08	3.20	DNA repair protein RecN
+PGF_00422271	Thiomonas	328.31	0.75	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422303	Thiomonas	195.77	8.68	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
+PGF_00422711	Thiomonas	217.15	10.20	DedA protein
+PGF_00422918	Thiomonas	188.85	11.77	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Thiomonas	152.15	5.65	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Thiomonas	384.92	6.97	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Thiomonas	443.77	7.82	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Thiomonas	476.69	0.75	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423376	Thiomonas	168.38	21.82	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423378	Thiomonas	434.62	2.87	Dihydroorotase (EC 3.5.2.3)
+PGF_00423382	Thiomonas	364.54	4.94	Dihydroorotase (EC 3.5.2.3)
+PGF_00423450	Thiomonas	303.54	9.41	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)
+PGF_00423472	Thiomonas	682.46	11.07	DinG family ATP-dependent helicase YoaA
+PGF_00423480	Thiomonas	268.92	5.99	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1
+PGF_00423533	Thiomonas	338.54	8.69	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423914	Thiomonas	190.31	10.93	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Thiomonas	284.23	3.54	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424447	Thiomonas	342.54	9.73	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424482	Thiomonas	503.00	7.09	4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
+PGF_00424569	Thiomonas	269.00	0.58	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Thiomonas	643.46	9.66	Excinuclease ABC subunit C
+PGF_00425021	Thiomonas	1168.31	12.24	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Thiomonas	450.85	6.18	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425161	Thiomonas	692.54	10.19	Exoribonuclease II (EC 3.1.13.1)
+PGF_00425665	Thiomonas	279.08	5.12	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Thiomonas	318.62	0.87	RNase adapter protein RapZ
+PGF_00425684	Thiomonas	242.77	6.76	Probable transcriptional regulatory protein YebC
+PGF_00425685	Thiomonas	300.31	6.61	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425704	Thiomonas	91.00	3.96	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425714	Thiomonas	690.54	1.13	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425810	Thiomonas	251.38	4.99	Cell division protein ZapD
+PGF_00425929	Thiomonas	305.15	4.16	5'-nucleotidase (EC 3.1.3.5)
+PGF_00425993	Thiomonas	398.62	4.54	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Thiomonas	327.85	18.88	FIG004453: protein YceG like
+PGF_00426044	Thiomonas	285.54	7.20	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Thiomonas	637.62	1.94	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Thiomonas	426.62	2.43	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426342	Thiomonas	295.69	11.66	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426932	Thiomonas	160.15	1.91	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447508	Thiomonas	467.15	0.55	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00454030	Thiomonas	421.54	6.77	Multidrug efflux system EmrAB-OMF, membrane fusion component EmrA
+PGF_00457990	Thiomonas	192.00	4.71	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00529632	Thiomonas	861.62	1.50	ClpB protein
+PGF_00549302	Thiomonas	499.69	3.35	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00569671	Thiomonas	318.62	10.19	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580333	Thiomonas	389.00	3.61	Lipopolysaccharide assembly protein LapB
+PGF_00582270	Thiomonas	462.92	9.76	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00596539	Thiomonas	592.92	14.30	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00616490	Thiomonas	307.69	0.75	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Thiomonas	380.62	5.53	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Thiomonas	302.31	3.20	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Thiomonas	522.08	3.30	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Thiomonas	326.38	11.30	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644953	Thiomonas	329.31	23.96	DnaJ-class molecular chaperone CbpA
+PGF_00648054	Thiomonas	249.38	1.56	Tol-Pal system protein TolQ
+PGF_00655131	Thiomonas	517.00	2.92	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00659194	Thiomonas	233.62	11.89	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Thiomonas	442.23	0.60	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Thiomonas	255.54	11.21	Ribosomal silencing factor RsfA
+PGF_00671129	Thiomonas	112.00	0.00	Nitrogen regulatory protein P-II, GlnK
+PGF_00676723	Thiomonas	454.23	4.82	Cardiolipin synthase (EC 2.7.8.-), ClsC
+PGF_00685421	Thiomonas	242.54	13.68	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+PGF_00709443	Thiomonas	161.85	2.64	Twin-arginine translocation protein TatB
+PGF_00720161	Thiomonas	604.69	7.79	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase (EC 2.4.2.43) @ Melittin resistance protein PqaB @ Polymyxin resistance protein PmrK
+PGF_00721835	Thiomonas	325.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Thiomonas	767.46	39.74	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00730641	Thiomonas	207.69	1.70	4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+PGF_00733848	Thiomonas	279.08	5.44	Endonuclease/exonuclease/phosphatase
+PGF_00777996	Thiomonas	284.46	82.60	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00800643	Thiomonas	443.85	10.85	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
+PGF_00813259	Thiomonas	258.23	34.34	FolM Alternative dihydrofolate reductase 1
+PGF_00827555	Thiomonas	615.85	8.56	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Thiomonas	297.92	0.28	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00874759	Thiomonas	423.54	4.48	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00885329	Thiomonas	335.77	0.60	Flagellar motor switch protein FliM
+PGF_00900256	Thiomonas	478.46	3.84	Threonine synthase (EC 4.2.3.1)
+PGF_00908360	Thiomonas	261.15	0.38	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Thiomonas	358.00	24.06	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Thiomonas	344.23	9.58	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Thiomonas	587.54	9.73	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00943546	Thiomonas	262.54	14.68	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00944166	Thiomonas	343.38	1.39	Isocitrate dehydrogenase [NAD] (EC 1.1.1.41)
+PGF_00945580	Thiomonas	205.77	59.14	Transcriptional regulator, Crp/Fnr family
+PGF_00947006	Thiomonas	420.38	16.28	UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)
+PGF_00950554	Thiomonas	695.85	4.16	Excinuclease ABC subunit B
+PGF_00957419	Thiomonas	136.00	3.00	Putative pre-16S rRNA nuclease Yqg
+PGF_00960894	Thiomonas	107.69	3.12	Uncharacterized homolog of the cytoplasmic domain of flagellar protein FhlB
+PGF_00973394	Thiomonas	158.23	1.69	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_01011517	Thiomonas	388.15	2.82	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01042105	Thiomonas	190.15	2.73	hypothetical protein
+PGF_01043619	Thiomonas	653.62	1.85	hypothetical protein
+PGF_01052295	Thiomonas	379.77	9.20	Lipopolysaccharide export system permease protein LptF
+PGF_01058419	Thiomonas	1200.77	5.40	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01065911	Thiomonas	213.62	2.22	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01075683	Thiomonas	146.77	17.55	Hemoglobin-like protein HbO
+PGF_01084030	Thiomonas	752.31	6.07	Outer membrane protein assembly factor YaeT
+PGF_01092098	Thiomonas	174.54	4.37	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01095191	Thiomonas	295.92	0.28	Methylisocitrate lyase (EC 4.1.3.30)
+PGF_01109741	Thiomonas	376.69	7.98	Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.8.1)
+PGF_01115747	Thiomonas	483.69	20.41	Aldehyde dehydrogenase (EC 1.2.1.3); Probable coniferyl aldehyde dehydrogenase (EC 1.2.1.68)
+PGF_01124177	Thiomonas	432.77	5.67	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Thiomonas	371.85	0.38	Rod shape-determining protein RodA
+PGF_01147190	Thiomonas	503.08	8.51	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01166636	Thiomonas	87.00	1.87	Glutaredoxin 3 (Grx3)
+PGF_01169833	Thiomonas	484.15	20.95	Flagellar biosynthesis protein FlhF
+PGF_01172200	Thiomonas	211.62	1.71	Uncharacterized membrane anchored protein Mext_4159
+PGF_01174739	Thiomonas	242.77	1.92	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Thiomonas	639.69	3.86	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Thiomonas	545.23	2.01	Heat shock protein 60 family chaperone GroEL
+PGF_01223569	Thiomonas	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Thiomonas	169.54	3.78	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Thiomonas	346.38	15.75	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01323228	Thiomonas	207.69	8.33	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01336345	Thiomonas	124.54	1.33	Type IV pilus biogenesis protein PilZ
+PGF_01351158	Thiomonas	1165.85	14.03	Transcription-repair coupling factor
+PGF_01364427	Thiomonas	190.15	0.69	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01402518	Thiomonas	510.85	9.56	Malonate-semialdehyde dehydrogenase [inositol] (EC 1.2.1.18)
+PGF_01421534	Thiomonas	203.23	5.02	LSU ribosomal protein L25p
+PGF_01444546	Thiomonas	101.31	7.47	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Thiomonas	116.46	4.63	Integration host factor alpha subunit
+PGF_01466819	Thiomonas	471.77	9.91	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483918	Thiomonas	292.85	6.49	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01486881	Thiomonas	233.31	5.69	ABC-type antimicrobial peptide transport system, ATPase component
+PGF_01492504	Thiomonas	308.69	12.83	Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)
+PGF_01514111	Thiomonas	353.00	0.00	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01532393	Thiomonas	699.38	7.14	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Thiomonas	135.08	0.28	Flagellar basal-body rod protein FlgB
+PGF_01602421	Thiomonas	231.77	0.60	Flagellar basal-body rod modification protein FlgD
+PGF_01614738	Thiomonas	86.54	1.33	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01667880	Thiomonas	88.00	3.61	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Thiomonas	200.77	0.60	RNA polymerase sigma factor RpoE
+PGF_01674551	Thiomonas	124.00	0.00	Glycine cleavage system H protein
+PGF_01682537	Thiomonas	133.92	2.25	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Thiomonas	188.08	12.53	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Thiomonas	266.62	1.85	DNA recombination and repair protein RecO
+PGF_01734668	Thiomonas	218.08	7.19	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Thiomonas	287.08	10.97	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01739753	Thiomonas	284.62	19.90	Zinc metalloprotease
+PGF_01744781	Thiomonas	185.85	1.95	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01760799	Thiomonas	749.85	7.84	Type IV pilus biogenesis protein PilQ
+PGF_01777142	Thiomonas	207.31	1.93	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Thiomonas	145.31	8.82	Protein YhfA
+PGF_01867628	Thiomonas	339.54	1.05	Heat-inducible transcription repressor HrcA
+PGF_01888177	Thiomonas	149.00	0.71	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Thiomonas	214.92	4.80	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Thiomonas	315.15	6.08	Rod shape-determining protein MreC
+PGF_01900676	Thiomonas	262.92	5.48	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01910737	Thiomonas	272.69	47.38	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01920535	Thiomonas	596.46	9.47	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01921605	Thiomonas	642.69	5.53	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01950071	Thiomonas	302.23	5.89	Aldose 1-epimerase family protein YeaD
+PGF_01960322	Thiomonas	609.62	3.38	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01962206	Thiomonas	216.46	19.84	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01985478	Thiomonas	373.38	10.08	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01994657	Thiomonas	444.00	4.95	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Thiomonas	138.92	7.17	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Thiomonas	257.46	1.98	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Thiomonas	347.00	1.91	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Thiomonas	363.38	4.91	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Thiomonas	370.31	11.38	GTP-binding protein Obg
+PGF_02059020	Thiomonas	555.54	3.76	Energy-dependent translational throttle protein EttA
+PGF_02061452	Thiomonas	379.38	0.87	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Thiomonas	90.62	1.50	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02075241	Thiomonas	693.46	4.68	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02109968	Thiomonas	337.85	0.55	Flagellar motor switch protein FliG
+PGF_02111888	Thiomonas	326.46	2.99	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Thiomonas	810.54	15.40	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02185217	Thiomonas	426.23	1.92	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02185943	Thiomonas	504.62	2.57	Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1)
+PGF_02186693	Thiomonas	365.23	32.01	Flagellar biosynthesis protein FlhB
+PGF_02211177	Thiomonas	248.85	7.86	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02224568	Thiomonas	386.15	3.93	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Thiomonas	719.50	12.27	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02239557	Thiomonas	264.23	5.40	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02268482	Thiomonas	269.62	3.82	Putative glutamine amidotransferase YafJ
+PGF_02286202	Thiomonas	321.15	18.33	General secretion pathway protein K
+PGF_02288521	Thiomonas	623.69	14.76	hypothetical protein
+PGF_02323834	Thiomonas	306.54	3.43	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02325838	Thiomonas	545.62	12.04	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328820	Thiomonas	66.00	0.00	hypothetical protein
+PGF_02338518	Thiomonas	268.85	3.39	Gamma-glutamyl-GABA hydrolase (EC 3.5.1.94)
+PGF_02346669	Thiomonas	309.62	5.62	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02355769	Thiomonas	378.08	19.69	Alanine racemase (EC 5.1.1.1)
+PGF_02366077	Thiomonas	334.69	12.58	NAD-dependent epimerase/dehydratase
+PGF_02369559	Thiomonas	926.23	5.92	DNA polymerase I (EC 2.7.7.7)
+PGF_02386652	Thiomonas	172.62	5.78	Ribonuclease E inhibitor RraA
+PGF_02420191	Thiomonas	496.38	8.70	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02450432	Thiomonas	279.15	2.51	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Thiomonas	106.00	10.33	SSU ribosomal protein S20p
+PGF_02463284	Thiomonas	203.23	0.44	Recombination protein RecR
+PGF_02473279	Thiomonas	254.38	37.83	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473679	Thiomonas	575.92	67.87	Type IV fimbrial assembly, ATPase PilB
+PGF_02489591	Thiomonas	238.77	22.14	Uncharacterized Nudix hydrolase NudL
+PGF_02518459	Thiomonas	108.00	14.42	Nitrogen regulatory protein P-II
+PGF_02537450	Thiomonas	486.00	18.18	HtrA protease/chaperone protein
+PGF_02593689	Thiomonas	513.85	5.51	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02595016	Thiomonas	423.38	20.30	Multidrug efflux system MdtABC-TolC, membrane fusion component MdtA
+PGF_02601905	Thiomonas	135.15	6.07	Transcriptional regulator PA2737, MerR family
+PGF_02611620	Thiomonas	454.23	5.43	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Thiomonas	315.62	12.13	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Thiomonas	1406.08	1.44	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02717713	Thiomonas	791.93	16.59	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02719231	Thiomonas	119.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Thiomonas	860.69	6.88	DNA mismatch repair protein MutS
+PGF_02744871	Thiomonas	117.69	4.61	Flagellar hook-basal body complex protein FliE
+PGF_02746016	Thiomonas	245.15	18.73	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02776739	Thiomonas	232.69	46.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02787474	Thiomonas	275.08	1.71	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02792560	Thiomonas	274.54	10.74	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Thiomonas	458.23	4.73	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Thiomonas	1370.85	9.39	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Thiomonas	512.46	1.13	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02818638	Thiomonas	444.38	1.85	Hemolysins and related proteins containing CBS domains
+PGF_02838109	Thiomonas	174.54	6.10	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Thiomonas	273.23	7.34	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Thiomonas	447.54	5.85	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866666	Thiomonas	840.46	5.71	ABC transporter, fused permease protein
+PGF_02868941	Thiomonas	598.00	0.00	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_02874055	Thiomonas	544.85	4.32	3-methylmercaptopropionyl-CoA ligase (EC 6.2.1.44) of DmdB2 type
+PGF_02877184	Thiomonas	363.92	2.66	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02898096	Thiomonas	495.00	0.00	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Thiomonas	67.54	1.20	LSU ribosomal protein L29p (L35e)
+PGF_02904832	Thiomonas	314.08	2.63	Homoserine kinase (EC 2.7.1.39)
+PGF_02906681	Thiomonas	801.00	3.34	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02911133	Thiomonas	228.46	15.81	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Thiomonas	296.54	1.33	HflC protein
+PGF_02912009	Thiomonas	228.15	4.00	Type IV pilus biogenesis protein PilO
+PGF_02912272	Thiomonas	162.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02919689	Thiomonas	295.00	8.78	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Thiomonas	236.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02938730	Thiomonas	363.00	0.71	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942020	Thiomonas	210.08	9.05	Peptidyl-prolyl cis-trans isomerase PpiA precursor (EC 5.2.1.8)
+PGF_02944756	Thiomonas	398.77	4.73	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Thiomonas	567.23	1.48	SSU ribosomal protein S1p
+PGF_02950579	Thiomonas	270.00	0.00	Septum site-determining protein MinD
+PGF_02980852	Thiomonas	315.15	1.21	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02991837	Thiomonas	222.69	0.85	Protein of unknown function DUF484
+PGF_02992100	Thiomonas	250.31	1.80	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Thiomonas	141.54	2.03	Protein translocase membrane subunit SecG
+PGF_02997723	Thiomonas	181.38	5.42	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03000070	Thiomonas	358.38	8.58	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03003352	Thiomonas	570.31	1.75	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03003632	Thiomonas	1093.23	30.37	Multidrug efflux system MdtABC-TolC, inner-membrane proton/drug antiporter MdtB (RND type)
+PGF_03005053	Thiomonas	486.08	10.97	Outer membrane factor (OMF) lipoprotein associated wth EmrAB-OMF efflux system
+PGF_03014573	Thiomonas	330.08	12.71	Periplasmic serine proteases (ClpP class)
+PGF_03017775	Thiomonas	508.00	2.35	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Thiomonas	229.31	27.69	Septum formation protein Maf
+PGF_03029859	Thiomonas	639.38	4.89	Bis-ABC ATPase Uup
+PGF_03042775	Thiomonas	200.62	3.15	Phosphoheptose isomerase (EC 5.3.1.-)
+PGF_03053958	Thiomonas	229.85	0.90	Outer membrane protein A precursor
+PGF_03054699	Thiomonas	788.08	14.89	DNA translocase FtsK
+PGF_03057384	Thiomonas	345.69	1.80	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03063012	Thiomonas	183.31	14.50	Chaperone protein HscB
+PGF_03070510	Thiomonas	284.31	3.43	Flagellar synthesis regulator FleN
+PGF_03074362	Thiomonas	430.46	17.35	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03075401	Thiomonas	161.92	3.71	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03124650	Thiomonas	489.54	53.43	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Thiomonas	429.15	3.05	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03138425	Thiomonas	313.85	22.78	FIG00613342: Bacterial patatin-like phospholipase domain containing protein
+PGF_03140041	Thiomonas	162.08	3.71	CBS domain protein
+PGF_03142586	Thiomonas	115.77	6.38	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03144011	Thiomonas	171.92	5.04	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146406	Thiomonas	587.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Thiomonas	275.31	3.35	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Thiomonas	186.08	1.89	Transcription antitermination protein NusG
+PGF_03203461	Thiomonas	608.15	9.56	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03222913	Thiomonas	143.69	0.75	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03257845	Thiomonas	238.00	8.38	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Thiomonas	865.69	4.59	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Thiomonas	73.85	6.11	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Thiomonas	222.15	0.38	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03340305	Thiomonas	154.62	8.22	RidA/YER057c/UK114 superfamily, group 1
+PGF_03364965	Thiomonas	822.31	61.14	Type cbb3 cytochrome oxidase biogenesis protein CcoI; Copper-translocating P-type ATPase (EC 3.6.3.4)
+PGF_03369967	Thiomonas	391.92	0.28	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03400333	Thiomonas	327.62	7.37	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03421722	Thiomonas	472.62	15.93	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Thiomonas	314.15	5.13	33 kDa chaperonin HslO
+PGF_03439582	Thiomonas	276.54	9.86	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03439690	Thiomonas	158.00	2.38	Ferric uptake regulation protein FUR
+PGF_03441339	Thiomonas	343.62	32.36	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03441843	Thiomonas	800.23	4.75	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03474542	Thiomonas	450.23	3.85	Flagellum-specific ATP synthase FliI
+PGF_03502924	Thiomonas	118.85	19.73	hypothetical protein
+PGF_03507859	Thiomonas	334.08	5.27	Luciferase-like monooxygenase YhbW
+PGF_03518570	Thiomonas	140.69	0.75	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Thiomonas	395.23	0.83	Cell division protein FtsZ
+PGF_03609651	Thiomonas	723.00	6.12	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Thiomonas	166.08	12.39	UPF0234 protein Yitk
+PGF_03674577	Thiomonas	482.38	10.01	Cytochrome c-type biogenesis protein CcsA/ResC
+PGF_03708253	Thiomonas	126.38	7.29	Protein translocase subunit SecE
+PGF_03718818	Thiomonas	273.00	2.52	Cell division protein FtsQ
+PGF_03719269	Thiomonas	207.00	2.45	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Thiomonas	172.77	4.15	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729877	Thiomonas	121.00	0.00	twitching motility protein PilH
+PGF_03735227	Thiomonas	370.38	14.83	FIG00988482: Sulfur transporter
+PGF_03739662	Thiomonas	326.54	48.96	FIG00432062: Rhodanese-related sulfurtransferase
+PGF_03750571	Thiomonas	486.08	11.32	Chromosomal replication initiator protein DnaA
+PGF_03750600	Thiomonas	161.31	2.50	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Thiomonas	176.38	13.85	Heat shock protein GrpE
+PGF_03753122	Thiomonas	339.62	5.41	Site-specific tyrosine recombinase XerC
+PGF_03753933	Thiomonas	178.77	1.88	Iron-sulfur cluster regulator IscR
+PGF_03767152	Thiomonas	96.38	9.90	Proposed lipoate regulatory protein YbeD
+PGF_03768617	Thiomonas	197.23	10.24	Glutathione peroxidase (EC 1.11.1.9)
+PGF_03778780	Thiomonas	366.46	11.36	Signal recognition particle receptor FtsY
+PGF_03783620	Thiomonas	177.23	7.46	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Thiomonas	191.69	0.75	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Thiomonas	414.23	12.60	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Thiomonas	270.46	13.67	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Thiomonas	284.69	4.82	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03810115	Thiomonas	228.77	1.69	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Thiomonas	360.77	2.09	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03815442	Thiomonas	313.77	1.17	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_03835760	Thiomonas	433.38	11.34	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03846834	Thiomonas	133.31	2.93	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03862500	Thiomonas	218.54	1.66	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03912513	Thiomonas	168.31	2.78	DNA protection during starvation protein
+PGF_03934498	Thiomonas	473.77	52.40	Flagellar two-component response regulator FleR
+PGF_03954476	Thiomonas	288.23	2.77	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03960810	Thiomonas	268.15	2.88	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03969636	Thiomonas	186.62	13.93	PhbF
+PGF_04005838	Thiomonas	431.77	10.85	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Thiomonas	237.62	23.74	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Thiomonas	448.15	4.30	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Thiomonas	140.15	0.55	Large-conductance mechanosensitive channel
+PGF_04034430	Thiomonas	70.00	0.00	SSU ribosomal protein S21p
+PGF_04041316	Thiomonas	907.69	182.16	Excinuclease ABC subunit A
+PGF_04086626	Thiomonas	104.77	6.29	hypothetical protein
+PGF_04091295	Thiomonas	247.00	0.00	Flagellar motor rotation protein MotA
+PGF_04108824	Thiomonas	595.31	1.49	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04119806	Thiomonas	303.46	3.23	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Thiomonas	267.92	4.17	Twin-arginine translocation protein TatC
+PGF_04213876	Thiomonas	253.62	13.70	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04217548	Thiomonas	679.54	16.17	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04308017	Thiomonas	328.21	25.87	hypothetical protein
+PGF_04315180	Thiomonas	163.92	1.61	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04340838	Thiomonas	321.92	0.28	hypothetical protein
+PGF_04345693	Thiomonas	466.38	2.87	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Thiomonas	939.92	11.69	Protein translocase subunit SecA
+PGF_04380075	Thiomonas	158.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Thiomonas	311.08	4.48	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04413856	Thiomonas	411.31	15.48	hypothetical protein
+PGF_04434192	Thiomonas	134.85	3.78	hypothetical protein
+PGF_04457297	Thiomonas	235.92	36.88	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04475678	Thiomonas	369.62	3.57	D-malate dehydrogenase [decarboxylating] (EC 1.1.1.83)
+PGF_04477106	Thiomonas	381.62	8.37	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04490704	Thiomonas	307.62	2.84	FIG022979: MoxR-like ATPases
+PGF_04505269	Thiomonas	249.54	7.04	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Thiomonas	348.54	5.55	Rod shape-determining protein MreB
+PGF_04520128	Thiomonas	171.62	4.19	hypothetical protein
+PGF_04521913	Thiomonas	949.23	112.05	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04545467	Thiomonas	153.15	17.50	hypothetical protein
+PGF_04571944	Thiomonas	207.77	6.52	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Thiomonas	248.69	0.85	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04588167	Thiomonas	361.08	15.00	FIG002343: hypothetical protein
+PGF_04596235	Thiomonas	204.92	13.48	hypothetical protein
+PGF_04598012	Thiomonas	272.77	12.45	hypothetical protein
+PGF_04632081	Thiomonas	496.85	2.19	hypothetical protein
+PGF_04636538	Thiomonas	90.38	1.39	DNA-binding protein HU-beta
+PGF_04661440	Thiomonas	277.31	2.29	hypothetical protein
+PGF_04662829	Thiomonas	827.77	1.92	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04666574	Thiomonas	179.00	12.54	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_04687504	Thiomonas	493.85	7.43	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04712778	Thiomonas	500.08	19.55	hypothetical protein
+PGF_04734234	Thiomonas	629.46	8.60	Kup system potassium uptake protein
+PGF_04749763	Thiomonas	969.46	7.28	Translation initiation factor 2
+PGF_04749876	Thiomonas	387.23	3.72	hypothetical protein
+PGF_04757308	Thiomonas	675.77	1.36	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Thiomonas	204.62	3.48	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Thiomonas	293.77	7.17	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04807486	Thiomonas	308.77	6.03	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04824121	Thiomonas	231.38	8.57	hypothetical protein
+PGF_04845029	Thiomonas	132.00	4.88	LSU ribosomal protein L19p
+PGF_04848996	Thiomonas	362.31	9.10	hypothetical protein
+PGF_04931385	Thiomonas	213.38	5.82	hypothetical protein
+PGF_04960746	Thiomonas	290.92	9.22	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04965976	Thiomonas	373.77	11.84	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Thiomonas	68.08	2.63	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Thiomonas	103.00	0.00	LSU ribosomal protein L21p
+PGF_05022329	Thiomonas	417.31	1.11	hypothetical protein
+PGF_05107981	Thiomonas	139.77	0.83	hypothetical protein
+PGF_05111929	Thiomonas	579.54	19.13	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Thiomonas	917.15	15.78	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05119600	Thiomonas	959.14	192.59	Multidrug efflux system MdtABC-TolC, inner-membrane proton/drug antiporter MdtC (RND type)
+PGF_05135220	Thiomonas	859.62	70.53	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05159632	Thiomonas	378.23	22.13	hypothetical protein
+PGF_05165078	Thiomonas	331.62	7.41	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Thiomonas	209.85	7.37	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05187258	Thiomonas	328.92	10.11	Cryptic sugar kinase Mak
+PGF_05197855	Thiomonas	605.54	4.72	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05280843	Thiomonas	657.31	5.98	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05283054	Thiomonas	277.92	6.80	hypothetical protein
+PGF_05299528	Thiomonas	527.69	27.77	ATP-dependent RNA helicase RhlE
+PGF_05325066	Thiomonas	366.15	13.05	hypothetical protein
+PGF_05338234	Thiomonas	294.23	7.75	Protein YicC
+PGF_05350409	Thiomonas	251.92	18.08	hypothetical protein
+PGF_05364204	Thiomonas	219.00	0.00	FIG004556: membrane metalloprotease
+PGF_05374230	Thiomonas	348.15	7.23	hypothetical protein
+PGF_05383972	Thiomonas	166.15	9.93	G:T/U mismatch-specific uracil/thymine DNA-glycosylase (EC 3.2.2.27)
+PGF_05386032	Thiomonas	195.08	2.25	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05406959	Thiomonas	359.38	3.23	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05421852	Thiomonas	656.62	9.15	Chaperone protein HtpG
+PGF_05431541	Thiomonas	473.75	10.50	hypothetical protein
+PGF_05435672	Thiomonas	357.08	12.68	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05439724	Thiomonas	686.15	104.65	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05440407	Thiomonas	109.54	1.13	hypothetical protein
+PGF_05451560	Thiomonas	191.54	20.51	hypothetical protein
+PGF_05463808	Thiomonas	297.31	1.32	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Thiomonas	510.62	0.96	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05472044	Thiomonas	382.62	3.69	hypothetical protein
+PGF_05507938	Thiomonas	634.54	25.50	DNA mismatch repair protein MutL
+PGF_05545662	Thiomonas	63.62	2.87	hypothetical protein
+PGF_05554289	Thiomonas	156.54	11.59	hypothetical protein
+PGF_05558891	Thiomonas	294.85	0.55	hypothetical protein
+PGF_05581732	Thiomonas	439.00	0.00	Protein translocase subunit SecY
+PGF_05598173	Thiomonas	383.62	1.56	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Thiomonas	415.38	0.96	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05633669	Thiomonas	105.38	1.26	hypothetical protein
+PGF_05657253	Thiomonas	221.38	4.99	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05660873	Thiomonas	153.69	11.26	hypothetical protein
+PGF_05666699	Thiomonas	423.23	7.26	hypothetical protein
+PGF_05679920	Thiomonas	1318.46	13.54	ATP-dependent helicase HrpA
+PGF_05680982	Thiomonas	311.00	3.27	hypothetical protein
+PGF_05693577	Thiomonas	108.69	3.68	Integration host factor beta subunit
+PGF_05712128	Thiomonas	563.77	4.13	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05720350	Thiomonas	269.00	4.53	hypothetical protein
+PGF_05726813	Thiomonas	712.62	45.64	hypothetical protein
+PGF_05754963	Thiomonas	406.15	0.69	hypothetical protein
+PGF_05769513	Thiomonas	442.15	7.37	Tol-Pal system beta propeller repeat protein TolB
+PGF_05770898	Thiomonas	354.62	9.61	Selenide,water dikinase (EC 2.7.9.3)
+PGF_05837052	Thiomonas	438.23	7.89	Isocitrate lyase (EC 4.1.3.1)
+PGF_05860600	Thiomonas	271.00	7.78	hypothetical protein
+PGF_05872952	Thiomonas	266.15	16.55	Outer membrane beta-barrel assembly protein BamD
+PGF_05884057	Thiomonas	169.92	2.75	hypothetical protein
+PGF_05897703	Thiomonas	617.69	8.73	Efflux ABC transporter, permease/ATP-binding protein
+PGF_05906397	Thiomonas	246.00	1.08	hypothetical protein
+PGF_05925776	Thiomonas	325.31	7.64	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Thiomonas	651.92	9.95	Protein translocase subunit SecD
+PGF_05951317	Thiomonas	248.00	24.19	hypothetical protein
+PGF_05965455	Thiomonas	451.92	4.13	AmpG permease
+PGF_05971611	Thiomonas	400.54	2.70	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06000040	Thiomonas	406.00	2.04	Type IV fimbrial assembly protein PilC
+PGF_06005188	Thiomonas	650.46	11.57	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06036711	Thiomonas	193.08	8.03	hypothetical protein
+PGF_06051345	Thiomonas	811.69	2.69	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06051594	Thiomonas	532.77	47.16	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06053106	Thiomonas	298.23	12.94	RNA polymerase sigma factor RpoH
+PGF_06061522	Thiomonas	134.54	15.38	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06064363	Thiomonas	205.54	15.51	hypothetical protein
+PGF_06111528	Thiomonas	378.00	3.27	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06120144	Thiomonas	142.38	13.34	Ribosome association toxin RatA
+PGF_06137558	Thiomonas	341.77	8.98	TRAP-type C4-dicarboxylate transport system, periplasmic component
+PGF_06170558	Thiomonas	160.15	15.47	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180342	Thiomonas	384.15	4.34	hypothetical protein
+PGF_06180597	Thiomonas	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06221085	Thiomonas	199.46	11.18	hypothetical protein
+PGF_06230969	Thiomonas	528.69	8.39	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06242259	Thiomonas	574.69	21.45	hypothetical protein
+PGF_06254345	Thiomonas	96.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06261563	Thiomonas	98.69	0.85	hypothetical protein
+PGF_06264599	Thiomonas	372.15	4.79	Sulfite dehydrogenase cytochrome subunit SoxD
+PGF_06280458	Thiomonas	365.62	1.33	hypothetical protein
+PGF_06285197	Thiomonas	433.23	7.63	Intracellular PHB depolymerase
+PGF_06290473	Thiomonas	112.92	41.35	hypothetical protein
+PGF_06315406	Thiomonas	428.15	3.11	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06326847	Thiomonas	252.77	5.85	Flagellar biosynthesis protein FliP
+PGF_06379377	Thiomonas	469.31	4.53	Replication-associated recombination protein RarA
+PGF_06403579	Thiomonas	808.38	7.74	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06447349	Thiomonas	762.38	1.12	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06458877	Thiomonas	173.85	4.39	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06461498	Thiomonas	291.54	11.77	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Thiomonas	324.31	3.04	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06524027	Thiomonas	667.15	2.91	ATP-dependent DNA helicase Rep
+PGF_06530721	Thiomonas	239.00	10.52	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06553015	Thiomonas	219.15	25.44	hypothetical protein
+PGF_06628331	Thiomonas	476.77	11.13	Outer membrane factor (OMF) lipoprotein associated wth MdtABC efflux system
+PGF_06635438	Thiomonas	265.85	8.41	hypothetical protein
+PGF_06644010	Thiomonas	318.00	2.12	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06649360	Thiomonas	241.00	0.71	Segregation and condensation protein B
+PGF_06660812	Thiomonas	214.00	3.61	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06669267	Thiomonas	461.62	11.18	hypothetical protein
+PGF_06693963	Thiomonas	111.31	5.63	Nucleoid-associated protein YaaK
+PGF_06721510	Thiomonas	318.08	6.06	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+PGF_06729632	Thiomonas	120.23	20.72	hypothetical protein
+PGF_06735060	Thiomonas	778.15	7.94	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06753364	Thiomonas	244.21	130.93	hypothetical protein
+PGF_06757295	Thiomonas	515.69	0.85	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06772993	Thiomonas	982.69	109.89	Ribonuclease E (EC 3.1.26.12)
+PGF_07072582	Thiomonas	759.00	29.68	RNA polymerase sigma factor RpoD
+PGF_07101513	Thiomonas	145.38	3.10	Flagellar motor switch protein FliN
+PGF_07242312	Thiomonas	744.15	5.18	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07344415	Thiomonas	179.54	0.78	Intracellular septation protein IspA
+PGF_07425883	Thiomonas	111.77	0.60	Ferredoxin, 2Fe-2S
+PGF_08036834	Thiomonas	244.31	13.78	Nitroreductase
+PGF_08046522	Thiomonas	106.77	4.11	Glutaredoxin-related protein
+PGF_08059428	Thiomonas	85.85	2.38	Cell division topological specificity factor MinE
+PGF_08061357	Thiomonas	127.00	5.40	Iron-sulfur cluster insertion protein ErpA
+PGF_08072252	Thiomonas	326.00	0.00	NADPH dependent aldo-keto reductase => YajO
+PGF_08097812	Thiomonas	308.00	119.29	hypothetical protein
+PGF_08123905	Thiomonas	882.38	30.66	hypothetical protein
+PGF_08147453	Thiomonas	502.46	12.70	DNA recombination protein RmuC
+PGF_08153913	Thiomonas	268.23	8.92	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08183187	Thiomonas	410.77	0.60	Cell division protein FtsW

@@ -1,0 +1,866 @@
+PGF_00000027	Carboxydothermus	257.75	0.50	Uncharacterized protein YmdB
+PGF_00000229	Carboxydothermus	1101.00	0.00	FIG007317: Chromosome segregation protein SMC-like
+PGF_00002140	Carboxydothermus	225.00	0.00	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00003238	Carboxydothermus	145.00	0.00	FIG060329: MOSC domain protein
+PGF_00003269	Carboxydothermus	288.00	0.00	FIG069887: hypothetical protein
+PGF_00003409	Carboxydothermus	620.50	0.58	FIG092679: Fe-S oxidoreductase
+PGF_00003516	Carboxydothermus	368.00	0.00	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004058	Carboxydothermus	197.50	1.00	Fatty acid metabolism regulator protein FadR, TetR family
+PGF_00004177	Carboxydothermus	431.00	0.00	Fe-S oxidoreductase, related to NifB/MoaA family with PDZ N-terminal domain
+PGF_00004336	Carboxydothermus	124.25	1.50	Ferredoxin / Domain of unknown function
+PGF_00004728	Carboxydothermus	580.50	5.00	Fibronectin/fibrinogen-binding protein
+PGF_00005284	Carboxydothermus	528.00	0.00	Flagellar M-ring protein FliF
+PGF_00005384	Carboxydothermus	683.00	0.00	Flagellar biosynthesis protein FlhA
+PGF_00005402	Carboxydothermus	94.25	10.50	Flagellar biosynthesis protein FliQ
+PGF_00005450	Carboxydothermus	261.00	0.00	Flagellar hook protein FlgE
+PGF_00005454	Carboxydothermus	473.25	0.50	Flagellar hook-associated protein FlgK
+PGF_00005653	Carboxydothermus	273.50	1.73	Flagellin protein FlaA
+PGF_00006245	Carboxydothermus	556.00	0.00	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006378	Carboxydothermus	326.50	1.00	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006394	Carboxydothermus	284.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006402	Carboxydothermus	361.00	0.00	Fructose-bisphosphate aldolase/bisphosphatase ancestral bifunctional (EC 4.1.2.13) (EC 3.1.3.11)
+PGF_00006935	Carboxydothermus	509.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Carboxydothermus	362.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Carboxydothermus	440.00	0.00	GTP-binding protein EngA
+PGF_00007027	Carboxydothermus	298.00	0.00	GTP-binding protein Era
+PGF_00007028	Carboxydothermus	412.25	4.92	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007057	Carboxydothermus	461.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Carboxydothermus	269.25	0.50	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Carboxydothermus	311.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Carboxydothermus	464.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Carboxydothermus	440.75	1.50	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008057	Carboxydothermus	411.00	0.00	Glutamate 2,3-aminomutase (EC 5.4.3.9)
+PGF_00008061	Carboxydothermus	372.00	0.00	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Carboxydothermus	399.00	0.00	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008101	Carboxydothermus	305.00	0.00	Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase
+PGF_00008106	Carboxydothermus	265.00	0.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008113	Carboxydothermus	526.00	0.00	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008115	Carboxydothermus	500.00	0.00	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008116	Carboxydothermus	244.75	1.50	Glutamate synthase [NADPH] putative GlxC chain (EC 1.4.1.13)
+PGF_00008164	Carboxydothermus	432.00	0.00	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008244	Carboxydothermus	363.75	1.50	Glutamine amidotransferase, class-II
+PGF_00008281	Carboxydothermus	242.00	0.00	Glutamine ABC transporter, ATP-binding protein GlnQ
+PGF_00008334	Carboxydothermus	449.00	0.00	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Carboxydothermus	479.50	1.00	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008537	Carboxydothermus	500.00	0.00	Glycerol kinase (EC 2.7.1.30)
+PGF_00008542	Carboxydothermus	236.00	0.00	Glycerol uptake facilitator protein
+PGF_00008548	Carboxydothermus	349.00	0.00	Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261)
+PGF_00008611	Carboxydothermus	336.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008774	Carboxydothermus	444.00	0.00	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Carboxydothermus	486.00	0.00	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008785	Carboxydothermus	428.00	0.00	Glycine reductase component B beta subunit (EC 1.21.4.2) / Glycine reductase component B alpha subunit (EC 1.21.4.2)
+PGF_00008838	Carboxydothermus	235.00	0.00	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008857	Carboxydothermus	509.00	0.00	Glycine/sarcosine/betaine reductase component C chain 1
+PGF_00008858	Carboxydothermus	381.00	0.00	Glycine/sarcosine/betaine reductase component C chain 2
+PGF_00009760	Carboxydothermus	378.25	0.50	UDP-N-acetylglucosamine:L-malate glycosyltransferase
+PGF_00009967	Carboxydothermus	290.00	0.00	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Carboxydothermus	690.00	0.00	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Carboxydothermus	248.00	0.00	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Carboxydothermus	716.00	0.00	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Carboxydothermus	204.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010581	Carboxydothermus	193.00	0.00	HDIG domain protein
+PGF_00011081	Carboxydothermus	718.00	0.00	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011541	Carboxydothermus	328.25	15.11	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011574	Carboxydothermus	280.00	0.00	Heterodisulfide reductase, cytochrome reductase subunit
+PGF_00011792	Carboxydothermus	102.00	0.00	His repressor
+PGF_00011979	Carboxydothermus	425.00	0.00	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011984	Carboxydothermus	282.25	0.50	Histidinol phosphatase and related hydrolases of the PHP family
+PGF_00011989	Carboxydothermus	265.00	0.00	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012264	Carboxydothermus	339.00	0.00	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Carboxydothermus	430.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012344	Carboxydothermus	283.75	0.50	Tungstate ABC transporter, substrate-binding protein
+PGF_00012356	Carboxydothermus	304.00	0.00	Homoserine kinase (EC 2.7.1.39)
+PGF_00012376	Carboxydothermus	230.00	0.00	Tungstate ABC transporter, permease protein
+PGF_00012476	Carboxydothermus	241.75	0.50	Hydantoin racemase (EC 5.1.99.5)
+PGF_00012920	Carboxydothermus	430.00	0.00	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012970	Carboxydothermus	429.00	0.00	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013244	Carboxydothermus	174.50	1.00	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Carboxydothermus	224.75	1.50	UPF0001 protein YggS
+PGF_00013347	Carboxydothermus	85.00	0.00	UPF0297 protein YrzL
+PGF_00013492	Carboxydothermus	179.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Carboxydothermus	504.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00014264	Carboxydothermus	220.75	2.63	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014300	Carboxydothermus	212.00	0.00	Inorganic pyrophospatase PpaX
+PGF_00014311	Carboxydothermus	483.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Carboxydothermus	227.25	0.50	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015259	Carboxydothermus	282.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015525	Carboxydothermus	124.75	0.50	Iron-sulfur cluster assembly scaffold protein IscU/NifU-like
+PGF_00015567	Carboxydothermus	402.00	0.00	Uncharacterized 4Fe-4S protein AF0811
+PGF_00015718	Carboxydothermus	924.75	0.50	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015736	Carboxydothermus	546.25	0.50	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Carboxydothermus	330.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015967	Carboxydothermus	390.00	0.00	L,L-diaminopimelate aminotransferase (EC 2.6.1.83), DapL2 type
+PGF_00016134	Carboxydothermus	138.00	0.00	L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy acid dehydrogenases
+PGF_00016139	Carboxydothermus	581.00	0.00	L-lactate permease
+PGF_00016231	Carboxydothermus	466.00	0.00	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016328	Carboxydothermus	176.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Carboxydothermus	418.00	0.00	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Carboxydothermus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Carboxydothermus	146.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Carboxydothermus	143.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Carboxydothermus	112.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Carboxydothermus	122.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Carboxydothermus	231.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Carboxydothermus	117.25	0.50	LSU ribosomal protein L20p
+PGF_00016368	Carboxydothermus	113.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Carboxydothermus	95.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Carboxydothermus	107.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Carboxydothermus	90.75	5.50	LSU ribosomal protein L27p
+PGF_00016393	Carboxydothermus	274.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Carboxydothermus	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Carboxydothermus	58.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016431	Carboxydothermus	209.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Carboxydothermus	206.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Carboxydothermus	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Carboxydothermus	182.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Carboxydothermus	126.25	0.50	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Carboxydothermus	151.00	0.00	LSU ribosomal protein L9p
+PGF_00016495	Carboxydothermus	254.00	0.00	Lactam utilization protein LamB
+PGF_00016850	Carboxydothermus	346.25	1.50	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)
+PGF_00017617	Carboxydothermus	343.75	0.50	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00019038	Carboxydothermus	461.00	0.00	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019221	Carboxydothermus	1167.00	0.00	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019427	Carboxydothermus	106.00	0.00	MazG nucleotide pyrophosphohydrolase
+PGF_00019428	Carboxydothermus	179.50	0.58	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019536	Carboxydothermus	547.00	0.00	ATP-dependent protease La (EC 3.4.21.53) LonB Type I
+PGF_00020025	Carboxydothermus	633.75	3.50	ATP-dependent protease LonB-like Type I
+PGF_00020147	Carboxydothermus	360.75	0.50	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020264	Carboxydothermus	275.50	14.36	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020271	Carboxydothermus	268.00	0.00	Menaquinone via futalosine step 4, possible alternative
+PGF_00020321	Carboxydothermus	243.00	0.00	Metal transporter, ZIP family
+PGF_00020361	Carboxydothermus	142.75	0.50	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Carboxydothermus	248.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020955	Carboxydothermus	482.00	0.00	Methylaspartate mutase, E subunit (EC 5.4.99.1)
+PGF_00020956	Carboxydothermus	136.75	0.50	Methylaspartate mutase, S subunit (EC 5.4.99.1)
+PGF_00020984	Carboxydothermus	287.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Carboxydothermus	120.00	0.00	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021036	Carboxydothermus	343.25	0.50	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021217	Carboxydothermus	506.00	0.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021390	Carboxydothermus	219.00	0.00	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00022507	Carboxydothermus	162.75	0.50	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022531	Carboxydothermus	634.00	0.00	Molybdopterin molybdenumtransferase (EC 2.10.1.1) / Periplasmic molybdate-binding domain
+PGF_00022577	Carboxydothermus	163.00	0.00	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00023071	Carboxydothermus	441.25	183.50	Uncharacterized MFS-type transporter YusP
+PGF_00023591	Carboxydothermus	333.00	0.00	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Carboxydothermus	337.25	0.50	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023833	Carboxydothermus	243.75	0.50	N-acetylmannosaminyltransferase (EC 2.4.1.187)
+PGF_00024273	Carboxydothermus	162.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024308	Carboxydothermus	241.00	0.00	NAD synthetase (EC 6.3.1.5)
+PGF_00024314	Carboxydothermus	532.50	0.58	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024478	Carboxydothermus	335.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Carboxydothermus	240.25	4.50	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024567	Carboxydothermus	398.00	0.00	Acetate kinase (EC 2.7.2.1)
+PGF_00024687	Carboxydothermus	365.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024728	Carboxydothermus	169.00	0.00	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Carboxydothermus	102.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Carboxydothermus	506.00	0.00	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Carboxydothermus	476.00	0.00	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025440	Carboxydothermus	391.00	0.00	Acetyl CoA synthase (Acetyl-CoA c-acetyltransferase) (EC 2.3.1.9)
+PGF_00025574	Carboxydothermus	191.00	0.00	Nicotinamidase/isochorismatase family protein
+PGF_00025595	Carboxydothermus	421.00	0.00	Nicotinate dehydrogenase, large molybdopterin subunit like protein
+PGF_00025597	Carboxydothermus	333.00	0.00	Nicotinate dehydrogenase, medium molybdopterin subunit like protein
+PGF_00025623	Carboxydothermus	353.75	1.50	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025892	Carboxydothermus	632.50	3.00	Acetyl-CoA synthase corrinoid activation protein
+PGF_00025940	Carboxydothermus	445.00	0.00	Acetyl-CoA synthase corrinoid iron-sulfur protein, large subunit
+PGF_00025952	Carboxydothermus	310.00	0.00	Acetyl-CoA synthase corrinoid iron-sulfur protein, small subunit
+PGF_00026362	Carboxydothermus	202.00	0.00	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Carboxydothermus	281.00	2.00	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026595	Carboxydothermus	532.00	0.00	Nutrient germinant receptor inner membrane subunit A (GerKA/GerAA/GerBA)
+PGF_00026615	Carboxydothermus	294.00	0.00	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00027684	Carboxydothermus	203.00	0.00	Acetyltransferase AcuA, acetyl-CoA synthetase inhibitor
+PGF_00029260	Carboxydothermus	457.00	0.00	PLP-dependent aminotransferase
+PGF_00029337	Carboxydothermus	417.00	0.00	Aconitate hydratase large subunit (EC 4.2.1.3)
+PGF_00029351	Carboxydothermus	165.00	0.00	Aconitate hydratase small subunit (EC 4.2.1.3)
+PGF_00029908	Carboxydothermus	251.50	1.00	Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)
+PGF_00029917	Carboxydothermus	283.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Carboxydothermus	358.00	0.00	Peptide chain release factor 1
+PGF_00030905	Carboxydothermus	729.00	0.00	[FeFe] hydrogenase (EC 1.12.7.2)
+PGF_00031568	Carboxydothermus	131.50	1.73	Peroxide stress regulator PerR, FUR family
+PGF_00033095	Carboxydothermus	798.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033197	Carboxydothermus	334.00	0.00	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Carboxydothermus	325.00	0.00	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Carboxydothermus	330.00	0.00	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Carboxydothermus	325.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033411	Carboxydothermus	276.75	0.50	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033511	Carboxydothermus	394.75	0.96	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033877	Carboxydothermus	162.00	0.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Carboxydothermus	388.00	0.00	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Carboxydothermus	203.00	0.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Carboxydothermus	422.00	0.00	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Carboxydothermus	235.75	0.50	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033954	Carboxydothermus	343.00	0.00	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Carboxydothermus	234.00	0.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Carboxydothermus	727.75	0.50	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Carboxydothermus	209.00	0.00	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034775	Carboxydothermus	106.00	0.00	Cobalt ECF transporter, additional substrate-binding protein CbiN
+PGF_00034776	Carboxydothermus	736.00	9.35	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034947	Carboxydothermus	198.00	0.00	Polysulfide reductase, subunit B, putative
+PGF_00034972	Carboxydothermus	170.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Carboxydothermus	325.50	1.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035009	Carboxydothermus	156.00	0.00	Positive regulator of CheA protein activity (CheW)
+PGF_00035299	Carboxydothermus	324.00	0.00	Possible subunit of benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase
+PGF_00035334	Carboxydothermus	319.00	0.00	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035370	Carboxydothermus	284.00	0.00	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035378	Carboxydothermus	411.00	0.00	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035721	Carboxydothermus	430.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Carboxydothermus	427.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036814	Carboxydothermus	462.50	1.00	Probable M18-family aminopeptidase 1 (EC 3.4.11.-)
+PGF_00036988	Carboxydothermus	287.00	0.00	Agmatinase (EC 3.5.3.11)
+PGF_00037171	Carboxydothermus	331.00	0.00	Probable low-affinity inorganic phosphate transporter
+PGF_00037588	Carboxydothermus	569.00	0.00	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037672	Carboxydothermus	269.00	0.00	Propanediol utilization protein similar to EutJ
+PGF_00038625	Carboxydothermus	470.50	9.11	Protein similar to cobyrinic acid a,c-diamide synthetase clustered with dissimilatory sulfite reductase
+PGF_00038674	Carboxydothermus	288.00	2.00	Protein translocase subunit SecF
+PGF_00038768	Carboxydothermus	257.00	0.00	Protein-L-isoD(D-D) O-methyltransferase
+PGF_00038904	Carboxydothermus	304.00	0.00	Pseudouridine 5'-phosphate glycosidase (EC 4.2.1.70)
+PGF_00039149	Carboxydothermus	351.00	0.00	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00039997	Carboxydothermus	162.00	0.00	Putative acetyltransferase YvoF
+PGF_00040400	Carboxydothermus	509.25	0.50	Putative cation/acetate symporter
+PGF_00040578	Carboxydothermus	254.00	0.00	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Carboxydothermus	133.00	0.00	Alkaline shock protein
+PGF_00043931	Carboxydothermus	471.00	0.00	Allantoinase (EC 3.5.2.5)
+PGF_00044198	Carboxydothermus	257.25	3.50	Putative stomatin/prohibitin-family membrane protease subunit aq_911
+PGF_00044298	Carboxydothermus	424.00	0.00	Putative sulfite reductase, GSU1351 type
+PGF_00045787	Carboxydothermus	191.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Carboxydothermus	294.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Carboxydothermus	442.00	0.00	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045941	Carboxydothermus	686.00	0.00	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045994	Carboxydothermus	583.00	0.00	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00045999	Carboxydothermus	878.25	8.38	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+PGF_00046039	Carboxydothermus	153.00	0.00	Pyruvoyl-dependent arginine decarboxylase (EC 4.1.1.19)
+PGF_00046060	Carboxydothermus	239.50	3.00	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046104	Carboxydothermus	306.00	0.00	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046197	Carboxydothermus	266.00	0.00	RNA binding methyltransferase FtsJ like
+PGF_00046403	Carboxydothermus	459.25	0.50	RNA polymerase sigma-54 factor RpoN
+PGF_00046551	Carboxydothermus	237.00	0.00	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046553	Carboxydothermus	257.75	1.50	RNA polymerase sporulation specific sigma factor SigG
+PGF_00046555	Carboxydothermus	215.50	1.00	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Carboxydothermus	85.00	0.00	RNA-binding protein Hfq
+PGF_00047026	Carboxydothermus	331.00	0.00	Radical SAM heme biosynthesis protein AhbD, Fe-coproporphyrin III decarboxylase
+PGF_00047027	Carboxydothermus	412.50	1.00	Radical SAM protein DVU1407
+PGF_00047078	Carboxydothermus	343.00	0.00	RecA protein
+PGF_00047155	Carboxydothermus	208.00	0.00	Redox-sensing transcriptional repressor Rex
+PGF_00047468	Carboxydothermus	421.00	0.00	Related to 2-hydroxyglutaryl-CoA dehydratase, beta subunit
+PGF_00048480	Carboxydothermus	213.00	0.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048586	Carboxydothermus	254.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048627	Carboxydothermus	671.25	0.50	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048643	Carboxydothermus	153.75	0.50	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048651	Carboxydothermus	154.00	5.77	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Carboxydothermus	313.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Carboxydothermus	241.25	0.50	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048846	Carboxydothermus	438.00	0.00	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Carboxydothermus	231.00	0.00	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Carboxydothermus	177.00	0.00	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Carboxydothermus	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Carboxydothermus	290.00	0.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Carboxydothermus	124.50	3.32	Ribosome-binding factor A
+PGF_00048985	Carboxydothermus	219.50	1.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049218	Carboxydothermus	139.00	0.00	Rrf2 family transcriptional regulator
+PGF_00049330	Carboxydothermus	396.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Carboxydothermus	338.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049731	Carboxydothermus	405.00	1.15	Aluminum resistance protein
+PGF_00049828	Carboxydothermus	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Carboxydothermus	128.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Carboxydothermus	126.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Carboxydothermus	123.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Carboxydothermus	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Carboxydothermus	86.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Carboxydothermus	98.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049857	Carboxydothermus	76.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049860	Carboxydothermus	94.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Carboxydothermus	222.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Carboxydothermus	167.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Carboxydothermus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Carboxydothermus	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00050995	Carboxydothermus	452.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051320	Carboxydothermus	631.00	0.00	Serine protein kinase (prkA protein), P-loop containing
+PGF_00051525	Carboxydothermus	425.00	2.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Carboxydothermus	446.00	0.00	Signal recognition particle protein Ffh
+PGF_00052547	Carboxydothermus	404.25	0.50	2-hydroxyglutaryl-CoA dehydratase, D-component HgdA
+PGF_00052551	Carboxydothermus	244.75	0.50	Similar to benzoyl-CoA reductase subunit D
+PGF_00052554	Carboxydothermus	629.00	0.00	Similar to carbon monoxide dehydrogenase CooS subunit
+PGF_00052705	Carboxydothermus	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052714	Carboxydothermus	143.00	0.00	Amino acid-binding ACT
+PGF_00052943	Carboxydothermus	287.00	0.00	Site-specific tyrosine recombinase XerD
+PGF_00053078	Carboxydothermus	366.25	0.50	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00053481	Carboxydothermus	489.25	0.50	Sodium/proline symporter
+PGF_00053770	Carboxydothermus	366.00	6.93	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053789	Carboxydothermus	370.00	0.00	Aminopeptidase
+PGF_00053877	Carboxydothermus	159.00	1.15	Spore cortex-lytic enzyme, lytic transglycosylase SleB
+PGF_00053878	Carboxydothermus	327.00	0.00	Spore germination endopeptidase Gpr (EC 3.4.24.78)
+PGF_00053894	Carboxydothermus	192.00	0.00	Spore maturation protein A
+PGF_00053897	Carboxydothermus	175.25	0.50	Spore maturation protein B
+PGF_00053909	Carboxydothermus	143.50	2.89	Spore protein GerW (YtfJ), not involved in spore germination
+PGF_00053991	Carboxydothermus	282.00	0.00	Stage 0 sporulation protein YaaT
+PGF_00053997	Carboxydothermus	215.50	31.89	Stage 0 sporulation two-component response regulator (Spo0A)
+PGF_00054038	Carboxydothermus	315.00	0.00	Stage III sporulation protein AA
+PGF_00054046	Carboxydothermus	66.00	0.00	Stage III sporulation protein AC
+PGF_00054049	Carboxydothermus	129.00	0.00	Stage III sporulation protein AD
+PGF_00054075	Carboxydothermus	84.00	0.00	Stage III sporulation protein D
+PGF_00054087	Carboxydothermus	492.00	0.00	Stage IV sporulation protein A
+PGF_00054088	Carboxydothermus	435.25	12.82	Stage IV sporulation protein B
+PGF_00054097	Carboxydothermus	147.00	0.00	Stage V sporulation protein AC (SpoVAC)
+PGF_00054098	Carboxydothermus	330.00	0.00	Stage V sporulation protein AD (SpoVAD)
+PGF_00054100	Carboxydothermus	118.00	0.00	Stage V sporulation protein AE1 (SpoVAE1)
+PGF_00054116	Carboxydothermus	186.00	0.00	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+PGF_00054117	Carboxydothermus	444.25	2.36	Spore cortex synthesis protein SpoVR
+PGF_00054118	Carboxydothermus	86.00	0.00	Spore core dehydratation and coat assembly protein SpoVS
+PGF_00054134	Carboxydothermus	297.50	3.00	Stage V sporulation protein SpoVK
+PGF_00054343	Carboxydothermus	179.00	0.00	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054359	Carboxydothermus	240.00	0.00	Cobalt ECF transporter, substrate-binding protein CbiM
+PGF_00054360	Carboxydothermus	157.00	0.00	Substrate-specific component CblT of predicted B12-regulated ECF transporter for dimethylbenzimidazole
+PGF_00054528	Carboxydothermus	373.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054955	Carboxydothermus	381.00	0.00	Sulfate adenylyltransferase (EC 2.7.7.4)
+PGF_00055059	Carboxydothermus	442.00	0.00	Sulfite reduction-associated complex DsrMKJOP protein DsrK (=HmeD)
+PGF_00055169	Carboxydothermus	650.25	0.50	Anaerobic dehydrogenases, typically selenocysteine-containing
+PGF_00055324	Carboxydothermus	528.00	0.00	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+PGF_00055377	Carboxydothermus	404.50	1.00	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+PGF_00055394	Carboxydothermus	396.00	0.00	Anaerobic nitric oxide reductase flavorubredoxin
+PGF_00056662	Carboxydothermus	339.00	0.00	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Carboxydothermus	488.25	2.50	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Carboxydothermus	203.00	0.00	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056935	Carboxydothermus	462.00	0.00	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057127	Carboxydothermus	141.75	0.50	Anti-sigma F factor (EC 2.7.11.1)
+PGF_00057399	Carboxydothermus	214.00	0.00	Transaldolase (EC 2.2.1.2)
+PGF_00057429	Carboxydothermus	79.25	2.87	Transcription attenuation protein MtrB
+PGF_00057440	Carboxydothermus	186.00	0.00	Transcription factor FapR
+PGF_00057483	Carboxydothermus	425.00	0.00	Transcription termination factor Rho
+PGF_00057485	Carboxydothermus	346.00	0.00	Transcription termination protein NusA
+PGF_00058285	Carboxydothermus	176.00	0.00	Transcriptional regulator
+PGF_00058501	Carboxydothermus	672.25	0.50	Transcriptional regulator BkdR of isoleucine and valine catabolism operon
+PGF_00059681	Carboxydothermus	256.75	0.50	Transcriptional regulator, MerR family
+PGF_00059988	Carboxydothermus	76.75	0.50	Transcriptional regulator, contains sigma factor-related N-terminal domain
+PGF_00060120	Carboxydothermus	457.50	0.58	Transcriptional regulatory protein
+PGF_00060399	Carboxydothermus	313.00	2.00	Transketolase, C-terminal section (EC 2.2.1.1)
+PGF_00060409	Carboxydothermus	692.00	0.00	Translation elongation factor G
+PGF_00060412	Carboxydothermus	672.00	0.00	Elongation factor G-like protein TM_1651
+PGF_00060414	Carboxydothermus	603.00	0.00	Translation elongation factor LepA
+PGF_00060421	Carboxydothermus	185.00	0.00	Translation elongation factor P
+PGF_00060427	Carboxydothermus	217.00	0.00	Translation elongation factor Ts
+PGF_00060431	Carboxydothermus	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Carboxydothermus	154.00	0.00	Translation initiation factor 3
+PGF_00062019	Carboxydothermus	425.00	0.00	Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)
+PGF_00062023	Carboxydothermus	266.25	1.50	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Carboxydothermus	402.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Carboxydothermus	326.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062081	Carboxydothermus	341.50	27.14	Tungsten-containing aldehyde ferredoxin oxidoreductase cofactor-modifying protein
+PGF_00062085	Carboxydothermus	273.00	0.00	Tungsten-containing aldehyde:ferredoxin oxidoreductase cofactor synthesis adenylyltransferase
+PGF_00063916	Carboxydothermus	409.50	1.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Carboxydothermus	302.00	0.00	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Carboxydothermus	370.50	1.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Carboxydothermus	452.00	4.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064154	Carboxydothermus	77.00	0.00	UPF0033 protein YedF
+PGF_00064218	Carboxydothermus	107.25	0.50	UPF0145 protein YbjQ
+PGF_00064251	Carboxydothermus	378.00	0.00	UPF0229 protein YeaH
+PGF_00064355	Carboxydothermus	403.00	0.00	UPF0394 inner membrane protein YedE
+PGF_00064359	Carboxydothermus	150.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064393	Carboxydothermus	291.00	0.00	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064422	Carboxydothermus	482.00	0.00	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00064426	Carboxydothermus	445.00	10.00	UbiD family decarboxylase, blr3531 type
+PGF_00064923	Carboxydothermus	316.50	3.00	Uncharacterized protein DSY2363
+PGF_00064944	Carboxydothermus	450.25	0.50	Uncharacterized protein GlmL
+PGF_00065077	Carboxydothermus	184.00	0.00	Uncharacterized protein MJ0504
+PGF_00065351	Carboxydothermus	138.00	0.00	UPF0047 protein TM0723
+PGF_00066124	Carboxydothermus	183.00	0.00	Pyrimidine operon regulatory protein PyrR
+PGF_00066270	Carboxydothermus	350.00	0.00	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066286	Carboxydothermus	439.50	121.00	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066435	Carboxydothermus	612.00	0.00	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) YisO
+PGF_00066453	Carboxydothermus	876.00	0.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Carboxydothermus	127.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Carboxydothermus	311.25	0.50	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Carboxydothermus	427.25	13.25	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066964	Carboxydothermus	438.75	6.50	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Carboxydothermus	339.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067383	Carboxydothermus	523.50	0.58	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067466	Carboxydothermus	591.75	0.50	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Carboxydothermus	481.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067771	Carboxydothermus	357.00	1.15	[NiFe] hydrogenase metallocenter assembly protein HypD
+PGF_00067788	Carboxydothermus	220.00	0.00	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00070158	Carboxydothermus	142.00	0.00	conserved protein associated with acetyl-CoA C-acyltransferase and HMGCo
+PGF_00070349	Carboxydothermus	449.75	0.50	cytochrome c, NapC/NirT family
+PGF_00072214	Carboxydothermus	342.00	0.00	heterodisulfide reductase, iron-sulfur binding subunit, putative
+PGF_00075770	Carboxydothermus	452.00	0.00	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00132889	Carboxydothermus	131.00	0.00	hypothetical protein
+PGF_00136594	Carboxydothermus	68.50	1.00	hypothetical protein
+PGF_00176179	Carboxydothermus	102.00	0.00	hypothetical protein
+PGF_00209388	Carboxydothermus	355.00	0.00	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_00261173	Carboxydothermus	363.00	4.00	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Carboxydothermus	195.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00287561	Carboxydothermus	232.25	2.87	hypothetical protein
+PGF_00295348	Carboxydothermus	400.00	0.00	ABC-type antimicrobial peptide transport system, permease component
+PGF_00328709	Carboxydothermus	293.00	0.00	hypothetical protein
+PGF_00336155	Carboxydothermus	169.00	0.00	hypothetical protein
+PGF_00342037	Carboxydothermus	336.50	1.00	Foldase protein PrsA precursor (EC 5.2.1.8)
+PGF_00350441	Carboxydothermus	218.00	0.00	hypothetical protein
+PGF_00350921	Carboxydothermus	293.50	13.00	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00379748	Carboxydothermus	228.25	6.50	hypothetical protein
+PGF_00391084	Carboxydothermus	504.00	0.00	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00398094	Carboxydothermus	299.50	1.00	hypothetical protein
+PGF_00399676	Carboxydothermus	220.00	0.00	hypothetical protein TM1757
+PGF_00403691	Carboxydothermus	477.50	5.20	possible tetrapyrrole methyltransferase domain / Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00404384	Carboxydothermus	325.00	0.00	Biotin synthase (EC 2.8.1.6)
+PGF_00405496	Carboxydothermus	191.25	2.50	protein of unknown function aq_054
+PGF_00409415	Carboxydothermus	257.00	60.00	UPF0750 membrane protein YvjA
+PGF_00410102	Carboxydothermus	187.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)
+PGF_00412532	Carboxydothermus	213.00	0.00	Transcriptional repressor CcpN, MarR family
+PGF_00412559	Carboxydothermus	237.00	2.31	Branched-chain amino acid transport protein
+PGF_00413203	Carboxydothermus	153.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Carboxydothermus	253.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413277	Carboxydothermus	864.25	0.50	tRNA nucleotidyltransferase, A-adding (EC 2.7.7.72)
+PGF_00413286	Carboxydothermus	387.00	0.00	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413295	Carboxydothermus	288.25	0.50	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Carboxydothermus	434.00	0.00	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Carboxydothermus	631.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Carboxydothermus	153.00	0.00	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Carboxydothermus	149.00	0.00	tmRNA-binding protein SmpB
+PGF_00415099	Carboxydothermus	732.00	0.00	CO dehydrogenase/acetyl-CoA synthase, acetyl-CoA synthase subunit (EC 2.3.1.169)
+PGF_00415346	Carboxydothermus	390.00	0.00	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415407	Carboxydothermus	303.25	149.50	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415417	Carboxydothermus	330.00	0.00	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+PGF_00415481	Carboxydothermus	345.00	0.00	SAM-dependent methyltransferase, MidA
+PGF_00415486	Carboxydothermus	159.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415631	Carboxydothermus	92.00	0.00	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416129	Carboxydothermus	535.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Carboxydothermus	1064.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416506	Carboxydothermus	595.00	0.00	Carbon starvation protein A
+PGF_00416674	Carboxydothermus	401.25	0.50	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417069	Carboxydothermus	375.00	0.00	Cell division protein FtsW @ Stage V sporulation protein E
+PGF_00417115	Carboxydothermus	93.00	0.00	Cell division topological specificity factor MinE
+PGF_00417429	Carboxydothermus	381.25	0.50	Chaperone protein DnaJ
+PGF_00417433	Carboxydothermus	603.00	1.15	Chaperone protein DnaK
+PGF_00417577	Carboxydothermus	153.25	1.50	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417810	Carboxydothermus	281.00	0.00	Chorismate dehydratase (EC 4.2.1.151)
+PGF_00417840	Carboxydothermus	384.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00418196	Carboxydothermus	1015.00	0.00	FAD/FMN-containing dehydrogenase / Fe-S oxidoreductase
+PGF_00418243	Carboxydothermus	174.00	0.00	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00418304	Carboxydothermus	201.00	0.00	Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289)
+PGF_00418309	Carboxydothermus	204.00	0.00	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Carboxydothermus	497.00	0.00	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Carboxydothermus	444.00	0.00	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00418459	Carboxydothermus	400.00	0.00	Coenzyme F420-dependent oxidoreductase
+PGF_00418470	Carboxydothermus	317.00	0.00	Coenzyme F420-reducing hydrogenase, beta subunit
+PGF_00419420	Carboxydothermus	421.00	0.00	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419702	Carboxydothermus	158.00	0.00	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419740	Carboxydothermus	157.00	0.00	Transcriptional regulator CtsR
+PGF_00419900	Carboxydothermus	358.00	0.00	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00419913	Carboxydothermus	157.00	0.00	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Carboxydothermus	276.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Carboxydothermus	306.00	0.00	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Carboxydothermus	221.25	1.50	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420412	Carboxydothermus	455.00	0.00	Cytochrome c peroxidase (EC 1.11.1.5)
+PGF_00420482	Carboxydothermus	233.25	1.50	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420492	Carboxydothermus	137.00	0.00	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_00420496	Carboxydothermus	664.75	0.50	Cytochrome c heme lyase subunit CcmF
+PGF_00420572	Carboxydothermus	444.25	0.50	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420798	Carboxydothermus	310.25	3.50	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421032	Carboxydothermus	402.00	63.16	D-serine ammonia-lyase (EC 4.3.1.18)
+PGF_00421071	Carboxydothermus	145.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Carboxydothermus	430.00	0.00	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421249	Carboxydothermus	455.50	4.04	DNA for 3-methylaspartate ammonia-lyase, glutamate mutase
+PGF_00421347	Carboxydothermus	352.00	0.00	DNA integrity scanning protein DisA
+PGF_00421498	Carboxydothermus	371.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Carboxydothermus	580.50	11.00	DNA primase (EC 2.7.7.-)
+PGF_00421792	Carboxydothermus	444.25	0.50	DNA repair protein RadA
+PGF_00422271	Carboxydothermus	313.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422481	Carboxydothermus	140.00	0.00	DUF1934 domain-containing protein
+PGF_00422711	Carboxydothermus	206.75	0.50	DedA protein
+PGF_00422959	Carboxydothermus	146.00	0.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Carboxydothermus	368.00	12.08	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Carboxydothermus	274.25	0.50	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Carboxydothermus	432.00	0.00	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423378	Carboxydothermus	428.75	2.50	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Carboxydothermus	528.75	0.50	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423560	Carboxydothermus	532.75	0.50	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)
+PGF_00423618	Carboxydothermus	302.25	0.50	Dipicolinate synthase subunit A
+PGF_00423621	Carboxydothermus	189.75	0.50	Dipicolinate synthase subunit B
+PGF_00423630	Carboxydothermus	396.00	0.00	Dissimilatory sulfite reductase, alpha subunit (EC 1.8.99.3)
+PGF_00423632	Carboxydothermus	352.00	0.00	Dissimilatory sulfite reductase, beta subunit (EC 1.8.99.3)
+PGF_00423633	Carboxydothermus	105.00	0.00	Sulfur redox associated protein DsrC
+PGF_00423662	Carboxydothermus	238.00	0.00	Division initiation protein
+PGF_00424971	Carboxydothermus	607.00	0.00	Excinuclease ABC subunit C
+PGF_00425024	Carboxydothermus	472.00	0.00	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425417	Carboxydothermus	466.00	0.00	Extradiol ring-cleavage dioxygenase, class III subunit B-like domain / COG2078: Uncharacterized ACR
+PGF_00425665	Carboxydothermus	274.00	4.00	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Carboxydothermus	289.75	1.50	RNase adapter protein RapZ
+PGF_00425679	Carboxydothermus	216.75	3.95	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Carboxydothermus	244.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425720	Carboxydothermus	246.00	0.00	Putative RNA-binding protein YlmH
+PGF_00425786	Carboxydothermus	513.00	0.00	Ribonuclease Y
+PGF_00425806	Carboxydothermus	409.00	2.71	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Carboxydothermus	384.25	0.50	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Carboxydothermus	337.00	0.00	FIG004453: protein YceG like
+PGF_00426041	Carboxydothermus	305.00	0.00	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426069	Carboxydothermus	222.00	0.00	5,10-methylenetetrahydrofolate reductase, small subunit (EC 1.5.1.20)
+PGF_00426115	Carboxydothermus	622.00	0.00	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Carboxydothermus	354.75	0.50	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426440	Carboxydothermus	246.75	19.26	FIG00516494: hypothetical protein
+PGF_00426602	Carboxydothermus	385.50	1.00	FIG005429: hypothetical protein
+PGF_00426735	Carboxydothermus	263.00	0.00	5-methyltetrahydrofolate:corrinoid/iron-sulfur protein Co-methyltransferase (EC 2.1.1.258)
+PGF_00426877	Carboxydothermus	276.50	1.00	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Carboxydothermus	152.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00482828	Carboxydothermus	443.25	0.50	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00503288	Carboxydothermus	754.00	0.00	[NiFe] hydrogenase metallocenter assembly protein HypF
+PGF_00535698	Carboxydothermus	247.00	0.00	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+PGF_00591197	Carboxydothermus	234.00	0.00	RNA polymerase sporulation specific sigma factor SigK
+PGF_00618776	Carboxydothermus	342.00	0.00	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Carboxydothermus	215.00	0.00	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00639841	Carboxydothermus	519.00	0.00	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Carboxydothermus	339.00	2.00	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00655628	Carboxydothermus	509.00	0.00	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00662357	Carboxydothermus	226.00	0.00	Metal-dependent hydrolase
+PGF_00665875	Carboxydothermus	120.00	0.00	Ribosomal silencing factor RsfA
+PGF_00669741	Carboxydothermus	354.00	0.00	[Ni/Fe] hydrogenase, group 1, small subunit
+PGF_00679595	Carboxydothermus	286.00	0.00	Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)
+PGF_00721835	Carboxydothermus	330.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00730148	Carboxydothermus	739.00	0.00	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Sporulation peptidoglycan synthetase SpoVD
+PGF_00734482	Carboxydothermus	693.00	1.15	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00737909	Carboxydothermus	113.00	0.00	[NiFe] hydrogenase nickel incorporation protein HypA
+PGF_00740287	Carboxydothermus	413.50	1.00	Predicted glycolate dehydrogenase, 2-subunit type (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00743561	Carboxydothermus	188.50	1.00	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00777371	Carboxydothermus	240.00	0.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00788787	Carboxydothermus	84.00	0.00	Transition state regulatory protein AbrB
+PGF_00827555	Carboxydothermus	512.50	2.38	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00827693	Carboxydothermus	580.25	0.50	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_00843160	Carboxydothermus	400.25	0.50	hypothetical protein
+PGF_00846659	Carboxydothermus	283.50	19.00	Polysaccharide deacetylase
+PGF_00853393	Carboxydothermus	289.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00882150	Carboxydothermus	282.75	60.50	Transcriptional regulator, LysR family
+PGF_00885329	Carboxydothermus	335.00	0.00	Flagellar motor switch protein FliM
+PGF_00908762	Carboxydothermus	430.25	1.50	Ferredoxin
+PGF_00912265	Carboxydothermus	320.75	0.50	tRNA-dihydrouridine synthase DusB
+PGF_00944166	Carboxydothermus	332.00	0.00	Isocitrate dehydrogenase [NAD] (EC 1.1.1.41)
+PGF_00950554	Carboxydothermus	662.25	0.50	Excinuclease ABC subunit B
+PGF_00955412	Carboxydothermus	248.00	0.00	Probable iron export permease protein FetB
+PGF_00955461	Carboxydothermus	304.00	0.00	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00956706	Carboxydothermus	317.00	0.00	Ferredoxin
+PGF_00957419	Carboxydothermus	138.00	0.00	Putative pre-16S rRNA nuclease Yqg
+PGF_00957430	Carboxydothermus	213.75	1.50	Uncharacterized protein YteA
+PGF_00984674	Carboxydothermus	205.00	0.00	Iron-sulfur flavoprotein
+PGF_01028579	Carboxydothermus	453.00	0.00	Sodium-dependent transporter, SNF family
+PGF_01058223	Carboxydothermus	325.00	0.00	Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+PGF_01063338	Carboxydothermus	616.25	0.50	Bipolar DNA helicase HerA
+PGF_01065911	Carboxydothermus	212.75	0.50	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01079016	Carboxydothermus	287.25	2.50	Chromosome (plasmid) partitioning protein ParB
+PGF_01082254	Carboxydothermus	272.00	0.00	Glutamine ABC transporter, substrate-binding protein GlnH
+PGF_01101526	Carboxydothermus	342.00	2.00	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01126005	Carboxydothermus	377.50	1.00	Rod shape-determining protein RodA
+PGF_01169833	Carboxydothermus	350.00	0.00	Flagellar biosynthesis protein FlhF
+PGF_01172485	Carboxydothermus	643.00	0.00	Cell division protein FtsA
+PGF_01174807	Carboxydothermus	454.50	1.73	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Carboxydothermus	634.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Carboxydothermus	265.00	0.00	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Carboxydothermus	540.00	0.00	Heat shock protein 60 family chaperone GroEL
+PGF_01212940	Carboxydothermus	288.00	0.00	UPF0701 protein YloC
+PGF_01232770	Carboxydothermus	161.00	0.00	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01284176	Carboxydothermus	173.00	0.00	Rubrerythrin
+PGF_01296193	Carboxydothermus	254.00	0.00	Chromosome (plasmid) partitioning protein ParA
+PGF_01315291	Carboxydothermus	409.00	0.00	Uncharacterized zinc protease YmxG
+PGF_01315833	Carboxydothermus	245.00	0.00	UPF0702 transmembrane protein YdfS
+PGF_01351158	Carboxydothermus	1160.25	0.50	Transcription-repair coupling factor
+PGF_01408166	Carboxydothermus	308.00	0.00	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_01416650	Carboxydothermus	271.50	1.00	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Carboxydothermus	143.00	0.00	Cell division protein MraZ
+PGF_01421572	Carboxydothermus	208.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01421686	Carboxydothermus	464.00	0.00	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit B
+PGF_01442793	Carboxydothermus	179.50	1.00	Putative manganese efflux pump MntP
+PGF_01444069	Carboxydothermus	252.25	2.99	Iron-sulfur cluster-binding protein
+PGF_01444546	Carboxydothermus	94.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01445941	Carboxydothermus	291.00	0.00	Polysulfide reductase, subunit C, putative
+PGF_01446371	Carboxydothermus	189.75	3.50	Heterodisulfide reductase subunit C-like protein
+PGF_01454542	Carboxydothermus	373.00	0.00	Domain of unknown function / Efflux ABC transporter, permease protein
+PGF_01468437	Carboxydothermus	80.00	0.00	hypothetical protein
+PGF_01473952	Carboxydothermus	91.75	3.50	hypothetical protein
+PGF_01474432	Carboxydothermus	316.00	0.00	hypothetical protein
+PGF_01474685	Carboxydothermus	350.25	0.50	hypothetical protein
+PGF_01476286	Carboxydothermus	131.00	0.00	hypothetical protein
+PGF_01477557	Carboxydothermus	163.00	0.00	DUF458 domain-containing protein
+PGF_01477740	Carboxydothermus	61.00	0.00	hypothetical protein
+PGF_01480798	Carboxydothermus	278.00	0.00	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit A
+PGF_01481272	Carboxydothermus	160.00	2.00	Chemotaxis protein CheD
+PGF_01483918	Carboxydothermus	263.00	0.00	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01496273	Carboxydothermus	332.00	0.00	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+PGF_01514111	Carboxydothermus	350.00	0.00	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01528300	Carboxydothermus	260.00	0.00	Formate dehydrogenase O beta subunit (EC 1.2.1.2)
+PGF_01538186	Carboxydothermus	116.00	0.00	Programmed cell death toxin YdcE
+PGF_01599021	Carboxydothermus	152.00	0.00	Peptide deformylase (EC 3.5.1.88)
+PGF_01604929	Carboxydothermus	228.00	0.00	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01618915	Carboxydothermus	341.75	0.50	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01655736	Carboxydothermus	508.00	6.00	hypothetical protein
+PGF_01668012	Carboxydothermus	259.00	0.00	Sulfur carrier protein FdhD
+PGF_01674551	Carboxydothermus	130.00	0.00	Glycine cleavage system H protein
+PGF_01677191	Carboxydothermus	311.25	0.50	Sporulation transcription regulator WhiA
+PGF_01703337	Carboxydothermus	289.00	0.00	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157); 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)
+PGF_01734668	Carboxydothermus	213.50	1.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Carboxydothermus	277.50	1.00	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01767358	Carboxydothermus	242.00	0.00	HesA/MoeB/ThiF family protein
+PGF_01771963	Carboxydothermus	467.00	0.00	RNA-2',3'-PO4:RNA-5'-OH ligase
+PGF_01777142	Carboxydothermus	201.00	0.00	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Carboxydothermus	551.75	15.33	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Carboxydothermus	395.50	2.89	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Carboxydothermus	341.00	0.00	Heat-inducible transcription repressor HrcA
+PGF_01888177	Carboxydothermus	144.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Carboxydothermus	211.50	5.20	Endonuclease III (EC 4.2.99.18)
+PGF_01899924	Carboxydothermus	266.00	0.00	Flagellar motor rotation protein MotB
+PGF_01900530	Carboxydothermus	242.00	2.31	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900807	Carboxydothermus	285.00	0.00	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01920535	Carboxydothermus	555.75	2.50	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01942824	Carboxydothermus	380.50	1.00	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01943486	Carboxydothermus	181.00	0.00	O-acetyl-ADP-ribose deacetylase
+PGF_01981332	Carboxydothermus	160.00	0.00	Transcriptional regulator, AsnC family
+PGF_01984533	Carboxydothermus	87.25	0.50	UPF0296 protein YlzA
+PGF_01994657	Carboxydothermus	427.00	0.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Carboxydothermus	259.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02015262	Carboxydothermus	237.00	0.00	Helicase loader DnaI
+PGF_02019462	Carboxydothermus	338.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Carboxydothermus	428.75	0.50	GTP-binding protein Obg
+PGF_02031924	Carboxydothermus	228.00	0.00	Uncharacterized DUF554 membrane protein
+PGF_02055808	Carboxydothermus	435.00	0.00	hypothetical protein
+PGF_02061452	Carboxydothermus	371.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02104610	Carboxydothermus	210.00	0.00	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases
+PGF_02154745	Carboxydothermus	1409.00	4.00	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02177520	Carboxydothermus	253.50	4.04	RNA polymerase sporulation specific sigma factor SigF
+PGF_02185217	Carboxydothermus	422.00	2.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Carboxydothermus	353.75	1.50	Flagellar biosynthesis protein FlhB
+PGF_02189378	Carboxydothermus	382.00	0.00	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02204321	Carboxydothermus	362.00	0.00	Twitching motility protein PilT
+PGF_02211177	Carboxydothermus	264.00	0.00	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02226715	Carboxydothermus	677.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02297251	Carboxydothermus	220.00	0.00	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02346669	Carboxydothermus	325.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Carboxydothermus	874.00	0.00	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Carboxydothermus	368.00	0.00	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Carboxydothermus	831.00	0.00	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Carboxydothermus	291.00	2.83	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02450432	Carboxydothermus	253.75	1.50	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Carboxydothermus	90.50	0.58	SSU ribosomal protein S20p
+PGF_02463284	Carboxydothermus	199.00	0.00	Recombination protein RecR
+PGF_02473354	Carboxydothermus	535.00	0.00	Glucosaminyl-malate:cysteine ligase
+PGF_02473679	Carboxydothermus	568.25	0.50	Type IV fimbrial assembly, ATPase PilB
+PGF_02516909	Carboxydothermus	428.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02593689	Carboxydothermus	451.00	0.82	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Carboxydothermus	443.00	0.00	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Carboxydothermus	307.25	0.50	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02635429	Carboxydothermus	130.00	0.00	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02704551	Carboxydothermus	1152.00	0.00	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Carboxydothermus	151.50	13.67	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02713816	Carboxydothermus	196.00	0.00	Uncharacterized protein YyaC
+PGF_02719231	Carboxydothermus	118.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Carboxydothermus	838.50	2.89	DNA mismatch repair protein MutS
+PGF_02744871	Carboxydothermus	95.00	0.00	Flagellar hook-basal body complex protein FliE
+PGF_02745651	Carboxydothermus	308.00	0.00	[FeFe]-hydrogenase maturation protein HydE
+PGF_02769386	Carboxydothermus	304.75	7.50	hypothetical protein
+PGF_02771676	Carboxydothermus	63.00	0.00	hypothetical protein
+PGF_02787474	Carboxydothermus	267.00	0.00	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02788582	Carboxydothermus	778.25	3.95	Recombination inhibitory protein MutS2
+PGF_02789532	Carboxydothermus	285.00	0.00	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Carboxydothermus	168.00	0.00	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02797400	Carboxydothermus	465.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Carboxydothermus	1132.00	0.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Carboxydothermus	522.50	9.81	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Carboxydothermus	192.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827138	Carboxydothermus	239.00	0.00	Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+PGF_02827614	Carboxydothermus	120.00	0.00	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02844091	Carboxydothermus	263.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Carboxydothermus	401.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02878356	Carboxydothermus	318.00	0.00	Putative ROK-family transcriptional regulator
+PGF_02882116	Carboxydothermus	281.00	0.00	radical activating enzyme
+PGF_02883702	Carboxydothermus	374.00	0.00	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02895613	Carboxydothermus	433.00	0.00	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02897665	Carboxydothermus	312.50	143.00	Glycerate kinase (EC 2.7.1.31)
+PGF_02898176	Carboxydothermus	215.00	0.00	Methionine ABC transporter permease protein
+PGF_02899131	Carboxydothermus	69.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02901457	Carboxydothermus	394.00	0.00	Nitrite reductase probable [NAD(P)H] subunit (EC 1.7.1.4)
+PGF_02903300	Carboxydothermus	165.00	0.00	Rubrerythrin-like protein DVU2318
+PGF_02912272	Carboxydothermus	138.50	1.73	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Carboxydothermus	242.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Carboxydothermus	321.00	0.00	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Carboxydothermus	293.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02937881	Carboxydothermus	525.00	0.00	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+PGF_02944756	Carboxydothermus	390.00	0.00	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02950579	Carboxydothermus	264.00	0.00	Septum site-determining protein MinD
+PGF_02955347	Carboxydothermus	141.00	0.00	Rubrerythrin
+PGF_02965779	Carboxydothermus	380.00	0.00	Re face-specific citrate synthase (EC 2.3.3.3)
+PGF_02970853	Carboxydothermus	107.00	4.00	Small basic protein Sbp
+PGF_02992495	Carboxydothermus	77.00	0.00	Protein translocase membrane subunit SecG
+PGF_02995302	Carboxydothermus	226.00	2.00	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_02997723	Carboxydothermus	147.50	4.36	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03000781	Carboxydothermus	841.00	5.03	Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+PGF_03017775	Carboxydothermus	488.00	0.00	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Carboxydothermus	186.25	0.50	Septum formation protein Maf
+PGF_03026450	Carboxydothermus	1185.00	0.00	Chromosome partition protein smc
+PGF_03029062	Carboxydothermus	306.75	0.50	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03034557	Carboxydothermus	263.75	1.50	Fumarate reductase iron-sulfur protein (EC 1.3.5.4)
+PGF_03039428	Carboxydothermus	829.00	0.00	Protease
+PGF_03054699	Carboxydothermus	735.50	3.00	DNA translocase FtsK
+PGF_03066520	Carboxydothermus	412.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03073470	Carboxydothermus	553.00	0.00	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03073684	Carboxydothermus	240.25	25.50	Uncharacterized protein MJ1383 precursor
+PGF_03075401	Carboxydothermus	159.00	0.00	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Carboxydothermus	87.00	0.00	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03110657	Carboxydothermus	696.00	0.00	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03124650	Carboxydothermus	485.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Carboxydothermus	415.25	0.50	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Carboxydothermus	287.00	0.00	Flagellar hook-associated protein FlgL
+PGF_03154343	Carboxydothermus	134.00	4.00	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Carboxydothermus	237.75	8.62	Prolipoprotein diacylglyceryl transferase
+PGF_03257845	Carboxydothermus	191.75	23.84	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03267589	Carboxydothermus	280.00	0.00	Transketolase, N-terminal section (EC 2.2.1.1)
+PGF_03272313	Carboxydothermus	811.75	0.50	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277220	Carboxydothermus	443.00	0.00	Two-component system response regulator protein
+PGF_03277417	Carboxydothermus	348.25	22.50	Methionine ABC transporter ATP-binding protein
+PGF_03287477	Carboxydothermus	222.00	2.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03331181	Carboxydothermus	476.75	0.50	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)
+PGF_03340305	Carboxydothermus	152.00	0.00	RidA/YER057c/UK114 superfamily, group 1
+PGF_03421722	Carboxydothermus	443.75	3.10	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03439690	Carboxydothermus	152.00	0.00	Ferric uptake regulation protein FUR
+PGF_03440867	Carboxydothermus	127.00	0.00	UPF0047 protein Bsu YugU
+PGF_03441843	Carboxydothermus	805.25	0.50	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03448459	Carboxydothermus	127.00	0.00	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03474542	Carboxydothermus	433.75	0.50	Flagellum-specific ATP synthase FliI
+PGF_03504453	Carboxydothermus	171.00	0.00	Substrate-specific component ThiT of thiamin ECF transporter
+PGF_03518570	Carboxydothermus	149.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Carboxydothermus	352.00	0.00	Cell division protein FtsZ
+PGF_03558774	Carboxydothermus	281.00	0.00	Peptidase M48, Ste24p precursor
+PGF_03609651	Carboxydothermus	653.50	1.00	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03642389	Carboxydothermus	210.00	0.00	putative membrane protein
+PGF_03647550	Carboxydothermus	165.00	0.00	UPF0234 protein Yitk
+PGF_03663113	Carboxydothermus	572.00	0.00	Glucoamylase and related glycosyl hydrolases
+PGF_03701810	Carboxydothermus	295.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Carboxydothermus	200.25	3.40	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Carboxydothermus	169.75	5.50	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03742550	Carboxydothermus	407.00	2.00	Cell division topological determinant MinJ
+PGF_03742815	Carboxydothermus	344.00	1.41	hypothetical protein
+PGF_03743176	Carboxydothermus	635.00	0.00	Selenocysteine-specific translation elongation factor
+PGF_03743181	Carboxydothermus	127.75	32.50	CO dehydrogenase iron-sulfur protein CooF (EC 1.2.7.4)
+PGF_03744835	Carboxydothermus	140.00	0.00	hypothetical protein
+PGF_03750571	Carboxydothermus	454.00	0.00	Chromosomal replication initiator protein DnaA
+PGF_03750600	Carboxydothermus	162.00	0.00	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751065	Carboxydothermus	52.00	0.00	Rubredoxin
+PGF_03751658	Carboxydothermus	75.00	0.00	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Carboxydothermus	189.50	6.61	Heat shock protein GrpE
+PGF_03752391	Carboxydothermus	449.75	2.87	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily M
+PGF_03752544	Carboxydothermus	219.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03753933	Carboxydothermus	148.00	0.00	Iron-sulfur cluster regulator IscR
+PGF_03756028	Carboxydothermus	247.50	0.58	hypothetical protein
+PGF_03757137	Carboxydothermus	456.75	0.50	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Carboxydothermus	302.75	0.50	Signal recognition particle receptor FtsY
+PGF_03782093	Carboxydothermus	193.75	0.50	Putative membrane-spanning protein
+PGF_03787622	Carboxydothermus	390.75	0.50	DNA polymerase IV (EC 2.7.7.7)
+PGF_03788061	Carboxydothermus	364.25	0.50	Pseudouridine kinase (EC 2.7.1.83)
+PGF_03790040	Carboxydothermus	235.50	1.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03790089	Carboxydothermus	368.00	0.00	Uncharacterized di-Fe4-S4 cluster-containing protein AF_1153
+PGF_03801201	Carboxydothermus	258.75	0.50	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Carboxydothermus	65.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03803024	Carboxydothermus	616.25	1.50	Pyruvate carboxylase subunit B (EC 6.4.1.1)
+PGF_03803868	Carboxydothermus	570.00	0.00	Fumarate reductase flavoprotein subunit (EC 1.3.5.4)
+PGF_03811905	Carboxydothermus	349.00	0.00	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03856084	Carboxydothermus	620.50	3.00	Cell division protein FtsH
+PGF_03862500	Carboxydothermus	199.00	0.00	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03991729	Carboxydothermus	398.00	0.00	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03999196	Carboxydothermus	811.50	1.00	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Carboxydothermus	445.00	0.00	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04016408	Carboxydothermus	439.75	0.50	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04034430	Carboxydothermus	59.00	0.00	SSU ribosomal protein S21p
+PGF_04041316	Carboxydothermus	943.00	3.83	Excinuclease ABC subunit A
+PGF_04047265	Carboxydothermus	81.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04091295	Carboxydothermus	267.25	0.50	Flagellar motor rotation protein MotA
+PGF_04127376	Carboxydothermus	242.75	0.50	Twin-arginine translocation protein TatC
+PGF_04182459	Carboxydothermus	231.50	11.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04198961	Carboxydothermus	191.00	0.00	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04213876	Carboxydothermus	256.75	0.50	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04236927	Carboxydothermus	118.50	2.38	hypothetical protein
+PGF_04256257	Carboxydothermus	456.00	0.00	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04258098	Carboxydothermus	294.00	0.00	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+PGF_04297012	Carboxydothermus	350.75	0.50	Sporulation integral membrane protein YtvI
+PGF_04306800	Carboxydothermus	372.00	0.00	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04345693	Carboxydothermus	446.00	0.00	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Carboxydothermus	874.00	0.00	Protein translocase subunit SecA
+PGF_04380075	Carboxydothermus	166.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Carboxydothermus	293.00	0.00	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04457297	Carboxydothermus	192.00	0.00	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04477106	Carboxydothermus	379.00	0.00	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04493258	Carboxydothermus	303.50	1.00	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Carboxydothermus	232.00	0.00	SSU ribosomal protein S2p (SAe)
+PGF_04569524	Carboxydothermus	501.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Carboxydothermus	251.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04662829	Carboxydothermus	635.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Carboxydothermus	223.50	1.00	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04714129	Carboxydothermus	441.00	0.00	Cytosine/purine/uracil/thiamine/allantoin permease family protein
+PGF_04749763	Carboxydothermus	827.75	5.68	Translation initiation factor 2
+PGF_04757308	Carboxydothermus	643.00	0.00	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04807486	Carboxydothermus	311.00	0.00	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Carboxydothermus	113.00	0.00	LSU ribosomal protein L19p
+PGF_04846590	Carboxydothermus	322.00	0.00	Magnesium and cobalt transport protein CorA
+PGF_04866046	Carboxydothermus	688.00	2.45	Uncharacterized protein YyaL
+PGF_04958295	Carboxydothermus	125.75	1.50	Flagellar biosynthesis protein FliS
+PGF_04960746	Carboxydothermus	198.00	0.00	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Carboxydothermus	710.00	28.67	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Carboxydothermus	68.75	0.50	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04971017	Carboxydothermus	349.00	0.00	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Carboxydothermus	103.00	0.00	LSU ribosomal protein L21p
+PGF_05087635	Carboxydothermus	167.00	0.00	hypothetical protein
+PGF_05111929	Carboxydothermus	854.00	0.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Carboxydothermus	821.00	0.00	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Carboxydothermus	308.50	6.40	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Carboxydothermus	473.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05249824	Carboxydothermus	255.00	0.00	Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+PGF_05280843	Carboxydothermus	427.75	0.50	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05313903	Carboxydothermus	282.00	4.16	Transcriptional regulator, AraC family
+PGF_05439724	Carboxydothermus	664.00	0.00	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Carboxydothermus	461.50	1.00	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05507938	Carboxydothermus	575.75	2.63	DNA mismatch repair protein MutL
+PGF_05519582	Carboxydothermus	394.00	0.00	NAD(FAD)-utilizing dehydrogenases
+PGF_05560886	Carboxydothermus	282.00	0.00	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Carboxydothermus	419.00	0.00	Protein translocase subunit SecY
+PGF_05598173	Carboxydothermus	360.25	3.50	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Carboxydothermus	421.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05694328	Carboxydothermus	372.00	0.00	Iron-sulfur cluster-binding protein
+PGF_05790213	Carboxydothermus	465.00	0.82	Vancomycin B-type resistance protein VanW
+PGF_05847461	Carboxydothermus	281.25	1.50	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05925776	Carboxydothermus	295.00	0.00	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Carboxydothermus	400.00	16.00	Protein translocase subunit SecD
+PGF_05971611	Carboxydothermus	399.00	0.00	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06000040	Carboxydothermus	402.00	0.00	Type IV fimbrial assembly protein PilC
+PGF_06042577	Carboxydothermus	461.00	0.00	hypothetical protein
+PGF_06122323	Carboxydothermus	1085.00	5.77	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06180597	Carboxydothermus	140.50	2.89	LSU ribosomal protein L13p (L13Ae)
+PGF_06211427	Carboxydothermus	265.00	0.00	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06213055	Carboxydothermus	253.00	0.00	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Carboxydothermus	523.75	0.50	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Carboxydothermus	94.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Carboxydothermus	357.25	1.50	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06326847	Carboxydothermus	250.75	7.18	Flagellar biosynthesis protein FliP
+PGF_06329961	Carboxydothermus	431.50	3.00	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06366649	Carboxydothermus	420.00	0.00	hypothetical protein
+PGF_06403579	Carboxydothermus	793.50	1.00	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06447349	Carboxydothermus	412.00	0.00	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06459503	Carboxydothermus	610.00	0.00	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06533121	Carboxydothermus	395.25	1.50	Stage II sporulation protein P
+PGF_06545170	Carboxydothermus	123.00	0.00	Fluoride ion transporter CrcB
+PGF_06586947	Carboxydothermus	376.25	0.50	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06609275	Carboxydothermus	49.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06644010	Carboxydothermus	311.00	0.00	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Carboxydothermus	77.00	0.00	Acyl carrier protein
+PGF_06660812	Carboxydothermus	162.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06679416	Carboxydothermus	197.00	0.00	Adenylylsulfate kinase (EC 2.7.1.25)
+PGF_06683449	Carboxydothermus	308.75	0.50	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06690276	Carboxydothermus	228.75	2.63	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Carboxydothermus	109.00	0.00	Nucleoid-associated protein YaaK
+PGF_06701488	Carboxydothermus	206.00	0.00	RNA-binding protein Jag
+PGF_06750600	Carboxydothermus	338.00	0.00	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06758939	Carboxydothermus	723.00	0.82	hypothetical protein
+PGF_06767187	Carboxydothermus	334.00	0.00	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06804502	Carboxydothermus	891.00	0.00	Polysulfide reductase, subunit A, putative
+PGF_06900823	Carboxydothermus	209.75	0.50	CBS domain protein AcuB
+PGF_06910670	Carboxydothermus	431.00	0.00	Electron transfer flavoprotein-quinone oxidoreductase
+PGF_07038980	Carboxydothermus	346.00	0.00	hypothetical protein
+PGF_07072582	Carboxydothermus	370.25	0.50	RNA polymerase sigma factor RpoD
+PGF_07109522	Carboxydothermus	93.00	0.00	hypothetical protein
+PGF_07118348	Carboxydothermus	58.00	0.00	hypothetical protein
+PGF_07263029	Carboxydothermus	348.00	0.00	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07288070	Carboxydothermus	109.00	0.00	hypothetical protein
+PGF_07331644	Carboxydothermus	302.00	0.00	Transcriptional regulator, LysR family
+PGF_07345050	Carboxydothermus	121.00	0.00	hypothetical protein
+PGF_07376604	Carboxydothermus	48.00	0.00	hypothetical protein
+PGF_07392782	Carboxydothermus	254.00	0.00	CoA-substrate-specific enzyme activase; 2-hydroxyglutaryl-CoA dehydratase activator, A-component
+PGF_08147453	Carboxydothermus	417.25	2.87	DNA recombination protein RmuC

@@ -1,0 +1,941 @@
+PGF_00000027	Sulfobacillus	251.89	8.43	Uncharacterized protein YmdB
+PGF_00000261	Sulfobacillus	402.67	8.72	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000335	Sulfobacillus	86.33	1.00	FIG007697: hypothetical protein
+PGF_00000416	Sulfobacillus	241.22	0.44	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001028	Sulfobacillus	430.56	0.88	Uncharacterized zinc protease YmfH
+PGF_00002375	Sulfobacillus	351.22	4.68	ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00004671	Sulfobacillus	598.56	0.88	Ferrous iron transport protein B
+PGF_00005284	Sulfobacillus	516.11	14.77	Flagellar M-ring protein FliF
+PGF_00005384	Sulfobacillus	678.44	0.88	Flagellar biosynthesis protein FlhA
+PGF_00005402	Sulfobacillus	90.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Sulfobacillus	421.44	2.19	Flagellar hook protein FlgE
+PGF_00005454	Sulfobacillus	468.56	1.42	Flagellar hook-associated protein FlgK
+PGF_00006231	Sulfobacillus	306.89	6.43	Hydrogenase-4 component C
+PGF_00006245	Sulfobacillus	547.11	2.20	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006277	Sulfobacillus	430.11	11.42	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+PGF_00006320	Sulfobacillus	289.11	9.71	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006378	Sulfobacillus	318.67	1.32	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006394	Sulfobacillus	284.89	1.76	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006398	Sulfobacillus	300.11	1.76	Fructose-bisphosphate aldolase, archaeal class I (EC 4.1.2.13)
+PGF_00006461	Sulfobacillus	464.78	0.44	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Sulfobacillus	506.22	0.44	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Sulfobacillus	363.44	10.24	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Sulfobacillus	438.00	0.00	GTP-binding protein EngA
+PGF_00007026	Sulfobacillus	178.56	6.00	GTP-binding protein EngB
+PGF_00007027	Sulfobacillus	296.00	0.00	GTP-binding protein Era
+PGF_00007041	Sulfobacillus	606.44	0.88	GTP-binding protein TypA/BipA
+PGF_00007045	Sulfobacillus	260.00	0.00	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007085	Sulfobacillus	384.56	7.06	Galactokinase (EC 2.7.1.6)
+PGF_00007120	Sulfobacillus	303.78	11.46	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007162	Sulfobacillus	451.00	0.00	Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
+PGF_00007304	Sulfobacillus	285.11	1.76	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Sulfobacillus	299.89	4.70	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007982	Sulfobacillus	354.56	0.88	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00008051	Sulfobacillus	438.11	6.17	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008101	Sulfobacillus	299.78	0.67	Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase
+PGF_00008106	Sulfobacillus	273.22	2.33	Glutamate racemase (EC 5.1.1.3)
+PGF_00008313	Sulfobacillus	384.44	0.88	Glutamine-dependent 2-keto-4-methylthiobutyrate transaminase
+PGF_00008334	Sulfobacillus	434.00	3.97	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Sulfobacillus	483.89	2.20	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008393	Sulfobacillus	394.89	2.20	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008537	Sulfobacillus	501.33	1.32	Glycerol kinase (EC 2.7.1.30)
+PGF_00008774	Sulfobacillus	442.33	1.32	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Sulfobacillus	484.78	3.53	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008838	Sulfobacillus	236.11	1.76	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009348	Sulfobacillus	369.44	16.88	Glycosyl transferase, group 1
+PGF_00009500	Sulfobacillus	178.78	13.85	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009614	Sulfobacillus	452.33	9.26	ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate) / C-terminal AAA-associated domain
+PGF_00009894	Sulfobacillus	212.56	0.88	Glycosyltransferase involved in cell wall biogenesis
+PGF_00009967	Sulfobacillus	288.44	3.09	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Sulfobacillus	683.67	2.65	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010161	Sulfobacillus	582.00	0.00	Glyoxylate carboligase (EC 4.1.1.47)
+PGF_00010205	Sulfobacillus	240.11	5.73	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010332	Sulfobacillus	444.56	5.70	Guanine deaminase (EC 3.5.4.3)
+PGF_00010349	Sulfobacillus	713.56	3.09	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Sulfobacillus	199.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010491	Sulfobacillus	389.44	123.10	HD domain
+PGF_00010576	Sulfobacillus	191.00	0.00	HDIG domain protein
+PGF_00011081	Sulfobacillus	721.22	3.53	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011541	Sulfobacillus	319.89	2.20	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011792	Sulfobacillus	98.22	0.44	His repressor
+PGF_00012264	Sulfobacillus	338.56	4.85	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Sulfobacillus	371.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Sulfobacillus	314.44	4.85	Homoserine kinase (EC 2.7.1.39)
+PGF_00012546	Sulfobacillus	315.33	1.32	Hydrogenase-4 component C
+PGF_00012926	Sulfobacillus	424.67	3.04	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_00012970	Sulfobacillus	579.89	2.20	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00012982	Sulfobacillus	264.00	0.00	Hydroxypyruvate isomerase (EC 5.3.1.22)
+PGF_00013283	Sulfobacillus	229.56	3.09	UPF0001 protein YggS
+PGF_00013341	Sulfobacillus	340.11	1.76	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013347	Sulfobacillus	87.44	3.28	UPF0297 protein YrzL
+PGF_00013492	Sulfobacillus	177.33	4.24	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Sulfobacillus	508.56	0.88	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Sulfobacillus	194.22	0.44	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Sulfobacillus	255.78	0.44	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Sulfobacillus	223.78	0.44	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014306	Sulfobacillus	161.11	1.76	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Sulfobacillus	488.22	0.44	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Sulfobacillus	230.00	0.00	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Sulfobacillus	75.22	0.44	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Sulfobacillus	286.11	2.20	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Sulfobacillus	255.22	0.44	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Sulfobacillus	465.33	1.32	Iron-sulfur cluster assembly protein SufB
+PGF_00015629	Sulfobacillus	396.78	0.44	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015701	Sulfobacillus	405.89	1.45	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Sulfobacillus	910.33	1.32	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015928	Sulfobacillus	524.11	1.76	Kumamolysin
+PGF_00016231	Sulfobacillus	473.67	8.87	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016263	Sulfobacillus	305.22	6.67	L-threonine kinase in B12 biosynthesis (EC 2.7.1.177)
+PGF_00016328	Sulfobacillus	173.22	0.44	LSU ribosomal protein L10p (P0)
+PGF_00016338	Sulfobacillus	423.67	1.32	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Sulfobacillus	123.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Sulfobacillus	133.00	23.81	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Sulfobacillus	144.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Sulfobacillus	110.22	7.50	LSU ribosomal protein L17p
+PGF_00016353	Sulfobacillus	110.44	21.59	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Sulfobacillus	235.22	0.44	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Sulfobacillus	117.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Sulfobacillus	117.44	0.88	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Sulfobacillus	94.78	0.44	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Sulfobacillus	103.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016393	Sulfobacillus	277.33	1.32	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Sulfobacillus	66.56	0.88	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Sulfobacillus	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016423	Sulfobacillus	65.78	0.44	LSU ribosomal protein L35p
+PGF_00016431	Sulfobacillus	216.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Sulfobacillus	208.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Sulfobacillus	175.11	17.64	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Sulfobacillus	172.33	14.97	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Sulfobacillus	128.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Sulfobacillus	146.00	0.00	LSU ribosomal protein L9p
+PGF_00016872	Sulfobacillus	390.56	34.58	ABC-type branched-chain amino acid transport systems, periplasmic component
+PGF_00017479	Sulfobacillus	298.67	1.32	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Sulfobacillus	345.00	3.97	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017959	Sulfobacillus	469.78	8.38	Lysine decarboxylase (EC 4.1.1.18)
+PGF_00018560	Sulfobacillus	419.00	10.48	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Sulfobacillus	310.56	1.42	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018964	Sulfobacillus	524.00	0.00	Malate synthase (EC 2.3.3.9)
+PGF_00019038	Sulfobacillus	468.56	0.88	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019279	Sulfobacillus	348.67	1.32	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)
+PGF_00019428	Sulfobacillus	181.33	1.32	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019536	Sulfobacillus	561.78	0.44	ATP-dependent protease La (EC 3.4.21.53) LonB Type I
+PGF_00020025	Sulfobacillus	627.67	1.32	ATP-dependent protease LonB-like Type I
+PGF_00020147	Sulfobacillus	365.00	0.00	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020361	Sulfobacillus	133.56	16.88	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Sulfobacillus	250.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020981	Sulfobacillus	505.78	0.44	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Sulfobacillus	285.67	1.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021036	Sulfobacillus	348.33	1.32	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021217	Sulfobacillus	514.00	1.73	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022394	Sulfobacillus	430.33	1.32	Modification methylase
+PGF_00022507	Sulfobacillus	159.00	0.00	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Sulfobacillus	81.67	1.32	Molybdopterin synthase sulfur carrier subunit
+PGF_00022721	Sulfobacillus	392.00	7.94	Mrp protein homolog
+PGF_00023591	Sulfobacillus	319.78	18.55	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00024273	Sulfobacillus	169.78	0.44	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Sulfobacillus	383.78	3.53	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Sulfobacillus	568.22	0.44	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Sulfobacillus	462.11	1.76	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024414	Sulfobacillus	417.33	1.32	NAD-dependent dihydropyrimidine dehydrogenase subunit PreA (EC 1.3.1.1)
+PGF_00024415	Sulfobacillus	445.00	1.73	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT (EC 1.3.1.1)
+PGF_00024473	Sulfobacillus	407.00	0.00	NAD-dependent formate dehydrogenase gamma subunit
+PGF_00024495	Sulfobacillus	305.00	3.97	Acetamidase/Formamidase
+PGF_00024505	Sulfobacillus	417.00	0.00	NAD-specific glutamate dehydrogenase (EC 1.4.1.2)
+PGF_00024654	Sulfobacillus	346.00	0.00	NADH-dependent flavin oxidoreductase
+PGF_00024692	Sulfobacillus	158.22	1.30	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Sulfobacillus	187.33	5.89	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Sulfobacillus	99.78	0.44	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024746	Sulfobacillus	471.44	3.09	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024909	Sulfobacillus	324.44	3.21	Acetoin catabolism protein X, possible NAD kinase
+PGF_00025090	Sulfobacillus	554.56	0.88	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025344	Sulfobacillus	509.67	6.61	Na+/solute symporter
+PGF_00025379	Sulfobacillus	272.22	0.44	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025562	Sulfobacillus	200.00	3.97	Nicotinamidase (EC 3.5.1.19)
+PGF_00025639	Sulfobacillus	391.22	3.15	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00026362	Sulfobacillus	198.33	1.32	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Sulfobacillus	281.11	1.76	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026468	Sulfobacillus	187.22	3.53	Nucleotide excision repair protein, with UvrB/UvrC motif
+PGF_00026794	Sulfobacillus	395.22	2.91	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00028631	Sulfobacillus	248.78	0.44	Oxidoreductase
+PGF_00029424	Sulfobacillus	252.89	2.20	PROBABLE REMNANT OF A TRANSPOSASE GENE PROTEIN
+PGF_00029917	Sulfobacillus	283.33	1.32	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Sulfobacillus	357.22	0.44	Peptide chain release factor 1
+PGF_00030643	Sulfobacillus	523.44	0.88	Peptide chain release factor 3
+PGF_00033095	Sulfobacillus	778.56	0.88	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Sulfobacillus	327.22	0.44	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Sulfobacillus	337.33	6.61	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Sulfobacillus	314.33	1.32	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Sulfobacillus	868.00	7.94	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033411	Sulfobacillus	270.44	0.88	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033511	Sulfobacillus	400.22	0.44	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033928	Sulfobacillus	424.78	8.38	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Sulfobacillus	233.33	1.32	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Sulfobacillus	187.00	0.00	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Sulfobacillus	235.89	1.27	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Sulfobacillus	343.11	5.37	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Sulfobacillus	227.00	0.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Sulfobacillus	724.11	2.20	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Sulfobacillus	202.33	1.32	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034027	Sulfobacillus	295.11	2.20	Phosphosulfolactate synthase (EC 4.4.1.19)
+PGF_00034776	Sulfobacillus	734.11	2.20	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034814	Sulfobacillus	503.44	0.88	Polysaccharide biosynthesis protein
+PGF_00034972	Sulfobacillus	171.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Sulfobacillus	324.22	0.44	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035334	Sulfobacillus	312.33	13.50	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035340	Sulfobacillus	317.00	0.00	Potassium channel beta chain
+PGF_00035378	Sulfobacillus	411.22	0.44	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035725	Sulfobacillus	273.22	0.44	Predicted beta-glucoside-regulated ABC transport system, permease component 2, COG0395
+PGF_00035727	Sulfobacillus	434.33	1.32	Predicted beta-glucoside-regulated ABC transport system, sugar binding component, COG1653
+PGF_00036923	Sulfobacillus	289.00	0.00	Probable acyl-[acyl-carrier protein] desaturase DESA1 (Acyl-[ACP] desaturase) (Stearoyl-ACP desaturase) (Protein DES) (EC 1.14.19.2)
+PGF_00037287	Sulfobacillus	283.22	57.12	Probable protease htpX homolog 2 (EC 3.4.24.-)
+PGF_00037521	Sulfobacillus	303.22	0.44	Proline dehydrogenase (EC 1.5.5.2)
+PGF_00037586	Sulfobacillus	476.00	0.00	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037835	Sulfobacillus	689.67	9.26	Protease II (EC 3.4.21.83)
+PGF_00038619	Sulfobacillus	242.78	4.41	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038674	Sulfobacillus	298.22	0.44	Protein translocase subunit SecF
+PGF_00039149	Sulfobacillus	347.22	2.33	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00040606	Sulfobacillus	134.67	7.37	Alkaline shock protein
+PGF_00041788	Sulfobacillus	140.67	1.32	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042588	Sulfobacillus	344.22	0.44	Putative oxidoreductase
+PGF_00043159	Sulfobacillus	350.89	5.73	Putative permease often clustered with de novo purine synthesis
+PGF_00045787	Sulfobacillus	197.22	0.44	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Sulfobacillus	296.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Sulfobacillus	427.00	1.50	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045991	Sulfobacillus	574.11	1.76	Pyruvate kinase (EC 2.7.1.40)
+PGF_00045999	Sulfobacillus	877.89	0.33	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+PGF_00046039	Sulfobacillus	153.00	0.00	Pyruvoyl-dependent arginine decarboxylase (EC 4.1.1.19)
+PGF_00046101	Sulfobacillus	279.00	0.00	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Sulfobacillus	313.33	1.32	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046134	Sulfobacillus	564.44	0.53	Quinone-reactive Ni/Fe-hydrogenase large chain (EC 1.12.5.1)
+PGF_00046135	Sulfobacillus	425.00	0.00	Quinone-reactive Ni/Fe-hydrogenase small chain (EC 1.12.5.1)
+PGF_00046197	Sulfobacillus	268.44	12.80	RNA binding methyltransferase FtsJ like
+PGF_00046199	Sulfobacillus	138.00	6.06	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046551	Sulfobacillus	247.89	1.76	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046553	Sulfobacillus	257.00	0.00	RNA polymerase sporulation specific sigma factor SigG
+PGF_00046555	Sulfobacillus	225.11	1.76	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046638	Sulfobacillus	85.00	0.00	RNA-binding region RNP-1
+PGF_00046998	Sulfobacillus	291.78	28.25	Uncharacterized radical-SAM-domain protein HTH_1873
+PGF_00047026	Sulfobacillus	350.00	19.84	Radical SAM heme biosynthesis protein AhbD, Fe-coproporphyrin III decarboxylase
+PGF_00047078	Sulfobacillus	344.56	0.88	RecA protein
+PGF_00047143	Sulfobacillus	305.56	0.88	Red-type Rubisco activase CbbX, removes Rubisco byproduct XuBP
+PGF_00047155	Sulfobacillus	203.11	20.42	Redox-sensing transcriptional repressor Rex
+PGF_00047556	Sulfobacillus	773.00	88.13	Alpha-glucosidase (EC 3.2.1.20)
+PGF_00048480	Sulfobacillus	209.00	0.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Sulfobacillus	139.11	20.51	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048586	Sulfobacillus	246.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Sulfobacillus	156.44	0.53	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048651	Sulfobacillus	148.44	0.88	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Sulfobacillus	313.78	0.44	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Sulfobacillus	293.44	3.09	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Sulfobacillus	301.00	0.00	Ribosomal protein L11 methyltransferase
+PGF_00048846	Sulfobacillus	437.67	2.35	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Sulfobacillus	170.22	0.44	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Sulfobacillus	185.00	0.00	Ribosome recycling factor
+PGF_00048932	Sulfobacillus	79.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Sulfobacillus	115.00	5.15	Ribosome-binding factor A
+PGF_00048973	Sulfobacillus	480.56	0.88	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)
+PGF_00048974	Sulfobacillus	141.56	0.88	Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)
+PGF_00049330	Sulfobacillus	398.78	0.44	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049731	Sulfobacillus	403.22	3.53	Aluminum resistance protein
+PGF_00049827	Sulfobacillus	287.67	6.61	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Sulfobacillus	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Sulfobacillus	129.11	5.67	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Sulfobacillus	113.11	30.05	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Sulfobacillus	123.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Sulfobacillus	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Sulfobacillus	95.89	1.76	SSU ribosomal protein S16p
+PGF_00049854	Sulfobacillus	88.56	0.88	SSU ribosomal protein S17p (S11e)
+PGF_00049857	Sulfobacillus	76.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049860	Sulfobacillus	90.67	6.61	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Sulfobacillus	224.33	1.32	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Sulfobacillus	177.22	0.44	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Sulfobacillus	100.56	3.71	SSU ribosomal protein S6p
+PGF_00049904	Sulfobacillus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Sulfobacillus	130.67	1.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Sulfobacillus	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050995	Sulfobacillus	469.89	6.17	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Sulfobacillus	420.89	1.76	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Sulfobacillus	447.89	2.20	Signal recognition particle protein Ffh
+PGF_00052705	Sulfobacillus	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00053770	Sulfobacillus	370.33	5.29	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053813	Sulfobacillus	385.00	0.00	Spore coat polysaccharide biosynthesis protein SpsC
+PGF_00053878	Sulfobacillus	321.89	1.76	Spore germination endopeptidase Gpr (EC 3.4.24.78)
+PGF_00053894	Sulfobacillus	196.00	0.00	Spore maturation protein A
+PGF_00053897	Sulfobacillus	177.00	0.00	Spore maturation protein B
+PGF_00053997	Sulfobacillus	260.00	0.00	Stage 0 sporulation two-component response regulator (Spo0A)
+PGF_00054034	Sulfobacillus	230.67	6.61	Stage II sporulation protein required for processing of pro-sigma-E (SpoIIR)
+PGF_00054038	Sulfobacillus	299.78	4.41	Stage III sporulation protein AA
+PGF_00054046	Sulfobacillus	65.78	0.44	Stage III sporulation protein AC
+PGF_00054051	Sulfobacillus	385.22	3.53	Stage III sporulation protein AE
+PGF_00054075	Sulfobacillus	85.00	0.00	Stage III sporulation protein D
+PGF_00054087	Sulfobacillus	492.00	0.00	Stage IV sporulation protein A
+PGF_00054088	Sulfobacillus	417.89	1.76	Stage IV sporulation protein B
+PGF_00054097	Sulfobacillus	153.44	3.09	Stage V sporulation protein AC (SpoVAC)
+PGF_00054098	Sulfobacillus	341.11	0.60	Stage V sporulation protein AD (SpoVAD)
+PGF_00054100	Sulfobacillus	116.00	0.00	Stage V sporulation protein AE1 (SpoVAE1)
+PGF_00054103	Sulfobacillus	508.22	0.44	Stage V sporulation protein AF (SpoVAF)
+PGF_00054111	Sulfobacillus	498.00	0.00	Stage V sporulation protein B
+PGF_00054116	Sulfobacillus	184.00	0.00	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+PGF_00054117	Sulfobacillus	422.67	12.62	Spore cortex synthesis protein SpoVR
+PGF_00054134	Sulfobacillus	342.33	21.68	Stage V sporulation protein SpoVK
+PGF_00054480	Sulfobacillus	253.56	0.88	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Sulfobacillus	370.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055169	Sulfobacillus	674.89	12.06	Anaerobic dehydrogenases, typically selenocysteine-containing
+PGF_00055186	Sulfobacillus	957.33	2.65	Anaerobic dimethyl sulfoxide reductase chain A (EC 1.8.5.3), molybdopterin-binding domain
+PGF_00055240	Sulfobacillus	220.78	0.44	Anaerobic dimethyl sulfoxide reductase chain B (EC 1.8.5.3), iron-sulfur binding subunit
+PGF_00055295	Sulfobacillus	238.89	1.76	Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00056544	Sulfobacillus	260.11	2.20	Thiazole synthase (EC 2.8.1.10)
+PGF_00056601	Sulfobacillus	164.56	1.33	Thioesterase family protein
+PGF_00056662	Sulfobacillus	347.11	1.76	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Sulfobacillus	479.67	1.32	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00057127	Sulfobacillus	147.22	0.44	Anti-sigma F factor (EC 2.7.11.1)
+PGF_00057198	Sulfobacillus	115.00	6.86	Anti-sigma F factor antagonist
+PGF_00057279	Sulfobacillus	111.56	3.09	Toprim domain protein
+PGF_00057402	Sulfobacillus	149.22	0.44	Transamidase GatB domain protein
+PGF_00057440	Sulfobacillus	200.11	1.76	Transcription factor FapR
+PGF_00057483	Sulfobacillus	749.11	29.67	Transcription termination factor Rho
+PGF_00057485	Sulfobacillus	349.78	0.44	Transcription termination protein NusA
+PGF_00057488	Sulfobacillus	154.22	7.50	Transcription termination protein NusB
+PGF_00058285	Sulfobacillus	178.78	4.41	Transcriptional regulator
+PGF_00059320	Sulfobacillus	118.56	6.67	Transcriptional regulator, HxlR family
+PGF_00059789	Sulfobacillus	289.67	1.00	Transcriptional regulator, RpiR family
+PGF_00060261	Sulfobacillus	174.33	1.32	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060409	Sulfobacillus	691.00	0.00	Translation elongation factor G
+PGF_00060414	Sulfobacillus	599.00	0.00	Translation elongation factor LepA
+PGF_00060421	Sulfobacillus	185.00	0.00	Translation elongation factor P
+PGF_00060427	Sulfobacillus	204.33	2.65	Translation elongation factor Ts
+PGF_00060428	Sulfobacillus	400.00	0.00	Translation elongation factor Tu
+PGF_00060431	Sulfobacillus	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Sulfobacillus	159.67	12.53	Translation initiation factor 3
+PGF_00060487	Sulfobacillus	268.00	3.46	Translocation-enhancing protein TepA
+PGF_00062023	Sulfobacillus	265.67	1.32	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Sulfobacillus	400.44	0.88	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Sulfobacillus	335.33	1.32	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063416	Sulfobacillus	448.78	0.44	Type II/IV secretion system ATP hydrolase TadA/VirB11/CpaF, TadA subfamily
+PGF_00063916	Sulfobacillus	398.78	1.72	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Sulfobacillus	326.56	0.88	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063999	Sulfobacillus	464.00	13.67	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064169	Sulfobacillus	299.00	0.00	Arginase (EC 3.5.3.1)
+PGF_00064359	Sulfobacillus	152.78	3.53	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064393	Sulfobacillus	297.78	2.99	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064920	Sulfobacillus	228.33	9.26	Uncharacterized protein Caur_1766
+PGF_00064923	Sulfobacillus	320.22	0.44	Uncharacterized protein DSY2363
+PGF_00065887	Sulfobacillus	251.11	1.76	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065911	Sulfobacillus	249.00	0.00	Undecaprenyl-phosphate mannosyltransferase (EC 2.4.1.54)
+PGF_00066123	Sulfobacillus	213.89	6.05	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Sulfobacillus	183.22	3.53	Pyrimidine operon regulatory protein PyrR
+PGF_00066165	Sulfobacillus	1204.00	1.87	Urea carboxylase (EC 6.3.4.6)
+PGF_00066214	Sulfobacillus	208.56	8.82	Urease accessory protein UreG
+PGF_00066215	Sulfobacillus	571.22	0.44	Urease alpha subunit (EC 3.5.1.5)
+PGF_00066216	Sulfobacillus	117.78	13.95	Urease beta subunit (EC 3.5.1.5)
+PGF_00066218	Sulfobacillus	118.11	1.76	Urease gamma subunit (EC 3.5.1.5)
+PGF_00066270	Sulfobacillus	347.67	2.00	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Sulfobacillus	882.56	11.02	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Sulfobacillus	430.44	0.88	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066906	Sulfobacillus	305.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Sulfobacillus	333.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067383	Sulfobacillus	527.33	3.97	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067466	Sulfobacillus	578.33	1.32	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Sulfobacillus	490.33	0.50	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00069644	Sulfobacillus	431.22	3.53	cell envelope-related transcriptional attenuator
+PGF_00069710	Sulfobacillus	312.00	3.97	cell wall hydrolase, SleB
+PGF_00069829	Sulfobacillus	177.00	0.00	chromate transporter
+PGF_00070089	Sulfobacillus	132.33	2.50	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070551	Sulfobacillus	326.44	24.07	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00072362	Sulfobacillus	478.33	9.26	Hydrogenase-4 component G
+PGF_00073120	Sulfobacillus	411.00	0.00	hypothetical protein
+PGF_00079352	Sulfobacillus	312.78	0.44	hypothetical protein
+PGF_00112865	Sulfobacillus	171.00	0.00	hypothetical protein
+PGF_00131198	Sulfobacillus	130.78	0.44	hypothetical protein
+PGF_00185175	Sulfobacillus	703.11	5.73	hypothetical protein
+PGF_00187118	Sulfobacillus	154.11	6.17	hypothetical protein
+PGF_00216337	Sulfobacillus	540.56	0.88	hypothetical protein
+PGF_00217090	Sulfobacillus	212.11	1.05	hypothetical protein
+PGF_00240973	Sulfobacillus	146.67	1.12	hypothetical protein
+PGF_00257227	Sulfobacillus	58.78	11.89	hypothetical protein
+PGF_00257857	Sulfobacillus	242.78	1.86	hypothetical protein
+PGF_00261173	Sulfobacillus	349.67	1.32	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00272832	Sulfobacillus	182.33	2.12	hypothetical protein
+PGF_00346814	Sulfobacillus	215.00	0.00	DUF1054 superfamily protein
+PGF_00354322	Sulfobacillus	417.89	10.11	hypothetical protein
+PGF_00365302	Sulfobacillus	67.00	0.00	hypothetical protein
+PGF_00369913	Sulfobacillus	320.67	1.00	hypothetical protein
+PGF_00377509	Sulfobacillus	102.00	7.09	hypothetical protein
+PGF_00402553	Sulfobacillus	1070.78	0.44	peptidase S41
+PGF_00404256	Sulfobacillus	448.00	0.00	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404384	Sulfobacillus	334.11	2.20	Biotin synthase (EC 2.8.1.6)
+PGF_00404466	Sulfobacillus	386.78	8.97	Biotin synthase-related protein, radical SAM superfamily
+PGF_00404809	Sulfobacillus	455.67	2.65	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00404866	Sulfobacillus	108.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00406692	Sulfobacillus	936.67	5.29	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00409150	Sulfobacillus	245.78	0.44	putative membrane protein
+PGF_00409415	Sulfobacillus	282.00	0.00	UPF0750 membrane protein YvjA
+PGF_00410279	Sulfobacillus	581.11	1.76	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00410976	Sulfobacillus	251.22	0.44	putative succinate dehydrogenase [membrane anchor subunit] (succinic dehydrogenase)
+PGF_00412178	Sulfobacillus	327.00	0.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413203	Sulfobacillus	156.33	4.69	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Sulfobacillus	229.67	4.74	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Sulfobacillus	248.11	2.20	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Sulfobacillus	289.11	2.20	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413554	Sulfobacillus	153.22	0.44	tmRNA-binding protein SmpB
+PGF_00414366	Sulfobacillus	565.89	1.76	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414795	Sulfobacillus	414.11	0.33	zinc carboxypeptidase family protein
+PGF_00414926	Sulfobacillus	440.11	29.54	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415346	Sulfobacillus	389.22	0.44	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415486	Sulfobacillus	156.44	1.42	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415631	Sulfobacillus	91.33	1.32	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416129	Sulfobacillus	549.67	2.65	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Sulfobacillus	1070.67	1.32	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416461	Sulfobacillus	200.33	1.32	Carbon disulfide lyase (EC 4.4.1.27)
+PGF_00417069	Sulfobacillus	365.22	0.44	Cell division protein FtsW @ Stage V sporulation protein E
+PGF_00417115	Sulfobacillus	88.00	0.00	Cell division topological specificity factor MinE
+PGF_00417577	Sulfobacillus	142.89	1.76	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417580	Sulfobacillus	342.89	5.73	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417619	Sulfobacillus	378.11	1.76	Chitinase family protein
+PGF_00417658	Sulfobacillus	362.22	12.00	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417839	Sulfobacillus	133.11	5.84	Chorismate mutase II (EC 5.4.99.5)
+PGF_00417840	Sulfobacillus	386.33	2.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00418291	Sulfobacillus	267.33	1.32	Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+PGF_00418292	Sulfobacillus	376.56	4.85	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418308	Sulfobacillus	416.00	6.24	Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289) / Cobalt-precorrin-6B C15-methyltransferase [decarboxylating] (EC 2.1.1.196)
+PGF_00418309	Sulfobacillus	211.22	0.44	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Sulfobacillus	485.56	0.88	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Sulfobacillus	453.11	6.17	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419420	Sulfobacillus	469.56	3.09	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419622	Sulfobacillus	248.33	2.65	Coproheme decarboxylase HemQ (no EC)
+PGF_00419702	Sulfobacillus	163.00	0.00	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419740	Sulfobacillus	154.00	0.00	Transcriptional regulator CtsR
+PGF_00419870	Sulfobacillus	879.11	2.20	Cyanophycin synthase (EC 6.3.2.29)(EC 6.3.2.30)
+PGF_00419875	Sulfobacillus	282.89	13.67	Cyanophycinase (EC 3.4.15.6)
+PGF_00419913	Sulfobacillus	168.33	1.32	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Sulfobacillus	278.67	5.29	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420121	Sulfobacillus	228.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420215	Sulfobacillus	655.67	1.32	Cytochrome aa3-600 menaquinol oxidase subunit I
+PGF_00420216	Sulfobacillus	294.67	10.58	Cytochrome aa3-600 menaquinol oxidase subunit II
+PGF_00420482	Sulfobacillus	233.89	3.92	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Sulfobacillus	676.44	0.88	Cytochrome c heme lyase subunit CcmF
+PGF_00420792	Sulfobacillus	279.00	0.00	D-alanine aminotransferase (EC 2.6.1.21)
+PGF_00420798	Sulfobacillus	349.11	1.96	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421071	Sulfobacillus	154.22	5.24	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Sulfobacillus	527.33	1.32	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Sulfobacillus	919.44	0.88	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421679	Sulfobacillus	596.44	0.88	DNA primase (EC 2.7.7.-)
+PGF_00421733	Sulfobacillus	363.44	7.06	DNA recombination and repair protein RecF
+PGF_00421775	Sulfobacillus	572.44	0.88	DNA repair helicase
+PGF_00421796	Sulfobacillus	552.89	1.45	DNA repair protein RecN
+PGF_00422085	Sulfobacillus	84.00	0.00	DNA-binding protein SpoVG
+PGF_00422271	Sulfobacillus	320.78	0.44	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422545	Sulfobacillus	288.44	0.88	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422888	Sulfobacillus	516.00	0.00	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422918	Sulfobacillus	206.11	2.20	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Sulfobacillus	147.33	1.32	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Sulfobacillus	379.11	14.90	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Sulfobacillus	417.67	1.32	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423343	Sulfobacillus	468.00	0.00	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
+PGF_00423472	Sulfobacillus	906.89	2.20	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Sulfobacillus	283.56	2.19	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423606	Sulfobacillus	706.89	6.17	Dipeptidyl peptidase IV
+PGF_00423618	Sulfobacillus	293.44	4.85	Dipicolinate synthase subunit A
+PGF_00423621	Sulfobacillus	193.00	11.91	Dipicolinate synthase subunit B
+PGF_00424569	Sulfobacillus	258.78	0.44	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Sulfobacillus	625.89	0.60	Excinuclease ABC subunit C
+PGF_00425665	Sulfobacillus	261.89	6.57	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Sulfobacillus	289.89	1.27	RNase adapter protein RapZ
+PGF_00425679	Sulfobacillus	206.89	11.33	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425729	Sulfobacillus	439.22	3.03	FIG001621: Zinc protease
+PGF_00425747	Sulfobacillus	145.67	1.32	SepF, FtsZ-interacting protein related to cell division
+PGF_00425993	Sulfobacillus	384.89	1.76	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Sulfobacillus	339.33	1.32	FIG004453: protein YceG like
+PGF_00426057	Sulfobacillus	628.44	3.09	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20) / Homolog of homocysteine-binding domain
+PGF_00426115	Sulfobacillus	629.11	1.76	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Sulfobacillus	368.33	5.57	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426877	Sulfobacillus	252.89	2.20	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Sulfobacillus	153.22	4.94	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Sulfobacillus	275.22	0.44	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00503151	Sulfobacillus	410.33	9.26	Xylose-responsive transcription regulator, ROK family
+PGF_00508272	Sulfobacillus	625.11	4.70	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00529632	Sulfobacillus	865.67	2.65	ClpB protein
+PGF_00538878	Sulfobacillus	262.78	0.44	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00593742	Sulfobacillus	186.11	5.73	hypothetical protein
+PGF_00596539	Sulfobacillus	586.44	3.09	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598780	Sulfobacillus	360.78	32.08	hypothetical protein
+PGF_00616490	Sulfobacillus	171.78	0.44	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Sulfobacillus	351.44	0.88	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Sulfobacillus	502.00	3.97	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Sulfobacillus	337.00	0.00	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00646190	Sulfobacillus	223.22	0.44	Two-component transcriptional response regulator, LuxR family
+PGF_00650260	Sulfobacillus	129.44	0.88	HIT family protein
+PGF_00655628	Sulfobacillus	482.56	52.47	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Sulfobacillus	191.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662997	Sulfobacillus	242.89	2.20	Cobalamin synthase (EC 2.7.8.26)
+PGF_00665875	Sulfobacillus	92.00	7.94	Ribosomal silencing factor RsfA
+PGF_00717495	Sulfobacillus	375.78	0.44	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00719345	Sulfobacillus	196.56	37.73	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), ADP-binding subunit DhaL
+PGF_00719664	Sulfobacillus	326.33	2.65	Lipoate-protein ligase A
+PGF_00730093	Sulfobacillus	478.78	0.44	5'-nucleotidase (EC 3.1.3.5)
+PGF_00734482	Sulfobacillus	702.56	0.88	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00739272	Sulfobacillus	471.44	0.88	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+PGF_00741263	Sulfobacillus	365.56	0.88	C4-dicarboxylate transporter/malic acid transport protein
+PGF_00743561	Sulfobacillus	201.11	1.76	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00759146	Sulfobacillus	402.44	3.09	Uncharacterized MFS-type transporter
+PGF_00776587	Sulfobacillus	118.00	0.00	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Sulfobacillus	232.44	4.82	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777771	Sulfobacillus	392.89	1.76	Uncharacterized MFS-type transporter
+PGF_00783189	Sulfobacillus	344.67	96.80	Uncharacterized MFS-type transporter
+PGF_00785473	Sulfobacillus	251.33	1.32	ABC transporter, permease protein
+PGF_00788787	Sulfobacillus	82.00	0.00	Transition state regulatory protein AbrB
+PGF_00800643	Sulfobacillus	455.33	5.29	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
+PGF_00826997	Sulfobacillus	238.00	16.04	ErfK/YbiS/YcfS/YnhG
+PGF_00827555	Sulfobacillus	545.22	13.17	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00848261	Sulfobacillus	414.22	5.85	Uncharacterized MFS-type transporter
+PGF_00851594	Sulfobacillus	389.00	0.00	Uncharacterized MFS-type transporter
+PGF_00853393	Sulfobacillus	289.44	0.88	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Sulfobacillus	406.78	0.44	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00885329	Sulfobacillus	302.11	2.20	Flagellar motor switch protein FliM
+PGF_00901286	Sulfobacillus	417.44	0.88	Uncharacterized MFS-type transporter
+PGF_00912265	Sulfobacillus	328.00	0.00	tRNA-dihydrouridine synthase DusB
+PGF_00918779	Sulfobacillus	513.00	4.56	Amino acid-proton symporter related protein
+PGF_00921396	Sulfobacillus	488.78	0.44	ATP-dependent zinc metalloproteinase similar to FtsH
+PGF_00925844	Sulfobacillus	452.22	3.53	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Sulfobacillus	555.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00950554	Sulfobacillus	670.67	1.32	Excinuclease ABC subunit B
+PGF_00957419	Sulfobacillus	246.44	0.88	Putative pre-16S rRNA nuclease Yqg
+PGF_01029306	Sulfobacillus	388.56	6.39	Uncharacterized MFS-type transporter
+PGF_01042109	Sulfobacillus	528.22	5.80	Membrane component of multidrug resistance system
+PGF_01078020	Sulfobacillus	429.89	3.44	Cytosine deaminase (EC 3.5.4.1)
+PGF_01109741	Sulfobacillus	392.00	0.00	Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.8.1)
+PGF_01124177	Sulfobacillus	420.56	10.84	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01124257	Sulfobacillus	433.22	18.51	Autolysis histidine kinase LytS
+PGF_01126005	Sulfobacillus	391.67	1.32	Rod shape-determining protein RodA
+PGF_01162681	Sulfobacillus	901.44	0.88	Aconitate hydratase (EC 4.2.1.3)
+PGF_01172485	Sulfobacillus	398.00	0.00	Cell division protein FtsA
+PGF_01174739	Sulfobacillus	266.44	20.08	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Sulfobacillus	630.89	2.20	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Sulfobacillus	285.00	14.23	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01232770	Sulfobacillus	163.78	1.30	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01284176	Sulfobacillus	139.78	0.44	Rubrerythrin
+PGF_01291803	Sulfobacillus	332.22	7.93	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Sulfobacillus	207.44	0.73	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01295821	Sulfobacillus	197.11	1.76	DedA
+PGF_01313623	Sulfobacillus	433.44	3.09	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)
+PGF_01348228	Sulfobacillus	81.67	2.83	Uncharacterized protein YlmC
+PGF_01351158	Sulfobacillus	1170.78	2.22	Transcription-repair coupling factor
+PGF_01383123	Sulfobacillus	650.44	4.25	Acetoacetyl-CoA synthetase (EC 6.2.1.16)
+PGF_01404160	Sulfobacillus	316.44	3.09	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01420802	Sulfobacillus	143.00	0.00	Cell division protein MraZ
+PGF_01421572	Sulfobacillus	172.22	42.77	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01423501	Sulfobacillus	157.00	0.00	Transcription elongation factor GreA
+PGF_01435544	Sulfobacillus	291.78	11.46	Phenazine biosynthesis protein PhzF like
+PGF_01465362	Sulfobacillus	142.56	3.09	Mn-dependent transcriptional regulator MntR
+PGF_01466742	Sulfobacillus	461.11	2.20	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01467052	Sulfobacillus	176.11	1.76	G/U mismatch-specific uracil DNA glycosylase (EC 3.2.2.28)
+PGF_01467839	Sulfobacillus	658.89	9.70	Glucoamylase (EC 3.2.1.3)
+PGF_01469197	Sulfobacillus	449.00	0.00	RNA methyltransferase, TrmA family
+PGF_01477557	Sulfobacillus	156.00	0.00	DUF458 domain-containing protein
+PGF_01483918	Sulfobacillus	271.22	19.34	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01513923	Sulfobacillus	258.78	0.44	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01537024	Sulfobacillus	243.22	0.44	Response regulator
+PGF_01538186	Sulfobacillus	121.00	0.00	Programmed cell death toxin YdcE
+PGF_01555804	Sulfobacillus	120.00	0.00	Flagellar basal-body rod protein FlgB
+PGF_01581893	Sulfobacillus	394.89	2.20	Ferredoxin reductase
+PGF_01602421	Sulfobacillus	140.22	1.39	Flagellar basal-body rod modification protein FlgD
+PGF_01603398	Sulfobacillus	591.33	1.32	Efflux ABC transporter, permease/ATP-binding protein MdlB
+PGF_01604929	Sulfobacillus	255.89	1.76	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01618915	Sulfobacillus	332.67	1.32	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01668012	Sulfobacillus	272.33	5.29	Sulfur carrier protein FdhD
+PGF_01673335	Sulfobacillus	277.44	6.69	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01677191	Sulfobacillus	282.78	0.44	Sporulation transcription regulator WhiA
+PGF_01728352	Sulfobacillus	450.00	2.29	Glutamyl-tRNA(Gln) amidotransferase subunit A-like protein
+PGF_01734668	Sulfobacillus	212.11	17.67	Adenylate kinase (EC 2.7.4.3)
+PGF_01744781	Sulfobacillus	156.00	0.00	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01762565	Sulfobacillus	207.44	1.24	Molybdenum cofactor cytidylyltransferase (EC 2.7.7.76)
+PGF_01763350	Sulfobacillus	224.44	11.02	Quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+PGF_01769256	Sulfobacillus	118.56	2.60	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+PGF_01777142	Sulfobacillus	207.00	7.07	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01797166	Sulfobacillus	440.33	5.89	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01822100	Sulfobacillus	72.56	0.88	Biotin carboxyl carrier protein of methylcrotonyl-CoA carboxylase
+PGF_01842781	Sulfobacillus	561.00	3.97	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Sulfobacillus	277.33	1.58	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Sulfobacillus	339.44	4.85	Heat-inducible transcription repressor HrcA
+PGF_01889558	Sulfobacillus	213.11	2.20	Sulfur carrier protein ThiS adenylyltransferase (EC 2.7.7.73)
+PGF_01898497	Sulfobacillus	220.11	1.76	Endonuclease III (EC 4.2.99.18)
+PGF_01899924	Sulfobacillus	249.22	0.44	Flagellar motor rotation protein MotB
+PGF_01899937	Sulfobacillus	289.00	0.00	Rod shape-determining protein MreC
+PGF_01920535	Sulfobacillus	584.56	12.79	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01960322	Sulfobacillus	604.78	0.44	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01962206	Sulfobacillus	234.00	0.00	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01979610	Sulfobacillus	337.00	0.00	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK
+PGF_01984533	Sulfobacillus	99.67	2.65	UPF0296 protein YlzA
+PGF_01994657	Sulfobacillus	439.56	3.09	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Sulfobacillus	165.22	0.44	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Sulfobacillus	251.56	1.51	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Sulfobacillus	349.56	0.88	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Sulfobacillus	422.56	3.09	GTP-binding protein Obg
+PGF_02030844	Sulfobacillus	708.22	7.50	ATP-dependent DNA helicase RecQ
+PGF_02049468	Sulfobacillus	65.00	0.00	Cold shock protein of CSP family
+PGF_02086898	Sulfobacillus	285.22	10.74	Sirohydrochlorin cobaltochelatase CbiX(long) (EC 4.99.1.3)
+PGF_02098099	Sulfobacillus	507.44	0.88	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02141097	Sulfobacillus	773.11	1.76	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02154745	Sulfobacillus	1383.78	2.73	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02163575	Sulfobacillus	451.33	16.58	6-phospho-beta-glucosidase (EC 3.2.1.86)
+PGF_02177520	Sulfobacillus	257.11	1.76	RNA polymerase sporulation specific sigma factor SigF
+PGF_02186693	Sulfobacillus	364.78	0.44	Flagellar biosynthesis protein FlhB
+PGF_02189378	Sulfobacillus	381.89	2.20	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02189790	Sulfobacillus	456.78	2.05	Response regulator
+PGF_02191833	Sulfobacillus	425.22	98.77	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_02237713	Sulfobacillus	669.78	4.27	Prolyl endopeptidase (EC 3.4.21.26)
+PGF_02265702	Sulfobacillus	343.00	0.00	Uncharacterized Zn-containing alcohol dehydrogenase SSO1646
+PGF_02267642	Sulfobacillus	278.22	6.96	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)
+PGF_02346669	Sulfobacillus	320.11	2.20	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Sulfobacillus	872.00	0.00	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Sulfobacillus	371.11	2.85	Alanine racemase (EC 5.1.1.1)
+PGF_02357764	Sulfobacillus	185.00	3.97	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02369559	Sulfobacillus	847.44	3.71	DNA polymerase I (EC 2.7.7.7)
+PGF_02450432	Sulfobacillus	260.22	0.44	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Sulfobacillus	91.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Sulfobacillus	198.00	0.00	Recombination protein RecR
+PGF_02593689	Sulfobacillus	454.22	2.91	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02623406	Sulfobacillus	308.11	2.20	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02697094	Sulfobacillus	256.56	2.96	hypothetical protein
+PGF_02704551	Sulfobacillus	1155.89	2.20	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02728524	Sulfobacillus	849.78	4.41	DNA mismatch repair protein MutS
+PGF_02738107	Sulfobacillus	331.89	32.96	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02750402	Sulfobacillus	263.78	3.53	Phosphoesterase
+PGF_02769310	Sulfobacillus	166.56	0.88	Stage III sporulation protein AH
+PGF_02769386	Sulfobacillus	298.22	0.44	hypothetical protein
+PGF_02788582	Sulfobacillus	783.11	5.73	Recombination inhibitory protein MutS2
+PGF_02789532	Sulfobacillus	285.33	2.78	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Sulfobacillus	226.11	5.73	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Sulfobacillus	471.00	0.71	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Sulfobacillus	1213.33	1.32	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02820109	Sulfobacillus	218.56	0.88	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02844091	Sulfobacillus	251.22	4.41	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Sulfobacillus	408.56	3.09	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866866	Sulfobacillus	306.67	1.32	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02883702	Sulfobacillus	360.00	0.00	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02890229	Sulfobacillus	518.11	28.06	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02893929	Sulfobacillus	255.78	35.05	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02896943	Sulfobacillus	401.56	0.88	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_02899131	Sulfobacillus	67.44	0.88	LSU ribosomal protein L29p (L35e)
+PGF_02901183	Sulfobacillus	712.00	15.87	Stage II sporulation serine phosphatase for sigma-F activation (SpoIIE)
+PGF_02910276	Sulfobacillus	482.67	9.66	Drug resistance transporter EmrB/QacA subfamily
+PGF_02919808	Sulfobacillus	158.22	1.86	Glycine cleavage system H protein like protein HTH_1877
+PGF_02922410	Sulfobacillus	379.00	0.00	Butyryl-CoA dehydrogenase (EC 1.3.8.1)
+PGF_02923127	Sulfobacillus	244.11	2.20	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02946231	Sulfobacillus	413.67	1.32	SSU ribosomal protein S1p
+PGF_02950579	Sulfobacillus	265.22	0.44	Septum site-determining protein MinD
+PGF_02953390	Sulfobacillus	426.11	1.36	Fe-S oxidoreductase-like protein in Rubrerythrin cluster
+PGF_02967067	Sulfobacillus	629.11	7.44	hypothetical protein
+PGF_02980852	Sulfobacillus	310.89	1.76	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02997723	Sulfobacillus	162.44	3.09	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03000070	Sulfobacillus	352.33	10.32	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03003601	Sulfobacillus	68.22	7.60	hypothetical protein
+PGF_03016423	Sulfobacillus	283.22	0.44	Protein sirB1
+PGF_03017775	Sulfobacillus	495.22	0.44	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Sulfobacillus	193.00	0.00	Septum formation protein Maf
+PGF_03025044	Sulfobacillus	177.22	11.46	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03026450	Sulfobacillus	1127.44	2.55	Chromosome partition protein smc
+PGF_03029062	Sulfobacillus	318.22	0.44	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03036196	Sulfobacillus	198.89	1.45	NAD(P)H dehydrogenase (quinone), Type IV (EC 1.6.5.2)
+PGF_03056409	Sulfobacillus	263.00	7.94	Uncharacterized integral membrane protein SSO2272
+PGF_03058789	Sulfobacillus	387.67	5.07	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03070510	Sulfobacillus	302.44	0.88	Flagellar synthesis regulator FleN
+PGF_03073470	Sulfobacillus	556.00	0.00	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03081665	Sulfobacillus	93.56	4.85	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03085253	Sulfobacillus	156.00	0.00	Putative membrane protein precursor
+PGF_03101662	Sulfobacillus	354.78	0.44	HypE-like protein SSO2708
+PGF_03103291	Sulfobacillus	230.33	1.32	HlyD family secretion protein
+PGF_03104029	Sulfobacillus	417.22	0.44	Sporulation integral membrane protein YlbJ
+PGF_03107265	Sulfobacillus	514.78	0.44	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03110657	Sulfobacillus	725.67	18.52	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111988	Sulfobacillus	155.89	1.76	Cell division initiation protein DivIVA
+PGF_03112466	Sulfobacillus	295.00	0.00	N-carbamoylputrescine amidase (EC 3.5.1.53) / Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_03119101	Sulfobacillus	347.89	9.14	Acetamidase/Formamidase
+PGF_03131015	Sulfobacillus	340.22	0.44	Membrane-associated zinc metalloprotease
+PGF_03132336	Sulfobacillus	409.89	1.76	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03136340	Sulfobacillus	539.78	4.41	Superfamily II DNA/RNA helicases, SNF2 family
+PGF_03138425	Sulfobacillus	246.44	4.85	FIG00613342: Bacterial patatin-like phospholipase domain containing protein
+PGF_03140041	Sulfobacillus	144.22	0.44	CBS domain protein
+PGF_03146406	Sulfobacillus	592.56	0.88	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Sulfobacillus	134.44	0.88	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Sulfobacillus	272.00	3.97	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Sulfobacillus	176.00	0.00	Transcription antitermination protein NusG
+PGF_03222913	Sulfobacillus	131.11	17.64	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03248819	Sulfobacillus	887.89	1.76	P-type Ca(2+)-transport ATPase (EC 3.6.3.8)
+PGF_03257845	Sulfobacillus	196.67	1.32	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Sulfobacillus	813.33	1.32	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03284618	Sulfobacillus	851.22	2.73	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_03287477	Sulfobacillus	208.22	4.41	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03331181	Sulfobacillus	482.44	0.88	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)
+PGF_03340305	Sulfobacillus	153.78	0.44	RidA/YER057c/UK114 superfamily, group 1
+PGF_03351651	Sulfobacillus	587.11	3.33	Efflux ABC transporter, permease/ATP-binding protein MdlA
+PGF_03365853	Sulfobacillus	241.33	1.32	Heavy-metal-associated domain (N-terminus) and membrane-bounded cytochrome biogenesis cycZ-like domain, possible membrane copper tolerance protein
+PGF_03365856	Sulfobacillus	1003.33	63.00	Error-prone repair homolog of DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_03429638	Sulfobacillus	290.00	0.00	33 kDa chaperonin HslO
+PGF_03432701	Sulfobacillus	212.22	4.15	Regulatory protein, LuxR:Response regulator receiver
+PGF_03439690	Sulfobacillus	158.78	4.41	Ferric uptake regulation protein FUR
+PGF_03439803	Sulfobacillus	585.22	5.29	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85) / Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_03440867	Sulfobacillus	131.78	0.44	UPF0047 protein Bsu YugU
+PGF_03448459	Sulfobacillus	123.11	9.51	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03470321	Sulfobacillus	173.56	0.88	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Sulfobacillus	432.89	22.13	Flagellum-specific ATP synthase FliI
+PGF_03518570	Sulfobacillus	137.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Sulfobacillus	354.11	1.76	Cell division protein FtsZ
+PGF_03556786	Sulfobacillus	632.78	2.91	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.135)
+PGF_03574598	Sulfobacillus	337.22	0.44	Lon-like protease with PDZ domain
+PGF_03609651	Sulfobacillus	653.67	14.55	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03673142	Sulfobacillus	296.33	5.29	Site-specific DNA-methyltransferase (adenine-specific)( EC:2.1.1.72 )
+PGF_03673144	Sulfobacillus	199.00	0.00	Superoxide dismutase
+PGF_03673148	Sulfobacillus	469.22	8.38	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_03673154	Sulfobacillus	132.00	0.00	[NiFe] hydrogenase nickel incorporation protein HypA
+PGF_03673160	Sulfobacillus	357.44	1.42	glycoside hydrolase, family 18
+PGF_03673161	Sulfobacillus	394.00	3.97	glycoside hydrolase, family 18
+PGF_03673162	Sulfobacillus	440.00	0.00	helix-turn-helix/TPR domain protein
+PGF_03673164	Sulfobacillus	108.78	19.14	hypothetical protein
+PGF_03673165	Sulfobacillus	134.11	6.43	hypothetical protein
+PGF_03673166	Sulfobacillus	154.11	1.76	hypothetical protein
+PGF_03673167	Sulfobacillus	186.56	0.88	hypothetical protein
+PGF_03673168	Sulfobacillus	209.33	88.63	hypothetical protein
+PGF_03673170	Sulfobacillus	118.00	0.00	hypothetical protein
+PGF_03673171	Sulfobacillus	320.78	20.90	hypothetical protein
+PGF_03673174	Sulfobacillus	155.78	7.50	hypothetical protein
+PGF_03673175	Sulfobacillus	306.00	3.97	hypothetical protein
+PGF_03673176	Sulfobacillus	381.89	2.20	hypothetical protein
+PGF_03673181	Sulfobacillus	131.00	0.00	hypothetical protein
+PGF_03673182	Sulfobacillus	299.56	13.96	hypothetical protein
+PGF_03673183	Sulfobacillus	150.78	9.82	hypothetical protein
+PGF_03673187	Sulfobacillus	497.44	0.88	hypothetical protein
+PGF_03673188	Sulfobacillus	356.89	2.20	hypothetical protein
+PGF_03673189	Sulfobacillus	357.78	2.73	hypothetical protein
+PGF_03673191	Sulfobacillus	605.78	4.99	hypothetical protein
+PGF_03673192	Sulfobacillus	183.67	23.39	hypothetical protein
+PGF_03673193	Sulfobacillus	194.89	12.32	hypothetical protein
+PGF_03673194	Sulfobacillus	319.11	28.54	hypothetical protein
+PGF_03673195	Sulfobacillus	336.67	41.22	hypothetical protein
+PGF_03673198	Sulfobacillus	149.00	0.00	hypothetical protein
+PGF_03673199	Sulfobacillus	1059.78	47.57	hypothetical protein
+PGF_03673201	Sulfobacillus	235.67	1.32	hypothetical protein
+PGF_03673202	Sulfobacillus	151.89	3.33	hypothetical protein
+PGF_03673203	Sulfobacillus	190.22	13.18	hypothetical protein
+PGF_03673204	Sulfobacillus	178.22	0.44	hypothetical protein
+PGF_03673205	Sulfobacillus	95.67	13.23	hypothetical protein
+PGF_03673206	Sulfobacillus	195.00	3.97	hypothetical protein
+PGF_03673207	Sulfobacillus	388.00	24.96	hypothetical protein
+PGF_03673208	Sulfobacillus	351.33	1.32	hypothetical protein
+PGF_03673209	Sulfobacillus	519.67	1.32	hypothetical protein
+PGF_03673210	Sulfobacillus	337.78	3.53	hypothetical protein
+PGF_03673211	Sulfobacillus	59.67	11.35	hypothetical protein
+PGF_03673212	Sulfobacillus	288.67	8.05	gamma-glutamyl ligase (similar to F420:0 gamma-glutamyl ligase)
+PGF_03673216	Sulfobacillus	318.67	10.58	hypothetical protein
+PGF_03673218	Sulfobacillus	481.11	59.47	hypothetical protein
+PGF_03673219	Sulfobacillus	604.56	52.47	hypothetical protein
+PGF_03673220	Sulfobacillus	264.44	3.09	hypothetical protein
+PGF_03673224	Sulfobacillus	185.44	0.88	hypothetical protein
+PGF_03673229	Sulfobacillus	126.00	0.00	hypothetical protein
+PGF_03673231	Sulfobacillus	72.33	1.32	hypothetical protein
+PGF_03673232	Sulfobacillus	62.22	0.44	hypothetical protein
+PGF_03673233	Sulfobacillus	85.44	6.60	hypothetical protein
+PGF_03673234	Sulfobacillus	253.56	7.06	hypothetical protein
+PGF_03673235	Sulfobacillus	128.33	1.32	hypothetical protein
+PGF_03673236	Sulfobacillus	65.67	2.65	hypothetical protein
+PGF_03673237	Sulfobacillus	108.22	0.44	hypothetical protein
+PGF_03673239	Sulfobacillus	163.00	0.00	hypothetical protein
+PGF_03673240	Sulfobacillus	174.67	6.61	hypothetical protein
+PGF_03673242	Sulfobacillus	292.11	2.20	hypothetical protein
+PGF_03673243	Sulfobacillus	240.22	0.44	hypothetical protein
+PGF_03673245	Sulfobacillus	54.33	1.32	hypothetical protein
+PGF_03673247	Sulfobacillus	310.78	143.51	hypothetical protein
+PGF_03673249	Sulfobacillus	76.00	0.00	hypothetical protein
+PGF_03673250	Sulfobacillus	198.89	5.71	hypothetical protein
+PGF_03673251	Sulfobacillus	385.56	0.88	hypothetical protein
+PGF_03673252	Sulfobacillus	142.11	1.36	hypothetical protein
+PGF_03673253	Sulfobacillus	83.56	0.88	hypothetical protein
+PGF_03673254	Sulfobacillus	141.22	0.44	hypothetical protein
+PGF_03673256	Sulfobacillus	130.78	0.44	hypothetical protein
+PGF_03673257	Sulfobacillus	141.56	0.88	hypothetical protein
+PGF_03673258	Sulfobacillus	217.22	3.53	hypothetical protein
+PGF_03673259	Sulfobacillus	90.67	2.00	hypothetical protein
+PGF_03673260	Sulfobacillus	206.67	0.50	hypothetical protein
+PGF_03673261	Sulfobacillus	93.22	0.44	hypothetical protein
+PGF_03673263	Sulfobacillus	55.44	4.85	hypothetical protein
+PGF_03673264	Sulfobacillus	87.78	7.50	hypothetical protein
+PGF_03673265	Sulfobacillus	112.56	12.08	hypothetical protein
+PGF_03673266	Sulfobacillus	121.56	0.88	hypothetical protein
+PGF_03673267	Sulfobacillus	107.00	0.00	hypothetical protein
+PGF_03673268	Sulfobacillus	293.00	7.94	hypothetical protein
+PGF_03673269	Sulfobacillus	118.11	5.73	hypothetical protein
+PGF_03673270	Sulfobacillus	295.22	2.49	hypothetical protein
+PGF_03673271	Sulfobacillus	79.33	15.62	hypothetical protein
+PGF_03673272	Sulfobacillus	109.44	0.88	hypothetical protein
+PGF_03673273	Sulfobacillus	118.78	0.44	Flagellar biosynthesis protein FliO
+PGF_03673274	Sulfobacillus	114.56	0.88	hypothetical protein
+PGF_03673275	Sulfobacillus	274.67	2.65	hypothetical protein
+PGF_03673276	Sulfobacillus	294.89	2.20	hypothetical protein
+PGF_03673277	Sulfobacillus	484.44	3.09	hypothetical protein
+PGF_03673278	Sulfobacillus	452.22	3.53	hypothetical protein
+PGF_03673279	Sulfobacillus	116.33	1.94	hypothetical protein
+PGF_03673280	Sulfobacillus	194.78	4.41	hypothetical protein
+PGF_03673283	Sulfobacillus	408.11	5.21	integral membrane protein-like protein
+PGF_03673284	Sulfobacillus	417.56	3.09	oligosaccharide deacetylase, putative
+PGF_03673285	Sulfobacillus	314.56	0.88	phosphoribulokinase
+PGF_03673286	Sulfobacillus	248.67	2.65	protein of unknown function DUF125, transmembrane
+PGF_03673287	Sulfobacillus	350.00	0.00	putative UDP-glucuronosyltransferase
+PGF_03673289	Sulfobacillus	242.00	11.91	putative hydrolase/acyltransferase
+PGF_03673290	Sulfobacillus	196.33	1.32	putative membrane protein
+PGF_03673291	Sulfobacillus	113.00	0.00	putative sterol carrier protein
+PGF_03673292	Sulfobacillus	162.78	7.50	thioesterase superfamily protein
+PGF_03673299	Sulfobacillus	411.56	0.88	hypothetical protein
+PGF_03673301	Sulfobacillus	156.33	0.50	hypothetical protein
+PGF_03673302	Sulfobacillus	369.11	49.57	hypothetical protein
+PGF_03673304	Sulfobacillus	140.44	7.06	hypothetical protein
+PGF_03673305	Sulfobacillus	242.00	3.97	hypothetical protein
+PGF_03673308	Sulfobacillus	80.00	0.00	hypothetical protein
+PGF_03673875	Sulfobacillus	173.00	0.00	hypothetical protein
+PGF_03674542	Sulfobacillus	399.56	0.88	hypothetical protein
+PGF_03674595	Sulfobacillus	276.56	0.88	NADH dehydrogenase I chain G
+PGF_03674769	Sulfobacillus	125.33	1.32	FxsA cytoplasmic membrane protein
+PGF_03674782	Sulfobacillus	386.22	3.53	Nutrient germinant receptor inner membrane subunit B (GerKB/GerAB/GerBB)
+PGF_03674818	Sulfobacillus	475.33	14.65	Multi-sensor signal transduction histidine kinase
+PGF_03675017	Sulfobacillus	218.00	3.97	hypothetical protein
+PGF_03675076	Sulfobacillus	69.33	1.32	hypothetical protein
+PGF_03675101	Sulfobacillus	190.33	18.78	hypothetical protein
+PGF_03675287	Sulfobacillus	618.78	3.53	hypothetical protein
+PGF_03675304	Sulfobacillus	280.78	10.72	hypothetical protein
+PGF_03675385	Sulfobacillus	288.78	3.53	Molybdopterin dehydrogenase, FAD-binding subunit
+PGF_03675388	Sulfobacillus	249.22	30.29	hypothetical protein
+PGF_03675499	Sulfobacillus	327.44	0.88	hypothetical protein
+PGF_03675705	Sulfobacillus	193.78	24.28	hypothetical protein
+PGF_03676307	Sulfobacillus	447.67	1.32	Amino acid permease-associated region
+PGF_03676512	Sulfobacillus	141.00	0.00	GtrA-like protein
+PGF_03676752	Sulfobacillus	589.67	2.65	Citrate transporter
+PGF_03676753	Sulfobacillus	197.22	3.53	Cytochrome c-type biogenesis protein ResA
+PGF_03676757	Sulfobacillus	259.11	2.20	Flagellar biosynthesis protein FliR
+PGF_03676760	Sulfobacillus	538.22	7.50	Histidine kinase
+PGF_03676762	Sulfobacillus	193.11	1.17	hypothetical protein
+PGF_03676763	Sulfobacillus	117.22	0.44	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_03676769	Sulfobacillus	163.00	0.00	(2Fe-2S)-binding domain protein
+PGF_03676772	Sulfobacillus	306.11	8.45	ApbE-like lipoprotein
+PGF_03679717	Sulfobacillus	573.44	0.88	hypothetical outer membrane protein
+PGF_03684283	Sulfobacillus	422.56	0.88	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Sulfobacillus	295.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Sulfobacillus	70.22	0.44	Protein translocase subunit SecE
+PGF_03719269	Sulfobacillus	198.78	0.44	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Sulfobacillus	165.33	12.13	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03743176	Sulfobacillus	628.33	1.32	Selenocysteine-specific translation elongation factor
+PGF_03750571	Sulfobacillus	461.22	3.53	Chromosomal replication initiator protein DnaA
+PGF_03750600	Sulfobacillus	158.78	0.44	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Sulfobacillus	206.56	8.82	Heat shock protein GrpE
+PGF_03755892	Sulfobacillus	454.44	227.27	Fatty acid desaturase
+PGF_03756028	Sulfobacillus	256.11	1.76	hypothetical protein
+PGF_03757137	Sulfobacillus	453.11	17.54	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Sulfobacillus	239.56	0.88	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03778780	Sulfobacillus	307.56	3.09	Signal recognition particle receptor FtsY
+PGF_03783620	Sulfobacillus	170.00	0.00	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03797303	Sulfobacillus	592.78	0.44	Adenine deaminase (EC 3.5.4.2)
+PGF_03801195	Sulfobacillus	244.67	2.65	Putative amidotransferase similar to cobyric acid synthase
+PGF_03802211	Sulfobacillus	82.44	18.57	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03810115	Sulfobacillus	241.11	2.42	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03818106	Sulfobacillus	154.78	0.44	NADH dehydrogenase (EC 1.6.99.3)
+PGF_03862500	Sulfobacillus	208.56	4.85	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03977347	Sulfobacillus	287.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_03999196	Sulfobacillus	819.89	1.76	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Sulfobacillus	437.78	4.41	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Sulfobacillus	228.22	0.44	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Sulfobacillus	145.89	1.27	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Sulfobacillus	462.00	0.00	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04031671	Sulfobacillus	247.00	0.00	FIG007013: polysaccharide deacetylase, putative
+PGF_04034430	Sulfobacillus	58.00	0.00	SSU ribosomal protein S21p
+PGF_04036775	Sulfobacillus	318.22	8.38	Anaerobic dimethyl sulfoxide reductase chain C (EC 1.8.5.3), anchor subunit
+PGF_04041316	Sulfobacillus	945.67	1.32	Excinuclease ABC subunit A
+PGF_04047265	Sulfobacillus	80.00	3.97	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04091295	Sulfobacillus	275.89	2.20	Flagellar motor rotation protein MotA
+PGF_04119806	Sulfobacillus	281.56	3.09	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04147121	Sulfobacillus	491.00	0.00	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04182459	Sulfobacillus	228.67	2.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Sulfobacillus	261.22	3.53	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04240096	Sulfobacillus	909.67	2.78	Signal transduction histidine kinase CheA
+PGF_04345693	Sulfobacillus	457.11	2.20	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Sulfobacillus	849.11	1.76	Protein translocase subunit SecA
+PGF_04384318	Sulfobacillus	194.78	4.41	Gpr1/Fun34/YaaH family protein
+PGF_04412082	Sulfobacillus	106.00	0.00	Thioredoxin
+PGF_04431595	Sulfobacillus	348.11	9.12	Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
+PGF_04454639	Sulfobacillus	475.78	13.98	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04477106	Sulfobacillus	374.22	3.03	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04493258	Sulfobacillus	286.78	7.05	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Sulfobacillus	243.44	4.85	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Sulfobacillus	343.78	0.44	Rod shape-determining protein MreB
+PGF_04521913	Sulfobacillus	456.44	0.88	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Sulfobacillus	502.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Sulfobacillus	254.00	6.06	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04608820	Sulfobacillus	199.44	7.06	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04614911	Sulfobacillus	280.22	7.50	ABC transporter, permease protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_04623479	Sulfobacillus	641.22	7.60	Prolyl oligopeptidase family protein
+PGF_04660832	Sulfobacillus	153.56	3.64	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Sulfobacillus	638.78	0.44	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Sulfobacillus	299.56	4.85	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Sulfobacillus	852.11	85.19	Translation initiation factor 2
+PGF_04788810	Sulfobacillus	185.89	2.20	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04802320	Sulfobacillus	327.56	0.88	ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)
+PGF_04807486	Sulfobacillus	313.22	3.53	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Sulfobacillus	113.00	0.00	LSU ribosomal protein L19p
+PGF_04846590	Sulfobacillus	303.33	1.32	Magnesium and cobalt transport protein CorA
+PGF_04866046	Sulfobacillus	596.00	3.97	Uncharacterized protein YyaL
+PGF_04962192	Sulfobacillus	725.67	6.61	3'-to-5' exoribonuclease RNase R
+PGF_04971017	Sulfobacillus	342.78	3.53	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Sulfobacillus	109.33	7.19	LSU ribosomal protein L21p
+PGF_05065588	Sulfobacillus	393.78	1.72	Type II/IV secretion system ATPase TadZ/CpaE, associated with Flp pilus assembly
+PGF_05111929	Sulfobacillus	769.89	1.76	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05152582	Sulfobacillus	780.44	6.23	Aerobic carbon monoxide dehydrogenase (quinone), large chain (EC 1.2.5.3)
+PGF_05165078	Sulfobacillus	305.67	1.32	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Sulfobacillus	472.67	2.65	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05255412	Sulfobacillus	456.44	3.09	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Sulfobacillus	435.78	9.02	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05406959	Sulfobacillus	534.56	2.13	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05439724	Sulfobacillus	681.44	3.09	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Sulfobacillus	284.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Sulfobacillus	574.33	1.32	DNA mismatch repair protein MutL
+PGF_05579323	Sulfobacillus	343.22	0.44	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Sulfobacillus	425.78	0.44	Protein translocase subunit SecY
+PGF_05598173	Sulfobacillus	362.67	1.32	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Sulfobacillus	418.67	1.32	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05743061	Sulfobacillus	781.22	3.53	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05790213	Sulfobacillus	289.67	0.87	Vancomycin B-type resistance protein VanW
+PGF_05925776	Sulfobacillus	291.22	0.44	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Sulfobacillus	403.00	0.00	Protein translocase subunit SecD
+PGF_05971611	Sulfobacillus	399.44	3.09	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06170558	Sulfobacillus	163.00	3.97	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Sulfobacillus	144.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06211427	Sulfobacillus	264.44	0.88	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06230969	Sulfobacillus	503.67	1.58	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06329961	Sulfobacillus	389.67	2.65	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06379377	Sulfobacillus	441.33	1.00	Replication-associated recombination protein RarA
+PGF_06403579	Sulfobacillus	777.78	0.44	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06459503	Sulfobacillus	632.89	7.64	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06469881	Sulfobacillus	345.89	8.21	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Sulfobacillus	487.56	0.88	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06501669	Sulfobacillus	318.44	0.88	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)
+PGF_06511905	Sulfobacillus	211.89	2.20	Phosphoglycerate mutase family protein
+PGF_06533121	Sulfobacillus	411.89	9.02	Stage II sporulation protein P
+PGF_06568432	Sulfobacillus	334.11	293.55	NAD-dependent formate dehydrogenase alpha subunit @ selenocysteine-containing
+PGF_06594013	Sulfobacillus	146.78	0.44	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06644010	Sulfobacillus	298.44	0.88	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Sulfobacillus	80.00	0.00	Acyl carrier protein
+PGF_06649360	Sulfobacillus	178.00	5.20	Segregation and condensation protein B
+PGF_06660718	Sulfobacillus	322.44	8.71	Bifunctional protein: zinc-containing alcohol dehydrogenase; quinone oxidoreductase ( NADPH:quinone reductase) (EC 1.1.1.-); Similar to arginate lyase
+PGF_06660812	Sulfobacillus	196.22	0.44	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06690276	Sulfobacillus	234.56	0.88	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Sulfobacillus	109.22	0.44	Nucleoid-associated protein YaaK
+PGF_06767187	Sulfobacillus	314.00	0.00	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06840897	Sulfobacillus	404.44	0.88	protein of unknown function DUF445
+PGF_06905733	Sulfobacillus	647.56	0.88	ATPase associated with various cellular activities, AAA_5
+PGF_07072582	Sulfobacillus	369.00	0.00	RNA polymerase sigma factor RpoD
+PGF_07550876	Sulfobacillus	190.67	22.00	Hydrogenase maturation protease
+PGF_07569102	Sulfobacillus	419.44	7.06	Uncharacterized MFS-type transporter
+PGF_08057315	Sulfobacillus	556.78	4.41	ABC1 family protein
+PGF_08063983	Sulfobacillus	494.22	8.38	Proposed peptidoglycan lipid II flippase MurJ
+PGF_08135425	Sulfobacillus	471.00	3.97	Aldehyde dehydrogenase
+PGF_08147446	Sulfobacillus	460.78	3.53	Hydrogenase-4 component G
+PGF_08147453	Sulfobacillus	494.00	3.97	DNA recombination protein RmuC
+PGF_08179645	Sulfobacillus	379.44	0.88	hypothetical protein
+PGF_08187107	Sulfobacillus	510.11	1.76	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+PGF_08194102	Sulfobacillus	358.11	1.76	hypothetical protein

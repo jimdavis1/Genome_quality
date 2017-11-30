@@ -1,0 +1,714 @@
+PGF_00000416	Parachlamydia	349.40	3.13	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001392	Parachlamydia	407.40	55.13	ABC-type efflux pump permease component YbhS
+PGF_00002237	Parachlamydia	575.80	1.79	ABC-type efflux pump, duplicated ATPase component YbhF
+PGF_00002533	Parachlamydia	154.40	1.34	FIG016921: Type III secretion protein
+PGF_00003131	Parachlamydia	532.20	1.30	FIG047302: Type III secretion S/T Protein Kinase
+PGF_00003510	Parachlamydia	255.20	0.45	FIG137478: Hypothetical protein
+PGF_00003516	Parachlamydia	251.00	0.00	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004094	Parachlamydia	379.40	0.89	Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)
+PGF_00004231	Parachlamydia	373.20	0.45	Inner membrane transport permease YhhJ
+PGF_00006390	Parachlamydia	362.00	6.71	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00007012	Parachlamydia	364.20	0.45	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Parachlamydia	489.40	3.13	GTP-binding protein EngA
+PGF_00007026	Parachlamydia	206.20	2.68	GTP-binding protein EngB
+PGF_00007028	Parachlamydia	441.00	7.07	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Parachlamydia	609.20	1.79	GTP-binding protein TypA/BipA
+PGF_00007057	Parachlamydia	461.00	8.40	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Parachlamydia	277.20	1.79	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007335	Parachlamydia	848.80	7.16	General secretion pathway protein D
+PGF_00007632	Parachlamydia	310.60	1.34	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007799	Parachlamydia	1036.20	6.26	Glu/Leu/Phe/Val dehydrogenase family protein
+PGF_00007919	Parachlamydia	234.60	3.58	Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_00007971	Parachlamydia	439.00	5.66	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007982	Parachlamydia	283.60	15.65	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Parachlamydia	540.60	1.34	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Parachlamydia	377.80	12.64	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Parachlamydia	369.60	1.34	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008106	Parachlamydia	274.80	11.08	Glutamate racemase (EC 5.1.1.3)
+PGF_00008261	Parachlamydia	728.60	1.34	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+PGF_00008334	Parachlamydia	332.00	32.23	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Parachlamydia	503.60	0.89	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008593	Parachlamydia	927.20	0.45	Ribosome-associated ATPase RbbA
+PGF_00008611	Parachlamydia	332.40	0.89	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008774	Parachlamydia	445.60	1.34	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Parachlamydia	484.80	1.79	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008876	Parachlamydia	498.60	1.34	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Parachlamydia	196.60	1.34	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009539	Parachlamydia	406.60	45.97	Glycosyl transferase, group 2 family
+PGF_00009966	Parachlamydia	516.80	4.02	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Parachlamydia	242.20	2.68	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Parachlamydia	205.80	2.68	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Parachlamydia	316.00	0.00	HPr kinase/phosphorylase
+PGF_00011081	Parachlamydia	745.80	0.45	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Parachlamydia	282.00	0.00	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00012264	Parachlamydia	337.00	3.54	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012478	Parachlamydia	519.60	0.89	Hydantoinase/oxoprolinase family protein
+PGF_00013017	Parachlamydia	327.20	0.45	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013283	Parachlamydia	226.80	4.02	UPF0001 protein YggS
+PGF_00013800	Parachlamydia	279.20	0.45	AMP nucleosidase (EC 3.2.2.4)
+PGF_00014046	Parachlamydia	339.60	1.34	Inclusion membrane protein-71
+PGF_00014275	Parachlamydia	838.80	2.68	Inner membrane protein translocase and chaperone YidC, long form / Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014728	Parachlamydia	396.20	44.27	Integral membrane protein TerC
+PGF_00015255	Parachlamydia	263.40	0.89	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015510	Parachlamydia	253.20	0.45	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Parachlamydia	478.60	1.34	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Parachlamydia	435.20	2.68	Iron-sulfur cluster assembly protein SufD
+PGF_00015686	Parachlamydia	348.60	3.58	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015702	Parachlamydia	484.00	0.00	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Parachlamydia	1038.80	3.03	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015963	Parachlamydia	394.80	6.26	L,L-diaminopimelate aminotransferase (EC 2.6.1.83)
+PGF_00016261	Parachlamydia	341.80	0.45	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016338	Parachlamydia	414.60	0.89	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Parachlamydia	121.20	0.45	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Parachlamydia	150.80	0.45	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Parachlamydia	139.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Parachlamydia	130.60	10.41	LSU ribosomal protein L17p
+PGF_00016357	Parachlamydia	233.40	0.89	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Parachlamydia	118.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Parachlamydia	112.60	0.89	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Parachlamydia	111.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Parachlamydia	122.40	3.58	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Parachlamydia	83.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Parachlamydia	281.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016423	Parachlamydia	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016425	Parachlamydia	45.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016431	Parachlamydia	220.80	1.79	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Parachlamydia	227.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Parachlamydia	185.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Parachlamydia	180.40	1.34	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Parachlamydia	128.80	1.79	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Parachlamydia	164.60	0.89	LSU ribosomal protein L9p
+PGF_00016843	Parachlamydia	198.00	0.00	LemA protein
+PGF_00016850	Parachlamydia	358.20	0.45	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)
+PGF_00017109	Parachlamydia	389.20	1.79	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017132	Parachlamydia	249.80	7.16	Lipoate-protein ligase A type 2
+PGF_00017190	Parachlamydia	242.80	1.79	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017227	Parachlamydia	805.00	24.60	ATP-dependent DNA ligase (EC 6.5.1.1) clustered with Ku protein, LigD
+PGF_00017281	Parachlamydia	350.00	2.24	Lipopolysaccharide core heptosyltransferase I
+PGF_00017464	Parachlamydia	233.80	2.68	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Parachlamydia	328.00	0.00	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017589	Parachlamydia	701.80	21.64	Low Calcium Response D (Type III secretion inner membrane protein SctV)
+PGF_00017939	Parachlamydia	326.80	1.79	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018560	Parachlamydia	446.20	11.88	Magnesium and cobalt efflux protein CorC
+PGF_00020147	Parachlamydia	333.00	68.77	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020345	Parachlamydia	263.40	3.58	Metal-dependent hydrolase
+PGF_00020361	Parachlamydia	152.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Parachlamydia	263.80	0.45	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020793	Parachlamydia	190.00	9.51	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020984	Parachlamydia	293.20	0.45	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021390	Parachlamydia	236.80	4.92	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00021403	Parachlamydia	496.80	4.92	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_00022692	Parachlamydia	284.00	0.00	MoxR-like ATPases
+PGF_00023591	Parachlamydia	341.40	1.34	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023788	Parachlamydia	468.40	27.25	N-acetylglucosamine-1-phosphate uridyltransferase eukaryotic (EC 2.7.7.23)
+PGF_00024309	Parachlamydia	544.80	1.79	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024478	Parachlamydia	341.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024567	Parachlamydia	395.60	0.89	Acetate kinase (EC 2.7.2.1)
+PGF_00024687	Parachlamydia	401.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Parachlamydia	171.00	0.00	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Parachlamydia	168.00	0.00	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Parachlamydia	99.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Parachlamydia	485.40	0.89	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Parachlamydia	479.20	0.45	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025185	Parachlamydia	511.40	1.34	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.8)
+PGF_00025187	Parachlamydia	305.40	3.13	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.8)
+PGF_00025188	Parachlamydia	210.20	0.45	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.8)
+PGF_00025189	Parachlamydia	242.00	4.47	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.8)
+PGF_00025190	Parachlamydia	446.00	0.00	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.8)
+PGF_00025379	Parachlamydia	276.20	0.45	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025383	Parachlamydia	348.40	9.84	Naringenin-chalcone synthase (EC 2.3.1.74)
+PGF_00025562	Parachlamydia	211.20	2.68	Nicotinamidase (EC 3.5.1.19)
+PGF_00026279	Parachlamydia	315.20	0.45	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Parachlamydia	198.00	2.24	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Parachlamydia	238.00	19.38	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Parachlamydia	303.00	4.47	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00027643	Parachlamydia	876.20	0.45	Osmosensitive K+ channel histidine kinase KdpD
+PGF_00027752	Parachlamydia	599.00	18.38	Outer membrane component of TAM transport system
+PGF_00029464	Parachlamydia	246.80	2.68	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029467	Parachlamydia	146.20	7.43	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00030243	Parachlamydia	1138.80	29.12	Penicillin-binding protein PBP2
+PGF_00033095	Parachlamydia	799.80	0.45	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033423	Parachlamydia	588.00	2.24	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033479	Parachlamydia	592.80	0.45	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Parachlamydia	402.20	2.68	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Parachlamydia	225.00	0.00	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033729	Parachlamydia	285.00	2.24	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00034218	Parachlamydia	473.60	1.34	Phytoene dehydrogenase and related proteins
+PGF_00034566	Parachlamydia	422.60	0.89	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Parachlamydia	696.00	0.00	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Parachlamydia	344.60	1.34	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035378	Parachlamydia	448.80	15.21	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035405	Parachlamydia	562.40	1.34	Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035406	Parachlamydia	695.80	2.68	Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035407	Parachlamydia	193.00	6.71	Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00037523	Parachlamydia	1205.00	8.94	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037565	Parachlamydia	483.80	1.79	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037586	Parachlamydia	505.40	0.89	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037641	Parachlamydia	163.20	0.45	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_00037937	Parachlamydia	78.40	21.02	Protein PhnA
+PGF_00038619	Parachlamydia	258.40	2.19	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038653	Parachlamydia	1447.40	128.53	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038950	Parachlamydia	335.80	13.97	Aldo/keto reductase, SMc04056 family
+PGF_00039342	Parachlamydia	280.20	0.45	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040578	Parachlamydia	252.80	6.26	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00045787	Parachlamydia	198.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Parachlamydia	301.80	0.45	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045833	Parachlamydia	214.20	1.79	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045939	Parachlamydia	562.80	2.68	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00046403	Parachlamydia	498.80	2.68	RNA polymerase sigma-54 factor RpoN
+PGF_00046607	Parachlamydia	282.60	0.89	RNA pseudouridylate synthase BT0642
+PGF_00047078	Parachlamydia	358.80	4.02	RecA protein
+PGF_00047095	Parachlamydia	725.60	3.13	RecD-like DNA helicase YrrC
+PGF_00047533	Parachlamydia	395.20	0.45	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00048330	Parachlamydia	315.60	1.34	Rhodanese domain protein UPF0176, Firmicutes subgroup
+PGF_00048480	Parachlamydia	212.20	0.45	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Parachlamydia	211.80	8.50	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048557	Parachlamydia	322.60	16.98	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048562	Parachlamydia	486.60	1.34	Ribonuclease II family protein CT1000
+PGF_00048594	Parachlamydia	302.80	1.79	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048630	Parachlamydia	901.20	62.41	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048829	Parachlamydia	233.80	0.45	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048917	Parachlamydia	211.40	1.34	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Parachlamydia	183.00	0.00	Ribosome recycling factor
+PGF_00048928	Parachlamydia	383.40	0.89	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Parachlamydia	133.00	2.24	Ribosome-binding factor A
+PGF_00048985	Parachlamydia	241.20	6.57	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Parachlamydia	390.80	6.26	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049827	Parachlamydia	283.20	2.68	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Parachlamydia	111.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049838	Parachlamydia	123.20	0.45	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Parachlamydia	122.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Parachlamydia	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Parachlamydia	82.60	14.31	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Parachlamydia	109.80	0.45	SSU ribosomal protein S16p
+PGF_00049854	Parachlamydia	80.20	0.45	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Parachlamydia	85.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Parachlamydia	87.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Parachlamydia	215.60	0.89	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Parachlamydia	212.20	13.86	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Parachlamydia	165.80	0.45	SSU ribosomal protein S5p (S2e)
+PGF_00049899	Parachlamydia	114.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Parachlamydia	157.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Parachlamydia	133.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Parachlamydia	128.20	0.45	SSU ribosomal protein S9p (S16e)
+PGF_00049990	Parachlamydia	96.80	0.45	SWIB/MDM2 domain-containing proteins
+PGF_00050290	Parachlamydia	242.00	0.00	Segregation and condensation protein A
+PGF_00051525	Parachlamydia	427.40	1.34	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Parachlamydia	442.00	0.00	Signal recognition particle protein Ffh
+PGF_00052705	Parachlamydia	128.00	19.17	LSU ribosomal protein L11p (L12e)
+PGF_00053553	Parachlamydia	470.20	8.32	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+PGF_00053770	Parachlamydia	349.40	5.37	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054480	Parachlamydia	257.60	0.89	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Parachlamydia	387.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054560	Parachlamydia	490.80	1.79	Succinylglutamic semialdehyde dehydrogenase (EC 1.2.1.71)
+PGF_00054973	Parachlamydia	552.40	3.13	Sulfate permease
+PGF_00055099	Parachlamydia	142.40	3.13	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00056273	Parachlamydia	371.00	2.24	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056883	Parachlamydia	223.20	2.68	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056902	Parachlamydia	546.00	2.24	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_00057270	Parachlamydia	637.20	1.79	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057483	Parachlamydia	458.60	0.89	Transcription termination factor Rho
+PGF_00060409	Parachlamydia	695.00	0.00	Translation elongation factor G
+PGF_00060414	Parachlamydia	602.00	0.00	Translation elongation factor LepA
+PGF_00060421	Parachlamydia	189.40	0.89	Translation elongation factor P
+PGF_00060424	Parachlamydia	316.80	6.26	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Parachlamydia	279.60	1.34	Translation elongation factor Ts
+PGF_00060428	Parachlamydia	394.80	0.45	Translation elongation factor Tu
+PGF_00060431	Parachlamydia	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Parachlamydia	188.00	2.24	Translation initiation factor 3
+PGF_00061920	Parachlamydia	573.60	7.60	Apolipoprotein N-acyltransferase
+PGF_00062045	Parachlamydia	355.80	0.45	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063488	Parachlamydia	437.80	0.45	Type III secretion cytoplasmic ATP synthase (EC 3.6.3.14, YscN,SpaL,MxiB,HrcN,EscN)
+PGF_00063548	Parachlamydia	92.40	0.89	Type III secretion inner membrane protein (YscS,homologous to flagellar export components)
+PGF_00063556	Parachlamydia	322.80	8.50	Type III secretion inner membrane protein SctR
+PGF_00063916	Parachlamydia	430.40	4.28	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063944	Parachlamydia	293.80	0.45	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Parachlamydia	355.80	2.68	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Parachlamydia	294.60	3.58	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063987	Parachlamydia	341.80	4.02	UDP-N-acetylglucosamine 4,6-dehydratase (inverting) (EC 4.2.1.115)
+PGF_00063993	Parachlamydia	366.20	1.79	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Parachlamydia	721.20	149.37	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064007	Parachlamydia	741.00	213.55	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) / Alanine racemase (EC 5.1.1.1)
+PGF_00064438	Parachlamydia	170.00	0.00	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00065887	Parachlamydia	262.20	1.79	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066139	Parachlamydia	237.60	0.89	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066270	Parachlamydia	342.80	8.50	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066372	Parachlamydia	595.20	0.45	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066375	Parachlamydia	437.80	0.45	V-type ATP synthase subunit B (EC 3.6.3.14)
+PGF_00066387	Parachlamydia	216.00	0.00	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066428	Parachlamydia	141.60	0.89	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_00066453	Parachlamydia	956.00	2.24	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066657	Parachlamydia	246.80	1.79	Virulence plasmid protein pGP6-D
+PGF_00066715	Parachlamydia	397.00	0.00	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00066742	Parachlamydia	306.60	14.31	Voltage-gated potassium channel subunit beta-1 (K(+) channel subunit beta-1) (Kv-beta-1)
+PGF_00067129	Parachlamydia	807.80	7.16	Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9) @ Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+PGF_00067188	Parachlamydia	356.60	0.89	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067466	Parachlamydia	593.40	0.89	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Parachlamydia	486.80	4.02	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068420	Parachlamydia	392.20	53.78	Protein YzbB
+PGF_00070354	Parachlamydia	357.40	1.34	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)
+PGF_00079746	Parachlamydia	188.40	3.13	hypothetical protein
+PGF_00084324	Parachlamydia	257.00	2.24	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00113415	Parachlamydia	52.80	0.45	hypothetical protein
+PGF_00134118	Parachlamydia	989.40	0.89	Predicted insulinase-like Zn-dependent peptidase DVU0941
+PGF_00221322	Parachlamydia	137.40	0.89	hypothetical protein
+PGF_00222191	Parachlamydia	612.00	10.63	hypothetical protein
+PGF_00223881	Parachlamydia	134.00	46.50	hypothetical protein
+PGF_00247456	Parachlamydia	237.80	0.45	hypothetical protein
+PGF_00264906	Parachlamydia	167.60	0.89	hypothetical protein
+PGF_00321410	Parachlamydia	418.60	14.76	hypothetical protein
+PGF_00321540	Parachlamydia	273.60	0.89	hypothetical protein
+PGF_00322523	Parachlamydia	137.00	0.00	hypothetical protein
+PGF_00361209	Parachlamydia	652.80	134.82	hypothetical protein
+PGF_00374665	Parachlamydia	322.20	11.37	hypothetical protein
+PGF_00399630	Parachlamydia	289.80	2.49	hypothetical protein PA3071
+PGF_00400019	Parachlamydia	372.80	0.45	Aerotolerance protein BatA
+PGF_00401964	Parachlamydia	669.00	0.00	ortholog of Bordetella pertussis (BX470248) BP2101
+PGF_00403663	Parachlamydia	371.60	1.34	BioD-like N-terminal domain of phosphotransacetylase
+PGF_00404019	Parachlamydia	624.40	3.13	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Parachlamydia	144.40	50.56	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404158	Parachlamydia	245.60	5.81	probable cytosol aminopeptidase( EC:3.4.11.1 )
+PGF_00404256	Parachlamydia	453.80	0.45	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00405612	Parachlamydia	435.80	9.96	putative 7-dehydrocholesterol reductase
+PGF_00406692	Parachlamydia	902.40	33.43	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00410523	Parachlamydia	211.20	65.45	putative secreted protein
+PGF_00410883	Parachlamydia	134.80	17.44	Single-stranded DNA-binding protein
+PGF_00413203	Parachlamydia	150.60	1.34	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Parachlamydia	226.00	2.24	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413295	Parachlamydia	239.60	2.61	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Parachlamydia	432.00	4.47	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Parachlamydia	610.40	11.52	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Parachlamydia	247.00	0.00	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413340	Parachlamydia	327.60	12.52	tRNA-dihydrouridine(16) synthase
+PGF_00413351	Parachlamydia	174.80	2.68	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Parachlamydia	152.00	0.00	tmRNA-binding protein SmpB
+PGF_00414366	Parachlamydia	530.20	7.16	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414926	Parachlamydia	412.40	0.89	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415069	Parachlamydia	145.40	4.28	CHLPS Euo Protein
+PGF_00415346	Parachlamydia	389.20	0.45	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415391	Parachlamydia	333.80	13.54	23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415407	Parachlamydia	382.60	1.52	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415486	Parachlamydia	140.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00416115	Parachlamydia	312.20	4.92	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Parachlamydia	534.00	17.59	CTP synthase (EC 6.3.4.2)
+PGF_00416156	Parachlamydia	550.60	178.68	Cadmium-transporting ATPase (EC 3.6.3.3)
+PGF_00416584	Parachlamydia	243.60	1.34	Dienelactone hydrolase family protein
+PGF_00416674	Parachlamydia	403.80	1.79	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417169	Parachlamydia	379.60	0.89	Cell shape-determining protein MrdB
+PGF_00417429	Parachlamydia	383.60	1.34	Chaperone protein DnaJ
+PGF_00417433	Parachlamydia	591.40	153.40	Chaperone protein DnaK
+PGF_00417658	Parachlamydia	370.00	2.24	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417800	Parachlamydia	355.80	4.02	Choloylglycine hydrolase (EC 3.5.1.24)
+PGF_00417840	Parachlamydia	363.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00418128	Parachlamydia	262.00	4.47	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00419627	Parachlamydia	275.20	5.17	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Parachlamydia	166.60	3.97	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00420121	Parachlamydia	230.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420358	Parachlamydia	483.40	3.58	Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1)
+PGF_00420572	Parachlamydia	457.60	3.58	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420903	Parachlamydia	319.00	0.00	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420994	Parachlamydia	722.00	0.00	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421071	Parachlamydia	145.60	1.34	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421489	Parachlamydia	1253.60	0.89	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421584	Parachlamydia	232.60	3.58	DNA polymerase III subunit epsilon
+PGF_00421792	Parachlamydia	456.80	0.45	DNA repair protein RadA
+PGF_00421796	Parachlamydia	549.60	3.58	DNA repair protein RecN
+PGF_00422271	Parachlamydia	371.80	1.79	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422545	Parachlamydia	303.00	2.24	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422937	Parachlamydia	321.00	0.00	Deoxyhypusine synthase (EC 2.5.1.46)
+PGF_00422959	Parachlamydia	148.40	0.89	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Parachlamydia	361.20	3.19	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Parachlamydia	270.80	10.73	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Parachlamydia	404.40	5.37	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Parachlamydia	466.60	0.89	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423472	Parachlamydia	743.20	0.45	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Parachlamydia	286.60	8.79	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424165	Parachlamydia	184.00	0.00	Elongation factor P-like protein
+PGF_00424337	Parachlamydia	286.80	4.02	Endonuclease IV (EC 3.1.21.2)
+PGF_00424569	Parachlamydia	305.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00425021	Parachlamydia	1147.60	8.05	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Parachlamydia	476.20	11.63	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425052	Parachlamydia	608.80	0.45	Exoenzymes regulatory protein AepA precursor
+PGF_00425665	Parachlamydia	253.40	0.89	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425684	Parachlamydia	245.40	0.89	Probable transcriptional regulatory protein YebC
+PGF_00425786	Parachlamydia	488.00	71.00	Ribonuclease Y
+PGF_00425993	Parachlamydia	378.60	1.34	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426115	Parachlamydia	640.00	4.47	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Parachlamydia	655.80	0.45	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426932	Parachlamydia	159.40	12.07	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00454030	Parachlamydia	418.60	0.89	Multidrug efflux system EmrAB-OMF, membrane fusion component EmrA
+PGF_00473519	Parachlamydia	205.00	2.24	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Parachlamydia	458.20	1.79	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Parachlamydia	342.00	2.24	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00508272	Parachlamydia	590.60	8.05	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00616490	Parachlamydia	618.60	10.29	Signal peptidase I (EC 3.4.21.89)
+PGF_00641071	Parachlamydia	340.80	0.45	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644718	Parachlamydia	309.00	2.24	hypothetical protein
+PGF_00655358	Parachlamydia	494.20	2.68	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00664069	Parachlamydia	434.00	4.47	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00666146	Parachlamydia	213.80	10.55	MotA/TolQ/ExbB proton channel family protein
+PGF_00683357	Parachlamydia	185.60	3.13	Transcription termination protein NusB
+PGF_00716406	Parachlamydia	125.20	4.92	Ribosomal silencing factor RsfA
+PGF_00717495	Parachlamydia	387.60	1.34	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Parachlamydia	331.20	0.45	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00734482	Parachlamydia	865.20	2.68	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00740092	Parachlamydia	240.80	1.79	hypothetical protein
+PGF_00800643	Parachlamydia	472.80	2.68	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
+PGF_00806306	Parachlamydia	284.20	4.92	Uncharacterized protein conserved in bacteria, NMA0228-like
+PGF_00808195	Parachlamydia	168.00	0.00	DNA protection during starvation protein
+PGF_00815663	Parachlamydia	130.00	0.00	Protein translocase subunit YajC
+PGF_00820687	Parachlamydia	229.00	0.00	hypothetical protein
+PGF_00827555	Parachlamydia	521.40	21.02	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Parachlamydia	292.60	1.34	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Parachlamydia	411.00	0.00	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00856417	Parachlamydia	236.00	4.47	UPF0758 family protein
+PGF_00893079	Parachlamydia	337.60	7.06	ABC transporter, substrate-binding protein (cluster 14, Mn/Zn)
+PGF_00908360	Parachlamydia	259.00	5.20	Phospholipid ABC transporter permease protein MlaE
+PGF_00909659	Parachlamydia	732.60	10.29	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00912265	Parachlamydia	332.00	21.81	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Parachlamydia	431.80	12.97	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Parachlamydia	585.20	1.79	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00935251	Parachlamydia	299.80	8.50	hypothetical protein
+PGF_00945299	Parachlamydia	185.40	3.13	Isochorismatase (EC 3.3.2.1)
+PGF_00950554	Parachlamydia	669.40	0.89	Excinuclease ABC subunit B
+PGF_00957419	Parachlamydia	155.60	1.34	Putative pre-16S rRNA nuclease Yqg
+PGF_01005146	Parachlamydia	897.60	21.23	2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) / Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)
+PGF_01024591	Parachlamydia	375.60	0.89	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_01028579	Parachlamydia	460.80	10.73	Sodium-dependent transporter, SNF family
+PGF_01047675	Parachlamydia	492.40	59.38	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_01047966	Parachlamydia	498.60	12.84	hypothetical protein
+PGF_01078062	Parachlamydia	389.00	4.47	Uncharacterized MFS-type transporter
+PGF_01079016	Parachlamydia	282.20	4.02	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Parachlamydia	783.20	0.45	Outer membrane protein assembly factor YaeT
+PGF_01114144	Parachlamydia	494.40	45.51	Multidrug efflux system EmrAB-OMF, inner-membrane proton/drug antiporter EmrB (MFS type)
+PGF_01124177	Parachlamydia	394.60	3.58	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01147190	Parachlamydia	474.00	0.00	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01162681	Parachlamydia	958.40	0.89	Aconitate hydratase (EC 4.2.1.3)
+PGF_01172200	Parachlamydia	221.20	9.39	Uncharacterized membrane anchored protein Mext_4159
+PGF_01174807	Parachlamydia	471.60	3.13	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01211766	Parachlamydia	261.60	1.34	Iron-sulfur cluster assembly scaffold protein IscU/NifU-like
+PGF_01211768	Parachlamydia	170.40	5.37	Putative transferase
+PGF_01211773	Parachlamydia	376.80	4.92	hypothetical protein
+PGF_01211792	Parachlamydia	275.20	0.45	hypothetical protein
+PGF_01211799	Parachlamydia	135.20	2.68	hypothetical protein
+PGF_01211803	Parachlamydia	291.40	1.34	hypothetical protein
+PGF_01211808	Parachlamydia	561.20	12.97	hypothetical protein
+PGF_01211811	Parachlamydia	464.00	8.94	hypothetical protein
+PGF_01211815	Parachlamydia	92.60	3.58	hypothetical protein
+PGF_01211819	Parachlamydia	224.00	4.47	hypothetical protein
+PGF_01211822	Parachlamydia	329.60	1.34	hypothetical protein
+PGF_01211824	Parachlamydia	313.40	0.89	hypothetical protein
+PGF_01211831	Parachlamydia	508.80	1.79	hypothetical protein
+PGF_01211839	Parachlamydia	1379.60	25.94	hypothetical protein
+PGF_01211843	Parachlamydia	170.60	15.22	hypothetical protein
+PGF_01211844	Parachlamydia	173.00	4.47	hypothetical protein
+PGF_01211847	Parachlamydia	246.20	4.92	hypothetical protein
+PGF_01211852	Parachlamydia	585.80	24.07	hypothetical protein
+PGF_01211855	Parachlamydia	149.40	18.80	hypothetical protein
+PGF_01211856	Parachlamydia	188.20	2.68	hypothetical protein
+PGF_01211857	Parachlamydia	386.40	5.37	hypothetical protein
+PGF_01211860	Parachlamydia	698.80	41.58	hypothetical protein
+PGF_01211862	Parachlamydia	214.40	14.76	hypothetical protein
+PGF_01211864	Parachlamydia	352.60	76.94	hypothetical protein
+PGF_01211872	Parachlamydia	657.80	2.68	hypothetical protein
+PGF_01211888	Parachlamydia	239.40	0.89	putative dolichol-phosphate mannosyltransferase
+PGF_01211889	Parachlamydia	268.80	21.91	putative mip (macrophage infectivity potentiator, fkbp-type peptidyl-prolyl cis-trans isomerase)
+PGF_01211891	Parachlamydia	284.00	2.24	Type III secretion inner membrane protein SctT
+PGF_01212197	Parachlamydia	68.60	3.58	hypothetical protein
+PGF_01212362	Parachlamydia	143.80	4.02	hypothetical protein
+PGF_01212416	Parachlamydia	219.20	4.02	hypothetical protein
+PGF_01212487	Parachlamydia	125.00	2.24	hypothetical protein
+PGF_01212488	Parachlamydia	656.80	18.34	hypothetical protein
+PGF_01212561	Parachlamydia	333.20	39.25	Inclusion membrane protein-72
+PGF_01212567	Parachlamydia	362.00	2.24	CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase (EC 2.7.8.12)
+PGF_01212571	Parachlamydia	549.20	8.64	putative acylase and diesterase
+PGF_01212579	Parachlamydia	325.60	8.50	hypothetical protein
+PGF_01212589	Parachlamydia	1317.60	688.97	hypothetical protein
+PGF_01212609	Parachlamydia	403.40	33.29	hypothetical protein
+PGF_01212621	Parachlamydia	390.80	4.02	hypothetical protein
+PGF_01212626	Parachlamydia	376.00	58.71	Putative Na+/H+ antiporter
+PGF_01212642	Parachlamydia	292.60	5.81	Inclusion membrane protein-52
+PGF_01212682	Parachlamydia	749.40	57.24	hypothetical protein
+PGF_01212704	Parachlamydia	871.00	2.24	hypothetical protein
+PGF_01212736	Parachlamydia	340.20	11.63	putative glycerol-3-phosphate acyltransferase
+PGF_01212743	Parachlamydia	571.20	66.63	hypothetical protein
+PGF_01212749	Parachlamydia	205.80	0.45	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_01212761	Parachlamydia	105.00	28.51	Anti-sigma B factor antagonist RsbV
+PGF_01212780	Parachlamydia	254.20	53.26	hypothetical protein
+PGF_01212807	Parachlamydia	214.80	4.92	hypothetical protein
+PGF_01212845	Parachlamydia	51.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_01212850	Parachlamydia	262.60	10.29	hypothetical protein
+PGF_01212887	Parachlamydia	506.20	0.45	Inclusion membrane protein-63
+PGF_01212947	Parachlamydia	747.00	4.47	hypothetical protein
+PGF_01213697	Parachlamydia	297.20	2.68	hypothetical protein
+PGF_01214197	Parachlamydia	157.00	2.24	hypothetical protein
+PGF_01217629	Parachlamydia	148.60	1.34	Biopolymer transport protein ExbD/TolR
+PGF_01351158	Parachlamydia	1101.60	3.13	Transcription-repair coupling factor
+PGF_01364427	Parachlamydia	200.20	0.45	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01393949	Parachlamydia	659.80	2.68	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01404160	Parachlamydia	325.80	4.92	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01407825	Parachlamydia	428.40	3.13	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_01421534	Parachlamydia	186.00	0.00	LSU ribosomal protein L25p
+PGF_01423501	Parachlamydia	722.40	0.89	Transcription elongation factor GreA
+PGF_01427545	Parachlamydia	208.00	4.47	Aquaporin Z
+PGF_01429153	Parachlamydia	394.20	0.45	General secretion pathway protein F / Type II secretory pathway, component PulF / Type IV fimbrial assembly protein PilC
+PGF_01466819	Parachlamydia	243.00	2.83	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483918	Parachlamydia	275.80	1.79	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01514111	Parachlamydia	325.80	1.79	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01614738	Parachlamydia	98.00	6.71	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01625234	Parachlamydia	316.00	0.00	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01674551	Parachlamydia	123.40	2.30	Glycine cleavage system H protein
+PGF_01682537	Parachlamydia	132.40	3.58	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01719445	Parachlamydia	550.00	4.47	Pyruvate decarboxylase (EC 4.1.1.1); Alpha-keto-acid decarboxylase (EC 4.1.1.-)
+PGF_01734668	Parachlamydia	243.00	6.93	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Parachlamydia	280.40	0.89	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01777142	Parachlamydia	205.00	0.00	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01810645	Parachlamydia	524.00	6.71	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01839055	Parachlamydia	341.80	0.45	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01853493	Parachlamydia	260.80	3.49	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Parachlamydia	382.40	3.13	Heat-inducible transcription repressor HrcA
+PGF_01888177	Parachlamydia	156.40	1.34	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Parachlamydia	207.60	3.58	Endonuclease III (EC 4.2.99.18)
+PGF_01900530	Parachlamydia	246.00	2.24	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01910375	Parachlamydia	392.60	0.89	RND efflux system, membrane fusion protein
+PGF_01911494	Parachlamydia	104.20	17.53	hypothetical protein
+PGF_01943486	Parachlamydia	398.20	28.62	O-acetyl-ADP-ribose deacetylase
+PGF_01949788	Parachlamydia	183.40	42.17	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Parachlamydia	586.00	50.32	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01990221	Parachlamydia	429.40	5.37	Aspartyl aminopeptidase (EC 3.4.11.21)
+PGF_01994657	Parachlamydia	429.20	4.92	Cell division trigger factor (EC 5.2.1.8)
+PGF_02019462	Parachlamydia	318.80	51.88	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Parachlamydia	313.20	51.54	GTP-binding protein Obg
+PGF_02059226	Parachlamydia	56.40	12.07	Transmembrane protein Msl3831
+PGF_02111888	Parachlamydia	313.00	0.00	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02139427	Parachlamydia	231.40	0.89	Pirin
+PGF_02141097	Parachlamydia	771.40	0.89	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02185217	Parachlamydia	478.80	4.92	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02211177	Parachlamydia	263.40	3.13	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02229778	Parachlamydia	402.60	0.89	Arsenic efflux pump protein
+PGF_02283009	Parachlamydia	145.20	2.68	Phospholipid-binding protein, YbhB/YbcL family
+PGF_02313996	Parachlamydia	114.20	0.45	Possible carboxymuconolactone decarboxylase family protein (EC 4.1.1.44)
+PGF_02369559	Parachlamydia	892.40	3.29	DNA polymerase I (EC 2.7.7.7)
+PGF_02450432	Parachlamydia	239.00	102.87	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Parachlamydia	95.80	0.45	SSU ribosomal protein S20p
+PGF_02463284	Parachlamydia	199.60	0.89	Recombination protein RecR
+PGF_02501353	Parachlamydia	302.40	43.12	Uncharacterized UPF0750 membrane protein
+PGF_02515882	Parachlamydia	274.40	8.05	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Parachlamydia	435.40	3.13	Enolase (EC 4.2.1.11)
+PGF_02537450	Parachlamydia	486.60	3.58	HtrA protease/chaperone protein
+PGF_02563637	Parachlamydia	662.80	9.50	hypothetical protein
+PGF_02593689	Parachlamydia	448.00	2.24	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601796	Parachlamydia	315.20	4.92	Ornithine cyclodeaminase (EC 4.3.1.12)
+PGF_02623406	Parachlamydia	307.80	1.79	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Parachlamydia	1383.60	5.81	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Parachlamydia	118.20	0.45	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Parachlamydia	849.80	1.79	DNA mismatch repair protein MutS
+PGF_02745613	Parachlamydia	286.80	1.79	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746016	Parachlamydia	229.40	0.89	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02746237	Parachlamydia	360.60	3.13	HlyD-like membrane fusion protein YhiI
+PGF_02773452	Parachlamydia	186.00	17.89	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+PGF_02787494	Parachlamydia	224.00	0.00	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02789532	Parachlamydia	284.60	0.89	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Parachlamydia	225.20	2.68	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Parachlamydia	483.20	13.54	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Parachlamydia	1251.60	1.34	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Parachlamydia	544.60	2.88	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02810683	Parachlamydia	399.20	0.45	Uncharacterized amino acid permease, GabP family
+PGF_02844091	Parachlamydia	229.60	1.34	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02871428	Parachlamydia	173.80	11.67	hypothetical protein
+PGF_02873723	Parachlamydia	512.00	0.00	Ribonuclease G
+PGF_02902915	Parachlamydia	89.60	0.89	Ferredoxin
+PGF_02906681	Parachlamydia	751.20	0.45	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02909750	Parachlamydia	121.00	0.00	putative dnaK suppressor
+PGF_02912272	Parachlamydia	157.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Parachlamydia	239.00	5.20	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Parachlamydia	297.60	1.34	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02946231	Parachlamydia	588.40	3.58	SSU ribosomal protein S1p
+PGF_02971887	Parachlamydia	407.60	0.89	Multidrug resistance transporter, Bcr/CflA family
+PGF_03000070	Parachlamydia	352.20	0.45	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03017775	Parachlamydia	522.40	3.13	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Parachlamydia	193.20	0.45	Septum formation protein Maf
+PGF_03020719	Parachlamydia	608.60	5.37	Lysophospholipid transporter LplT / 2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40)
+PGF_03029859	Parachlamydia	601.20	4.92	Bis-ABC ATPase Uup
+PGF_03042775	Parachlamydia	208.00	2.24	Phosphoheptose isomerase (EC 5.3.1.-)
+PGF_03051427	Parachlamydia	297.00	2.24	3-hydroxyisobutyrate dehydrogenase family protein
+PGF_03054699	Parachlamydia	828.00	27.06	DNA translocase FtsK
+PGF_03063638	Parachlamydia	441.00	0.00	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_03066520	Parachlamydia	418.20	1.79	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03075401	Parachlamydia	159.00	2.24	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Parachlamydia	85.60	1.34	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03090490	Parachlamydia	284.20	0.45	ABC-type efflux pump membrane fusion component YbhG
+PGF_03097682	Parachlamydia	356.20	0.45	Type III secretion inner membrane protein (YscU,SpaS,EscU,HrcU,SsaU, homologous to flagellar export components)
+PGF_03104567	Parachlamydia	450.00	2.24	Trk potassium uptake system protein TrkA
+PGF_03110657	Parachlamydia	623.80	215.12	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03116802	Parachlamydia	191.00	24.84	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03124146	Parachlamydia	487.40	75.13	N-acetylneuraminate synthase (EC 2.5.1.56)
+PGF_03124650	Parachlamydia	485.00	2.24	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Parachlamydia	424.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03145455	Parachlamydia	330.00	0.00	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03146406	Parachlamydia	631.60	0.89	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03152833	Parachlamydia	267.80	4.92	Ku domain protein
+PGF_03154343	Parachlamydia	271.00	58.14	Cytidine deaminase (EC 3.5.4.5)
+PGF_03174068	Parachlamydia	182.00	0.00	Transcription antitermination protein NusG
+PGF_03186757	Parachlamydia	194.40	1.95	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+PGF_03272313	Parachlamydia	861.00	8.94	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277220	Parachlamydia	459.60	9.84	Two-component system response regulator protein
+PGF_03278866	Parachlamydia	93.40	1.34	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03318456	Parachlamydia	548.80	0.45	Trk potassium uptake system protein TrkH
+PGF_03383443	Parachlamydia	142.00	4.47	Peroxiredoxin OsmC (EC 1.11.1.15)
+PGF_03394288	Parachlamydia	459.20	1.79	Succinate-semialdehyde dehydrogenase [NAD] (EC 1.2.1.24); Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79)
+PGF_03456505	Parachlamydia	413.00	41.45	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03609651	Parachlamydia	680.20	0.45	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03682090	Parachlamydia	110.60	3.13	small multidrug resistance family (SMR) protein
+PGF_03719269	Parachlamydia	200.60	1.34	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Parachlamydia	148.80	0.45	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03728791	Parachlamydia	222.60	3.58	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)
+PGF_03729141	Parachlamydia	189.00	0.00	UPF0301 protein YqgE
+PGF_03751823	Parachlamydia	210.60	7.60	Heat shock protein GrpE
+PGF_03778780	Parachlamydia	309.00	0.00	Signal recognition particle receptor FtsY
+PGF_03790040	Parachlamydia	236.60	1.34	Ribonuclease III (EC 3.1.26.3)
+PGF_03797303	Parachlamydia	549.20	2.95	Adenine deaminase (EC 3.5.4.2)
+PGF_03801201	Parachlamydia	267.60	0.89	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03810115	Parachlamydia	256.60	3.58	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03856084	Parachlamydia	916.00	2.24	Cell division protein FtsH
+PGF_03912513	Parachlamydia	157.20	0.45	DNA protection during starvation protein
+PGF_03938996	Parachlamydia	290.80	29.12	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03974059	Parachlamydia	463.00	0.00	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.8)
+PGF_03999196	Parachlamydia	850.00	2.24	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04016408	Parachlamydia	438.80	4.02	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04034430	Parachlamydia	59.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Parachlamydia	82.80	0.45	KH domain RNA binding protein YlqC
+PGF_04041316	Parachlamydia	1729.20	442.29	Excinuclease ABC subunit A
+PGF_04061157	Parachlamydia	150.20	0.45	hypothetical protein
+PGF_04080585	Parachlamydia	382.20	76.70	hypothetical protein
+PGF_04132127	Parachlamydia	331.20	7.16	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04150742	Parachlamydia	290.20	0.45	Zinc ABC transporter, permease protein ZnuB
+PGF_04156108	Parachlamydia	267.00	6.71	hypothetical protein
+PGF_04185727	Parachlamydia	249.00	2.24	hypothetical protein
+PGF_04201879	Parachlamydia	97.00	70.71	hypothetical protein
+PGF_04217548	Parachlamydia	603.40	14.31	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04256257	Parachlamydia	470.60	1.34	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04282733	Parachlamydia	276.00	2.24	hypothetical protein
+PGF_04332573	Parachlamydia	204.40	21.02	hypothetical protein
+PGF_04360357	Parachlamydia	1022.40	1.34	Protein translocase subunit SecA
+PGF_04380075	Parachlamydia	159.00	4.47	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04418719	Parachlamydia	392.20	90.07	hypothetical protein
+PGF_04431830	Parachlamydia	506.20	0.45	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04454639	Parachlamydia	462.00	4.47	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04483033	Parachlamydia	130.60	3.13	hypothetical protein
+PGF_04505269	Parachlamydia	269.00	2.24	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Parachlamydia	333.20	71.68	Rod shape-determining protein MreB
+PGF_04521913	Parachlamydia	457.40	5.37	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04533009	Parachlamydia	228.00	8.94	hypothetical protein
+PGF_04551176	Parachlamydia	360.00	102.86	hypothetical protein
+PGF_04571944	Parachlamydia	173.80	1.79	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Parachlamydia	260.60	0.89	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04632731	Parachlamydia	205.00	2.24	hypothetical protein
+PGF_04643067	Parachlamydia	579.00	243.95	hypothetical protein
+PGF_04653255	Parachlamydia	306.00	38.34	hypothetical protein
+PGF_04660832	Parachlamydia	172.60	1.34	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Parachlamydia	833.40	0.89	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04669054	Parachlamydia	206.80	1.79	hypothetical protein
+PGF_04682509	Parachlamydia	145.00	0.00	hypothetical protein
+PGF_04714925	Parachlamydia	106.00	19.52	hypothetical protein
+PGF_04722818	Parachlamydia	140.40	12.07	hypothetical protein
+PGF_04732889	Parachlamydia	265.40	1.34	hypothetical protein
+PGF_04749763	Parachlamydia	914.80	4.02	Translation initiation factor 2
+PGF_04786109	Parachlamydia	69.20	2.68	hypothetical protein
+PGF_04788810	Parachlamydia	202.00	8.94	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04793590	Parachlamydia	200.80	89.00	hypothetical protein
+PGF_04794193	Parachlamydia	172.80	30.64	hypothetical protein
+PGF_04802362	Parachlamydia	87.60	1.34	hypothetical protein
+PGF_04807486	Parachlamydia	357.00	11.05	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04813123	Parachlamydia	450.20	4.92	hypothetical protein
+PGF_04819759	Parachlamydia	989.20	352.85	hypothetical protein
+PGF_04822261	Parachlamydia	386.80	177.03	hypothetical protein
+PGF_04824169	Parachlamydia	172.40	2.19	hypothetical protein
+PGF_04827331	Parachlamydia	39.20	1.79	hypothetical protein
+PGF_04845029	Parachlamydia	143.80	0.45	LSU ribosomal protein L19p
+PGF_04846590	Parachlamydia	353.20	0.45	Magnesium and cobalt transport protein CorA
+PGF_04866870	Parachlamydia	357.40	5.37	hypothetical protein
+PGF_04940600	Parachlamydia	374.60	12.20	hypothetical protein
+PGF_04951772	Parachlamydia	400.00	0.00	hypothetical protein
+PGF_04962192	Parachlamydia	746.00	47.24	3'-to-5' exoribonuclease RNase R
+PGF_04966843	Parachlamydia	402.40	3.13	hypothetical protein
+PGF_04978890	Parachlamydia	106.00	4.47	LSU ribosomal protein L21p
+PGF_05022117	Parachlamydia	530.80	0.45	Bis-ABC ATPase YbiT
+PGF_05079020	Parachlamydia	326.00	2.24	MoxR-like ATPase in aerotolerance operon
+PGF_05111929	Parachlamydia	591.40	3.58	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05112184	Parachlamydia	164.20	4.02	hypothetical protein
+PGF_05135220	Parachlamydia	852.40	4.10	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Parachlamydia	316.20	0.45	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05185963	Parachlamydia	138.00	34.93	hypothetical protein
+PGF_05215368	Parachlamydia	187.40	7.60	hypothetical protein
+PGF_05232968	Parachlamydia	294.00	48.92	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)
+PGF_05280843	Parachlamydia	428.20	0.45	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Parachlamydia	238.80	16.30	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05378086	Parachlamydia	283.80	20.15	hypothetical protein
+PGF_05404040	Parachlamydia	43.80	1.79	hypothetical protein
+PGF_05421852	Parachlamydia	617.40	1.34	Chaperone protein HtpG
+PGF_05435672	Parachlamydia	353.20	0.45	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05439724	Parachlamydia	667.20	1.79	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05457839	Parachlamydia	252.40	0.89	hypothetical protein
+PGF_05463808	Parachlamydia	280.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05560886	Parachlamydia	638.20	80.05	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Parachlamydia	456.00	0.00	Protein translocase subunit SecY
+PGF_05622318	Parachlamydia	490.20	0.45	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Parachlamydia	228.00	2.24	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05702755	Parachlamydia	156.20	2.68	hypothetical protein
+PGF_05711238	Parachlamydia	112.00	0.00	hypothetical protein
+PGF_05712310	Parachlamydia	341.20	54.63	hypothetical protein
+PGF_05714136	Parachlamydia	118.20	0.45	FIG138056: a glutathione-dependent thiol reductase
+PGF_05769513	Parachlamydia	460.20	2.68	Tol-Pal system beta propeller repeat protein TolB
+PGF_05788512	Parachlamydia	250.60	0.89	FIG003003: hypothetical protein
+PGF_05810511	Parachlamydia	415.20	5.07	hypothetical protein
+PGF_05860282	Parachlamydia	299.80	12.97	hypothetical protein
+PGF_05913431	Parachlamydia	76.00	2.24	hypothetical protein
+PGF_05998259	Parachlamydia	489.40	173.56	Arylsulfatase (EC 3.1.6.1)
+PGF_06005188	Parachlamydia	611.80	0.45	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06041136	Parachlamydia	742.00	245.97	hypothetical protein
+PGF_06047286	Parachlamydia	230.60	5.81	hypothetical protein
+PGF_06051345	Parachlamydia	669.20	0.45	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06051594	Parachlamydia	367.00	150.48	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06122230	Parachlamydia	266.00	0.00	hypothetical protein
+PGF_06170558	Parachlamydia	180.60	12.07	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06174828	Parachlamydia	139.40	0.89	hypothetical protein
+PGF_06180597	Parachlamydia	146.80	0.45	LSU ribosomal protein L13p (L13Ae)
+PGF_06200257	Parachlamydia	186.60	0.89	hypothetical protein
+PGF_06230969	Parachlamydia	502.60	1.34	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06252793	Parachlamydia	76.80	11.63	hypothetical protein
+PGF_06285041	Parachlamydia	328.40	18.78	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06297806	Parachlamydia	890.40	16.55	DNA/RNA helicases, SNF2 family
+PGF_06315406	Parachlamydia	468.00	2.24	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06355267	Parachlamydia	93.20	0.45	hypothetical protein
+PGF_06379377	Parachlamydia	420.80	4.02	Replication-associated recombination protein RarA
+PGF_06423553	Parachlamydia	249.00	0.00	DNA polymerase III, epsilon chain
+PGF_06469881	Parachlamydia	333.20	0.45	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Parachlamydia	376.80	1.79	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06501669	Parachlamydia	307.80	57.75	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)
+PGF_06530721	Parachlamydia	233.40	1.34	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06540240	Parachlamydia	573.40	12.99	hypothetical protein
+PGF_06558131	Parachlamydia	225.80	2.68	hypothetical protein
+PGF_06586947	Parachlamydia	386.60	3.13	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06593668	Parachlamydia	312.40	3.13	hypothetical protein
+PGF_06606092	Parachlamydia	398.00	8.94	Cobalt/zinc/cadmium efflux RND transporter, membrane fusion protein, CzcB family
+PGF_06611437	Parachlamydia	228.80	1.79	hypothetical protein
+PGF_06623338	Parachlamydia	106.40	3.58	hypothetical protein
+PGF_06648993	Parachlamydia	82.80	2.68	Acyl carrier protein
+PGF_06649360	Parachlamydia	222.40	16.55	Segregation and condensation protein B
+PGF_06660718	Parachlamydia	316.20	2.68	Bifunctional protein: zinc-containing alcohol dehydrogenase; quinone oxidoreductase ( NADPH:quinone reductase) (EC 1.1.1.-); Similar to arginate lyase
+PGF_06701035	Parachlamydia	1165.60	0.89	hypothetical protein
+PGF_06717870	Parachlamydia	255.80	2.68	hypothetical protein
+PGF_06719588	Parachlamydia	471.60	0.89	hypothetical protein
+PGF_06750600	Parachlamydia	342.80	1.79	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06755829	Parachlamydia	358.60	12.44	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06780628	Parachlamydia	189.60	1.34	hypothetical protein
+PGF_06889566	Parachlamydia	344.40	0.89	hypothetical protein
+PGF_06917452	Parachlamydia	134.60	7.40	hypothetical protein
+PGF_07072582	Parachlamydia	547.80	4.02	RNA polymerase sigma factor RpoD
+PGF_07220192	Parachlamydia	344.60	5.37	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)
+PGF_07570450	Parachlamydia	428.00	4.47	Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)
+PGF_07706012	Parachlamydia	102.80	2.68	Nucleoid-associated protein YaaK
+PGF_08137286	Parachlamydia	131.20	6.50	hypothetical protein
+PGF_08152204	Parachlamydia	612.20	1.64	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_08183187	Parachlamydia	376.20	9.34	Cell division protein FtsW

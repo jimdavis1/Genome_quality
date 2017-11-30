@@ -1,0 +1,914 @@
+PGF_00000092	Phycicoccus	506.62	22.83	FIG00672241: Uncharacterized peptidase
+PGF_00000211	Phycicoccus	244.12	4.91	FIG00723832: hypothetical protein
+PGF_00000248	Phycicoccus	434.75	5.18	FIG00738105: hypothetical protein
+PGF_00000416	Phycicoccus	306.88	8.69	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000494	Phycicoccus	189.38	2.92	FIG00816212: Putative membrane protein
+PGF_00000568	Phycicoccus	119.12	0.35	FIG00820327: hypothetical protein
+PGF_00000641	Phycicoccus	331.25	6.58	FIG00823336: hypothetical protein
+PGF_00001331	Phycicoccus	328.62	276.13	Endonuclease NucS
+PGF_00001493	Phycicoccus	565.75	9.82	ABC transporter
+PGF_00001720	Phycicoccus	346.00	11.96	ABC transporter ATP-binding protein SCO2422
+PGF_00001849	Phycicoccus	169.25	4.56	FIG01122152: hypothetical protein
+PGF_00001863	Phycicoccus	274.00	16.60	FIG01122970: hypothetical protein
+PGF_00002584	Phycicoccus	672.00	9.02	FIG019045: long form Mg-chelase associated protein with vWA domain
+PGF_00002587	Phycicoccus	194.25	1.49	FIG019327: membrane domain
+PGF_00002592	Phycicoccus	237.75	12.51	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00002839	Phycicoccus	677.88	4.64	Efflux ABC transporter, permease/ATP-binding protein SCO2464
+PGF_00003409	Phycicoccus	724.62	157.35	FIG092679: Fe-S oxidoreductase
+PGF_00003506	Phycicoccus	232.50	30.19	FIG137478: Hypothetical protein
+PGF_00003516	Phycicoccus	281.62	7.31	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003708	Phycicoccus	251.12	3.60	FIG215594: Membrane spanning protein
+PGF_00004392	Phycicoccus	560.25	4.30	Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)
+PGF_00004481	Phycicoccus	507.00	16.33	Ferric iron ABC transporter, permease protein
+PGF_00006015	Phycicoccus	291.75	7.30	Flp pilus assembly protein TadB
+PGF_00006023	Phycicoccus	306.25	1.49	Type II/IV secretion system protein TadC, associated with Flp pilus assembly
+PGF_00006046	Phycicoccus	362.75	68.64	Flp pilus assembly protein, ATPase CpaF
+PGF_00006100	Phycicoccus	349.00	10.69	tRNA-modifying protein YgfZ
+PGF_00006278	Phycicoccus	441.50	1.41	Formiminoglutamic iminohydrolase (EC 3.5.3.13)
+PGF_00006320	Phycicoccus	291.50	3.85	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006372	Phycicoccus	277.25	0.71	Fructose ABC transporter, ATP-binding component FrcA
+PGF_00006394	Phycicoccus	381.38	112.58	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Phycicoccus	472.88	14.21	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006506	Phycicoccus	552.38	3.25	Fumarate/succinate/L-aspartate dehydrogenases
+PGF_00006935	Phycicoccus	556.25	5.50	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Phycicoccus	358.38	7.42	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Phycicoccus	485.50	1.41	GTP-binding protein EngA
+PGF_00007027	Phycicoccus	320.62	6.14	GTP-binding protein Era
+PGF_00007028	Phycicoccus	485.25	2.55	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Phycicoccus	743.88	330.98	GTP-binding protein TypA/BipA
+PGF_00007304	Phycicoccus	281.88	2.95	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Phycicoccus	330.88	4.42	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007887	Phycicoccus	189.50	14.70	Gluconokinase (EC 2.7.1.12)
+PGF_00007925	Phycicoccus	299.75	3.58	Glucosamine-6-phosphate deaminase [isomerizing], alternative (EC 3.5.99.6)
+PGF_00007988	Phycicoccus	552.88	7.72	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Phycicoccus	504.75	40.49	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Phycicoccus	374.38	1.06	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Phycicoccus	383.12	0.35	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Phycicoccus	265.62	77.50	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Phycicoccus	1343.50	489.97	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008164	Phycicoccus	449.25	3.92	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008334	Phycicoccus	435.75	0.46	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Phycicoccus	503.88	10.06	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008611	Phycicoccus	332.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Phycicoccus	866.88	286.20	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Phycicoccus	256.38	14.81	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Phycicoccus	190.50	1.41	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009966	Phycicoccus	465.25	5.97	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Phycicoccus	243.12	10.96	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Phycicoccus	764.50	12.33	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Phycicoccus	190.88	5.89	Guanylate kinase (EC 2.7.4.8)
+PGF_00010430	Phycicoccus	253.88	2.17	HAD-superfamily hydrolase, subfamily IA, variant 1
+PGF_00010460	Phycicoccus	230.25	4.06	HAD-superfamily hydrolase, subfamily IA, variant 3
+PGF_00010467	Phycicoccus	265.88	5.46	HAD-superfamily hydrolase, subfamily IIB
+PGF_00011081	Phycicoccus	687.50	5.35	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011979	Phycicoccus	446.88	1.89	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Phycicoccus	369.00	3.51	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Phycicoccus	449.38	6.09	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Phycicoccus	315.12	5.96	Homoserine kinase (EC 2.7.1.39)
+PGF_00012430	Phycicoccus	151.88	2.23	HspR, transcriptional repressor of DnaK operon
+PGF_00013224	Phycicoccus	178.38	0.52	ADP-ribose pyrophosphatase
+PGF_00013272	Phycicoccus	161.12	5.08	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Phycicoccus	234.25	1.75	UPF0001 protein YggS
+PGF_00013492	Phycicoccus	179.25	2.31	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Phycicoccus	539.38	8.02	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Phycicoccus	207.00	4.75	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013804	Phycicoccus	396.88	9.85	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00014051	Phycicoccus	263.38	1.06	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Phycicoccus	341.62	13.34	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014306	Phycicoccus	245.25	161.32	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014314	Phycicoccus	373.00	0.00	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00014381	Phycicoccus	308.88	98.12	Inositol-1-phosphate synthase (EC 5.5.1.4)
+PGF_00014458	Phycicoccus	257.00	6.05	Integral membrane protein
+PGF_00014855	Phycicoccus	281.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00015039	Phycicoccus	273.00	3.46	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Phycicoccus	71.50	3.07	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Phycicoccus	270.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Phycicoccus	299.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015467	Phycicoccus	230.50	3.85	Iron-dependent repressor IdeR/DtxR
+PGF_00015510	Phycicoccus	252.25	0.71	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Phycicoccus	478.12	14.90	Iron-sulfur cluster assembly protein SufB
+PGF_00015543	Phycicoccus	255.88	22.67	Iron-sulfur cluster regulator SufR
+PGF_00015686	Phycicoccus	462.62	89.48	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015703	Phycicoccus	737.75	0.71	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Phycicoccus	1115.00	19.09	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Phycicoccus	342.12	0.35	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015931	Phycicoccus	412.12	2.23	Kynureninase (EC 3.7.1.3)
+PGF_00016063	Phycicoccus	528.50	3.63	L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3) @ D-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.4)
+PGF_00016064	Phycicoccus	275.38	9.09	L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3) @ D-lysine 5,6-aminomutase beta subunit (EC 5.4.3.4)
+PGF_00016074	Phycicoccus	415.38	1.06	L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC (EC 6.3.1.13)
+PGF_00016122	Phycicoccus	418.00	206.61	L-glyceraldehyde 3-phosphate reductase
+PGF_00016124	Phycicoccus	393.62	12.24	L-gulono-1,4-lactone oxidase (EC 1.1.3.8)
+PGF_00016231	Phycicoccus	398.12	110.04	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016261	Phycicoccus	346.62	2.00	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016328	Phycicoccus	212.38	5.76	LSU ribosomal protein L10p (P0)
+PGF_00016342	Phycicoccus	163.50	2.45	LSU ribosomal protein L15p (L27Ae)
+PGF_00016346	Phycicoccus	238.75	9.41	LSU ribosomal protein L17p
+PGF_00016353	Phycicoccus	123.75	0.71	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Phycicoccus	241.38	6.72	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Phycicoccus	126.38	1.19	LSU ribosomal protein L20p
+PGF_00016361	Phycicoccus	99.62	4.78	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016385	Phycicoccus	88.88	0.35	LSU ribosomal protein L27p
+PGF_00016387	Phycicoccus	64.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016395	Phycicoccus	59.38	0.52	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Phycicoccus	64.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Phycicoccus	45.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Phycicoccus	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016444	Phycicoccus	176.00	5.66	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Phycicoccus	128.50	0.76	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Phycicoccus	148.00	0.00	LSU ribosomal protein L9p
+PGF_00016495	Phycicoccus	256.25	0.71	Lactam utilization protein LamB
+PGF_00016613	Phycicoccus	328.75	7.27	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_00016787	Phycicoccus	316.75	4.37	Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)
+PGF_00016824	Phycicoccus	726.25	8.55	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+PGF_00016850	Phycicoccus	394.00	66.72	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)
+PGF_00016919	Phycicoccus	228.50	2.83	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017139	Phycicoccus	510.38	0.74	ATP-dependent DNA ligase (EC 6.5.1.1)
+PGF_00017333	Phycicoccus	605.12	97.72	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16)
+PGF_00017479	Phycicoccus	343.38	3.29	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017545	Phycicoccus	598.12	1.64	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD15
+PGF_00018208	Phycicoccus	344.25	3.85	MCE-family protein MceB
+PGF_00018212	Phycicoccus	325.62	6.30	MCE-family protein MceC
+PGF_00018217	Phycicoccus	423.62	2.62	MCE-family protein MceF
+PGF_00018577	Phycicoccus	465.62	3.62	Magnesium chelatase, subunit ChlI (EC 6.6.1.1)
+PGF_00018956	Phycicoccus	329.75	0.46	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019051	Phycicoccus	627.12	10.64	Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141)
+PGF_00019279	Phycicoccus	364.25	6.78	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)
+PGF_00020173	Phycicoccus	406.25	261.51	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Phycicoccus	155.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020663	Phycicoccus	354.88	9.85	ATP/GTP-binding protein
+PGF_00020793	Phycicoccus	311.38	285.14	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020981	Phycicoccus	536.88	10.74	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Phycicoccus	289.00	3.34	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021018	Phycicoccus	189.12	114.43	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00022453	Phycicoccus	134.38	2.00	Molybdate-binding domain of ModE
+PGF_00022507	Phycicoccus	167.12	7.79	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022722	Phycicoccus	385.25	9.21	Mrp protein homolog
+PGF_00023326	Phycicoccus	205.25	0.71	MarC family integral membrane protein
+PGF_00023532	Phycicoccus	312.25	1.98	Mycothiol S-conjugate amidase Mca
+PGF_00023591	Phycicoccus	351.25	4.83	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Phycicoccus	353.38	4.87	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023794	Phycicoccus	389.75	33.72	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00023946	Phycicoccus	153.38	3.46	N-acetyltransferase ElaA
+PGF_00024204	Phycicoccus	428.12	75.24	N-formylglutamate deformylase (EC 3.5.1.68) [alternative form]
+PGF_00024232	Phycicoccus	379.38	7.39	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024273	Phycicoccus	172.88	8.89	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Phycicoccus	404.75	15.70	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Phycicoccus	655.50	83.59	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Phycicoccus	421.25	120.58	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024478	Phycicoccus	334.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Phycicoccus	327.88	117.26	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024540	Phycicoccus	473.12	0.99	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024615	Phycicoccus	334.88	52.47	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024692	Phycicoccus	300.88	38.11	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024712	Phycicoccus	219.00	15.66	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_00025090	Phycicoccus	626.38	19.68	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025202	Phycicoccus	549.00	24.34	Na(+)/H(+) antiporter
+PGF_00025215	Phycicoccus	171.12	1.25	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025289	Phycicoccus	448.00	4.00	Na+/H+ antiporter NhaA type
+PGF_00025344	Phycicoccus	557.00	3.30	Na+/solute symporter
+PGF_00025379	Phycicoccus	317.75	7.07	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025554	Phycicoccus	131.88	0.35	Nickel-dependent superoxide dismutase (EC 1.15.1.1)
+PGF_00025562	Phycicoccus	195.25	2.55	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Phycicoccus	434.62	3.02	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026193	Phycicoccus	302.62	6.72	Non functional Dihydropteroate synthase 2
+PGF_00026362	Phycicoccus	232.50	77.47	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Phycicoccus	328.50	11.26	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026501	Phycicoccus	1626.00	603.67	acyl-CoA carboxylase subunits
+PGF_00026615	Phycicoccus	326.38	11.02	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026797	Phycicoccus	387.88	131.90	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00027216	Phycicoccus	405.25	20.23	OpcA, an allosteric effector of glucose-6-phosphate dehydrogenase, actinobacterial
+PGF_00027643	Phycicoccus	748.88	271.54	Osmosensitive K+ channel histidine kinase KdpD
+PGF_00029114	Phycicoccus	369.12	5.79	PAS/PAC sensor signal transduction histidine kinase
+PGF_00029917	Phycicoccus	318.62	7.23	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Phycicoccus	323.38	1.51	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030319	Phycicoccus	243.88	2.75	Peptidase E (EC 3.4.11.2)
+PGF_00030342	Phycicoccus	450.75	12.71	Peptidase M20:Peptidase M20
+PGF_00033095	Phycicoccus	850.75	3.41	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Phycicoccus	351.25	9.90	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Phycicoccus	313.00	10.95	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033327	Phycicoccus	397.38	3.16	Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
+PGF_00033363	Phycicoccus	251.62	5.73	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033384	Phycicoccus	569.25	16.73	Phosphodiesterase/alkaline phosphatase D
+PGF_00033411	Phycicoccus	278.88	0.64	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033479	Phycicoccus	548.62	3.02	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Phycicoccus	405.62	6.25	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Phycicoccus	244.50	1.07	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033877	Phycicoccus	167.00	9.20	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033924	Phycicoccus	87.00	0.00	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Phycicoccus	522.38	274.62	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Phycicoccus	301.12	3.44	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033950	Phycicoccus	245.12	1.81	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Phycicoccus	372.50	3.38	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033968	Phycicoccus	212.38	12.87	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034218	Phycicoccus	531.12	3.09	Phytoene dehydrogenase and related proteins
+PGF_00034349	Phycicoccus	99.12	2.23	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative
+PGF_00034776	Phycicoccus	802.88	4.85	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Phycicoccus	185.38	5.93	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Phycicoccus	331.75	1.49	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035340	Phycicoccus	336.00	0.00	Potassium channel beta chain
+PGF_00035370	Phycicoccus	313.75	2.05	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035405	Phycicoccus	643.50	267.29	Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035406	Phycicoccus	676.38	3.58	Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035407	Phycicoccus	190.88	3.40	Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035446	Phycicoccus	461.75	3.45	PLP-dependent aminotransferase NCgl2355 (class III)
+PGF_00035721	Phycicoccus	470.62	4.60	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Phycicoccus	432.50	1.41	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035882	Phycicoccus	446.25	129.26	Predicted glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21), Actinobacterial type
+PGF_00036456	Phycicoccus	158.25	7.67	Predicted transcriptional regulator of sulfate adenylyltransferase, Rrf2 family
+PGF_00036729	Phycicoccus	1585.38	8.09	Probable ATP-dependent helicase lhr (EC 3.6.1.-)
+PGF_00037297	Phycicoccus	441.38	3.25	Probable reactivating factor for an aminomutase or amino-lyase
+PGF_00037510	Phycicoccus	67.50	1.41	Prokaryotic ubiquitin-like protein Pup
+PGF_00037521	Phycicoccus	316.00	0.00	Proline dehydrogenase (EC 1.5.5.2)
+PGF_00037620	Phycicoccus	322.75	0.46	Alcohol dehydrogenase
+PGF_00037835	Phycicoccus	630.00	234.89	Protease II (EC 3.4.21.83)
+PGF_00037865	Phycicoccus	281.88	9.88	Proteasome subunit alpha (EC 3.4.25.1), bacterial
+PGF_00037867	Phycicoccus	274.50	1.07	Proteasome subunit beta (EC 3.4.25.1), bacterial
+PGF_00038579	Phycicoccus	104.88	0.35	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038674	Phycicoccus	390.00	6.50	Protein translocase subunit SecF
+PGF_00038796	Phycicoccus	80.88	0.35	Protein translocase membrane subunit SecG
+PGF_00038897	Phycicoccus	309.75	3.01	Aldo/keto reductase, SCO1670 family
+PGF_00038904	Phycicoccus	308.25	1.04	Pseudouridine 5'-phosphate glycosidase (EC 4.2.1.70)
+PGF_00038969	Phycicoccus	507.25	4.30	Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'
+PGF_00038970	Phycicoccus	418.88	102.18	Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'
+PGF_00038986	Phycicoccus	282.38	4.50	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039144	Phycicoccus	513.12	6.66	Putative ATP-dependent RNA helicase
+PGF_00039310	Phycicoccus	190.50	5.83	Putative DNA-binding protein
+PGF_00040524	Phycicoccus	396.25	83.29	Putative cytoplasmic protein clustered with trehalase
+PGF_00040578	Phycicoccus	284.25	7.32	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040882	Phycicoccus	683.00	22.05	Putative glucanase glgE (EC 3.2.1.-)
+PGF_00041217	Phycicoccus	875.62	24.01	Putative helicase
+PGF_00041488	Phycicoccus	366.50	8.62	Putative hydrolase SCO1113
+PGF_00041788	Phycicoccus	163.25	10.89	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042294	Phycicoccus	503.00	5.88	Putative methyltransferase SCO3545
+PGF_00042407	Phycicoccus	430.75	69.57	Putative nucleoside-diphosphate-sugar epimerase
+PGF_00045065	Phycicoccus	532.88	68.78	Putative transmembrane transport protein
+PGF_00045726	Phycicoccus	410.50	4.47	Putrescine ABC transporter putrescine-binding protein PotF (TC 3.A.1.11.2)
+PGF_00045738	Phycicoccus	308.62	9.10	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045787	Phycicoccus	204.88	3.09	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Phycicoccus	307.38	6.78	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045833	Phycicoccus	225.88	0.35	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045926	Phycicoccus	430.50	2.98	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045936	Phycicoccus	399.00	0.00	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00045941	Phycicoccus	828.25	30.24	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045963	Phycicoccus	1126.00	0.53	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045991	Phycicoccus	484.38	2.67	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046101	Phycicoccus	292.88	2.30	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Phycicoccus	368.62	99.77	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046188	Phycicoccus	280.25	2.49	RIO1/ZK632.3/MJ0444 family protein
+PGF_00046209	Phycicoccus	277.38	7.50	RNA methylase DR1017
+PGF_00046430	Phycicoccus	192.00	10.73	RNA polymerase sigma-70 factor
+PGF_00047078	Phycicoccus	353.50	8.02	RecA protein
+PGF_00047155	Phycicoccus	239.38	12.14	Redox-sensing transcriptional repressor Rex
+PGF_00047533	Phycicoccus	398.88	2.59	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00048480	Phycicoccus	211.75	8.14	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048482	Phycicoccus	238.50	6.78	Riboflavin transporter PnuX
+PGF_00048556	Phycicoccus	260.50	19.00	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048630	Phycicoccus	811.88	10.97	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048633	Phycicoccus	347.38	3.58	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Phycicoccus	168.00	2.98	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048829	Phycicoccus	305.38	40.27	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048917	Phycicoccus	214.00	16.08	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Phycicoccus	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Phycicoccus	311.50	101.65	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Phycicoccus	168.50	3.74	Ribosome-binding factor A
+PGF_00048985	Phycicoccus	218.38	1.06	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Phycicoccus	406.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049398	Phycicoccus	246.88	79.76	Alternative RNA polymerase sigma factor SigE
+PGF_00049827	Phycicoccus	289.38	3.25	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049837	Phycicoccus	134.12	0.35	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Phycicoccus	124.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Phycicoccus	127.38	6.72	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Phycicoccus	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049858	Phycicoccus	78.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049893	Phycicoccus	202.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Phycicoccus	216.88	1.96	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Phycicoccus	167.00	203.65	SSU ribosomal protein S6p
+PGF_00049904	Phycicoccus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Phycicoccus	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Phycicoccus	167.50	1.69	SSU ribosomal protein S9p (S16e)
+PGF_00050010	Phycicoccus	422.62	2.20	Saccharopine dehydrogenase and related proteins
+PGF_00050290	Phycicoccus	322.25	18.20	Segregation and condensation protein A
+PGF_00050995	Phycicoccus	517.50	9.38	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051276	Phycicoccus	769.88	6.77	Serine protease 3 precursor
+PGF_00051278	Phycicoccus	561.12	53.12	Serine protease HtrA (DegP protein)
+PGF_00051525	Phycicoccus	420.25	1.16	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Phycicoccus	543.75	16.66	Signal recognition particle protein Ffh
+PGF_00052705	Phycicoccus	144.00	0.93	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Phycicoccus	300.12	9.60	Site-specific tyrosine recombinase XerD
+PGF_00053513	Phycicoccus	335.50	2.83	Solanesyl diphosphate synthase (EC 2.5.1.11)
+PGF_00053770	Phycicoccus	373.25	7.27	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053952	Phycicoccus	90.00	8.49	Sporulation regulatory protein WhiB
+PGF_00053953	Phycicoccus	97.38	1.19	Sporulation regulatory protein WhiD
+PGF_00054323	Phycicoccus	212.62	6.82	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054363	Phycicoccus	287.00	15.62	Substrate-specific component CbrT of predicted cobalamin ECF transporter
+PGF_00054528	Phycicoccus	394.62	2.39	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055665	Phycicoccus	242.50	5.63	TPR-repeat-containing protein
+PGF_00055986	Phycicoccus	276.50	1.85	Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)
+PGF_00056662	Phycicoccus	370.88	34.83	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Phycicoccus	523.25	8.24	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Phycicoccus	201.00	65.46	Thymidine kinase (EC 2.7.1.21)
+PGF_00056897	Phycicoccus	264.50	2.78	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057270	Phycicoccus	816.00	4.11	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057381	Phycicoccus	257.00	12.05	Trans,polycis-decaprenyl diphosphate synthase (EC 2.5.1.86)
+PGF_00057385	Phycicoccus	254.75	39.92	Trans-aconitate 2-methyltransferase (EC 2.1.1.144)
+PGF_00057399	Phycicoccus	380.88	6.94	Transaldolase (EC 2.2.1.2)
+PGF_00057483	Phycicoccus	697.38	40.76	Transcription termination factor Rho
+PGF_00057485	Phycicoccus	374.62	11.44	Transcription termination protein NusA
+PGF_00057488	Phycicoccus	137.00	0.00	Transcription termination protein NusB
+PGF_00058298	Phycicoccus	197.75	4.50	Transcriptional regulator SCO1200, Xre-family with cupin domain
+PGF_00059040	Phycicoccus	77.88	0.35	Transcriptional regulator, AsnC family
+PGF_00059042	Phycicoccus	93.88	0.35	Transcriptional regulator, AsnC family
+PGF_00059238	Phycicoccus	149.88	11.00	Transcriptional regulator, Fur family
+PGF_00059672	Phycicoccus	253.88	1.36	(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)
+PGF_00059852	Phycicoccus	91.50	9.90	Transcriptional regulator, WhiB family
+PGF_00060398	Phycicoccus	742.38	22.44	Transketolase (EC 2.2.1.1)
+PGF_00060409	Phycicoccus	704.62	0.52	Translation elongation factor G
+PGF_00060414	Phycicoccus	614.75	3.73	Translation elongation factor LepA
+PGF_00060421	Phycicoccus	189.75	10.61	Translation elongation factor P
+PGF_00060427	Phycicoccus	276.00	0.00	Translation elongation factor Ts
+PGF_00060428	Phycicoccus	398.00	0.00	Translation elongation factor Tu
+PGF_00060431	Phycicoccus	74.12	1.55	Translation initiation factor 1
+PGF_00060478	Phycicoccus	235.38	8.19	Translation initiation factor 3
+PGF_00060519	Phycicoccus	253.12	0.35	Transmembrane component NikQ of energizing module of nickel ECF transporter
+PGF_00060585	Phycicoccus	243.62	1.06	Transmembrane protein MT2276, clustered with lipoate gene
+PGF_00062002	Phycicoccus	292.62	9.74	Tryptophan 2,3-dioxygenase (EC 1.13.11.11)
+PGF_00062023	Phycicoccus	275.00	9.15	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Phycicoccus	422.88	7.55	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063437	Phycicoccus	314.00	3.66	Type II/IV secretion system protein TadC, associated with Flp pilus assembly
+PGF_00063916	Phycicoccus	421.25	2.38	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Phycicoccus	357.50	0.76	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Phycicoccus	373.62	6.57	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Phycicoccus	486.25	19.08	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064034	Phycicoccus	517.50	19.19	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7)
+PGF_00064272	Phycicoccus	250.75	3.28	UPF0246 protein YaaA
+PGF_00064359	Phycicoccus	167.38	2.33	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064454	Phycicoccus	261.75	3.37	Ubiquinol-cytochrome C reductase, diheme cytochrome cc subunit
+PGF_00064786	Phycicoccus	356.00	10.92	Arogenate dehydrogenase (EC 1.3.1.43)
+PGF_00065286	Phycicoccus	198.12	5.72	Uncharacterized protein Q1 colocalized with Q
+PGF_00065292	Phycicoccus	177.88	6.53	Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene
+PGF_00065326	Phycicoccus	270.88	6.22	Uncharacterized protein SCO4203
+PGF_00065911	Phycicoccus	256.62	5.95	Undecaprenyl-phosphate mannosyltransferase (EC 2.4.1.54)
+PGF_00066123	Phycicoccus	211.88	0.35	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Phycicoccus	188.12	18.71	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Phycicoccus	228.00	5.55	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066270	Phycicoccus	346.38	2.92	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066286	Phycicoccus	546.25	6.63	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Phycicoccus	779.00	273.98	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066839	Phycicoccus	82.00	0.00	WhiB-like transcription regulator
+PGF_00066867	Phycicoccus	500.88	4.29	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Phycicoccus	342.00	27.57	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066964	Phycicoccus	502.00	3.42	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067383	Phycicoccus	526.62	1.41	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067401	Phycicoccus	306.38	2.00	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067466	Phycicoccus	604.62	3.29	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Phycicoccus	511.50	2.45	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068776	Phycicoccus	370.00	14.55	Arsenic efflux pump protein
+PGF_00069498	Phycicoccus	252.50	15.31	carbon monoxide dehydrogenase G protein
+PGF_00071194	Phycicoccus	446.50	23.04	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071558	Phycicoccus	580.12	1.55	Bacterial proteasome-activating AAA-ATPase (PAN)
+PGF_00076923	Phycicoccus	148.12	0.35	(3R)-hydroxyacyl-ACP dehydratase subunit HadA
+PGF_00124053	Phycicoccus	162.25	4.43	hypothetical protein
+PGF_00209388	Phycicoccus	351.50	4.81	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_00217849	Phycicoccus	253.50	16.57	Uncharacterized UPF0721 integral membrane protein
+PGF_00222226	Phycicoccus	138.62	2.13	hypothetical protein
+PGF_00261173	Phycicoccus	360.88	0.35	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00269108	Phycicoccus	52.88	1.36	hypothetical protein
+PGF_00294865	Phycicoccus	535.75	182.39	Two component system sensor histidine kinase MtrB
+PGF_00305932	Phycicoccus	101.25	10.02	hypothetical protein
+PGF_00321553	Phycicoccus	294.00	4.57	ABC transporter, substrate-binding protein (cluster 8, B12/iron complex)
+PGF_00334873	Phycicoccus	72.62	1.06	hypothetical protein
+PGF_00336478	Phycicoccus	209.12	10.72	Two-component transcriptional response regulator PdtaR, LuxR family
+PGF_00350921	Phycicoccus	378.25	12.12	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00400287	Phycicoccus	102.62	6.72	integration host factor
+PGF_00401588	Phycicoccus	404.88	1.55	Major facilitator family transporter YfmO
+PGF_00403785	Phycicoccus	180.75	11.90	2-methylfumaryl-CoA hydratase (EC 4.2.1.148)
+PGF_00404638	Phycicoccus	532.88	9.09	probable sulfite oxidase
+PGF_00404809	Phycicoccus	438.38	3.50	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00407244	Phycicoccus	723.38	43.01	putative helicase regulator
+PGF_00407331	Phycicoccus	323.50	170.72	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_00407372	Phycicoccus	558.25	72.70	Integral membrane protein
+PGF_00407411	Phycicoccus	495.88	21.82	Integral membrane protein
+PGF_00408076	Phycicoccus	205.12	19.53	putative lipoprotein
+PGF_00410001	Phycicoccus	364.00	2.20	ABC transporter, substrate-binding protein (cluster 2, ribose/xylose/arabinose/galactose)
+PGF_00410264	Phycicoccus	473.88	42.74	Putative protease
+PGF_00410279	Phycicoccus	570.75	200.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00410414	Phycicoccus	384.88	99.45	putative secreted hydrolase
+PGF_00410417	Phycicoccus	332.38	11.77	putative secreted lipase
+PGF_00410588	Phycicoccus	370.00	13.83	putative secreted protein
+PGF_00412178	Phycicoccus	323.88	0.35	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413192	Phycicoccus	346.12	10.33	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413208	Phycicoccus	413.88	97.06	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Phycicoccus	296.75	10.17	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Phycicoccus	304.62	1.77	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Phycicoccus	157.00	6.57	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Phycicoccus	160.12	1.89	tmRNA-binding protein SmpB
+PGF_00414366	Phycicoccus	582.12	14.37	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414372	Phycicoccus	405.25	10.18	type II secretion system protein E
+PGF_00414926	Phycicoccus	499.00	5.18	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415308	Phycicoccus	270.88	15.11	23S rRNA (cytidine(1920)-2'-O)-methyltransferase (EC 2.1.1.226) @ 16S rRNA (cytidine(1409)-2'-O)-methyltransferase (EC 2.1.1.227)
+PGF_00415631	Phycicoccus	87.50	17.60	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00415660	Phycicoccus	443.62	16.05	COG2907: Amine oxidase, flavin-containing
+PGF_00416115	Phycicoccus	313.12	10.43	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Phycicoccus	568.88	1.25	CTP synthase (EC 6.3.4.2)
+PGF_00416408	Phycicoccus	327.75	12.76	Carbamate kinase (EC 2.7.2.2)
+PGF_00416410	Phycicoccus	1108.75	4.95	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416525	Phycicoccus	181.88	28.57	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416576	Phycicoccus	215.50	7.45	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Phycicoccus	410.75	5.09	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416702	Phycicoccus	754.38	15.12	Catalase-peroxidase KatG (EC 1.11.1.21)
+PGF_00416795	Phycicoccus	425.75	196.48	3,5-diaminohexanoate dehydrogenase (EC 1.4.1.11)
+PGF_00417225	Phycicoccus	134.88	2.42	3-aminobutyryl-CoA ammonia-lyase (EC 4.3.1.14)
+PGF_00417577	Phycicoccus	151.38	2.56	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Phycicoccus	361.75	5.12	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417721	Phycicoccus	572.50	4.60	Cholesterol oxidase (EC 1.1.3.6) @ Steroid Delta(5)->Delta(4)-isomerase (EC 5.3.3.1)
+PGF_00417816	Phycicoccus	102.50	10.36	Chorismate mutase I (EC 5.4.99.5)
+PGF_00417840	Phycicoccus	407.25	0.71	Chorismate synthase (EC 4.2.3.5)
+PGF_00418031	Phycicoccus	416.50	2.83	Chromosome segregation ATPases
+PGF_00418448	Phycicoccus	291.38	4.87	Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases
+PGF_00419399	Phycicoccus	255.88	0.35	Conserved hypothetical integral membrane protein YrbEa
+PGF_00419400	Phycicoccus	274.25	2.12	Conserved hypothetical integral membrane protein YrbEb
+PGF_00419420	Phycicoccus	486.25	8.78	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419621	Phycicoccus	235.50	2.98	Coproheme decarboxylase HemQ (no EC)
+PGF_00419684	Phycicoccus	404.75	0.71	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
+PGF_00419702	Phycicoccus	191.50	12.33	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419707	Phycicoccus	445.62	0.52	Crotonyl-CoA carboxylase/reductase, ethylmalonyl-CoA producing
+PGF_00419913	Phycicoccus	170.75	9.53	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Phycicoccus	294.62	3.93	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420019	Phycicoccus	371.88	71.07	Cystathionine gamma-lyase (EC 4.4.1.1)
+PGF_00420075	Phycicoccus	308.12	0.35	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Phycicoccus	233.25	1.39	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420406	Phycicoccus	133.50	1.41	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420572	Phycicoccus	480.25	7.80	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420661	Phycicoccus	248.88	9.23	3-oxoacyl-[acyl-carrier protein] reductase
+PGF_00420798	Phycicoccus	375.25	5.99	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420975	Phycicoccus	438.88	4.91	D-inositol-3-phosphate glycosyltransferase (EC 2.4.1.250)
+PGF_00420994	Phycicoccus	824.75	45.54	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421071	Phycicoccus	136.12	13.79	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421347	Phycicoccus	358.25	0.71	DNA integrity scanning protein DisA
+PGF_00421454	Phycicoccus	550.75	99.41	DNA or RNA helicases of superfamily II
+PGF_00421498	Phycicoccus	377.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421651	Phycicoccus	372.75	9.91	DNA polymerase-like protein MT3142
+PGF_00421733	Phycicoccus	405.50	18.40	DNA recombination and repair protein RecF
+PGF_00421792	Phycicoccus	463.38	4.78	DNA repair protein RadA
+PGF_00421796	Phycicoccus	574.00	7.03	DNA repair protein RecN
+PGF_00421866	Phycicoccus	334.75	9.72	DNA topoisomerase IB (poxvirus type) (EC 5.99.1.2)
+PGF_00422271	Phycicoccus	344.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422463	Phycicoccus	171.38	27.14	DUF1794
+PGF_00422545	Phycicoccus	291.88	1.81	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422888	Phycicoccus	541.62	1.06	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422922	Phycicoccus	191.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)
+PGF_00422959	Phycicoccus	203.88	88.65	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423039	Phycicoccus	345.88	124.55	Diacylglycerol kinase-related protein
+PGF_00423089	Phycicoccus	347.75	12.22	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Phycicoccus	287.75	1.75	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Phycicoccus	466.38	6.86	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423378	Phycicoccus	431.00	2.98	Dihydroorotase (EC 3.5.2.3)
+PGF_00423472	Phycicoccus	684.25	213.17	DinG family ATP-dependent helicase YoaA
+PGF_00424425	Phycicoccus	407.25	5.75	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+PGF_00424569	Phycicoccus	269.88	50.56	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424619	Phycicoccus	341.00	6.76	4-nitrophenylphosphatase (EC 3.1.3.41)
+PGF_00424921	Phycicoccus	623.25	219.60	Ethylmalonyl-CoA mutase, methylsuccinyl-CoA-forming
+PGF_00424971	Phycicoccus	660.75	13.44	Excinuclease ABC subunit C
+PGF_00425024	Phycicoccus	419.25	4.27	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Phycicoccus	1035.50	19.08	Exonuclease SbcC
+PGF_00425092	Phycicoccus	394.00	3.42	Exonuclease SbcD
+PGF_00425572	Phycicoccus	436.00	3.12	FAD-dependent oxidoreductase
+PGF_00425601	Phycicoccus	463.88	7.32	FAD/FMN-containing dehydrogenases
+PGF_00425665	Phycicoccus	241.75	1.39	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Phycicoccus	302.00	6.55	RNase adapter protein RapZ
+PGF_00425684	Phycicoccus	253.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425685	Phycicoccus	333.62	3.96	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425806	Phycicoccus	312.00	2.45	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Phycicoccus	419.50	6.12	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Phycicoccus	394.75	2.38	FIG004453: protein YceG like
+PGF_00426044	Phycicoccus	339.00	111.56	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426236	Phycicoccus	381.50	2.78	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426285	Phycicoccus	183.25	11.20	FIG004853: possible toxin to DivIC
+PGF_00426310	Phycicoccus	263.12	3.00	FIG005069: Hypothetical protein
+PGF_00426474	Phycicoccus	304.50	3.66	5-deoxy-glucuronate isomerase (EC 5.3.1.-)
+PGF_00426560	Phycicoccus	316.00	41.69	5-keto-2-deoxy-D-gluconate-6 phosphate aldolase [form 2] (EC 4.1.2.29)
+PGF_00426616	Phycicoccus	333.38	3.85	FIG005453: Putative DeoR-family transcriptional regulator
+PGF_00426726	Phycicoccus	840.12	308.03	FIG005666: putative helicase
+PGF_00426740	Phycicoccus	394.00	1.60	FIG005773: conserved membrane protein ML1361
+PGF_00426932	Phycicoccus	160.00	4.07	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Phycicoccus	317.12	5.77	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00482828	Phycicoccus	450.00	1.41	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00497557	Phycicoccus	531.62	11.40	Uncharacterized protein YjgR
+PGF_00546752	Phycicoccus	174.25	0.71	Phosphohistidine phosphatase SixA
+PGF_00565750	Phycicoccus	224.50	69.30	ATPase component NikO of energizing module of nickel ECF transporter
+PGF_00577920	Phycicoccus	177.75	8.46	Tripartite tricarboxylate transporter TctB family
+PGF_00581547	Phycicoccus	292.50	12.13	DegV family protein
+PGF_00596539	Phycicoccus	537.75	13.50	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00618776	Phycicoccus	409.12	7.02	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Phycicoccus	401.88	11.27	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Phycicoccus	567.75	12.50	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00644438	Phycicoccus	211.75	6.90	Aminomethyltransferase
+PGF_00664069	Phycicoccus	437.50	1.85	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Phycicoccus	124.25	0.71	Ribosomal silencing factor RsfA
+PGF_00680191	Phycicoccus	237.25	4.74	Methyltransferase type 11
+PGF_00681634	Phycicoccus	314.38	2.50	SAM-dependent methyltransferase, MidA
+PGF_00684033	Phycicoccus	144.62	7.67	Integral membrane protein
+PGF_00692117	Phycicoccus	403.75	17.24	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_00695496	Phycicoccus	268.50	7.54	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00705001	Phycicoccus	718.62	20.70	Enoyl-CoA hydratase (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_00709443	Phycicoccus	123.62	24.02	Twin-arginine translocation protein TatB
+PGF_00721835	Phycicoccus	338.62	0.74	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00731091	Phycicoccus	198.38	2.72	Putative RNA polymerase sigma factor
+PGF_00734482	Phycicoccus	935.38	7.67	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735685	Phycicoccus	998.62	28.54	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_00750135	Phycicoccus	206.62	9.20	hypothetical protein
+PGF_00754619	Phycicoccus	482.12	0.35	3'-to-5' exoribonuclease RNase R
+PGF_00755860	Phycicoccus	399.38	0.92	Two-component system sensor histidine kinase
+PGF_00785029	Phycicoccus	492.50	13.33	Uracil permease
+PGF_00821644	Phycicoccus	203.88	0.35	Phosphatidylinositol phosphate synthase @ Archaetidylinositol phosphate synthase (EC 2.7.8.39)
+PGF_00827555	Phycicoccus	780.88	17.68	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00842719	Phycicoccus	197.75	13.40	Putative transmembrane protein
+PGF_00848855	Phycicoccus	127.62	1.06	FKBP-type peptidyl-prolyl cis-trans isomerases 1
+PGF_00853393	Phycicoccus	296.62	0.52	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00854402	Phycicoccus	209.25	2.19	Alkylated DNA repair protein AlkB
+PGF_00856141	Phycicoccus	432.38	2.88	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00867956	Phycicoccus	480.88	8.29	Putative oxidoreductase
+PGF_00887090	Phycicoccus	364.12	4.52	Malyl-CoA lyase (EC 4.1.3.24)
+PGF_00907900	Phycicoccus	252.00	86.08	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_00912265	Phycicoccus	407.75	8.58	tRNA-dihydrouridine synthase DusB
+PGF_00924363	Phycicoccus	225.75	13.31	Substrate-specific component YkoE of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_00925844	Phycicoccus	338.12	7.53	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Phycicoccus	548.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00945075	Phycicoccus	451.75	3.37	Membrane-associated zinc metalloprotease
+PGF_00950554	Phycicoccus	719.12	48.44	Excinuclease ABC subunit B
+PGF_00955108	Phycicoccus	245.38	3.81	Glycosyltransferases involved in cell wall biogenesis
+PGF_00957419	Phycicoccus	175.50	4.63	Putative pre-16S rRNA nuclease Yqg
+PGF_01008498	Phycicoccus	116.50	22.42	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01011517	Phycicoccus	318.25	17.49	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01014599	Phycicoccus	302.38	9.87	N-acetyl-D-glucosamine ABC transporter, permease protein 1
+PGF_01023503	Phycicoccus	148.88	3.27	hypothetical protein
+PGF_01035777	Phycicoccus	490.50	31.54	Uncharacterized MFS-type transporter
+PGF_01041263	Phycicoccus	473.25	15.98	Glycine/D-amino acid oxidases (deaminating)
+PGF_01042043	Phycicoccus	134.62	12.05	Predicted transcriptional regulator LiuR of leucine degradation pathway, MerR family
+PGF_01049669	Phycicoccus	496.25	1.49	Signal transduction histidine kinase, subgroup 2
+PGF_01075683	Phycicoccus	133.25	2.05	Hemoglobin-like protein HbO
+PGF_01079016	Phycicoccus	358.75	99.27	Chromosome (plasmid) partitioning protein ParB
+PGF_01085102	Phycicoccus	459.62	5.83	hypothetical protein
+PGF_01103593	Phycicoccus	661.62	0.74	beta-galactosidase (EC 3.2.1.23)
+PGF_01126005	Phycicoccus	376.62	13.51	Rod shape-determining protein RodA
+PGF_01147190	Phycicoccus	464.50	9.86	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01174739	Phycicoccus	300.25	76.15	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Phycicoccus	343.00	3.93	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Phycicoccus	660.50	1.41	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01197369	Phycicoccus	460.38	8.67	Na+/H+-dicarboxylate symporter
+PGF_01200403	Phycicoccus	329.12	2.30	FIG019733: possible DNA-binding protein
+PGF_01200827	Phycicoccus	1061.88	16.38	ATP-dependent DNA helicase SCO5183
+PGF_01203600	Phycicoccus	82.25	0.71	hypothetical protein
+PGF_01206384	Phycicoccus	160.50	9.53	FIG187021: hypothetical protein
+PGF_01216478	Phycicoccus	152.00	1.85	Succinyl-CoA synthetase, alpha subunit-related enzymes
+PGF_01223569	Phycicoccus	197.25	8.75	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01234013	Phycicoccus	322.62	7.42	YgfD: protein that forms a complex with the methylmalonyl-CoA mutase in a pathway for conversion of succinyl-CoA to propionyl-CoA
+PGF_01291803	Phycicoccus	291.75	100.89	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Phycicoccus	315.50	97.08	Chromosome (plasmid) partitioning protein ParA
+PGF_01323228	Phycicoccus	217.12	13.45	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Phycicoccus	267.25	10.38	Molybdenum ABC transporter permease protein ModB
+PGF_01351158	Phycicoccus	1198.88	4.32	Transcription-repair coupling factor
+PGF_01362034	Phycicoccus	278.62	2.26	Glutamate ABC transporter, substrate-binding protein GluB
+PGF_01364427	Phycicoccus	200.62	1.41	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01366784	Phycicoccus	256.88	6.29	hypothetical protein
+PGF_01368025	Phycicoccus	361.38	1.06	Formaldehyde dehydrogenase MscR, NAD/mycothiol-dependent (EC 1.2.1.66) / S-nitrosomycothiol reductase MscR
+PGF_01373666	Phycicoccus	577.62	0.74	Efflux ABC transporter, permease/ATP-binding protein SCO2463
+PGF_01377030	Phycicoccus	208.38	3.46	hypothetical protein
+PGF_01389077	Phycicoccus	74.50	1.07	Uncharacterized protein YbcJ
+PGF_01389102	Phycicoccus	392.88	112.86	Peptidoglycan-binding LysM
+PGF_01402518	Phycicoccus	497.50	2.14	Malonate-semialdehyde dehydrogenase [inositol] (EC 1.2.1.18)
+PGF_01404160	Phycicoccus	458.25	0.71	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01420802	Phycicoccus	143.50	1.41	Cell division protein MraZ
+PGF_01423501	Phycicoccus	163.50	1.07	Transcription elongation factor GreA
+PGF_01435544	Phycicoccus	281.12	1.64	Phenazine biosynthesis protein PhzF like
+PGF_01513923	Phycicoccus	299.88	3.44	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01668974	Phycicoccus	798.25	10.59	DNA internalization-related competence protein ComEC/Rec2
+PGF_01670799	Phycicoccus	219.88	0.35	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01674551	Phycicoccus	128.88	0.35	Glycine cleavage system H protein
+PGF_01677191	Phycicoccus	326.00	0.00	Sporulation transcription regulator WhiA
+PGF_01682537	Phycicoccus	116.50	1.41	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Phycicoccus	202.62	19.55	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Phycicoccus	279.12	16.94	DNA recombination and repair protein RecO
+PGF_01734516	Phycicoccus	151.12	0.35	FHA-domain-containing protein
+PGF_01736521	Phycicoccus	327.50	3.93	Transcriptional regulator
+PGF_01737397	Phycicoccus	289.00	10.72	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01739753	Phycicoccus	177.00	47.67	Zinc metalloprotease
+PGF_01745391	Phycicoccus	365.12	12.93	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01776921	Phycicoccus	241.50	4.66	Nodulin-related protein CC_0717
+PGF_01777142	Phycicoccus	278.38	216.02	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01797166	Phycicoccus	503.62	17.44	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01810645	Phycicoccus	493.00	139.72	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01853493	Phycicoccus	296.50	12.19	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Phycicoccus	343.00	0.00	Heat-inducible transcription repressor HrcA
+PGF_01900807	Phycicoccus	282.25	4.06	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01905685	Phycicoccus	597.12	65.11	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_01910737	Phycicoccus	210.62	13.47	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01949788	Phycicoccus	196.75	4.06	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01959401	Phycicoccus	152.50	6.68	hypothetical protein
+PGF_01959439	Phycicoccus	285.75	8.68	hypothetical protein
+PGF_01959495	Phycicoccus	96.00	0.00	hypothetical protein
+PGF_01959555	Phycicoccus	152.88	5.17	hypothetical protein
+PGF_01959657	Phycicoccus	258.00	5.53	hypothetical protein
+PGF_01960322	Phycicoccus	622.25	6.02	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01961293	Phycicoccus	269.50	0.53	hypothetical protein
+PGF_01962206	Phycicoccus	278.75	7.15	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01985478	Phycicoccus	373.38	7.56	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01994657	Phycicoccus	468.88	28.75	Cell division trigger factor (EC 5.2.1.8)
+PGF_01996161	Phycicoccus	658.75	1.75	Flp pilus assembly protein TadB
+PGF_02011760	Phycicoccus	258.00	4.69	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Phycicoccus	368.88	10.71	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Phycicoccus	509.75	1.75	GTP-binding protein Obg
+PGF_02030844	Phycicoccus	634.50	212.42	ATP-dependent DNA helicase RecQ
+PGF_02059020	Phycicoccus	565.00	5.35	Energy-dependent translational throttle protein EttA
+PGF_02098099	Phycicoccus	532.50	6.30	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02111888	Phycicoccus	339.12	3.94	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Phycicoccus	830.88	8.44	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02185217	Phycicoccus	451.25	3.11	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02205048	Phycicoccus	547.00	25.50	Tricarboxylate transport sensor protein TctE
+PGF_02226715	Phycicoccus	745.62	11.26	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02311293	Phycicoccus	376.12	12.15	Peptide chain release factor 2
+PGF_02346669	Phycicoccus	311.75	2.05	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Phycicoccus	900.12	3.56	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02347716	Phycicoccus	474.62	6.16	Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18)
+PGF_02355769	Phycicoccus	392.38	10.00	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Phycicoccus	172.00	0.00	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02361937	Phycicoccus	222.62	21.93	Hydrolase SCO5215, alpha/beta fold family
+PGF_02370360	Phycicoccus	556.50	9.46	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02370501	Phycicoccus	346.12	11.49	Putative oxidoreductase
+PGF_02399143	Phycicoccus	641.75	8.15	Fatty-acyl-CoA oxidase (EC 1.3.3.6), related to yeast fatty acid beta-oxidation enzyme POX1
+PGF_02404524	Phycicoccus	446.88	0.99	3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35), FabG4
+PGF_02405521	Phycicoccus	539.38	9.61	Exoenzymes regulatory protein AepA in lipid-linked oligosaccharide synthesis cluster
+PGF_02405545	Phycicoccus	335.00	2.20	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02406951	Phycicoccus	489.62	31.05	Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase; Diacyglycerol O-acyltransferase (EC 2.3.1.20)
+PGF_02407790	Phycicoccus	433.62	5.50	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9), FadA2
+PGF_02409931	Phycicoccus	1131.88	22.11	ATP-dependent DNA helicase SCO5184
+PGF_02450432	Phycicoccus	302.88	9.05	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Phycicoccus	86.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Phycicoccus	199.12	0.35	Recombination protein RecR
+PGF_02474879	Phycicoccus	188.75	8.29	Hemerythrin domain protein
+PGF_02489591	Phycicoccus	222.38	26.51	Uncharacterized Nudix hydrolase NudL
+PGF_02501901	Phycicoccus	348.38	116.95	Secreted protein
+PGF_02515882	Phycicoccus	424.50	1.85	Aspartokinase (EC 2.7.2.4)
+PGF_02516666	Phycicoccus	304.75	6.48	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Phycicoccus	430.38	1.77	Enolase (EC 4.2.1.11)
+PGF_02518459	Phycicoccus	118.25	17.28	Nitrogen regulatory protein P-II
+PGF_02518965	Phycicoccus	217.75	20.67	Regulatory protein RecX
+PGF_02552445	Phycicoccus	532.88	0.35	Bis-ABC ATPase SCO1840
+PGF_02564693	Phycicoccus	444.75	14.66	Uncharacterized UPF0118 membrane protein
+PGF_02574886	Phycicoccus	529.38	2.45	Efflux ABC transporter, permease protein
+PGF_02578186	Phycicoccus	401.00	2.14	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02587605	Phycicoccus	130.62	33.20	Zinc uptake regulation protein Zur
+PGF_02593689	Phycicoccus	501.38	8.86	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02594696	Phycicoccus	356.25	1.58	acyl-CoA dehydrogenase, putative phosphotransferase
+PGF_02611620	Phycicoccus	458.38	1.06	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Phycicoccus	319.88	0.99	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Phycicoccus	1292.50	1.07	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02738107	Phycicoccus	396.00	128.86	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02745613	Phycicoccus	316.62	5.93	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02776739	Phycicoccus	124.00	6.14	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02787494	Phycicoccus	207.75	0.46	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02789532	Phycicoccus	286.75	2.87	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Phycicoccus	214.12	33.32	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02795771	Phycicoccus	93.62	7.37	Glutaredoxin-like domain-containing protein PA3033
+PGF_02797400	Phycicoccus	483.88	4.45	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Phycicoccus	1158.25	1.16	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Phycicoccus	542.12	10.09	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02825967	Phycicoccus	255.00	56.84	Spermidine synthase (EC 2.5.1.16)
+PGF_02844091	Phycicoccus	252.00	7.76	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Phycicoccus	476.38	8.05	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02872920	Phycicoccus	428.50	13.10	MCE-family lipoprotein MceE
+PGF_02881268	Phycicoccus	403.25	0.46	RecA-superfamily ATPases implicated in signal transduction
+PGF_02895544	Phycicoccus	227.38	1.06	TrkA-like protein
+PGF_02898096	Phycicoccus	484.38	0.74	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02898859	Phycicoccus	377.75	26.17	FIG006762: Phosphoglycerate mutase family
+PGF_02905033	Phycicoccus	581.00	4.90	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1
+PGF_02912272	Phycicoccus	229.00	10.54	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02930391	Phycicoccus	1008.12	24.10	UPF0182 protein AF1421
+PGF_02930420	Phycicoccus	365.50	6.30	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_02931322	Phycicoccus	439.25	252.08	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02938730	Phycicoccus	325.00	2.73	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02940505	Phycicoccus	316.12	12.22	UDP-galactose-lipid carrier transferase (EC 2.-.-.-)
+PGF_02946231	Phycicoccus	500.88	4.12	SSU ribosomal protein S1p
+PGF_02950994	Phycicoccus	324.88	2.30	ATP-dependent DNA ligase (EC 6.5.1.1)
+PGF_02959749	Phycicoccus	418.50	14.43	Ribonuclease D (EC 3.1.26.3)
+PGF_02980852	Phycicoccus	316.75	11.04	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02982225	Phycicoccus	269.12	1.81	SAM-dependent methyltransferase
+PGF_02997723	Phycicoccus	152.12	3.18	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03003352	Phycicoccus	579.88	0.99	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03017775	Phycicoccus	515.12	12.81	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Phycicoccus	219.75	0.89	Septum formation protein Maf
+PGF_03021263	Phycicoccus	160.50	1.31	SepF, FtsZ-interacting protein related to cell division
+PGF_03025044	Phycicoccus	241.38	5.45	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03026450	Phycicoccus	1190.25	0.71	Chromosome partition protein smc
+PGF_03029062	Phycicoccus	331.50	15.04	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03029489	Phycicoccus	239.62	11.58	GlnR-family transcriptional regulator
+PGF_03029859	Phycicoccus	643.00	87.89	Bis-ABC ATPase Uup
+PGF_03030695	Phycicoccus	372.25	3.11	carbon monoxide dehydrogenase E protein
+PGF_03046709	Phycicoccus	472.75	14.27	Ammonium transporter
+PGF_03054699	Phycicoccus	883.12	27.04	DNA translocase FtsK
+PGF_03058789	Phycicoccus	393.25	0.71	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03064922	Phycicoccus	410.00	18.41	MCE-family protein MceD
+PGF_03066520	Phycicoccus	413.88	0.35	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03069524	Phycicoccus	83.38	7.42	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03072132	Phycicoccus	160.00	0.00	CarD-like transcriptional regulator
+PGF_03081665	Phycicoccus	95.75	0.46	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03092774	Phycicoccus	110.00	0.00	FIG025307: hypothetical protein
+PGF_03121594	Phycicoccus	444.12	29.23	putative membrane protein
+PGF_03124650	Phycicoccus	505.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03127349	Phycicoccus	254.62	75.52	Late competence protein ComEA, DNA receptor
+PGF_03132336	Phycicoccus	468.88	120.07	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03140041	Phycicoccus	144.50	7.07	CBS domain protein
+PGF_03140772	Phycicoccus	566.50	6.57	Bis-ABC ATPase SCO6512
+PGF_03152833	Phycicoccus	302.62	10.94	Ku domain protein
+PGF_03154343	Phycicoccus	134.38	15.44	Cytidine deaminase (EC 3.5.4.5)
+PGF_03161859	Phycicoccus	371.88	8.10	Calcium/proton antiporter
+PGF_03174068	Phycicoccus	301.88	19.52	Transcription antitermination protein NusG
+PGF_03187392	Phycicoccus	306.38	3.46	Fructokinase (EC 2.7.1.4)
+PGF_03221340	Phycicoccus	286.12	1.36	3-keto-5-aminohexanoate cleavage enzyme (EC 2.3.1.247)
+PGF_03222913	Phycicoccus	88.75	0.71	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03224027	Phycicoccus	165.00	3.25	Diadenosine hexaphosphate (Ap6A) hydrolase; Bis(5'-nucleosyl)-tetraphosphatase (Ap4A) (Asymmetrical) (EC 3.6.1.17)
+PGF_03257845	Phycicoccus	242.12	4.52	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272100	Phycicoccus	153.50	12.32	Rieske (2Fe-2S) domain protein
+PGF_03272313	Phycicoccus	887.12	14.70	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03275428	Phycicoccus	521.88	6.20	Tripartite tricarboxylate transporter TctA family
+PGF_03365856	Phycicoccus	1343.88	30.64	Error-prone repair homolog of DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_03470321	Phycicoccus	196.75	8.73	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03518570	Phycicoccus	143.38	4.75	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Phycicoccus	419.12	8.69	Cell division protein FtsZ
+PGF_03558774	Phycicoccus	293.00	2.14	Peptidase M48, Ste24p precursor
+PGF_03561929	Phycicoccus	66.50	0.53	hypothetical protein
+PGF_03574598	Phycicoccus	370.50	11.84	Lon-like protease with PDZ domain
+PGF_03579679	Phycicoccus	459.00	72.94	DNA-binding protein
+PGF_03584110	Phycicoccus	51.50	1.85	FIG011121: hypothetical protein
+PGF_03591205	Phycicoccus	456.00	10.31	Serine/threonine phosphatase PPP (EC 3.1.3.16)
+PGF_03602835	Phycicoccus	408.75	30.98	Hypothetical protein, possibly related to signal transduction
+PGF_03607600	Phycicoccus	216.75	0.71	COG4339 metal-dependent phosphohydrolase, HD superfamily
+PGF_03609651	Phycicoccus	606.12	7.40	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Phycicoccus	165.12	0.83	UPF0234 protein Yitk
+PGF_03659350	Phycicoccus	521.00	1.07	Protein-O-mannosyltransferase
+PGF_03699416	Phycicoccus	273.62	25.03	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Phycicoccus	301.12	0.35	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Phycicoccus	90.62	3.34	Protein translocase subunit SecE
+PGF_03719269	Phycicoccus	396.25	3.24	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Phycicoccus	165.50	15.20	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03728791	Phycicoccus	515.00	12.35	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)
+PGF_03729119	Phycicoccus	474.38	113.00	Aspartate transaminase (EC 2.6.1.1)
+PGF_03729141	Phycicoccus	184.50	0.93	UPF0301 protein YqgE
+PGF_03739563	Phycicoccus	108.88	0.35	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Phycicoccus	524.25	22.59	Chromosomal replication initiator protein DnaA
+PGF_03750600	Phycicoccus	162.75	2.92	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Phycicoccus	91.12	9.76	Membrane protein insertion efficiency factor YidD
+PGF_03752544	Phycicoccus	228.88	0.83	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Phycicoccus	314.88	5.79	Site-specific tyrosine recombinase XerC
+PGF_03757137	Phycicoccus	484.75	3.92	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778127	Phycicoccus	169.00	4.54	FHA-domain-containing protein
+PGF_03778780	Phycicoccus	405.25	4.30	Signal recognition particle receptor FtsY
+PGF_03790040	Phycicoccus	263.12	12.53	Ribonuclease III (EC 3.1.26.3)
+PGF_03801195	Phycicoccus	270.50	9.26	Putative amidotransferase similar to cobyric acid synthase
+PGF_03801201	Phycicoccus	268.00	0.93	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Phycicoccus	73.25	1.39	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03810115	Phycicoccus	246.88	3.09	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Phycicoccus	381.00	7.63	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03856084	Phycicoccus	698.50	6.28	Cell division protein FtsH
+PGF_03862500	Phycicoccus	213.12	2.80	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03977347	Phycicoccus	364.62	1.06	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_03991729	Phycicoccus	411.25	8.17	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03999196	Phycicoccus	773.00	184.66	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04001738	Phycicoccus	883.25	13.75	Penicillin amidase precursor (EC 3.5.1.11)
+PGF_04005838	Phycicoccus	477.75	2.71	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Phycicoccus	214.88	9.36	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Phycicoccus	150.62	3.89	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Phycicoccus	507.50	2.67	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Phycicoccus	120.88	2.03	Large-conductance mechanosensitive channel
+PGF_04036472	Phycicoccus	103.62	66.82	KH domain RNA binding protein YlqC
+PGF_04041316	Phycicoccus	943.50	324.02	Excinuclease ABC subunit A
+PGF_04094270	Phycicoccus	223.75	3.92	TrkA-like protein
+PGF_04097953	Phycicoccus	104.38	19.81	Putative oxidoreductase
+PGF_04148702	Phycicoccus	308.75	0.89	ABC transporter, substrate-binding protein (cluster 13, osmolytes)
+PGF_04150742	Phycicoccus	338.50	5.98	Zinc ABC transporter, permease protein ZnuB
+PGF_04163139	Phycicoccus	269.50	24.71	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Phycicoccus	230.38	3.89	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04198961	Phycicoccus	210.75	12.43	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04208523	Phycicoccus	251.88	21.17	hypothetical protein
+PGF_04251642	Phycicoccus	140.00	0.00	(3R)-hydroxyacyl-ACP dehydratase subunit HadB
+PGF_04256257	Phycicoccus	464.38	0.52	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04279715	Phycicoccus	215.12	1.81	hypothetical protein
+PGF_04306800	Phycicoccus	372.25	0.89	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04310056	Phycicoccus	457.00	106.91	Acyltransferase family protein
+PGF_04345693	Phycicoccus	497.88	7.34	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Phycicoccus	976.12	13.20	Protein translocase subunit SecA
+PGF_04395505	Phycicoccus	383.75	42.58	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04436863	Phycicoccus	1821.00	311.56	Neopullulanase (EC 3.2.1.135) / Maltodextrin glucosidase (EC 3.2.1.20)
+PGF_04454639	Phycicoccus	456.50	7.48	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04469179	Phycicoccus	155.62	1.41	Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase
+PGF_04471216	Phycicoccus	619.00	179.44	hypothetical protein
+PGF_04505269	Phycicoccus	320.50	12.04	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Phycicoccus	345.12	10.83	Rod shape-determining protein MreB
+PGF_04521913	Phycicoccus	435.50	127.19	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Phycicoccus	399.62	73.44	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Phycicoccus	545.12	0.35	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Phycicoccus	267.75	1.16	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04662829	Phycicoccus	699.62	22.95	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Phycicoccus	407.88	2.10	Alanine transaminase (EC 2.6.1.2)
+PGF_04679223	Phycicoccus	151.62	7.48	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04695681	Phycicoccus	198.25	1.75	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04704185	Phycicoccus	472.62	8.62	NAD(P)H quinone reductase LpdA (EC 1.6.5.2)
+PGF_04724831	Phycicoccus	354.25	8.99	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Phycicoccus	959.38	26.13	Translation initiation factor 2
+PGF_04756443	Phycicoccus	163.50	1.07	hypothetical protein
+PGF_04788810	Phycicoccus	235.50	97.22	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Phycicoccus	276.38	15.32	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04807486	Phycicoccus	307.12	13.53	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Phycicoccus	118.88	0.35	LSU ribosomal protein L19p
+PGF_04866046	Phycicoccus	678.50	52.94	Uncharacterized protein YyaL
+PGF_04965976	Phycicoccus	379.62	11.02	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Phycicoccus	87.50	1.41	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Phycicoccus	94.88	20.15	LSU ribosomal protein L21p
+PGF_04979787	Phycicoccus	107.25	3.49	4Fe-4S ferredoxin, iron-sulfur binding
+PGF_05065588	Phycicoccus	398.88	2.95	Type II/IV secretion system ATPase TadZ/CpaE, associated with Flp pilus assembly
+PGF_05086951	Phycicoccus	161.50	23.85	Transcriptional regulator, Xre family
+PGF_05091456	Phycicoccus	308.62	9.98	Uncharacterized inner membrane protein RarD
+PGF_05126349	Phycicoccus	187.38	15.51	CblZ, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase
+PGF_05135220	Phycicoccus	966.50	4.66	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05152582	Phycicoccus	830.00	2.14	Aerobic carbon monoxide dehydrogenase (quinone), large chain (EC 1.2.5.3)
+PGF_05165078	Phycicoccus	317.12	5.36	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Phycicoccus	485.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Phycicoccus	460.62	2.00	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05207025	Phycicoccus	197.00	24.92	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_05218024	Phycicoccus	624.88	13.41	Serine/threonine-protein kinase PknB (EC 2.7.11.1)
+PGF_05280843	Phycicoccus	442.25	12.86	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05296102	Phycicoccus	294.75	86.03	Acetyl-CoA:Cys-GlcN-Ins acetyltransferase, mycothiol synthase MshD (EC 2.3.1.189)
+PGF_05386032	Phycicoccus	218.00	0.00	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05439724	Phycicoccus	712.12	10.89	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Phycicoccus	486.88	14.85	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05545812	Phycicoccus	245.88	9.08	hypothetical protein
+PGF_05560886	Phycicoccus	275.38	6.74	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Phycicoccus	437.00	0.00	Protein translocase subunit SecY
+PGF_05598173	Phycicoccus	399.62	11.36	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Phycicoccus	426.75	0.89	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05685835	Phycicoccus	279.00	38.61	hypothetical protein
+PGF_05710599	Phycicoccus	292.25	6.96	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05711018	Phycicoccus	205.12	8.25	Fructose-1,6-bisphosphatase, Mycobacterial type SUP1 (EC 3.1.3.11); Sugar phosphatase SUP1 (EC 3.1.3.23)
+PGF_05729472	Phycicoccus	1479.25	543.94	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05743061	Phycicoccus	879.38	30.11	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05788512	Phycicoccus	280.62	7.54	FIG003003: hypothetical protein
+PGF_05790213	Phycicoccus	506.50	150.92	Vancomycin B-type resistance protein VanW
+PGF_05843198	Phycicoccus	246.25	7.59	FIG017108: hypothetical protein
+PGF_05844636	Phycicoccus	133.38	2.00	hypothetical protein
+PGF_05949521	Phycicoccus	600.62	5.58	Protein translocase subunit SecD
+PGF_05971611	Phycicoccus	426.50	5.24	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Phycicoccus	714.38	2.67	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06030540	Phycicoccus	272.38	15.23	hypothetical protein
+PGF_06043321	Phycicoccus	343.12	0.35	Ferric iron ABC transporter, iron-binding protein
+PGF_06051345	Phycicoccus	977.88	3.44	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06051594	Phycicoccus	404.00	148.15	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06069401	Phycicoccus	315.25	5.57	hypothetical protein
+PGF_06085876	Phycicoccus	239.00	10.16	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_06089480	Phycicoccus	450.25	13.55	putative membrane protein
+PGF_06098633	Phycicoccus	577.38	55.94	Uncharacterized DUF349-containing protein SCO1511
+PGF_06122750	Phycicoccus	573.00	3.51	DNA polymerase III epsilon subunit-related protein MSMEG4261
+PGF_06153072	Phycicoccus	143.12	7.40	hypothetical protein
+PGF_06170558	Phycicoccus	156.50	1.41	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Phycicoccus	147.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06211427	Phycicoccus	277.75	4.06	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06213055	Phycicoccus	258.00	0.00	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Phycicoccus	487.38	4.10	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06284127	Phycicoccus	254.00	6.16	Polysaccharide ABC transporter, ATP-binding protein
+PGF_06285041	Phycicoccus	371.75	5.78	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06306806	Phycicoccus	164.00	31.29	hypothetical protein
+PGF_06329961	Phycicoccus	397.75	0.71	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06366599	Phycicoccus	285.88	3.91	Probable (3R)-hydroxyacyl-CoA dehydratase HtdX
+PGF_06377994	Phycicoccus	458.50	0.93	FtsW-like cell division membrane protein CA_C0505
+PGF_06379377	Phycicoccus	459.50	13.11	Replication-associated recombination protein RarA
+PGF_06461498	Phycicoccus	295.62	4.81	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Phycicoccus	323.25	4.83	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Phycicoccus	389.00	16.26	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06486150	Phycicoccus	252.62	12.65	hypothetical protein
+PGF_06495818	Phycicoccus	252.38	58.03	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06585639	Phycicoccus	890.25	45.72	Polyketide synthase modules and related proteins
+PGF_06586947	Phycicoccus	408.38	1.30	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06594013	Phycicoccus	231.88	251.38	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06609275	Phycicoccus	55.88	0.35	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06644010	Phycicoccus	360.38	18.51	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Phycicoccus	81.88	0.35	Acyl carrier protein
+PGF_06649360	Phycicoccus	221.00	10.58	Segregation and condensation protein B
+PGF_06660812	Phycicoccus	196.88	0.35	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06684654	Phycicoccus	349.50	22.12	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_06701488	Phycicoccus	226.38	27.55	RNA-binding protein Jag
+PGF_06718352	Phycicoccus	159.00	5.01	Cys-tRNA(Pro) deacylase YbaK
+PGF_06750600	Phycicoccus	345.88	12.51	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06755829	Phycicoccus	391.62	33.31	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757690	Phycicoccus	833.88	7.04	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
+PGF_06772993	Phycicoccus	1061.12	54.56	Ribonuclease E (EC 3.1.26.12)
+PGF_06794943	Phycicoccus	1014.12	12.74	alpha-mannosidase (EC 3.2.1.24)
+PGF_07092827	Phycicoccus	74.50	1.41	Excisionase/Xis, DNA-binding
+PGF_07353019	Phycicoccus	212.88	10.01	Nitroreductase family protein
+PGF_07538262	Phycicoccus	201.38	10.32	putative membrane protein
+PGF_08074612	Phycicoccus	283.88	8.56	Adenylate cyclase (EC 4.6.1.1)
+PGF_08117870	Phycicoccus	119.75	4.83	Ferredoxin, 2Fe-2S
+PGF_08125688	Phycicoccus	336.38	6.05	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_08153913	Phycicoccus	237.12	4.42	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08178007	Phycicoccus	256.88	5.44	Efflux ABC transporter, permease protein
+PGF_08183187	Phycicoccus	424.25	2.87	Cell division protein FtsW
+PGF_08189195	Phycicoccus	339.62	5.48	hypothetical protein
+PGF_08189744	Phycicoccus	816.88	8.89	Carbon monoxide dehydrogenase large chain parolog without usual motifs

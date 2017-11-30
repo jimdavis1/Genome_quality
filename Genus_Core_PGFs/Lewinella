@@ -1,0 +1,689 @@
+PGF_00000014	Lewinella	769.00	51.19	FIG00653582: hypothetical protein
+PGF_00000166	Lewinella	618.00	7.79	FIG00694912: hypothetical protein
+PGF_00000416	Lewinella	351.50	14.53	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001053	Lewinella	833.25	12.28	FIG00930393: hypothetical protein
+PGF_00001665	Lewinella	399.25	0.50	FIG01092412: hypothetical protein
+PGF_00002867	Lewinella	365.00	0.82	FIG024850: short form Mg-chelase associated protein with vWA domain
+PGF_00003504	Lewinella	251.75	2.06	FIG137478: Hypothetical protein
+PGF_00003516	Lewinella	283.25	41.84	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004541	Lewinella	165.00	10.98	Ferric uptake regulation protein FUR
+PGF_00004671	Lewinella	714.25	4.99	Ferrous iron transport protein B
+PGF_00006320	Lewinella	281.00	8.68	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006394	Lewinella	358.50	1.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Lewinella	462.00	1.15	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Lewinella	513.50	0.58	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Lewinella	365.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Lewinella	440.75	15.50	GTP-binding protein EngA
+PGF_00007026	Lewinella	211.25	9.88	GTP-binding protein EngB
+PGF_00007027	Lewinella	293.00	11.37	GTP-binding protein Era
+PGF_00007028	Lewinella	403.75	1.50	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Lewinella	601.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007057	Lewinella	508.75	87.50	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Lewinella	369.75	19.97	Galactokinase (EC 2.7.1.6)
+PGF_00007304	Lewinella	221.75	1.50	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007525	Lewinella	329.50	3.00	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007632	Lewinella	304.50	1.29	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007920	Lewinella	650.00	1.41	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00007981	Lewinella	401.00	1.63	Sugar-phosphate nucleotidyl transferase
+PGF_00007982	Lewinella	282.00	12.08	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Lewinella	550.00	1.15	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008061	Lewinella	287.00	47.94	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008106	Lewinella	278.00	11.28	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Lewinella	436.75	2.22	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008192	Lewinella	304.25	2.50	Glutaminase (EC 3.5.1.2)
+PGF_00008326	Lewinella	556.25	6.70	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008335	Lewinella	515.00	9.42	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008537	Lewinella	497.00	1.41	Glycerol kinase (EC 2.7.1.30)
+PGF_00008773	Lewinella	962.50	3.00	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Lewinella	211.00	1.41	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008872	Lewinella	846.25	5.06	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009539	Lewinella	320.00	4.69	Glycosyl transferase, group 2 family
+PGF_00009801	Lewinella	527.25	18.17	Glycosyltransferase
+PGF_00009966	Lewinella	520.75	4.03	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Lewinella	234.75	0.96	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Lewinella	741.00	1.41	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00011081	Lewinella	826.00	1.15	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Lewinella	315.25	23.61	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00012264	Lewinella	341.50	1.00	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012854	Lewinella	236.75	1.50	Hydrolase, haloacid delahogenase-like family
+PGF_00012930	Lewinella	510.75	2.06	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+PGF_00013003	Lewinella	643.50	2.38	Bis-ABC ATPase YheS
+PGF_00013017	Lewinella	322.50	1.00	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013244	Lewinella	183.00	3.16	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Lewinella	221.00	0.82	UPF0001 protein YggS
+PGF_00013492	Lewinella	183.25	3.77	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013804	Lewinella	408.75	3.20	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00014051	Lewinella	271.00	0.00	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Lewinella	492.25	0.96	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014399	Lewinella	354.50	7.00	Inosose isomerase (EC 5.3.99.11)
+PGF_00014727	Lewinella	283.50	3.79	Integral membrane protein TerC
+PGF_00015039	Lewinella	438.25	9.00	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015255	Lewinella	247.00	2.94	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015259	Lewinella	298.50	1.91	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015392	Lewinella	835.50	6.03	Iron(III) dicitrate transport protein FecA
+PGF_00015601	Lewinella	448.00	0.82	Iron-sulphur-binding reductase
+PGF_00015630	Lewinella	352.75	4.19	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015718	Lewinella	1112.00	4.97	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015737	Lewinella	351.50	5.20	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00015855	Lewinella	349.75	4.92	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015931	Lewinella	416.25	9.78	Kynureninase (EC 3.7.1.3)
+PGF_00016225	Lewinella	480.50	28.34	L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016257	Lewinella	328.00	14.14	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016325	Lewinella	852.50	8.19	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Lewinella	175.75	0.50	LSU ribosomal protein L10p (P0)
+PGF_00016338	Lewinella	418.75	10.63	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Lewinella	121.75	0.50	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Lewinella	148.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Lewinella	139.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Lewinella	160.00	3.65	LSU ribosomal protein L17p
+PGF_00016353	Lewinella	117.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Lewinella	230.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Lewinella	114.75	0.50	LSU ribosomal protein L20p
+PGF_00016368	Lewinella	128.50	4.04	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Lewinella	98.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Lewinella	118.00	2.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Lewinella	247.50	36.39	LSU ribosomal protein L27p
+PGF_00016393	Lewinella	278.75	1.50	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Lewinella	59.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016416	Lewinella	62.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Lewinella	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Lewinella	203.50	5.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Lewinella	209.50	3.70	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Lewinella	186.50	1.29	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Lewinella	184.75	0.50	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Lewinella	125.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016495	Lewinella	245.00	4.24	Lactam utilization protein LamB
+PGF_00016848	Lewinella	462.25	4.86	Leucine aminopeptidase-related protein
+PGF_00017109	Lewinella	387.00	20.93	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Lewinella	248.00	2.45	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017464	Lewinella	218.25	3.95	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Lewinella	306.50	21.67	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Lewinella	342.00	3.92	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00018049	Lewinella	239.75	5.25	Lysophospholipase L1 and related esterases
+PGF_00018577	Lewinella	493.25	0.96	Magnesium chelatase, subunit ChlI (EC 6.6.1.1)
+PGF_00018952	Lewinella	309.75	0.50	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019237	Lewinella	409.00	10.71	Manganese transport protein MntH
+PGF_00019272	Lewinella	384.00	9.24	Mannonate dehydratase (EC 4.2.1.8)
+PGF_00020150	Lewinella	448.75	2.63	Membrane-associated zinc metalloprotease
+PGF_00020172	Lewinella	273.75	3.59	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020264	Lewinella	292.25	2.06	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020387	Lewinella	244.50	16.94	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020735	Lewinella	285.50	9.68	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020793	Lewinella	178.25	2.50	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020981	Lewinella	544.00	0.00	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Lewinella	291.25	2.06	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021022	Lewinella	704.75	13.05	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021023	Lewinella	325.50	47.43	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021125	Lewinella	408.75	21.33	SAM-dependent methyltransferase
+PGF_00021217	Lewinella	510.50	3.70	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021380	Lewinella	309.25	2.87	Mevalonate kinase (EC 2.7.1.36)
+PGF_00021391	Lewinella	359.75	18.73	Mg-chelatase subunit ChlD
+PGF_00021968	Lewinella	218.50	2.65	Mn-dependent transcriptional regulator MntR
+PGF_00022540	Lewinella	487.75	16.76	Molybdopterin oxidoreductase
+PGF_00022545	Lewinella	496.00	24.43	Molybdopterin oxidoreductase subunit, predicted; chaperone protein HtpG
+PGF_00022548	Lewinella	1106.25	8.34	Molybdopterin oxidoreductase, iron-sulfur binding subunit (EC 1.2.7.-)
+PGF_00023591	Lewinella	330.25	0.50	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023728	Lewinella	190.50	13.70	N-acetyl-L-citrulline:glutamate N-acetyltransferase
+PGF_00023739	Lewinella	325.50	11.21	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023752	Lewinella	465.75	6.18	N-acetylglucosamine deacetylase (EC 3.5.1.-) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_00023816	Lewinella	376.00	5.35	N-acetylglucosaminyltransferase (EC 2.4.1.-)
+PGF_00023835	Lewinella	266.75	3.50	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00023933	Lewinella	312.50	1.91	N-acetylornithine carbamoyltransferase (EC 2.1.3.9)
+PGF_00023946	Lewinella	217.25	129.85	N-acetyltransferase ElaA
+PGF_00024273	Lewinella	165.00	3.37	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Lewinella	313.00	144.04	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024314	Lewinella	523.75	2.63	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024478	Lewinella	332.00	4.69	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024509	Lewinella	474.00	2.00	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024619	Lewinella	588.25	12.45	Acetate permease ActP (cation/acetate symporter)
+PGF_00025090	Lewinella	584.25	1.26	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025185	Lewinella	461.00	14.09	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.8)
+PGF_00025187	Lewinella	243.75	5.25	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.8)
+PGF_00025188	Lewinella	243.00	1.41	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.8)
+PGF_00025189	Lewinella	202.50	1.00	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.8)
+PGF_00025190	Lewinella	434.00	0.00	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.8)
+PGF_00025215	Lewinella	180.00	0.82	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025356	Lewinella	510.50	24.19	Na+/solute symporter
+PGF_00025562	Lewinella	208.50	3.79	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Lewinella	484.75	1.26	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025639	Lewinella	394.00	1.63	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00025793	Lewinella	313.50	2.38	Nitrilase (EC 3.5.5.7)
+PGF_00026279	Lewinella	318.25	0.50	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Lewinella	195.25	3.77	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026402	Lewinella	463.00	12.57	Nucleoside permease NupC
+PGF_00026409	Lewinella	252.00	1.41	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Lewinella	274.50	21.00	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Lewinella	256.00	1.41	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026786	Lewinella	394.25	2.87	Acetylornithine aminotransferase (EC 2.6.1.11) (ACOAT)
+PGF_00026891	Lewinella	566.50	5.74	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00027601	Lewinella	157.50	1.91	OsmC/Ohr family protein
+PGF_00028336	Lewinella	855.50	17.84	Outer membrane protein assembly factor YaeT
+PGF_00028559	Lewinella	315.50	1.00	Oxidoreductase
+PGF_00028690	Lewinella	297.25	10.31	Oxidoreductase YdhF
+PGF_00030323	Lewinella	560.00	8.08	Peptidase M1 family protein
+PGF_00030643	Lewinella	528.00	0.00	Peptide chain release factor 3
+PGF_00033095	Lewinella	815.75	0.96	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033359	Lewinella	409.75	18.55	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Lewinella	227.00	3.56	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033380	Lewinella	444.75	7.85	Phosphodiesterase/alkaline phosphatase D
+PGF_00033405	Lewinella	971.50	1.73	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033511	Lewinella	403.00	2.71	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Lewinella	265.00	2.58	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Lewinella	256.75	2.63	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033817	Lewinella	454.25	0.50	Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00033877	Lewinella	153.50	3.11	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Lewinella	422.75	0.50	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Lewinella	319.00	4.83	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Lewinella	218.75	2.22	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Lewinella	391.25	0.50	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Lewinella	236.00	1.15	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Lewinella	745.50	1.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033985	Lewinella	360.50	8.35	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034494	Lewinella	387.25	10.97	Pleiotropic regulatory protein
+PGF_00034776	Lewinella	748.00	6.63	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Lewinella	329.75	2.75	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035091	Lewinella	333.25	6.70	Possible acyl protein synthase/acyl-CoA reductase-like protein
+PGF_00035378	Lewinella	436.50	0.58	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035400	Lewinella	275.75	1.50	Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family
+PGF_00035547	Lewinella	119.50	1.29	Predicted CoA-binding domain COG1832
+PGF_00035721	Lewinella	446.25	0.50	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00037006	Lewinella	341.50	3.70	Agmatine deiminase (EC 3.5.3.12)
+PGF_00037586	Lewinella	489.25	0.50	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037850	Lewinella	543.75	5.50	Protease precursor
+PGF_00037937	Lewinella	187.25	5.50	Protein PhnA
+PGF_00038653	Lewinella	1022.75	7.04	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038986	Lewinella	274.50	1.29	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00038987	Lewinella	273.00	36.18	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039342	Lewinella	270.00	1.15	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039576	Lewinella	927.25	15.65	Alginate lyase precursor (EC 4.2.2.3)
+PGF_00040578	Lewinella	278.25	23.81	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040773	Lewinella	350.75	6.90	Alkane-1 monooxygenase (EC 1.14.15.3)
+PGF_00042570	Lewinella	328.00	0.00	Putative oxidoreducatse SCO7286
+PGF_00045833	Lewinella	215.00	0.82	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Lewinella	241.75	3.40	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045963	Lewinella	1162.25	8.18	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045965	Lewinella	489.50	3.79	Pyruvate carboxylase subunit A (EC 6.4.1.1)
+PGF_00045991	Lewinella	477.50	1.00	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046060	Lewinella	211.50	1.91	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Lewinella	286.25	2.63	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046403	Lewinella	498.50	3.11	RNA polymerase sigma-54 factor RpoN
+PGF_00046890	Lewinella	356.00	0.00	Radical SAM
+PGF_00047078	Lewinella	356.25	5.68	RecA protein
+PGF_00047084	Lewinella	805.75	5.12	Alpha-amylase/alpha-mannosidase
+PGF_00047672	Lewinella	842.00	0.82	Alpha-glucosidase, family 31 of glycosyl hydrolases, COG1501
+PGF_00047815	Lewinella	529.25	22.50	Response regulator
+PGF_00048347	Lewinella	191.50	1.73	Rhodanese-like domain protein
+PGF_00048480	Lewinella	198.00	1.41	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048555	Lewinella	221.50	11.68	Ribonuclease HI-related protein 3
+PGF_00048556	Lewinella	202.00	1.41	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048594	Lewinella	303.75	13.23	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048621	Lewinella	220.75	9.98	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3) / Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00048630	Lewinella	832.50	23.70	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048632	Lewinella	325.00	0.00	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048782	Lewinella	321.75	2.99	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Lewinella	259.25	15.50	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Lewinella	288.00	27.40	Ribosomal protein L11 methyltransferase
+PGF_00048846	Lewinella	430.75	10.53	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048926	Lewinella	187.00	0.00	Ribosome recycling factor
+PGF_00048928	Lewinella	322.00	4.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Lewinella	159.50	46.69	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048985	Lewinella	223.50	1.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Lewinella	421.50	8.35	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049431	Lewinella	616.75	0.50	Alternative cytochrome c oxidase polypeptide CoxN (EC 1.9.3.1)
+PGF_00049532	Lewinella	320.50	4.80	Alternative cytochrome c oxidase polypeptide CoxP (EC 1.9.3.1)
+PGF_00049827	Lewinella	259.25	7.46	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Lewinella	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Lewinella	132.00	1.41	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Lewinella	95.00	33.65	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Lewinella	113.75	22.50	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Lewinella	85.25	7.50	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049849	Lewinella	219.50	19.28	SSU ribosomal protein S16p
+PGF_00049854	Lewinella	129.50	29.85	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Lewinella	78.00	22.67	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Lewinella	253.00	3.37	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Lewinella	190.75	25.84	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Lewinella	185.00	8.91	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Lewinella	157.25	1.50	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Lewinella	136.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Lewinella	128.50	1.00	SSU ribosomal protein S9p (S16e)
+PGF_00050006	Lewinella	444.50	1.00	Saccharopine dehydrogenase [NADP, L-glutamate-forming] (EC 1.5.1.10)
+PGF_00050368	Lewinella	344.00	4.16	Selenophosphate-dependent tRNA 2-selenouridine synthase
+PGF_00050728	Lewinella	520.25	6.55	Amidohydrolase family enzyme
+PGF_00050995	Lewinella	626.25	5.50	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051324	Lewinella	322.75	2.22	Serine racemase (EC 5.1.1.18) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17) @ D-serine ammonia-lyase (EC 4.3.1.18)
+PGF_00051525	Lewinella	425.50	1.29	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052210	Lewinella	593.50	3.00	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Lewinella	445.25	5.91	Signal recognition particle protein Ffh
+PGF_00052705	Lewinella	147.75	1.26	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Lewinella	304.00	0.82	Site-specific tyrosine recombinase XerD
+PGF_00053078	Lewinella	396.00	2.00	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00053364	Lewinella	575.00	4.90	Sodium iodide symporter
+PGF_00053486	Lewinella	463.75	24.92	Sodium/solute symporter
+PGF_00053770	Lewinella	369.00	0.82	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053803	Lewinella	533.50	9.47	Aminopeptidase
+PGF_00053991	Lewinella	480.25	14.36	Stage 0 sporulation protein YaaT
+PGF_00054528	Lewinella	400.25	0.50	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054959	Lewinella	418.50	1.00	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Lewinella	303.00	0.82	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00054974	Lewinella	535.50	1.29	Na(+)-dependent bicarbonate transporter BicA
+PGF_00055741	Lewinella	432.50	2.65	TRAP dicarboxylate transporter, DctM subunit, unknown substrate 6
+PGF_00055966	Lewinella	377.75	8.73	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056057	Lewinella	341.75	10.50	Tas protein, an NADP(H)-dependent aldo-keto reductase
+PGF_00056273	Lewinella	355.00	0.00	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056514	Lewinella	817.50	19.60	Thiamin-regulated outer membrane receptor Omr1
+PGF_00056662	Lewinella	329.25	0.50	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Lewinella	466.25	10.31	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Lewinella	189.00	10.68	Thymidine kinase (EC 2.7.1.21)
+PGF_00056897	Lewinella	286.50	29.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057270	Lewinella	883.00	3.83	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Lewinella	218.75	0.50	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Lewinella	145.00	6.68	Transamidase GatB domain protein
+PGF_00057483	Lewinella	691.50	28.11	Transcription termination factor Rho
+PGF_00057485	Lewinella	437.25	30.53	Transcription termination protein NusA
+PGF_00060399	Lewinella	319.50	1.73	Transketolase, C-terminal section (EC 2.2.1.1)
+PGF_00060409	Lewinella	709.50	1.29	Translation elongation factor G
+PGF_00060414	Lewinella	595.50	1.00	Translation elongation factor LepA
+PGF_00060421	Lewinella	188.00	0.82	Translation elongation factor P
+PGF_00060427	Lewinella	275.50	1.00	Translation elongation factor Ts
+PGF_00060428	Lewinella	369.75	56.52	Translation elongation factor Tu
+PGF_00060431	Lewinella	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Lewinella	210.00	20.05	Translation initiation factor 3
+PGF_00060481	Lewinella	132.75	11.30	Translation initiation factor SUI1-related protein
+PGF_00061919	Lewinella	603.50	10.88	Apolipoprotein N-acyltransferase
+PGF_00061922	Lewinella	409.50	1.73	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062023	Lewinella	260.00	2.45	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Lewinella	399.00	2.71	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063916	Lewinella	433.25	9.36	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063943	Lewinella	191.75	0.50	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronic acid acetyltransferase (EC 2.3.1.201)
+PGF_00063974	Lewinella	350.00	10.49	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Lewinella	379.75	6.55	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Lewinella	458.75	3.20	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064270	Lewinella	256.50	7.00	UPF0246 protein YaaA
+PGF_00064384	Lewinella	303.25	2.50	UPF0759 protein YecE
+PGF_00064422	Lewinella	623.25	17.61	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00065887	Lewinella	246.50	0.58	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066124	Lewinella	179.50	2.08	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Lewinella	224.75	1.89	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066260	Lewinella	668.25	3.77	Urocanate hydratase (EC 4.2.1.49)
+PGF_00066270	Lewinella	343.75	1.26	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066291	Lewinella	260.00	1.63	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Lewinella	912.25	27.85	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Lewinella	469.25	10.40	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066726	Lewinella	466.50	27.72	Vitamin K-dependent gamma-carboxylase (EC 6.4.-.-)
+PGF_00066906	Lewinella	314.25	3.69	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067063	Lewinella	437.50	2.38	Xylose isomerase (EC 5.3.1.5)
+PGF_00067188	Lewinella	338.75	0.96	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067401	Lewinella	304.00	15.53	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067554	Lewinella	482.50	4.65	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067607	Lewinella	415.50	3.11	Zn-dependent dipeptidase-like protein
+PGF_00068806	Lewinella	162.50	0.58	asparaginase/glutaminase
+PGF_00070779	Lewinella	357.75	0.96	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54) / Chorismate mutase I (EC 5.4.99.5)
+PGF_00073252	Lewinella	129.75	8.81	hypothetical protein
+PGF_00084324	Lewinella	255.00	15.53	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00113984	Lewinella	199.00	24.18	Flavin prenyltransferase UbiX
+PGF_00117709	Lewinella	518.00	1.41	hypothetical protein
+PGF_00120506	Lewinella	402.50	4.12	hypothetical protein
+PGF_00190715	Lewinella	889.25	16.56	hypothetical protein
+PGF_00199962	Lewinella	814.75	3.59	hypothetical protein
+PGF_00210404	Lewinella	413.25	12.18	hypothetical protein
+PGF_00217849	Lewinella	254.75	1.71	Uncharacterized UPF0721 integral membrane protein
+PGF_00230015	Lewinella	150.75	3.20	hypothetical protein
+PGF_00243386	Lewinella	175.50	1.00	hypothetical protein
+PGF_00244257	Lewinella	397.00	1.41	hypothetical protein
+PGF_00261173	Lewinella	367.50	1.00	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00293959	Lewinella	254.50	9.04	hypothetical protein
+PGF_00376054	Lewinella	142.75	2.06	hypothetical protein
+PGF_00399844	Lewinella	225.25	8.54	hypothetical protein
+PGF_00403962	Lewinella	393.50	3.32	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00404018	Lewinella	472.00	12.00	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Lewinella	172.50	1.73	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Lewinella	449.25	1.71	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404384	Lewinella	359.00	1.41	Biotin synthase (EC 2.8.1.6)
+PGF_00404432	Lewinella	418.25	2.75	Biotin synthase related domain containing protein
+PGF_00405983	Lewinella	421.75	17.97	putative N-acetylmuramoyl-L-alanine amidase
+PGF_00406692	Lewinella	929.00	3.16	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00407080	Lewinella	865.00	20.15	putative ferric aerobactin receptor
+PGF_00409616	Lewinella	388.50	5.97	putative membrane protein
+PGF_00409800	Lewinella	244.50	2.08	putative multi-domain protein
+PGF_00410883	Lewinella	161.00	4.24	Single-stranded DNA-binding protein
+PGF_00411216	Lewinella	428.75	17.58	ABC transporter, permease protein
+PGF_00412439	Lewinella	298.50	1.29	aminotransferase, class IV
+PGF_00412675	Lewinella	613.25	49.18	sodium-solute symporter, putative
+PGF_00412705	Lewinella	603.50	37.35	sodium/glucose cotransporter 2
+PGF_00413208	Lewinella	225.75	1.26	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413295	Lewinella	241.75	3.30	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Lewinella	621.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413319	Lewinella	202.00	2.00	tRNA-(ms[2]io[6]A)-hydroxylase
+PGF_00413351	Lewinella	148.00	0.82	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413359	Lewinella	175.75	3.95	tRNA/rRNA methyltransferase
+PGF_00414926	Lewinella	472.25	2.06	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Lewinella	369.75	11.30	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415486	Lewinella	164.75	15.50	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00416115	Lewinella	292.50	0.58	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Lewinella	539.25	0.96	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Lewinella	943.25	3.50	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416424	Lewinella	417.75	0.96	Carbapenem antibiotics biosynthesis protein carD
+PGF_00416622	Lewinella	373.00	2.45	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Lewinella	401.00	3.27	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00416702	Lewinella	744.00	4.08	Catalase-peroxidase KatG (EC 1.11.1.21)
+PGF_00417810	Lewinella	264.50	2.08	Chorismate dehydratase (EC 4.2.1.151)
+PGF_00417840	Lewinella	360.25	1.26	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Lewinella	176.00	6.78	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Lewinella	249.25	5.12	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00419420	Lewinella	465.25	2.63	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419627	Lewinella	300.50	0.58	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Lewinella	193.00	1.41	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419900	Lewinella	380.00	0.00	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00419913	Lewinella	160.25	12.28	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Lewinella	269.25	17.29	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420048	Lewinella	405.75	0.50	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420075	Lewinella	292.50	0.58	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Lewinella	221.50	3.42	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420496	Lewinella	958.50	7.42	Cytochrome c heme lyase subunit CcmF
+PGF_00420612	Lewinella	240.50	21.99	Cytoplasmic copper homeostasis protein CutC
+PGF_00420731	Lewinella	467.00	21.68	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420994	Lewinella	641.00	5.03	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421273	Lewinella	1129.00	3.83	DNA helicase
+PGF_00421624	Lewinella	544.00	4.55	DNA polymerase X family
+PGF_00421679	Lewinella	711.00	31.97	DNA primase (EC 2.7.7.-)
+PGF_00421733	Lewinella	372.50	4.04	DNA recombination and repair protein RecF
+PGF_00421792	Lewinella	468.25	6.90	DNA repair protein RadA
+PGF_00421796	Lewinella	552.75	2.06	DNA repair protein RecN
+PGF_00422271	Lewinella	332.75	1.50	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422287	Lewinella	114.50	1.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_00422888	Lewinella	543.00	0.82	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422912	Lewinella	211.25	4.79	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00423089	Lewinella	346.75	9.57	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Lewinella	263.50	5.69	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Lewinella	435.25	3.77	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423449	Lewinella	296.75	17.37	1,4-dihydroxy-6-naphtoate synthase
+PGF_00423470	Lewinella	276.75	1.50	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase (EC 5.3.1.17)
+PGF_00423796	Lewinella	260.75	12.87	Domain often clustered or fused with uracil-DNA glycosylase
+PGF_00424425	Lewinella	380.50	8.54	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+PGF_00424447	Lewinella	368.25	7.23	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424569	Lewinella	285.75	37.51	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Lewinella	624.25	36.07	Excinuclease ABC subunit C
+PGF_00425011	Lewinella	267.50	16.03	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425091	Lewinella	1082.25	90.55	Exonuclease SbcC
+PGF_00425092	Lewinella	423.00	13.49	Exonuclease SbcD
+PGF_00425679	Lewinella	218.50	1.91	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Lewinella	237.50	5.74	Probable transcriptional regulatory protein YebC
+PGF_00425991	Lewinella	514.25	1.89	FIG004436: Protein related to deoxyribodipyrimidine photolyase
+PGF_00426044	Lewinella	319.00	1.15	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426722	Lewinella	1299.25	105.67	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Lewinella	174.75	4.86	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427299	Lewinella	470.00	1.41	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00427366	Lewinella	141.75	4.92	6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
+PGF_00473519	Lewinella	203.25	4.50	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00497557	Lewinella	518.50	5.97	Uncharacterized protein YjgR
+PGF_00500015	Lewinella	308.00	0.82	pyridoxal phosphate-dependent deaminase, putative
+PGF_00502238	Lewinella	349.75	4.50	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00582621	Lewinella	437.25	88.20	Cryptochrome
+PGF_00586261	Lewinella	193.00	0.00	hypothetical protein
+PGF_00587142	Lewinella	595.25	19.60	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+PGF_00601220	Lewinella	228.00	4.24	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+PGF_00602314	Lewinella	113.00	1.41	hypothetical protein
+PGF_00607729	Lewinella	435.75	3.10	ATP-dependent RNA helicase BT1154
+PGF_00616490	Lewinella	536.75	5.91	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Lewinella	348.25	3.50	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Lewinella	319.25	2.36	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00644860	Lewinella	933.75	4.27	TonB-dependent receptor
+PGF_00644953	Lewinella	248.00	116.68	DnaJ-class molecular chaperone CbpA
+PGF_00655358	Lewinella	497.75	7.93	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Lewinella	384.25	1.26	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Lewinella	213.50	1.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665441	Lewinella	704.75	3.95	Ferredoxin--sulfite reductase (EC 1.8.7.1)
+PGF_00674831	Lewinella	494.25	7.09	Phytoene desaturase, neurosporene or lycopene producing (EC 1.3.-.-) / 4,4'-diapolycopene oxidase
+PGF_00709681	Lewinella	309.25	2.06	Inner membrane protein YrbG, predicted calcium/sodium:proton antiporter
+PGF_00717495	Lewinella	434.00	2.16	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00734221	Lewinella	370.25	10.37	Xanthine and CO dehydrogenases maturation factor, XdhC/CoxF family
+PGF_00734482	Lewinella	858.75	1.50	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00744857	Lewinella	493.75	0.50	Xylulose kinase (EC 2.7.1.17)
+PGF_00776587	Lewinella	117.25	6.29	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00827693	Lewinella	599.25	0.50	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_00832622	Lewinella	279.75	0.50	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_00833526	Lewinella	447.25	7.80	Uncharacterized MFS-type transporter
+PGF_00844950	Lewinella	466.25	30.84	hypothetical protein
+PGF_00846659	Lewinella	224.00	4.97	Polysaccharide deacetylase
+PGF_00853393	Lewinella	290.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00871619	Lewinella	703.25	2.22	Tail-specific protease precursor (EC 3.4.21.102)
+PGF_00908360	Lewinella	238.75	18.50	Phospholipid ABC transporter permease protein MlaE
+PGF_00909659	Lewinella	891.25	25.10	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00912265	Lewinella	347.25	31.86	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Lewinella	288.75	3.86	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00925844	Lewinella	445.25	6.50	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Lewinella	617.00	2.16	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00943546	Lewinella	253.75	1.50	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00960579	Lewinella	340.50	4.36	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00981596	Lewinella	492.00	17.34	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_01008498	Lewinella	139.00	11.22	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01039483	Lewinella	1002.00	27.51	Fe-S protein, homolog of lactate dehydrogenase SO1521
+PGF_01065911	Lewinella	211.75	6.75	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01070050	Lewinella	504.00	10.23	Phytoene dehydrogenase (EC 1.14.99.-)
+PGF_01079016	Lewinella	310.50	4.80	Chromosome (plasmid) partitioning protein ParB
+PGF_01124177	Lewinella	420.50	10.02	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Lewinella	474.25	5.97	Rod shape-determining protein RodA
+PGF_01162681	Lewinella	767.50	21.06	Aconitate hydratase (EC 4.2.1.3)
+PGF_01172485	Lewinella	433.00	57.38	Cell division protein FtsA
+PGF_01174807	Lewinella	334.25	7.93	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01174827	Lewinella	86.75	1.50	FIG152265: Sodium:solute symporter associated protein
+PGF_01175575	Lewinella	640.25	1.26	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Lewinella	246.50	27.60	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Lewinella	547.50	0.58	Heat shock protein 60 family chaperone GroEL
+PGF_01244926	Lewinella	556.00	182.50	hypothetical protein
+PGF_01351158	Lewinella	1143.00	16.25	Transcription-repair coupling factor
+PGF_01364427	Lewinella	196.50	0.58	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01404160	Lewinella	452.00	0.00	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01416568	Lewinella	195.50	0.58	LemA family protein
+PGF_01423501	Lewinella	157.50	1.00	Transcription elongation factor GreA
+PGF_01435544	Lewinella	268.00	4.83	Phenazine biosynthesis protein PhzF like
+PGF_01451911	Lewinella	369.75	2.22	TRAP transporter solute receptor, unknown substrate 6
+PGF_01466819	Lewinella	506.75	64.80	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01469197	Lewinella	471.00	13.27	RNA methyltransferase, TrmA family
+PGF_01483918	Lewinella	263.75	0.50	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01547797	Lewinella	608.50	47.95	hypothetical protein
+PGF_01599021	Lewinella	184.00	0.82	Peptide deformylase (EC 3.5.1.88)
+PGF_01604929	Lewinella	203.00	31.68	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01614738	Lewinella	97.75	9.11	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01668012	Lewinella	265.75	28.16	Sulfur carrier protein FdhD
+PGF_01674551	Lewinella	129.50	1.00	Glycine cleavage system H protein
+PGF_01682834	Lewinella	156.25	0.50	Bacterial ribosome SSU maturation protein RimP
+PGF_01699801	Lewinella	807.00	48.53	hypothetical protein
+PGF_01734668	Lewinella	192.25	0.96	Adenylate kinase (EC 2.7.4.3)
+PGF_01797166	Lewinella	456.75	5.19	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01853493	Lewinella	281.00	2.94	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01877133	Lewinella	397.75	1.50	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01900530	Lewinella	253.50	17.06	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01922505	Lewinella	457.25	2.36	Two-component transcriptional response regulator, LuxR family
+PGF_02019462	Lewinella	353.25	4.72	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Lewinella	360.50	15.72	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Lewinella	345.00	0.00	GTP-binding protein Obg
+PGF_02059020	Lewinella	555.25	5.50	Energy-dependent translational throttle protein EttA
+PGF_02061452	Lewinella	390.00	19.63	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02100242	Lewinella	730.75	10.90	putative patatin-like phospholipase
+PGF_02185217	Lewinella	448.75	1.50	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02211177	Lewinella	267.50	10.97	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02330496	Lewinella	210.75	7.85	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346768	Lewinella	900.50	53.08	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02357764	Lewinella	207.50	91.00	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02369559	Lewinella	939.00	6.06	DNA polymerase I (EC 2.7.7.7)
+PGF_02432027	Lewinella	537.00	22.29	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02443484	Lewinella	186.25	4.57	hypothetical protein
+PGF_02450432	Lewinella	273.75	8.50	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02462544	Lewinella	418.00	0.00	Arginine deiminase (EC 3.5.3.6)
+PGF_02463284	Lewinella	199.75	1.50	Recombination protein RecR
+PGF_02473354	Lewinella	530.00	1.63	Glucosaminyl-malate:cysteine ligase
+PGF_02489591	Lewinella	209.25	3.59	Uncharacterized Nudix hydrolase NudL
+PGF_02515882	Lewinella	437.00	17.40	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Lewinella	430.00	2.00	Enolase (EC 4.2.1.11)
+PGF_02593689	Lewinella	441.75	1.50	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Lewinella	597.00	167.33	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02704551	Lewinella	1462.75	25.12	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02728524	Lewinella	897.75	10.21	DNA mismatch repair protein MutS
+PGF_02738107	Lewinella	291.00	11.17	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02755983	Lewinella	192.00	2.16	hypothetical protein
+PGF_02759160	Lewinella	307.00	2.71	Gliding motility-associated ABC transporter ATP-binding protein GldA
+PGF_02788582	Lewinella	793.25	0.50	Recombination inhibitory protein MutS2
+PGF_02789532	Lewinella	281.25	2.63	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02797400	Lewinella	499.75	3.77	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Lewinella	1273.75	0.50	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02841843	Lewinella	73.00	0.00	hypothetical protein
+PGF_02862285	Lewinella	398.00	2.83	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02863224	Lewinella	363.75	6.29	Endoglucanase
+PGF_02883702	Lewinella	356.75	10.18	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02890229	Lewinella	551.75	25.17	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02896195	Lewinella	458.75	106.50	Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_02898096	Lewinella	491.75	1.26	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02919689	Lewinella	246.25	7.80	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Lewinella	238.00	2.16	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930037	Lewinella	134.75	4.50	hypothetical protein
+PGF_02930687	Lewinella	333.25	3.30	Oxidoreductase, Gfo/Idh/MocA family
+PGF_02931322	Lewinella	332.25	4.92	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02940505	Lewinella	250.50	1.73	UDP-galactose-lipid carrier transferase (EC 2.-.-.-)
+PGF_02944116	Lewinella	740.00	10.17	K(+)-stimulated pyrophosphate-energized sodium pump
+PGF_02944756	Lewinella	389.75	0.50	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Lewinella	702.00	24.32	SSU ribosomal protein S1p
+PGF_02947204	Lewinella	525.00	9.38	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02954217	Lewinella	298.75	6.80	N-carbamoylputrescine amidase (EC 3.5.1.53)
+PGF_02956462	Lewinella	127.50	0.58	RidA/YER057c/UK114 superfamily protein
+PGF_02961611	Lewinella	178.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)
+PGF_02967264	Lewinella	812.00	13.71	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_02977685	Lewinella	440.75	2.87	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_02980852	Lewinella	285.00	1.15	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_03017775	Lewinella	511.75	3.77	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Lewinella	186.25	10.47	Septum formation protein Maf
+PGF_03019512	Lewinella	775.00	5.83	Acyl-CoA dehydrogenase family protein
+PGF_03024272	Lewinella	256.25	45.21	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4)
+PGF_03026450	Lewinella	1185.75	3.77	Chromosome partition protein smc
+PGF_03029859	Lewinella	623.75	1.26	Bis-ABC ATPase Uup
+PGF_03057384	Lewinella	348.75	23.26	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03070402	Lewinella	453.25	37.18	Proton/glutamate symporter @ Sodium/glutamate symporter
+PGF_03070587	Lewinella	434.00	9.70	Ornithine aminotransferase (EC 2.6.1.13)
+PGF_03073470	Lewinella	561.25	3.20	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03079479	Lewinella	537.75	115.24	hypothetical protein
+PGF_03104567	Lewinella	449.00	6.00	Trk potassium uptake system protein TrkA
+PGF_03110657	Lewinella	690.50	16.90	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03124650	Lewinella	470.50	1.73	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03131321	Lewinella	447.25	18.14	DNA-damage-inducible protein F
+PGF_03145455	Lewinella	327.25	0.50	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03174068	Lewinella	181.00	0.82	Transcription antitermination protein NusG
+PGF_03267589	Lewinella	280.75	0.50	Transketolase, N-terminal section (EC 2.2.1.1)
+PGF_03272313	Lewinella	855.00	2.94	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Lewinella	82.50	0.58	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03318456	Lewinella	482.00	0.00	Trk potassium uptake system protein TrkH
+PGF_03441843	Lewinella	798.25	2.22	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03442211	Lewinella	337.50	1.29	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_03450398	Lewinella	683.50	15.55	hypothetical protein
+PGF_03456505	Lewinella	436.00	2.83	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03518570	Lewinella	140.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Lewinella	492.75	2.22	Cell division protein FtsZ
+PGF_03609651	Lewinella	709.25	6.13	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03684283	Lewinella	415.50	1.00	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03750571	Lewinella	476.50	6.40	Chromosomal replication initiator protein DnaA
+PGF_03751658	Lewinella	86.50	4.51	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Lewinella	201.50	4.80	Heat shock protein GrpE
+PGF_03753122	Lewinella	303.25	5.25	Site-specific tyrosine recombinase XerC
+PGF_03757137	Lewinella	446.50	1.73	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Lewinella	212.50	5.07	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03778780	Lewinella	323.00	3.37	Signal recognition particle receptor FtsY
+PGF_03790040	Lewinella	235.25	14.20	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Lewinella	267.25	0.50	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03952095	Lewinella	163.00	17.36	putative secreted protein
+PGF_03991729	Lewinella	369.00	16.25	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04005838	Lewinella	422.50	10.41	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Lewinella	244.75	8.88	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04020427	Lewinella	274.50	13.67	hypothetical protein
+PGF_04034430	Lewinella	62.25	0.50	SSU ribosomal protein S21p
+PGF_04105233	Lewinella	109.75	2.63	Uncharacterized protein TTC1240
+PGF_04108824	Lewinella	710.25	8.06	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04132127	Lewinella	436.50	26.39	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04147121	Lewinella	508.75	0.50	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04152406	Lewinella	332.75	3.10	Aminopeptidase Y (Arg, Lys, Leu preference) (EC 3.4.11.15)
+PGF_04154333	Lewinella	90.25	12.84	Twin-arginine translocation protein TatA
+PGF_04182459	Lewinella	225.75	2.99	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04198961	Lewinella	204.75	2.50	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04395505	Lewinella	354.75	2.36	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04455428	Lewinella	385.25	2.50	hypothetical protein
+PGF_04477106	Lewinella	364.00	3.37	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04490704	Lewinella	369.00	18.99	FIG022979: MoxR-like ATPases
+PGF_04505269	Lewinella	252.25	12.53	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Lewinella	441.00	2.16	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Lewinella	527.25	0.50	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Lewinella	248.50	6.45	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04662829	Lewinella	647.50	17.23	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Lewinella	410.00	0.82	Alanine transaminase (EC 2.6.1.2)
+PGF_04749763	Lewinella	898.50	135.81	Translation initiation factor 2
+PGF_04788810	Lewinella	226.00	6.48	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Lewinella	330.50	66.35	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Lewinella	116.00	0.00	LSU ribosomal protein L19p
+PGF_04962192	Lewinella	783.50	15.00	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Lewinella	102.75	0.50	LSU ribosomal protein L21p
+PGF_05022117	Lewinella	555.50	24.34	Bis-ABC ATPase YbiT
+PGF_05135220	Lewinella	961.75	14.52	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Lewinella	309.25	2.87	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Lewinella	503.50	0.58	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05220334	Lewinella	483.75	5.19	Succinate-semialdehyde dehydrogenase [NAD(P)+] (EC 1.2.1.16)
+PGF_05255412	Lewinella	420.50	13.03	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05421852	Lewinella	626.25	4.86	Chaperone protein HtpG
+PGF_05435672	Lewinella	341.50	10.63	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05463808	Lewinella	294.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05466290	Lewinella	231.75	1.71	Succinate dehydrogenase cytochrome b subunit
+PGF_05483328	Lewinella	249.75	0.96	hypothetical protein
+PGF_05507938	Lewinella	648.75	15.59	DNA mismatch repair protein MutL
+PGF_05560886	Lewinella	264.75	3.69	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Lewinella	455.75	1.50	Protein translocase subunit SecY
+PGF_05598173	Lewinella	379.50	16.30	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Lewinella	278.00	0.00	Phytoene synthase (EC 2.5.1.32)
+PGF_05622318	Lewinella	428.75	1.26	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05641863	Lewinella	215.75	0.96	hypothetical protein
+PGF_05681779	Lewinella	191.25	2.06	Lysine decarboxylase family
+PGF_05712128	Lewinella	629.00	2.83	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05770898	Lewinella	346.00	1.63	Selenide,water dikinase (EC 2.7.9.3)
+PGF_05866195	Lewinella	423.50	39.06	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_05872926	Lewinella	480.25	24.88	Putative uncharacterized protein TTHA1760
+PGF_05971611	Lewinella	427.50	19.33	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06027248	Lewinella	508.00	4.00	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06030909	Lewinella	766.25	8.66	Putative formate dehydrogenase oxidoreductase protein
+PGF_06114369	Lewinella	203.75	1.71	Xenobiotic acyltransferase XAT family
+PGF_06130293	Lewinella	609.25	2.99	hypothetical protein
+PGF_06170558	Lewinella	154.00	1.83	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Lewinella	146.25	0.50	LSU ribosomal protein L13p (L13Ae)
+PGF_06206590	Lewinella	550.25	20.95	Domain of unknown function / Pseudouridine synthase
+PGF_06230969	Lewinella	531.75	37.11	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06248518	Lewinella	239.50	1.29	Gluconate 2-dehydrogenase subunit 3 family protein
+PGF_06254345	Lewinella	87.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06318952	Lewinella	335.50	3.11	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06447349	Lewinella	486.75	182.17	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06460114	Lewinella	370.00	3.74	Septum site-determining protein MinD
+PGF_06461498	Lewinella	269.50	1.73	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Lewinella	346.25	3.95	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06530721	Lewinella	246.00	2.94	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06589185	Lewinella	587.75	1.89	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06619663	Lewinella	435.75	11.18	Xaa-Pro dipeptidase family enzyme
+PGF_06644010	Lewinella	297.50	5.00	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Lewinella	79.00	0.00	Acyl carrier protein
+PGF_06649360	Lewinella	194.75	8.85	Segregation and condensation protein B
+PGF_06660812	Lewinella	198.25	3.50	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06672158	Lewinella	226.00	4.00	Nitroreductase family protein
+PGF_06679416	Lewinella	198.75	1.50	Adenylylsulfate kinase (EC 2.7.1.25)
+PGF_06755300	Lewinella	186.75	9.78	ABC-type Fe3+ transport system protein; Molybdenum transport protein, putative
+PGF_06755829	Lewinella	387.00	24.73	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Lewinella	416.00	8.29	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06759389	Lewinella	242.75	0.50	Gliding motility-associated ABC transporter permease protein GldF
+PGF_07000240	Lewinella	170.50	10.38	hypothetical protein
+PGF_07102412	Lewinella	310.50	46.98	hypothetical protein
+PGF_07111723	Lewinella	158.25	11.95	hypothetical protein
+PGF_07250468	Lewinella	230.50	3.00	hypothetical protein
+PGF_07263029	Lewinella	365.50	9.88	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07477984	Lewinella	475.75	1.26	Peptidase M20D, amidohydrolase
+PGF_07678534	Lewinella	351.50	1.73	hypothetical protein
+PGF_08077222	Lewinella	669.50	2.38	Pullulanase (EC 3.2.1.41)
+PGF_08082848	Lewinella	409.75	28.83	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08097283	Lewinella	207.50	26.16	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_08126362	Lewinella	442.75	1.26	DNA recombination protein RmuC
+PGF_08141949	Lewinella	234.75	2.99	Glycosyltransferase
+PGF_08166083	Lewinella	454.25	15.65	Na+/H+ antiporter NhaD type
+PGF_08183187	Lewinella	384.75	2.50	Cell division protein FtsW
+PGF_08184311	Lewinella	332.25	0.50	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_08188102	Lewinella	380.00	3.46	Oxidoreductase
+PGF_08199149	Lewinella	465.25	0.50	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)

@@ -1,0 +1,773 @@
+PGF_00000126	Geodermatophilus	567.31	4.32	FIG00681611: hypothetical protein
+PGF_00000128	Geodermatophilus	266.56	8.48	FIG00682122: hypothetical protein
+PGF_00000416	Geodermatophilus	297.00	5.60	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000452	Geodermatophilus	535.12	7.63	FIG00814964: hypothetical protein
+PGF_00000494	Geodermatophilus	179.75	5.76	FIG00816212: Putative membrane protein
+PGF_00000568	Geodermatophilus	113.19	3.25	FIG00820327: hypothetical protein
+PGF_00001331	Geodermatophilus	224.31	3.70	Endonuclease NucS
+PGF_00001493	Geodermatophilus	562.19	8.16	ABC transporter
+PGF_00001849	Geodermatophilus	163.25	4.92	FIG01122152: hypothetical protein
+PGF_00002542	Geodermatophilus	138.12	8.64	FIG017342: transmembrane protein
+PGF_00002584	Geodermatophilus	661.44	1.26	FIG019045: long form Mg-chelase associated protein with vWA domain
+PGF_00002592	Geodermatophilus	267.19	16.17	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00003179	Geodermatophilus	191.81	9.89	FIG049476: HIT family protein
+PGF_00003233	Geodermatophilus	164.81	4.25	FIG059443: hypothetical protein
+PGF_00003409	Geodermatophilus	647.31	9.22	FIG092679: Fe-S oxidoreductase
+PGF_00003506	Geodermatophilus	246.06	0.25	FIG137478: Hypothetical protein
+PGF_00003516	Geodermatophilus	315.31	63.10	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004392	Geodermatophilus	556.19	4.67	Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)
+PGF_00005284	Geodermatophilus	528.75	3.75	Flagellar M-ring protein FliF
+PGF_00005354	Geodermatophilus	133.75	1.39	Flagellar basal-body rod protein FlgC
+PGF_00005384	Geodermatophilus	678.38	2.22	Flagellar biosynthesis protein FlhA
+PGF_00005402	Geodermatophilus	91.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Geodermatophilus	412.25	9.82	Flagellar hook protein FlgE
+PGF_00005454	Geodermatophilus	474.81	6.55	Flagellar hook-associated protein FlgK
+PGF_00005653	Geodermatophilus	326.62	61.86	Flagellin protein FlaA
+PGF_00006023	Geodermatophilus	296.38	2.70	Type II/IV secretion system protein TadC, associated with Flp pilus assembly
+PGF_00006046	Geodermatophilus	379.12	1.54	Flp pilus assembly protein, ATPase CpaF
+PGF_00006100	Geodermatophilus	367.88	4.70	tRNA-modifying protein YgfZ
+PGF_00006277	Geodermatophilus	432.25	2.18	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+PGF_00006394	Geodermatophilus	343.75	0.45	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Geodermatophilus	467.31	3.94	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006724	Geodermatophilus	289.50	12.43	GCN5-related N-acetyltransferase, FIGfam019367
+PGF_00006935	Geodermatophilus	520.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Geodermatophilus	370.62	38.29	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Geodermatophilus	447.25	1.06	GTP-binding protein EngA
+PGF_00007027	Geodermatophilus	304.38	0.50	GTP-binding protein Era
+PGF_00007041	Geodermatophilus	631.69	6.03	GTP-binding protein TypA/BipA
+PGF_00007085	Geodermatophilus	383.81	12.78	Galactokinase (EC 2.7.1.6)
+PGF_00007120	Geodermatophilus	362.76	6.96	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007304	Geodermatophilus	278.19	4.48	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007525	Geodermatophilus	387.69	20.59	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007632	Geodermatophilus	326.75	6.89	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007982	Geodermatophilus	289.25	3.04	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00008051	Geodermatophilus	465.38	10.26	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Geodermatophilus	374.00	2.28	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008115	Geodermatophilus	1555.25	6.91	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008334	Geodermatophilus	459.00	7.05	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Geodermatophilus	496.12	4.72	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008611	Geodermatophilus	335.62	3.10	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Geodermatophilus	994.88	9.30	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008872	Geodermatophilus	848.38	4.81	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009500	Geodermatophilus	184.00	0.00	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009966	Geodermatophilus	467.69	2.57	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Geodermatophilus	254.62	2.36	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Geodermatophilus	821.38	25.19	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Geodermatophilus	198.69	7.78	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Geodermatophilus	650.88	6.79	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Geodermatophilus	306.00	3.58	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011979	Geodermatophilus	433.75	0.45	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011989	Geodermatophilus	273.12	2.94	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012264	Geodermatophilus	369.88	7.72	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012288	Geodermatophilus	305.06	13.74	Homocysteine S-methyltransferase (EC 2.1.1.10)
+PGF_00012293	Geodermatophilus	399.62	2.50	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+PGF_00012340	Geodermatophilus	431.44	3.05	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Geodermatophilus	309.94	6.59	Homoserine kinase (EC 2.7.1.39)
+PGF_00012430	Geodermatophilus	151.19	6.41	HspR, transcriptional repressor of DnaK operon
+PGF_00013022	Geodermatophilus	259.75	0.45	Hypothetical NagD-like phosphatase, Actinobacterial subfamily
+PGF_00013272	Geodermatophilus	147.50	4.55	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Geodermatophilus	244.19	7.12	UPF0001 protein YggS
+PGF_00013492	Geodermatophilus	217.50	85.94	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Geodermatophilus	529.44	50.04	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Geodermatophilus	198.31	1.25	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Geodermatophilus	268.88	0.50	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014314	Geodermatophilus	381.94	7.10	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00014706	Geodermatophilus	212.00	9.50	Integral membrane protein
+PGF_00014855	Geodermatophilus	287.75	0.45	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00015039	Geodermatophilus	274.69	4.01	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Geodermatophilus	76.06	3.17	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Geodermatophilus	319.06	8.21	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015355	Geodermatophilus	281.19	6.55	Iron utilization protein
+PGF_00015467	Geodermatophilus	233.75	2.29	Iron-dependent repressor IdeR/DtxR
+PGF_00015510	Geodermatophilus	262.56	5.63	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Geodermatophilus	479.25	1.39	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Geodermatophilus	439.62	9.95	Iron-sulfur cluster assembly protein SufD
+PGF_00015543	Geodermatophilus	276.38	16.78	Iron-sulfur cluster regulator SufR
+PGF_00015686	Geodermatophilus	421.75	2.59	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015699	Geodermatophilus	404.81	1.87	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Geodermatophilus	1053.19	4.20	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015735	Geodermatophilus	183.38	7.90	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Geodermatophilus	341.81	0.40	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015931	Geodermatophilus	419.81	3.02	Kynureninase (EC 3.7.1.3)
+PGF_00016074	Geodermatophilus	420.56	13.03	L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC (EC 6.3.1.13)
+PGF_00016175	Geodermatophilus	316.88	0.34	L-malyl-CoA/beta-methylmalyl-CoA lyase (EC 4.1.3.-), actinobacterial type
+PGF_00016231	Geodermatophilus	432.88	7.81	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016284	Geodermatophilus	276.50	5.94	LOG family protein
+PGF_00016328	Geodermatophilus	202.06	3.30	LSU ribosomal protein L10p (P0)
+PGF_00016338	Geodermatophilus	423.56	0.51	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Geodermatophilus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Geodermatophilus	147.12	0.34	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Geodermatophilus	138.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Geodermatophilus	227.75	11.44	LSU ribosomal protein L17p
+PGF_00016353	Geodermatophilus	134.38	4.30	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Geodermatophilus	239.25	0.45	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Geodermatophilus	127.94	0.85	LSU ribosomal protein L20p
+PGF_00016360	Geodermatophilus	297.06	6.23	1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase (EC 3.5.1.103)
+PGF_00016361	Geodermatophilus	97.94	1.29	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016374	Geodermatophilus	100.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Geodermatophilus	114.75	4.54	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Geodermatophilus	86.50	2.68	LSU ribosomal protein L27p
+PGF_00016387	Geodermatophilus	61.12	5.14	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016393	Geodermatophilus	277.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Geodermatophilus	59.69	0.48	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Geodermatophilus	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016424	Geodermatophilus	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Geodermatophilus	220.12	3.50	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Geodermatophilus	284.44	29.78	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Geodermatophilus	194.44	1.75	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Geodermatophilus	178.38	2.50	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Geodermatophilus	130.31	1.08	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Geodermatophilus	151.00	0.00	LSU ribosomal protein L9p
+PGF_00016613	Geodermatophilus	321.88	7.00	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_00016787	Geodermatophilus	320.88	15.80	Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)
+PGF_00016824	Geodermatophilus	676.06	5.21	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+PGF_00017139	Geodermatophilus	511.94	3.49	ATP-dependent DNA ligase (EC 6.5.1.1)
+PGF_00017479	Geodermatophilus	323.50	5.69	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017496	Geodermatophilus	244.25	0.45	LmbE family protein
+PGF_00017545	Geodermatophilus	600.06	5.23	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD15
+PGF_00018466	Geodermatophilus	857.19	28.42	ATP-dependent helicase
+PGF_00018577	Geodermatophilus	493.75	10.57	Magnesium chelatase, subunit ChlI (EC 6.6.1.1)
+PGF_00018952	Geodermatophilus	316.62	0.81	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019051	Geodermatophilus	586.00	7.21	Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141)
+PGF_00019068	Geodermatophilus	457.25	5.39	Maltokinase (EC 2.7.1.175)
+PGF_00019307	Geodermatophilus	393.25	4.93	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019610	Geodermatophilus	163.62	12.57	Membrane protein
+PGF_00020089	Geodermatophilus	170.00	19.60	Membrane proteins related to metalloendopeptidases
+PGF_00020173	Geodermatophilus	325.88	11.22	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Geodermatophilus	165.94	1.77	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020650	Geodermatophilus	88.87	11.94	ATP/GTP-binding protein
+PGF_00020793	Geodermatophilus	203.94	5.26	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020981	Geodermatophilus	536.56	5.98	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00021018	Geodermatophilus	152.06	3.23	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00021022	Geodermatophilus	735.38	1.54	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021030	Geodermatophilus	500.06	4.02	Methylphosphotriester-DNA--protein-cysteine S-methyltransferase (EC 2.1.1.n11) / DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_00022507	Geodermatophilus	163.88	1.75	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022722	Geodermatophilus	397.25	45.25	Mrp protein homolog
+PGF_00023423	Geodermatophilus	151.62	6.24	MutT-like protein
+PGF_00023523	Geodermatophilus	118.31	17.57	Mycofactocin binding protein MftB
+PGF_00023532	Geodermatophilus	297.19	3.10	Mycothiol S-conjugate amidase Mca
+PGF_00023591	Geodermatophilus	344.38	1.78	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023803	Geodermatophilus	305.56	6.37	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase (EC 2.4.1.289)
+PGF_00023946	Geodermatophilus	190.62	67.09	N-acetyltransferase ElaA
+PGF_00024232	Geodermatophilus	341.19	36.21	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Geodermatophilus	373.06	6.40	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Geodermatophilus	171.12	6.33	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Geodermatophilus	400.62	4.43	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Geodermatophilus	632.25	30.89	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024420	Geodermatophilus	366.50	9.42	NAD-dependent epimerase/dehydratase
+PGF_00024478	Geodermatophilus	333.81	0.54	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024615	Geodermatophilus	322.06	3.87	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024687	Geodermatophilus	442.00	2.13	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Geodermatophilus	342.19	10.62	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Geodermatophilus	272.12	2.73	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Geodermatophilus	99.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00025215	Geodermatophilus	176.12	3.88	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025379	Geodermatophilus	296.50	2.28	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025383	Geodermatophilus	341.50	2.16	Naringenin-chalcone synthase (EC 2.3.1.74)
+PGF_00025554	Geodermatophilus	132.31	5.17	Nickel-dependent superoxide dismutase (EC 1.15.1.1)
+PGF_00025562	Geodermatophilus	190.50	1.86	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Geodermatophilus	427.12	1.71	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026362	Geodermatophilus	203.50	2.83	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026797	Geodermatophilus	316.06	8.77	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00027216	Geodermatophilus	376.44	10.92	OpcA, an allosteric effector of glucose-6-phosphate dehydrogenase, actinobacterial
+PGF_00028560	Geodermatophilus	287.94	4.02	Oxidoreductase
+PGF_00029917	Geodermatophilus	286.62	8.33	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Geodermatophilus	321.06	2.84	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Geodermatophilus	358.50	2.16	Peptide chain release factor 1
+PGF_00032889	Geodermatophilus	384.25	3.13	Acyl-CoA dehydrogenase family protein
+PGF_00033095	Geodermatophilus	821.12	3.95	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Geodermatophilus	386.94	96.64	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Geodermatophilus	360.31	1.40	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033327	Geodermatophilus	404.69	2.24	Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
+PGF_00033359	Geodermatophilus	358.88	0.50	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Geodermatophilus	237.44	1.90	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033384	Geodermatophilus	561.38	9.44	Phosphodiesterase/alkaline phosphatase D
+PGF_00033392	Geodermatophilus	942.00	19.03	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033439	Geodermatophilus	166.88	9.91	Phosphoesterase
+PGF_00033479	Geodermatophilus	544.12	0.50	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Geodermatophilus	398.88	2.39	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033708	Geodermatophilus	509.00	10.06	Phospholipase D/Transphosphatidylase (EC 3.1.4.4)
+PGF_00033807	Geodermatophilus	455.62	3.50	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033877	Geodermatophilus	159.19	3.89	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033924	Geodermatophilus	87.62	1.75	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Geodermatophilus	421.62	3.32	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Geodermatophilus	286.81	1.72	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033950	Geodermatophilus	244.19	1.11	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Geodermatophilus	353.44	2.50	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Geodermatophilus	223.12	0.81	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Geodermatophilus	770.12	11.90	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Geodermatophilus	202.93	5.75	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033987	Geodermatophilus	370.62	0.62	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034491	Geodermatophilus	180.69	2.06	Pleiotropic negative regulator for morphological and physiological development in Streptomyces, BldD
+PGF_00034776	Geodermatophilus	758.69	6.56	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Geodermatophilus	332.38	5.45	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035334	Geodermatophilus	318.44	12.93	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035340	Geodermatophilus	327.12	0.50	Potassium channel beta chain
+PGF_00035378	Geodermatophilus	495.50	1.90	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035440	Geodermatophilus	504.50	9.01	Precorrin-2 C(20)-methyltransferase (EC 2.1.1.130) / Precorrin-3B C(17)-methyltransferase (EC 2.1.1.131)
+PGF_00035464	Geodermatophilus	247.62	3.46	Precorrin-4 C(11)-methyltransferase (EC 2.1.1.133)
+PGF_00035467	Geodermatophilus	404.38	6.02	Precorrin-6Y C(5,15)-methyltransferase [decarboxylating] (EC 2.1.1.132)
+PGF_00035468	Geodermatophilus	207.00	1.93	Precorrin-8X methylmutase (EC 5.4.99.61)
+PGF_00035721	Geodermatophilus	435.75	2.05	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Geodermatophilus	428.69	1.01	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036729	Geodermatophilus	1537.94	6.83	Probable ATP-dependent helicase lhr (EC 3.6.1.-)
+PGF_00037510	Geodermatophilus	69.00	0.00	Prokaryotic ubiquitin-like protein Pup
+PGF_00037588	Geodermatophilus	584.06	3.57	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037620	Geodermatophilus	320.38	4.13	Alcohol dehydrogenase
+PGF_00037865	Geodermatophilus	294.69	13.16	Proteasome subunit alpha (EC 3.4.25.1), bacterial
+PGF_00037867	Geodermatophilus	282.44	6.62	Proteasome subunit beta (EC 3.4.25.1), bacterial
+PGF_00038579	Geodermatophilus	106.62	1.71	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038674	Geodermatophilus	462.00	9.29	Protein translocase subunit SecF
+PGF_00038796	Geodermatophilus	76.94	0.25	Protein translocase membrane subunit SecG
+PGF_00038839	Geodermatophilus	247.53	5.79	Protocatechuate 3,4-dioxygenase beta chain (EC 1.13.11.3)
+PGF_00038897	Geodermatophilus	325.75	0.45	Aldo/keto reductase, SCO1670 family
+PGF_00038969	Geodermatophilus	499.62	2.47	Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'
+PGF_00038970	Geodermatophilus	452.00	0.00	Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'
+PGF_00038986	Geodermatophilus	271.62	4.46	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039287	Geodermatophilus	751.06	3.84	Putative DNA-binding protein
+PGF_00040578	Geodermatophilus	289.31	9.76	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040882	Geodermatophilus	683.75	14.66	Putative glucanase glgE (EC 3.2.1.-)
+PGF_00041222	Geodermatophilus	562.06	22.25	Putative helicase
+PGF_00041431	Geodermatophilus	345.00	23.02	Putative hydrolase
+PGF_00041788	Geodermatophilus	155.88	3.84	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042570	Geodermatophilus	310.81	67.20	Putative oxidoreducatse SCO7286
+PGF_00042612	Geodermatophilus	342.31	1.54	Putative oxidoreductase
+PGF_00045694	Geodermatophilus	374.88	7.27	Putative uroporphyrinogen-III synthase (EC 4.2.1.75), related to YjjA (in BS) / Response regulator
+PGF_00045821	Geodermatophilus	374.50	3.86	Pyridoxal-phosphate-dependent protein EgtE (ergothioneine synthase)
+PGF_00045833	Geodermatophilus	217.25	5.57	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045926	Geodermatophilus	425.06	1.24	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045991	Geodermatophilus	471.00	0.00	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046101	Geodermatophilus	306.00	5.73	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Geodermatophilus	349.69	30.12	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046192	Geodermatophilus	174.88	16.95	RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+PGF_00046350	Geodermatophilus	333.06	29.67	RNA polymerase sigma factor SigB
+PGF_00046352	Geodermatophilus	326.31	7.40	RNA polymerase sigma factor SigB
+PGF_00047078	Geodermatophilus	343.69	0.48	RecA protein
+PGF_00047155	Geodermatophilus	223.94	3.38	Redox-sensing transcriptional repressor Rex
+PGF_00047479	Geodermatophilus	425.31	24.10	Related to HTH domain of SpoOJ/ParA/ParB/repB family, involved in chromosome partitioning
+PGF_00047632	Geodermatophilus	756.50	306.55	Replicative DNA helicase (DnaB) (EC 3.6.4.12) @ intein-containing
+PGF_00048392	Geodermatophilus	111.56	2.06	Rhodanese-related sulfurtransferase
+PGF_00048480	Geodermatophilus	206.50	5.76	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Geodermatophilus	250.00	15.19	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Geodermatophilus	246.69	12.63	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Geodermatophilus	181.94	3.97	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Geodermatophilus	327.25	1.91	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Geodermatophilus	284.12	3.05	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048846	Geodermatophilus	472.25	8.39	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Geodermatophilus	225.88	3.77	Ribosome hibernation promoting factor Hpf
+PGF_00048928	Geodermatophilus	326.25	22.32	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Geodermatophilus	167.94	6.73	Ribosome-binding factor A
+PGF_00048985	Geodermatophilus	224.38	5.30	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Geodermatophilus	398.81	1.33	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049827	Geodermatophilus	272.94	28.66	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Geodermatophilus	101.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Geodermatophilus	134.75	0.45	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Geodermatophilus	124.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Geodermatophilus	125.50	0.89	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Geodermatophilus	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Geodermatophilus	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Geodermatophilus	152.75	7.89	SSU ribosomal protein S16p
+PGF_00049854	Geodermatophilus	100.69	2.09	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Geodermatophilus	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Geodermatophilus	306.31	3.74	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Geodermatophilus	206.44	4.80	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Geodermatophilus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Geodermatophilus	134.38	6.50	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Geodermatophilus	140.12	1.75	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Geodermatophilus	274.62	6.70	Segregation and condensation protein A
+PGF_00050356	Geodermatophilus	348.06	2.05	Predicted amidohydrolase SSO1643
+PGF_00050995	Geodermatophilus	520.38	7.61	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Geodermatophilus	432.00	4.73	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Geodermatophilus	521.25	10.04	Signal recognition particle protein Ffh
+PGF_00052503	Geodermatophilus	279.38	6.47	Similar to 1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PGF_00052705	Geodermatophilus	138.31	3.03	LSU ribosomal protein L11p (L12e)
+PGF_00052852	Geodermatophilus	239.69	13.63	Sirohydrochlorin ferrochelatase SirB (EC 4.99.1.4)
+PGF_00052943	Geodermatophilus	310.56	15.67	Site-specific tyrosine recombinase XerD
+PGF_00053513	Geodermatophilus	351.81	2.34	Solanesyl diphosphate synthase (EC 2.5.1.11)
+PGF_00053770	Geodermatophilus	374.12	7.28	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053953	Geodermatophilus	99.00	0.00	Sporulation regulatory protein WhiD
+PGF_00054165	Geodermatophilus	425.12	12.26	Peptidase, M48 family
+PGF_00054528	Geodermatophilus	389.50	4.93	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054959	Geodermatophilus	441.19	10.10	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00055001	Geodermatophilus	331.75	3.45	Sulfate transporter, CysZ-type
+PGF_00055045	Geodermatophilus	649.50	19.54	Amylosucrase (EC 2.4.1.4)
+PGF_00055165	Geodermatophilus	91.69	0.48	Sulfur/cysteine carrier protein CysO
+PGF_00056255	Geodermatophilus	269.75	2.11	TesB-like acyl-CoA thioesterase 3
+PGF_00056662	Geodermatophilus	351.19	2.95	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Geodermatophilus	501.50	3.85	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Geodermatophilus	243.62	2.33	Thymidine kinase (EC 2.7.1.21)
+PGF_00057381	Geodermatophilus	251.62	6.49	Trans,polycis-decaprenyl diphosphate synthase (EC 2.5.1.86)
+PGF_00057399	Geodermatophilus	367.38	1.02	Transaldolase (EC 2.2.1.2)
+PGF_00057485	Geodermatophilus	386.88	36.65	Transcription termination protein NusA
+PGF_00057488	Geodermatophilus	135.69	1.30	Transcription termination protein NusB
+PGF_00058061	Geodermatophilus	77.25	3.62	Transcriptional regulator
+PGF_00059040	Geodermatophilus	77.00	0.00	Transcriptional regulator, AsnC family
+PGF_00059042	Geodermatophilus	95.12	3.05	Transcriptional regulator, AsnC family
+PGF_00059672	Geodermatophilus	259.31	1.49	(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)
+PGF_00060398	Geodermatophilus	739.62	3.36	Transketolase (EC 2.2.1.1)
+PGF_00060409	Geodermatophilus	698.00	1.79	Translation elongation factor G
+PGF_00060414	Geodermatophilus	624.69	26.89	Translation elongation factor LepA
+PGF_00060421	Geodermatophilus	186.00	0.00	Translation elongation factor P
+PGF_00060427	Geodermatophilus	271.00	0.00	Translation elongation factor Ts
+PGF_00060428	Geodermatophilus	397.00	0.00	Translation elongation factor Tu
+PGF_00060431	Geodermatophilus	74.69	1.54	Translation initiation factor 1
+PGF_00060478	Geodermatophilus	196.62	17.69	Translation initiation factor 3
+PGF_00060585	Geodermatophilus	268.56	20.25	Transmembrane protein MT2276, clustered with lipoate gene
+PGF_00061800	Geodermatophilus	556.56	1.09	Trehalose synthase (EC 5.4.99.16)
+PGF_00061802	Geodermatophilus	612.25	4.78	Trehalose synthase (EC 5.4.99.16) @ Alpha-amylase (EC 3.2.1.1)
+PGF_00061810	Geodermatophilus	473.88	11.32	Trehalose-6-phosphate synthase (EC 2.4.1.15)
+PGF_00062023	Geodermatophilus	268.69	8.21	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Geodermatophilus	450.81	2.56	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063916	Geodermatophilus	429.25	5.03	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Geodermatophilus	335.75	4.73	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Geodermatophilus	367.62	5.76	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Geodermatophilus	489.50	10.80	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064034	Geodermatophilus	513.88	9.69	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7)
+PGF_00064272	Geodermatophilus	250.38	3.38	UPF0246 protein YaaA
+PGF_00064359	Geodermatophilus	178.38	6.21	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064393	Geodermatophilus	307.12	4.57	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064454	Geodermatophilus	293.94	1.44	Ubiquinol-cytochrome C reductase, diheme cytochrome cc subunit
+PGF_00064786	Geodermatophilus	304.75	1.91	Arogenate dehydrogenase (EC 1.3.1.43)
+PGF_00064835	Geodermatophilus	273.50	19.60	Uncharacterized methyltransferase SCO7062
+PGF_00065292	Geodermatophilus	180.56	11.14	Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene
+PGF_00065315	Geodermatophilus	131.69	5.25	Uncharacterized protein SCO1141
+PGF_00065326	Geodermatophilus	282.25	14.20	Uncharacterized protein SCO4203
+PGF_00065397	Geodermatophilus	467.31	4.77	Uncharacterized protein YahG
+PGF_00066123	Geodermatophilus	215.12	13.45	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Geodermatophilus	193.81	4.65	Pyrimidine operon regulatory protein PyrR
+PGF_00066270	Geodermatophilus	355.88	5.25	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066286	Geodermatophilus	512.62	2.99	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Geodermatophilus	860.75	3.49	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Geodermatophilus	147.56	14.05	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066839	Geodermatophilus	94.75	15.04	WhiB-like transcription regulator
+PGF_00066906	Geodermatophilus	306.25	1.57	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066964	Geodermatophilus	507.00	6.47	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Geodermatophilus	349.88	4.22	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067401	Geodermatophilus	274.65	76.34	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067466	Geodermatophilus	587.81	6.05	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Geodermatophilus	500.88	2.92	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067791	Geodermatophilus	790.88	8.63	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00070068	Geodermatophilus	1076.44	5.63	B12 binding domain / kinase domain / Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00071194	Geodermatophilus	446.06	3.57	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071558	Geodermatophilus	591.69	4.74	Bacterial proteasome-activating AAA-ATPase (PAN)
+PGF_00139102	Geodermatophilus	32.00	0.00	hypothetical protein
+PGF_00172869	Geodermatophilus	394.88	12.99	Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)
+PGF_00261173	Geodermatophilus	380.94	92.41	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00305932	Geodermatophilus	111.50	16.46	hypothetical protein
+PGF_00399630	Geodermatophilus	337.81	18.98	hypothetical protein PA3071
+PGF_00400019	Geodermatophilus	318.31	0.48	Aerotolerance protein BatA
+PGF_00400577	Geodermatophilus	269.38	4.03	lipase, class 2
+PGF_00403785	Geodermatophilus	168.75	0.45	2-methylfumaryl-CoA hydratase (EC 4.2.1.148)
+PGF_00404240	Geodermatophilus	394.25	4.96	probable formyl-CoA transferase( EC:2.8.3.16 )
+PGF_00404271	Geodermatophilus	586.12	1.50	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00405726	Geodermatophilus	325.94	2.46	putative Adenosine kinase (EC 2.7.1.20)
+PGF_00405820	Geodermatophilus	434.69	12.40	putative DNA-damage-inducible protein F
+PGF_00407244	Geodermatophilus	701.94	14.97	putative helicase regulator
+PGF_00407331	Geodermatophilus	267.19	1.91	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_00408951	Geodermatophilus	717.25	8.32	putative membrane protein
+PGF_00409706	Geodermatophilus	420.56	12.21	putative membrane protein, YibE/F-like family
+PGF_00410279	Geodermatophilus	645.89	9.04	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00410417	Geodermatophilus	298.38	1.41	putative secreted lipase
+PGF_00410588	Geodermatophilus	332.19	17.94	putative secreted protein
+PGF_00413192	Geodermatophilus	305.69	11.07	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413208	Geodermatophilus	246.88	5.71	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Geodermatophilus	260.69	20.75	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Geodermatophilus	304.88	0.96	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Geodermatophilus	156.69	5.34	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Geodermatophilus	158.25	0.68	tmRNA-binding protein SmpB
+PGF_00415308	Geodermatophilus	268.00	8.27	23S rRNA (cytidine(1920)-2'-O)-methyltransferase (EC 2.1.1.226) @ 16S rRNA (cytidine(1409)-2'-O)-methyltransferase (EC 2.1.1.227)
+PGF_00415363	Geodermatophilus	373.19	4.09	23S rRNA (guanine(1835)-N(2))-methyltransferase (EC 2.1.1.174)
+PGF_00416129	Geodermatophilus	574.06	11.33	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Geodermatophilus	1102.25	4.64	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Geodermatophilus	223.56	5.77	3'-to-5' oligoribonuclease (orn)
+PGF_00416847	Geodermatophilus	545.12	15.54	Ccs1/ResB-related putative cytochrome C-type biogenesis protein
+PGF_00417577	Geodermatophilus	146.19	7.75	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417645	Geodermatophilus	675.00	5.74	ChlI component of cobalt chelatase involved in B12 biosynthesis / ChlD component of cobalt chelatase involved in B12 biosynthesis
+PGF_00417839	Geodermatophilus	120.00	0.00	Chorismate mutase II (EC 5.4.99.5)
+PGF_00417840	Geodermatophilus	396.88	9.22	Chorismate synthase (EC 4.2.3.5)
+PGF_00418244	Geodermatophilus	204.00	0.00	Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ Cob(I)alamin adenosyltransferase (EC 2.5.1.17), clustered with cobalamin synthesis
+PGF_00418368	Geodermatophilus	504.31	6.58	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Geodermatophilus	463.06	5.38	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00418586	Geodermatophilus	130.06	1.69	Cold shock protein of CSP family => SCO4325
+PGF_00418733	Geodermatophilus	302.44	1.55	1,2-phenylacetyl-CoA epoxidase, subunit C (EC 1.14.13.149)
+PGF_00419013	Geodermatophilus	169.50	3.93	1,2-phenylacetyl-CoA epoxidase, subunit D (EC 1.14.13.149)
+PGF_00419420	Geodermatophilus	472.12	2.13	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419621	Geodermatophilus	237.69	2.52	Coproheme decarboxylase HemQ (no EC)
+PGF_00419702	Geodermatophilus	190.81	4.93	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419707	Geodermatophilus	427.06	57.24	Crotonyl-CoA carboxylase/reductase, ethylmalonyl-CoA producing
+PGF_00419799	Geodermatophilus	392.56	71.35	Cupin 4 family protein
+PGF_00419913	Geodermatophilus	156.12	1.15	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Geodermatophilus	278.00	4.38	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420001	Geodermatophilus	157.12	3.67	CysO-cysteine peptidase
+PGF_00420080	Geodermatophilus	315.94	0.25	Cysteine synthase, CysO-dependent
+PGF_00420081	Geodermatophilus	386.00	0.00	Cysteine synthesis adenylyltransferase/sulfurtransferase
+PGF_00420121	Geodermatophilus	229.25	2.32	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420406	Geodermatophilus	133.31	0.48	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420975	Geodermatophilus	448.06	4.45	D-inositol-3-phosphate glycosyltransferase (EC 2.4.1.250)
+PGF_00421071	Geodermatophilus	143.94	10.98	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421347	Geodermatophilus	361.88	4.22	DNA integrity scanning protein DisA
+PGF_00421454	Geodermatophilus	595.75	4.57	DNA or RNA helicases of superfamily II
+PGF_00421489	Geodermatophilus	1184.31	3.93	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421679	Geodermatophilus	739.31	150.23	DNA primase (EC 2.7.7.-)
+PGF_00421775	Geodermatophilus	562.00	4.00	DNA repair helicase
+PGF_00421792	Geodermatophilus	454.19	2.29	DNA repair protein RadA
+PGF_00421796	Geodermatophilus	610.19	15.93	DNA repair protein RecN
+PGF_00422184	Geodermatophilus	238.62	8.55	DNA-binding response regulator PhoP
+PGF_00422259	Geodermatophilus	306.38	56.32	DNA-dependent DNA polymerase beta chain
+PGF_00422271	Geodermatophilus	356.81	1.83	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422463	Geodermatophilus	183.94	9.19	DUF1794
+PGF_00422545	Geodermatophilus	289.75	0.58	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00423097	Geodermatophilus	293.12	4.35	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423351	Geodermatophilus	1281.25	17.56	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) / 2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) @ 2-oxoglutarate decarboxylase (EC 4.1.1.71) @ 2-hydroxy-3-oxoadipate synthase (EC 2.2.1.5)
+PGF_00423429	Geodermatophilus	542.56	10.63	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423533	Geodermatophilus	319.44	1.75	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423604	Geodermatophilus	690.00	5.32	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+PGF_00424569	Geodermatophilus	257.88	1.86	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424619	Geodermatophilus	363.50	6.68	4-nitrophenylphosphatase (EC 3.1.3.41)
+PGF_00424921	Geodermatophilus	667.50	6.35	Ethylmalonyl-CoA mutase, methylsuccinyl-CoA-forming
+PGF_00424971	Geodermatophilus	688.44	23.99	Excinuclease ABC subunit C
+PGF_00425024	Geodermatophilus	402.19	6.99	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Geodermatophilus	985.19	1.60	Exonuclease SbcC
+PGF_00425092	Geodermatophilus	383.62	2.50	Exonuclease SbcD
+PGF_00425665	Geodermatophilus	240.19	8.34	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Geodermatophilus	322.25	11.68	RNase adapter protein RapZ
+PGF_00425684	Geodermatophilus	250.00	0.63	Probable transcriptional regulatory protein YebC
+PGF_00425685	Geodermatophilus	328.25	10.31	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425714	Geodermatophilus	792.69	19.27	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425806	Geodermatophilus	342.12	18.76	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Geodermatophilus	398.62	0.96	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Geodermatophilus	568.00	31.25	FIG004453: protein YceG like
+PGF_00426115	Geodermatophilus	640.38	5.19	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Geodermatophilus	388.12	3.01	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426285	Geodermatophilus	182.19	21.20	FIG004853: possible toxin to DivIC
+PGF_00426616	Geodermatophilus	324.31	3.32	FIG005453: Putative DeoR-family transcriptional regulator
+PGF_00426722	Geodermatophilus	1266.25	9.21	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426726	Geodermatophilus	952.62	11.45	FIG005666: putative helicase
+PGF_00426740	Geodermatophilus	395.56	2.68	FIG005773: conserved membrane protein ML1361
+PGF_00426932	Geodermatophilus	173.06	2.69	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Geodermatophilus	310.88	11.25	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00482828	Geodermatophilus	447.50	1.15	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00513269	Geodermatophilus	71.50	3.22	hypothetical protein
+PGF_00518946	Geodermatophilus	257.81	5.97	Short-chain dehydrogenase/reductase SDR?
+PGF_00581547	Geodermatophilus	296.56	10.54	DegV family protein
+PGF_00618776	Geodermatophilus	396.38	7.21	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Geodermatophilus	408.31	27.37	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Geodermatophilus	559.62	3.07	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00659194	Geodermatophilus	190.50	7.88	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662997	Geodermatophilus	251.25	7.23	Cobalamin synthase (EC 2.7.8.26)
+PGF_00664069	Geodermatophilus	442.00	0.00	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Geodermatophilus	186.62	22.28	Ribosomal silencing factor RsfA
+PGF_00692117	Geodermatophilus	409.06	9.29	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_00694978	Geodermatophilus	273.19	4.39	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00734482	Geodermatophilus	961.69	14.61	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735685	Geodermatophilus	1034.62	4.87	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_00790872	Geodermatophilus	308.81	5.01	hypothetical protein
+PGF_00821644	Geodermatophilus	212.62	6.13	Phosphatidylinositol phosphate synthase @ Archaetidylinositol phosphate synthase (EC 2.7.8.39)
+PGF_00827555	Geodermatophilus	779.19	32.69	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00833779	Geodermatophilus	368.81	8.61	Glycosyl transferase, family 2
+PGF_00853393	Geodermatophilus	292.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00854402	Geodermatophilus	207.88	2.39	Alkylated DNA repair protein AlkB
+PGF_00856141	Geodermatophilus	442.38	1.59	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00885329	Geodermatophilus	319.50	3.93	Flagellar motor switch protein FliM
+PGF_00904796	Geodermatophilus	61.69	1.54	hypothetical protein
+PGF_00907900	Geodermatophilus	224.25	0.45	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_00911315	Geodermatophilus	343.69	2.87	Alkanal monooxygenase alpha chain (EC 1.14.14.3)
+PGF_00912265	Geodermatophilus	389.38	5.80	tRNA-dihydrouridine synthase DusB
+PGF_00925985	Geodermatophilus	162.56	1.86	Acetyltransferase
+PGF_00926109	Geodermatophilus	556.50	6.11	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00945075	Geodermatophilus	445.81	19.30	Membrane-associated zinc metalloprotease
+PGF_00950554	Geodermatophilus	708.69	9.06	Excinuclease ABC subunit B
+PGF_00957419	Geodermatophilus	194.19	33.04	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Geodermatophilus	337.50	10.73	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00974773	Geodermatophilus	232.50	2.76	Integral membrane protein
+PGF_00988916	Geodermatophilus	307.12	7.20	Putative hydrolase
+PGF_01011517	Geodermatophilus	309.75	3.96	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01035777	Geodermatophilus	448.88	2.33	Uncharacterized MFS-type transporter
+PGF_01075683	Geodermatophilus	137.75	5.96	Hemoglobin-like protein HbO
+PGF_01147190	Geodermatophilus	432.81	92.35	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01174739	Geodermatophilus	324.94	4.33	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01189288	Geodermatophilus	566.56	7.06	Oligo-1,6-glucosidase (EC 3.2.1.10)
+PGF_01197369	Geodermatophilus	474.31	6.84	Na+/H+-dicarboxylate symporter
+PGF_01200370	Geodermatophilus	141.50	8.35	Two-component transcriptional response regulator, LuxR family
+PGF_01200403	Geodermatophilus	326.62	5.94	FIG019733: possible DNA-binding protein
+PGF_01200827	Geodermatophilus	1072.25	17.85	ATP-dependent DNA helicase SCO5183
+PGF_01206852	Geodermatophilus	146.12	0.96	Organic hydroperoxide resistance protein
+PGF_01223569	Geodermatophilus	194.00	5.02	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Geodermatophilus	167.56	0.63	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Geodermatophilus	313.25	4.25	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01325304	Geodermatophilus	263.25	7.31	Molybdenum ABC transporter permease protein ModB
+PGF_01351158	Geodermatophilus	1181.75	4.01	Transcription-repair coupling factor
+PGF_01364427	Geodermatophilus	213.38	1.41	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Geodermatophilus	191.38	11.71	HNH endonuclease family protein
+PGF_01373256	Geodermatophilus	104.56	1.03	putative membrane protein
+PGF_01374904	Geodermatophilus	84.25	11.76	FIG043778: hypothetical protein
+PGF_01393746	Geodermatophilus	416.81	2.14	Putative oxidoreductase
+PGF_01404160	Geodermatophilus	467.88	6.56	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01418074	Geodermatophilus	221.81	20.21	Uncharacterized protein PA2301
+PGF_01421534	Geodermatophilus	232.25	3.30	LSU ribosomal protein L25p
+PGF_01421572	Geodermatophilus	208.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01423501	Geodermatophilus	166.69	0.48	Transcription elongation factor GreA
+PGF_01442949	Geodermatophilus	205.19	3.49	EpiH/GdmH-related protein
+PGF_01466742	Geodermatophilus	416.38	10.24	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01512690	Geodermatophilus	274.62	1.20	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01532393	Geodermatophilus	692.75	8.25	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01557745	Geodermatophilus	408.06	3.28	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01604929	Geodermatophilus	332.06	3.53	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01667392	Geodermatophilus	471.44	8.81	Xylulose kinase (EC 2.7.1.17)
+PGF_01667880	Geodermatophilus	86.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668012	Geodermatophilus	270.62	5.69	Sulfur carrier protein FdhD
+PGF_01674551	Geodermatophilus	135.00	2.80	Glycine cleavage system H protein
+PGF_01677191	Geodermatophilus	327.50	1.55	Sporulation transcription regulator WhiA
+PGF_01682537	Geodermatophilus	130.50	9.16	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Geodermatophilus	212.25	16.75	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Geodermatophilus	259.81	7.70	DNA recombination and repair protein RecO
+PGF_01737397	Geodermatophilus	289.12	3.44	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01738021	Geodermatophilus	429.75	2.59	Type II/IV secretion system ATPase TadZ/CpaE, associated with Flp pilus assembly
+PGF_01739753	Geodermatophilus	187.62	19.35	Zinc metalloprotease
+PGF_01762565	Geodermatophilus	192.06	2.72	Molybdenum cofactor cytidylyltransferase (EC 2.7.7.76)
+PGF_01771963	Geodermatophilus	387.00	1.83	RNA-2',3'-PO4:RNA-5'-OH ligase
+PGF_01777142	Geodermatophilus	239.31	8.69	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01791400	Geodermatophilus	470.12	0.62	Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_01799355	Geodermatophilus	138.25	1.91	hypothetical protein
+PGF_01810645	Geodermatophilus	620.31	10.44	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01867628	Geodermatophilus	341.94	3.62	Heat-inducible transcription repressor HrcA
+PGF_01899917	Geodermatophilus	523.19	10.18	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_01900530	Geodermatophilus	233.69	10.20	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01910737	Geodermatophilus	205.12	3.88	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01949788	Geodermatophilus	190.06	17.27	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Geodermatophilus	621.06	2.11	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01961917	Geodermatophilus	78.12	0.50	Putative ATP-binding protein
+PGF_01962206	Geodermatophilus	264.94	23.22	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01985478	Geodermatophilus	373.38	5.63	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01993620	Geodermatophilus	320.12	0.62	Maltodextrin ABC transporter, permease protein MdxF
+PGF_01994657	Geodermatophilus	504.00	13.53	Cell division trigger factor (EC 5.2.1.8)
+PGF_01996161	Geodermatophilus	311.56	1.46	Flp pilus assembly protein TadB
+PGF_02010969	Geodermatophilus	644.69	3.28	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) AsnB
+PGF_02011760	Geodermatophilus	263.38	2.13	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Geodermatophilus	355.94	2.02	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Geodermatophilus	499.19	9.95	GTP-binding protein Obg
+PGF_02076168	Geodermatophilus	1379.44	23.52	FtsK/SpoIIIE family protein
+PGF_02109968	Geodermatophilus	360.12	0.89	Flagellar motor switch protein FliG
+PGF_02111888	Geodermatophilus	323.12	3.22	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Geodermatophilus	824.50	6.18	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02185217	Geodermatophilus	420.62	1.78	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Geodermatophilus	381.62	6.09	Flagellar biosynthesis protein FlhB
+PGF_02190263	Geodermatophilus	202.44	0.63	Sulfite oxidase and related enzymes
+PGF_02226715	Geodermatophilus	729.06	3.11	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02237713	Geodermatophilus	699.31	6.58	Prolyl endopeptidase (EC 3.4.21.26)
+PGF_02311293	Geodermatophilus	370.50	0.63	Peptide chain release factor 2
+PGF_02346768	Geodermatophilus	894.69	5.68	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02349208	Geodermatophilus	211.44	1.26	Hypothetical, related to broad specificity phosphatases COG0406
+PGF_02405521	Geodermatophilus	507.25	4.02	Exoenzymes regulatory protein AepA in lipid-linked oligosaccharide synthesis cluster
+PGF_02405545	Geodermatophilus	317.00	1.59	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02409464	Geodermatophilus	233.12	5.08	Cyclic amid hydrolase in mycofactocin cluster
+PGF_02409931	Geodermatophilus	1121.69	9.02	ATP-dependent DNA helicase SCO5184
+PGF_02435444	Geodermatophilus	299.12	19.07	Putative transmembrane protein
+PGF_02450432	Geodermatophilus	351.50	21.91	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Geodermatophilus	198.50	0.89	Recombination protein RecR
+PGF_02516666	Geodermatophilus	290.38	1.78	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02516909	Geodermatophilus	429.75	8.19	Enolase (EC 4.2.1.11)
+PGF_02518459	Geodermatophilus	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02518965	Geodermatophilus	299.38	123.75	Regulatory protein RecX
+PGF_02552445	Geodermatophilus	533.00	0.00	Bis-ABC ATPase SCO1840
+PGF_02565280	Geodermatophilus	81.56	2.76	Molybdopterin synthase sulfur carrier subunit
+PGF_02593689	Geodermatophilus	454.31	12.42	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601557	Geodermatophilus	301.06	4.37	ParA-like protein
+PGF_02704551	Geodermatophilus	1301.25	0.45	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Geodermatophilus	120.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02776739	Geodermatophilus	126.19	6.48	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Geodermatophilus	266.56	15.60	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Geodermatophilus	171.44	2.39	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02797400	Geodermatophilus	469.75	10.22	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Geodermatophilus	1171.75	7.95	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02838109	Geodermatophilus	185.06	12.81	Shikimate kinase I (EC 2.7.1.71)
+PGF_02849964	Geodermatophilus	790.31	13.76	Signal transduction histidine kinase CheA / CheW-like domain
+PGF_02862285	Geodermatophilus	475.69	21.57	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866109	Geodermatophilus	278.19	14.48	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02866866	Geodermatophilus	378.50	6.24	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02881268	Geodermatophilus	397.75	3.11	RecA-superfamily ATPases implicated in signal transduction
+PGF_02890573	Geodermatophilus	75.81	3.58	hypothetical protein
+PGF_02893930	Geodermatophilus	278.56	1.82	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02895544	Geodermatophilus	221.38	0.81	TrkA-like protein
+PGF_02897236	Geodermatophilus	360.50	2.25	Xaa-Pro dipeptidase (EC 3.4.13.9)
+PGF_02897543	Geodermatophilus	179.81	1.83	Phospholipid-binding protein
+PGF_02898096	Geodermatophilus	495.44	1.86	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02898859	Geodermatophilus	363.50	1.41	FIG006762: Phosphoglycerate mutase family
+PGF_02899131	Geodermatophilus	77.75	0.45	LSU ribosomal protein L29p (L35e)
+PGF_02912272	Geodermatophilus	215.69	14.47	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Geodermatophilus	259.38	5.44	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02927448	Geodermatophilus	169.44	1.03	FIG00820146: hypothetical protein
+PGF_02928169	Geodermatophilus	302.00	0.82	Cell division inhibitor
+PGF_02930420	Geodermatophilus	369.62	1.09	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_02931322	Geodermatophilus	354.00	10.35	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02932044	Geodermatophilus	629.19	16.31	Transcriptional regulator, CdaR-family
+PGF_02946231	Geodermatophilus	490.25	4.85	SSU ribosomal protein S1p
+PGF_02959749	Geodermatophilus	387.12	36.35	Ribonuclease D (EC 3.1.26.3)
+PGF_02994459	Geodermatophilus	551.88	3.67	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD35
+PGF_03000070	Geodermatophilus	334.25	4.36	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03003352	Geodermatophilus	579.06	1.98	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03021263	Geodermatophilus	272.06	19.67	SepF, FtsZ-interacting protein related to cell division
+PGF_03026450	Geodermatophilus	1183.19	21.81	Chromosome partition protein smc
+PGF_03029489	Geodermatophilus	248.75	3.64	GlnR-family transcriptional regulator
+PGF_03029859	Geodermatophilus	602.44	2.87	Bis-ABC ATPase Uup
+PGF_03030703	Geodermatophilus	544.44	1.09	Bis-ABC ATPase SCO6742
+PGF_03031185	Geodermatophilus	330.00	5.24	RNA polymerase sigma factor
+PGF_03033479	Geodermatophilus	349.38	13.16	hypothetical protein
+PGF_03054699	Geodermatophilus	854.44	16.39	DNA translocase FtsK
+PGF_03058789	Geodermatophilus	384.38	1.36	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03062930	Geodermatophilus	423.56	8.77	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.35)
+PGF_03066520	Geodermatophilus	412.38	1.36	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03072132	Geodermatophilus	160.00	0.00	CarD-like transcriptional regulator
+PGF_03092774	Geodermatophilus	109.62	1.02	FIG025307: hypothetical protein
+PGF_03096263	Geodermatophilus	132.62	5.44	Mannose-6-phosphate isomerase
+PGF_03107265	Geodermatophilus	540.50	3.12	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03111988	Geodermatophilus	239.56	3.67	Cell division initiation protein DivIVA
+PGF_03126760	Geodermatophilus	532.69	1.08	4-coumarate--CoA ligase 1 (EC 6.2.1.12)
+PGF_03132336	Geodermatophilus	418.00	3.79	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03138644	Geodermatophilus	210.56	7.47	Arginine exporter protein ArgO
+PGF_03152833	Geodermatophilus	333.19	16.33	Ku domain protein
+PGF_03154343	Geodermatophilus	137.69	4.67	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Geodermatophilus	322.44	5.32	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Geodermatophilus	301.06	4.34	Transcription antitermination protein NusG
+PGF_03217932	Geodermatophilus	483.06	10.10	Putative amidase SAV_7269
+PGF_03222913	Geodermatophilus	129.12	0.50	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03224875	Geodermatophilus	277.25	14.31	RNA polymerase sigma factor
+PGF_03253896	Geodermatophilus	225.81	0.75	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Geodermatophilus	259.44	12.51	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03268078	Geodermatophilus	710.44	6.69	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03284618	Geodermatophilus	855.25	5.52	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_03365856	Geodermatophilus	1243.56	52.12	Error-prone repair homolog of DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_03421722	Geodermatophilus	428.56	21.65	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03439827	Geodermatophilus	409.00	10.37	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03470321	Geodermatophilus	196.12	10.27	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Geodermatophilus	435.69	2.65	Flagellum-specific ATP synthase FliI
+PGF_03518570	Geodermatophilus	137.44	2.42	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Geodermatophilus	424.12	4.46	Cell division protein FtsZ
+PGF_03584110	Geodermatophilus	56.25	1.61	FIG011121: hypothetical protein
+PGF_03591205	Geodermatophilus	468.31	11.42	Serine/threonine phosphatase PPP (EC 3.1.3.16)
+PGF_03609651	Geodermatophilus	597.50	0.73	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03646602	Geodermatophilus	602.94	5.77	Putative peptidase
+PGF_03659350	Geodermatophilus	508.56	4.97	Protein-O-mannosyltransferase
+PGF_03674008	Geodermatophilus	129.12	10.94	1,2-phenylacetyl-CoA epoxidase, subunit B (EC 1.14.13.149)
+PGF_03674165	Geodermatophilus	321.88	4.13	1,2-phenylacetyl-CoA epoxidase, subunit A (EC 1.14.13.149)
+PGF_03684283	Geodermatophilus	427.06	4.73	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03699416	Geodermatophilus	216.81	4.82	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Geodermatophilus	294.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Geodermatophilus	198.44	1.86	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Geodermatophilus	190.88	73.28	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03734048	Geodermatophilus	437.44	5.57	Zinc protease
+PGF_03739563	Geodermatophilus	127.94	4.84	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03743176	Geodermatophilus	584.00	6.83	Selenocysteine-specific translation elongation factor
+PGF_03747718	Geodermatophilus	992.44	7.26	putative membrane protein
+PGF_03750541	Geodermatophilus	371.47	18.07	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03750600	Geodermatophilus	165.19	3.31	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03752544	Geodermatophilus	219.25	0.77	Phosphate transport system regulatory protein PhoU
+PGF_03757137	Geodermatophilus	485.38	10.95	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Geodermatophilus	406.06	4.84	Signal recognition particle receptor FtsY
+PGF_03790040	Geodermatophilus	261.62	14.06	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Geodermatophilus	275.38	4.81	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03810115	Geodermatophilus	265.81	13.77	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Geodermatophilus	370.38	4.51	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03846068	Geodermatophilus	286.00	4.62	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03862500	Geodermatophilus	213.31	2.68	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03977347	Geodermatophilus	366.89	4.42	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_04004610	Geodermatophilus	210.06	14.45	Protocatechuate 3,4-dioxygenase alpha chain (EC 1.13.11.3)
+PGF_04007946	Geodermatophilus	216.62	8.49	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Geodermatophilus	138.00	2.78	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Geodermatophilus	489.94	7.10	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04036472	Geodermatophilus	78.00	0.00	KH domain RNA binding protein YlqC
+PGF_04041316	Geodermatophilus	965.62	5.18	Excinuclease ABC subunit A
+PGF_04094270	Geodermatophilus	221.81	0.75	TrkA-like protein
+PGF_04119806	Geodermatophilus	294.31	7.63	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Geodermatophilus	305.31	17.66	Twin-arginine translocation protein TatC
+PGF_04151476	Geodermatophilus	173.38	6.05	16S rRNA processing protein RimM
+PGF_04189945	Geodermatophilus	217.88	3.32	Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)
+PGF_04198961	Geodermatophilus	211.88	14.85	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04213876	Geodermatophilus	265.75	4.61	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04310056	Geodermatophilus	301.56	1.50	Acyltransferase family protein
+PGF_04345693	Geodermatophilus	496.19	5.41	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Geodermatophilus	1033.38	36.67	Protein translocase subunit SecA
+PGF_04380075	Geodermatophilus	224.81	1.72	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04452754	Geodermatophilus	248.31	9.48	Precorrin-6A reductase (EC 1.3.1.54)
+PGF_04457297	Geodermatophilus	193.56	3.42	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04469179	Geodermatophilus	161.25	3.28	Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase
+PGF_04505269	Geodermatophilus	314.12	6.00	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Geodermatophilus	467.56	11.77	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Geodermatophilus	413.06	4.25	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Geodermatophilus	547.56	9.74	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Geodermatophilus	239.75	9.43	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Geodermatophilus	273.62	5.54	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04655384	Geodermatophilus	340.00	7.53	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04704185	Geodermatophilus	467.31	0.48	NAD(P)H quinone reductase LpdA (EC 1.6.5.2)
+PGF_04724831	Geodermatophilus	350.06	1.06	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Geodermatophilus	780.44	198.34	Translation initiation factor 2
+PGF_04788810	Geodermatophilus	191.69	16.77	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Geodermatophilus	305.19	4.13	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Geodermatophilus	118.56	1.21	LSU ribosomal protein L19p
+PGF_04970608	Geodermatophilus	90.81	15.25	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_05053989	Geodermatophilus	357.62	3.20	ATP-dependent DNA ligase (EC 6.5.1.1) LigC
+PGF_05065588	Geodermatophilus	396.12	2.31	Type II/IV secretion system ATPase TadZ/CpaE, associated with Flp pilus assembly
+PGF_05079020	Geodermatophilus	419.69	22.45	MoxR-like ATPase in aerotolerance operon
+PGF_05091456	Geodermatophilus	305.75	1.61	Uncharacterized inner membrane protein RarD
+PGF_05135220	Geodermatophilus	962.06	6.61	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Geodermatophilus	304.06	21.51	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Geodermatophilus	479.31	1.40	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05280843	Geodermatophilus	425.81	3.58	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05296102	Geodermatophilus	274.31	22.51	Acetyl-CoA:Cys-GlcN-Ins acetyltransferase, mycothiol synthase MshD (EC 2.3.1.189)
+PGF_05439724	Geodermatophilus	742.44	19.90	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Geodermatophilus	456.31	3.42	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05466290	Geodermatophilus	232.00	12.75	Succinate dehydrogenase cytochrome b subunit
+PGF_05560886	Geodermatophilus	268.94	2.49	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Geodermatophilus	436.00	0.00	Protein translocase subunit SecY
+PGF_05598173	Geodermatophilus	381.50	9.32	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Geodermatophilus	312.44	4.50	Phytoene synthase (EC 2.5.1.32)
+PGF_05679920	Geodermatophilus	1317.75	8.37	ATP-dependent helicase HrpA
+PGF_05710599	Geodermatophilus	314.12	5.04	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05711018	Geodermatophilus	194.75	3.30	Fructose-1,6-bisphosphatase, Mycobacterial type SUP1 (EC 3.1.3.11); Sugar phosphatase SUP1 (EC 3.1.3.23)
+PGF_05743061	Geodermatophilus	900.81	13.22	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05770898	Geodermatophilus	336.38	4.59	Selenide,water dikinase (EC 2.7.9.3)
+PGF_05790213	Geodermatophilus	762.88	35.93	Vancomycin B-type resistance protein VanW
+PGF_05824817	Geodermatophilus	426.50	6.96	Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)
+PGF_05843198	Geodermatophilus	254.94	0.25	FIG017108: hypothetical protein
+PGF_05908643	Geodermatophilus	320.00	9.06	putative membrane protein
+PGF_05946087	Geodermatophilus	295.94	7.46	Transcriptional regulator ArgP, LysR family
+PGF_05949521	Geodermatophilus	569.44	21.22	Protein translocase subunit SecD
+PGF_05971611	Geodermatophilus	405.50	3.61	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06051345	Geodermatophilus	955.44	3.98	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06051594	Geodermatophilus	431.31	0.79	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06098633	Geodermatophilus	534.06	39.11	Uncharacterized DUF349-containing protein SCO1511
+PGF_06180597	Geodermatophilus	153.81	10.93	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Geodermatophilus	259.00	0.00	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Geodermatophilus	485.12	7.48	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06326847	Geodermatophilus	273.69	4.59	Flagellar biosynthesis protein FliP
+PGF_06329961	Geodermatophilus	393.19	0.40	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06379377	Geodermatophilus	444.31	3.24	Replication-associated recombination protein RarA
+PGF_06461498	Geodermatophilus	286.56	9.03	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Geodermatophilus	343.12	2.25	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Geodermatophilus	382.81	8.92	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06586947	Geodermatophilus	407.38	2.25	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06594013	Geodermatophilus	148.00	33.36	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06644010	Geodermatophilus	312.06	2.86	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Geodermatophilus	79.25	0.86	Acyl carrier protein
+PGF_06649360	Geodermatophilus	278.25	5.77	Segregation and condensation protein B
+PGF_06653378	Geodermatophilus	380.31	51.83	Putative serine protease
+PGF_06660812	Geodermatophilus	200.31	1.62	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06690276	Geodermatophilus	202.12	1.31	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06755829	Geodermatophilus	388.94	3.04	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757690	Geodermatophilus	778.31	5.79	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
+PGF_06772993	Geodermatophilus	1070.25	37.93	Ribonuclease E (EC 3.1.26.12)
+PGF_06863675	Geodermatophilus	245.19	6.44	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_06869844	Geodermatophilus	767.38	8.58	Fe-S oxidoreductase
+PGF_06948903	Geodermatophilus	78.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_07097264	Geodermatophilus	67.56	0.96	hypothetical protein
+PGF_07101513	Geodermatophilus	248.94	1.84	Flagellar motor switch protein FliN
+PGF_07353019	Geodermatophilus	201.38	5.49	Nitroreductase family protein
+PGF_07401613	Geodermatophilus	73.06	2.26	hypothetical protein
+PGF_08038361	Geodermatophilus	330.62	6.74	Putative oxidoreductase
+PGF_08117870	Geodermatophilus	117.06	3.82	Ferredoxin, 2Fe-2S
+PGF_08121092	Geodermatophilus	370.19	2.51	NAD-dependent epimerase/dehydratase
+PGF_08126362	Geodermatophilus	371.94	17.14	DNA recombination protein RmuC
+PGF_08127242	Geodermatophilus	395.00	4.29	Glutamine-dependent 2-keto-4-methylthiobutyrate transaminase
+PGF_08153353	Geodermatophilus	288.06	0.68	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_08166729	Geodermatophilus	140.94	0.93	ComA-related protein
+PGF_08197987	Geodermatophilus	117.25	2.91	Iron-sulfur cluster insertion protein SCO2161

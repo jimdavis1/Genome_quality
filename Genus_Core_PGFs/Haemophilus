@@ -1,0 +1,843 @@
+PGF_00000172	Haemophilus	174.61	1.94	FIG00696143: hypothetical protein
+PGF_00000416	Haemophilus	374.72	24.60	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000939	Haemophilus	395.88	37.09	Uncharacterized protein YhiN
+PGF_00001005	Haemophilus	225.53	10.37	FIG009095: D,D-carboxypeptidase family protein
+PGF_00002124	Haemophilus	211.37	3.66	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00003193	Haemophilus	244.25	15.39	FIG053235: Diacylglucosamine hydrolase like
+PGF_00003516	Haemophilus	249.04	22.66	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003528	Haemophilus	177.66	1.66	UPF0307 protein YjgA
+PGF_00003746	Haemophilus	233.37	29.51	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+PGF_00003750	Haemophilus	191.65	14.78	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004417	Haemophilus	280.97	33.17	Ferredoxin-type protein NapG (periplasmic nitrate reductase)
+PGF_00004511	Haemophilus	148.36	11.58	Ferric siderophore transport system, biopolymer transport protein ExbB
+PGF_00005948	Haemophilus	146.59	1.68	Flavoprotein MioC
+PGF_00006100	Haemophilus	283.20	14.81	tRNA-modifying protein YgfZ
+PGF_00006336	Haemophilus	98.26	15.77	Frataxin homolog CyaY, facilitates Fe-S cluster assembly, interacts with IscS
+PGF_00006394	Haemophilus	357.83	17.21	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006447	Haemophilus	256.03	12.29	Fumarate and nitrate reduction regulatory protein
+PGF_00006461	Haemophilus	457.38	45.15	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006500	Haemophilus	134.02	3.41	Fumarate reductase subunit C
+PGF_00006501	Haemophilus	113.66	5.50	Fumarate reductase subunit D
+PGF_00006935	Haemophilus	517.14	44.14	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Haemophilus	358.12	32.53	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Haemophilus	500.16	41.73	GTP-binding protein EngA
+PGF_00007026	Haemophilus	204.15	15.02	GTP-binding protein EngB
+PGF_00007027	Haemophilus	297.50	28.50	GTP-binding protein Era
+PGF_00007041	Haemophilus	610.62	49.23	GTP-binding protein TypA/BipA
+PGF_00007057	Haemophilus	449.62	29.22	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Haemophilus	278.97	28.17	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Haemophilus	317.79	17.25	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007920	Haemophilus	259.31	39.89	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00007988	Haemophilus	540.11	53.82	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Haemophilus	431.55	63.96	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008106	Haemophilus	267.30	2.74	Glutamate racemase (EC 5.1.1.3)
+PGF_00008258	Haemophilus	461.82	55.90	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Haemophilus	554.65	38.91	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008335	Haemophilus	475.84	31.47	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008349	Haemophilus	87.04	2.53	Glutaredoxin 1
+PGF_00008510	Haemophilus	247.29	34.96	16S rRNA (guanine(1516)-N(2))-methyltransferase (EC 2.1.1.242)
+PGF_00008595	Haemophilus	794.56	95.19	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+PGF_00008838	Haemophilus	201.69	13.39	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Haemophilus	193.95	3.18	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009833	Haemophilus	290.30	25.15	LPS core synthesis glycosyltransferase PM0511
+PGF_00009967	Haemophilus	302.63	7.37	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Haemophilus	689.77	54.06	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Haemophilus	241.20	22.55	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Haemophilus	680.24	70.22	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Haemophilus	209.29	8.57	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Haemophilus	677.69	162.25	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011634	Haemophilus	404.02	22.64	HflK protein
+PGF_00011940	Haemophilus	450.13	21.74	Histidine permease YuiF
+PGF_00012264	Haemophilus	329.97	26.87	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00013003	Haemophilus	611.86	105.05	Bis-ABC ATPase YheS
+PGF_00013017	Haemophilus	305.32	23.40	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013083	Haemophilus	193.59	21.40	Hypothetical lipoprotein YajG precursor
+PGF_00013100	Haemophilus	469.87	43.95	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013283	Haemophilus	234.13	3.53	UPF0001 protein YggS
+PGF_00013290	Haemophilus	106.64	4.12	Uncharacterized protein YqcC
+PGF_00013492	Haemophilus	175.85	16.88	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013857	Haemophilus	738.15	48.00	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014144	Haemophilus	574.56	52.19	Inner membrane protein YejM, alkaline phosphatase superfamily
+PGF_00014306	Haemophilus	174.80	9.14	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Haemophilus	483.75	33.63	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Haemophilus	261.62	10.92	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Haemophilus	84.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Haemophilus	177.06	0.52	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015255	Haemophilus	289.33	44.47	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015259	Haemophilus	284.89	24.39	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Haemophilus	107.00	0.00	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015523	Haemophilus	126.69	1.46	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015718	Haemophilus	934.17	45.81	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015983	Haemophilus	244.89	35.12	L-cystine ABC transporter, ATP-binding protein TcyC
+PGF_00016328	Haemophilus	163.03	0.16	LSU ribosomal protein L10p (P0)
+PGF_00016338	Haemophilus	412.20	10.31	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Haemophilus	123.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Haemophilus	144.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Haemophilus	136.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Haemophilus	127.41	4.28	LSU ribosomal protein L17p
+PGF_00016353	Haemophilus	116.78	3.69	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Haemophilus	228.14	11.76	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Haemophilus	116.89	1.82	LSU ribosomal protein L20p
+PGF_00016368	Haemophilus	109.44	4.97	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Haemophilus	99.57	1.06	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Haemophilus	103.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Haemophilus	84.81	3.14	LSU ribosomal protein L27p
+PGF_00016393	Haemophilus	271.33	16.36	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Haemophilus	58.97	0.16	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Haemophilus	55.61	1.03	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Haemophilus	56.01	0.24	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Haemophilus	69.03	8.99	LSU ribosomal protein L35p
+PGF_00016424	Haemophilus	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Haemophilus	206.51	14.12	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Haemophilus	199.31	8.11	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Haemophilus	171.09	16.10	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Haemophilus	176.58	7.02	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Haemophilus	122.55	0.87	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Haemophilus	149.25	5.14	LSU ribosomal protein L9p
+PGF_00016546	Haemophilus	134.45	6.89	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00017063	Haemophilus	313.74	28.63	Lipid A biosynthesis myristoyltransferase (EC 2.3.1.243)
+PGF_00017109	Haemophilus	387.90	17.43	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Haemophilus	241.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017327	Haemophilus	200.70	11.54	Lipopolysaccharide export system protein LptC
+PGF_00017407	Haemophilus	302.65	23.27	Lipoprotein NlpI
+PGF_00017464	Haemophilus	226.78	3.15	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Haemophilus	317.15	30.18	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017518	Haemophilus	577.54	37.96	Lon protease homolog YcbZ
+PGF_00017579	Haemophilus	406.38	44.00	ATP-dependent RNA helicase RhlB
+PGF_00017621	Haemophilus	436.37	33.74	ATP-dependent RNA helicase SrmB
+PGF_00017640	Haemophilus	166.19	13.72	Lipopolysaccharide export system protein LptA
+PGF_00017939	Haemophilus	332.60	31.61	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018560	Haemophilus	297.00	15.09	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Haemophilus	311.03	15.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Haemophilus	436.79	39.20	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019217	Haemophilus	291.75	19.93	Manganese ABC transporter, periplasmic-binding protein SitA
+PGF_00019428	Haemophilus	174.45	2.38	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Haemophilus	857.46	84.17	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00019974	Haemophilus	350.63	17.54	Membrane protein YcjF
+PGF_00020168	Haemophilus	361.11	43.12	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Haemophilus	271.65	25.35	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020176	Haemophilus	354.27	33.44	Membrane-bound lytic murein transglycosylase C (EC 3.2.1.n1)
+PGF_00020361	Haemophilus	155.70	3.18	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Haemophilus	266.34	18.24	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020747	Haemophilus	104.60	3.43	Methionine repressor MetJ
+PGF_00020923	Haemophilus	275.41	37.60	Methyl-directed repair DNA adenine methylase (EC 2.1.1.72)
+PGF_00020984	Haemophilus	282.64	10.67	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00022507	Haemophilus	196.37	7.55	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Haemophilus	81.01	0.08	Molybdopterin synthase sulfur carrier subunit
+PGF_00023403	Haemophilus	482.92	28.93	Murein DD-endopeptidase MepM
+PGF_00023476	Haemophilus	137.34	9.65	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Haemophilus	339.01	28.47	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023794	Haemophilus	380.15	18.66	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00023919	Haemophilus	286.87	34.64	N-acetylneuraminate lyase (EC 4.1.3.3)
+PGF_00024234	Haemophilus	377.35	1.95	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024322	Haemophilus	463.97	44.76	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024478	Haemophilus	336.20	20.42	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024540	Haemophilus	437.92	22.76	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024567	Haemophilus	397.56	26.75	Acetate kinase (EC 2.7.2.1)
+PGF_00025184	Haemophilus	444.17	24.34	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.8)
+PGF_00025185	Haemophilus	407.46	32.73	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.8)
+PGF_00025187	Haemophilus	250.89	7.89	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.8)
+PGF_00025188	Haemophilus	207.28	9.78	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.8)
+PGF_00025189	Haemophilus	197.50	8.25	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.8)
+PGF_00025190	Haemophilus	407.19	27.52	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.8)
+PGF_00025267	Haemophilus	497.41	57.09	Na+/H+ antiporter
+PGF_00025289	Haemophilus	392.10	44.22	Na+/H+ antiporter NhaA type
+PGF_00025290	Haemophilus	506.24	48.66	Na+/H+ antiporter NhaB
+PGF_00025379	Haemophilus	283.13	17.91	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025448	Haemophilus	196.17	12.84	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025698	Haemophilus	144.74	10.16	Nitrate reductase cytochrome c550-type subunit
+PGF_00026307	Haemophilus	224.36	8.87	NrfC protein
+PGF_00026310	Haemophilus	315.20	33.18	NrfD protein
+PGF_00026409	Haemophilus	261.73	9.14	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Haemophilus	291.51	25.93	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026796	Haemophilus	327.69	41.43	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00026866	Haemophilus	326.66	16.43	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Haemophilus	676.32	36.29	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027752	Haemophilus	576.96	35.79	Outer membrane component of TAM transport system
+PGF_00027825	Haemophilus	209.12	4.47	Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_00028423	Haemophilus	340.52	2.30	Outer membrane stress sensor protease DegS
+PGF_00028486	Haemophilus	248.15	12.47	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00029921	Haemophilus	307.86	22.06	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030031	Haemophilus	869.46	97.00	Paraquat-inducible protein B
+PGF_00030246	Haemophilus	281.76	19.98	Penicillin-insensitive murein endopeptidase
+PGF_00030640	Haemophilus	356.50	31.11	Peptide chain release factor 1
+PGF_00030643	Haemophilus	521.90	44.08	Peptide chain release factor 3
+PGF_00030812	Haemophilus	168.94	5.11	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00031036	Haemophilus	818.22	70.14	Periplasmic nitrate reductase (EC 1.7.99.4)
+PGF_00031127	Haemophilus	205.58	9.80	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00031371	Haemophilus	265.85	20.15	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_00033095	Haemophilus	792.10	42.64	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033312	Haemophilus	240.41	3.98	Phosphatidylglycerophosphatase B (EC 3.1.3.27)
+PGF_00033359	Haemophilus	357.68	26.01	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033423	Haemophilus	572.36	24.95	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033486	Haemophilus	152.32	12.05	Acyl-CoA thioesterase YciA, involved in membrane biogenesis
+PGF_00033511	Haemophilus	378.91	45.19	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Haemophilus	225.28	15.03	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033642	Haemophilus	238.52	17.18	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00033729	Haemophilus	261.42	12.02	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Haemophilus	263.61	11.57	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Haemophilus	213.32	1.61	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Haemophilus	155.48	11.96	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033985	Haemophilus	356.02	34.41	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034566	Haemophilus	456.64	38.67	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Haemophilus	698.86	68.74	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Haemophilus	179.86	0.35	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035183	Haemophilus	195.38	14.36	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035721	Haemophilus	455.01	9.88	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00036567	Haemophilus	234.59	17.16	Aerobic respiration control protein arcA
+PGF_00036580	Haemophilus	97.26	3.34	Protein translocase subunit YajC
+PGF_00036674	Haemophilus	95.48	17.95	Primosomal replication protein N
+PGF_00036688	Haemophilus	203.39	15.31	RNA chaperone ProQ
+PGF_00037052	Haemophilus	164.55	11.91	Probable endopeptidase NlpC
+PGF_00037063	Haemophilus	85.16	1.46	Probable exported or periplasmic protein in ApbE locus
+PGF_00037171	Haemophilus	415.60	34.57	Probable low-affinity inorganic phosphate transporter
+PGF_00037565	Haemophilus	500.44	33.08	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037588	Haemophilus	569.44	32.61	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037828	Haemophilus	281.72	16.61	Protease HtpX
+PGF_00037937	Haemophilus	104.83	11.41	Protein PhnA
+PGF_00037954	Haemophilus	72.29	5.95	Protein SlyX
+PGF_00037973	Haemophilus	89.78	6.94	Protein YcgL
+PGF_00037978	Haemophilus	190.42	14.59	Protein YecM
+PGF_00037998	Haemophilus	110.65	2.40	UPF0438 protein YifE
+PGF_00038329	Haemophilus	187.20	4.35	Der GTPase-activating protein YihI
+PGF_00038455	Haemophilus	262.97	11.50	Uncharacterized UPF0721 integral membrane protein
+PGF_00038642	Haemophilus	159.89	18.43	Protein SprT
+PGF_00038674	Haemophilus	323.96	0.76	Protein translocase subunit SecF
+PGF_00038759	Haemophilus	87.69	4.89	Protein YihD
+PGF_00038987	Haemophilus	237.42	10.26	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00038991	Haemophilus	335.16	16.20	Purine nucleotide synthesis repressor
+PGF_00039342	Haemophilus	283.98	2.26	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039721	Haemophilus	219.77	6.11	Putative TEGT family carrier/transport protein
+PGF_00040401	Haemophilus	460.18	51.16	Cell division protein FtsP
+PGF_00040536	Haemophilus	147.36	9.21	Putative dehydrogenase
+PGF_00040578	Haemophilus	260.79	3.51	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Haemophilus	259.18	18.06	Putative deoxyribonuclease YjjV
+PGF_00041948	Haemophilus	418.65	7.75	Putative membrane protein YfjD
+PGF_00043154	Haemophilus	344.32	37.18	Putative permease PerM (= YfgO)
+PGF_00045982	Haemophilus	877.38	64.81	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00045991	Haemophilus	470.73	39.23	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046275	Haemophilus	923.04	92.16	RNA polymerase associated protein RapA
+PGF_00046597	Haemophilus	146.07	3.18	RNA polymerase-binding transcription factor DksA
+PGF_00046622	Haemophilus	92.89	3.09	RNA-binding protein Hfq
+PGF_00047078	Haemophilus	358.95	9.87	RecA protein
+PGF_00047274	Haemophilus	146.65	20.97	Regulatory protein AsnC
+PGF_00048480	Haemophilus	205.86	11.90	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Haemophilus	131.95	9.36	Outer membrane beta-barrel assembly protein BamE
+PGF_00048539	Haemophilus	139.25	12.01	Ribonuclease E inhibitor RraB
+PGF_00048542	Haemophilus	153.33	7.50	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Haemophilus	196.25	11.39	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Haemophilus	238.30	10.80	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048589	Haemophilus	223.22	15.66	Ribonuclease T
+PGF_00048627	Haemophilus	656.99	110.14	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048630	Haemophilus	701.23	122.45	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048643	Haemophilus	148.51	6.70	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Haemophilus	315.13	2.41	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048824	Haemophilus	219.86	1.65	Ribosomal large subunit pseudouridine(746) synthase (EC 5.4.99.29) @ tRNA pseudouridine(32) synthase (EC 5.4.99.28)
+PGF_00048829	Haemophilus	349.65	16.95	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048834	Haemophilus	223.34	27.30	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048840	Haemophilus	292.27	21.94	Ribosomal protein L11 methyltransferase
+PGF_00048842	Haemophilus	309.74	27.51	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048868	Haemophilus	230.68	11.13	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048898	Haemophilus	106.64	2.60	Ribosome-associated inhibitor A
+PGF_00048926	Haemophilus	184.96	0.72	Ribosome recycling factor
+PGF_00048928	Haemophilus	343.70	15.42	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Haemophilus	131.38	7.64	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Haemophilus	126.68	7.53	Ribosome-binding factor A
+PGF_00048955	Haemophilus	224.50	18.40	Ribosyl nicotinamide transporter, PnuC-like
+PGF_00049163	Haemophilus	160.97	9.12	Rod shape-determining protein MreD
+PGF_00049330	Haemophilus	377.89	35.53	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Haemophilus	358.88	29.76	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Haemophilus	167.32	3.88	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049827	Haemophilus	284.64	22.88	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Haemophilus	103.17	2.37	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Haemophilus	128.65	5.12	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Haemophilus	125.47	4.13	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Haemophilus	118.01	0.24	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Haemophilus	101.10	1.71	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049854	Haemophilus	84.56	1.80	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Haemophilus	75.15	0.35	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Haemophilus	85.28	12.99	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Haemophilus	233.42	15.99	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Haemophilus	204.44	15.69	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Haemophilus	165.62	6.23	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Haemophilus	124.89	0.80	SSU ribosomal protein S6p
+PGF_00049904	Haemophilus	155.58	6.96	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Haemophilus	129.80	1.63	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Haemophilus	129.77	4.74	SSU ribosomal protein S9p (S16e)
+PGF_00050030	Haemophilus	227.07	7.06	SanA protein
+PGF_00051142	Haemophilus	273.00	48.00	Septum-associated rare lipoprotein A
+PGF_00051143	Haemophilus	197.02	17.56	SeqA protein, negative modulator of initiation of replication
+PGF_00051525	Haemophilus	426.80	30.91	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Haemophilus	459.86	22.70	Signal recognition particle protein Ffh
+PGF_00052511	Haemophilus	175.96	16.86	Uncharacterized protein YrdD
+PGF_00052705	Haemophilus	142.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Haemophilus	297.00	0.00	Site-specific tyrosine recombinase XerD
+PGF_00054301	Haemophilus	211.85	5.61	Stringent starvation protein A
+PGF_00054302	Haemophilus	145.74	6.85	Stringent starvation protein B
+PGF_00054323	Haemophilus	205.66	5.34	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00055354	Haemophilus	311.96	2.79	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00056273	Haemophilus	328.10	23.51	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056496	Haemophilus	210.72	15.22	Thiamin ABC transporter, ATPase component
+PGF_00056498	Haemophilus	329.05	21.08	Thiamin ABC transporter, substrate-binding component
+PGF_00056502	Haemophilus	522.54	62.02	Thiamin ABC transporter, transmembrane component
+PGF_00056821	Haemophilus	105.25	6.19	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)
+PGF_00056872	Haemophilus	191.83	13.74	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Haemophilus	213.09	11.52	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Haemophilus	280.49	21.58	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Haemophilus	466.84	70.55	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Haemophilus	141.53	4.22	Tol biopolymer transport system, TolR protein
+PGF_00057032	Haemophilus	134.63	7.97	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Haemophilus	722.70	109.47	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Haemophilus	311.45	27.96	Transaldolase (EC 2.2.1.2)
+PGF_00057435	Haemophilus	156.36	15.74	Transcription elongation factor GreB
+PGF_00057483	Haemophilus	418.74	23.31	Transcription termination factor Rho
+PGF_00057485	Haemophilus	493.11	32.52	Transcription termination protein NusA
+PGF_00057488	Haemophilus	142.38	3.40	Transcription termination protein NusB
+PGF_00058666	Haemophilus	212.82	10.19	Transcriptional regulator SlmA, TetR family
+PGF_00058734	Haemophilus	239.99	12.90	Transcriptional regulator for fatty acid degradation FadR, GntR family
+PGF_00060398	Haemophilus	660.70	48.18	Transketolase (EC 2.2.1.1)
+PGF_00060409	Haemophilus	691.16	64.50	Translation elongation factor G
+PGF_00060414	Haemophilus	594.16	43.42	Translation elongation factor LepA
+PGF_00060421	Haemophilus	187.61	3.09	Translation elongation factor P
+PGF_00060422	Haemophilus	179.53	10.29	Translation elongation factor P Lys34 hydroxylase
+PGF_00060424	Haemophilus	327.49	5.39	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Haemophilus	282.52	7.84	Translation elongation factor Ts
+PGF_00060431	Haemophilus	71.52	2.25	Translation initiation factor 1
+PGF_00060478	Haemophilus	154.81	22.60	Translation initiation factor 3
+PGF_00060481	Haemophilus	104.70	2.55	Translation initiation factor SUI1-related protein
+PGF_00062045	Haemophilus	335.17	16.71	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063683	Haemophilus	147.10	12.81	Type IV pilin PilA
+PGF_00063916	Haemophilus	390.98	29.26	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Haemophilus	235.01	15.79	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Haemophilus	304.18	16.75	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Haemophilus	339.82	15.80	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Haemophilus	338.88	24.48	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Haemophilus	345.61	35.54	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Haemophilus	473.06	21.70	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Haemophilus	450.02	37.83	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064180	Haemophilus	242.46	16.26	Arginine ABC transporter, ATP-binding protein ArtP
+PGF_00064199	Haemophilus	169.93	4.19	UPF0115 protein YfcN
+PGF_00064204	Haemophilus	226.82	1.09	Arginine ABC transporter, permease protein ArtM
+PGF_00064239	Haemophilus	144.59	9.20	UPF0208 membrane protein YfbV
+PGF_00064280	Haemophilus	149.13	6.26	UPF0260 protein YcgN
+PGF_00064283	Haemophilus	112.74	3.41	UPF0265 protein YeeX
+PGF_00064341	Haemophilus	72.41	0.72	UPF0352 protein YejL
+PGF_00064359	Haemophilus	151.85	3.55	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064378	Haemophilus	251.62	23.76	Transmembrane protein YfcA
+PGF_00064393	Haemophilus	293.94	14.16	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064489	Haemophilus	221.16	2.44	Arginine ABC transporter, permease protein ArtQ
+PGF_00064685	Haemophilus	85.21	4.24	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064880	Haemophilus	452.62	44.97	Uncharacterized protease YegQ
+PGF_00065856	Haemophilus	336.90	45.22	Uncharacterized tRNA/rRNA methyltransferase YfiF
+PGF_00065887	Haemophilus	236.18	16.71	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065934	Haemophilus	140.49	6.14	Universal stress protein A
+PGF_00066089	Haemophilus	204.91	10.53	Unsaturated fatty acid biosythesis repressor FabR, TetR family
+PGF_00066123	Haemophilus	207.82	2.96	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Haemophilus	216.53	18.79	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Haemophilus	214.05	1.84	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066453	Haemophilus	932.75	122.91	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Haemophilus	464.22	29.88	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066715	Haemophilus	388.27	50.14	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00066854	Haemophilus	470.99	25.83	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066867	Haemophilus	430.92	23.44	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066935	Haemophilus	411.57	11.62	Uracil permease @ Uracil:proton symporter UraA
+PGF_00067160	Haemophilus	325.18	32.71	Aspartate--ammonia ligase (EC 6.3.1.1)
+PGF_00067346	Haemophilus	218.06	16.43	YheO-like PAS domain
+PGF_00067423	Haemophilus	102.01	3.34	Z-ring-associated protein ZapA
+PGF_00067739	Haemophilus	363.07	36.03	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00068794	Haemophilus	126.44	7.43	Autonomous glycyl radical cofactor
+PGF_00071382	Haemophilus	173.57	6.94	Flavodoxin 1
+PGF_00127024	Haemophilus	295.38	2.59	Cell division inhibitor Slr1223 (YfcH in EC), contains epimerase/dehydratase and DUF1731 domains
+PGF_00144272	Haemophilus	161.29	4.70	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00261173	Haemophilus	393.29	28.19	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Haemophilus	193.26	10.88	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00298223	Haemophilus	123.86	13.97	hypothetical protein
+PGF_00299130	Haemophilus	71.92	1.28	Cell division protein ZapB
+PGF_00335831	Haemophilus	96.49	8.18	hypothetical protein
+PGF_00404078	Haemophilus	154.73	8.02	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Haemophilus	443.26	35.62	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404384	Haemophilus	332.91	15.91	Biotin synthase (EC 2.8.1.6)
+PGF_00404396	Haemophilus	96.26	1.76	probable membrane protein YPO2224
+PGF_00404831	Haemophilus	272.67	13.58	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Haemophilus	925.30	85.78	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00413182	Haemophilus	320.97	2.86	tRNA (mo5U34)-methyltransferase
+PGF_00413203	Haemophilus	154.66	21.07	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413230	Haemophilus	239.83	16.48	tRNA (cmo5U34)-methyltransferase
+PGF_00413232	Haemophilus	109.86	1.33	tRNA 2-thiouridine synthesis protein TusE
+PGF_00413237	Haemophilus	478.69	41.39	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413243	Haemophilus	119.95	2.56	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusC
+PGF_00413245	Haemophilus	124.23	5.14	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD
+PGF_00413253	Haemophilus	79.28	3.56	tRNA 5-methylaminomethyl-2-thiouridine synthesis sulfur carrier protein TusA
+PGF_00413266	Haemophilus	320.34	22.92	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Haemophilus	263.10	21.91	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Haemophilus	304.21	31.77	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Haemophilus	621.35	62.04	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Haemophilus	309.11	32.96	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413340	Haemophilus	260.75	92.29	tRNA-dihydrouridine(16) synthase
+PGF_00413351	Haemophilus	173.39	10.09	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Haemophilus	159.75	6.29	tmRNA-binding protein SmpB
+PGF_00414366	Haemophilus	560.31	57.33	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414926	Haemophilus	412.41	36.51	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00414976	Haemophilus	453.62	20.17	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_00415150	Haemophilus	277.39	24.32	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415422	Haemophilus	690.61	96.98	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415486	Haemophilus	153.69	9.87	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Haemophilus	207.68	11.34	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416115	Haemophilus	310.04	29.76	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Haemophilus	540.81	35.77	CTP synthase (EC 6.3.4.2)
+PGF_00416506	Haemophilus	516.46	62.90	Carbon starvation protein A
+PGF_00416508	Haemophilus	62.61	1.33	Carbon storage regulator
+PGF_00416525	Haemophilus	225.46	13.51	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416576	Haemophilus	182.08	2.22	3'-to-5' oligoribonuclease (orn)
+PGF_00417104	Haemophilus	318.98	32.37	Cell division protein ZipA
+PGF_00417429	Haemophilus	380.43	38.68	Chaperone protein DnaJ
+PGF_00417433	Haemophilus	633.96	2.47	Chaperone protein DnaK
+PGF_00417437	Haemophilus	616.19	30.97	Chaperone protein HscA
+PGF_00417658	Haemophilus	361.59	7.07	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Haemophilus	354.69	26.93	Chorismate synthase (EC 4.2.3.5)
+PGF_00417957	Haemophilus	1475.53	179.76	Chromosome partition protein MukB
+PGF_00417959	Haemophilus	241.01	16.92	Chromosome partition protein MukE
+PGF_00417961	Haemophilus	434.73	51.31	Chromosome partition protein MukF
+PGF_00417987	Haemophilus	179.12	7.77	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418406	Haemophilus	176.63	1.25	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418658	Haemophilus	164.61	9.04	Colicin V production protein
+PGF_00419702	Haemophilus	190.36	2.50	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419891	Haemophilus	224.05	2.46	Cyclic AMP receptor protein
+PGF_00419913	Haemophilus	161.31	13.14	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420048	Haemophilus	400.75	31.92	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420075	Haemophilus	312.41	29.17	Cysteine synthase (EC 2.5.1.47)
+PGF_00420482	Haemophilus	245.25	12.21	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Haemophilus	637.88	65.30	Cytochrome c heme lyase subunit CcmF
+PGF_00420517	Haemophilus	611.12	105.49	Cytochrome c-type heme lyase subunit nrfE, nitrite reductase complex assembly
+PGF_00420526	Haemophilus	199.86	16.31	Cytochrome c-type protein NapC
+PGF_00420527	Haemophilus	214.47	10.29	Cytochrome c-type protein NrfB precursor
+PGF_00420561	Haemophilus	499.24	39.76	Cytochrome c552 precursor (EC 1.7.2.2)
+PGF_00420572	Haemophilus	511.87	54.94	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420682	Haemophilus	315.45	47.99	Cytosine deaminase (EC 3.5.4.1)
+PGF_00420728	Haemophilus	315.37	24.83	Cytoskeleton protein RodZ
+PGF_00420731	Haemophilus	484.97	53.15	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420732	Haemophilus	463.85	90.24	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420798	Haemophilus	305.44	2.97	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Haemophilus	313.05	18.17	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421013	Haemophilus	401.98	34.25	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421071	Haemophilus	144.08	5.07	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Haemophilus	608.80	31.96	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421408	Haemophilus	223.77	1.44	DNA mismatch repair endonuclease MutH
+PGF_00421489	Haemophilus	1122.35	170.75	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Haemophilus	364.06	22.05	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421568	Haemophilus	131.41	9.10	DNA polymerase III psi subunit (EC 2.7.7.7)
+PGF_00421679	Haemophilus	585.84	33.49	DNA primase (EC 2.7.7.-)
+PGF_00421733	Haemophilus	355.19	29.46	DNA recombination and repair protein RecF
+PGF_00421792	Haemophilus	453.34	45.01	DNA repair protein RadA
+PGF_00421796	Haemophilus	554.27	38.48	DNA repair protein RecN
+PGF_00422053	Haemophilus	98.76	0.94	DNA-binding protein Fis
+PGF_00422078	Haemophilus	89.83	3.07	DNA-binding protein HU-alpha
+PGF_00422271	Haemophilus	325.73	23.87	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422545	Haemophilus	300.23	19.62	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422722	Haemophilus	200.54	1.49	DedA protein
+PGF_00422916	Haemophilus	194.42	0.76	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Haemophilus	150.94	0.24	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423055	Haemophilus	218.80	23.73	Diadenosine tetraphosphatase and related serine/threonine protein phosphatases
+PGF_00423089	Haemophilus	369.21	20.04	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Haemophilus	271.99	19.62	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Haemophilus	429.23	36.71	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Haemophilus	117.62	1.02	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423376	Haemophilus	151.45	15.09	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423530	Haemophilus	327.41	2.04	Dipeptide transport ATP-binding protein DppF (TC 3.A.1.5.2)
+PGF_00423533	Haemophilus	303.77	21.24	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423709	Haemophilus	284.80	22.77	DnaJ-like protein DjlA
+PGF_00423914	Haemophilus	185.53	6.38	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00424131	Haemophilus	190.32	13.60	Electron transport complex protein RnfA
+PGF_00424134	Haemophilus	195.61	11.99	Electron transport complex protein RnfB
+PGF_00424141	Haemophilus	233.30	3.53	Electron transport complex protein RnfE
+PGF_00424569	Haemophilus	261.07	13.60	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424800	Haemophilus	257.29	21.90	Esterase ybfF (EC 3.1.-.-)
+PGF_00424971	Haemophilus	595.66	81.75	Excinuclease ABC subunit C
+PGF_00425010	Haemophilus	477.28	54.43	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425021	Haemophilus	1094.49	122.79	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Haemophilus	435.93	39.49	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Haemophilus	243.19	11.62	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Haemophilus	281.30	27.18	RNase adapter protein RapZ
+PGF_00425684	Haemophilus	246.00	0.06	Probable transcriptional regulatory protein YebC
+PGF_00425685	Haemophilus	283.20	15.30	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425704	Haemophilus	90.19	4.24	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425757	Haemophilus	113.65	3.08	FIG002060: uncharacterized protein YggL
+PGF_00425802	Haemophilus	270.72	22.22	FIG002708: Protein SirB1
+PGF_00425811	Haemophilus	105.73	4.81	dsDNA mimic protein, highly acidic
+PGF_00425812	Haemophilus	207.11	9.30	High frequency lysogenization protein HflD
+PGF_00425993	Haemophilus	395.90	20.34	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Haemophilus	342.62	29.78	FIG004453: protein YceG like
+PGF_00426115	Haemophilus	611.36	57.71	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Haemophilus	367.14	14.18	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426932	Haemophilus	155.78	3.09	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427299	Haemophilus	467.95	77.06	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00447438	Haemophilus	192.93	9.59	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00447765	Haemophilus	97.31	1.74	YciL protein
+PGF_00451246	Haemophilus	99.36	5.21	RNA-binding protein YhbY
+PGF_00473519	Haemophilus	211.06	13.40	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00502921	Haemophilus	236.73	20.25	Arginine ABC transporter, substrate-binding protein ArtI
+PGF_00503312	Haemophilus	260.56	21.86	Cell division protein FtsN
+PGF_00503343	Haemophilus	193.12	8.73	Uncharacterized protein YraP
+PGF_00529632	Haemophilus	843.58	92.01	ClpB protein
+PGF_00535698	Haemophilus	239.93	15.11	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+PGF_00565351	Haemophilus	220.74	0.45	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00569671	Haemophilus	296.68	22.19	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580333	Haemophilus	392.69	26.76	Lipopolysaccharide assembly protein LapB
+PGF_00596539	Haemophilus	575.68	57.47	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00616490	Haemophilus	336.93	27.80	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Haemophilus	380.32	31.71	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Haemophilus	302.87	35.26	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644844	Haemophilus	434.13	62.42	Long-chain fatty acid transport protein
+PGF_00648054	Haemophilus	226.56	10.64	Tol-Pal system protein TolQ
+PGF_00649271	Haemophilus	97.36	15.63	Cell division protein BolA
+PGF_00655358	Haemophilus	486.97	34.87	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Haemophilus	212.15	11.55	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Haemophilus	101.99	4.22	Ribosomal silencing factor RsfA
+PGF_00693753	Haemophilus	455.28	29.84	Sodium/glycine symporter GlyP
+PGF_00694978	Haemophilus	265.12	16.98	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00706032	Haemophilus	192.39	1.45	FIG139438: lipoprotein B
+PGF_00709443	Haemophilus	183.81	12.04	Twin-arginine translocation protein TatB
+PGF_00721835	Haemophilus	314.82	16.99	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Haemophilus	763.36	94.69	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Haemophilus	859.01	82.00	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00734751	Haemophilus	153.66	1.28	Cytochrome c heme lyase subunit CcmL
+PGF_00777371	Haemophilus	227.97	15.10	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Haemophilus	228.43	15.71	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00822754	Haemophilus	286.50	22.97	Polyferredoxin NapH (periplasmic nitrate reductase)
+PGF_00870469	Haemophilus	194.11	2.15	Phosphoheptose isomerase (EC 5.3.1.-)
+PGF_00871619	Haemophilus	684.44	39.72	Tail-specific protease precursor (EC 3.4.21.102)
+PGF_00908360	Haemophilus	258.64	15.60	Phospholipid ABC transporter permease protein MlaE
+PGF_00909659	Haemophilus	565.90	67.57	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00912265	Haemophilus	319.55	41.54	tRNA-dihydrouridine synthase DusB
+PGF_00912542	Haemophilus	257.62	3.61	L-cystine ABC transporter, substrate-binding protein TcyA
+PGF_00924816	Haemophilus	228.15	9.48	Thiol:disulfide interchange protein DsbC
+PGF_00926109	Haemophilus	566.63	53.62	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00948290	Haemophilus	396.41	49.81	Murein hydrolase activator EnvC
+PGF_00950554	Haemophilus	668.66	61.01	Excinuclease ABC subunit B
+PGF_00956835	Haemophilus	236.00	17.84	4'-phosphopantetheinyl transferase (EC 2.7.8.-)
+PGF_00957419	Haemophilus	138.91	1.09	Putative pre-16S rRNA nuclease Yqg
+PGF_00973394	Haemophilus	166.63	2.57	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_01008498	Haemophilus	113.45	18.54	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01052295	Haemophilus	364.55	8.73	Lipopolysaccharide export system permease protein LptF
+PGF_01058419	Haemophilus	1163.36	192.20	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01084030	Haemophilus	787.59	66.05	Outer membrane protein assembly factor YaeT
+PGF_01104399	Haemophilus	243.47	11.79	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Haemophilus	404.13	31.20	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01124253	Haemophilus	118.66	6.06	UPF0102 protein YraN
+PGF_01126005	Haemophilus	366.23	40.67	Rod shape-determining protein RodA
+PGF_01148336	Haemophilus	356.44	43.65	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_01159779	Haemophilus	222.12	12.35	Uncharacterized protein YbfG
+PGF_01170625	Haemophilus	105.85	1.83	Cell division protein FtsL
+PGF_01172485	Haemophilus	423.33	18.66	Cell division protein FtsA
+PGF_01174739	Haemophilus	245.74	2.31	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Haemophilus	632.36	64.75	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Haemophilus	525.74	87.60	Heat shock protein 60 family chaperone GroEL
+PGF_01223569	Haemophilus	155.53	3.10	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Haemophilus	159.08	13.29	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Haemophilus	323.05	15.40	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01309240	Haemophilus	166.18	0.96	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01323228	Haemophilus	198.67	9.34	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Haemophilus	232.55	11.32	Molybdenum ABC transporter permease protein ModB
+PGF_01351158	Haemophilus	1124.09	156.31	Transcription-repair coupling factor
+PGF_01353801	Haemophilus	459.95	48.05	Anaerobic C4-dicarboxylate transporter DcuB
+PGF_01364427	Haemophilus	203.30	2.02	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01382505	Haemophilus	204.15	8.45	FIG00449901: hypothetical protein
+PGF_01415861	Haemophilus	166.42	1.16	LPS-assembly lipoprotein LptE
+PGF_01421534	Haemophilus	95.02	0.18	LSU ribosomal protein L25p
+PGF_01423501	Haemophilus	158.03	0.49	Transcription elongation factor GreA
+PGF_01448031	Haemophilus	96.58	4.64	Integration host factor alpha subunit
+PGF_01466819	Haemophilus	420.72	61.69	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483460	Haemophilus	355.92	19.84	Lipopolysaccharide export system permease protein LptG
+PGF_01484108	Haemophilus	207.99	4.06	Electron transport complex protein RnfG
+PGF_01529260	Haemophilus	154.93	8.94	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01599021	Haemophilus	168.27	11.53	Peptide deformylase (EC 3.5.1.88)
+PGF_01604929	Haemophilus	230.26	21.62	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01625234	Haemophilus	314.88	22.36	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667880	Haemophilus	85.03	0.16	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Haemophilus	189.89	1.55	RNA polymerase sigma factor RpoE
+PGF_01668012	Haemophilus	262.90	27.31	Sulfur carrier protein FdhD
+PGF_01673335	Haemophilus	246.16	19.05	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01678333	Haemophilus	355.52	12.67	Electron transport complex protein RnfD
+PGF_01682834	Haemophilus	151.67	1.14	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Haemophilus	232.60	23.15	DNA recombination and repair protein RecO
+PGF_01734668	Haemophilus	213.84	3.98	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Haemophilus	273.10	6.50	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01761890	Haemophilus	66.61	2.35	DNA gyrase inhibitor YacG
+PGF_01763778	Haemophilus	308.03	24.54	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01775859	Haemophilus	1280.43	129.36	Inner membrane component of TAM transport system
+PGF_01782190	Haemophilus	240.12	4.83	3-deoxy-D-manno-octulosonic acid kinase (EC 2.7.1.-)
+PGF_01810305	Haemophilus	196.07	2.41	Uncharacterized protein YjaG
+PGF_01810510	Haemophilus	264.80	11.87	LPS-core synthesis glycosyltransferase PM0512
+PGF_01839055	Haemophilus	343.87	24.53	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01853493	Haemophilus	270.82	30.95	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01877133	Haemophilus	404.59	18.13	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Haemophilus	149.81	3.22	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Haemophilus	210.72	4.65	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Haemophilus	350.22	16.27	Rod shape-determining protein MreC
+PGF_01920535	Haemophilus	563.84	48.66	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01920828	Haemophilus	256.21	2.47	HesA/MoeB/ThiF family protein => sulfur transfer pathway protein CsdL
+PGF_01921605	Haemophilus	613.74	63.26	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01923866	Haemophilus	85.17	0.79	Acid stress protein IbaG
+PGF_01937476	Haemophilus	665.64	111.37	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01960322	Haemophilus	602.32	55.15	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01974399	Haemophilus	228.92	17.01	L-cystine ABC transporter, permease protein TcyB
+PGF_01994657	Haemophilus	430.66	19.17	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Haemophilus	118.43	0.77	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02019462	Haemophilus	320.01	41.38	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Haemophilus	390.92	29.92	GTP-binding protein Obg
+PGF_02030844	Haemophilus	604.50	78.23	ATP-dependent DNA helicase RecQ
+PGF_02059020	Haemophilus	545.75	64.58	Energy-dependent translational throttle protein EttA
+PGF_02061452	Haemophilus	380.99	18.17	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Haemophilus	83.98	3.06	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02111888	Haemophilus	314.00	0.06	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02146256	Haemophilus	286.05	19.56	Sialic acid utilization regulator, RpiR family
+PGF_02169237	Haemophilus	254.57	10.47	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Haemophilus	422.52	18.79	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02203700	Haemophilus	141.47	22.79	Periplasmic/membrane protein associated with DUF414
+PGF_02213182	Haemophilus	66.42	1.40	Cytochrome c-type biogenesis protein CcmD, interacts with CcmCE
+PGF_02226715	Haemophilus	686.21	57.92	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02247058	Haemophilus	266.53	27.86	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+PGF_02325838	Haemophilus	509.11	3.62	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02346768	Haemophilus	864.07	76.80	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Haemophilus	359.66	37.47	Alanine racemase (EC 5.1.1.1)
+PGF_02357764	Haemophilus	180.94	3.24	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02369559	Haemophilus	925.11	92.14	DNA polymerase I (EC 2.7.7.7)
+PGF_02386652	Haemophilus	163.52	3.71	Ribonuclease E inhibitor RraA
+PGF_02454577	Haemophilus	86.92	1.62	SSU ribosomal protein S20p
+PGF_02463284	Haemophilus	199.30	11.97	Recombination protein RecR
+PGF_02473279	Haemophilus	240.21	13.09	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473679	Haemophilus	456.07	39.37	Type IV fimbrial assembly, ATPase PilB
+PGF_02505498	Haemophilus	376.07	36.82	Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)
+PGF_02516909	Haemophilus	433.66	24.28	Enolase (EC 4.2.1.11)
+PGF_02518965	Haemophilus	150.19	10.58	Regulatory protein RecX
+PGF_02593689	Haemophilus	434.59	17.85	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Haemophilus	460.75	64.42	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619970	Haemophilus	91.13	9.10	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Haemophilus	310.68	16.96	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02635429	Haemophilus	239.37	18.40	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02704551	Haemophilus	1395.21	163.93	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02706008	Haemophilus	234.58	29.46	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02728237	Haemophilus	155.18	0.45	Putative sugar isomerase involved in processing of exogenous sialic acid
+PGF_02728524	Haemophilus	835.05	123.19	DNA mismatch repair protein MutS
+PGF_02745613	Haemophilus	328.91	28.12	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746016	Haemophilus	225.10	6.53	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02787494	Haemophilus	225.16	9.92	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02789532	Haemophilus	301.78	40.46	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Haemophilus	235.15	8.14	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Haemophilus	444.38	68.28	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02798941	Haemophilus	508.79	49.76	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Haemophilus	216.10	15.75	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Haemophilus	178.18	2.95	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Haemophilus	267.87	19.25	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Haemophilus	442.72	15.91	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02873723	Haemophilus	487.50	31.76	Ribonuclease G
+PGF_02875609	Haemophilus	445.36	39.20	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Haemophilus	385.50	2.72	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02893929	Haemophilus	260.08	35.61	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02898176	Haemophilus	227.94	2.46	Methionine ABC transporter permease protein
+PGF_02899131	Haemophilus	63.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Haemophilus	206.22	4.89	Outer membrane lipoprotein carrier protein LolA
+PGF_02906681	Haemophilus	756.78	81.13	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02911364	Haemophilus	294.90	1.57	HflC protein
+PGF_02923127	Haemophilus	236.99	0.38	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Haemophilus	331.23	30.97	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Haemophilus	295.83	18.88	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02938730	Haemophilus	341.22	21.34	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942351	Haemophilus	223.56	1.35	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Haemophilus	544.00	57.66	SSU ribosomal protein S1p
+PGF_02947204	Haemophilus	534.48	37.67	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02959749	Haemophilus	382.89	20.67	Ribonuclease D (EC 3.1.26.3)
+PGF_02961167	Haemophilus	129.41	3.14	2-iminobutanoate/2-iminopropanoate deaminase RidA/TdcF (EC 3.5.99.10)
+PGF_02977258	Haemophilus	115.95	3.43	RidA/YER057c/UK114 superfamily, group 2, YoaB-like protein
+PGF_02992495	Haemophilus	110.62	9.07	Protein translocase membrane subunit SecG
+PGF_02997723	Haemophilus	145.36	5.50	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_02998943	Haemophilus	184.35	1.98	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03017775	Haemophilus	495.21	47.69	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03025675	Haemophilus	586.26	4.71	Lipid A export permease/ATP-binding protein MsbA
+PGF_03034557	Haemophilus	254.39	4.18	Fumarate reductase iron-sulfur protein (EC 1.3.5.4)
+PGF_03048693	Haemophilus	89.75	6.46	Periplasmic nitrate reductase component NapD
+PGF_03057384	Haemophilus	329.75	39.39	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03063012	Haemophilus	173.49	0.75	Chaperone protein HscB
+PGF_03064718	Haemophilus	421.10	32.94	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)
+PGF_03065239	Haemophilus	279.92	27.04	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+PGF_03066582	Haemophilus	340.01	61.43	Cytochrome c-type heme lyase subunit nrfF, nitrite reductase complex assembly / Cytochrome c-type heme lyase subunit nrfG, nitrite reductase complex assembly
+PGF_03069524	Haemophilus	79.81	4.53	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03074362	Haemophilus	381.27	28.41	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03081665	Haemophilus	180.00	7.90	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03104567	Haemophilus	449.27	49.77	Trk potassium uptake system protein TrkA
+PGF_03152003	Haemophilus	303.97	2.03	Cytochrome c heme lyase subunit CcmH
+PGF_03154343	Haemophilus	288.78	29.23	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Haemophilus	263.79	22.55	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Haemophilus	185.65	7.18	Transcription antitermination protein NusG
+PGF_03217584	Haemophilus	374.53	48.52	Probable 3-phenylpropionic acid transporter
+PGF_03222913	Haemophilus	140.61	6.48	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Haemophilus	102.23	6.18	UPF0125 protein RatB
+PGF_03257845	Haemophilus	207.76	2.24	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Haemophilus	865.64	106.81	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277417	Haemophilus	342.32	19.62	Methionine ABC transporter ATP-binding protein
+PGF_03278866	Haemophilus	77.73	2.25	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03318456	Haemophilus	473.29	69.87	Trk potassium uptake system protein TrkH
+PGF_03333815	Haemophilus	231.60	7.91	Copper-sensing two-component system response regulator CpxR
+PGF_03373110	Haemophilus	148.19	12.43	UPF0756 membrane protein YeaL
+PGF_03429638	Haemophilus	291.38	12.05	33 kDa chaperonin HslO
+PGF_03439690	Haemophilus	146.34	2.26	Ferric uptake regulation protein FUR
+PGF_03441339	Haemophilus	320.27	22.30	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03456505	Haemophilus	564.44	79.57	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03470321	Haemophilus	171.85	12.29	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03507290	Haemophilus	401.47	46.60	Serine/threonine:Na+ symporter SstT
+PGF_03514188	Haemophilus	444.35	63.21	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Haemophilus	138.73	5.99	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Haemophilus	415.29	31.94	Cell division protein FtsZ
+PGF_03609651	Haemophilus	672.04	65.24	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03642389	Haemophilus	322.59	15.68	putative membrane protein
+PGF_03647550	Haemophilus	162.57	7.13	UPF0234 protein Yitk
+PGF_03694962	Haemophilus	387.85	55.96	TolA protein
+PGF_03699416	Haemophilus	181.77	13.01	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Haemophilus	306.70	24.66	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Haemophilus	137.30	3.17	Protein translocase subunit SecE
+PGF_03718818	Haemophilus	256.41	6.05	Cell division protein FtsQ
+PGF_03719269	Haemophilus	206.68	10.92	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Haemophilus	159.38	3.18	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729040	Haemophilus	144.00	1.34	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03729141	Haemophilus	185.76	0.51	UPF0301 protein YqgE
+PGF_03750600	Haemophilus	159.67	3.40	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Haemophilus	84.37	9.28	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Haemophilus	213.05	21.06	Heat shock protein GrpE
+PGF_03753122	Haemophilus	296.04	13.51	Site-specific tyrosine recombinase XerC
+PGF_03753933	Haemophilus	149.92	0.93	Iron-sulfur cluster regulator IscR
+PGF_03757137	Haemophilus	454.38	31.97	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03768099	Haemophilus	290.89	14.74	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03778780	Haemophilus	433.41	66.88	Signal recognition particle receptor FtsY
+PGF_03787199	Haemophilus	181.28	13.03	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Haemophilus	225.14	10.35	Ribonuclease III (EC 3.1.26.3)
+PGF_03803868	Haemophilus	572.69	101.06	Fumarate reductase flavoprotein subunit (EC 1.3.5.4)
+PGF_03810115	Haemophilus	230.50	16.50	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03850044	Haemophilus	397.46	32.10	Sodium/glutamate symporter
+PGF_03906292	Haemophilus	106.86	7.46	Phospholipid ABC transporter-binding protein MlaB
+PGF_03912513	Haemophilus	163.36	9.02	DNA protection during starvation protein
+PGF_03919925	Haemophilus	128.38	20.42	DNA-binding protein H-NS
+PGF_03980141	Haemophilus	828.36	76.30	Adenylate cyclase (EC 4.6.1.1)
+PGF_03995518	Haemophilus	93.86	3.91	Proposed lipoate regulatory protein YbeD
+PGF_04005838	Haemophilus	408.78	45.65	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Haemophilus	213.17	12.61	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Haemophilus	149.38	9.64	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Haemophilus	474.43	2.87	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019834	Haemophilus	323.17	29.65	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04034430	Haemophilus	71.00	0.00	SSU ribosomal protein S21p
+PGF_04043844	Haemophilus	642.04	87.85	Exoribonuclease II (EC 3.1.13.1)
+PGF_04108824	Haemophilus	621.60	64.92	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Haemophilus	253.43	17.51	Twin-arginine translocation protein TatC
+PGF_04150742	Haemophilus	255.63	22.47	Zinc ABC transporter, permease protein ZnuB
+PGF_04154333	Haemophilus	74.85	1.51	Twin-arginine translocation protein TatA
+PGF_04163139	Haemophilus	223.51	13.12	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Haemophilus	216.95	11.04	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04217548	Haemophilus	637.95	57.55	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04275878	Haemophilus	230.01	22.19	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04315180	Haemophilus	168.99	1.93	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Haemophilus	452.19	35.86	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Haemophilus	894.39	54.95	Protein translocase subunit SecA
+PGF_04412082	Haemophilus	106.32	1.14	Thioredoxin
+PGF_04458212	Haemophilus	321.35	1.42	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04505269	Haemophilus	237.25	18.61	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Haemophilus	350.74	0.88	Rod shape-determining protein MreB
+PGF_04521913	Haemophilus	461.61	54.01	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Haemophilus	509.93	29.29	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Haemophilus	257.96	28.26	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04592595	Haemophilus	471.23	30.70	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4) @ Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04608820	Haemophilus	640.27	66.82	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04620152	Haemophilus	472.19	54.63	Pantothenate:Na+ symporter (TC 2.A.21.1.1)
+PGF_04630848	Haemophilus	174.99	2.75	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04660832	Haemophilus	166.05	13.88	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Haemophilus	782.01	112.78	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04679223	Haemophilus	138.62	4.75	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04695681	Haemophilus	263.44	27.33	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04724831	Haemophilus	347.71	27.37	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Haemophilus	835.38	60.74	Translation initiation factor 2
+PGF_04788810	Haemophilus	194.57	2.90	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Haemophilus	308.38	27.42	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04846590	Haemophilus	313.05	21.31	Magnesium and cobalt transport protein CorA
+PGF_04962192	Haemophilus	778.27	37.85	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Haemophilus	89.29	6.33	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Haemophilus	103.00	0.00	LSU ribosomal protein L21p
+PGF_05048110	Haemophilus	255.26	5.60	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1)
+PGF_05111929	Haemophilus	565.11	61.14	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Haemophilus	934.50	158.12	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Haemophilus	851.93	71.81	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Haemophilus	313.62	28.10	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Haemophilus	210.76	2.09	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Haemophilus	453.47	33.73	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05280843	Haemophilus	431.38	23.70	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Haemophilus	153.51	2.17	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05304567	Haemophilus	243.60	17.99	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+PGF_05338234	Haemophilus	283.58	25.97	Protein YicC
+PGF_05406959	Haemophilus	338.74	39.76	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05439724	Haemophilus	666.93	56.43	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Haemophilus	295.35	20.09	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Haemophilus	401.21	116.67	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05475561	Haemophilus	511.36	6.08	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+PGF_05507938	Haemophilus	618.35	47.31	DNA mismatch repair protein MutL
+PGF_05515206	Haemophilus	324.24	32.01	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)
+PGF_05560886	Haemophilus	269.51	15.49	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Haemophilus	438.18	28.34	Protein translocase subunit SecY
+PGF_05657253	Haemophilus	219.03	2.24	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05693577	Haemophilus	93.40	2.57	Integration host factor beta subunit
+PGF_05712128	Haemophilus	533.43	50.06	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Haemophilus	114.62	1.67	FIG138056: a glutathione-dependent thiol reductase
+PGF_05769513	Haemophilus	421.62	38.92	Tol-Pal system beta propeller repeat protein TolB
+PGF_05847461	Haemophilus	291.55	26.80	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05872952	Haemophilus	260.47	13.90	Outer membrane beta-barrel assembly protein BamD
+PGF_05949521	Haemophilus	606.15	52.09	Protein translocase subunit SecD
+PGF_05965455	Haemophilus	420.53	23.01	AmpG permease
+PGF_05971611	Haemophilus	400.52	17.38	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Haemophilus	625.27	48.67	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06027248	Haemophilus	493.98	0.64	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06037862	Haemophilus	562.36	75.98	Penicillin-binding protein activator LpoA
+PGF_06053106	Haemophilus	289.19	21.37	RNA polymerase sigma factor RpoH
+PGF_06122127	Haemophilus	441.34	58.10	Efflux transport system, outer membrane factor (OMF) lipoprotein
+PGF_06152571	Haemophilus	272.05	18.48	Sulfate transporter, CysZ-type
+PGF_06170558	Haemophilus	155.20	6.88	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Haemophilus	141.85	0.52	LSU ribosomal protein L13p (L13Ae)
+PGF_06189158	Haemophilus	106.96	5.00	Monothiol glutaredoxin GrxD
+PGF_06254345	Haemophilus	95.87	0.34	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Haemophilus	371.68	19.11	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Haemophilus	424.07	1.40	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Haemophilus	326.98	35.80	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06319722	Haemophilus	282.84	12.86	Manganese ABC transporter, inner membrane permease protein SitC
+PGF_06363819	Haemophilus	404.18	31.98	Paraquat-inducible protein A
+PGF_06379377	Haemophilus	443.28	22.71	Replication-associated recombination protein RarA
+PGF_06403579	Haemophilus	793.48	69.84	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06429852	Haemophilus	195.50	12.89	Sigma factor RpoE negative regulatory protein RseA
+PGF_06447349	Haemophilus	662.45	150.33	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06458877	Haemophilus	161.21	7.59	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Haemophilus	326.08	3.39	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Haemophilus	451.90	44.11	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06495818	Haemophilus	249.66	26.73	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06513690	Haemophilus	752.87	99.37	Pyruvate formate-lyase (EC 2.3.1.54)
+PGF_06524027	Haemophilus	659.92	76.91	ATP-dependent DNA helicase Rep
+PGF_06530721	Haemophilus	246.21	11.98	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06562926	Haemophilus	299.17	22.28	Formate dehydrogenase formation protein FdhE
+PGF_06589185	Haemophilus	576.67	75.63	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06603185	Haemophilus	222.10	15.52	UPF0758 protein YicR
+PGF_06648993	Haemophilus	76.13	0.34	Acyl carrier protein
+PGF_06683120	Haemophilus	215.37	28.93	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_06693963	Haemophilus	108.67	4.91	Nucleoid-associated protein YaaK
+PGF_06706859	Haemophilus	177.31	3.52	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06735060	Haemophilus	719.28	60.94	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06743269	Haemophilus	424.06	6.62	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06750600	Haemophilus	377.13	20.41	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06755829	Haemophilus	327.69	2.49	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06767187	Haemophilus	330.35	22.35	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06772993	Haemophilus	938.61	87.53	Ribonuclease E (EC 3.1.26.12)
+PGF_06924388	Haemophilus	44.00	0.00	LSU ribosomal protein L34p
+PGF_07072582	Haemophilus	619.77	50.45	RNA polymerase sigma factor RpoD
+PGF_07242312	Haemophilus	635.11	85.70	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07263029	Haemophilus	350.81	31.91	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07344415	Haemophilus	184.01	8.67	Intracellular septation protein IspA
+PGF_07425883	Haemophilus	112.48	5.31	Ferredoxin, 2Fe-2S
+PGF_08061357	Haemophilus	113.04	7.73	Iron-sulfur cluster insertion protein ErpA
+PGF_08074580	Haemophilus	391.25	15.95	Lipoprotein releasing system transmembrane protein LolC
+PGF_08126362	Haemophilus	493.46	69.22	DNA recombination protein RmuC
+PGF_08139865	Haemophilus	161.39	3.36	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_08153913	Haemophilus	233.67	11.24	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08177814	Haemophilus	413.04	29.96	Lipoprotein releasing system transmembrane protein LolE
+PGF_08183187	Haemophilus	380.38	65.04	Cell division protein FtsW

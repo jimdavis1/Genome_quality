@@ -1,0 +1,891 @@
+PGF_00000027	Acetobacterium	264.75	3.30	Uncharacterized protein YmdB
+PGF_00000072	Acetobacterium	435.00	27.46	FIG00670719: hypothetical protein
+PGF_00000196	Acetobacterium	419.25	4.35	FIG007079: UPF0348 protein family
+PGF_00000416	Acetobacterium	368.25	2.87	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001383	Acetobacterium	462.00	0.00	FIG01020016: hypothetical protein
+PGF_00002592	Acetobacterium	214.00	0.00	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00003409	Acetobacterium	615.00	0.00	FIG092679: Fe-S oxidoreductase
+PGF_00003431	Acetobacterium	383.00	0.00	FIG099352: hypothetical protein
+PGF_00003516	Acetobacterium	372.00	0.00	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004169	Acetobacterium	568.50	1.91	Fe-S oxidoreductase
+PGF_00004177	Acetobacterium	447.25	8.66	Fe-S oxidoreductase, related to NifB/MoaA family with PDZ N-terminal domain
+PGF_00004337	Acetobacterium	267.50	4.12	Ferredoxin 3 fused to uncharacterized domain
+PGF_00004397	Acetobacterium	273.75	0.50	Ferredoxin-like domain fused to nitroreductase-like domain
+PGF_00004728	Acetobacterium	589.00	0.00	Fibronectin/fibrinogen-binding protein
+PGF_00004737	Acetobacterium	272.75	23.50	Fic domain protein, MA2133 type
+PGF_00005354	Acetobacterium	144.75	0.50	Flagellar basal-body rod protein FlgC
+PGF_00005384	Acetobacterium	686.00	0.00	Flagellar biosynthesis protein FlhA
+PGF_00005402	Acetobacterium	88.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005454	Acetobacterium	532.50	9.95	Flagellar hook-associated protein FlgK
+PGF_00005945	Acetobacterium	400.25	8.50	Flavoprotein
+PGF_00006377	Acetobacterium	664.00	0.00	Fructose-1,6-bisphosphatase, Bacillus type (EC 3.1.3.11)
+PGF_00006392	Acetobacterium	295.00	0.00	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006457	Acetobacterium	280.25	0.50	Fumarate hydratase class I, alpha region (EC 4.2.1.2); L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)
+PGF_00006935	Acetobacterium	515.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Acetobacterium	365.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Acetobacterium	439.25	0.50	GTP-binding protein EngA
+PGF_00007026	Acetobacterium	193.75	0.50	GTP-binding protein EngB
+PGF_00007027	Acetobacterium	298.00	0.00	GTP-binding protein Era
+PGF_00007028	Acetobacterium	603.25	1.50	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Acetobacterium	604.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007057	Acetobacterium	459.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007078	Acetobacterium	349.75	0.50	Galactitol-1-phosphate 5-dehydrogenase (EC 1.1.1.251)
+PGF_00007162	Acetobacterium	450.00	0.00	Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
+PGF_00007304	Acetobacterium	280.00	0.00	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007982	Acetobacterium	289.00	0.00	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Acetobacterium	445.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Acetobacterium	442.00	2.71	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008059	Acetobacterium	269.75	2.87	Glutamate 5-kinase (EC 2.7.2.11)
+PGF_00008075	Acetobacterium	406.75	0.50	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Acetobacterium	269.75	0.50	Glutamate racemase (EC 5.1.1.3)
+PGF_00008113	Acetobacterium	530.00	0.00	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008164	Acetobacterium	430.00	1.41	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008261	Acetobacterium	699.25	1.71	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+PGF_00008326	Acetobacterium	556.25	0.50	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Acetobacterium	430.00	0.00	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Acetobacterium	491.75	0.50	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008608	Acetobacterium	347.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Acetobacterium	240.50	1.73	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008864	Acetobacterium	370.00	0.00	Glycogen biosynthesis protein GlgD, glucose-1-phosphate adenylyltransferase family
+PGF_00008876	Acetobacterium	471.00	0.82	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Acetobacterium	198.00	0.00	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009509	Acetobacterium	288.50	1.00	Glycosyl transferase, group 2 family
+PGF_00009539	Acetobacterium	745.00	18.00	Glycosyl transferase, group 2 family
+PGF_00009569	Acetobacterium	320.75	2.50	Glycosyl transferase, group 2 family
+PGF_00009966	Acetobacterium	464.00	0.00	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010135	Acetobacterium	151.00	0.00	Glyoxalase/bleomycin resistance protein/dioxygenase
+PGF_00010205	Acetobacterium	249.00	1.41	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Acetobacterium	224.50	3.11	Guanylate kinase (EC 2.7.4.8)
+PGF_00010581	Acetobacterium	192.00	0.00	HDIG domain protein
+PGF_00010692	Acetobacterium	328.50	9.11	HPr kinase/phosphorylase
+PGF_00011081	Acetobacterium	796.00	1.41	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011792	Acetobacterium	96.00	0.00	His repressor
+PGF_00011979	Acetobacterium	426.00	0.00	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Acetobacterium	354.00	0.00	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Acetobacterium	417.25	0.50	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Acetobacterium	296.00	0.00	Homoserine kinase (EC 2.7.1.39)
+PGF_00012470	Acetobacterium	184.25	3.59	HydE protein clustered with electron-bifurcating [FeFe]-hydrogenase (possible two-component regulator histidine kinase)
+PGF_00012796	Acetobacterium	144.00	0.00	ACT-domain-containing protein, predicted allosteric regulator of homoserine dehydrogenase
+PGF_00013015	Acetobacterium	161.00	0.00	Hypothetical N-acetyltransferase
+PGF_00013022	Acetobacterium	267.00	0.00	Hypothetical NagD-like phosphatase, Actinobacterial subfamily
+PGF_00013283	Acetobacterium	215.25	0.50	UPF0001 protein YggS
+PGF_00013347	Acetobacterium	89.00	1.15	UPF0297 protein YrzL
+PGF_00013418	Acetobacterium	486.50	2.65	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_00013492	Acetobacterium	170.50	15.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Acetobacterium	509.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Acetobacterium	195.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Acetobacterium	258.50	1.73	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014064	Acetobacterium	593.00	0.00	Indolepyruvate oxidoreductase subunit IorA (EC 1.2.7.8)
+PGF_00014067	Acetobacterium	190.00	0.00	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)
+PGF_00014264	Acetobacterium	318.75	0.96	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00015039	Acetobacterium	220.25	0.50	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015259	Acetobacterium	292.50	5.74	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Acetobacterium	242.75	1.50	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015718	Acetobacterium	1032.00	0.00	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Acetobacterium	330.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015963	Acetobacterium	411.00	0.00	L,L-diaminopimelate aminotransferase (EC 2.6.1.83)
+PGF_00016046	Acetobacterium	351.75	0.50	L-asparaginase (EC 3.5.1.1)
+PGF_00016139	Acetobacterium	513.00	0.00	L-lactate permease
+PGF_00016223	Acetobacterium	290.00	1.15	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Acetobacterium	222.50	3.79	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016263	Acetobacterium	294.00	0.00	L-threonine kinase in B12 biosynthesis (EC 2.7.1.177)
+PGF_00016328	Acetobacterium	173.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Acetobacterium	422.75	0.50	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016342	Acetobacterium	147.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Acetobacterium	116.50	48.92	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Acetobacterium	113.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Acetobacterium	115.50	13.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Acetobacterium	229.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Acetobacterium	117.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Acetobacterium	111.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Acetobacterium	96.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Acetobacterium	104.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016393	Acetobacterium	277.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Acetobacterium	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016423	Acetobacterium	66.25	1.50	LSU ribosomal protein L35p
+PGF_00016431	Acetobacterium	209.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Acetobacterium	206.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Acetobacterium	180.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Acetobacterium	178.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Acetobacterium	126.75	0.50	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Acetobacterium	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016546	Acetobacterium	129.00	0.00	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016843	Acetobacterium	185.25	0.50	LemA protein
+PGF_00017617	Acetobacterium	342.50	1.00	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017863	Acetobacterium	496.00	0.00	ATP-dependent RNA helicase YxiN
+PGF_00018951	Acetobacterium	372.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Acetobacterium	468.00	0.00	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019221	Acetobacterium	1224.50	17.84	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019428	Acetobacterium	176.00	0.00	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020147	Acetobacterium	370.25	0.50	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020361	Acetobacterium	155.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020374	Acetobacterium	268.00	0.00	Metal-dependent hydrolase of the beta-lactamase superfamily II
+PGF_00020816	Acetobacterium	351.00	0.00	Methyl-accepting chemotaxis protein
+PGF_00020966	Acetobacterium	335.50	1.73	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), propanediol utilization
+PGF_00020984	Acetobacterium	300.75	0.50	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Acetobacterium	157.50	1.00	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021036	Acetobacterium	344.00	1.15	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021217	Acetobacterium	511.00	0.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022503	Acetobacterium	279.00	0.82	Molybdenum transport system protein ModD
+PGF_00022507	Acetobacterium	167.25	0.50	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022553	Acetobacterium	137.75	1.26	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_00022608	Acetobacterium	391.00	6.16	Monogalactosyldiacylglycerol synthase precursor
+PGF_00023029	Acetobacterium	388.00	0.00	Domain of unknown function / Efflux ABC transporter, permease protein
+PGF_00023591	Acetobacterium	337.00	0.00	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Acetobacterium	346.25	0.50	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023812	Acetobacterium	393.25	37.50	N-acetylglucosaminyltransferase (EC 2.4.1.-)
+PGF_00024309	Acetobacterium	648.25	2.06	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024314	Acetobacterium	541.00	4.24	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024478	Acetobacterium	334.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Acetobacterium	240.25	2.36	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024521	Acetobacterium	405.00	0.00	NAD/NADP octopine/nopaline dehydrogenase
+PGF_00024909	Acetobacterium	332.00	1.15	Acetoin catabolism protein X, possible NAD kinase
+PGF_00025215	Acetobacterium	165.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025489	Acetobacterium	448.25	2.63	Niacin transporter NiaP
+PGF_00025501	Acetobacterium	531.00	0.00	Nickel ABC transporter, periplasmic nickel-binding protein NikA (TC 3.A.1.5.3)
+PGF_00025562	Acetobacterium	176.50	1.73	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Acetobacterium	477.00	0.00	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025892	Acetobacterium	641.00	0.00	Acetyl-CoA synthase corrinoid activation protein
+PGF_00025940	Acetobacterium	439.75	12.50	Acetyl-CoA synthase corrinoid iron-sulfur protein, large subunit
+PGF_00025951	Acetobacterium	528.50	0.58	Nitrogenase (molybdenum-iron) alpha chain (EC 1.18.6.1)
+PGF_00025952	Acetobacterium	311.00	0.00	Acetyl-CoA synthase corrinoid iron-sulfur protein, small subunit
+PGF_00025953	Acetobacterium	454.00	0.00	Nitrogenase (molybdenum-iron) beta chain (EC 1.18.6.1)
+PGF_00025954	Acetobacterium	273.00	0.00	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH
+PGF_00025964	Acetobacterium	452.00	2.00	Nitrogenase FeMo-cofactor scaffold and assembly protein NifE
+PGF_00025974	Acetobacterium	903.00	3.46	Nitrogenase FeMo-cofactor scaffold and assembly protein NifN / Nitrogenase FeMo-cofactor synthesis FeS core scaffold and assembly protein NifB
+PGF_00026279	Acetobacterium	263.50	1.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026288	Acetobacterium	423.00	0.00	Novel D-mannonate dehydrogenase (EC 1.1.1.57)
+PGF_00026362	Acetobacterium	199.25	0.50	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Acetobacterium	490.75	1.50	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Acetobacterium	295.00	0.00	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Acetobacterium	289.00	0.00	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00027069	Acetobacterium	277.75	1.50	Nickel transport ATP-binding protein NikD (TC 3.A.1.5.3)
+PGF_00027383	Acetobacterium	405.00	0.00	Acetyltransferase
+PGF_00027643	Acetobacterium	902.75	0.50	Osmosensitive K+ channel histidine kinase KdpD
+PGF_00028947	Acetobacterium	223.50	1.73	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) / Dihydropteridine reductase (EC 1.5.1.34)
+PGF_00030640	Acetobacterium	356.00	0.00	Peptide chain release factor 1
+PGF_00030727	Acetobacterium	298.00	16.57	Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)
+PGF_00032283	Acetobacterium	133.75	9.50	Phage protein
+PGF_00033095	Acetobacterium	792.25	0.50	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033201	Acetobacterium	315.75	8.85	Branched-chain phosphotransacylase (EC 2.3.1.- )
+PGF_00033253	Acetobacterium	401.00	0.00	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Acetobacterium	331.00	0.00	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Acetobacterium	324.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033411	Acetobacterium	267.00	0.00	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Acetobacterium	577.25	0.50	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Acetobacterium	657.00	0.82	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033802	Acetobacterium	494.00	0.00	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033877	Acetobacterium	164.50	1.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Acetobacterium	206.00	0.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Acetobacterium	417.75	0.50	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Acetobacterium	235.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Acetobacterium	202.25	0.50	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Acetobacterium	240.00	0.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Acetobacterium	348.75	1.50	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Acetobacterium	1245.00	4.62	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Acetobacterium	212.25	4.50	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Acetobacterium	362.00	0.00	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034775	Acetobacterium	109.25	3.77	Cobalt ECF transporter, additional substrate-binding protein CbiN
+PGF_00034776	Acetobacterium	692.00	0.00	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Acetobacterium	172.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Acetobacterium	321.00	0.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035334	Acetobacterium	337.00	0.00	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035370	Acetobacterium	295.25	4.11	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035406	Acetobacterium	684.75	0.50	Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035721	Acetobacterium	477.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Acetobacterium	436.50	29.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036814	Acetobacterium	477.50	0.58	Probable M18-family aminopeptidase 1 (EC 3.4.11.-)
+PGF_00036988	Acetobacterium	282.00	0.00	Agmatinase (EC 3.5.3.11)
+PGF_00037459	Acetobacterium	378.00	0.00	Processive diacylglycerol beta-glucosyltransferase (EC 2.4.1.315)
+PGF_00037565	Acetobacterium	510.75	17.17	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037586	Acetobacterium	483.00	0.00	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037629	Acetobacterium	554.00	1.15	Propanediol dehydratase large subunit (EC 4.2.1.28)
+PGF_00037630	Acetobacterium	217.00	3.37	Propanediol dehydratase medium subunit (EC 4.2.1.28)
+PGF_00037631	Acetobacterium	604.25	0.50	Propanediol dehydratase reactivation factor large subunit
+PGF_00037632	Acetobacterium	124.00	0.00	Propanediol dehydratase reactivation factor small subunit
+PGF_00037633	Acetobacterium	166.75	0.50	Propanediol dehydratase small subunit (EC 4.2.1.28)
+PGF_00037661	Acetobacterium	92.00	0.00	Propanediol utilization polyhedral body protein PduN
+PGF_00037663	Acetobacterium	178.50	4.04	Propanediol utilization polyhedral body protein PduT
+PGF_00037683	Acetobacterium	391.00	0.00	Alcohol dehydrogenase (EC 1.1.1.1); Acetaldehyde dehydrogenase (EC 1.2.1.10)
+PGF_00038619	Acetobacterium	248.00	0.00	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038674	Acetobacterium	297.25	0.50	Protein translocase subunit SecF
+PGF_00038846	Acetobacterium	383.75	0.96	Aldo/keto reductase, 4Fe-4S-containing, TM1183 family
+PGF_00038971	Acetobacterium	267.50	1.00	Pur operon repressor PurR
+PGF_00040464	Acetobacterium	387.75	0.50	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040578	Acetobacterium	259.00	2.58	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040579	Acetobacterium	197.00	0.00	Uncharacterized metal-dependent hydrolase YcfH / Radical SAM domain protein
+PGF_00043810	Acetobacterium	240.25	2.50	Putative response regulator; homolog of RumR and ScnR
+PGF_00045963	Acetobacterium	1148.00	6.93	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045994	Acetobacterium	580.00	0.00	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00046007	Acetobacterium	1174.00	0.00	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+PGF_00046101	Acetobacterium	283.25	6.99	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Acetobacterium	302.00	0.00	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046197	Acetobacterium	277.50	5.00	RNA binding methyltransferase FtsJ like
+PGF_00046377	Acetobacterium	274.50	11.15	RNA polymerase sigma factor for flagellar operon
+PGF_00046403	Acetobacterium	480.75	5.91	RNA polymerase sigma-54 factor RpoN
+PGF_00046555	Acetobacterium	202.00	0.00	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046657	Acetobacterium	263.75	2.87	Alpha-acetolactate decarboxylase (EC 4.1.1.5)
+PGF_00046806	Acetobacterium	306.00	0.00	ROK family protein (putative glucokinase)
+PGF_00047078	Acetobacterium	361.25	2.63	RecA protein
+PGF_00047095	Acetobacterium	737.00	0.00	RecD-like DNA helicase YrrC
+PGF_00047155	Acetobacterium	209.00	0.00	Redox-sensing transcriptional repressor Rex
+PGF_00047180	Acetobacterium	225.25	0.96	Regulation of D-alanyl-lipoteichoic acid biosynthesis, DltR
+PGF_00047479	Acetobacterium	413.75	0.50	Related to HTH domain of SpoOJ/ParA/ParB/repB family, involved in chromosome partitioning
+PGF_00047642	Acetobacterium	88.25	0.50	Repressor CsoR of the copZA operon
+PGF_00048133	Acetobacterium	225.00	0.00	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_00048480	Acetobacterium	219.00	2.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Acetobacterium	154.50	1.00	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Acetobacterium	258.25	0.50	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Acetobacterium	253.50	3.70	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Acetobacterium	153.25	11.00	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Acetobacterium	319.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Acetobacterium	236.25	2.22	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Acetobacterium	312.00	0.00	Ribosomal protein L11 methyltransferase
+PGF_00048846	Acetobacterium	454.75	5.68	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Acetobacterium	176.50	0.58	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Acetobacterium	185.25	0.50	Ribosome recycling factor
+PGF_00048928	Acetobacterium	295.25	0.50	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Acetobacterium	79.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Acetobacterium	127.25	0.50	Ribosome-binding factor A
+PGF_00048985	Acetobacterium	216.75	1.50	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049323	Acetobacterium	266.75	5.50	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+PGF_00049362	Acetobacterium	341.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Acetobacterium	159.00	0.00	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049731	Acetobacterium	436.00	2.83	Aluminum resistance protein
+PGF_00049827	Acetobacterium	295.25	1.50	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Acetobacterium	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Acetobacterium	130.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Acetobacterium	120.50	7.00	SSU ribosomal protein S12p (S23e)
+PGF_00049847	Acetobacterium	88.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Acetobacterium	81.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Acetobacterium	85.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049857	Acetobacterium	75.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049889	Acetobacterium	240.50	0.58	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Acetobacterium	168.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Acetobacterium	95.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Acetobacterium	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Acetobacterium	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Acetobacterium	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Acetobacterium	243.00	3.37	Segregation and condensation protein A
+PGF_00050995	Acetobacterium	462.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051280	Acetobacterium	415.25	1.26	Serine protease inhibitor (serpin family)
+PGF_00051525	Acetobacterium	423.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052218	Acetobacterium	118.00	0.00	Signal recognition particle associated protein
+PGF_00052238	Acetobacterium	445.00	0.00	Signal recognition particle protein Ffh
+PGF_00052554	Acetobacterium	627.00	0.00	Similar to carbon monoxide dehydrogenase CooS subunit
+PGF_00052705	Acetobacterium	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052714	Acetobacterium	146.00	1.15	Amino acid-binding ACT
+PGF_00053789	Acetobacterium	368.00	0.82	Aminopeptidase
+PGF_00053966	Acetobacterium	410.00	2.00	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00053991	Acetobacterium	279.00	0.00	Stage 0 sporulation protein YaaT
+PGF_00054343	Acetobacterium	190.75	2.22	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054388	Acetobacterium	209.00	0.00	Substrate-specific component PanT of predicted pantothenate ECF transporter
+PGF_00054778	Acetobacterium	395.00	3.37	Sugar diacid utilization regulator SdaR
+PGF_00055226	Acetobacterium	2313.00	148.09	Superfamily II DNA and RNA helicase
+PGF_00055284	Acetobacterium	128.00	0.00	Superoxide reductase (EC 1.15.1.2)
+PGF_00055394	Acetobacterium	396.25	2.50	Anaerobic nitric oxide reductase flavorubredoxin
+PGF_00055402	Acetobacterium	275.00	0.00	TIM-barrel signal transduction protein
+PGF_00055659	Acetobacterium	335.00	2.31	Anaerobic sulfite reductase subunit A
+PGF_00055722	Acetobacterium	265.00	0.00	Anaerobic sulfite reductase subunit B
+PGF_00055735	Acetobacterium	322.00	0.00	Anaerobic sulfite reductase subunit C (EC 1.8.1.-)
+PGF_00056149	Acetobacterium	310.00	0.00	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_00056312	Acetobacterium	306.00	0.00	Tetrahydromethanopterin S-methyltransferase subunit H (EC 2.1.1.86) homolog
+PGF_00056662	Acetobacterium	340.50	1.91	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Acetobacterium	487.00	0.00	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Acetobacterium	592.50	241.05	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057402	Acetobacterium	147.25	0.50	Transamidase GatB domain protein
+PGF_00057483	Acetobacterium	578.25	11.84	Transcription termination factor Rho
+PGF_00057485	Acetobacterium	389.25	11.84	Transcription termination protein NusA
+PGF_00057529	Acetobacterium	647.25	11.24	Transcriptional activator of acetoin dehydrogenase operon AcoR
+PGF_00057898	Acetobacterium	399.00	26.09	Transcriptional regulator
+PGF_00058386	Acetobacterium	403.25	1.50	Transcriptional regulator
+PGF_00059076	Acetobacterium	161.00	0.00	Transcriptional regulator, CarD family
+PGF_00059150	Acetobacterium	224.25	0.50	Transcriptional regulator, Crp/Fnr family
+PGF_00059819	Acetobacterium	304.50	5.45	Transcriptional regulator, RpiR family
+PGF_00060409	Acetobacterium	682.75	8.96	Translation elongation factor G
+PGF_00060412	Acetobacterium	692.00	1.41	Elongation factor G-like protein TM_1651
+PGF_00060414	Acetobacterium	601.00	0.00	Translation elongation factor LepA
+PGF_00060421	Acetobacterium	185.00	0.00	Translation elongation factor P
+PGF_00060427	Acetobacterium	214.00	0.00	Translation elongation factor Ts
+PGF_00060478	Acetobacterium	144.75	2.06	Translation initiation factor 3
+PGF_00060510	Acetobacterium	292.25	2.36	Cobalt ECF transporter, transmembrane component of energizing module CbiQ
+PGF_00060519	Acetobacterium	261.00	8.00	Transmembrane component NikQ of energizing module of nickel ECF transporter
+PGF_00062019	Acetobacterium	457.00	0.00	Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)
+PGF_00062023	Acetobacterium	261.50	4.51	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Acetobacterium	394.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Acetobacterium	335.50	1.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062085	Acetobacterium	224.00	0.00	Tungsten-containing aldehyde:ferredoxin oxidoreductase cofactor synthesis adenylyltransferase
+PGF_00062520	Acetobacterium	223.00	0.00	Two-component response regulator colocalized with HrtAB transporter
+PGF_00063916	Acetobacterium	408.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Acetobacterium	301.00	0.00	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Acetobacterium	366.75	0.50	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Acetobacterium	472.00	0.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064244	Acetobacterium	484.75	0.96	Arginine decarboxylase (EC 4.1.1.19)
+PGF_00064359	Acetobacterium	149.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064393	Acetobacterium	290.25	0.96	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064517	Acetobacterium	483.75	0.50	Arginine utilization regulatory protein RocR
+PGF_00064519	Acetobacterium	538.00	8.12	Uncharacterized ABC1 family protein Bbr_0249
+PGF_00064679	Acetobacterium	388.00	0.00	Uncharacterized ferredoxin oxidoreductase MJ0100
+PGF_00064923	Acetobacterium	323.00	2.94	Uncharacterized protein DSY2363
+PGF_00065379	Acetobacterium	383.00	0.00	Uncharacterized protein YaaN
+PGF_00065410	Acetobacterium	163.00	0.00	Uncharacterized protein YbbK
+PGF_00065736	Acetobacterium	189.00	0.00	Uncharacterized protein similar to PduL
+PGF_00065887	Acetobacterium	235.75	0.50	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Acetobacterium	209.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Acetobacterium	231.50	1.00	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066372	Acetobacterium	595.00	0.00	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066375	Acetobacterium	460.00	0.00	V-type ATP synthase subunit B (EC 3.6.3.14)
+PGF_00066388	Acetobacterium	204.00	0.00	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066423	Acetobacterium	656.00	0.00	V-type ATP synthase subunit I (EC 3.6.3.14)
+PGF_00066425	Acetobacterium	145.75	0.50	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_00066453	Acetobacterium	882.00	0.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Acetobacterium	393.00	0.00	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Acetobacterium	308.25	0.50	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Acetobacterium	443.00	6.00	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066942	Acetobacterium	195.75	2.50	Xanthine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_00066960	Acetobacterium	144.00	0.00	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067188	Acetobacterium	332.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067383	Acetobacterium	527.25	1.26	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067466	Acetobacterium	589.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Acetobacterium	478.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068903	Acetobacterium	72.75	0.50	bacterial seryl-tRNA synthetase related
+PGF_00069013	Acetobacterium	866.75	1.26	beta-glucosidase (EC 3.2.1.21)
+PGF_00070166	Acetobacterium	150.75	18.50	conserved protein, permease-related
+PGF_00070354	Acetobacterium	342.00	0.00	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)
+PGF_00070457	Acetobacterium	378.50	1.73	dTDP-4-amino-4,6-dideoxygalactose transaminase (EC 2.6.1.59)
+PGF_00070551	Acetobacterium	336.00	0.00	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00075770	Acetobacterium	452.00	0.00	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00084324	Acetobacterium	280.50	9.68	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00107708	Acetobacterium	165.25	0.50	hypothetical protein
+PGF_00134118	Acetobacterium	984.00	0.00	Predicted insulinase-like Zn-dependent peptidase DVU0941
+PGF_00136594	Acetobacterium	70.50	0.58	hypothetical protein
+PGF_00147294	Acetobacterium	338.00	0.00	hypothetical protein
+PGF_00155307	Acetobacterium	259.00	0.00	hypothetical protein
+PGF_00166142	Acetobacterium	102.00	4.24	hypothetical protein
+PGF_00208140	Acetobacterium	327.00	0.00	hypothetical protein
+PGF_00236001	Acetobacterium	443.50	2.52	hypothetical protein
+PGF_00252380	Acetobacterium	265.75	1.71	hypothetical protein
+PGF_00261173	Acetobacterium	358.00	0.00	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Acetobacterium	205.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00307973	Acetobacterium	281.00	0.00	Transcriptional regulator, RpiR family
+PGF_00324246	Acetobacterium	263.00	0.00	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3) @ Sirohydrochlorin ferrochelatase activity of CbiK (EC 4.99.1.4)
+PGF_00342563	Acetobacterium	651.00	7.35	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00350921	Acetobacterium	278.75	1.26	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00391084	Acetobacterium	547.00	6.16	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00401757	Acetobacterium	332.25	0.50	no significant homology.
+PGF_00401868	Acetobacterium	349.75	60.92	Iron-sulfur cluster carrier protein, CA_C2982 type
+PGF_00402043	Acetobacterium	362.50	3.70	Beta-hydroxylase, bleomycin/phleomycin binding protein, ankyrin homologue, bleomycin and transport protein
+PGF_00404078	Acetobacterium	157.25	0.50	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Acetobacterium	450.00	0.00	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404809	Acetobacterium	450.25	0.50	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00404817	Acetobacterium	114.00	0.00	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00410279	Acetobacterium	559.00	1.41	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00412309	Acetobacterium	615.00	0.82	sigma-54 dependent DNA-binding response regulator
+PGF_00412532	Acetobacterium	212.25	0.50	Transcriptional repressor CcpN, MarR family
+PGF_00412634	Acetobacterium	161.00	0.00	small multidrug export protein (qacE) homolog
+PGF_00413189	Acetobacterium	232.50	1.00	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Acetobacterium	154.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Acetobacterium	234.25	4.50	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413261	Acetobacterium	467.50	3.00	tRNA and rRNA cytosine-C5-methylase Type 1
+PGF_00413284	Acetobacterium	162.50	7.00	tRNA proofreading protein STM4549
+PGF_00413290	Acetobacterium	244.50	1.00	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Acetobacterium	305.00	1.41	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Acetobacterium	442.75	3.10	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Acetobacterium	632.75	2.06	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Acetobacterium	146.75	14.71	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Acetobacterium	152.00	0.00	tmRNA-binding protein SmpB
+PGF_00414866	Acetobacterium	143.25	0.50	CBS domain protein
+PGF_00414926	Acetobacterium	444.00	0.00	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415098	Acetobacterium	611.00	42.00	CO dehydrogenase (ferredoxin)/acetyl-CoA synthase, CO dehydrogenase subunit (EC 1.2.7.4)
+PGF_00415407	Acetobacterium	399.25	4.79	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415417	Acetobacterium	276.00	0.00	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+PGF_00415486	Acetobacterium	159.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415649	Acetobacterium	90.50	7.77	COG2827: putative endonuclease containing a URI domain
+PGF_00416115	Acetobacterium	313.00	0.00	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Acetobacterium	540.75	13.50	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Acetobacterium	1066.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416436	Acetobacterium	315.00	0.00	3'->5' exoribonuclease Bsu YhaM
+PGF_00416506	Acetobacterium	518.25	45.21	Carbon starvation protein A
+PGF_00416525	Acetobacterium	191.00	1.63	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416622	Acetobacterium	379.50	1.73	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Acetobacterium	399.00	0.00	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00416674	Acetobacterium	399.75	0.50	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416683	Acetobacterium	336.25	0.50	Catabolite control protein A
+PGF_00417381	Acetobacterium	353.00	0.00	Central glycolytic genes regulator
+PGF_00417658	Acetobacterium	355.00	0.00	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Acetobacterium	356.75	5.19	Chorismate synthase (EC 4.2.3.5)
+PGF_00418190	Acetobacterium	565.00	0.00	CoA-disulfide reductase (EC 1.8.1.14)
+PGF_00418270	Acetobacterium	92.50	2.38	Cobalamine-related hypothetical metal-binding protein CrdX
+PGF_00418278	Acetobacterium	348.75	8.96	Cobalt-precorrin 5A hydrolase (EC 3.7.1.12)
+PGF_00418285	Acetobacterium	245.00	0.00	Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)
+PGF_00418291	Acetobacterium	251.75	0.50	Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+PGF_00418292	Acetobacterium	381.00	0.00	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418301	Acetobacterium	192.00	0.00	Cobalt-precorrin-6B C15-methyltransferase [decarboxylating] (EC 2.1.1.196)
+PGF_00418304	Acetobacterium	208.00	0.00	Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289)
+PGF_00418368	Acetobacterium	499.25	1.50	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Acetobacterium	454.00	0.00	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419472	Acetobacterium	159.25	0.50	Conserved protein, permease-related
+PGF_00419913	Acetobacterium	166.75	1.26	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420121	Acetobacterium	216.75	0.50	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420748	Acetobacterium	378.75	6.60	D amino acid oxidase (DAO) family (EC 1.4.3.3)
+PGF_00420798	Acetobacterium	349.75	0.96	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421071	Acetobacterium	150.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Acetobacterium	556.00	3.56	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Acetobacterium	1179.00	8.87	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Acetobacterium	370.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Acetobacterium	592.50	0.58	DNA primase (EC 2.7.7.-)
+PGF_00421733	Acetobacterium	374.00	6.68	DNA recombination and repair protein RecF
+PGF_00421792	Acetobacterium	452.50	1.00	DNA repair protein RadA
+PGF_00421796	Acetobacterium	579.00	0.00	DNA repair protein RecN
+PGF_00421816	Acetobacterium	321.00	0.00	DNA replication helicase loader DnaC/DnaI
+PGF_00421830	Acetobacterium	342.00	0.00	DNA replication protein DnaD
+PGF_00422061	Acetobacterium	92.00	2.00	DNA-binding protein HBsu
+PGF_00422085	Acetobacterium	107.50	1.00	DNA-binding protein SpoVG
+PGF_00422177	Acetobacterium	234.25	1.50	DNA-binding response regulator KdpE
+PGF_00422271	Acetobacterium	319.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422446	Acetobacterium	226.50	1.00	DUF124 domain-containing protein
+PGF_00422918	Acetobacterium	177.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00423089	Acetobacterium	362.50	1.00	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423101	Acetobacterium	403.25	5.12	Diaminopropionate ammonia-lyase (EC 4.3.1.15)
+PGF_00423300	Acetobacterium	433.50	0.58	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423364	Acetobacterium	272.50	1.00	Dihydroneopterin aldolase (EC 4.1.2.25) / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_00423378	Acetobacterium	390.00	0.00	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Acetobacterium	537.00	0.00	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423471	Acetobacterium	787.25	3.40	DinG family ATP-dependent helicase CPE1197
+PGF_00423533	Acetobacterium	292.75	9.64	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424146	Acetobacterium	583.00	0.00	Electron-bifurcating [FeFe]-hydrogenase subunit A (hydrogenase)
+PGF_00424149	Acetobacterium	142.50	15.59	Electron-bifurcating [FeFe]-hydrogenase subunit D
+PGF_00424337	Acetobacterium	277.25	4.50	Endonuclease IV (EC 3.1.21.2)
+PGF_00424971	Acetobacterium	610.25	1.50	Excinuclease ABC subunit C
+PGF_00425011	Acetobacterium	269.00	19.85	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Acetobacterium	402.25	0.50	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Acetobacterium	1169.25	1.50	Exonuclease SbcC
+PGF_00425092	Acetobacterium	415.00	20.75	Exonuclease SbcD
+PGF_00425112	Acetobacterium	303.25	1.26	Exopolyphosphatase-related protein
+PGF_00425671	Acetobacterium	290.00	0.00	RNase adapter protein RapZ
+PGF_00425679	Acetobacterium	212.00	1.83	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425734	Acetobacterium	114.00	0.00	FIG001802: Putative alkaline-shock protein
+PGF_00425747	Acetobacterium	162.00	0.00	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Acetobacterium	514.00	0.00	Ribonuclease Y
+PGF_00425806	Acetobacterium	336.00	0.00	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425997	Acetobacterium	361.50	5.80	FIG004453: protein YceG like
+PGF_00426041	Acetobacterium	298.75	1.50	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426069	Acetobacterium	205.25	0.50	5,10-methylenetetrahydrofolate reductase, small subunit (EC 1.5.1.20)
+PGF_00426236	Acetobacterium	354.25	0.50	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426479	Acetobacterium	588.00	0.00	FIG00519667: hypothetical protein
+PGF_00426722	Acetobacterium	789.00	2.71	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426736	Acetobacterium	261.00	0.00	5-methyltetrahydrofolate:corrinoid/iron-sulfur protein Co-methyltransferase (EC 2.1.1.258)
+PGF_00426778	Acetobacterium	124.75	3.50	FIG00589810: hypothetical protein
+PGF_00426877	Acetobacterium	280.75	2.87	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Acetobacterium	154.75	0.50	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00464627	Acetobacterium	578.25	2.06	Sodium-dependent phosphate transporter
+PGF_00482828	Acetobacterium	449.25	5.32	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00529632	Acetobacterium	867.75	1.50	ClpB protein
+PGF_00538878	Acetobacterium	265.00	3.56	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00565750	Acetobacterium	243.50	1.00	ATPase component NikO of energizing module of nickel ECF transporter
+PGF_00570239	Acetobacterium	346.25	1.26	Spermidine/putrescine import ABC transporter substrate-binding protein PotD (TC 3.A.1.11.1)
+PGF_00598374	Acetobacterium	194.75	0.50	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00616490	Acetobacterium	175.25	0.50	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Acetobacterium	345.50	5.00	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Acetobacterium	433.50	1.29	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Acetobacterium	337.00	0.00	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00645051	Acetobacterium	336.50	1.00	Substrate-specific component NikM of nickel ECF transporter / Additional substrate-specific component NikN of nickel ECF transporter
+PGF_00652946	Acetobacterium	285.75	0.50	Transcriptional regulator, LysR family
+PGF_00659194	Acetobacterium	191.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662997	Acetobacterium	256.50	2.52	Cobalamin synthase (EC 2.7.8.26)
+PGF_00665875	Acetobacterium	114.00	0.00	Ribosomal silencing factor RsfA
+PGF_00666433	Acetobacterium	337.00	1.15	ABC transporter-like sensor linked histidine kinase Cphy_3333
+PGF_00667256	Acetobacterium	264.00	0.00	Hypothetical NagD-like phosphatase
+PGF_00670899	Acetobacterium	255.50	15.42	Nickel transport ATP-binding protein NikD (TC 3.A.1.5.3)
+PGF_00684054	Acetobacterium	246.75	16.50	ABC transporter-like sensor ATP-binding protein Cphy_3332
+PGF_00691283	Acetobacterium	418.25	0.50	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00709681	Acetobacterium	320.50	6.35	Inner membrane protein YrbG, predicted calcium/sodium:proton antiporter
+PGF_00717495	Acetobacterium	454.25	0.50	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00717613	Acetobacterium	204.75	0.50	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00721835	Acetobacterium	319.75	1.50	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00730297	Acetobacterium	242.75	0.50	Predicted alpha-ribazole-5-phosphate synthase CblS for cobalamin biosynthesis
+PGF_00733063	Acetobacterium	138.00	0.00	Anti-sigma B factor RsbT
+PGF_00734482	Acetobacterium	688.50	1.00	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00738945	Acetobacterium	256.25	0.50	Glutamine ABC transporter, permease protein GlnP
+PGF_00743561	Acetobacterium	193.25	0.96	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00744244	Acetobacterium	805.00	0.00	Porphobilinogen deaminase (EC 2.5.1.61) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00777996	Acetobacterium	230.00	1.15	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00779345	Acetobacterium	592.75	1.26	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_00822583	Acetobacterium	548.50	4.36	High-affinity choline uptake protein BetT
+PGF_00827555	Acetobacterium	579.50	5.57	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00873040	Acetobacterium	288.75	1.50	putative membrane protein
+PGF_00900256	Acetobacterium	501.00	0.00	Threonine synthase (EC 4.2.3.1)
+PGF_00903857	Acetobacterium	662.00	2.00	ABC transporter-like sensor and permease protein Cphy_3331
+PGF_00912265	Acetobacterium	330.75	4.50	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Acetobacterium	478.00	6.68	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Acetobacterium	558.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00935308	Acetobacterium	269.50	8.19	FIG011178: rRNA methylase
+PGF_00941207	Acetobacterium	329.00	0.00	hypothetical protein
+PGF_00941650	Acetobacterium	215.00	0.00	hypothetical protein
+PGF_00944166	Acetobacterium	397.00	0.00	Isocitrate dehydrogenase [NAD] (EC 1.1.1.41)
+PGF_00947647	Acetobacterium	186.50	1.00	Fumarate hydratase class I, beta region (EC 4.2.1.2); L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)
+PGF_00950554	Acetobacterium	658.75	1.50	Excinuclease ABC subunit B
+PGF_00951403	Acetobacterium	297.50	7.00	hypothetical protein
+PGF_00955412	Acetobacterium	257.00	0.00	Probable iron export permease protein FetB
+PGF_00956706	Acetobacterium	313.50	1.00	Ferredoxin
+PGF_00957419	Acetobacterium	138.00	0.00	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Acetobacterium	319.00	0.82	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00981250	Acetobacterium	785.75	4.35	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_00999365	Acetobacterium	366.50	132.35	hypothetical protein
+PGF_01008498	Acetobacterium	112.50	0.58	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01020154	Acetobacterium	219.00	0.00	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)
+PGF_01028579	Acetobacterium	460.00	20.00	Sodium-dependent transporter, SNF family
+PGF_01040342	Acetobacterium	283.00	0.00	Spermidine synthase (EC 2.5.1.16)
+PGF_01079016	Acetobacterium	298.25	0.50	Chromosome (plasmid) partitioning protein ParB
+PGF_01124268	Acetobacterium	179.75	1.26	RecU Holliday junction resolvase
+PGF_01127158	Acetobacterium	261.00	9.87	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01162681	Acetobacterium	640.00	0.00	Aconitate hydratase (EC 4.2.1.3)
+PGF_01174739	Acetobacterium	343.75	23.64	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Acetobacterium	638.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Acetobacterium	283.00	2.71	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212940	Acetobacterium	292.00	0.00	UPF0701 protein YloC
+PGF_01218448	Acetobacterium	320.75	5.50	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01268623	Acetobacterium	757.50	10.38	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4) / Ribosomal protein S1 RNA-binding domain
+PGF_01281503	Acetobacterium	387.00	0.00	hypothetical protein
+PGF_01288422	Acetobacterium	278.00	0.00	ABC transporter related
+PGF_01288511	Acetobacterium	366.25	4.50	Integral membrane protein LafC, accessory function in glycolipid and LTA synthesis
+PGF_01291823	Acetobacterium	212.25	0.50	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01292237	Acetobacterium	244.00	0.00	hypothetical protein
+PGF_01296054	Acetobacterium	722.25	13.30	putative ATP-dependent DNA helicase YjcD
+PGF_01298413	Acetobacterium	128.00	0.00	hypothetical protein
+PGF_01298609	Acetobacterium	225.00	0.00	hypothetical protein
+PGF_01311591	Acetobacterium	329.00	0.00	hypothetical protein
+PGF_01323228	Acetobacterium	203.50	1.73	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01332636	Acetobacterium	244.50	1.73	Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)
+PGF_01350798	Acetobacterium	338.00	0.00	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351158	Acetobacterium	1145.50	2.89	Transcription-repair coupling factor
+PGF_01364427	Acetobacterium	200.00	0.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01364543	Acetobacterium	356.25	2.06	Thiamin biosynthesis lipoprotein ApbE
+PGF_01389077	Acetobacterium	77.50	3.00	Uncharacterized protein YbcJ
+PGF_01407825	Acetobacterium	465.00	7.66	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_01412814	Acetobacterium	135.75	0.50	hypothetical protein
+PGF_01416650	Acetobacterium	273.00	0.00	Transmembrane component of general energizing module of ECF transporters
+PGF_01417370	Acetobacterium	132.75	2.06	hypothetical protein
+PGF_01420802	Acetobacterium	143.00	0.00	Cell division protein MraZ
+PGF_01421572	Acetobacterium	184.00	50.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01423501	Acetobacterium	160.00	0.00	Transcription elongation factor GreA
+PGF_01443713	Acetobacterium	235.25	3.20	Efflux ABC transporter, ATP-binding protein
+PGF_01443825	Acetobacterium	309.25	0.50	rhodanese
+PGF_01444546	Acetobacterium	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01446257	Acetobacterium	249.25	15.50	Hydroxymethylpyrimidine ABC transporter, transmembrane component
+PGF_01462355	Acetobacterium	451.00	0.00	hypothetical protein
+PGF_01462537	Acetobacterium	589.00	1.63	Efflux ABC transporter, permease/ATP-binding protein YwjA
+PGF_01465568	Acetobacterium	129.00	0.00	Thioesterase
+PGF_01466742	Acetobacterium	583.25	0.50	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01468040	Acetobacterium	354.00	0.00	Nucleoside ABC transporter, permease protein 1
+PGF_01474372	Acetobacterium	511.00	2.00	Putative deoxyribose-specific ABC transporter, ATP-binding protein
+PGF_01480353	Acetobacterium	80.50	1.73	hypothetical protein
+PGF_01481272	Acetobacterium	150.25	23.50	Chemotaxis protein CheD
+PGF_01482335	Acetobacterium	1411.50	0.58	Activator of (R)-2-hydroxyglutaryl-CoA dehydratase
+PGF_01483918	Acetobacterium	270.00	0.00	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01488625	Acetobacterium	92.00	0.00	hypothetical protein
+PGF_01513923	Acetobacterium	225.00	9.24	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01532393	Acetobacterium	703.50	3.11	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01544814	Acetobacterium	126.75	2.06	Transcriptional regulator AdhR, MerR family
+PGF_01557745	Acetobacterium	398.00	0.00	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01618915	Acetobacterium	350.00	2.31	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01625234	Acetobacterium	304.75	0.50	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01652104	Acetobacterium	218.00	0.00	regulatory protein, TetR
+PGF_01654885	Acetobacterium	494.25	26.69	RhoGEF Guanine nucleotide exchange factor for Rho/Rac/Cdc42-like GTPases-like
+PGF_01667452	Acetobacterium	344.25	4.92	hypothetical protein
+PGF_01668006	Acetobacterium	245.00	0.00	Putative RNA-binding protein YlmH
+PGF_01668007	Acetobacterium	148.00	0.00	FIG00814129: Possible chaperone
+PGF_01668031	Acetobacterium	344.25	7.50	H+-transporting two-sector ATPase, C (AC39) subunit
+PGF_01668034	Acetobacterium	242.75	1.26	HAD-superfamily hydrolase, subfamily IA, variant 1
+PGF_01668042	Acetobacterium	243.00	0.00	Histidinol phosphatase and related hydrolase of the PHP family
+PGF_01668060	Acetobacterium	195.75	1.50	Methlytransferase, UbiE/COQ5 family
+PGF_01668131	Acetobacterium	494.00	0.00	Radical SAM domain protein
+PGF_01668183	Acetobacterium	177.00	0.00	Zinc metalloprotease
+PGF_01668377	Acetobacterium	261.50	3.00	hypothetical protein
+PGF_01668383	Acetobacterium	110.00	0.00	hypothetical protein
+PGF_01668461	Acetobacterium	91.00	0.00	Catabolite repression HPr-like protein Crh
+PGF_01668463	Acetobacterium	172.25	1.26	hypothetical protein
+PGF_01668469	Acetobacterium	174.50	3.00	hypothetical protein
+PGF_01668635	Acetobacterium	828.25	4.27	hypothetical protein
+PGF_01668642	Acetobacterium	252.25	0.50	hypothetical protein
+PGF_01668667	Acetobacterium	238.75	0.50	hypothetical protein
+PGF_01668674	Acetobacterium	254.00	2.00	hypothetical protein
+PGF_01669056	Acetobacterium	230.75	25.00	hypothetical protein
+PGF_01669242	Acetobacterium	121.75	0.50	protein of unknown function DUF964
+PGF_01669259	Acetobacterium	215.75	0.50	regulatory protein, TetR
+PGF_01669264	Acetobacterium	473.50	0.58	sigma-54 factor, interaction region
+PGF_01669273	Acetobacterium	673.75	0.50	two component, sigma54 specific, transcriptional regulator, Fis family
+PGF_01677191	Acetobacterium	334.25	2.63	Sporulation transcription regulator WhiA
+PGF_01682834	Acetobacterium	163.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Acetobacterium	251.25	0.96	DNA recombination and repair protein RecO
+PGF_01719396	Acetobacterium	211.00	0.00	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01744781	Acetobacterium	188.00	0.00	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01747364	Acetobacterium	254.50	1.00	Nickel transport ATP-binding protein NikE (TC 3.A.1.5.3)
+PGF_01752285	Acetobacterium	168.50	3.00	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01777142	Acetobacterium	212.25	1.50	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Acetobacterium	579.00	0.00	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Acetobacterium	275.00	0.00	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Acetobacterium	344.00	0.00	Heat-inducible transcription repressor HrcA
+PGF_01873735	Acetobacterium	296.75	1.89	Nickel transport system permease protein NikC (TC 3.A.1.5.3)
+PGF_01888177	Acetobacterium	138.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Acetobacterium	213.50	3.32	Endonuclease III (EC 4.2.99.18)
+PGF_01898546	Acetobacterium	462.00	8.00	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01899924	Acetobacterium	249.75	4.35	Flagellar motor rotation protein MotB
+PGF_01900807	Acetobacterium	264.25	8.85	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01960322	Acetobacterium	607.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01992519	Acetobacterium	369.75	22.78	hypothetical protein
+PGF_01994657	Acetobacterium	431.50	1.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_01996796	Acetobacterium	257.00	0.00	hypothetical protein
+PGF_02008990	Acetobacterium	639.00	5.48	Efflux ABC transporter, permease/ATP-binding protein BLi02169
+PGF_02010018	Acetobacterium	121.50	4.65	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Acetobacterium	252.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Acetobacterium	340.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Acetobacterium	427.00	0.00	GTP-binding protein Obg
+PGF_02030844	Acetobacterium	730.50	6.03	ATP-dependent DNA helicase RecQ
+PGF_02053826	Acetobacterium	287.00	2.00	Fic domain protein, BT_4222 type
+PGF_02061452	Acetobacterium	373.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02080589	Acetobacterium	225.50	1.91	Predicted regulator PutR for proline utilization, GntR family
+PGF_02109968	Acetobacterium	334.50	1.00	Flagellar motor switch protein FliG
+PGF_02154745	Acetobacterium	1420.50	3.32	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02185217	Acetobacterium	411.75	1.50	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Acetobacterium	355.25	0.50	Flagellar biosynthesis protein FlhB
+PGF_02204321	Acetobacterium	351.00	0.82	Twitching motility protein PilT
+PGF_02224568	Acetobacterium	418.00	0.00	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Acetobacterium	679.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02295498	Acetobacterium	102.00	0.00	Ferredoxin, 2Fe-2S
+PGF_02297251	Acetobacterium	222.00	0.00	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02346768	Acetobacterium	879.00	0.00	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Acetobacterium	395.00	0.00	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Acetobacterium	165.00	2.71	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02405545	Acetobacterium	293.00	0.00	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02420191	Acetobacterium	466.00	0.00	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02450432	Acetobacterium	273.75	13.50	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Acetobacterium	88.00	0.00	SSU ribosomal protein S20p
+PGF_02462544	Acetobacterium	410.00	0.00	Arginine deiminase (EC 3.5.3.6)
+PGF_02463284	Acetobacterium	199.00	0.00	Recombination protein RecR
+PGF_02505498	Acetobacterium	354.50	0.58	Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)
+PGF_02516909	Acetobacterium	430.00	2.00	Enolase (EC 4.2.1.11)
+PGF_02522403	Acetobacterium	388.25	0.50	Pheromone shutdown protein
+PGF_02557763	Acetobacterium	173.00	0.00	Intracellular protease
+PGF_02593689	Acetobacterium	453.00	0.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601796	Acetobacterium	379.25	1.50	Ornithine cyclodeaminase (EC 4.3.1.12)
+PGF_02611620	Acetobacterium	451.00	0.00	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02614845	Acetobacterium	383.00	10.07	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+PGF_02617052	Acetobacterium	464.25	0.50	Transcriptional regulator of pyridoxine metabolism / Pyridoxamine phosphate aminotransferase (EC 2.6.1.54)
+PGF_02623406	Acetobacterium	302.00	0.00	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627816	Acetobacterium	216.25	1.89	FIG011945: O-methyltransferase family protein
+PGF_02635429	Acetobacterium	158.00	0.00	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02704551	Acetobacterium	1224.25	0.50	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02709485	Acetobacterium	585.00	0.00	EAL domain/GGDEF domain protein
+PGF_02728524	Acetobacterium	883.00	4.00	DNA mismatch repair protein MutS
+PGF_02745613	Acetobacterium	312.25	21.65	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02745651	Acetobacterium	347.00	1.41	[FeFe]-hydrogenase maturation protein HydE
+PGF_02746016	Acetobacterium	237.75	2.87	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02787188	Acetobacterium	89.00	0.00	ACT domain protein
+PGF_02787474	Acetobacterium	274.00	0.00	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02788582	Acetobacterium	789.00	0.00	Recombination inhibitory protein MutS2
+PGF_02789532	Acetobacterium	289.75	5.06	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Acetobacterium	184.00	0.00	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Acetobacterium	228.75	0.96	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Acetobacterium	465.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Acetobacterium	1221.00	1.83	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02817932	Acetobacterium	393.00	1.83	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02820109	Acetobacterium	186.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02844091	Acetobacterium	251.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Acetobacterium	405.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02877184	Acetobacterium	298.75	2.50	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883150	Acetobacterium	522.00	11.40	Regulator of polyketide synthase expression
+PGF_02883702	Acetobacterium	353.00	0.00	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02896943	Acetobacterium	398.50	1.00	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_02897665	Acetobacterium	384.75	3.10	Glycerate kinase (EC 2.7.1.31)
+PGF_02898096	Acetobacterium	492.50	1.91	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Acetobacterium	67.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02903300	Acetobacterium	164.00	0.00	Rubrerythrin-like protein DVU2318
+PGF_02904191	Acetobacterium	230.00	0.00	NifU-related domain containing protein
+PGF_02906681	Acetobacterium	712.50	1.00	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02910189	Acetobacterium	654.00	0.00	5,10-methylenetetrahydrofolate reductase, electron transport protein (EC 1.5.1.20)
+PGF_02923127	Acetobacterium	237.50	3.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02925417	Acetobacterium	444.00	1.83	hypothetical protein
+PGF_02936332	Acetobacterium	292.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02944116	Acetobacterium	657.25	1.50	K(+)-stimulated pyrophosphate-energized sodium pump
+PGF_02960761	Acetobacterium	306.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_02974382	Acetobacterium	279.00	0.00	S1 RNA binding domain
+PGF_02992495	Acetobacterium	75.50	0.58	Protein translocase membrane subunit SecG
+PGF_02993774	Acetobacterium	601.75	0.50	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_02995302	Acetobacterium	256.00	0.00	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_03000070	Acetobacterium	367.00	0.00	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03003601	Acetobacterium	67.00	2.00	hypothetical protein
+PGF_03012042	Acetobacterium	467.25	0.50	protein of unknown function DUF1214
+PGF_03013281	Acetobacterium	492.25	0.50	Bis-ABC ATPase CAC0528
+PGF_03017775	Acetobacterium	488.25	0.50	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Acetobacterium	207.75	3.95	Septum formation protein Maf
+PGF_03024838	Acetobacterium	420.75	2.22	UDP-glucose:sterol glucosyltransferase
+PGF_03025044	Acetobacterium	178.50	2.38	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03026450	Acetobacterium	1190.25	0.50	Chromosome partition protein smc
+PGF_03029062	Acetobacterium	302.00	2.00	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03029859	Acetobacterium	632.00	2.16	Bis-ABC ATPase Uup
+PGF_03054699	Acetobacterium	822.00	9.87	DNA translocase FtsK
+PGF_03060629	Acetobacterium	232.50	1.00	probable metal-dependent peptidase
+PGF_03065239	Acetobacterium	281.00	0.00	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+PGF_03066520	Acetobacterium	414.75	3.77	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03072285	Acetobacterium	320.25	0.50	ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_03073470	Acetobacterium	554.00	0.00	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03079263	Acetobacterium	122.75	0.96	hypothetical protein
+PGF_03095069	Acetobacterium	309.75	2.50	COG1242: Predicted Fe-S oxidoreductase
+PGF_03114455	Acetobacterium	309.25	8.50	Esterase/lipase/thioesterase
+PGF_03117711	Acetobacterium	191.75	1.50	Hydrolase (HAD superfamily), YqeK
+PGF_03122603	Acetobacterium	511.25	4.99	Putative novel glycerol kinase, FGGY family
+PGF_03122609	Acetobacterium	408.25	0.96	Uncharacterized protease large subunit YrrO
+PGF_03124650	Acetobacterium	490.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03131015	Acetobacterium	264.00	0.00	Membrane-associated zinc metalloprotease
+PGF_03132336	Acetobacterium	431.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03174068	Acetobacterium	178.00	0.00	Transcription antitermination protein NusG
+PGF_03181524	Acetobacterium	297.00	0.00	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_03198846	Acetobacterium	465.00	0.00	Capsular polysaccharide biosynthesis protein
+PGF_03233104	Acetobacterium	95.00	0.00	Protein of unknown function DUF77
+PGF_03248351	Acetobacterium	190.25	0.50	response regulator receiver and ANTAR domain protein
+PGF_03250623	Acetobacterium	368.00	158.68	Uncharacterized MFS-type transporter
+PGF_03268078	Acetobacterium	636.50	1.73	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03272313	Acetobacterium	833.75	1.71	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03287477	Acetobacterium	206.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03362160	Acetobacterium	337.50	10.97	Ca(2+)/H(+) antiporter
+PGF_03429638	Acetobacterium	294.25	2.06	33 kDa chaperonin HslO
+PGF_03439690	Acetobacterium	151.75	0.50	Ferric uptake regulation protein FUR
+PGF_03440088	Acetobacterium	298.00	0.00	hypothetical protein
+PGF_03456533	Acetobacterium	375.00	0.00	Efflux ABC transporter, permease protein
+PGF_03470321	Acetobacterium	152.00	0.00	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Acetobacterium	434.00	0.00	Flagellum-specific ATP synthase FliI
+PGF_03503521	Acetobacterium	306.00	5.35	Nickel transport system permease protein NikB (TC 3.A.1.5.3)
+PGF_03518570	Acetobacterium	160.00	3.56	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Acetobacterium	350.25	0.50	Cell division protein FtsZ
+PGF_03609651	Acetobacterium	648.25	0.96	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03675407	Acetobacterium	744.25	0.50	Efflux ABC transporter, permease/ATP-binding protein BLi02168
+PGF_03684283	Acetobacterium	412.50	0.58	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Acetobacterium	305.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Acetobacterium	200.75	2.06	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Acetobacterium	153.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03733480	Acetobacterium	160.25	0.50	dCMP deaminase (EC 3.5.4.12)
+PGF_03750571	Acetobacterium	451.00	0.00	Chromosomal replication initiator protein DnaA
+PGF_03750600	Acetobacterium	161.75	0.50	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Acetobacterium	190.50	6.95	Heat shock protein GrpE
+PGF_03751878	Acetobacterium	189.50	1.00	Substrate-specific component RibU of riboflavin ECF transporter
+PGF_03752280	Acetobacterium	472.00	0.00	[FeFe]-hydrogenase maturation protein HydG
+PGF_03752544	Acetobacterium	237.00	6.93	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Acetobacterium	325.50	3.11	Site-specific tyrosine recombinase XerC
+PGF_03757137	Acetobacterium	459.00	0.00	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03768091	Acetobacterium	397.00	6.58	Na+/H+ antiporter
+PGF_03778780	Acetobacterium	300.00	0.00	Signal recognition particle receptor FtsY
+PGF_03783620	Acetobacterium	158.25	2.50	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Acetobacterium	220.00	0.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03790089	Acetobacterium	378.00	0.00	Uncharacterized di-Fe4-S4 cluster-containing protein AF_1153
+PGF_03801201	Acetobacterium	271.00	1.63	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Acetobacterium	70.75	0.50	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811905	Acetobacterium	354.00	0.00	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03846068	Acetobacterium	283.25	1.26	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03862500	Acetobacterium	202.00	0.00	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03954476	Acetobacterium	254.00	0.00	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03969607	Acetobacterium	223.00	0.00	hypothetical protein
+PGF_03977347	Acetobacterium	282.75	0.50	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_04005838	Acetobacterium	417.25	0.50	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04016408	Acetobacterium	467.50	7.72	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04018703	Acetobacterium	269.00	0.00	Teichoic acid translocation permease protein TagG
+PGF_04036472	Acetobacterium	76.00	0.00	KH domain RNA binding protein YlqC
+PGF_04040516	Acetobacterium	452.25	0.50	hypothetical protein
+PGF_04041316	Acetobacterium	935.50	1.00	Excinuclease ABC subunit A
+PGF_04043839	Acetobacterium	510.50	10.21	hypothetical protein
+PGF_04091295	Acetobacterium	284.75	4.92	Flagellar motor rotation protein MotA
+PGF_04108824	Acetobacterium	802.00	0.00	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04150742	Acetobacterium	279.75	7.23	Zinc ABC transporter, permease protein ZnuB
+PGF_04163139	Acetobacterium	222.25	55.52	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Acetobacterium	229.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Acetobacterium	256.00	0.00	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04306800	Acetobacterium	371.00	0.00	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04345693	Acetobacterium	452.25	0.50	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Acetobacterium	836.00	0.00	Protein translocase subunit SecA
+PGF_04457297	Acetobacterium	191.25	0.50	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04481164	Acetobacterium	90.00	0.00	Veg protein
+PGF_04493258	Acetobacterium	397.75	1.50	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Acetobacterium	264.75	6.50	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Acetobacterium	457.75	1.50	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Acetobacterium	502.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04655384	Acetobacterium	306.00	5.03	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Acetobacterium	159.00	0.00	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Acetobacterium	638.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Acetobacterium	315.75	3.40	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Acetobacterium	734.25	2.99	Translation initiation factor 2
+PGF_04753854	Acetobacterium	247.50	2.38	hypothetical protein
+PGF_04788810	Acetobacterium	209.50	3.87	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Acetobacterium	319.50	3.70	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Acetobacterium	114.75	1.50	LSU ribosomal protein L19p
+PGF_04866046	Acetobacterium	685.00	2.00	Uncharacterized protein YyaL
+PGF_04882920	Acetobacterium	297.00	0.00	Fumarylacetoacetate hydrolase family protein
+PGF_04962192	Acetobacterium	717.25	14.50	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Acetobacterium	96.75	1.26	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Acetobacterium	105.00	0.00	LSU ribosomal protein L21p
+PGF_05022117	Acetobacterium	531.00	0.00	Bis-ABC ATPase YbiT
+PGF_05048110	Acetobacterium	259.00	0.00	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1)
+PGF_05111929	Acetobacterium	689.50	12.79	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Acetobacterium	815.75	25.50	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05195027	Acetobacterium	466.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05280843	Acetobacterium	427.50	11.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05282595	Acetobacterium	324.25	0.50	Hydroxymethylpyrimidine ABC transporter, substrate-binding component
+PGF_05299528	Acetobacterium	432.50	1.91	ATP-dependent RNA helicase RhlE
+PGF_05322683	Acetobacterium	881.75	2.22	Cation-transporting ATPase
+PGF_05383972	Acetobacterium	161.25	5.85	G:T/U mismatch-specific uracil/thymine DNA-glycosylase (EC 3.2.2.27)
+PGF_05421852	Acetobacterium	631.25	0.50	Chaperone protein HtpG
+PGF_05430307	Acetobacterium	387.75	15.17	O-acetyltransferase
+PGF_05439724	Acetobacterium	663.50	1.00	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Acetobacterium	289.75	0.50	NAD kinase (EC 2.7.1.23)
+PGF_05471821	Acetobacterium	776.00	0.00	ABC transporter, fused permease protein
+PGF_05504162	Acetobacterium	634.50	23.33	5'-nucleotidase (EC 3.1.3.5)
+PGF_05507938	Acetobacterium	685.25	36.93	DNA mismatch repair protein MutL
+PGF_05519582	Acetobacterium	407.75	6.50	NAD(FAD)-utilizing dehydrogenases
+PGF_05560886	Acetobacterium	287.25	1.50	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05579323	Acetobacterium	347.50	0.58	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Acetobacterium	419.00	0.00	Protein translocase subunit SecY
+PGF_05587835	Acetobacterium	250.00	0.00	Hydroxymethylpyrimidine ABC transporter, ATPase component
+PGF_05598173	Acetobacterium	372.00	0.00	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Acetobacterium	413.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05673695	Acetobacterium	216.75	1.89	hypothetical protein
+PGF_05925776	Acetobacterium	293.00	10.00	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Acetobacterium	421.50	1.00	Protein translocase subunit SecD
+PGF_06013190	Acetobacterium	232.00	0.00	Metal-dependent hydrolase
+PGF_06051345	Acetobacterium	985.75	10.18	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06115957	Acetobacterium	386.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Acetobacterium	1117.25	0.96	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06180597	Acetobacterium	145.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06211427	Acetobacterium	251.00	0.00	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06213055	Acetobacterium	252.00	0.00	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Acetobacterium	507.50	21.00	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Acetobacterium	94.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06287652	Acetobacterium	244.50	12.15	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06315406	Acetobacterium	423.50	3.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06326847	Acetobacterium	250.00	24.00	Flagellar biosynthesis protein FliP
+PGF_06362312	Acetobacterium	508.50	1.00	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06379377	Acetobacterium	442.25	1.26	Replication-associated recombination protein RarA
+PGF_06437335	Acetobacterium	213.75	20.50	ABC transporter-like sensor linked response regulator Cphy_3334
+PGF_06459503	Acetobacterium	639.50	1.73	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06461498	Acetobacterium	285.50	0.58	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06530721	Acetobacterium	218.00	1.41	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06535427	Acetobacterium	279.25	4.50	Uncharacterized DUF1113 membrane protein family
+PGF_06649360	Acetobacterium	209.25	12.84	Segregation and condensation protein B
+PGF_06693963	Acetobacterium	114.00	0.00	Nucleoid-associated protein YaaK
+PGF_06701488	Acetobacterium	209.00	0.00	RNA-binding protein Jag
+PGF_06755829	Acetobacterium	328.50	1.00	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06927367	Acetobacterium	274.00	0.00	Ethanolamine utilization protein EutJ
+PGF_06995288	Acetobacterium	240.50	0.58	hypothetical protein
+PGF_07068278	Acetobacterium	168.00	1.41	hypothetical protein
+PGF_07101513	Acetobacterium	369.00	7.07	Flagellar motor switch protein FliN
+PGF_07146095	Acetobacterium	151.00	2.00	Chemotaxis protein CheX
+PGF_07156929	Acetobacterium	319.50	6.40	hypothetical protein
+PGF_07285960	Acetobacterium	688.25	2.50	Modification methylase bstVI (EC 2.1.1.72)
+PGF_07308010	Acetobacterium	197.50	6.76	hypothetical protein
+PGF_07342841	Acetobacterium	250.00	0.00	hypothetical protein
+PGF_07363607	Acetobacterium	191.75	6.50	hypothetical protein
+PGF_07767359	Acetobacterium	60.00	0.00	SSU ribosomal protein S21p
+PGF_08035386	Acetobacterium	337.00	0.00	Flagellar motor switch protein FliM
+PGF_08035934	Acetobacterium	205.00	0.00	V-type ATP synthase subunit E (EC 3.6.3.14)
+PGF_08079989	Acetobacterium	215.50	2.38	Butyrate--acetoacetate CoA-transferase subunit B (EC 2.8.3.9)
+PGF_08098719	Acetobacterium	579.00	0.00	Lipid A export permease/ATP-binding protein MsbA
+PGF_08173832	Acetobacterium	667.00	12.33	hypothetical protein
+PGF_08183187	Acetobacterium	373.25	7.23	Cell division protein FtsW

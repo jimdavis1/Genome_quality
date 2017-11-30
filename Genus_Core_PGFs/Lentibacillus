@@ -1,0 +1,606 @@
+PGF_00000185	Lentibacillus	284.20	38.30	FIG006988: Lipase/Acylhydrolase with GDSL-like motif
+PGF_00000286	Lentibacillus	99.00	0.00	FIG007421: forespore shell protein
+PGF_00000336	Lentibacillus	68.20	14.20	Uncharacterized protein YmxH
+PGF_00000416	Lentibacillus	355.80	0.45	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001047	Lentibacillus	421.00	0.00	FIG009300: TPR-repeat-containing protein
+PGF_00002047	Lentibacillus	111.60	12.10	Uncharacterized protein YojF
+PGF_00002299	Lentibacillus	108.40	5.27	FIG012070: hypothetical protein
+PGF_00002359	Lentibacillus	143.00	0.00	UPF0403 protein YqiW
+PGF_00002361	Lentibacillus	162.80	1.30	Uncharacterized protein YlaL
+PGF_00002451	Lentibacillus	223.00	1.73	N-acetylglucosaminyl-L-malate N-acetyl hydrolase
+PGF_00003232	Lentibacillus	85.00	0.00	FIG059250: hypothetical protein
+PGF_00003485	Lentibacillus	258.80	24.40	Uncharacterized protein YabS
+PGF_00003516	Lentibacillus	370.20	0.84	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003812	Lentibacillus	582.00	0.00	Efflux ABC transporter, permease/ATP-binding protein YknU
+PGF_00004058	Lentibacillus	195.60	0.89	Fatty acid metabolism regulator protein FadR, TetR family
+PGF_00005241	Lentibacillus	339.40	145.57	ABC transporter, permease protein EscB
+PGF_00006245	Lentibacillus	556.20	0.45	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006461	Lentibacillus	461.00	0.00	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006931	Lentibacillus	327.00	0.00	GMP reductase (EC 1.7.1.7)
+PGF_00007007	Lentibacillus	202.60	3.58	GTP pyrophosphokinase (EC 2.7.6.5)
+PGF_00007026	Lentibacillus	193.20	0.45	GTP-binding protein EngB
+PGF_00007028	Lentibacillus	411.00	0.00	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007304	Lentibacillus	292.60	1.52	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007479	Lentibacillus	124.00	9.51	General stress protein 13
+PGF_00007560	Lentibacillus	369.60	3.91	Germination (Cortex hydrolysis) and sporulation protein GerM
+PGF_00007632	Lentibacillus	316.60	21.02	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Lentibacillus	435.80	27.88	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Lentibacillus	420.20	62.16	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008192	Lentibacillus	331.00	0.00	Glutaminase (EC 3.5.1.2)
+PGF_00008269	Lentibacillus	199.40	0.55	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008293	Lentibacillus	219.20	0.45	Glutamine ABC transporter, permease protein GlnP
+PGF_00008329	Lentibacillus	343.60	23.26	Glutamyl aminopeptidase (EC 3.4.11.7); Deblocking aminopeptidase
+PGF_00008611	Lentibacillus	345.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00009500	Lentibacillus	178.40	17.11	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Lentibacillus	292.80	0.84	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010205	Lentibacillus	249.40	5.27	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Lentibacillus	202.40	3.58	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Lentibacillus	310.40	0.89	HPr kinase/phosphorylase
+PGF_00011536	Lentibacillus	222.40	62.62	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
+PGF_00011541	Lentibacillus	323.00	0.00	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011792	Lentibacillus	99.40	0.55	His repressor
+PGF_00011953	Lentibacillus	141.00	0.00	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00012264	Lentibacillus	333.20	0.45	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Lentibacillus	410.20	55.45	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Lentibacillus	283.80	34.59	Homoserine kinase (EC 2.7.1.39)
+PGF_00012652	Lentibacillus	171.00	0.00	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00012930	Lentibacillus	387.60	8.96	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+PGF_00013244	Lentibacillus	182.20	1.64	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Lentibacillus	224.40	1.95	UPF0001 protein YggS
+PGF_00013347	Lentibacillus	89.00	0.00	UPF0297 protein YrzL
+PGF_00013492	Lentibacillus	180.80	1.10	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013803	Lentibacillus	194.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Lentibacillus	265.40	1.34	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014183	Lentibacillus	246.60	59.04	Inner membrane protein YihY, formerly thought to be RNase BN
+PGF_00014264	Lentibacillus	254.60	2.61	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014311	Lentibacillus	488.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Lentibacillus	240.00	0.00	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Lentibacillus	68.20	0.45	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Lentibacillus	289.20	1.10	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015517	Lentibacillus	436.00	0.00	Iron-sulfur cluster assembly protein SufD
+PGF_00015686	Lentibacillus	397.60	145.14	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015701	Lentibacillus	423.60	0.55	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015736	Lentibacillus	563.20	9.07	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Lentibacillus	348.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015972	Lentibacillus	182.20	13.86	L-2,4-diaminobutyric acid acetyltransferase (EC 2.3.1.178)
+PGF_00016014	Lentibacillus	314.20	24.01	L-alanyl-gamma-D-glutamyl-L-diamino acid endopeptidase
+PGF_00016082	Lentibacillus	418.80	101.07	L-cystine uptake protein TcyP, sodium:anion symporter family
+PGF_00016083	Lentibacillus	113.00	33.54	L-ectoine synthase (EC 4.2.1.108)
+PGF_00016257	Lentibacillus	292.60	40.59	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016340	Lentibacillus	114.00	17.89	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Lentibacillus	141.60	9.84	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Lentibacillus	144.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Lentibacillus	117.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Lentibacillus	120.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Lentibacillus	231.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016368	Lentibacillus	113.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Lentibacillus	95.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Lentibacillus	103.80	1.79	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Lentibacillus	96.60	1.34	LSU ribosomal protein L27p
+PGF_00016395	Lentibacillus	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Lentibacillus	57.80	0.45	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016416	Lentibacillus	45.60	7.60	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Lentibacillus	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Lentibacillus	37.60	0.55	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Lentibacillus	209.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016443	Lentibacillus	179.40	0.55	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Lentibacillus	178.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Lentibacillus	121.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016739	Lentibacillus	302.00	60.97	Late competence protein ComGA, access of DNA to ComEA
+PGF_00017227	Lentibacillus	592.80	18.91	ATP-dependent DNA ligase (EC 6.5.1.1) clustered with Ku protein, LigD
+PGF_00017468	Lentibacillus	615.60	79.19	Lipoteichoic acid synthase LtaS Type IIIa
+PGF_00017478	Lentibacillus	639.80	70.02	Lipoteichoic acid synthase LtaS Type Ib
+PGF_00017608	Lentibacillus	170.00	0.00	Low temperature requirement C protein
+PGF_00018655	Lentibacillus	346.40	90.81	Major facilitator family transporter YdhL
+PGF_00018944	Lentibacillus	77.40	7.60	Major transcriptional regulator of spore coat formation GerE
+PGF_00019248	Lentibacillus	307.80	2.86	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019389	Lentibacillus	166.20	18.90	MaoC like domain protein
+PGF_00019427	Lentibacillus	105.00	15.10	MazG nucleotide pyrophosphohydrolase
+PGF_00019428	Lentibacillus	181.60	0.55	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019593	Lentibacillus	284.40	1.67	Membrane protease family protein BA0301
+PGF_00020272	Lentibacillus	220.60	84.19	Menaquinone-cytochrome C oxidoreductase, cytochrome C subunit
+PGF_00020273	Lentibacillus	171.00	0.00	Menaquinone-cytochrome C reductase iron-sulfur subunit
+PGF_00020361	Lentibacillus	154.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020385	Lentibacillus	235.40	20.95	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020742	Lentibacillus	396.40	4.83	Methionine gamma-lyase (EC 4.4.1.11)
+PGF_00020981	Lentibacillus	497.80	25.04	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020996	Lentibacillus	135.80	8.29	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021390	Lentibacillus	232.20	1.30	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00022467	Lentibacillus	171.00	2.24	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00024273	Lentibacillus	163.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Lentibacillus	369.40	3.58	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Lentibacillus	247.60	1.52	NAD synthetase (EC 6.3.1.5)
+PGF_00024482	Lentibacillus	233.40	0.55	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024855	Lentibacillus	164.00	1.22	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025379	Lentibacillus	272.00	0.00	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025410	Lentibacillus	205.40	54.46	Negative regulator of genetic competence MecA
+PGF_00025413	Lentibacillus	181.60	54.69	Negative regulator of genetic competence MecA
+PGF_00026362	Lentibacillus	185.80	26.80	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026402	Lentibacillus	396.00	0.00	Nucleoside permease NupC
+PGF_00026615	Lentibacillus	254.40	14.83	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026864	Lentibacillus	265.20	39.80	Octanoyl-[GcvH]:protein N-octanoyltransferase (EC 2.3.1.204)
+PGF_00027563	Lentibacillus	95.20	0.45	Ortholog of S. aureus MRSA252 (BX571856) SAR1694
+PGF_00027684	Lentibacillus	217.20	0.45	Acetyltransferase AcuA, acetyl-CoA synthetase inhibitor
+PGF_00028472	Lentibacillus	188.00	0.00	Outer spore coat protein CotE
+PGF_00030640	Lentibacillus	356.00	0.00	Peptide chain release factor 1
+PGF_00031568	Lentibacillus	161.20	22.59	Peroxide stress regulator PerR, FUR family
+PGF_00033197	Lentibacillus	316.40	12.52	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033253	Lentibacillus	290.20	6.02	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Lentibacillus	333.60	0.55	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033411	Lentibacillus	267.20	1.64	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Lentibacillus	554.80	37.51	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033877	Lentibacillus	160.20	1.79	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033932	Lentibacillus	525.60	0.55	Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases, YtcI homolog
+PGF_00033941	Lentibacillus	206.20	11.63	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Lentibacillus	236.20	0.45	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033959	Lentibacillus	227.00	0.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Lentibacillus	181.40	16.44	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00036527	Lentibacillus	455.80	2.49	Predicted tyrosine transporter, NhaC family
+PGF_00036580	Lentibacillus	88.80	1.48	Protein translocase subunit YajC
+PGF_00037334	Lentibacillus	282.40	44.22	Serine/threonine-protein kinase YabT (EC 2.7.11.1)
+PGF_00037481	Lentibacillus	90.20	10.18	Programmed cell death antitoxin YdcD
+PGF_00038612	Lentibacillus	110.00	0.00	Protein secretion chaperonin CsaA
+PGF_00038989	Lentibacillus	273.80	1.10	Purine nucleoside phosphorylase (EC 2.4.2.1) @ N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1)
+PGF_00039710	Lentibacillus	261.00	2.24	Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00039842	Lentibacillus	251.00	13.19	Putative acetyl esterase YjcH (EC 3.1.1.-)
+PGF_00039997	Lentibacillus	174.20	3.19	Putative acetyltransferase YvoF
+PGF_00040334	Lentibacillus	220.80	22.25	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PGF_00040464	Lentibacillus	379.20	0.45	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040578	Lentibacillus	257.20	0.84	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Lentibacillus	128.00	0.00	Alkaline shock protein
+PGF_00041788	Lentibacillus	143.20	0.45	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042167	Lentibacillus	154.00	2.74	Putative metallopeptidase (Zinc) SprT family
+PGF_00042913	Lentibacillus	272.80	41.87	Sporulation-specific protease YabG
+PGF_00043051	Lentibacillus	230.20	0.45	Putative periplasmic protein
+PGF_00045788	Lentibacillus	294.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Lentibacillus	425.20	23.18	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045994	Lentibacillus	586.00	0.00	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00046199	Lentibacillus	126.80	1.30	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046280	Lentibacillus	234.20	19.12	RNA polymerase heat shock sigma factor SigI
+PGF_00046551	Lentibacillus	239.00	0.00	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046555	Lentibacillus	217.60	1.34	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Lentibacillus	74.00	0.00	RNA-binding protein Hfq
+PGF_00047078	Lentibacillus	347.00	1.41	RecA protein
+PGF_00048480	Lentibacillus	205.60	8.20	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048557	Lentibacillus	298.80	23.37	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048564	Lentibacillus	557.80	6.26	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PGF_00048566	Lentibacillus	190.20	2.68	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048782	Lentibacillus	367.40	112.70	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048868	Lentibacillus	230.20	21.94	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048926	Lentibacillus	185.20	0.45	Ribosome recycling factor
+PGF_00048928	Lentibacillus	250.20	95.70	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Lentibacillus	85.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Lentibacillus	113.00	0.00	Ribosome-binding factor A
+PGF_00049362	Lentibacillus	341.80	0.45	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049837	Lentibacillus	132.60	5.81	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Lentibacillus	129.40	22.59	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Lentibacillus	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Lentibacillus	95.80	15.21	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Lentibacillus	80.40	16.99	SSU ribosomal protein S16p
+PGF_00049854	Lentibacillus	87.20	0.45	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Lentibacillus	75.80	0.45	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Lentibacillus	89.00	6.71	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Lentibacillus	213.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Lentibacillus	207.60	16.44	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Lentibacillus	167.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Lentibacillus	96.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Lentibacillus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Lentibacillus	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Lentibacillus	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Lentibacillus	271.40	48.43	Segregation and condensation protein A
+PGF_00050368	Lentibacillus	288.40	124.33	Selenophosphate-dependent tRNA 2-selenouridine synthase
+PGF_00050712	Lentibacillus	361.40	45.01	Sensor protein DegS
+PGF_00051226	Lentibacillus	334.00	7.97	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051525	Lentibacillus	409.60	33.88	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052218	Lentibacillus	105.60	1.34	Signal recognition particle associated protein
+PGF_00052705	Lentibacillus	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052779	Lentibacillus	97.40	28.74	SinR, regulator of post-exponential-phase responses genes (competence and sporulation)
+PGF_00052943	Lentibacillus	294.80	5.50	Site-specific tyrosine recombinase XerD
+PGF_00053035	Lentibacillus	53.80	3.27	Small acid-soluble spore protein
+PGF_00053877	Lentibacillus	284.60	4.16	Spore cortex-lytic enzyme, lytic transglycosylase SleB
+PGF_00053878	Lentibacillus	346.00	43.61	Spore germination endopeptidase Gpr (EC 3.4.24.78)
+PGF_00053894	Lentibacillus	184.40	24.84	Spore maturation protein A
+PGF_00053897	Lentibacillus	165.20	24.15	Spore maturation protein B
+PGF_00053909	Lentibacillus	189.00	6.89	Spore protein GerW (YtfJ), not involved in spore germination
+PGF_00053991	Lentibacillus	266.80	18.34	Stage 0 sporulation protein YaaT
+PGF_00054034	Lentibacillus	192.40	15.84	Stage II sporulation protein required for processing of pro-sigma-E (SpoIIR)
+PGF_00054046	Lentibacillus	68.20	0.45	Stage III sporulation protein AC
+PGF_00054049	Lentibacillus	130.00	0.00	Stage III sporulation protein AD
+PGF_00054051	Lentibacillus	384.40	25.39	Stage III sporulation protein AE
+PGF_00054075	Lentibacillus	94.20	0.45	Stage III sporulation protein D
+PGF_00054093	Lentibacillus	202.60	3.29	Stage V sporulation protein AA (SpoVAA)
+PGF_00054096	Lentibacillus	138.80	5.22	Stage V sporulation protein AB (SpoVAB)
+PGF_00054097	Lentibacillus	161.00	4.47	Stage V sporulation protein AC (SpoVAC)
+PGF_00054100	Lentibacillus	116.00	0.00	Stage V sporulation protein AE1 (SpoVAE1)
+PGF_00054104	Lentibacillus	440.20	100.18	Stage V sporulation protein AF paralog
+PGF_00054106	Lentibacillus	483.20	75.58	Stage V sporulation protein B
+PGF_00054116	Lentibacillus	177.80	0.45	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+PGF_00054118	Lentibacillus	86.00	0.00	Spore core dehydratation and coat assembly protein SpoVS
+PGF_00054134	Lentibacillus	303.20	6.91	Stage V sporulation protein SpoVK
+PGF_00055274	Lentibacillus	333.40	11.84	Superoxide dismutase [Fe] (EC 1.15.1.1) @ Exosporium SOD
+PGF_00056634	Lentibacillus	165.80	0.45	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056662	Lentibacillus	313.20	62.16	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056802	Lentibacillus	109.20	7.16	Thioredoxin-like protein YdbP
+PGF_00056872	Lentibacillus	207.00	0.71	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Lentibacillus	214.40	6.43	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Lentibacillus	303.00	33.54	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057019	Lentibacillus	133.40	0.89	Anti-sigma B factor RsbT
+PGF_00057127	Lentibacillus	144.60	0.89	Anti-sigma F factor (EC 2.7.11.1)
+PGF_00057198	Lentibacillus	117.00	0.00	Anti-sigma F factor antagonist
+PGF_00057399	Lentibacillus	210.60	5.37	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Lentibacillus	141.40	14.76	Transamidase GatB domain protein
+PGF_00057429	Lentibacillus	68.80	1.10	Transcription attenuation protein MtrB
+PGF_00057440	Lentibacillus	195.80	2.68	Transcription factor FapR
+PGF_00057451	Lentibacillus	111.20	0.45	Transcription regulator CDS_ID OB0894
+PGF_00057483	Lentibacillus	425.80	0.45	Transcription termination factor Rho
+PGF_00057488	Lentibacillus	126.00	0.00	Transcription termination protein NusB
+PGF_00058501	Lentibacillus	686.80	4.44	Transcriptional regulator BkdR of isoleucine and valine catabolism operon
+PGF_00058523	Lentibacillus	225.80	9.96	Transcriptional regulator DegU, LuxR family
+PGF_00058741	Lentibacillus	241.00	0.00	Transcriptional regulator in cluster with Zn-dependent hydrolase
+PGF_00058747	Lentibacillus	300.40	15.68	Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system
+PGF_00059178	Lentibacillus	230.20	0.45	Transcriptional regulator, Crp/Fnr family
+PGF_00060421	Lentibacillus	185.00	0.00	Translation elongation factor P
+PGF_00060427	Lentibacillus	290.40	8.05	Translation elongation factor Ts
+PGF_00060428	Lentibacillus	396.00	0.00	Translation elongation factor Tu
+PGF_00060431	Lentibacillus	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Lentibacillus	166.40	1.34	Translation initiation factor 3
+PGF_00060769	Lentibacillus	380.00	36.21	Uncharacterized MFS-type transporter YuxJ
+PGF_00062023	Lentibacillus	261.60	9.89	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00063974	Lentibacillus	308.80	1.48	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00064143	Lentibacillus	341.00	91.68	UDP-sulfoquinovose synthase (EC 3.13.1.1)
+PGF_00064359	Lentibacillus	149.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064587	Lentibacillus	154.60	15.98	Uncharacterized N-acetyltransferase BT9727_3663 (EC 2.3.1.-)
+PGF_00065372	Lentibacillus	110.40	23.70	Uncharacterized protein UPF0344
+PGF_00065377	Lentibacillus	306.40	24.29	Uncharacterized protein YaaC
+PGF_00065380	Lentibacillus	472.20	1.10	Uncharacterized protein YaaO
+PGF_00067173	Lentibacillus	141.80	0.45	YMCA protein
+PGF_00067378	Lentibacillus	236.20	41.59	Putative esterase YitV
+PGF_00067389	Lentibacillus	92.00	0.00	YlxP-like protein
+PGF_00067418	Lentibacillus	102.20	12.97	YuzD-like protein
+PGF_00068903	Lentibacillus	72.60	2.19	bacterial seryl-tRNA synthetase related
+PGF_00070244	Lentibacillus	323.40	65.65	BH0638 unknown conserved protein
+PGF_00070432	Lentibacillus	436.60	14.31	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070561	Lentibacillus	145.00	0.00	BH3430 unknown conserved protein
+PGF_00071231	Lentibacillus	254.00	2.74	Uncharacterized iron compound ABC uptake transporter, ATP-binding protein
+PGF_00071766	Lentibacillus	459.80	0.45	glycolate oxidase, subunit GlcD, putative
+PGF_00072452	Lentibacillus	168.40	11.97	Uncharacterized protein YwhD
+PGF_00074194	Lentibacillus	138.00	4.47	hypothetical protein
+PGF_00090925	Lentibacillus	364.40	32.66	hypothetical protein
+PGF_00100773	Lentibacillus	125.00	11.18	hypothetical protein
+PGF_00118588	Lentibacillus	202.60	45.09	Protease PrsW
+PGF_00127024	Lentibacillus	276.20	42.60	Cell division inhibitor Slr1223 (YfcH in EC), contains epimerase/dehydratase and DUF1731 domains
+PGF_00144272	Lentibacillus	143.00	45.86	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00192883	Lentibacillus	257.80	11.63	Uncharacterized protein YfkD
+PGF_00208666	Lentibacillus	152.60	7.60	hypothetical protein
+PGF_00213073	Lentibacillus	233.00	18.45	2-hydroxychromene-2-carboxylate isomerase/DsbA-like thioredoxin domain
+PGF_00214431	Lentibacillus	109.20	30.30	hypothetical protein
+PGF_00216599	Lentibacillus	99.40	10.29	Uncharacterized protein YtzB
+PGF_00219472	Lentibacillus	252.20	1.10	UPF0736 protein YjbA
+PGF_00246054	Lentibacillus	145.20	1.79	Uncharacterized protein YtoQ
+PGF_00247656	Lentibacillus	305.60	55.49	Putative membrane-bound acyltransferase YkrP
+PGF_00271745	Lentibacillus	80.20	0.45	Uncharacterized membrane protein YqgY
+PGF_00295226	Lentibacillus	336.60	85.35	Purine nucleoside ABC transporter, substrate-binding protein
+PGF_00309959	Lentibacillus	73.20	0.84	Small, acid-soluble spore protein I
+PGF_00340032	Lentibacillus	279.40	20.08	hypothetical protein
+PGF_00344258	Lentibacillus	295.80	12.62	Uncharacterized protein YkwD
+PGF_00346814	Lentibacillus	205.20	0.45	DUF1054 superfamily protein
+PGF_00347297	Lentibacillus	84.20	0.84	hypothetical protein
+PGF_00350921	Lentibacillus	315.40	29.70	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00393545	Lentibacillus	295.60	55.68	Uncharacterized sodium-dependent transporter YocS
+PGF_00402090	Lentibacillus	302.40	66.47	outer membrane lipoprotein receptor
+PGF_00404078	Lentibacillus	164.60	5.37	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404866	Lentibacillus	109.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00406529	Lentibacillus	479.60	141.77	2-oxoglutarate decarboxylase (EC 4.1.1.71)
+PGF_00406692	Lentibacillus	922.00	65.42	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408900	Lentibacillus	339.80	2.17	Uncharacterized protein YyaD
+PGF_00409415	Lentibacillus	257.20	59.93	UPF0750 membrane protein YvjA
+PGF_00412532	Lentibacillus	206.20	18.09	Transcriptional repressor CcpN, MarR family
+PGF_00413189	Lentibacillus	237.00	1.41	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Lentibacillus	157.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Lentibacillus	241.00	2.24	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Lentibacillus	235.60	29.42	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413351	Lentibacillus	146.80	15.67	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Lentibacillus	142.60	27.73	tmRNA-binding protein SmpB
+PGF_00413595	Lentibacillus	104.00	3.94	C-125 initiation factor IF-I, RNA polymerase alpha subunit and ribosomal proteins, partial and complete cds
+PGF_00414366	Lentibacillus	580.00	0.71	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414748	Lentibacillus	236.60	0.89	CAAX amino terminal protease family protein
+PGF_00414926	Lentibacillus	361.80	89.90	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Lentibacillus	356.80	42.93	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415436	Lentibacillus	406.20	0.45	glycoside hydrolase
+PGF_00415486	Lentibacillus	158.00	2.24	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415697	Lentibacillus	255.00	1.00	Uncharacterized NRDE family protein
+PGF_00416025	Lentibacillus	154.20	39.80	2H phosphoesterase superfamily protein Bsu1186 (yjcG)
+PGF_00416115	Lentibacillus	313.00	0.00	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Lentibacillus	533.20	1.30	CTP synthase (EC 6.3.4.2)
+PGF_00416525	Lentibacillus	179.80	10.18	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416674	Lentibacillus	401.40	4.98	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417093	Lentibacillus	99.80	0.45	Cell division protein GpsB, coordinates the switch between cylindrical and septal cell wall synthesis by re-localization of PBP1
+PGF_00417233	Lentibacillus	320.00	2.24	L-Ala--D-Glu endopeptidase
+PGF_00417577	Lentibacillus	150.60	15.39	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Lentibacillus	328.00	74.98	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417995	Lentibacillus	225.60	0.55	Chromosome replication initiation protein DnaD
+PGF_00419414	Lentibacillus	94.00	0.00	UPF0358 protein YlaN
+PGF_00419456	Lentibacillus	215.80	83.07	Conserved protein YqhG
+PGF_00419740	Lentibacillus	155.00	0.00	Transcriptional regulator CtsR
+PGF_00419913	Lentibacillus	167.00	2.74	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420087	Lentibacillus	175.00	0.00	Cysteinyl-tRNA synthetase related protein
+PGF_00420404	Lentibacillus	107.00	0.00	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420798	Lentibacillus	367.60	0.89	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421071	Lentibacillus	148.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Lentibacillus	479.00	34.11	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421498	Lentibacillus	378.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Lentibacillus	538.60	146.24	DNA primase (EC 2.7.7.-)
+PGF_00421807	Lentibacillus	112.00	5.05	DNA replication intiation control protein YabA
+PGF_00422061	Lentibacillus	90.00	0.00	DNA-binding protein HBsu
+PGF_00422085	Lentibacillus	96.00	0.00	DNA-binding protein SpoVG
+PGF_00422186	Lentibacillus	238.00	0.00	DNA-binding response regulator ResD
+PGF_00422530	Lentibacillus	119.00	0.00	DUF488 family protein SAV0238
+PGF_00422888	Lentibacillus	515.00	0.00	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422910	Lentibacillus	227.20	0.45	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxycytidine kinase (EC 2.7.1.74)
+PGF_00422924	Lentibacillus	204.00	54.11	Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00423086	Lentibacillus	423.40	4.72	Diaminobutyrate--2-oxoglutarate transaminase (EC 2.6.1.76)
+PGF_00423300	Lentibacillus	391.80	89.90	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423433	Lentibacillus	159.40	3.58	Dimeric dUTPase (EC 3.6.1.23)
+PGF_00423621	Lentibacillus	194.60	15.44	Dipicolinate synthase subunit B
+PGF_00424068	Lentibacillus	273.60	54.56	Ectoine hydroxylase (EC 1.17.-.-)
+PGF_00424074	Lentibacillus	256.20	0.45	Ectoine/hydroxyectoine ABC transporter ATP-binding protein, EhuA
+PGF_00424075	Lentibacillus	204.00	34.10	Ectoine/hydroxyectoine ABC transporter permease protein, EhuC
+PGF_00424236	Lentibacillus	141.00	0.00	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00425024	Lentibacillus	495.00	96.71	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Lentibacillus	237.60	70.21	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425679	Lentibacillus	191.40	41.59	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Lentibacillus	243.20	18.03	Probable transcriptional regulatory protein YebC
+PGF_00425729	Lentibacillus	422.40	12.03	FIG001621: Zinc protease
+PGF_00425787	Lentibacillus	226.00	0.00	FIG002379: metal-dependent hydrolase
+PGF_00425788	Lentibacillus	261.20	17.53	FIG002434: Uncharacterized protein YtpQ
+PGF_00425840	Lentibacillus	182.40	9.89	UPF0302 protein YpiB
+PGF_00425997	Lentibacillus	372.00	0.00	FIG004453: protein YceG like
+PGF_00426932	Lentibacillus	155.80	0.45	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Lentibacillus	283.60	1.34	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00464627	Lentibacillus	549.20	17.58	Sodium-dependent phosphate transporter
+PGF_00473519	Lentibacillus	202.80	0.45	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00482828	Lentibacillus	448.20	0.45	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00499795	Lentibacillus	107.20	6.83	Anti-sigma B factor antagonist RsbV
+PGF_00549302	Lentibacillus	484.80	1.10	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00596539	Lentibacillus	500.00	171.06	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00618776	Lentibacillus	356.00	1.73	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Lentibacillus	349.80	1.79	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00641077	Lentibacillus	108.80	0.45	FIG139598: Potential ribosomal protein
+PGF_00650532	Lentibacillus	331.00	7.28	UPF0365 protein YqfA
+PGF_00656741	Lentibacillus	124.00	1.87	Protein RibT
+PGF_00659107	Lentibacillus	293.40	54.48	cation efflux family protein
+PGF_00659194	Lentibacillus	204.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Lentibacillus	114.00	9.51	Ribosomal silencing factor RsfA
+PGF_00667256	Lentibacillus	251.60	17.53	Hypothetical NagD-like phosphatase
+PGF_00689473	Lentibacillus	359.60	11.41	Allergen V5/Tpx-1 related
+PGF_00727573	Lentibacillus	291.40	12.07	Transcriptional regulator, LysR family
+PGF_00735981	Lentibacillus	397.20	37.57	Fatty-acid peroxygenase (EC 1.11.2.4)
+PGF_00741059	Lentibacillus	298.60	65.75	Uncharacterized membrane protein YqjA
+PGF_00745704	Lentibacillus	320.40	63.95	hypothetical protein
+PGF_00748442	Lentibacillus	97.00	0.00	hypothetical protein
+PGF_00770779	Lentibacillus	102.40	36.58	Uncharacterized membrane protein YwcB
+PGF_00787375	Lentibacillus	184.40	0.89	hypothetical protein
+PGF_00788787	Lentibacillus	86.00	13.42	Transition state regulatory protein AbrB
+PGF_00797516	Lentibacillus	382.00	36.90	Siderophore transport protein
+PGF_00797662	Lentibacillus	144.80	9.39	CBS domain-containing protein YkuL
+PGF_00812300	Lentibacillus	381.00	7.07	hypothetical protein
+PGF_00812523	Lentibacillus	70.20	4.97	hypothetical protein
+PGF_00823711	Lentibacillus	211.80	21.91	Trp repressor binding protein
+PGF_00827693	Lentibacillus	581.60	34.83	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_00828128	Lentibacillus	361.00	0.00	Putative aminopeptidase YsdC
+PGF_00854027	Lentibacillus	387.00	68.86	Guanine-hypoxanthine permease
+PGF_00935308	Lentibacillus	234.00	25.16	FIG011178: rRNA methylase
+PGF_00939271	Lentibacillus	215.60	85.87	ABC transporter-like sensor ATP-binding protein YxdL
+PGF_00943546	Lentibacillus	238.20	48.75	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00950554	Lentibacillus	660.80	0.45	Excinuclease ABC subunit B
+PGF_00955412	Lentibacillus	253.20	3.03	Probable iron export permease protein FetB
+PGF_00957419	Lentibacillus	134.20	8.50	Putative pre-16S rRNA nuclease Yqg
+PGF_01008498	Lentibacillus	114.80	7.60	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008780	Lentibacillus	101.40	18.84	hypothetical protein
+PGF_01075683	Lentibacillus	116.00	25.73	Hemoglobin-like protein HbO
+PGF_01079016	Lentibacillus	260.40	41.59	Chromosome (plasmid) partitioning protein ParB
+PGF_01104399	Lentibacillus	293.00	80.27	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124268	Lentibacillus	177.40	41.59	RecU Holliday junction resolvase
+PGF_01126005	Lentibacillus	343.00	113.49	Rod shape-determining protein RodA
+PGF_01167921	Lentibacillus	157.80	0.45	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_01172485	Lentibacillus	422.00	8.94	Cell division protein FtsA
+PGF_01191170	Lentibacillus	160.40	0.89	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01223569	Lentibacillus	174.80	0.45	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Lentibacillus	194.00	54.80	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01276854	Lentibacillus	63.20	4.60	FIG001891: protein involved in chromosome partitioning
+PGF_01313688	Lentibacillus	443.80	16.65	Na+-driven multidrug efflux pump
+PGF_01350455	Lentibacillus	393.40	50.54	Putative UV-damage repair protein UvrX
+PGF_01364427	Lentibacillus	184.60	35.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01421534	Lentibacillus	212.00	2.24	LSU ribosomal protein L25p
+PGF_01423501	Lentibacillus	158.40	0.89	Transcription elongation factor GreA
+PGF_01442793	Lentibacillus	184.20	0.45	Putative manganese efflux pump MntP
+PGF_01444546	Lentibacillus	96.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01462542	Lentibacillus	145.20	18.51	CcdC protein
+PGF_01465362	Lentibacillus	141.00	7.58	Mn-dependent transcriptional regulator MntR
+PGF_01483918	Lentibacillus	275.80	0.45	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01513923	Lentibacillus	249.80	1.10	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01538186	Lentibacillus	115.40	6.99	Programmed cell death toxin YdcE
+PGF_01581893	Lentibacillus	387.40	43.14	Ferredoxin reductase
+PGF_01614738	Lentibacillus	80.20	1.79	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01667880	Lentibacillus	89.20	4.92	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668012	Lentibacillus	241.60	64.70	Sulfur carrier protein FdhD
+PGF_01674551	Lentibacillus	127.20	0.45	Glycine cleavage system H protein
+PGF_01675349	Lentibacillus	509.80	2.39	Purine nucleoside ABC transporter, ATP-binding protein
+PGF_01675591	Lentibacillus	279.60	4.51	Putative phosphatase YitU
+PGF_01682537	Lentibacillus	114.00	13.42	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01683258	Lentibacillus	210.60	81.39	DNA recombination and repair protein RecO
+PGF_01715955	Lentibacillus	179.20	10.78	Ribosomal-protein-L7p-serine acetyltransferase
+PGF_01719396	Lentibacillus	215.60	0.89	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Lentibacillus	216.40	4.28	Adenylate kinase (EC 2.7.4.3)
+PGF_01752285	Lentibacillus	169.00	0.00	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01756612	Lentibacillus	286.40	2.61	Uncharacterized metallophosphoesterase YkuE
+PGF_01797166	Lentibacillus	421.00	4.06	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01841446	Lentibacillus	450.20	72.35	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01853493	Lentibacillus	272.60	6.02	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01877133	Lentibacillus	422.00	1.41	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Lentibacillus	136.00	6.71	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01899098	Lentibacillus	139.60	1.34	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01899937	Lentibacillus	288.80	10.52	Rod shape-determining protein MreC
+PGF_01900753	Lentibacillus	341.80	54.11	Prephenate dehydrogenase (EC 1.3.1.12)
+PGF_01942824	Lentibacillus	376.60	12.52	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01960322	Lentibacillus	605.60	28.23	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01984533	Lentibacillus	88.00	0.00	UPF0296 protein YlzA
+PGF_02009924	Lentibacillus	337.20	98.50	UPF0118 membrane protein YubA
+PGF_02011760	Lentibacillus	282.80	68.87	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02015262	Lentibacillus	308.00	3.94	Helicase loader DnaI
+PGF_02029783	Lentibacillus	426.20	0.45	GTP-binding protein Obg
+PGF_02031924	Lentibacillus	234.00	0.00	Uncharacterized DUF554 membrane protein
+PGF_02031958	Lentibacillus	177.80	11.88	Possible colicin V production protein
+PGF_02049803	Lentibacillus	284.00	30.77	Extracellular protein
+PGF_02061452	Lentibacillus	379.20	0.45	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02162014	Lentibacillus	221.40	3.13	Uncharacterized membrane protein YhjE
+PGF_02166856	Lentibacillus	120.20	0.45	UPF0342 protein YheA
+PGF_02189378	Lentibacillus	372.80	24.49	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02246769	Lentibacillus	244.00	0.71	Ectoine/hydroxyectoine ABC transporter permease protein, EhuD
+PGF_02265871	Lentibacillus	167.80	1.10	Inosine/xanthosine triphosphatase (EC 3.6.1.-)
+PGF_02346669	Lentibacillus	319.80	0.45	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02357764	Lentibacillus	169.00	1.73	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02405545	Lentibacillus	282.80	57.47	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02475999	Lentibacillus	289.20	0.45	RsbT co-antagonist protein RsbRA
+PGF_02502423	Lentibacillus	172.40	34.44	Carnitine utilization associated thioesterase
+PGF_02512719	Lentibacillus	147.20	24.15	Na(+) H(+) antiporter subunit E
+PGF_02514958	Lentibacillus	275.80	59.83	putative periplasmic protein kinase ArgK and related GTPases of G3E family
+PGF_02516909	Lentibacillus	421.80	13.86	Enolase (EC 4.2.1.11)
+PGF_02578186	Lentibacillus	330.80	1.79	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02587605	Lentibacillus	130.20	13.59	Zinc uptake regulation protein Zur
+PGF_02611620	Lentibacillus	457.00	0.00	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02611878	Lentibacillus	95.00	0.00	Uncharacterized protein YtzH
+PGF_02611915	Lentibacillus	438.60	37.12	transcriptional activator
+PGF_02613069	Lentibacillus	224.60	40.03	Phosphatase YcsE
+PGF_02619921	Lentibacillus	327.60	86.43	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+PGF_02621120	Lentibacillus	126.80	31.75	GNAT family acetyltransferase YjcF
+PGF_02629766	Lentibacillus	306.20	1.10	Sporulation sigma-E factor processing peptidase (SpoIIGA)
+PGF_02643324	Lentibacillus	136.20	21.91	Uncharacterized protein YmaD
+PGF_02645954	Lentibacillus	91.00	0.00	UPF0298 protein YlbG
+PGF_02652319	Lentibacillus	190.00	3.08	UPF0340 protein YwlG
+PGF_02658569	Lentibacillus	141.80	1.92	hypothetical protein
+PGF_02713816	Lentibacillus	187.40	47.64	Uncharacterized protein YyaC
+PGF_02789532	Lentibacillus	270.00	32.76	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02818638	Lentibacillus	414.60	11.48	Hemolysins and related proteins containing CBS domains
+PGF_02830955	Lentibacillus	199.00	0.00	Transcriptional response regulator DesR, LuxR family
+PGF_02838109	Lentibacillus	168.00	9.54	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Lentibacillus	262.40	5.81	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Lentibacillus	419.00	2.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866413	Lentibacillus	240.20	26.39	Rhomboid family protein
+PGF_02883702	Lentibacillus	368.20	0.45	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02899131	Lentibacillus	66.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02899960	Lentibacillus	196.00	73.79	Efflux ABC transporter, ATP-binding protein
+PGF_02922746	Lentibacillus	183.00	26.83	Substrate-specific component CbrT of predicted cobalamin ECF transporter
+PGF_02923127	Lentibacillus	240.20	0.45	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931223	Lentibacillus	273.20	50.43	lysophospholipase-like family protein
+PGF_02944756	Lentibacillus	391.00	0.00	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Lentibacillus	376.60	0.55	SSU ribosomal protein S1p
+PGF_02948896	Lentibacillus	46.00	0.00	hypothetical protein
+PGF_02950579	Lentibacillus	265.20	0.45	Septum site-determining protein MinD
+PGF_02979098	Lentibacillus	150.20	4.15	alternate gene name: ipa-62r
+PGF_02992495	Lentibacillus	78.40	3.13	Protein translocase membrane subunit SecG
+PGF_02997723	Lentibacillus	149.00	0.00	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_02998943	Lentibacillus	176.00	0.71	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03017775	Lentibacillus	493.40	0.55	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03029859	Lentibacillus	613.20	26.40	Bis-ABC ATPase Uup
+PGF_03034879	Lentibacillus	238.00	70.95	Cell division protein FtsQ
+PGF_03056554	Lentibacillus	187.00	0.00	Uncharacterized protein SAV1929
+PGF_03058789	Lentibacillus	377.20	6.26	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03074700	Lentibacillus	107.20	1.30	Transcriptional repressor CzrA, ArsR family
+PGF_03076739	Lentibacillus	148.80	0.45	Uncharacterized transcriptional regulator YsmB, MarR family
+PGF_03117711	Lentibacillus	181.40	24.42	Hydrolase (HAD superfamily), YqeK
+PGF_03137636	Lentibacillus	983.00	0.00	Probable oxidoreductase YjgC
+PGF_03143682	Lentibacillus	248.40	74.02	Uncharacterized protein YhbB
+PGF_03145797	Lentibacillus	122.20	0.45	UPF0382 membrane protein YwdK
+PGF_03172904	Lentibacillus	274.00	15.46	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Lentibacillus	180.00	6.16	Transcription antitermination protein NusG
+PGF_03222913	Lentibacillus	129.40	3.58	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03257845	Lentibacillus	207.20	0.45	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03278866	Lentibacillus	62.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03281686	Lentibacillus	65.00	7.28	Uncharacterized protein YozC
+PGF_03439690	Lentibacillus	141.20	15.72	Ferric uptake regulation protein FUR
+PGF_03440867	Lentibacillus	129.60	12.07	UPF0047 protein Bsu YugU
+PGF_03456282	Lentibacillus	166.60	1.34	Uncharacterized protein YwgA
+PGF_03466304	Lentibacillus	272.40	26.55	Quorum-quenching lactonase YtnP
+PGF_03470321	Lentibacillus	174.00	1.00	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03514578	Lentibacillus	266.40	13.09	Beta-glucoside bgl operon antiterminator, BglG family
+PGF_03516820	Lentibacillus	286.40	1.14	Probable metallo-hydrolase YflN
+PGF_03574598	Lentibacillus	341.00	1.00	Lon-like protease with PDZ domain
+PGF_03719269	Lentibacillus	199.00	0.00	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Lentibacillus	137.60	34.44	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03739563	Lentibacillus	103.00	0.00	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03751658	Lentibacillus	77.80	4.15	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Lentibacillus	196.20	3.11	Heat shock protein GrpE
+PGF_03751878	Lentibacillus	197.20	2.68	Substrate-specific component RibU of riboflavin ECF transporter
+PGF_03752544	Lentibacillus	190.20	62.16	Phosphate transport system regulatory protein PhoU
+PGF_03753933	Lentibacillus	139.00	0.00	Iron-sulfur cluster regulator IscR
+PGF_03754184	Lentibacillus	112.00	0.00	Na(+) H(+) antiporter subunit C
+PGF_03755892	Lentibacillus	333.20	27.63	Fatty acid desaturase
+PGF_03782093	Lentibacillus	196.60	0.89	Putative membrane-spanning protein
+PGF_03787199	Lentibacillus	182.40	33.63	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03802330	Lentibacillus	177.20	52.12	Phenylalanyl-tRNA synthetase domain protein (Bsu YtpR)
+PGF_03804538	Lentibacillus	616.80	0.45	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03811905	Lentibacillus	351.60	19.92	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03846834	Lentibacillus	174.00	1.41	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03883965	Lentibacillus	81.60	6.39	UPF0291 protein YnzC
+PGF_03884489	Lentibacillus	213.40	17.78	hypothetical protein
+PGF_03885126	Lentibacillus	98.00	0.00	hypothetical protein
+PGF_03887528	Lentibacillus	228.00	15.03	UPF0702 transmembrane protein YdfR
+PGF_04034430	Lentibacillus	57.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Lentibacillus	75.00	0.00	KH domain RNA binding protein YlqC
+PGF_04045052	Lentibacillus	179.00	42.03	FIG009707: Betaine operon transcriptional regulator
+PGF_04047265	Lentibacillus	83.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04147121	Lentibacillus	498.00	0.00	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04150742	Lentibacillus	269.20	32.02	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Lentibacillus	170.00	0.00	16S rRNA processing protein RimM
+PGF_04213876	Lentibacillus	259.80	0.45	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04297012	Lentibacillus	305.80	82.32	Sporulation integral membrane protein YtvI
+PGF_04327282	Lentibacillus	272.60	0.55	Squalene synthase (EC 2.5.1.21)
+PGF_04345693	Lentibacillus	409.60	110.46	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04424114	Lentibacillus	390.00	0.00	L-lysine dehydrogenase
+PGF_04457297	Lentibacillus	175.20	56.22	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04481164	Lentibacillus	82.20	8.50	Veg protein
+PGF_04521913	Lentibacillus	454.80	1.79	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04588167	Lentibacillus	356.20	147.13	FIG002343: hypothetical protein
+PGF_04660832	Lentibacillus	151.80	27.28	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04679223	Lentibacillus	128.80	1.64	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04788810	Lentibacillus	184.80	1.79	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04815798	Lentibacillus	293.60	61.83	Mevalonate kinase (EC 2.7.1.36)
+PGF_04845029	Lentibacillus	114.00	0.00	LSU ribosomal protein L19p
+PGF_04874118	Lentibacillus	293.00	22.49	Cytochrome c oxidase caa3-type assembly factor CtaG_BS (unrelated to Cox11-CtaG family)
+PGF_04973327	Lentibacillus	649.20	175.11	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Penicillin-binding protein 2B
+PGF_04978890	Lentibacillus	102.00	0.00	LSU ribosomal protein L21p
+PGF_05195027	Lentibacillus	467.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05363645	Lentibacillus	131.80	27.84	DNA protection during starvation protein
+PGF_05463076	Lentibacillus	458.00	22.92	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05560886	Lentibacillus	300.40	43.38	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05587835	Lentibacillus	237.40	69.55	Hydroxymethylpyrimidine ABC transporter, ATPase component
+PGF_05714136	Lentibacillus	121.20	3.90	FIG138056: a glutathione-dependent thiol reductase
+PGF_05925776	Lentibacillus	290.60	10.99	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_06016284	Lentibacillus	74.00	0.00	NifU-like domain protein
+PGF_06044157	Lentibacillus	273.00	3.74	hypothetical protein
+PGF_06103095	Lentibacillus	93.80	23.59	Catabolite repression HPr-like protein Crh
+PGF_06195014	Lentibacillus	166.20	44.27	Putative nitroreductase family protein SACOL0874
+PGF_06254345	Lentibacillus	93.80	0.45	Heat shock protein 60 family co-chaperone GroES
+PGF_06364262	Lentibacillus	234.00	0.00	Two-component response regulator SA14-24
+PGF_06379377	Lentibacillus	429.40	6.66	Replication-associated recombination protein RarA
+PGF_06459503	Lentibacillus	597.80	175.50	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06469881	Lentibacillus	290.80	80.53	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06489667	Lentibacillus	443.80	66.98	Integral membrane protein
+PGF_06533121	Lentibacillus	367.40	52.79	Stage II sporulation protein P
+PGF_06646920	Lentibacillus	205.60	14.76	Short-chain dehydrogenase
+PGF_06648993	Lentibacillus	78.20	0.45	Acyl carrier protein
+PGF_06660812	Lentibacillus	193.60	0.89	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06690276	Lentibacillus	244.00	2.24	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Lentibacillus	105.00	0.71	Nucleoid-associated protein YaaK
+PGF_06755829	Lentibacillus	320.60	18.78	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06922430	Lentibacillus	301.80	50.26	TPR repeat protein
+PGF_07072582	Lentibacillus	373.40	0.55	RNA polymerase sigma factor RpoD
+PGF_07156369	Lentibacillus	140.80	0.84	hypothetical protein
+PGF_07303575	Lentibacillus	237.20	35.91	hypothetical protein
+PGF_07426744	Lentibacillus	248.00	0.00	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_07450087	Lentibacillus	117.60	19.92	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_08082398	Lentibacillus	321.20	21.91	Protease IV
+PGF_08133003	Lentibacillus	388.40	0.55	NAD-independent protein deacetylase AcuC
+PGF_08198389	Lentibacillus	157.60	1.95	hypothetical protein
+PGF_08199027	Lentibacillus	493.80	3.19	Inner membrane protein YqiK

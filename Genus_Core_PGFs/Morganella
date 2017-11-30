@@ -1,0 +1,1033 @@
+PGF_00002132	Morganella	71.31	3.71	UPF0270 protein YheU
+PGF_00002144	Morganella	175.30	22.17	Cell division protein ZapC
+PGF_00002672	Morganella	479.62	86.44	ATPase RavA
+PGF_00003306	Morganella	247.38	58.93	Iron compound ABC transporter, ATP-binding protein
+PGF_00003416	Morganella	204.97	40.90	FIG094199: Fumarylacetoacetate hydrolase
+PGF_00003528	Morganella	170.63	35.57	UPF0307 protein YjgA
+PGF_00003746	Morganella	249.79	19.37	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+PGF_00003749	Morganella	134.77	26.35	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003791	Morganella	193.10	29.71	FMN-dependent NADH-azoreductase (EC 1.7.1.6)
+PGF_00004231	Morganella	337.97	97.55	Inner membrane transport permease YhhJ
+PGF_00005331	Morganella	210.34	33.04	Flagellar basal-body P-ring formation protein FlgA
+PGF_00005402	Morganella	88.23	4.31	Flagellar biosynthesis protein FliQ
+PGF_00005921	Morganella	171.97	3.88	Flavodoxin 2
+PGF_00005948	Morganella	140.93	19.42	Flavoprotein MioC
+PGF_00006100	Morganella	303.23	66.18	tRNA-modifying protein YgfZ
+PGF_00006133	Morganella	281.10	48.78	Formate dehydrogenase N beta subunit (EC 1.2.1.2)
+PGF_00006186	Morganella	280.79	16.51	Formate efflux transporter (TC 2.A.44 family)
+PGF_00006253	Morganella	450.10	33.13	Formerly called adenylosuccinate lyase (similar to archaeal version), but most likely something else
+PGF_00006320	Morganella	282.00	0.00	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006390	Morganella	327.00	67.70	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006447	Morganella	228.10	61.93	Fumarate and nitrate reduction regulatory protein
+PGF_00006449	Morganella	500.19	120.12	Fumarate hydratase class I (EC 4.2.1.2)
+PGF_00006461	Morganella	432.97	96.58	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006500	Morganella	130.07	0.37	Fumarate reductase subunit C
+PGF_00006501	Morganella	118.00	0.00	Fumarate reductase subunit D
+PGF_00006935	Morganella	495.23	100.42	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006955	Morganella	298.33	40.51	Uncharacterized GNAT family acetyltransferase YiiD
+PGF_00007012	Morganella	342.43	78.40	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Morganella	439.53	135.92	GTP-binding protein EngA
+PGF_00007057	Morganella	410.94	119.10	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Morganella	260.87	64.59	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Morganella	301.33	47.98	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007883	Morganella	322.90	22.72	Gluconate utilization system Gnt-I transcriptional repressor
+PGF_00007887	Morganella	177.00	25.84	Gluconokinase (EC 2.7.1.12)
+PGF_00007968	Morganella	392.10	75.29	Glucose-1-phosphatase (EC 3.1.3.10)
+PGF_00008051	Morganella	403.17	83.21	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008074	Morganella	209.29	45.49	Glutamate Aspartate transport system permease protein GltK (TC 3.A.1.3.4)
+PGF_00008164	Morganella	369.06	118.74	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008239	Morganella	245.31	29.10	Glutamine amidotransferase, class I
+PGF_00008258	Morganella	402.94	145.26	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Morganella	527.20	106.08	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Morganella	413.38	49.79	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Morganella	456.20	60.50	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008349	Morganella	87.00	0.00	Glutaredoxin 1
+PGF_00008469	Morganella	316.00	0.00	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008510	Morganella	237.70	38.50	16S rRNA (guanine(1516)-N(2))-methyltransferase (EC 2.1.1.242)
+PGF_00008537	Morganella	481.37	81.86	Glycerol kinase (EC 2.7.1.30)
+PGF_00008773	Morganella	854.13	263.10	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Morganella	196.47	31.78	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Morganella	189.37	39.27	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Morganella	286.86	45.48	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010169	Morganella	310.82	8.69	Glyoxylate reductase (EC 1.1.1.79) / Glyoxylate reductase (EC 1.1.1.26) / Hydroxypyruvate reductase (EC 1.1.1.81); 2-ketoaldonate reductase, broad specificity (EC 1.1.1.215) (EC 1.1.1.-)
+PGF_00011321	Morganella	285.97	31.83	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011729	Morganella	350.43	62.70	High-affinity leucine-specific transport system, periplasmic binding protein LivK (TC 3.A.1.4.1)
+PGF_00011979	Morganella	398.45	97.90	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012529	Morganella	160.24	11.77	Hydrogenase maturation protease HybD
+PGF_00012546	Morganella	292.16	51.33	Hydrogenase-4 component C
+PGF_00012557	Morganella	241.37	48.54	Hydrogenase-4 component I
+PGF_00012562	Morganella	140.28	14.23	Hydrogenase-4 maturation protease
+PGF_00012920	Morganella	493.47	139.18	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012970	Morganella	595.57	137.62	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00012972	Morganella	179.97	25.87	ADP compounds hydrolase NudE (EC 3.6.1.-)
+PGF_00013283	Morganella	226.38	30.27	UPF0001 protein YggS
+PGF_00014144	Morganella	538.13	122.93	Inner membrane protein YejM, alkaline phosphatase superfamily
+PGF_00014196	Morganella	222.24	31.63	Inner membrane protein YohK
+PGF_00014207	Morganella	134.93	10.95	Inner membrane protein YqjE
+PGF_00014208	Morganella	125.34	14.30	Inner membrane protein YqjF
+PGF_00014279	Morganella	101.00	0.00	Inner membrane protein yciS
+PGF_00014284	Morganella	401.50	116.57	Inner membrane transport protein YajR
+PGF_00014315	Morganella	416.33	60.36	Inosine-guanosine kinase (EC 2.7.1.73)
+PGF_00014728	Morganella	344.00	0.00	Integral membrane protein TerC
+PGF_00015039	Morganella	247.83	39.76	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Morganella	79.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Morganella	171.43	24.19	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Morganella	273.83	47.41	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Morganella	107.00	0.00	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015313	Morganella	119.69	20.00	ATP synthase protein I
+PGF_00015402	Morganella	348.03	57.43	Iron(III) dicitrate transport system permease protein FecD (TC 3.A.1.14.1)
+PGF_00015514	Morganella	459.58	99.05	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Morganella	432.97	6.33	Iron-sulfur cluster assembly protein SufD
+PGF_00015523	Morganella	125.38	14.11	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015735	Morganella	198.52	17.47	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00016118	Morganella	208.50	24.47	L-fuculose phosphate aldolase (EC 4.1.2.17)
+PGF_00016189	Morganella	310.53	66.21	Glycine betaine/L-proline transport substrate-binding protein ProX (TC 3.A.1.12.1)
+PGF_00016263	Morganella	275.47	40.09	L-threonine kinase in B12 biosynthesis (EC 2.7.1.177)
+PGF_00016266	Morganella	430.31	62.95	L-threonine transporter, anaerobically inducible
+PGF_00016328	Morganella	165.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Morganella	411.87	59.97	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016343	Morganella	134.69	7.06	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Morganella	114.69	23.82	LSU ribosomal protein L17p
+PGF_00016353	Morganella	116.38	3.34	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Morganella	227.17	24.82	LSU ribosomal protein L1p (L10Ae)
+PGF_00016361	Morganella	103.31	10.06	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016374	Morganella	98.79	6.31	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Morganella	104.59	3.16	LSU ribosomal protein L24p (L26e)
+PGF_00016393	Morganella	270.41	19.31	LSU ribosomal protein L2p (L8e)
+PGF_00016406	Morganella	55.52	2.60	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Morganella	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016425	Morganella	41.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016439	Morganella	159.97	51.38	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Morganella	169.41	35.94	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Morganella	174.21	13.76	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Morganella	121.28	1.49	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016546	Morganella	132.86	6.71	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016852	Morganella	202.33	30.76	Leucine efflux protein
+PGF_00016919	Morganella	227.24	34.06	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017054	Morganella	231.21	30.78	Lipid A 1-diphosphate synthase
+PGF_00017057	Morganella	201.00	0.00	Lipid A palmitoyltransferase PagP (EC 2.3.1.251)
+PGF_00017063	Morganella	307.37	61.21	Lipid A biosynthesis myristoyltransferase (EC 2.3.1.243)
+PGF_00017107	Morganella	287.28	38.57	Lipid kinase YegS
+PGF_00017109	Morganella	349.06	94.80	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017129	Morganella	202.29	51.24	Protein Smp
+PGF_00017190	Morganella	231.07	37.80	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017327	Morganella	188.31	17.54	Lipopolysaccharide export system protein LptC
+PGF_00017613	Morganella	452.77	101.31	Low-affinity inorganic phosphate transporter
+PGF_00017621	Morganella	426.93	81.40	ATP-dependent RNA helicase SrmB
+PGF_00017640	Morganella	172.10	22.59	Lipopolysaccharide export system protein LptA
+PGF_00017790	Morganella	313.34	8.91	LysR family transcriptional activator LeuO
+PGF_00017873	Morganella	292.40	56.87	LysR family transcriptional regulator YnfL
+PGF_00017923	Morganella	280.48	61.66	LysR-family transcriptional regulator YdhB
+PGF_00017925	Morganella	264.06	78.28	LysR-family transcriptional regulator YhaJ
+PGF_00018536	Morganella	640.78	162.47	ATP-dependent helicase DinG/Rad3
+PGF_00018552	Morganella	195.14	4.64	Maf-like protein YceF
+PGF_00018952	Morganella	289.73	61.06	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Morganella	398.35	110.85	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019272	Morganella	382.03	64.44	Mannonate dehydratase (EC 4.2.1.8)
+PGF_00019307	Morganella	362.63	77.26	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Morganella	161.83	27.78	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019480	Morganella	242.48	63.64	Membrane Protein Functionally coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00020171	Morganella	343.60	62.38	Membrane-bound lytic murein transglycosylase B (EC 3.2.1.-)
+PGF_00020172	Morganella	247.19	67.63	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020176	Morganella	347.90	72.12	Membrane-bound lytic murein transglycosylase C (EC 3.2.1.n1)
+PGF_00020190	Morganella	429.22	123.26	Membrane-bound lytic murein transglycosylase F (EC 4.2.2.n1)
+PGF_00020322	Morganella	214.00	0.00	Metal-binding protein ZinT
+PGF_00020361	Morganella	150.72	17.20	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020747	Morganella	104.52	2.10	Methionine repressor MetJ
+PGF_00020954	Morganella	390.07	84.10	Methylaspartate ammonia-lyase (EC 4.3.1.2)
+PGF_00020955	Morganella	451.67	91.71	Methylaspartate mutase, E subunit (EC 5.4.99.1)
+PGF_00020984	Morganella	278.23	42.39	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020993	Morganella	262.97	38.35	Methylglyoxal reductase, dihydroxyacetone producing @ 2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming) (EC 1.1.1.274)
+PGF_00020996	Morganella	147.43	20.31	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021036	Morganella	326.87	100.14	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021390	Morganella	227.79	17.27	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00021496	Morganella	368.94	88.67	Mlc, transcriptional repressor of MalT (the transcriptional activator of maltose regulon) and manXYZ operon
+PGF_00022453	Morganella	140.48	8.17	Molybdate-binding domain of ModE
+PGF_00022503	Morganella	278.28	11.52	Molybdenum transport system protein ModD
+PGF_00022507	Morganella	188.03	27.42	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Morganella	81.00	0.00	Molybdopterin synthase sulfur carrier subunit
+PGF_00022577	Morganella	367.25	2.78	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00022605	Morganella	207.00	55.90	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022781	Morganella	325.23	109.11	ATPase, AFG1 family
+PGF_00022998	Morganella	361.03	80.71	Efflux ABC transporter, permease protein
+PGF_00023011	Morganella	359.62	28.97	ABC-type efflux pump permease component YbhR
+PGF_00023162	Morganella	365.50	56.03	Multidrug resistance protein EmrD
+PGF_00023403	Morganella	414.61	104.90	Murein DD-endopeptidase MepM
+PGF_00023404	Morganella	184.00	0.00	Murein DD-endopeptidase MepS @ Murein LD-carboxypeptidase (EC 3.4.17.13)
+PGF_00023476	Morganella	128.21	12.98	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Morganella	315.23	65.45	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023715	Morganella	262.12	83.70	N-acetyl-D-glucosamine kinase (EC 2.7.1.59)
+PGF_00023739	Morganella	318.00	58.56	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023818	Morganella	419.47	72.34	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00024234	Morganella	353.33	58.01	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024309	Morganella	497.13	114.87	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024367	Morganella	425.59	125.72	Acetaldehyde dehydrogenase (EC 1.2.1.10) @ Acetaldehyde dehydrogenase (EC 1.2.1.10), ethanolamine utilization cluster
+PGF_00024478	Morganella	322.28	46.98	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024480	Morganella	527.17	118.12	NAD-dependent malic enzyme (EC 1.1.1.38)
+PGF_00024482	Morganella	277.93	43.85	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024540	Morganella	412.13	78.52	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024567	Morganella	392.10	42.52	Acetate kinase (EC 2.7.2.1)
+PGF_00024608	Morganella	329.59	22.96	NADH oxidoreductase for hydroxylamine reductase
+PGF_00024615	Morganella	246.13	44.11	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024685	Morganella	558.73	127.27	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Morganella	173.34	24.70	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024720	Morganella	438.97	61.67	Acetoacetate metabolism regulatory protein AtoC
+PGF_00024735	Morganella	93.41	17.44	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Morganella	445.03	137.57	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Morganella	476.00	38.31	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024831	Morganella	420.43	79.45	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024855	Morganella	284.66	9.53	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025185	Morganella	395.72	67.24	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.8)
+PGF_00025187	Morganella	253.07	16.70	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.8)
+PGF_00025190	Morganella	405.24	14.86	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.8)
+PGF_00025231	Morganella	440.00	27.98	Na+-driven multidrug efflux pump
+PGF_00025289	Morganella	385.52	34.91	Na+/H+ antiporter NhaA type
+PGF_00025379	Morganella	279.14	31.57	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025489	Morganella	380.03	81.45	Niacin transporter NiaP
+PGF_00025558	Morganella	259.66	81.38	Nickel/cobalt efflux transporter RcnA
+PGF_00025623	Morganella	325.58	65.34	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025709	Morganella	227.55	28.99	Nitrate/nitrite response regulator protein NarL
+PGF_00025890	Morganella	334.79	55.85	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026318	Morganella	295.03	48.15	NrtR-regulated hypothetical NrtY, PpnK-type ATP-NAD kinase domain
+PGF_00026453	Morganella	333.73	102.52	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026544	Morganella	192.52	10.82	Nudix hydrolase family protein KPN_02621
+PGF_00026545	Morganella	132.45	14.97	Nudix hydrolase family protein PA3470
+PGF_00026796	Morganella	298.47	74.92	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00026819	Morganella	388.87	48.85	Acetylornithine aminotransferase (EC 2.6.1.11) @ N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)
+PGF_00026866	Morganella	307.00	53.66	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Morganella	607.97	181.52	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027212	Morganella	194.70	44.32	Outer membrane protein W precursor
+PGF_00027643	Morganella	794.80	260.81	Osmosensitive K+ channel histidine kinase KdpD
+PGF_00027728	Morganella	338.45	34.92	Outer membrane beta-barrel assembly protein BamC
+PGF_00027841	Morganella	141.83	6.31	Acetyltransferase YpeA
+PGF_00028370	Morganella	362.03	55.80	Outer membrane protein/protective antigen OMA87
+PGF_00028422	Morganella	448.93	66.24	Outer membrane stress sensor protease DegQ, serine protease
+PGF_00028486	Morganella	244.31	31.54	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00028923	Morganella	246.83	8.66	Acid phosphatase (EC 3.1.3.2)
+PGF_00029287	Morganella	740.10	267.14	Aconitate hydratase 2 (EC 4.2.1.3)
+PGF_00029464	Morganella	156.24	1.88	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029536	Morganella	144.00	0.00	PTS system, N-acetylgalactosamine-specific IIA component @ PTS system, galactosamine-specific IIA component
+PGF_00029546	Morganella	150.67	21.80	PTS system, N-acetylgalactosamine-specific IIB component
+PGF_00029917	Morganella	281.55	48.47	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Morganella	303.53	43.87	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030643	Morganella	468.52	152.94	Peptide chain release factor 3
+PGF_00030690	Morganella	541.63	91.83	Peptide transport periplasmic protein SapA
+PGF_00030698	Morganella	315.24	29.69	Peptide transport system permease protein SapB
+PGF_00030701	Morganella	286.13	37.70	Peptide transport system permease protein SapC
+PGF_00030812	Morganella	156.63	27.10	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00030829	Morganella	215.39	12.49	Acyl-ACP:glycerol-3-phosphate O-acyltransferase (EC 2.3.1.n5)
+PGF_00030901	Morganella	468.67	157.24	Murein peptide ABC transporter, substrate-binding protein (requires DppBCDF)
+PGF_00031059	Morganella	178.20	23.29	Periplasmic protein p19 involved in high-affinity Fe2+ transport
+PGF_00031127	Morganella	207.10	0.31	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00031261	Morganella	288.70	42.53	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_00032662	Morganella	204.65	47.51	Phage shock protein A @ Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00032664	Morganella	71.90	7.18	Phage shock protein B
+PGF_00033289	Morganella	324.67	48.71	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033473	Morganella	515.37	117.06	Phosphoethanolamine transferase specific for the outer Kdo residue of lipopolysaccharide
+PGF_00033479	Morganella	493.35	147.65	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033489	Morganella	271.31	42.80	Phosphogluconate repressor HexR, RpiR family
+PGF_00033536	Morganella	228.65	51.72	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033642	Morganella	235.27	41.88	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00033729	Morganella	256.41	35.47	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033740	Morganella	210.45	5.16	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033922	Morganella	203.00	0.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033936	Morganella	237.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033954	Morganella	316.13	83.16	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033982	Morganella	274.53	50.67	Phosphoribulokinase homolog, function unknown
+PGF_00034566	Morganella	423.30	88.78	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Morganella	627.72	213.94	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00035009	Morganella	159.97	20.86	Positive regulator of CheA protein activity (CheW)
+PGF_00035183	Morganella	162.50	31.11	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035405	Morganella	491.12	150.63	Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035406	Morganella	611.67	159.90	Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035721	Morganella	418.65	87.80	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035775	Morganella	126.00	12.94	Predicted chaperone lipoprotein YacC, potentially involved in protein secretion
+PGF_00035812	Morganella	279.06	71.34	Predicted dye-decolorizing peroxidase (DyP), encapsulated subgroup
+PGF_00036543	Morganella	440.19	132.25	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036575	Morganella	649.73	240.51	Aerobic respiration control sensor protein ArcB (EC 2.7.13.3)
+PGF_00036688	Morganella	222.10	34.98	RNA chaperone ProQ
+PGF_00037052	Morganella	159.72	8.83	Probable endopeptidase NlpC
+PGF_00037063	Morganella	75.52	1.48	Probable exported or periplasmic protein in ApbE locus
+PGF_00037588	Morganella	561.66	61.31	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037973	Morganella	89.97	6.89	Protein YcgL
+PGF_00037977	Morganella	83.00	0.00	Protein YciN
+PGF_00037978	Morganella	185.30	35.61	Protein YecM
+PGF_00038165	Morganella	281.34	25.07	Protein involved in stability of MscS mechanosensitive channel
+PGF_00038642	Morganella	167.46	9.19	Protein SprT
+PGF_00038758	Morganella	232.69	12.44	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeK
+PGF_00038829	Morganella	173.66	14.93	Proteinase inhibitor I11, ecotin precursor
+PGF_00039227	Morganella	262.38	10.31	Putative DNA-binding protein
+PGF_00039342	Morganella	247.09	78.25	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039367	Morganella	166.87	20.78	Uncharacterized transcriptional regulator YbaO, AsnC family
+PGF_00039452	Morganella	272.79	54.30	Putative LysR-family transcriptional regulatory protein
+PGF_00039490	Morganella	149.55	15.10	Putative Mut family protein
+PGF_00039502	Morganella	242.77	52.98	Putative NAD(P)-dependent oxidoreductase EC-YbbO
+PGF_00039503	Morganella	174.07	36.18	Putative NAD(P)H nitroreductase YdjA
+PGF_00039789	Morganella	603.77	103.55	Putative TonB dependent outer membrane receptor
+PGF_00040367	Morganella	503.00	76.63	Putative capsular polysaccharide transport protein YegH
+PGF_00040527	Morganella	394.66	54.38	Putative deacetylase YgeY
+PGF_00040578	Morganella	248.53	41.94	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041794	Morganella	184.31	11.93	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041948	Morganella	420.48	28.80	Putative membrane protein YfjD
+PGF_00042301	Morganella	475.90	33.93	Putative molybdenum transport ATP-binding protein modF
+PGF_00042798	Morganella	250.66	28.16	Putative oxidoreductase
+PGF_00042848	Morganella	187.31	4.40	Anaerobic respiratory reductase chaperone
+PGF_00043154	Morganella	346.70	60.15	Putative permease PerM (= YfgO)
+PGF_00043218	Morganella	268.86	16.75	Putative phosphatase
+PGF_00043742	Morganella	189.00	0.00	Succinate-acetate/proton symporter SatP
+PGF_00044295	Morganella	532.29	116.59	Putative sulfate permease
+PGF_00045677	Morganella	772.45	236.76	Putative uncharacterized protein ydbH
+PGF_00045833	Morganella	197.26	46.63	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045982	Morganella	803.84	215.99	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046597	Morganella	137.80	28.17	RNA polymerase-binding transcription factor DksA
+PGF_00047274	Morganella	152.86	0.74	Regulatory protein AsnC
+PGF_00047887	Morganella	235.17	20.61	Response regulator BaeR
+PGF_00048290	Morganella	89.38	7.43	Rho-specific inhibitor of transcription termination (YaeO)
+PGF_00048416	Morganella	198.31	16.54	Rhomboid family protein
+PGF_00048480	Morganella	218.59	11.86	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048539	Morganella	130.97	19.71	Ribonuclease E inhibitor RraB
+PGF_00048542	Morganella	155.21	7.21	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048586	Morganella	225.77	49.90	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Morganella	275.61	63.51	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048643	Morganella	149.00	0.00	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Morganella	303.37	45.24	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048791	Morganella	321.21	10.45	ABC transporter, substrate-binding protein (cluster 2, ribose/xylose/arabinose/galactose)
+PGF_00048802	Morganella	309.79	31.13	ABC transporter, permease protein (cluster 2, ribose/xylose/arabinose/galactose)
+PGF_00048817	Morganella	256.73	47.51	Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)
+PGF_00048836	Morganella	268.50	66.15	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048842	Morganella	311.62	10.30	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048898	Morganella	108.67	16.45	Ribosome-associated inhibitor A
+PGF_00048926	Morganella	184.55	2.41	Ribosome recycling factor
+PGF_00048933	Morganella	135.69	11.31	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Morganella	136.00	0.00	Ribosome-binding factor A
+PGF_00049330	Morganella	359.45	77.13	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049344	Morganella	253.53	31.82	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00049362	Morganella	334.90	62.28	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Morganella	167.21	12.32	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049542	Morganella	252.66	12.54	SAM-dependent methyltransferase HI0095 (UbiE paralog)
+PGF_00049827	Morganella	267.59	13.00	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Morganella	102.41	3.16	SSU ribosomal protein S10p (S20e)
+PGF_00049838	Morganella	121.31	14.48	SSU ribosomal protein S12p (S23e)
+PGF_00049847	Morganella	86.76	8.41	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Morganella	82.66	2.54	SSU ribosomal protein S16p
+PGF_00049896	Morganella	162.66	17.26	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Morganella	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Morganella	129.93	0.37	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Morganella	118.45	22.94	SSU ribosomal protein S9p (S16e)
+PGF_00050030	Morganella	257.34	16.33	SanA protein
+PGF_00050054	Morganella	465.21	26.41	Sarcosine oxidase beta subunit (EC 1.5.3.1)
+PGF_00050223	Morganella	231.23	39.93	Secreted protein, suppressor for copper-sensitivity ScsC
+PGF_00050368	Morganella	331.00	78.35	Selenophosphate-dependent tRNA 2-selenouridine synthase
+PGF_00050573	Morganella	460.19	93.13	Sensor histidine kinase PhoQ (EC 2.7.13.3)
+PGF_00050643	Morganella	480.67	110.11	Sensor histidine protein kinase UhpB, glucose-6-phosphate specific (EC 2.7.13.3)
+PGF_00050980	Morganella	387.67	130.62	Sensory histidine kinase BaeS
+PGF_00050995	Morganella	458.97	120.82	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Morganella	231.66	19.22	Septum site-determining protein MinC
+PGF_00051133	Morganella	313.73	27.01	Septum-associated cell division protein DamX
+PGF_00051525	Morganella	406.76	81.38	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051717	Morganella	239.43	55.89	3-hydroxypropionate dehydrogenase (EC 1.1.1.298)
+PGF_00051873	Morganella	421.00	71.46	Short-chain fatty acids transporter
+PGF_00052238	Morganella	438.33	60.51	Signal recognition particle protein Ffh
+PGF_00052418	Morganella	571.24	75.44	Signal transduction histidine-protein kinase AtoS (EC 2.7.13.3)
+PGF_00052705	Morganella	136.83	14.77	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Morganella	281.06	62.16	Site-specific tyrosine recombinase XerD
+PGF_00053553	Morganella	429.87	103.60	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+PGF_00053669	Morganella	126.38	14.69	Spermidine export protein MdtJ
+PGF_00053770	Morganella	344.03	63.20	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054359	Morganella	225.55	49.19	Cobalt ECF transporter, substrate-binding protein CbiM
+PGF_00054383	Morganella	213.10	16.71	Substrate-specific component NikM of nickel ECF transporter
+PGF_00054778	Morganella	356.17	52.08	Sugar diacid utilization regulator SdaR
+PGF_00054818	Morganella	218.68	14.03	Sugar phosphatase YfbT (EC 3.1.3.23)
+PGF_00054920	Morganella	234.62	7.43	Sugar fermentation stimulation protein SfsA
+PGF_00054988	Morganella	257.57	62.25	Sulfate transport system permease protein CysW
+PGF_00055099	Morganella	139.00	0.00	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055354	Morganella	412.87	59.18	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055363	Morganella	181.34	8.91	Syd protein
+PGF_00055394	Morganella	444.00	133.95	Anaerobic nitric oxide reductase flavorubredoxin
+PGF_00055402	Morganella	263.60	38.04	TIM-barrel signal transduction protein
+PGF_00056185	Morganella	309.57	55.72	Tellurite resistance protein TehA
+PGF_00056496	Morganella	218.70	38.75	Thiamin ABC transporter, ATPase component
+PGF_00056498	Morganella	307.90	73.39	Thiamin ABC transporter, substrate-binding component
+PGF_00056662	Morganella	313.43	59.06	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056821	Morganella	107.55	1.55	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)
+PGF_00056935	Morganella	428.68	129.17	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Morganella	135.97	20.95	Tol biopolymer transport system, TolR protein
+PGF_00057032	Morganella	130.48	2.60	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057399	Morganella	298.63	60.13	Transaldolase (EC 2.2.1.2)
+PGF_00057485	Morganella	485.97	62.96	Transcription termination protein NusA
+PGF_00057488	Morganella	137.10	0.31	Transcription termination protein NusB
+PGF_00057496	Morganella	331.90	37.37	Transcriptional (co)regulator CytR
+PGF_00057513	Morganella	300.17	23.02	Transcriptional activator NhaR
+PGF_00057520	Morganella	155.77	22.75	Transcriptional activator RfaH
+PGF_00057553	Morganella	292.33	39.50	Transcriptional activator protein LysR
+PGF_00058386	Morganella	368.39	90.96	Transcriptional regulator
+PGF_00058666	Morganella	186.67	39.37	Transcriptional regulator SlmA, TetR family
+PGF_00058710	Morganella	144.59	16.28	Transcriptional regulator ZntR, MerR family
+PGF_00058852	Morganella	188.71	6.80	Transcriptional regulator YjdC, AcrR family
+PGF_00060182	Morganella	199.90	29.00	Transcriptional regulatory protein UhpA
+PGF_00060255	Morganella	165.67	24.03	Multidrug resistance regulator EmrR (MprA)
+PGF_00060257	Morganella	88.14	6.96	Transcriptional repressor RcnR
+PGF_00060287	Morganella	102.28	3.88	Transcriptional repressor protein TrpR
+PGF_00060289	Morganella	477.16	110.79	Transcriptional repressor protein TyrR
+PGF_00060313	Morganella	408.10	96.38	Transcriptional response regulatory protein GlrR
+PGF_00060424	Morganella	320.79	16.53	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Morganella	271.60	38.97	Translation elongation factor Ts
+PGF_00060478	Morganella	126.93	34.49	Translation initiation factor 3
+PGF_00060481	Morganella	104.00	16.98	Translation initiation factor SUI1-related protein
+PGF_00060510	Morganella	217.53	30.03	Cobalt ECF transporter, transmembrane component of energizing module CbiQ
+PGF_00060701	Morganella	433.73	100.01	Transport protein SgaT, putative
+PGF_00061003	Morganella	345.00	17.54	ABC transporter, ATP-binding protein (cluster 1, maltose/g3p/polyamine/iron); ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00061607	Morganella	125.07	0.26	ApaG protein
+PGF_00061938	Morganella	438.87	111.06	Trk potassium uptake system protein TrkG
+PGF_00062023	Morganella	250.65	45.92	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Morganella	391.45	24.51	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063912	Morganella	365.74	83.12	Tyrosine-specific transport protein
+PGF_00063944	Morganella	288.30	63.80	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Morganella	322.16	49.46	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063953	Morganella	612.50	130.52	UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) / UDP-glucuronic acid oxidase (UDP-4-keto-hexauronic acid decarboxylating) (EC 1.1.1.305)
+PGF_00063955	Morganella	365.97	51.60	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87)
+PGF_00063974	Morganella	332.55	46.55	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Morganella	335.93	70.84	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Morganella	455.97	93.34	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064131	Morganella	325.20	42.62	UDP-glucuronate 5'-epimerase (EC 5.1.3.12)
+PGF_00064154	Morganella	80.14	4.64	UPF0033 protein YedF
+PGF_00064199	Morganella	176.38	17.28	UPF0115 protein YfcN
+PGF_00064204	Morganella	222.79	5.93	Arginine ABC transporter, permease protein ArtM
+PGF_00064270	Morganella	248.87	39.96	UPF0246 protein YaaA
+PGF_00064280	Morganella	147.69	1.87	UPF0260 protein YcgN
+PGF_00064294	Morganella	239.48	11.58	UPF0294 protein YafD
+PGF_00064317	Morganella	117.97	26.83	UPF0325 protein YaeH
+PGF_00064359	Morganella	144.00	33.10	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064364	Morganella	82.00	0.00	UPF0410 protein YeaQ
+PGF_00064389	Morganella	318.47	50.39	Semialdehyde dehydrogenase, USG-1 protein
+PGF_00064460	Morganella	516.00	92.33	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064489	Morganella	219.40	44.21	Arginine ABC transporter, permease protein ArtQ
+PGF_00064506	Morganella	243.83	36.84	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064557	Morganella	306.45	65.91	Uncharacterized GTP-binding protein YjiA
+PGF_00064596	Morganella	192.83	5.51	Uncharacterized Nudix hydrolase YfcD
+PGF_00064740	Morganella	200.03	6.99	Uncharacterized hydrolase DSY2054
+PGF_00064781	Morganella	190.55	19.76	Uncharacterized lipoprotein YmbA
+PGF_00064803	Morganella	203.23	26.11	Uncharacterized membrane protein YhhN
+PGF_00064859	Morganella	317.55	66.48	Uncharacterized oxidoreductase YdgJ
+PGF_00065514	Morganella	142.87	26.96	Uncharacterized protein YehS
+PGF_00065535	Morganella	191.03	44.95	Arylsulfatase (EC 3.1.6.1)
+PGF_00065593	Morganella	92.03	12.11	Uncharacterized protein YhhL
+PGF_00065603	Morganella	389.16	90.99	Uncharacterized protein YidR
+PGF_00065765	Morganella	106.38	23.14	Uncharacterized protein YbfE
+PGF_00065835	Morganella	162.83	2.48	Uncharacterized sensory transduction regulator YbjN
+PGF_00065887	Morganella	252.17	23.11	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065891	Morganella	113.28	10.78	Undecaprenyl phosphate-aminoarabinose flippase subunit ArnE
+PGF_00065899	Morganella	202.89	18.60	Undecaprenyl-diphosphatase BcrC (EC 3.6.1.27)
+PGF_00065901	Morganella	323.10	23.43	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53)
+PGF_00065934	Morganella	141.45	19.13	Universal stress protein A
+PGF_00065941	Morganella	310.21	18.48	Universal stress protein E
+PGF_00066041	Morganella	591.83	109.22	AsmA protein
+PGF_00066049	Morganella	306.97	46.82	Membrane fusion component of tripartite multidrug resistance system
+PGF_00066123	Morganella	201.24	21.67	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Morganella	229.41	10.42	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066195	Morganella	216.60	32.07	Urease accessory protein UreE
+PGF_00066214	Morganella	203.30	25.81	Urease accessory protein UreG
+PGF_00066215	Morganella	519.16	135.35	Urease alpha subunit (EC 3.5.1.5)
+PGF_00066216	Morganella	135.34	14.32	Urease beta subunit (EC 3.5.1.5)
+PGF_00066218	Morganella	103.24	12.47	Urease gamma subunit (EC 3.5.1.5)
+PGF_00066248	Morganella	211.45	13.74	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066257	Morganella	229.13	57.00	Uridine phosphorylase (EC 2.4.2.3)
+PGF_00066270	Morganella	317.34	87.70	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066502	Morganella	433.68	103.94	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066906	Morganella	300.63	43.69	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066960	Morganella	154.00	0.00	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067018	Morganella	333.50	52.51	Xylitol dehydrogenase (EC 1.1.1.9)
+PGF_00067188	Morganella	364.03	18.84	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067259	Morganella	179.76	12.07	YcfP protein: probably an esterase that is part of a salvage cluster
+PGF_00067346	Morganella	232.52	2.60	YheO-like PAS domain
+PGF_00067401	Morganella	272.94	61.48	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067723	Morganella	170.62	18.78	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_00067772	Morganella	320.07	58.57	[NiFe] hydrogenase metallocenter assembly protein HypE
+PGF_00067791	Morganella	744.34	269.95	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068227	Morganella	303.71	73.82	Autoinducer 2 (AI-2) ABC transport system, membrane channel protein LsrC
+PGF_00068400	Morganella	324.52	51.07	Autoinducer 2 (AI-2) ABC transport system, membrane channel protein LsrD
+PGF_00068416	Morganella	299.52	89.72	Autoinducer 2 (AI-2) ABC transport system, periplasmic AI-2 binding protein LsrB
+PGF_00068794	Morganella	124.45	13.74	Autonomous glycyl radical cofactor
+PGF_00068886	Morganella	284.03	50.32	Auxin efflux carrier family protein
+PGF_00070226	Morganella	321.40	63.39	corresponds to STY3948 from Accession AL513382: Salmonella typhi CT18
+PGF_00071109	Morganella	467.93	55.58	Bacillus cereus group-specific protein, uncharacterized
+PGF_00071382	Morganella	176.00	0.00	Flavodoxin 1
+PGF_00072177	Morganella	101.53	16.02	hemimethylated DNA binding protein YccV
+PGF_00072449	Morganella	217.55	20.35	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00084324	Morganella	258.17	49.51	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00086164	Morganella	165.31	17.83	RidA/YER057c/UK114 superfamily, group 3
+PGF_00098611	Morganella	259.14	22.68	ABC transporter, permease protein 2 (cluster 1, maltose/g3p/polyamine/iron)
+PGF_00102041	Morganella	191.28	3.96	Esterase YqiA
+PGF_00107984	Morganella	419.45	116.78	hypothetical protein
+PGF_00114501	Morganella	272.53	61.89	hypothetical protein
+PGF_00117559	Morganella	104.90	6.52	hypothetical protein
+PGF_00117965	Morganella	159.40	23.07	hypothetical protein
+PGF_00127024	Morganella	291.70	48.88	Cell division inhibitor Slr1223 (YfcH in EC), contains epimerase/dehydratase and DUF1731 domains
+PGF_00138880	Morganella	211.84	57.58	hypothetical protein
+PGF_00154732	Morganella	158.41	18.65	hypothetical protein
+PGF_00159177	Morganella	266.38	24.76	hypothetical protein
+PGF_00159825	Morganella	397.03	126.64	hypothetical protein
+PGF_00162892	Morganella	214.71	54.44	hypothetical protein
+PGF_00175340	Morganella	339.97	56.97	hypothetical protein
+PGF_00181893	Morganella	221.14	4.64	hypothetical protein
+PGF_00203243	Morganella	181.50	37.43	hypothetical protein
+PGF_00212465	Morganella	176.03	3.95	Cytochrome b561
+PGF_00238179	Morganella	228.47	37.97	hypothetical protein
+PGF_00239617	Morganella	94.45	6.19	hypothetical protein
+PGF_00242052	Morganella	206.87	28.80	hypothetical protein
+PGF_00243846	Morganella	171.97	18.69	hypothetical protein
+PGF_00255767	Morganella	416.77	81.30	Osmolarity sensory histidine kinase EnvZ
+PGF_00261173	Morganella	357.24	52.55	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00265382	Morganella	206.48	41.32	hypothetical protein
+PGF_00265539	Morganella	285.00	26.25	hypothetical protein
+PGF_00269200	Morganella	279.32	44.89	hypothetical protein
+PGF_00274209	Morganella	193.93	7.74	hypothetical protein
+PGF_00280122	Morganella	244.27	62.93	hypothetical protein
+PGF_00285620	Morganella	193.07	41.77	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00289828	Morganella	367.93	44.49	hypothetical protein
+PGF_00299130	Morganella	78.76	6.69	Cell division protein ZapB
+PGF_00322796	Morganella	284.00	0.00	hypothetical protein
+PGF_00323796	Morganella	94.62	2.04	hypothetical protein
+PGF_00324246	Morganella	247.00	45.52	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3) @ Sirohydrochlorin ferrochelatase activity of CbiK (EC 4.99.1.4)
+PGF_00350921	Morganella	333.03	45.22	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00358715	Morganella	540.74	150.46	Ribosomal protein S12p methylthiotransferase accessory factor YcaO
+PGF_00368859	Morganella	300.33	85.48	hypothetical protein
+PGF_00375894	Morganella	223.86	20.57	hypothetical protein
+PGF_00397788	Morganella	86.00	7.89	hypothetical protein
+PGF_00398853	Morganella	237.00	48.96	hypothetical protein
+PGF_00401551	Morganella	435.33	84.11	Multidrug efflux transporter MdtK/NorM (MATE family)
+PGF_00401928	Morganella	241.60	36.42	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201) @ Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_00401939	Morganella	244.97	42.52	orf; Unknown function
+PGF_00403273	Morganella	445.97	100.01	2-methylcitrate dehydratase (EC 4.2.1.79)
+PGF_00403929	Morganella	368.81	81.61	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57)
+PGF_00404333	Morganella	310.07	49.80	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404496	Morganella	243.87	49.08	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)
+PGF_00404831	Morganella	266.47	41.67	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00405700	Morganella	319.45	82.46	putative ATP/GTP-binding protein protein
+PGF_00408010	Morganella	63.00	0.00	putative lipoprotein
+PGF_00408176	Morganella	211.03	42.16	UPF0441 protein YgiB
+PGF_00409147	Morganella	423.97	178.24	putative membrane protein
+PGF_00410598	Morganella	98.86	6.05	putative secreted protein
+PGF_00410674	Morganella	120.97	4.95	UPF0482 protein YnfB
+PGF_00413182	Morganella	302.42	68.43	tRNA (mo5U34)-methyltransferase
+PGF_00413208	Morganella	236.90	38.15	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413230	Morganella	246.40	40.26	tRNA (cmo5U34)-methyltransferase
+PGF_00413237	Morganella	443.26	95.22	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413245	Morganella	125.34	19.02	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD
+PGF_00413290	Morganella	262.97	38.40	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413340	Morganella	285.87	71.05	tRNA-dihydrouridine(16) synthase
+PGF_00413351	Morganella	176.00	10.18	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Morganella	157.66	14.28	tmRNA-binding protein SmpB
+PGF_00414228	Morganella	227.20	36.49	Two-component system response regulator OmpR
+PGF_00414970	Morganella	211.77	13.07	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_00415150	Morganella	273.93	32.68	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415332	Morganella	351.72	58.46	23S rRNA (cytidine(2498)-2'-O)-methyltransferase (EC 2.1.1.186)
+PGF_00415545	Morganella	347.81	73.88	23S rRNA (uracil(747)-C(5))-methyltransferase (EC 2.1.1.189)
+PGF_00416106	Morganella	307.73	63.33	CRISPR-associated protein, Csy3 family
+PGF_00416417	Morganella	333.48	69.42	Carbamoylphosphate synthase large subunit (split gene in MJ)
+PGF_00416508	Morganella	59.14	7.70	Carbon storage regulator
+PGF_00417577	Morganella	152.00	0.00	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417580	Morganella	329.81	68.80	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417658	Morganella	358.72	6.87	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Morganella	226.26	49.08	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Morganella	339.10	64.11	Chorismate synthase (EC 4.2.3.5)
+PGF_00417843	Morganella	161.48	23.91	Chorismate--pyruvate lyase (EC 4.1.3.40)
+PGF_00417961	Morganella	421.33	61.97	Chromosome partition protein MukF
+PGF_00417987	Morganella	180.69	27.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Morganella	247.79	5.18	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418294	Morganella	254.17	30.61	Cobalt-precorrin-6A reductase (EC 1.3.1.106)
+PGF_00418379	Morganella	430.23	95.44	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00418406	Morganella	171.69	13.92	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418710	Morganella	313.90	59.09	Uncharacterized protease YhbU
+PGF_00419420	Morganella	413.78	129.97	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419628	Morganella	456.07	0.37	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Morganella	169.43	23.97	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419816	Morganella	133.07	0.26	Curlin genes transcriptional activator
+PGF_00419886	Morganella	262.23	51.50	3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2)
+PGF_00419891	Morganella	209.48	2.79	Cyclic AMP receptor protein
+PGF_00419913	Morganella	153.97	22.04	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420012	Morganella	350.61	94.68	Cystathionine beta-lyase MalY (EC 4.4.1.8) @ Maltose regulon modulator
+PGF_00420019	Morganella	355.97	66.23	Cystathionine gamma-lyase (EC 4.4.1.1)
+PGF_00420048	Morganella	379.10	84.05	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420053	Morganella	381.43	81.82	Cysteine desulfurase (EC 2.8.1.7) => sulfur transfer pathway protein CsdA
+PGF_00420078	Morganella	282.10	37.09	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420121	Morganella	223.70	29.22	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420152	Morganella	626.76	136.32	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420155	Morganella	193.37	33.66	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+PGF_00420728	Morganella	303.68	69.46	Cytoskeleton protein RodZ
+PGF_00420731	Morganella	484.23	74.41	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420732	Morganella	483.93	11.14	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420798	Morganella	283.60	59.75	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Morganella	296.74	75.83	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420919	Morganella	319.53	61.32	D-cysteine desulfhydrase (EC 4.4.1.15)
+PGF_00420992	Morganella	555.53	97.73	D-lactate dehydrogenase (EC 1.1.1.28)
+PGF_00421013	Morganella	354.75	114.49	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421021	Morganella	428.00	93.38	D-phenylhydantoinase
+PGF_00421039	Morganella	431.10	103.18	D-serine/D-alanine/glycine transporter
+PGF_00421071	Morganella	140.00	20.22	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421249	Morganella	434.80	68.31	DNA for 3-methylaspartate ammonia-lyase, glutamate mutase
+PGF_00421760	Morganella	292.68	43.94	DNA recombination-dependent growth factor RdgC
+PGF_00421796	Morganella	520.83	120.32	DNA repair protein RecN
+PGF_00421839	Morganella	291.93	42.74	DNA replication terminus site-binding protein
+PGF_00421893	Morganella	192.93	35.27	DNA transformation protein TfoX
+PGF_00421954	Morganella	208.70	30.01	DNA-binding capsular synthesis response regulator RcsB
+PGF_00421959	Morganella	244.87	47.91	DNA-binding domain of ModE / Molybdate-binding domain of ModE
+PGF_00422545	Morganella	302.21	31.63	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422679	Morganella	221.10	27.21	DedA family inner membrane protein YghB
+PGF_00422711	Morganella	218.47	28.88	DedA protein
+PGF_00422959	Morganella	146.07	22.81	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423022	Morganella	478.90	49.62	Di-tripeptide/H+ symporter DtpB
+PGF_00423089	Morganella	343.31	71.28	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423101	Morganella	379.21	67.91	Diaminopropionate ammonia-lyase (EC 4.3.1.15)
+PGF_00423361	Morganella	117.10	0.31	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423450	Morganella	276.74	55.68	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)
+PGF_00423530	Morganella	302.81	76.38	Dipeptide transport ATP-binding protein DppF (TC 3.A.1.5.2)
+PGF_00423533	Morganella	279.07	49.80	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423567	Morganella	488.61	126.77	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2) @ Dipeptide chemoreceptor
+PGF_00423709	Morganella	256.53	44.56	DnaJ-like protein DjlA
+PGF_00423896	Morganella	65.21	7.15	DsrB protein
+PGF_00424134	Morganella	193.03	30.95	Electron transport complex protein RnfB
+PGF_00424141	Morganella	214.87	52.90	Electron transport complex protein RnfE
+PGF_00424166	Morganella	183.62	26.08	Elongation factor P-like protein
+PGF_00424327	Morganella	311.97	37.46	Endonuclease I precursor (EC 3.1.21.1)
+PGF_00424569	Morganella	253.86	42.50	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424800	Morganella	254.21	37.74	Esterase ybfF (EC 3.1.-.-)
+PGF_00424868	Morganella	436.60	63.09	Ethanolamine ammonia-lyase heavy chain (EC 4.3.1.7)
+PGF_00424871	Morganella	336.10	50.10	Ethanolamine operon regulatory protein
+PGF_00424876	Morganella	407.90	41.99	Ethanolamine permease
+PGF_00424880	Morganella	185.50	1.80	Ethanolamine utilization polyhedral-body-like protein EutK
+PGF_00424881	Morganella	219.03	0.82	Ethanolamine utilization polyhedral-body-like protein EutL
+PGF_00424892	Morganella	431.52	103.94	Ethanolamine utilization protein EutA
+PGF_00424894	Morganella	382.17	57.10	Ethanolamine utilization protein EutG
+PGF_00424895	Morganella	258.68	56.48	Ethanolamine utilization protein EutJ
+PGF_00425011	Morganella	249.78	68.05	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425092	Morganella	404.28	88.43	Exonuclease SbcD
+PGF_00425212	Morganella	452.13	102.60	Exported zinc metalloprotease YfgC precursor
+PGF_00425671	Morganella	271.72	45.86	RNase adapter protein RapZ
+PGF_00425684	Morganella	242.86	15.47	Probable transcriptional regulatory protein YebC
+PGF_00425704	Morganella	90.07	0.37	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425810	Morganella	238.34	43.74	Cell division protein ZapD
+PGF_00425811	Morganella	98.97	7.53	dsDNA mimic protein, highly acidic
+PGF_00425918	Morganella	283.48	6.27	FIG003879: Uncharacterized subgroup of the nitrilase superfamily
+PGF_00425922	Morganella	242.00	0.00	FIG004016: Uncharacterized protein YggN
+PGF_00425993	Morganella	388.87	33.35	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Morganella	310.58	70.95	FIG004453: protein YceG like
+PGF_00426044	Morganella	275.68	62.92	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426782	Morganella	416.79	22.65	5-methylthioribose kinase (EC 2.7.1.100)
+PGF_00426932	Morganella	155.62	2.04	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447438	Morganella	186.48	29.71	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00451246	Morganella	93.53	13.56	RNA-binding protein YhbY
+PGF_00473519	Morganella	196.57	35.90	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00502502	Morganella	79.28	10.02	Cold shock protein of CSP family => CspD (naming convention as in E.coli)
+PGF_00503312	Morganella	259.39	16.61	Cell division protein FtsN
+PGF_00503343	Morganella	179.80	29.60	Uncharacterized protein YraP
+PGF_00538878	Morganella	267.52	11.94	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00546752	Morganella	152.17	17.37	Phosphohistidine phosphatase SixA
+PGF_00580333	Morganella	359.26	78.74	Lipopolysaccharide assembly protein LapB
+PGF_00596539	Morganella	552.07	109.60	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598374	Morganella	186.52	24.14	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00616490	Morganella	316.06	43.58	Signal peptidase I (EC 3.4.21.89)
+PGF_00641071	Morganella	280.57	60.11	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644224	Morganella	262.00	61.65	PTS system, mannose-specific IID component
+PGF_00648054	Morganella	227.90	0.56	Tol-Pal system protein TolQ
+PGF_00649271	Morganella	109.00	0.00	Cell division protein BolA
+PGF_00659194	Morganella	205.73	29.25	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662357	Morganella	236.93	29.52	Metal-dependent hydrolase
+PGF_00662997	Morganella	243.67	39.16	Cobalamin synthase (EC 2.7.8.26)
+PGF_00664069	Morganella	408.19	109.59	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Morganella	106.83	2.25	Ribosomal silencing factor RsfA
+PGF_00666793	Morganella	232.00	16.74	FIG006238: AzlC family protein
+PGF_00679977	Morganella	155.52	34.55	putative membrane protein
+PGF_00694978	Morganella	258.10	38.17	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00709443	Morganella	171.38	19.31	Twin-arginine translocation protein TatB
+PGF_00717495	Morganella	419.69	58.99	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00720623	Morganella	139.93	0.37	TonB-ExbBD energy transducing system, ExbD subunit
+PGF_00743561	Morganella	180.70	35.40	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00777371	Morganella	235.07	35.23	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Morganella	230.10	13.16	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00780899	Morganella	272.52	32.65	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), ethanolamine utilization
+PGF_00827555	Morganella	593.10	135.87	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00856141	Morganella	384.55	73.41	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00908360	Morganella	231.69	28.19	Phospholipid ABC transporter permease protein MlaE
+PGF_00909459	Morganella	159.65	10.86	Flagellar basal body-associated protein FliL
+PGF_00912265	Morganella	290.52	57.99	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Morganella	276.67	39.73	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00924816	Morganella	223.83	23.35	Thiol:disulfide interchange protein DsbC
+PGF_00950554	Morganella	617.48	137.17	Excinuclease ABC subunit B
+PGF_00955461	Morganella	287.53	46.33	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00957419	Morganella	133.32	25.00	Putative pre-16S rRNA nuclease Yqg
+PGF_00976010	Morganella	304.03	69.19	hypothetical protein
+PGF_00981596	Morganella	462.55	100.99	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_00993283	Morganella	324.03	72.43	Pyridoxal-5'-phosphate-dependent enzyme beta superfamily (fold type II)
+PGF_01036074	Morganella	542.66	18.01	Flagellar hook-associated protein FlgK
+PGF_01052295	Morganella	336.47	84.49	Lipopolysaccharide export system permease protein LptF
+PGF_01052498	Morganella	173.11	4.72	4-hydroxyphenylacetate 3-monooxygenase, reductase component (EC 1.6.8.-)
+PGF_01058223	Morganella	390.23	104.53	Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+PGF_01095191	Morganella	293.34	3.53	Methylisocitrate lyase (EC 4.1.3.30)
+PGF_01102287	Morganella	433.03	117.23	Alkaline phosphatase (EC 3.1.3.1)
+PGF_01102972	Morganella	375.79	38.17	Acetylornithine deacetylase (EC 3.5.1.16)
+PGF_01104399	Morganella	242.93	49.45	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Morganella	390.41	67.78	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01140561	Morganella	202.07	29.55	Nickel transport ATP-binding protein nikE2 (TC 3.A.1.5.3)
+PGF_01147190	Morganella	426.74	123.86	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01148336	Morganella	348.83	65.08	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_01149804	Morganella	445.00	90.40	Flagellar cap protein FliD
+PGF_01168641	Morganella	264.53	54.83	Cobalt ECF transporter, ATPase component of energizing module CbiO
+PGF_01173493	Morganella	396.81	94.79	D-amino acid dehydrogenase (EC 1.4.99.6)
+PGF_01174807	Morganella	413.70	113.71	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Morganella	585.81	149.35	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176861	Morganella	73.00	0.00	Uncharacterized protein YpeB
+PGF_01181530	Morganella	114.14	15.99	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01191170	Morganella	159.47	22.06	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01216478	Morganella	137.00	0.00	Succinyl-CoA synthetase, alpha subunit-related enzymes
+PGF_01217385	Morganella	200.19	44.73	Enhancing lycopene biosynthesis protein 2
+PGF_01223569	Morganella	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Morganella	163.76	8.81	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01286550	Morganella	379.14	51.38	Galactosamine-6-phosphate isomerase AgaS
+PGF_01309240	Morganella	169.31	1.67	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01332618	Morganella	181.00	9.33	Hydrogenase-4 component H
+PGF_01332636	Morganella	236.55	23.95	Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)
+PGF_01364427	Morganella	202.21	9.66	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01386354	Morganella	78.00	0.00	Major outer membrane lipoprotein Lpp
+PGF_01389077	Morganella	70.00	0.00	Uncharacterized protein YbcJ
+PGF_01393949	Morganella	585.94	171.29	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01415722	Morganella	197.21	23.82	Uncharacterized glutathione S-transferase-like protein
+PGF_01415861	Morganella	180.28	20.06	LPS-assembly lipoprotein LptE
+PGF_01420802	Morganella	152.00	0.00	Cell division protein MraZ
+PGF_01423501	Morganella	157.31	1.75	Transcription elongation factor GreA
+PGF_01442793	Morganella	188.31	13.21	Putative manganese efflux pump MntP
+PGF_01448031	Morganella	98.79	4.27	Integration host factor alpha subunit
+PGF_01477459	Morganella	385.50	72.30	Glycine betaine/L-proline transport ATP-binding protein ProV (TC 3.A.1.12.1)
+PGF_01483918	Morganella	264.90	18.33	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01484108	Morganella	199.97	32.73	Electron transport complex protein RnfG
+PGF_01487876	Morganella	113.72	1.69	Uncharacterized membrane protein PA1577
+PGF_01514111	Morganella	297.20	75.85	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01528300	Morganella	286.39	65.13	Formate dehydrogenase O beta subunit (EC 1.2.1.2)
+PGF_01532393	Morganella	631.29	144.24	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Morganella	133.56	18.12	Flagellar basal-body rod protein FlgB
+PGF_01557745	Morganella	295.61	75.82	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01583010	Morganella	255.62	19.33	hypothetical protein
+PGF_01602421	Morganella	260.23	25.95	Flagellar basal-body rod modification protein FlgD
+PGF_01603398	Morganella	516.41	174.11	Efflux ABC transporter, permease/ATP-binding protein MdlB
+PGF_01604929	Morganella	240.65	55.34	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01622427	Morganella	140.62	9.90	putative membrane protein
+PGF_01625234	Morganella	283.66	84.13	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01640353	Morganella	276.59	16.07	hypothetical protein
+PGF_01667999	Morganella	185.31	22.35	RNA polymerase sigma factor RpoE
+PGF_01669282	Morganella	218.71	47.35	Transcriptional regulator, DeoR family
+PGF_01670799	Morganella	188.20	24.88	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01673335	Morganella	243.83	41.30	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01674551	Morganella	123.63	22.53	Glycine cleavage system H protein
+PGF_01678333	Morganella	341.33	67.18	Electron transport complex protein RnfD
+PGF_01681377	Morganella	203.34	8.91	UPF0126 inner membrane protein YicG
+PGF_01682537	Morganella	127.21	7.49	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Morganella	151.45	3.50	Bacterial ribosome SSU maturation protein RimP
+PGF_01719445	Morganella	473.23	162.01	Pyruvate decarboxylase (EC 4.1.1.1); Alpha-keto-acid decarboxylase (EC 4.1.1.-)
+PGF_01734668	Morganella	205.27	33.25	Adenylate kinase (EC 2.7.4.3)
+PGF_01745391	Morganella	341.81	98.68	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01747642	Morganella	209.03	10.27	Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_01761890	Morganella	68.00	0.00	DNA gyrase inhibitor YacG
+PGF_01769256	Morganella	127.00	11.62	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+PGF_01777142	Morganella	208.80	34.38	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Morganella	132.24	10.45	Protein YhfA
+PGF_01839055	Morganella	345.31	1.14	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01853493	Morganella	273.55	33.48	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01877133	Morganella	362.72	116.52	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01898497	Morganella	213.00	0.00	Endonuclease III (EC 4.2.99.18)
+PGF_01900807	Morganella	266.79	45.78	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01920666	Morganella	109.00	0.00	Z-ring-associated protein ZapA
+PGF_01920828	Morganella	252.39	59.32	HesA/MoeB/ThiF family protein => sulfur transfer pathway protein CsdL
+PGF_01923866	Morganella	84.00	0.00	Acid stress protein IbaG
+PGF_01937476	Morganella	643.19	183.59	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01949788	Morganella	180.83	28.92	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Morganella	555.32	146.49	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_02011760	Morganella	255.13	23.70	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02029456	Morganella	317.79	0.62	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Morganella	385.90	17.69	GTP-binding protein Obg
+PGF_02061452	Morganella	362.31	52.52	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Morganella	95.00	0.00	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02073942	Morganella	634.23	197.59	2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) / Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)
+PGF_02096336	Morganella	281.17	61.02	Uncharacterized inner membrane transporter YijE
+PGF_02111888	Morganella	297.30	60.63	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02186693	Morganella	363.88	63.99	Flagellar biosynthesis protein FlhB
+PGF_02191833	Morganella	251.67	35.60	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_02244871	Morganella	322.03	56.56	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02247058	Morganella	270.62	20.84	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+PGF_02263529	Morganella	181.76	17.46	Transcriptional regulator
+PGF_02268482	Morganella	238.70	50.98	Putative glutamine amidotransferase YafJ
+PGF_02290764	Morganella	104.55	5.98	putative lipoprotein
+PGF_02314677	Morganella	158.41	3.16	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)
+PGF_02325838	Morganella	478.90	104.02	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02336950	Morganella	116.19	2.91	Flagellar transcriptional activator FlhD
+PGF_02346669	Morganella	307.68	79.27	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02380559	Morganella	268.79	51.53	hypothetical protein
+PGF_02380634	Morganella	84.24	14.16	hypothetical protein
+PGF_02380639	Morganella	544.37	115.26	hypothetical protein
+PGF_02380646	Morganella	306.17	44.06	hypothetical protein
+PGF_02380649	Morganella	314.73	50.06	hypothetical protein
+PGF_02380653	Morganella	107.76	8.49	hypothetical protein
+PGF_02380655	Morganella	77.00	0.00	hypothetical protein
+PGF_02380657	Morganella	145.00	0.00	hypothetical protein
+PGF_02380658	Morganella	97.00	0.00	hypothetical protein
+PGF_02380661	Morganella	280.93	30.68	hypothetical protein
+PGF_02380672	Morganella	201.55	15.95	hypothetical protein
+PGF_02380674	Morganella	314.07	73.55	hypothetical protein
+PGF_02380681	Morganella	443.87	89.94	hypothetical protein
+PGF_02380689	Morganella	94.47	19.48	hypothetical protein
+PGF_02380690	Morganella	367.97	0.19	hypothetical protein
+PGF_02380699	Morganella	265.03	47.04	hypothetical protein
+PGF_02380704	Morganella	130.40	16.67	hypothetical protein
+PGF_02380721	Morganella	286.10	51.83	hypothetical protein
+PGF_02380722	Morganella	131.23	24.20	hypothetical protein
+PGF_02380724	Morganella	216.74	43.42	Quercetin 2,3-dioxygenase (EC 1.13.11.24) => YhhW
+PGF_02380733	Morganella	248.23	42.27	hypothetical protein
+PGF_02380738	Morganella	113.10	5.23	hypothetical protein
+PGF_02380743	Morganella	179.69	19.86	hypothetical protein
+PGF_02380747	Morganella	104.17	11.55	hypothetical protein
+PGF_02380750	Morganella	244.73	35.06	hypothetical protein
+PGF_02380751	Morganella	126.66	13.26	hypothetical protein
+PGF_02380752	Morganella	227.84	45.80	hypothetical protein
+PGF_02380755	Morganella	154.57	24.37	hypothetical protein
+PGF_02380757	Morganella	100.07	3.36	hypothetical protein
+PGF_02380764	Morganella	233.07	26.08	hypothetical protein
+PGF_02380765	Morganella	157.77	25.46	hypothetical protein
+PGF_02380777	Morganella	76.14	4.64	hypothetical protein
+PGF_02380778	Morganella	82.00	0.00	hypothetical protein
+PGF_02380779	Morganella	184.13	28.50	hypothetical protein
+PGF_02380784	Morganella	164.20	23.98	hypothetical protein
+PGF_02380787	Morganella	176.97	0.18	hypothetical protein
+PGF_02380788	Morganella	111.79	0.41	hypothetical protein
+PGF_02380791	Morganella	137.66	30.75	hypothetical protein
+PGF_02380799	Morganella	98.97	2.99	hypothetical protein
+PGF_02380800	Morganella	183.77	26.17	hypothetical protein
+PGF_02380808	Morganella	138.14	11.20	hypothetical protein
+PGF_02380813	Morganella	169.68	0.94	hypothetical protein
+PGF_02380815	Morganella	93.93	7.97	hypothetical protein
+PGF_02380819	Morganella	139.39	26.70	hypothetical protein
+PGF_02380832	Morganella	89.00	0.00	hypothetical protein
+PGF_02380835	Morganella	70.00	0.00	hypothetical protein
+PGF_02380838	Morganella	144.00	0.00	hypothetical protein
+PGF_02386652	Morganella	167.37	28.92	Ribonuclease E inhibitor RraA
+PGF_02405545	Morganella	297.45	62.80	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02454577	Morganella	78.83	11.83	SSU ribosomal protein S20p
+PGF_02473279	Morganella	228.63	44.49	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473679	Morganella	442.42	142.16	Type IV fimbrial assembly, ATPase PilB
+PGF_02517984	Morganella	58.00	0.00	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02565259	Morganella	448.86	66.37	Methylthioadenosine deaminase
+PGF_02595016	Morganella	380.10	77.33	Multidrug efflux system MdtABC-TolC, membrane fusion component MdtA
+PGF_02613926	Morganella	268.37	56.36	Ribulosamine/erythrulosamine 3-kinase potentially involved in protein deglycation
+PGF_02614845	Morganella	367.23	114.89	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+PGF_02623406	Morganella	272.90	79.42	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02635429	Morganella	222.43	37.43	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02706008	Morganella	238.43	50.96	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02717713	Morganella	631.85	244.06	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02728989	Morganella	222.10	10.21	Transcriptional regulatory protein PhoP
+PGF_02738244	Morganella	282.10	68.95	Glycine cleavage system transcriptional activator GcvA
+PGF_02746016	Morganella	250.83	40.84	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02790700	Morganella	179.59	7.61	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Morganella	221.41	38.49	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Morganella	447.03	65.59	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02798611	Morganella	261.14	27.09	Nickel transport system permease protein nikC2 (TC 3.A.1.5.3)
+PGF_02806530	Morganella	112.34	1.42	Putative uncharacterized protein ydbL, may be related to amine metabolism
+PGF_02820109	Morganella	209.10	38.01	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02844091	Morganella	262.50	36.49	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02853126	Morganella	219.76	1.30	Repair of Iron Centers di-iron protein
+PGF_02865787	Morganella	586.38	96.47	Glutathione-regulated potassium-efflux system protein KefB
+PGF_02872483	Morganella	88.77	4.20	YfaE: ferredoxin involved with ribonucleotide reductase diferric-tyrosyl radical (Y*) cofactor maintenance
+PGF_02875609	Morganella	404.48	103.14	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Morganella	365.43	54.78	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Morganella	333.19	84.58	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02893007	Morganella	430.35	104.41	Probable transport protein HsrA
+PGF_02898096	Morganella	436.29	97.77	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Morganella	63.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02907443	Morganella	190.72	12.26	FIG001590: Putative conserved exported protein precursor
+PGF_02912272	Morganella	175.83	22.47	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02913447	Morganella	1139.20	316.42	Uncharacterized protein YhdP
+PGF_02923127	Morganella	240.97	45.03	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Morganella	309.63	60.95	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02933974	Morganella	524.13	141.01	L,D-transpeptidase YcbB
+PGF_02936332	Morganella	294.59	13.96	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Morganella	353.00	92.78	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02938730	Morganella	319.77	76.29	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942020	Morganella	182.86	21.55	Peptidyl-prolyl cis-trans isomerase PpiA precursor (EC 5.2.1.8)
+PGF_02942351	Morganella	223.21	48.25	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Morganella	535.70	95.68	SSU ribosomal protein S1p
+PGF_02959749	Morganella	348.39	77.84	Ribonuclease D (EC 3.1.26.3)
+PGF_02964258	Morganella	370.68	89.26	Multidrug resistance protein MdtG
+PGF_02967264	Morganella	239.00	0.00	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_02983541	Morganella	478.58	132.76	Blue copper oxidase CueO precursor
+PGF_02988822	Morganella	284.00	5.39	D-tagatose-1,6-bisphosphate aldolase subunit KbaY (EC 4.1.2.40)
+PGF_02992495	Morganella	105.00	10.14	Protein translocase membrane subunit SecG
+PGF_02998943	Morganella	177.23	40.99	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03009663	Morganella	210.52	35.08	Acyl-CoA:acetate CoA-transferase, beta subunit (EC 2.8.3.8)
+PGF_03011092	Morganella	282.70	51.51	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017775	Morganella	464.71	114.66	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03018623	Morganella	261.77	44.39	Transcriptional repressor of aga operon
+PGF_03038852	Morganella	127.93	6.84	FIG00018398: hypothetical regulator
+PGF_03053958	Morganella	344.10	48.23	Outer membrane protein A precursor
+PGF_03057384	Morganella	313.45	59.78	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03065239	Morganella	270.73	58.40	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+PGF_03066520	Morganella	392.31	69.15	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03069993	Morganella	657.93	158.27	Iron(III) dicitrate transport protein FecA
+PGF_03070403	Morganella	286.45	33.13	Glutamate Aspartate periplasmic binding protein precursor GltI (TC 3.A.1.3.4)
+PGF_03090490	Morganella	316.67	55.85	ABC-type efflux pump membrane fusion component YbhG
+PGF_03117340	Morganella	412.97	72.54	Peptidase B (EC 3.4.11.23)
+PGF_03122066	Morganella	145.97	23.37	Protein YaiI
+PGF_03128228	Morganella	377.17	53.75	Outer membrane beta-barrel assembly protein BamB
+PGF_03132336	Morganella	375.97	109.11	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03135428	Morganella	214.00	34.86	Protein YiiM
+PGF_03138644	Morganella	188.61	44.06	Arginine exporter protein ArgO
+PGF_03144011	Morganella	170.86	12.15	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03152669	Morganella	252.27	39.36	PTS system, mannose-specific IIC component
+PGF_03174068	Morganella	179.13	10.22	Transcription antitermination protein NusG
+PGF_03217584	Morganella	355.19	74.36	Probable 3-phenylpropionic acid transporter
+PGF_03222913	Morganella	133.53	22.91	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Morganella	100.00	4.77	UPF0125 protein RatB
+PGF_03272313	Morganella	869.59	9.61	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Morganella	73.36	6.60	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03306184	Morganella	241.47	52.19	4,5-DOPA dioxygenase extradiol (EC 1.13.11.29), but not physiological substrate
+PGF_03325319	Morganella	183.30	35.87	DnaA initiator-associating protein DiaA
+PGF_03326749	Morganella	121.33	17.27	hypothetical protein
+PGF_03333815	Morganella	228.59	28.77	Copper-sensing two-component system response regulator CpxR
+PGF_03351651	Morganella	538.57	122.92	Efflux ABC transporter, permease/ATP-binding protein MdlA
+PGF_03400333	Morganella	310.35	60.09	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03421722	Morganella	425.47	104.04	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Morganella	275.13	50.25	33 kDa chaperonin HslO
+PGF_03439690	Morganella	148.90	0.31	Ferric uptake regulation protein FUR
+PGF_03470321	Morganella	174.21	0.77	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03514188	Morganella	429.83	80.16	Glutathione reductase (EC 1.8.1.7)
+PGF_03520151	Morganella	375.45	51.44	Cell division protein FtsZ
+PGF_03609651	Morganella	640.30	140.09	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03642389	Morganella	317.31	45.67	putative membrane protein
+PGF_03679540	Morganella	219.23	34.99	Urease accessory protein UreF
+PGF_03708253	Morganella	122.31	14.48	Protein translocase subunit SecE
+PGF_03718818	Morganella	264.62	11.09	Cell division protein FtsQ
+PGF_03719269	Morganella	201.59	16.12	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03729040	Morganella	149.17	0.93	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03729098	Morganella	310.55	34.19	Sigma factor RpoE negative regulatory protein RseB precursor
+PGF_03729141	Morganella	184.93	13.67	UPF0301 protein YqgE
+PGF_03729660	Morganella	154.89	0.31	Sigma factor RpoE regulatory protein RseC
+PGF_03747721	Morganella	266.62	28.63	Iron-chelator utilization protein
+PGF_03750599	Morganella	234.30	45.29	Cell division coordinator CpoB
+PGF_03750600	Morganella	150.38	29.13	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Morganella	189.00	16.54	Heat shock protein GrpE
+PGF_03752215	Morganella	132.90	21.00	D-ribose pyranase (EC 5.4.99.62)
+PGF_03772086	Morganella	464.67	78.51	Sensor histidine kinase GlrK
+PGF_03787199	Morganella	181.90	0.56	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03797303	Morganella	509.03	170.77	Adenine deaminase (EC 3.5.4.2)
+PGF_03802211	Morganella	68.83	6.51	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811905	Morganella	339.77	51.51	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03828854	Morganella	159.77	28.45	Uncharacterized N-acetyltransferase YhbS
+PGF_03835760	Morganella	377.76	134.58	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03844705	Morganella	416.10	66.19	Anaerobic C4-dicarboxylate transporter DcuA
+PGF_03846068	Morganella	273.60	43.22	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03862500	Morganella	180.00	44.85	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03870438	Morganella	275.73	50.32	Uncharacterized peptidase U32 family member YhbV
+PGF_03919103	Morganella	224.25	58.78	hypothetical protein
+PGF_03931503	Morganella	427.66	44.64	Uncharacterized protein YadE
+PGF_03949149	Morganella	125.72	1.49	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_03974418	Morganella	509.30	114.28	Uncharacterized Na(+)/H(+) exchanger YjcE
+PGF_03995518	Morganella	86.60	2.19	Proposed lipoate regulatory protein YbeD
+PGF_04001842	Morganella	446.55	53.17	Sodium-dependent anion transporter family
+PGF_04005838	Morganella	392.00	85.08	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Morganella	200.70	30.88	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Morganella	145.67	19.45	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04012930	Morganella	105.87	14.70	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)
+PGF_04025415	Morganella	132.76	12.46	Large-conductance mechanosensitive channel
+PGF_04027970	Morganella	242.61	5.95	Putative L,D-transpeptidase YafK
+PGF_04048555	Morganella	326.53	100.82	UPF0118 inner membrane protein YdiK
+PGF_04132127	Morganella	274.50	41.62	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04151476	Morganella	182.10	0.56	16S rRNA processing protein RimM
+PGF_04154333	Morganella	85.38	2.46	Twin-arginine translocation protein TatA
+PGF_04162809	Morganella	181.97	45.63	Alkyl hydroperoxide reductase subunit C-like protein
+PGF_04210438	Morganella	288.47	98.05	hypothetical protein
+PGF_04258098	Morganella	288.47	63.05	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+PGF_04275878	Morganella	232.50	38.56	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04345693	Morganella	414.81	98.73	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04457297	Morganella	194.79	24.24	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04505269	Morganella	239.00	0.00	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Morganella	308.16	85.87	Rod shape-determining protein MreB
+PGF_04569524	Morganella	493.23	76.48	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04594665	Morganella	136.00	0.00	Regulator of nucleoside diphosphate kinase
+PGF_04636538	Morganella	89.77	11.69	DNA-binding protein HU-beta
+PGF_04655384	Morganella	291.38	86.98	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04679223	Morganella	139.00	10.77	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04724831	Morganella	321.17	76.19	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04737830	Morganella	296.58	64.31	Nickel transport system permease protein nikB2 (TC 3.A.1.5.3)
+PGF_04757308	Morganella	570.97	119.10	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Morganella	172.28	49.11	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04958295	Morganella	131.94	0.25	Flagellar biosynthesis protein FliS
+PGF_05048110	Morganella	244.93	47.77	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1)
+PGF_05111929	Morganella	506.31	153.73	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Morganella	819.72	270.24	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05154774	Morganella	168.00	0.00	UPF0716 protein FxsA
+PGF_05165078	Morganella	299.47	58.86	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05187258	Morganella	282.29	52.37	Cryptic sugar kinase Mak
+PGF_05195027	Morganella	438.17	84.18	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05232968	Morganella	327.69	17.50	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)
+PGF_05249824	Morganella	244.73	34.69	Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+PGF_05255412	Morganella	382.84	121.58	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05294175	Morganella	164.00	0.00	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Morganella	420.53	86.86	ATP-dependent RNA helicase RhlE
+PGF_05304567	Morganella	235.86	32.60	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+PGF_05463808	Morganella	273.55	63.72	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Morganella	435.84	157.89	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05493552	Morganella	90.00	0.00	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05511539	Morganella	212.27	41.66	Putative transmembrane protein
+PGF_05514477	Morganella	178.69	14.06	Chromate reductase (EC 1.6.5.2)
+PGF_05560886	Morganella	261.30	35.81	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Morganella	406.80	110.98	Protein translocase subunit SecY
+PGF_05598173	Morganella	348.10	74.04	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05626125	Morganella	303.48	75.16	Inner membrane protein YhjD
+PGF_05693577	Morganella	94.07	0.37	Integration host factor beta subunit
+PGF_05712128	Morganella	510.90	87.13	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Morganella	124.69	0.93	FIG138056: a glutathione-dependent thiol reductase
+PGF_05743061	Morganella	764.94	256.12	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05748227	Morganella	226.28	26.42	Uncharacterized conserved protein YfiP, contains DTW domain
+PGF_05751082	Morganella	193.86	30.47	Tetrathionate reductase two-component response regulator
+PGF_05760709	Morganella	413.53	103.30	Uric acid:proton symporter UacT
+PGF_05770898	Morganella	339.97	37.88	Selenide,water dikinase (EC 2.7.9.3)
+PGF_05872952	Morganella	240.72	23.47	Outer membrane beta-barrel assembly protein BamD
+PGF_05949521	Morganella	570.29	122.07	Protein translocase subunit SecD
+PGF_05971611	Morganella	369.32	88.66	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06025565	Morganella	290.03	55.56	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06027248	Morganella	457.06	98.61	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06050612	Morganella	198.44	47.17	Acyl-CoA:acetate CoA-transferase, alpha subunit (EC 2.8.3.8)
+PGF_06120144	Morganella	142.41	8.54	Ribosome association toxin RatA
+PGF_06150781	Morganella	447.52	33.47	ATP-dependent 23S rRNA helicase DbpA
+PGF_06152571	Morganella	244.76	14.41	Sulfate transporter, CysZ-type
+PGF_06180597	Morganella	132.59	28.20	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Morganella	94.45	9.60	Heat shock protein 60 family co-chaperone GroES
+PGF_06287652	Morganella	264.48	15.43	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06319722	Morganella	280.90	47.10	Manganese ABC transporter, inner membrane permease protein SitC
+PGF_06363819	Morganella	396.72	78.28	Paraquat-inducible protein A
+PGF_06380969	Morganella	641.93	128.82	hypothetical protein
+PGF_06429852	Morganella	210.90	0.56	Sigma factor RpoE negative regulatory protein RseA
+PGF_06453320	Morganella	143.31	0.66	Homoprotocatechuate degradative operon repressor
+PGF_06454307	Morganella	179.81	40.94	Acyl carrier protein phosphodiesterase (EC 3.1.4.14)
+PGF_06469881	Morganella	296.32	76.99	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06495818	Morganella	256.31	3.79	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06513690	Morganella	705.53	165.60	Pyruvate formate-lyase (EC 2.3.1.54)
+PGF_06530721	Morganella	226.93	46.92	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06562926	Morganella	308.00	0.00	Formate dehydrogenase formation protein FdhE
+PGF_06589185	Morganella	533.03	124.30	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06646716	Morganella	203.00	15.58	Hydrogenase-4 component A
+PGF_06648993	Morganella	74.93	11.77	Acyl carrier protein
+PGF_06683120	Morganella	165.41	7.51	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_06683449	Morganella	287.50	56.53	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06718352	Morganella	150.70	26.86	Cys-tRNA(Pro) deacylase YbaK
+PGF_06743812	Morganella	315.41	38.36	Hydrogenase-2 operon protein HybA
+PGF_06755829	Morganella	316.33	60.35	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06781655	Morganella	343.91	103.17	Benzoate transport protein
+PGF_06818208	Morganella	151.00	0.00	Tellurite resistance protein TerB
+PGF_06889881	Morganella	275.21	52.36	Flagellar motor rotation protein MotA
+PGF_07171792	Morganella	241.50	36.35	Glycerol-3-phosphate regulon repressor GlpR
+PGF_07220192	Morganella	313.55	45.03	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)
+PGF_07267579	Morganella	204.12	31.90	Chemotaxis response - phosphatase CheZ
+PGF_07344415	Morganella	179.07	0.26	Intracellular septation protein IspA
+PGF_08050537	Morganella	279.23	73.55	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08059713	Morganella	90.07	5.62	Phosphocarrier protein, nitrogen regulation associated
+PGF_08061357	Morganella	113.79	1.11	Iron-sulfur cluster insertion protein ErpA
+PGF_08126362	Morganella	438.50	108.87	DNA recombination protein RmuC
+PGF_08139865	Morganella	164.00	0.00	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_08177814	Morganella	403.38	49.99	Lipoprotein releasing system transmembrane protein LolE

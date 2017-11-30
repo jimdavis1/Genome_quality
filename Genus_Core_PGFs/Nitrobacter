@@ -1,0 +1,814 @@
+PGF_00000027	Nitrobacter	273.00	0.00	Uncharacterized protein YmdB
+PGF_00000273	Nitrobacter	1244.83	19.67	FIG00741759: hypothetical protein
+PGF_00000416	Nitrobacter	393.67	14.31	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000672	Nitrobacter	164.50	1.38	FIG00853798: hypothetical protein
+PGF_00002124	Nitrobacter	185.83	20.94	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002554	Nitrobacter	337.17	3.49	FIG017823: ATPase, MoxR family
+PGF_00002570	Nitrobacter	84.83	0.41	FIG018229: hypothetical protein
+PGF_00002585	Nitrobacter	219.00	2.97	FIG019175: putative membrane protein
+PGF_00002615	Nitrobacter	128.00	0.00	FIG020313: hypothetical protein
+PGF_00002885	Nitrobacter	125.17	4.49	FIG026765: hypothetical protein
+PGF_00002995	Nitrobacter	247.17	26.60	FIG033376: Heat shock protein DnaJ-like
+PGF_00003020	Nitrobacter	111.17	1.47	FIG035060: hypothetical protein
+PGF_00003448	Nitrobacter	403.00	35.77	FIG110192: hypothetical protein
+PGF_00003537	Nitrobacter	313.17	0.41	FIG139612: Possible conserved membrane protein
+PGF_00003664	Nitrobacter	294.17	2.86	FIG147869: Carbon-nitrogen hydrolase / Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00003689	Nitrobacter	288.50	39.44	FIG167255: hypothetical protein
+PGF_00003989	Nitrobacter	351.00	7.80	FOG: TPR repeat, SEL1 subfamily
+PGF_00005284	Nitrobacter	540.00	0.89	Flagellar M-ring protein FliF
+PGF_00005288	Nitrobacter	369.33	11.43	Flagellar P-ring protein FlgI
+PGF_00005348	Nitrobacter	370.17	6.11	Flagellar basal-body P-ring formation protein FlgA
+PGF_00005354	Nitrobacter	141.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005358	Nitrobacter	262.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Nitrobacter	722.00	17.73	Flagellar biosynthesis protein FlhA
+PGF_00005402	Nitrobacter	87.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Nitrobacter	613.33	0.82	Flagellar hook protein FlgE
+PGF_00005454	Nitrobacter	618.67	3.44	Flagellar hook-associated protein FlgK
+PGF_00005481	Nitrobacter	474.50	93.33	Flagellar hook-length control protein FliK
+PGF_00005614	Nitrobacter	140.33	0.82	Flagellar protein FliJ
+PGF_00005629	Nitrobacter	119.50	27.13	Flagellar assembly protein FliX
+PGF_00005989	Nitrobacter	245.33	1.37	Flp pilus assembly protein CpaD
+PGF_00006023	Nitrobacter	325.00	0.00	Type II/IV secretion system protein TadC, associated with Flp pilus assembly
+PGF_00006034	Nitrobacter	247.50	74.08	Flp pilus assembly protein TadD, contains TPR repeat
+PGF_00006100	Nitrobacter	302.00	22.05	tRNA-modifying protein YgfZ
+PGF_00006391	Nitrobacter	343.67	2.66	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006520	Nitrobacter	233.83	0.41	Fumarylpyruvate hydrolase (EC 3.7.1.5)
+PGF_00007012	Nitrobacter	365.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Nitrobacter	458.83	2.04	GTP-binding protein EngA
+PGF_00007026	Nitrobacter	227.67	16.52	GTP-binding protein EngB
+PGF_00007027	Nitrobacter	303.33	0.82	GTP-binding protein Era
+PGF_00007041	Nitrobacter	612.17	7.65	GTP-binding protein TypA/BipA
+PGF_00007235	Nitrobacter	168.00	0.00	GcrA cell cycle regulator
+PGF_00007252	Nitrobacter	188.00	1.10	Gene Transfer Agent (GTA) ORFG06
+PGF_00007272	Nitrobacter	70.00	0.00	Gene Transfer Agent associated protein Nwi_1162
+PGF_00007632	Nitrobacter	371.83	34.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00008061	Nitrobacter	379.83	2.04	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Nitrobacter	418.50	6.16	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008258	Nitrobacter	469.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Nitrobacter	558.83	0.41	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008335	Nitrobacter	476.50	6.12	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008393	Nitrobacter	406.17	5.31	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008498	Nitrobacter	575.67	2.73	Inner membrane protein, KefB/KefC family
+PGF_00008537	Nitrobacter	507.17	8.89	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Nitrobacter	326.67	1.21	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008651	Nitrobacter	250.00	0.00	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+PGF_00008780	Nitrobacter	338.83	2.04	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008846	Nitrobacter	636.83	18.83	Homodimeric efflux ABC transporter, ATP-binding/permease protein
+PGF_00008882	Nitrobacter	423.83	15.77	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00008885	Nitrobacter	399.17	61.25	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009500	Nitrobacter	184.00	0.00	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009510	Nitrobacter	348.00	0.00	Glycosyl transferase, group 2 family
+PGF_00009967	Nitrobacter	314.00	1.55	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010205	Nitrobacter	254.33	4.68	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Nitrobacter	757.83	10.09	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Nitrobacter	219.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010425	Nitrobacter	183.50	0.55	HAD-superfamily hydrolase subfamily IIIA
+PGF_00010692	Nitrobacter	164.33	11.45	HPr kinase/phosphorylase
+PGF_00010738	Nitrobacter	173.83	5.64	HTH-type transcriptional regulator PetP
+PGF_00011081	Nitrobacter	737.33	1.03	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011277	Nitrobacter	356.67	7.69	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_00011729	Nitrobacter	372.00	1.10	High-affinity leucine-specific transport system, periplasmic binding protein LivK (TC 3.A.1.4.1)
+PGF_00012084	Nitrobacter	176.00	7.67	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012264	Nitrobacter	353.83	15.28	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012378	Nitrobacter	531.00	9.51	Hopanoid 2-methyltransferase
+PGF_00012955	Nitrobacter	345.17	4.96	Hydroxymethylpyrimidine ABC transporter, substrate-binding component
+PGF_00012970	Nitrobacter	636.83	11.27	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013003	Nitrobacter	625.67	0.52	Bis-ABC ATPase YheS
+PGF_00013017	Nitrobacter	326.00	0.00	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013080	Nitrobacter	260.00	0.00	Hypothetical lactonase in carbon monoxide dehydrogenase cluster
+PGF_00013100	Nitrobacter	489.50	1.76	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013266	Nitrobacter	246.00	0.00	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013272	Nitrobacter	139.33	1.37	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013645	Nitrobacter	394.00	0.00	AFG1-like ATPase
+PGF_00014051	Nitrobacter	269.50	6.86	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014061	Nitrobacter	1169.00	11.76	Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits
+PGF_00014066	Nitrobacter	292.33	1.86	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)
+PGF_00014311	Nitrobacter	498.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014727	Nitrobacter	241.00	0.00	Integral membrane protein TerC
+PGF_00014855	Nitrobacter	325.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00015042	Nitrobacter	202.83	18.98	InterPro IPR001440 COGs COG0457
+PGF_00015216	Nitrobacter	184.33	4.08	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Nitrobacter	292.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015263	Nitrobacter	126.17	10.30	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_00015416	Nitrobacter	312.67	20.99	ATP-DEPENDENT PROTEASE SUBUNIT
+PGF_00015517	Nitrobacter	440.50	0.55	Iron-sulfur cluster assembly protein SufD
+PGF_00016003	Nitrobacter	345.17	21.67	L-alanine-DL-glutamate epimerase (EC 5.1.1.n1)
+PGF_00016338	Nitrobacter	416.67	17.96	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016385	Nitrobacter	90.00	0.00	LSU ribosomal protein L27p
+PGF_00016406	Nitrobacter	58.67	5.72	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016418	Nitrobacter	50.33	15.51	LSU ribosomal protein L34p
+PGF_00016425	Nitrobacter	41.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016452	Nitrobacter	201.67	0.52	LSU ribosomal protein L9p
+PGF_00016495	Nitrobacter	257.67	6.53	Lactam utilization protein LamB
+PGF_00016919	Nitrobacter	224.50	0.55	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017065	Nitrobacter	104.50	2.95	Lipid A biosynthesis-like protein
+PGF_00017109	Nitrobacter	395.83	4.79	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017389	Nitrobacter	484.50	2.81	ATP-dependent RNA helicase Atu1833
+PGF_00017464	Nitrobacter	232.17	0.98	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017939	Nitrobacter	365.83	0.41	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018952	Nitrobacter	322.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018965	Nitrobacter	731.33	7.12	Malate synthase G (EC 2.3.3.9)
+PGF_00020172	Nitrobacter	281.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020735	Nitrobacter	273.67	0.82	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020981	Nitrobacter	538.00	9.80	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Nitrobacter	294.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021019	Nitrobacter	133.83	4.12	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00021023	Nitrobacter	631.50	4.32	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021262	Nitrobacter	286.83	5.00	Methyltransferase type 11
+PGF_00021809	Nitrobacter	181.50	1.22	Mlr4354 like protein
+PGF_00021883	Nitrobacter	220.00	7.35	FIG00449901: hypothetical protein
+PGF_00022467	Nitrobacter	187.00	0.00	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00022479	Nitrobacter	215.50	8.36	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022529	Nitrobacter	534.00	0.00	Molybdopterin molybdenumtransferase (EC 2.10.1.1) / Molybdenum cofactor cytidylyltransferase (EC 2.7.7.76)
+PGF_00022565	Nitrobacter	83.00	0.00	Molybdopterin synthase sulfur carrier subunit
+PGF_00022605	Nitrobacter	227.00	4.10	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022665	Nitrobacter	355.50	1.76	MotA/TolQ/ExbB proton channel family protein, probably associated with flagella
+PGF_00022666	Nitrobacter	342.17	0.41	MotB-like protein Atu3746
+PGF_00023591	Nitrobacter	357.00	0.00	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023608	Nitrobacter	258.67	4.84	Abortive infection protein
+PGF_00023739	Nitrobacter	333.67	4.08	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023821	Nitrobacter	198.83	5.00	N-acetylglutamate synthase related protein
+PGF_00024234	Nitrobacter	389.17	0.41	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Nitrobacter	161.83	0.41	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Nitrobacter	368.17	2.64	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024322	Nitrobacter	465.17	0.41	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024479	Nitrobacter	705.83	103.01	NAD-dependent malic enzyme (EC 1.1.1.38)
+PGF_00024509	Nitrobacter	418.83	0.41	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024692	Nitrobacter	247.00	9.32	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Nitrobacter	211.83	0.41	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Nitrobacter	102.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Nitrobacter	500.17	4.49	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Nitrobacter	472.00	14.21	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024801	Nitrobacter	137.50	3.67	NADH:ubiquinone oxidoreductase 17.2 kD subunit
+PGF_00024855	Nitrobacter	150.33	8.33	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025003	Nitrobacter	282.83	5.49	NLP/P60 family lipoprotein
+PGF_00025853	Nitrobacter	621.00	7.46	Acetyl-CoA hydrolase/transferase family protein
+PGF_00026115	Nitrobacter	194.00	0.00	NnrU family protein, required for expression of nitric oxide and nitrite reductases (Nir and Nor)
+PGF_00026177	Nitrobacter	158.50	0.55	Nodulation protein N
+PGF_00026279	Nitrobacter	318.00	2.19	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026615	Nitrobacter	298.00	0.00	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026888	Nitrobacter	621.00	9.86	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00027464	Nitrobacter	134.00	0.00	Organic hydroperoxide resistance protein
+PGF_00027831	Nitrobacter	162.00	8.65	Outer membrane beta-barrel assembly protein BamE
+PGF_00028352	Nitrobacter	376.17	48.80	Outer membrane protein, OmpA/MotB family
+PGF_00029111	Nitrobacter	885.33	323.07	PAS/PAC sensor signal transduction histidine kinase
+PGF_00030246	Nitrobacter	330.67	15.78	Penicillin-insensitive murein endopeptidase
+PGF_00030498	Nitrobacter	446.17	4.83	Peptidase family M23
+PGF_00030640	Nitrobacter	359.17	1.47	Peptide chain release factor 1
+PGF_00030643	Nitrobacter	543.67	7.34	Peptide chain release factor 3
+PGF_00031127	Nitrobacter	222.33	5.72	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00032637	Nitrobacter	210.00	0.00	Phage repressor
+PGF_00032999	Nitrobacter	198.67	2.16	PhbF
+PGF_00033253	Nitrobacter	281.00	0.00	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Nitrobacter	320.50	79.98	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033293	Nitrobacter	244.17	0.41	Phosphatidylcholine synthase (EC 2.7.8.24)
+PGF_00033363	Nitrobacter	241.67	18.68	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033369	Nitrobacter	751.83	7.28	Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated
+PGF_00033392	Nitrobacter	935.83	18.21	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033496	Nitrobacter	470.83	68.99	Phosphoglucosamine mutase (EC 5.4.2.10) / Phosphomannomutase (EC 5.4.2.8)
+PGF_00033511	Nitrobacter	398.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033545	Nitrobacter	197.00	0.00	Phosphoglycerate mutase family (Rhiz)
+PGF_00033729	Nitrobacter	268.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033877	Nitrobacter	153.67	47.48	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033954	Nitrobacter	356.83	0.41	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033968	Nitrobacter	216.83	0.41	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034548	Nitrobacter	457.00	0.00	Pole remodelling regulatory diguanylate cyclase
+PGF_00034647	Nitrobacter	606.50	7.15	Polyhydroxyalkanoic acid synthase
+PGF_00034972	Nitrobacter	179.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Nitrobacter	374.33	29.85	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035721	Nitrobacter	435.17	0.41	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00036362	Nitrobacter	230.00	0.00	Aerobic carbon monoxide dehydrogenase molybdenum cofactor insertion protein CoxF
+PGF_00036513	Nitrobacter	332.00	0.00	Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)
+PGF_00036580	Nitrobacter	132.17	2.04	Protein translocase subunit YajC
+PGF_00037171	Nitrobacter	333.67	0.52	Probable low-affinity inorganic phosphate transporter
+PGF_00037835	Nitrobacter	706.17	22.06	Protease II (EC 3.4.21.83)
+PGF_00038364	Nitrobacter	234.83	0.75	Protein of unknown function DUF541
+PGF_00038367	Nitrobacter	137.00	0.00	Protein of unknown function DUF55
+PGF_00038674	Nitrobacter	357.67	18.47	Protein translocase subunit SecF
+PGF_00038782	Nitrobacter	254.67	0.52	Protein-disulfide isomerase
+PGF_00038893	Nitrobacter	350.50	0.55	Pseudaminic acid synthase (EC 2.5.1.97)
+PGF_00039342	Nitrobacter	273.83	32.25	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040151	Nitrobacter	449.00	0.00	Putative amidase R03093
+PGF_00044963	Nitrobacter	230.67	9.00	YdcF-like protein
+PGF_00045738	Nitrobacter	304.00	0.00	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045833	Nitrobacter	214.50	3.67	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Nitrobacter	258.83	15.79	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045941	Nitrobacter	699.50	13.62	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045991	Nitrobacter	478.00	0.00	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046060	Nitrobacter	210.00	0.00	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046915	Nitrobacter	382.67	9.18	Radical SAM domain protein
+PGF_00047734	Nitrobacter	219.50	66.64	Respiratory nitrate reductase gamma chain (EC 1.7.99.4)
+PGF_00048556	Nitrobacter	236.17	19.85	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048782	Nitrobacter	317.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Nitrobacter	633.83	134.26	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048842	Nitrobacter	336.00	15.84	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048926	Nitrobacter	187.00	0.00	Ribosome recycling factor
+PGF_00048933	Nitrobacter	90.67	8.36	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00049304	Nitrobacter	382.50	18.37	S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284)
+PGF_00049362	Nitrobacter	360.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049533	Nitrobacter	247.67	2.07	SAM-dependent methyltransferase 2, in cluster with Hydroxyacylglutathione hydrolase
+PGF_00049555	Nitrobacter	295.00	17.10	SAM-dependent methyltransferase, BioC-like
+PGF_00049849	Nitrobacter	110.00	0.00	SSU ribosomal protein S16p
+PGF_00049858	Nitrobacter	79.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049901	Nitrobacter	142.67	4.08	SSU ribosomal protein S6p
+PGF_00049909	Nitrobacter	158.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050000	Nitrobacter	392.33	0.82	Saccharopine dehydrogenase
+PGF_00050290	Nitrobacter	278.17	0.75	Segregation and condensation protein A
+PGF_00050484	Nitrobacter	492.17	0.98	Sensor histidine kinase
+PGF_00050557	Nitrobacter	611.83	13.54	Sensor histidine kinase ChvG (EC 2.7.3.-)
+PGF_00050995	Nitrobacter	503.00	1.67	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Nitrobacter	488.33	18.35	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Nitrobacter	512.50	1.97	Signal recognition particle protein Ffh
+PGF_00052540	Nitrobacter	181.00	12.55	Similar to TadZ/CpaE, associated with Flp pilus assembly
+PGF_00052720	Nitrobacter	162.67	0.82	Similar to secretin RcpA/CpaC, associated with Flp pilus assembly
+PGF_00052943	Nitrobacter	325.83	10.59	Site-specific tyrosine recombinase XerD
+PGF_00052978	Nitrobacter	365.83	3.37	Aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
+PGF_00053548	Nitrobacter	146.33	24.18	Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)
+PGF_00053966	Nitrobacter	418.83	2.04	Aminopeptidase S (Leu, Val, Phe, Tyr preference) (EC 3.4.11.24)
+PGF_00054476	Nitrobacter	134.67	0.82	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Nitrobacter	260.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Nitrobacter	400.00	8.37	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054541	Nitrobacter	216.00	0.00	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00054903	Nitrobacter	730.83	12.16	Amylo-alpha-1,6-glucosidase
+PGF_00054961	Nitrobacter	273.50	13.47	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00054964	Nitrobacter	349.00	0.00	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+PGF_00054986	Nitrobacter	269.50	9.31	Sulfate transport system permease protein CysT
+PGF_00054988	Nitrobacter	290.50	1.64	Sulfate transport system permease protein CysW
+PGF_00055049	Nitrobacter	612.17	2.14	Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+PGF_00055052	Nitrobacter	576.00	0.00	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055099	Nitrobacter	142.17	0.41	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055350	Nitrobacter	308.83	16.79	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055966	Nitrobacter	368.17	5.81	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Nitrobacter	333.33	5.13	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056341	Nitrobacter	445.50	5.54	Tetratricopeptide TPR_2
+PGF_00056544	Nitrobacter	260.33	0.82	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Nitrobacter	329.17	19.19	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056828	Nitrobacter	723.83	5.64	Anthranilate synthase, aminase component (EC 4.1.3.27) / Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00057016	Nitrobacter	143.33	11.88	Tol biopolymer transport system, TolR protein
+PGF_00057032	Nitrobacter	156.67	8.96	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057385	Nitrobacter	256.00	0.00	Trans-aconitate 2-methyltransferase (EC 2.1.1.144)
+PGF_00057401	Nitrobacter	953.33	6.06	Transaldolase (EC 2.2.1.2) / Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00057402	Nitrobacter	150.67	0.52	Transamidase GatB domain protein
+PGF_00058555	Nitrobacter	99.00	1.10	Antibiotic biosynthesis monooxygenase
+PGF_00059036	Nitrobacter	81.00	0.00	Transcriptional regulator, AsnC family
+PGF_00060398	Nitrobacter	662.50	7.48	Transketolase (EC 2.2.1.1)
+PGF_00060421	Nitrobacter	148.50	61.55	Translation elongation factor P
+PGF_00060424	Nitrobacter	346.67	0.82	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Nitrobacter	307.00	0.00	Translation elongation factor Ts
+PGF_00060431	Nitrobacter	92.83	0.41	Translation initiation factor 1
+PGF_00061922	Nitrobacter	415.67	2.07	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062299	Nitrobacter	510.67	0.52	Two-component oxygen-sensor histidine kinase FixL
+PGF_00063938	Nitrobacter	281.50	8.36	UDP-2,3-diacylglucosamine pyrophosphatase
+PGF_00063944	Nitrobacter	319.33	3.27	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063974	Nitrobacter	307.17	4.83	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Nitrobacter	374.67	7.74	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Nitrobacter	467.00	0.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064131	Nitrobacter	338.00	1.55	UDP-glucuronate 5'-epimerase (EC 5.1.3.12)
+PGF_00064169	Nitrobacter	325.67	4.18	Arginase (EC 3.5.3.1)
+PGF_00064280	Nitrobacter	175.50	20.33	UPF0260 protein YcgN
+PGF_00064436	Nitrobacter	177.67	13.72	Ubiquinol-cytochrome C chaperone
+PGF_00064447	Nitrobacter	686.67	0.82	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2) / Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_00064933	Nitrobacter	551.00	2.37	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_00065784	Nitrobacter	83.00	0.00	Uncharacterized protein, Bsl7517 homolog
+PGF_00065887	Nitrobacter	252.00	0.00	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066016	Nitrobacter	645.00	2.19	AsmA family protein
+PGF_00066270	Nitrobacter	337.50	44.67	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066294	Nitrobacter	248.00	0.00	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066568	Nitrobacter	174.67	3.08	VgrG protein
+PGF_00066906	Nitrobacter	317.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066914	Nitrobacter	765.50	2.17	Xanthine dehydrogenase family protein, large subunit
+PGF_00067188	Nitrobacter	344.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067277	Nitrobacter	390.83	10.21	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067401	Nitrobacter	306.83	0.98	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067466	Nitrobacter	553.17	118.87	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067547	Nitrobacter	163.33	0.82	Zinc uptake regulation protein Zur
+PGF_00067554	Nitrobacter	490.83	7.76	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068016	Nitrobacter	233.17	20.69	AttE component of AttEFGH ABC transport system
+PGF_00068045	Nitrobacter	357.67	10.61	AttH component of AttEFGH ABC transport system
+PGF_00069354	Nitrobacter	84.00	3.29	hypothetical protein
+PGF_00070350	Nitrobacter	117.33	1.63	cytochrome c, class IC
+PGF_00071075	Nitrobacter	260.50	7.89	Exopolysacchride production negative regulator ExoR
+PGF_00071337	Nitrobacter	121.00	0.00	Flagellar synthesis regulatory protein FlaF
+PGF_00071938	Nitrobacter	160.00	0.00	Bacterioferritin (EC 1.16.3.1)
+PGF_00078228	Nitrobacter	71.50	23.76	hypothetical protein
+PGF_00082194	Nitrobacter	173.50	8.98	hypothetical protein
+PGF_00084680	Nitrobacter	370.17	12.88	Type II restriction adenine-specific methylase (EC 2.1.1.72)
+PGF_00096702	Nitrobacter	95.00	5.59	hypothetical protein
+PGF_00101737	Nitrobacter	249.33	6.22	hypothetical protein
+PGF_00110427	Nitrobacter	207.33	43.29	hypothetical protein
+PGF_00111200	Nitrobacter	320.83	4.49	hypothetical protein
+PGF_00114030	Nitrobacter	200.17	11.77	hypothetical protein
+PGF_00129515	Nitrobacter	135.67	1.03	hypothetical protein
+PGF_00136304	Nitrobacter	72.67	8.80	hypothetical protein
+PGF_00138076	Nitrobacter	100.00	0.00	hypothetical protein
+PGF_00171550	Nitrobacter	213.17	13.12	hypothetical protein
+PGF_00183198	Nitrobacter	115.33	1.63	hypothetical protein
+PGF_00185855	Nitrobacter	518.00	0.00	hypothetical protein
+PGF_00188425	Nitrobacter	125.00	18.13	hypothetical protein
+PGF_00193606	Nitrobacter	198.33	0.82	hypothetical protein
+PGF_00195504	Nitrobacter	88.00	0.00	hypothetical protein
+PGF_00204295	Nitrobacter	283.33	2.25	Zinc finger-containing protein CC2215
+PGF_00208909	Nitrobacter	245.83	1.83	hypothetical protein
+PGF_00213879	Nitrobacter	68.00	0.00	hypothetical protein
+PGF_00222644	Nitrobacter	593.50	12.00	ABC transporter, substrate-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00231510	Nitrobacter	109.00	0.00	hypothetical protein
+PGF_00233807	Nitrobacter	84.17	4.31	hypothetical protein
+PGF_00249373	Nitrobacter	115.50	6.69	hypothetical protein
+PGF_00251037	Nitrobacter	397.17	1.33	hypothetical protein
+PGF_00253445	Nitrobacter	213.17	17.17	hypothetical protein
+PGF_00261173	Nitrobacter	405.17	12.66	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00271703	Nitrobacter	97.50	0.55	hypothetical protein
+PGF_00284068	Nitrobacter	176.33	2.34	Copper metallochaperone PCu(A)C, inserts Cu(I) into cytochrome oxidase subunit II
+PGF_00285620	Nitrobacter	207.67	4.41	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00291367	Nitrobacter	125.00	0.00	hypothetical protein
+PGF_00297353	Nitrobacter	78.83	8.66	hypothetical protein
+PGF_00298587	Nitrobacter	176.67	5.35	hypothetical protein
+PGF_00306676	Nitrobacter	112.83	7.28	hypothetical protein
+PGF_00327214	Nitrobacter	87.83	0.41	hypothetical protein
+PGF_00341989	Nitrobacter	179.50	0.55	hypothetical protein
+PGF_00349323	Nitrobacter	82.00	0.00	hypothetical protein
+PGF_00350921	Nitrobacter	341.00	0.00	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00362893	Nitrobacter	165.17	14.12	hypothetical protein
+PGF_00364341	Nitrobacter	169.67	0.52	hypothetical protein
+PGF_00366068	Nitrobacter	282.17	15.64	hypothetical protein
+PGF_00372473	Nitrobacter	396.17	1.83	hypothetical protein
+PGF_00379374	Nitrobacter	192.83	6.11	hypothetical protein
+PGF_00380996	Nitrobacter	120.00	11.73	hypothetical protein
+PGF_00383928	Nitrobacter	151.50	1.22	hypothetical protein
+PGF_00392219	Nitrobacter	98.17	2.04	hypothetical protein
+PGF_00399614	Nitrobacter	260.67	23.56	Adenosylhopane nucleosidase, HpnG
+PGF_00399758	Nitrobacter	263.00	12.49	hypothetical protein that often co-occurs with aconitase
+PGF_00400612	Nitrobacter	715.83	2.99	lipopolysaccharide biosynthesis
+PGF_00404078	Nitrobacter	161.33	1.51	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404194	Nitrobacter	501.50	16.08	probable exported protein STY0357
+PGF_00404256	Nitrobacter	451.17	0.41	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00405090	Nitrobacter	374.83	1.83	Bll0419 protein
+PGF_00406424	Nitrobacter	534.50	37.04	putative beta (1-6) glucans synthase
+PGF_00406609	Nitrobacter	470.00	12.55	Putative Zn-dependent protease, contains TPR repeats
+PGF_00406692	Nitrobacter	986.33	2.07	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00409898	Nitrobacter	191.33	30.85	putative outer-membrane immunogenic protein precursor
+PGF_00411408	Nitrobacter	389.00	0.00	Radical SAM protein required for addition of adenosine to hopane skeleton, HpnH
+PGF_00412988	Nitrobacter	80.00	21.37	Bsl0560 protein
+PGF_00413203	Nitrobacter	145.00	19.20	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Nitrobacter	246.33	18.46	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Nitrobacter	341.00	19.24	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Nitrobacter	246.67	4.08	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413298	Nitrobacter	423.33	1.51	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413351	Nitrobacter	147.00	2.45	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00414926	Nitrobacter	415.00	7.35	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Nitrobacter	284.17	0.41	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415481	Nitrobacter	374.83	0.41	SAM-dependent methyltransferase, MidA
+PGF_00415486	Nitrobacter	165.33	13.06	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Nitrobacter	229.67	3.67	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415840	Nitrobacter	122.33	3.67	COGs COG3339
+PGF_00416115	Nitrobacter	315.67	6.28	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Nitrobacter	540.67	5.24	CTP synthase (EC 6.3.4.2)
+PGF_00416674	Nitrobacter	358.00	0.00	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416993	Nitrobacter	126.00	0.00	Cell division protein FtsL
+PGF_00417043	Nitrobacter	336.33	8.87	Cell division protein FtsQ
+PGF_00417577	Nitrobacter	161.67	12.37	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417580	Nitrobacter	378.50	22.22	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417755	Nitrobacter	258.33	2.07	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417821	Nitrobacter	283.17	0.41	Chorismate mutase I (EC 5.4.99.5)
+PGF_00417840	Nitrobacter	372.33	11.94	Chorismate synthase (EC 4.2.3.5)
+PGF_00418128	Nitrobacter	243.83	25.98	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418178	Nitrobacter	448.00	4.43	Co2 transporter containing CBS domains
+PGF_00418583	Nitrobacter	212.83	8.61	Cold shock protein of CSP family => dimer
+PGF_00418658	Nitrobacter	216.33	17.97	Colicin V production protein
+PGF_00419420	Nitrobacter	471.00	7.35	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419627	Nitrobacter	297.33	6.71	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419687	Nitrobacter	387.50	14.05	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
+PGF_00419702	Nitrobacter	176.00	11.82	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419886	Nitrobacter	286.33	2.94	3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2)
+PGF_00419908	Nitrobacter	217.33	12.44	Cyclic nucleotide-binding domain (CNMP-BD) protein
+PGF_00419913	Nitrobacter	172.00	3.16	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Nitrobacter	274.17	0.41	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420152	Nitrobacter	658.00	1.26	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420155	Nitrobacter	210.83	14.78	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+PGF_00420447	Nitrobacter	225.00	0.00	Cytochrome c, class I
+PGF_00420482	Nitrobacter	248.83	14.78	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420731	Nitrobacter	500.17	0.75	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420762	Nitrobacter	478.67	1.03	D-2-hydroxyglutarate dehydrogenase (EC 1.1.99.2)
+PGF_00420798	Nitrobacter	331.00	4.43	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420957	Nitrobacter	428.00	0.00	D-glycerate 2-kinase (EC 2.7.1.165)
+PGF_00421489	Nitrobacter	1168.00	15.18	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421738	Nitrobacter	257.17	4.62	DNA recombination and repair protein RecO
+PGF_00421792	Nitrobacter	483.33	1.37	DNA repair protein RadA
+PGF_00421796	Nitrobacter	560.17	2.04	DNA repair protein RecN
+PGF_00421908	Nitrobacter	308.83	14.48	DNA uptake lipoprotein ComL
+PGF_00422163	Nitrobacter	233.00	0.00	DNA-binding response regulator ChvI
+PGF_00422530	Nitrobacter	125.83	3.06	DUF488 family protein SAV0238
+PGF_00422651	Nitrobacter	338.83	6.94	Decaprenyl diphosphate synthase (EC 2.5.1.91)
+PGF_00423097	Nitrobacter	293.67	4.59	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423335	Nitrobacter	472.33	8.48	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Nitrobacter	121.00	0.00	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423533	Nitrobacter	311.17	14.70	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Nitrobacter	134.83	6.82	DksA family protein PA5536 (no Zn-finger)
+PGF_00423748	Nitrobacter	379.50	8.57	Dolichol-phosphate mannosyltransferase (EC 2.4.1.83) homolog
+PGF_00423927	Nitrobacter	309.67	2.94	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424123	Nitrobacter	565.00	14.30	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424447	Nitrobacter	338.83	8.73	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424971	Nitrobacter	650.50	76.10	Excinuclease ABC subunit C
+PGF_00425665	Nitrobacter	256.00	0.00	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425684	Nitrobacter	250.33	5.72	Probable transcriptional regulatory protein YebC
+PGF_00425847	Nitrobacter	216.83	2.40	FIG003437: hypothetical with DnaJ-like domain
+PGF_00425857	Nitrobacter	687.00	0.00	FIG003492: Threonine dehydrogenase and related Zn-dependent dehydrogenases
+PGF_00425900	Nitrobacter	936.83	0.98	FIG003603: membrane protein, putative
+PGF_00425974	Nitrobacter	396.50	10.52	FIG00439845: hypothetical protein
+PGF_00425990	Nitrobacter	169.50	1.76	FIG00443378: hypothetical protein
+PGF_00425993	Nitrobacter	406.17	2.04	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Nitrobacter	408.00	17.09	FIG004453: protein YceG like
+PGF_00426044	Nitrobacter	304.00	0.00	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426196	Nitrobacter	72.00	0.00	hypothetical protein
+PGF_00426236	Nitrobacter	430.17	0.41	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426620	Nitrobacter	114.00	0.00	FIG005495: hypothetical protein
+PGF_00426629	Nitrobacter	133.50	1.22	5-methyl-dCTP pyrophosphohydrolase (EC 3.6.1.-)
+PGF_00426722	Nitrobacter	1299.33	16.05	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426871	Nitrobacter	200.33	0.82	50S ribosomal protein acetyltransferase
+PGF_00427299	Nitrobacter	335.17	4.12	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00435859	Nitrobacter	133.00	0.00	PTS system permease (IIAMan), nitrogen regulatory IIA protein
+PGF_00438421	Nitrobacter	286.00	0.00	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00497557	Nitrobacter	521.50	0.55	Uncharacterized protein YjgR
+PGF_00502238	Nitrobacter	341.50	3.67	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00538878	Nitrobacter	268.00	3.16	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00560231	Nitrobacter	318.50	83.08	hypothetical protein
+PGF_00560630	Nitrobacter	190.50	1.76	hypothetical protein
+PGF_00563003	Nitrobacter	315.67	7.06	import inner membrane translocase, subunit Tim44
+PGF_00563275	Nitrobacter	62.50	1.22	hypothetical protein
+PGF_00564266	Nitrobacter	794.17	16.24	FIG01004475: hypothetical protein
+PGF_00564614	Nitrobacter	262.00	0.00	Phosphoesterase, PA-phosphatase related
+PGF_00564636	Nitrobacter	203.83	3.76	Transglutaminase-like cysteine peptidase
+PGF_00564735	Nitrobacter	256.50	11.40	hypothetical protein
+PGF_00564759	Nitrobacter	161.00	12.74	hypothetical protein
+PGF_00565351	Nitrobacter	222.00	0.00	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00565506	Nitrobacter	100.17	1.17	hypothetical protein
+PGF_00565645	Nitrobacter	736.83	47.08	TonB-dependent receptor, plug
+PGF_00570054	Nitrobacter	204.83	0.41	Two-component nitrogen fixation transcriptional regulator FixJ
+PGF_00595771	Nitrobacter	291.50	0.84	Squalene synthase (EC 2.5.1.21)
+PGF_00599203	Nitrobacter	506.00	0.00	L-amino acid ABC transporter (Glu/Asp/His/...), permease protein 2 AapM
+PGF_00615323	Nitrobacter	196.33	1.03	Phosphoheptose isomerase 1 (EC 5.3.1.-)
+PGF_00618776	Nitrobacter	428.00	17.20	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00624653	Nitrobacter	401.67	2.73	Uncharacterized oxidoreductase
+PGF_00644953	Nitrobacter	317.83	3.31	DnaJ-class molecular chaperone CbpA
+PGF_00648054	Nitrobacter	232.00	12.25	Tol-Pal system protein TolQ
+PGF_00649271	Nitrobacter	96.83	2.86	Cell division protein BolA
+PGF_00655358	Nitrobacter	474.67	37.72	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00657409	Nitrobacter	214.67	45.40	hypothetical protein
+PGF_00664069	Nitrobacter	441.00	0.00	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Nitrobacter	117.67	30.79	Ribosomal silencing factor RsfA
+PGF_00670694	Nitrobacter	201.00	0.00	2-hydroxychromene-2-carboxylate isomerase family protein
+PGF_00696158	Nitrobacter	1788.50	69.00	Kinesin-like protein
+PGF_00701716	Nitrobacter	410.00	0.89	hypothetical protein
+PGF_00706032	Nitrobacter	200.00	7.62	FIG139438: lipoprotein B
+PGF_00709443	Nitrobacter	177.33	6.65	Twin-arginine translocation protein TatB
+PGF_00717495	Nitrobacter	433.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00725839	Nitrobacter	807.00	30.71	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734221	Nitrobacter	107.00	0.00	Xanthine and CO dehydrogenases maturation factor, XdhC/CoxF family
+PGF_00743180	Nitrobacter	465.00	30.15	Multidrug and toxin extrusion (MATE) family efflux pump YdhE/NorM, homolog
+PGF_00746828	Nitrobacter	225.67	17.00	thiamine-phosphate pyrophosphorylase, putative
+PGF_00776587	Nitrobacter	110.00	0.00	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Nitrobacter	242.83	6.08	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Nitrobacter	185.67	0.82	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00816319	Nitrobacter	143.83	19.19	Gene Transfer Agent (GTA) ORFG08
+PGF_00827555	Nitrobacter	648.50	87.46	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00830346	Nitrobacter	641.00	0.00	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4) / Adenylylsulfate kinase (EC 2.7.1.25)
+PGF_00853393	Nitrobacter	271.00	56.34	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00909459	Nitrobacter	168.00	10.84	Flagellar basal body-associated protein FliL
+PGF_00925844	Nitrobacter	345.83	6.85	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Nitrobacter	597.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00937511	Nitrobacter	369.00	0.00	Prephenate dehydratase-associated ABC transporter, permease protein 1
+PGF_00944801	Nitrobacter	198.17	30.90	Cytochrome c, class I precursor
+PGF_00957419	Nitrobacter	165.00	6.78	Putative pre-16S rRNA nuclease Yqg
+PGF_00961697	Nitrobacter	292.17	36.33	Glycosyl transferase, family 2
+PGF_00961757	Nitrobacter	734.00	0.00	lipopolysaccharide biosynthesis protein
+PGF_00963764	Nitrobacter	136.83	9.20	hypothetical protein
+PGF_00963869	Nitrobacter	128.00	13.48	protein of unknown function DUF1236
+PGF_00964968	Nitrobacter	84.00	0.00	hypothetical protein
+PGF_00967294	Nitrobacter	417.67	4.68	hypothetical protein
+PGF_00971332	Nitrobacter	233.00	0.63	protein of unknown function DUF1013
+PGF_00973754	Nitrobacter	268.33	1.86	hypothetical protein
+PGF_00975193	Nitrobacter	435.67	9.75	hypothetical protein
+PGF_00975920	Nitrobacter	159.17	0.41	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_00979842	Nitrobacter	76.83	1.17	hypothetical protein
+PGF_00980481	Nitrobacter	282.67	37.75	ATP/GTP-binding site motif A
+PGF_00980529	Nitrobacter	415.67	3.44	Uncharacterized MFS-type transporter
+PGF_00983085	Nitrobacter	153.67	3.08	hypothetical protein
+PGF_01000161	Nitrobacter	298.33	9.54	peptidase S49
+PGF_01001885	Nitrobacter	103.33	6.53	protein of unknown function DUF167
+PGF_01007019	Nitrobacter	296.17	1.33	hypothetical protein
+PGF_01008498	Nitrobacter	111.00	0.00	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Nitrobacter	255.00	0.00	Flagellar basal-body rod protein FlgF
+PGF_01022908	Nitrobacter	306.50	5.96	Carbon monoxide oxidation accessory protein CoxD
+PGF_01026260	Nitrobacter	95.50	0.55	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_01030712	Nitrobacter	245.17	1.83	Protein of unknown function DUF374
+PGF_01032840	Nitrobacter	544.17	1.33	Prephenate dehydratase-associated ABC transporter, ATP-binding protein / Prephenate dehydratase-associated ABC transporter, ATP-binding protein
+PGF_01058223	Nitrobacter	456.67	5.16	Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+PGF_01084030	Nitrobacter	844.67	10.76	Outer membrane protein assembly factor YaeT
+PGF_01092098	Nitrobacter	168.33	2.94	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01101526	Nitrobacter	383.00	0.00	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01169329	Nitrobacter	816.50	2.26	Glycosyl transferase, family 2
+PGF_01172404	Nitrobacter	194.50	8.55	Conserved hypothetical protein, gene in Ubiquinol-cytochrome C chaperone locus
+PGF_01172485	Nitrobacter	440.00	0.00	Cell division protein FtsA
+PGF_01173493	Nitrobacter	419.67	6.53	D-amino acid dehydrogenase (EC 1.4.99.6)
+PGF_01232770	Nitrobacter	163.00	0.00	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01234013	Nitrobacter	326.83	2.04	YgfD: protein that forms a complex with the methylmalonyl-CoA mutase in a pathway for conversion of succinyl-CoA to propionyl-CoA
+PGF_01291823	Nitrobacter	208.00	7.59	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01323228	Nitrobacter	199.17	5.38	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Nitrobacter	227.83	7.76	Molybdenum ABC transporter permease protein ModB
+PGF_01364427	Nitrobacter	205.17	0.41	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01421534	Nitrobacter	235.17	5.12	LSU ribosomal protein L25p
+PGF_01423501	Nitrobacter	158.00	0.00	Transcription elongation factor GreA
+PGF_01444546	Nitrobacter	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01446257	Nitrobacter	278.33	0.52	Hydroxymethylpyrimidine ABC transporter, transmembrane component
+PGF_01448031	Nitrobacter	108.00	2.19	Integration host factor alpha subunit
+PGF_01466742	Nitrobacter	426.00	12.17	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466973	Nitrobacter	626.50	5.92	Peptidase S8 and S53, subtilisin, kexin, sedolisin
+PGF_01479259	Nitrobacter	376.83	0.41	Glycosyl transferase, group 1
+PGF_01512690	Nitrobacter	288.17	0.41	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01514111	Nitrobacter	328.17	43.73	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01532393	Nitrobacter	736.33	8.16	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Nitrobacter	135.00	0.00	Flagellar basal-body rod protein FlgB
+PGF_01599021	Nitrobacter	175.00	0.00	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Nitrobacter	229.67	0.52	Flagellar basal-body rod modification protein FlgD
+PGF_01614738	Nitrobacter	75.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Nitrobacter	331.67	6.50	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01682537	Nitrobacter	139.00	0.00	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01745391	Nitrobacter	384.50	23.27	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01768042	Nitrobacter	416.50	12.50	Type II/IV secretion system ATPase TadZ/CpaE, associated with Flp pilus assembly
+PGF_01777142	Nitrobacter	218.33	8.55	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01839055	Nitrobacter	338.67	1.03	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01842781	Nitrobacter	557.00	0.00	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Nitrobacter	291.17	11.51	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01909543	Nitrobacter	788.17	0.98	Exporter protein, RND family
+PGF_01912476	Nitrobacter	283.67	6.74	Phytoene synthase (EC 2.5.1.32)
+PGF_01916207	Nitrobacter	243.17	15.82	Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion
+PGF_01920872	Nitrobacter	173.33	1.86	Aspartyl protease
+PGF_01949788	Nitrobacter	208.00	0.00	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Nitrobacter	592.67	37.56	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01975680	Nitrobacter	121.00	0.00	Polar-differentiation response regulator DivK
+PGF_01994657	Nitrobacter	441.17	28.02	Cell division trigger factor (EC 5.2.1.8)
+PGF_01996161	Nitrobacter	324.00	0.00	Flp pilus assembly protein TadB
+PGF_02029783	Nitrobacter	361.00	6.87	GTP-binding protein Obg
+PGF_02059020	Nitrobacter	554.33	10.61	Energy-dependent translational throttle protein EttA
+PGF_02061452	Nitrobacter	377.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02075241	Nitrobacter	647.00	47.53	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02109968	Nitrobacter	361.67	1.37	Flagellar motor switch protein FliG
+PGF_02140574	Nitrobacter	459.00	0.00	Flagellar system sigma 54-dependent response regulator FlbD
+PGF_02141097	Nitrobacter	691.17	0.41	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02167922	Nitrobacter	269.00	3.63	Flagellar motility protein MotE, a chaperone for MotC folding
+PGF_02186693	Nitrobacter	359.00	0.00	Flagellar biosynthesis protein FlhB
+PGF_02210193	Nitrobacter	132.67	0.82	Cytochrome c2
+PGF_02211177	Nitrobacter	260.17	12.66	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02224568	Nitrobacter	401.50	14.43	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Nitrobacter	699.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02254418	Nitrobacter	365.00	0.00	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57) @ Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_02315316	Nitrobacter	444.50	13.10	Peptidase, M23/M37 family
+PGF_02323834	Nitrobacter	312.00	0.89	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02330496	Nitrobacter	215.00	4.90	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Nitrobacter	307.67	0.52	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02355769	Nitrobacter	394.50	3.89	Alanine racemase (EC 5.1.1.1)
+PGF_02405545	Nitrobacter	331.50	6.02	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02407844	Nitrobacter	63.33	7.26	hypothetical protein
+PGF_02420191	Nitrobacter	497.00	0.00	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02434960	Nitrobacter	147.50	19.11	hypothetical protein
+PGF_02450432	Nitrobacter	280.83	1.33	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Nitrobacter	200.50	0.55	Recombination protein RecR
+PGF_02489591	Nitrobacter	221.67	1.21	Uncharacterized Nudix hydrolase NudL
+PGF_02504667	Nitrobacter	399.50	4.23	Putative periplasmic protein YibQ, distant homology with nucleoside diphosphatase and polysaccharide deacetylase
+PGF_02515882	Nitrobacter	416.17	2.04	Aspartokinase (EC 2.7.2.4)
+PGF_02518459	Nitrobacter	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02593689	Nitrobacter	466.00	0.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601905	Nitrobacter	199.83	4.40	Transcriptional regulator PA2737, MerR family
+PGF_02611620	Nitrobacter	501.33	8.26	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02614845	Nitrobacter	379.00	27.50	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+PGF_02623406	Nitrobacter	326.67	14.26	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02719231	Nitrobacter	121.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Nitrobacter	902.83	9.52	DNA mismatch repair protein MutS
+PGF_02738107	Nitrobacter	341.00	4.52	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02744871	Nitrobacter	102.83	0.41	Flagellar hook-basal body complex protein FliE
+PGF_02773452	Nitrobacter	169.00	0.00	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+PGF_02789532	Nitrobacter	298.83	6.27	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02817932	Nitrobacter	397.67	0.82	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02825959	Nitrobacter	381.33	0.82	Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12)
+PGF_02827614	Nitrobacter	114.00	14.28	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02836627	Nitrobacter	338.67	13.37	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02838109	Nitrobacter	207.33	10.63	Shikimate kinase I (EC 2.7.1.71)
+PGF_02862285	Nitrobacter	409.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02874055	Nitrobacter	540.33	3.20	3-methylmercaptopropionyl-CoA ligase (EC 6.2.1.44) of DmdB2 type
+PGF_02875609	Nitrobacter	465.67	7.12	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02883702	Nitrobacter	373.83	9.39	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02893929	Nitrobacter	272.67	5.13	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02893930	Nitrobacter	270.00	0.00	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02895613	Nitrobacter	477.00	0.00	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02903508	Nitrobacter	210.00	3.46	Flagellar assembly protein FliH
+PGF_02904832	Nitrobacter	326.00	0.00	Homoserine kinase (EC 2.7.1.39)
+PGF_02910266	Nitrobacter	467.17	8.66	FAD dependent oxidoreductase
+PGF_02911133	Nitrobacter	221.33	27.13	Arylesterase precursor (EC 3.1.1.2)
+PGF_02912272	Nitrobacter	162.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02912572	Nitrobacter	216.83	20.13	Bll2189 protein
+PGF_02916672	Nitrobacter	400.83	0.41	Flagellar motor switch protein FliM
+PGF_02923127	Nitrobacter	238.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02924931	Nitrobacter	353.83	9.30	diguanylate cyclase (GGDEF domain)
+PGF_02947204	Nitrobacter	540.67	6.74	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02949574	Nitrobacter	247.00	0.00	L-amino acid ABC transporter (Glu/Asp/His/...), ATP-binding protein AapP
+PGF_02959749	Nitrobacter	395.83	17.05	Ribonuclease D (EC 3.1.26.3)
+PGF_02992100	Nitrobacter	256.67	1.97	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Nitrobacter	127.67	2.50	Protein translocase membrane subunit SecG
+PGF_03006190	Nitrobacter	422.17	13.08	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03009868	Nitrobacter	244.00	0.00	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+PGF_03012632	Nitrobacter	165.00	46.79	FIG01004502: hypothetical protein
+PGF_03022560	Nitrobacter	496.17	2.04	Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27)
+PGF_03025675	Nitrobacter	605.50	11.06	Lipid A export permease/ATP-binding protein MsbA
+PGF_03026450	Nitrobacter	1168.00	0.00	Chromosome partition protein smc
+PGF_03029859	Nitrobacter	603.50	0.84	Bis-ABC ATPase Uup
+PGF_03032549	Nitrobacter	504.83	8.42	Mll1762 protein
+PGF_03038277	Nitrobacter	259.50	9.83	Hydroxymethylpyrimidine ABC transporter, ATP-binding protein
+PGF_03040265	Nitrobacter	66.00	0.00	hypothetical protein
+PGF_03041139	Nitrobacter	234.17	6.97	Pyridoxal-5'-phosphate phosphatase (EC 3.1.3.74), Alphaproteobacterial type
+PGF_03052295	Nitrobacter	531.17	3.82	protein of unknown function DUF882
+PGF_03057384	Nitrobacter	364.00	0.00	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03058020	Nitrobacter	186.33	9.99	protein of unknown function DUF1036
+PGF_03059539	Nitrobacter	298.67	0.52	3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)
+PGF_03072132	Nitrobacter	251.17	34.03	CarD-like transcriptional regulator
+PGF_03074232	Nitrobacter	170.00	0.00	FIG019993: putative exported protein
+PGF_03081665	Nitrobacter	96.00	0.00	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03094694	Nitrobacter	460.33	0.82	Peptidase B (EC 3.4.11.23)
+PGF_03098222	Nitrobacter	89.00	0.00	UPF0335 protein R02793
+PGF_03121043	Nitrobacter	142.83	2.86	FIG01261915: hypothetical protein
+PGF_03124650	Nitrobacter	491.33	0.52	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03128546	Nitrobacter	217.83	4.26	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
+PGF_03132336	Nitrobacter	429.33	1.63	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Nitrobacter	529.50	44.15	Flagellar hook-associated protein FlgL
+PGF_03132566	Nitrobacter	329.00	2.45	hypothetical protein
+PGF_03134443	Nitrobacter	319.33	3.01	Flagellar biosynthesis protein FlhF
+PGF_03142069	Nitrobacter	287.83	9.62	Pseudouridine synthase
+PGF_03142586	Nitrobacter	101.00	0.00	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03146406	Nitrobacter	606.83	0.41	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Nitrobacter	289.33	1.86	Prolipoprotein diacylglyceryl transferase
+PGF_03175778	Nitrobacter	262.17	6.31	Flp pilus assembly protein RcpC/CpaB
+PGF_03192687	Nitrobacter	217.67	3.78	hypothetical protein
+PGF_03195412	Nitrobacter	155.83	19.56	hypothetical protein
+PGF_03196071	Nitrobacter	138.67	4.08	Transcriptional regulator, MucR family
+PGF_03196153	Nitrobacter	265.67	13.49	Enoyl-CoA hydratase/isomerase
+PGF_03197083	Nitrobacter	703.17	7.47	Penicillin-insensitive transglycosylase (EC 2.4.2.-) & transpeptidase PBP-1C
+PGF_03202871	Nitrobacter	215.00	0.00	Hydrolase SMc00528, alpha/beta fold family
+PGF_03205915	Nitrobacter	270.00	11.78	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_03253896	Nitrobacter	233.83	0.41	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Nitrobacter	233.83	0.98	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03278866	Nitrobacter	97.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03313407	Nitrobacter	492.50	5.54	Type II/IV secretion system secretin RcpA/CpaC, associated with Flp pilus assembly
+PGF_03340305	Nitrobacter	155.00	0.00	RidA/YER057c/UK114 superfamily, group 1
+PGF_03341277	Nitrobacter	252.00	0.00	Flagellar L-ring protein FlgH
+PGF_03396423	Nitrobacter	272.83	2.86	FIG043197: Inositol monophosphatase family protein
+PGF_03439827	Nitrobacter	477.33	0.82	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03474542	Nitrobacter	438.00	7.85	Flagellum-specific ATP synthase FliI
+PGF_03518570	Nitrobacter	140.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Nitrobacter	603.83	3.66	Cell division protein FtsZ
+PGF_03543348	Nitrobacter	461.00	4.90	Aminotransferase HpnO, required for aminobacteriohopanetriol
+PGF_03589991	Nitrobacter	200.00	6.20	Proteins containing SET domain
+PGF_03667765	Nitrobacter	100.00	0.00	protein of unknown function DUF1244
+PGF_03677971	Nitrobacter	329.50	54.08	C4-dicarboxylate transporter/malic acid transport protein
+PGF_03683488	Nitrobacter	178.00	0.00	2'-5' RNA ligase
+PGF_03685534	Nitrobacter	349.67	13.06	Glycosyl transferase, group 1
+PGF_03694962	Nitrobacter	328.50	16.49	TolA protein
+PGF_03704454	Nitrobacter	348.50	4.32	mRNA 3-end processing exonuclease
+PGF_03729141	Nitrobacter	217.17	2.86	UPF0301 protein YqgE
+PGF_03750599	Nitrobacter	322.67	18.10	Cell division coordinator CpoB
+PGF_03752544	Nitrobacter	237.67	0.52	Phosphate transport system regulatory protein PhoU
+PGF_03778780	Nitrobacter	315.00	0.00	Signal recognition particle receptor FtsY
+PGF_03783620	Nitrobacter	169.17	15.78	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Nitrobacter	266.17	0.98	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Nitrobacter	276.50	1.22	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03810115	Nitrobacter	246.83	2.64	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03821527	Nitrobacter	143.50	13.44	Inner membrane protein YbaN
+PGF_03835760	Nitrobacter	436.33	5.68	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03889092	Nitrobacter	418.50	1.22	Lytic murein transglycosylase
+PGF_03896973	Nitrobacter	187.33	52.26	hypothetical protein
+PGF_03910490	Nitrobacter	201.83	0.41	hypothetical protein
+PGF_03934926	Nitrobacter	150.00	0.63	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03946716	Nitrobacter	121.00	0.00	hypothetical protein
+PGF_03946863	Nitrobacter	142.67	0.52	Flagellum biosynthesis repressor protein FlbT
+PGF_03987764	Nitrobacter	199.17	4.49	FIG003620: Proteophosphoglycan precursor (Fragment)
+PGF_03991729	Nitrobacter	403.00	0.00	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_03992682	Nitrobacter	471.67	17.37	Peptidase M16-like
+PGF_03999701	Nitrobacter	463.00	0.00	OmpA/MotB
+PGF_04001016	Nitrobacter	217.67	36.17	FIG00450955: hypothetical protein
+PGF_04007946	Nitrobacter	237.33	4.93	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Nitrobacter	157.50	1.97	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04031018	Nitrobacter	247.67	8.62	hypothetical protein
+PGF_04034430	Nitrobacter	95.00	0.00	SSU ribosomal protein S21p
+PGF_04083456	Nitrobacter	144.50	0.84	hypothetical protein
+PGF_04108824	Nitrobacter	582.00	3.29	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04126481	Nitrobacter	647.83	15.11	Squalene---hopene cyclase (EC 5.4.99.17) @ Squalene---hopanol cyclase (EC 4.2.1.129)
+PGF_04127376	Nitrobacter	271.17	5.31	Twin-arginine translocation protein TatC
+PGF_04147121	Nitrobacter	498.50	10.05	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04151476	Nitrobacter	169.67	12.77	16S rRNA processing protein RimM
+PGF_04163139	Nitrobacter	272.50	4.72	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Nitrobacter	232.50	26.80	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04192284	Nitrobacter	176.17	0.75	Conserved membrane protein in copper uptake, YcnI
+PGF_04274030	Nitrobacter	192.00	0.00	Mll7655 protein
+PGF_04275878	Nitrobacter	196.00	35.39	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04345693	Nitrobacter	452.00	0.00	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04380075	Nitrobacter	195.33	13.97	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Nitrobacter	345.67	59.60	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04406156	Nitrobacter	190.83	11.32	Cation transport protein ChaC
+PGF_04457297	Nitrobacter	203.17	21.99	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04490570	Nitrobacter	392.67	7.06	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04505269	Nitrobacter	327.33	11.43	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Nitrobacter	479.67	5.24	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Nitrobacter	455.50	0.55	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04571944	Nitrobacter	194.50	28.20	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Nitrobacter	250.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04611731	Nitrobacter	154.17	9.81	hypothetical protein
+PGF_04660575	Nitrobacter	421.00	11.17	Cyclopropane-fatty-acyl-phospholipid synthase
+PGF_04660832	Nitrobacter	164.83	0.41	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04695681	Nitrobacter	275.17	1.17	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04781735	Nitrobacter	244.17	8.80	hypothetical protein
+PGF_04788810	Nitrobacter	203.50	0.84	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Nitrobacter	270.67	2.88	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04804172	Nitrobacter	353.67	42.04	hypothetical protein
+PGF_04845029	Nitrobacter	127.50	1.97	LSU ribosomal protein L19p
+PGF_04960746	Nitrobacter	286.17	9.99	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04978890	Nitrobacter	158.50	19.76	LSU ribosomal protein L21p
+PGF_05111929	Nitrobacter	613.00	0.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05130107	Nitrobacter	167.67	9.42	FIG007785: exported protein
+PGF_05147967	Nitrobacter	146.50	18.44	Bll5592 protein
+PGF_05165078	Nitrobacter	310.67	1.63	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05197855	Nitrobacter	475.33	2.66	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05294175	Nitrobacter	163.33	4.68	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Nitrobacter	476.17	2.93	ATP-dependent RNA helicase RhlE
+PGF_05300545	Nitrobacter	149.50	3.67	Carbon monoxide oxidation accessory protein CoxG
+PGF_05305024	Nitrobacter	241.00	0.00	Acetoacetyl-CoA reductase (EC 1.1.1.36)
+PGF_05334899	Nitrobacter	282.00	8.37	hypothetical protein
+PGF_05338234	Nitrobacter	296.00	2.45	Protein YicC
+PGF_05406959	Nitrobacter	325.50	27.67	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05408879	Nitrobacter	266.67	11.20	hypothetical protein
+PGF_05414986	Nitrobacter	172.83	2.86	Type IV prepilin peptidase TadV/CpaA
+PGF_05421852	Nitrobacter	637.83	4.02	Chaperone protein HtpG
+PGF_05439724	Nitrobacter	738.33	62.19	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05442739	Nitrobacter	326.67	3.67	Sulfate and thiosulfate binding protein CysP
+PGF_05507938	Nitrobacter	602.67	0.82	DNA mismatch repair protein MutL
+PGF_05582393	Nitrobacter	392.00	0.00	Prephenate dehydratase-associated ABC transporter, permease protein 2
+PGF_05598173	Nitrobacter	397.33	3.27	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Nitrobacter	272.00	9.57	Phytoene synthase (EC 2.5.1.32)
+PGF_05631857	Nitrobacter	811.17	12.92	AttF component of AttEFGH ABC transport system / AttG component of AttEFGH ABC transport system
+PGF_05712128	Nitrobacter	611.17	2.23	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Nitrobacter	120.00	0.89	FIG138056: a glutathione-dependent thiol reductase
+PGF_05734161	Nitrobacter	859.33	9.48	Hopanoid-associated RND transporter, HpnN
+PGF_05748227	Nitrobacter	226.33	27.62	Uncharacterized conserved protein YfiP, contains DTW domain
+PGF_05769513	Nitrobacter	443.67	4.97	Tol-Pal system beta propeller repeat protein TolB
+PGF_05858099	Nitrobacter	84.00	0.00	hypothetical protein
+PGF_05925776	Nitrobacter	313.17	12.66	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Nitrobacter	532.67	0.52	Protein translocase subunit SecD
+PGF_05965455	Nitrobacter	452.67	1.21	AmpG permease
+PGF_05975400	Nitrobacter	582.00	172.44	TonB-dependent receptor, plug
+PGF_06005188	Nitrobacter	683.17	4.40	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06027248	Nitrobacter	504.17	0.41	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06061522	Nitrobacter	132.50	0.55	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06109969	Nitrobacter	419.83	0.41	MFS family multidrug efflux protein, similarity to bicyclomycin resistance protein Bcr
+PGF_06122127	Nitrobacter	494.50	21.46	Efflux transport system, outer membrane factor (OMF) lipoprotein
+PGF_06162541	Nitrobacter	319.33	5.68	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_06170558	Nitrobacter	195.67	23.69	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Nitrobacter	154.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Nitrobacter	272.33	1.37	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Nitrobacter	499.00	0.00	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06261285	Nitrobacter	459.17	7.60	Patatin
+PGF_06266910	Nitrobacter	406.50	5.21	Carbon monoxide oxidation accessory protein CoxE
+PGF_06285692	Nitrobacter	159.17	2.86	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06326847	Nitrobacter	251.00	0.00	Flagellar biosynthesis protein FliP
+PGF_06484356	Nitrobacter	296.17	4.79	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_06495818	Nitrobacter	274.00	0.00	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06557782	Nitrobacter	416.67	0.82	Squalene-associated FAD-dependent desaturase, HpnE
+PGF_06644010	Nitrobacter	316.00	0.00	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06660812	Nitrobacter	201.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06690276	Nitrobacter	238.50	8.02	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Nitrobacter	106.00	0.00	Nucleoid-associated protein YaaK
+PGF_06708662	Nitrobacter	195.67	1.97	hypothetical protein
+PGF_06843647	Nitrobacter	191.83	0.41	Putative transmembrane protein
+PGF_06869092	Nitrobacter	465.17	1.94	Predicted Zn-dependent peptidase
+PGF_06940846	Nitrobacter	303.00	14.00	Flagellar biosynthesis protein FliO / Domain of unknown function RL2641.C
+PGF_06965166	Nitrobacter	246.00	1.10	Pyridoxamine 5'-phosphate oxidase-related, FMN-binding
+PGF_07091128	Nitrobacter	53.50	1.22	hypothetical protein
+PGF_07101513	Nitrobacter	116.00	0.00	Flagellar motor switch protein FliN
+PGF_07419075	Nitrobacter	98.50	10.11	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_07425883	Nitrobacter	106.00	0.00	Ferredoxin, 2Fe-2S
+PGF_07426744	Nitrobacter	257.33	4.63	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_07450110	Nitrobacter	300.50	4.04	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_07476582	Nitrobacter	1168.00	147.58	Large exoproteins involved in heme utilization or adhesion
+PGF_07535654	Nitrobacter	219.00	9.10	ParA-like protein
+PGF_08027009	Nitrobacter	637.33	13.98	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_08037960	Nitrobacter	215.00	0.00	hypothetical protein
+PGF_08038412	Nitrobacter	904.83	9.11	Signal transduction histidine kinase CheA / CheY-like domain
+PGF_08044016	Nitrobacter	256.50	1.22	Flagellar biosynthesis protein FliR
+PGF_08044951	Nitrobacter	248.17	1.83	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_08046616	Nitrobacter	871.17	16.79	Multi-sensor hybrid histidine kinase
+PGF_08059770	Nitrobacter	65.00	0.00	Sulfur carrier protein ThiS
+PGF_08064684	Nitrobacter	240.00	7.90	Eukaryotic translation initiation factor 3 subunit 10
+PGF_08084304	Nitrobacter	254.67	0.52	protein of unknown function DUF159
+PGF_08110219	Nitrobacter	470.50	32.87	hypothetical protein
+PGF_08128429	Nitrobacter	238.33	10.41	hypothetical protein
+PGF_08139315	Nitrobacter	109.33	6.47	Phosphocarrier protein, nitrogen regulation associated
+PGF_08149313	Nitrobacter	206.00	0.00	hypothetical protein
+PGF_08153913	Nitrobacter	255.00	0.00	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08157634	Nitrobacter	74.50	1.22	hypothetical protein
+PGF_08183187	Nitrobacter	382.50	0.55	Cell division protein FtsW

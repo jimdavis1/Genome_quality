@@ -1,0 +1,800 @@
+PGF_00000027	Sulfurihydrogenibium	258.00	3.46	Uncharacterized protein YmdB
+PGF_00000170	Sulfurihydrogenibium	161.00	0.00	7-alpha-hydroxysteroid dehydrogenase( EC:1.1.1.159 )
+PGF_00000261	Sulfurihydrogenibium	379.25	7.23	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00003500	Sulfurihydrogenibium	236.00	0.00	FIG137478: Hypothetical protein
+PGF_00003750	Sulfurihydrogenibium	160.00	0.00	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004671	Sulfurihydrogenibium	709.50	1.73	Ferrous iron transport protein B
+PGF_00005288	Sulfurihydrogenibium	365.25	4.50	Flagellar P-ring protein FlgI
+PGF_00005358	Sulfurihydrogenibium	266.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Sulfurihydrogenibium	692.75	0.50	Flagellar biosynthesis protein FlhA
+PGF_00005402	Sulfurihydrogenibium	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Sulfurihydrogenibium	411.00	2.31	Flagellar hook protein FlgE
+PGF_00005454	Sulfurihydrogenibium	479.00	4.62	Flagellar hook-associated protein FlgK
+PGF_00005731	Sulfurihydrogenibium	267.00	4.00	ABC transporter, substrate-binding protein (cluster 12, methionine/phosphonates)
+PGF_00006935	Sulfurihydrogenibium	511.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Sulfurihydrogenibium	370.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Sulfurihydrogenibium	388.25	110.84	GTP-binding protein EngA
+PGF_00007026	Sulfurihydrogenibium	195.50	1.73	GTP-binding protein EngB
+PGF_00007027	Sulfurihydrogenibium	303.50	4.04	GTP-binding protein Era
+PGF_00007028	Sulfurihydrogenibium	370.50	1.73	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007304	Sulfurihydrogenibium	275.75	2.63	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Sulfurihydrogenibium	293.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007982	Sulfurihydrogenibium	293.25	2.06	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00008061	Sulfurihydrogenibium	368.50	1.73	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Sulfurihydrogenibium	386.00	0.00	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Sulfurihydrogenibium	260.00	0.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Sulfurihydrogenibium	427.50	0.58	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Sulfurihydrogenibium	474.00	1.15	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008334	Sulfurihydrogenibium	438.00	3.46	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Sulfurihydrogenibium	478.00	0.00	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008611	Sulfurihydrogenibium	330.00	2.31	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008780	Sulfurihydrogenibium	365.00	0.00	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008865	Sulfurihydrogenibium	514.75	1.50	Glycogen branching enzyme, GH-57-type, archaeal (EC 2.4.1.18)
+PGF_00009433	Sulfurihydrogenibium	285.50	82.57	Glycosyl transferase, group 1 family protein
+PGF_00009967	Sulfurihydrogenibium	298.00	1.15	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Sulfurihydrogenibium	677.50	0.58	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Sulfurihydrogenibium	232.50	7.00	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Sulfurihydrogenibium	604.50	215.00	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Sulfurihydrogenibium	204.50	0.58	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Sulfurihydrogenibium	613.25	80.35	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011249	Sulfurihydrogenibium	266.00	0.00	HemX protein, negative effector of steady-state concentration of glutamyl-tRNA reductase
+PGF_00011408	Sulfurihydrogenibium	127.50	18.43	Hemerythrin domain protein
+PGF_00011531	Sulfurihydrogenibium	317.00	0.00	Heptaprenyl diphosphate synthase (all-trans) (EC 2.5.1.30)
+PGF_00011979	Sulfurihydrogenibium	428.00	0.00	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Sulfurihydrogenibium	285.25	77.50	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Sulfurihydrogenibium	441.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Sulfurihydrogenibium	303.25	0.50	Homoserine kinase (EC 2.7.1.39)
+PGF_00012963	Sulfurihydrogenibium	270.75	3.77	Hydroxymethylpyrimidine kinase (EC 2.7.1.49) @ Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00012970	Sulfurihydrogenibium	452.50	0.58	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013017	Sulfurihydrogenibium	289.25	45.50	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013492	Sulfurihydrogenibium	175.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013803	Sulfurihydrogenibium	195.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Sulfurihydrogenibium	259.50	1.00	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Sulfurihydrogenibium	488.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014381	Sulfurihydrogenibium	368.50	0.58	Inositol-1-phosphate synthase (EC 5.5.1.4)
+PGF_00014710	Sulfurihydrogenibium	435.00	0.00	ATP citrate synthase, alpha chain (EC 2.3.3.8)
+PGF_00014722	Sulfurihydrogenibium	616.00	0.00	ATP citrate synthase, beta chain (EC 2.3.3.8)
+PGF_00015039	Sulfurihydrogenibium	170.00	76.67	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Sulfurihydrogenibium	114.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Sulfurihydrogenibium	168.00	28.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Sulfurihydrogenibium	291.50	0.58	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015289	Sulfurihydrogenibium	72.00	1.15	ATP synthase protein I
+PGF_00015525	Sulfurihydrogenibium	153.50	0.58	Iron-sulfur cluster assembly scaffold protein IscU/NifU-like
+PGF_00016328	Sulfurihydrogenibium	180.50	0.58	LSU ribosomal protein L10p (P0)
+PGF_00016338	Sulfurihydrogenibium	406.50	1.73	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Sulfurihydrogenibium	114.50	15.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Sulfurihydrogenibium	150.00	2.31	LSU ribosomal protein L15p (L27Ae)
+PGF_00016346	Sulfurihydrogenibium	122.00	1.15	LSU ribosomal protein L17p
+PGF_00016353	Sulfurihydrogenibium	123.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Sulfurihydrogenibium	242.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016374	Sulfurihydrogenibium	97.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Sulfurihydrogenibium	119.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016387	Sulfurihydrogenibium	63.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016395	Sulfurihydrogenibium	59.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Sulfurihydrogenibium	58.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Sulfurihydrogenibium	47.50	0.58	LSU ribosomal protein L34p
+PGF_00016431	Sulfurihydrogenibium	227.00	1.15	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Sulfurihydrogenibium	208.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Sulfurihydrogenibium	187.50	0.58	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Sulfurihydrogenibium	181.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Sulfurihydrogenibium	127.50	0.58	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Sulfurihydrogenibium	148.00	1.15	LSU ribosomal protein L9p
+PGF_00017190	Sulfurihydrogenibium	243.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017464	Sulfurihydrogenibium	224.00	1.15	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Sulfurihydrogenibium	280.00	0.00	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017640	Sulfurihydrogenibium	149.50	7.05	Lipopolysaccharide export system protein LptA
+PGF_00018106	Sulfurihydrogenibium	303.00	0.00	Lytic transglycosylase, catalytic
+PGF_00018121	Sulfurihydrogenibium	168.50	5.20	Lytic transglycosylase, catalytic
+PGF_00019038	Sulfurihydrogenibium	448.00	0.00	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019284	Sulfurihydrogenibium	829.00	1.15	Mannose-1-phosphate guanylyltransferase / Phosphomannomutase (EC 5.4.2.8)
+PGF_00020264	Sulfurihydrogenibium	265.50	45.73	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020361	Sulfurihydrogenibium	140.75	19.86	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020393	Sulfurihydrogenibium	326.50	0.58	Metal-dependent hydrolases of the beta-lactamase superfamily III
+PGF_00020464	Sulfurihydrogenibium	211.00	0.00	Metal-independent phosphoserine phosphatase (EC 3.1.3.3)
+PGF_00020465	Sulfurihydrogenibium	208.00	2.31	Metal-independent phosphoserine phosphatase (EC 3.1.3.3)
+PGF_00020984	Sulfurihydrogenibium	284.25	0.50	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021036	Sulfurihydrogenibium	339.50	0.58	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00022029	Sulfurihydrogenibium	92.50	0.58	MoaD/ThiS family protein clustered with threonine synthase
+PGF_00022479	Sulfurihydrogenibium	184.00	0.00	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022507	Sulfurihydrogenibium	167.75	17.17	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Sulfurihydrogenibium	80.00	0.00	Molybdopterin synthase sulfur carrier subunit
+PGF_00022878	Sulfurihydrogenibium	411.50	57.02	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+PGF_00023591	Sulfurihydrogenibium	337.50	0.58	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Sulfurihydrogenibium	340.50	0.58	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024232	Sulfurihydrogenibium	329.75	120.53	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Sulfurihydrogenibium	355.50	3.32	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024274	Sulfurihydrogenibium	377.75	8.77	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Sulfurihydrogenibium	573.50	0.58	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024478	Sulfurihydrogenibium	332.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Sulfurihydrogenibium	277.75	4.79	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024619	Sulfurihydrogenibium	577.00	0.00	Acetate permease ActP (cation/acetate symporter)
+PGF_00024723	Sulfurihydrogenibium	438.50	1.73	Acetoacetate metabolism regulatory protein AtoC
+PGF_00024735	Sulfurihydrogenibium	99.75	0.50	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024746	Sulfurihydrogenibium	457.75	62.50	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Sulfurihydrogenibium	123.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Sulfurihydrogenibium	581.50	0.58	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Sulfurihydrogenibium	187.50	0.58	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025562	Sulfurihydrogenibium	192.50	0.58	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Sulfurihydrogenibium	450.50	0.58	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026279	Sulfurihydrogenibium	314.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026409	Sulfurihydrogenibium	254.00	0.00	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026499	Sulfurihydrogenibium	85.00	26.04	Nucleotidyltransferase domain protein, Caur_2868 group
+PGF_00026780	Sulfurihydrogenibium	210.00	1.15	O-methyltransferase, family 3
+PGF_00029071	Sulfurihydrogenibium	232.50	6.35	2,3-diketo-5-methylthiopentyl-1-phosphate enolase-phosphatase (EC 3.1.3.77)
+PGF_00029287	Sulfurihydrogenibium	856.00	0.00	Aconitate hydratase 2 (EC 4.2.1.3)
+PGF_00029917	Sulfurihydrogenibium	280.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Sulfurihydrogenibium	360.00	0.00	Peptide chain release factor 1
+PGF_00031568	Sulfurihydrogenibium	132.50	1.73	Peroxide stress regulator PerR, FUR family
+PGF_00033095	Sulfurihydrogenibium	802.50	0.58	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Sulfurihydrogenibium	311.75	29.26	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Sulfurihydrogenibium	222.00	114.01	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Sulfurihydrogenibium	352.75	0.50	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Sulfurihydrogenibium	355.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033511	Sulfurihydrogenibium	398.50	0.58	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Sulfurihydrogenibium	201.50	0.58	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033729	Sulfurihydrogenibium	271.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Sulfurihydrogenibium	261.75	0.50	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033877	Sulfurihydrogenibium	165.00	3.37	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Sulfurihydrogenibium	207.00	1.15	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Sulfurihydrogenibium	428.00	3.16	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Sulfurihydrogenibium	233.50	1.73	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Sulfurihydrogenibium	205.50	2.89	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Sulfurihydrogenibium	239.00	0.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033959	Sulfurihydrogenibium	226.00	0.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Sulfurihydrogenibium	752.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00034316	Sulfurihydrogenibium	241.50	4.04	Pimeloyl-CoA synthase (EC 6.2.1.14)
+PGF_00034988	Sulfurihydrogenibium	325.00	0.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035067	Sulfurihydrogenibium	221.00	0.00	2,5-diamino-6-ribosylamino-pyrimidinone 5-phosphate reductase, fungal/archaeal (EC 1.1.1.302)
+PGF_00035073	Sulfurihydrogenibium	272.50	4.04	Possible RNA methyltransferase aq_1528
+PGF_00035400	Sulfurihydrogenibium	511.75	1.50	Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family
+PGF_00035721	Sulfurihydrogenibium	381.00	111.34	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00036111	Sulfurihydrogenibium	140.75	2.87	Predicted metal-dependent protease of the PAD1/JAB1 superfamily
+PGF_00036328	Sulfurihydrogenibium	560.00	81.34	Predicted signal-transduction protein containing cAMP-binding and CBS domains
+PGF_00036580	Sulfurihydrogenibium	99.75	1.50	Protein translocase subunit YajC
+PGF_00037006	Sulfurihydrogenibium	326.50	18.41	Agmatine deiminase (EC 3.5.3.12)
+PGF_00037650	Sulfurihydrogenibium	341.00	0.00	Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_00038531	Sulfurihydrogenibium	246.50	86.34	Protein of unknown function DUF86, SO_3166 group / Protein of unknown function DUF86, SO_3166 group
+PGF_00038674	Sulfurihydrogenibium	307.50	0.58	Protein translocase subunit SecF
+PGF_00038879	Sulfurihydrogenibium	142.00	0.00	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039342	Sulfurihydrogenibium	261.00	1.15	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039710	Sulfurihydrogenibium	247.75	4.50	Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00040578	Sulfurihydrogenibium	238.00	13.34	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041794	Sulfurihydrogenibium	201.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00044198	Sulfurihydrogenibium	274.25	18.19	Putative stomatin/prohibitin-family membrane protease subunit aq_911
+PGF_00044211	Sulfurihydrogenibium	291.50	0.58	Heterodisulfide reductase subunit B-like protein @ Putative succinate dehydrogenase subunit
+PGF_00045012	Sulfurihydrogenibium	302.50	54.34	Pellicle/biofilm biosynthesis inner membrane protein PelE
+PGF_00045900	Sulfurihydrogenibium	244.50	1.73	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00046060	Sulfurihydrogenibium	217.00	0.00	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Sulfurihydrogenibium	277.00	2.31	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046197	Sulfurihydrogenibium	270.00	2.31	RNA binding methyltransferase FtsJ like
+PGF_00046403	Sulfurihydrogenibium	353.75	169.17	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Sulfurihydrogenibium	117.50	0.58	RNA polymerase-binding transcription factor DksA
+PGF_00046604	Sulfurihydrogenibium	143.75	0.50	RNA polymerase-binding transcription factor DksA
+PGF_00047078	Sulfurihydrogenibium	323.75	29.22	RecA protein
+PGF_00047730	Sulfurihydrogenibium	305.25	154.83	Respiratory nitrate reductase beta chain (EC 1.7.99.4)
+PGF_00048480	Sulfurihydrogenibium	210.00	0.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Sulfurihydrogenibium	138.25	21.50	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Sulfurihydrogenibium	195.00	2.31	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Sulfurihydrogenibium	257.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048630	Sulfurihydrogenibium	952.50	339.75	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048643	Sulfurihydrogenibium	155.25	2.87	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048651	Sulfurihydrogenibium	148.00	0.00	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Sulfurihydrogenibium	311.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Sulfurihydrogenibium	245.25	1.50	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Sulfurihydrogenibium	260.25	23.67	Ribosomal protein L11 methyltransferase
+PGF_00048846	Sulfurihydrogenibium	426.75	23.26	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048926	Sulfurihydrogenibium	184.00	0.00	Ribosome recycling factor
+PGF_00048936	Sulfurihydrogenibium	101.00	1.15	Ribosome-binding factor A
+PGF_00048985	Sulfurihydrogenibium	220.25	0.50	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049098	Sulfurihydrogenibium	238.00	0.00	Rieske iron-sulfur protein family
+PGF_00049294	Sulfurihydrogenibium	308.00	1.41	Rubrerythrin
+PGF_00049527	Sulfurihydrogenibium	512.50	14.43	Chorismate dehydratase (EC 4.2.1.151) / SAM-dependent methyltransferase
+PGF_00049827	Sulfurihydrogenibium	262.00	4.62	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Sulfurihydrogenibium	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049838	Sulfurihydrogenibium	134.50	0.58	SSU ribosomal protein S12p (S23e)
+PGF_00049847	Sulfurihydrogenibium	95.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049857	Sulfurihydrogenibium	78.25	1.50	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049896	Sulfurihydrogenibium	194.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Sulfurihydrogenibium	104.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Sulfurihydrogenibium	159.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Sulfurihydrogenibium	136.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Sulfurihydrogenibium	142.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050288	Sulfurihydrogenibium	203.00	1.15	Segregation and condensation protein A
+PGF_00051120	Sulfurihydrogenibium	199.75	1.50	Septum site-determining protein MinC
+PGF_00051525	Sulfurihydrogenibium	375.50	83.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052705	Sulfurihydrogenibium	145.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052822	Sulfurihydrogenibium	77.00	0.00	SirA family protein
+PGF_00052943	Sulfurihydrogenibium	297.00	0.00	Site-specific tyrosine recombinase XerD
+PGF_00053003	Sulfurihydrogenibium	247.50	1.73	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_00053078	Sulfurihydrogenibium	372.50	0.58	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00053419	Sulfurihydrogenibium	283.00	98.67	Sodium/calcium exchanger membrane region
+PGF_00053991	Sulfurihydrogenibium	284.00	6.93	Stage 0 sporulation protein YaaT
+PGF_00054920	Sulfurihydrogenibium	237.25	3.50	Sugar fermentation stimulation protein SfsA
+PGF_00055106	Sulfurihydrogenibium	63.00	13.34	Sulfur carrier protein ThiS
+PGF_00055169	Sulfurihydrogenibium	1072.00	1.15	Anaerobic dehydrogenases, typically selenocysteine-containing
+PGF_00055610	Sulfurihydrogenibium	205.75	59.22	TPR repeat containing exported protein; Putative periplasmic protein contains a protein prenylyltransferase domain
+PGF_00056273	Sulfurihydrogenibium	313.50	11.39	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056544	Sulfurihydrogenibium	266.50	0.58	Thiazole synthase (EC 2.8.1.10)
+PGF_00056545	Sulfurihydrogenibium	182.00	1.15	Thiazole tautomerase TenI (EC 5.3.99.10)
+PGF_00056662	Sulfurihydrogenibium	336.00	0.00	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056745	Sulfurihydrogenibium	146.50	1.73	Thioredoxin
+PGF_00056883	Sulfurihydrogenibium	204.00	0.00	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057399	Sulfurihydrogenibium	218.00	0.00	Transaldolase (EC 2.2.1.2)
+PGF_00057483	Sulfurihydrogenibium	422.50	0.58	Transcription termination factor Rho
+PGF_00057488	Sulfurihydrogenibium	163.75	5.50	Transcription termination protein NusB
+PGF_00060399	Sulfurihydrogenibium	321.00	1.15	Transketolase, C-terminal section (EC 2.2.1.1)
+PGF_00060409	Sulfurihydrogenibium	693.00	0.00	Translation elongation factor G
+PGF_00060414	Sulfurihydrogenibium	562.75	64.50	Translation elongation factor LepA
+PGF_00060421	Sulfurihydrogenibium	190.00	0.00	Translation elongation factor P
+PGF_00060427	Sulfurihydrogenibium	197.00	0.00	Translation elongation factor Ts
+PGF_00062023	Sulfurihydrogenibium	254.50	0.58	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Sulfurihydrogenibium	414.50	0.58	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Sulfurihydrogenibium	391.50	0.58	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063608	Sulfurihydrogenibium	400.00	0.00	S-adenosylmethionine synthetase, archaeal (EC 2.5.1.6)
+PGF_00063938	Sulfurihydrogenibium	268.50	1.73	UDP-2,3-diacylglucosamine pyrophosphatase
+PGF_00063948	Sulfurihydrogenibium	297.75	57.84	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Sulfurihydrogenibium	288.00	0.00	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Sulfurihydrogenibium	344.75	2.87	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Sulfurihydrogenibium	450.00	9.38	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064422	Sulfurihydrogenibium	410.50	161.00	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00064450	Sulfurihydrogenibium	227.00	5.77	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase related protein
+PGF_00065351	Sulfurihydrogenibium	137.00	0.00	UPF0047 protein TM0723
+PGF_00065706	Sulfurihydrogenibium	206.50	0.58	Uncharacterized protein aq_1581
+PGF_00065707	Sulfurihydrogenibium	279.00	9.56	Uncharacterized protein aq_1894
+PGF_00065887	Sulfurihydrogenibium	232.50	1.73	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066270	Sulfurihydrogenibium	348.50	0.58	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Sulfurihydrogenibium	922.75	103.18	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Sulfurihydrogenibium	134.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Sulfurihydrogenibium	303.00	2.45	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Sulfurihydrogenibium	337.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067383	Sulfurihydrogenibium	530.00	3.46	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067458	Sulfurihydrogenibium	246.50	2.89	Zinc ABC transporter, permease protein ZnuB
+PGF_00067466	Sulfurihydrogenibium	602.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Sulfurihydrogenibium	482.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067791	Sulfurihydrogenibium	866.00	3.46	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068776	Sulfurihydrogenibium	432.00	0.00	Arsenic efflux pump protein
+PGF_00069939	Sulfurihydrogenibium	410.50	0.58	collagenase
+PGF_00070432	Sulfurihydrogenibium	344.50	1.73	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070521	Sulfurihydrogenibium	231.00	2.31	deacetylase-like protein
+PGF_00071519	Sulfurihydrogenibium	377.00	0.00	gamma-subunit of ethylbenzene dehydrogenase
+PGF_00071793	Sulfurihydrogenibium	665.75	14.84	glycoside hydrolase family 57
+PGF_00072069	Sulfurihydrogenibium	111.00	0.00	heat shock protein, class I
+PGF_00081453	Sulfurihydrogenibium	156.25	3.20	hypothetical protein
+PGF_00083082	Sulfurihydrogenibium	413.25	0.96	hypothetical protein
+PGF_00083711	Sulfurihydrogenibium	143.75	0.96	hypothetical protein
+PGF_00084324	Sulfurihydrogenibium	253.50	1.00	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00086470	Sulfurihydrogenibium	287.50	2.89	hypothetical protein
+PGF_00087925	Sulfurihydrogenibium	348.75	4.86	hypothetical protein
+PGF_00089539	Sulfurihydrogenibium	566.50	117.83	hypothetical protein
+PGF_00095179	Sulfurihydrogenibium	318.75	33.40	hypothetical protein
+PGF_00098349	Sulfurihydrogenibium	169.50	0.58	hypothetical protein
+PGF_00099948	Sulfurihydrogenibium	176.25	10.50	hypothetical protein
+PGF_00100749	Sulfurihydrogenibium	223.50	124.76	hypothetical protein
+PGF_00102041	Sulfurihydrogenibium	187.50	0.58	Esterase YqiA
+PGF_00106513	Sulfurihydrogenibium	122.75	0.50	hypothetical protein
+PGF_00110466	Sulfurihydrogenibium	176.75	4.19	hypothetical protein
+PGF_00113984	Sulfurihydrogenibium	189.00	0.00	Flavin prenyltransferase UbiX
+PGF_00116264	Sulfurihydrogenibium	353.25	0.50	hypothetical protein
+PGF_00116551	Sulfurihydrogenibium	514.50	91.67	hypothetical protein
+PGF_00125587	Sulfurihydrogenibium	153.50	0.58	hypothetical protein
+PGF_00128314	Sulfurihydrogenibium	607.75	10.11	hypothetical protein
+PGF_00132925	Sulfurihydrogenibium	149.25	30.17	hypothetical protein
+PGF_00142540	Sulfurihydrogenibium	166.50	1.91	hypothetical protein
+PGF_00165744	Sulfurihydrogenibium	410.00	1.15	hypothetical protein
+PGF_00166569	Sulfurihydrogenibium	91.50	7.68	hypothetical protein
+PGF_00169371	Sulfurihydrogenibium	221.00	1.15	hypothetical protein
+PGF_00177180	Sulfurihydrogenibium	206.00	0.00	hypothetical protein
+PGF_00178731	Sulfurihydrogenibium	214.25	4.35	hypothetical protein
+PGF_00178873	Sulfurihydrogenibium	217.75	2.06	hypothetical protein
+PGF_00180380	Sulfurihydrogenibium	103.00	18.00	hypothetical protein
+PGF_00185352	Sulfurihydrogenibium	125.75	25.17	hypothetical protein
+PGF_00186124	Sulfurihydrogenibium	170.50	1.00	hypothetical protein
+PGF_00197175	Sulfurihydrogenibium	78.00	1.15	hypothetical protein
+PGF_00199598	Sulfurihydrogenibium	293.00	0.00	Oxidoreductase, anchor subunit
+PGF_00203830	Sulfurihydrogenibium	119.00	26.56	hypothetical protein
+PGF_00208410	Sulfurihydrogenibium	168.75	2.50	hypothetical protein
+PGF_00222644	Sulfurihydrogenibium	579.50	0.58	ABC transporter, substrate-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00247695	Sulfurihydrogenibium	232.00	92.79	hypothetical protein
+PGF_00248078	Sulfurihydrogenibium	95.00	1.15	hypothetical protein
+PGF_00249791	Sulfurihydrogenibium	163.00	1.15	hypothetical protein
+PGF_00250416	Sulfurihydrogenibium	117.00	0.00	hypothetical protein
+PGF_00256254	Sulfurihydrogenibium	422.25	3.20	Efflux transport system, outer membrane factor (OMF) in Aquificae
+PGF_00261173	Sulfurihydrogenibium	351.50	0.58	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00266474	Sulfurihydrogenibium	934.00	22.55	hypothetical protein
+PGF_00270249	Sulfurihydrogenibium	210.25	0.96	hypothetical protein
+PGF_00271641	Sulfurihydrogenibium	67.00	1.15	hypothetical protein
+PGF_00273927	Sulfurihydrogenibium	427.75	14.20	hypothetical protein
+PGF_00280549	Sulfurihydrogenibium	314.75	2.50	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00285620	Sulfurihydrogenibium	201.50	0.58	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00285804	Sulfurihydrogenibium	244.25	30.18	hypothetical protein
+PGF_00286044	Sulfurihydrogenibium	140.50	0.58	hypothetical protein
+PGF_00286421	Sulfurihydrogenibium	142.25	3.77	hypothetical protein
+PGF_00288176	Sulfurihydrogenibium	116.50	1.73	hypothetical protein
+PGF_00293512	Sulfurihydrogenibium	167.50	0.58	hypothetical protein
+PGF_00297337	Sulfurihydrogenibium	270.75	40.56	hypothetical protein
+PGF_00320372	Sulfurihydrogenibium	172.50	8.66	hypothetical protein
+PGF_00325404	Sulfurihydrogenibium	800.75	2.63	hypothetical protein
+PGF_00329972	Sulfurihydrogenibium	232.25	1.26	hypothetical protein
+PGF_00331720	Sulfurihydrogenibium	279.50	0.58	hypothetical protein
+PGF_00335947	Sulfurihydrogenibium	99.00	0.00	hypothetical protein
+PGF_00336904	Sulfurihydrogenibium	161.75	10.40	hypothetical protein
+PGF_00339620	Sulfurihydrogenibium	181.50	0.58	hypothetical protein
+PGF_00340533	Sulfurihydrogenibium	425.00	1.15	hypothetical protein
+PGF_00340878	Sulfurihydrogenibium	170.25	2.87	hypothetical protein
+PGF_00346640	Sulfurihydrogenibium	313.50	6.45	hypothetical protein
+PGF_00347293	Sulfurihydrogenibium	147.00	2.31	hypothetical protein
+PGF_00350921	Sulfurihydrogenibium	335.00	1.15	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00359199	Sulfurihydrogenibium	80.00	0.00	hypothetical protein
+PGF_00363180	Sulfurihydrogenibium	344.50	10.38	hypothetical protein
+PGF_00368006	Sulfurihydrogenibium	136.00	1.15	hypothetical protein
+PGF_00369299	Sulfurihydrogenibium	218.00	0.00	hypothetical protein
+PGF_00378771	Sulfurihydrogenibium	281.50	0.58	hypothetical protein
+PGF_00380060	Sulfurihydrogenibium	105.50	2.89	hypothetical protein
+PGF_00385729	Sulfurihydrogenibium	347.50	61.47	hypothetical protein
+PGF_00389218	Sulfurihydrogenibium	154.00	3.46	hypothetical protein
+PGF_00391084	Sulfurihydrogenibium	463.50	0.58	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00397861	Sulfurihydrogenibium	166.00	4.24	hypothetical protein
+PGF_00400063	Sulfurihydrogenibium	293.75	1.50	import inner membrane translocase subunit Tim44
+PGF_00404078	Sulfurihydrogenibium	159.50	5.80	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Sulfurihydrogenibium	449.50	1.73	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Sulfurihydrogenibium	317.50	0.58	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404384	Sulfurihydrogenibium	334.50	1.91	Biotin synthase (EC 2.8.1.6)
+PGF_00404817	Sulfurihydrogenibium	114.50	0.58	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404843	Sulfurihydrogenibium	284.00	1.15	protein F12M16.25
+PGF_00404904	Sulfurihydrogenibium	270.50	13.89	protein of unknown function DUF114
+PGF_00405496	Sulfurihydrogenibium	190.00	0.00	protein of unknown function aq_054
+PGF_00408889	Sulfurihydrogenibium	187.00	50.02	Uncharacterized membrane anchored protein Mext_4159
+PGF_00409698	Sulfurihydrogenibium	165.50	0.58	putative membrane protein of unknown function
+PGF_00409915	Sulfurihydrogenibium	211.00	0.00	Quad-[4Fe-4S] ferredoxin, HycB/HydN/HyfA family
+PGF_00410883	Sulfurihydrogenibium	137.50	0.58	Single-stranded DNA-binding protein
+PGF_00412680	Sulfurihydrogenibium	429.50	41.68	sodium-solute symporter, putative
+PGF_00413105	Sulfurihydrogenibium	250.25	35.50	Sulfur oxidation protein SoxA
+PGF_00413191	Sulfurihydrogenibium	252.50	0.58	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase (EC 2.1.1.219)
+PGF_00413208	Sulfurihydrogenibium	254.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413277	Sulfurihydrogenibium	772.50	145.01	tRNA nucleotidyltransferase, A-adding (EC 2.7.7.72)
+PGF_00413290	Sulfurihydrogenibium	243.50	0.58	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Sulfurihydrogenibium	283.75	2.87	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Sulfurihydrogenibium	381.50	121.07	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Sulfurihydrogenibium	620.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413317	Sulfurihydrogenibium	303.50	0.58	tRNA(U54)-2-thioribothymidine synthetase
+PGF_00413351	Sulfurihydrogenibium	153.00	4.62	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413402	Sulfurihydrogenibium	158.50	49.02	tellurite resistance protein TehB
+PGF_00414434	Sulfurihydrogenibium	214.50	1.73	type IV pilus assembly PilZ
+PGF_00414964	Sulfurihydrogenibium	207.50	0.58	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_00415481	Sulfurihydrogenibium	384.00	0.00	SAM-dependent methyltransferase, MidA
+PGF_00416115	Sulfurihydrogenibium	300.75	0.50	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416834	Sulfurihydrogenibium	331.00	0.00	3,7-dideoxy-D-threo-hepto-2, 6-diulosonate synthase (EC 4.2.3.-)
+PGF_00416972	Sulfurihydrogenibium	106.00	0.00	Cell division protein FtsL
+PGF_00417045	Sulfurihydrogenibium	218.00	11.49	Cell division protein FtsQ
+PGF_00417433	Sulfurihydrogenibium	511.25	210.17	Chaperone protein DnaK
+PGF_00417481	Sulfurihydrogenibium	233.75	10.21	3-dehydroquinate dehydratase I (EC 4.2.1.10)
+PGF_00417840	Sulfurihydrogenibium	390.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00419420	Sulfurihydrogenibium	431.00	0.00	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419628	Sulfurihydrogenibium	462.00	0.00	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419900	Sulfurihydrogenibium	359.50	0.58	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00419915	Sulfurihydrogenibium	262.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00419918	Sulfurihydrogenibium	304.00	0.00	Cyclic pyranopterin monophosphate synthase accessory protein / Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00420121	Sulfurihydrogenibium	214.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420358	Sulfurihydrogenibium	469.00	0.00	Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1)
+PGF_00420363	Sulfurihydrogenibium	224.00	0.00	Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)
+PGF_00420731	Sulfurihydrogenibium	502.00	2.31	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420798	Sulfurihydrogenibium	300.75	1.71	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Sulfurihydrogenibium	316.50	1.73	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420993	Sulfurihydrogenibium	341.00	1.15	D-lactate dehydrogenase (EC 1.1.1.28)
+PGF_00421071	Sulfurihydrogenibium	147.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Sulfurihydrogenibium	399.25	7.23	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Sulfurihydrogenibium	1271.00	206.69	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Sulfurihydrogenibium	362.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421624	Sulfurihydrogenibium	582.00	0.00	DNA polymerase X family
+PGF_00421679	Sulfurihydrogenibium	547.75	11.93	DNA primase (EC 2.7.7.-)
+PGF_00421742	Sulfurihydrogenibium	198.00	0.00	DNA recombination and repair protein RecO
+PGF_00421792	Sulfurihydrogenibium	406.25	81.50	DNA repair protein RadA
+PGF_00421796	Sulfurihydrogenibium	532.00	0.00	DNA repair protein RecN
+PGF_00421842	Sulfurihydrogenibium	1143.25	0.96	DNA reverse gyrase (EC 3.6.4.12) (EC 5.99.1.3)
+PGF_00422271	Sulfurihydrogenibium	324.75	1.50	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422711	Sulfurihydrogenibium	201.50	0.58	DedA protein
+PGF_00422918	Sulfurihydrogenibium	179.50	0.58	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422944	Sulfurihydrogenibium	386.50	135.01	Deoxyribodipyrimidine photolyase, type II (EC 4.1.99.3)
+PGF_00423089	Sulfurihydrogenibium	368.50	2.89	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Sulfurihydrogenibium	287.00	1.15	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Sulfurihydrogenibium	412.00	1.15	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423378	Sulfurihydrogenibium	423.00	0.00	Dihydroorotase (EC 3.5.2.3)
+PGF_00423436	Sulfurihydrogenibium	225.50	1.73	Dimeric dUTPase (EC 3.6.1.23)
+PGF_00423449	Sulfurihydrogenibium	254.25	41.50	1,4-dihydroxy-6-naphtoate synthase
+PGF_00424189	Sulfurihydrogenibium	278.00	0.00	Encapsulating protein for a DyP-type peroxidase or ferritin-like protein oligomers
+PGF_00424338	Sulfurihydrogenibium	226.00	0.00	Endonuclease V (EC 3.1.21.7)
+PGF_00424447	Sulfurihydrogenibium	326.00	3.56	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424569	Sulfurihydrogenibium	255.50	0.58	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Sulfurihydrogenibium	574.00	2.31	Excinuclease ABC subunit C
+PGF_00425011	Sulfurihydrogenibium	205.25	107.10	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425236	Sulfurihydrogenibium	161.50	0.58	Pellicle/biofilm biosynthesis outer membrane lipoprotein PelC
+PGF_00425240	Sulfurihydrogenibium	456.00	0.00	Pellicle/biofilm biosynthesis inner membrane protein PelG, MATE family transporter
+PGF_00425274	Sulfurihydrogenibium	498.25	16.94	Pellicle/biofilm biosynthesis protein PelF, CAZy glycosyltransferase family 4
+PGF_00425685	Sulfurihydrogenibium	269.00	0.00	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425806	Sulfurihydrogenibium	330.50	0.58	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Sulfurihydrogenibium	375.25	0.50	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Sulfurihydrogenibium	332.00	2.31	FIG004453: protein YceG like
+PGF_00426044	Sulfurihydrogenibium	291.25	0.50	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Sulfurihydrogenibium	631.25	0.50	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Sulfurihydrogenibium	336.50	33.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426932	Sulfurihydrogenibium	154.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447421	Sulfurihydrogenibium	165.25	0.96	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_00447508	Sulfurihydrogenibium	375.50	37.00	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Sulfurihydrogenibium	456.75	0.50	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00549302	Sulfurihydrogenibium	406.25	4.92	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00616490	Sulfurihydrogenibium	238.00	2.31	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Sulfurihydrogenibium	353.50	0.58	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Sulfurihydrogenibium	220.50	1.73	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00625587	Sulfurihydrogenibium	203.00	0.00	SAM-dependent methyltransferase
+PGF_00639841	Sulfurihydrogenibium	525.00	0.00	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00655358	Sulfurihydrogenibium	493.50	4.04	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Sulfurihydrogenibium	516.00	0.00	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Sulfurihydrogenibium	183.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Sulfurihydrogenibium	421.00	14.70	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Sulfurihydrogenibium	119.50	0.58	Ribosomal silencing factor RsfA
+PGF_00667501	Sulfurihydrogenibium	61.00	0.00	4-oxalocrotonate tautomerase
+PGF_00694649	Sulfurihydrogenibium	406.00	1.15	Uncharacterized MFS-type transporter
+PGF_00694978	Sulfurihydrogenibium	257.25	0.50	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00700446	Sulfurihydrogenibium	577.00	0.00	Domain of unknown function / Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_00709443	Sulfurihydrogenibium	114.50	1.73	Twin-arginine translocation protein TatB
+PGF_00725839	Sulfurihydrogenibium	670.50	1.00	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00728659	Sulfurihydrogenibium	359.00	0.00	Predicted methyltransferase, DUF43 family
+PGF_00734482	Sulfurihydrogenibium	678.50	4.12	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735925	Sulfurihydrogenibium	292.00	1.41	Transcriptional regulator, LysR family
+PGF_00761268	Sulfurihydrogenibium	290.00	0.00	Prephenate dehydrogenase (EC 1.3.1.12)
+PGF_00776587	Sulfurihydrogenibium	114.75	0.50	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Sulfurihydrogenibium	227.50	0.58	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00813259	Sulfurihydrogenibium	240.00	1.15	FolM Alternative dihydrofolate reductase 1
+PGF_00821644	Sulfurihydrogenibium	190.50	3.79	Phosphatidylinositol phosphate synthase @ Archaetidylinositol phosphate synthase (EC 2.7.8.39)
+PGF_00827555	Sulfurihydrogenibium	501.75	5.38	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00856417	Sulfurihydrogenibium	204.25	49.50	UPF0758 family protein
+PGF_00874759	Sulfurihydrogenibium	359.25	59.07	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00882396	Sulfurihydrogenibium	405.00	82.00	Uncharacterized MFS-type transporter
+PGF_00885329	Sulfurihydrogenibium	322.00	0.00	Flagellar motor switch protein FliM
+PGF_00909459	Sulfurihydrogenibium	169.00	0.00	Flagellar basal body-associated protein FliL
+PGF_00924816	Sulfurihydrogenibium	294.75	1.50	Thiol:disulfide interchange protein DsbC
+PGF_00925844	Sulfurihydrogenibium	454.25	2.06	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Sulfurihydrogenibium	552.50	0.58	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00934521	Sulfurihydrogenibium	376.00	2.31	Membrane fusion component of MSF-type tripartite multidrug efflux system
+PGF_00950554	Sulfurihydrogenibium	662.50	0.58	Excinuclease ABC subunit B
+PGF_00955412	Sulfurihydrogenibium	234.50	9.81	Probable iron export permease protein FetB
+PGF_00957419	Sulfurihydrogenibium	141.50	4.04	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Sulfurihydrogenibium	327.50	2.89	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_01008556	Sulfurihydrogenibium	236.50	0.58	Flagellar basal-body rod protein FlgF
+PGF_01010490	Sulfurihydrogenibium	343.50	0.58	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_01040342	Sulfurihydrogenibium	276.00	0.00	Spermidine synthase (EC 2.5.1.16)
+PGF_01067056	Sulfurihydrogenibium	105.75	1.26	Periplasmic divalent cation tolerance protein CutA
+PGF_01068086	Sulfurihydrogenibium	257.00	0.00	Flagellar biosynthesis protein FliR
+PGF_01084030	Sulfurihydrogenibium	669.00	216.40	Outer membrane protein assembly factor YaeT
+PGF_01104399	Sulfurihydrogenibium	271.75	0.50	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01126005	Sulfurihydrogenibium	374.50	0.58	Rod shape-determining protein RodA
+PGF_01149804	Sulfurihydrogenibium	380.75	106.50	Flagellar cap protein FliD
+PGF_01169833	Sulfurihydrogenibium	391.75	8.38	Flagellar biosynthesis protein FlhF
+PGF_01172485	Sulfurihydrogenibium	414.00	0.82	Cell division protein FtsA
+PGF_01174739	Sulfurihydrogenibium	248.00	1.41	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Sulfurihydrogenibium	642.00	1.15	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Sulfurihydrogenibium	253.50	47.70	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Sulfurihydrogenibium	544.00	0.82	Heat shock protein 60 family chaperone GroEL
+PGF_01217385	Sulfurihydrogenibium	218.00	0.00	Enhancing lycopene biosynthesis protein 2
+PGF_01225816	Sulfurihydrogenibium	419.50	1.73	L-Proline/Glycine betaine transporter ProP
+PGF_01232770	Sulfurihydrogenibium	153.50	4.04	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291823	Sulfurihydrogenibium	204.50	1.00	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01323228	Sulfurihydrogenibium	190.00	10.68	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Sulfurihydrogenibium	230.50	3.32	Molybdenum ABC transporter permease protein ModB
+PGF_01350798	Sulfurihydrogenibium	330.50	0.58	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01364427	Sulfurihydrogenibium	180.00	1.15	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01364570	Sulfurihydrogenibium	526.00	0.00	ABC1 family protein
+PGF_01365164	Sulfurihydrogenibium	313.00	47.34	UPF0324 inner membrane protein YeiH
+PGF_01407825	Sulfurihydrogenibium	465.25	10.69	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_01421577	Sulfurihydrogenibium	440.00	232.67	TPR domain protein
+PGF_01448031	Sulfurihydrogenibium	99.00	1.15	Integration host factor alpha subunit
+PGF_01466819	Sulfurihydrogenibium	405.00	8.76	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01467839	Sulfurihydrogenibium	647.00	0.00	Glucoamylase (EC 3.2.1.3)
+PGF_01479251	Sulfurihydrogenibium	306.00	3.27	General secretion pathway protein A
+PGF_01496273	Sulfurihydrogenibium	352.00	3.46	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+PGF_01496598	Sulfurihydrogenibium	313.75	1.89	Chemotaxis protein CheV (EC 2.7.3.-)
+PGF_01513923	Sulfurihydrogenibium	258.50	0.58	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01602421	Sulfurihydrogenibium	206.50	24.34	Flagellar basal-body rod modification protein FlgD
+PGF_01604929	Sulfurihydrogenibium	231.50	2.89	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01674551	Sulfurihydrogenibium	136.75	2.87	Glycine cleavage system H protein
+PGF_01682537	Sulfurihydrogenibium	121.50	0.58	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Sulfurihydrogenibium	147.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01760626	Sulfurihydrogenibium	1274.00	270.69	Type IV fimbrial biogenesis protein PilY1
+PGF_01763778	Sulfurihydrogenibium	294.00	0.00	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01765417	Sulfurihydrogenibium	78.75	0.50	NifU-like domain protein
+PGF_01767297	Sulfurihydrogenibium	287.50	88.14	Uncharacterized UPF0118 membrane protein
+PGF_01777142	Sulfurihydrogenibium	207.50	0.58	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01853493	Sulfurihydrogenibium	356.00	0.00	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01877133	Sulfurihydrogenibium	410.50	1.73	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Sulfurihydrogenibium	142.00	1.15	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01899098	Sulfurihydrogenibium	140.50	0.58	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01900670	Sulfurihydrogenibium	298.50	0.58	DNA polymerase I 5'-3' exonuclease domain
+PGF_01900704	Sulfurihydrogenibium	283.75	2.22	NADH dehydrogenase (ubiquinone)
+PGF_01921605	Sulfurihydrogenibium	458.00	2.31	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01994657	Sulfurihydrogenibium	434.25	5.06	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Sulfurihydrogenibium	252.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02015262	Sulfurihydrogenibium	240.50	1.73	Helicase loader DnaI
+PGF_02019462	Sulfurihydrogenibium	272.25	143.50	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Sulfurihydrogenibium	334.00	1.15	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Sulfurihydrogenibium	347.00	1.15	GTP-binding protein Obg
+PGF_02104610	Sulfurihydrogenibium	190.50	0.58	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases
+PGF_02109968	Sulfurihydrogenibium	339.00	1.15	Flagellar motor switch protein FliG
+PGF_02111888	Sulfurihydrogenibium	287.50	0.58	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Sulfurihydrogenibium	629.00	2.45	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02186693	Sulfurihydrogenibium	303.50	95.67	Flagellar biosynthesis protein FlhB
+PGF_02189378	Sulfurihydrogenibium	379.00	0.00	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02224568	Sulfurihydrogenibium	417.25	3.86	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02224810	Sulfurihydrogenibium	419.50	79.67	Uncharacterized amino acid permease, GabP family
+PGF_02295498	Sulfurihydrogenibium	108.00	0.00	Ferredoxin, 2Fe-2S
+PGF_02311293	Sulfurihydrogenibium	369.50	0.58	Peptide chain release factor 2
+PGF_02346669	Sulfurihydrogenibium	304.25	1.89	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Sulfurihydrogenibium	875.50	0.58	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Sulfurihydrogenibium	335.00	25.59	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Sulfurihydrogenibium	586.25	0.50	DNA polymerase I (EC 2.7.7.7)
+PGF_02371648	Sulfurihydrogenibium	139.00	1.15	CoA-binding domain protein
+PGF_02405545	Sulfurihydrogenibium	317.00	1.15	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02420191	Sulfurihydrogenibium	468.50	0.58	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02454577	Sulfurihydrogenibium	100.50	4.04	SSU ribosomal protein S20p
+PGF_02463284	Sulfurihydrogenibium	199.50	0.58	Recombination protein RecR
+PGF_02515882	Sulfurihydrogenibium	411.00	0.00	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Sulfurihydrogenibium	426.75	0.96	Enolase (EC 4.2.1.11)
+PGF_02537450	Sulfurihydrogenibium	347.50	1.73	HtrA protease/chaperone protein
+PGF_02565259	Sulfurihydrogenibium	432.50	0.58	Methylthioadenosine deaminase
+PGF_02611620	Sulfurihydrogenibium	464.00	5.48	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Sulfurihydrogenibium	252.25	116.17	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Sulfurihydrogenibium	1485.00	189.33	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02746016	Sulfurihydrogenibium	218.50	2.89	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02779037	Sulfurihydrogenibium	387.50	0.58	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+PGF_02788582	Sulfurihydrogenibium	763.50	0.58	Recombination inhibitory protein MutS2
+PGF_02789532	Sulfurihydrogenibium	286.50	5.20	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02797400	Sulfurihydrogenibium	487.00	0.00	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Sulfurihydrogenibium	1486.50	1.73	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02820109	Sulfurihydrogenibium	275.00	176.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Sulfurihydrogenibium	161.00	0.00	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02838109	Sulfurihydrogenibium	166.00	0.00	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Sulfurihydrogenibium	251.75	31.17	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02873723	Sulfurihydrogenibium	470.00	0.00	Ribonuclease G
+PGF_02877184	Sulfurihydrogenibium	359.50	0.58	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Sulfurihydrogenibium	357.50	0.58	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02895613	Sulfurihydrogenibium	436.00	2.31	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02896898	Sulfurihydrogenibium	1081.00	0.00	RND efflux system, inner membrane transporter
+PGF_02923127	Sulfurihydrogenibium	236.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Sulfurihydrogenibium	263.00	116.00	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Sulfurihydrogenibium	293.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02937881	Sulfurihydrogenibium	529.00	0.00	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+PGF_02942351	Sulfurihydrogenibium	208.50	2.89	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02942976	Sulfurihydrogenibium	311.00	168.68	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)
+PGF_02946231	Sulfurihydrogenibium	569.25	4.35	SSU ribosomal protein S1p
+PGF_02950579	Sulfurihydrogenibium	260.00	0.00	Septum site-determining protein MinD
+PGF_02954217	Sulfurihydrogenibium	295.00	0.00	N-carbamoylputrescine amidase (EC 3.5.1.53)
+PGF_02955419	Sulfurihydrogenibium	852.25	4.99	Outer membrane protein
+PGF_02956462	Sulfurihydrogenibium	118.75	10.50	RidA/YER057c/UK114 superfamily protein
+PGF_02992495	Sulfurihydrogenibium	98.00	1.15	Protein translocase membrane subunit SecG
+PGF_02995302	Sulfurihydrogenibium	331.50	7.05	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_02996193	Sulfurihydrogenibium	117.00	14.70	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02997723	Sulfurihydrogenibium	138.75	0.96	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03026450	Sulfurihydrogenibium	1171.50	0.58	Chromosome partition protein smc
+PGF_03060787	Sulfurihydrogenibium	360.50	0.58	hypothetical protein
+PGF_03066520	Sulfurihydrogenibium	414.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03067384	Sulfurihydrogenibium	261.25	22.02	TPR repeat
+PGF_03069487	Sulfurihydrogenibium	172.50	0.58	Glycine cleavage system transcriptional antiactivator GcvR
+PGF_03070510	Sulfurihydrogenibium	288.50	1.73	Flagellar synthesis regulator FleN
+PGF_03075912	Sulfurihydrogenibium	387.50	0.58	RND efflux system, membrane fusion protein
+PGF_03115648	Sulfurihydrogenibium	196.50	0.58	Cytochrome c family protein
+PGF_03124650	Sulfurihydrogenibium	485.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Sulfurihydrogenibium	446.25	0.50	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Sulfurihydrogenibium	313.00	0.00	Flagellar hook-associated protein FlgL
+PGF_03142685	Sulfurihydrogenibium	386.50	0.58	outer membrane efflux protein
+PGF_03146406	Sulfurihydrogenibium	568.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Sulfurihydrogenibium	259.50	0.58	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Sulfurihydrogenibium	262.50	2.89	Transcription antitermination protein NusG
+PGF_03196585	Sulfurihydrogenibium	109.00	0.00	Sulfur oxidation protein SoxZ
+PGF_03222913	Sulfurihydrogenibium	134.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03224875	Sulfurihydrogenibium	241.00	1.15	RNA polymerase sigma factor
+PGF_03226402	Sulfurihydrogenibium	179.00	0.00	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase (EC 1.13.11.54)
+PGF_03267589	Sulfurihydrogenibium	286.00	0.00	Transketolase, N-terminal section (EC 2.2.1.1)
+PGF_03272313	Sulfurihydrogenibium	794.25	1.50	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03287477	Sulfurihydrogenibium	182.25	58.17	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03341277	Sulfurihydrogenibium	223.00	0.82	Flagellar L-ring protein FlgH
+PGF_03365853	Sulfurihydrogenibium	211.00	0.00	Heavy-metal-associated domain (N-terminus) and membrane-bounded cytochrome biogenesis cycZ-like domain, possible membrane copper tolerance protein
+PGF_03408954	Sulfurihydrogenibium	177.00	0.00	hypothetical protein
+PGF_03432647	Sulfurihydrogenibium	229.00	72.00	COG1355, Predicted dioxygenase
+PGF_03439582	Sulfurihydrogenibium	208.50	0.58	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03439690	Sulfurihydrogenibium	144.50	0.58	Ferric uptake regulation protein FUR
+PGF_03440867	Sulfurihydrogenibium	131.50	0.58	UPF0047 protein Bsu YugU
+PGF_03448459	Sulfurihydrogenibium	133.50	0.58	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03470321	Sulfurihydrogenibium	174.50	0.58	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03507820	Sulfurihydrogenibium	306.50	0.58	Uncharacterized radical SAM protein YtqA
+PGF_03518570	Sulfurihydrogenibium	138.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Sulfurihydrogenibium	377.75	3.77	Cell division protein FtsZ
+PGF_03609651	Sulfurihydrogenibium	558.75	135.84	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03674577	Sulfurihydrogenibium	372.50	0.58	Cytochrome c-type biogenesis protein CcsA/ResC
+PGF_03683423	Sulfurihydrogenibium	515.50	0.58	ABC transporter, substrate-binding protein (cluster 9, phospholipid)
+PGF_03683432	Sulfurihydrogenibium	361.50	1.73	4Fe-4S ferredoxin, iron-sulfur binding
+PGF_03683438	Sulfurihydrogenibium	429.00	7.16	FIG007959: peptidase, M16 family
+PGF_03683488	Sulfurihydrogenibium	181.00	2.58	2'-5' RNA ligase
+PGF_03683509	Sulfurihydrogenibium	254.00	0.00	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_03683573	Sulfurihydrogenibium	80.00	0.00	Iron-sulfur cluster-binding protein
+PGF_03683634	Sulfurihydrogenibium	345.25	55.50	UPF0394 inner membrane protein YeeE family protein
+PGF_03683700	Sulfurihydrogenibium	106.00	0.00	Heme-degrading monooxygenase, staphylobilin-producing (EC 1.14.99.48)
+PGF_03683705	Sulfurihydrogenibium	96.50	0.58	DNA-binding protein SpoVG
+PGF_03683782	Sulfurihydrogenibium	473.75	1.50	Sulfide:quinone oxidoreductase, Type IV
+PGF_03683856	Sulfurihydrogenibium	160.00	0.00	HoxE-like protein
+PGF_03683900	Sulfurihydrogenibium	430.00	4.69	Pellicle/biofilm biosynthesis inner membrane protein PelD
+PGF_03684215	Sulfurihydrogenibium	157.00	1.15	Response regulator receiver protein
+PGF_03684216	Sulfurihydrogenibium	98.50	0.58	Transcriptional regulator, AsnC family
+PGF_03684217	Sulfurihydrogenibium	451.00	0.00	Transcriptional regulator, NtrC family
+PGF_03684218	Sulfurihydrogenibium	147.00	0.00	Transcriptional regulator, TraR/DksA family
+PGF_03684222	Sulfurihydrogenibium	161.00	0.00	ferredoxin thioredoxin reductase, catalytic beta chain
+PGF_03684224	Sulfurihydrogenibium	199.75	0.96	hypothetical protein
+PGF_03684225	Sulfurihydrogenibium	199.00	101.34	hypothetical protein
+PGF_03684227	Sulfurihydrogenibium	38.00	0.00	hypothetical protein
+PGF_03684228	Sulfurihydrogenibium	82.00	0.00	hypothetical protein
+PGF_03684232	Sulfurihydrogenibium	463.50	8.81	hypothetical protein
+PGF_03684233	Sulfurihydrogenibium	203.00	1.15	hypothetical protein
+PGF_03684235	Sulfurihydrogenibium	96.00	0.00	hypothetical protein
+PGF_03684236	Sulfurihydrogenibium	73.50	0.58	hypothetical protein
+PGF_03684237	Sulfurihydrogenibium	236.75	0.50	hypothetical protein
+PGF_03684238	Sulfurihydrogenibium	90.00	5.77	hypothetical protein
+PGF_03684239	Sulfurihydrogenibium	74.00	0.00	hypothetical protein
+PGF_03684241	Sulfurihydrogenibium	243.25	119.51	hypothetical protein
+PGF_03684242	Sulfurihydrogenibium	162.00	1.15	hypothetical protein
+PGF_03684243	Sulfurihydrogenibium	92.50	0.58	hypothetical protein
+PGF_03684244	Sulfurihydrogenibium	455.50	3.32	hypothetical protein
+PGF_03684245	Sulfurihydrogenibium	180.00	8.68	hypothetical protein
+PGF_03684246	Sulfurihydrogenibium	47.00	0.00	hypothetical protein
+PGF_03684247	Sulfurihydrogenibium	286.25	28.27	hypothetical protein
+PGF_03684248	Sulfurihydrogenibium	77.00	0.00	hypothetical protein
+PGF_03684249	Sulfurihydrogenibium	100.00	0.00	hypothetical protein
+PGF_03684251	Sulfurihydrogenibium	175.25	9.14	hypothetical protein
+PGF_03684252	Sulfurihydrogenibium	138.75	0.96	hypothetical protein
+PGF_03684253	Sulfurihydrogenibium	56.50	1.00	hypothetical protein
+PGF_03684254	Sulfurihydrogenibium	210.00	0.00	hypothetical protein
+PGF_03684255	Sulfurihydrogenibium	74.00	0.00	hypothetical protein
+PGF_03684256	Sulfurihydrogenibium	105.50	0.58	hypothetical protein
+PGF_03684257	Sulfurihydrogenibium	107.50	5.07	hypothetical protein
+PGF_03684258	Sulfurihydrogenibium	132.75	0.50	hypothetical protein
+PGF_03684260	Sulfurihydrogenibium	72.25	2.50	hypothetical protein
+PGF_03684262	Sulfurihydrogenibium	78.75	0.50	hypothetical protein
+PGF_03684264	Sulfurihydrogenibium	125.50	4.04	hypothetical protein
+PGF_03684265	Sulfurihydrogenibium	231.00	0.00	hypothetical protein
+PGF_03684266	Sulfurihydrogenibium	74.25	0.50	hypothetical protein
+PGF_03684267	Sulfurihydrogenibium	97.00	0.00	hypothetical protein
+PGF_03684268	Sulfurihydrogenibium	166.00	1.15	hypothetical protein
+PGF_03684273	Sulfurihydrogenibium	127.00	0.00	hypothetical protein
+PGF_03684274	Sulfurihydrogenibium	159.50	13.67	hypothetical protein
+PGF_03684275	Sulfurihydrogenibium	146.00	0.00	hypothetical protein
+PGF_03684277	Sulfurihydrogenibium	53.50	1.73	hypothetical protein
+PGF_03684278	Sulfurihydrogenibium	132.00	0.00	hypothetical protein
+PGF_03684279	Sulfurihydrogenibium	70.00	0.00	hypothetical protein
+PGF_03684280	Sulfurihydrogenibium	69.75	17.86	hypothetical protein
+PGF_03684281	Sulfurihydrogenibium	94.50	5.20	hypothetical protein
+PGF_03684282	Sulfurihydrogenibium	144.50	0.58	hypothetical protein
+PGF_03684283	Sulfurihydrogenibium	400.75	3.77	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03684285	Sulfurihydrogenibium	362.75	200.65	Murein hydrolase activator EnvC
+PGF_03684289	Sulfurihydrogenibium	143.25	9.50	small heat shock protein (class I)
+PGF_03684378	Sulfurihydrogenibium	324.50	79.79	HlyD family secretion protein, putative
+PGF_03685684	Sulfurihydrogenibium	231.25	181.73	Sulfide:quinone oxidoreductase, Type VI
+PGF_03696773	Sulfurihydrogenibium	455.25	4.27	Outer membrane porin
+PGF_03708253	Sulfurihydrogenibium	61.00	0.00	Protein translocase subunit SecE
+PGF_03719269	Sulfurihydrogenibium	197.00	1.15	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723396	Sulfurihydrogenibium	250.25	0.50	Serine protease
+PGF_03723827	Sulfurihydrogenibium	130.50	1.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750571	Sulfurihydrogenibium	451.50	8.81	Chromosomal replication initiator protein DnaA
+PGF_03750600	Sulfurihydrogenibium	160.50	0.58	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751133	Sulfurihydrogenibium	524.50	6.61	Efflux pump transporter (MSF type) of tripartite multidrug efflux system in Aquificae
+PGF_03751658	Sulfurihydrogenibium	69.00	0.00	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Sulfurihydrogenibium	196.50	5.74	Heat shock protein GrpE
+PGF_03752544	Sulfurihydrogenibium	220.00	1.15	Phosphate transport system regulatory protein PhoU
+PGF_03757137	Sulfurihydrogenibium	446.75	24.51	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Sulfurihydrogenibium	216.25	1.50	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03778780	Sulfurihydrogenibium	304.00	0.00	Signal recognition particle receptor FtsY
+PGF_03783620	Sulfurihydrogenibium	173.50	0.58	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Sulfurihydrogenibium	243.00	5.83	Ribonuclease III (EC 3.1.26.3)
+PGF_03801156	Sulfurihydrogenibium	306.25	0.96	Cobalt-zinc-cadmium resistance protein CzcD
+PGF_03801201	Sulfurihydrogenibium	259.50	6.40	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Sulfurihydrogenibium	64.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811905	Sulfurihydrogenibium	354.50	1.73	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03856084	Sulfurihydrogenibium	631.50	1.00	Cell division protein FtsH
+PGF_03862500	Sulfurihydrogenibium	206.00	1.15	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03954476	Sulfurihydrogenibium	260.25	11.59	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03960810	Sulfurihydrogenibium	278.00	0.00	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03966756	Sulfurihydrogenibium	156.50	1.73	Sulfur oxidation protein SoxY
+PGF_03991729	Sulfurihydrogenibium	386.50	0.58	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04001842	Sulfurihydrogenibium	474.75	15.37	Sodium-dependent anion transporter family
+PGF_04005838	Sulfurihydrogenibium	419.50	0.58	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04009106	Sulfurihydrogenibium	138.00	0.00	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04014993	Sulfurihydrogenibium	120.25	44.84	Diadenosine hexaphosphate (Ap6A) hydrolase; Bis(5'-nucleosyl)-tetraphosphatase (Ap4A) (Asymmetrical) (EC 3.6.1.17)
+PGF_04016408	Sulfurihydrogenibium	369.75	134.50	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04041316	Sulfurihydrogenibium	919.75	0.50	Excinuclease ABC subunit A
+PGF_04047265	Sulfurihydrogenibium	80.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04091295	Sulfurihydrogenibium	253.00	0.00	Flagellar motor rotation protein MotA
+PGF_04101957	Sulfurihydrogenibium	169.75	43.21	NAD(P)H oxidoreductase YrkL @ Putative NADPH-quinone reductase (modulator of drug activity B) @ Flavodoxin 2
+PGF_04108824	Sulfurihydrogenibium	482.75	177.21	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Sulfurihydrogenibium	256.00	3.46	Twin-arginine translocation protein TatC
+PGF_04150742	Sulfurihydrogenibium	268.00	0.82	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Sulfurihydrogenibium	167.00	1.15	16S rRNA processing protein RimM
+PGF_04213876	Sulfurihydrogenibium	253.00	1.15	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04256257	Sulfurihydrogenibium	459.00	0.00	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04261669	Sulfurihydrogenibium	104.00	0.00	Transcriptional regulator, ArsR family
+PGF_04267011	Sulfurihydrogenibium	783.50	461.67	RND efflux system, inner membrane transporter
+PGF_04345693	Sulfurihydrogenibium	486.00	6.27	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Sulfurihydrogenibium	930.25	0.96	Protein translocase subunit SecA
+PGF_04380075	Sulfurihydrogenibium	150.00	43.34	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Sulfurihydrogenibium	281.50	41.00	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Sulfurihydrogenibium	105.00	0.00	Thioredoxin
+PGF_04412826	Sulfurihydrogenibium	277.50	23.22	Probable lipoprotein YiaD
+PGF_04457297	Sulfurihydrogenibium	184.00	2.31	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Sulfurihydrogenibium	316.25	19.70	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04487934	Sulfurihydrogenibium	275.25	102.85	Glycosyl transferase, family 2
+PGF_04490704	Sulfurihydrogenibium	305.50	0.58	FIG022979: MoxR-like ATPases
+PGF_04493258	Sulfurihydrogenibium	394.50	1.73	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Sulfurihydrogenibium	266.00	48.08	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Sulfurihydrogenibium	345.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Sulfurihydrogenibium	434.50	1.73	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Sulfurihydrogenibium	363.00	188.01	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Sulfurihydrogenibium	504.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Sulfurihydrogenibium	250.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04660832	Sulfurihydrogenibium	163.50	0.58	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Sulfurihydrogenibium	810.50	1.73	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04749763	Sulfurihydrogenibium	838.00	178.02	Translation initiation factor 2
+PGF_04757308	Sulfurihydrogenibium	648.00	0.00	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04807486	Sulfurihydrogenibium	307.75	2.87	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Sulfurihydrogenibium	133.00	0.00	LSU ribosomal protein L19p
+PGF_04866046	Sulfurihydrogenibium	685.00	1.15	Uncharacterized protein YyaL
+PGF_04958295	Sulfurihydrogenibium	121.50	0.58	Flagellar biosynthesis protein FliS
+PGF_04960746	Sulfurihydrogenibium	202.00	22.82	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Sulfurihydrogenibium	701.25	0.50	3'-to-5' exoribonuclease RNase R
+PGF_04991091	Sulfurihydrogenibium	520.50	0.58	Bipolar DNA helicase HerA
+PGF_05056505	Sulfurihydrogenibium	655.00	0.00	Nitrogen regulation protein NtrY
+PGF_05100282	Sulfurihydrogenibium	763.50	99.67	Long-chain-fatty-acid--acyl carrier protein ligase / Acyl carrier protein / Lysophospholipid acyltransferase
+PGF_05111929	Sulfurihydrogenibium	574.25	0.50	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05165078	Sulfurihydrogenibium	311.00	0.00	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Sulfurihydrogenibium	474.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05255412	Sulfurihydrogenibium	419.75	67.17	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Sulfurihydrogenibium	431.00	0.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Sulfurihydrogenibium	738.75	87.06	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05382760	Sulfurihydrogenibium	435.75	36.14	Aminotransferase, class III
+PGF_05439724	Sulfurihydrogenibium	574.50	255.00	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Sulfurihydrogenibium	279.50	0.58	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Sulfurihydrogenibium	252.00	85.07	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05560886	Sulfurihydrogenibium	279.25	0.50	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581815	Sulfurihydrogenibium	214.00	0.00	Anaerobic respiratory reductase chaperone
+PGF_05598173	Sulfurihydrogenibium	375.50	0.58	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Sulfurihydrogenibium	422.00	0.82	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05712128	Sulfurihydrogenibium	514.50	0.58	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05925776	Sulfurihydrogenibium	287.50	0.58	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Sulfurihydrogenibium	443.00	138.00	Protein translocase subunit SecD
+PGF_06000040	Sulfurihydrogenibium	348.75	115.17	Type IV fimbrial assembly protein PilC
+PGF_06211427	Sulfurihydrogenibium	279.00	0.00	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06213055	Sulfurihydrogenibium	254.00	0.00	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Sulfurihydrogenibium	524.00	0.00	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Sulfurihydrogenibium	98.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Sulfurihydrogenibium	356.00	0.00	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06287652	Sulfurihydrogenibium	256.50	2.89	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06315406	Sulfurihydrogenibium	430.00	0.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Sulfurihydrogenibium	320.50	2.89	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06326847	Sulfurihydrogenibium	191.00	55.43	Flagellar biosynthesis protein FliP
+PGF_06403579	Sulfurihydrogenibium	789.00	13.09	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06458877	Sulfurihydrogenibium	160.00	0.00	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06495818	Sulfurihydrogenibium	258.00	1.15	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06545170	Sulfurihydrogenibium	124.50	0.58	Fluoride ion transporter CrcB
+PGF_06586947	Sulfurihydrogenibium	366.75	1.26	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06609275	Sulfurihydrogenibium	49.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06644010	Sulfurihydrogenibium	309.00	1.15	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Sulfurihydrogenibium	77.00	0.00	Acyl carrier protein
+PGF_06660812	Sulfurihydrogenibium	165.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06693963	Sulfurihydrogenibium	110.00	0.00	Nucleoid-associated protein YaaK
+PGF_06755829	Sulfurihydrogenibium	276.00	64.06	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06898392	Sulfurihydrogenibium	135.75	18.50	DUF458 domain-containing protein
+PGF_07101513	Sulfurihydrogenibium	187.00	9.56	Flagellar motor switch protein FliN
+PGF_07242312	Sulfurihydrogenibium	592.50	11.68	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07436227	Sulfurihydrogenibium	106.50	1.73	Arsenical resistance operon repressor
+PGF_08059770	Sulfurihydrogenibium	67.00	0.00	Sulfur carrier protein ThiS
+PGF_08063985	Sulfurihydrogenibium	632.75	2.06	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_08078018	Sulfurihydrogenibium	235.00	2.31	Transcriptional regulator, Crp/Fnr family
+PGF_08107649	Sulfurihydrogenibium	264.50	0.58	Flagellar motor rotation protein MotB
+PGF_08118408	Sulfurihydrogenibium	332.00	0.00	Ketol-acid reductoisomerase (NAD(P)(+)) (EC 1.1.1.383)
+PGF_08122483	Sulfurihydrogenibium	337.50	1.73	Lipopolysaccharide export system permease protein LptF
+PGF_08124484	Sulfurihydrogenibium	262.50	1.73	Rod shape-determining protein MreC
+PGF_08183187	Sulfurihydrogenibium	303.00	124.67	Cell division protein FtsW

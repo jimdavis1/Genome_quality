@@ -1,0 +1,698 @@
+PGF_00000125	Halococcus	369.25	14.43	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1
+PGF_00000144	Halococcus	454.00	1.41	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2
+PGF_00000369	Halococcus	143.12	9.73	A. fulgidus predicted coding region AF1182
+PGF_00000416	Halococcus	319.88	17.69	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00003106	Halococcus	287.75	7.01	FIG044987: protein with 4 CBS domains
+PGF_00003232	Halococcus	97.75	0.46	FIG059250: hypothetical protein
+PGF_00003516	Halococcus	258.00	10.93	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003748	Halococcus	326.88	7.61	FKBP-type peptidyl-prolyl cis-trans isomerase MJ0825 (EC 5.2.1.8)
+PGF_00003766	Halococcus	156.62	17.49	FMN adenylyltransferase, type 3 archaeal (EC 2.7.7.2)
+PGF_00004348	Halococcus	595.50	18.40	Ferredoxin reductase
+PGF_00005666	Halococcus	325.12	0.35	Flap structure-specific endonuclease
+PGF_00006100	Halococcus	363.38	6.44	tRNA-modifying protein YgfZ
+PGF_00006398	Halococcus	274.62	17.75	Fructose-bisphosphate aldolase, archaeal class I (EC 4.1.2.13)
+PGF_00006461	Halococcus	469.38	7.25	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006933	Halococcus	305.00	0.00	GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006934	Halococcus	186.25	4.27	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2)
+PGF_00007012	Halococcus	392.62	0.52	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007020	Halococcus	211.62	6.41	GTP-binding protein AF1181
+PGF_00007040	Halococcus	373.00	5.93	GTP-binding protein RBG1/RBG2
+PGF_00007044	Halococcus	315.12	0.64	OBG-family ribosome assembly protein NOG1/MJ1408
+PGF_00007978	Halococcus	321.50	0.76	Sugar-phosphate nucleotidyl transferase
+PGF_00007988	Halococcus	427.38	0.52	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008115	Halococcus	1519.75	15.79	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008239	Halococcus	232.50	5.68	Glutamine amidotransferase, class I
+PGF_00008258	Halococcus	456.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008334	Halococcus	414.88	84.41	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008336	Halococcus	570.88	1.73	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008338	Halococcus	425.62	7.61	Glutamyl-tRNA(Gln) amidotransferase asparaginase subunit (EC 6.3.5.7)
+PGF_00008341	Halococcus	649.00	26.46	Glutamyl-tRNA(Gln) amidotransferase transferase subunit (EC 6.3.5.7)
+PGF_00008393	Halococcus	388.00	1.85	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008439	Halococcus	335.25	3.65	Glutathione S-transferase, omega (EC 2.5.1.18)
+PGF_00008537	Halococcus	512.25	13.01	Glycerol kinase (EC 2.7.1.30)
+PGF_00008548	Halococcus	350.88	5.77	Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261)
+PGF_00008774	Halococcus	443.75	9.87	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Halococcus	479.38	8.83	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00009966	Halococcus	590.62	12.43	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010740	Halococcus	142.00	0.00	Transcriptional regulator Ptr2, AsnC family
+PGF_00010991	Halococcus	284.50	7.25	Heat shock protein HtpX
+PGF_00011326	Halococcus	348.25	4.17	Heme biosynthesis protein related to NirD / Heme biosynthesis protein related to NirL
+PGF_00011327	Halococcus	362.12	6.06	Heme biosynthesis protein related to NirG / Heme biosynthesis protein related to NirH
+PGF_00011603	Halococcus	321.50	1.31	Hexokinase (EC 2.7.1.1)
+PGF_00012265	Halococcus	140.62	3.54	Holliday junction resolvase
+PGF_00012340	Halococcus	316.62	0.52	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Halococcus	298.62	14.18	Homoserine kinase (EC 2.7.1.39)
+PGF_00012795	Halococcus	176.50	2.07	ACT-domain-containing protein, predicted allosteric regulator of homoserine dehydrogenase
+PGF_00012926	Halococcus	403.12	0.83	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_00012930	Halococcus	444.38	0.52	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+PGF_00013510	Halococcus	199.62	14.71	IMP cyclohydrolase (EC 3.5.4.10) [alternate form]
+PGF_00013803	Halococcus	197.12	9.96	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Halococcus	251.75	2.49	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014306	Halococcus	179.25	5.97	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014855	Halococcus	281.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00014917	Halococcus	334.50	32.26	Integrase/recombinase
+PGF_00015510	Halococcus	309.50	7.13	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Halococcus	477.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015519	Halococcus	403.00	0.00	Iron-sulfur cluster assembly protein SufD
+PGF_00015701	Halococcus	437.75	62.75	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Halococcus	1073.88	11.19	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015730	Halococcus	246.88	5.91	Isopentenyl phosphate kinase (EC 2.7.4.26)
+PGF_00015733	Halococcus	191.00	3.16	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015813	Halococcus	624.62	4.75	Uncharacterized KH and PIN-domain containing protein MJ1533
+PGF_00015855	Halococcus	348.50	0.93	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016003	Halococcus	347.75	1.58	L-alanine-DL-glutamate epimerase (EC 5.1.1.n1)
+PGF_00016320	Halococcus	212.25	0.46	LSU ribosomal protein L10Ae (L1p)
+PGF_00016321	Halococcus	175.12	2.47	LSU ribosomal protein L10e (L16p)
+PGF_00016331	Halococcus	172.00	0.00	LSU ribosomal protein L11e (L5p)
+PGF_00016334	Halococcus	156.38	11.16	LSU ribosomal protein L12e (L11p)
+PGF_00016335	Halococcus	144.38	0.52	LSU ribosomal protein L13Ae (L13p)
+PGF_00016341	Halococcus	196.00	0.00	LSU ribosomal protein L15e
+PGF_00016345	Halococcus	152.12	7.62	LSU ribosomal protein L17e (L22p)
+PGF_00016352	Halococcus	116.00	0.00	LSU ribosomal protein L18e
+PGF_00016356	Halococcus	246.12	0.83	LSU ribosomal protein L1e (L4p)
+PGF_00016363	Halococcus	97.12	3.18	LSU ribosomal protein L21e
+PGF_00016373	Halococcus	132.00	0.00	LSU ribosomal protein L23e (L14p)
+PGF_00016376	Halococcus	188.12	14.93	LSU ribosomal protein L24e
+PGF_00016382	Halococcus	118.25	0.46	LSU ribosomal protein L26e (L24p)
+PGF_00016384	Halococcus	170.38	0.92	LSU ribosomal protein L27Ae (L15p)
+PGF_00016396	Halococcus	92.00	0.00	LSU ribosomal protein L31e
+PGF_00016421	Halococcus	74.50	1.07	LSU ribosomal protein L35e (L29p)
+PGF_00016426	Halococcus	91.25	2.66	LSU ribosomal protein L37Ae
+PGF_00016427	Halococcus	57.00	0.00	LSU ribosomal protein L37e
+PGF_00016429	Halococcus	50.00	0.00	LSU ribosomal protein L39e
+PGF_00016430	Halococcus	314.12	22.20	LSU ribosomal protein L3e (L3p)
+PGF_00016434	Halococcus	49.38	1.06	LSU ribosomal protein L40e
+PGF_00016438	Halococcus	106.88	29.13	LSU ribosomal protein L44e
+PGF_00016442	Halococcus	180.75	15.14	LSU ribosomal protein L5e (L18p)
+PGF_00016446	Halococcus	120.00	0.00	LSU ribosomal protein L7Ae
+PGF_00016447	Halococcus	151.25	7.78	LSU ribosomal protein L7e (L30p)
+PGF_00016449	Halococcus	237.00	0.00	LSU ribosomal protein L8e (L2p)
+PGF_00016450	Halococcus	181.62	2.33	LSU ribosomal protein L9e (L6p)
+PGF_00016455	Halococcus	350.25	3.62	LSU ribosomal protein P0 (L10p)
+PGF_00016546	Halococcus	254.00	2.83	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016853	Halococcus	162.12	0.35	Leucine responsive regulatory protein
+PGF_00017479	Halococcus	324.50	16.86	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Halococcus	347.50	17.79	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017729	Halococcus	296.25	6.18	Lycopene elongase (EC 2.5.1.-)
+PGF_00017895	Halococcus	817.25	7.74	ATP-dependent RNA helicase homolog eIF-4A
+PGF_00018952	Halococcus	303.88	2.90	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019468	Halococcus	506.75	92.08	Medium-chain fatty acid-CoA ligase
+PGF_00019964	Halococcus	694.62	15.23	ATP-dependent protease LonB Type II
+PGF_00020172	Halococcus	275.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020387	Halococcus	272.50	0.76	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020530	Halococcus	290.00	9.17	ATP-utilizing enzyme of the PP-loop superfamily
+PGF_00020793	Halococcus	173.25	11.87	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00021217	Halococcus	516.88	14.33	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021389	Halococcus	423.88	14.19	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00021401	Halococcus	198.38	6.70	Mg/Co/Ni transporter MgtE
+PGF_00021402	Halococcus	185.00	0.00	Mg/Co/Ni transporter MgtE
+PGF_00022531	Halococcus	584.50	167.18	Molybdopterin molybdenumtransferase (EC 2.10.1.1) / Periplasmic molybdate-binding domain
+PGF_00022584	Halococcus	273.75	1.04	Molybdopterin-guanine dinucleotide biosynthesis protein MobB / Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_00023592	Halococcus	526.12	60.10	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234) / Kinase (Bud32/PRPK), required for threonylcarbamoyladenosine t(6)A37 formation in tRNA (p53-regulating)
+PGF_00023743	Halococcus	378.38	0.52	Acetylornithine aminotransferase (EC 2.6.1.11) @ N-acetyl-lysine aminotransferase (EC 2.6.1.-)
+PGF_00024270	Halococcus	336.00	4.21	N5,N10-methylenetetrahydromethanopterin reductase-related protein, VNG1342Gm family
+PGF_00024273	Halococcus	208.00	7.27	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Halococcus	380.38	4.60	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024581	Halococcus	294.00	0.93	NADH dehydrogenase/oxidoreductase-like protein
+PGF_00024654	Halococcus	361.38	12.35	NADH-dependent flavin oxidoreductase
+PGF_00024728	Halococcus	100.50	20.63	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Halococcus	100.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Halococcus	469.62	104.91	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Halococcus	491.00	0.93	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025215	Halococcus	207.62	11.56	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025258	Halococcus	455.25	8.86	Na+/Ca2+-exchanging protein
+PGF_00025259	Halococcus	343.25	3.77	Na+/Ca2+-exchanging protein
+PGF_00025379	Halococcus	296.00	14.70	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025562	Halococcus	192.38	7.54	Nicotinamidase (EC 3.5.1.19)
+PGF_00025580	Halococcus	191.00	21.56	Nicotinamide-nucleotide adenylyltransferase, NadM family (EC 2.7.7.1)
+PGF_00025600	Halococcus	382.25	1.91	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025659	Halococcus	121.88	0.83	NifU-like domain protein
+PGF_00027000	Halococcus	355.75	2.12	Acetylornithine deacetylase (EC 3.5.1.16); N-acetyl-lysine deacetylase (EC 3.5.1.-)
+PGF_00029181	Halococcus	338.12	50.56	PELOTA homolog; COG1537: Predicted RNA-binding proteins
+PGF_00030842	Halococcus	112.00	0.00	Peptidyl-tRNA hydrolase, archaeal type (EC 3.1.1.29)
+PGF_00033075	Halococcus	498.62	0.52	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_00033095	Halococcus	572.12	4.12	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033402	Halococcus	764.12	10.12	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033430	Halococcus	255.50	3.30	Phosphoesterase
+PGF_00033878	Halococcus	163.62	2.56	Phosphopantetheine adenylyltransferase, type II eukaryotic (EC 2.7.7.3)
+PGF_00033890	Halococcus	252.75	6.04	Phosphopantothenate synthetase, archaeal (EC 6.3.2.36)
+PGF_00033928	Halococcus	445.38	11.65	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033933	Halococcus	343.62	4.47	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Halococcus	212.00	1.77	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Halococcus	241.75	0.46	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033959	Halococcus	225.75	1.39	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00034002	Halococcus	293.00	8.09	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_00034252	Halococcus	358.38	18.24	2,5-diamino-6-ribitylamino-pyrimidinone 5-phosphate deaminase, archaeal (EC 3.5.4.-)
+PGF_00034647	Halococcus	473.75	19.45	Polyhydroxyalkanoic acid synthase
+PGF_00034973	Halococcus	194.25	16.47	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Halococcus	345.25	4.98	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035067	Halococcus	224.25	11.22	2,5-diamino-6-ribosylamino-pyrimidinone 5-phosphate reductase, fungal/archaeal (EC 1.1.1.302)
+PGF_00035351	Halococcus	415.50	8.64	Potassium channel protein
+PGF_00035437	Halococcus	780.88	14.31	Pre-mRNA splicing helicase
+PGF_00035648	Halococcus	200.50	48.65	RNA methylase
+PGF_00035649	Halococcus	192.62	2.33	Predicted RNA-binding protein COG1491
+PGF_00035665	Halococcus	61.00	0.00	Predicted Zn-ribbon RNA-binding protein with a function in translation
+PGF_00035721	Halococcus	460.38	0.52	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Halococcus	462.12	14.70	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036193	Halococcus	169.75	0.89	Predicted phosphoesterase MJ0623
+PGF_00036536	Halococcus	157.50	0.76	Prefoldin subunit alpha
+PGF_00036952	Halococcus	464.62	7.76	Probable aminomethyltransferase (EC 2.1.2.10)
+PGF_00036988	Halococcus	269.75	1.04	Agmatinase (EC 3.5.3.11)
+PGF_00037521	Halococcus	278.12	3.18	Proline dehydrogenase (EC 1.5.5.2)
+PGF_00037586	Halococcus	485.62	0.52	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00038629	Halococcus	639.62	8.52	Protein similar to polyadenylation specificity factor, MJ1236 type
+PGF_00038650	Halococcus	543.12	4.36	Protein translocase subunit SecD
+PGF_00038673	Halococcus	287.50	2.93	Protein translocase subunit SecF
+PGF_00038675	Halococcus	471.25	12.75	Protein translocase subunit SecY
+PGF_00039674	Halococcus	182.00	0.00	Putative RNA-binding protein COG1094
+PGF_00043324	Halococcus	230.50	21.01	Putative preQ0 transporter YhhQ
+PGF_00044165	Halococcus	744.25	4.89	Putative ski2-type helicase MJ1124
+PGF_00044391	Halococcus	145.00	0.00	Putative transcription antitermination protein NusG
+PGF_00045787	Halococcus	195.75	0.46	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Halococcus	303.00	2.83	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00046769	Halococcus	606.38	3.50	RNase L inhibitor
+PGF_00046822	Halococcus	292.25	3.11	Alpha-aminoadipate--LysW ligase (EC 6.3.2.n4)
+PGF_00047547	Halococcus	478.62	9.69	Replication factor A (ssDNA-binding protein)
+PGF_00047549	Halococcus	487.88	6.03	Replication factor C large subunit
+PGF_00047609	Halococcus	437.88	10.38	Replication protein A (two OB fold, one zinc finger)
+PGF_00048480	Halococcus	198.00	9.71	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Halococcus	217.12	7.59	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048594	Halococcus	323.25	33.18	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048782	Halococcus	283.88	3.94	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048896	Halococcus	173.38	10.10	Ribosome biogenesis protein TSR3
+PGF_00049827	Halococcus	289.88	6.15	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049829	Halococcus	139.38	3.54	SSU ribosomal protein S11e (S17p)
+PGF_00049839	Halococcus	141.62	7.82	SSU ribosomal protein S13e (S15p)
+PGF_00049841	Halococcus	130.12	0.99	SSU ribosomal protein S14e (S11p)
+PGF_00049846	Halococcus	140.00	0.00	SSU ribosomal protein S15e (S19p)
+PGF_00049848	Halococcus	132.00	1.85	SSU ribosomal protein S16e (S9p)
+PGF_00049855	Halococcus	171.00	1.31	SSU ribosomal protein S18e (S13p)
+PGF_00049859	Halococcus	156.25	14.85	SSU ribosomal protein S19e
+PGF_00049862	Halococcus	102.00	0.00	SSU ribosomal protein S20e (S10p)
+PGF_00049869	Halococcus	143.62	3.29	SSU ribosomal protein S23e (S12p)
+PGF_00049872	Halococcus	109.38	5.34	SSU ribosomal protein S24e
+PGF_00049876	Halococcus	44.00	0.00	SSU ribosomal protein S27Ae
+PGF_00049879	Halococcus	72.38	0.52	SSU ribosomal protein S28e
+PGF_00049881	Halococcus	211.62	2.13	SSU ribosomal protein S2e (S5p)
+PGF_00049886	Halococcus	211.00	0.00	SSU ribosomal protein S3Ae
+PGF_00049888	Halococcus	371.00	5.88	SSU ribosomal protein S3e (S3p)
+PGF_00049894	Halococcus	207.12	5.06	SSU ribosomal protein S5e (S7p)
+PGF_00049898	Halococcus	135.12	3.48	SSU ribosomal protein S6e
+PGF_00049905	Halococcus	124.88	5.30	SSU ribosomal protein S8e
+PGF_00049907	Halococcus	175.00	0.00	SSU ribosomal protein S9e (S4p)
+PGF_00049910	Halococcus	257.62	4.81	SSU ribosomal protein SAe (S2p)
+PGF_00050288	Halococcus	281.62	13.74	Segregation and condensation protein A
+PGF_00050995	Halococcus	475.75	3.28	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Halococcus	457.50	3.42	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051543	Halococcus	288.75	6.25	Shikimate kinase II (EC 2.7.1.71)
+PGF_00051879	Halococcus	241.00	0.00	Shwachman-Bodian-Diamond syndrome protein; predicted exosome subunit
+PGF_00052238	Halococcus	466.62	1.51	Signal recognition particle protein Ffh
+PGF_00052565	Halococcus	276.75	6.09	Similar to citrate lyase beta chain, 3
+PGF_00053770	Halococcus	365.00	3.21	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053970	Halococcus	351.50	3.74	Squalene synthase (EC 2.5.1.21)
+PGF_00054343	Halococcus	193.88	2.59	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054458	Halococcus	130.00	0.00	Succinate dehydrogenase cytochrome b subunit
+PGF_00054476	Halococcus	122.12	1.55	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054528	Halococcus	384.75	8.19	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055295	Halococcus	285.00	4.57	Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00055376	Halococcus	447.62	8.21	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+PGF_00055723	Halococcus	156.12	9.09	TRAM domain protein
+PGF_00056501	Halococcus	597.62	4.69	Thiamin ABC transporter, transmembrane component
+PGF_00056543	Halococcus	313.75	14.74	Thiazole biosynthetic enzyme Thi4 / Ribose 1,5-bisphosphate or 5-ribose-1,2-cyclic phosphate dehydrogenase
+PGF_00056699	Halococcus	354.00	0.00	Anthranilate phosphoribosyltransferase like (EC 2.4.2.18)
+PGF_00056814	Halococcus	532.12	9.20	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Halococcus	195.88	4.91	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057678	Halococcus	153.62	4.66	Leucine-responsive-regulatory protein, AsnC family
+PGF_00058175	Halococcus	137.00	0.00	HTH-type transcriptional regulator LysM
+PGF_00058990	Halococcus	202.62	9.20	Transcriptional regulator, ArsR family
+PGF_00060402	Halococcus	421.88	12.80	Translation elongation factor 1 alpha subunit
+PGF_00060405	Halococcus	88.00	0.00	Translation elongation factor 1 beta subunit
+PGF_00060408	Halococcus	725.88	5.22	Translation elongation factor 2
+PGF_00060680	Halococcus	815.50	0.93	Exporter protein, RND family
+PGF_00060767	Halococcus	674.12	6.94	Type II secretion system protein
+PGF_00062023	Halococcus	276.62	5.73	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00063452	Halococcus	687.38	4.34	Archaea-specific Superfamily II helicase MJ1401
+PGF_00063560	Halococcus	1265.00	193.61	Archaeal DNA polymerase II large subunit (EC 2.7.7.7)
+PGF_00063594	Halococcus	528.25	10.79	Archaeal DNA polymerase II small subunit (EC 2.7.7.7)
+PGF_00063608	Halococcus	399.00	0.00	S-adenosylmethionine synthetase, archaeal (EC 2.5.1.6)
+PGF_00063785	Halococcus	227.12	1.81	Archaeal heat shock regulator, ArsR family
+PGF_00063915	Halococcus	342.62	1.41	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063931	Halococcus	356.75	14.50	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronic acid 2-epimerase (EC 5.1.3.23)
+PGF_00064169	Halococcus	300.12	2.47	Arginase (EC 3.5.3.1)
+PGF_00064246	Halococcus	197.25	10.02	UPF0218 protein MJ0395
+PGF_00064475	Halococcus	242.75	20.33	Ubiquinone/menaquinone biosynthesis methyltransferase UbiE/COQ5 (EC 2.1.1.-)
+PGF_00064540	Halococcus	945.00	0.00	Uncharacterized ATP-dependent helicase AF1149
+PGF_00064547	Halococcus	361.12	7.30	Uncharacterized Fe-S oxidoreductase MJ0550
+PGF_00064605	Halococcus	210.88	2.59	Uncharacterized Zn-dependent protease MJ0611
+PGF_00065004	Halococcus	328.25	4.95	Uncharacterized protein MJ0021
+PGF_00065011	Halococcus	126.50	16.80	Uncharacterized protein MJ0068
+PGF_00065238	Halococcus	376.75	17.15	Arsenical-resistance protein ACR3
+PGF_00065887	Halococcus	181.38	58.34	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Halococcus	225.00	2.83	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066372	Halococcus	585.00	0.00	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066375	Halococcus	490.62	8.62	V-type ATP synthase subunit B (EC 3.6.3.14)
+PGF_00066389	Halococcus	236.25	6.50	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066398	Halococcus	192.62	0.52	V-type ATP synthase subunit E (EC 3.6.3.14)
+PGF_00066423	Halococcus	748.75	19.54	V-type ATP synthase subunit I (EC 3.6.3.14)
+PGF_00066453	Halococcus	876.38	9.09	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066639	Halococcus	353.25	50.30	Aspartate aminotransferase
+PGF_00066644	Halococcus	389.12	0.83	Aspartate aminotransferase
+PGF_00066734	Halococcus	92.00	0.00	Vng1086c
+PGF_00066906	Halococcus	312.75	8.21	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066960	Halococcus	164.75	9.19	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067188	Halococcus	344.00	0.93	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067554	Halococcus	500.25	8.46	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067847	Halococcus	336.88	1.36	acetoin utilization protein
+PGF_00070024	Halococcus	224.00	36.84	Uncharacterized protein MJ0570
+PGF_00070089	Halococcus	140.62	13.94	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070163	Halococcus	159.00	0.00	conserved protein with predicted RNA binding PUA domain
+PGF_00070332	Halococcus	266.25	3.11	cytochrome b6
+PGF_00070432	Halococcus	415.25	8.29	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070755	Halococcus	588.50	10.04	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)
+PGF_00070777	Halococcus	352.00	13.23	Diphthamide biosynthesis protein 1
+PGF_00070870	Halococcus	189.00	0.00	eRF1 methyltransferase catalytic subunit MTQ2
+PGF_00072295	Halococcus	551.50	6.28	Uncharacterized acetyltransferase SSO0480
+PGF_00072755	Halococcus	448.25	0.46	hypothetical protein
+PGF_00081634	Halococcus	184.88	6.58	hypothetical protein
+PGF_00084324	Halococcus	272.12	0.99	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00096220	Halococcus	241.25	0.46	hypothetical protein
+PGF_00098608	Halococcus	299.88	4.91	hypothetical protein
+PGF_00109752	Halococcus	146.25	4.77	hypothetical protein
+PGF_00110417	Halococcus	169.75	3.54	hypothetical protein
+PGF_00111266	Halococcus	198.62	16.75	hypothetical protein
+PGF_00112250	Halococcus	123.12	7.57	hypothetical protein
+PGF_00115266	Halococcus	192.00	0.00	hypothetical protein
+PGF_00118522	Halococcus	91.88	1.36	hypothetical protein
+PGF_00120595	Halococcus	130.25	10.18	hypothetical protein
+PGF_00121018	Halococcus	284.62	13.90	hypothetical protein
+PGF_00126385	Halococcus	147.75	9.19	hypothetical protein
+PGF_00130230	Halococcus	633.25	4.68	Uncharacterized protein MJ1198
+PGF_00133777	Halococcus	200.62	5.66	Uncharacterized membrane anchored protein VNG2121C
+PGF_00136195	Halococcus	365.00	91.75	hypothetical protein
+PGF_00138326	Halococcus	348.88	5.25	hypothetical protein
+PGF_00139156	Halococcus	194.75	2.60	hypothetical protein
+PGF_00139258	Halococcus	81.50	2.27	hypothetical protein
+PGF_00142519	Halococcus	94.00	0.00	Uncharacterized protein MJ0273
+PGF_00142703	Halococcus	504.25	7.87	hypothetical protein
+PGF_00142729	Halococcus	168.12	11.00	hypothetical protein
+PGF_00143421	Halococcus	125.25	9.41	hypothetical protein
+PGF_00146248	Halococcus	74.38	1.06	hypothetical protein
+PGF_00150111	Halococcus	106.00	0.00	hypothetical protein
+PGF_00150522	Halococcus	92.62	3.81	hypothetical protein
+PGF_00152153	Halococcus	165.38	0.52	hypothetical protein
+PGF_00152555	Halococcus	128.25	2.05	hypothetical protein
+PGF_00159459	Halococcus	399.75	5.82	hypothetical protein
+PGF_00160002	Halococcus	278.50	46.40	hypothetical protein
+PGF_00161035	Halococcus	243.38	1.41	hypothetical protein
+PGF_00162997	Halococcus	464.75	6.69	hypothetical protein
+PGF_00164360	Halococcus	160.25	3.11	hypothetical protein
+PGF_00166421	Halococcus	153.75	9.81	hypothetical protein
+PGF_00166717	Halococcus	167.00	0.00	ACT domain-containing protein
+PGF_00168491	Halococcus	174.00	8.49	hypothetical protein
+PGF_00169554	Halococcus	160.25	2.87	hypothetical protein
+PGF_00172676	Halococcus	287.12	19.70	hypothetical protein
+PGF_00174841	Halococcus	228.75	17.28	hypothetical protein
+PGF_00176557	Halococcus	250.25	66.57	hypothetical protein
+PGF_00180758	Halococcus	102.25	1.28	hypothetical protein
+PGF_00181418	Halococcus	111.50	1.31	hypothetical protein
+PGF_00182190	Halococcus	358.75	23.14	hypothetical protein
+PGF_00182386	Halococcus	115.88	0.35	hypothetical protein
+PGF_00188552	Halococcus	315.25	3.20	Uncharacterized transcriptional regulatory protein MJ1164, Cro/C1 family
+PGF_00188791	Halococcus	90.50	1.07	hypothetical protein
+PGF_00189634	Halococcus	378.75	6.41	hypothetical protein
+PGF_00190223	Halococcus	172.38	0.52	hypothetical protein
+PGF_00191713	Halococcus	60.62	2.26	hypothetical protein
+PGF_00191793	Halococcus	107.75	0.46	hypothetical protein
+PGF_00197773	Halococcus	69.00	0.00	hypothetical protein
+PGF_00199421	Halococcus	248.50	1.41	hypothetical protein
+PGF_00199671	Halococcus	477.12	5.96	hypothetical protein
+PGF_00202206	Halococcus	335.38	7.52	hypothetical protein
+PGF_00203673	Halococcus	127.50	1.41	hypothetical protein
+PGF_00205254	Halococcus	149.00	0.00	UPF0179 protein MJ1627
+PGF_00206231	Halococcus	92.00	2.83	hypothetical protein
+PGF_00215620	Halococcus	54.12	0.83	hypothetical protein
+PGF_00215644	Halococcus	675.75	6.80	hypothetical protein
+PGF_00219924	Halococcus	366.50	2.45	hypothetical protein
+PGF_00233123	Halococcus	98.00	0.00	hypothetical protein
+PGF_00236203	Halococcus	428.38	94.90	hypothetical protein
+PGF_00236245	Halococcus	78.62	0.52	hypothetical protein
+PGF_00236455	Halococcus	221.00	0.00	Uncharacterized protein PH0618
+PGF_00237769	Halococcus	263.38	1.92	hypothetical protein
+PGF_00238549	Halococcus	366.25	61.23	Uncharacterized protein AF1362
+PGF_00241858	Halococcus	496.75	168.02	hypothetical protein
+PGF_00243634	Halococcus	163.25	4.13	hypothetical protein
+PGF_00253644	Halococcus	78.62	5.48	hypothetical protein
+PGF_00254600	Halococcus	413.62	5.37	Manganese transport protein MntX
+PGF_00256654	Halococcus	161.75	0.46	hypothetical protein
+PGF_00264037	Halococcus	461.38	2.77	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+PGF_00265003	Halococcus	142.62	3.25	hypothetical protein
+PGF_00265097	Halococcus	218.75	0.46	hypothetical protein
+PGF_00266989	Halococcus	212.88	6.69	hypothetical protein
+PGF_00267025	Halococcus	174.38	4.93	hypothetical protein
+PGF_00270101	Halococcus	91.75	4.77	hypothetical protein
+PGF_00270717	Halococcus	198.25	3.37	hypothetical protein
+PGF_00271552	Halococcus	197.88	9.70	hypothetical protein
+PGF_00271934	Halococcus	109.75	1.04	hypothetical protein
+PGF_00276250	Halococcus	137.50	1.31	hypothetical protein
+PGF_00280549	Halococcus	291.38	1.60	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00281387	Halococcus	375.38	1.41	hypothetical protein
+PGF_00282411	Halococcus	290.50	64.52	hypothetical protein
+PGF_00288309	Halococcus	144.38	32.73	hypothetical protein
+PGF_00289150	Halococcus	141.00	1.31	hypothetical protein
+PGF_00292250	Halococcus	229.12	1.36	Intracellular protease
+PGF_00295110	Halococcus	235.62	0.52	hypothetical protein
+PGF_00295348	Halococcus	415.12	2.17	ABC-type antimicrobial peptide transport system, permease component
+PGF_00299265	Halococcus	130.00	0.00	hypothetical protein
+PGF_00299428	Halococcus	141.00	0.00	hypothetical protein
+PGF_00299798	Halococcus	266.50	5.07	hypothetical protein
+PGF_00300384	Halococcus	202.25	33.61	hypothetical protein
+PGF_00302932	Halococcus	172.88	1.81	hypothetical protein
+PGF_00304487	Halococcus	135.00	5.55	hypothetical protein
+PGF_00308744	Halococcus	323.50	10.64	hypothetical protein
+PGF_00309559	Halococcus	406.00	7.23	hypothetical protein
+PGF_00309637	Halococcus	328.75	8.48	hypothetical protein
+PGF_00310362	Halococcus	132.62	5.53	hypothetical protein
+PGF_00311112	Halococcus	340.38	24.18	hypothetical protein
+PGF_00314268	Halococcus	159.12	5.06	hypothetical protein
+PGF_00314670	Halococcus	134.00	7.35	hypothetical protein
+PGF_00315004	Halococcus	279.12	4.70	hypothetical protein
+PGF_00316367	Halococcus	503.12	1.89	hypothetical protein
+PGF_00321553	Halococcus	306.50	2.07	ABC transporter, substrate-binding protein (cluster 8, B12/iron complex)
+PGF_00322517	Halococcus	133.38	3.46	hypothetical protein
+PGF_00322807	Halococcus	76.25	0.46	hypothetical protein
+PGF_00324124	Halococcus	592.25	8.12	hypothetical protein
+PGF_00327199	Halococcus	251.62	3.58	hypothetical protein
+PGF_00329894	Halococcus	121.25	9.74	hypothetical protein
+PGF_00330981	Halococcus	48.00	0.00	hypothetical protein
+PGF_00331088	Halococcus	202.88	1.36	hypothetical protein
+PGF_00332731	Halococcus	245.38	4.41	hypothetical protein
+PGF_00337804	Halococcus	151.12	12.06	hypothetical protein
+PGF_00338644	Halococcus	407.25	26.56	hypothetical protein
+PGF_00341056	Halococcus	272.62	0.52	hypothetical protein
+PGF_00344934	Halococcus	171.38	2.50	hypothetical protein
+PGF_00351553	Halococcus	224.12	36.46	hypothetical protein
+PGF_00353133	Halococcus	97.75	0.46	hypothetical protein
+PGF_00353330	Halococcus	190.00	3.34	hypothetical protein
+PGF_00354192	Halococcus	270.00	0.00	Uncharacterized protein MJ1002
+PGF_00355403	Halococcus	448.62	25.52	Phosphomannomutase (EC 5.4.2.8); Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00357114	Halococcus	309.25	7.55	hypothetical protein
+PGF_00358085	Halococcus	160.50	30.97	hypothetical protein
+PGF_00364297	Halococcus	448.62	1.77	hypothetical protein
+PGF_00364989	Halococcus	340.25	6.39	hypothetical protein
+PGF_00365911	Halococcus	150.50	6.80	hypothetical protein
+PGF_00366276	Halococcus	161.25	0.71	hypothetical protein
+PGF_00367644	Halococcus	88.12	1.25	hypothetical protein
+PGF_00370013	Halococcus	98.62	1.60	hypothetical protein
+PGF_00373001	Halococcus	176.38	0.52	hypothetical protein
+PGF_00374420	Halococcus	150.00	2.56	hypothetical protein
+PGF_00377203	Halococcus	158.00	6.09	hypothetical protein
+PGF_00379122	Halococcus	84.12	3.18	hypothetical protein
+PGF_00380282	Halococcus	196.25	1.04	hypothetical protein
+PGF_00380937	Halococcus	292.62	4.10	hypothetical protein
+PGF_00380991	Halococcus	231.50	68.55	hypothetical protein
+PGF_00383288	Halococcus	148.88	0.35	hypothetical protein
+PGF_00384866	Halococcus	138.75	11.02	hypothetical protein
+PGF_00387108	Halococcus	148.12	17.13	hypothetical protein
+PGF_00390078	Halococcus	88.00	0.00	hypothetical protein
+PGF_00394727	Halococcus	175.75	23.00	hypothetical protein
+PGF_00398628	Halococcus	301.88	6.49	hypothetical protein
+PGF_00400421	Halococcus	143.75	1.39	iron-dependent repressor
+PGF_00400992	Halococcus	573.75	8.33	Benzoylformate decarboxylase (EC 4.1.1.7)
+PGF_00401649	Halococcus	323.50	9.90	n-type ATP pyrophosphatase superfamily / TilS and TtcA-like
+PGF_00402444	Halococcus	207.12	3.18	2-methyl-6-phytyl-1,4-benzoquinone methyltransferase / 2-methyl-6-solanyl-1,4-benzoquinone methyltransferase
+PGF_00402963	Halococcus	342.00	5.66	phosphate regulatory protein homolog
+PGF_00402965	Halococcus	340.00	27.53	phosphate regulatory protein homolog
+PGF_00404333	Halococcus	310.50	6.95	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404355	Halococcus	339.88	7.10	probable mechanosensitive channel
+PGF_00404817	Halococcus	141.75	1.04	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00411462	Halococcus	208.88	0.35	Box C/D RNA-guided RNA methyltransferase subunit fibrillarin
+PGF_00411463	Halococcus	276.00	33.67	Box C/D RNA-guided RNA methyltransferase subunit Nop5
+PGF_00411966	Halococcus	296.88	6.96	rieske [2Fe-2S] domain protein
+PGF_00412749	Halococcus	106.00	2.07	soluble [2Fe-2S] ferredoxin
+PGF_00412917	Halococcus	316.12	1.89	succinoglycan biosynthesis protein
+PGF_00413191	Halococcus	247.88	4.26	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase (EC 2.1.1.219)
+PGF_00413204	Halococcus	182.38	4.81	tRNA (cytidine(56)-2'-O)-methyltransferase (EC 2.1.1.206)
+PGF_00413206	Halococcus	369.88	1.55	tRNA (guanine(26)-N(2))-dimethyltransferase (EC 2.1.1.216)
+PGF_00413210	Halococcus	325.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413263	Halococcus	655.25	195.41	tRNA cytosine(12) acetyltransferase, catalytic subunit @ SSU rRNA acetyltransferase, catalytic subunit
+PGF_00413271	Halococcus	313.88	16.95	tRNA m5C48-49 methylase
+PGF_00413286	Halococcus	463.25	11.85	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413287	Halococcus	449.88	18.60	tRNA pseudouridine(54/55) synthase
+PGF_00413307	Halococcus	420.88	3.72	tRNA(Ile)(2)-agmatinylcytidine synthase (EC 6.3.4.22)
+PGF_00413342	Halococcus	498.62	3.11	tRNA-guanine(15) transglycosylase (EC 2.4.2.48)
+PGF_00413344	Halococcus	581.00	1.77	Archaeosine synthase (EC 2.6.1.97)
+PGF_00413346	Halococcus	347.75	10.78	tRNA-splicing endonuclease (EC 4.6.1.16)
+PGF_00414366	Halococcus	572.00	85.11	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414520	Halococcus	236.62	5.88	Phosphoglycerol geranylgeranyltransferase (EC 2.5.1.41)
+PGF_00414907	Halococcus	389.38	10.94	CBS-domain-containing protein
+PGF_00414916	Halococcus	268.38	3.11	CBS/parB domain-containing protein
+PGF_00414966	Halococcus	205.25	0.46	Archaetidylglycerol phosphate synthase
+PGF_00415574	Halococcus	249.00	0.00	FIG00137952: Uncharacterized protein (ATP-grasp superfamily)
+PGF_00415580	Halococcus	275.75	4.06	COG2106 Methylase
+PGF_00415581	Halococcus	251.00	0.00	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415697	Halococcus	248.50	1.41	Uncharacterized NRDE family protein
+PGF_00416126	Halococcus	345.25	2.49	CTAG modification methylase
+PGF_00416129	Halococcus	542.88	12.52	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Halococcus	1077.38	10.35	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416834	Halococcus	403.62	8.50	3,7-dideoxy-D-threo-hepto-2, 6-diulosonate synthase (EC 4.2.3.-)
+PGF_00417429	Halococcus	402.50	8.99	Chaperone protein DnaJ
+PGF_00417433	Halococcus	638.75	5.65	Chaperone protein DnaK
+PGF_00417822	Halococcus	98.12	5.38	Chorismate mutase I (EC 5.4.99.5)
+PGF_00417840	Halococcus	398.75	6.56	Chorismate synthase (EC 4.2.3.5)
+PGF_00418087	Halococcus	242.12	72.91	Circadian phase modifier
+PGF_00418313	Halococcus	331.62	15.18	Cobalt-zinc-cadmium resistance protein
+PGF_00418490	Halococcus	287.00	0.00	Coenzyme gamma-F420-2:L-glutamate ligase (EC 6.3.2.32)
+PGF_00419913	Halococcus	167.38	3.78	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Halococcus	269.12	1.25	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Halococcus	316.62	7.41	Cysteine synthase (EC 2.5.1.47)
+PGF_00420735	Halococcus	348.25	7.76	Cytosolic Fe-S cluster assembling factor NBP35 / Chromosome (plasmid) partitioning protein ParA
+PGF_00421282	Halococcus	922.00	13.93	DNA helicase
+PGF_00421315	Halococcus	606.12	4.79	DNA helicase II( EC:3.6.1.- )
+PGF_00421693	Halococcus	393.50	3.85	DNA primase small subunit (EC 2.7.7.-)
+PGF_00421762	Halococcus	236.25	9.85	DNA repair and recombination protein RadB
+PGF_00421775	Halococcus	599.88	56.66	DNA repair helicase
+PGF_00421784	Halococcus	218.75	0.46	DNA repair protein
+PGF_00421806	Halococcus	1138.25	607.61	DNA replication helicase protein MCM @ intein-containing
+PGF_00421878	Halococcus	372.00	16.17	DNA topoisomerase VI subunit A (EC 5.99.1.3)
+PGF_00421879	Halococcus	744.25	126.57	DNA topoisomerase VI subunit B (EC 5.99.1.3)
+PGF_00421943	Halococcus	233.75	0.71	DNA-binding HTH domain in riboflavin kinase / CTP-dependent archaeal riboflavin kinase (EC 2.7.1.161)
+PGF_00422327	Halococcus	985.25	1.98	DNA-directed RNA polymerase subunit A' (EC 2.7.7.6)
+PGF_00422340	Halococcus	248.25	0.46	DNA-directed RNA polymerase subunit D (EC 2.7.7.6)
+PGF_00422341	Halococcus	189.38	3.42	DNA-directed RNA polymerase subunit E' (EC 2.7.7.6)
+PGF_00422343	Halococcus	58.88	5.49	DNA-directed RNA polymerase subunit E''
+PGF_00422346	Halococcus	118.00	0.00	DNA-directed RNA polymerase subunit F (EC 2.7.7.6)
+PGF_00422356	Halococcus	75.62	0.52	DNA-directed RNA polymerase subunit H (EC 2.7.7.6)
+PGF_00422358	Halococcus	60.12	1.55	DNA-directed RNA polymerase subunit K (EC 2.7.7.6)
+PGF_00422360	Halococcus	94.00	1.85	DNA-directed RNA polymerase subunit L (EC 2.7.7.6)
+PGF_00422362	Halococcus	62.12	0.35	DNA-directed RNA polymerase subunit N (EC 2.7.7.6)
+PGF_00422364	Halococcus	44.00	0.00	DNA-directed RNA polymerase subunit P (EC 2.7.7.6)
+PGF_00422545	Halococcus	310.38	13.42	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422901	Halococcus	185.50	0.93	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_00422918	Halococcus	216.75	7.81	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422938	Halococcus	346.38	40.08	Deoxyhypusine synthase (EC 2.5.1.46)
+PGF_00422958	Halococcus	168.00	17.03	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423044	Halococcus	141.00	0.00	Diadenosine 5'5'''-P1,P4-tetraphosphate pyrophosphohydrolase
+PGF_00423616	Halococcus	252.62	2.13	Diphthine synthase (EC 2.1.1.98)
+PGF_00424272	Halococcus	359.00	7.82	Endoglucanase
+PGF_00424337	Halococcus	273.38	1.77	Endonuclease IV (EC 3.1.21.2)
+PGF_00424338	Halococcus	265.12	10.19	Endonuclease V (EC 3.1.21.7)
+PGF_00424924	Halococcus	414.62	0.52	Eukaryotic peptide chain release factor subunit 1
+PGF_00424925	Halococcus	268.25	6.78	Eukaryotic translation initiation factor 2 alpha subunit
+PGF_00424930	Halococcus	414.75	14.08	Eukaryotic translation initiation factor 2 gamma subunit
+PGF_00424939	Halococcus	124.62	0.52	Eukaryotic translation initiation factor 5A
+PGF_00424940	Halococcus	221.50	0.76	Eukaryotic translation initiation factor 6
+PGF_00424971	Halococcus	579.62	2.33	Excinuclease ABC subunit C
+PGF_00425052	Halococcus	513.50	7.96	Exoenzymes regulatory protein AepA precursor
+PGF_00425679	Halococcus	205.50	5.93	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00426231	Halococcus	663.50	0.93	FIG004684: SpoVR-like protein
+PGF_00426750	Halococcus	335.00	3.38	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_00438421	Halococcus	268.38	1.06	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00473519	Halococcus	205.50	2.67	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00549250	Halococcus	343.88	24.62	V-type ATP synthase subunit C (EC 3.6.3.14)
+PGF_00644212	Halococcus	295.62	0.52	Nucleoside-diphosphate-sugar epimerases
+PGF_00659194	Halococcus	172.88	0.35	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665189	Halococcus	376.00	3.96	Origin of replication recognition protein @ Cell division control protein 6
+PGF_00671750	Halococcus	281.00	1.77	hypothetical protein
+PGF_00692366	Halococcus	589.25	16.39	Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_00700560	Halococcus	247.00	0.00	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_00710797	Halococcus	457.62	12.20	ATPase, AAA family
+PGF_00717495	Halococcus	382.38	0.52	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00734482	Halococcus	903.25	187.33	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00734697	Halococcus	78.50	0.53	hypothetical protein
+PGF_00743561	Halococcus	214.38	4.41	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00770704	Halococcus	570.00	37.30	hypothetical protein
+PGF_00776587	Halococcus	121.12	1.25	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777319	Halococcus	152.38	0.52	hypothetical protein
+PGF_00853393	Halococcus	288.75	0.71	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Halococcus	416.25	3.54	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00926109	Halococcus	587.38	16.02	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00934903	Halococcus	317.12	24.70	N5,N10-methylenetetrahydromethanopterin reductase-related protein
+PGF_00936306	Halococcus	164.00	4.28	hypothetical protein
+PGF_00950554	Halococcus	686.38	7.42	Excinuclease ABC subunit B
+PGF_00966992	Halococcus	65.00	0.00	hypothetical protein
+PGF_00976077	Halococcus	171.75	0.46	Archaeal transcription factor E
+PGF_00982259	Halococcus	432.38	0.52	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_01018694	Halococcus	152.50	4.00	hypothetical protein
+PGF_01039698	Halococcus	361.50	6.14	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_01055158	Halococcus	135.75	25.09	hypothetical protein
+PGF_01062357	Halococcus	228.00	6.00	Lipoate-protein ligase A
+PGF_01070050	Halococcus	447.38	154.29	Phytoene dehydrogenase (EC 1.14.99.-)
+PGF_01104399	Halococcus	270.62	0.74	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01115564	Halococcus	312.25	4.95	Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)
+PGF_01172431	Halococcus	102.88	5.30	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01175575	Halococcus	642.62	5.83	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01220485	Halococcus	387.50	17.51	Sugar-phosphate nucleotidyl transferase
+PGF_01221134	Halococcus	352.25	17.65	Renalase (EC 1.6.3.5), oxidases 1,2-dihydro- and 1,6-dihydro- beta-NAD(P)H isomers back to NAD(P)
+PGF_01513745	Halococcus	218.12	53.39	Proteasome subunit beta (EC 3.4.25.1), archaeal
+PGF_01513918	Halococcus	192.25	11.27	Adenylate cyclase (EC 4.6.1.1)
+PGF_01514006	Halococcus	179.50	6.80	Adenylate kinase isoenzyme 6 homolog FAP7, plays role in rRNA maturation
+PGF_01514111	Halococcus	385.75	10.24	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01674551	Halococcus	127.00	0.00	Glycine cleavage system H protein
+PGF_01823258	Halococcus	94.00	0.00	hypothetical protein
+PGF_01823310	Halococcus	256.50	5.10	hypothetical protein
+PGF_01823341	Halococcus	91.62	30.06	hypothetical protein
+PGF_01823349	Halococcus	70.00	0.00	hypothetical protein
+PGF_01826709	Halococcus	115.75	0.46	hypothetical protein
+PGF_01827051	Halococcus	340.50	5.26	hypothetical protein
+PGF_01827179	Halococcus	214.38	0.52	hypothetical protein
+PGF_01827279	Halococcus	244.62	5.80	hypothetical protein
+PGF_01827676	Halococcus	475.38	5.78	hypothetical protein
+PGF_01828087	Halococcus	63.38	4.17	hypothetical protein
+PGF_01828388	Halococcus	350.12	10.72	hypothetical protein
+PGF_01828409	Halococcus	65.38	4.60	hypothetical protein
+PGF_01828431	Halococcus	81.88	1.25	hypothetical protein
+PGF_01828442	Halococcus	237.88	0.64	hypothetical protein
+PGF_01828475	Halococcus	160.38	6.09	hypothetical protein
+PGF_01828499	Halococcus	102.38	2.62	hypothetical protein
+PGF_01828502	Halococcus	75.62	0.52	hypothetical protein
+PGF_01849557	Halococcus	231.00	4.11	hypothetical protein
+PGF_01852949	Halococcus	478.88	11.57	hypothetical protein
+PGF_01853071	Halococcus	81.50	4.24	hypothetical protein
+PGF_01861186	Halococcus	531.25	60.55	hypothetical protein
+PGF_01861343	Halococcus	120.00	0.00	hypothetical protein
+PGF_01862718	Halococcus	305.62	8.90	hypothetical protein
+PGF_01865415	Halococcus	256.00	51.10	hypothetical protein
+PGF_01877133	Halococcus	395.12	21.91	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_02008738	Halococcus	438.75	71.09	Phosphomannomutase (EC 5.4.2.8)
+PGF_02011760	Halococcus	271.25	2.76	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02098099	Halococcus	525.75	0.71	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02185217	Halococcus	433.25	7.78	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02191833	Halococcus	250.00	8.54	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_02211177	Halococcus	262.88	2.36	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02254418	Halococcus	362.38	0.52	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57) @ Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_02277521	Halococcus	302.38	2.20	Serine/threonine-protein kinase RIO2 (EC 2.7.11.1)
+PGF_02278091	Halococcus	271.12	42.79	Serine/threonine-protein kinase RIO1 (EC 2.7.11.1)
+PGF_02278106	Halococcus	421.12	14.34	5'->3' exoribonuclease
+PGF_02279946	Halococcus	92.00	0.00	Signal recognition particle protein SRP19
+PGF_02281258	Halococcus	174.75	17.68	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase (EC 2.7.7.67)
+PGF_02283727	Halococcus	206.50	16.02	Eukaryotic translation initiation factor 2 beta subunit
+PGF_02318517	Halococcus	365.38	1.51	Glycosyltransferase
+PGF_02357230	Halococcus	166.00	0.00	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02473279	Halococcus	243.25	1.67	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02477915	Halococcus	216.75	9.74	hypothetical protein
+PGF_02478453	Halococcus	305.00	13.28	hypothetical protein
+PGF_02479168	Halococcus	230.25	3.73	hypothetical protein
+PGF_02479369	Halococcus	233.12	20.15	hypothetical protein
+PGF_02482149	Halococcus	173.75	5.18	hypothetical protein
+PGF_02484797	Halococcus	109.38	15.14	hypothetical protein
+PGF_02486250	Halococcus	204.62	1.69	hypothetical protein
+PGF_02514958	Halococcus	341.25	54.29	putative periplasmic protein kinase ArgK and related GTPases of G3E family
+PGF_02515882	Halococcus	394.12	2.23	Aspartokinase (EC 2.7.2.4)
+PGF_02517245	Halococcus	335.75	4.95	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_02517281	Halococcus	257.38	6.67	SSU ribosomal protein S4e
+PGF_02594696	Halococcus	362.38	10.14	acyl-CoA dehydrogenase, putative phosphotransferase
+PGF_02717713	Halococcus	353.62	2.33	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02719231	Halococcus	137.38	10.39	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02740181	Halococcus	118.38	5.85	Na(+) H(+) antiporter subunit G
+PGF_02776739	Halococcus	131.12	10.53	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02797400	Halococcus	499.00	5.73	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02818029	Halococcus	320.88	6.08	probable oxidoreductase/Short-chain dehydrogenase
+PGF_02836627	Halococcus	353.38	18.19	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02844091	Halococcus	259.50	7.75	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Halococcus	428.62	10.04	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866389	Halococcus	109.62	2.67	Ferredoxin
+PGF_02870118	Halococcus	54.00	0.00	hypothetical protein
+PGF_02884818	Halococcus	121.38	1.06	hypothetical protein
+PGF_02895443	Halococcus	57.00	0.00	hypothetical protein
+PGF_02901457	Halococcus	414.88	5.30	Nitrite reductase probable [NAD(P)H] subunit (EC 1.7.1.4)
+PGF_02923127	Halococcus	239.00	2.83	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02925426	Halococcus	590.88	4.76	Uncharacterized protein MJ0971
+PGF_02929701	Halococcus	194.88	1.13	hypothetical protein
+PGF_02931322	Halococcus	322.62	8.43	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02940065	Halococcus	159.50	0.93	hypothetical protein
+PGF_02982550	Halococcus	245.50	7.15	Ser-tRNA(Ala) deacylase @ Gly-tRNA(Ala) deacylase
+PGF_03024272	Halococcus	224.50	8.73	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4)
+PGF_03025044	Halococcus	179.25	0.71	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03057384	Halococcus	349.88	0.64	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03058080	Halococcus	243.00	21.02	Uncharacterized transcriptional regulator MJ1545, Cro/C1 family
+PGF_03094332	Halococcus	421.50	0.76	Uncharacterized protein SSO0872
+PGF_03097700	Halococcus	89.88	5.46	hypothetical protein
+PGF_03116802	Halococcus	211.50	1.77	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03129224	Halococcus	108.25	0.46	V-type ATP synthase subunit F (EC 3.6.3.14)
+PGF_03146406	Halococcus	622.88	7.38	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03152737	Halococcus	288.38	47.96	8-oxoguanine DNA glycosylase
+PGF_03152841	Halococcus	295.00	0.00	hypothetical protein
+PGF_03154343	Halococcus	143.00	32.36	Cytidine deaminase (EC 3.5.4.5)
+PGF_03186757	Halococcus	188.12	0.35	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+PGF_03331181	Halococcus	500.75	0.71	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)
+PGF_03366998	Halococcus	354.38	12.37	Aldo/keto reductase
+PGF_03518570	Halococcus	157.62	4.84	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03560652	Halococcus	364.88	6.22	Aminotransferase, DegT/DnrJ/EryC1/StrS family
+PGF_03609651	Halococcus	686.25	3.73	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03683488	Halococcus	182.88	0.35	2'-5' RNA ligase
+PGF_03699416	Halococcus	193.38	2.33	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03719292	Halococcus	351.88	30.29	Protein often near L-alanine-DL-glutamate epimerase (cell wall recycling)
+PGF_03751823	Halococcus	211.00	5.01	Heat shock protein GrpE
+PGF_03754184	Halococcus	117.00	0.00	Na(+) H(+) antiporter subunit C
+PGF_03756506	Halococcus	245.62	1.77	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
+PGF_03778780	Halococcus	463.38	20.83	Signal recognition particle receptor FtsY
+PGF_03862500	Halococcus	220.12	6.64	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03958563	Halococcus	215.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04041316	Halococcus	961.12	62.07	Excinuclease ABC subunit A
+PGF_04047265	Halococcus	88.62	10.42	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04127376	Halococcus	258.88	14.66	Twin-arginine translocation protein TatC
+PGF_04171616	Halococcus	152.00	0.00	Ribosomal RNA processing endonuclease Nob1
+PGF_04345693	Halococcus	390.00	8.49	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04345916	Halococcus	389.75	1.04	Alpha-methylacyl-CoA racemase (EC 5.1.99.4)
+PGF_04380075	Halococcus	235.38	7.21	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Halococcus	310.88	2.64	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04490570	Halococcus	368.00	0.00	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04596496	Halococcus	323.88	3.18	Quinone oxidoreductase (EC 1.6.5.5)
+PGF_04614911	Halococcus	259.25	14.11	ABC transporter, permease protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_04662829	Halococcus	645.25	21.18	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Halococcus	192.75	9.78	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04737739	Halococcus	308.75	8.12	LSU ribosomal protein L32e
+PGF_04749763	Halococcus	605.75	1.39	Translation initiation factor 2
+PGF_04757308	Halococcus	668.25	1.91	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04815798	Halococcus	325.38	6.28	Mevalonate kinase (EC 2.7.1.36)
+PGF_04877076	Halococcus	720.38	2.45	hypothetical protein
+PGF_04941538	Halococcus	617.12	0.83	hypothetical protein
+PGF_04960746	Halococcus	199.88	5.87	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04961109	Halococcus	661.88	4.45	hypothetical protein
+PGF_05024543	Halococcus	138.38	0.52	hypothetical protein
+PGF_05135220	Halococcus	795.38	260.06	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05280843	Halococcus	436.00	17.91	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05439724	Halococcus	711.62	4.98	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05560886	Halococcus	269.12	3.60	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05598173	Halococcus	353.00	1.69	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Halococcus	315.12	1.55	Phytoene synthase (EC 2.5.1.32)
+PGF_05657253	Halococcus	289.75	1.04	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05909098	Halococcus	75.00	2.62	hypothetical protein
+PGF_06006092	Halococcus	392.75	1.49	hypothetical protein
+PGF_06051345	Halococcus	1079.88	127.63	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06116615	Halococcus	85.00	0.00	hypothetical protein
+PGF_06211427	Halococcus	286.25	4.50	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06230969	Halococcus	453.88	60.99	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06318952	Halococcus	292.25	8.17	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06469881	Halococcus	285.12	41.05	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Halococcus	473.12	54.25	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06644010	Halococcus	372.38	9.23	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06828460	Halococcus	612.25	2.19	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_07473479	Halococcus	276.75	2.31	hypothetical protein
+PGF_08046522	Halococcus	114.00	0.00	Glutaredoxin-related protein
+PGF_08082848	Halococcus	427.12	6.01	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08091916	Halococcus	146.00	0.00	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_08152615	Halococcus	174.88	0.35	hypothetical protein
+PGF_08158738	Halococcus	323.12	9.45	hypothetical protein
+PGF_08163050	Halococcus	405.25	44.10	Acetyl-CoA C-acyltransferase (EC 2.3.1.9)
+PGF_08195753	Halococcus	116.50	1.31	hypothetical protein

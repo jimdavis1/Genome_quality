@@ -1,0 +1,951 @@
+PGF_00000416	Nitrosospira	366.00	17.35	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000936	Nitrosospira	135.61	4.69	FIG00899427: hypothetical protein
+PGF_00000939	Nitrosospira	389.28	31.37	Uncharacterized protein YhiN
+PGF_00002491	Nitrosospira	469.61	7.07	FIG015547: peptidase, M16 family
+PGF_00002659	Nitrosospira	334.39	1.82	FIG022606: AAA ATPase
+PGF_00002685	Nitrosospira	283.22	1.22	FIG023677: hypothetical protein
+PGF_00003276	Nitrosospira	361.00	0.00	FIG070318: hypothetical protein
+PGF_00003448	Nitrosospira	385.56	14.13	FIG110192: hypothetical protein
+PGF_00003478	Nitrosospira	210.50	18.30	FIG123464: Polysaccharide export protein
+PGF_00003522	Nitrosospira	407.56	11.04	FIG137776: Glycosyltransferase
+PGF_00003528	Nitrosospira	182.39	4.67	UPF0307 protein YjgA
+PGF_00003750	Nitrosospira	160.39	2.30	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004094	Nitrosospira	388.67	1.03	Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)
+PGF_00004111	Nitrosospira	369.67	5.37	Fatty acid desaturase, type 2
+PGF_00004207	Nitrosospira	261.44	1.34	Ferrichrome transport ATP-binding protein FhuC
+PGF_00004481	Nitrosospira	561.22	19.12	Ferric iron ABC transporter, permease protein
+PGF_00006078	Nitrosospira	420.94	3.11	Fmu (Sun) /eukaryotic nucleolar NOL1/Nop2p; tRNA/rRNA cytosine-C5-methyltransferase
+PGF_00006097	Nitrosospira	551.83	8.05	Folate transporter 3
+PGF_00006100	Nitrosospira	358.61	18.11	tRNA-modifying protein YgfZ
+PGF_00006391	Nitrosospira	339.83	0.38	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006394	Nitrosospira	354.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Nitrosospira	463.33	3.36	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Nitrosospira	520.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007024	Nitrosospira	466.06	0.24	GTP-binding protein EngA
+PGF_00007026	Nitrosospira	237.94	13.76	GTP-binding protein EngB
+PGF_00007027	Nitrosospira	306.50	7.89	GTP-binding protein Era
+PGF_00007028	Nitrosospira	390.22	4.72	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Nitrosospira	603.61	0.50	GTP-binding protein TypA/BipA
+PGF_00007057	Nitrosospira	453.67	5.86	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Nitrosospira	293.06	9.35	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Nitrosospira	316.06	4.47	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Nitrosospira	336.44	4.76	Glucokinase (EC 2.7.1.2)
+PGF_00007988	Nitrosospira	553.17	12.86	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Nitrosospira	431.44	7.06	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Nitrosospira	374.17	5.98	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008164	Nitrosospira	426.44	1.29	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008326	Nitrosospira	576.89	21.30	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Nitrosospira	417.67	1.28	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Nitrosospira	475.33	17.58	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008516	Nitrosospira	315.89	0.32	Glycerate dehydrogenase (EC 1.1.1.29)
+PGF_00008611	Nitrosospira	332.61	1.75	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008774	Nitrosospira	454.11	5.35	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Nitrosospira	490.22	9.28	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008780	Nitrosospira	374.61	5.03	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Nitrosospira	210.72	4.71	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008876	Nitrosospira	494.06	1.73	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00008882	Nitrosospira	364.61	5.69	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00008885	Nitrosospira	441.11	9.20	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009500	Nitrosospira	182.83	5.01	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Nitrosospira	300.94	0.24	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Nitrosospira	721.89	13.42	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Nitrosospira	263.11	15.93	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Nitrosospira	715.00	2.09	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Nitrosospira	211.11	8.57	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Nitrosospira	319.94	14.00	HPr kinase/phosphorylase
+PGF_00011037	Nitrosospira	436.83	49.02	Heavy metal RND efflux outer membrane protein, CzcC family
+PGF_00011277	Nitrosospira	347.17	15.03	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_00011321	Nitrosospira	295.67	8.66	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011634	Nitrosospira	398.61	5.46	HflK protein
+PGF_00011979	Nitrosospira	438.50	4.93	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Nitrosospira	347.89	2.27	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Nitrosospira	446.94	10.28	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012970	Nitrosospira	635.00	0.00	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013244	Nitrosospira	189.56	8.13	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013272	Nitrosospira	144.00	11.12	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Nitrosospira	243.17	4.22	UPF0001 protein YggS
+PGF_00013318	Nitrosospira	196.83	2.85	Hypothetical protein in Rubrerythrin cluster
+PGF_00013492	Nitrosospira	190.78	15.41	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Nitrosospira	521.44	2.55	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013857	Nitrosospira	741.17	18.75	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014051	Nitrosospira	278.00	1.14	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014284	Nitrosospira	451.28	10.85	Inner membrane transport protein YajR
+PGF_00014311	Nitrosospira	486.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Nitrosospira	265.22	9.23	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015047	Nitrosospira	456.33	29.55	InterPro IPR001450:IPR004017 COGs COG0247
+PGF_00015142	Nitrosospira	90.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Nitrosospira	178.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Nitrosospira	293.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Nitrosospira	113.39	0.78	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015510	Nitrosospira	262.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Nitrosospira	478.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Nitrosospira	438.00	1.91	Iron-sulfur cluster assembly protein SufD
+PGF_00015528	Nitrosospira	182.33	18.20	Iron-sulfur cluster assembly scaffold protein IscU/NifU-like for SUF system, SufE3
+PGF_00015701	Nitrosospira	416.78	1.00	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Nitrosospira	943.61	4.70	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Nitrosospira	339.00	2.30	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016235	Nitrosospira	370.50	3.49	L-sorbosone dehydrogenase
+PGF_00016325	Nitrosospira	752.00	0.00	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Nitrosospira	173.94	2.92	LSU ribosomal protein L10p (P0)
+PGF_00016338	Nitrosospira	425.22	0.94	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Nitrosospira	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Nitrosospira	140.00	12.73	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Nitrosospira	133.44	19.33	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Nitrosospira	127.89	8.32	LSU ribosomal protein L17p
+PGF_00016353	Nitrosospira	116.72	5.42	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Nitrosospira	230.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Nitrosospira	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Nitrosospira	99.22	8.15	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Nitrosospira	115.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Nitrosospira	111.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Nitrosospira	105.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Nitrosospira	85.56	1.29	LSU ribosomal protein L27p
+PGF_00016393	Nitrosospira	277.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Nitrosospira	62.06	0.24	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Nitrosospira	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Nitrosospira	51.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Nitrosospira	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Nitrosospira	238.39	2.75	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Nitrosospira	206.33	0.59	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Nitrosospira	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Nitrosospira	176.83	0.71	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Nitrosospira	126.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Nitrosospira	150.89	0.47	LSU ribosomal protein L9p
+PGF_00016546	Nitrosospira	129.00	0.00	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016919	Nitrosospira	232.00	0.00	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00016974	Nitrosospira	1197.22	10.69	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+PGF_00017190	Nitrosospira	249.11	12.63	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017400	Nitrosospira	344.61	45.37	Murein hydrolase activator NlpD
+PGF_00017464	Nitrosospira	224.94	0.24	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Nitrosospira	314.56	0.92	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017640	Nitrosospira	182.72	14.50	Lipopolysaccharide export system protein LptA
+PGF_00018552	Nitrosospira	194.56	11.31	Maf-like protein YceF
+PGF_00018560	Nitrosospira	278.72	2.70	Magnesium and cobalt efflux protein CorC
+PGF_00019038	Nitrosospira	443.00	0.00	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019280	Nitrosospira	482.83	3.78	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) / Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019289	Nitrosospira	113.11	12.10	Mannose-6-phosphate isomerase
+PGF_00019428	Nitrosospira	177.67	1.19	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020089	Nitrosospira	456.78	31.63	Membrane proteins related to metalloendopeptidases
+PGF_00020168	Nitrosospira	399.67	6.64	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Nitrosospira	273.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020190	Nitrosospira	466.39	13.99	Membrane-bound lytic murein transglycosylase F (EC 4.2.2.n1)
+PGF_00020361	Nitrosospira	158.33	23.31	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Nitrosospira	266.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020741	Nitrosospira	211.22	7.91	Methionine biosynthesis protein MetW
+PGF_00020793	Nitrosospira	188.78	5.05	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020984	Nitrosospira	286.50	1.86	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021489	Nitrosospira	291.56	3.52	Uncharacterized membrane protein Bcep18194_A6058
+PGF_00022652	Nitrosospira	213.44	2.04	MotA/TolQ/ExbB proton channel family protein
+PGF_00023405	Nitrosospira	274.33	4.67	Murein-DD-endopeptidase (EC 3.4.99.-)
+PGF_00023410	Nitrosospira	548.22	20.53	MutS domain protein, family 6
+PGF_00023591	Nitrosospira	347.61	1.75	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Nitrosospira	342.00	0.00	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023818	Nitrosospira	447.06	5.93	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00024232	Nitrosospira	406.11	14.59	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Nitrosospira	381.72	11.44	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Nitrosospira	164.11	1.84	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Nitrosospira	393.44	10.43	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Nitrosospira	538.11	0.47	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024423	Nitrosospira	309.00	0.00	NAD-dependent epimerase/dehydratase
+PGF_00024478	Nitrosospira	334.11	4.74	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024567	Nitrosospira	381.56	15.74	Acetate kinase (EC 2.7.2.1)
+PGF_00024687	Nitrosospira	417.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024831	Nitrosospira	447.28	1.18	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024855	Nitrosospira	137.61	5.65	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Nitrosospira	572.00	8.30	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Nitrosospira	162.56	1.89	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00026279	Nitrosospira	323.83	7.78	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026313	Nitrosospira	115.17	12.07	NrfJ-related protein
+PGF_00026362	Nitrosospira	197.83	2.48	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Nitrosospira	288.78	0.73	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026460	Nitrosospira	371.11	22.95	Nucleoside:H+ symporter:Major facilitator superfamily
+PGF_00026563	Nitrosospira	151.22	5.17	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Nitrosospira	297.17	7.01	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026782	Nitrosospira	234.89	15.59	O-methyltransferase, family 3
+PGF_00026866	Nitrosospira	324.28	7.71	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Nitrosospira	712.44	22.38	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027752	Nitrosospira	577.44	99.49	Outer membrane component of TAM transport system
+PGF_00029917	Nitrosospira	275.39	6.84	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030070	Nitrosospira	395.17	9.58	Patatin
+PGF_00030170	Nitrosospira	801.17	13.78	Penicillin acylase II
+PGF_00030481	Nitrosospira	620.22	14.68	Peptidase S9, prolyl oligopeptidase active site region precursor
+PGF_00030640	Nitrosospira	357.56	1.29	Peptide chain release factor 1
+PGF_00030643	Nitrosospira	535.33	0.97	Peptide chain release factor 3
+PGF_00030889	Nitrosospira	151.94	6.38	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00033095	Nitrosospira	792.94	1.66	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Nitrosospira	328.56	11.14	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Nitrosospira	351.06	3.89	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Nitrosospira	361.61	1.46	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Nitrosospira	936.44	2.83	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033402	Nitrosospira	797.89	5.90	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033423	Nitrosospira	575.17	0.71	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033479	Nitrosospira	555.33	6.39	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Nitrosospira	393.50	2.23	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033737	Nitrosospira	271.22	11.11	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Nitrosospira	216.00	5.93	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033750	Nitrosospira	219.89	17.72	Hopanoid-associated MlaC-like ABC transporter shuttle protein
+PGF_00033877	Nitrosospira	161.22	3.06	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033915	Nitrosospira	899.28	2.63	Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases
+PGF_00033920	Nitrosospira	225.17	14.01	Phosphoribosyl transferase domain protein
+PGF_00033928	Nitrosospira	433.50	12.09	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Nitrosospira	298.44	4.25	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Nitrosospira	207.44	6.67	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Nitrosospira	367.67	16.54	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Nitrosospira	1348.61	15.10	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Nitrosospira	214.00	5.63	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033981	Nitrosospira	290.00	0.00	Phosphoribulokinase (EC 2.7.1.19)
+PGF_00033985	Nitrosospira	363.94	2.44	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034566	Nitrosospira	466.44	9.27	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Nitrosospira	701.33	0.49	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034851	Nitrosospira	262.22	9.78	Polysaccharide biosynthesis protein WlaX
+PGF_00034972	Nitrosospira	177.17	6.31	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Nitrosospira	328.39	7.15	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Nitrosospira	187.61	1.75	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035378	Nitrosospira	485.50	3.82	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035721	Nitrosospira	460.94	2.67	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Nitrosospira	434.94	0.24	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035831	Nitrosospira	256.11	11.67	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00037588	Nitrosospira	572.06	11.30	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037828	Nitrosospira	292.72	0.46	Protease HtpX
+PGF_00038455	Nitrosospira	263.89	2.91	Uncharacterized UPF0721 integral membrane protein
+PGF_00038674	Nitrosospira	309.44	3.63	Protein translocase subunit SecF
+PGF_00038879	Nitrosospira	137.00	0.34	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039721	Nitrosospira	231.00	0.00	Putative TEGT family carrier/transport protein
+PGF_00040578	Nitrosospira	254.22	0.65	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040623	Nitrosospira	245.72	13.28	Putative dioxygenase
+PGF_00040922	Nitrosospira	325.00	0.00	ABC transporter, permease protein 1 (cluster 5, nickel/peptides/opines)
+PGF_00041669	Nitrosospira	264.39	7.61	Putative inner membrane protein
+PGF_00041788	Nitrosospira	160.00	0.00	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041948	Nitrosospira	431.00	3.56	Putative membrane protein YfjD
+PGF_00042959	Nitrosospira	105.61	13.32	Putative periplasmic cytochrome type-C oxidoreductase signal peptide protein (EC 1.-.-.-)
+PGF_00044038	Nitrosospira	183.89	18.30	hypothetical protein
+PGF_00044704	Nitrosospira	245.72	5.69	Putative transmembrane protein
+PGF_00044718	Nitrosospira	169.00	0.00	Putative transmembrane protein
+PGF_00044735	Nitrosospira	424.89	3.77	Putative transmembrane protein
+PGF_00044929	Nitrosospira	1035.39	8.28	Putative transmembrane protein
+PGF_00045900	Nitrosospira	247.39	10.69	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045939	Nitrosospira	421.28	5.30	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00045941	Nitrosospira	677.33	0.59	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045982	Nitrosospira	885.56	13.37	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046060	Nitrosospira	231.67	9.92	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046104	Nitrosospira	365.72	0.46	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046403	Nitrosospira	489.61	2.97	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Nitrosospira	137.78	6.47	RNA polymerase-binding transcription factor DksA
+PGF_00046622	Nitrosospira	81.00	0.00	RNA-binding protein Hfq
+PGF_00047006	Nitrosospira	283.44	6.20	Radical SAM domain protein
+PGF_00047078	Nitrosospira	341.33	8.91	RecA protein
+PGF_00047092	Nitrosospira	916.67	26.70	RecB family exonuclease
+PGF_00047143	Nitrosospira	320.44	3.81	Red-type Rubisco activase CbbX, removes Rubisco byproduct XuBP
+PGF_00047292	Nitrosospira	308.83	3.29	Regulatory protein CysB
+PGF_00047642	Nitrosospira	94.00	8.12	Repressor CsoR of the copZA operon
+PGF_00048393	Nitrosospira	156.67	16.29	Rhodanese-related sulfurtransferase
+PGF_00048480	Nitrosospira	213.28	20.24	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Nitrosospira	242.44	16.54	Outer membrane beta-barrel assembly protein BamE
+PGF_00048542	Nitrosospira	160.11	8.53	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Nitrosospira	200.28	4.71	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Nitrosospira	240.17	6.74	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048638	Nitrosospira	398.56	7.59	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Nitrosospira	159.94	3.00	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048829	Nitrosospira	268.39	30.97	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Nitrosospira	303.94	7.58	Ribosomal protein L11 methyltransferase
+PGF_00048842	Nitrosospira	299.00	1.64	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Nitrosospira	447.06	2.80	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Nitrosospira	108.11	4.87	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Nitrosospira	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Nitrosospira	290.67	23.36	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Nitrosospira	125.78	0.94	Ribosome-binding factor A
+PGF_00048974	Nitrosospira	144.00	0.00	Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)
+PGF_00048985	Nitrosospira	227.56	2.36	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049029	Nitrosospira	129.17	0.51	RidA/YER057c/UK114 superfamily, group 6
+PGF_00049304	Nitrosospira	374.39	2.75	S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284)
+PGF_00049363	Nitrosospira	291.83	8.79	S-formylglutathione hydrolase (EC 3.1.2.12)
+PGF_00049428	Nitrosospira	248.06	10.00	S-methyl-5'-thioinosine phosphorylase (EC 2.4.2.44)
+PGF_00049827	Nitrosospira	254.11	10.93	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Nitrosospira	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Nitrosospira	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Nitrosospira	118.94	16.87	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Nitrosospira	125.44	0.51	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Nitrosospira	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Nitrosospira	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Nitrosospira	87.28	0.46	SSU ribosomal protein S16p
+PGF_00049854	Nitrosospira	87.72	0.57	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Nitrosospira	94.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Nitrosospira	94.39	0.98	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Nitrosospira	289.28	7.61	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Nitrosospira	179.83	0.71	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Nitrosospira	124.94	0.24	SSU ribosomal protein S6p
+PGF_00049904	Nitrosospira	154.11	5.76	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Nitrosospira	130.89	0.47	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Nitrosospira	127.61	5.82	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Nitrosospira	272.61	6.83	Segregation and condensation protein A
+PGF_00050995	Nitrosospira	505.94	0.24	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051142	Nitrosospira	366.39	21.44	Septum-associated rare lipoprotein A
+PGF_00051334	Nitrosospira	416.44	10.69	Serine--pyruvate aminotransferase (EC 2.6.1.51) / L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
+PGF_00051525	Nitrosospira	468.17	59.13	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Nitrosospira	449.06	0.24	Signal recognition particle protein Ffh
+PGF_00052574	Nitrosospira	304.22	1.83	Similar to cobalamin biosynthesis protein CbiB
+PGF_00052676	Nitrosospira	216.28	3.80	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase
+PGF_00052705	Nitrosospira	143.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Nitrosospira	303.39	2.40	Site-specific tyrosine recombinase XerD
+PGF_00053498	Nitrosospira	418.22	7.28	Sodium:dicarboxylate symporter precursor
+PGF_00053770	Nitrosospira	369.00	30.61	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054323	Nitrosospira	211.56	4.53	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Nitrosospira	118.67	2.25	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Nitrosospira	231.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054557	Nitrosospira	403.17	13.69	Ammonium transporter
+PGF_00054576	Nitrosospira	721.28	1.07	Sucrose phosphate synthase
+PGF_00054959	Nitrosospira	428.39	2.03	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Nitrosospira	331.44	4.55	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00054986	Nitrosospira	277.11	1.13	Sulfate transport system permease protein CysT
+PGF_00054988	Nitrosospira	292.72	1.13	Sulfate transport system permease protein CysW
+PGF_00055273	Nitrosospira	207.06	8.99	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055354	Nitrosospira	441.17	2.90	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055589	Nitrosospira	192.39	41.41	TPR repeat
+PGF_00055966	Nitrosospira	368.17	5.09	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056320	Nitrosospira	238.50	6.19	Tetrapyrrole methylase family protein
+PGF_00056544	Nitrosospira	268.06	4.56	Thiazole synthase (EC 2.8.1.10)
+PGF_00056634	Nitrosospira	164.39	0.61	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056662	Nitrosospira	348.83	3.35	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056730	Nitrosospira	212.39	9.58	Thioredoxin
+PGF_00056814	Nitrosospira	494.11	1.28	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Nitrosospira	204.83	14.92	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Nitrosospira	263.78	1.83	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Nitrosospira	484.28	7.84	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Nitrosospira	137.94	2.36	Tol biopolymer transport system, TolR protein
+PGF_00057032	Nitrosospira	144.44	4.26	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057116	Nitrosospira	302.11	22.83	TonB protein
+PGF_00057402	Nitrosospira	146.94	4.41	Transamidase GatB domain protein
+PGF_00057435	Nitrosospira	207.44	5.15	Transcription elongation factor GreB
+PGF_00057483	Nitrosospira	419.00	0.00	Transcription termination factor Rho
+PGF_00057485	Nitrosospira	494.67	1.75	Transcription termination protein NusA
+PGF_00057488	Nitrosospira	166.11	7.82	Transcription termination protein NusB
+PGF_00060313	Nitrosospira	456.78	15.56	Transcriptional response regulatory protein GlrR
+PGF_00060409	Nitrosospira	694.33	4.85	Translation elongation factor G
+PGF_00060421	Nitrosospira	188.00	0.00	Translation elongation factor P
+PGF_00060427	Nitrosospira	302.33	0.97	Translation elongation factor Ts
+PGF_00060478	Nitrosospira	185.56	12.94	Translation initiation factor 3
+PGF_00061093	Nitrosospira	398.50	10.03	Transporter, monovalent cation:proton antiporter-2 (CPA2) family
+PGF_00061607	Nitrosospira	133.39	10.54	ApaG protein
+PGF_00062023	Nitrosospira	274.89	3.18	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Nitrosospira	398.11	0.47	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Nitrosospira	400.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063167	Nitrosospira	97.89	1.94	Type I antifreeze protein
+PGF_00063888	Nitrosospira	661.78	8.88	Tyrosine-protein kinase (EC 2.7.10.2)
+PGF_00063974	Nitrosospira	341.33	8.25	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Nitrosospira	365.56	11.42	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Nitrosospira	482.44	9.61	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Nitrosospira	456.50	12.09	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064170	Nitrosospira	248.83	1.15	UPF0053 inner membrane protein YgdQ
+PGF_00064218	Nitrosospira	106.17	0.71	UPF0145 protein YbjQ
+PGF_00064460	Nitrosospira	504.17	0.71	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064685	Nitrosospira	85.44	3.35	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Nitrosospira	208.00	0.00	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00065360	Nitrosospira	358.78	17.39	Uncharacterized protein Tbd_1903
+PGF_00066031	Nitrosospira	167.44	6.16	Universal stress protein family COG0589
+PGF_00066124	Nitrosospira	170.39	1.54	Pyrimidine operon regulatory protein PyrR
+PGF_00066160	Nitrosospira	430.00	30.28	Urea ABC transporter, substrate binding protein UrtA
+PGF_00066270	Nitrosospira	357.89	5.27	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066294	Nitrosospira	265.28	3.44	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Nitrosospira	935.22	15.59	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Nitrosospira	439.83	7.01	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Nitrosospira	316.22	2.16	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067127	Nitrosospira	261.11	4.27	Xylulose-1,5-bisphosphate phosphatase CbbY, converts this Rubisco inhibiting byproduct to xylulose-5P
+PGF_00067129	Nitrosospira	802.89	8.87	Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9) @ Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+PGF_00067188	Nitrosospira	370.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067412	Nitrosospira	82.00	0.84	YrbA protein
+PGF_00067466	Nitrosospira	589.72	2.40	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Nitrosospira	497.56	8.49	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Nitrosospira	363.50	3.45	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Nitrosospira	884.17	5.59	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068030	Nitrosospira	851.94	9.38	AttF component of AttEFGH ABC transport system / AttG component of AttEFGH ABC transport system
+PGF_00068045	Nitrosospira	384.17	14.67	AttH component of AttEFGH ABC transport system
+PGF_00068972	Nitrosospira	308.50	24.27	Ava_C0101 and related proteins
+PGF_00070754	Nitrosospira	704.83	14.77	ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines) / ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00070995	Nitrosospira	340.61	15.38	Membrane-bound lytic murein transglycosylase B
+PGF_00071693	Nitrosospira	303.78	8.79	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00084324	Nitrosospira	274.06	1.16	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00113984	Nitrosospira	207.06	6.56	Flavin prenyltransferase UbiX
+PGF_00120476	Nitrosospira	402.17	6.17	hypothetical protein
+PGF_00123307	Nitrosospira	218.44	2.06	hypothetical protein
+PGF_00132525	Nitrosospira	190.06	19.70	hypothetical protein
+PGF_00137832	Nitrosospira	408.39	14.13	hypothetical protein
+PGF_00138677	Nitrosospira	141.22	7.12	hypothetical protein
+PGF_00140531	Nitrosospira	85.00	0.00	hypothetical protein
+PGF_00140985	Nitrosospira	125.56	16.70	hypothetical protein
+PGF_00144272	Nitrosospira	180.17	8.79	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00156936	Nitrosospira	467.33	6.47	Chain length determinant exopolysaccharide biosynthesis protein EpsF
+PGF_00216029	Nitrosospira	262.33	5.59	hypothetical protein
+PGF_00219300	Nitrosospira	379.56	12.36	Hypothetical protein associated with Serine palmitoyltransferase
+PGF_00221213	Nitrosospira	125.56	9.04	Membrane protein
+PGF_00222644	Nitrosospira	759.28	26.02	ABC transporter, substrate-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00238742	Nitrosospira	410.56	16.87	hypothetical protein
+PGF_00261173	Nitrosospira	362.33	2.59	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00271735	Nitrosospira	497.61	22.94	hypothetical protein
+PGF_00285620	Nitrosospira	213.61	0.50	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00306574	Nitrosospira	340.50	6.26	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00315531	Nitrosospira	128.44	0.51	hypothetical protein
+PGF_00363554	Nitrosospira	106.72	2.27	hypothetical protein
+PGF_00363668	Nitrosospira	91.28	12.81	hypothetical protein
+PGF_00390356	Nitrosospira	320.00	0.00	hypothetical protein
+PGF_00394837	Nitrosospira	276.44	19.74	hypothetical protein
+PGF_00399628	Nitrosospira	79.00	0.00	hypothetical protein PA0941
+PGF_00400845	Nitrosospira	417.94	9.26	Uncharacterized integral membrane endopeptidase Bmul_2226
+PGF_00401752	Nitrosospira	243.89	0.32	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00403273	Nitrosospira	482.50	3.47	2-methylcitrate dehydratase (EC 4.2.1.79)
+PGF_00403434	Nitrosospira	386.83	2.41	2-methylcitrate synthase (EC 2.3.3.5)
+PGF_00404078	Nitrosospira	152.83	1.69	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Nitrosospira	451.06	0.87	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Nitrosospira	336.61	15.61	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404496	Nitrosospira	262.94	7.83	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)
+PGF_00406692	Nitrosospira	947.61	9.03	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00411408	Nitrosospira	368.67	0.49	Radical SAM protein required for addition of adenosine to hopane skeleton, HpnH
+PGF_00412933	Nitrosospira	794.17	4.38	sucrose synthase
+PGF_00413203	Nitrosospira	153.78	0.55	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Nitrosospira	256.56	1.76	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Nitrosospira	277.06	33.12	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Nitrosospira	312.11	13.66	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Nitrosospira	637.17	13.05	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Nitrosospira	300.89	7.61	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Nitrosospira	158.33	5.62	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413478	Nitrosospira	348.39	3.70	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases / CDP-6-deoxy-delta-3,4-glucoseen reductase-like
+PGF_00413554	Nitrosospira	149.39	10.14	tmRNA-binding protein SmpB
+PGF_00414880	Nitrosospira	197.11	6.98	CBS domain protein
+PGF_00414926	Nitrosospira	413.06	5.35	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Nitrosospira	396.50	11.00	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415481	Nitrosospira	402.39	6.74	SAM-dependent methyltransferase, MidA
+PGF_00415486	Nitrosospira	154.50	3.67	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415569	Nitrosospira	659.94	2.88	Arginine/lysine/ornithine decarboxylase
+PGF_00415581	Nitrosospira	205.44	2.36	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415784	Nitrosospira	134.56	23.21	COGs COG0226
+PGF_00416115	Nitrosospira	311.39	32.39	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Nitrosospira	564.00	6.72	CTP synthase (EC 6.3.4.2)
+PGF_00416379	Nitrosospira	265.83	3.97	Capsule polysaccharide export protein
+PGF_00416410	Nitrosospira	1084.94	11.15	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Nitrosospira	183.50	4.51	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Nitrosospira	374.44	2.28	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417407	Nitrosospira	136.44	0.62	Chain A, Red Copper Protein Nitrosocyanin
+PGF_00417433	Nitrosospira	644.67	1.61	Chaperone protein DnaK
+PGF_00417577	Nitrosospira	155.39	24.24	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Nitrosospira	367.67	4.85	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Nitrosospira	237.67	1.75	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Nitrosospira	393.89	6.38	Chorismate synthase (EC 4.2.3.5)
+PGF_00417843	Nitrosospira	175.50	25.99	Chorismate--pyruvate lyase (EC 4.1.3.40)
+PGF_00418128	Nitrosospira	250.50	7.81	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00419420	Nitrosospira	470.78	8.24	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419487	Nitrosospira	156.33	15.82	Conserved uncharacterized protein CreA
+PGF_00419582	Nitrosospira	157.83	5.10	Copper tolerance protein
+PGF_00419627	Nitrosospira	299.39	1.14	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Nitrosospira	159.67	19.68	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419899	Nitrosospira	2902.00	11.45	Cyclic beta-1,2-glucan synthase (EC 2.4.1.-)
+PGF_00419915	Nitrosospira	262.44	2.36	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Nitrosospira	323.06	4.56	Cysteine synthase (EC 2.5.1.47)
+PGF_00420078	Nitrosospira	297.56	10.84	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420121	Nitrosospira	226.72	3.03	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420412	Nitrosospira	513.44	2.66	Cytochrome c peroxidase (EC 1.11.1.5)
+PGF_00420432	Nitrosospira	98.61	12.39	Cytochrome c, class I
+PGF_00420482	Nitrosospira	246.67	1.14	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Nitrosospira	680.39	4.43	Cytochrome c heme lyase subunit CcmF
+PGF_00420549	Nitrosospira	332.33	1.19	Cytochrome c551 peroxidase (EC 1.11.1.5)
+PGF_00420582	Nitrosospira	183.11	4.36	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420731	Nitrosospira	513.39	18.97	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420792	Nitrosospira	288.67	2.22	D-alanine aminotransferase (EC 2.6.1.21)
+PGF_00420798	Nitrosospira	305.67	0.49	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420957	Nitrosospira	443.94	8.03	D-glycerate 2-kinase (EC 2.7.1.165)
+PGF_00420991	Nitrosospira	461.06	9.17	D-lactate dehydrogenase (Cytochrome) (EC 1.1.2.4)
+PGF_00420994	Nitrosospira	744.33	9.79	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421489	Nitrosospira	1181.06	9.19	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Nitrosospira	369.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421792	Nitrosospira	451.28	2.08	DNA repair protein RadA
+PGF_00421796	Nitrosospira	563.89	3.94	DNA repair protein RecN
+PGF_00421876	Nitrosospira	848.00	5.36	DNA topoisomerase III, Burkholderia type (EC 5.99.1.2)
+PGF_00422053	Nitrosospira	80.00	0.00	DNA-binding protein Fis
+PGF_00422271	Nitrosospira	334.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422303	Nitrosospira	184.83	27.37	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
+PGF_00422711	Nitrosospira	222.78	9.50	DedA protein
+PGF_00422912	Nitrosospira	213.00	0.00	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00422918	Nitrosospira	182.78	5.73	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00423089	Nitrosospira	362.78	4.12	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Nitrosospira	276.78	5.72	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Nitrosospira	438.28	19.19	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Nitrosospira	483.33	2.25	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Nitrosospira	124.00	7.98	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423376	Nitrosospira	159.39	12.46	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423378	Nitrosospira	421.22	8.70	Dihydroorotase (EC 3.5.2.3)
+PGF_00423382	Nitrosospira	343.50	13.08	Dihydroorotase (EC 3.5.2.3)
+PGF_00423472	Nitrosospira	666.61	23.01	DinG family ATP-dependent helicase YoaA
+PGF_00423668	Nitrosospira	186.83	1.86	Dna binding response regulator PrrA (RegA)
+PGF_00423709	Nitrosospira	258.83	5.55	DnaJ-like protein DjlA
+PGF_00423914	Nitrosospira	185.44	10.58	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Nitrosospira	289.11	4.69	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424102	Nitrosospira	299.28	19.97	Eight transmembrane protein EpsH
+PGF_00424447	Nitrosospira	327.50	10.72	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424569	Nitrosospira	267.33	16.37	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Nitrosospira	600.72	10.03	Excinuclease ABC subunit C
+PGF_00425024	Nitrosospira	446.44	1.65	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425161	Nitrosospira	617.28	0.46	Exoribonuclease II (EC 3.1.13.1)
+PGF_00425212	Nitrosospira	530.72	35.54	Exported zinc metalloprotease YfgC precursor
+PGF_00425214	Nitrosospira	99.78	18.19	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425665	Nitrosospira	241.11	30.16	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Nitrosospira	280.06	3.80	RNase adapter protein RapZ
+PGF_00425684	Nitrosospira	240.61	0.50	Probable transcriptional regulatory protein YebC
+PGF_00425704	Nitrosospira	90.00	0.00	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425810	Nitrosospira	252.39	6.03	Cell division protein ZapD
+PGF_00425918	Nitrosospira	280.94	11.67	FIG003879: Uncharacterized subgroup of the nitrilase superfamily
+PGF_00425993	Nitrosospira	395.00	0.00	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Nitrosospira	330.78	2.21	FIG004453: protein YceG like
+PGF_00426044	Nitrosospira	281.00	0.00	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426236	Nitrosospira	415.33	3.73	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426342	Nitrosospira	267.33	19.76	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426722	Nitrosospira	1251.89	16.81	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Nitrosospira	161.78	7.54	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447765	Nitrosospira	100.39	1.04	YciL protein
+PGF_00457990	Nitrosospira	177.00	0.00	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00482828	Nitrosospira	456.44	8.73	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00497557	Nitrosospira	507.39	2.73	Uncharacterized protein YjgR
+PGF_00508272	Nitrosospira	580.72	5.65	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00529632	Nitrosospira	868.28	1.87	ClpB protein
+PGF_00538878	Nitrosospira	279.72	1.64	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00549302	Nitrosospira	481.28	3.82	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00565351	Nitrosospira	219.00	0.00	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00570239	Nitrosospira	369.50	6.12	Spermidine/putrescine import ABC transporter substrate-binding protein PotD (TC 3.A.1.11.1)
+PGF_00582270	Nitrosospira	461.06	5.07	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00616490	Nitrosospira	266.94	1.55	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Nitrosospira	372.44	13.21	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Nitrosospira	230.94	4.88	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00639841	Nitrosospira	537.56	9.13	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Nitrosospira	342.39	39.92	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644212	Nitrosospira	306.22	11.81	Nucleoside-diphosphate-sugar epimerases
+PGF_00644402	Nitrosospira	569.06	10.89	Amylopullulanase
+PGF_00647884	Nitrosospira	166.44	0.86	FIG004694: Hypothetical protein
+PGF_00648054	Nitrosospira	228.00	0.00	Tol-Pal system protein TolQ
+PGF_00655131	Nitrosospira	487.00	0.00	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655628	Nitrosospira	514.39	6.36	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Nitrosospira	217.39	9.43	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665441	Nitrosospira	698.00	1.81	Ferredoxin--sulfite reductase (EC 1.8.7.1)
+PGF_00665875	Nitrosospira	161.61	6.26	Ribosomal silencing factor RsfA
+PGF_00693744	Nitrosospira	285.67	49.15	Serine/threonine kinase
+PGF_00701855	Nitrosospira	328.22	4.18	Iron(III) dicitrate transport system permease protein FecD (TC 3.A.1.14.1)
+PGF_00721835	Nitrosospira	318.94	0.24	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Nitrosospira	929.78	23.56	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734751	Nitrosospira	178.11	13.93	Cytochrome c heme lyase subunit CcmL
+PGF_00779045	Nitrosospira	463.17	10.00	Glycosyltransferase
+PGF_00813259	Nitrosospira	246.06	0.24	FolM Alternative dihydrofolate reductase 1
+PGF_00827555	Nitrosospira	563.22	21.03	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00856141	Nitrosospira	414.33	16.63	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00874759	Nitrosospira	414.06	11.86	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00883812	Nitrosospira	199.94	40.62	Cytochrome c family protein
+PGF_00900256	Nitrosospira	475.28	4.90	Threonine synthase (EC 4.2.3.1)
+PGF_00906968	Nitrosospira	154.78	3.75	DNA protection during starvation protein
+PGF_00908360	Nitrosospira	262.06	6.39	Phospholipid ABC transporter permease protein MlaE
+PGF_00909659	Nitrosospira	652.22	5.48	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00912265	Nitrosospira	335.28	7.31	tRNA-dihydrouridine synthase DusB
+PGF_00924816	Nitrosospira	237.78	0.88	Thiol:disulfide interchange protein DsbC
+PGF_00925844	Nitrosospira	458.61	9.17	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Nitrosospira	585.83	9.06	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00947006	Nitrosospira	426.00	0.00	UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)
+PGF_00947503	Nitrosospira	349.67	9.01	UDP-N-acetylglucosaminuronic acid 4-epimerase (EC 5.1.3.7)
+PGF_00947829	Nitrosospira	132.83	3.00	putative membrane protein
+PGF_00948290	Nitrosospira	407.50	15.75	Murein hydrolase activator EnvC
+PGF_00948427	Nitrosospira	875.72	21.38	TonB-dependent receptor
+PGF_00950554	Nitrosospira	694.83	3.19	Excinuclease ABC subunit B
+PGF_00957419	Nitrosospira	152.83	6.07	Putative pre-16S rRNA nuclease Yqg
+PGF_00969847	Nitrosospira	135.44	0.98	Protein GlcG
+PGF_00973394	Nitrosospira	162.39	2.85	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00973734	Nitrosospira	146.67	9.51	Heat shock protein, Hsp20 family
+PGF_00983050	Nitrosospira	391.00	0.00	Pyridoxal 5-phosphate (PLP)-dependent ornithine decarboxylase (EC 4.1.1.17)
+PGF_00985942	Nitrosospira	412.17	12.64	ErfK/YbiS/YcfS/YnhG family protein
+PGF_00990790	Nitrosospira	483.72	15.80	hypothetical protein
+PGF_01033234	Nitrosospira	421.94	4.62	Outer membrane protein
+PGF_01041250	Nitrosospira	1183.72	7.15	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_01052295	Nitrosospira	354.06	9.50	Lipopolysaccharide export system permease protein LptF
+PGF_01067056	Nitrosospira	112.94	9.36	Periplasmic divalent cation tolerance protein CutA
+PGF_01075683	Nitrosospira	127.78	0.94	Hemoglobin-like protein HbO
+PGF_01084030	Nitrosospira	760.00	0.00	Outer membrane protein assembly factor YaeT
+PGF_01095191	Nitrosospira	298.44	1.29	Methylisocitrate lyase (EC 4.1.3.30)
+PGF_01101526	Nitrosospira	455.22	0.65	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01124177	Nitrosospira	436.56	18.67	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Nitrosospira	364.56	6.13	Rod shape-determining protein RodA
+PGF_01166113	Nitrosospira	368.56	8.38	Transglutaminase-like superfamily
+PGF_01166636	Nitrosospira	86.06	8.20	Glutaredoxin 3 (Grx3)
+PGF_01170625	Nitrosospira	101.61	4.67	Cell division protein FtsL
+PGF_01172200	Nitrosospira	223.83	2.12	Uncharacterized membrane anchored protein Mext_4159
+PGF_01174739	Nitrosospira	251.33	6.17	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Nitrosospira	638.44	4.15	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01181530	Nitrosospira	113.78	13.14	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01218448	Nitrosospira	326.94	17.22	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01223569	Nitrosospira	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Nitrosospira	168.72	1.81	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01284176	Nitrosospira	139.00	0.00	Rubrerythrin
+PGF_01291803	Nitrosospira	330.89	17.43	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01323228	Nitrosospira	201.22	16.24	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01351158	Nitrosospira	1156.22	6.35	Transcription-repair coupling factor
+PGF_01364427	Nitrosospira	197.06	0.87	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01382505	Nitrosospira	211.06	2.75	FIG00449901: hypothetical protein
+PGF_01415861	Nitrosospira	166.61	4.63	LPS-assembly lipoprotein LptE
+PGF_01416568	Nitrosospira	205.39	15.56	LemA family protein
+PGF_01420802	Nitrosospira	142.78	12.41	Cell division protein MraZ
+PGF_01421572	Nitrosospira	204.17	16.26	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent
+PGF_01423501	Nitrosospira	157.67	1.68	Transcription elongation factor GreA
+PGF_01444546	Nitrosospira	95.33	0.97	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01466742	Nitrosospira	435.33	11.29	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Nitrosospira	444.22	20.09	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483918	Nitrosospira	269.78	16.93	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01532393	Nitrosospira	694.56	4.36	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01546618	Nitrosospira	301.11	8.95	putative membrane protein
+PGF_01618915	Nitrosospira	351.00	11.59	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667999	Nitrosospira	200.89	3.77	RNA polymerase sigma factor RpoE
+PGF_01674551	Nitrosospira	128.94	0.24	Glycine cleavage system H protein
+PGF_01682537	Nitrosospira	125.00	0.00	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Nitrosospira	142.89	3.77	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Nitrosospira	242.17	2.28	DNA recombination and repair protein RecO
+PGF_01734668	Nitrosospira	207.78	21.97	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Nitrosospira	280.67	3.05	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01766860	Nitrosospira	409.28	4.69	Response regulator
+PGF_01767180	Nitrosospira	216.39	2.30	FOG: Ankyrin repeat
+PGF_01768004	Nitrosospira	635.89	82.90	Sensory box histidine kinase
+PGF_01772748	Nitrosospira	180.72	4.39	Cytochrome c-type biogenesis protein ResA
+PGF_01777142	Nitrosospira	226.44	11.89	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Nitrosospira	138.22	5.40	Protein YhfA
+PGF_01853493	Nitrosospira	276.06	28.82	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Nitrosospira	339.00	0.00	Heat-inducible transcription repressor HrcA
+PGF_01888177	Nitrosospira	147.33	4.90	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Nitrosospira	213.94	8.05	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Nitrosospira	300.17	1.50	Rod shape-determining protein MreC
+PGF_01916207	Nitrosospira	229.17	13.10	Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion
+PGF_01922580	Nitrosospira	393.06	12.08	2-polyprenylphenol hydroxylase
+PGF_01926026	Nitrosospira	161.72	16.36	hypothetical protein
+PGF_01950071	Nitrosospira	312.22	5.20	Aldose 1-epimerase family protein YeaD
+PGF_01960322	Nitrosospira	614.78	0.81	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01962206	Nitrosospira	227.39	12.42	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01985478	Nitrosospira	386.17	12.28	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01994657	Nitrosospira	435.22	5.13	Cell division trigger factor (EC 5.2.1.8)
+PGF_02019462	Nitrosospira	343.50	2.66	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Nitrosospira	367.00	6.62	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02059020	Nitrosospira	554.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02060348	Nitrosospira	176.83	3.73	MutT/Nudix family protein
+PGF_02061452	Nitrosospira	369.17	10.82	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Nitrosospira	77.17	0.62	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02085373	Nitrosospira	145.00	18.15	UPF0225 protein YchJ
+PGF_02111888	Nitrosospira	315.44	2.43	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Nitrosospira	810.22	3.93	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02185217	Nitrosospira	422.11	5.49	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02216306	Nitrosospira	156.44	10.93	CopG protein
+PGF_02224568	Nitrosospira	390.06	1.89	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Nitrosospira	693.00	8.25	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02295498	Nitrosospira	101.83	8.74	Ferredoxin, 2Fe-2S
+PGF_02297216	Nitrosospira	252.39	8.25	Putative transmembrane protein
+PGF_02315316	Nitrosospira	298.56	20.48	Peptidase, M23/M37 family
+PGF_02321013	Nitrosospira	261.22	10.35	Hopanoid-associated MlaC-like outer-membrane-phospholipid-binding lipoprotein
+PGF_02323834	Nitrosospira	302.61	8.18	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02325838	Nitrosospira	500.50	1.15	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328820	Nitrosospira	67.00	7.21	hypothetical protein
+PGF_02346669	Nitrosospira	311.72	5.61	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Nitrosospira	883.39	44.39	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02369559	Nitrosospira	910.33	4.37	DNA polymerase I (EC 2.7.7.7)
+PGF_02382338	Nitrosospira	275.28	0.75	Inner membrane protein YpjD
+PGF_02420191	Nitrosospira	484.78	1.52	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02450432	Nitrosospira	271.94	1.39	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Nitrosospira	85.72	6.43	SSU ribosomal protein S20p
+PGF_02463284	Nitrosospira	194.11	10.22	Recombination protein RecR
+PGF_02473279	Nitrosospira	264.44	24.83	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02505498	Nitrosospira	362.28	3.53	Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)
+PGF_02510675	Nitrosospira	179.67	27.36	Hypothetical protein in cytochrome oxidase biogenesis cluster
+PGF_02510697	Nitrosospira	216.39	6.84	hypothetical protein
+PGF_02510699	Nitrosospira	115.83	13.93	hypothetical protein
+PGF_02512719	Nitrosospira	162.00	0.00	Na(+) H(+) antiporter subunit E
+PGF_02515882	Nitrosospira	410.44	4.26	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Nitrosospira	427.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02517520	Nitrosospira	245.11	23.28	hypothetical protein
+PGF_02517521	Nitrosospira	419.56	6.84	Two component, sigma54 specific, transcriptional regulator, Fis family
+PGF_02517528	Nitrosospira	278.28	12.10	hypothetical protein
+PGF_02517531	Nitrosospira	146.94	2.82	hypothetical protein
+PGF_02517536	Nitrosospira	189.11	39.38	hypothetical protein
+PGF_02517539	Nitrosospira	150.56	6.19	hypothetical protein
+PGF_02517554	Nitrosospira	129.78	24.39	hypothetical protein
+PGF_02517555	Nitrosospira	100.33	14.04	hypothetical protein
+PGF_02517558	Nitrosospira	155.39	5.14	hypothetical protein
+PGF_02517560	Nitrosospira	91.83	0.51	hypothetical protein
+PGF_02517561	Nitrosospira	146.61	9.11	hypothetical protein
+PGF_02517563	Nitrosospira	159.17	9.18	hypothetical protein
+PGF_02517566	Nitrosospira	130.94	19.15	hypothetical protein
+PGF_02517570	Nitrosospira	88.06	0.87	hypothetical protein
+PGF_02517571	Nitrosospira	142.67	4.20	hypothetical protein
+PGF_02517576	Nitrosospira	222.50	8.87	hypothetical protein
+PGF_02517582	Nitrosospira	258.83	9.98	methyltransferase, FkbM family domain protein
+PGF_02517599	Nitrosospira	69.11	0.47	Copper(I) chaperone CopZ
+PGF_02517637	Nitrosospira	225.17	9.01	hypothetical protein
+PGF_02517793	Nitrosospira	175.22	20.51	hypothetical protein
+PGF_02518249	Nitrosospira	244.33	7.69	Lipase precursor (EC 3.1.1.3)
+PGF_02518965	Nitrosospira	149.61	11.00	Regulatory protein RecX
+PGF_02520980	Nitrosospira	75.39	5.17	hypothetical protein
+PGF_02520985	Nitrosospira	420.83	24.67	PDZ domain
+PGF_02520988	Nitrosospira	194.11	13.23	Polysaccharide deacetylase family protein
+PGF_02541397	Nitrosospira	148.44	1.89	Glyoxalase/bleomycin resistance protein/dioxygenase
+PGF_02565259	Nitrosospira	447.33	3.01	Methylthioadenosine deaminase
+PGF_02601905	Nitrosospira	121.00	7.81	Transcriptional regulator PA2737, MerR family
+PGF_02613926	Nitrosospira	294.39	1.42	Ribulosamine/erythrulosamine 3-kinase potentially involved in protein deglycation
+PGF_02623406	Nitrosospira	331.50	5.46	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Nitrosospira	1408.78	0.43	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02728524	Nitrosospira	880.11	16.29	DNA mismatch repair protein MutS
+PGF_02746016	Nitrosospira	230.28	3.83	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02789532	Nitrosospira	283.33	5.13	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Nitrosospira	227.56	10.59	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797402	Nitrosospira	1357.00	0.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Nitrosospira	511.72	0.46	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02817932	Nitrosospira	409.28	1.60	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02820109	Nitrosospira	194.06	15.52	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Nitrosospira	152.44	2.79	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02838109	Nitrosospira	200.22	8.74	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Nitrosospira	270.44	5.24	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Nitrosospira	412.33	2.20	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866413	Nitrosospira	370.22	9.24	Rhomboid family protein
+PGF_02866517	Nitrosospira	484.83	29.47	Heavy metal RND efflux outer membrane protein, CzcC family
+PGF_02866666	Nitrosospira	832.39	3.18	ABC transporter, fused permease protein
+PGF_02873723	Nitrosospira	484.44	4.33	Ribonuclease G
+PGF_02875609	Nitrosospira	453.06	7.15	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Nitrosospira	358.33	5.74	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Nitrosospira	353.00	0.00	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02899131	Nitrosospira	65.89	0.47	LSU ribosomal protein L29p (L35e)
+PGF_02901271	Nitrosospira	131.89	1.81	PTS system, IIA component
+PGF_02902854	Nitrosospira	213.50	15.09	Outer membrane lipoprotein carrier protein LolA
+PGF_02904832	Nitrosospira	316.00	0.00	Homoserine kinase (EC 2.7.1.39)
+PGF_02911133	Nitrosospira	204.56	16.32	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Nitrosospira	290.72	2.61	HflC protein
+PGF_02923127	Nitrosospira	237.33	4.39	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Nitrosospira	301.28	16.99	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02938730	Nitrosospira	337.44	3.13	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942351	Nitrosospira	242.00	0.00	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Nitrosospira	572.11	3.46	SSU ribosomal protein S1p
+PGF_02953390	Nitrosospira	442.56	0.51	Fe-S oxidoreductase-like protein in Rubrerythrin cluster
+PGF_02973376	Nitrosospira	52.28	9.72	hypothetical protein
+PGF_02989257	Nitrosospira	140.00	0.00	putative membrane protein
+PGF_02992100	Nitrosospira	241.56	18.82	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Nitrosospira	115.94	2.31	Protein translocase membrane subunit SecG
+PGF_02997723	Nitrosospira	153.00	0.00	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03000070	Nitrosospira	353.50	1.65	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03006190	Nitrosospira	427.50	10.42	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03017775	Nitrosospira	510.44	5.41	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Nitrosospira	206.11	12.03	Septum formation protein Maf
+PGF_03026450	Nitrosospira	1181.33	12.69	Chromosome partition protein smc
+PGF_03029859	Nitrosospira	639.78	5.33	Bis-ABC ATPase Uup
+PGF_03044601	Nitrosospira	264.78	4.18	Serine protease precursor MucD/AlgY associated with sigma factor RpoE
+PGF_03051313	Nitrosospira	645.56	16.39	Phytochrome, two-component sensor histidine kinase (EC 2.7.3.-)
+PGF_03057384	Nitrosospira	348.17	1.76	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03065239	Nitrosospira	303.22	3.06	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+PGF_03066317	Nitrosospira	574.67	12.98	Inner membrane protein YbaL, KefB/KefC family
+PGF_03070334	Nitrosospira	140.94	20.97	Putative transmembrane protein
+PGF_03070382	Nitrosospira	248.17	12.24	Uncharacterized DUF218 membrane protein
+PGF_03073470	Nitrosospira	557.50	2.12	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03074362	Nitrosospira	402.83	14.56	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03075401	Nitrosospira	166.94	4.50	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Nitrosospira	190.44	1.29	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03124650	Nitrosospira	474.00	47.29	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03125514	Nitrosospira	436.89	3.77	FIG015287: Zinc protease
+PGF_03128228	Nitrosospira	427.17	27.86	Outer membrane beta-barrel assembly protein BamB
+PGF_03132336	Nitrosospira	421.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03134155	Nitrosospira	292.89	24.14	Protein-tyrosine kinase (EC 2.7.1.112)
+PGF_03142586	Nitrosospira	112.94	0.24	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03144011	Nitrosospira	170.00	4.24	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146406	Nitrosospira	586.44	4.90	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03152003	Nitrosospira	438.28	3.18	Cytochrome c heme lyase subunit CcmH
+PGF_03152833	Nitrosospira	305.39	3.81	Ku domain protein
+PGF_03172904	Nitrosospira	290.17	14.06	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Nitrosospira	177.00	0.00	Transcription antitermination protein NusG
+PGF_03186757	Nitrosospira	182.72	9.66	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+PGF_03187392	Nitrosospira	306.67	9.13	Fructokinase (EC 2.7.1.4)
+PGF_03198760	Nitrosospira	387.00	25.89	FIG040338: Glycosyl transferase
+PGF_03203461	Nitrosospira	609.72	6.47	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03222913	Nitrosospira	139.22	0.94	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03253896	Nitrosospira	236.72	8.67	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03272313	Nitrosospira	855.50	4.41	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277220	Nitrosospira	454.67	17.23	Two-component system response regulator protein
+PGF_03278866	Nitrosospira	76.00	4.60	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Nitrosospira	224.94	9.98	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03348128	Nitrosospira	174.06	0.54	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03383443	Nitrosospira	144.17	8.95	Peroxiredoxin OsmC (EC 1.11.1.15)
+PGF_03421722	Nitrosospira	442.33	7.16	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03439690	Nitrosospira	147.78	3.93	Ferric uptake regulation protein FUR
+PGF_03439827	Nitrosospira	486.83	15.36	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03441339	Nitrosospira	330.61	28.82	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03441843	Nitrosospira	848.33	9.02	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03456505	Nitrosospira	461.83	10.01	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03518570	Nitrosospira	141.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Nitrosospira	388.17	0.62	Cell division protein FtsZ
+PGF_03609651	Nitrosospira	734.56	13.77	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Nitrosospira	161.00	0.00	UPF0234 protein Yitk
+PGF_03694903	Nitrosospira	465.44	9.83	ATP-dependent RNA helicase NGO0650
+PGF_03694962	Nitrosospira	301.89	34.72	TolA protein
+PGF_03701810	Nitrosospira	301.22	2.82	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Nitrosospira	113.78	1.22	Protein translocase subunit SecE
+PGF_03719269	Nitrosospira	200.67	0.49	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Nitrosospira	158.33	12.69	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729098	Nitrosospira	328.83	1.86	Sigma factor RpoE negative regulatory protein RseB precursor
+PGF_03729141	Nitrosospira	187.78	6.40	UPF0301 protein YqgE
+PGF_03739544	Nitrosospira	123.06	4.53	hypothetical protein
+PGF_03739549	Nitrosospira	63.67	6.43	hypothetical protein
+PGF_03741978	Nitrosospira	73.50	1.98	Dodecin
+PGF_03750571	Nitrosospira	467.44	8.38	Chromosomal replication initiator protein DnaA
+PGF_03750599	Nitrosospira	297.33	7.27	Cell division coordinator CpoB
+PGF_03750600	Nitrosospira	165.78	4.40	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751065	Nitrosospira	60.17	5.74	Rubredoxin
+PGF_03751823	Nitrosospira	190.83	6.96	Heat shock protein GrpE
+PGF_03752544	Nitrosospira	235.56	2.36	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Nitrosospira	300.06	27.86	Site-specific tyrosine recombinase XerC
+PGF_03754184	Nitrosospira	113.72	0.46	Na(+) H(+) antiporter subunit C
+PGF_03756198	Nitrosospira	281.94	11.00	GTP:adenosylcobinamide-phosphate guanylyltransferase
+PGF_03757137	Nitrosospira	474.22	8.65	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Nitrosospira	225.00	4.01	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03766442	Nitrosospira	451.94	10.36	hypothetical protein
+PGF_03767152	Nitrosospira	113.61	10.53	Proposed lipoate regulatory protein YbeD
+PGF_03768099	Nitrosospira	287.22	4.11	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03769060	Nitrosospira	641.28	12.90	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) AsnH
+PGF_03772086	Nitrosospira	504.83	7.37	Sensor histidine kinase GlrK
+PGF_03778780	Nitrosospira	327.22	5.43	Signal recognition particle receptor FtsY
+PGF_03781125	Nitrosospira	248.78	5.19	Endonuclease/exonuclease/phosphatase family protein
+PGF_03787199	Nitrosospira	192.22	6.79	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Nitrosospira	388.50	9.82	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Nitrosospira	223.17	20.13	Ribonuclease III (EC 3.1.26.3)
+PGF_03797809	Nitrosospira	399.94	4.65	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_03801201	Nitrosospira	270.61	1.42	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Nitrosospira	73.39	3.11	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03810115	Nitrosospira	236.67	8.26	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03846586	Nitrosospira	197.33	18.55	Putative transmembrane protein
+PGF_03846834	Nitrosospira	139.61	5.86	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03991729	Nitrosospira	393.00	8.38	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04007946	Nitrosospira	220.28	9.71	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009223	Nitrosospira	350.56	2.71	Uncharacterized protein EC-HemX
+PGF_04016408	Nitrosospira	458.06	13.60	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025847	Nitrosospira	105.44	7.24	hypothetical protein
+PGF_04034430	Nitrosospira	70.72	7.67	SSU ribosomal protein S21p
+PGF_04037464	Nitrosospira	273.33	17.97	rRNA methylases
+PGF_04051132	Nitrosospira	336.22	8.56	hypothetical protein
+PGF_04108824	Nitrosospira	582.61	7.24	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04119806	Nitrosospira	300.11	0.76	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04126481	Nitrosospira	645.61	9.48	Squalene---hopene cyclase (EC 5.4.99.17) @ Squalene---hopanol cyclase (EC 4.2.1.129)
+PGF_04151476	Nitrosospira	170.72	6.71	16S rRNA processing protein RimM
+PGF_04156755	Nitrosospira	93.00	0.00	Na(+) H(+) antiporter subunit F
+PGF_04163139	Nitrosospira	186.11	30.25	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Nitrosospira	217.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04198961	Nitrosospira	183.89	20.22	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04213876	Nitrosospira	257.44	6.63	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04256257	Nitrosospira	475.83	11.14	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04270464	Nitrosospira	106.61	18.67	Putative transmembrane protein
+PGF_04275878	Nitrosospira	223.11	10.13	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04306800	Nitrosospira	372.89	2.78	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04315180	Nitrosospira	161.00	2.33	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04316771	Nitrosospira	326.44	11.40	Hopanoid-associated sugar epimerase HpnA
+PGF_04341022	Nitrosospira	998.00	17.99	Na(+) H(+) antiporter subunit A / Na(+) H(+) antiporter subunit B
+PGF_04359199	Nitrosospira	621.83	5.96	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04360357	Nitrosospira	915.11	2.40	Protein translocase subunit SecA
+PGF_04395505	Nitrosospira	305.61	0.61	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04457297	Nitrosospira	210.94	4.49	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04477106	Nitrosospira	375.56	0.92	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04482714	Nitrosospira	384.00	0.00	Rubredoxin-NAD(+) reductase (EC 1.18.1.1)
+PGF_04505269	Nitrosospira	249.00	6.02	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Nitrosospira	464.94	8.21	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Nitrosospira	479.56	1.04	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04574228	Nitrosospira	252.83	0.79	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04594665	Nitrosospira	137.67	9.65	Regulator of nucleoside diphosphate kinase
+PGF_04608820	Nitrosospira	647.94	10.67	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04630848	Nitrosospira	148.67	0.49	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04652157	Nitrosospira	309.28	1.81	Tyrosine-protein kinase EpsD (EC 2.7.10.2)
+PGF_04660832	Nitrosospira	160.39	3.76	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Nitrosospira	808.56	1.38	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04666574	Nitrosospira	175.56	5.38	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_04667681	Nitrosospira	410.72	4.00	Alanine transaminase (EC 2.6.1.2)
+PGF_04749763	Nitrosospira	874.50	4.13	Translation initiation factor 2
+PGF_04752158	Nitrosospira	422.17	2.68	Sensor histidine kinase PrrB (RegB) (EC 2.7.3.-)
+PGF_04793289	Nitrosospira	350.06	4.35	Squalene synthase (EC 2.5.1.21)
+PGF_04807486	Nitrosospira	326.33	11.92	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Nitrosospira	134.67	2.20	LSU ribosomal protein L19p
+PGF_04866046	Nitrosospira	695.61	7.61	Uncharacterized protein YyaL
+PGF_04960746	Nitrosospira	259.06	10.85	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Nitrosospira	730.28	3.91	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Nitrosospira	70.78	8.34	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04974523	Nitrosospira	1028.39	3.99	RND efflux system, inner membrane transporter
+PGF_04978890	Nitrosospira	103.00	0.00	LSU ribosomal protein L21p
+PGF_05012354	Nitrosospira	138.94	3.04	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_05015376	Nitrosospira	201.00	7.44	Acyl-homoserine-lactone synthase LuxI (EC 2.3.1.184)
+PGF_05022117	Nitrosospira	550.33	12.23	Bis-ABC ATPase YbiT
+PGF_05025448	Nitrosospira	249.72	10.54	Pseudouridine synthase
+PGF_05048110	Nitrosospira	266.67	1.61	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1)
+PGF_05111929	Nitrosospira	606.22	8.19	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Nitrosospira	933.56	17.44	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Nitrosospira	867.61	5.67	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05154119	Nitrosospira	244.61	7.72	Putative transmembrane protein
+PGF_05165078	Nitrosospira	308.50	17.01	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Nitrosospira	459.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Nitrosospira	611.83	11.94	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05257314	Nitrosospira	1272.17	13.24	FIG005080: Possible exported protein
+PGF_05280843	Nitrosospira	447.67	15.83	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Nitrosospira	776.39	1.33	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05364204	Nitrosospira	215.22	0.73	FIG004556: membrane metalloprotease
+PGF_05406959	Nitrosospira	348.50	2.12	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05421852	Nitrosospira	645.94	9.96	Chaperone protein HtpG
+PGF_05439724	Nitrosospira	695.94	5.38	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05444169	Nitrosospira	301.72	14.86	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05449103	Nitrosospira	135.39	4.75	Rhodanese-related sulfurtransferase YibN
+PGF_05463808	Nitrosospira	293.56	6.46	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Nitrosospira	512.61	4.57	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05507938	Nitrosospira	610.22	8.83	DNA mismatch repair protein MutL
+PGF_05560886	Nitrosospira	275.94	4.62	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Nitrosospira	441.11	3.77	Protein translocase subunit SecY
+PGF_05598173	Nitrosospira	382.06	3.49	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05599755	Nitrosospira	326.44	12.87	Sphingosine kinase and enzymes related to eukaryotic diacylglycerol kinase
+PGF_05605679	Nitrosospira	281.33	2.70	Phytoene synthase (EC 2.5.1.32)
+PGF_05622318	Nitrosospira	416.61	1.04	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05643076	Nitrosospira	498.39	6.07	ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)
+PGF_05645239	Nitrosospira	212.83	0.51	haloacid dehalogenase-like hydrolase, putative
+PGF_05646459	Nitrosospira	202.06	0.24	Glutathione S-transferase family protein
+PGF_05657253	Nitrosospira	227.22	15.55	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05679920	Nitrosospira	1303.50	18.50	ATP-dependent helicase HrpA
+PGF_05693577	Nitrosospira	94.11	0.47	Integration host factor beta subunit
+PGF_05712128	Nitrosospira	569.94	3.47	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05769513	Nitrosospira	435.83	8.21	Tol-Pal system beta propeller repeat protein TolB
+PGF_05866109	Nitrosospira	368.67	6.39	Outer membrane beta-barrel assembly protein BamC
+PGF_05872952	Nitrosospira	255.00	17.46	Outer membrane beta-barrel assembly protein BamD
+PGF_05949521	Nitrosospira	616.50	5.79	Protein translocase subunit SecD
+PGF_05971611	Nitrosospira	404.33	5.03	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06038833	Nitrosospira	294.39	13.81	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_06043321	Nitrosospira	348.61	23.78	Ferric iron ABC transporter, iron-binding protein
+PGF_06051594	Nitrosospira	474.72	10.32	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06053106	Nitrosospira	281.33	0.69	RNA polymerase sigma factor RpoH
+PGF_06061522	Nitrosospira	132.06	19.45	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06120144	Nitrosospira	145.67	1.94	Ribosome association toxin RatA
+PGF_06180597	Nitrosospira	145.89	5.76	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Nitrosospira	512.56	12.92	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Nitrosospira	96.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06281201	Nitrosospira	256.33	9.39	hypothetical protein
+PGF_06285041	Nitrosospira	370.11	16.32	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Nitrosospira	416.44	1.89	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06320166	Nitrosospira	256.44	12.12	Spermidine synthase-like protein
+PGF_06329961	Nitrosospira	312.83	6.44	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06379377	Nitrosospira	436.67	2.45	Replication-associated recombination protein RarA
+PGF_06444237	Nitrosospira	733.56	19.18	TonB-dependent receptor
+PGF_06458877	Nitrosospira	194.89	20.20	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Nitrosospira	327.00	5.80	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06530721	Nitrosospira	224.22	7.65	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06598717	Nitrosospira	473.44	6.58	Serine protease precursor MucD/AlgY associated with sigma factor RpoE
+PGF_06649360	Nitrosospira	216.11	14.07	Segregation and condensation protein B
+PGF_06693963	Nitrosospira	108.00	0.00	Nucleoid-associated protein YaaK
+PGF_06706859	Nitrosospira	162.28	16.32	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06743269	Nitrosospira	403.00	4.00	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06755829	Nitrosospira	371.94	4.12	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Nitrosospira	508.56	11.57	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06772993	Nitrosospira	953.50	17.65	Ribonuclease E (EC 3.1.26.12)
+PGF_06849422	Nitrosospira	181.89	13.37	InterPro IPR000345
+PGF_06900716	Nitrosospira	542.22	17.21	putative phospholipase D family protein
+PGF_07199745	Nitrosospira	321.89	8.63	FIG00687856: Predicted nucleotidyltransferases
+PGF_07242312	Nitrosospira	638.72	4.70	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07263029	Nitrosospira	328.39	23.73	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07344415	Nitrosospira	182.33	4.24	Intracellular septation protein IspA
+PGF_07510635	Nitrosospira	228.50	6.36	Two-component transcriptional response regulator, LuxR family
+PGF_08027297	Nitrosospira	353.28	3.06	Lipopolysaccharide export system permease protein LptG
+PGF_08046522	Nitrosospira	103.94	1.83	Glutaredoxin-related protein
+PGF_08059770	Nitrosospira	67.28	17.51	Sulfur carrier protein ThiS
+PGF_08061357	Nitrosospira	122.50	4.71	Iron-sulfur cluster insertion protein ErpA
+PGF_08103931	Nitrosospira	349.94	11.67	Hydrolase, alpha/beta fold family
+PGF_08147453	Nitrosospira	382.06	10.78	DNA recombination protein RmuC
+PGF_08153913	Nitrosospira	264.78	7.08	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08155333	Nitrosospira	84.28	5.42	Acyl carrier protein
+PGF_08183187	Nitrosospira	388.78	4.77	Cell division protein FtsW

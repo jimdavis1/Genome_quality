@@ -1,0 +1,2334 @@
+PGF_00000261	Shigella	378.73	27.74	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000416	Shigella	340.55	50.65	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000939	Shigella	393.19	40.14	Uncharacterized protein YhiN
+PGF_00001036	Shigella	112.63	4.26	FIG00923183: possible exported protein YebY
+PGF_00001392	Shigella	376.40	13.42	ABC-type efflux pump permease component YbhS
+PGF_00002124	Shigella	204.82	4.70	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002132	Shigella	72.00	0.05	UPF0270 protein YheU
+PGF_00002144	Shigella	179.61	6.43	Cell division protein ZapC
+PGF_00002237	Shigella	568.22	65.90	ABC-type efflux pump, duplicated ATPase component YbhF
+PGF_00002592	Shigella	218.67	6.49	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00002672	Shigella	492.65	37.47	ATPase RavA
+PGF_00002688	Shigella	275.69	7.31	FIG023911: putative membrane protein
+PGF_00003416	Shigella	217.81	12.20	FIG094199: Fumarylacetoacetate hydrolase
+PGF_00003452	Shigella	526.67	26.18	ABC transporter, ATP-binding protein YejF
+PGF_00003480	Shigella	216.57	6.88	ABC transporter, ATP-binding protein YnjD
+PGF_00003488	Shigella	116.37	6.06	Uncharacterized protein YhfU
+PGF_00003528	Shigella	182.87	4.14	UPF0307 protein YjgA
+PGF_00003643	Shigella	168.61	6.05	FIG143828: Hypothetical protein YbgA
+PGF_00003740	Shigella	205.66	5.88	FKBP-type peptidyl-prolyl cis-trans isomerase FklB (EC 5.2.1.8)
+PGF_00003746	Shigella	270.00	13.91	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+PGF_00003749	Shigella	148.25	6.72	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003779	Shigella	188.29	17.76	FMN reductase (NADPH) (EC 1.5.1.38)
+PGF_00004231	Shigella	372.57	17.98	Inner membrane transport permease YhhJ
+PGF_00004253	Shigella	412.37	20.48	Fermentation/respiration switch protein
+PGF_00004378	Shigella	247.47	8.31	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00004408	Shigella	86.00	0.09	Ferredoxin-like protein YgcO
+PGF_00004414	Shigella	163.61	6.81	Ferredoxin-type protein NapF (periplasmic nitrate reductase)
+PGF_00004417	Shigella	228.80	15.88	Ferredoxin-type protein NapG (periplasmic nitrate reductase)
+PGF_00004454	Shigella	295.60	7.81	Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), periplasmic substrate binding protein FhuD
+PGF_00004457	Shigella	620.75	124.92	Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), permease component FhuB
+PGF_00004497	Shigella	261.27	10.07	Ferric reductase (1.6.99.14)
+PGF_00004671	Shigella	760.34	85.69	Ferrous iron transport protein B
+PGF_00004676	Shigella	77.96	1.05	Ferrous iron-sensisng transcriptional regulator FeoC
+PGF_00005252	Shigella	363.54	8.39	ABC transporter, permease protein YejB
+PGF_00005260	Shigella	338.15	24.11	ABC transporter, permease protein YejE
+PGF_00005288	Shigella	360.62	29.72	Flagellar P-ring protein FlgI
+PGF_00005331	Shigella	212.71	21.17	Flagellar basal-body P-ring formation protein FlgA
+PGF_00005402	Shigella	88.98	0.40	Flagellar biosynthesis protein FliQ
+PGF_00005442	Shigella	241.16	19.97	Flagellar brake protein YcgR
+PGF_00005450	Shigella	397.55	23.06	Flagellar hook protein FlgE
+PGF_00005576	Shigella	141.50	6.16	16 kDa heat shock protein B
+PGF_00005616	Shigella	329.59	18.12	Flagellar regulator flk
+PGF_00005638	Shigella	505.85	86.73	Flagellin FliC
+PGF_00005921	Shigella	172.94	1.41	Flavodoxin 2
+PGF_00005935	Shigella	599.20	43.39	ABC transporter, substrate-binding protein YejA
+PGF_00005948	Shigella	146.88	2.90	Flavoprotein MioC
+PGF_00006100	Shigella	325.49	10.39	tRNA-modifying protein YgfZ
+PGF_00006133	Shigella	290.20	26.59	Formate dehydrogenase N beta subunit (EC 1.2.1.2)
+PGF_00006134	Shigella	216.04	11.69	Formate dehydrogenase N gamma subunit (EC 1.2.1.2)
+PGF_00006144	Shigella	210.39	8.87	Formate dehydrogenase O gamma subunit (EC 1.2.1.2)
+PGF_00006228	Shigella	304.77	19.64	Formate hydrogenlyase subunit 4
+PGF_00006232	Shigella	558.90	73.86	Formate hydrogenlyase subunit 5
+PGF_00006287	Shigella	412.98	14.09	Formyl-coenzyme A transferase (EC 2.8.3.16)
+PGF_00006320	Shigella	279.43	9.42	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006336	Shigella	105.71	4.14	Frataxin homolog CyaY, facilitates Fe-S cluster assembly, interacts with IscS
+PGF_00006376	Shigella	333.33	12.94	Fructose repressor FruR, LacI family
+PGF_00006390	Shigella	348.03	21.58	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006394	Shigella	358.30	10.38	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006403	Shigella	373.02	26.51	PTS system, fructose-specific IIA component (EC 2.7.1.202) / Fructose-specific phosphocarrier protein HPr
+PGF_00006453	Shigella	539.78	52.72	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006461	Shigella	463.98	30.92	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006500	Shigella	130.59	4.69	Fumarate reductase subunit C
+PGF_00006910	Shigella	249.60	18.46	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeH
+PGF_00006931	Shigella	344.69	21.19	GMP reductase (EC 1.7.1.7)
+PGF_00006935	Shigella	523.90	15.41	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006955	Shigella	323.18	16.38	Uncharacterized GNAT family acetyltransferase YiiD
+PGF_00006987	Shigella	195.30	10.28	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007012	Shigella	361.37	18.47	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Shigella	487.75	26.60	GTP-binding protein EngA
+PGF_00007026	Shigella	209.95	1.60	GTP-binding protein EngB
+PGF_00007027	Shigella	300.56	3.55	GTP-binding protein Era
+PGF_00007028	Shigella	425.10	14.89	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Shigella	603.95	33.66	GTP-binding protein TypA/BipA
+PGF_00007057	Shigella	453.22	16.18	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007075	Shigella	254.76	16.81	Galactitol utilization operon repressor
+PGF_00007085	Shigella	381.49	10.55	Galactokinase (EC 2.7.1.6)
+PGF_00007120	Shigella	346.73	17.54	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007128	Shigella	479.72	91.18	Galactose/methyl galactoside ABC transport system, ATP-binding protein MglA (EC 3.6.3.17)
+PGF_00007131	Shigella	326.60	34.46	Galactose/methyl galactoside ABC transport system, D-galactose-binding periplasmic protein MglB (TC 3.A.1.2.3)
+PGF_00007133	Shigella	333.47	22.09	Galactose/methyl galactoside ABC transport system, permease protein MglC (TC 3.A.1.2.3)
+PGF_00007154	Shigella	238.63	23.04	Gamma-D-Glutamyl-meso-Diaminopimelate Amidase
+PGF_00007176	Shigella	450.49	37.83	Gamma-glutamyl-putrescine synthetase (EC 6.3.1.11)
+PGF_00007481	Shigella	172.17	1.17	ThiJ/PfpI family protein YhbO
+PGF_00007632	Shigella	312.21	11.88	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007812	Shigella	830.31	62.41	Glucans biosynthesis glucosyltransferase H (EC 2.4.1.-)
+PGF_00007817	Shigella	381.24	23.39	Glucans biosynthesis protein C (EC 2.1.-.-)
+PGF_00007822	Shigella	497.50	29.46	Glucans biosynthesis protein G precursor
+PGF_00007825	Shigella	443.31	26.73	Glucarate dehydratase (EC 4.2.1.40)
+PGF_00007827	Shigella	423.55	73.26	Glucarate dehydratase related protein YgcY
+PGF_00007829	Shigella	115.39	13.99	Glucitol operon activator protein
+PGF_00007834	Shigella	256.78	5.95	Glucitol operon repressor
+PGF_00007844	Shigella	318.15	25.33	Glucokinase (EC 2.7.1.2)
+PGF_00007883	Shigella	325.48	31.66	Gluconate utilization system Gnt-I transcriptional repressor
+PGF_00007920	Shigella	265.72	5.61	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00007971	Shigella	428.28	16.41	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007988	Shigella	548.90	2.95	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Shigella	428.28	13.90	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Shigella	358.11	48.54	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008068	Shigella	239.93	13.15	Glutamate Aspartate transport ATP-binding protein GltL (TC 3.A.1.3.4)
+PGF_00008074	Shigella	223.32	5.90	Glutamate Aspartate transport system permease protein GltK (TC 3.A.1.3.4)
+PGF_00008115	Shigella	1488.98	174.74	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008159	Shigella	517.54	13.05	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008164	Shigella	424.16	23.85	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Shigella	467.80	18.53	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008281	Shigella	239.68	7.33	Glutamine ABC transporter, ATP-binding protein GlnQ
+PGF_00008293	Shigella	218.30	9.22	Glutamine ABC transporter, permease protein GlnP
+PGF_00008326	Shigella	550.74	33.69	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Shigella	415.85	23.20	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Shigella	467.87	30.44	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008349	Shigella	84.87	2.16	Glutaredoxin 1
+PGF_00008351	Shigella	211.63	19.20	Glutaredoxin 2
+PGF_00008381	Shigella	80.92	1.42	Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib
+PGF_00008439	Shigella	331.69	20.59	Glutathione S-transferase, omega (EC 2.5.1.18)
+PGF_00008441	Shigella	200.91	12.30	Uncharacterized GST-like protein YibF
+PGF_00008469	Shigella	314.11	16.83	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008487	Shigella	174.91	6.29	Glutathione-regulated potassium-efflux system ancillary protein KefF
+PGF_00008502	Shigella	384.62	19.16	Putative acid--amine ligase YgiC
+PGF_00008503	Shigella	615.74	33.72	Glutathionylspermidine synthase (EC 6.3.1.8) / Glutathionylspermidine amidohydrolase (EC 3.5.1.78)
+PGF_00008509	Shigella	339.02	0.23	D-erythrose-4-phosphate dehydrogenase (EC 1.2.1.72)
+PGF_00008510	Shigella	248.77	13.19	16S rRNA (guanine(1516)-N(2))-methyltransferase (EC 2.1.1.242)
+PGF_00008521	Shigella	375.61	33.96	Glycerate-2-kinase (EC 2.7.1.165)
+PGF_00008537	Shigella	498.44	27.59	Glycerol kinase (EC 2.7.1.30)
+PGF_00008593	Shigella	895.34	87.21	Ribosome-associated ATPase RbbA
+PGF_00008595	Shigella	800.38	89.03	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+PGF_00008651	Shigella	243.42	22.76	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+PGF_00008767	Shigella	189.86	4.00	Glycine cleavage system transcriptional antiactivator GcvR
+PGF_00008773	Shigella	950.40	63.94	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Shigella	206.81	4.49	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008874	Shigella	802.95	79.71	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Shigella	474.74	23.28	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Shigella	197.26	7.84	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Shigella	301.52	14.02	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Shigella	686.35	32.26	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Shigella	241.92	12.25	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Shigella	691.12	75.57	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010352	Shigella	492.30	25.31	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase (EC 3.6.1.40) @ Exopolyphosphatase (EC 3.6.1.11)
+PGF_00010360	Shigella	206.83	5.08	Guanylate kinase (EC 2.7.4.8)
+PGF_00010634	Shigella	269.85	17.96	HMP-PP hydrolase (pyridoxal phosphatase) Cof, detected in genetic screen for thiamin metabolic genes
+PGF_00010716	Shigella	174.72	7.82	Transcriptional regulator DctR, LuxR family
+PGF_00010729	Shigella	296.73	10.25	Transcriptional regulator IlvY, LysR family
+PGF_00010746	Shigella	177.87	4.02	HTH-type transcriptional regulator RcdA
+PGF_00010776	Shigella	226.40	12.19	HTH-type transcriptional repressor ComR
+PGF_00011081	Shigella	718.17	72.97	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Shigella	293.47	19.38	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011606	Shigella	456.41	43.14	Hexose phosphate transport protein UhpT
+PGF_00011607	Shigella	437.20	22.99	Hexose phosphate uptake regulatory protein UhpC
+PGF_00011619	Shigella	257.26	11.13	Hexuronate utilization operon transcriptional repressor ExuR
+PGF_00011634	Shigella	418.52	10.53	HflK protein
+PGF_00011644	Shigella	122.57	9.81	Hha toxicity modulator TomB
+PGF_00011706	Shigella	435.83	21.80	High-affinity gluconate transporter GntT
+PGF_00011729	Shigella	368.10	25.96	High-affinity leucine-specific transport system, periplasmic binding protein LivK (TC 3.A.1.4.1)
+PGF_00011803	Shigella	256.44	9.24	Histidine ABC transporter, ATP-binding protein HisP (TC 3.A.1.3.1)
+PGF_00011807	Shigella	259.19	11.62	Histidine ABC transporter, histidine-binding periplasmic protein precursor HisJ (TC 3.A.1.3.1)
+PGF_00011813	Shigella	237.51	7.80	Histidine ABC transporter, permease protein HisM (TC 3.A.1.3.1)
+PGF_00011816	Shigella	227.42	8.40	Histidine ABC transporter, permease protein HisQ (TC 3.A.1.3.1)
+PGF_00011979	Shigella	429.70	33.12	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Shigella	353.94	13.69	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012264	Shigella	335.72	4.36	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Shigella	309.07	13.78	Homoserine kinase (EC 2.7.1.39)
+PGF_00012510	Shigella	116.21	8.26	Uptake [NiFe] hydrogenase maturation factor HyaE
+PGF_00012512	Shigella	281.19	24.12	Uptake [NiFe] hydrogenase maturation maturation factor HyaF
+PGF_00012529	Shigella	163.53	5.58	Hydrogenase maturation protease HybD
+PGF_00012546	Shigella	309.17	29.78	Hydrogenase-4 component C
+PGF_00012562	Shigella	136.61	5.20	Hydrogenase-4 maturation protease
+PGF_00012920	Shigella	545.62	38.57	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012970	Shigella	628.13	31.65	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00012972	Shigella	186.01	0.32	ADP compounds hydrolase NudE (EC 3.6.1.-)
+PGF_00013003	Shigella	634.68	30.94	Bis-ABC ATPase YheS
+PGF_00013017	Shigella	309.26	13.42	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013066	Shigella	148.72	4.30	Hypothetical flavoprotein YqcA (clustered with tRNA pseudouridine synthase C)
+PGF_00013082	Shigella	192.46	5.08	Hypothetical lipoprotein YajG precursor
+PGF_00013088	Shigella	178.66	5.29	Hypothetical lipoprotein yajI
+PGF_00013089	Shigella	107.52	5.03	Uncharacterized lipoprotein ChiQ
+PGF_00013092	Shigella	72.00	0.00	Uncharacterized lipoprotein YgdR
+PGF_00013100	Shigella	473.97	32.51	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013244	Shigella	208.15	9.45	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013272	Shigella	83.15	29.13	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013273	Shigella	128.66	4.72	Uncharacterized protein YaeR with similarity to glyoxylase family
+PGF_00013283	Shigella	233.85	5.28	UPF0001 protein YggS
+PGF_00013284	Shigella	300.60	7.59	Hypothetical protein YhfZ
+PGF_00013288	Shigella	181.06	8.47	Hypothetical protein YnjA
+PGF_00013290	Shigella	108.89	4.34	Uncharacterized protein YqcC
+PGF_00013365	Shigella	43.09	0.65	Uncharacterized protein YqgB
+PGF_00013450	Shigella	98.77	3.35	Transcriptional regulator YgaV, ArsR family
+PGF_00013492	Shigella	178.09	3.24	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013676	Shigella	331.25	54.64	AI-2 transport protein TqsA
+PGF_00013790	Shigella	705.10	51.52	IgaA: a membrane protein that prevents overactivation of the Rcs regulatory system
+PGF_00013801	Shigella	456.30	88.68	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013857	Shigella	733.49	75.89	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014053	Shigella	452.61	34.01	Indole-3-glycerol phosphate synthase (EC 4.1.1.48) / Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00014083	Shigella	148.81	3.79	Inhibitor of vertebrate c-type lysozyme, periplasmic => Ivy
+PGF_00014116	Shigella	443.61	44.04	Inner membrane protein CreD
+PGF_00014120	Shigella	101.83	3.13	Inner membrane protein YaiY
+PGF_00014121	Shigella	150.20	17.75	Inner membrane protein YbcI
+PGF_00014124	Shigella	232.91	5.81	Inner membrane protein YbhL
+PGF_00014125	Shigella	135.34	3.47	Inner membrane protein YbhQ
+PGF_00014128	Shigella	398.62	27.79	Inner membrane protein YbjJ
+PGF_00014129	Shigella	123.90	6.30	Inner membrane protein YbjM
+PGF_00014130	Shigella	161.96	1.44	Inner membrane protein YbjO
+PGF_00014132	Shigella	148.09	1.57	Inner membrane protein YccF
+PGF_00014133	Shigella	165.47	7.43	Inner membrane protein YcdZ
+PGF_00014134	Shigella	349.16	39.72	Inner membrane protein YcfT
+PGF_00014139	Shigella	129.97	6.52	Inner membrane protein YecN
+PGF_00014140	Shigella	303.25	16.20	Inner membrane protein YedI
+PGF_00014144	Shigella	579.23	50.52	Inner membrane protein YejM, alkaline phosphatase superfamily
+PGF_00014145	Shigella	304.38	18.37	Inner membrane protein YfdC
+PGF_00014146	Shigella	146.03	9.38	Inner membrane protein YfeZ
+PGF_00014154	Shigella	121.01	2.97	Inner membrane protein YhaH
+PGF_00014158	Shigella	112.12	6.96	Inner membrane protein YiaB
+PGF_00014160	Shigella	328.16	14.74	Inner membrane protein YiaH
+PGF_00014183	Shigella	288.77	6.83	Inner membrane protein YihY, formerly thought to be RNase BN
+PGF_00014188	Shigella	415.49	25.07	Inner membrane protein YjeH
+PGF_00014189	Shigella	372.33	82.14	Inner membrane protein YjgN
+PGF_00014190	Shigella	154.30	9.95	Inner membrane protein YlaC
+PGF_00014194	Shigella	191.44	9.60	Inner membrane protein YohC
+PGF_00014195	Shigella	194.82	6.78	Inner membrane protein YohC
+PGF_00014196	Shigella	228.48	20.16	Inner membrane protein YohK
+PGF_00014199	Shigella	141.33	6.50	Inner membrane protein YqaA
+PGF_00014207	Shigella	133.77	3.68	Inner membrane protein YqjE
+PGF_00014208	Shigella	155.53	11.84	Inner membrane protein YqjF
+PGF_00014209	Shigella	99.00	0.07	Inner membrane protein YqjK
+PGF_00014279	Shigella	101.89	2.47	Inner membrane protein yciS
+PGF_00014285	Shigella	423.84	40.71	Inner membrane transport protein YbaT
+PGF_00014288	Shigella	389.11	64.31	Inner membrane transport protein YqeG
+PGF_00014306	Shigella	176.15	1.85	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Shigella	502.63	22.85	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014315	Shigella	430.09	34.02	Inosine-guanosine kinase (EC 2.7.1.73)
+PGF_00014732	Shigella	156.11	13.16	Integral membrane protein YfiB
+PGF_00015039	Shigella	270.57	6.95	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Shigella	79.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Shigella	176.46	7.66	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Shigella	286.02	13.94	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Shigella	106.62	3.80	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015510	Shigella	246.15	17.21	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Shigella	479.37	70.65	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Shigella	421.52	19.93	Iron-sulfur cluster assembly protein SufD
+PGF_00015523	Shigella	127.94	2.03	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015630	Shigella	312.89	39.60	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015686	Shigella	425.08	38.08	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015701	Shigella	411.77	38.38	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Shigella	924.39	95.20	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015735	Shigella	181.43	7.45	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Shigella	489.10	24.75	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015958	Shigella	304.47	16.29	L,D-transpeptidase YbiS
+PGF_00015961	Shigella	272.93	39.51	L,D-transpeptidase YcfS
+PGF_00015962	Shigella	325.92	40.25	L,D-transpeptidase YnhG
+PGF_00016003	Shigella	311.78	40.72	L-alanine-DL-glutamate epimerase (EC 5.1.1.n1)
+PGF_00016028	Shigella	495.22	40.64	L-arabinose isomerase (EC 5.3.1.4)
+PGF_00016046	Shigella	342.09	32.74	L-asparaginase (EC 3.5.1.1)
+PGF_00016047	Shigella	334.97	17.75	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016076	Shigella	249.26	9.84	L-cystine ABC transporter (wide substrate range), ATP-binding protein YecC
+PGF_00016078	Shigella	218.92	20.81	L-cystine ABC transporter (wide substrate range), permease protein YecS
+PGF_00016107	Shigella	237.33	29.44	L-fucose operon activator
+PGF_00016118	Shigella	212.49	14.78	L-fuculose phosphate aldolase (EC 4.1.2.17)
+PGF_00016122	Shigella	342.95	25.37	L-glyceraldehyde 3-phosphate reductase
+PGF_00016130	Shigella	394.63	20.24	L-lactate dehydrogenase
+PGF_00016139	Shigella	544.57	47.45	L-lactate permease
+PGF_00016145	Shigella	442.80	22.67	L-lysine 6-monooxygenase [NADPH] (EC 1.14.13.59), aerobactin biosynthesis protein IucD @ Siderophore biosynthesis protein, monooxygenase
+PGF_00016189	Shigella	326.45	29.37	Glycine betaine/L-proline transport substrate-binding protein ProX (TC 3.A.1.12.1)
+PGF_00016200	Shigella	414.61	32.73	L-rhamnose isomerase (EC 5.3.1.14)
+PGF_00016202	Shigella	103.47	3.87	L-rhamnose mutarotase (EC 5.1.3.32)
+PGF_00016205	Shigella	274.95	18.24	L-rhamnose operon regulatory protein RhaS
+PGF_00016216	Shigella	278.22	30.66	L-ribulose-5-phosphate 3-epimerase UlaE (EC 5.1.3.22)
+PGF_00016218	Shigella	230.10	11.15	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
+PGF_00016221	Shigella	226.90	12.65	L-ribulose-5-phosphate 4-epimerase UlaF (EC 5.1.3.4) (L-ascorbate utilization protein F)
+PGF_00016231	Shigella	445.06	72.37	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016261	Shigella	337.97	23.24	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016266	Shigella	441.61	18.60	L-threonine transporter, anaerobically inducible
+PGF_00016325	Shigella	743.12	92.13	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Shigella	164.88	2.95	LSU ribosomal protein L10p (P0)
+PGF_00016338	Shigella	417.70	43.66	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Shigella	122.87	0.86	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Shigella	143.96	0.89	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Shigella	135.70	4.91	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Shigella	126.38	6.44	LSU ribosomal protein L17p
+PGF_00016353	Shigella	116.87	3.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Shigella	233.99	0.24	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Shigella	117.83	2.76	LSU ribosomal protein L20p
+PGF_00016361	Shigella	105.93	1.41	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Shigella	108.71	9.11	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Shigella	99.93	1.86	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Shigella	103.87	2.62	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Shigella	84.98	0.66	LSU ribosomal protein L27p
+PGF_00016393	Shigella	272.38	10.45	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Shigella	59.00	0.10	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Shigella	57.00	0.05	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Shigella	55.00	0.03	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Shigella	46.00	0.05	LSU ribosomal protein L34p
+PGF_00016423	Shigella	64.99	0.25	LSU ribosomal protein L35p
+PGF_00016431	Shigella	208.80	4.86	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Shigella	200.52	7.54	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Shigella	178.95	1.20	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Shigella	176.96	5.11	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Shigella	120.79	3.35	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Shigella	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016495	Shigella	242.37	15.04	Lactam utilization protein LamB
+PGF_00016546	Shigella	134.76	3.95	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016919	Shigella	233.12	9.63	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017054	Shigella	235.33	15.77	Lipid A 1-diphosphate synthase
+PGF_00017057	Shigella	161.78	20.60	Lipid A palmitoyltransferase PagP (EC 2.3.1.251)
+PGF_00017064	Shigella	304.91	13.27	Lipid A biosynthesis palmitoleoyltransferase (EC 2.3.1.242)
+PGF_00017107	Shigella	288.47	41.34	Lipid kinase YegS
+PGF_00017109	Shigella	381.40	12.92	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Shigella	240.56	7.07	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017192	Shigella	245.40	9.44	Lipopolysaccharide N-acetylmannosaminouronosyltransferase (EC 2.4.1.180)
+PGF_00017229	Shigella	347.50	8.92	Lipopolysaccharide biosynthesis protein WzzE
+PGF_00017275	Shigella	264.55	8.34	Lipopolysaccharide core heptose(I) kinase RfaP
+PGF_00017281	Shigella	323.74	8.27	Lipopolysaccharide core heptosyltransferase I
+PGF_00017283	Shigella	347.76	24.82	Lipopolysaccharide core heptosyltransferase III
+PGF_00017327	Shigella	190.99	0.52	Lipopolysaccharide export system protein LptC
+PGF_00017384	Shigella	108.74	2.90	Lipoprotein BsmA
+PGF_00017400	Shigella	374.47	22.55	Murein hydrolase activator NlpD
+PGF_00017407	Shigella	293.80	5.42	Lipoprotein NlpI
+PGF_00017409	Shigella	210.15	17.56	Lipoprotein YcfM, part of a salvage pathway of unknown substrate
+PGF_00017464	Shigella	232.86	4.74	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Shigella	319.65	16.02	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017518	Shigella	576.31	57.12	Lon protease homolog YcbZ
+PGF_00017579	Shigella	418.91	19.78	ATP-dependent RNA helicase RhlB
+PGF_00017612	Shigella	441.05	39.19	Low-affinity gluconate/H+ symporter GntU
+PGF_00017614	Shigella	448.82	29.61	Low-affinity putrescine importer PlaP
+PGF_00017617	Shigella	329.92	23.84	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017621	Shigella	441.66	24.16	ATP-dependent RNA helicase SrmB
+PGF_00017640	Shigella	184.40	4.97	Lipopolysaccharide export system protein LptA
+PGF_00017790	Shigella	306.32	38.79	LysR family transcriptional activator LeuO
+PGF_00017805	Shigella	277.18	16.32	LysR family transcriptional regulator HdfR
+PGF_00017808	Shigella	310.61	15.24	LysR family transcriptional regulator LrhA
+PGF_00017839	Shigella	299.42	29.66	LysR family transcriptional regulator YafC
+PGF_00017859	Shigella	284.76	39.91	LysR family transcriptional regulator YfiE
+PGF_00017861	Shigella	320.19	21.11	LysR family transcriptional regulator YhjC
+PGF_00017873	Shigella	295.35	20.24	LysR family transcriptional regulator YnfL
+PGF_00017922	Shigella	309.31	36.99	LysR-family transcriptional regulator YbeF
+PGF_00017923	Shigella	303.07	34.27	LysR-family transcriptional regulator YdhB
+PGF_00017924	Shigella	314.11	21.73	LysR-family transcriptional regulator YeeY
+PGF_00017939	Shigella	340.20	15.62	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00017963	Shigella	677.13	118.19	Lysine decarboxylase 2, constitutive (EC 4.1.1.18)
+PGF_00018016	Shigella	486.31	28.41	Lysine-specific permease
+PGF_00018065	Shigella	392.32	28.77	Lysophospholipid transporter LplT
+PGF_00018131	Shigella	270.55	16.20	Lyzozyme M1 (1,4-beta-N-acetylmuramidase) (EC 3.2.1.17)
+PGF_00018302	Shigella	398.41	29.62	Multidrug resistance protein MdtH
+PGF_00018522	Shigella	356.28	54.80	Macrolide-specific efflux protein MacA
+PGF_00018536	Shigella	754.25	53.97	ATP-dependent helicase DinG/Rad3
+PGF_00018552	Shigella	205.87	10.72	Maf-like protein YceF
+PGF_00018560	Shigella	292.05	3.07	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Shigella	311.70	8.01	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Shigella	443.01	0.09	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019053	Shigella	576.60	93.39	Maltodextrin glucosidase (EC 3.2.1.20)
+PGF_00019110	Shigella	332.91	41.04	Maltose regulon regulatory protein MalI (repressor for malXY)
+PGF_00019236	Shigella	398.46	59.33	Manganese transport protein MntH
+PGF_00019272	Shigella	390.21	28.69	Mannonate dehydratase (EC 4.2.1.8)
+PGF_00019307	Shigella	387.31	33.00	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Shigella	175.43	2.54	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019476	Shigella	298.26	24.06	Melibiose operon regulatory protein MelR, AraC family
+PGF_00019480	Shigella	257.26	15.60	Membrane Protein Functionally coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00019484	Shigella	862.04	68.67	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00019972	Shigella	245.50	16.01	Membrane protein YciC, linked to IspA
+PGF_00019974	Shigella	348.89	29.88	Membrane protein YcjF
+PGF_00020118	Shigella	187.97	6.80	Membrane transporter HdeD, H-NS repressed
+PGF_00020168	Shigella	370.73	27.72	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Shigella	273.49	9.19	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020190	Shigella	514.54	34.11	Membrane-bound lytic murein transglycosylase F (EC 4.2.2.n1)
+PGF_00020195	Shigella	195.53	8.62	Membrane-bound metal-dependent hydrolase YdjM, induced during SOS response
+PGF_00020322	Shigella	214.98	11.84	Metal-binding protein ZinT
+PGF_00020361	Shigella	154.95	2.47	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Shigella	263.40	9.37	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020747	Shigella	105.00	0.00	Methionine repressor MetJ
+PGF_00020984	Shigella	285.20	20.22	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020993	Shigella	269.61	30.46	Methylglyoxal reductase, dihydroxyacetone producing @ 2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming) (EC 1.1.1.274)
+PGF_00020994	Shigella	262.45	24.63	Methylglyoxal reductase, dihydroxyacetone producing @ 2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming) (EC 1.1.1.346)
+PGF_00020996	Shigella	152.08	0.91	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021003	Shigella	259.78	14.76	Methylmalonyl-CoA decarboxylase (EC 4.1.1.41)
+PGF_00021217	Shigella	511.60	28.41	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021418	Shigella	328.72	35.79	Mgl repressor and galactose ultrainduction factor GalS, HTH-type transcriptional regulator
+PGF_00021465	Shigella	162.58	20.24	Minor fimbrial subunit StfE
+PGF_00021466	Shigella	155.89	6.18	Minor fimbrial subunit StfF
+PGF_00021467	Shigella	171.69	12.02	Minor fimbrial subunit StfG
+PGF_00021496	Shigella	400.84	33.72	Mlc, transcriptional repressor of MalT (the transcriptional activator of maltose regulon) and manXYZ operon
+PGF_00021761	Shigella	222.20	17.05	ATPase component STY3232 of energizing module of queuosine-regulated ECF transporter
+PGF_00021944	Shigella	247.10	7.34	MltA-interacting protein MipA
+PGF_00022467	Shigella	169.98	0.86	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00022479	Shigella	193.85	6.47	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022507	Shigella	194.82	4.53	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Shigella	80.95	0.84	Molybdopterin synthase sulfur carrier subunit
+PGF_00022577	Shigella	173.36	13.04	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00023163	Shigella	387.07	44.12	Multidrug resistance protein EmrD
+PGF_00023214	Shigella	381.25	22.81	Multidrug efflux system EmrKY-TolC, membrane fusion component EmrK
+PGF_00023217	Shigella	496.53	61.67	Multidrug efflux system EmrKY-TolC, inner-membrane proton/drug antiporter EmrY (MFS type)
+PGF_00023256	Shigella	451.21	69.04	Uncharacterized transporter MdtD of major facilitator superfamily (MFS)
+PGF_00023326	Shigella	196.74	3.17	MarC family integral membrane protein
+PGF_00023331	Shigella	83.09	5.07	Multiple stress resistance protein BhsA
+PGF_00023401	Shigella	270.00	13.72	Murein DD-endopeptidase MepH
+PGF_00023403	Shigella	433.68	39.82	Murein DD-endopeptidase MepM
+PGF_00023404	Shigella	185.66	9.72	Murein DD-endopeptidase MepS @ Murein LD-carboxypeptidase (EC 3.4.17.13)
+PGF_00023405	Shigella	306.78	24.28	Murein-DD-endopeptidase (EC 3.4.99.-)
+PGF_00023476	Shigella	128.90	3.10	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Shigella	336.33	12.27	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023616	Shigella	230.06	27.62	N-3-oxohexanoyl-L-homoserine lactone quorum-sensing transcriptional activator @ N-3-oxooctanoyl-L-homoserine lactone quorum-sensing transcriptional activator
+PGF_00023715	Shigella	291.98	40.58	N-acetyl-D-glucosamine kinase (EC 2.7.1.59)
+PGF_00023739	Shigella	333.99	0.49	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023781	Shigella	339.11	44.53	AbrB protein
+PGF_00023794	Shigella	380.90	15.78	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00023796	Shigella	405.14	15.30	N-acetylglucosamine-6P-responsive transcriptional repressor NagC, ROK family
+PGF_00023818	Shigella	440.71	19.54	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00023828	Shigella	289.34	16.37	N-acetylmannosamine kinase (EC 2.7.1.60)
+PGF_00023835	Shigella	296.41	16.52	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00023883	Shigella	275.51	7.89	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28) @ 1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00023919	Shigella	296.05	13.67	N-acetylneuraminate lyase (EC 4.1.3.3)
+PGF_00023946	Shigella	136.59	13.28	N-acetyltransferase ElaA
+PGF_00024222	Shigella	369.64	20.59	N-methyl-L-tryptophan oxidase (EC 1.5.3.-)
+PGF_00024234	Shigella	374.57	8.03	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Shigella	169.01	0.20	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Shigella	354.40	11.60	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024289	Shigella	314.02	13.45	N6-hydroxylysine O-acetyltransferase (EC 2.3.1.102), aerobactin biosynthesis protein IucB @ Siderophore synthetase small component, acetyltransferase
+PGF_00024308	Shigella	272.99	17.65	NAD synthetase (EC 6.3.1.5)
+PGF_00024322	Shigella	457.26	36.46	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024482	Shigella	269.75	25.16	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024540	Shigella	430.00	31.95	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024567	Shigella	399.29	11.68	Acetate kinase (EC 2.7.2.1)
+PGF_00024574	Shigella	397.88	33.35	Acetate kinase (EC 2.7.2.1) @ Propionate kinase (EC 2.7.2.15)
+PGF_00024602	Shigella	273.45	8.39	Acetate operon repressor IclR
+PGF_00024608	Shigella	318.64	25.23	NADH oxidoreductase for hydroxylamine reductase
+PGF_00024615	Shigella	256.53	8.84	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024685	Shigella	595.43	41.90	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Shigella	165.93	3.92	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024701	Shigella	901.37	66.94	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_00024728	Shigella	183.94	1.55	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Shigella	98.92	7.49	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Shigella	498.81	57.15	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Shigella	481.75	31.75	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Shigella	281.73	6.43	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00024924	Shigella	283.35	21.87	NAD(P)H dehydrogenase (quinone) 2 (EC 1.6.5.2)
+PGF_00025032	Shigella	231.17	25.18	NMN phosphatase (EC 3.1.3.5); Class B acid phosphatase precursor (EC 3.1.3.2)
+PGF_00025216	Shigella	86.99	0.26	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025289	Shigella	384.71	28.71	Na+/H+ antiporter NhaA type
+PGF_00025290	Shigella	510.00	29.36	Na+/H+ antiporter NhaB
+PGF_00025366	Shigella	409.07	16.36	NadR transcriptional regulator / Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)
+PGF_00025448	Shigella	191.00	0.05	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025477	Shigella	391.34	11.85	Ni/Fe-hydrogenase 2 b-type cytochrome subunit HybB
+PGF_00025484	Shigella	309.46	30.25	Acetyl esterase (EC 3.1.1.-)
+PGF_00025501	Shigella	522.68	21.13	Nickel ABC transporter, periplasmic nickel-binding protein NikA (TC 3.A.1.5.3)
+PGF_00025517	Shigella	133.00	0.21	Nickel responsive regulator NikR
+PGF_00025562	Shigella	211.41	12.23	Nicotinamidase (EC 3.5.1.19)
+PGF_00025568	Shigella	200.68	31.98	Nicotinamidase family protein YcaC
+PGF_00025588	Shigella	298.79	6.60	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) @ Dimethylallyltransferase (EC 2.5.1.1)
+PGF_00025598	Shigella	396.26	30.87	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025623	Shigella	346.36	49.24	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025698	Shigella	149.34	3.61	Nitrate reductase cytochrome c550-type subunit
+PGF_00025709	Shigella	215.82	4.33	Nitrate/nitrite response regulator protein NarL
+PGF_00025710	Shigella	213.91	11.56	Nitrate/nitrite response regulator protein NarP
+PGF_00025721	Shigella	586.41	63.86	Nitrate/nitrite sensor protein NarX
+PGF_00025754	Shigella	372.38	30.18	Nitric oxide reductase FlRd-NAD(+) reductase (EC 1.18.1.-)
+PGF_00025843	Shigella	107.97	1.09	Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)
+PGF_00025850	Shigella	530.12	48.43	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [enterobactin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis
+PGF_00025862	Shigella	265.94	17.62	Nitrite transporter NirC
+PGF_00025873	Shigella	291.32	60.80	Nitrogen assimilation regulatory protein Nac
+PGF_00025875	Shigella	127.03	0.54	Acetyl-CoA sensor PanM, required for maturation of L-aspartate decarboxylase
+PGF_00025890	Shigella	348.73	7.15	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026261	Shigella	336.91	40.62	Nondeblocking aminopeptidase YpdE (X-X-[^PR]- specific)
+PGF_00026279	Shigella	318.36	9.56	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026349	Shigella	332.57	21.34	Nucleoid-associated protein NdpA
+PGF_00026362	Shigella	196.62	6.38	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026405	Shigella	417.90	1.80	Nucleoside permease NupG
+PGF_00026407	Shigella	405.05	54.07	Nucleoside permease NupX
+PGF_00026409	Shigella	262.36	10.27	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Shigella	299.91	18.73	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026458	Shigella	293.13	10.96	Nucleoside-specific channel-forming protein Tsx precursor
+PGF_00026563	Shigella	152.73	3.50	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Shigella	257.01	11.93	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026819	Shigella	404.56	21.09	Acetylornithine aminotransferase (EC 2.6.1.11) @ N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)
+PGF_00026866	Shigella	322.17	13.48	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Shigella	676.04	33.13	Oligopeptidase A (EC 3.4.24.70)
+PGF_00026934	Shigella	547.38	53.58	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)
+PGF_00026986	Shigella	609.14	70.99	Oligopeptide transport ATP-binding protein @ Glutathione ABC transporter ATP-binding protein GsiA
+PGF_00027004	Shigella	302.40	26.18	Oligopeptide transport permease protein OppB-like @ Glutathione ABC transporter permease protein GsiC
+PGF_00027006	Shigella	302.00	12.68	Oligopeptide transport permease protein OppC-like @ Glutathione ABC transporter permease protein GsiD
+PGF_00027069	Shigella	253.13	10.09	Nickel transport ATP-binding protein NikD (TC 3.A.1.5.3)
+PGF_00027613	Shigella	241.59	14.28	Osmoprotectant ABC transporter inner membrane protein YehW
+PGF_00027668	Shigella	72.00	0.60	Osmotically-inducible lipoprotein OsmB
+PGF_00027674	Shigella	194.84	24.80	Osmotically inducible protein OsmY
+PGF_00027680	Shigella	111.22	5.53	Osmotically-inducible lipoprotein E
+PGF_00027728	Shigella	343.61	10.19	Outer membrane beta-barrel assembly protein BamC
+PGF_00027752	Shigella	577.06	6.96	Outer membrane component of TAM transport system
+PGF_00027833	Shigella	89.22	8.79	Outer membrane lipoprotein YidQ
+PGF_00027841	Shigella	140.98	1.79	Acetyltransferase YpeA
+PGF_00027881	Shigella	364.12	35.63	Outer membrane porin OmpC
+PGF_00028093	Shigella	335.46	60.37	Outer membrane porin PhoE
+PGF_00028319	Shigella	170.74	4.58	Outer membrane protein X precursor
+PGF_00028423	Shigella	354.74	9.07	Outer membrane stress sensor protease DegS
+PGF_00028486	Shigella	250.29	10.13	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00028527	Shigella	561.71	24.03	Oxalyl-CoA decarboxylase (EC 4.1.1.8)
+PGF_00028690	Shigella	296.63	16.94	Oxidoreductase YdhF
+PGF_00028704	Shigella	261.32	13.43	Oxidoreductase ucpA (EC 1.-.-.-)
+PGF_00028947	Shigella	216.55	5.53	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) / Dihydropteridine reductase (EC 1.5.1.34)
+PGF_00029025	Shigella	94.06	9.95	Acid shock protein precursor
+PGF_00029464	Shigella	162.52	4.52	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029473	Shigella	146.00	0.00	Putative PTS system IIA component YadI
+PGF_00029475	Shigella	112.91	2.05	PTS system, fructose-like IIB component FrwD
+PGF_00029531	Shigella	113.50	10.42	PTS system, N,N'-diacetylchitobiose-specific IIA component (EC 2.7.1.196)
+PGF_00029648	Shigella	107.41	5.80	PTS system, fructose-like IIB component FryB
+PGF_00029656	Shigella	409.13	36.68	PTS system, fructose-like IIC component FryC
+PGF_00029672	Shigella	92.68	7.45	PTS system, galactitol-specific IIB component (EC 2.7.1.200)
+PGF_00029677	Shigella	434.41	64.71	PTS system, galactitol-specific IIC component
+PGF_00029683	Shigella	1023.72	125.90	Multidrug efflux system AcrAB-TolC, inner-membrane proton/drug antiporter AcrB (RND type)
+PGF_00029698	Shigella	314.66	25.61	PTS system, glucitol/sorbitol-specific IIB component (EC 2.7.1.198) / PTS system, glucitol/sorbitol-specific IIC component 2
+PGF_00029812	Shigella	322.29	11.26	PTS system, mannose-specific IIA component (EC 2.7.1.191) / PTS system, mannose-specific IIB component (EC 2.7.1.191)
+PGF_00029850	Shigella	132.92	11.77	PTS system, sorbose-specific IIA component (EC 2.7.1.206)
+PGF_00029866	Shigella	459.09	64.68	PTS system, trehalose-specific IIB component (EC 2.7.1.201) / PTS system, trehalose-specific IIC component
+PGF_00029917	Shigella	281.92	13.38	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Shigella	314.82	16.41	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030154	Shigella	424.01	26.74	Pectinesterase (EC 3.1.1.11)
+PGF_00030237	Shigella	383.78	17.03	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH
+PGF_00030246	Shigella	272.42	16.08	Penicillin-insensitive murein endopeptidase
+PGF_00030640	Shigella	349.52	43.85	Peptide chain release factor 1
+PGF_00030643	Shigella	532.84	24.71	Peptide chain release factor 3
+PGF_00030650	Shigella	194.65	25.72	Peptide chain release factor homolog
+PGF_00030690	Shigella	535.33	60.33	Peptide transport periplasmic protein SapA
+PGF_00030694	Shigella	329.49	9.08	Peptide transport system ATP-binding protein SapD
+PGF_00030698	Shigella	320.32	11.92	Peptide transport system permease protein SapB
+PGF_00030701	Shigella	294.07	18.69	Peptide transport system permease protein SapC
+PGF_00030812	Shigella	163.76	4.97	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00030813	Shigella	92.92	1.98	Peptidyl-prolyl cis-trans isomerase PpiC (EC 5.2.1.8)
+PGF_00031036	Shigella	806.09	107.28	Periplasmic nitrate reductase (EC 1.7.99.4)
+PGF_00031058	Shigella	124.62	7.55	Periplasmic protein YqjC
+PGF_00031127	Shigella	207.76	5.50	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00031261	Shigella	270.32	24.58	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_00032662	Shigella	221.94	1.37	Phage shock protein A @ Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00032664	Shigella	74.00	0.10	Phage shock protein B
+PGF_00032667	Shigella	118.61	4.71	Phage shock protein C
+PGF_00033073	Shigella	457.77	17.22	Phenylalanine-specific permease
+PGF_00033095	Shigella	786.54	63.23	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033161	Shigella	46.98	0.57	PhoP/PhoQ regulator MgrB
+PGF_00033180	Shigella	198.54	7.08	alpha-D-glucose 1-phosphate phosphatase YihX (EC 3.1.3.10)
+PGF_00033253	Shigella	293.92	18.44	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Shigella	345.37	16.48	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033312	Shigella	252.47	14.86	Phosphatidylglycerophosphatase B (EC 3.1.3.27)
+PGF_00033319	Shigella	210.75	6.12	Phosphatidylglycerophosphatase C (EC 3.1.3.27)
+PGF_00033359	Shigella	360.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Shigella	243.42	7.12	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033366	Shigella	429.82	28.92	Phosphoanhydride phosphohydrolase (EC 3.1.3.2) (pH 2.5 acid phosphatase) (AP) / 4- phytase (EC 3.1.3.26)
+PGF_00033379	Shigella	182.99	0.49	Phosphodiesterase YfcE
+PGF_00033392	Shigella	846.52	148.76	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033402	Shigella	779.30	79.74	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033411	Shigella	276.50	8.06	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033470	Shigella	539.72	47.02	Phosphoethanolamine transferase EptA
+PGF_00033471	Shigella	516.87	61.54	Phosphoethanolamine transferase OpgE
+PGF_00033473	Shigella	559.65	33.55	Phosphoethanolamine transferase specific for the outer Kdo residue of lipopolysaccharide
+PGF_00033479	Shigella	539.17	44.77	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033486	Shigella	129.61	11.34	Acyl-CoA thioesterase YciA, involved in membrane biogenesis
+PGF_00033488	Shigella	597.15	43.37	Phosphogluconate dehydratase (EC 4.2.1.12)
+PGF_00033489	Shigella	279.88	38.02	Phosphogluconate repressor HexR, RpiR family
+PGF_00033511	Shigella	386.42	12.02	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Shigella	249.71	6.55	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033539	Shigella	214.82	4.68	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033595	Shigella	758.94	41.87	Phosphatidylglycerol--membrane-oligosaccharide glycerophosphotransferase (EC 2.7.8.20)
+PGF_00033642	Shigella	239.73	21.11	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00033729	Shigella	261.57	7.59	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Shigella	268.55	8.15	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Shigella	210.99	0.10	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033832	Shigella	257.43	25.04	Phosphonate ABC transporter ATP-binding protein PhnC (TC 3.A.1.9.1)
+PGF_00033877	Shigella	158.87	3.24	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Shigella	404.54	24.60	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Shigella	200.08	20.15	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Shigella	419.15	53.73	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Shigella	236.20	9.86	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Shigella	244.42	9.20	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Shigella	342.80	24.74	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Shigella	1262.21	161.39	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Shigella	211.67	6.75	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Shigella	388.33	28.00	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033982	Shigella	287.23	18.34	Phosphoribulokinase homolog, function unknown
+PGF_00033985	Shigella	359.95	22.17	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034034	Shigella	883.39	62.29	Phosphotransferase RcsD
+PGF_00034067	Shigella	287.19	30.66	Phosphotriesterase like protein Php
+PGF_00034350	Shigella	230.20	8.86	Quercetin 2,3-dioxygenase (EC 1.13.11.24) => YhhW
+PGF_00034566	Shigella	453.08	16.68	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Shigella	706.07	42.99	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034917	Shigella	373.79	30.60	Putative polysaccharide export protein YccZ precursor
+PGF_00034972	Shigella	183.01	0.20	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034975	Shigella	240.28	41.62	Porin thermoregulatory protein envY
+PGF_00034988	Shigella	322.90	13.54	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035025	Shigella	202.04	15.15	Positive transcription regulator EvgA
+PGF_00035183	Shigella	175.54	6.84	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035194	Shigella	329.77	27.49	Adenosine deaminase (EC 3.5.4.4)
+PGF_00035257	Shigella	346.70	22.22	Possible protease sohB (EC 3.4.21.-)
+PGF_00035405	Shigella	541.11	71.63	Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035493	Shigella	547.72	40.88	Predicted ATP-dependent endonuclease of the OLD family, YbjD subgroup
+PGF_00035721	Shigella	453.91	22.84	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Shigella	429.69	24.90	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035775	Shigella	115.46	8.65	Predicted chaperone lipoprotein YacC, potentially involved in protein secretion
+PGF_00036155	Shigella	190.78	4.21	Predicted outer membrane lipoprotein YfeY
+PGF_00036284	Shigella	729.14	28.89	Aerobactin siderophore receptor IutA @ TonB-dependent siderophore receptor
+PGF_00036295	Shigella	572.47	47.99	Aerobactin synthase (EC 6.3.2.39), aerobactin biosynthesis protein IucC
+PGF_00036436	Shigella	233.69	15.80	Uncharacterized transcriptional regulator YidP, GntR family
+PGF_00036543	Shigella	498.87	26.93	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036567	Shigella	237.85	4.81	Aerobic respiration control protein arcA
+PGF_00036575	Shigella	768.41	67.37	Aerobic respiration control sensor protein ArcB (EC 2.7.13.3)
+PGF_00036580	Shigella	109.93	1.72	Protein translocase subunit YajC
+PGF_00036675	Shigella	173.96	10.16	Primosomal replication protein N prime prime
+PGF_00036688	Shigella	230.50	16.43	RNA chaperone ProQ
+PGF_00036809	Shigella	350.03	29.60	Probable L-ascorbate-6-phosphate lactonase UlaG (EC 3.1.1.-) (L-ascorbate utilization protein G)
+PGF_00036928	Shigella	299.89	33.24	Probable acyltransferase YihG
+PGF_00036988	Shigella	305.89	2.96	Agmatinase (EC 3.5.3.11)
+PGF_00037042	Shigella	419.43	31.03	Electron transfer flavoprotein-quinone oxidoreductase YgcN
+PGF_00037052	Shigella	154.09	3.36	Probable endopeptidase NlpC
+PGF_00037099	Shigella	506.00	41.37	Probable glutamate/gamma-aminobutyrate antiporter
+PGF_00037103	Shigella	212.35	13.00	Probable glutathione S-transferase (EC 2.5.1.18), YfcF homolog
+PGF_00037104	Shigella	211.86	17.57	Probable glutathione S-transferase (EC 2.5.1.18), YfcG homolog
+PGF_00037366	Shigella	392.28	30.67	Probable sugar efflux transporter
+PGF_00037419	Shigella	449.82	61.02	Probable transport protein YifK
+PGF_00037452	Shigella	870.06	176.78	Probable zinc protease pqqL (EC 3.4.99.-)
+PGF_00037558	Shigella	454.28	19.53	Proline-specific permease proY
+PGF_00037588	Shigella	569.80	22.96	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037591	Shigella	136.77	3.58	Proofreading thioesterase in enterobactin biosynthesis EntH
+PGF_00037828	Shigella	290.02	24.31	Protease HtpX
+PGF_00037837	Shigella	955.84	59.78	Protease III precursor (EC 3.4.24.55)
+PGF_00037873	Shigella	632.76	93.95	Protein AegA
+PGF_00037875	Shigella	413.99	41.71	Protein AraJ precursor
+PGF_00037915	Shigella	66.00	0.10	Protein IscX, believed to be involved in assembly of Fe-S clusters
+PGF_00037928	Shigella	260.16	20.54	Protein MtfA
+PGF_00037937	Shigella	136.81	5.90	Protein PhnA
+PGF_00037938	Shigella	125.86	11.89	Protein PhnB
+PGF_00037945	Shigella	132.22	6.19	Protein RcsF
+PGF_00037958	Shigella	256.79	12.00	Protein SseB
+PGF_00037970	Shigella	62.92	0.91	Protein YaiA
+PGF_00037971	Shigella	298.47	38.22	Diguanylate cyclase (EC 2.7.7.65) => DgcC
+PGF_00037973	Shigella	97.48	5.85	Protein YcgL
+PGF_00037975	Shigella	116.88	2.33	Protein YchN
+PGF_00037977	Shigella	82.95	1.29	Protein YciN
+PGF_00037978	Shigella	189.14	8.87	Protein YecM
+PGF_00037979	Shigella	273.78	5.51	Protein YeeZ
+PGF_00037990	Shigella	206.69	8.60	Protein YfdX
+PGF_00037991	Shigella	494.81	28.72	Protein YhjJ, putative peptidase
+PGF_00037998	Shigella	111.97	0.97	UPF0438 protein YifE
+PGF_00038011	Shigella	88.58	24.70	Protein YkiA
+PGF_00038050	Shigella	119.68	4.01	PTS-regulatory domain-containing protein YhfY
+PGF_00038165	Shigella	285.45	9.66	Protein involved in stability of MscS mechanosensitive channel
+PGF_00038252	Shigella	116.93	1.34	Protein of unknown function DUF1428
+PGF_00038329	Shigella	168.91	2.10	Der GTPase-activating protein YihI
+PGF_00038363	Shigella	245.35	10.61	Protein of unknown function DUF541
+PGF_00038542	Shigella	156.58	5.86	Protein of unknown function Smg
+PGF_00038573	Shigella	214.36	7.80	Protein of unknown function YceH
+PGF_00038642	Shigella	153.32	5.93	Protein SprT
+PGF_00038674	Shigella	322.73	13.55	Protein translocase subunit SecF
+PGF_00038758	Shigella	650.69	30.33	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeK
+PGF_00038759	Shigella	89.00	0.00	Protein YihD
+PGF_00038761	Shigella	117.99	0.38	Uncharacterized protein YjbR
+PGF_00038829	Shigella	161.64	5.63	Proteinase inhibitor I11, ecotin precursor
+PGF_00038882	Shigella	180.91	1.58	Protoporphyrinogen IX oxidase, oxygen-independent, HemG (EC 1.3.-.-)
+PGF_00038904	Shigella	306.79	24.68	Pseudouridine 5'-phosphate glycosidase (EC 4.2.1.70)
+PGF_00038918	Shigella	410.07	32.33	Pseudouridine transporter PsuT (putative)
+PGF_00038933	Shigella	135.66	3.33	PsiE protein
+PGF_00038937	Shigella	322.48	21.29	Psp operon transcriptional activator
+PGF_00038987	Shigella	238.88	2.68	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00038991	Shigella	339.65	14.17	Purine nucleotide synthesis repressor
+PGF_00039164	Shigella	277.99	28.65	Uncharacterized transcriptional regulator YijO, AraC family
+PGF_00039347	Shigella	448.39	19.90	Putative ECA polymerase WzyE
+PGF_00039356	Shigella	496.26	43.26	Putative GTP-binding protein YdgA
+PGF_00039385	Shigella	297.04	43.41	AaeAB efflux system for hydroxylated, aromatic carboxylic acids, membrane fusion component AaeA
+PGF_00039502	Shigella	261.57	12.15	Putative NAD(P)-dependent oxidoreductase EC-YbbO
+PGF_00039503	Shigella	182.19	9.23	Putative NAD(P)H nitroreductase YdjA
+PGF_00039721	Shigella	217.45	9.70	Putative TEGT family carrier/transport protein
+PGF_00040003	Shigella	150.14	13.12	Putative activity regulator of membrane protease YbbK
+PGF_00040053	Shigella	320.24	12.68	Alkaline induced inner membrane protein Alx
+PGF_00040135	Shigella	260.00	17.29	Putative amidase
+PGF_00040265	Shigella	342.41	22.98	Alkaline phosphatase isozyme conversion protein
+PGF_00040278	Shigella	229.43	30.01	Putative anti-FlhC(2)FlhD(4) factor YdiV
+PGF_00040367	Shigella	526.76	34.55	Putative capsular polysaccharide transport protein YegH
+PGF_00040401	Shigella	467.39	30.85	Cell division protein FtsP
+PGF_00040438	Shigella	101.15	19.83	Putative curli production protein CsgC
+PGF_00040500	Shigella	131.95	1.86	Putative cytochrome d ubiquinol oxidase subunit III (EC 1.10.3.-) (Cytochrome bd-I oxidase subunit III)
+PGF_00040502	Shigella	330.81	15.86	Uncharacterized protein YfeH
+PGF_00040536	Shigella	149.83	2.99	Putative dehydrogenase
+PGF_00040578	Shigella	263.00	17.63	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Shigella	258.97	13.12	Putative deoxyribonuclease YjjV
+PGF_00040676	Shigella	383.45	34.59	Inner membrane transport protein YdhP
+PGF_00040677	Shigella	397.47	31.01	Inner membrane transport protein YdhC
+PGF_00040680	Shigella	718.69	23.99	Putative efflux (PET) family inner membrane protein YccS
+PGF_00040695	Shigella	256.49	21.61	Electron transfer flavoprotein, beta subunit YgcR
+PGF_00040887	Shigella	310.88	39.99	Alkanesulfonate ABC transporter substrate-binding protein SsuA
+PGF_00040888	Shigella	362.52	44.71	Putative glutamate--cysteine ligase (EC:6.3.2.2)
+PGF_00040952	Shigella	163.65	5.66	Putative glycoprotein/receptor
+PGF_00041205	Shigella	245.18	34.19	Putative heat shock protein YcaL
+PGF_00041369	Shigella	221.88	4.45	GMP/IMP nucleotidase YrfG
+PGF_00041548	Shigella	90.75	2.97	Putative inner membrane protein
+PGF_00041555	Shigella	134.80	1.24	Putative inner membrane protein
+PGF_00041585	Shigella	89.10	4.46	AaeX protein, function unknown
+PGF_00041691	Shigella	65.05	0.94	Putative inner membrane protein YjeT (clustered with HflC)
+PGF_00041693	Shigella	233.17	14.77	Putative inner membrane protein YqgA
+PGF_00041764	Shigella	459.19	39.41	Putative invasin
+PGF_00041794	Shigella	186.73	4.79	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041831	Shigella	526.47	36.04	Alkyl hydroperoxide reductase protein F
+PGF_00041945	Shigella	92.00	0.07	Putative membrane protein YchH
+PGF_00041948	Shigella	418.03	23.45	Putative membrane protein YfjD
+PGF_00042168	Shigella	252.05	2.09	Putative metalloprotease yggG (EC 3.4.24.-)
+PGF_00042301	Shigella	484.51	38.41	Putative molybdenum transport ATP-binding protein modF
+PGF_00042347	Shigella	100.94	1.53	Putative monooxygenase YdhR
+PGF_00042388	Shigella	118.45	1.55	Uncharacterized protein yfeC
+PGF_00042517	Shigella	247.90	23.25	Putative outer membrane protein
+PGF_00042688	Shigella	234.45	19.49	Cyclic-di-GMP-binding biofilm dispersal mediator protein
+PGF_00042772	Shigella	237.53	36.37	Putative oxidoreductase
+PGF_00042798	Shigella	251.62	8.10	Putative oxidoreductase
+PGF_00042842	Shigella	275.89	28.71	Putative oxidoreductase YeaE, aldo/keto reductase family
+PGF_00042848	Shigella	181.42	16.40	Anaerobic respiratory reductase chaperone
+PGF_00042994	Shigella	57.67	5.71	Uncharacterized protein YhdU
+PGF_00043067	Shigella	318.41	9.99	Putative periplasmic protein YibQ, distant homology with nucleoside diphosphatase and polysaccharide deacetylase
+PGF_00043154	Shigella	351.17	14.83	Putative permease PerM (= YfgO)
+PGF_00043322	Shigella	408.59	40.04	Putative potassium channel protein
+PGF_00043404	Shigella	269.88	23.75	Uncharacterized serine protease YdgD
+PGF_00043742	Shigella	187.50	6.89	Succinate-acetate/proton symporter SatP
+PGF_00043767	Shigella	397.90	33.98	Putative resistance protein
+PGF_00043849	Shigella	87.85	8.96	Putative secreted protein YebW
+PGF_00043874	Shigella	66.99	0.29	Putative selenium-binding protein YdfZ
+PGF_00044215	Shigella	324.42	25.03	Galactofuranose ABC transporter, permease protein 2
+PGF_00044216	Shigella	335.57	26.82	Galactofuranose ABC transporter, permease protein 1
+PGF_00044292	Shigella	556.41	30.21	Putative sulfate permease
+PGF_00045150	Shigella	366.73	42.18	Sugar efflux transporter A
+PGF_00045166	Shigella	554.80	48.81	Putative transport protein YbjL
+PGF_00045214	Shigella	388.80	22.97	Multidrug resistance protein MdtL
+PGF_00045657	Shigella	198.98	1.50	Uncharacterized protein YiiQ
+PGF_00045667	Shigella	209.01	12.81	Uncharacterized protein YrbL
+PGF_00045726	Shigella	361.39	40.57	Putrescine ABC transporter putrescine-binding protein PotF (TC 3.A.1.11.2)
+PGF_00045727	Shigella	476.28	69.58	Putrescine aminotransferase (EC 2.6.1.82)
+PGF_00045731	Shigella	452.03	45.07	Putrescine importer
+PGF_00045738	Shigella	312.54	27.43	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045746	Shigella	184.66	5.30	Putrescine utilization regulator
+PGF_00045833	Shigella	216.63	11.70	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Shigella	242.35	10.09	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045928	Shigella	309.16	19.71	Pyrimidine-specific ribonucleoside hydrolase RihA
+PGF_00045929	Shigella	304.23	32.47	Pyrimidine-specific ribonucleoside hydrolase RihB (EC 3.2.2.8)
+PGF_00045982	Shigella	887.00	0.05	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00045997	Shigella	561.60	58.43	Pyruvate dehydrogenase (quinone) (EC 1.2.5.1)
+PGF_00046060	Shigella	222.23	8.65	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Shigella	294.01	23.04	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046193	Shigella	321.01	58.77	RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+PGF_00046275	Shigella	956.37	73.18	RNA polymerase associated protein RapA
+PGF_00046403	Shigella	474.69	27.49	RNA polymerase sigma-54 factor RpoN
+PGF_00046613	Shigella	98.69	11.88	RNA-binding domain protein
+PGF_00046622	Shigella	101.98	0.35	RNA-binding protein Hfq
+PGF_00047078	Shigella	352.98	0.78	RecA protein
+PGF_00047147	Shigella	128.52	8.73	Redox-sensing transcriptional regulator QorR
+PGF_00047152	Shigella	141.72	8.12	Redox-sensitive transcriptional activator SoxR
+PGF_00047185	Shigella	299.27	32.17	Regulator of L-galactonate catabolism LgoR, GntR family
+PGF_00047187	Shigella	334.30	22.03	Regulator of RpoS
+PGF_00047227	Shigella	157.92	3.27	Regulator of sigma D
+PGF_00047274	Shigella	151.78	4.22	Regulatory protein AsnC
+PGF_00047296	Shigella	222.78	25.89	Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)
+PGF_00047358	Shigella	106.45	5.10	DNA-binding transcriptional dual regulator SoxS
+PGF_00047533	Shigella	396.92	17.07	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00047887	Shigella	239.29	11.66	Response regulator BaeR
+PGF_00047896	Shigella	227.27	14.58	Response regulator CreB of two-component signal transduction system CreBC
+PGF_00047973	Shigella	420.60	81.79	Response regulator of zinc sigma-54-dependent two-component system
+PGF_00048249	Shigella	213.83	17.26	Alpha-ketoglutarate-dependent dioxygenase AlkB (EC 1.14.11.33)
+PGF_00048282	Shigella	483.81	35.33	Rhamnulokinase (EC 2.7.1.5)
+PGF_00048285	Shigella	266.16	22.13	Rhamnulose-1-phosphate aldolase (EC 4.1.2.19)
+PGF_00048290	Shigella	84.87	5.25	Rho-specific inhibitor of transcription termination (YaeO)
+PGF_00048407	Shigella	173.59	6.20	Rhodanese-domain-containing inner membrane protein YgaP
+PGF_00048419	Shigella	274.54	12.70	Rhomboid protease GlpG (EC 3.4.21.105)
+PGF_00048480	Shigella	212.88	2.57	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Shigella	113.02	0.35	Outer membrane beta-barrel assembly protein BamE
+PGF_00048539	Shigella	137.81	3.96	Ribonuclease E inhibitor RraB
+PGF_00048542	Shigella	155.57	6.91	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Shigella	197.84	3.20	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Shigella	237.58	7.40	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048589	Shigella	213.12	16.25	Ribonuclease T
+PGF_00048594	Shigella	309.22	16.42	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048627	Shigella	707.36	48.24	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048630	Shigella	755.56	53.19	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048637	Shigella	378.20	19.00	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048640	Shigella	700.20	76.10	Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048641	Shigella	307.11	43.41	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Shigella	145.79	14.65	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048761	Shigella	327.08	23.61	Ribose operon repressor
+PGF_00048782	Shigella	334.31	8.45	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048817	Shigella	264.79	25.01	Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)
+PGF_00048824	Shigella	217.40	14.97	Ribosomal large subunit pseudouridine(746) synthase (EC 5.4.99.29) @ tRNA pseudouridine(32) synthase (EC 5.4.99.28)
+PGF_00048829	Shigella	287.44	19.36	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048834	Shigella	213.71	12.58	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048836	Shigella	289.52	8.12	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Shigella	292.33	11.22	Ribosomal protein L11 methyltransferase
+PGF_00048842	Shigella	309.21	17.44	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Shigella	436.19	35.91	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048858	Shigella	296.08	26.38	Ribosomal protein S6--L-glutamate ligase
+PGF_00048868	Shigella	231.26	5.98	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048898	Shigella	112.88	1.05	Ribosome-associated inhibitor A
+PGF_00048917	Shigella	94.93	1.69	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Shigella	185.01	0.46	Ribosome recycling factor
+PGF_00048928	Shigella	348.73	17.30	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Shigella	132.79	4.10	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Shigella	132.71	5.01	Ribosome-binding factor A
+PGF_00048955	Shigella	238.05	8.91	Ribosyl nicotinamide transporter, PnuC-like
+PGF_00048961	Shigella	557.13	53.25	Ribulokinase (EC 2.7.1.16)
+PGF_00048985	Shigella	224.84	4.67	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049032	Shigella	130.65	8.02	RidA/YER057c/UK114 superfamily, group 7, YjgH-like protein
+PGF_00049163	Shigella	161.50	5.48	Rod shape-determining protein MreD
+PGF_00049323	Shigella	263.79	6.06	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+PGF_00049330	Shigella	383.42	12.41	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049344	Shigella	259.91	12.05	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00049362	Shigella	353.07	25.24	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Shigella	170.82	3.21	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049546	Shigella	212.97	21.18	SAM-dependent methyltransferase YafE (UbiE paralog)
+PGF_00049721	Shigella	450.49	100.46	Altronate oxidoreductase (EC 1.1.1.58)
+PGF_00049827	Shigella	271.93	7.12	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Shigella	102.91	2.16	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Shigella	128.97	0.77	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Shigella	123.94	2.22	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Shigella	117.82	2.98	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Shigella	100.96	0.43	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Shigella	88.98	0.57	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Shigella	82.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Shigella	84.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Shigella	75.05	0.77	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Shigella	87.38	13.29	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Shigella	232.02	12.41	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Shigella	203.33	12.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Shigella	166.92	2.77	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Shigella	130.99	0.57	SSU ribosomal protein S6p
+PGF_00049904	Shigella	156.02	0.66	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Shigella	130.00	0.08	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Shigella	129.97	1.00	SSU ribosomal protein S9p (S16e)
+PGF_00050078	Shigella	403.75	23.88	SbmA protein
+PGF_00050230	Shigella	192.68	12.82	Secretion monitor SecM
+PGF_00050368	Shigella	362.16	19.27	Selenophosphate-dependent tRNA 2-selenouridine synthase
+PGF_00050573	Shigella	485.13	17.92	Sensor histidine kinase PhoQ (EC 2.7.13.3)
+PGF_00050577	Shigella	935.78	92.46	Sensor histidine kinase RcsC (EC 2.7.13.3)
+PGF_00050590	Shigella	556.61	40.25	Sensor histidine kinase YehU
+PGF_00050643	Shigella	495.30	33.31	Sensor histidine protein kinase UhpB, glucose-6-phosphate specific (EC 2.7.13.3)
+PGF_00050738	Shigella	455.54	25.33	Sensor protein of zinc sigma-54-dependent two-component system
+PGF_00050980	Shigella	449.05	75.89	Sensory histidine kinase BaeS
+PGF_00050981	Shigella	463.69	55.71	Sensory histidine kinase CreC of two-component signal transduction system CreBC
+PGF_00050984	Shigella	445.79	13.12	Sensory histidine kinase QseC
+PGF_00050995	Shigella	502.05	30.10	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00050997	Shigella	424.42	49.19	Sensory histidine kinase in two-component regulatory system with RstA
+PGF_00051120	Shigella	228.68	12.37	Septum site-determining protein MinC
+PGF_00051133	Shigella	421.70	39.84	Septum-associated cell division protein DamX
+PGF_00051140	Shigella	212.77	27.28	Septum-associated cell division protein DedD
+PGF_00051142	Shigella	360.71	18.17	Septum-associated rare lipoprotein A
+PGF_00051143	Shigella	180.49	6.98	SeqA protein, negative modulator of initiation of replication
+PGF_00051326	Shigella	428.11	13.63	Serine transporter
+PGF_00051525	Shigella	428.93	16.59	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051530	Shigella	543.54	55.47	SgrR, sugar-phosphate stress, transcriptional activator of SgrS small RNA
+PGF_00051544	Shigella	171.77	7.16	Shikimate kinase III (EC 2.7.1.71)
+PGF_00051550	Shigella	275.92	45.14	Shikimate/quinate 5-dehydrogenase I beta (EC 1.1.1.282)
+PGF_00051717	Shigella	247.23	10.85	3-hydroxypropionate dehydrogenase (EC 1.1.1.298)
+PGF_00052210	Shigella	611.54	48.76	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Shigella	447.54	32.79	Signal recognition particle protein Ffh
+PGF_00052705	Shigella	141.44	6.24	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Shigella	297.82	6.65	Site-specific tyrosine recombinase XerD
+PGF_00053521	Shigella	126.63	4.16	Soluble cytochrome b562
+PGF_00053553	Shigella	464.76	19.79	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+PGF_00053591	Shigella	267.12	11.68	Sorbitol-6-phosphate 2-dehydrogenase (EC 1.1.1.140)
+PGF_00053667	Shigella	108.71	4.20	Spermidine export protein MdtI
+PGF_00053669	Shigella	120.55	6.18	Spermidine export protein MdtJ
+PGF_00053752	Shigella	154.13	5.94	Spheroplast protein Y
+PGF_00053770	Shigella	363.23	4.31	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054153	Shigella	234.84	23.67	Starvation lipoprotein Slp
+PGF_00054161	Shigella	416.46	48.78	Stationary phase inducible protein CsiE
+PGF_00054301	Shigella	211.92	2.29	Stringent starvation protein A
+PGF_00054323	Shigella	206.18	7.46	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054410	Shigella	189.32	18.30	Substrate-specific component STY3230 of queuosine-regulated ECF transporter
+PGF_00054476	Shigella	114.89	2.66	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Shigella	237.64	6.68	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Shigella	387.30	12.53	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054544	Shigella	317.13	31.07	Succinylglutamate desuccinylase (EC 3.5.1.96)
+PGF_00054816	Shigella	270.91	12.11	Sugar phosphatase YbiV
+PGF_00054820	Shigella	260.65	37.72	Sugar phosphatase YidA (EC 3.1.3.23)
+PGF_00054917	Shigella	43.04	0.57	Sugar-phosphate stress protein SgrT (embedded in SgrS)
+PGF_00054920	Shigella	233.82	4.59	Sugar fermentation stimulation protein SfsA
+PGF_00054959	Shigella	470.12	38.23	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Shigella	301.45	9.29	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00054964	Shigella	363.48	19.56	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+PGF_00054986	Shigella	276.75	5.04	Sulfate transport system permease protein CysT
+PGF_00054988	Shigella	289.65	16.27	Sulfate transport system permease protein CysW
+PGF_00055009	Shigella	328.40	10.86	Sulfate-binding protein Sbp
+PGF_00055049	Shigella	591.95	57.69	Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+PGF_00055052	Shigella	566.39	35.52	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055099	Shigella	137.40	6.22	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055273	Shigella	192.90	3.59	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055354	Shigella	428.02	0.39	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055363	Shigella	180.82	4.03	Syd protein
+PGF_00055394	Shigella	472.59	46.71	Anaerobic nitric oxide reductase flavorubredoxin
+PGF_00055398	Shigella	353.88	31.94	TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase (EC 2.4.1.325)
+PGF_00055966	Shigella	365.35	31.65	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056057	Shigella	345.07	11.57	Tas protein, an NADP(H)-dependent aldo-keto reductase
+PGF_00056105	Shigella	272.26	19.32	Taurine transport system permease protein TauC
+PGF_00056121	Shigella	313.27	29.89	Taurine-binding periplasmic protein TauA
+PGF_00056273	Shigella	323.67	29.09	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056496	Shigella	230.97	12.37	Thiamin ABC transporter, ATPase component
+PGF_00056502	Shigella	522.29	71.67	Thiamin ABC transporter, transmembrane component
+PGF_00056527	Shigella	273.22	10.11	Thiamine kinase (EC 2.7.1.89) @ Adenosylcobinamide kinase (EC 2.7.1.156)
+PGF_00056544	Shigella	253.66	18.47	Thiazole synthase (EC 2.8.1.10)
+PGF_00056634	Shigella	167.40	7.46	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056700	Shigella	317.47	21.42	Anthranilate phosphoribosyltransferase like (EC 2.4.2.18)
+PGF_00056759	Shigella	509.21	83.69	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) / Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Shigella	507.50	58.21	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056821	Shigella	108.04	0.52	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)
+PGF_00056832	Shigella	310.43	15.06	Threonine catabolic operon transcriptional activator TdcA
+PGF_00056872	Shigella	201.26	15.43	Thymidine kinase (EC 2.7.1.21)
+PGF_00056876	Shigella	439.03	13.25	Thymidine phosphorylase (EC 2.4.2.4)
+PGF_00056883	Shigella	212.79	3.92	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Shigella	265.00	18.63	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056900	Shigella	308.68	18.36	2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)
+PGF_00056935	Shigella	477.06	31.10	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Shigella	141.87	2.08	Tol biopolymer transport system, TolR protein
+PGF_00057032	Shigella	133.40	4.69	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Shigella	747.74	52.74	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057435	Shigella	157.85	6.54	Transcription elongation factor GreB
+PGF_00057483	Shigella	416.99	25.14	Transcription termination factor Rho
+PGF_00057485	Shigella	492.74	27.37	Transcription termination protein NusA
+PGF_00057488	Shigella	138.99	0.13	Transcription termination protein NusB
+PGF_00057496	Shigella	335.02	32.72	Transcriptional (co)regulator CytR
+PGF_00057508	Shigella	172.82	15.46	Transcriptional activator GadE
+PGF_00057513	Shigella	298.56	10.51	Transcriptional activator NhaR
+PGF_00057520	Shigella	160.82	9.68	Transcriptional activator RfaH
+PGF_00057553	Shigella	310.25	10.85	Transcriptional activator protein LysR
+PGF_00058564	Shigella	240.17	16.37	Transcriptional regulator GadW, AraC family
+PGF_00058565	Shigella	271.74	18.57	Transcriptional regulator GadX, AraC family
+PGF_00058575	Shigella	261.78	13.75	Transcriptional regulator KdgR, KDG operon repressor
+PGF_00058629	Shigella	262.37	6.77	Transcriptional regulator NanR
+PGF_00058666	Shigella	197.91	2.30	Transcriptional regulator SlmA, TetR family
+PGF_00058734	Shigella	238.39	8.93	Transcriptional regulator for fatty acid degradation FadR, GntR family
+PGF_00058773	Shigella	251.52	14.83	Transcriptional regulator of catabolic arginine decarboxylase (adiA)
+PGF_00058813	Shigella	239.64	7.38	Transcriptional regulator of succinyl CoA synthetase operon
+PGF_00058852	Shigella	190.37	10.15	Transcriptional regulator YjdC, AcrR family
+PGF_00060176	Shigella	237.80	17.52	Transcriptional regulatory protein RstA
+PGF_00060182	Shigella	196.64	7.39	Transcriptional regulatory protein UhpA
+PGF_00060184	Shigella	246.43	16.56	Transcriptional regulatory protein YciT
+PGF_00060186	Shigella	238.67	6.80	Transcriptional regulatory protein YehT
+PGF_00060187	Shigella	241.39	18.39	Transcriptional regulatory protein YpdB
+PGF_00060255	Shigella	175.97	1.00	Multidrug resistance regulator EmrR (MprA)
+PGF_00060256	Shigella	197.97	8.81	Transcriptional repressor NemR, AcrR family
+PGF_00060260	Shigella	195.24	7.15	Transcriptional repressor UidR
+PGF_00060263	Shigella	253.47	8.50	Transcriptional repressor for pyruvate dehydrogenase complex
+PGF_00060287	Shigella	108.01	1.82	Transcriptional repressor protein TrpR
+PGF_00060289	Shigella	499.66	66.82	Transcriptional repressor protein TyrR
+PGF_00060313	Shigella	442.06	24.27	Transcriptional response regulatory protein GlrR
+PGF_00060409	Shigella	700.23	43.15	Translation elongation factor G
+PGF_00060414	Shigella	597.73	21.77	Translation elongation factor LepA
+PGF_00060421	Shigella	187.36	3.06	Translation elongation factor P
+PGF_00060422	Shigella	181.65	6.27	Translation elongation factor P Lys34 hydroxylase
+PGF_00060424	Shigella	323.34	18.34	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Shigella	282.60	8.85	Translation elongation factor Ts
+PGF_00060431	Shigella	72.02	0.80	Translation initiation factor 1
+PGF_00060478	Shigella	144.16	15.95	Translation initiation factor 3
+PGF_00060481	Shigella	108.79	2.44	Translation initiation factor SUI1-related protein
+PGF_00061434	Shigella	89.47	17.78	Antitoxin to RelE-like translational repressor toxin
+PGF_00061607	Shigella	122.84	9.26	ApaG protein
+PGF_00061786	Shigella	543.44	45.02	Trehalase (EC 3.2.1.28) @ Cytoplasmic trehalase (EC 3.2.1.28)
+PGF_00061792	Shigella	315.14	4.91	Trehalose operon transcriptional repressor
+PGF_00061913	Shigella	251.41	12.98	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase (EC 1.1.1.127) @ 2-deoxy-D-gluconate 3-dehydrogenase (EC 1.1.1.125)
+PGF_00061922	Shigella	396.80	49.77	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062023	Shigella	265.40	20.03	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Shigella	393.30	30.92	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062041	Shigella	413.47	9.87	Tryptophan-specific transport protein
+PGF_00062045	Shigella	333.24	11.28	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062061	Shigella	392.54	10.76	Selenite- and tellurite-inducible protein TsgA
+PGF_00062146	Shigella	66.96	1.05	Twin-arginine translocation protein TatE
+PGF_00062710	Shigella	220.32	14.36	2-deoxyglucose-6-phosphate hydrolase YniC
+PGF_00062866	Shigella	218.63	6.77	Two-component system response regulator QseB
+PGF_00063310	Shigella	301.38	28.30	Arabinose operon regulatory protein AraC
+PGF_00063683	Shigella	139.68	21.79	Type IV pilin PilA
+PGF_00063720	Shigella	254.10	26.06	Type IV pilus biogenesis protein PilM
+PGF_00063754	Shigella	143.09	15.92	Type IV pilus biogenesis protein PilO
+PGF_00063912	Shigella	382.37	19.67	Tyrosine-specific transport protein
+PGF_00063916	Shigella	420.00	33.97	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Shigella	239.33	6.29	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Shigella	304.54	6.88	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Shigella	339.77	10.72	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Shigella	340.34	19.19	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Shigella	350.69	29.04	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Shigella	489.05	22.79	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Shigella	455.91	16.21	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064116	Shigella	326.22	28.54	UDP-glucose:(glucosyl)lipopolysaccharide alpha-1,2-glucosyltransferase (EC 2.4.1.58)
+PGF_00064154	Shigella	76.84	2.44	UPF0033 protein YedF
+PGF_00064156	Shigella	74.89	1.73	UPF0033 protein YeeD
+PGF_00064170	Shigella	236.76	4.25	UPF0053 inner membrane protein YgdQ
+PGF_00064171	Shigella	512.46	37.69	UPF0053 inner membrane protein YoaE
+PGF_00064172	Shigella	445.67	11.51	UPF0053 inner membrane protein YtfL
+PGF_00064180	Shigella	241.82	6.40	Arginine ABC transporter, ATP-binding protein ArtP
+PGF_00064184	Shigella	468.14	55.27	UPF0061 protein YdiU
+PGF_00064191	Shigella	157.95	0.71	UPF0098 protein ybhB
+PGF_00064196	Shigella	240.31	18.10	Arginine ABC transporter, substrate-binding protein ArtJ
+PGF_00064198	Shigella	164.00	0.00	UPF0114 protein YqhA
+PGF_00064199	Shigella	182.79	4.43	UPF0115 protein YfcN
+PGF_00064201	Shigella	339.66	46.28	UPF0118 inner membrane protein YhhT
+PGF_00064204	Shigella	221.50	7.16	Arginine ABC transporter, permease protein ArtM
+PGF_00064212	Shigella	111.47	5.55	UPF0131 protein YtfP
+PGF_00064213	Shigella	575.93	18.17	Phosphoethanolamine transferase EptC
+PGF_00064218	Shigella	107.00	0.00	UPF0145 protein YbjQ
+PGF_00064220	Shigella	191.15	5.24	UPF0149 exported protein YgfB
+PGF_00064226	Shigella	234.74	15.86	UPF0174 protein YaaW
+PGF_00064239	Shigella	150.74	4.52	UPF0208 membrane protein YfbV
+PGF_00064249	Shigella	388.70	28.71	UPF0226 protein YfcJ
+PGF_00064250	Shigella	410.02	41.90	UPF0226 protein YhhS
+PGF_00064256	Shigella	119.73	4.67	UPF0231 protein YacL
+PGF_00064270	Shigella	257.18	9.16	UPF0246 protein YaaA
+PGF_00064277	Shigella	66.00	0.00	UPF0253 protein YaeP
+PGF_00064280	Shigella	153.66	6.40	UPF0260 protein YcgN
+PGF_00064284	Shigella	150.42	13.54	UPF0266 membrane protein YobD
+PGF_00064294	Shigella	264.41	14.99	UPF0294 protein YafD
+PGF_00064295	Shigella	132.11	1.42	UPF0299 membrane protein YohJ
+PGF_00064297	Shigella	163.92	2.91	UPF0304 protein yfbU
+PGF_00064309	Shigella	741.50	77.23	Arginine decarboxylase, catabolic (EC 4.1.1.19)
+PGF_00064312	Shigella	219.48	7.87	UPF0319 protein YccT precursor
+PGF_00064317	Shigella	127.79	3.89	UPF0325 protein YaeH
+PGF_00064339	Shigella	108.92	6.60	UPF0339 protein YegP
+PGF_00064341	Shigella	75.11	2.45	UPF0352 protein YejL
+PGF_00064342	Shigella	65.99	0.73	UPF0370 protein YpfN
+PGF_00064350	Shigella	93.60	3.59	UPF0381 protein YfcZ
+PGF_00064351	Shigella	98.34	6.64	UPF0381 protein YiiS
+PGF_00064355	Shigella	391.61	48.86	UPF0394 inner membrane protein YedE
+PGF_00064359	Shigella	156.02	0.32	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064365	Shigella	75.05	5.31	UPF0410 protein YmgE
+PGF_00064366	Shigella	128.80	17.95	UPF0412 protein YaaI
+PGF_00064376	Shigella	57.10	1.57	UPF0509 protein YciZ
+PGF_00064378	Shigella	264.50	22.17	Transmembrane protein YfcA
+PGF_00064389	Shigella	335.96	15.46	Semialdehyde dehydrogenase, USG-1 protein
+PGF_00064460	Shigella	543.99	24.15	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064489	Shigella	237.35	8.94	Arginine ABC transporter, permease protein ArtQ
+PGF_00064506	Shigella	253.37	17.83	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064551	Shigella	422.25	79.06	Arginine/agmatine antiporter
+PGF_00064554	Shigella	287.31	11.04	Uncharacterized GST-like protein yghU associated with glutathionylspermidine synthetase/amidase
+PGF_00064557	Shigella	316.99	14.99	Uncharacterized GTP-binding protein YjiA
+PGF_00064570	Shigella	246.68	12.95	Uncharacterized HTH-type transcriptional regulator YegW
+PGF_00064571	Shigella	279.97	18.03	Uncharacterized HTH-type transcriptional regulator YfhH
+PGF_00064578	Shigella	228.14	15.90	Uncharacterized transcriptional regulator YieP, GntR family
+PGF_00064590	Shigella	139.55	22.21	Uncharacterized N-acetyltransferase YjaB
+PGF_00064594	Shigella	345.70	26.02	Uncharacterized NAD(P)-dependent epimerase/dehydratase family protein YbjS
+PGF_00064596	Shigella	179.68	5.17	Uncharacterized Nudix hydrolase YfcD
+PGF_00064685	Shigella	64.54	8.72	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064747	Shigella	54.45	13.01	Uncharacterized inner membrane protein YbdJ
+PGF_00064774	Shigella	192.43	7.72	Uncharacterized lipoprotein YeaY
+PGF_00064775	Shigella	223.93	12.88	AroM protein
+PGF_00064781	Shigella	185.85	11.22	Uncharacterized lipoprotein YmbA
+PGF_00064784	Shigella	98.59	2.28	Uncharacterized lipoprotein YsaB precursor
+PGF_00064787	Shigella	269.92	21.70	Uncharacterized lipoprotein yaeF precursor
+PGF_00064803	Shigella	207.83	2.57	Uncharacterized membrane protein YhhN
+PGF_00064805	Shigella	101.00	0.00	Uncharacterized membrane protein YqjD
+PGF_00064819	Shigella	227.77	3.02	Uncharacterized metabolite ABC transporter in Enterobacteriaceae, ATP-binding protein EC-YbbA
+PGF_00064840	Shigella	358.04	33.14	Uncharacterized outer membrane protein YaiW
+PGF_00064853	Shigella	472.78	70.03	Uncharacterized oxidoreductase YeiQ
+PGF_00064854	Shigella	342.21	22.15	Uncharacterized oxidoreductase YhhX
+PGF_00064863	Shigella	455.48	12.47	Aromatic amino acid transport protein AroP
+PGF_00064864	Shigella	87.56	10.36	Uncharacterized periplasmic protein McbA
+PGF_00064880	Shigella	448.94	36.02	Uncharacterized protease YegQ
+PGF_00064918	Shigella	147.16	13.24	Uncharacterized protein COG3236
+PGF_00065178	Shigella	371.04	12.77	Inner membrane protein YbiR
+PGF_00065385	Shigella	294.12	35.44	Uncharacterized protein YadD
+PGF_00065386	Shigella	257.15	20.56	Uncharacterized protein YadU in stf fimbrial cluster
+PGF_00065402	Shigella	199.33	22.37	Uncharacterized protein YaiV
+PGF_00065403	Shigella	70.74	5.77	Uncharacterized protein YaiZ
+PGF_00065404	Shigella	114.85	2.88	Uncharacterized protein YajD
+PGF_00065405	Shigella	53.02	0.54	Uncharacterized protein YbaM
+PGF_00065406	Shigella	263.93	2.17	Uncharacterized protein YbaP
+PGF_00065417	Shigella	121.91	3.65	Uncharacterized protein YbdF
+PGF_00065419	Shigella	315.00	46.94	Uncharacterized protein YbeQ
+PGF_00065422	Shigella	230.75	25.78	Uncharacterized protein YbeR
+PGF_00065424	Shigella	223.80	36.46	Uncharacterized protein YbeU
+PGF_00065427	Shigella	195.85	28.09	Uncharacterized protein YbhM
+PGF_00065430	Shigella	94.93	1.78	Uncharacterized protein YbjC
+PGF_00065431	Shigella	91.86	2.88	Uncharacterized protein YbjH
+PGF_00065436	Shigella	296.24	11.38	Uncharacterized protein YcbJ
+PGF_00065464	Shigella	766.68	106.95	Uncharacterized protein YddB
+PGF_00065467	Shigella	77.02	4.41	Tetrapartite efflux system component, FusD-like
+PGF_00065469	Shigella	412.51	36.34	Uncharacterized protein YdhQ
+PGF_00065475	Shigella	63.98	2.95	Uncharacterized protein YdiE
+PGF_00065476	Shigella	62.49	3.80	Uncharacterized protein YdiH
+PGF_00065477	Shigella	995.38	128.44	Uncharacterized protein YdiJ
+PGF_00065479	Shigella	95.77	2.60	Uncharacterized protein YdiZ
+PGF_00065481	Shigella	89.98	0.98	Uncharacterized protein YeaC
+PGF_00065482	Shigella	592.32	125.83	Uncharacterized protein YeaG
+PGF_00065488	Shigella	94.48	3.74	Uncharacterized protein YebO
+PGF_00065489	Shigella	218.64	18.47	Uncharacterized protein YecA
+PGF_00065490	Shigella	74.00	0.00	Uncharacterized protein YecF
+PGF_00065491	Shigella	79.00	0.00	Uncharacterized protein YecH
+PGF_00065515	Shigella	378.50	28.97	Uncharacterized protein YeiB
+PGF_00065516	Shigella	326.32	17.78	Uncharacterized protein YeiR, putative metal chaperone, involved in Zn homeostasis
+PGF_00065520	Shigella	78.78	2.86	Uncharacterized protein YeiS
+PGF_00065521	Shigella	113.76	3.13	Uncharacterized protein YejG
+PGF_00065525	Shigella	243.33	49.62	Uncharacterized protein YfaP
+PGF_00065530	Shigella	138.22	23.45	Uncharacterized protein YfbM
+PGF_00065535	Shigella	201.66	20.78	Arylsulfatase (EC 3.1.6.1)
+PGF_00065539	Shigella	489.45	43.77	Uncharacterized protein YfcC
+PGF_00065540	Shigella	231.73	49.65	Uncharacterized protein YfcI
+PGF_00065542	Shigella	91.92	1.80	Uncharacterized protein YfcL
+PGF_00065550	Shigella	80.00	0.87	Uncharacterized protein YfdY
+PGF_00065551	Shigella	122.26	0.94	Uncharacterized protein YfeK
+PGF_00065555	Shigella	178.15	8.31	Uncharacterized protein YfgI
+PGF_00065556	Shigella	71.00	0.07	Uncharacterized protein YfgJ
+PGF_00065557	Shigella	235.80	10.82	Uncharacterized protein YfhG
+PGF_00065558	Shigella	283.20	11.51	Uncharacterized protein YfhR
+PGF_00065566	Shigella	169.69	13.02	Uncharacterized protein YfiR
+PGF_00065586	Shigella	54.86	0.72	Uncharacterized protein YhaL
+PGF_00065587	Shigella	54.96	1.09	Uncharacterized protein YhfL
+PGF_00065591	Shigella	144.97	8.08	Uncharacterized protein YhhA
+PGF_00065593	Shigella	88.96	1.81	Uncharacterized protein YhhL
+PGF_00065595	Shigella	118.90	2.48	Uncharacterized protein YhhM
+PGF_00065603	Shigella	398.58	34.74	Uncharacterized protein YidR
+PGF_00065613	Shigella	348.51	7.10	AscBF operon repressor
+PGF_00065623	Shigella	250.62	5.40	Ascorbate utilization transcriptional regulator UlaR, HTH-type
+PGF_00065636	Shigella	153.13	8.08	PTS system, ascorbate-specific IIA component (EC 2.7.1.194)
+PGF_00065639	Shigella	80.81	2.58	Uncharacterized protein YmjA
+PGF_00065648	Shigella	87.37	6.96	Uncharacterized protein YnjH
+PGF_00065652	Shigella	100.72	2.17	PTS system, ascorbate-specific IIB component (EC 2.7.1.194)
+PGF_00065657	Shigella	47.01	0.26	Uncharacterized protein YobF
+PGF_00065660	Shigella	73.88	6.32	Uncharacterized protein YodD
+PGF_00065682	Shigella	126.47	1.55	Uncharacterized protein YqjB
+PGF_00065688	Shigella	68.00	0.00	Uncharacterized protein YtfK
+PGF_00065764	Shigella	413.90	16.03	Uncharacterized protein ybdG
+PGF_00065765	Shigella	117.74	7.16	Uncharacterized protein YbfE
+PGF_00065815	Shigella	237.31	10.21	Uncharacterized putative hydrolase YigB
+PGF_00065835	Shigella	157.47	5.76	Uncharacterized sensory transduction regulator YbjN
+PGF_00065847	Shigella	550.45	59.07	Uncharacterized substrate-biding protein YbaE
+PGF_00065850	Shigella	310.88	44.14	Uncharacterized sugar kinase YegV, PfkB family
+PGF_00065854	Shigella	227.80	9.28	Uncharacterized tRNA/rRNA methyltransferase LasT
+PGF_00065856	Shigella	344.86	7.00	Uncharacterized tRNA/rRNA methyltransferase YfiF
+PGF_00065887	Shigella	252.13	0.83	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065890	Shigella	543.14	48.17	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase (EC 2.4.2.43) @ Melittin resistance protein PqaB @ Polymyxin resistance protein PmrK
+PGF_00065891	Shigella	111.01	0.25	Undecaprenyl phosphate-aminoarabinose flippase subunit ArnE
+PGF_00065899	Shigella	197.88	4.34	Undecaprenyl-diphosphatase BcrC (EC 3.6.1.27)
+PGF_00065934	Shigella	143.84	3.44	Universal stress protein A
+PGF_00065937	Shigella	109.07	5.91	Universal stress protein B
+PGF_00065940	Shigella	141.36	6.67	Universal stress protein D
+PGF_00065945	Shigella	141.66	4.00	Universal stress protein G
+PGF_00066041	Shigella	611.36	52.49	AsmA protein
+PGF_00066089	Shigella	233.31	16.83	Unsaturated fatty acid biosythesis repressor FabR, TetR family
+PGF_00066123	Shigella	207.18	8.31	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Shigella	228.58	7.04	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Shigella	213.07	5.20	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066257	Shigella	252.80	5.70	Uridine phosphorylase (EC 2.4.2.3)
+PGF_00066263	Shigella	458.13	60.29	Uronate isomerase (EC 5.3.1.12)
+PGF_00066270	Shigella	349.84	31.34	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066281	Shigella	544.99	58.76	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)
+PGF_00066294	Shigella	245.10	7.81	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066371	Shigella	256.13	8.92	Uxu operon transcriptional regulator
+PGF_00066453	Shigella	942.18	77.07	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Shigella	463.42	28.15	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066562	Shigella	155.28	7.92	Very-short-patch mismatch repair endonuclease (G-T specific)
+PGF_00066589	Shigella	125.99	0.37	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066690	Shigella	248.35	8.55	Vitamin B12 ABC transporter, ATP-binding protein BtuD
+PGF_00066715	Shigella	392.65	30.65	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00066840	Shigella	353.73	36.30	Uncharacterized pyridoxal phosphate protein YhfS
+PGF_00066854	Shigella	476.44	21.57	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066867	Shigella	438.11	27.61	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066884	Shigella	441.61	20.81	Xaa-Pro dipeptidase PepQ (EC 3.4.13.9)
+PGF_00066906	Shigella	309.14	18.51	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Shigella	421.37	40.52	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066960	Shigella	152.93	2.45	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067160	Shigella	328.62	16.33	Aspartate--ammonia ligase (EC 6.3.1.1)
+PGF_00067188	Shigella	366.45	11.93	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067192	Shigella	180.26	6.55	YaeQ protein
+PGF_00067254	Shigella	119.02	3.48	YcfF/hinT protein: a purine nucleoside phosphoramidase
+PGF_00067257	Shigella	123.80	3.91	YcfL protein: an outer membrane lipoprotein that is part of a salvage cluster
+PGF_00067259	Shigella	179.70	5.43	YcfP protein: probably an esterase that is part of a salvage cluster
+PGF_00067324	Shigella	369.97	55.16	YfdE protein
+PGF_00067343	Shigella	103.86	2.53	YgiN protei involved in menadione metabolism
+PGF_00067346	Shigella	239.59	7.99	YheO-like PAS domain
+PGF_00067360	Shigella	323.21	32.23	YihE protein, a ser/thr kinase implicated in LPS synthesis and Cpx signalling
+PGF_00067366	Shigella	209.94	15.80	Uncharacterized lipoprotein YjbF
+PGF_00067371	Shigella	687.84	65.99	Uncharacterized lipoprotein YjbH
+PGF_00067379	Shigella	248.47	8.79	YjfP protein
+PGF_00067401	Shigella	278.34	27.88	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067526	Shigella	140.81	3.88	Zinc resistance-associated protein
+PGF_00067530	Shigella	310.99	16.14	Zinc transporter ZitB
+PGF_00067532	Shigella	254.90	15.87	Zinc transporter ZupT
+PGF_00067547	Shigella	171.00	0.65	Zinc uptake regulation protein Zur
+PGF_00067739	Shigella	366.87	23.45	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067771	Shigella	372.36	13.08	[NiFe] hydrogenase metallocenter assembly protein HypD
+PGF_00067772	Shigella	335.79	4.35	[NiFe] hydrogenase metallocenter assembly protein HypE
+PGF_00067775	Shigella	112.57	4.81	[NiFe] hydrogenase nickel incorporation protein HybF
+PGF_00067788	Shigella	289.99	4.16	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00067791	Shigella	871.09	115.64	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068776	Shigella	421.68	47.48	Arsenic efflux pump protein
+PGF_00068794	Shigella	126.87	2.95	Autonomous glycyl radical cofactor
+PGF_00069596	Shigella	299.65	7.08	Ferrous-iron efflux pump FieF
+PGF_00069740	Shigella	373.22	26.33	2-iminoacetate synthase (ThiH) (EC 4.1.99.19)
+PGF_00070457	Shigella	370.39	35.85	dTDP-4-amino-4,6-dideoxygalactose transaminase (EC 2.6.1.59)
+PGF_00070488	Shigella	224.03	0.64	dTDP-fucosamine acetyltransferase (EC 2.3.1.210)
+PGF_00070995	Shigella	388.68	24.26	Membrane-bound lytic murein transglycosylase B
+PGF_00071382	Shigella	175.93	6.38	Flavodoxin 1
+PGF_00071509	Shigella	443.02	51.74	gamma-aminobutyrate (GABA) permease
+PGF_00071693	Shigella	303.44	24.54	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00072177	Shigella	104.97	1.06	hemimethylated DNA binding protein YccV
+PGF_00072449	Shigella	215.30	16.44	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00074674	Shigella	57.07	1.39	hypothetical protein
+PGF_00083431	Shigella	44.21	2.49	hypothetical protein
+PGF_00084324	Shigella	272.30	10.35	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00084680	Shigella	292.19	18.16	Type II restriction adenine-specific methylase (EC 2.1.1.72)
+PGF_00088151	Shigella	42.00	0.00	hypothetical protein
+PGF_00092793	Shigella	86.37	9.61	Uncharacterized protein YjbD
+PGF_00096167	Shigella	131.66	4.82	Uncharacterized protein YidB
+PGF_00098631	Shigella	122.80	4.05	Uncharacterized protein YfiL
+PGF_00102041	Shigella	192.92	2.35	Esterase YqiA
+PGF_00106301	Shigella	40.00	0.00	hypothetical protein
+PGF_00113984	Shigella	188.95	3.72	Flavin prenyltransferase UbiX
+PGF_00115105	Shigella	75.14	12.31	hypothetical protein
+PGF_00121596	Shigella	87.44	6.19	hypothetical protein
+PGF_00122769	Shigella	40.06	1.55	hypothetical protein
+PGF_00124188	Shigella	71.77	2.16	Putative phosphotransferase enzyme IIB component SgcB
+PGF_00127024	Shigella	294.92	20.22	Cell division inhibitor Slr1223 (YfcH in EC), contains epimerase/dehydratase and DUF1731 domains
+PGF_00131429	Shigella	371.28	18.51	LSU ribosomal protein L16p arginine hydroxylase
+PGF_00141955	Shigella	571.04	46.08	K(+)/H(+) antiporter NhaP2
+PGF_00142995	Shigella	200.95	10.58	Uncharacterized protein YiiX
+PGF_00145700	Shigella	119.89	1.98	Inner membrane protein YidG
+PGF_00145914	Shigella	42.04	0.78	hypothetical protein
+PGF_00145934	Shigella	54.52	13.40	hypothetical protein
+PGF_00151659	Shigella	94.79	2.92	Uncharacterized protein YghW
+PGF_00158073	Shigella	274.30	38.91	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)
+PGF_00159136	Shigella	54.92	1.24	hypothetical protein
+PGF_00184795	Shigella	146.62	4.95	UPF0306 protein YhbP
+PGF_00210946	Shigella	212.84	8.13	Uncharacterized protein YjaH
+PGF_00227318	Shigella	288.21	29.19	Threonine/homoserine exporter RhtA
+PGF_00232497	Shigella	61.88	1.86	Putative cytoplasmic protein YhjR
+PGF_00236150	Shigella	544.06	31.44	ABC-type siderophore export system, fused ATPase and permease components
+PGF_00255767	Shigella	447.64	25.61	Osmolarity sensory histidine kinase EnvZ
+PGF_00261173	Shigella	366.45	18.50	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00263940	Shigella	47.24	4.25	hypothetical protein
+PGF_00277782	Shigella	38.01	0.33	hypothetical protein
+PGF_00280549	Shigella	302.27	11.09	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00280624	Shigella	55.99	0.27	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+PGF_00284829	Shigella	38.37	1.27	hypothetical protein
+PGF_00285620	Shigella	206.92	2.37	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00297234	Shigella	44.10	1.30	hypothetical protein
+PGF_00299130	Shigella	79.26	2.68	Cell division protein ZapB
+PGF_00300187	Shigella	288.21	11.55	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00314131	Shigella	248.13	10.90	Uncharacterized protein YieE
+PGF_00317712	Shigella	692.67	90.78	Aconitase family protein YbhJ
+PGF_00333063	Shigella	52.00	0.04	UPF0057 membrane protein YqaE
+PGF_00342563	Shigella	716.84	102.17	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00358715	Shigella	584.77	47.31	Ribosomal protein S12p methylthiotransferase accessory factor YcaO
+PGF_00366816	Shigella	41.01	0.20	hypothetical protein
+PGF_00368502	Shigella	176.55	18.06	Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)
+PGF_00375651	Shigella	492.15	83.37	Uncharacterized glycyl radical protein YjjI
+PGF_00380777	Shigella	189.62	11.28	Stresses-induced protein Ves (HutD)
+PGF_00399327	Shigella	356.54	9.83	Uncharacterized protein YjjU
+PGF_00399622	Shigella	89.88	2.40	Barstar, ribonuclease (Barnase) inhibitor
+PGF_00400351	Shigella	323.23	12.61	2-ketoaldonate reductase, broad specificity (EC 1.1.1.215) (EC 1.1.1.-)
+PGF_00400495	Shigella	752.33	71.63	2-ketobutyrate formate-lyase (EC 2.3.1.-) / Pyruvate formate-lyase (EC 2.3.1.54)
+PGF_00400692	Shigella	457.68	61.87	low-affinity L-arabinose transport system proton symport protein
+PGF_00401551	Shigella	447.85	48.63	Multidrug efflux transporter MdtK/NorM (MATE family)
+PGF_00401928	Shigella	251.00	0.00	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201) @ Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_00402003	Shigella	577.79	82.84	beta-glucuronidase (EC 3.2.1.31)
+PGF_00402478	Shigella	183.34	23.42	D-alanyl-D-alanine dipeptidase (EC 3.4.13.22)
+PGF_00403776	Shigella	126.17	6.35	Biofilm regulator BssR
+PGF_00403787	Shigella	84.07	3.95	Biofilm regulator BssS
+PGF_00403929	Shigella	396.26	13.17	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57)
+PGF_00404019	Shigella	653.88	24.21	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Shigella	155.88	2.79	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404218	Shigella	87.07	1.96	probable exported protein YPO3518
+PGF_00404256	Shigella	447.99	18.05	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Shigella	319.27	17.16	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404364	Shigella	752.30	89.20	Biotin sulfoxide reductase (EC 1.-.-.-) / Free methionine-(S)-sulfoxide reductase
+PGF_00404384	Shigella	345.41	9.92	Biotin synthase (EC 2.8.1.6)
+PGF_00404496	Shigella	230.22	21.11	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)
+PGF_00404831	Shigella	279.80	5.55	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Shigella	923.47	73.28	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00407886	Shigella	640.22	48.22	RNase E specificity factor CsrD
+PGF_00408537	Shigella	49.97	2.23	putative membrane permeability altering protein
+PGF_00408955	Shigella	690.90	47.53	Uncharacterized protein YhfK
+PGF_00410709	Shigella	125.35	6.60	putative secreted protein
+PGF_00411483	Shigella	281.75	20.86	Uncharacterized radical SAM protein YjjW
+PGF_00412239	Shigella	365.67	20.47	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)
+PGF_00412741	Shigella	240.90	19.20	Inner membrane protein YgaZ
+PGF_00412755	Shigella	110.93	2.81	Uncharacterized protein YgaH
+PGF_00413182	Shigella	322.36	9.86	tRNA (mo5U34)-methyltransferase
+PGF_00413203	Shigella	156.75	4.50	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Shigella	253.81	11.56	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413223	Shigella	227.93	7.22	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+PGF_00413230	Shigella	245.38	16.97	tRNA (cmo5U34)-methyltransferase
+PGF_00413237	Shigella	478.10	33.92	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413239	Shigella	95.00	0.00	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusB
+PGF_00413243	Shigella	118.99	1.64	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusC
+PGF_00413245	Shigella	127.84	3.40	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD
+PGF_00413253	Shigella	80.95	1.15	tRNA 5-methylaminomethyl-2-thiouridine synthesis sulfur carrier protein TusA
+PGF_00413266	Shigella	330.02	64.57	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413286	Shigella	346.62	24.84	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Shigella	269.54	9.23	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Shigella	313.38	10.21	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Shigella	624.82	38.24	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Shigella	170.89	6.32	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Shigella	159.49	7.06	tmRNA-binding protein SmpB
+PGF_00414228	Shigella	238.38	9.13	Two-component system response regulator OmpR
+PGF_00414926	Shigella	409.97	25.50	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00414976	Shigella	449.57	21.52	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_00415045	Shigella	315.71	46.52	L-arabinose ABC transporter, permease protein AraH
+PGF_00415130	Shigella	295.64	47.47	23S rRNA (adenine(1618)-N(6))-methyltransferase (EC 2.1.1.181)
+PGF_00415332	Shigella	364.97	15.25	23S rRNA (cytidine(2498)-2'-O)-methyltransferase (EC 2.1.1.186)
+PGF_00415422	Shigella	688.12	77.45	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415463	Shigella	166.55	6.49	Uncharacterized protein YgjP
+PGF_00415486	Shigella	154.76	4.28	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415498	Shigella	429.06	36.06	COG1649 predicted glycoside hydrolase
+PGF_00415545	Shigella	366.55	43.76	23S rRNA (uracil(747)-C(5))-methyltransferase (EC 2.1.1.189)
+PGF_00415581	Shigella	208.61	7.03	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416129	Shigella	543.10	25.83	CTP synthase (EC 6.3.4.2)
+PGF_00416200	Shigella	363.20	22.35	Calcium/proton antiporter
+PGF_00416410	Shigella	1042.18	156.11	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416506	Shigella	689.70	69.83	Carbon starvation protein A
+PGF_00416507	Shigella	705.13	65.30	Inner membrane protein YjiY
+PGF_00416508	Shigella	60.29	3.01	Carbon storage regulator
+PGF_00416525	Shigella	217.17	18.23	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416576	Shigella	181.54	3.50	3'-to-5' oligoribonuclease (orn)
+PGF_00416654	Shigella	216.25	10.04	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+PGF_00416702	Shigella	710.72	76.32	Catalase-peroxidase KatG (EC 1.11.1.21)
+PGF_00416732	Shigella	282.68	6.22	3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15)
+PGF_00416769	Shigella	75.97	1.36	Cation transport regulator chaB
+PGF_00416872	Shigella	168.36	8.13	Cell division inhibitor
+PGF_00417010	Shigella	119.73	7.83	Cell division protein FtsL
+PGF_00417104	Shigella	314.73	46.29	Cell division protein ZipA
+PGF_00417369	Shigella	247.44	17.85	Cellulose biosynthesis protein BcsQ
+PGF_00417422	Shigella	109.86	2.04	Chaperone HdeA
+PGF_00417423	Shigella	111.51	4.95	Chaperone HdeB
+PGF_00417433	Shigella	631.61	52.65	Chaperone protein DnaK
+PGF_00417437	Shigella	609.72	44.88	Chaperone protein HscA
+PGF_00417459	Shigella	100.87	2.56	Chaperone-modulator protein CbpM
+PGF_00417658	Shigella	361.35	10.17	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Shigella	239.22	10.06	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417831	Shigella	372.38	11.63	Chorismate mutase I (EC 5.4.99.5) / Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_00417840	Shigella	346.62	52.83	Chorismate synthase (EC 4.2.3.5)
+PGF_00417843	Shigella	164.95	3.29	Chorismate--pyruvate lyase (EC 4.1.3.40)
+PGF_00417957	Shigella	1459.70	161.00	Chromosome partition protein MukB
+PGF_00417959	Shigella	231.58	11.02	Chromosome partition protein MukE
+PGF_00417961	Shigella	431.76	45.95	Chromosome partition protein MukF
+PGF_00417987	Shigella	187.43	7.58	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Shigella	246.91	12.78	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418156	Shigella	164.94	1.92	ClpXP protease specificity-enhancing factor / Stringent starvation protein B
+PGF_00418168	Shigella	71.03	1.83	Cnu protein
+PGF_00418243	Shigella	192.96	15.06	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00418406	Shigella	203.55	12.90	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418541	Shigella	394.19	57.19	Colanic acid biosysnthesis glycosyl transferase WcaI
+PGF_00418548	Shigella	202.52	21.22	Colanic acid capsular biosynthesis activation accesory protein RcsA, co-regulator with RcsB
+PGF_00418658	Shigella	161.84	3.31	Colicin V production protein
+PGF_00418710	Shigella	329.25	16.46	Uncharacterized protease YhbU
+PGF_00418791	Shigella	135.69	33.74	Type IV pilus biogenesis protein PilN
+PGF_00419487	Shigella	157.02	1.05	Conserved uncharacterized protein CreA
+PGF_00419533	Shigella	235.76	5.21	Copper homeostasis protein CutF precursor / Lipoprotein NlpE involeved in surface adhesion
+PGF_00419572	Shigella	135.03	2.65	Copper resistance transcriptional regulator CueR (MerR family)
+PGF_00419575	Shigella	455.89	16.45	Copper sensory histidine kinase CpxA
+PGF_00419628	Shigella	454.61	22.66	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419636	Shigella	213.47	17.00	3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85) (L-ascorbate utilization protein D)
+PGF_00419702	Shigella	172.57	5.01	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419816	Shigella	131.98	6.74	Curlin genes transcriptional activator
+PGF_00419886	Shigella	261.83	51.01	3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2)
+PGF_00419891	Shigella	209.65	6.42	Cyclic AMP receptor protein
+PGF_00419913	Shigella	160.89	3.64	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Shigella	262.98	12.73	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00419962	Shigella	96.52	4.04	Cyd operon protein YbgE
+PGF_00419986	Shigella	322.07	18.26	Cys regulon transcriptional activator CysB
+PGF_00420048	Shigella	403.59	9.77	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420053	Shigella	400.25	13.50	Cysteine desulfurase (EC 2.8.1.7) => sulfur transfer pathway protein CsdA
+PGF_00420075	Shigella	317.52	35.00	Cysteine synthase (EC 2.5.1.47)
+PGF_00420078	Shigella	301.60	13.97	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420082	Shigella	192.84	13.64	Cysteine/O-acetylserine efflux protein
+PGF_00420121	Shigella	226.62	8.47	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420155	Shigella	202.38	9.79	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+PGF_00420346	Shigella	344.62	32.99	Cytochrome c heme lyase subunit CcmL / Cytochrome c heme lyase subunit CcmH
+PGF_00420482	Shigella	246.48	6.29	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Shigella	637.04	62.20	Cytochrome c heme lyase subunit CcmF
+PGF_00420526	Shigella	200.00	0.00	Cytochrome c-type protein NapC
+PGF_00420612	Shigella	245.30	18.84	Cytoplasmic copper homeostasis protein CutC
+PGF_00420624	Shigella	85.81	2.48	Cytoplasmic protein YaiB
+PGF_00420676	Shigella	93.84	2.39	Cytoplasmic protein YaiE
+PGF_00420728	Shigella	330.89	36.18	Cytoskeleton protein RodZ
+PGF_00420731	Shigella	501.39	23.05	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420732	Shigella	479.34	41.81	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420750	Shigella	324.90	23.49	D,D-dipeptide transport ATP-binding protein DdpD
+PGF_00420764	Shigella	377.56	8.66	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+PGF_00420919	Shigella	349.76	38.65	D-cysteine desulfhydrase (EC 4.4.1.15)
+PGF_00420920	Shigella	119.76	4.02	D-erythro-7,8-dihydroneopterin triphosphate epimerase
+PGF_00420935	Shigella	437.90	34.75	D-galactarate transporter @ D-glucarate transporter
+PGF_00420994	Shigella	720.79	55.49	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421013	Shigella	406.27	10.87	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421032	Shigella	432.56	44.84	D-serine ammonia-lyase (EC 4.3.1.18)
+PGF_00421039	Shigella	466.60	33.83	D-serine/D-alanine/glycine transporter
+PGF_00421071	Shigella	144.93	2.28	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421156	Shigella	195.17	9.45	DJ-1/YajL/PfpI superfamily, includes chaperone protein YajL (former ThiJ), parkinsonism-associated protein DJ-1, peptidases PfpI, Hsp31
+PGF_00421181	Shigella	103.29	5.69	DNA base-flipping protein
+PGF_00421408	Shigella	228.79	5.56	DNA mismatch repair endonuclease MutH
+PGF_00421447	Shigella	582.71	32.98	ATP-dependent RNA helicase YejH
+PGF_00421477	Shigella	766.91	94.00	DNA polymerase II (EC 2.7.7.7)
+PGF_00421489	Shigella	1083.89	235.41	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Shigella	364.44	17.33	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421568	Shigella	136.71	4.50	DNA polymerase III psi subunit (EC 2.7.7.7)
+PGF_00421679	Shigella	573.85	51.35	DNA primase (EC 2.7.7.-)
+PGF_00421733	Shigella	354.53	24.18	DNA recombination and repair protein RecF
+PGF_00421760	Shigella	322.56	16.63	DNA recombination-dependent growth factor RdgC
+PGF_00421792	Shigella	460.39	28.92	DNA repair protein RadA
+PGF_00421796	Shigella	551.62	20.94	DNA repair protein RecN
+PGF_00421814	Shigella	243.09	19.48	DNA replication helicase loader DnaC/DnaI
+PGF_00421839	Shigella	304.82	27.06	DNA replication terminus site-binding protein
+PGF_00421855	Shigella	282.71	42.10	3-sulpholactaldehyde reductase
+PGF_00421893	Shigella	197.18	28.68	DNA transformation protein TfoX
+PGF_00421954	Shigella	215.63	7.46	DNA-binding capsular synthesis response regulator RcsB
+PGF_00421959	Shigella	261.19	10.31	DNA-binding domain of ModE / Molybdate-binding domain of ModE
+PGF_00422053	Shigella	97.96	1.37	DNA-binding protein Fis
+PGF_00422078	Shigella	89.93	1.46	DNA-binding protein HU-alpha
+PGF_00422091	Shigella	132.87	7.80	DNA-binding protein StpA
+PGF_00422271	Shigella	327.90	16.54	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422436	Shigella	346.05	11.76	DUF1176 domain-containing protein
+PGF_00422545	Shigella	311.18	12.08	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422589	Shigella	184.87	4.06	DcrB protein precursor
+PGF_00422655	Shigella	451.10	29.16	LOG family protein YgdH
+PGF_00422675	Shigella	252.34	14.90	DedA family inner membrane protein YabI
+PGF_00422676	Shigella	227.08	30.65	DedA family inner membrane protein YdjX
+PGF_00422677	Shigella	233.29	14.10	DedA family inner membrane protein YdjZ
+PGF_00422681	Shigella	219.69	6.62	DedA family inner membrane protein YqjA
+PGF_00422711	Shigella	218.80	3.81	DedA protein
+PGF_00422909	Shigella	257.66	23.39	DeoR-type transcriptional regulator YihW
+PGF_00422916	Shigella	190.28	16.88	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422949	Shigella	256.85	17.21	Deoxyribonuclease TatD
+PGF_00422955	Shigella	249.36	20.13	Deoxyribose operon repressor, DeoR family
+PGF_00422959	Shigella	151.80	4.05	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423021	Shigella	497.88	19.85	Di-tripeptide/H+ symporter DtpA
+PGF_00423089	Shigella	365.10	21.16	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Shigella	273.39	10.51	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Shigella	419.70	23.54	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Shigella	122.02	0.50	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423376	Shigella	163.03	13.71	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423382	Shigella	344.32	15.93	Dihydroorotase (EC 3.5.2.3)
+PGF_00423450	Shigella	293.51	19.57	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)
+PGF_00423470	Shigella	273.00	26.68	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase (EC 5.3.1.17)
+PGF_00423472	Shigella	628.48	54.74	DinG family ATP-dependent helicase YoaA
+PGF_00423530	Shigella	333.05	13.47	Dipeptide transport ATP-binding protein DppF (TC 3.A.1.5.2)
+PGF_00423533	Shigella	279.85	21.73	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423587	Shigella	487.01	39.76	Dipeptide/H+ symporter DtpD
+PGF_00423709	Shigella	272.29	11.01	DnaJ-like protein DjlA
+PGF_00423896	Shigella	62.01	0.12	DsrB protein
+PGF_00423914	Shigella	183.04	0.69	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Shigella	289.60	8.26	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424131	Shigella	192.67	5.44	Electron transport complex protein RnfA
+PGF_00424134	Shigella	189.32	16.36	Electron transport complex protein RnfB
+PGF_00424141	Shigella	229.79	10.66	Electron transport complex protein RnfE
+PGF_00424166	Shigella	189.26	9.53	Elongation factor P-like protein
+PGF_00424228	Shigella	130.49	9.54	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424258	Shigella	202.43	6.50	Endo-type membrane-bound lytic murein transglycosylase A (EC 4.2.2.n2)
+PGF_00424307	Shigella	364.28	23.45	beta-1,4-glucanase (cellulase) (EC 3.2.1.4)
+PGF_00424337	Shigella	283.32	16.97	Endonuclease IV (EC 3.1.21.2)
+PGF_00424338	Shigella	222.95	1.69	Endonuclease V (EC 3.1.21.7)
+PGF_00424340	Shigella	262.76	5.92	Endonuclease VIII
+PGF_00424414	Shigella	448.72	48.14	4-hydroxyphenylacetate symporter, major facilitator superfamily (MFS)
+PGF_00424447	Shigella	328.34	11.63	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424478	Shigella	704.00	65.95	Enoyl-CoA hydratase (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_00424569	Shigella	261.23	10.83	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424596	Shigella	48.08	1.10	Entericidin B
+PGF_00424798	Shigella	230.89	12.65	Esterase YpfH
+PGF_00424800	Shigella	253.22	11.73	Esterase ybfF (EC 3.1.-.-)
+PGF_00424880	Shigella	162.73	19.11	Ethanolamine utilization polyhedral-body-like protein EutK
+PGF_00424881	Shigella	218.60	6.85	Ethanolamine utilization polyhedral-body-like protein EutL
+PGF_00424891	Shigella	110.75	3.25	Ethanolamine utilization polyhedral-body-like protein EutS
+PGF_00424897	Shigella	158.38	7.79	Ethanolamine utilization protein EutP
+PGF_00424958	Shigella	147.44	10.02	Evolved beta-D-galactosidase, beta subunit
+PGF_00424971	Shigella	605.02	47.19	Excinuclease ABC subunit C
+PGF_00424985	Shigella	290.37	15.91	Excinuclease cho (excinuclease ABC alternative C subunit)
+PGF_00425010	Shigella	471.66	31.30	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425011	Shigella	266.21	17.83	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425014	Shigella	272.71	30.70	Flap endonuclease Xni
+PGF_00425021	Shigella	1116.64	63.83	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Shigella	452.07	36.26	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425044	Shigella	218.20	14.98	Exodeoxyribonuclease X
+PGF_00425091	Shigella	1027.61	109.68	Exonuclease SbcC
+PGF_00425092	Shigella	393.96	36.04	Exonuclease SbcD
+PGF_00425212	Shigella	483.75	30.75	Exported zinc metalloprotease YfgC precursor
+PGF_00425665	Shigella	242.50	7.28	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Shigella	283.51	10.14	RNase adapter protein RapZ
+PGF_00425679	Shigella	203.12	9.98	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Shigella	244.57	14.75	Probable transcriptional regulatory protein YebC
+PGF_00425685	Shigella	282.37	16.02	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425704	Shigella	91.06	1.82	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425722	Shigella	182.16	3.56	FIG001587: exported protein
+PGF_00425726	Shigella	744.18	41.32	FIG001592: Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated
+PGF_00425736	Shigella	155.33	2.52	FIG001826: putative inner membrane protein
+PGF_00425757	Shigella	107.98	1.07	FIG002060: uncharacterized protein YggL
+PGF_00425763	Shigella	129.74	3.29	FIG002082: Protein SirB2
+PGF_00425775	Shigella	532.82	96.40	Cellulose biosynthesis protein BcsG
+PGF_00425808	Shigella	194.33	20.98	5'-deoxynucleotidase YfbR (EC 3.1.3.89)
+PGF_00425810	Shigella	246.19	11.22	Cell division protein ZapD
+PGF_00425811	Shigella	108.96	1.41	dsDNA mimic protein, highly acidic
+PGF_00425812	Shigella	211.82	11.58	High frequency lysogenization protein HflD
+PGF_00425922	Shigella	238.65	6.46	FIG004016: Uncharacterized protein YggN
+PGF_00425941	Shigella	218.43	7.76	FIG004088: inner membrane protein YebE
+PGF_00425970	Shigella	224.60	8.54	Pyrimidine 5'-nucleotidase YjjG (EC 3.1.3.5)
+PGF_00425993	Shigella	397.20	12.92	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Shigella	338.64	29.27	FIG004453: protein YceG like
+PGF_00426044	Shigella	295.63	9.23	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Shigella	613.82	50.49	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426168	Shigella	269.81	13.73	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+PGF_00426231	Shigella	502.91	43.96	FIG004684: SpoVR-like protein
+PGF_00426236	Shigella	371.57	15.63	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426259	Shigella	407.07	26.73	FIG004798: Putative cytoplasmic protein
+PGF_00426270	Shigella	182.60	18.30	FIG004819: Prepilin peptidase dependent protein B precursor
+PGF_00426342	Shigella	239.19	10.10	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426377	Shigella	480.07	49.14	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60)
+PGF_00426539	Shigella	503.24	69.35	Cellulose biosynthesis protein BcsE
+PGF_00426629	Shigella	132.87	12.24	5-methyl-dCTP pyrophosphohydrolase (EC 3.6.1.-)
+PGF_00426722	Shigella	1167.99	222.45	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426810	Shigella	249.70	18.30	5'-nucleotidase SurE (EC 3.1.3.5) @ Exopolyphosphatase (EC 3.6.1.11)
+PGF_00426932	Shigella	155.90	2.62	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427059	Shigella	269.96	26.35	6-deoxy-6-sulphofructose kinase
+PGF_00427067	Shigella	293.41	18.30	6-deoxy-6-sulphofructose-1-phosphate aldolase
+PGF_00427112	Shigella	423.39	54.89	Uncharacterized protein YhfT
+PGF_00427228	Shigella	306.06	19.95	6-phosphofructokinase class II (EC 2.7.1.11)
+PGF_00427299	Shigella	465.92	28.00	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00447438	Shigella	191.72	8.69	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00451246	Shigella	97.10	1.11	RNA-binding protein YhbY
+PGF_00464627	Shigella	538.58	39.41	Sodium-dependent phosphate transporter
+PGF_00473519	Shigella	205.57	7.70	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00474012	Shigella	436.90	24.97	Uncharacterized MFS-type transporter YhjE
+PGF_00490053	Shigella	490.55	27.95	Outer membrane channel TolC (OpmH)
+PGF_00497557	Shigella	496.90	33.11	Uncharacterized protein YjgR
+PGF_00502502	Shigella	73.99	0.27	Cold shock protein of CSP family => CspD (naming convention as in E.coli)
+PGF_00502584	Shigella	65.98	0.60	Sulfur carrier protein ThiS
+PGF_00502921	Shigella	242.83	4.19	Arginine ABC transporter, substrate-binding protein ArtI
+PGF_00503288	Shigella	711.82	136.23	[NiFe] hydrogenase metallocenter assembly protein HypF
+PGF_00503312	Shigella	280.70	30.58	Cell division protein FtsN
+PGF_00503343	Shigella	190.55	4.57	Uncharacterized protein YraP
+PGF_00503379	Shigella	349.79	58.80	Trimethylamine-N-oxide reductase associated c-type cytochrome, TorY
+PGF_00529632	Shigella	844.41	86.64	ClpB protein
+PGF_00538878	Shigella	265.63	7.17	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00546752	Shigella	160.42	4.51	Phosphohistidine phosphatase SixA
+PGF_00550785	Shigella	320.41	11.37	Inner membrane protein YtfF
+PGF_00565351	Shigella	218.73	12.06	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00569671	Shigella	304.86	4.80	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00570239	Shigella	344.42	19.89	Spermidine/putrescine import ABC transporter substrate-binding protein PotD (TC 3.A.1.11.1)
+PGF_00572136	Shigella	123.41	6.03	Copper resistance protein CopC
+PGF_00580333	Shigella	385.10	27.62	Lipopolysaccharide assembly protein LapB
+PGF_00596539	Shigella	585.72	29.24	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598374	Shigella	186.91	2.92	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00599203	Shigella	359.54	38.23	L-amino acid ABC transporter (Glu/Asp/His/...), permease protein 2 AapM
+PGF_00599219	Shigella	322.01	38.53	Uncharacterized oxidoreductase YgjR
+PGF_00612013	Shigella	205.20	13.09	UPF0126 inner membrane protein YadS
+PGF_00616490	Shigella	321.53	19.74	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Shigella	381.04	25.45	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Shigella	230.76	6.40	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00641071	Shigella	292.10	13.19	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644224	Shigella	282.35	10.10	PTS system, mannose-specific IID component
+PGF_00644844	Shigella	444.33	18.59	Long-chain fatty acid transport protein
+PGF_00644953	Shigella	302.17	25.95	DnaJ-class molecular chaperone CbpA
+PGF_00646255	Shigella	119.84	0.93	[NiFe] hydrogenase nickel incorporation protein HypA
+PGF_00648054	Shigella	228.68	5.23	Tol-Pal system protein TolQ
+PGF_00649271	Shigella	104.72	3.30	Cell division protein BolA
+PGF_00655131	Shigella	494.35	28.01	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Shigella	489.46	43.14	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Shigella	519.69	33.11	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Shigella	211.84	12.49	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662997	Shigella	244.19	22.78	Cobalamin synthase (EC 2.7.8.26)
+PGF_00664069	Shigella	441.28	34.24	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Shigella	104.94	3.14	Ribosomal silencing factor RsfA
+PGF_00671129	Shigella	111.97	2.80	Nitrogen regulatory protein P-II, GlnK
+PGF_00685421	Shigella	209.45	12.03	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+PGF_00690318	Shigella	271.80	18.50	DNA-damage-inducible protein D
+PGF_00694978	Shigella	266.54	8.23	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00709443	Shigella	170.72	5.42	Twin-arginine translocation protein TatB
+PGF_00709681	Shigella	323.96	9.55	Inner membrane protein YrbG, predicted calcium/sodium:proton antiporter
+PGF_00720623	Shigella	140.93	1.92	TonB-ExbBD energy transducing system, ExbD subunit
+PGF_00721835	Shigella	316.34	7.19	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Shigella	781.14	28.11	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00728510	Shigella	752.47	89.46	Cyclic di-GMP-binding protein BcsB
+PGF_00730641	Shigella	212.44	7.67	4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+PGF_00734372	Shigella	658.73	72.53	2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)
+PGF_00734482	Shigella	849.04	85.33	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00777371	Shigella	260.66	16.25	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Shigella	231.77	3.94	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00813259	Shigella	239.12	10.61	FolM Alternative dihydrofolate reductase 1
+PGF_00822754	Shigella	287.00	0.00	Polyferredoxin NapH (periplasmic nitrate reductase)
+PGF_00835800	Shigella	256.48	23.30	Lysine-arginine-ornithine-binding periplasmic protein ArgT (TC 3.A.1.3.1)
+PGF_00853393	Shigella	285.73	23.80	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Shigella	401.33	35.92	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00871619	Shigella	671.67	68.18	Tail-specific protease precursor (EC 3.4.21.102)
+PGF_00886151	Shigella	352.43	18.92	Glycine betaine/L-proline transport system permease protein ProW (TC 3.A.1.12.1)
+PGF_00900256	Shigella	425.93	23.37	Threonine synthase (EC 4.2.3.1)
+PGF_00904010	Shigella	557.02	42.97	PTS system, inactive IIB catalytic domain / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_00908360	Shigella	259.76	6.39	Phospholipid ABC transporter permease protein MlaE
+PGF_00909659	Shigella	563.50	24.76	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00909703	Shigella	495.42	12.79	Sialic acid transporter (permease) NanT
+PGF_00909719	Shigella	51.00	0.29	hypothetical protein
+PGF_00910575	Shigella	208.75	28.10	Uncharacterized protein YedJ
+PGF_00912265	Shigella	314.71	22.50	tRNA-dihydrouridine synthase DusB
+PGF_00918275	Shigella	367.45	33.92	Class C beta-lactamase (EC 3.5.2.6) => BlaEC family
+PGF_00922738	Shigella	283.30	22.52	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00924816	Shigella	235.59	7.61	Thiol:disulfide interchange protein DsbC
+PGF_00925585	Shigella	104.61	4.89	Thiosulfate:cyanide sulfurtransferase PspE (EC 2.8.1.1)
+PGF_00925844	Shigella	426.43	39.30	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Shigella	564.29	66.11	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00945778	Shigella	392.21	19.23	Multidrug efflux system AcrAB-TolC, membrane fusion component AcrA
+PGF_00948290	Shigella	415.61	27.44	Murein hydrolase activator EnvC
+PGF_00948800	Shigella	373.56	18.23	Cell division protein ZapE
+PGF_00950554	Shigella	663.73	61.43	Excinuclease ABC subunit B
+PGF_00955412	Shigella	258.65	7.46	Probable iron export permease protein FetB
+PGF_00955461	Shigella	300.60	16.17	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00956835	Shigella	193.47	11.22	4'-phosphopantetheinyl transferase (EC 2.7.8.-)
+PGF_00957419	Shigella	137.65	5.70	Putative pre-16S rRNA nuclease Yqg
+PGF_00958358	Shigella	81.94	1.35	[NiFe] hydrogenase metallocenter assembly protein HybG
+PGF_00963744	Shigella	283.03	16.68	Tetrapartite efflux system, membrane fusion component FusE-like
+PGF_00973394	Shigella	182.72	4.19	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00978669	Shigella	75.49	0.50	Uncharacterized lipoprotein YgdI
+PGF_00979610	Shigella	548.79	29.65	Trehalose-6-phosphate hydrolase (EC 3.2.1.93)
+PGF_01008498	Shigella	105.59	15.95	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01033782	Shigella	265.39	9.76	HAD phosphatase YigL
+PGF_01036334	Shigella	414.15	43.69	UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)
+PGF_01040342	Shigella	287.66	9.34	Spermidine synthase (EC 2.5.1.16)
+PGF_01052295	Shigella	334.41	13.04	Lipopolysaccharide export system permease protein LptF
+PGF_01052498	Shigella	169.89	4.47	4-hydroxyphenylacetate 3-monooxygenase, reductase component (EC 1.6.8.-)
+PGF_01058223	Shigella	422.10	24.80	Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+PGF_01058419	Shigella	1128.30	189.12	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01059580	Shigella	635.93	64.35	Macrolide export ATP-binding/permease protein MacB
+PGF_01066071	Shigella	203.39	17.37	Homoserine/homoserine lactone efflux protein
+PGF_01067056	Shigella	111.93	1.03	Periplasmic divalent cation tolerance protein CutA
+PGF_01073011	Shigella	460.07	30.05	Xanthine permease @ Xanthine:proton symporter XanP
+PGF_01074065	Shigella	146.05	1.80	Uncharacterized N-acetyltransferase YiaC
+PGF_01076221	Shigella	341.51	29.76	UPF0718 membrane protein YraQ
+PGF_01083115	Shigella	499.81	68.56	Oligopeptide transport substrate-binding protein @ Glutathione ABC transporter substrate-binding protein GsiB
+PGF_01084030	Shigella	792.29	103.15	Outer membrane protein assembly factor YaeT
+PGF_01084675	Shigella	412.65	41.56	Chloride channel protein
+PGF_01084735	Shigella	37.00	0.06	Cytochrome d ubiquinol oxidase subunit X (EC 1.10.3.-)
+PGF_01092098	Shigella	151.92	2.05	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01095805	Shigella	147.13	7.72	Low molecular weight protein-tyrosine-phosphatase (EC 3.1.3.48) => Etp
+PGF_01101526	Shigella	446.04	32.65	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01102287	Shigella	462.69	50.97	Alkaline phosphatase (EC 3.1.3.1)
+PGF_01102972	Shigella	382.33	13.22	Acetylornithine deacetylase (EC 3.5.1.16)
+PGF_01104399	Shigella	248.62	7.58	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01110486	Shigella	368.34	13.09	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+PGF_01114144	Shigella	495.93	77.11	Multidrug efflux system EmrAB-OMF, inner-membrane proton/drug antiporter EmrB (MFS type)
+PGF_01124177	Shigella	399.02	39.73	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Shigella	369.13	11.92	Rod shape-determining protein RodA
+PGF_01147190	Shigella	462.36	54.49	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01148336	Shigella	365.71	8.41	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_01151905	Shigella	324.70	12.77	O-antigen chain length determinant protein WzzB
+PGF_01166636	Shigella	83.00	0.00	Glutaredoxin 3 (Grx3)
+PGF_01172485	Shigella	417.87	25.91	Cell division protein FtsA
+PGF_01173493	Shigella	426.39	34.00	D-amino acid dehydrogenase (EC 1.4.99.6)
+PGF_01174739	Shigella	240.14	20.42	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Shigella	451.25	19.00	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Shigella	635.09	55.18	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176567	Shigella	460.69	29.81	Galactose-proton symport
+PGF_01176861	Shigella	72.00	0.05	Uncharacterized protein YpeB
+PGF_01181530	Shigella	118.48	6.09	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01191170	Shigella	179.77	8.58	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01197369	Shigella	396.48	26.98	Na+/H+-dicarboxylate symporter
+PGF_01212739	Shigella	543.62	40.24	Heat shock protein 60 family chaperone GroEL
+PGF_01216478	Shigella	137.00	0.09	Succinyl-CoA synthetase, alpha subunit-related enzymes
+PGF_01217385	Shigella	214.56	17.03	Enhancing lycopene biosynthesis protein 2
+PGF_01218094	Shigella	247.40	9.16	Glutamine ABC transporter, substrate-binding protein GlnH
+PGF_01218448	Shigella	265.24	11.19	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01220766	Shigella	279.20	17.17	Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)
+PGF_01223569	Shigella	155.05	8.54	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Shigella	158.85	3.12	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01234013	Shigella	324.78	33.84	YgfD: protein that forms a complex with the methylmalonyl-CoA mutase in a pathway for conversion of succinyl-CoA to propionyl-CoA
+PGF_01248546	Shigella	91.23	3.35	Uncharacterized protein YjfY
+PGF_01291803	Shigella	323.73	14.93	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Shigella	208.36	16.40	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01309240	Shigella	168.81	4.13	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01325304	Shigella	228.98	2.11	Molybdenum ABC transporter permease protein ModB
+PGF_01332618	Shigella	178.82	7.18	Hydrogenase-4 component H
+PGF_01351158	Shigella	1146.29	110.89	Transcription-repair coupling factor
+PGF_01364427	Shigella	201.07	15.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01365164	Shigella	346.44	18.91	UPF0324 inner membrane protein YeiH
+PGF_01382505	Shigella	205.87	3.80	FIG00449901: hypothetical protein
+PGF_01386354	Shigella	77.99	0.23	Major outer membrane lipoprotein Lpp
+PGF_01387916	Shigella	145.34	7.00	Inner membrane protein YdgK
+PGF_01388673	Shigella	214.72	5.63	Transcriptional regulator of acrAB operon, AcrR
+PGF_01412799	Shigella	213.01	15.95	UPF0056 inner membrane protein YchE
+PGF_01415722	Shigella	193.57	10.41	Uncharacterized glutathione S-transferase-like protein
+PGF_01415861	Shigella	192.93	1.81	LPS-assembly lipoprotein LptE
+PGF_01420802	Shigella	151.74	4.14	Cell division protein MraZ
+PGF_01421534	Shigella	93.99	2.47	LSU ribosomal protein L25p
+PGF_01423404	Shigella	293.88	1.86	Uncharacterized oxidoreductase YghA
+PGF_01423501	Shigella	157.96	1.00	Transcription elongation factor GreA
+PGF_01442793	Shigella	194.48	18.09	Putative manganese efflux pump MntP
+PGF_01443105	Shigella	283.50	11.89	Anaerobic dimethyl sulfoxide reductase chain C (EC 1.8.5.3), anchor subunit
+PGF_01448031	Shigella	98.72	3.31	Integration host factor alpha subunit
+PGF_01465362	Shigella	154.75	5.06	Mn-dependent transcriptional regulator MntR
+PGF_01466742	Shigella	428.05	26.05	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01467052	Shigella	161.78	17.96	G/U mismatch-specific uracil DNA glycosylase (EC 3.2.2.28)
+PGF_01477459	Shigella	396.63	26.83	Glycine betaine/L-proline transport ATP-binding protein ProV (TC 3.A.1.12.1)
+PGF_01482614	Shigella	192.22	9.38	Modulator of drug activity B
+PGF_01483460	Shigella	358.72	18.22	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Shigella	266.56	19.06	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01484108	Shigella	203.11	19.03	Electron transport complex protein RnfG
+PGF_01492504	Shigella	246.91	21.54	Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)
+PGF_01522203	Shigella	49.02	0.91	AcrZ membrane protein associated with AcrAB-TolC multidrug efflux pump
+PGF_01528300	Shigella	298.27	15.44	Formate dehydrogenase O beta subunit (EC 1.2.1.2)
+PGF_01529260	Shigella	153.99	4.94	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01532393	Shigella	682.92	47.30	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01542386	Shigella	63.20	2.35	Cellulose biosynthesis protein BcsF
+PGF_01542417	Shigella	68.95	1.21	Cold shock protein of CSP family => CspC (naming convention as in E.coli)
+PGF_01553714	Shigella	173.99	3.40	Uncharacterized protein YhbT
+PGF_01555804	Shigella	135.94	9.92	Flagellar basal-body rod protein FlgB
+PGF_01557745	Shigella	327.05	20.91	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01568337	Shigella	123.78	27.76	Type IV pilus biogenesis protein PilP
+PGF_01568912	Shigella	200.69	19.28	Anaerobic dimethyl sulfoxide reductase chaperone DmsD
+PGF_01569608	Shigella	550.27	32.69	Putative transport protein YidE
+PGF_01574344	Shigella	233.77	12.84	Uncharacterized protein YhjY
+PGF_01574733	Shigella	106.94	1.87	Inner membrane protein YgbE
+PGF_01574872	Shigella	198.43	11.12	Uncharacterized transcriptional regulator YhjB, LuxR family
+PGF_01580528	Shigella	890.80	66.35	Mg(2+) transport ATPase, P-type (EC 3.6.3.2)
+PGF_01596430	Shigella	304.71	23.89	Uncharacterized protein YqhG
+PGF_01596785	Shigella	470.06	37.09	PTS system, glucose-specific IIC component / PTS system, glucose-specific IIB component (EC 2.7.1.199)
+PGF_01599021	Shigella	168.78	5.56	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Shigella	228.72	19.09	Flagellar basal-body rod modification protein FlgD
+PGF_01603132	Shigella	79.96	1.01	Uncharacterized protein YhdT
+PGF_01603398	Shigella	579.92	68.37	Efflux ABC transporter, permease/ATP-binding protein MdlB
+PGF_01604929	Shigella	258.03	11.62	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01625234	Shigella	317.62	26.55	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01626459	Shigella	59.01	0.32	UPF0181 protein YoaH
+PGF_01634876	Shigella	164.79	7.97	Uncharacterized protein YidF
+PGF_01641188	Shigella	263.16	15.50	PTS system, sorbose-specific IIC component
+PGF_01641226	Shigella	162.00	0.10	Hydrogenase-2 operon protein HybE
+PGF_01643255	Shigella	62.86	4.82	proteinase inhibitor
+PGF_01667880	Shigella	85.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Shigella	190.84	3.91	RNA polymerase sigma factor RpoE
+PGF_01668012	Shigella	266.48	13.57	Sulfur carrier protein FdhD
+PGF_01670799	Shigella	193.43	7.52	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01674551	Shigella	129.00	0.05	Glycine cleavage system H protein
+PGF_01678333	Shigella	349.89	16.18	Electron transport complex protein RnfD
+PGF_01681377	Shigella	204.95	1.60	UPF0126 inner membrane protein YicG
+PGF_01682537	Shigella	125.95	0.90	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Shigella	148.66	3.47	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Shigella	240.27	15.66	DNA recombination and repair protein RecO
+PGF_01734668	Shigella	232.65	4.99	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Shigella	290.95	15.34	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01745391	Shigella	384.87	17.49	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01747364	Shigella	266.75	14.62	Nickel transport ATP-binding protein NikE (TC 3.A.1.5.3)
+PGF_01747642	Shigella	206.82	3.42	Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_01748119	Shigella	146.93	1.99	Sulfur acceptor protein => sulfur transfer pathway protein CsdE
+PGF_01756547	Shigella	623.09	100.48	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16) / 3'-nucleotidase (EC 3.1.3.6)
+PGF_01760799	Shigella	386.51	24.19	Type IV pilus biogenesis protein PilQ
+PGF_01761890	Shigella	65.00	0.26	DNA gyrase inhibitor YacG
+PGF_01763778	Shigella	304.69	9.92	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01771963	Shigella	403.16	35.53	RNA-2',3'-PO4:RNA-5'-OH ligase
+PGF_01775859	Shigella	1241.31	105.18	Inner membrane component of TAM transport system
+PGF_01777142	Shigella	212.54	8.28	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Shigella	130.32	15.35	Protein YhfA
+PGF_01781189	Shigella	222.18	15.10	PKHD-type hydroxylase YbiX
+PGF_01808483	Shigella	571.00	29.46	N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase (EC 6.3.2.38), aerobactin biosynthesis protein IucA
+PGF_01809653	Shigella	319.62	17.64	Uncharacterized inner membrane transporter YhbE
+PGF_01810305	Shigella	195.92	1.49	Uncharacterized protein YjaG
+PGF_01810645	Shigella	683.93	60.18	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01832663	Shigella	344.07	35.94	Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)
+PGF_01839055	Shigella	344.17	41.03	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01841446	Shigella	481.94	31.72	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01853493	Shigella	280.71	16.02	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01873735	Shigella	274.64	17.24	Nickel transport system permease protein NikC (TC 3.A.1.5.3)
+PGF_01877133	Shigella	407.79	30.35	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Shigella	150.80	3.67	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Shigella	209.95	12.66	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Shigella	366.24	4.08	Rod shape-determining protein MreC
+PGF_01900807	Shigella	268.46	9.12	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01920535	Shigella	572.40	16.09	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01920666	Shigella	108.91	2.25	Z-ring-associated protein ZapA
+PGF_01920667	Shigella	139.31	7.09	Uncharacterized protein YqiB
+PGF_01920692	Shigella	65.54	3.10	Cytoplasmic protein, probably associated with glutathione-regulated potassium-efflux
+PGF_01920828	Shigella	267.64	6.32	HesA/MoeB/ThiF family protein => sulfur transfer pathway protein CsdL
+PGF_01921605	Shigella	617.76	46.10	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01922580	Shigella	398.88	15.42	2-polyprenylphenol hydroxylase
+PGF_01923866	Shigella	88.93	1.18	Acid stress protein IbaG
+PGF_01937476	Shigella	711.54	27.85	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01942824	Shigella	375.74	4.31	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01943486	Shigella	176.59	6.42	O-acetyl-ADP-ribose deacetylase
+PGF_01949788	Shigella	186.75	5.60	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01950071	Shigella	292.69	14.72	Aldose 1-epimerase family protein YeaD
+PGF_01960322	Shigella	605.13	39.92	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01972168	Shigella	94.80	1.29	hypothetical protein
+PGF_01994657	Shigella	426.19	41.34	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Shigella	122.00	0.10	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Shigella	257.13	10.88	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Shigella	324.82	20.36	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Shigella	319.72	6.20	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Shigella	387.76	23.36	GTP-binding protein Obg
+PGF_02059020	Shigella	551.00	37.05	Energy-dependent translational throttle protein EttA
+PGF_02061452	Shigella	374.34	11.72	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Shigella	88.00	0.12	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02073942	Shigella	701.02	86.13	2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) / Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)
+PGF_02077043	Shigella	123.08	3.41	PTS system, glucitol/sorbitol-specific IIA component (EC 2.7.1.198)
+PGF_02085373	Shigella	147.98	12.65	UPF0225 protein YchJ
+PGF_02096336	Shigella	299.42	15.65	Uncharacterized inner membrane transporter YijE
+PGF_02111888	Shigella	315.69	7.74	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02166416	Shigella	629.49	60.35	PTS system, mannitol-specific IIC component / PTS system, mannitol-specific IIB component (EC 2.7.1.197) / PTS system, mannitol-specific IIA component (EC 2.7.1.197)
+PGF_02168439	Shigella	304.23	24.66	Osmoprotectant ABC transporter ATP-binding subunit YehX
+PGF_02169237	Shigella	245.69	5.42	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Shigella	422.78	18.98	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02204321	Shigella	321.55	20.76	Twitching motility protein PilT
+PGF_02209787	Shigella	459.16	41.43	Conserved protein YcjX with nucleoside triphosphate hydrolase domain
+PGF_02213182	Shigella	68.96	1.09	Cytochrome c-type biogenesis protein CcmD, interacts with CcmCE
+PGF_02214779	Shigella	909.00	74.70	Signal transduction histidine-protein kinase BarA (EC 2.7.13.3)
+PGF_02226715	Shigella	685.58	52.71	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02230495	Shigella	228.05	10.94	N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)
+PGF_02244871	Shigella	335.74	22.44	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02247058	Shigella	274.64	8.57	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+PGF_02265871	Shigella	169.32	15.55	Inosine/xanthosine triphosphatase (EC 3.6.1.-)
+PGF_02268482	Shigella	253.88	12.56	Putative glutamine amidotransferase YafJ
+PGF_02272288	Shigella	676.21	61.41	DNA helicase IV (EC 3.6.4.12)
+PGF_02314180	Shigella	53.01	0.43	UPF0391 membrane protein YtjA
+PGF_02314384	Shigella	398.78	19.63	Na+ dependent nucleoside transporter NupC
+PGF_02317534	Shigella	139.06	1.27	Thioredoxin 2
+PGF_02325838	Shigella	511.88	3.80	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02329103	Shigella	96.88	5.75	Negative regulator of flagellin synthesis FlgM (anti-sigma28)
+PGF_02329420	Shigella	372.32	20.89	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG
+PGF_02330496	Shigella	207.67	5.30	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Shigella	333.66	12.35	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Shigella	849.31	54.74	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02369559	Shigella	914.73	90.46	DNA polymerase I (EC 2.7.7.7)
+PGF_02380724	Shigella	228.91	17.13	Quercetin 2,3-dioxygenase (EC 1.13.11.24) => YhhW
+PGF_02380854	Shigella	472.55	55.29	Protein ViaA
+PGF_02384845	Shigella	256.14	40.25	2-oxo-hepta-3-ene-1,7-dioic acid hydratase (EC 4.2.-.-)
+PGF_02386652	Shigella	158.97	9.28	Ribonuclease E inhibitor RraA
+PGF_02405545	Shigella	318.49	10.53	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02415711	Shigella	368.63	32.23	GDP-mannose 4,6-dehydratase (EC 4.2.1.47)
+PGF_02449016	Shigella	635.63	63.39	PTS system, N-acetylglucosamine-specific IIC component / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.193) / PTS system, N-acetylglucosamine-specific IIA component (EC 2.7.1.193)
+PGF_02454577	Shigella	84.06	8.31	SSU ribosomal protein S20p
+PGF_02463284	Shigella	198.02	19.61	Recombination protein RecR
+PGF_02473279	Shigella	243.66	17.22	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Shigella	191.93	1.51	Uncharacterized Nudix hydrolase NudL
+PGF_02499550	Shigella	201.02	0.68	Ubiquinone biosynthesis protein UbiJ
+PGF_02505498	Shigella	375.25	24.02	Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)
+PGF_02507218	Shigella	216.28	16.18	Outer membrane porin, OmpA family
+PGF_02515882	Shigella	446.90	23.97	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Shigella	429.42	25.86	Enolase (EC 4.2.1.11)
+PGF_02517984	Shigella	60.00	0.04	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Shigella	111.91	1.89	Nitrogen regulatory protein P-II
+PGF_02518488	Shigella	137.59	5.43	Flagellar biosynthesis protein FlgN
+PGF_02518965	Shigella	165.61	6.13	Regulatory protein RecX
+PGF_02537450	Shigella	471.48	26.21	HtrA protease/chaperone protein
+PGF_02592886	Shigella	259.55	13.44	Flagellar biosynthesis protein FliR
+PGF_02593689	Shigella	435.76	25.21	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02595016	Shigella	417.78	70.27	Multidrug efflux system MdtABC-TolC, membrane fusion component MdtA
+PGF_02611620	Shigella	469.30	21.54	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02613926	Shigella	284.65	15.20	Ribulosamine/erythrulosamine 3-kinase potentially involved in protein deglycation
+PGF_02619970	Shigella	103.00	0.38	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02621603	Shigella	300.61	24.80	Non-specific ribonucleoside hydrolase RihC
+PGF_02623406	Shigella	310.92	10.07	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02635429	Shigella	234.63	6.48	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02695498	Shigella	116.89	1.89	Uncharacterized protein YgbA
+PGF_02704551	Shigella	1387.28	149.73	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02706008	Shigella	260.01	0.44	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02717713	Shigella	748.51	45.08	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02719231	Shigella	146.10	5.94	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728196	Shigella	134.68	4.26	Uncharacterized protein YgdB
+PGF_02728237	Shigella	153.96	1.32	Putative sugar isomerase involved in processing of exogenous sialic acid
+PGF_02728332	Shigella	82.18	8.53	Uncharacterized protein YrdB
+PGF_02728524	Shigella	842.32	76.79	DNA mismatch repair protein MutS
+PGF_02728989	Shigella	222.98	2.33	Transcriptional regulatory protein PhoP
+PGF_02729762	Shigella	66.96	2.10	Diaminopimelate decarboxylase and/or diaminopimelate epimerase leader peptide
+PGF_02738244	Shigella	303.68	14.11	Glycine cleavage system transcriptional activator GcvA
+PGF_02745613	Shigella	347.49	18.80	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746016	Shigella	235.38	8.37	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02746237	Shigella	352.62	23.32	HlyD-like membrane fusion protein YhiI
+PGF_02752469	Shigella	297.70	16.29	Predicted dye-decolorizing peroxidase (DyP), YfeX-like subgroup
+PGF_02772091	Shigella	279.15	32.10	Methylphosphotriester-DNA--protein-cysteine S-methyltransferase (EC 2.1.1.n11) / ADA regulatory protein / Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02773452	Shigella	170.85	13.70	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+PGF_02787474	Shigella	259.99	12.50	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02789532	Shigella	275.63	15.98	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Shigella	173.25	24.12	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Shigella	230.42	8.04	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Shigella	454.87	39.29	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Shigella	1333.15	95.43	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Shigella	506.25	39.66	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02802027	Shigella	442.83	43.55	Guanine/hypoxanthine permease GhxP
+PGF_02806339	Shigella	80.13	4.02	Phage shock protein G
+PGF_02817932	Shigella	404.82	33.16	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02820109	Shigella	221.36	8.10	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827138	Shigella	236.04	10.79	Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+PGF_02827614	Shigella	120.82	1.76	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02836627	Shigella	322.56	23.91	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02838109	Shigella	201.45	26.27	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Shigella	271.85	10.19	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02853126	Shigella	218.97	9.08	Repair of Iron Centers di-iron protein
+PGF_02862285	Shigella	445.65	19.91	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02865787	Shigella	588.21	54.14	Glutathione-regulated potassium-efflux system protein KefB
+PGF_02872483	Shigella	84.00	1.14	YfaE: ferredoxin involved with ribonucleotide reductase diferric-tyrosyl radical (Y*) cofactor maintenance
+PGF_02873160	Shigella	220.83	6.20	Putative preQ0 transporter YhhQ
+PGF_02873311	Shigella	91.97	1.09	Sugar fermentation stimulation protein B
+PGF_02873723	Shigella	481.46	46.01	Ribonuclease G
+PGF_02875609	Shigella	441.79	44.04	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Shigella	384.94	15.46	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Shigella	361.80	12.74	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02883852	Shigella	137.93	1.96	UPF0047 protein YjbQ
+PGF_02885319	Shigella	206.56	5.41	Transcriptional regulator YqjI, PadR family
+PGF_02887090	Shigella	188.70	9.63	Uncharacterized lipoprotein YbaY
+PGF_02890229	Shigella	500.26	79.34	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02891004	Shigella	357.66	58.71	Glycerol-3-phosphate ABC transporter, substrate-binding protein UgpB
+PGF_02893007	Shigella	471.67	28.56	Probable transport protein HsrA
+PGF_02893929	Shigella	244.16	6.02	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02898096	Shigella	467.99	32.00	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02898176	Shigella	216.80	5.95	Methionine ABC transporter permease protein
+PGF_02899131	Shigella	63.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02901347	Shigella	114.31	6.53	Inner membrane protein YidH
+PGF_02902279	Shigella	181.00	13.33	Inner membrane protein YgjV
+PGF_02902854	Shigella	203.01	0.23	Outer membrane lipoprotein carrier protein LolA
+PGF_02905104	Shigella	431.03	32.11	UPF0597 protein YhaM
+PGF_02906415	Shigella	1084.38	163.35	Mechanosensitive channel MscK
+PGF_02906596	Shigella	79.25	2.37	Uncharacterized protein YiiF
+PGF_02906681	Shigella	763.33	72.35	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02908029	Shigella	99.45	2.91	UPF0213 protein YhbQ
+PGF_02911364	Shigella	332.84	14.99	HflC protein
+PGF_02911945	Shigella	222.82	4.72	Transcriptional regulator YbiH, TetR family
+PGF_02912272	Shigella	179.67	6.12	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02913447	Shigella	1248.00	122.04	Uncharacterized protein YhdP
+PGF_02923127	Shigella	239.86	14.71	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02927036	Shigella	494.04	42.85	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeN
+PGF_02931322	Shigella	328.92	4.82	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02933498	Shigella	160.00	0.00	Transcriptional regulator YgiV, AraC family
+PGF_02933974	Shigella	604.27	61.61	L,D-transpeptidase YcbB
+PGF_02936332	Shigella	289.14	21.21	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Shigella	390.38	12.48	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02938730	Shigella	341.09	19.97	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02941611	Shigella	351.49	45.74	Uncharacterized oxidoreductase YbdH
+PGF_02942351	Shigella	251.52	6.64	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02945199	Shigella	420.76	34.25	Gamma-glutamyl-putrescine oxidase (EC1.4.3.-)
+PGF_02946231	Shigella	556.41	14.69	SSU ribosomal protein S1p
+PGF_02947204	Shigella	536.57	33.67	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02949574	Shigella	251.23	8.06	L-amino acid ABC transporter (Glu/Asp/His/...), ATP-binding protein AapP
+PGF_02950579	Shigella	268.72	10.78	Septum site-determining protein MinD
+PGF_02959749	Shigella	365.59	32.34	Ribonuclease D (EC 3.1.26.3)
+PGF_02965160	Shigella	442.34	21.88	Adenine permease AdeP
+PGF_02977258	Shigella	114.86	2.39	RidA/YER057c/UK114 superfamily, group 2, YoaB-like protein
+PGF_02977268	Shigella	183.50	6.79	Uncharacterized protein YtfJ
+PGF_02983541	Shigella	509.10	44.60	Blue copper oxidase CueO precursor
+PGF_02987570	Shigella	281.07	18.50	Transcriptional regulator MurR, RpiR family
+PGF_02992495	Shigella	110.00	0.21	Protein translocase membrane subunit SecG
+PGF_02996778	Shigella	708.77	103.15	Enoyl-CoA hydratase (EC 4.2.1.17) / Delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase (EC 5.3.3.8) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_02997352	Shigella	483.68	29.47	L-tartrate/succinate antiporter
+PGF_02997723	Shigella	147.96	1.43	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_02998943	Shigella	188.50	16.27	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_02999030	Shigella	381.43	23.36	Putative acid--amine ligase YjfC
+PGF_03000271	Shigella	724.46	60.63	Ferric hydroxamate outer membrane receptor FhuA
+PGF_03006190	Shigella	390.88	14.98	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03011092	Shigella	294.90	27.53	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017978	Shigella	196.60	6.05	Septum formation protein Maf
+PGF_03025044	Shigella	211.13	15.30	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03025675	Shigella	580.60	24.06	Lipid A export permease/ATP-binding protein MsbA
+PGF_03029859	Shigella	620.69	80.67	Bis-ABC ATPase Uup
+PGF_03030263	Shigella	293.99	32.29	L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)
+PGF_03034557	Shigella	243.99	0.29	Fumarate reductase iron-sulfur protein (EC 1.3.5.4)
+PGF_03038852	Shigella	130.11	7.81	FIG00018398: hypothetical regulator
+PGF_03046709	Shigella	425.84	21.88	Ammonium transporter
+PGF_03047945	Shigella	342.37	11.40	Galactose operon repressor, GalR-LacI family of transcriptional regulators
+PGF_03048745	Shigella	235.37	36.97	Uncharacterized protein YjbG
+PGF_03052331	Shigella	68.99	0.38	UPF0337 protein YjbJ
+PGF_03052345	Shigella	414.59	18.01	Lipid III flippase
+PGF_03053958	Shigella	353.41	23.24	Outer membrane protein A precursor
+PGF_03054699	Shigella	1291.57	212.47	DNA translocase FtsK
+PGF_03057384	Shigella	334.33	16.05	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03062147	Shigella	217.97	18.99	Uncharacterized protein YlbF
+PGF_03062230	Shigella	136.90	2.67	16 kDa heat shock protein A
+PGF_03062274	Shigella	105.21	10.79	Uncharacterized protein YgaM
+PGF_03063012	Shigella	171.00	0.10	Chaperone protein HscB
+PGF_03063493	Shigella	1015.98	126.48	Cation efflux system protein CusA
+PGF_03065239	Shigella	284.11	10.22	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+PGF_03066317	Shigella	556.16	23.08	Inner membrane protein YbaL, KefB/KefC family
+PGF_03066520	Shigella	411.09	24.58	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03069524	Shigella	80.02	0.35	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03070403	Shigella	293.68	39.22	Glutamate Aspartate periplasmic binding protein precursor GltI (TC 3.A.1.3.4)
+PGF_03072887	Shigella	129.87	3.30	Protein ygiW precursor
+PGF_03073470	Shigella	612.07	36.20	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03074362	Shigella	374.76	27.09	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03074671	Shigella	68.95	1.68	Cold shock protein of CSP family => CspE (naming convention as in E.coli)
+PGF_03079386	Shigella	197.60	19.90	L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)
+PGF_03081665	Shigella	187.99	0.17	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03083019	Shigella	1068.97	172.24	Miniconductance mechanosensitive channel MscM
+PGF_03085583	Shigella	610.64	58.44	Glutathione-regulated potassium-efflux system protein KefC
+PGF_03086624	Shigella	383.50	49.72	Sugar efflux transporter B
+PGF_03087316	Shigella	406.50	34.27	Anaerobic sulfatase-maturating enzyme homolog AslB
+PGF_03090490	Shigella	327.54	25.82	ABC-type efflux pump membrane fusion component YbhG
+PGF_03096126	Shigella	753.58	63.99	Periplasmic beta-glucosidase (EC 3.2.1.21)
+PGF_03104520	Shigella	352.81	40.24	Hypothetical oxidoreductase, YbiC homolog
+PGF_03104567	Shigella	456.59	18.84	Trk potassium uptake system protein TrkA
+PGF_03107473	Shigella	69.95	1.26	Cold shock protein of CSP family => CspA (naming convention as in E.coli)
+PGF_03112776	Shigella	211.75	4.88	Transcriptional regulator RutR of pyrimidine catabolism (TetR family)
+PGF_03115661	Shigella	234.68	6.49	Uncharacterized DUF484 protein YigA
+PGF_03116802	Shigella	319.51	19.64	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03117340	Shigella	425.84	15.27	Peptidase B (EC 3.4.11.23)
+PGF_03120012	Shigella	203.42	13.76	Threonine efflux protein
+PGF_03122066	Shigella	151.78	4.41	Protein YaiI
+PGF_03122400	Shigella	308.46	8.49	Uncharacterized radical SAM protein YhcC
+PGF_03126065	Shigella	335.98	27.68	Putative esterase YheT functionally coupled to phosphoribulokinase homolog
+PGF_03128228	Shigella	391.31	14.66	Outer membrane beta-barrel assembly protein BamB
+PGF_03128934	Shigella	182.55	6.50	Glutathione-regulated potassium-efflux system ancillary protein KefG
+PGF_03129066	Shigella	185.25	8.11	Cytochrome b561 homolog 2
+PGF_03132336	Shigella	414.45	24.41	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03135428	Shigella	223.31	9.58	Protein YiiM
+PGF_03138425	Shigella	311.64	16.52	FIG00613342: Bacterial patatin-like phospholipase domain containing protein
+PGF_03144011	Shigella	164.87	3.68	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146406	Shigella	586.32	23.05	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03147273	Shigella	141.05	1.13	Nitrite-sensitive transcriptional repressor NsrR
+PGF_03152669	Shigella	265.71	6.12	PTS system, mannose-specific IIC component
+PGF_03154343	Shigella	293.00	15.63	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Shigella	289.85	14.02	Prolipoprotein diacylglyceryl transferase
+PGF_03197083	Shigella	731.67	126.16	Penicillin-insensitive transglycosylase (EC 2.4.2.-) & transpeptidase PBP-1C
+PGF_03217584	Shigella	377.42	19.51	Probable 3-phenylpropionic acid transporter
+PGF_03222913	Shigella	138.83	3.30	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Shigella	95.88	1.87	UPF0125 protein RatB
+PGF_03232407	Shigella	190.63	6.07	Protein yceI precursor
+PGF_03253896	Shigella	227.19	16.10	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Shigella	201.57	6.25	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Shigella	861.04	86.97	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277417	Shigella	339.22	25.22	Methionine ABC transporter ATP-binding protein
+PGF_03278866	Shigella	76.74	3.69	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03302939	Shigella	182.80	19.75	Uncharacterized protein YjfM
+PGF_03306184	Shigella	268.58	16.35	4,5-DOPA dioxygenase extradiol (EC 1.13.11.29), but not physiological substrate
+PGF_03310128	Shigella	160.00	0.07	Uncharacterized protein YbeL
+PGF_03310415	Shigella	249.37	15.05	Uncharacterized lipoprotein YgeR
+PGF_03318456	Shigella	479.95	33.70	Trk potassium uptake system protein TrkH
+PGF_03325319	Shigella	196.00	0.09	DnaA initiator-associating protein DiaA
+PGF_03326496	Shigella	92.09	5.85	Putative outer membrane lipoprotein
+PGF_03331177	Shigella	645.40	68.70	AaeAB efflux system for hydroxylated, aromatic carboxylic acids, inner membrane subunit AaeB
+PGF_03331199	Shigella	210.18	9.51	Uncharacterized protein YraR
+PGF_03333815	Shigella	230.38	7.60	Copper-sensing two-component system response regulator CpxR
+PGF_03341277	Shigella	232.07	3.81	Flagellar L-ring protein FlgH
+PGF_03348128	Shigella	184.60	5.45	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03348849	Shigella	96.04	1.82	Uncharacterized protein YqiC
+PGF_03352625	Shigella	235.84	5.74	Uncharacterized protein YiaF
+PGF_03375263	Shigella	110.44	4.02	Inner membrane protein YdgC
+PGF_03376021	Shigella	604.24	54.06	Uncharacterized transporter YfbS
+PGF_03383443	Shigella	141.98	9.46	Peroxiredoxin OsmC (EC 1.11.1.15)
+PGF_03400333	Shigella	319.61	25.48	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03405430	Shigella	446.43	29.37	D-glucarate transporter
+PGF_03421722	Shigella	430.57	26.15	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Shigella	291.28	9.70	33 kDa chaperonin HslO
+PGF_03439690	Shigella	147.74	4.37	Ferric uptake regulation protein FUR
+PGF_03439827	Shigella	455.59	19.24	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03441339	Shigella	315.61	23.67	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03456505	Shigella	610.42	83.25	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03470321	Shigella	172.25	7.09	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03503521	Shigella	312.99	13.60	Nickel transport system permease protein NikB (TC 3.A.1.5.3)
+PGF_03507290	Shigella	411.95	24.59	Serine/threonine:Na+ symporter SstT
+PGF_03507859	Shigella	333.32	19.78	Luciferase-like monooxygenase YhbW
+PGF_03514188	Shigella	446.30	31.10	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Shigella	142.91	2.21	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Shigella	382.09	14.45	Cell division protein FtsZ
+PGF_03609651	Shigella	654.66	98.01	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Shigella	162.83	5.54	UPF0234 protein Yitk
+PGF_03683488	Shigella	176.02	8.13	2'-5' RNA ligase
+PGF_03683953	Shigella	844.26	74.05	Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)
+PGF_03694962	Shigella	378.55	91.27	TolA protein
+PGF_03699416	Shigella	188.65	10.11	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Shigella	349.86	21.38	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Shigella	126.85	1.96	Protein translocase subunit SecE
+PGF_03718818	Shigella	275.83	3.56	Cell division protein FtsQ
+PGF_03719269	Shigella	205.68	5.95	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Shigella	152.68	5.08	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03726554	Shigella	249.38	14.65	CDP-diacylglycerol pyrophosphatase (EC 3.6.1.26)
+PGF_03726865	Shigella	257.97	0.80	Lactate-responsive regulator LldR in Enterobacteria, GntR family
+PGF_03729004	Shigella	338.05	38.33	Arginine N-succinyltransferase (EC 2.3.1.109)
+PGF_03729040	Shigella	158.74	4.57	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03729098	Shigella	317.16	11.71	Sigma factor RpoE negative regulatory protein RseB precursor
+PGF_03729141	Shigella	208.14	7.85	UPF0301 protein YqgE
+PGF_03729660	Shigella	158.76	3.74	Sigma factor RpoE regulatory protein RseC
+PGF_03750571	Shigella	466.02	9.60	Chromosomal replication initiator protein DnaA
+PGF_03750599	Shigella	261.12	16.07	Cell division coordinator CpoB
+PGF_03750600	Shigella	159.00	0.10	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Shigella	196.53	7.39	Heat shock protein GrpE
+PGF_03752215	Shigella	148.56	7.72	D-ribose pyranase (EC 5.4.99.62)
+PGF_03752544	Shigella	240.70	6.33	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Shigella	297.03	14.75	Site-specific tyrosine recombinase XerC
+PGF_03753933	Shigella	161.83	4.00	Iron-sulfur cluster regulator IscR
+PGF_03754578	Shigella	299.14	23.65	Transcriptional regulator YqhC, positively regulates YqhD and DkgA
+PGF_03757137	Shigella	456.58	11.84	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03768099	Shigella	321.89	1.26	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03772086	Shigella	471.07	16.82	Sensor histidine kinase GlrK
+PGF_03777189	Shigella	185.60	19.95	Protein YrdA
+PGF_03778780	Shigella	491.14	41.48	Signal recognition particle receptor FtsY
+PGF_03781125	Shigella	244.84	32.46	Endonuclease/exonuclease/phosphatase family protein
+PGF_03787199	Shigella	180.78	9.39	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03788061	Shigella	307.41	29.30	Pseudouridine kinase (EC 2.7.1.83)
+PGF_03790040	Shigella	224.90	8.58	Ribonuclease III (EC 3.1.26.3)
+PGF_03797303	Shigella	580.54	51.16	Adenine deaminase (EC 3.5.4.2)
+PGF_03801201	Shigella	267.60	16.20	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Shigella	69.95	1.05	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03803868	Shigella	596.54	45.08	Fumarate reductase flavoprotein subunit (EC 1.3.5.4)
+PGF_03811905	Shigella	352.87	26.42	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03821527	Shigella	121.55	15.10	Inner membrane protein YbaN
+PGF_03828790	Shigella	95.97	1.03	UPF0235 protein VC0458
+PGF_03828854	Shigella	166.89	2.18	Uncharacterized N-acetyltransferase YhbS
+PGF_03835760	Shigella	420.28	28.59	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03843714	Shigella	118.92	1.84	Inner membrane protein YijD
+PGF_03844705	Shigella	426.12	31.89	Anaerobic C4-dicarboxylate transporter DcuA
+PGF_03850044	Shigella	396.87	33.65	Sodium/glutamate symporter
+PGF_03856084	Shigella	632.75	82.45	Cell division protein FtsH
+PGF_03864616	Shigella	243.24	14.84	Putative hydrolase YcdX (EC 3.1.-.-)
+PGF_03870438	Shigella	291.88	1.50	Uncharacterized peptidase U32 family member YhbV
+PGF_03906292	Shigella	96.99	0.23	Phospholipid ABC transporter-binding protein MlaB
+PGF_03912513	Shigella	166.98	0.89	DNA protection during starvation protein
+PGF_03919925	Shigella	136.61	4.95	DNA-binding protein H-NS
+PGF_03927891	Shigella	100.93	1.62	ElaB protein
+PGF_03929969	Shigella	410.92	43.05	Voltage-gated ClC-type chloride channel ClcB
+PGF_03931564	Shigella	557.74	71.59	Uncharacterized protein YicH
+PGF_03932611	Shigella	288.68	7.65	DNA-binding transcriptional dual regulator Rob
+PGF_03948830	Shigella	120.80	3.82	Flagellar biosynthesis protein FliO
+PGF_03949149	Shigella	121.95	1.29	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_03961195	Shigella	283.25	10.76	AmpE protein
+PGF_03971314	Shigella	164.51	10.23	Uncharacterized N-acetyltransferase YjgM
+PGF_03974418	Shigella	542.23	38.62	Uncharacterized Na(+)/H(+) exchanger YjcE
+PGF_03980141	Shigella	840.16	69.67	Adenylate cyclase (EC 4.6.1.1)
+PGF_03995518	Shigella	87.00	0.05	Proposed lipoate regulatory protein YbeD
+PGF_03999642	Shigella	76.04	2.27	DNA polymerase III theta subunit (EC 2.7.7.7)
+PGF_04005838	Shigella	415.46	35.21	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Shigella	212.90	1.56	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Shigella	149.61	4.14	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04009223	Shigella	403.15	19.49	Uncharacterized protein EC-HemX
+PGF_04012930	Shigella	106.98	7.28	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)
+PGF_04016408	Shigella	472.11	26.03	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04016952	Shigella	110.63	4.85	FIG004136: Prepilin peptidase dependent protein C precursor
+PGF_04019834	Shigella	342.44	9.30	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04027970	Shigella	245.33	9.99	Putative L,D-transpeptidase YafK
+PGF_04032307	Shigella	120.77	3.24	Small secreted protein YebF
+PGF_04034430	Shigella	71.00	0.54	SSU ribosomal protein S21p
+PGF_04041316	Shigella	929.11	81.42	Excinuclease ABC subunit A
+PGF_04043844	Shigella	641.00	37.19	Exoribonuclease II (EC 3.1.13.1)
+PGF_04048555	Shigella	367.78	21.72	UPF0118 inner membrane protein YdiK
+PGF_04108824	Shigella	581.81	49.30	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04108994	Shigella	430.85	24.22	Inorganic triphosphatase (EC 3.6.1.25)
+PGF_04127376	Shigella	257.97	1.38	Twin-arginine translocation protein TatC
+PGF_04131439	Shigella	378.65	27.79	Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)
+PGF_04150742	Shigella	260.10	12.38	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Shigella	181.67	3.86	16S rRNA processing protein RimM
+PGF_04154333	Shigella	88.96	0.50	Twin-arginine translocation protein TatA
+PGF_04163139	Shigella	223.80	19.15	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Shigella	221.15	11.87	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04217145	Shigella	882.25	70.68	Acetaldehyde dehydrogenase (EC 1.2.1.10) / Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_04217548	Shigella	604.98	28.40	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04258098	Shigella	306.66	16.31	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+PGF_04273925	Shigella	74.94	1.50	Ferrous iron transport protein A
+PGF_04275878	Shigella	247.16	4.56	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04315180	Shigella	154.95	1.94	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Shigella	454.94	18.62	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04359199	Shigella	662.28	46.23	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04360357	Shigella	884.74	96.09	Protein translocase subunit SecA
+PGF_04380075	Shigella	219.93	1.93	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Shigella	308.99	0.40	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Shigella	109.00	0.05	Thioredoxin
+PGF_04457297	Shigella	199.69	8.26	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Shigella	319.03	14.44	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04502464	Shigella	643.98	59.90	DNA topoisomerase III (EC 5.99.1.2)
+PGF_04505269	Shigella	240.80	0.98	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Shigella	345.85	16.83	Rod shape-determining protein MreB
+PGF_04521913	Shigella	450.64	21.24	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04567743	Shigella	395.16	13.95	Flavohemoglobin / Nitric oxide dioxygenase (EC 1.14.12.17)
+PGF_04569524	Shigella	511.74	19.40	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Shigella	254.70	6.43	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04577966	Shigella	778.85	86.33	Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
+PGF_04586716	Shigella	349.62	56.83	N-ethylmaleimide reductase
+PGF_04592595	Shigella	483.90	16.83	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4) @ Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04594665	Shigella	136.00	0.12	Regulator of nucleoside diphosphate kinase
+PGF_04596496	Shigella	323.48	25.76	Quinone oxidoreductase (EC 1.6.5.5)
+PGF_04608820	Shigella	641.76	35.01	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04620152	Shigella	479.22	32.09	Pantothenate:Na+ symporter (TC 2.A.21.1.1)
+PGF_04630848	Shigella	159.06	5.72	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Shigella	89.97	0.97	DNA-binding protein HU-beta
+PGF_04655384	Shigella	309.58	22.22	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Shigella	163.21	7.09	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Shigella	776.54	130.19	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Shigella	404.42	12.44	Alanine transaminase (EC 2.6.1.2)
+PGF_04679223	Shigella	135.75	4.24	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04681134	Shigella	198.79	9.96	Cell filamentation protein Fic
+PGF_04687504	Shigella	461.58	50.81	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04695681	Shigella	268.60	21.41	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04724831	Shigella	350.80	16.20	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04734234	Shigella	610.47	69.27	Kup system potassium uptake protein
+PGF_04749763	Shigella	875.69	95.09	Translation initiation factor 2
+PGF_04757308	Shigella	601.42	65.19	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04783600	Shigella	303.45	24.43	Transcriptional regulator YfeR, LysR family
+PGF_04788810	Shigella	193.73	5.31	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Shigella	280.88	19.70	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04807486	Shigella	312.19	20.30	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04838801	Shigella	637.03	107.21	tRNA cytosine(34) acetyltransferase (EC 2.3.1.193)
+PGF_04845029	Shigella	114.97	1.29	LSU ribosomal protein L19p
+PGF_04857863	Shigella	186.60	10.75	Fructose-1-phosphate phosphatase YqaB (EC 3.1.3.-)
+PGF_04927434	Shigella	105.83	3.60	Phosphate starvation-inducible protein PsiF
+PGF_04958295	Shigella	135.81	3.16	Flagellar biosynthesis protein FliS
+PGF_04962192	Shigella	807.15	54.11	3'-to-5' exoribonuclease RNase R
+PGF_04965976	Shigella	370.63	38.49	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Shigella	91.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Shigella	102.92	2.17	LSU ribosomal protein L21p
+PGF_05022117	Shigella	526.66	36.65	Bis-ABC ATPase YbiT
+PGF_05091456	Shigella	292.11	23.81	Uncharacterized inner membrane protein RarD
+PGF_05111929	Shigella	570.98	49.82	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Shigella	938.23	59.49	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05119600	Shigella	994.44	140.47	Multidrug efflux system MdtABC-TolC, inner-membrane proton/drug antiporter MdtC (RND type)
+PGF_05122891	Shigella	290.33	58.73	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_05135220	Shigella	851.41	63.97	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05140475	Shigella	437.60	18.00	Branched-chain amino acid transport system carrier protein
+PGF_05154774	Shigella	156.22	4.58	UPF0716 protein FxsA
+PGF_05165078	Shigella	312.84	23.40	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Shigella	214.16	10.60	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05187258	Shigella	288.90	52.29	Cryptic sugar kinase Mak
+PGF_05195027	Shigella	458.22	19.05	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05200824	Shigella	377.93	34.58	Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)
+PGF_05232968	Shigella	331.43	20.47	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)
+PGF_05249824	Shigella	254.83	8.47	Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+PGF_05255412	Shigella	423.51	34.17	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Shigella	417.47	48.04	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Shigella	172.41	7.58	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Shigella	446.60	24.16	ATP-dependent RNA helicase RhlE
+PGF_05338234	Shigella	285.71	15.27	Protein YicC
+PGF_05366548	Shigella	269.63	16.65	Methionine ABC transporter substrate-binding protein
+PGF_05389020	Shigella	193.33	14.29	Uptake [NiFe] hydrogenase maturation protease HyaD
+PGF_05406959	Shigella	339.26	18.09	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05421852	Shigella	619.28	41.06	Chaperone protein HtpG
+PGF_05435672	Shigella	347.59	8.53	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05442739	Shigella	334.46	26.89	Sulfate and thiosulfate binding protein CysP
+PGF_05444169	Shigella	294.18	19.68	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05449103	Shigella	142.72	4.04	Rhodanese-related sulfurtransferase YibN
+PGF_05463808	Shigella	289.44	7.52	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Shigella	500.33	60.45	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05475561	Shigella	519.56	40.83	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+PGF_05493552	Shigella	89.98	0.83	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05498463	Shigella	407.97	32.59	Glutamate-pyruvate aminotransferase AlaC (EC 2.6.1.2)
+PGF_05507938	Shigella	608.25	52.76	DNA mismatch repair protein MutL
+PGF_05513991	Shigella	174.82	2.70	Electron transport protein HydN
+PGF_05515206	Shigella	326.52	9.79	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)
+PGF_05560886	Shigella	270.69	15.18	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05564656	Shigella	326.87	25.73	6-phosphogluconolactonase (EC 3.1.1.31)
+PGF_05581732	Shigella	439.04	31.24	Protein translocase subunit SecY
+PGF_05598173	Shigella	379.10	21.64	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Shigella	414.76	24.38	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05626125	Shigella	335.18	21.67	Inner membrane protein YhjD
+PGF_05657253	Shigella	218.72	6.71	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05676471	Shigella	240.38	30.26	Glutamate Aspartate transport system permease protein GltJ (TC 3.A.1.3.4)
+PGF_05693577	Shigella	93.81	3.11	Integration host factor beta subunit
+PGF_05712128	Shigella	542.34	40.07	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Shigella	117.88	2.18	FIG138056: a glutathione-dependent thiol reductase
+PGF_05743061	Shigella	878.46	62.25	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05748227	Shigella	230.59	14.13	Uncharacterized conserved protein YfiP, contains DTW domain
+PGF_05769513	Shigella	424.74	41.08	Tol-Pal system beta propeller repeat protein TolB
+PGF_05770898	Shigella	344.47	22.30	Selenide,water dikinase (EC 2.7.9.3)
+PGF_05837052	Shigella	375.18	63.37	Isocitrate lyase (EC 4.1.3.1)
+PGF_05847461	Shigella	294.08	31.66	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05872952	Shigella	244.87	4.49	Outer membrane beta-barrel assembly protein BamD
+PGF_05946087	Shigella	310.81	22.52	Transcriptional regulator ArgP, LysR family
+PGF_05949521	Shigella	601.17	44.71	Protein translocase subunit SecD
+PGF_05965455	Shigella	485.98	43.13	AmpG permease
+PGF_05971611	Shigella	392.69	56.11	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06003383	Shigella	315.53	35.54	Carnitine monooxygenase, reductase component CntB
+PGF_06005188	Shigella	627.58	26.87	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06025565	Shigella	306.17	18.49	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06026973	Shigella	236.52	6.16	Cation transport protein chaC
+PGF_06027248	Shigella	487.32	31.23	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06030909	Shigella	728.65	125.58	Putative formate dehydrogenase oxidoreductase protein
+PGF_06037862	Shigella	620.14	134.97	Penicillin-binding protein activator LpoA
+PGF_06053106	Shigella	283.15	10.59	RNA polymerase sigma factor RpoH
+PGF_06061522	Shigella	130.13	14.63	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06062291	Shigella	119.60	5.30	Uncharacterized protein YibL
+PGF_06111528	Shigella	377.54	18.08	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06120144	Shigella	154.98	9.90	Ribosome association toxin RatA
+PGF_06152571	Shigella	250.90	15.15	Sulfate transporter, CysZ-type
+PGF_06170558	Shigella	155.95	2.01	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Shigella	141.72	5.59	LSU ribosomal protein L13p (L13Ae)
+PGF_06189158	Shigella	115.00	0.10	Monothiol glutaredoxin GrxD
+PGF_06213055	Shigella	255.91	13.81	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Shigella	497.21	51.60	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Shigella	96.70	3.75	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Shigella	371.50	23.69	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06285692	Shigella	182.05	9.59	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06287652	Shigella	248.93	11.63	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06299558	Shigella	378.78	36.58	Osmoprotectant ABC transporter permease protein YehY
+PGF_06315406	Shigella	418.16	15.14	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Shigella	333.07	11.43	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06326847	Shigella	241.05	19.46	Flagellar biosynthesis protein FliP
+PGF_06331417	Shigella	569.18	62.40	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+PGF_06379377	Shigella	445.48	21.08	Replication-associated recombination protein RarA
+PGF_06403579	Shigella	768.71	86.03	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06429852	Shigella	215.99	1.11	Sigma factor RpoE negative regulatory protein RseA
+PGF_06447349	Shigella	746.05	69.21	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06453320	Shigella	148.06	2.18	Homoprotocatechuate degradative operon repressor
+PGF_06458877	Shigella	171.09	6.06	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Shigella	323.82	14.21	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06470834	Shigella	175.84	8.66	Lipocalin Blc
+PGF_06481545	Shigella	461.66	31.12	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06495818	Shigella	256.11	10.80	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06509266	Shigella	264.00	6.98	Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), ATP-binding protein FhuC
+PGF_06524027	Shigella	664.48	64.91	ATP-dependent DNA helicase Rep
+PGF_06530721	Shigella	238.74	5.80	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Shigella	125.78	6.09	Fluoride ion transporter CrcB
+PGF_06562926	Shigella	307.08	18.37	Formate dehydrogenase formation protein FdhE
+PGF_06579751	Shigella	854.53	69.72	Aconitate hydratase 2 (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_06589185	Shigella	580.48	55.24	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06592852	Shigella	288.80	21.53	Transcriptional regulator YeiE, LysR family
+PGF_06594013	Shigella	136.94	5.08	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06629143	Shigella	125.29	7.04	5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC 5.3.3.10)
+PGF_06635957	Shigella	339.75	2.80	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06644010	Shigella	318.15	16.89	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06646716	Shigella	198.79	24.19	Hydrogenase-4 component A
+PGF_06660812	Shigella	200.20	8.91	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06679416	Shigella	200.80	4.57	Adenylylsulfate kinase (EC 2.7.1.25)
+PGF_06682365	Shigella	677.14	63.99	Uncharacterized protein YhjG
+PGF_06683120	Shigella	160.69	4.99	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_06683449	Shigella	304.24	19.45	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06690276	Shigella	214.30	17.40	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Shigella	109.05	1.60	Nucleoid-associated protein YaaK
+PGF_06706859	Shigella	174.97	7.36	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06718352	Shigella	157.49	10.83	Cys-tRNA(Pro) deacylase YbaK
+PGF_06718396	Shigella	139.47	4.82	L-fucose mutarotase (EC 5.1.3.29)
+PGF_06721510	Shigella	303.26	11.44	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+PGF_06735060	Shigella	703.00	89.73	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06743269	Shigella	393.34	35.70	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06743812	Shigella	326.78	13.89	Hydrogenase-2 operon protein HybA
+PGF_06755829	Shigella	331.67	21.11	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Shigella	508.70	38.07	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06767187	Shigella	330.73	37.24	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06772993	Shigella	1037.63	131.41	Ribonuclease E (EC 3.1.26.12)
+PGF_06821058	Shigella	297.65	13.99	FIG003145: Surface protein
+PGF_06864817	Shigella	369.12	23.84	Ni/Fe-hydrogenase 2 small subunit HybO (EC 1.12.99.6)
+PGF_06965613	Shigella	150.09	15.41	GNAT family acetyltransferase YhhY
+PGF_07072582	Shigella	612.16	15.42	RNA polymerase sigma factor RpoD
+PGF_07171792	Shigella	250.74	13.61	Glycerol-3-phosphate regulon repressor GlpR
+PGF_07220192	Shigella	335.74	14.46	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)
+PGF_07242312	Shigella	629.25	36.53	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07263029	Shigella	365.79	15.64	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07344415	Shigella	178.52	7.65	Intracellular septation protein IspA
+PGF_07368646	Shigella	244.00	7.00	TonB-ExbBD energy transducing system, ExbB subunit
+PGF_07370370	Shigella	463.32	54.26	Voltage-gated H(+)/2Cl(-) exchange transporter ClcA
+PGF_07410445	Shigella	381.90	39.65	NADPH-dependent broad range aldehyde dehydrogenase YqhD
+PGF_07410757	Shigella	344.70	15.47	Aldose 1-epimerase (EC 5.1.3.3)
+PGF_07425883	Shigella	111.00	0.00	Ferredoxin, 2Fe-2S
+PGF_07426744	Shigella	245.88	11.24	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08031207	Shigella	104.55	5.53	Small multidrug resistance (SMR) efflux transporter => SugE, quaternary ammonium compounds
+PGF_08040528	Shigella	578.77	84.26	Uptake [NiFe] hydrogenase, large subunit HyaB (EC 1.12.99.6)
+PGF_08047383	Shigella	366.13	41.45	Uptake [NiFe] hydrogenase, small subunit HyaA (EC 1.12.99.6)
+PGF_08049323	Shigella	267.22	11.06	Peptide transport system ATP-binding protein SapF
+PGF_08050537	Shigella	306.83	19.96	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08056783	Shigella	164.17	44.45	Formate hydrogenlyase subunit 6
+PGF_08059428	Shigella	87.91	1.89	Cell division topological specificity factor MinE
+PGF_08059713	Shigella	89.43	3.67	Phosphocarrier protein, nitrogen regulation associated
+PGF_08060212	Shigella	139.94	8.73	Arsenate reductase (EC 1.20.4.1) glutaredoxin-coupled, glutaredoxin-like family
+PGF_08061357	Shigella	113.86	2.85	Iron-sulfur cluster insertion protein ErpA
+PGF_08070641	Shigella	241.84	32.41	TonB-ExbBD energy transducing system, TonB subunit
+PGF_08072252	Shigella	320.39	16.96	NADPH dependent aldo-keto reductase => YajO
+PGF_08074580	Shigella	391.60	41.16	Lipoprotein releasing system transmembrane protein LolC
+PGF_08104731	Shigella	42.00	0.00	hypothetical protein
+PGF_08126362	Shigella	473.65	19.80	DNA recombination protein RmuC
+PGF_08130383	Shigella	565.85	19.33	Ni/Fe-hydrogenase 2 large subunit HybC (EC 1.12.99.6)
+PGF_08136090	Shigella	224.41	8.62	Probable iron export ATP-binding protein FetA
+PGF_08139865	Shigella	163.96	0.82	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_08153913	Shigella	250.39	8.20	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08177814	Shigella	411.65	9.25	Lipoprotein releasing system transmembrane protein LolE
+PGF_08181064	Shigella	236.43	9.70	Uncharacterized sugar kinase YggC
+PGF_08183187	Shigella	413.94	3.16	Cell division protein FtsW

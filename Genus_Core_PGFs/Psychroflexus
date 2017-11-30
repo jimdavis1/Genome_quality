@@ -1,0 +1,914 @@
+PGF_00000159	Psychroflexus	779.50	2.95	FIG00694210: hypothetical protein
+PGF_00000416	Psychroflexus	354.50	2.35	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001062	Psychroflexus	271.17	0.41	FIG00930688: hypothetical protein
+PGF_00003504	Psychroflexus	260.17	0.41	FIG137478: Hypothetical protein
+PGF_00003516	Psychroflexus	365.00	2.45	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003750	Psychroflexus	143.83	0.41	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004526	Psychroflexus	288.67	10.35	putative TonB-dependent receptor
+PGF_00004541	Psychroflexus	152.83	0.41	Ferric uptake regulation protein FUR
+PGF_00004671	Psychroflexus	700.50	0.84	Ferrous iron transport protein B
+PGF_00005949	Psychroflexus	366.67	1.21	Flavoprotein NADH-dependent oxidoreductase
+PGF_00006394	Psychroflexus	355.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Psychroflexus	463.17	0.41	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006510	Psychroflexus	426.17	0.41	Fumarylacetoacetase (EC 3.7.1.2)
+PGF_00006935	Psychroflexus	509.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007024	Psychroflexus	433.67	0.52	GTP-binding protein EngA
+PGF_00007026	Psychroflexus	198.83	0.75	GTP-binding protein EngB
+PGF_00007027	Psychroflexus	288.83	18.81	GTP-binding protein Era
+PGF_00007028	Psychroflexus	409.83	2.56	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007033	Psychroflexus	256.83	1.33	ABC-type Fe3+-hydroxamate transport system, periplasmic component
+PGF_00007304	Psychroflexus	224.00	2.28	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007525	Psychroflexus	322.83	1.47	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007606	Psychroflexus	314.67	11.55	GldB
+PGF_00007607	Psychroflexus	114.00	3.58	GldC
+PGF_00007608	Psychroflexus	186.33	2.07	GldD
+PGF_00007614	Psychroflexus	325.17	32.65	GldN
+PGF_00007632	Psychroflexus	300.50	0.55	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007797	Psychroflexus	408.00	0.00	Glu/Leu/Phe/Val dehydrogenase family protein
+PGF_00007988	Psychroflexus	543.67	1.97	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008060	Psychroflexus	260.00	4.38	Glutamate 5-kinase (EC 2.7.2.11)
+PGF_00008106	Psychroflexus	263.00	2.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Psychroflexus	429.00	0.00	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008192	Psychroflexus	304.00	0.00	Glutaminase (EC 3.5.1.2)
+PGF_00008249	Psychroflexus	341.33	7.47	Glutamine cyclotransferase
+PGF_00008261	Psychroflexus	728.00	0.00	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+PGF_00008326	Psychroflexus	557.00	0.00	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Psychroflexus	417.83	1.33	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Psychroflexus	505.67	1.63	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008392	Psychroflexus	609.17	9.54	Glutaryl-7-ACA acylase
+PGF_00008393	Psychroflexus	394.67	6.53	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008611	Psychroflexus	338.17	5.74	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Psychroflexus	947.33	0.52	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Psychroflexus	201.00	20.58	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Psychroflexus	171.00	13.96	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009760	Psychroflexus	359.67	32.70	UDP-N-acetylglucosamine:L-malate glycosyltransferase
+PGF_00009801	Psychroflexus	483.83	6.15	Glycosyltransferase
+PGF_00009966	Psychroflexus	516.33	6.74	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Psychroflexus	234.00	1.55	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Psychroflexus	739.00	0.00	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Psychroflexus	191.83	0.41	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Psychroflexus	818.33	2.66	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011250	Psychroflexus	279.50	3.02	Hemagglutinin
+PGF_00011321	Psychroflexus	300.67	1.21	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011593	Psychroflexus	310.17	12.25	Hexaprenyl diphosphate synthase (farnesyl-diphosphate specific) (EC 2.5.1.83)
+PGF_00011979	Psychroflexus	430.33	1.51	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Psychroflexus	377.00	0.00	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012264	Psychroflexus	340.00	0.00	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012293	Psychroflexus	390.33	7.28	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+PGF_00013003	Psychroflexus	629.83	17.62	Bis-ABC ATPase YheS
+PGF_00013144	Psychroflexus	178.83	0.41	Terminal oxidase biogenesis protein CtaM, putative heme A, heme O chaperone
+PGF_00013151	Psychroflexus	344.00	6.32	ADP-heptose:LPS heptosyltransferase
+PGF_00013283	Psychroflexus	218.83	0.75	UPF0001 protein YggS
+PGF_00013297	Psychroflexus	212.50	1.05	Hypothetical protein associated with DUF420, no CDD domain
+PGF_00013316	Psychroflexus	119.33	0.52	Hypothetical protein in ApbE locus
+PGF_00013492	Psychroflexus	177.33	2.58	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Psychroflexus	510.17	0.41	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00014311	Psychroflexus	489.50	2.81	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014412	Psychroflexus	438.00	3.63	Insulinase-like:Peptidase M16, C-terminal precursor
+PGF_00014615	Psychroflexus	290.83	0.41	Integral membrane protein
+PGF_00015039	Psychroflexus	368.50	5.89	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Psychroflexus	72.33	3.61	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Psychroflexus	288.67	0.82	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Psychroflexus	254.83	5.49	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Psychroflexus	481.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Psychroflexus	437.00	0.00	Iron-sulfur cluster assembly protein SufD
+PGF_00015553	Psychroflexus	528.50	1.05	Iron-sulfur cluster-binding protein
+PGF_00015601	Psychroflexus	447.00	1.26	Iron-sulphur-binding reductase
+PGF_00015630	Psychroflexus	343.00	6.16	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015703	Psychroflexus	741.33	1.03	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Psychroflexus	1141.00	15.19	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015735	Psychroflexus	180.83	7.96	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015931	Psychroflexus	422.33	0.82	Kynureninase (EC 3.7.1.3)
+PGF_00015934	Psychroflexus	464.67	4.59	Kynurenine 3-monooxygenase (EC 1.14.13.9)
+PGF_00016020	Psychroflexus	339.00	0.63	L-allo-threonine aldolase (EC 2.1.2.1)
+PGF_00016047	Psychroflexus	337.50	6.25	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016328	Psychroflexus	164.67	20.41	LSU ribosomal protein L10p (P0)
+PGF_00016338	Psychroflexus	410.00	0.00	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Psychroflexus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Psychroflexus	150.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Psychroflexus	139.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Psychroflexus	148.17	30.46	LSU ribosomal protein L17p
+PGF_00016353	Psychroflexus	118.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Psychroflexus	231.83	0.41	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Psychroflexus	111.17	6.94	LSU ribosomal protein L20p
+PGF_00016368	Psychroflexus	135.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016377	Psychroflexus	103.17	0.41	LSU ribosomal protein L24p (L26e)
+PGF_00016393	Psychroflexus	275.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Psychroflexus	59.67	0.52	LSU ribosomal protein L30p (L7e)
+PGF_00016416	Psychroflexus	60.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Psychroflexus	53.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Psychroflexus	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Psychroflexus	204.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Psychroflexus	209.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Psychroflexus	183.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Psychroflexus	180.33	0.82	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Psychroflexus	124.67	0.82	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Psychroflexus	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016495	Psychroflexus	240.17	8.30	Lactam utilization protein LamB
+PGF_00016919	Psychroflexus	215.17	1.60	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Psychroflexus	373.83	5.46	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Psychroflexus	251.17	0.41	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017405	Psychroflexus	272.00	44.09	Lipoprotein NlpD precursor
+PGF_00017464	Psychroflexus	219.33	0.82	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Psychroflexus	296.83	2.64	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017514	Psychroflexus	352.00	0.00	Lmo0572 protein
+PGF_00017530	Psychroflexus	417.67	0.82	Long-chain fatty acid transport protein
+PGF_00017997	Psychroflexus	400.83	0.41	Lysine ketoglutarate reductase (EC 1.5.1.8) (LKR) / Saccharopine dehydrogenase (EC 1.5.1.9)
+PGF_00018460	Psychroflexus	1042.67	7.58	ATP-dependent helicase
+PGF_00018952	Psychroflexus	307.17	0.75	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019104	Psychroflexus	762.50	2.51	Maltose phosphorylase (EC 2.4.1.8)
+PGF_00019307	Psychroflexus	323.50	2.35	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019574	Psychroflexus	373.83	0.41	ABC transporter, RND-adapter-like protein
+PGF_00020150	Psychroflexus	448.83	8.40	Membrane-associated zinc metalloprotease
+PGF_00020172	Psychroflexus	271.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Psychroflexus	142.00	1.55	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Psychroflexus	255.50	2.74	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020735	Psychroflexus	266.17	9.70	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020793	Psychroflexus	187.17	2.40	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020965	Psychroflexus	112.00	1.55	Methylated-DNA-[protein]-cysteine S-methyltransferase
+PGF_00020981	Psychroflexus	545.17	5.67	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Psychroflexus	295.00	0.89	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021022	Psychroflexus	708.50	1.22	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021023	Psychroflexus	464.83	4.17	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021217	Psychroflexus	506.17	0.41	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021380	Psychroflexus	304.17	1.60	Mevalonate kinase (EC 2.7.1.36)
+PGF_00022540	Psychroflexus	486.83	1.83	Molybdopterin oxidoreductase
+PGF_00022545	Psychroflexus	447.17	10.15	Molybdopterin oxidoreductase subunit, predicted; chaperone protein HtpG
+PGF_00022548	Psychroflexus	1027.67	6.71	Molybdopterin oxidoreductase, iron-sulfur binding subunit (EC 1.2.7.-)
+PGF_00022605	Psychroflexus	772.17	2.71	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022681	Psychroflexus	317.00	0.00	MoxR protein
+PGF_00022878	Psychroflexus	456.33	1.86	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+PGF_00023591	Psychroflexus	339.83	5.85	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023752	Psychroflexus	464.83	1.33	N-acetylglucosamine deacetylase (EC 3.5.1.-) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_00023946	Psychroflexus	145.17	6.97	N-acetyltransferase ElaA
+PGF_00024273	Psychroflexus	160.50	2.35	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Psychroflexus	386.83	0.98	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Psychroflexus	259.00	0.89	NAD synthetase (EC 6.3.1.5)
+PGF_00024482	Psychroflexus	225.17	0.98	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024540	Psychroflexus	430.00	2.97	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024973	Psychroflexus	303.33	0.52	NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)
+PGF_00025185	Psychroflexus	388.50	1.64	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.8)
+PGF_00025187	Psychroflexus	244.67	5.32	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.8)
+PGF_00025188	Psychroflexus	248.67	0.82	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.8)
+PGF_00025189	Psychroflexus	209.83	14.29	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.8)
+PGF_00025190	Psychroflexus	429.17	0.41	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.8)
+PGF_00025231	Psychroflexus	459.67	12.91	Na+-driven multidrug efflux pump
+PGF_00025356	Psychroflexus	484.83	2.04	Na+/solute symporter
+PGF_00025379	Psychroflexus	276.67	0.52	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025562	Psychroflexus	196.17	0.41	Nicotinamidase (EC 3.5.1.19)
+PGF_00025575	Psychroflexus	478.67	16.99	Nicotinamide mononucleotide adenylyltransferase
+PGF_00025600	Psychroflexus	468.50	1.64	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025639	Psychroflexus	391.17	0.41	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00025652	Psychroflexus	304.00	2.68	NifU-like domain
+PGF_00026279	Psychroflexus	317.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Psychroflexus	191.00	3.52	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026402	Psychroflexus	537.83	58.76	Nucleoside permease NupC
+PGF_00026409	Psychroflexus	261.33	7.23	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Psychroflexus	285.83	0.75	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026743	Psychroflexus	213.00	0.00	O-methyltransferase
+PGF_00026786	Psychroflexus	397.17	1.83	Acetylornithine aminotransferase (EC 2.6.1.11) (ACOAT)
+PGF_00026797	Psychroflexus	345.67	0.52	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00027464	Psychroflexus	141.67	0.52	Organic hydroperoxide resistance protein
+PGF_00027703	Psychroflexus	872.50	9.20	Outer membrane assembly protein
+PGF_00027774	Psychroflexus	454.17	2.40	Efflux system associated with Geranylgeranyl-PP synthase, outer membrane factor (OMF) lipoprotein
+PGF_00028336	Psychroflexus	850.50	22.09	Outer membrane protein assembly factor YaeT
+PGF_00028559	Psychroflexus	318.00	1.26	Oxidoreductase
+PGF_00029343	Psychroflexus	377.17	18.07	PQQ-dependent oxidoreductase, gdhB family
+PGF_00029917	Psychroflexus	276.67	9.65	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030122	Psychroflexus	180.67	1.75	Acyl CoA thioester hydrolase family protein
+PGF_00030323	Psychroflexus	538.33	13.49	Peptidase M1 family protein
+PGF_00030527	Psychroflexus	772.00	3.03	Peptidase, M20/M25/M40 family
+PGF_00030640	Psychroflexus	358.00	0.00	Peptide chain release factor 1
+PGF_00030643	Psychroflexus	528.00	0.00	Peptide chain release factor 3
+PGF_00033049	Psychroflexus	199.17	0.41	Phenylacetic acid degradation protein PaaY
+PGF_00033071	Psychroflexus	241.00	1.55	Phenylalanine-4-hydroxylase (EC 1.14.16.1)
+PGF_00033095	Psychroflexus	807.17	1.33	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Psychroflexus	321.33	7.53	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033359	Psychroflexus	405.67	0.52	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Psychroflexus	231.83	7.44	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033385	Psychroflexus	347.00	7.56	Phosphodiesterase/alkaline phosphatase D-like protein
+PGF_00033479	Psychroflexus	572.17	0.98	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033507	Psychroflexus	298.00	12.25	2,4-dienoyl-CoA reductase, mitochondrial precursor (EC 1.3.1.34)
+PGF_00033511	Psychroflexus	393.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Psychroflexus	260.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Psychroflexus	254.00	0.00	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033817	Psychroflexus	463.00	4.94	Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00033827	Psychroflexus	312.00	0.00	Phosphomevalonate kinase (EC 2.7.4.2)
+PGF_00033877	Psychroflexus	152.83	0.75	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Psychroflexus	202.17	4.36	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Psychroflexus	426.17	1.17	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Psychroflexus	315.83	0.98	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Psychroflexus	241.33	0.82	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Psychroflexus	390.83	0.41	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Psychroflexus	1217.83	0.75	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Psychroflexus	196.67	5.13	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Psychroflexus	356.17	0.98	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034494	Psychroflexus	384.83	2.48	Pleiotropic regulatory protein
+PGF_00034776	Psychroflexus	708.17	21.25	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034830	Psychroflexus	485.50	2.81	Polysaccharide biosynthesis protein
+PGF_00034958	Psychroflexus	230.33	0.82	PorT protein
+PGF_00034972	Psychroflexus	164.67	13.06	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Psychroflexus	328.83	1.33	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035091	Psychroflexus	326.50	1.38	Possible acyl protein synthase/acyl-CoA reductase-like protein
+PGF_00035721	Psychroflexus	446.83	4.49	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Psychroflexus	423.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035977	Psychroflexus	489.83	25.33	Predicted maltose transporter MalT
+PGF_00036172	Psychroflexus	487.00	36.69	Lipopolysaccharide export system permease protein LptF
+PGF_00036580	Psychroflexus	103.17	5.71	Protein translocase subunit YajC
+PGF_00037586	Psychroflexus	492.00	0.00	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037835	Psychroflexus	701.50	14.72	Protease II (EC 3.4.21.83)
+PGF_00037850	Psychroflexus	558.67	1.03	Protease precursor
+PGF_00038653	Psychroflexus	1006.83	4.83	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038695	Psychroflexus	314.17	4.49	Aldo-keto reductase family 1 member B10 (EC 1.1.1.-)
+PGF_00038879	Psychroflexus	182.00	1.55	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00038986	Psychroflexus	270.33	0.52	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039342	Psychroflexus	273.00	2.45	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039795	Psychroflexus	578.83	7.49	Putative TonB-dependent receptor
+PGF_00040161	Psychroflexus	541.00	2.00	Alkaline phosphatase (EC 3.1.3.1); Type I phosphodiesterase/nucleotide pyrophosphatase precursor
+PGF_00040578	Psychroflexus	255.17	0.41	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040776	Psychroflexus	255.50	0.55	Putative esterase/lipase ybfF (EC 3.1.-.-)
+PGF_00041227	Psychroflexus	504.33	13.56	Putative helicase
+PGF_00044205	Psychroflexus	121.50	1.76	Putative subunit of Alternative cytochrome c oxidase
+PGF_00045833	Psychroflexus	215.33	0.52	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Psychroflexus	237.00	0.00	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045963	Psychroflexus	1150.00	0.00	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045991	Psychroflexus	476.00	0.00	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046060	Psychroflexus	212.33	5.24	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Psychroflexus	287.00	3.52	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046403	Psychroflexus	481.33	0.52	RNA polymerase sigma-54 factor RpoN
+PGF_00046430	Psychroflexus	167.33	9.44	RNA polymerase sigma-70 factor
+PGF_00046436	Psychroflexus	147.33	12.91	RNA polymerase sigma-70 factor
+PGF_00047078	Psychroflexus	340.00	0.00	RecA protein
+PGF_00047093	Psychroflexus	477.00	2.53	RecD-like DNA helicase Atu2026
+PGF_00047203	Psychroflexus	356.50	9.57	2-amino-3-carboxymuconate-6-semialdehyde decarboxylase (EC 4.1.1.45)
+PGF_00047296	Psychroflexus	233.33	1.86	Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)
+PGF_00047815	Psychroflexus	515.67	0.82	Response regulator
+PGF_00048139	Psychroflexus	227.83	0.41	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_00048334	Psychroflexus	344.67	4.18	Rhodanese domain protein, Enterobacterial subgroup, YceA homolog
+PGF_00048480	Psychroflexus	196.50	0.84	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048555	Psychroflexus	205.33	1.03	Ribonuclease HI-related protein 3
+PGF_00048556	Psychroflexus	199.50	2.35	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048594	Psychroflexus	302.67	1.97	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048621	Psychroflexus	379.50	2.35	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3) / Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00048630	Psychroflexus	770.67	108.59	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048651	Psychroflexus	143.00	0.00	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Psychroflexus	313.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Psychroflexus	270.67	2.16	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048834	Psychroflexus	188.33	8.48	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048836	Psychroflexus	230.33	11.41	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Psychroflexus	274.33	0.52	Ribosomal protein L11 methyltransferase
+PGF_00048846	Psychroflexus	435.33	12.74	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048858	Psychroflexus	288.17	4.49	Ribosomal protein S6--L-glutamate ligase
+PGF_00048926	Psychroflexus	184.00	0.00	Ribosome recycling factor
+PGF_00048928	Psychroflexus	317.67	0.52	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Psychroflexus	128.50	2.35	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Psychroflexus	130.17	0.41	Ribosome-binding factor A
+PGF_00048950	Psychroflexus	212.00	0.00	Ribosyl nicotinamide transporter, PnuC-like
+PGF_00048985	Psychroflexus	219.67	0.52	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Psychroflexus	416.17	0.41	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Psychroflexus	350.67	0.82	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049415	Psychroflexus	350.33	2.94	Alternative cytochrome c oxidase polypeptide CoxM (EC 1.9.3.1)
+PGF_00049446	Psychroflexus	188.67	1.21	Alternative cytochrome c oxidase polypeptide CoxO (EC 1.9.3.1)
+PGF_00049532	Psychroflexus	328.17	1.47	Alternative cytochrome c oxidase polypeptide CoxP (EC 1.9.3.1)
+PGF_00049827	Psychroflexus	281.17	10.63	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Psychroflexus	101.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Psychroflexus	127.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Psychroflexus	116.33	21.92	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Psychroflexus	124.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Psychroflexus	89.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049849	Psychroflexus	191.33	9.61	SSU ribosomal protein S16p
+PGF_00049854	Psychroflexus	85.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Psychroflexus	98.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Psychroflexus	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Psychroflexus	235.67	0.52	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Psychroflexus	201.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Psychroflexus	174.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Psychroflexus	110.50	3.67	SSU ribosomal protein S6p
+PGF_00049904	Psychroflexus	158.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Psychroflexus	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Psychroflexus	128.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050006	Psychroflexus	454.50	0.84	Saccharopine dehydrogenase [NADP, L-glutamate-forming] (EC 1.5.1.10)
+PGF_00050110	Psychroflexus	995.83	1.17	Secreted enzyme, contains two amidohydrolase related domains
+PGF_00050216	Psychroflexus	598.33	7.12	Secreted protein containing tetratricopeptide re peats
+PGF_00050995	Psychroflexus	628.17	17.21	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051198	Psychroflexus	218.67	0.52	Serine esterase
+PGF_00051525	Psychroflexus	426.50	8.57	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051909	Psychroflexus	209.50	0.84	Siderophore (Surfactin) biosynthesis regulatory protein
+PGF_00052137	Psychroflexus	449.00	4.90	Amino acid ligase similar to peptidoglycan synthetases
+PGF_00052238	Psychroflexus	442.17	0.41	Signal recognition particle protein Ffh
+PGF_00052646	Psychroflexus	273.83	2.04	Similar to glycogen synthase (EC 2.4.1.21)
+PGF_00052705	Psychroflexus	145.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052729	Psychroflexus	229.00	0.63	Similar to tRNA pseudouridine synthase C, group TruC1
+PGF_00053316	Psychroflexus	178.00	4.69	Small-conductance mechanosensitive channel
+PGF_00053364	Psychroflexus	562.83	4.92	Sodium iodide symporter
+PGF_00053770	Psychroflexus	360.00	0.00	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053777	Psychroflexus	258.50	14.21	SpoU rRNA methylase family protein
+PGF_00053797	Psychroflexus	689.00	3.29	Aminopeptidase
+PGF_00053886	Psychroflexus	935.17	0.98	Aminopeptidase N
+PGF_00053991	Psychroflexus	393.83	14.01	Stage 0 sporulation protein YaaT
+PGF_00054165	Psychroflexus	411.83	0.98	Peptidase, M48 family
+PGF_00054323	Psychroflexus	205.00	0.00	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054541	Psychroflexus	217.00	0.00	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00054959	Psychroflexus	418.00	0.00	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Psychroflexus	301.00	0.00	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00054973	Psychroflexus	515.50	13.46	Sulfate permease
+PGF_00055099	Psychroflexus	142.33	1.75	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055354	Psychroflexus	472.33	10.80	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055460	Psychroflexus	457.33	7.12	TPR domain protein
+PGF_00055463	Psychroflexus	821.50	22.90	TPR domain protein
+PGF_00055486	Psychroflexus	455.50	0.84	TPR domain protein
+PGF_00055649	Psychroflexus	1008.83	9.68	TPR-domain-containing protein
+PGF_00055717	Psychroflexus	424.17	1.83	TPR/glycosyl transferase domain protein
+PGF_00055954	Psychroflexus	403.17	0.75	TRNA and rRNA cytosine-C5-methylase
+PGF_00055966	Psychroflexus	352.50	3.51	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Psychroflexus	329.83	26.56	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056514	Psychroflexus	786.67	6.74	Thiamin-regulated outer membrane receptor Omr1
+PGF_00056662	Psychroflexus	331.17	0.98	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056664	Psychroflexus	334.00	88.70	Thiol:disulfide interchange protein
+PGF_00056814	Psychroflexus	461.00	1.26	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Psychroflexus	211.17	2.56	Thymidine kinase (EC 2.7.1.21)
+PGF_00056897	Psychroflexus	275.33	3.27	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057270	Psychroflexus	860.00	4.29	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Psychroflexus	217.17	0.41	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Psychroflexus	149.00	0.00	Transamidase GatB domain protein
+PGF_00057483	Psychroflexus	591.17	12.91	Transcription termination factor Rho
+PGF_00057485	Psychroflexus	411.00	0.00	Transcription termination protein NusA
+PGF_00057488	Psychroflexus	305.17	9.99	Transcription termination protein NusB
+PGF_00059150	Psychroflexus	210.50	0.84	Transcriptional regulator, Crp/Fnr family
+PGF_00060230	Psychroflexus	240.17	0.41	Transcriptional regulatory protein rprY
+PGF_00060399	Psychroflexus	317.50	0.55	Transketolase, C-terminal section (EC 2.2.1.1)
+PGF_00060409	Psychroflexus	702.00	0.00	Translation elongation factor G
+PGF_00060414	Psychroflexus	598.00	0.00	Translation elongation factor LepA
+PGF_00060421	Psychroflexus	187.67	0.52	Translation elongation factor P
+PGF_00060427	Psychroflexus	273.50	0.84	Translation elongation factor Ts
+PGF_00060431	Psychroflexus	71.00	0.00	Translation initiation factor 1
+PGF_00060478	Psychroflexus	135.50	14.94	Translation initiation factor 3
+PGF_00060480	Psychroflexus	111.50	0.84	Translation initiation factor SUI1-related protein
+PGF_00061919	Psychroflexus	524.50	0.84	Apolipoprotein N-acyltransferase
+PGF_00061922	Psychroflexus	412.33	1.51	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062002	Psychroflexus	300.33	1.37	Tryptophan 2,3-dioxygenase (EC 1.13.11.11)
+PGF_00062023	Psychroflexus	254.00	1.26	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Psychroflexus	395.33	2.16	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Psychroflexus	322.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063815	Psychroflexus	472.83	1.60	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
+PGF_00063916	Psychroflexus	431.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Psychroflexus	254.50	3.39	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063974	Psychroflexus	337.33	0.52	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Psychroflexus	361.67	3.01	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Psychroflexus	449.17	1.33	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064087	Psychroflexus	317.33	2.50	UDP-glucose 4-epimerase related protein
+PGF_00064132	Psychroflexus	328.17	0.41	UDP-glucuronate decarboxylase (EC 4.1.1.35)
+PGF_00064270	Psychroflexus	253.00	0.63	UPF0246 protein YaaA
+PGF_00064522	Psychroflexus	435.00	0.00	Uncharacterized ABC1 family protein CHU_0987
+PGF_00064941	Psychroflexus	145.00	0.00	Uncharacterized protein Fjoh_0737
+PGF_00064942	Psychroflexus	49.83	0.41	Uncharacterized protein Fjoh_4981, DUF4295-containing
+PGF_00064946	Psychroflexus	462.17	0.41	Aromatic-L-amino-acid decarboxylase (EC 4.1.1.28)
+PGF_00065238	Psychroflexus	336.00	0.00	Arsenical-resistance protein ACR3
+PGF_00065887	Psychroflexus	245.00	0.00	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066124	Psychroflexus	179.00	0.00	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Psychroflexus	221.17	0.41	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Psychroflexus	202.00	0.00	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066270	Psychroflexus	340.83	1.60	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066291	Psychroflexus	246.17	2.04	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Psychroflexus	874.33	1.21	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Psychroflexus	479.83	0.41	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Psychroflexus	111.17	6.34	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066724	Psychroflexus	436.83	1.94	Vitamin K-dependent gamma-carboxylase
+PGF_00066906	Psychroflexus	312.67	1.63	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Psychroflexus	331.83	4.54	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00068420	Psychroflexus	394.83	15.82	Protein YzbB
+PGF_00069843	Psychroflexus	348.83	1.33	FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_00070068	Psychroflexus	1143.83	0.41	B12 binding domain / kinase domain / Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070417	Psychroflexus	129.50	0.84	cytosolic long-chain acyl-CoA thioester hydrolase family protein
+PGF_00070432	Psychroflexus	402.00	17.15	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00076724	Psychroflexus	269.33	2.25	hypothetical protein
+PGF_00078896	Psychroflexus	86.00	0.00	hypothetical protein
+PGF_00084324	Psychroflexus	264.67	0.82	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00110956	Psychroflexus	207.33	2.07	hypothetical protein
+PGF_00125050	Psychroflexus	117.33	0.52	hypothetical protein
+PGF_00134736	Psychroflexus	68.17	16.13	hypothetical protein
+PGF_00144272	Psychroflexus	163.50	5.21	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00167788	Psychroflexus	119.00	0.00	hypothetical protein
+PGF_00174717	Psychroflexus	347.83	21.03	Uncharacterized UPF0118 membrane protein
+PGF_00179602	Psychroflexus	158.33	2.80	hypothetical protein
+PGF_00181148	Psychroflexus	459.00	0.63	Cysteine sulfinic acid decarboxylase (EC 4.1.1.29)
+PGF_00194738	Psychroflexus	74.50	0.84	hypothetical protein
+PGF_00222031	Psychroflexus	216.50	2.74	hypothetical protein
+PGF_00232219	Psychroflexus	182.00	8.07	hypothetical protein
+PGF_00237343	Psychroflexus	395.17	2.64	hypothetical protein
+PGF_00257250	Psychroflexus	197.50	9.14	hypothetical protein
+PGF_00261173	Psychroflexus	398.50	3.51	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00263416	Psychroflexus	270.67	8.16	hypothetical protein
+PGF_00289826	Psychroflexus	101.33	23.77	hypothetical protein
+PGF_00319784	Psychroflexus	300.67	1.21	hypothetical protein
+PGF_00338083	Psychroflexus	239.83	0.75	hypothetical protein
+PGF_00340537	Psychroflexus	186.00	6.96	hypothetical protein
+PGF_00357449	Psychroflexus	520.83	1.94	hypothetical protein
+PGF_00365553	Psychroflexus	160.33	0.52	hypothetical protein
+PGF_00377817	Psychroflexus	153.33	12.48	hypothetical protein
+PGF_00381334	Psychroflexus	128.50	2.66	hypothetical protein
+PGF_00388524	Psychroflexus	140.83	6.77	hypothetical protein
+PGF_00399630	Psychroflexus	289.67	6.53	hypothetical protein PA3071
+PGF_00399752	Psychroflexus	143.83	4.67	hypothetical protein sometimes fused to ribosomal protein S6 glutaminyl transferase
+PGF_00399844	Psychroflexus	208.50	9.09	hypothetical protein
+PGF_00400019	Psychroflexus	333.50	0.84	Aerotolerance protein BatA
+PGF_00400033	Psychroflexus	349.17	0.98	Aerotolerance protein BatB
+PGF_00400670	Psychroflexus	160.50	5.21	Benzodiazepine receptor TspO
+PGF_00400687	Psychroflexus	336.00	14.75	low affinity penicillin binding protein
+PGF_00401529	Psychroflexus	138.83	12.88	Beta-carotene hydroxylase
+PGF_00402152	Psychroflexus	270.50	10.39	Beta-ketoadipate enol-lactone hydrolase, putative
+PGF_00403834	Psychroflexus	204.00	2.90	Biopolymer transport exbD protein.
+PGF_00403895	Psychroflexus	130.00	0.00	Biopolymer transport protein ExbD/TolR; potentially related to transport or biosynthesis of folate
+PGF_00404078	Psychroflexus	164.83	1.17	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Psychroflexus	436.50	46.39	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00406692	Psychroflexus	933.50	4.72	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00407080	Psychroflexus	811.17	11.77	putative ferric aerobactin receptor
+PGF_00407479	Psychroflexus	484.67	9.83	Integral membrane protein
+PGF_00408013	Psychroflexus	178.50	1.38	putative lipoprotein
+PGF_00411216	Psychroflexus	405.00	15.19	ABC transporter, permease protein
+PGF_00412159	Psychroflexus	689.67	9.56	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4) / Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00412165	Psychroflexus	802.67	0.52	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4) / Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00412328	Psychroflexus	388.33	2.58	sigma-54 dependent transcriptional regulator/response regulator
+PGF_00413208	Psychroflexus	225.67	0.82	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Psychroflexus	245.33	7.42	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Psychroflexus	233.00	2.00	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Psychroflexus	623.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413319	Psychroflexus	193.67	0.52	tRNA-(ms[2]io[6]A)-hydroxylase
+PGF_00413351	Psychroflexus	148.83	0.41	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413359	Psychroflexus	179.00	3.58	tRNA/rRNA methyltransferase
+PGF_00413554	Psychroflexus	153.50	0.84	tmRNA-binding protein SmpB
+PGF_00414366	Psychroflexus	576.83	9.02	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414926	Psychroflexus	474.67	0.52	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Psychroflexus	385.83	4.02	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00416115	Psychroflexus	294.67	1.21	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Psychroflexus	536.17	0.75	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Psychroflexus	950.17	0.41	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416424	Psychroflexus	397.00	0.00	Carbapenem antibiotics biosynthesis protein carD
+PGF_00416674	Psychroflexus	377.83	1.33	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417429	Psychroflexus	372.67	1.75	Chaperone protein DnaJ
+PGF_00417433	Psychroflexus	635.83	0.41	Chaperone protein DnaK
+PGF_00417577	Psychroflexus	138.33	0.82	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Psychroflexus	356.83	1.17	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Psychroflexus	352.17	0.41	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Psychroflexus	167.33	0.52	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Psychroflexus	244.50	3.21	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418335	Psychroflexus	1151.33	4.18	Efflux system associated with Geranylgeranyl-PP synthase, inner membrane transporter (RND type)
+PGF_00418501	Psychroflexus	177.17	0.41	3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6)
+PGF_00418733	Psychroflexus	252.33	3.27	1,2-phenylacetyl-CoA epoxidase, subunit C (EC 1.14.13.149)
+PGF_00419013	Psychroflexus	165.83	0.75	1,2-phenylacetyl-CoA epoxidase, subunit D (EC 1.14.13.149)
+PGF_00419397	Psychroflexus	219.67	4.03	Conserved hyperthetical protein
+PGF_00419506	Psychroflexus	357.00	0.00	1,2-phenylacetyl-CoA epoxidase, subunit E (EC 1.14.13.149)
+PGF_00419627	Psychroflexus	302.00	3.63	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419628	Psychroflexus	450.50	4.37	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Psychroflexus	181.00	6.39	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419915	Psychroflexus	269.00	7.35	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Psychroflexus	296.67	3.20	Cysteine synthase (EC 2.5.1.47)
+PGF_00420115	Psychroflexus	836.00	0.00	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase (EC 1.2.1.91) / 2-oxepin-2(3H)-ylideneacetyl-CoA hydrolase (EC 3.3.2.12)
+PGF_00420121	Psychroflexus	231.50	2.74	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420361	Psychroflexus	732.17	1.47	Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1) / Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)
+PGF_00420732	Psychroflexus	486.67	0.52	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420798	Psychroflexus	327.83	1.83	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420822	Psychroflexus	244.67	4.63	D-alanyl-D-alanine carboxypeptidase
+PGF_00420903	Psychroflexus	317.50	6.12	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421098	Psychroflexus	588.33	6.50	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421164	Psychroflexus	256.00	0.00	DNA Pol III Epsilon Chain
+PGF_00421498	Psychroflexus	369.83	4.54	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421575	Psychroflexus	477.00	3.52	1,4-alpha-glucan branching enzyme (EC 2.4.1.18)
+PGF_00421679	Psychroflexus	651.67	1.51	DNA primase (EC 2.7.7.-)
+PGF_00421733	Psychroflexus	363.83	0.41	DNA recombination and repair protein RecF
+PGF_00421792	Psychroflexus	457.17	5.34	DNA repair protein RadA
+PGF_00421796	Psychroflexus	550.00	0.00	DNA repair protein RecN
+PGF_00422252	Psychroflexus	447.50	0.84	DNA-damage-inducible protein F
+PGF_00422271	Psychroflexus	327.83	5.31	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422287	Psychroflexus	111.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_00422545	Psychroflexus	297.67	11.74	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422888	Psychroflexus	536.17	12.84	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422912	Psychroflexus	204.00	0.00	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00423089	Psychroflexus	341.00	7.04	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Psychroflexus	262.00	1.10	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Psychroflexus	399.50	7.45	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Psychroflexus	130.17	14.09	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423560	Psychroflexus	512.83	13.23	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)
+PGF_00423609	Psychroflexus	248.17	1.83	Dipeptidyl peptidase VI
+PGF_00423613	Psychroflexus	354.83	0.41	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+PGF_00423710	Psychroflexus	250.33	9.52	DnaJ-like protein DjlA
+PGF_00423723	Psychroflexus	128.00	1.10	DnaK suppressor protein, putative
+PGF_00423739	Psychroflexus	243.67	4.93	Dolichol-phosphate mannosyltransferase
+PGF_00424425	Psychroflexus	381.17	3.37	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+PGF_00424447	Psychroflexus	347.50	5.28	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424482	Psychroflexus	380.83	1.72	4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
+PGF_00424967	Psychroflexus	936.83	10.26	Excinuclease ABC subunit A paralog in greater Bacteroides group
+PGF_00425011	Psychroflexus	255.17	3.87	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425679	Psychroflexus	206.33	1.03	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425786	Psychroflexus	522.50	5.65	Ribonuclease Y
+PGF_00425945	Psychroflexus	96.83	0.75	FIG00410305: hypothetical protein
+PGF_00425991	Psychroflexus	511.50	0.84	FIG004436: Protein related to deoxyribodipyrimidine photolyase
+PGF_00425997	Psychroflexus	347.00	0.00	FIG004453: protein YceG like
+PGF_00426115	Psychroflexus	591.17	1.47	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426631	Psychroflexus	559.17	9.04	Lipopolysaccharide export system protein LptA
+PGF_00426644	Psychroflexus	1489.17	8.50	FIG00552849: hypothetical protein
+PGF_00426646	Psychroflexus	829.00	0.89	FIG00552894: hypothetical protein
+PGF_00426932	Psychroflexus	167.83	1.47	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427179	Psychroflexus	351.67	6.35	FIG00649718: hypothetical protein
+PGF_00427366	Psychroflexus	125.83	24.90	6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
+PGF_00455945	Psychroflexus	427.83	8.45	Error-prone, lesion bypass DNA polymerase V (UmuC)
+PGF_00473519	Psychroflexus	204.50	6.12	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00499740	Psychroflexus	448.00	0.00	Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)
+PGF_00500015	Psychroflexus	291.00	33.36	pyridoxal phosphate-dependent deaminase, putative
+PGF_00502238	Psychroflexus	332.00	0.00	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00529632	Psychroflexus	862.83	2.99	ClpB protein
+PGF_00569671	Psychroflexus	315.83	1.83	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00602314	Psychroflexus	108.00	0.00	hypothetical protein
+PGF_00608289	Psychroflexus	229.83	0.41	hypothetical protein
+PGF_00616490	Psychroflexus	522.83	1.33	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Psychroflexus	337.83	22.96	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Psychroflexus	315.67	2.80	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00641071	Psychroflexus	316.33	0.52	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00650260	Psychroflexus	130.83	0.41	HIT family protein
+PGF_00655358	Psychroflexus	487.33	0.52	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Psychroflexus	214.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Psychroflexus	122.33	1.03	Ribosomal silencing factor RsfA
+PGF_00674831	Psychroflexus	490.83	2.32	Phytoene desaturase, neurosporene or lycopene producing (EC 1.3.-.-) / 4,4'-diapolycopene oxidase
+PGF_00686347	Psychroflexus	232.00	0.00	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
+PGF_00695496	Psychroflexus	231.00	0.63	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00717495	Psychroflexus	426.67	1.03	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00718789	Psychroflexus	296.00	0.63	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00725839	Psychroflexus	894.50	17.06	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Psychroflexus	855.17	12.86	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00758285	Psychroflexus	413.50	1.76	Putative oxidoreductase
+PGF_00760084	Psychroflexus	355.17	6.15	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_00763621	Psychroflexus	263.00	0.00	Iron-sulphur-binding reductase
+PGF_00776587	Psychroflexus	101.50	8.22	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00790971	Psychroflexus	226.67	0.52	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_00807154	Psychroflexus	267.33	0.52	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_00827693	Psychroflexus	601.50	1.22	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_00833352	Psychroflexus	1451.83	1.94	DEDDh 3'-5' exonuclease domain / DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00833526	Psychroflexus	441.67	2.66	Uncharacterized MFS-type transporter
+PGF_00846659	Psychroflexus	192.50	12.41	Polysaccharide deacetylase
+PGF_00853393	Psychroflexus	290.67	0.52	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Psychroflexus	412.67	1.03	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00856417	Psychroflexus	232.33	0.82	UPF0758 family protein
+PGF_00856545	Psychroflexus	456.33	1.21	OmpA domain protein
+PGF_00860846	Psychroflexus	415.33	1.03	Putative outer membrane protein
+PGF_00870026	Psychroflexus	221.17	0.41	Zinc transporter, ZIP family
+PGF_00871619	Psychroflexus	717.33	4.93	Tail-specific protease precursor (EC 3.4.21.102)
+PGF_00875089	Psychroflexus	300.00	0.00	Similar to (S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase
+PGF_00907466	Psychroflexus	206.50	21.14	SM-20-related protein
+PGF_00908360	Psychroflexus	241.67	14.57	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Psychroflexus	328.00	7.97	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Psychroflexus	437.33	1.03	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Psychroflexus	591.67	0.52	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00932061	Psychroflexus	270.50	10.13	FIG00431159: hypothetical protein
+PGF_00932099	Psychroflexus	65.00	0.00	Protein translocase subunit SecE
+PGF_00934722	Psychroflexus	101.33	11.89	Protein translocase membrane subunit SecG
+PGF_00936791	Psychroflexus	325.33	1.03	FIG003737: Predicted deacylase
+PGF_00943546	Psychroflexus	250.00	0.00	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00950554	Psychroflexus	668.00	0.00	Excinuclease ABC subunit B
+PGF_00957419	Psychroflexus	135.67	1.51	Putative pre-16S rRNA nuclease Yqg
+PGF_00976420	Psychroflexus	584.33	5.57	Aerotolerance protein BatD
+PGF_00987584	Psychroflexus	777.67	11.72	Dipeptidyl peptidase IV
+PGF_01026135	Psychroflexus	433.83	2.04	Nitrite reductase probable [NAD(P)H] subunit (EC 1.7.1.4)
+PGF_01027719	Psychroflexus	238.33	8.41	ATP-binding protein
+PGF_01039483	Psychroflexus	973.83	1.72	Fe-S protein, homolog of lactate dehydrogenase SO1521
+PGF_01044553	Psychroflexus	346.00	2.68	Two-component transcriptional response regulator, LuxR family
+PGF_01065911	Psychroflexus	211.33	15.91	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01070050	Psychroflexus	485.67	1.21	Phytoene dehydrogenase (EC 1.14.99.-)
+PGF_01079016	Psychroflexus	300.00	0.89	Chromosome (plasmid) partitioning protein ParB
+PGF_01090856	Psychroflexus	783.67	20.16	TonB-dependent receptor
+PGF_01109741	Psychroflexus	380.83	2.04	Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.8.1)
+PGF_01110486	Psychroflexus	346.83	0.41	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+PGF_01124177	Psychroflexus	428.67	12.68	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Psychroflexus	416.50	0.84	Rod shape-determining protein RodA
+PGF_01147190	Psychroflexus	439.00	8.85	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01172485	Psychroflexus	462.33	3.20	Cell division protein FtsA
+PGF_01174807	Psychroflexus	423.67	10.52	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Psychroflexus	648.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01181530	Psychroflexus	113.33	0.82	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01212500	Psychroflexus	258.33	0.52	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Psychroflexus	543.67	0.82	Heat shock protein 60 family chaperone GroEL
+PGF_01218448	Psychroflexus	378.50	2.26	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01220597	Psychroflexus	600.00	0.00	Putative hemolysin
+PGF_01220614	Psychroflexus	240.00	11.68	RNA methyltransferase, TrmH family
+PGF_01223583	Psychroflexus	467.33	8.21	Carboxyl-terminal protease
+PGF_01231911	Psychroflexus	287.00	4.94	hypothetical protein
+PGF_01296193	Psychroflexus	253.33	1.03	Chromosome (plasmid) partitioning protein ParA
+PGF_01329056	Psychroflexus	238.00	0.00	N-acetylglucosaminyl-L-malate N-acetyl hydrolase
+PGF_01351158	Psychroflexus	1124.50	7.15	Transcription-repair coupling factor
+PGF_01364427	Psychroflexus	192.83	0.41	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01393949	Psychroflexus	1285.83	0.41	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01404160	Psychroflexus	326.17	0.41	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01416568	Psychroflexus	199.33	0.52	LemA family protein
+PGF_01420802	Psychroflexus	139.17	13.73	Cell division protein MraZ
+PGF_01421534	Psychroflexus	215.17	7.03	LSU ribosomal protein L25p
+PGF_01423501	Psychroflexus	158.00	0.00	Transcription elongation factor GreA
+PGF_01466742	Psychroflexus	348.83	17.16	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Psychroflexus	366.50	5.21	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483460	Psychroflexus	351.33	8.82	Lipopolysaccharide export system permease protein LptG
+PGF_01526554	Psychroflexus	142.17	10.89	hypothetical protein
+PGF_01527724	Psychroflexus	334.50	34.82	hypothetical protein
+PGF_01532393	Psychroflexus	688.17	1.72	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01534085	Psychroflexus	436.00	0.00	Deoxyribodipyrimidine photolyase, single-strand-specific
+PGF_01547797	Psychroflexus	624.33	12.21	hypothetical protein
+PGF_01550064	Psychroflexus	200.83	0.41	hypothetical protein
+PGF_01599021	Psychroflexus	196.00	0.00	Peptide deformylase (EC 3.5.1.88)
+PGF_01604929	Psychroflexus	219.00	0.89	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01614738	Psychroflexus	85.17	2.48	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01668974	Psychroflexus	674.33	32.43	DNA internalization-related competence protein ComEC/Rec2
+PGF_01674551	Psychroflexus	125.00	0.00	Glycine cleavage system H protein
+PGF_01682834	Psychroflexus	161.00	13.64	Bacterial ribosome SSU maturation protein RimP
+PGF_01694199	Psychroflexus	89.17	9.39	hypothetical protein
+PGF_01696391	Psychroflexus	204.83	11.21	UPF0126 inner membrane protein BT_1201
+PGF_01701024	Psychroflexus	166.00	0.00	hypothetical protein
+PGF_01701651	Psychroflexus	256.83	2.23	hypothetical protein
+PGF_01718690	Psychroflexus	171.67	1.86	hypothetical protein
+PGF_01744781	Psychroflexus	182.50	0.84	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01763778	Psychroflexus	284.50	17.94	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01771855	Psychroflexus	198.50	3.56	hypothetical protein
+PGF_01773382	Psychroflexus	640.83	7.11	Endonuclease I
+PGF_01777142	Psychroflexus	193.67	1.03	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01819962	Psychroflexus	133.50	8.57	Na(+) H(+) antiporter subunit B
+PGF_01853493	Psychroflexus	275.50	1.76	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01898497	Psychroflexus	221.83	0.41	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Psychroflexus	275.33	2.42	Rod shape-determining protein MreC
+PGF_01900530	Psychroflexus	242.67	0.52	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900807	Psychroflexus	283.33	1.63	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01901601	Psychroflexus	427.50	2.26	hypothetical protein
+PGF_01933275	Psychroflexus	217.33	0.82	HD domain protein
+PGF_01949788	Psychroflexus	184.50	6.80	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Psychroflexus	615.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Psychroflexus	440.00	0.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Psychroflexus	251.17	0.41	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Psychroflexus	340.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Psychroflexus	344.00	2.53	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Psychroflexus	338.50	1.38	GTP-binding protein Obg
+PGF_02061452	Psychroflexus	376.33	0.82	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02098099	Psychroflexus	497.50	2.35	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02100242	Psychroflexus	741.50	14.01	putative patatin-like phospholipase
+PGF_02141148	Psychroflexus	164.33	0.82	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_02167696	Psychroflexus	767.83	0.41	Na(+) H(+) antiporter subunit A
+PGF_02169237	Psychroflexus	454.83	2.04	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Psychroflexus	457.67	0.52	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02211177	Psychroflexus	260.50	0.84	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02226715	Psychroflexus	691.17	22.62	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227779	Psychroflexus	385.33	1.63	Lycopene beta-cyclase (EC 5.5.1.19)
+PGF_02237713	Psychroflexus	709.50	1.76	Prolyl endopeptidase (EC 3.4.21.26)
+PGF_02278020	Psychroflexus	422.83	1.47	Transcriptional regulator
+PGF_02281360	Psychroflexus	249.00	10.92	hypothetical protein
+PGF_02283065	Psychroflexus	634.33	14.17	Sodium/hydrogen exchanger family protein
+PGF_02305956	Psychroflexus	284.00	7.72	Aerotolerance protein BatC
+PGF_02315316	Psychroflexus	415.67	8.14	Peptidase, M23/M37 family
+PGF_02346768	Psychroflexus	872.50	3.08	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02349818	Psychroflexus	140.00	5.76	Acyl-coenzyme A thioesterase PaaD (Pse.pu.) (E. coli PaaI)
+PGF_02355769	Psychroflexus	367.00	0.00	Alanine racemase (EC 5.1.1.1)
+PGF_02358818	Psychroflexus	405.67	10.95	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_02369559	Psychroflexus	940.00	1.67	DNA polymerase I (EC 2.7.7.7)
+PGF_02382389	Psychroflexus	307.00	0.00	Ribokinase (EC 2.7.1.15)
+PGF_02450432	Psychroflexus	266.33	0.52	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Psychroflexus	83.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Psychroflexus	206.33	1.03	Recombination protein RecR
+PGF_02465987	Psychroflexus	242.50	9.87	hypothetical protein
+PGF_02473354	Psychroflexus	536.67	0.82	Glucosaminyl-malate:cysteine ligase
+PGF_02489591	Psychroflexus	208.67	9.61	Uncharacterized Nudix hydrolase NudL
+PGF_02512719	Psychroflexus	145.17	35.36	Na(+) H(+) antiporter subunit E
+PGF_02514958	Psychroflexus	360.67	1.86	putative periplasmic protein kinase ArgK and related GTPases of G3E family
+PGF_02515882	Psychroflexus	416.00	0.00	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Psychroflexus	430.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02588316	Psychroflexus	273.83	6.82	FIG00648915: hypothetical protein
+PGF_02590177	Psychroflexus	419.17	12.89	hypothetical protein
+PGF_02593689	Psychroflexus	446.83	0.41	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Psychroflexus	513.17	0.75	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Psychroflexus	312.17	0.41	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Psychroflexus	1435.00	0.00	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02728524	Psychroflexus	864.50	5.21	DNA mismatch repair protein MutS
+PGF_02738107	Psychroflexus	284.50	1.38	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02740181	Psychroflexus	133.83	3.13	Na(+) H(+) antiporter subunit G
+PGF_02755983	Psychroflexus	189.17	0.41	hypothetical protein
+PGF_02759160	Psychroflexus	299.00	0.63	Gliding motility-associated ABC transporter ATP-binding protein GldA
+PGF_02788582	Psychroflexus	725.00	2.53	Recombination inhibitory protein MutS2
+PGF_02789532	Psychroflexus	283.00	3.29	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Psychroflexus	220.17	1.17	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Psychroflexus	497.00	1.26	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Psychroflexus	1270.17	0.98	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02819779	Psychroflexus	241.83	9.68	hypothetical protein
+PGF_02827614	Psychroflexus	132.17	27.24	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02836627	Psychroflexus	337.33	5.13	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02838109	Psychroflexus	175.83	0.98	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Psychroflexus	237.50	0.84	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02861721	Psychroflexus	215.67	2.66	hypothetical protein
+PGF_02863224	Psychroflexus	351.17	11.84	Endoglucanase
+PGF_02871168	Psychroflexus	303.67	12.75	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_02873160	Psychroflexus	231.50	2.07	Putative preQ0 transporter YhhQ
+PGF_02873723	Psychroflexus	513.17	0.41	Ribonuclease G
+PGF_02893929	Psychroflexus	264.83	2.40	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02893930	Psychroflexus	243.17	0.98	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02896195	Psychroflexus	513.00	0.00	Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_02913006	Psychroflexus	391.00	0.00	Efflux system associated with Geranylgeranyl-PP synthase, membrane fusion component
+PGF_02918872	Psychroflexus	629.50	4.85	Neopullulanase (EC 3.2.1.135)
+PGF_02919689	Psychroflexus	245.50	13.11	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923121	Psychroflexus	208.67	5.85	hypothetical protein
+PGF_02923127	Psychroflexus	235.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02925120	Psychroflexus	184.50	15.59	hypothetical protein
+PGF_02928498	Psychroflexus	488.33	2.58	Na+/H+ antiporter NhaC
+PGF_02930037	Psychroflexus	136.00	0.00	hypothetical protein
+PGF_02930687	Psychroflexus	321.17	0.41	Oxidoreductase, Gfo/Idh/MocA family
+PGF_02936332	Psychroflexus	292.33	1.03	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02937243	Psychroflexus	792.00	11.82	Exporter protein, RND family
+PGF_02944756	Psychroflexus	396.50	3.21	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Psychroflexus	608.83	0.41	SSU ribosomal protein S1p
+PGF_02947204	Psychroflexus	531.00	0.00	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02953665	Psychroflexus	140.17	1.17	hypothetical protein
+PGF_02977685	Psychroflexus	435.50	0.84	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_02980852	Psychroflexus	281.33	5.96	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_03011092	Psychroflexus	285.17	0.41	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017775	Psychroflexus	563.00	0.00	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Psychroflexus	195.17	3.97	Septum formation protein Maf
+PGF_03021668	Psychroflexus	304.83	38.01	hypothetical protein
+PGF_03027708	Psychroflexus	962.67	5.13	beta-glycosyl hydrolase / Uncharacterized esterase
+PGF_03029859	Psychroflexus	629.17	5.38	Bis-ABC ATPase Uup
+PGF_03033259	Psychroflexus	243.00	1.67	Serine/threonine protein phosphatase (EC 3.1.3.16)
+PGF_03038523	Psychroflexus	352.83	7.36	potassium uptake
+PGF_03038633	Psychroflexus	271.17	2.23	hypothetical protein
+PGF_03038852	Psychroflexus	130.00	1.79	FIG00018398: hypothetical regulator
+PGF_03052174	Psychroflexus	119.67	0.52	hypothetical protein
+PGF_03054699	Psychroflexus	808.17	9.02	DNA translocase FtsK
+PGF_03057384	Psychroflexus	340.50	0.55	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03060632	Psychroflexus	268.50	2.35	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_03075401	Psychroflexus	148.50	6.19	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03104567	Psychroflexus	450.67	2.58	Trk potassium uptake system protein TrkA
+PGF_03110657	Psychroflexus	680.17	0.41	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111948	Psychroflexus	248.33	12.66	Electron transfer flavoprotein, beta subunit
+PGF_03114965	Psychroflexus	116.83	17.99	hypothetical protein
+PGF_03126397	Psychroflexus	486.17	11.84	hypothetical protein
+PGF_03132336	Psychroflexus	398.83	0.41	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03139709	Psychroflexus	668.67	16.63	TTP-dependent protein, related to E1 component of pyruvate/2-oxoglutarate/acetoin dehydrogenase
+PGF_03142307	Psychroflexus	281.17	1.17	S1 RNA binding domain
+PGF_03142586	Psychroflexus	94.17	0.75	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03145455	Psychroflexus	325.17	0.41	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03154343	Psychroflexus	160.67	1.03	Cytidine deaminase (EC 3.5.4.5)
+PGF_03174068	Psychroflexus	183.00	0.00	Transcription antitermination protein NusG
+PGF_03186757	Psychroflexus	167.33	27.39	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+PGF_03267589	Psychroflexus	281.00	0.00	Transketolase, N-terminal section (EC 2.2.1.1)
+PGF_03272313	Psychroflexus	841.17	6.11	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Psychroflexus	79.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03313360	Psychroflexus	128.67	3.27	Ligand-binding SRPBCC domain protein family 2
+PGF_03391126	Psychroflexus	142.17	12.97	hypothetical protein
+PGF_03432823	Psychroflexus	1077.67	5.47	Putative cytochrome C-type biogenesis protein
+PGF_03441843	Psychroflexus	801.00	0.00	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03442211	Psychroflexus	335.00	0.00	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_03470321	Psychroflexus	177.17	1.83	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03518570	Psychroflexus	139.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Psychroflexus	628.50	9.35	Cell division protein FtsZ
+PGF_03556786	Psychroflexus	618.83	44.26	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.135)
+PGF_03609651	Psychroflexus	687.33	2.07	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03674008	Psychroflexus	97.67	8.04	1,2-phenylacetyl-CoA epoxidase, subunit B (EC 1.14.13.149)
+PGF_03674165	Psychroflexus	322.50	4.04	1,2-phenylacetyl-CoA epoxidase, subunit A (EC 1.14.13.149)
+PGF_03684283	Psychroflexus	414.83	0.98	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Psychroflexus	292.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Psychroflexus	194.00	1.55	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Psychroflexus	135.67	0.52	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03733480	Psychroflexus	143.33	0.82	dCMP deaminase (EC 3.5.4.12)
+PGF_03739563	Psychroflexus	107.17	0.41	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Psychroflexus	478.67	6.53	Chromosomal replication initiator protein DnaA
+PGF_03751823	Psychroflexus	200.17	7.83	Heat shock protein GrpE
+PGF_03754184	Psychroflexus	117.00	0.00	Na(+) H(+) antiporter subunit C
+PGF_03768137	Psychroflexus	243.67	22.46	hypothetical protein
+PGF_03778780	Psychroflexus	319.00	0.63	Signal recognition particle receptor FtsY
+PGF_03787622	Psychroflexus	365.33	17.55	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Psychroflexus	246.67	2.58	Ribonuclease III (EC 3.1.26.3)
+PGF_03797809	Psychroflexus	394.83	0.75	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_03811905	Psychroflexus	339.00	14.00	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03846834	Psychroflexus	170.50	2.35	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03856084	Psychroflexus	690.00	15.31	Cell division protein FtsH
+PGF_03862500	Psychroflexus	195.50	1.22	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03870181	Psychroflexus	418.50	7.12	DUF819 domain-containing protein
+PGF_03935716	Psychroflexus	667.00	0.00	Inner membrane protein, KefB/KefC family
+PGF_03974059	Psychroflexus	447.00	0.00	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.8)
+PGF_03986439	Psychroflexus	130.00	0.00	hypothetical protein
+PGF_03999196	Psychroflexus	849.67	1.75	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04001842	Psychroflexus	462.50	33.18	Sodium-dependent anion transporter family
+PGF_04007946	Psychroflexus	235.50	3.73	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Psychroflexus	486.50	5.28	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04020427	Psychroflexus	286.17	0.41	hypothetical protein
+PGF_04041316	Psychroflexus	946.33	2.80	Excinuclease ABC subunit A
+PGF_04105233	Psychroflexus	104.33	1.21	Uncharacterized protein TTC1240
+PGF_04108824	Psychroflexus	654.00	0.00	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04119806	Psychroflexus	283.00	1.67	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Psychroflexus	276.83	5.08	Twin-arginine translocation protein TatC
+PGF_04147121	Psychroflexus	517.00	0.00	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04154333	Psychroflexus	62.67	5.09	Twin-arginine translocation protein TatA
+PGF_04163139	Psychroflexus	209.00	33.17	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Psychroflexus	230.17	0.41	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Psychroflexus	224.33	46.22	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04256257	Psychroflexus	467.50	0.84	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04360357	Psychroflexus	1119.50	0.84	Protein translocase subunit SecA
+PGF_04388677	Psychroflexus	356.83	19.55	Linoleoyl-CoA desaturase (EC 1.14.19.3)
+PGF_04395505	Psychroflexus	354.67	0.52	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04457297	Psychroflexus	183.67	5.89	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Psychroflexus	329.00	1.26	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04505269	Psychroflexus	296.00	14.53	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Psychroflexus	342.17	0.41	Rod shape-determining protein MreB
+PGF_04521913	Psychroflexus	427.83	3.71	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Psychroflexus	449.17	0.41	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04562939	Psychroflexus	379.17	0.41	hypothetical protein
+PGF_04569524	Psychroflexus	526.17	0.41	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Psychroflexus	249.83	0.41	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04617751	Psychroflexus	482.50	7.97	Nitrogen regulation protein NtrY
+PGF_04636538	Psychroflexus	90.00	0.00	DNA-binding protein HU-beta
+PGF_04660832	Psychroflexus	193.50	18.27	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Psychroflexus	646.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Psychroflexus	396.83	0.41	Alanine transaminase (EC 2.6.1.2)
+PGF_04679223	Psychroflexus	133.33	9.56	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04695681	Psychroflexus	268.50	4.18	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04711083	Psychroflexus	171.00	0.00	hypothetical protein
+PGF_04749763	Psychroflexus	927.17	6.79	Translation initiation factor 2
+PGF_04788810	Psychroflexus	200.67	9.81	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Psychroflexus	302.67	2.25	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04817382	Psychroflexus	311.00	6.32	hypothetical protein
+PGF_04845029	Psychroflexus	117.67	4.08	LSU ribosomal protein L19p
+PGF_04846590	Psychroflexus	361.17	10.40	Magnesium and cobalt transport protein CorA
+PGF_04866046	Psychroflexus	674.00	3.95	Uncharacterized protein YyaL
+PGF_04882920	Psychroflexus	204.00	0.00	Fumarylacetoacetate hydrolase family protein
+PGF_04962192	Psychroflexus	739.67	1.97	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Psychroflexus	167.83	5.46	LSU ribosomal protein L21p
+PGF_05022117	Psychroflexus	542.17	1.33	Bis-ABC ATPase YbiT
+PGF_05079020	Psychroflexus	334.00	0.00	MoxR-like ATPase in aerotolerance operon
+PGF_05111929	Psychroflexus	564.67	1.63	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Psychroflexus	1046.00	149.08	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05142770	Psychroflexus	150.33	0.52	hypothetical protein
+PGF_05165078	Psychroflexus	313.67	3.78	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Psychroflexus	502.17	0.41	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05224118	Psychroflexus	474.17	1.83	Transglycosylase
+PGF_05278415	Psychroflexus	251.17	16.64	Similar to tRNA pseudouridine synthase A, group TruA2
+PGF_05280843	Psychroflexus	408.83	4.12	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05338234	Psychroflexus	288.17	0.41	Protein YicC
+PGF_05380610	Psychroflexus	816.83	6.37	Putative TonB-dependent receptor
+PGF_05386032	Psychroflexus	188.50	0.84	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05421852	Psychroflexus	631.00	1.67	Chaperone protein HtpG
+PGF_05424184	Psychroflexus	502.17	0.41	Na(+) H(+) antiporter subunit D
+PGF_05439724	Psychroflexus	666.17	0.75	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Psychroflexus	293.83	0.75	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Psychroflexus	612.50	5.21	DNA mismatch repair protein MutL
+PGF_05560886	Psychroflexus	242.50	0.84	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Psychroflexus	445.67	0.52	Protein translocase subunit SecY
+PGF_05598173	Psychroflexus	370.50	2.35	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Psychroflexus	276.67	5.72	Phytoene synthase (EC 2.5.1.32)
+PGF_05622318	Psychroflexus	426.33	1.63	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05672678	Psychroflexus	268.67	1.86	Beta-propeller domains of methanol dehydrogenase type
+PGF_05695878	Psychroflexus	683.33	2.16	Peptidase, M13 family
+PGF_05712128	Psychroflexus	637.17	4.88	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05812443	Psychroflexus	202.00	0.00	hypothetical protein
+PGF_05847461	Psychroflexus	332.17	25.42	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05866195	Psychroflexus	376.50	2.35	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_05872926	Psychroflexus	431.00	8.88	Putative uncharacterized protein TTHA1760
+PGF_05876897	Psychroflexus	170.17	24.72	hypothetical protein
+PGF_05889334	Psychroflexus	174.17	9.04	hypothetical protein
+PGF_05971611	Psychroflexus	399.17	0.98	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05997999	Psychroflexus	334.33	0.82	Glycosyltransferase
+PGF_06005188	Psychroflexus	626.17	4.36	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06106311	Psychroflexus	411.33	6.80	Putative phosphoesterase
+PGF_06172468	Psychroflexus	298.83	0.41	Efflux ABC transporter, ATP-binding protein
+PGF_06180597	Psychroflexus	154.50	8.57	LSU ribosomal protein L13p (L13Ae)
+PGF_06220004	Psychroflexus	397.50	0.55	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_06254345	Psychroflexus	91.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Psychroflexus	366.50	0.84	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Psychroflexus	437.00	0.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Psychroflexus	340.50	2.81	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06379377	Psychroflexus	425.67	1.21	Replication-associated recombination protein RarA
+PGF_06403579	Psychroflexus	815.33	0.52	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06447349	Psychroflexus	760.67	0.82	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06454307	Psychroflexus	197.17	1.33	Acyl carrier protein phosphodiesterase (EC 3.1.4.14)
+PGF_06460114	Psychroflexus	380.33	1.21	Septum site-determining protein MinD
+PGF_06461498	Psychroflexus	268.00	6.48	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Psychroflexus	350.00	0.89	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Psychroflexus	366.17	3.49	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06501669	Psychroflexus	308.50	10.50	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)
+PGF_06530721	Psychroflexus	225.00	0.00	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06589185	Psychroflexus	583.00	1.26	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06644010	Psychroflexus	302.83	1.60	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06679416	Psychroflexus	196.33	1.03	Adenylylsulfate kinase (EC 2.7.1.25)
+PGF_06690276	Psychroflexus	226.83	30.17	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06721510	Psychroflexus	298.00	0.00	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+PGF_06735060	Psychroflexus	772.17	0.41	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06744243	Psychroflexus	112.67	3.78	Transcriptional regulator, PadR family
+PGF_06750600	Psychroflexus	302.00	112.30	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06755300	Psychroflexus	174.67	0.52	ABC-type Fe3+ transport system protein; Molybdenum transport protein, putative
+PGF_06755829	Psychroflexus	377.17	2.86	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06759389	Psychroflexus	243.00	0.00	Gliding motility-associated ABC transporter permease protein GldF
+PGF_06767187	Psychroflexus	353.67	2.94	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06832106	Psychroflexus	437.83	0.75	Proton/glutamate symporter
+PGF_06841481	Psychroflexus	59.17	11.75	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_06863675	Psychroflexus	219.00	0.63	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_06955447	Psychroflexus	682.50	10.56	Insulinase-like:Peptidase M16, C-terminal precursor
+PGF_07004592	Psychroflexus	217.33	1.37	Outer membrane lipoprotein carrier protein LolA
+PGF_07072294	Psychroflexus	322.00	0.00	Electron transfer flavoprotein, alpha subunit
+PGF_07242312	Psychroflexus	622.17	0.98	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_08039519	Psychroflexus	1102.17	5.71	putative membrane protein
+PGF_08068683	Psychroflexus	334.00	3.29	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_08101849	Psychroflexus	87.00	0.63	hypothetical protein
+PGF_08126362	Psychroflexus	442.67	5.61	DNA recombination protein RmuC
+PGF_08126905	Psychroflexus	217.67	0.52	hypothetical protein
+PGF_08141949	Psychroflexus	233.33	7.31	Glycosyltransferase
+PGF_08173729	Psychroflexus	173.67	22.81	hypothetical protein
+PGF_08183187	Psychroflexus	408.67	6.74	Cell division protein FtsW
+PGF_08197941	Psychroflexus	255.50	3.67	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)
+PGF_08199149	Psychroflexus	463.00	0.00	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)

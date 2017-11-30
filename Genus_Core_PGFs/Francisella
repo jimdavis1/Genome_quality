@@ -1,0 +1,957 @@
+PGF_00002491	Francisella	408.55	43.63	FIG015547: peptidase, M16 family
+PGF_00002571	Francisella	272.58	44.85	FIG018329: 1-acyl-sn-glycerol-3-phosphate acyltransferase
+PGF_00003516	Francisella	127.36	66.47	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003697	Francisella	130.38	27.00	FIG173184: hypothetical protein
+PGF_00003749	Francisella	153.95	0.72	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00004671	Francisella	723.34	103.40	Ferrous iron transport protein B
+PGF_00006100	Francisella	238.34	26.87	tRNA-modifying protein YgfZ
+PGF_00006359	Francisella	298.74	1.09	Fructokinase (EC 2.7.1.4)
+PGF_00006378	Francisella	328.02	0.22	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006394	Francisella	352.18	19.13	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006454	Francisella	501.33	26.02	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006935	Francisella	508.52	58.87	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Francisella	361.02	20.39	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Francisella	460.23	41.44	GTP-binding protein EngA
+PGF_00007026	Francisella	188.47	27.71	GTP-binding protein EngB
+PGF_00007027	Francisella	297.37	2.44	GTP-binding protein Era
+PGF_00007028	Francisella	425.96	46.62	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Francisella	605.09	1.30	GTP-binding protein TypA/BipA
+PGF_00007057	Francisella	447.38	30.66	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Francisella	372.95	44.19	Galactokinase (EC 2.7.1.6)
+PGF_00007120	Francisella	327.22	56.61	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007304	Francisella	289.56	3.22	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Francisella	304.99	0.58	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Francisella	334.70	28.85	Glucokinase (EC 2.7.1.2)
+PGF_00007925	Francisella	332.82	41.06	Glucosamine-6-phosphate deaminase [isomerizing], alternative (EC 3.5.99.6)
+PGF_00007982	Francisella	294.12	0.82	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Francisella	532.28	53.09	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008106	Francisella	262.14	21.56	Glutamate racemase (EC 5.1.1.3)
+PGF_00008159	Francisella	486.99	64.49	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008164	Francisella	428.77	24.53	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008192	Francisella	498.71	66.03	Glutaminase (EC 3.5.1.2)
+PGF_00008246	Francisella	261.54	31.37	Glutamine amidotransferases class-II
+PGF_00008260	Francisella	341.70	27.39	Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)
+PGF_00008326	Francisella	545.76	31.05	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Francisella	408.04	37.41	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Francisella	465.70	23.91	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008347	Francisella	85.86	2.42	Glutaredoxin
+PGF_00008469	Francisella	321.75	18.31	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008510	Francisella	240.90	0.30	16S rRNA (guanine(1516)-N(2))-methyltransferase (EC 2.1.1.242)
+PGF_00008537	Francisella	488.48	55.03	Glycerol kinase (EC 2.7.1.30)
+PGF_00008542	Francisella	252.69	14.16	Glycerol uptake facilitator protein
+PGF_00008611	Francisella	330.44	18.51	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008644	Francisella	423.62	66.71	Glycerol-3-phosphate transporter
+PGF_00008774	Francisella	452.56	23.28	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Francisella	473.76	51.33	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008838	Francisella	202.80	10.55	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008874	Francisella	733.15	97.47	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Francisella	485.95	27.01	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Francisella	190.66	4.25	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009614	Francisella	427.22	56.50	ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate) / C-terminal AAA-associated domain
+PGF_00009967	Francisella	293.07	15.95	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Francisella	683.18	70.38	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Francisella	240.58	6.41	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Francisella	696.81	62.07	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Francisella	190.38	1.81	Guanylate kinase (EC 2.7.4.8)
+PGF_00010468	Francisella	250.82	39.69	Hydrolase (HAD superfamily) in cluster with DUF1447
+PGF_00011081	Francisella	708.09	65.47	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011634	Francisella	351.42	29.35	HflK protein
+PGF_00012264	Francisella	342.40	35.80	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012451	Francisella	154.56	8.06	17 kDa major membrane protein precursor
+PGF_00012653	Francisella	185.71	11.84	Hydrolase, HAD subfamily IIIA
+PGF_00013265	Francisella	245.37	14.28	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013283	Francisella	222.02	1.93	UPF0001 protein YggS
+PGF_00013444	Francisella	290.39	6.62	Hypothetical sugar kinase, ROK family
+PGF_00013492	Francisella	177.30	0.90	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Francisella	512.20	30.25	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013857	Francisella	645.90	73.85	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014053	Francisella	427.23	88.11	Indole-3-glycerol phosphate synthase (EC 4.1.1.48) / Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00014183	Francisella	392.97	23.42	Inner membrane protein YihY, formerly thought to be RNase BN
+PGF_00014306	Francisella	172.14	9.02	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Francisella	486.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Francisella	261.08	15.52	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Francisella	101.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Francisella	172.02	13.45	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Francisella	296.52	16.95	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015264	Francisella	117.89	0.33	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_00015510	Francisella	248.07	5.60	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Francisella	478.51	30.09	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Francisella	375.93	32.51	Iron-sulfur cluster assembly protein SufD
+PGF_00015573	Francisella	208.96	1.00	Iron-sulfur cluster-binding protein
+PGF_00015630	Francisella	285.23	14.75	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015703	Francisella	736.31	24.12	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Francisella	911.27	132.32	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015728	Francisella	271.45	38.75	Isopenicillin N synthase
+PGF_00016047	Francisella	332.27	53.32	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016225	Francisella	457.00	0.00	L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016261	Francisella	350.42	6.04	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016328	Francisella	171.26	8.28	LSU ribosomal protein L10p (P0)
+PGF_00016338	Francisella	412.81	36.07	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Francisella	121.61	5.43	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Francisella	143.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Francisella	136.55	5.97	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Francisella	144.97	0.43	LSU ribosomal protein L17p
+PGF_00016353	Francisella	117.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Francisella	229.68	16.20	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Francisella	118.02	0.22	LSU ribosomal protein L20p
+PGF_00016368	Francisella	110.90	1.32	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Francisella	99.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Francisella	105.01	0.07	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Francisella	83.99	0.07	LSU ribosomal protein L27p
+PGF_00016393	Francisella	270.09	26.81	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Francisella	61.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Francisella	60.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Francisella	51.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Francisella	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Francisella	64.28	4.94	LSU ribosomal protein L35p
+PGF_00016424	Francisella	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Francisella	210.17	0.38	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Francisella	206.90	0.78	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Francisella	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Francisella	178.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Francisella	123.96	8.18	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Francisella	151.00	0.00	LSU ribosomal protein L9p
+PGF_00016495	Francisella	210.44	34.29	Lactam utilization protein LamB
+PGF_00016546	Francisella	125.68	8.29	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016843	Francisella	190.27	8.86	LemA protein
+PGF_00017109	Francisella	363.56	64.70	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017127	Francisella	285.08	40.58	Lipoate-protein ligase A
+PGF_00017190	Francisella	241.17	14.87	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017303	Francisella	202.49	15.00	Lipopolysaccharide export system protein LptC
+PGF_00017464	Francisella	229.73	13.74	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Francisella	323.70	24.40	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017644	Francisella	276.75	15.17	Lipopolysaccharide export system protein LptA
+PGF_00017939	Francisella	324.01	28.86	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00017965	Francisella	699.76	72.53	Lysine decarboxylase, inducible (EC 4.1.1.18)
+PGF_00018016	Francisella	479.29	35.93	Lysine-specific permease
+PGF_00018532	Francisella	96.00	0.00	Macrophage infectivity potentiator
+PGF_00018952	Francisella	317.45	17.63	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019280	Francisella	461.79	39.87	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) / Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019311	Francisella	120.08	1.02	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Francisella	181.42	13.51	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020168	Francisella	381.13	16.71	Membrane-bound lytic murein transglycosylase A
+PGF_00020361	Francisella	160.93	5.22	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Francisella	255.93	1.01	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020984	Francisella	292.61	59.56	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021217	Francisella	506.45	40.03	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021881	Francisella	207.98	14.33	FIG00449901: hypothetical protein
+PGF_00023591	Francisella	334.27	21.44	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023794	Francisella	369.47	41.78	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00023835	Francisella	294.85	15.54	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00024273	Francisella	162.79	1.58	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Francisella	364.90	1.45	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024478	Francisella	327.47	33.46	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024480	Francisella	597.48	48.73	NAD-dependent malic enzyme (EC 1.1.1.38)
+PGF_00024567	Francisella	379.38	32.78	Acetate kinase (EC 2.7.2.1)
+PGF_00024687	Francisella	412.62	32.12	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Francisella	161.81	2.68	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Francisella	200.71	4.28	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Francisella	97.19	14.14	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Francisella	528.98	0.12	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Francisella	473.60	54.89	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024831	Francisella	437.83	59.51	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00025033	Francisella	247.73	15.40	NMN synthetase (EC 6.3.1.-)
+PGF_00025578	Francisella	429.72	112.37	Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)
+PGF_00025581	Francisella	345.02	19.74	Nicotinamide-nucleotide adenylyltransferase, NadM family (EC 2.7.7.1) / ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00026279	Francisella	315.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Francisella	192.03	0.27	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Francisella	298.31	15.51	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026866	Francisella	323.21	18.53	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Francisella	662.13	56.31	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027795	Francisella	153.69	1.27	Outer membrane lipoprotein
+PGF_00027813	Francisella	206.06	13.52	Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_00027856	Francisella	411.08	39.93	Outer membrane lipoprotein omp16 precursor
+PGF_00028186	Francisella	371.42	9.11	Outer membrane protein
+PGF_00028244	Francisella	170.28	27.81	Outer membrane protein 26
+PGF_00028947	Francisella	223.24	4.92	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) / Dihydropteridine reductase (EC 1.5.1.34)
+PGF_00029917	Francisella	260.98	0.29	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Francisella	358.86	19.48	Peptide chain release factor 1
+PGF_00030643	Francisella	519.31	48.96	Peptide chain release factor 3
+PGF_00030813	Francisella	92.00	0.00	Peptidyl-prolyl cis-trans isomerase PpiC (EC 5.2.1.8)
+PGF_00030817	Francisella	474.55	29.43	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_00031259	Francisella	264.84	43.75	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_00031346	Francisella	352.22	34.22	Lipopolysaccharide export system permease protein LptF
+PGF_00033095	Francisella	789.74	3.14	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Francisella	322.02	27.03	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Francisella	346.09	21.73	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Francisella	353.83	18.63	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033416	Francisella	200.59	29.57	Acyl-CoA thioesterase I
+PGF_00033479	Francisella	523.92	79.66	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Francisella	389.93	21.10	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033666	Francisella	208.37	14.86	Phosphohydrolase (MutT/nudix family protein)
+PGF_00033729	Francisella	256.41	23.04	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Francisella	266.63	1.03	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033759	Francisella	96.97	0.72	Phospholipid ABC transporter-binding protein MlaB
+PGF_00033877	Francisella	162.01	0.10	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Francisella	408.62	53.57	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033954	Francisella	347.07	0.94	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Francisella	1266.66	156.68	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Francisella	190.09	9.79	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Francisella	369.94	64.70	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033985	Francisella	349.14	7.21	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034602	Francisella	400.98	21.45	Poly-gamma-glutamate synthase subunit PgsB/CapB (EC 6.3.2.-)
+PGF_00034731	Francisella	314.24	20.82	Polymyxin resistance protein ArnC, glycosyl transferase (EC 2.4.-.-)
+PGF_00034776	Francisella	689.39	44.03	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Francisella	172.59	16.61	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Francisella	323.96	1.15	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Francisella	154.96	0.21	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035364	Francisella	165.07	0.38	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035407	Francisella	184.38	1.57	Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035721	Francisella	429.78	24.22	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Francisella	427.99	0.14	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036099	Francisella	213.27	36.71	Predicted metal-dependent hydrolase
+PGF_00036140	Francisella	285.41	37.30	Predicted nucleoside-diphosphate sugar epimerase
+PGF_00036580	Francisella	118.01	0.07	Protein translocase subunit YajC
+PGF_00036689	Francisella	231.51	6.59	RNA chaperone ProQ
+PGF_00036746	Francisella	454.44	30.37	Probable Co/Zn/Cd efflux system membrane fusion protein
+PGF_00037171	Francisella	326.51	34.97	Probable low-affinity inorganic phosphate transporter
+PGF_00037523	Francisella	1302.85	201.96	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037565	Francisella	470.53	44.79	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037588	Francisella	565.01	0.07	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037932	Francisella	71.01	9.45	Alcohol dehydrogenase, class IV
+PGF_00037937	Francisella	91.86	12.03	Protein PhnA
+PGF_00038674	Francisella	312.13	17.21	Protein translocase subunit SecF
+PGF_00038769	Francisella	204.96	11.98	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_00038987	Francisella	237.62	20.32	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039337	Francisella	196.68	11.60	Putative DedA family, membrane protein
+PGF_00039342	Francisella	272.21	23.21	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039710	Francisella	254.33	16.06	Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00039721	Francisella	227.01	7.81	Putative TEGT family carrier/transport protein
+PGF_00040578	Francisella	254.99	0.39	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Francisella	223.65	44.73	Putative deoxyribonuclease YjjV
+PGF_00040689	Francisella	292.44	61.71	Putative efflux protein
+PGF_00041938	Francisella	156.61	56.73	Putative mechanosensitive ion channel
+PGF_00041948	Francisella	411.08	37.84	Putative membrane protein YfjD
+PGF_00043031	Francisella	327.43	5.59	Putative periplasmic protein
+PGF_00043136	Francisella	228.69	56.04	Putative permease
+PGF_00043154	Francisella	367.99	0.07	Putative permease PerM (= YfgO)
+PGF_00044007	Francisella	193.79	33.05	Putative short-chain dehydrogenase
+PGF_00045726	Francisella	386.47	33.38	Putrescine ABC transporter putrescine-binding protein PotF (TC 3.A.1.11.2)
+PGF_00045738	Francisella	291.43	18.36	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045787	Francisella	178.07	9.65	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Francisella	286.06	12.84	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045982	Francisella	857.87	144.85	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00045991	Francisella	472.87	41.11	Pyruvate kinase (EC 2.7.1.40)
+PGF_00045999	Francisella	867.53	69.59	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+PGF_00046101	Francisella	285.53	14.27	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Francisella	335.82	32.45	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046622	Francisella	108.74	3.76	RNA-binding protein Hfq
+PGF_00046773	Francisella	592.25	101.44	RNase R-related protein
+PGF_00047078	Francisella	356.36	23.26	RecA protein
+PGF_00047093	Francisella	418.59	118.53	RecD-like DNA helicase Atu2026
+PGF_00047191	Francisella	251.76	22.96	Regulator of chromosome condensation RCC1 family protein
+PGF_00047533	Francisella	395.97	23.80	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00048303	Francisella	244.75	26.61	Rhodanese domain protein
+PGF_00048327	Francisella	325.61	21.74	Rhodanese domain protein UPF0176
+PGF_00048480	Francisella	200.15	11.47	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Francisella	152.17	1.14	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Francisella	184.25	15.50	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Francisella	234.86	1.88	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048630	Francisella	583.68	47.40	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048634	Francisella	407.81	24.84	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048782	Francisella	320.29	16.60	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Francisella	266.10	30.20	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Francisella	279.25	17.09	Ribosomal protein L11 methyltransferase
+PGF_00048842	Francisella	310.61	24.54	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048917	Francisella	98.40	1.20	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Francisella	184.04	9.51	Ribosome recycling factor
+PGF_00048928	Francisella	294.82	2.49	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Francisella	120.91	8.64	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Francisella	142.99	0.07	Ribosome-binding factor A
+PGF_00048985	Francisella	222.98	5.99	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Francisella	382.05	32.51	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Francisella	336.08	22.16	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049554	Francisella	269.40	9.95	SAM-dependent methyltransferase, BioC-like
+PGF_00049827	Francisella	261.96	0.34	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Francisella	104.63	3.95	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Francisella	128.45	3.99	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Francisella	123.54	6.35	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Francisella	117.73	3.82	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Francisella	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Francisella	88.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Francisella	81.03	1.98	SSU ribosomal protein S16p
+PGF_00049854	Francisella	82.83	2.32	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Francisella	72.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Francisella	88.19	11.64	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Francisella	221.25	14.38	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Francisella	206.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Francisella	165.03	7.07	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Francisella	110.66	4.69	SSU ribosomal protein S6p
+PGF_00049904	Francisella	157.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Francisella	130.73	10.38	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Francisella	129.46	1.08	SSU ribosomal protein S9p (S16e)
+PGF_00050369	Francisella	451.01	55.91	Selenoprotein O and cysteine-containing homologs
+PGF_00050995	Francisella	493.41	26.46	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Francisella	227.92	1.03	Septum site-determining protein MinC
+PGF_00051525	Francisella	419.37	40.18	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Francisella	451.64	46.41	Signal recognition particle protein Ffh
+PGF_00052705	Francisella	144.05	0.88	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Francisella	290.52	15.68	Site-specific tyrosine recombinase XerD
+PGF_00053372	Francisella	181.02	10.80	Sodium-dependent phosphate transporter
+PGF_00053507	Francisella	334.03	28.31	SohB protein, peptidase U7 family
+PGF_00053553	Francisella	466.16	1.16	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+PGF_00053770	Francisella	354.33	27.53	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054480	Francisella	233.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Francisella	384.67	24.99	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055099	Francisella	137.31	4.74	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055273	Francisella	191.03	9.95	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055508	Francisella	465.53	40.26	TPR domain protein
+PGF_00056273	Francisella	320.59	5.52	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056662	Francisella	311.88	81.34	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056679	Francisella	278.73	20.46	Thiol:disulfide interchange protein DsbG precursor
+PGF_00056872	Francisella	194.35	4.86	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Francisella	208.32	2.72	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Francisella	274.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057016	Francisella	139.01	13.75	Tol biopolymer transport system, TolR protein
+PGF_00057270	Francisella	728.88	64.01	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Francisella	330.25	9.51	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Francisella	147.92	1.09	Transamidase GatB domain protein
+PGF_00057483	Francisella	419.10	10.55	Transcription termination factor Rho
+PGF_00057485	Francisella	485.18	31.02	Transcription termination protein NusA
+PGF_00057488	Francisella	141.00	0.00	Transcription termination protein NusB
+PGF_00060398	Francisella	661.28	45.79	Transketolase (EC 2.2.1.1)
+PGF_00060409	Francisella	699.50	44.88	Translation elongation factor G
+PGF_00060414	Francisella	590.51	37.87	Translation elongation factor LepA
+PGF_00060421	Francisella	188.49	6.98	Translation elongation factor P
+PGF_00060424	Francisella	303.88	25.66	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Francisella	289.00	0.00	Translation elongation factor Ts
+PGF_00060428	Francisella	387.81	43.30	Translation elongation factor Tu
+PGF_00060431	Francisella	71.83	1.15	Translation initiation factor 1
+PGF_00060478	Francisella	166.65	15.79	Translation initiation factor 3
+PGF_00062023	Francisella	266.64	11.15	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Francisella	372.53	76.16	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Francisella	327.44	37.18	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063351	Francisella	444.38	76.57	Arabinose-proton symporter
+PGF_00063640	Francisella	184.15	34.54	Type IV fimbrial biogenesis protein FimT
+PGF_00063679	Francisella	221.66	62.85	Type IV pili fiber building block protein
+PGF_00063696	Francisella	275.28	68.15	Type IV pilus (Tfp) assembly protein PilF
+PGF_00063761	Francisella	184.61	32.44	Type IV pilus biogenesis protein PilP
+PGF_00063916	Francisella	393.46	40.25	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Francisella	236.76	12.38	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Francisella	283.77	16.73	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063974	Francisella	282.02	0.12	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063975	Francisella	427.27	40.63	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_00063993	Francisella	362.39	47.54	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Francisella	437.71	63.94	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Francisella	453.48	25.86	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064270	Francisella	255.79	15.12	UPF0246 protein YaaA
+PGF_00064280	Francisella	140.38	20.57	UPF0260 protein YcgN
+PGF_00064378	Francisella	259.46	66.15	Transmembrane protein YfcA
+PGF_00064393	Francisella	277.75	40.30	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064460	Francisella	534.52	68.09	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064506	Francisella	258.38	6.12	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064685	Francisella	81.01	0.07	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Francisella	211.00	0.00	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00064880	Francisella	435.58	43.76	Uncharacterized protease YegQ
+PGF_00065477	Francisella	973.91	155.24	Uncharacterized protein YdiJ
+PGF_00065887	Francisella	238.16	8.50	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066086	Francisella	117.06	0.33	Unnamed protein product
+PGF_00066123	Francisella	206.92	13.15	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Francisella	219.79	0.62	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Francisella	220.51	5.89	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066257	Francisella	266.52	4.02	Uridine phosphorylase (EC 2.4.2.3)
+PGF_00066270	Francisella	340.60	26.89	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066445	Francisella	257.87	72.41	VacJ-like lipoprotein
+PGF_00066453	Francisella	904.96	102.74	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Francisella	108.64	6.84	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066867	Francisella	590.99	48.75	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066964	Francisella	401.01	105.78	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Francisella	343.18	51.93	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067346	Francisella	179.73	31.04	YheO-like PAS domain
+PGF_00067412	Francisella	77.98	0.12	YrbA protein
+PGF_00067466	Francisella	582.40	53.75	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067547	Francisella	136.38	18.79	Zinc uptake regulation protein Zur
+PGF_00067554	Francisella	470.55	28.51	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00070138	Francisella	259.97	28.32	BAX protein
+PGF_00070354	Francisella	365.54	30.37	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)
+PGF_00070432	Francisella	432.97	47.08	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00072304	Francisella	195.95	10.49	2-keto-4-pentenoate hydratase (EC 4.2.1.80)
+PGF_00087781	Francisella	64.00	0.00	hypothetical protein
+PGF_00089084	Francisella	627.77	88.73	hypothetical protein
+PGF_00090296	Francisella	180.40	34.76	hypothetical protein
+PGF_00108786	Francisella	70.76	3.12	hypothetical protein
+PGF_00119767	Francisella	141.40	3.25	hypothetical protein
+PGF_00126204	Francisella	433.44	39.94	hypothetical protein
+PGF_00129650	Francisella	143.01	7.89	hypothetical protein
+PGF_00130589	Francisella	129.90	0.30	hypothetical protein
+PGF_00132485	Francisella	149.35	10.53	hypothetical protein
+PGF_00137374	Francisella	145.03	11.86	hypothetical protein
+PGF_00138695	Francisella	126.76	11.94	hypothetical protein
+PGF_00143529	Francisella	106.90	1.38	hypothetical protein
+PGF_00144272	Francisella	175.06	6.96	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00145211	Francisella	348.32	40.30	hypothetical protein
+PGF_00151202	Francisella	148.22	4.79	hypothetical protein
+PGF_00158271	Francisella	106.25	1.21	hypothetical protein
+PGF_00164778	Francisella	117.07	7.18	hypothetical protein
+PGF_00172545	Francisella	116.75	16.50	hypothetical protein
+PGF_00178470	Francisella	142.26	8.52	hypothetical protein
+PGF_00182135	Francisella	187.17	17.19	hypothetical protein
+PGF_00194856	Francisella	225.55	17.12	hypothetical protein
+PGF_00202166	Francisella	153.79	14.25	hypothetical protein
+PGF_00202980	Francisella	56.79	0.61	hypothetical protein
+PGF_00211086	Francisella	350.50	31.42	hypothetical protein
+PGF_00213261	Francisella	227.01	24.80	hypothetical protein
+PGF_00216212	Francisella	158.74	27.00	hypothetical protein
+PGF_00223496	Francisella	357.17	14.02	hypothetical protein
+PGF_00237148	Francisella	109.39	20.16	hypothetical protein
+PGF_00248149	Francisella	229.23	14.39	hypothetical protein
+PGF_00260189	Francisella	239.97	12.95	hypothetical protein
+PGF_00261173	Francisella	350.54	45.80	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00272785	Francisella	148.21	12.43	hypothetical protein
+PGF_00285620	Francisella	201.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00286307	Francisella	125.16	20.46	hypothetical protein
+PGF_00286337	Francisella	292.85	34.35	hypothetical protein
+PGF_00304007	Francisella	322.69	8.73	hypothetical protein
+PGF_00319151	Francisella	107.57	6.50	hypothetical protein
+PGF_00324055	Francisella	158.50	19.40	hypothetical protein
+PGF_00324476	Francisella	340.63	1.82	Membrane fusion component of MSF-type tripartite multidrug efflux system
+PGF_00328271	Francisella	170.02	6.98	hypothetical protein
+PGF_00334484	Francisella	78.47	9.29	hypothetical protein
+PGF_00335890	Francisella	172.41	40.21	hypothetical protein
+PGF_00339841	Francisella	145.62	15.94	hypothetical protein
+PGF_00341219	Francisella	238.65	2.30	hypothetical protein
+PGF_00348965	Francisella	324.20	43.81	hypothetical protein
+PGF_00357567	Francisella	134.84	1.26	hypothetical protein
+PGF_00364028	Francisella	235.31	8.51	hypothetical protein
+PGF_00375703	Francisella	318.47	24.16	hypothetical protein
+PGF_00378539	Francisella	191.93	30.07	hypothetical protein
+PGF_00380005	Francisella	195.98	19.25	hypothetical protein
+PGF_00389177	Francisella	466.16	24.01	hypothetical protein
+PGF_00390167	Francisella	335.17	19.37	hypothetical protein
+PGF_00399617	Francisella	254.61	5.21	hypothetical protein Fphi_0438
+PGF_00399630	Francisella	303.18	2.38	hypothetical protein PA3071
+PGF_00400019	Francisella	331.30	17.97	Aerotolerance protein BatA
+PGF_00400030	Francisella	330.18	21.09	Aerotolerance protein BatB
+PGF_00401752	Francisella	248.75	9.14	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00404078	Francisella	157.09	0.83	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Francisella	446.17	34.24	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404831	Francisella	270.86	25.86	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Francisella	931.74	30.28	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408236	Francisella	457.25	42.40	putative lipoprotein
+PGF_00408394	Francisella	80.71	3.23	putative lipoprotein
+PGF_00408673	Francisella	469.95	124.01	Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+PGF_00408742	Francisella	77.57	1.95	putative membrane protein
+PGF_00410883	Francisella	156.93	12.05	Single-stranded DNA-binding protein
+PGF_00412456	Francisella	160.82	12.17	Uncharacterized protein FTF0903
+PGF_00413203	Francisella	153.30	10.36	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Francisella	252.28	0.92	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413232	Francisella	100.83	11.38	tRNA 2-thiouridine synthesis protein TusE
+PGF_00413266	Francisella	319.54	13.66	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Francisella	258.01	0.14	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Francisella	286.56	47.85	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413319	Francisella	201.29	12.50	tRNA-(ms[2]io[6]A)-hydroxylase
+PGF_00413554	Francisella	157.00	0.00	tmRNA-binding protein SmpB
+PGF_00414880	Francisella	195.25	10.23	CBS domain protein
+PGF_00414926	Francisella	334.25	79.55	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415422	Francisella	701.95	83.53	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415481	Francisella	374.83	24.48	SAM-dependent methyltransferase, MidA
+PGF_00415486	Francisella	153.92	16.01	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Francisella	205.71	3.97	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416115	Francisella	304.26	17.73	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Francisella	545.99	0.14	CTP synthase (EC 6.3.4.2)
+PGF_00416350	Francisella	408.14	32.32	Capsular polysaccharide synthesis enzyme CpsJ, membrane protein, export of O-antigen and teichoic acid
+PGF_00416410	Francisella	1065.99	158.01	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416525	Francisella	224.84	22.48	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416576	Francisella	177.97	1.79	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Francisella	400.89	25.03	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416702	Francisella	728.79	78.63	Catalase-peroxidase KatG (EC 1.11.1.21)
+PGF_00417005	Francisella	114.52	8.56	Cell division protein FtsL
+PGF_00417429	Francisella	368.04	31.79	Chaperone protein DnaJ
+PGF_00417433	Francisella	642.04	0.19	Chaperone protein DnaK
+PGF_00417577	Francisella	145.01	0.07	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Francisella	356.63	19.82	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417824	Francisella	181.77	0.64	Chorismate mutase I (EC 5.4.99.5)
+PGF_00417839	Francisella	119.99	0.10	Chorismate mutase II (EC 5.4.99.5)
+PGF_00417840	Francisella	348.02	28.08	Chorismate synthase (EC 4.2.3.5)
+PGF_00417842	Francisella	168.34	0.93	Chorismate--pyruvate lyase (EC 4.1.3.40)
+PGF_00417987	Francisella	180.46	10.84	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Francisella	249.99	0.14	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00419149	Francisella	340.30	37.60	hypothetical protein
+PGF_00419627	Francisella	304.40	26.59	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Francisella	171.52	2.49	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419875	Francisella	272.00	0.00	Cyanophycinase (EC 3.4.15.6)
+PGF_00419915	Francisella	258.05	33.23	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420121	Francisella	221.09	0.37	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420612	Francisella	239.19	7.04	Cytoplasmic copper homeostasis protein CutC
+PGF_00420731	Francisella	476.49	30.38	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420903	Francisella	320.78	19.10	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420994	Francisella	636.99	41.28	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421098	Francisella	570.20	3.76	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421479	Francisella	145.04	0.84	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_00421489	Francisella	1140.99	121.92	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Francisella	364.65	20.09	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Francisella	591.98	77.39	DNA primase (EC 2.7.7.-)
+PGF_00421733	Francisella	348.98	0.24	DNA recombination and repair protein RecF
+PGF_00421780	Francisella	876.78	154.56	DNA repair helicase rad25
+PGF_00421792	Francisella	446.17	54.72	DNA repair protein RadA
+PGF_00421796	Francisella	546.73	29.70	DNA repair protein RecN
+PGF_00422177	Francisella	124.30	51.98	DNA-binding response regulator KdpE
+PGF_00422390	Francisella	345.89	42.58	DNA/RNA endonuclease G
+PGF_00422918	Francisella	182.66	14.46	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Francisella	147.98	0.55	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Francisella	351.10	26.21	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Francisella	387.32	24.54	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423325	Francisella	223.10	25.69	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_00423378	Francisella	448.00	0.00	Dihydroorotase (EC 3.5.2.3)
+PGF_00423533	Francisella	270.88	21.74	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423914	Francisella	173.62	10.88	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Francisella	284.68	5.70	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424232	Francisella	135.65	12.32	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424569	Francisella	258.60	15.08	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Francisella	599.48	61.93	Excinuclease ABC subunit C
+PGF_00425010	Francisella	476.95	38.56	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425011	Francisella	260.65	13.37	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425021	Francisella	1052.17	140.51	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Francisella	460.70	2.41	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425214	Francisella	105.18	8.20	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425564	Francisella	401.08	1.43	FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_00425665	Francisella	223.21	30.44	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425679	Francisella	197.14	13.46	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Francisella	246.64	13.64	Probable transcriptional regulatory protein YebC
+PGF_00425704	Francisella	87.11	1.03	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425800	Francisella	174.70	12.85	FIG002577: Putative lipoprotein precursor
+PGF_00425993	Francisella	382.57	23.58	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426115	Francisella	600.06	82.64	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Francisella	399.14	24.31	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426877	Francisella	283.42	23.73	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Francisella	146.99	0.14	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Francisella	278.34	16.28	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00451246	Francisella	92.03	0.30	RNA-binding protein YhbY
+PGF_00461823	Francisella	246.89	1.20	Oxidoreductase, short-chain dehydrogenase/reductase family (EC 1.1.1.-)
+PGF_00482828	Francisella	443.01	0.07	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00500015	Francisella	286.51	17.31	pyridoxal phosphate-dependent deaminase, putative
+PGF_00529632	Francisella	829.32	153.83	ClpB protein
+PGF_00535698	Francisella	247.00	0.00	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+PGF_00569671	Francisella	289.26	0.75	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00596539	Francisella	587.11	46.31	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598374	Francisella	181.83	14.56	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00601220	Francisella	213.50	45.01	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+PGF_00615323	Francisella	198.10	0.60	Phosphoheptose isomerase 1 (EC 5.3.1.-)
+PGF_00616490	Francisella	284.69	17.30	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Francisella	368.02	24.40	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Francisella	485.66	55.60	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Francisella	327.61	29.54	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644953	Francisella	308.06	0.34	DnaJ-class molecular chaperone CbpA
+PGF_00648054	Francisella	232.30	20.67	Tol-Pal system protein TolQ
+PGF_00649271	Francisella	88.00	0.00	Cell division protein BolA
+PGF_00655358	Francisella	480.30	40.45	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00658986	Francisella	118.29	5.68	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00659194	Francisella	207.08	11.88	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Francisella	413.79	24.92	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Francisella	115.12	11.11	Ribosomal silencing factor RsfA
+PGF_00666130	Francisella	252.83	15.42	Phosphatidylcholine synthase (EC 2.7.8.24)
+PGF_00671718	Francisella	228.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_00679638	Francisella	489.99	0.10	Methionine ABC transporter permease protein / Methionine ABC transporter substrate-binding protein
+PGF_00694978	Francisella	259.58	16.93	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00717495	Francisella	416.27	28.49	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Francisella	322.12	4.67	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00727863	Francisella	223.25	18.17	putative membrane protein
+PGF_00734482	Francisella	751.05	86.47	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00743561	Francisella	190.78	11.52	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00751136	Francisella	489.69	4.79	Efflux transport system, outer membrane factor (OMF) lipoprotein
+PGF_00751944	Francisella	230.95	9.31	DNA recombination and repair protein RecO
+PGF_00772575	Francisella	250.12	19.83	Methionine ABC transporter ATP-binding protein
+PGF_00777371	Francisella	210.11	1.91	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Francisella	228.09	0.30	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00799171	Francisella	298.60	17.63	TolA protein
+PGF_00803798	Francisella	167.21	1.01	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_00810554	Francisella	407.03	4.48	Uncharacterized MFS-type transporter
+PGF_00853393	Francisella	290.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Francisella	398.07	51.43	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00874759	Francisella	426.17	28.33	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00900256	Francisella	425.91	25.96	Threonine synthase (EC 4.2.3.1)
+PGF_00907466	Francisella	201.39	9.20	SM-20-related protein
+PGF_00908360	Francisella	247.79	19.17	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Francisella	324.73	13.03	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Francisella	387.31	52.17	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Francisella	575.67	45.20	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00945299	Francisella	189.60	11.52	Isochorismatase (EC 3.3.2.1)
+PGF_00950554	Francisella	664.41	37.50	Excinuclease ABC subunit B
+PGF_00956835	Francisella	212.18	11.54	4'-phosphopantetheinyl transferase (EC 2.7.8.-)
+PGF_00957419	Francisella	135.36	7.74	Putative pre-16S rRNA nuclease Yqg
+PGF_00969205	Francisella	364.60	31.18	Ribokinase (EC 2.7.1.15)
+PGF_00971231	Francisella	173.82	1.86	hypothetical protein
+PGF_00973394	Francisella	172.26	13.32	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_01058419	Francisella	1165.31	226.29	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01079016	Francisella	301.59	19.47	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Francisella	756.94	135.25	Outer membrane protein assembly factor YaeT
+PGF_01090298	Francisella	157.09	28.12	Acetyltransferase, GNAT family
+PGF_01124177	Francisella	483.13	44.96	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01148540	Francisella	284.92	34.00	Choline permease LicB
+PGF_01154330	Francisella	267.46	16.24	Polyphosphate kinase 2 (EC 2.7.4.1)
+PGF_01162681	Francisella	931.47	63.16	Aconitate hydratase (EC 4.2.1.3)
+PGF_01172485	Francisella	414.53	37.01	Cell division protein FtsA
+PGF_01175575	Francisella	627.59	54.10	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01181530	Francisella	113.78	10.53	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01198631	Francisella	235.40	15.27	COG0398: uncharacterized membrane protein
+PGF_01212739	Francisella	539.43	38.66	Heat shock protein 60 family chaperone GroEL
+PGF_01217385	Francisella	219.00	0.00	Enhancing lycopene biosynthesis protein 2
+PGF_01220614	Francisella	248.12	17.62	RNA methyltransferase, TrmH family
+PGF_01223569	Francisella	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01291803	Francisella	331.24	2.72	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Francisella	212.80	0.66	Chromosome (plasmid) partitioning protein ParA
+PGF_01323228	Francisella	202.64	8.76	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01364427	Francisella	216.11	0.37	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01365164	Francisella	326.01	50.98	UPF0324 inner membrane protein YeiH
+PGF_01405081	Francisella	353.40	18.47	Heat shock protein HtpX
+PGF_01415861	Francisella	188.95	10.24	LPS-assembly lipoprotein LptE
+PGF_01421534	Francisella	96.00	0.00	LSU ribosomal protein L25p
+PGF_01423501	Francisella	159.54	6.22	Transcription elongation factor GreA
+PGF_01444546	Francisella	93.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01483918	Francisella	275.29	4.19	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01511614	Francisella	165.64	9.97	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_01514111	Francisella	334.28	18.26	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01604929	Francisella	242.52	14.02	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01625234	Francisella	314.04	19.15	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01682834	Francisella	149.48	7.35	Bacterial ribosome SSU maturation protein RimP
+PGF_01719296	Francisella	165.59	18.16	Cytochrome b561 family
+PGF_01719297	Francisella	93.21	38.78	Transcriptional regulator, AraC family
+PGF_01719300	Francisella	121.63	13.20	hypothetical protein
+PGF_01719302	Francisella	441.47	51.06	Amino-acid permease rocE
+PGF_01719339	Francisella	508.94	2.74	Type I secretion outer membrane protein, TolC family
+PGF_01719352	Francisella	129.46	3.74	hypothetical protein
+PGF_01719392	Francisella	241.27	12.90	Phenol 2-monooxygenase (EC 1.14.13.7)
+PGF_01719402	Francisella	328.92	47.65	Lipopolysaccharide export system permease protein LptG
+PGF_01719408	Francisella	519.94	84.50	hypothetical protein
+PGF_01719452	Francisella	574.18	117.04	5'-methylthioadenosine phosphorylase (EC 2.4.2.28) / Putative esterase
+PGF_01719575	Francisella	429.12	121.15	type IV pilus glycosylation protein
+PGF_01719585	Francisella	390.75	54.05	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_01719653	Francisella	451.17	75.15	Putative amino acid transporter
+PGF_01719725	Francisella	761.87	61.51	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) / Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_01719749	Francisella	238.98	35.73	hypothetical protein
+PGF_01719769	Francisella	337.81	121.58	Arabinose-proton symporter
+PGF_01719789	Francisella	275.95	70.77	Bile acid transporter family protein
+PGF_01719792	Francisella	299.91	37.11	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01719825	Francisella	348.97	31.41	Glycosyltransferase
+PGF_01719863	Francisella	398.41	33.59	Hypothetical protein in predicted poly-gamma-glutamate synthase operon
+PGF_01719864	Francisella	508.32	6.24	Inner-membrane proton/drug antiporter (MSF type) of tripartite multidrug efflux system
+PGF_01719879	Francisella	219.64	26.61	Membrane protein
+PGF_01719910	Francisella	390.71	11.71	Outer membrane protein A precursor
+PGF_01719913	Francisella	217.97	0.36	Phosphate transport regulator (distant homolog of PhoU)
+PGF_01720024	Francisella	277.79	2.10	Universal stress protein
+PGF_01720052	Francisella	239.03	0.45	hypothetical protein
+PGF_01720272	Francisella	220.02	11.98	Carboxylesterase/phospholipase family protein (EC 3.1.1.1)
+PGF_01720335	Francisella	192.84	19.18	hypothetical protein
+PGF_01720384	Francisella	247.16	15.98	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_01720802	Francisella	593.75	96.46	NhaP-type Na+/H+ and K+/H+ antiporters
+PGF_01721230	Francisella	176.65	35.20	Type IV pilus biogenesis protein PilN
+PGF_01721370	Francisella	229.99	19.49	failed axon connections protein
+PGF_01721410	Francisella	155.98	17.78	hypothetical protein
+PGF_01721439	Francisella	126.60	5.63	hypothetical protein
+PGF_01721543	Francisella	123.00	0.00	13 kDa major membrane protein
+PGF_01721713	Francisella	241.07	1.65	ABC transporter involved in resistance to organic solvents, substrate-binding protein 2
+PGF_01722050	Francisella	233.06	14.62	Cell division protein
+PGF_01722135	Francisella	66.19	4.03	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_01722136	Francisella	204.65	15.81	Glutaredoxin 2
+PGF_01722139	Francisella	348.30	29.69	Lipoprotein
+PGF_01722141	Francisella	411.61	3.40	Uncharacterized MFS-type transporter
+PGF_01722142	Francisella	214.56	11.31	Membrane protein
+PGF_01722145	Francisella	457.52	28.85	Outer membrane beta-barrel assembly protein BamB
+PGF_01722146	Francisella	273.52	2.78	Outer membrane beta-barrel assembly protein BamD
+PGF_01722147	Francisella	117.34	7.88	Outer membrane beta-barrel assembly protein BamE
+PGF_01722152	Francisella	215.74	23.34	Phospholipid ABC transporter shuttle protein MlaC
+PGF_01722154	Francisella	683.94	76.95	2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) / Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)
+PGF_01722155	Francisella	139.16	7.03	Rhodanese-like domain protein
+PGF_01722157	Francisella	189.35	7.49	Ribosyl nicotinamide transporter, PnuC-like
+PGF_01722158	Francisella	202.98	5.59	Stringent starvation protein A
+PGF_01722159	Francisella	135.01	0.14	Stringent starvation protein B
+PGF_01722161	Francisella	463.21	38.32	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_01722165	Francisella	398.20	38.02	Zinc protease
+PGF_01722166	Francisella	395.10	23.18	hypothetical protein
+PGF_01722169	Francisella	259.93	7.35	hypothetical protein
+PGF_01722170	Francisella	244.31	26.47	hypothetical protein
+PGF_01722171	Francisella	212.55	6.72	hypothetical protein
+PGF_01722172	Francisella	204.74	21.29	hypothetical protein
+PGF_01722173	Francisella	161.81	2.83	hypothetical protein
+PGF_01722174	Francisella	167.91	27.20	hypothetical protein
+PGF_01722175	Francisella	80.23	8.55	hypothetical protein
+PGF_01722176	Francisella	177.13	10.97	hypothetical protein
+PGF_01722177	Francisella	258.16	22.39	hypothetical protein
+PGF_01722178	Francisella	204.85	1.16	hypothetical protein
+PGF_01722179	Francisella	69.63	3.56	hypothetical protein
+PGF_01722180	Francisella	110.79	2.97	hypothetical protein
+PGF_01722181	Francisella	66.74	0.44	hypothetical protein
+PGF_01722182	Francisella	274.27	37.42	interaptin
+PGF_01722183	Francisella	81.04	0.58	putative membrane protein
+PGF_01722184	Francisella	175.27	15.85	putative small integral membrane protein
+PGF_01722185	Francisella	541.21	72.84	similar to beta-(1-3)-glucosyl transferase GB:AAC62210 GI:3687658 from [Bradyrhizobium japonicum], cellulose synthase from Agrobacterium tumeficiens [gi:710492] and Agrobacterium radiobacter [gi:710493]; contains Pfam glycosyl transferase, group 2 family protein domain PF00535; go_function: transferase activity, transferring glycosyl groups [goid 0016757]; go_function: cellulose synthase activity [goid 0016759] / glycosyl transferase family 2 protein
+PGF_01722186	Francisella	148.59	1.62	17 kDa lipoprotein TUL4 precursor
+PGF_01722187	Francisella	305.98	0.37	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioJ (EC 3.1.1.85)
+PGF_01722188	Francisella	104.16	5.44	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_01722189	Francisella	284.15	13.36	DNA recombination-dependent growth factor RdgC
+PGF_01722190	Francisella	115.70	5.32	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_01722191	Francisella	387.21	8.52	Glutathione-regulated potassium-efflux system protein KefC
+PGF_01722193	Francisella	409.61	34.47	Major facilitator superfamily (MFS) transporter in predicted poly-gamma-glutamate synthase operon
+PGF_01722194	Francisella	149.93	8.69	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_01722197	Francisella	473.29	24.85	Putative periplasmic protein
+PGF_01722198	Francisella	193.91	42.89	hypothetical protein
+PGF_01722199	Francisella	142.75	3.27	hypothetical protein
+PGF_01722200	Francisella	87.61	10.28	hypothetical protein
+PGF_01722201	Francisella	91.20	19.87	hypothetical protein
+PGF_01722202	Francisella	123.72	19.04	11.6 kDa putative exported protein
+PGF_01722205	Francisella	205.65	16.57	Pap2 superfamily protein
+PGF_01722206	Francisella	197.19	2.92	Ubiquinone biosynthesis protein UbiJ
+PGF_01722207	Francisella	405.92	51.62	Proton/sodium-glutamate symport protein
+PGF_01722208	Francisella	188.44	23.68	Ribosyl nicotinamide transporter, PnuC-like
+PGF_01722209	Francisella	224.29	23.89	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_01722212	Francisella	340.84	39.61	hypothetical protein
+PGF_01722213	Francisella	407.72	15.33	hypothetical protein
+PGF_01722214	Francisella	452.33	44.49	hypothetical protein
+PGF_01722215	Francisella	162.24	7.28	hypothetical protein
+PGF_01722216	Francisella	165.08	8.22	hypothetical protein
+PGF_01722217	Francisella	110.74	2.14	hypothetical protein
+PGF_01734668	Francisella	216.20	14.26	Adenylate kinase (EC 2.7.4.3)
+PGF_01783385	Francisella	469.81	29.44	Two-component system sensor histidine kinase
+PGF_01783934	Francisella	67.03	0.36	Uncharacterized transcriptional regulator YozG, Cro/CI family
+PGF_01810645	Francisella	481.14	37.59	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01862412	Francisella	236.49	18.49	Transcriptional regulator, IclR family
+PGF_01888177	Francisella	161.86	9.67	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Francisella	211.86	4.70	Endonuclease III (EC 4.2.99.18)
+PGF_01899042	Francisella	285.92	0.32	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01905685	Francisella	504.01	46.65	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_01920535	Francisella	545.88	29.89	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01922580	Francisella	407.38	25.38	2-polyprenylphenol hydroxylase
+PGF_01937476	Francisella	689.28	48.07	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01960322	Francisella	612.01	0.10	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Francisella	433.59	31.82	Cell division trigger factor (EC 5.2.1.8)
+PGF_02019462	Francisella	335.59	19.49	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Francisella	332.76	1.20	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Francisella	329.13	32.62	GTP-binding protein Obg
+PGF_02049259	Francisella	308.82	5.90	Efflux ABC transporter, ATP-binding protein
+PGF_02059020	Francisella	558.90	0.88	Energy-dependent translational throttle protein EttA
+PGF_02061452	Francisella	366.93	2.34	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Francisella	94.14	5.67	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02111888	Francisella	318.19	0.64	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Francisella	781.19	54.02	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02169237	Francisella	230.60	22.66	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Francisella	420.27	7.14	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02197880	Francisella	111.99	0.10	HIT family hydrolase
+PGF_02224810	Francisella	606.33	90.98	Uncharacterized amino acid permease, GabP family
+PGF_02226715	Francisella	676.36	26.17	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02239557	Francisella	205.51	30.43	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02295498	Francisella	75.41	18.96	Ferredoxin, 2Fe-2S
+PGF_02305956	Francisella	238.50	35.22	Aerotolerance protein BatC
+PGF_02325838	Francisella	491.26	43.75	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02346768	Francisella	851.08	93.07	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Francisella	358.77	35.67	Alanine racemase (EC 5.1.1.1)
+PGF_02357764	Francisella	185.06	18.05	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02369559	Francisella	891.68	47.43	DNA polymerase I (EC 2.7.7.7)
+PGF_02450432	Francisella	263.25	8.06	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Francisella	89.99	0.10	SSU ribosomal protein S20p
+PGF_02463284	Francisella	198.41	13.67	Recombination protein RecR
+PGF_02473279	Francisella	247.07	2.28	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473679	Francisella	529.76	159.85	Type IV fimbrial assembly, ATPase PilB
+PGF_02517984	Francisella	62.21	2.04	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518965	Francisella	146.62	15.41	Regulatory protein RecX
+PGF_02578310	Francisella	148.22	29.85	Rhodanese-related sulfurtransferases
+PGF_02593689	Francisella	413.72	22.43	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Francisella	452.73	57.89	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619970	Francisella	95.88	1.60	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Francisella	305.85	1.27	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Francisella	1401.61	124.99	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Francisella	131.97	4.18	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Francisella	831.78	91.13	DNA mismatch repair protein MutS
+PGF_02738107	Francisella	258.72	26.20	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02745613	Francisella	303.50	15.00	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746016	Francisella	226.83	5.79	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02773452	Francisella	183.62	10.43	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+PGF_02776592	Francisella	325.29	27.13	putative lipoprotein
+PGF_02789532	Francisella	282.35	12.88	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Francisella	208.40	19.52	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Francisella	461.32	2.49	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Francisella	1323.70	180.38	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Francisella	510.59	29.75	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Francisella	205.05	0.39	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Francisella	174.97	10.74	Shikimate kinase I (EC 2.7.1.71)
+PGF_02873160	Francisella	236.66	4.72	Putative preQ0 transporter YhhQ
+PGF_02873723	Francisella	488.14	48.54	Ribonuclease G
+PGF_02890229	Francisella	569.15	101.07	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02902854	Francisella	203.55	12.20	Outer membrane lipoprotein carrier protein LolA
+PGF_02911364	Francisella	307.45	6.59	HflC protein
+PGF_02912267	Francisella	258.74	21.68	Zinc ABC transporter, permease protein ZnuB
+PGF_02912272	Francisella	161.21	7.65	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02914080	Francisella	179.96	0.39	putative membrane protein
+PGF_02919689	Francisella	265.46	27.98	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Francisella	248.95	0.72	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02937881	Francisella	398.67	48.85	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+PGF_02938730	Francisella	318.81	35.78	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942351	Francisella	217.31	20.21	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02944756	Francisella	394.90	1.45	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Francisella	550.21	44.46	SSU ribosomal protein S1p
+PGF_02947204	Francisella	523.80	41.22	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Francisella	273.91	0.29	Septum site-determining protein MinD
+PGF_02956462	Francisella	126.01	0.07	RidA/YER057c/UK114 superfamily protein
+PGF_02959749	Francisella	361.20	4.52	Ribonuclease D (EC 3.1.26.3)
+PGF_02992495	Francisella	116.55	1.67	Protein translocase membrane subunit SecG
+PGF_02997723	Francisella	146.55	15.57	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03000070	Francisella	322.02	50.93	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03017775	Francisella	559.37	29.51	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03025675	Francisella	604.37	31.70	Lipid A export permease/ATP-binding protein MsbA
+PGF_03032484	Francisella	214.53	26.04	Bll0523 protein
+PGF_03054699	Francisella	812.85	101.81	DNA translocase FtsK
+PGF_03066520	Francisella	417.86	16.39	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03074362	Francisella	376.21	30.60	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03075401	Francisella	161.30	2.93	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Francisella	188.21	9.88	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03094694	Francisella	453.18	41.07	Peptidase B (EC 3.4.11.23)
+PGF_03104567	Francisella	450.97	43.10	Trk potassium uptake system protein TrkA
+PGF_03120012	Francisella	205.44	19.45	Threonine efflux protein
+PGF_03124650	Francisella	476.28	39.34	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03128546	Francisella	208.05	43.57	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
+PGF_03146406	Francisella	593.85	37.74	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Francisella	132.60	6.02	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Francisella	267.73	3.49	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Francisella	175.43	11.47	Transcription antitermination protein NusG
+PGF_03222913	Francisella	144.68	4.41	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Francisella	101.01	0.07	UPF0125 protein RatB
+PGF_03257845	Francisella	216.21	11.67	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Francisella	867.51	1.71	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277417	Francisella	321.61	85.86	Methionine ABC transporter ATP-binding protein
+PGF_03278866	Francisella	78.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03318456	Francisella	468.31	65.43	Trk potassium uptake system protein TrkH
+PGF_03421722	Francisella	446.67	27.03	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03439690	Francisella	140.18	2.83	Ferric uptake regulation protein FUR
+PGF_03439803	Francisella	605.56	91.86	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85) / Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_03441339	Francisella	307.53	19.41	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03456505	Francisella	557.33	80.66	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03514188	Francisella	448.23	35.31	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Francisella	139.29	7.32	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Francisella	376.79	26.95	Cell division protein FtsZ
+PGF_03561555	Francisella	194.01	0.07	Acid phosphatase, class B
+PGF_03609651	Francisella	650.44	62.69	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03623322	Francisella	330.30	35.29	Integral membrane protein
+PGF_03687611	Francisella	281.49	21.61	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12) / Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03699416	Francisella	171.61	30.89	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03708253	Francisella	144.02	9.72	Protein translocase subunit SecE
+PGF_03718818	Francisella	224.29	20.86	Cell division protein FtsQ
+PGF_03719269	Francisella	203.86	0.65	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Francisella	135.21	3.37	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Francisella	193.70	2.76	UPF0301 protein YqgE
+PGF_03739563	Francisella	183.00	0.00	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Francisella	476.94	52.71	Chromosomal replication initiator protein DnaA
+PGF_03750600	Francisella	157.44	10.87	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751065	Francisella	55.94	0.87	Rubredoxin
+PGF_03751823	Francisella	194.55	1.26	Heat shock protein GrpE
+PGF_03753122	Francisella	287.90	31.02	Site-specific tyrosine recombinase XerC
+PGF_03753337	Francisella	154.00	0.00	Poly-gamma-glutamate synthase subunit PgsC/CapC (EC 6.3.2.-)
+PGF_03753933	Francisella	136.02	0.22	Iron-sulfur cluster regulator IscR
+PGF_03767152	Francisella	93.98	0.38	Proposed lipoate regulatory protein YbeD
+PGF_03768099	Francisella	282.66	1.83	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03777189	Francisella	178.98	0.22	Protein YrdA
+PGF_03778780	Francisella	330.64	7.59	Signal recognition particle receptor FtsY
+PGF_03787199	Francisella	198.00	0.00	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Francisella	229.34	7.49	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Francisella	272.45	14.05	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Francisella	71.55	0.59	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03835760	Francisella	424.36	32.97	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03846068	Francisella	283.03	0.36	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03856084	Francisella	646.11	20.60	Cell division protein FtsH
+PGF_03977305	Francisella	418.49	26.94	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3) / Dihydropteroate synthase (EC 2.5.1.15)
+PGF_03981123	Francisella	156.56	4.22	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_04007946	Francisella	204.53	12.57	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Francisella	433.03	51.40	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04041316	Francisella	906.85	150.96	Excinuclease ABC subunit A
+PGF_04045122	Francisella	200.28	12.35	hypothetical protein
+PGF_04108824	Francisella	541.07	73.98	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04110368	Francisella	535.63	37.06	Aerotolerance protein BatD
+PGF_04147121	Francisella	300.78	165.45	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04151476	Francisella	169.00	0.00	16S rRNA processing protein RimM
+PGF_04163139	Francisella	180.97	52.47	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04217548	Francisella	605.44	37.36	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04261669	Francisella	97.71	8.36	Transcriptional regulator, ArsR family
+PGF_04267011	Francisella	1020.18	108.28	RND efflux system, inner membrane transporter
+PGF_04273925	Francisella	74.11	4.15	Ferrous iron transport protein A
+PGF_04345693	Francisella	454.79	0.78	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Francisella	906.06	0.28	Protein translocase subunit SecA
+PGF_04380075	Francisella	158.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Francisella	292.84	18.24	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04457297	Francisella	181.07	9.81	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04490570	Francisella	387.43	30.88	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04493258	Francisella	378.97	0.30	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Francisella	239.31	2.12	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Francisella	451.99	1.21	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Francisella	511.05	21.21	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Francisella	207.41	28.76	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Francisella	252.16	2.48	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04660832	Francisella	159.66	2.59	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Francisella	790.98	85.07	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Francisella	393.84	24.74	Alanine transaminase (EC 2.6.1.2)
+PGF_04714433	Francisella	243.72	65.21	hypothetical protein
+PGF_04749763	Francisella	841.26	54.08	Translation initiation factor 2
+PGF_04757308	Francisella	656.06	80.23	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Francisella	189.33	10.73	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Francisella	266.51	17.32	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04807486	Francisella	307.33	2.05	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Francisella	115.00	0.00	LSU ribosomal protein L19p
+PGF_04857863	Francisella	192.96	13.36	Fructose-1-phosphate phosphatase YqaB (EC 3.1.3.-)
+PGF_04962192	Francisella	740.14	96.11	3'-to-5' exoribonuclease RNase R
+PGF_04965976	Francisella	371.69	17.92	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Francisella	71.87	1.53	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Francisella	104.00	0.00	LSU ribosomal protein L21p
+PGF_05021648	Francisella	157.79	1.75	FIG00657500: hypothetical protein
+PGF_05079020	Francisella	318.04	0.51	MoxR-like ATPase in aerotolerance operon
+PGF_05111929	Francisella	564.26	65.74	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Francisella	799.74	89.30	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Francisella	309.70	27.18	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Francisella	455.41	30.27	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Francisella	465.17	37.41	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05255412	Francisella	399.88	89.93	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Francisella	424.94	2.42	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Francisella	206.55	9.76	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Francisella	399.45	113.16	ATP-dependent RNA helicase RhlE
+PGF_05421852	Francisella	621.02	47.87	Chaperone protein HtpG
+PGF_05439724	Francisella	666.86	62.13	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Francisella	393.81	3.93	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05463808	Francisella	296.17	0.58	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Francisella	591.05	64.37	DNA mismatch repair protein MutL
+PGF_05581732	Francisella	435.11	40.09	Protein translocase subunit SecY
+PGF_05598173	Francisella	385.24	24.86	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Francisella	414.26	25.14	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Francisella	222.20	13.94	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05710599	Francisella	232.10	18.14	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05712128	Francisella	539.39	70.16	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Francisella	116.44	5.59	FIG138056: a glutathione-dependent thiol reductase
+PGF_05769513	Francisella	434.96	0.86	Tol-Pal system beta propeller repeat protein TolB
+PGF_05925776	Francisella	282.82	35.21	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Francisella	644.47	3.41	Protein translocase subunit SecD
+PGF_05964592	Francisella	732.24	79.68	Acyl-CoA dehydrogenase
+PGF_05965455	Francisella	423.80	17.33	AmpG permease
+PGF_05971611	Francisella	385.53	37.13	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05999853	Francisella	363.98	18.72	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06000040	Francisella	366.11	109.30	Type IV fimbrial assembly protein PilC
+PGF_06005188	Francisella	620.09	47.74	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06025565	Francisella	305.25	17.69	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06053106	Francisella	292.00	0.00	RNA polymerase sigma factor RpoH
+PGF_06061522	Francisella	129.73	13.08	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06120144	Francisella	142.46	7.60	Ribosome association toxin RatA
+PGF_06180597	Francisella	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Francisella	94.53	4.79	Heat shock protein 60 family co-chaperone GroES
+PGF_06285692	Francisella	154.28	11.58	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06287652	Francisella	224.16	8.27	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06293576	Francisella	554.17	104.06	Polymyxin resistance protein ArnT, undecaprenyl phosphate-alpha-L-Ara4N transferase; Melittin resistance protein PqaB
+PGF_06379377	Francisella	316.28	60.61	Replication-associated recombination protein RarA
+PGF_06403579	Francisella	749.02	109.76	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06524027	Francisella	665.60	41.01	ATP-dependent DNA helicase Rep
+PGF_06545170	Francisella	118.55	11.76	Fluoride ion transporter CrcB
+PGF_06594013	Francisella	167.69	9.13	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06644010	Francisella	296.10	27.16	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Francisella	91.74	5.28	Acyl carrier protein
+PGF_06668048	Francisella	131.06	0.45	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+PGF_06690276	Francisella	190.03	28.54	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Francisella	111.73	2.12	Nucleoid-associated protein YaaK
+PGF_06737252	Francisella	390.04	111.69	Putative transport protein
+PGF_06750600	Francisella	387.92	47.32	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06772993	Francisella	840.10	114.97	Ribonuclease E (EC 3.1.26.12)
+PGF_07072582	Francisella	577.05	0.22	RNA polymerase sigma factor RpoD
+PGF_07344415	Francisella	172.49	19.00	Intracellular septation protein IspA
+PGF_08036834	Francisella	219.58	11.70	Nitroreductase
+PGF_08046522	Francisella	108.91	1.09	Glutaredoxin-related protein
+PGF_08047520	Francisella	459.09	39.66	Uncharacterized amino acid permease, GabP family
+PGF_08059428	Francisella	89.61	4.23	Cell division topological specificity factor MinE
+PGF_08061357	Francisella	115.45	5.66	Iron-sulfur cluster insertion protein ErpA
+PGF_08077222	Francisella	1026.17	168.73	Pullulanase (EC 3.2.1.41)
+PGF_08079222	Francisella	121.52	13.29	hypothetical protein
+PGF_08126362	Francisella	458.47	60.11	DNA recombination protein RmuC
+PGF_08166083	Francisella	460.79	67.49	Na+/H+ antiporter NhaD type
+PGF_08183187	Francisella	398.06	25.70	Cell division protein FtsW
+PGF_08187263	Francisella	119.04	6.30	Transcriptional regulator, ArsR family

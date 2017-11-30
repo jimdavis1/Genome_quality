@@ -1,0 +1,827 @@
+PGF_00000027	Megamonas	246.43	31.96	Uncharacterized protein YmdB
+PGF_00000196	Megamonas	406.86	23.32	FIG007079: UPF0348 protein family
+PGF_00000261	Megamonas	384.14	0.38	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00002375	Megamonas	312.14	13.36	ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00002592	Megamonas	220.86	16.00	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00003269	Megamonas	311.71	0.76	FIG069887: hypothetical protein
+PGF_00003516	Megamonas	371.86	0.38	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004169	Megamonas	517.29	168.57	Fe-S oxidoreductase
+PGF_00004207	Megamonas	263.57	1.13	Ferrichrome transport ATP-binding protein FhuC
+PGF_00004323	Megamonas	55.00	0.00	Ferredoxin
+PGF_00006245	Megamonas	555.86	0.38	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006277	Megamonas	425.00	0.00	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+PGF_00006457	Megamonas	281.00	0.00	Fumarate hydratase class I, alpha region (EC 4.2.1.2); L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)
+PGF_00007007	Megamonas	199.57	16.14	GTP pyrophosphokinase (EC 2.7.6.5)
+PGF_00007024	Megamonas	437.71	16.19	GTP-binding protein EngA
+PGF_00007026	Megamonas	220.29	4.54	GTP-binding protein EngB
+PGF_00007041	Megamonas	604.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007045	Megamonas	257.14	0.38	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Megamonas	465.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Megamonas	422.14	0.38	Galactokinase (EC 2.7.1.6)
+PGF_00007304	Megamonas	273.43	30.62	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Megamonas	297.29	37.17	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007806	Megamonas	539.29	0.76	Glucan 1,6-alpha-glucosidase (EC 3.2.1.70)
+PGF_00007971	Megamonas	389.00	0.00	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00008061	Megamonas	376.14	0.38	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Megamonas	401.00	0.00	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Megamonas	270.00	0.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Megamonas	543.00	0.00	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008124	Megamonas	778.00	0.00	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_00008164	Megamonas	441.29	0.49	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008262	Megamonas	628.00	0.00	Glutamine synthetase, clostridia type (EC 6.3.1.2)
+PGF_00008326	Megamonas	555.29	1.89	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008611	Megamonas	319.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008774	Megamonas	437.00	0.00	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Megamonas	478.00	0.00	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008838	Megamonas	225.71	36.49	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008864	Megamonas	368.00	0.00	Glycogen biosynthesis protein GlgD, glucose-1-phosphate adenylyltransferase family
+PGF_00008876	Megamonas	479.00	0.00	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Megamonas	190.14	0.38	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Megamonas	292.00	0.00	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010205	Megamonas	244.71	3.40	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Megamonas	193.57	27.68	Guanylate kinase (EC 2.7.4.8)
+PGF_00011604	Megamonas	427.29	0.76	Hexokinase (EC 2.7.1.1)
+PGF_00011792	Megamonas	95.71	1.89	His repressor
+PGF_00011979	Megamonas	434.29	38.93	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Megamonas	334.29	0.76	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Megamonas	419.86	29.48	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Megamonas	295.14	23.00	Homoserine kinase (EC 2.7.1.39)
+PGF_00012657	Megamonas	148.00	0.00	ACT domain-containing protein
+PGF_00013003	Megamonas	633.00	38.38	Bis-ABC ATPase YheS
+PGF_00013244	Megamonas	173.71	19.72	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013273	Megamonas	124.29	6.47	Uncharacterized protein YaeR with similarity to glyoxylase family
+PGF_00013283	Megamonas	229.00	0.00	UPF0001 protein YggS
+PGF_00013341	Megamonas	288.43	73.71	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013347	Megamonas	91.71	1.25	UPF0297 protein YrzL
+PGF_00013418	Megamonas	495.71	0.76	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_00013492	Megamonas	182.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Megamonas	197.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Megamonas	200.86	0.38	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014264	Megamonas	225.86	0.38	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014311	Megamonas	502.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014670	Megamonas	353.86	48.47	Integral membrane protein
+PGF_00015039	Megamonas	224.43	1.13	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Megamonas	83.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Megamonas	179.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Megamonas	281.57	3.78	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015514	Megamonas	467.43	20.97	Iron-sulfur cluster assembly protein SufB
+PGF_00015629	Megamonas	391.86	13.17	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015718	Megamonas	1037.00	0.00	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Megamonas	336.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015963	Megamonas	411.00	0.00	L,L-diaminopimelate aminotransferase (EC 2.6.1.83)
+PGF_00016003	Megamonas	366.00	0.00	L-alanine-DL-glutamate epimerase (EC 5.1.1.n1)
+PGF_00016028	Megamonas	494.00	0.00	L-arabinose isomerase (EC 5.3.1.4)
+PGF_00016113	Megamonas	475.57	40.82	L-fuculokinase (EC 2.7.1.51)
+PGF_00016160	Megamonas	202.86	1.46	L-lysine permease
+PGF_00016218	Megamonas	234.00	0.00	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
+PGF_00016223	Megamonas	289.29	0.76	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Megamonas	220.00	0.00	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016328	Megamonas	171.71	21.92	LSU ribosomal protein L10p (P0)
+PGF_00016340	Megamonas	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Megamonas	145.43	1.51	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Megamonas	145.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Megamonas	113.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Megamonas	119.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Megamonas	234.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Megamonas	117.00	0.00	LSU ribosomal protein L20p
+PGF_00016368	Megamonas	110.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Megamonas	93.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Megamonas	110.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Megamonas	92.00	0.00	LSU ribosomal protein L27p
+PGF_00016387	Megamonas	62.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016393	Megamonas	277.43	1.51	LSU ribosomal protein L2p (L8e)
+PGF_00016404	Megamonas	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Megamonas	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Megamonas	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Megamonas	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016439	Megamonas	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Megamonas	179.57	0.53	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Megamonas	181.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Megamonas	122.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Megamonas	137.43	25.32	LSU ribosomal protein L9p
+PGF_00016546	Megamonas	122.29	0.76	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00017127	Megamonas	323.57	9.07	Lipoate-protein ligase A
+PGF_00017190	Megamonas	239.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017655	Megamonas	217.29	36.28	LrgA-associated membrane protein LrgB
+PGF_00018522	Megamonas	372.86	3.48	Macrolide-specific efflux protein MacA
+PGF_00018896	Megamonas	413.71	1.89	Major facilitator:Oxalate:Formate Antiporter
+PGF_00018952	Megamonas	320.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018962	Megamonas	303.86	24.19	Malate permease
+PGF_00019307	Megamonas	321.00	0.00	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Megamonas	179.86	0.38	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019882	Megamonas	162.00	0.00	Inner membrane protein YjiG
+PGF_00020147	Megamonas	377.14	0.38	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020264	Megamonas	281.86	0.38	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020271	Megamonas	277.14	1.46	Menaquinone via futalosine step 4, possible alternative
+PGF_00020361	Megamonas	153.86	0.38	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020445	Megamonas	252.29	74.65	Metal-dependent phosphohydrolase
+PGF_00020530	Megamonas	269.57	1.13	ATP-utilizing enzyme of the PP-loop superfamily
+PGF_00020759	Megamonas	216.43	42.97	Methionine synthase activation domain (EC 2.1.1.13)
+PGF_00020793	Megamonas	165.00	0.00	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020856	Megamonas	118.00	0.00	Methyl-accepting chemotaxis protein
+PGF_00020984	Megamonas	289.57	4.16	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Megamonas	124.00	0.00	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021020	Megamonas	550.00	0.00	Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00021217	Megamonas	507.00	0.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00023591	Megamonas	342.57	1.13	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Megamonas	345.00	0.00	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023812	Megamonas	409.00	0.00	N-acetylglucosaminyltransferase (EC 2.4.1.-)
+PGF_00023833	Megamonas	243.57	3.36	N-acetylmannosaminyltransferase (EC 2.4.1.187)
+PGF_00023835	Megamonas	301.00	0.00	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00024273	Megamonas	147.43	41.20	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024309	Megamonas	632.00	0.00	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024314	Megamonas	532.86	0.38	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024478	Megamonas	337.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024540	Megamonas	421.00	0.00	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024831	Megamonas	444.86	10.96	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024855	Megamonas	164.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Megamonas	562.14	4.10	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Megamonas	165.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025289	Megamonas	397.14	7.56	Na+/H+ antiporter NhaA type
+PGF_00025486	Megamonas	219.00	23.81	Ni2+-binding GTPase involved in regulation of expression and maturation of hydrogenase
+PGF_00025489	Megamonas	437.00	0.00	Niacin transporter NiaP
+PGF_00025562	Megamonas	302.14	3.02	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Megamonas	483.29	3.73	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025623	Megamonas	609.43	80.44	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025825	Megamonas	499.00	0.00	Acetyl-CoA hydrolase (EC 3.1.2.1)
+PGF_00026050	Megamonas	185.14	34.91	Nitroreductase family protein
+PGF_00026300	Megamonas	266.86	0.38	Novel pyridoxal kinase, thiD family (EC 2.7.1.35)
+PGF_00026362	Megamonas	195.14	8.45	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Megamonas	485.29	0.76	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026615	Megamonas	277.14	60.47	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00028366	Megamonas	668.29	6.21	Outer membrane protein/protective antigen OMA87
+PGF_00028476	Megamonas	339.57	40.82	Outer surface protein of unknown function, cellobiose operon
+PGF_00028516	Megamonas	372.00	0.00	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)
+PGF_00028946	Megamonas	173.86	0.38	Oxygen-insensitive NAD(P)H nitroreductase
+PGF_00029622	Megamonas	284.57	1.51	PTS system, fructose- and mannose-inducible IIC component
+PGF_00029917	Megamonas	284.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Megamonas	355.00	0.00	Peptide chain release factor 1
+PGF_00030643	Megamonas	542.00	0.00	Peptide chain release factor 3
+PGF_00033095	Megamonas	811.14	0.38	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Megamonas	336.43	1.51	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Megamonas	291.14	0.38	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033359	Megamonas	324.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033423	Megamonas	568.00	0.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Megamonas	669.14	0.38	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033729	Megamonas	267.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Megamonas	245.00	0.00	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033802	Megamonas	490.29	36.73	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033807	Megamonas	449.14	2.27	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033877	Megamonas	163.29	1.89	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Megamonas	232.57	2.15	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033936	Megamonas	213.29	60.54	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033940	Megamonas	391.00	0.00	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00033968	Megamonas	203.86	0.38	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Megamonas	362.00	0.00	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034316	Megamonas	237.71	35.15	Pimeloyl-CoA synthase (EC 6.2.1.14)
+PGF_00034988	Megamonas	324.29	0.76	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035334	Megamonas	326.00	0.00	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035378	Megamonas	413.14	0.38	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035721	Megamonas	431.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Megamonas	427.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036988	Megamonas	289.00	0.00	Agmatinase (EC 3.5.3.11)
+PGF_00037565	Megamonas	498.57	6.43	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00038674	Megamonas	305.86	0.38	Protein translocase subunit SecF
+PGF_00039149	Megamonas	346.14	26.97	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00039342	Megamonas	275.57	1.13	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040578	Megamonas	239.86	37.42	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Megamonas	115.00	37.48	Alkaline shock protein
+PGF_00041590	Megamonas	420.86	9.23	Putative inner membrane protein
+PGF_00041767	Megamonas	329.29	0.76	Putative ion-channel protein
+PGF_00041788	Megamonas	145.00	0.00	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00044298	Megamonas	842.86	45.36	Putative sulfite reductase, GSU1351 type
+PGF_00045054	Megamonas	402.57	19.65	Putative transmembrane transport protein
+PGF_00045970	Megamonas	487.00	0.00	Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)
+PGF_00046060	Megamonas	246.00	0.00	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046199	Megamonas	152.86	0.38	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046403	Megamonas	450.00	0.00	RNA polymerase sigma-54 factor RpoN
+PGF_00046555	Megamonas	229.14	26.08	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Megamonas	84.57	4.39	RNA-binding protein Hfq
+PGF_00047020	Megamonas	440.43	74.80	Radical SAM family protein HutW, similar to coproporphyrinogen III oxidase, oxygen-independent, associated with heme uptake
+PGF_00047025	Megamonas	396.14	0.38	Radical SAM heme biosynthesis protein AhbC, 12,18-didecarboxysirohaem deacetylase
+PGF_00047027	Megamonas	412.00	0.00	Radical SAM protein DVU1407
+PGF_00047078	Megamonas	354.57	3.36	RecA protein
+PGF_00047155	Megamonas	208.00	0.00	Redox-sensing transcriptional repressor Rex
+PGF_00047555	Megamonas	556.29	0.76	Alpha-glucosidase (EC 3.2.1.20)
+PGF_00048480	Megamonas	215.71	1.25	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048566	Megamonas	187.00	2.65	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048598	Megamonas	244.71	61.61	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048643	Megamonas	155.86	0.38	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Megamonas	324.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048840	Megamonas	301.29	30.99	Ribosomal protein L11 methyltransferase
+PGF_00048846	Megamonas	445.71	0.76	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Megamonas	177.86	2.27	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Megamonas	185.00	0.00	Ribosome recycling factor
+PGF_00048936	Megamonas	118.71	1.89	Ribosome-binding factor A
+PGF_00048964	Megamonas	533.00	0.00	Ribulokinase (EC 2.7.1.16)
+PGF_00049323	Megamonas	261.57	1.13	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+PGF_00049330	Megamonas	394.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049827	Megamonas	286.86	0.38	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Megamonas	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Megamonas	130.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Megamonas	125.29	0.76	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Megamonas	122.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Megamonas	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Megamonas	83.29	12.47	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Megamonas	91.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Megamonas	85.86	0.38	SSU ribosomal protein S17p (S11e)
+PGF_00049857	Megamonas	77.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049860	Megamonas	83.71	24.57	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Megamonas	224.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Megamonas	161.29	12.47	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Megamonas	95.00	0.00	SSU ribosomal protein S6p
+PGF_00049906	Megamonas	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Megamonas	129.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00051525	Megamonas	419.14	11.71	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Megamonas	449.86	14.05	Signal recognition particle protein Ffh
+PGF_00052705	Megamonas	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052829	Megamonas	150.00	0.00	Siroheme decarboxylase AhbA, alternate heme biosynthesis pathway
+PGF_00052833	Megamonas	154.14	12.85	Siroheme decarboxylase AhbB, alternate heme biosynthesis pathway
+PGF_00053591	Megamonas	271.00	0.00	Sorbitol-6-phosphate 2-dehydrogenase (EC 1.1.1.140)
+PGF_00053789	Megamonas	370.00	0.00	Aminopeptidase
+PGF_00053991	Megamonas	249.29	68.03	Stage 0 sporulation protein YaaT
+PGF_00054118	Megamonas	85.43	1.51	Spore core dehydratation and coat assembly protein SpoVS
+PGF_00054466	Megamonas	205.00	0.00	Succinate dehydrogenase cytochrome b558 subunit
+PGF_00054480	Megamonas	249.71	3.40	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Megamonas	390.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054571	Megamonas	330.71	0.76	Sucrose operon repressor ScrR, LacI family
+PGF_00054575	Megamonas	394.57	48.32	Sucrose permease, major facilitator superfamily
+PGF_00054973	Megamonas	555.14	0.38	Sulfate permease
+PGF_00055284	Megamonas	124.00	0.00	Superoxide reductase (EC 1.15.1.2)
+PGF_00056544	Megamonas	253.00	2.65	Thiazole synthase (EC 2.8.1.10)
+PGF_00056814	Megamonas	499.86	3.02	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Megamonas	223.71	0.76	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057399	Megamonas	225.00	0.00	Transaldolase (EC 2.2.1.2)
+PGF_00057440	Megamonas	132.43	46.78	Transcription factor FapR
+PGF_00057488	Megamonas	131.00	0.00	Transcription termination protein NusB
+PGF_00060261	Megamonas	168.43	9.55	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060280	Megamonas	247.00	0.00	Transcriptional repressor of the fructose operon, DeoR family
+PGF_00060412	Megamonas	646.86	100.92	Elongation factor G-like protein TM_1651
+PGF_00060414	Megamonas	595.00	7.94	Translation elongation factor LepA
+PGF_00060421	Megamonas	185.00	0.00	Translation elongation factor P
+PGF_00060427	Megamonas	210.43	12.09	Translation elongation factor Ts
+PGF_00060431	Megamonas	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Megamonas	178.43	10.60	Translation initiation factor 3
+PGF_00062023	Megamonas	258.00	0.00	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00063916	Megamonas	405.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063938	Megamonas	257.71	27.21	UDP-2,3-diacylglucosamine pyrophosphatase
+PGF_00063944	Megamonas	275.00	0.00	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Megamonas	332.86	26.84	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063952	Megamonas	282.71	58.52	UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13)
+PGF_00063955	Megamonas	388.00	0.00	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87)
+PGF_00063974	Megamonas	299.14	15.50	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Megamonas	363.86	21.11	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Megamonas	446.57	23.65	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064135	Megamonas	342.86	0.38	UDP-glucuronic acid oxidase (UDP-4-keto-hexauronic acid decarboxylating) (EC 1.1.1.305)
+PGF_00064359	Megamonas	150.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064378	Megamonas	254.14	0.38	Transmembrane protein YfcA
+PGF_00064393	Megamonas	291.29	0.76	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00065379	Megamonas	365.14	52.10	Uncharacterized protein YaaN
+PGF_00065901	Megamonas	316.71	0.76	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53)
+PGF_00065999	Megamonas	140.00	0.00	Universal stress protein family
+PGF_00066123	Megamonas	211.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066245	Megamonas	496.57	112.26	Uridine kinase (EC 2.7.1.48)
+PGF_00066589	Megamonas	127.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Megamonas	320.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066964	Megamonas	439.86	8.55	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Megamonas	344.86	0.38	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067466	Megamonas	600.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067772	Megamonas	340.29	1.89	[NiFe] hydrogenase metallocenter assembly protein HypE
+PGF_00067788	Megamonas	223.29	1.89	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00069740	Megamonas	401.00	10.15	2-iminoacetate synthase (ThiH) (EC 4.1.99.19)
+PGF_00070089	Megamonas	129.00	0.00	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070198	Megamonas	343.29	77.76	copper amine oxidase-like
+PGF_00076874	Megamonas	289.71	9.18	hypothetical protein
+PGF_00077742	Megamonas	321.00	0.00	hypothetical protein
+PGF_00078038	Megamonas	199.86	13.67	hypothetical protein
+PGF_00082342	Megamonas	179.43	1.13	hypothetical protein
+PGF_00084324	Megamonas	273.71	0.76	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00086878	Megamonas	633.29	1.60	hypothetical protein
+PGF_00090197	Megamonas	344.57	14.36	hypothetical protein
+PGF_00098220	Megamonas	76.00	0.00	hypothetical protein
+PGF_00104957	Megamonas	234.00	0.00	hypothetical protein
+PGF_00113984	Megamonas	196.71	0.76	Flavin prenyltransferase UbiX
+PGF_00116305	Megamonas	237.00	32.84	hypothetical protein
+PGF_00118142	Megamonas	402.00	133.13	hypothetical protein
+PGF_00133029	Megamonas	234.00	0.00	hypothetical protein
+PGF_00133691	Megamonas	194.71	12.83	hypothetical protein
+PGF_00136317	Megamonas	240.00	0.00	hypothetical protein
+PGF_00136594	Megamonas	66.14	0.38	hypothetical protein
+PGF_00142688	Megamonas	166.43	1.51	hypothetical protein
+PGF_00156370	Megamonas	152.14	2.27	hypothetical protein
+PGF_00183903	Megamonas	79.00	0.00	hypothetical protein
+PGF_00189141	Megamonas	224.00	0.00	hypothetical protein
+PGF_00192572	Megamonas	397.14	5.05	hypothetical protein
+PGF_00220464	Megamonas	212.86	0.38	hypothetical protein
+PGF_00223420	Megamonas	288.86	13.61	hypothetical protein
+PGF_00226263	Megamonas	106.86	19.79	hypothetical protein
+PGF_00232832	Megamonas	214.86	0.38	hypothetical protein
+PGF_00232919	Megamonas	368.00	0.00	hypothetical protein
+PGF_00233789	Megamonas	204.43	1.51	hypothetical protein
+PGF_00245649	Megamonas	158.14	2.27	hypothetical protein
+PGF_00247996	Megamonas	196.57	26.03	hypothetical protein
+PGF_00254313	Megamonas	479.71	2.36	hypothetical protein
+PGF_00255467	Megamonas	330.71	31.36	hypothetical protein
+PGF_00268586	Megamonas	108.00	0.00	hypothetical protein
+PGF_00268942	Megamonas	49.00	0.00	hypothetical protein
+PGF_00269950	Megamonas	164.57	19.65	hypothetical protein
+PGF_00270049	Megamonas	637.29	3.40	hypothetical protein
+PGF_00273387	Megamonas	316.14	3.02	hypothetical protein
+PGF_00283683	Megamonas	314.43	3.78	hypothetical protein
+PGF_00292049	Megamonas	684.00	0.00	hypothetical protein
+PGF_00295348	Megamonas	406.14	0.69	ABC-type antimicrobial peptide transport system, permease component
+PGF_00295936	Megamonas	235.00	10.58	ABC transporter, ATP-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_00303505	Megamonas	318.86	2.27	hypothetical protein
+PGF_00324246	Megamonas	334.71	0.76	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3) @ Sirohydrochlorin ferrochelatase activity of CbiK (EC 4.99.1.4)
+PGF_00326179	Megamonas	310.86	7.36	hypothetical protein
+PGF_00327415	Megamonas	186.43	1.81	hypothetical protein
+PGF_00327441	Megamonas	74.00	0.00	hypothetical protein
+PGF_00347049	Megamonas	253.71	1.60	hypothetical protein
+PGF_00350921	Megamonas	294.00	0.00	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00376758	Megamonas	409.14	0.38	ATP/GTP-binding protein
+PGF_00391084	Megamonas	537.00	0.00	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00393545	Megamonas	321.00	0.00	Uncharacterized sodium-dependent transporter YocS
+PGF_00397259	Megamonas	140.14	0.38	hypothetical protein
+PGF_00400602	Megamonas	452.71	3.40	lipolytic enzyme, G-D-S-L family
+PGF_00402710	Megamonas	426.71	4.64	periplasmic fructose-binding protein component of signal transduction system LevQ
+PGF_00402711	Megamonas	295.71	28.43	periplasmic fructose-binding protein component of signal transduction system LevT
+PGF_00403004	Megamonas	185.00	0.00	phosphodiesterase, MJ0936 family
+PGF_00403859	Megamonas	495.00	0.00	predicted xylose isomerase
+PGF_00404088	Megamonas	143.71	17.08	probable beta-D-galactosidase
+PGF_00404333	Megamonas	325.57	1.13	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00407246	Megamonas	380.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00407282	Megamonas	219.86	40.06	putative histidinol phosphatase and related hydrolases of the PHP family
+PGF_00409894	Megamonas	63.29	2.93	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.-)
+PGF_00411484	Megamonas	296.00	0.00	radical activating enzyme
+PGF_00412673	Megamonas	474.29	1.25	sodium-solute symporter, putative
+PGF_00412708	Megamonas	538.43	0.79	Na(+)/H(+) antiporter
+PGF_00413189	Megamonas	225.86	0.38	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Megamonas	160.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Megamonas	245.86	0.38	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413284	Megamonas	143.71	13.80	tRNA proofreading protein STM4549
+PGF_00413290	Megamonas	256.00	0.00	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413306	Megamonas	260.43	1.13	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Megamonas	158.57	1.13	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Megamonas	157.00	0.00	tmRNA-binding protein SmpB
+PGF_00415486	Megamonas	159.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415631	Megamonas	88.14	0.38	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00415649	Megamonas	80.14	2.27	COG2827: putative endonuclease containing a URI domain
+PGF_00415739	Megamonas	251.29	2.14	COG4123: Predicted O-methyltransferase
+PGF_00416129	Megamonas	535.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Megamonas	1081.71	3.86	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416416	Megamonas	399.00	5.29	Carbamoylphosphate synthase large subunit (split gene in MJ)
+PGF_00416525	Megamonas	176.86	11.87	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416622	Megamonas	377.86	5.67	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Megamonas	399.00	0.00	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00416674	Megamonas	399.57	1.51	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417115	Megamonas	90.00	0.00	Cell division topological specificity factor MinE
+PGF_00417577	Megamonas	148.71	0.76	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Megamonas	358.71	3.86	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00418087	Megamonas	251.86	0.38	Circadian phase modifier
+PGF_00418278	Megamonas	352.57	1.13	Cobalt-precorrin 5A hydrolase (EC 3.7.1.12)
+PGF_00418285	Megamonas	241.57	5.62	Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)
+PGF_00418292	Megamonas	368.00	0.00	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418294	Megamonas	255.29	0.76	Cobalt-precorrin-6A reductase (EC 1.3.1.106)
+PGF_00418309	Megamonas	211.00	0.00	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Megamonas	509.71	0.76	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Megamonas	461.71	7.09	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419420	Megamonas	403.57	43.47	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419702	Megamonas	164.00	0.00	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419740	Megamonas	148.00	0.00	Transcriptional regulator CtsR
+PGF_00419900	Megamonas	343.00	0.00	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00419913	Megamonas	159.14	0.38	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Megamonas	275.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Megamonas	309.00	0.00	Cysteine synthase (EC 2.5.1.47)
+PGF_00420572	Megamonas	451.86	0.38	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420732	Megamonas	482.71	0.76	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420792	Megamonas	280.57	1.13	D-alanine aminotransferase (EC 2.6.1.21)
+PGF_00420903	Megamonas	323.00	0.00	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421098	Megamonas	529.71	1.89	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421498	Megamonas	368.29	9.83	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Megamonas	603.14	2.27	DNA primase (EC 2.7.7.-)
+PGF_00421792	Megamonas	459.43	6.43	DNA repair protein RadA
+PGF_00421796	Megamonas	567.86	2.19	DNA repair protein RecN
+PGF_00422678	Megamonas	206.00	52.66	DedA family inner membrane protein YdjZ
+PGF_00423089	Megamonas	358.71	4.72	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423428	Megamonas	421.43	1.13	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423450	Megamonas	297.14	0.38	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)
+PGF_00423533	Megamonas	278.14	28.29	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423662	Megamonas	206.86	36.22	Division initiation protein
+PGF_00424236	Megamonas	163.43	35.61	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00425003	Megamonas	311.29	33.64	Exfoliative toxin A
+PGF_00425091	Megamonas	863.29	133.74	Exonuclease SbcC
+PGF_00425679	Megamonas	211.86	0.38	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Megamonas	243.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425747	Megamonas	147.14	0.38	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Megamonas	497.29	25.68	Ribonuclease Y
+PGF_00425787	Megamonas	225.43	1.13	FIG002379: metal-dependent hydrolase
+PGF_00425806	Megamonas	430.14	0.38	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Megamonas	383.14	0.38	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Megamonas	344.00	0.00	FIG004453: protein YceG like
+PGF_00426082	Megamonas	242.86	14.51	5,10-methylenetetrahydrofolate reductase-related protein
+PGF_00426236	Megamonas	352.00	0.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426722	Megamonas	790.14	0.38	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426877	Megamonas	288.71	8.98	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Megamonas	154.86	0.38	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Megamonas	271.43	35.56	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00464627	Megamonas	338.00	0.00	Sodium-dependent phosphate transporter
+PGF_00482828	Megamonas	449.00	0.00	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00503288	Megamonas	768.00	2.65	[NiFe] hydrogenase metallocenter assembly protein HypF
+PGF_00549302	Megamonas	366.00	44.98	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00594449	Megamonas	223.00	76.73	putative membrane protein
+PGF_00596539	Megamonas	551.29	49.11	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598888	Megamonas	158.57	1.51	Mini-ribonuclease III
+PGF_00618776	Megamonas	345.00	1.15	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Megamonas	312.00	57.91	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00659194	Megamonas	191.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00661800	Megamonas	252.00	2.65	hypothetical protein
+PGF_00662997	Megamonas	262.57	3.78	Cobalamin synthase (EC 2.7.8.26)
+PGF_00664069	Megamonas	413.00	0.00	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Megamonas	116.00	0.00	Ribosomal silencing factor RsfA
+PGF_00691283	Megamonas	415.43	1.51	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00719345	Megamonas	198.14	23.43	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), ADP-binding subunit DhaL
+PGF_00721835	Megamonas	334.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00729830	Megamonas	299.86	37.42	Auxin efflux carrier family protein
+PGF_00730161	Megamonas	392.00	53.17	hypothetical protein
+PGF_00741952	Megamonas	173.43	1.13	Acetyltransferase, GNAT family
+PGF_00743123	Megamonas	294.29	0.76	Transcriptional regulator, LysR family
+PGF_00773356	Megamonas	222.14	0.38	Two-component transcriptional response regulator, LuxR family
+PGF_00797092	Megamonas	250.29	17.76	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00827555	Megamonas	595.29	115.29	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00849763	Megamonas	115.00	2.65	hypothetical protein
+PGF_00853393	Megamonas	300.14	0.38	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00912265	Megamonas	318.00	0.00	tRNA-dihydrouridine synthase DusB
+PGF_00918177	Megamonas	226.57	77.44	Beta-lactamase class A-like and penicillin binding proteins (PBPs) superfamily
+PGF_00921779	Megamonas	191.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_00925844	Megamonas	429.00	143.31	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00932867	Megamonas	195.29	1.89	Putative rRNA methylase YtqB
+PGF_00944166	Megamonas	332.00	0.00	Isocitrate dehydrogenase [NAD] (EC 1.1.1.41)
+PGF_00947647	Megamonas	190.14	0.38	Fumarate hydratase class I, beta region (EC 4.2.1.2); L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)
+PGF_00955461	Megamonas	297.43	14.77	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00969321	Megamonas	453.43	0.53	Uncharacterized MFS-type transporter
+PGF_00979610	Megamonas	434.57	90.57	Trehalose-6-phosphate hydrolase (EC 3.2.1.93)
+PGF_01008498	Megamonas	121.00	0.00	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01065911	Megamonas	202.14	26.08	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01079016	Megamonas	276.57	1.13	Chromosome (plasmid) partitioning protein ParB
+PGF_01101526	Megamonas	310.29	89.20	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01174739	Megamonas	253.00	80.70	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01212500	Megamonas	273.00	0.00	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212940	Megamonas	270.57	72.57	UPF0701 protein YloC
+PGF_01223569	Megamonas	167.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01231911	Megamonas	273.00	35.92	hypothetical protein
+PGF_01232770	Megamonas	253.43	53.99	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01284176	Megamonas	177.00	0.00	Rubrerythrin
+PGF_01291823	Megamonas	215.86	0.38	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01295821	Megamonas	205.00	5.39	DedA
+PGF_01311006	Megamonas	258.43	12.54	Molybdopterin dehydrogenase, FAD-binding subunit
+PGF_01325304	Megamonas	219.86	0.38	Molybdenum ABC transporter permease protein ModB
+PGF_01351690	Megamonas	509.29	0.76	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3); Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+PGF_01364427	Megamonas	198.43	16.52	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01416650	Megamonas	274.14	0.38	Transmembrane component of general energizing module of ECF transporters
+PGF_01423501	Megamonas	161.14	7.47	Transcription elongation factor GreA
+PGF_01444546	Megamonas	96.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01466742	Megamonas	491.43	145.91	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01469197	Megamonas	445.57	31.58	RNA methyltransferase, TrmA family
+PGF_01483918	Megamonas	272.29	16.90	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01486881	Megamonas	238.00	0.00	ABC-type antimicrobial peptide transport system, ATPase component
+PGF_01513923	Megamonas	254.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01519213	Megamonas	205.43	17.83	Uncharacterized protein YjiH
+PGF_01529260	Megamonas	161.71	11.34	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01538186	Megamonas	125.00	2.65	Programmed cell death toxin YdcE
+PGF_01557745	Megamonas	417.00	0.00	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01599021	Megamonas	152.00	0.00	Peptide deformylase (EC 3.5.1.88)
+PGF_01668974	Megamonas	741.71	84.73	DNA internalization-related competence protein ComEC/Rec2
+PGF_01674551	Megamonas	126.00	0.00	Glycine cleavage system H protein
+PGF_01677191	Megamonas	309.57	15.44	Sporulation transcription regulator WhiA
+PGF_01682537	Megamonas	117.86	15.82	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Megamonas	142.86	13.61	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Megamonas	214.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01766941	Megamonas	357.71	15.76	Uncharacterized integral membrane protein GSU2901
+PGF_01777142	Megamonas	192.71	8.69	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01842781	Megamonas	558.00	7.94	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Megamonas	272.43	0.53	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Megamonas	329.14	31.37	Heat-inducible transcription repressor HrcA
+PGF_01888177	Megamonas	145.86	0.38	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01889558	Megamonas	211.71	0.76	Sulfur carrier protein ThiS adenylyltransferase (EC 2.7.7.73)
+PGF_01891697	Megamonas	443.29	0.76	Type I secretion outer membrane protein, TolC family
+PGF_01898497	Megamonas	206.43	14.74	Endonuclease III (EC 4.2.99.18)
+PGF_01899098	Megamonas	133.00	0.00	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01899937	Megamonas	296.29	13.54	Rod shape-determining protein MreC
+PGF_01910375	Megamonas	398.00	0.00	RND efflux system, membrane fusion protein
+PGF_01942824	Megamonas	386.14	0.38	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01943486	Megamonas	151.86	38.31	O-acetyl-ADP-ribose deacetylase
+PGF_01981332	Megamonas	152.14	18.14	Transcriptional regulator, AsnC family
+PGF_01984533	Megamonas	90.29	1.89	UPF0296 protein YlzA
+PGF_01990221	Megamonas	430.29	9.83	Aspartyl aminopeptidase (EC 3.4.11.21)
+PGF_01994657	Megamonas	430.00	0.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Megamonas	252.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Megamonas	341.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02049468	Megamonas	71.00	0.00	Cold shock protein of CSP family
+PGF_02061452	Megamonas	376.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02111888	Megamonas	279.14	3.02	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02154745	Megamonas	1213.00	113.80	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02166416	Megamonas	630.29	7.89	PTS system, mannitol-specific IIC component / PTS system, mannitol-specific IIB component (EC 2.7.1.197) / PTS system, mannitol-specific IIA component (EC 2.7.1.197)
+PGF_02185217	Megamonas	420.14	0.38	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02185943	Megamonas	445.43	87.51	Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1)
+PGF_02211177	Megamonas	254.71	3.40	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02222990	Megamonas	281.29	4.54	hypothetical protein
+PGF_02222993	Megamonas	294.43	28.96	hypothetical protein
+PGF_02222995	Megamonas	291.86	4.38	hypothetical protein
+PGF_02222996	Megamonas	293.71	61.14	hypothetical protein
+PGF_02223000	Megamonas	344.71	5.47	hypothetical protein
+PGF_02223001	Megamonas	299.43	59.31	hypothetical protein
+PGF_02223002	Megamonas	667.86	0.38	hypothetical protein
+PGF_02223005	Megamonas	324.29	9.83	hypothetical protein
+PGF_02223007	Megamonas	147.86	13.61	hypothetical protein
+PGF_02223009	Megamonas	293.86	0.38	hypothetical protein
+PGF_02223013	Megamonas	144.14	9.35	hypothetical protein
+PGF_02223014	Megamonas	582.71	184.21	hypothetical protein
+PGF_02223015	Megamonas	250.00	23.91	hypothetical protein
+PGF_02223017	Megamonas	295.14	7.56	hypothetical protein
+PGF_02223018	Megamonas	369.14	0.38	hypothetical protein
+PGF_02223019	Megamonas	264.14	0.38	hypothetical protein
+PGF_02223020	Megamonas	250.14	0.38	hypothetical protein
+PGF_02223021	Megamonas	246.14	0.38	hypothetical protein
+PGF_02223022	Megamonas	213.00	0.00	hypothetical protein
+PGF_02223023	Megamonas	131.43	20.48	hypothetical protein
+PGF_02223024	Megamonas	121.43	0.79	hypothetical protein
+PGF_02223025	Megamonas	94.43	0.79	hypothetical protein
+PGF_02223026	Megamonas	199.00	0.00	hypothetical protein
+PGF_02223027	Megamonas	215.00	0.00	hypothetical protein
+PGF_02223030	Megamonas	267.00	15.50	hypothetical protein
+PGF_02223032	Megamonas	205.14	7.40	hypothetical protein
+PGF_02223033	Megamonas	102.57	17.01	hypothetical protein
+PGF_02223034	Megamonas	65.00	0.00	hypothetical protein
+PGF_02223035	Megamonas	227.71	9.83	hypothetical protein
+PGF_02223036	Megamonas	235.14	18.54	hypothetical protein
+PGF_02223037	Megamonas	120.43	7.25	hypothetical protein
+PGF_02223039	Megamonas	177.00	14.19	hypothetical protein
+PGF_02223040	Megamonas	122.00	0.00	hypothetical protein
+PGF_02223044	Megamonas	137.14	0.38	hypothetical protein
+PGF_02223045	Megamonas	281.14	0.38	hypothetical protein
+PGF_02223046	Megamonas	256.43	12.09	hypothetical protein
+PGF_02223047	Megamonas	145.00	18.08	hypothetical protein
+PGF_02223049	Megamonas	133.14	41.38	hypothetical protein
+PGF_02223050	Megamonas	181.43	8.20	hypothetical protein
+PGF_02223051	Megamonas	202.86	15.78	hypothetical protein
+PGF_02223053	Megamonas	78.86	0.38	hypothetical protein
+PGF_02223054	Megamonas	188.14	15.94	hypothetical protein
+PGF_02223055	Megamonas	131.86	0.38	hypothetical protein
+PGF_02223056	Megamonas	93.00	0.00	hypothetical protein
+PGF_02223057	Megamonas	192.71	0.76	hypothetical protein
+PGF_02223058	Megamonas	196.00	12.06	hypothetical protein
+PGF_02223059	Megamonas	140.43	1.13	hypothetical protein
+PGF_02223064	Megamonas	101.14	7.56	hypothetical protein
+PGF_02223078	Megamonas	159.43	1.13	hypothetical protein
+PGF_02223080	Megamonas	249.00	51.23	hypothetical protein
+PGF_02223081	Megamonas	162.86	2.85	hypothetical protein
+PGF_02223082	Megamonas	131.71	0.76	hypothetical protein
+PGF_02223083	Megamonas	124.14	0.38	hypothetical protein
+PGF_02223084	Megamonas	159.00	26.15	hypothetical protein
+PGF_02223085	Megamonas	95.00	0.00	hypothetical protein
+PGF_02223087	Megamonas	146.57	1.13	hypothetical protein
+PGF_02223088	Megamonas	144.57	1.13	hypothetical protein
+PGF_02223089	Megamonas	120.57	1.51	hypothetical protein
+PGF_02223091	Megamonas	112.00	0.00	hypothetical protein
+PGF_02223092	Megamonas	80.00	0.00	hypothetical protein
+PGF_02223093	Megamonas	114.29	3.40	hypothetical protein
+PGF_02223094	Megamonas	165.00	2.65	hypothetical protein
+PGF_02223095	Megamonas	247.14	3.02	hypothetical protein
+PGF_02223096	Megamonas	145.86	0.38	hypothetical protein
+PGF_02223097	Megamonas	68.00	0.00	hypothetical protein
+PGF_02223098	Megamonas	151.14	0.38	hypothetical protein
+PGF_02223099	Megamonas	258.14	0.38	hypothetical protein
+PGF_02223101	Megamonas	155.00	0.00	hypothetical protein
+PGF_02223102	Megamonas	212.43	1.13	hypothetical protein
+PGF_02223103	Megamonas	133.86	0.38	hypothetical protein
+PGF_02223106	Megamonas	76.00	0.00	hypothetical protein
+PGF_02223108	Megamonas	225.00	0.00	hypothetical protein
+PGF_02223110	Megamonas	125.00	0.00	hypothetical protein
+PGF_02223112	Megamonas	113.00	0.00	hypothetical protein
+PGF_02223113	Megamonas	66.14	0.38	hypothetical protein
+PGF_02223115	Megamonas	126.00	0.00	hypothetical protein
+PGF_02223116	Megamonas	117.57	9.07	hypothetical protein
+PGF_02223117	Megamonas	116.00	0.00	hypothetical protein
+PGF_02223118	Megamonas	72.00	0.00	hypothetical protein
+PGF_02223119	Megamonas	63.57	1.13	hypothetical protein
+PGF_02223121	Megamonas	167.86	0.38	hypothetical protein
+PGF_02223123	Megamonas	146.00	0.00	hypothetical protein
+PGF_02223124	Megamonas	112.86	0.38	hypothetical protein
+PGF_02223125	Megamonas	103.71	6.34	hypothetical protein
+PGF_02223126	Megamonas	88.00	0.00	hypothetical protein
+PGF_02223127	Megamonas	83.00	0.00	hypothetical protein
+PGF_02223128	Megamonas	77.86	2.27	hypothetical protein
+PGF_02223138	Megamonas	136.14	1.46	hypothetical protein
+PGF_02223143	Megamonas	134.43	1.13	hypothetical protein
+PGF_02223152	Megamonas	211.14	0.38	hypothetical protein
+PGF_02223195	Megamonas	348.57	13.93	hypothetical protein
+PGF_02223281	Megamonas	191.00	0.00	hypothetical protein
+PGF_02223431	Megamonas	266.00	0.00	hypothetical protein
+PGF_02223457	Megamonas	79.00	0.00	hypothetical protein
+PGF_02223660	Megamonas	384.00	0.00	hypothetical protein
+PGF_02223699	Megamonas	333.14	8.30	hypothetical protein
+PGF_02223915	Megamonas	158.00	0.00	hypothetical protein
+PGF_02224568	Megamonas	396.00	2.65	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02227929	Megamonas	281.00	0.00	ABC transporter, permease protein (cluster 14, Mn/Zn)
+PGF_02229778	Megamonas	434.00	0.00	Arsenic efflux pump protein
+PGF_02244871	Megamonas	329.00	0.00	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02297251	Megamonas	224.00	0.00	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02314677	Megamonas	156.71	0.76	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)
+PGF_02346669	Megamonas	309.14	0.38	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02355769	Megamonas	393.71	1.89	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Megamonas	198.57	1.13	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02357764	Megamonas	190.29	96.00	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02405545	Megamonas	301.57	1.51	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02450432	Megamonas	274.14	0.38	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Megamonas	195.71	6.05	Recombination protein RecR
+PGF_02473679	Megamonas	428.71	5.44	Type IV fimbrial assembly, ATPase PilB
+PGF_02515882	Megamonas	408.00	0.00	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Megamonas	391.29	110.37	Enolase (EC 4.2.1.11)
+PGF_02518459	Megamonas	120.00	0.00	Nitrogen regulatory protein P-II
+PGF_02572093	Megamonas	406.86	95.18	Nitrate/nitrite transporter
+PGF_02593689	Megamonas	454.00	0.00	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02623406	Megamonas	300.86	26.84	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627575	Megamonas	92.00	0.00	hypothetical protein
+PGF_02631779	Megamonas	261.00	0.00	Histidinol-phosphatase-related protein
+PGF_02648683	Megamonas	461.00	2.65	PTS system, N-acetylmuramic acid-specific IIB component (EC 2.7.1.192) / PTS system, N-acetylmuramic acid-specific IIC component
+PGF_02704551	Megamonas	1387.14	0.38	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Megamonas	148.29	7.18	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02737642	Megamonas	254.29	31.44	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02745613	Megamonas	299.71	0.76	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746016	Megamonas	245.71	6.05	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02787188	Megamonas	89.86	0.38	ACT domain protein
+PGF_02789532	Megamonas	285.43	20.03	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Megamonas	181.86	0.38	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Megamonas	237.29	0.76	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Megamonas	490.14	42.27	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Megamonas	1204.14	5.67	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02800136	Megamonas	291.86	36.11	Putative ADP-ribose pyrophosphatase YjhB
+PGF_02827138	Megamonas	234.43	1.13	Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+PGF_02838109	Megamonas	165.71	16.63	Shikimate kinase I (EC 2.7.1.71)
+PGF_02862285	Megamonas	404.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02883702	Megamonas	344.57	28.03	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02897665	Megamonas	374.71	0.76	Glycerate kinase (EC 2.7.1.31)
+PGF_02898176	Megamonas	217.00	0.00	Methionine ABC transporter permease protein
+PGF_02899131	Megamonas	64.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02901409	Megamonas	157.00	0.00	Guanine deaminase (EC 3.5.4.3)
+PGF_02906681	Megamonas	728.00	0.00	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02908403	Megamonas	763.71	2.69	Possible hypoxanthine oxidase XdhD (EC 1.-.-.-)
+PGF_02919689	Megamonas	220.86	43.15	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02922961	Megamonas	101.00	0.00	FIG004454: RNA binding protein
+PGF_02923127	Megamonas	231.43	25.32	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930287	Megamonas	181.00	0.00	Reverse rubrerythrin
+PGF_02936332	Megamonas	293.43	11.66	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02944789	Megamonas	81.00	0.00	hypothetical protein
+PGF_02947204	Megamonas	525.00	0.00	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Megamonas	267.00	0.00	Septum site-determining protein MinD
+PGF_02956462	Megamonas	123.00	0.00	RidA/YER057c/UK114 superfamily protein
+PGF_02960761	Megamonas	306.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_02997723	Megamonas	150.71	1.89	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03003352	Megamonas	553.14	0.38	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03017775	Megamonas	517.86	57.39	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Megamonas	188.00	0.00	Septum formation protein Maf
+PGF_03046709	Megamonas	463.43	1.13	Ammonium transporter
+PGF_03066520	Megamonas	413.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03073470	Megamonas	550.00	0.00	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03084693	Megamonas	546.57	11.72	FIG006789: Stage V sporulation protein
+PGF_03097046	Megamonas	213.14	8.55	NLP/P60
+PGF_03117711	Megamonas	190.00	0.00	Hydrolase (HAD superfamily), YqeK
+PGF_03122609	Megamonas	412.00	3.61	Uncharacterized protease large subunit YrrO
+PGF_03127349	Megamonas	198.00	1.00	Late competence protein ComEA, DNA receptor
+PGF_03132336	Megamonas	416.57	15.32	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03140041	Megamonas	198.57	40.82	CBS domain protein
+PGF_03152669	Megamonas	272.14	0.38	PTS system, mannose-specific IIC component
+PGF_03172904	Megamonas	275.43	0.98	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Megamonas	180.43	3.78	Transcription antitermination protein NusG
+PGF_03197417	Megamonas	174.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)
+PGF_03208436	Megamonas	283.43	20.48	hypothetical protein
+PGF_03222913	Megamonas	141.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03235459	Megamonas	365.00	0.00	polysaccharide pyruvyl transferase
+PGF_03253752	Megamonas	46.00	0.00	Six-cysteine peptide SCIFF
+PGF_03277417	Megamonas	345.57	19.65	Methionine ABC transporter ATP-binding protein
+PGF_03287477	Megamonas	220.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03291914	Megamonas	126.29	36.28	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03342342	Megamonas	309.71	43.72	Uncharacterized membrane protein, YraQ family
+PGF_03429638	Megamonas	297.43	1.51	33 kDa chaperonin HslO
+PGF_03439582	Megamonas	190.14	8.47	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03439690	Megamonas	154.00	0.00	Ferric uptake regulation protein FUR
+PGF_03470321	Megamonas	167.29	0.76	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03507290	Megamonas	417.00	0.00	Serine/threonine:Na+ symporter SstT
+PGF_03518570	Megamonas	152.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03558774	Megamonas	289.29	0.76	Peptidase M48, Ste24p precursor
+PGF_03683462	Megamonas	142.14	20.79	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_03684283	Megamonas	413.43	1.13	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Megamonas	291.00	10.58	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03723827	Megamonas	158.71	0.76	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750600	Megamonas	154.14	15.06	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751065	Megamonas	53.00	0.00	Rubredoxin
+PGF_03751823	Megamonas	185.71	18.45	Heat shock protein GrpE
+PGF_03751878	Megamonas	178.29	0.76	Substrate-specific component RibU of riboflavin ECF transporter
+PGF_03757137	Megamonas	474.00	0.00	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Megamonas	222.00	0.00	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03778780	Megamonas	299.86	21.54	Signal recognition particle receptor FtsY
+PGF_03783620	Megamonas	167.71	1.89	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Megamonas	236.57	1.51	Ribonuclease III (EC 3.1.26.3)
+PGF_03790089	Megamonas	375.00	0.00	Uncharacterized di-Fe4-S4 cluster-containing protein AF_1153
+PGF_03801201	Megamonas	265.00	4.12	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Megamonas	66.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811469	Megamonas	470.86	0.38	Sodium:alanine symporter family protein
+PGF_03811905	Megamonas	355.14	0.38	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03846068	Megamonas	272.00	9.73	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03846586	Megamonas	191.00	0.00	Putative transmembrane protein
+PGF_03856084	Megamonas	645.43	6.02	Cell division protein FtsH
+PGF_03953373	Megamonas	230.86	19.79	hypothetical protein
+PGF_03977347	Megamonas	274.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_03979763	Megamonas	209.57	1.13	hypothetical protein
+PGF_04005838	Megamonas	410.57	24.95	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04025415	Megamonas	146.14	10.33	Large-conductance mechanosensitive channel
+PGF_04034430	Megamonas	60.00	0.00	SSU ribosomal protein S21p
+PGF_04036472	Megamonas	79.86	10.21	KH domain RNA binding protein YlqC
+PGF_04072848	Megamonas	160.86	7.47	hypothetical protein
+PGF_04114737	Megamonas	338.71	3.40	Hemin ABC transporter, permease protein
+PGF_04127376	Megamonas	260.71	8.69	Twin-arginine translocation protein TatC
+PGF_04131439	Megamonas	391.14	3.02	Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)
+PGF_04151476	Megamonas	169.00	0.00	16S rRNA processing protein RimM
+PGF_04154333	Megamonas	105.14	22.63	Twin-arginine translocation protein TatA
+PGF_04182459	Megamonas	232.86	0.38	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04306800	Megamonas	373.00	0.00	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04345693	Megamonas	456.57	1.51	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04395505	Megamonas	355.00	0.00	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Megamonas	103.00	0.00	Thioredoxin
+PGF_04457297	Megamonas	194.86	0.38	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04485101	Megamonas	219.00	0.00	gamma-glutamyl ligase (similar to F420:0 gamma-glutamyl ligase)
+PGF_04493258	Megamonas	300.14	2.12	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Megamonas	243.00	0.58	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Megamonas	458.57	11.72	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Megamonas	503.71	0.76	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Megamonas	250.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04608820	Megamonas	181.71	10.78	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04655384	Megamonas	302.86	0.38	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Megamonas	187.86	101.49	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04695681	Megamonas	218.29	69.13	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04724831	Megamonas	337.29	25.18	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Megamonas	743.14	67.54	Translation initiation factor 2
+PGF_04788810	Megamonas	200.86	3.48	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04845029	Megamonas	113.00	0.00	LSU ribosomal protein L19p
+PGF_04846590	Megamonas	317.29	0.76	Magnesium and cobalt transport protein CorA
+PGF_04882920	Megamonas	273.71	36.22	Fumarylacetoacetate hydrolase family protein
+PGF_04970608	Megamonas	69.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04971017	Megamonas	326.43	34.15	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Megamonas	103.00	0.00	LSU ribosomal protein L21p
+PGF_05039439	Megamonas	328.00	0.00	Oxidoreductase, Gfo/Idh/MocA family
+PGF_05135220	Megamonas	819.29	9.83	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05195027	Megamonas	470.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05249824	Megamonas	254.00	0.58	Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+PGF_05255412	Megamonas	449.86	0.38	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Megamonas	433.00	0.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Megamonas	716.71	10.56	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05311018	Megamonas	209.14	41.98	Integral membrane protein TerC
+PGF_05364204	Megamonas	208.00	0.00	FIG004556: membrane metalloprotease
+PGF_05383972	Megamonas	163.57	17.04	G:T/U mismatch-specific uracil/thymine DNA-glycosylase (EC 3.2.2.27)
+PGF_05463808	Megamonas	284.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05493552	Megamonas	85.14	5.37	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05504162	Megamonas	533.29	21.34	5'-nucleotidase (EC 3.1.3.5)
+PGF_05579323	Megamonas	356.14	4.91	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Megamonas	398.00	18.71	Protein translocase subunit SecY
+PGF_05694328	Megamonas	369.71	17.08	Iron-sulfur cluster-binding protein
+PGF_05896156	Megamonas	238.43	5.06	hypothetical protein
+PGF_05897703	Megamonas	574.71	5.44	Efflux ABC transporter, permease/ATP-binding protein
+PGF_05925776	Megamonas	292.00	0.00	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Megamonas	413.00	0.00	Protein translocase subunit SecD
+PGF_05999853	Megamonas	246.00	26.46	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06013190	Megamonas	222.14	30.93	Metal-dependent hydrolase
+PGF_06084258	Megamonas	364.43	1.13	Serine protease, DegP/HtrA, do-like (EC 3.4.21.-)
+PGF_06133167	Megamonas	208.00	0.00	MBL-fold metallo-hydrolase superfamily
+PGF_06167333	Megamonas	84.00	0.00	hypothetical protein
+PGF_06180597	Megamonas	146.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06180612	Megamonas	243.86	55.98	Uncharacterized SAM-binding protein YdcF
+PGF_06213055	Megamonas	253.57	1.13	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06254345	Megamonas	93.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Megamonas	367.00	2.65	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Megamonas	421.00	0.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06377994	Megamonas	398.43	41.20	FtsW-like cell division membrane protein CA_C0505
+PGF_06459503	Megamonas	569.00	94.55	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06495818	Megamonas	267.71	0.76	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06530721	Megamonas	220.14	3.48	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Megamonas	124.14	0.38	Fluoride ion transporter CrcB
+PGF_06586947	Megamonas	370.71	25.01	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06621789	Megamonas	147.00	0.00	PTS system, mannose-specific IIA component (EC 2.7.1.191)
+PGF_06644010	Megamonas	314.86	1.57	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Megamonas	76.00	0.00	Acyl carrier protein
+PGF_06649360	Megamonas	202.00	0.00	Segregation and condensation protein B
+PGF_06660812	Megamonas	164.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06693963	Megamonas	103.71	8.69	Nucleoid-associated protein YaaK
+PGF_06701488	Megamonas	217.14	0.38	RNA-binding protein Jag
+PGF_06718352	Megamonas	150.71	13.98	Cys-tRNA(Pro) deacylase YbaK
+PGF_06718396	Megamonas	146.43	1.13	L-fucose mutarotase (EC 5.1.3.29)
+PGF_06770993	Megamonas	361.14	0.38	Lipopolysaccharide export system permease protein LptF @ Lipopolysaccharide export system permease protein LptG
+PGF_06808423	Megamonas	325.14	2.27	hypothetical protein
+PGF_07072582	Megamonas	370.14	21.68	RNA polymerase sigma factor RpoD
+PGF_07242312	Megamonas	587.57	34.70	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07263029	Megamonas	341.86	0.38	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07410757	Megamonas	347.00	0.00	Aldose 1-epimerase (EC 5.1.3.3)
+PGF_08040413	Megamonas	245.57	18.76	putative alpha-dextrin endo-1, 6-alpha-glucosidase
+PGF_08040528	Megamonas	633.14	0.38	Uptake [NiFe] hydrogenase, large subunit HyaB (EC 1.12.99.6)
+PGF_08047063	Megamonas	376.00	0.00	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08047383	Megamonas	366.71	2.63	Uptake [NiFe] hydrogenase, small subunit HyaA (EC 1.12.99.6)
+PGF_08050537	Megamonas	310.29	0.76	Homoserine O-succinyltransferase (EC 2.3.1.46)

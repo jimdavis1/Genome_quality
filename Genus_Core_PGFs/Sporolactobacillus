@@ -1,0 +1,940 @@
+PGF_00000027	Sporolactobacillus	265.17	0.41	Uncharacterized protein YmdB
+PGF_00000196	Sporolactobacillus	416.00	3.16	FIG007079: UPF0348 protein family
+PGF_00000416	Sporolactobacillus	375.33	32.41	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00003485	Sporolactobacillus	247.17	2.23	Uncharacterized protein YabS
+PGF_00003516	Sporolactobacillus	375.50	4.18	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004671	Sporolactobacillus	643.50	149.41	Ferrous iron transport protein B
+PGF_00004728	Sporolactobacillus	522.67	134.16	Fibronectin/fibrinogen-binding protein
+PGF_00005244	Sporolactobacillus	83.00	0.00	Firmicutes ribosomal L7Ae family protein
+PGF_00005286	Sporolactobacillus	529.83	0.41	Flagellar M-ring protein FliF
+PGF_00005354	Sporolactobacillus	147.83	0.41	Flagellar basal-body rod protein FlgC
+PGF_00005402	Sporolactobacillus	85.67	5.75	Flagellar biosynthesis protein FliQ
+PGF_00005454	Sporolactobacillus	499.50	7.56	Flagellar hook-associated protein FlgK
+PGF_00005653	Sporolactobacillus	392.33	95.05	Flagellin protein FlaA
+PGF_00006245	Sporolactobacillus	561.67	3.93	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006377	Sporolactobacillus	654.17	9.89	Fructose-1,6-bisphosphatase, Bacillus type (EC 3.1.3.11)
+PGF_00006461	Sporolactobacillus	459.17	4.79	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Sporolactobacillus	513.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Sporolactobacillus	366.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Sporolactobacillus	415.50	55.11	GTP-binding protein EngA
+PGF_00007026	Sporolactobacillus	183.50	42.74	GTP-binding protein EngB
+PGF_00007027	Sporolactobacillus	301.00	0.00	GTP-binding protein Era
+PGF_00007028	Sporolactobacillus	388.83	68.02	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Sporolactobacillus	617.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007045	Sporolactobacillus	258.50	0.55	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Sporolactobacillus	459.33	0.82	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Sporolactobacillus	295.00	0.63	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007481	Sporolactobacillus	169.00	0.00	ThiJ/PfpI family protein YhbO
+PGF_00007632	Sporolactobacillus	317.83	0.41	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Sporolactobacillus	324.00	0.63	Glucokinase (EC 2.7.1.2)
+PGF_00007971	Sporolactobacillus	383.33	5.72	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007988	Sporolactobacillus	451.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Sporolactobacillus	450.83	1.94	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Sporolactobacillus	387.83	5.56	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Sporolactobacillus	407.50	0.55	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008115	Sporolactobacillus	1354.50	395.10	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008258	Sporolactobacillus	385.83	142.48	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008269	Sporolactobacillus	201.50	10.58	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008334	Sporolactobacillus	451.17	4.54	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Sporolactobacillus	495.00	1.90	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008506	Sporolactobacillus	483.00	0.00	Glyceraldehyde-3-phosphate dehydrogenase (NADP(+)) (EC 1.2.1.9)
+PGF_00008537	Sporolactobacillus	498.17	5.31	Glycerol kinase (EC 2.7.1.30)
+PGF_00008611	Sporolactobacillus	349.17	0.98	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008774	Sporolactobacillus	451.17	0.41	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Sporolactobacillus	487.33	0.82	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008838	Sporolactobacillus	235.00	0.00	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008874	Sporolactobacillus	802.00	2.45	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Sporolactobacillus	476.00	2.00	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Sporolactobacillus	175.17	37.60	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009966	Sporolactobacillus	460.17	0.41	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010034	Sporolactobacillus	283.33	0.82	Glyoxalase family protein
+PGF_00010205	Sporolactobacillus	254.83	0.41	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Sporolactobacillus	727.50	8.14	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Sporolactobacillus	207.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Sporolactobacillus	313.50	9.38	HPr kinase/phosphorylase
+PGF_00010778	Sporolactobacillus	246.67	11.20	Transcriptional repressor GlcR, DeoR family
+PGF_00011081	Sporolactobacillus	806.33	0.82	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Sporolactobacillus	308.67	1.21	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011792	Sporolactobacillus	95.83	4.02	His repressor
+PGF_00011953	Sporolactobacillus	143.00	0.00	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00012264	Sporolactobacillus	334.17	0.75	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Sporolactobacillus	435.83	19.19	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Sporolactobacillus	303.00	2.45	Homoserine kinase (EC 2.7.1.39)
+PGF_00012652	Sporolactobacillus	172.67	4.08	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00013144	Sporolactobacillus	167.50	53.16	Terminal oxidase biogenesis protein CtaM, putative heme A, heme O chaperone
+PGF_00013207	Sporolactobacillus	329.33	1.37	Uncharacterized membrane protein YfhP
+PGF_00013244	Sporolactobacillus	182.00	0.63	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013273	Sporolactobacillus	129.00	0.63	Uncharacterized protein YaeR with similarity to glyoxylase family
+PGF_00013283	Sporolactobacillus	226.50	1.76	UPF0001 protein YggS
+PGF_00013347	Sporolactobacillus	85.17	0.41	UPF0297 protein YrzL
+PGF_00013492	Sporolactobacillus	178.50	0.55	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Sporolactobacillus	514.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Sporolactobacillus	196.50	0.55	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Sporolactobacillus	264.67	0.52	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Sporolactobacillus	259.00	0.63	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00015039	Sporolactobacillus	246.17	0.41	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Sporolactobacillus	74.67	0.52	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Sporolactobacillus	289.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Sporolactobacillus	260.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Sporolactobacillus	467.50	0.55	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Sporolactobacillus	435.00	0.00	Iron-sulfur cluster assembly protein SufD
+PGF_00015701	Sporolactobacillus	422.17	0.41	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015855	Sporolactobacillus	344.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016003	Sporolactobacillus	362.00	3.16	L-alanine-DL-glutamate epimerase (EC 5.1.1.n1)
+PGF_00016223	Sporolactobacillus	299.50	0.55	L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016224	Sporolactobacillus	220.00	0.00	L-serine dehydratase, beta subunit (EC 4.3.1.17)
+PGF_00016328	Sporolactobacillus	167.17	0.41	LSU ribosomal protein L10p (P0)
+PGF_00016338	Sporolactobacillus	422.33	0.82	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Sporolactobacillus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Sporolactobacillus	146.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Sporolactobacillus	138.67	8.26	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Sporolactobacillus	121.67	1.63	LSU ribosomal protein L17p
+PGF_00016353	Sporolactobacillus	120.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Sporolactobacillus	225.33	11.43	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Sporolactobacillus	117.83	0.41	LSU ribosomal protein L20p
+PGF_00016368	Sporolactobacillus	113.17	0.41	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Sporolactobacillus	96.17	0.41	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Sporolactobacillus	105.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Sporolactobacillus	98.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Sporolactobacillus	276.83	0.41	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Sporolactobacillus	62.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016418	Sporolactobacillus	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Sporolactobacillus	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Sporolactobacillus	212.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Sporolactobacillus	207.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Sporolactobacillus	180.00	0.63	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Sporolactobacillus	178.17	0.41	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Sporolactobacillus	120.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Sporolactobacillus	134.67	30.21	LSU ribosomal protein L9p
+PGF_00016495	Sporolactobacillus	252.83	0.41	Lactam utilization protein LamB
+PGF_00016843	Sporolactobacillus	181.00	0.00	LemA protein
+PGF_00017333	Sporolactobacillus	524.50	4.42	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16)
+PGF_00017479	Sporolactobacillus	308.67	0.82	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017608	Sporolactobacillus	200.67	0.82	Low temperature requirement C protein
+PGF_00017617	Sporolactobacillus	344.50	1.22	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00018016	Sporolactobacillus	481.67	1.21	Lysine-specific permease
+PGF_00018944	Sporolactobacillus	71.33	7.03	Major transcriptional regulator of spore coat formation GerE
+PGF_00019221	Sporolactobacillus	1248.67	2.16	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Sporolactobacillus	309.00	0.00	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019427	Sporolactobacillus	112.00	5.73	MazG nucleotide pyrophosphohydrolase
+PGF_00019536	Sporolactobacillus	576.33	5.13	ATP-dependent protease La (EC 3.4.21.53) LonB Type I
+PGF_00019563	Sporolactobacillus	236.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
+PGF_00020147	Sporolactobacillus	367.50	0.55	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020361	Sporolactobacillus	158.50	0.55	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020756	Sporolactobacillus	376.00	2.19	Methionine synthase II (cobalamin-independent)
+PGF_00020779	Sporolactobacillus	544.33	0.52	Methionyl-tRNA synthetase, clostridial paralog
+PGF_00020996	Sporolactobacillus	137.17	0.41	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021976	Sporolactobacillus	386.83	38.62	Uncharacterized metal ion transporter YcsG, Mn(2+)/Fe(2+) NRAMP family
+PGF_00023591	Sporolactobacillus	344.00	2.19	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023794	Sporolactobacillus	389.33	0.82	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00023835	Sporolactobacillus	300.83	4.79	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00024273	Sporolactobacillus	160.00	3.95	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Sporolactobacillus	382.67	0.82	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Sporolactobacillus	641.00	2.45	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024478	Sporolactobacillus	335.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024638	Sporolactobacillus	390.50	3.83	Long-chain-alcohol dehydrogenase (EC 1.1.1.192)
+PGF_00025090	Sporolactobacillus	544.83	59.73	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025227	Sporolactobacillus	563.50	0.55	Acetolactate synthase, catabolic (EC 2.2.1.6)
+PGF_00025379	Sporolactobacillus	273.17	0.75	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025410	Sporolactobacillus	236.83	8.26	Negative regulator of genetic competence MecA
+PGF_00025413	Sporolactobacillus	206.33	0.82	Negative regulator of genetic competence MecA
+PGF_00025489	Sporolactobacillus	401.83	2.04	Niacin transporter NiaP
+PGF_00025600	Sporolactobacillus	457.50	80.10	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026050	Sporolactobacillus	204.17	3.92	Nitroreductase family protein
+PGF_00026279	Sporolactobacillus	334.17	5.08	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026300	Sporolactobacillus	278.67	0.82	Novel pyridoxal kinase, thiD family (EC 2.7.1.35)
+PGF_00026362	Sporolactobacillus	200.33	0.52	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Sporolactobacillus	290.00	1.10	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026461	Sporolactobacillus	216.50	2.81	Nucleotidase YfbR, HD superfamily
+PGF_00026615	Sporolactobacillus	267.00	0.00	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026864	Sporolactobacillus	276.17	0.41	Octanoyl-[GcvH]:protein N-octanoyltransferase (EC 2.3.1.204)
+PGF_00026891	Sporolactobacillus	565.33	3.27	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00028947	Sporolactobacillus	226.67	1.86	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) / Dihydropteridine reductase (EC 1.5.1.34)
+PGF_00030231	Sporolactobacillus	672.00	1.26	Penicillin-binding protein 3
+PGF_00030429	Sporolactobacillus	420.83	0.41	Uncharacterized metalloprotease YhfN
+PGF_00030640	Sporolactobacillus	361.00	4.38	Peptide chain release factor 1
+PGF_00030643	Sporolactobacillus	519.67	13.06	Peptide chain release factor 3
+PGF_00031568	Sporolactobacillus	156.67	6.86	Peroxide stress regulator PerR, FUR family
+PGF_00032487	Sporolactobacillus	225.33	1.21	Phage protein
+PGF_00033197	Sporolactobacillus	330.00	0.00	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Sporolactobacillus	319.00	0.00	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Sporolactobacillus	294.17	0.41	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033359	Sporolactobacillus	325.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033423	Sporolactobacillus	576.17	4.75	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Sporolactobacillus	611.67	118.42	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033479	Sporolactobacillus	583.00	7.35	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Sporolactobacillus	398.00	7.35	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033877	Sporolactobacillus	165.00	2.00	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Sporolactobacillus	397.00	0.00	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Sporolactobacillus	223.50	0.55	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033932	Sporolactobacillus	529.50	1.22	Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases, YtcI homolog
+PGF_00033936	Sporolactobacillus	236.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Sporolactobacillus	242.33	4.80	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Sporolactobacillus	346.50	0.55	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Sporolactobacillus	230.00	0.00	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Sporolactobacillus	740.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Sporolactobacillus	189.00	0.00	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034011	Sporolactobacillus	382.67	1.63	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_00034776	Sporolactobacillus	709.33	3.93	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Sporolactobacillus	172.00	4.90	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034973	Sporolactobacillus	186.17	2.04	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035591	Sporolactobacillus	244.33	16.26	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Sporolactobacillus	486.17	0.41	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035721	Sporolactobacillus	432.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Sporolactobacillus	428.00	0.00	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035844	Sporolactobacillus	426.83	0.98	Predicted exonuclease
+PGF_00035888	Sporolactobacillus	476.33	0.52	Predicted glycolate dehydrogenase, 2-subunit type (EC 1.1.99.14), iron-sulfur subunit GlcD
+PGF_00035889	Sporolactobacillus	445.50	3.21	Predicted glycolate dehydrogenase, 2-subunit type (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00036543	Sporolactobacillus	566.67	10.25	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036580	Sporolactobacillus	105.33	4.93	Protein translocase subunit YajC
+PGF_00036997	Sporolactobacillus	531.67	1.63	Probable cell division protein YtgP
+PGF_00037006	Sporolactobacillus	349.33	4.08	Agmatine deiminase (EC 3.5.3.12)
+PGF_00037184	Sporolactobacillus	227.83	2.71	UPF0702 transmembrane protein YetF
+PGF_00037334	Sporolactobacillus	313.50	1.76	Serine/threonine-protein kinase YabT (EC 2.7.11.1)
+PGF_00037481	Sporolactobacillus	92.00	0.00	Programmed cell death antitoxin YdcD
+PGF_00037527	Sporolactobacillus	365.00	0.00	Proline dipeptidase (EC 3.4.13.9)
+PGF_00037588	Sporolactobacillus	546.83	0.41	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00038619	Sporolactobacillus	239.33	17.33	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038933	Sporolactobacillus	134.00	0.00	PsiE protein
+PGF_00038971	Sporolactobacillus	283.50	2.59	Pur operon repressor PurR
+PGF_00038987	Sporolactobacillus	235.33	1.03	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00040334	Sporolactobacillus	234.00	2.68	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PGF_00040578	Sporolactobacillus	260.67	3.83	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041788	Sporolactobacillus	151.00	0.00	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042167	Sporolactobacillus	158.17	4.54	Putative metallopeptidase (Zinc) SprT family
+PGF_00042825	Sporolactobacillus	310.67	0.82	Putative oxidoreductase SCO7655
+PGF_00042913	Sporolactobacillus	287.00	0.00	Sporulation-specific protease YabG
+PGF_00043457	Sporolactobacillus	128.83	4.49	Putative regulator of the mannose operon, ManO
+PGF_00043753	Sporolactobacillus	412.83	0.75	Allantoate amidohydrolase (EC 3.5.3.9)
+PGF_00043838	Sporolactobacillus	515.50	1.22	Putative secreted amidase SCO6344
+PGF_00045787	Sporolactobacillus	191.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Sporolactobacillus	295.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Sporolactobacillus	370.00	145.14	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045963	Sporolactobacillus	1147.00	0.00	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00045997	Sporolactobacillus	575.83	0.41	Pyruvate dehydrogenase (quinone) (EC 1.2.5.1)
+PGF_00046197	Sporolactobacillus	274.33	3.83	RNA binding methyltransferase FtsJ like
+PGF_00046199	Sporolactobacillus	140.17	3.49	RNA binding protein, contains ribosomal protein S1 domain
+PGF_00046280	Sporolactobacillus	251.17	2.04	RNA polymerase heat shock sigma factor SigI
+PGF_00046350	Sporolactobacillus	255.00	11.97	RNA polymerase sigma factor SigB
+PGF_00046377	Sporolactobacillus	243.67	19.44	RNA polymerase sigma factor for flagellar operon
+PGF_00046551	Sporolactobacillus	236.00	0.00	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046553	Sporolactobacillus	259.00	0.00	RNA polymerase sporulation specific sigma factor SigG
+PGF_00046555	Sporolactobacillus	215.17	0.41	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Sporolactobacillus	77.50	0.55	RNA-binding protein Hfq
+PGF_00046657	Sporolactobacillus	239.50	1.22	Alpha-acetolactate decarboxylase (EC 4.1.1.5)
+PGF_00047078	Sporolactobacillus	353.83	11.94	RecA protein
+PGF_00047095	Sporolactobacillus	782.00	4.86	RecD-like DNA helicase YrrC
+PGF_00047155	Sporolactobacillus	213.50	0.55	Redox-sensing transcriptional repressor Rex
+PGF_00048331	Sporolactobacillus	311.50	1.22	Rhodanese domain protein UPF0176, Firmicutes subgroup
+PGF_00048542	Sporolactobacillus	151.67	1.63	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Sporolactobacillus	238.67	39.16	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048564	Sporolactobacillus	568.00	0.00	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PGF_00048566	Sporolactobacillus	185.17	1.72	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048586	Sporolactobacillus	250.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Sporolactobacillus	311.17	0.41	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048640	Sporolactobacillus	700.33	1.63	Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048641	Sporolactobacillus	330.67	7.89	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Sporolactobacillus	159.50	0.84	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048645	Sporolactobacillus	126.50	1.22	Ribonucleotide reduction protein NrdI
+PGF_00048651	Sporolactobacillus	156.00	0.00	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Sporolactobacillus	316.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Sporolactobacillus	241.83	3.06	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Sporolactobacillus	315.83	7.00	Ribosomal protein L11 methyltransferase
+PGF_00048917	Sporolactobacillus	189.50	19.04	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Sporolactobacillus	186.00	0.00	Ribosome recycling factor
+PGF_00048928	Sporolactobacillus	295.00	1.26	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Sporolactobacillus	83.83	3.19	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Sporolactobacillus	115.17	0.41	Ribosome-binding factor A
+PGF_00049323	Sporolactobacillus	269.83	7.39	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+PGF_00049330	Sporolactobacillus	407.00	2.45	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Sporolactobacillus	349.83	3.25	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049731	Sporolactobacillus	426.00	0.00	Aluminum resistance protein
+PGF_00049827	Sporolactobacillus	291.00	1.67	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Sporolactobacillus	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Sporolactobacillus	129.83	0.41	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Sporolactobacillus	137.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Sporolactobacillus	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Sporolactobacillus	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049844	Sporolactobacillus	89.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Sporolactobacillus	90.33	1.03	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Sporolactobacillus	90.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Sporolactobacillus	89.83	0.41	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Sporolactobacillus	76.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Sporolactobacillus	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Sporolactobacillus	219.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Sporolactobacillus	200.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Sporolactobacillus	167.50	3.67	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Sporolactobacillus	101.33	0.82	SSU ribosomal protein S6p
+PGF_00049904	Sporolactobacillus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Sporolactobacillus	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Sporolactobacillus	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Sporolactobacillus	261.83	0.41	Segregation and condensation protein A
+PGF_00050579	Sporolactobacillus	593.50	4.51	Sensor histidine kinase ResE (EC 2.7.13.3)
+PGF_00050712	Sporolactobacillus	390.00	0.00	Sensor protein DegS
+PGF_00050995	Sporolactobacillus	474.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Sporolactobacillus	230.00	0.00	Septum site-determining protein MinC
+PGF_00051320	Sporolactobacillus	603.50	67.36	Serine protein kinase (prkA protein), P-loop containing
+PGF_00051334	Sporolactobacillus	407.67	7.31	Serine--pyruvate aminotransferase (EC 2.6.1.51) / L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
+PGF_00051525	Sporolactobacillus	428.17	0.41	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Sporolactobacillus	447.00	0.00	Signal recognition particle protein Ffh
+PGF_00052705	Sporolactobacillus	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00053035	Sporolactobacillus	58.00	3.63	Small acid-soluble spore protein
+PGF_00053770	Sporolactobacillus	365.00	0.00	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053872	Sporolactobacillus	140.33	0.82	Spore cortex-lytic enzyme CwlJ
+PGF_00053877	Sporolactobacillus	277.33	2.73	Spore cortex-lytic enzyme, lytic transglycosylase SleB
+PGF_00053878	Sporolactobacillus	361.83	6.94	Spore germination endopeptidase Gpr (EC 3.4.24.78)
+PGF_00053894	Sporolactobacillus	196.00	1.10	Spore maturation protein A
+PGF_00053897	Sporolactobacillus	176.17	0.41	Spore maturation protein B
+PGF_00053909	Sporolactobacillus	153.83	2.71	Spore protein GerW (YtfJ), not involved in spore germination
+PGF_00053991	Sporolactobacillus	275.67	0.82	Stage 0 sporulation protein YaaT
+PGF_00053997	Sporolactobacillus	268.50	3.33	Stage 0 sporulation two-component response regulator (Spo0A)
+PGF_00054034	Sporolactobacillus	242.67	14.87	Stage II sporulation protein required for processing of pro-sigma-E (SpoIIR)
+PGF_00054038	Sporolactobacillus	316.67	0.82	Stage III sporulation protein AA
+PGF_00054046	Sporolactobacillus	67.00	0.00	Stage III sporulation protein AC
+PGF_00054049	Sporolactobacillus	132.17	2.04	Stage III sporulation protein AD
+PGF_00054051	Sporolactobacillus	398.00	1.10	Stage III sporulation protein AE
+PGF_00054072	Sporolactobacillus	176.67	1.37	Stage III sporulation protein AH
+PGF_00054075	Sporolactobacillus	89.50	0.55	Stage III sporulation protein D
+PGF_00054087	Sporolactobacillus	498.00	0.00	Stage IV sporulation protein A
+PGF_00054088	Sporolactobacillus	424.33	3.56	Stage IV sporulation protein B
+PGF_00054097	Sporolactobacillus	149.00	0.00	Stage V sporulation protein AC (SpoVAC)
+PGF_00054098	Sporolactobacillus	316.00	34.87	Stage V sporulation protein AD (SpoVAD)
+PGF_00054100	Sporolactobacillus	116.00	0.00	Stage V sporulation protein AE1 (SpoVAE1)
+PGF_00054103	Sporolactobacillus	446.33	120.68	Stage V sporulation protein AF (SpoVAF)
+PGF_00054106	Sporolactobacillus	510.67	6.95	Stage V sporulation protein B
+PGF_00054116	Sporolactobacillus	181.00	6.87	Stage V sporulation protein T, AbrB family transcriptional regulator (SpoVT)
+PGF_00054117	Sporolactobacillus	476.17	5.49	Spore cortex synthesis protein SpoVR
+PGF_00054118	Sporolactobacillus	86.00	0.00	Spore core dehydratation and coat assembly protein SpoVS
+PGF_00054134	Sporolactobacillus	319.33	1.97	Stage V sporulation protein SpoVK
+PGF_00054388	Sporolactobacillus	211.17	17.74	Substrate-specific component PanT of predicted pantothenate ECF transporter
+PGF_00054403	Sporolactobacillus	162.00	0.63	Substrate-specific component QueT (COG4708) of predicted queuosine-regulated ECF transporter
+PGF_00054915	Sporolactobacillus	458.33	0.52	Sugar-phosphate guanylyltransferase / Sugar-phosephate isomerase
+PGF_00055985	Sporolactobacillus	335.00	0.00	Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)
+PGF_00056316	Sporolactobacillus	359.83	11.84	Tetraprenyl-beta-curcumene synthase (EC 4.2.3.130)
+PGF_00056634	Sporolactobacillus	168.50	9.07	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056662	Sporolactobacillus	341.17	0.41	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056797	Sporolactobacillus	377.00	2.00	Uncharacterized radical SAM protein YfkA
+PGF_00056828	Sporolactobacillus	726.33	6.06	Anthranilate synthase, aminase component (EC 4.1.3.27) / Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00056872	Sporolactobacillus	190.00	0.00	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Sporolactobacillus	225.67	2.94	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Sporolactobacillus	264.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057127	Sporolactobacillus	146.00	0.00	Anti-sigma F factor (EC 2.7.11.1)
+PGF_00057198	Sporolactobacillus	117.00	2.45	Anti-sigma F factor antagonist
+PGF_00057270	Sporolactobacillus	812.67	1.86	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Sporolactobacillus	147.50	0.55	Transamidase GatB domain protein
+PGF_00057429	Sporolactobacillus	77.50	1.64	Transcription attenuation protein MtrB
+PGF_00057440	Sporolactobacillus	192.00	1.67	Transcription factor FapR
+PGF_00057483	Sporolactobacillus	419.83	4.92	Transcription termination factor Rho
+PGF_00057485	Sporolactobacillus	388.00	6.69	Transcription termination protein NusA
+PGF_00058523	Sporolactobacillus	234.00	4.43	Transcriptional regulator DegU, LuxR family
+PGF_00060120	Sporolactobacillus	476.67	23.76	Transcriptional regulatory protein
+PGF_00060174	Sporolactobacillus	225.00	0.00	Transcriptional response regulator CssR
+PGF_00060261	Sporolactobacillus	186.33	16.02	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060280	Sporolactobacillus	255.83	1.33	Transcriptional repressor of the fructose operon, DeoR family
+PGF_00060409	Sporolactobacillus	692.50	0.55	Translation elongation factor G
+PGF_00060414	Sporolactobacillus	587.00	48.99	Translation elongation factor LepA
+PGF_00060421	Sporolactobacillus	185.00	0.00	Translation elongation factor P
+PGF_00060427	Sporolactobacillus	293.17	0.41	Translation elongation factor Ts
+PGF_00060428	Sporolactobacillus	395.00	0.00	Translation elongation factor Tu
+PGF_00060431	Sporolactobacillus	72.67	1.63	Translation initiation factor 1
+PGF_00060478	Sporolactobacillus	191.33	13.14	Translation initiation factor 3
+PGF_00060799	Sporolactobacillus	311.50	15.87	Uncharacterized UPF0750 membrane protein YpjC
+PGF_00061922	Sporolactobacillus	414.33	10.61	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062023	Sporolactobacillus	272.17	9.72	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062045	Sporolactobacillus	312.50	54.62	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Sporolactobacillus	421.67	13.88	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Sporolactobacillus	307.50	1.22	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Sporolactobacillus	351.67	1.21	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Sporolactobacillus	438.67	2.16	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064244	Sporolactobacillus	480.33	3.20	Arginine decarboxylase (EC 4.1.1.19)
+PGF_00064251	Sporolactobacillus	385.83	0.75	UPF0229 protein YeaH
+PGF_00064572	Sporolactobacillus	192.50	4.46	Uncharacterized transcriptional regulator YhgD, TetR family
+PGF_00065380	Sporolactobacillus	480.67	2.16	Uncharacterized protein YaaO
+PGF_00065679	Sporolactobacillus	313.17	7.60	Uncharacterized protein YqhQ
+PGF_00066123	Sporolactobacillus	209.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Sporolactobacillus	192.83	21.43	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Sporolactobacillus	238.83	3.25	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Sporolactobacillus	214.00	1.55	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066435	Sporolactobacillus	616.00	0.00	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) YisO
+PGF_00066453	Sporolactobacillus	877.33	0.52	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Sporolactobacillus	430.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066867	Sporolactobacillus	418.00	2.19	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066893	Sporolactobacillus	808.50	2.35	Xaa-Pro dipeptidyl-peptidase (EC 3.4.14.11)
+PGF_00066906	Sporolactobacillus	307.50	1.22	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Sporolactobacillus	422.67	0.52	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066942	Sporolactobacillus	190.50	0.55	Xanthine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_00066964	Sporolactobacillus	435.50	1.22	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Sporolactobacillus	350.00	12.39	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067554	Sporolactobacillus	478.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068776	Sporolactobacillus	382.67	118.39	Arsenic efflux pump protein
+PGF_00070343	Sporolactobacillus	65.00	0.00	BH1265 unknown
+PGF_00070551	Sporolactobacillus	332.83	0.41	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00072105	Sporolactobacillus	784.83	14.95	ATP-dependent DNA helicase IV (EC 3.6.4.12)
+PGF_00075770	Sporolactobacillus	451.00	0.00	FIG00519347: Ribonucleotide reductase-like protein
+PGF_00082861	Sporolactobacillus	196.33	34.06	hypothetical protein
+PGF_00084324	Sporolactobacillus	274.33	7.34	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00088623	Sporolactobacillus	225.00	5.33	hypothetical protein
+PGF_00099517	Sporolactobacillus	281.17	31.89	hypothetical protein
+PGF_00100080	Sporolactobacillus	352.50	117.85	hypothetical protein
+PGF_00110712	Sporolactobacillus	397.83	0.41	hypothetical protein
+PGF_00126537	Sporolactobacillus	148.67	4.08	hypothetical protein
+PGF_00133674	Sporolactobacillus	552.83	8.45	hypothetical protein
+PGF_00134118	Sporolactobacillus	976.67	0.82	Predicted insulinase-like Zn-dependent peptidase DVU0941
+PGF_00135950	Sporolactobacillus	398.67	0.82	hypothetical protein
+PGF_00140613	Sporolactobacillus	193.33	1.03	hypothetical protein
+PGF_00143783	Sporolactobacillus	143.50	3.89	hypothetical protein
+PGF_00144272	Sporolactobacillus	164.17	3.49	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00145901	Sporolactobacillus	129.67	0.52	hypothetical protein
+PGF_00180909	Sporolactobacillus	150.17	2.14	hypothetical protein
+PGF_00191882	Sporolactobacillus	207.83	8.59	hypothetical protein
+PGF_00192754	Sporolactobacillus	291.83	3.60	hypothetical protein
+PGF_00196604	Sporolactobacillus	142.50	3.21	hypothetical protein
+PGF_00201535	Sporolactobacillus	343.67	1.97	hypothetical protein
+PGF_00212263	Sporolactobacillus	201.33	4.76	hypothetical protein
+PGF_00219472	Sporolactobacillus	248.83	0.41	UPF0736 protein YjbA
+PGF_00222761	Sporolactobacillus	219.17	4.67	Uncharacterized protein YhbD
+PGF_00224621	Sporolactobacillus	222.00	0.00	hypothetical protein
+PGF_00236294	Sporolactobacillus	138.50	15.92	hypothetical protein
+PGF_00240574	Sporolactobacillus	371.50	1.64	UPF0118 membrane protein YueF
+PGF_00256809	Sporolactobacillus	397.83	10.53	hypothetical protein
+PGF_00258085	Sporolactobacillus	553.50	1.76	hypothetical protein
+PGF_00261173	Sporolactobacillus	375.67	5.72	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00270800	Sporolactobacillus	267.67	7.58	hypothetical protein
+PGF_00281015	Sporolactobacillus	576.50	0.55	hypothetical protein
+PGF_00284125	Sporolactobacillus	207.67	4.89	hypothetical protein
+PGF_00284595	Sporolactobacillus	353.17	4.22	hypothetical protein
+PGF_00288755	Sporolactobacillus	258.33	2.25	hypothetical protein
+PGF_00293869	Sporolactobacillus	267.00	1.10	hypothetical protein
+PGF_00317797	Sporolactobacillus	223.00	0.00	hypothetical protein
+PGF_00327162	Sporolactobacillus	399.33	8.78	hypothetical protein
+PGF_00328517	Sporolactobacillus	117.83	3.25	hypothetical protein
+PGF_00329967	Sporolactobacillus	163.00	2.97	hypothetical protein
+PGF_00341767	Sporolactobacillus	410.00	6.29	hypothetical protein
+PGF_00350921	Sporolactobacillus	308.50	1.97	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00356263	Sporolactobacillus	354.67	8.16	hypothetical protein
+PGF_00361072	Sporolactobacillus	314.17	12.11	hypothetical protein
+PGF_00365126	Sporolactobacillus	412.83	7.76	hypothetical protein
+PGF_00378628	Sporolactobacillus	508.33	6.98	hypothetical protein
+PGF_00382663	Sporolactobacillus	186.00	7.35	hypothetical protein
+PGF_00391109	Sporolactobacillus	191.00	21.92	hypothetical protein
+PGF_00393313	Sporolactobacillus	212.50	0.55	hypothetical protein
+PGF_00403927	Sporolactobacillus	394.50	0.55	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00404078	Sporolactobacillus	163.83	0.98	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Sporolactobacillus	450.00	0.00	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Sporolactobacillus	330.00	1.10	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404866	Sporolactobacillus	109.67	1.03	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00406573	Sporolactobacillus	269.67	4.80	Putative phosphotransferase YtmP
+PGF_00409415	Sporolactobacillus	298.50	1.22	UPF0750 membrane protein YvjA
+PGF_00412178	Sporolactobacillus	327.00	0.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00412239	Sporolactobacillus	393.17	0.41	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)
+PGF_00412532	Sporolactobacillus	211.00	2.76	Transcriptional repressor CcpN, MarR family
+PGF_00413189	Sporolactobacillus	250.17	24.88	tRNA (adenine(22)-N(1))-methyltransferase (EC 2.1.1.217)
+PGF_00413203	Sporolactobacillus	156.17	2.04	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Sporolactobacillus	216.33	77.57	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413284	Sporolactobacillus	163.17	0.41	tRNA proofreading protein STM4549
+PGF_00413295	Sporolactobacillus	305.67	1.63	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Sporolactobacillus	449.00	0.89	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Sporolactobacillus	629.17	0.41	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Sporolactobacillus	166.33	10.25	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00414366	Sporolactobacillus	579.67	1.86	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414866	Sporolactobacillus	138.00	1.55	CBS domain protein
+PGF_00414926	Sporolactobacillus	404.17	0.75	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415407	Sporolactobacillus	379.00	2.45	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415631	Sporolactobacillus	94.50	0.55	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416115	Sporolactobacillus	314.50	0.55	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Sporolactobacillus	532.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416436	Sporolactobacillus	327.17	8.23	3'->5' exoribonuclease Bsu YhaM
+PGF_00416622	Sporolactobacillus	378.00	0.00	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Sporolactobacillus	399.00	0.00	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00416683	Sporolactobacillus	332.00	0.00	Catabolite control protein A
+PGF_00416761	Sporolactobacillus	892.17	5.85	Cation transport ATPase
+PGF_00417093	Sporolactobacillus	103.17	0.41	Cell division protein GpsB, coordinates the switch between cylindrical and septal cell wall synthesis by re-localization of PBP1
+PGF_00417381	Sporolactobacillus	347.17	9.30	Central glycolytic genes regulator
+PGF_00417429	Sporolactobacillus	378.83	1.33	Chaperone protein DnaJ
+PGF_00417481	Sporolactobacillus	257.50	4.68	3-dehydroquinate dehydratase I (EC 4.2.1.10)
+PGF_00417580	Sporolactobacillus	358.17	1.47	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417658	Sporolactobacillus	359.67	1.37	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Sporolactobacillus	384.50	8.57	Chorismate synthase (EC 4.2.3.5)
+PGF_00417995	Sporolactobacillus	222.17	24.59	Chromosome replication initiation protein DnaD
+PGF_00418737	Sporolactobacillus	479.00	0.63	ComF operon protein A, DNA transporter ATPase
+PGF_00419414	Sporolactobacillus	93.00	0.00	UPF0358 protein YlaN
+PGF_00419420	Sporolactobacillus	469.00	0.00	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419456	Sporolactobacillus	267.50	0.55	Conserved protein YqhG
+PGF_00419622	Sporolactobacillus	248.17	0.41	Coproheme decarboxylase HemQ (no EC)
+PGF_00419740	Sporolactobacillus	152.00	0.00	Transcriptional regulator CtsR
+PGF_00420121	Sporolactobacillus	229.17	10.21	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420215	Sporolactobacillus	644.50	25.23	Cytochrome aa3-600 menaquinol oxidase subunit I
+PGF_00420216	Sporolactobacillus	314.00	1.67	Cytochrome aa3-600 menaquinol oxidase subunit II
+PGF_00420217	Sporolactobacillus	209.00	0.00	Cytochrome aa3-600 menaquinol oxidase subunit III
+PGF_00420572	Sporolactobacillus	467.67	0.52	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420795	Sporolactobacillus	246.83	7.99	3-oxoacyl-[acyl-carrier protein] reductase paralog (EC 1.1.1.100) in cluster with unspecified monosaccharide transporter
+PGF_00420994	Sporolactobacillus	652.17	6.08	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421032	Sporolactobacillus	437.33	18.00	D-serine ammonia-lyase (EC 4.3.1.18)
+PGF_00421071	Sporolactobacillus	148.67	1.63	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Sporolactobacillus	481.50	3.21	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Sporolactobacillus	1135.67	8.55	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Sporolactobacillus	392.83	0.41	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421624	Sporolactobacillus	577.33	6.71	DNA polymerase X family
+PGF_00421679	Sporolactobacillus	604.00	3.74	DNA primase (EC 2.7.7.-)
+PGF_00421733	Sporolactobacillus	368.33	11.48	DNA recombination and repair protein RecF
+PGF_00421792	Sporolactobacillus	453.67	12.75	DNA repair protein RadA
+PGF_00421796	Sporolactobacillus	565.83	0.41	DNA repair protein RecN
+PGF_00421807	Sporolactobacillus	119.50	0.55	DNA replication intiation control protein YabA
+PGF_00422085	Sporolactobacillus	93.33	6.53	DNA-binding protein SpoVG
+PGF_00422186	Sporolactobacillus	220.17	48.58	DNA-binding response regulator ResD
+PGF_00422271	Sporolactobacillus	314.33	0.82	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422519	Sporolactobacillus	76.00	0.00	DUF378 domain-containing protein
+PGF_00422545	Sporolactobacillus	304.50	0.55	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422711	Sporolactobacillus	219.00	0.00	DedA protein
+PGF_00422910	Sporolactobacillus	218.17	0.75	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxycytidine kinase (EC 2.7.1.74)
+PGF_00423097	Sporolactobacillus	293.83	6.34	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Sporolactobacillus	411.17	67.22	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423343	Sporolactobacillus	472.00	0.00	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
+PGF_00423378	Sporolactobacillus	464.00	0.00	Dihydroorotase (EC 3.5.2.3)
+PGF_00423533	Sporolactobacillus	288.83	16.20	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423618	Sporolactobacillus	298.00	0.00	Dipicolinate synthase subunit A
+PGF_00423621	Sporolactobacillus	198.50	1.22	Dipicolinate synthase subunit B
+PGF_00423915	Sporolactobacillus	461.33	39.38	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_00424065	Sporolactobacillus	241.50	0.84	EcsC protein
+PGF_00424337	Sporolactobacillus	296.00	3.52	Endonuclease IV (EC 3.1.21.2)
+PGF_00424569	Sporolactobacillus	256.33	4.08	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00425011	Sporolactobacillus	254.17	2.99	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Sporolactobacillus	452.33	1.63	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Sporolactobacillus	276.50	3.33	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Sporolactobacillus	294.17	7.14	RNase adapter protein RapZ
+PGF_00425679	Sporolactobacillus	219.50	3.56	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Sporolactobacillus	248.83	16.27	Probable transcriptional regulatory protein YebC
+PGF_00425720	Sporolactobacillus	257.50	1.22	Putative RNA-binding protein YlmH
+PGF_00425734	Sporolactobacillus	132.00	0.00	FIG001802: Putative alkaline-shock protein
+PGF_00425786	Sporolactobacillus	525.17	7.31	Ribonuclease Y
+PGF_00425787	Sporolactobacillus	226.67	0.82	FIG002379: metal-dependent hydrolase
+PGF_00425806	Sporolactobacillus	320.00	0.00	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425970	Sporolactobacillus	231.33	0.52	Pyrimidine 5'-nucleotidase YjjG (EC 3.1.3.5)
+PGF_00425993	Sporolactobacillus	382.00	0.00	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Sporolactobacillus	361.67	0.82	FIG004453: protein YceG like
+PGF_00426057	Sporolactobacillus	620.83	2.04	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20) / Homolog of homocysteine-binding domain
+PGF_00426115	Sporolactobacillus	638.33	0.82	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426877	Sporolactobacillus	288.67	0.82	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00427033	Sporolactobacillus	70.83	0.41	UPF0154 protein YneF
+PGF_00464627	Sporolactobacillus	306.50	1.22	Sodium-dependent phosphate transporter
+PGF_00482828	Sporolactobacillus	442.17	22.13	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Sporolactobacillus	363.67	1.63	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00549302	Sporolactobacillus	472.50	30.63	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00591197	Sporolactobacillus	232.67	0.82	RNA polymerase sporulation specific sigma factor SigK
+PGF_00594236	Sporolactobacillus	99.83	0.41	Uncharacterized DUF1805-containing protein YunC
+PGF_00598888	Sporolactobacillus	141.00	1.10	Mini-ribonuclease III
+PGF_00618776	Sporolactobacillus	358.00	1.10	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Sporolactobacillus	338.00	14.04	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00650532	Sporolactobacillus	332.17	2.64	UPF0365 protein YqfA
+PGF_00655358	Sporolactobacillus	490.50	0.84	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Sporolactobacillus	386.67	0.82	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00656741	Sporolactobacillus	123.33	4.08	Protein RibT
+PGF_00665875	Sporolactobacillus	117.00	0.00	Ribosomal silencing factor RsfA
+PGF_00667256	Sporolactobacillus	254.83	0.41	Hypothetical NagD-like phosphatase
+PGF_00717495	Sporolactobacillus	371.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00729813	Sporolactobacillus	372.17	85.43	hypothetical protein
+PGF_00730148	Sporolactobacillus	645.67	0.82	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Sporulation peptidoglycan synthetase SpoVD
+PGF_00734482	Sporolactobacillus	694.00	1.55	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00739300	Sporolactobacillus	274.83	0.41	Uncharacterized protein YtxC
+PGF_00739388	Sporolactobacillus	279.00	0.00	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming) (EC 1.1.1.274)
+PGF_00776587	Sporolactobacillus	121.00	0.00	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Sporolactobacillus	241.00	2.45	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Sporolactobacillus	234.67	6.53	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00788787	Sporolactobacillus	98.17	5.31	Transition state regulatory protein AbrB
+PGF_00827555	Sporolactobacillus	567.50	1.76	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00837346	Sporolactobacillus	440.17	7.78	alpha-ketoglutarate permease, putative
+PGF_00856141	Sporolactobacillus	406.17	0.41	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00885329	Sporolactobacillus	332.00	0.00	Flagellar motor switch protein FliM
+PGF_00907961	Sporolactobacillus	367.33	39.62	Predicted nicotinate-regulated transporter BH3254
+PGF_00912265	Sporolactobacillus	329.83	0.98	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Sporolactobacillus	477.33	0.82	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Sporolactobacillus	556.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00935308	Sporolactobacillus	255.00	0.00	FIG011178: rRNA methylase
+PGF_00940841	Sporolactobacillus	89.00	0.00	Polypeptide composition of the spore coat protein CotJB
+PGF_00950554	Sporolactobacillus	656.00	0.00	Excinuclease ABC subunit B
+PGF_00955412	Sporolactobacillus	256.33	6.06	Probable iron export permease protein FetB
+PGF_00957419	Sporolactobacillus	143.33	2.16	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Sporolactobacillus	309.17	0.98	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_01008498	Sporolactobacillus	118.67	1.21	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01040342	Sporolactobacillus	283.33	0.82	Spermidine synthase (EC 2.5.1.16)
+PGF_01058223	Sporolactobacillus	428.67	1.21	Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+PGF_01068086	Sporolactobacillus	257.33	3.27	Flagellar biosynthesis protein FliR
+PGF_01124268	Sporolactobacillus	200.17	0.41	RecU Holliday junction resolvase
+PGF_01127158	Sporolactobacillus	264.00	0.00	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01162681	Sporolactobacillus	910.83	0.41	Aconitate hydratase (EC 4.2.1.3)
+PGF_01169833	Sporolactobacillus	366.33	2.25	Flagellar biosynthesis protein FlhF
+PGF_01170345	Sporolactobacillus	81.83	6.15	Flagellar protein FlbD
+PGF_01172485	Sporolactobacillus	427.33	1.63	Cell division protein FtsA
+PGF_01174739	Sporolactobacillus	244.83	0.41	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Sporolactobacillus	641.83	0.41	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Sporolactobacillus	272.17	0.41	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Sporolactobacillus	542.33	1.86	Heat shock protein 60 family chaperone GroEL
+PGF_01284357	Sporolactobacillus	322.67	7.50	Cell wall-binding protein
+PGF_01296193	Sporolactobacillus	252.33	1.63	Chromosome (plasmid) partitioning protein ParA
+PGF_01313780	Sporolactobacillus	331.33	104.53	Uncharacterized peptidase YqjE
+PGF_01315291	Sporolactobacillus	411.00	0.00	Uncharacterized zinc protease YmxG
+PGF_01323228	Sporolactobacillus	200.00	0.00	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01350798	Sporolactobacillus	347.00	12.25	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_01351158	Sporolactobacillus	1182.83	1.47	Transcription-repair coupling factor
+PGF_01364427	Sporolactobacillus	200.50	3.67	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01404160	Sporolactobacillus	304.50	0.55	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01420802	Sporolactobacillus	151.17	7.63	Cell division protein MraZ
+PGF_01423501	Sporolactobacillus	156.00	0.00	Transcription elongation factor GreA
+PGF_01442793	Sporolactobacillus	208.67	30.47	Putative manganese efflux pump MntP
+PGF_01444054	Sporolactobacillus	755.33	3.01	ATP-dependent RNA helicase
+PGF_01444546	Sporolactobacillus	98.17	0.41	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01457132	Sporolactobacillus	277.00	5.40	Stage IV sporulation pro-sigma-K processing enzyme (SpoIVFB)
+PGF_01462895	Sporolactobacillus	437.50	1.22	Uncharacterized protein YtoI
+PGF_01465362	Sporolactobacillus	142.17	0.98	Mn-dependent transcriptional regulator MntR
+PGF_01466742	Sporolactobacillus	547.33	10.21	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01481272	Sporolactobacillus	152.67	17.96	Chemotaxis protein CheD
+PGF_01483918	Sporolactobacillus	285.17	10.40	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01512690	Sporolactobacillus	261.33	2.88	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01532393	Sporolactobacillus	715.33	1.03	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01538186	Sporolactobacillus	116.00	0.00	Programmed cell death toxin YdcE
+PGF_01599021	Sporolactobacillus	185.33	0.82	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Sporolactobacillus	156.50	0.84	Flagellar basal-body rod modification protein FlgD
+PGF_01603398	Sporolactobacillus	597.67	1.63	Efflux ABC transporter, permease/ATP-binding protein MdlB
+PGF_01614738	Sporolactobacillus	81.50	1.22	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Sporolactobacillus	358.50	22.80	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667880	Sporolactobacillus	89.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668974	Sporolactobacillus	751.00	24.76	DNA internalization-related competence protein ComEC/Rec2
+PGF_01670678	Sporolactobacillus	321.00	0.00	Purine nucleoside ABC transporter, permease protein 2
+PGF_01673335	Sporolactobacillus	278.17	1.60	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01674551	Sporolactobacillus	126.33	0.82	Glycine cleavage system H protein
+PGF_01675349	Sporolactobacillus	431.33	185.34	Purine nucleoside ABC transporter, ATP-binding protein
+PGF_01677191	Sporolactobacillus	311.33	1.03	Sporulation transcription regulator WhiA
+PGF_01677463	Sporolactobacillus	192.67	1.63	RNA polymerase sigma factor SigW
+PGF_01682834	Sporolactobacillus	156.17	0.41	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Sporolactobacillus	217.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01752285	Sporolactobacillus	168.83	1.17	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01756668	Sporolactobacillus	206.00	0.00	UPF0111 protein YkaA, likely to be a phosphate transport regulator
+PGF_01769256	Sporolactobacillus	117.33	6.53	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+PGF_01777142	Sporolactobacillus	194.00	1.26	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01783934	Sporolactobacillus	75.17	4.31	Uncharacterized transcriptional regulator YozG, Cro/CI family
+PGF_01797166	Sporolactobacillus	427.33	1.51	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01841446	Sporolactobacillus	482.00	0.00	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01842781	Sporolactobacillus	553.33	5.57	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Sporolactobacillus	283.50	1.22	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Sporolactobacillus	340.33	2.94	Heat-inducible transcription repressor HrcA
+PGF_01888177	Sporolactobacillus	144.83	4.49	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01896482	Sporolactobacillus	138.00	0.00	Rrf2 family transcriptional regulator, group III
+PGF_01899042	Sporolactobacillus	348.67	1.75	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01899924	Sporolactobacillus	260.33	1.03	Flagellar motor rotation protein MotB
+PGF_01899937	Sporolactobacillus	290.17	1.83	Rod shape-determining protein MreC
+PGF_01900530	Sporolactobacillus	238.83	4.83	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01943486	Sporolactobacillus	171.17	0.41	O-acetyl-ADP-ribose deacetylase
+PGF_01960322	Sporolactobacillus	601.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01969379	Sporolactobacillus	344.00	0.00	Acetoin dehydrogenase E1 component beta-subunit (EC 2.3.1.190)
+PGF_01994657	Sporolactobacillus	436.83	6.94	Cell division trigger factor (EC 5.2.1.8)
+PGF_02008990	Sporolactobacillus	621.67	2.42	Efflux ABC transporter, permease/ATP-binding protein BLi02169
+PGF_02010969	Sporolactobacillus	627.50	0.55	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) AsnB
+PGF_02011760	Sporolactobacillus	252.33	0.82	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02015262	Sporolactobacillus	310.00	0.00	Helicase loader DnaI
+PGF_02019462	Sporolactobacillus	345.33	0.82	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02019464	Sporolactobacillus	239.50	2.81	Predicted membrane protein
+PGF_02019584	Sporolactobacillus	131.00	0.00	Regulatory protein Spx
+PGF_02029783	Sporolactobacillus	427.17	0.41	GTP-binding protein Obg
+PGF_02061452	Sporolactobacillus	380.83	0.41	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Sporolactobacillus	338.00	0.00	Flagellar motor switch protein FliG
+PGF_02111888	Sporolactobacillus	319.33	1.63	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02152409	Sporolactobacillus	216.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_02154745	Sporolactobacillus	1435.50	1.22	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02154916	Sporolactobacillus	211.83	0.41	Rrf2-linked NADH-flavin reductase
+PGF_02155458	Sporolactobacillus	610.33	0.52	Uncharacterized amino acid permease YdaO
+PGF_02155509	Sporolactobacillus	733.17	1.17	ATP-dependent Clp protease, ATP-binding subunit ClpE
+PGF_02173187	Sporolactobacillus	258.00	0.00	hypothetical protein
+PGF_02177520	Sporolactobacillus	252.33	0.82	RNA polymerase sporulation specific sigma factor SigF
+PGF_02185217	Sporolactobacillus	421.00	3.16	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Sporolactobacillus	362.17	0.41	Flagellar biosynthesis protein FlhB
+PGF_02224568	Sporolactobacillus	399.00	2.45	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Sporolactobacillus	682.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02355769	Sporolactobacillus	395.67	0.82	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Sporolactobacillus	876.17	0.41	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Sporolactobacillus	321.33	0.82	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02436095	Sporolactobacillus	110.00	0.00	hypothetical protein
+PGF_02450432	Sporolactobacillus	262.50	1.22	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02452912	Sporolactobacillus	447.50	3.67	Aminopeptidase C (EC 3.4.22.40)
+PGF_02454577	Sporolactobacillus	88.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Sporolactobacillus	198.00	0.00	Recombination protein RecR
+PGF_02501353	Sporolactobacillus	296.00	3.46	Uncharacterized UPF0750 membrane protein
+PGF_02572938	Sporolactobacillus	389.00	42.78	Multidrug resistance transporter, Bcr/CflA family
+PGF_02578186	Sporolactobacillus	341.00	0.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02587605	Sporolactobacillus	150.83	5.49	Zinc uptake regulation protein Zur
+PGF_02593689	Sporolactobacillus	409.33	109.41	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02619921	Sporolactobacillus	365.83	0.41	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+PGF_02623406	Sporolactobacillus	318.17	3.13	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02627816	Sporolactobacillus	229.17	8.73	FIG011945: O-methyltransferase family protein
+PGF_02652319	Sporolactobacillus	191.17	5.08	UPF0340 protein YwlG
+PGF_02704551	Sporolactobacillus	1129.83	192.45	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02713816	Sporolactobacillus	201.00	1.55	Uncharacterized protein YyaC
+PGF_02717713	Sporolactobacillus	768.00	0.00	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02728524	Sporolactobacillus	876.00	5.93	DNA mismatch repair protein MutS
+PGF_02738107	Sporolactobacillus	334.17	2.23	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02744871	Sporolactobacillus	91.17	20.17	Flagellar hook-basal body complex protein FliE
+PGF_02745613	Sporolactobacillus	294.00	15.81	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746016	Sporolactobacillus	231.00	4.90	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02746079	Sporolactobacillus	312.83	1.60	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+PGF_02787188	Sporolactobacillus	89.00	0.00	ACT domain protein
+PGF_02788357	Sporolactobacillus	541.17	152.93	Two-component sensor kinase SA14-24
+PGF_02788582	Sporolactobacillus	783.83	1.33	Recombination inhibitory protein MutS2
+PGF_02789532	Sporolactobacillus	292.83	0.98	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Sporolactobacillus	229.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Sporolactobacillus	463.83	2.99	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Sporolactobacillus	1072.17	203.16	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02820109	Sporolactobacillus	184.83	5.31	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827138	Sporolactobacillus	241.50	2.35	Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+PGF_02829859	Sporolactobacillus	297.67	1.51	Uncharacterized protein YpuA
+PGF_02838109	Sporolactobacillus	176.00	8.44	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Sporolactobacillus	266.67	6.71	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Sporolactobacillus	417.33	1.51	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866866	Sporolactobacillus	317.67	5.05	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02883702	Sporolactobacillus	363.00	1.67	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02886813	Sporolactobacillus	213.17	3.54	hypothetical protein
+PGF_02895613	Sporolactobacillus	389.00	112.68	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02896192	Sporolactobacillus	352.67	4.27	Purine nucleoside ABC transporter, permease protein 1
+PGF_02896943	Sporolactobacillus	264.17	0.41	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_02897665	Sporolactobacillus	386.83	13.32	Glycerate kinase (EC 2.7.1.31)
+PGF_02898096	Sporolactobacillus	485.33	1.21	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Sporolactobacillus	67.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02899960	Sporolactobacillus	230.00	0.00	Efflux ABC transporter, ATP-binding protein
+PGF_02901183	Sporolactobacillus	833.67	21.23	Stage II sporulation serine phosphatase for sigma-F activation (SpoIIE)
+PGF_02935470	Sporolactobacillus	266.67	2.73	UPF0317 protein YcsI
+PGF_02936332	Sporolactobacillus	300.00	1.10	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02944779	Sporolactobacillus	330.00	1.10	Acetoin dehydrogenase E1 component alpha-subunit (EC 2.3.1.190)
+PGF_02946231	Sporolactobacillus	384.83	1.17	SSU ribosomal protein S1p
+PGF_02947204	Sporolactobacillus	529.33	4.80	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Sporolactobacillus	265.00	0.00	Septum site-determining protein MinD
+PGF_02954217	Sporolactobacillus	291.33	1.21	N-carbamoylputrescine amidase (EC 3.5.1.53)
+PGF_02958640	Sporolactobacillus	229.00	10.39	hypothetical protein
+PGF_02988857	Sporolactobacillus	384.50	1.22	N-acetyl-L,L-diaminopimelate deacetylase homolog
+PGF_02991161	Sporolactobacillus	394.67	0.82	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02997723	Sporolactobacillus	152.50	3.67	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03017775	Sporolactobacillus	496.33	0.82	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03026450	Sporolactobacillus	1189.50	0.55	Chromosome partition protein smc
+PGF_03046709	Sporolactobacillus	393.67	59.23	Ammonium transporter
+PGF_03075401	Sporolactobacillus	153.67	2.34	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Sporolactobacillus	85.50	3.73	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03110657	Sporolactobacillus	716.33	0.82	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111988	Sporolactobacillus	172.17	1.72	Cell division initiation protein DivIVA
+PGF_03117711	Sporolactobacillus	194.50	2.81	Hydrolase (HAD superfamily), YqeK
+PGF_03120492	Sporolactobacillus	249.50	0.55	Carboxylesterase (EC 3.1.1.1)
+PGF_03122609	Sporolactobacillus	371.50	85.00	Uncharacterized protease large subunit YrrO
+PGF_03124650	Sporolactobacillus	485.50	0.55	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03128546	Sporolactobacillus	217.33	17.76	Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)
+PGF_03132336	Sporolactobacillus	420.17	1.33	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03136340	Sporolactobacillus	558.17	1.60	Superfamily II DNA/RNA helicases, SNF2 family
+PGF_03143682	Sporolactobacillus	300.17	2.48	Uncharacterized protein YhbB
+PGF_03145455	Sporolactobacillus	325.00	0.00	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03147098	Sporolactobacillus	732.50	17.57	Putative mannosyltransferase YkcB
+PGF_03154343	Sporolactobacillus	130.67	0.82	Cytidine deaminase (EC 3.5.4.5)
+PGF_03174068	Sporolactobacillus	178.00	0.00	Transcription antitermination protein NusG
+PGF_03222913	Sporolactobacillus	137.00	12.25	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03272313	Sporolactobacillus	825.33	6.98	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Sporolactobacillus	62.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Sporolactobacillus	214.83	2.86	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03318742	Sporolactobacillus	647.67	11.06	PTS system, N-acetylglucosamine-specific IIC component / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.193)
+PGF_03320851	Sporolactobacillus	132.17	0.41	Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)
+PGF_03351651	Sporolactobacillus	585.00	0.00	Efflux ABC transporter, permease/ATP-binding protein MdlA
+PGF_03400333	Sporolactobacillus	333.00	6.39	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03429638	Sporolactobacillus	284.17	20.21	33 kDa chaperonin HslO
+PGF_03439582	Sporolactobacillus	198.17	0.41	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03439690	Sporolactobacillus	166.83	2.04	Ferric uptake regulation protein FUR
+PGF_03454862	Sporolactobacillus	346.50	0.84	hypothetical protein
+PGF_03454864	Sporolactobacillus	360.50	46.79	hypothetical protein
+PGF_03454866	Sporolactobacillus	564.00	3.03	hypothetical protein
+PGF_03454869	Sporolactobacillus	62.50	1.22	hypothetical protein
+PGF_03454871	Sporolactobacillus	261.83	2.04	hypothetical protein
+PGF_03454873	Sporolactobacillus	246.00	11.85	hypothetical protein
+PGF_03454874	Sporolactobacillus	278.67	20.45	hypothetical protein
+PGF_03454876	Sporolactobacillus	238.50	0.84	hypothetical protein
+PGF_03454877	Sporolactobacillus	171.33	0.82	hypothetical protein
+PGF_03454879	Sporolactobacillus	217.17	1.60	hypothetical protein
+PGF_03454882	Sporolactobacillus	210.83	2.86	hypothetical protein
+PGF_03454883	Sporolactobacillus	216.50	1.97	hypothetical protein
+PGF_03454884	Sporolactobacillus	71.83	0.41	hypothetical protein
+PGF_03454885	Sporolactobacillus	141.50	1.22	hypothetical protein
+PGF_03454886	Sporolactobacillus	111.67	1.21	hypothetical protein
+PGF_03454888	Sporolactobacillus	198.00	0.00	hypothetical protein
+PGF_03454890	Sporolactobacillus	113.67	23.42	hypothetical protein
+PGF_03454891	Sporolactobacillus	216.50	0.55	hypothetical protein
+PGF_03454892	Sporolactobacillus	76.50	0.55	hypothetical protein
+PGF_03454895	Sporolactobacillus	121.83	19.16	hypothetical protein
+PGF_03454896	Sporolactobacillus	231.67	4.13	hypothetical protein
+PGF_03454897	Sporolactobacillus	186.83	31.83	hypothetical protein
+PGF_03454900	Sporolactobacillus	91.83	0.41	hypothetical protein
+PGF_03454904	Sporolactobacillus	64.00	2.19	hypothetical protein
+PGF_03454905	Sporolactobacillus	216.83	4.22	hypothetical protein
+PGF_03454906	Sporolactobacillus	140.83	1.33	hypothetical protein
+PGF_03454908	Sporolactobacillus	223.67	0.82	hypothetical protein
+PGF_03454909	Sporolactobacillus	80.17	1.17	hypothetical protein
+PGF_03454911	Sporolactobacillus	178.33	3.14	hypothetical protein
+PGF_03454912	Sporolactobacillus	93.00	0.00	hypothetical protein
+PGF_03454914	Sporolactobacillus	306.50	0.55	hypothetical protein
+PGF_03454915	Sporolactobacillus	69.00	0.00	hypothetical protein
+PGF_03454917	Sporolactobacillus	89.50	3.67	hypothetical protein
+PGF_03454918	Sporolactobacillus	179.83	0.98	hypothetical protein
+PGF_03454922	Sporolactobacillus	97.67	1.51	hypothetical protein
+PGF_03454923	Sporolactobacillus	279.67	0.52	hypothetical protein
+PGF_03454925	Sporolactobacillus	182.00	1.90	hypothetical protein
+PGF_03454926	Sporolactobacillus	123.00	0.00	hypothetical protein
+PGF_03454929	Sporolactobacillus	124.33	0.82	hypothetical protein
+PGF_03454930	Sporolactobacillus	109.83	1.33	hypothetical protein
+PGF_03454932	Sporolactobacillus	342.00	23.61	hypothetical protein
+PGF_03454933	Sporolactobacillus	162.00	0.00	hypothetical protein
+PGF_03454934	Sporolactobacillus	199.83	0.98	hypothetical protein
+PGF_03454935	Sporolactobacillus	147.33	40.18	hypothetical protein
+PGF_03454937	Sporolactobacillus	97.17	12.25	hypothetical protein
+PGF_03454944	Sporolactobacillus	73.00	0.00	hypothetical protein
+PGF_03454945	Sporolactobacillus	45.17	0.41	hypothetical protein
+PGF_03454946	Sporolactobacillus	79.33	3.27	hypothetical protein
+PGF_03454962	Sporolactobacillus	418.17	1.17	hypothetical protein
+PGF_03454963	Sporolactobacillus	897.00	84.32	hypothetical protein
+PGF_03454968	Sporolactobacillus	227.17	1.47	hypothetical protein
+PGF_03454969	Sporolactobacillus	288.50	82.60	hypothetical protein
+PGF_03454975	Sporolactobacillus	96.50	0.55	hypothetical protein
+PGF_03454986	Sporolactobacillus	265.67	57.16	hypothetical protein
+PGF_03455025	Sporolactobacillus	377.50	19.09	hypothetical protein
+PGF_03455033	Sporolactobacillus	248.50	18.40	hypothetical protein
+PGF_03455047	Sporolactobacillus	200.17	4.71	hypothetical protein
+PGF_03455061	Sporolactobacillus	192.33	0.82	hypothetical protein
+PGF_03455074	Sporolactobacillus	118.17	0.98	hypothetical protein
+PGF_03455133	Sporolactobacillus	205.33	33.99	hypothetical protein
+PGF_03455140	Sporolactobacillus	210.67	17.32	hypothetical protein
+PGF_03455379	Sporolactobacillus	120.33	13.88	hypothetical protein
+PGF_03455383	Sporolactobacillus	270.67	0.82	hypothetical protein
+PGF_03455427	Sporolactobacillus	280.17	58.29	hypothetical protein
+PGF_03455444	Sporolactobacillus	314.67	0.52	Uncharacterized protein YybS
+PGF_03455547	Sporolactobacillus	155.83	1.33	hypothetical protein
+PGF_03455552	Sporolactobacillus	203.33	8.55	hypothetical protein
+PGF_03456383	Sporolactobacillus	427.83	0.75	hypothetical protein
+PGF_03462401	Sporolactobacillus	263.17	12.81	Peptidoglycan-N-acetylmuramic acid deacetylase PdaA
+PGF_03473104	Sporolactobacillus	327.17	7.11	tRNA-dihydrouridine synthase 2
+PGF_03474542	Sporolactobacillus	441.50	0.55	Flagellum-specific ATP synthase FliI
+PGF_03507820	Sporolactobacillus	322.00	1.26	Uncharacterized radical SAM protein YtqA
+PGF_03518570	Sporolactobacillus	141.83	4.12	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Sporolactobacillus	389.67	1.97	Cell division protein FtsZ
+PGF_03574598	Sporolactobacillus	337.67	1.21	Lon-like protease with PDZ domain
+PGF_03609651	Sporolactobacillus	662.00	13.31	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03675407	Sporolactobacillus	574.67	4.27	Efflux ABC transporter, permease/ATP-binding protein BLi02168
+PGF_03684283	Sporolactobacillus	414.83	0.41	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Sporolactobacillus	287.83	14.62	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Sporolactobacillus	199.00	0.63	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Sporolactobacillus	162.67	14.18	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03739563	Sporolactobacillus	108.00	0.00	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Sporolactobacillus	487.00	34.79	Chromosomal replication initiator protein DnaA
+PGF_03750600	Sporolactobacillus	162.33	3.67	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Sporolactobacillus	210.00	7.59	Heat shock protein GrpE
+PGF_03753933	Sporolactobacillus	140.00	0.00	Iron-sulfur cluster regulator IscR
+PGF_03757137	Sporolactobacillus	461.33	1.63	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Sporolactobacillus	332.83	0.41	Signal recognition particle receptor FtsY
+PGF_03787199	Sporolactobacillus	192.00	0.00	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Sporolactobacillus	242.00	0.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03801156	Sporolactobacillus	314.83	7.81	Cobalt-zinc-cadmium resistance protein CzcD
+PGF_03801201	Sporolactobacillus	251.17	48.03	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03862500	Sporolactobacillus	220.83	1.33	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03892353	Sporolactobacillus	345.50	2.74	UPF0118 membrane protein YdbI
+PGF_03912513	Sporolactobacillus	162.17	4.36	DNA protection during starvation protein
+PGF_03946523	Sporolactobacillus	230.00	8.37	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_03981123	Sporolactobacillus	265.83	3.66	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_03999196	Sporolactobacillus	815.83	0.41	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Sporolactobacillus	444.50	7.37	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04016408	Sporolactobacillus	494.33	0.52	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04018703	Sporolactobacillus	275.83	1.72	Teichoic acid translocation permease protein TagG
+PGF_04024952	Sporolactobacillus	463.17	7.60	5'-nucleotidase family protein in cluster with NagD-like phosphatase
+PGF_04025415	Sporolactobacillus	155.67	2.16	Large-conductance mechanosensitive channel
+PGF_04034430	Sporolactobacillus	59.17	0.41	SSU ribosomal protein S21p
+PGF_04047265	Sporolactobacillus	83.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04091295	Sporolactobacillus	281.50	7.74	Flagellar motor rotation protein MotA
+PGF_04147121	Sporolactobacillus	498.00	0.00	Aldehyde dehydrogenase B (EC 1.2.1.22)
+PGF_04150742	Sporolactobacillus	270.50	1.38	Zinc ABC transporter, permease protein ZnuB
+PGF_04151476	Sporolactobacillus	157.00	44.09	16S rRNA processing protein RimM
+PGF_04182459	Sporolactobacillus	231.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04198961	Sporolactobacillus	202.33	6.92	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04213876	Sporolactobacillus	254.33	0.82	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04240096	Sporolactobacillus	688.83	3.66	Signal transduction histidine kinase CheA
+PGF_04258098	Sporolactobacillus	331.83	4.49	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+PGF_04306800	Sporolactobacillus	378.33	0.52	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04345693	Sporolactobacillus	395.00	49.57	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Sporolactobacillus	837.17	2.32	Protein translocase subunit SecA
+PGF_04412082	Sporolactobacillus	105.00	0.00	Thioredoxin
+PGF_04431830	Sporolactobacillus	503.00	0.00	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04457297	Sporolactobacillus	199.33	20.49	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Sporolactobacillus	319.83	0.75	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04481164	Sporolactobacillus	84.00	0.00	Veg protein
+PGF_04490570	Sporolactobacillus	388.00	0.00	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04502464	Sporolactobacillus	700.67	1.63	DNA topoisomerase III (EC 5.99.1.2)
+PGF_04505269	Sporolactobacillus	250.83	0.41	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Sporolactobacillus	460.33	2.66	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Sporolactobacillus	504.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Sporolactobacillus	253.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04655384	Sporolactobacillus	303.50	1.22	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Sporolactobacillus	151.50	0.55	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Sporolactobacillus	642.67	8.98	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04734234	Sporolactobacillus	680.33	3.01	Kup system potassium uptake protein
+PGF_04749763	Sporolactobacillus	710.50	79.55	Translation initiation factor 2
+PGF_04788810	Sporolactobacillus	190.50	3.67	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Sporolactobacillus	314.50	1.64	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Sporolactobacillus	113.00	0.00	LSU ribosomal protein L19p
+PGF_04872827	Sporolactobacillus	282.33	25.25	Chromosome (plasmid) partitioning protein ParB-2
+PGF_04943444	Sporolactobacillus	335.50	0.84	ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_04970608	Sporolactobacillus	65.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04971017	Sporolactobacillus	351.17	2.04	Threonine synthase (EC 4.2.3.1)
+PGF_04978890	Sporolactobacillus	102.00	0.00	LSU ribosomal protein L21p
+PGF_05111929	Sporolactobacillus	778.33	4.76	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Sporolactobacillus	809.00	0.00	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05151061	Sporolactobacillus	163.00	5.06	hypothetical protein
+PGF_05165078	Sporolactobacillus	314.17	0.41	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Sporolactobacillus	469.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Sporolactobacillus	469.00	0.00	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05200824	Sporolactobacillus	382.83	0.41	Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)
+PGF_05249824	Sporolactobacillus	258.00	0.00	Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+PGF_05280843	Sporolactobacillus	434.33	4.13	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05363645	Sporolactobacillus	143.83	0.41	DNA protection during starvation protein
+PGF_05421852	Sporolactobacillus	627.00	0.00	Chaperone protein HtpG
+PGF_05439724	Sporolactobacillus	666.67	0.82	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Sporolactobacillus	279.50	1.22	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Sporolactobacillus	620.50	2.81	DNA mismatch repair protein MutL
+PGF_05560886	Sporolactobacillus	291.00	10.30	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Sporolactobacillus	428.83	0.41	Protein translocase subunit SecY
+PGF_05595534	Sporolactobacillus	305.50	2.74	DNA polymerase I 5'-3' exonuclease domain
+PGF_05622318	Sporolactobacillus	418.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Sporolactobacillus	225.67	6.06	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05925776	Sporolactobacillus	294.00	0.00	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05971611	Sporolactobacillus	399.33	2.42	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06005188	Sporolactobacillus	655.50	4.28	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06027248	Sporolactobacillus	491.83	4.07	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06084258	Sporolactobacillus	411.50	0.55	Serine protease, DegP/HtrA, do-like (EC 3.4.21.-)
+PGF_06111528	Sporolactobacillus	387.00	1.55	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06115957	Sporolactobacillus	399.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Sporolactobacillus	1162.83	8.01	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06170558	Sporolactobacillus	155.00	0.00	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Sporolactobacillus	145.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Sporolactobacillus	259.17	26.54	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Sporolactobacillus	502.83	2.86	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Sporolactobacillus	94.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Sporolactobacillus	287.33	9.07	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06326847	Sporolactobacillus	224.17	0.41	Flagellar biosynthesis protein FliP
+PGF_06421645	Sporolactobacillus	232.00	0.00	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_06459503	Sporolactobacillus	658.67	2.34	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06530721	Sporolactobacillus	213.17	0.41	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06533121	Sporolactobacillus	361.67	1.86	Stage II sporulation protein P
+PGF_06586947	Sporolactobacillus	380.33	1.63	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06589185	Sporolactobacillus	590.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06648993	Sporolactobacillus	80.00	0.00	Acyl carrier protein
+PGF_06649360	Sporolactobacillus	191.17	18.72	Segregation and condensation protein B
+PGF_06660046	Sporolactobacillus	1021.67	6.68	Helicase, SNF2/RAD54 family
+PGF_06660812	Sporolactobacillus	195.50	2.07	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06690276	Sporolactobacillus	233.17	11.86	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Sporolactobacillus	104.00	0.00	Nucleoid-associated protein YaaK
+PGF_06718352	Sporolactobacillus	160.33	0.82	Cys-tRNA(Pro) deacylase YbaK
+PGF_06735060	Sporolactobacillus	742.33	0.82	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06750600	Sporolactobacillus	337.00	0.00	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06755829	Sporolactobacillus	331.33	0.52	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06890101	Sporolactobacillus	106.67	0.52	hypothetical protein
+PGF_06963652	Sporolactobacillus	443.00	53.89	4-hydroxybenzoate transporter
+PGF_07101513	Sporolactobacillus	378.67	50.93	Flagellar motor switch protein FliN
+PGF_07263029	Sporolactobacillus	351.17	0.41	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07426744	Sporolactobacillus	244.50	1.22	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08050537	Sporolactobacillus	302.00	0.00	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08083331	Sporolactobacillus	105.83	4.62	hypothetical protein

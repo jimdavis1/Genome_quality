@@ -1,0 +1,812 @@
+PGF_00000261	Polynucleobacter	389.52	72.05	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000936	Polynucleobacter	129.15	1.73	FIG00899427: hypothetical protein
+PGF_00000939	Polynucleobacter	406.80	2.04	Uncharacterized protein YhiN
+PGF_00002124	Polynucleobacter	204.65	27.09	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002491	Polynucleobacter	452.95	10.32	FIG015547: peptidase, M16 family
+PGF_00003205	Polynucleobacter	149.30	4.59	FIG055667: Exported protein
+PGF_00003448	Polynucleobacter	376.58	58.50	FIG110192: hypothetical protein
+PGF_00003749	Polynucleobacter	146.00	8.72	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003750	Polynucleobacter	204.95	9.43	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004094	Polynucleobacter	386.25	53.26	Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)
+PGF_00004378	Polynucleobacter	256.00	8.72	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00006100	Polynucleobacter	334.68	2.45	tRNA-modifying protein YgfZ
+PGF_00006127	Polynucleobacter	341.68	41.49	Formate dehydrogenase -O, gamma subunit (EC 1.2.1.2)
+PGF_00006173	Polynucleobacter	207.24	41.41	Formate dehydrogenase-O, iron-sulfur subunit (EC 1.2.1.2); Putative formate dehydrogenase iron-sulfur subunit (EC 1.2.1.2)
+PGF_00006336	Polynucleobacter	128.60	5.40	Frataxin homolog CyaY, facilitates Fe-S cluster assembly, interacts with IscS
+PGF_00006394	Polynucleobacter	336.33	59.41	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006454	Polynucleobacter	507.00	0.00	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006935	Polynucleobacter	530.70	22.63	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006983	Polynucleobacter	273.65	1.53	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007012	Polynucleobacter	363.90	0.45	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Polynucleobacter	441.35	56.34	GTP-binding protein EngA
+PGF_00007026	Polynucleobacter	219.63	5.96	GTP-binding protein EngB
+PGF_00007027	Polynucleobacter	301.50	42.96	GTP-binding protein Era
+PGF_00007057	Polynucleobacter	442.25	62.24	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Polynucleobacter	299.63	5.61	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Polynucleobacter	298.48	55.62	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007982	Polynucleobacter	309.11	3.25	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Polynucleobacter	475.67	92.30	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Polynucleobacter	431.21	24.99	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Polynucleobacter	261.60	4.67	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Polynucleobacter	411.00	0.00	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Polynucleobacter	262.30	10.46	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Polynucleobacter	432.53	1.71	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Polynucleobacter	447.67	79.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Polynucleobacter	563.81	92.91	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008611	Polynucleobacter	331.00	40.25	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008780	Polynucleobacter	339.68	90.25	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Polynucleobacter	221.75	0.79	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Polynucleobacter	198.80	8.89	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Polynucleobacter	294.20	1.28	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010205	Polynucleobacter	253.25	1.37	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Polynucleobacter	208.10	13.89	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Polynucleobacter	311.43	58.18	HPr kinase/phosphorylase
+PGF_00011080	Polynucleobacter	990.37	21.87	Helicase
+PGF_00011321	Polynucleobacter	289.60	17.24	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011634	Polynucleobacter	500.26	4.48	HflK protein
+PGF_00011979	Polynucleobacter	440.40	1.27	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Polynucleobacter	339.14	53.49	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Polynucleobacter	436.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012344	Polynucleobacter	272.45	5.60	Tungstate ABC transporter, substrate-binding protein
+PGF_00012376	Polynucleobacter	222.11	39.26	Tungstate ABC transporter, permease protein
+PGF_00013017	Polynucleobacter	339.60	4.63	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013227	Polynucleobacter	185.11	3.07	ADP-ribose pyrophosphatase
+PGF_00013244	Polynucleobacter	198.70	1.84	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013266	Polynucleobacter	282.50	10.44	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013509	Polynucleobacter	510.55	69.09	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Polynucleobacter	195.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Polynucleobacter	267.00	0.00	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014183	Polynucleobacter	273.47	37.17	Inner membrane protein YihY, formerly thought to be RNase BN
+PGF_00014306	Polynucleobacter	178.00	0.00	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Polynucleobacter	485.30	8.32	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014735	Polynucleobacter	227.90	26.26	Integral membrane protein, interacts with FtsH
+PGF_00015039	Polynucleobacter	292.10	2.40	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Polynucleobacter	87.95	0.22	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Polynucleobacter	178.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Polynucleobacter	289.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Polynucleobacter	107.00	0.00	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015523	Polynucleobacter	128.00	0.00	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015703	Polynucleobacter	727.40	75.18	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Polynucleobacter	911.62	219.51	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Polynucleobacter	321.95	50.86	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016325	Polynucleobacter	761.45	29.29	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Polynucleobacter	208.85	15.21	LSU ribosomal protein L10p (P0)
+PGF_00016338	Polynucleobacter	447.55	21.52	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Polynucleobacter	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Polynucleobacter	139.68	21.07	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Polynucleobacter	137.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Polynucleobacter	129.25	2.07	LSU ribosomal protein L17p
+PGF_00016353	Polynucleobacter	117.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Polynucleobacter	233.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Polynucleobacter	121.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Polynucleobacter	115.05	8.61	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Polynucleobacter	109.40	0.50	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Polynucleobacter	102.70	5.81	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Polynucleobacter	102.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Polynucleobacter	86.00	0.00	LSU ribosomal protein L27p
+PGF_00016395	Polynucleobacter	61.81	0.87	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Polynucleobacter	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Polynucleobacter	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Polynucleobacter	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Polynucleobacter	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Polynucleobacter	38.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Polynucleobacter	207.86	37.15	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Polynucleobacter	204.25	7.83	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Polynucleobacter	175.38	21.17	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Polynucleobacter	173.33	16.80	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Polynucleobacter	124.25	0.44	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Polynucleobacter	150.00	0.00	LSU ribosomal protein L9p
+PGF_00016919	Polynucleobacter	241.20	16.99	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Polynucleobacter	400.40	40.91	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Polynucleobacter	254.90	0.45	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017281	Polynucleobacter	346.05	9.47	Lipopolysaccharide core heptosyltransferase I
+PGF_00017400	Polynucleobacter	253.70	30.99	Murein hydrolase activator NlpD
+PGF_00017464	Polynucleobacter	232.32	2.81	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Polynucleobacter	320.95	66.25	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017640	Polynucleobacter	187.79	2.72	Lipopolysaccharide export system protein LptA
+PGF_00018552	Polynucleobacter	210.45	11.14	Maf-like protein YceF
+PGF_00018560	Polynucleobacter	279.21	1.32	Magnesium and cobalt efflux protein CorC
+PGF_00018956	Polynucleobacter	326.20	12.52	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019280	Polynucleobacter	496.37	6.03	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) / Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019484	Polynucleobacter	826.57	137.03	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00020168	Polynucleobacter	375.15	9.37	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Polynucleobacter	275.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Polynucleobacter	155.74	2.42	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Polynucleobacter	277.80	0.89	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020952	Polynucleobacter	175.90	33.17	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), glycolate utilization
+PGF_00020984	Polynucleobacter	282.05	9.69	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021021	Polynucleobacter	728.21	2.25	Methylmalonyl-CoA mutase (EC 5.4.99.2) / B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00021489	Polynucleobacter	299.85	14.61	Uncharacterized membrane protein Bcep18194_A6058
+PGF_00022479	Polynucleobacter	195.85	13.53	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022565	Polynucleobacter	83.05	8.72	Molybdopterin synthase sulfur carrier subunit
+PGF_00023405	Polynucleobacter	329.80	44.68	Murein-DD-endopeptidase (EC 3.4.99.-)
+PGF_00023476	Polynucleobacter	138.05	0.51	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Polynucleobacter	357.00	0.00	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Polynucleobacter	351.40	6.90	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023818	Polynucleobacter	452.30	8.27	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00024234	Polynucleobacter	380.10	12.97	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Polynucleobacter	164.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Polynucleobacter	374.38	64.36	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Polynucleobacter	538.80	5.07	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024314	Polynucleobacter	504.76	113.45	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024322	Polynucleobacter	446.60	37.57	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024687	Polynucleobacter	397.43	77.44	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Polynucleobacter	168.00	0.32	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Polynucleobacter	209.95	22.58	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Polynucleobacter	102.05	0.23	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Polynucleobacter	464.33	78.66	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Polynucleobacter	499.30	0.73	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025215	Polynucleobacter	163.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00026279	Polynucleobacter	321.85	5.14	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026453	Polynucleobacter	292.55	9.25	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Polynucleobacter	297.30	12.07	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026866	Polynucleobacter	330.89	13.54	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Polynucleobacter	668.86	125.05	Oligopeptidase A (EC 3.4.24.70)
+PGF_00028486	Polynucleobacter	250.53	3.88	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00029287	Polynucleobacter	820.67	127.14	Aconitate hydratase 2 (EC 4.2.1.3)
+PGF_00029464	Polynucleobacter	152.84	0.37	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029917	Polynucleobacter	283.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Polynucleobacter	342.24	53.31	Peptide chain release factor 1
+PGF_00030643	Polynucleobacter	504.65	41.95	Peptide chain release factor 3
+PGF_00030812	Polynucleobacter	167.00	0.00	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00030889	Polynucleobacter	111.25	16.54	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00031127	Polynucleobacter	215.50	1.76	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00031519	Polynucleobacter	97.00	0.00	Uncharacterized MFS-type transporter
+PGF_00031585	Polynucleobacter	166.00	0.00	Peroxiredoxin
+PGF_00033095	Polynucleobacter	779.90	140.29	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033289	Polynucleobacter	339.60	14.69	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Polynucleobacter	373.00	71.55	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033423	Polynucleobacter	583.00	0.00	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033511	Polynucleobacter	388.05	69.98	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Polynucleobacter	222.75	28.43	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033729	Polynucleobacter	252.38	44.49	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Polynucleobacter	282.75	3.68	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Polynucleobacter	227.11	15.86	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Polynucleobacter	159.25	24.54	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Polynucleobacter	424.95	0.22	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Polynucleobacter	293.65	19.93	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Polynucleobacter	224.35	0.93	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Polynucleobacter	246.45	29.29	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Polynucleobacter	342.90	32.71	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Polynucleobacter	1202.23	361.96	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Polynucleobacter	226.70	21.21	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Polynucleobacter	345.24	63.91	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Polynucleobacter	720.70	4.38	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034851	Polynucleobacter	266.50	23.97	Polysaccharide biosynthesis protein WlaX
+PGF_00034972	Polynucleobacter	172.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Polynucleobacter	301.73	99.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Polynucleobacter	185.58	33.55	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035378	Polynucleobacter	470.95	83.11	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035617	Polynucleobacter	274.60	4.95	Predicted Lactate-responsive regulator, IclR family
+PGF_00035721	Polynucleobacter	431.52	100.60	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Polynucleobacter	446.10	0.45	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036580	Polynucleobacter	103.43	14.93	Protein translocase subunit YajC
+PGF_00037280	Polynucleobacter	192.11	3.90	Probable proline rich signal peptide protein
+PGF_00037588	Polynucleobacter	572.50	28.21	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037758	Polynucleobacter	509.25	7.53	Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)
+PGF_00038674	Polynucleobacter	324.00	0.00	Protein translocase subunit SecF
+PGF_00038879	Polynucleobacter	141.30	1.13	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039342	Polynucleobacter	279.45	33.76	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040578	Polynucleobacter	261.42	5.46	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Polynucleobacter	278.21	8.77	Putative deoxyribonuclease YjjV
+PGF_00040922	Polynucleobacter	358.00	0.00	ABC transporter, permease protein 1 (cluster 5, nickel/peptides/opines)
+PGF_00041948	Polynucleobacter	440.20	86.56	Putative membrane protein YfjD
+PGF_00042959	Polynucleobacter	120.25	8.67	Putative periplasmic cytochrome type-C oxidoreductase signal peptide protein (EC 1.-.-.-)
+PGF_00043159	Polynucleobacter	331.11	6.31	Putative permease often clustered with de novo purine synthesis
+PGF_00044560	Polynucleobacter	145.00	0.00	Putative transmembrane protein
+PGF_00044735	Polynucleobacter	413.48	90.63	Putative transmembrane protein
+PGF_00045595	Polynucleobacter	260.50	1.47	Putative two-domain glycosyltransferase
+PGF_00045833	Polynucleobacter	210.26	3.21	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00046060	Polynucleobacter	216.05	4.25	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Polynucleobacter	284.70	5.06	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Polynucleobacter	374.68	1.00	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046622	Polynucleobacter	80.55	1.15	RNA-binding protein Hfq
+PGF_00047078	Polynucleobacter	357.40	23.87	RecA protein
+PGF_00048392	Polynucleobacter	136.74	3.21	Rhodanese-related sulfurtransferase
+PGF_00048480	Polynucleobacter	204.68	0.67	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Polynucleobacter	213.30	13.57	Outer membrane beta-barrel assembly protein BamE
+PGF_00048542	Polynucleobacter	149.85	14.86	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Polynucleobacter	196.32	0.75	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Polynucleobacter	236.21	41.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048630	Polynucleobacter	991.15	2.54	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048638	Polynucleobacter	393.89	0.74	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Polynucleobacter	146.68	3.94	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Polynucleobacter	299.05	57.38	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048840	Polynucleobacter	487.85	66.19	Ribosomal protein L11 methyltransferase
+PGF_00048842	Polynucleobacter	288.60	42.04	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Polynucleobacter	443.60	33.99	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Polynucleobacter	246.80	7.83	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Polynucleobacter	107.00	0.00	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Polynucleobacter	183.40	11.63	Ribosome recycling factor
+PGF_00048936	Polynucleobacter	122.50	1.24	Ribosome-binding factor A
+PGF_00048985	Polynucleobacter	240.85	0.67	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049163	Polynucleobacter	174.00	0.00	Rod shape-determining protein MreD
+PGF_00049330	Polynucleobacter	388.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Polynucleobacter	332.76	48.18	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049553	Polynucleobacter	262.68	13.91	SAM-dependent methyltransferase, BioC-like
+PGF_00049827	Polynucleobacter	249.15	41.95	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Polynucleobacter	102.20	3.58	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Polynucleobacter	135.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Polynucleobacter	121.19	15.87	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Polynucleobacter	115.00	19.27	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Polynucleobacter	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Polynucleobacter	89.74	3.21	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Polynucleobacter	81.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Polynucleobacter	88.00	4.47	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Polynucleobacter	89.70	1.34	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Polynucleobacter	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Polynucleobacter	270.24	13.62	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Polynucleobacter	207.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Polynucleobacter	160.77	30.05	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Polynucleobacter	124.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Polynucleobacter	148.18	25.72	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Polynucleobacter	131.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Polynucleobacter	133.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Polynucleobacter	288.32	2.79	Segregation and condensation protein A
+PGF_00050368	Polynucleobacter	353.95	25.66	Selenophosphate-dependent tRNA 2-selenouridine synthase
+PGF_00050995	Polynucleobacter	494.45	78.49	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Polynucleobacter	417.10	65.96	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Polynucleobacter	460.55	2.46	Signal recognition particle protein Ffh
+PGF_00052674	Polynucleobacter	227.60	1.64	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052705	Polynucleobacter	141.05	8.72	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Polynucleobacter	297.50	41.87	Site-specific tyrosine recombinase XerD
+PGF_00052978	Polynucleobacter	347.25	93.09	Aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
+PGF_00054301	Polynucleobacter	196.70	28.17	Stringent starvation protein A
+PGF_00054476	Polynucleobacter	115.67	17.42	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Polynucleobacter	232.95	4.70	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054541	Polynucleobacter	216.00	0.00	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00054806	Polynucleobacter	319.00	0.00	Sugar kinases, ribokinase family
+PGF_00055095	Polynucleobacter	319.55	2.01	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+PGF_00055156	Polynucleobacter	539.00	119.64	Sulfur oxidation protein SoxB
+PGF_00055158	Polynucleobacter	210.63	3.52	Sulfur oxidation protein SoxX
+PGF_00055354	Polynucleobacter	470.05	54.04	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055536	Polynucleobacter	489.95	10.65	TPR domain protein / Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_00055966	Polynucleobacter	353.86	86.85	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Polynucleobacter	361.89	8.70	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056320	Polynucleobacter	250.60	25.09	Tetrapyrrole methylase family protein
+PGF_00056544	Polynucleobacter	261.50	46.96	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Polynucleobacter	325.33	58.30	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056897	Polynucleobacter	256.50	33.54	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Polynucleobacter	428.96	152.94	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Polynucleobacter	139.05	0.23	Tol biopolymer transport system, TolR protein
+PGF_00057270	Polynucleobacter	740.64	208.18	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Polynucleobacter	148.00	0.00	Transamidase GatB domain protein
+PGF_00057435	Polynucleobacter	163.35	12.33	Transcription elongation factor GreB
+PGF_00057485	Polynucleobacter	493.00	0.00	Transcription termination protein NusA
+PGF_00057488	Polynucleobacter	170.65	5.34	Transcription termination protein NusB
+PGF_00060398	Polynucleobacter	632.90	157.27	Transketolase (EC 2.2.1.1)
+PGF_00060409	Polynucleobacter	686.62	61.32	Translation elongation factor G
+PGF_00060414	Polynucleobacter	571.38	97.74	Translation elongation factor LepA
+PGF_00060421	Polynucleobacter	174.10	37.65	Translation elongation factor P
+PGF_00060427	Polynucleobacter	293.75	0.64	Translation elongation factor Ts
+PGF_00060478	Polynucleobacter	166.10	6.06	Translation initiation factor 3
+PGF_00061607	Polynucleobacter	123.85	9.56	ApaG protein
+PGF_00062023	Polynucleobacter	265.10	0.45	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062045	Polynucleobacter	374.86	79.41	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063815	Polynucleobacter	479.63	16.09	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
+PGF_00063916	Polynucleobacter	381.57	87.47	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Polynucleobacter	249.65	45.95	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Polynucleobacter	303.53	0.84	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063952	Polynucleobacter	275.24	44.43	UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13)
+PGF_00063955	Polynucleobacter	373.50	60.16	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87)
+PGF_00063974	Polynucleobacter	335.20	44.53	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Polynucleobacter	357.00	0.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Polynucleobacter	400.38	155.86	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Polynucleobacter	464.20	3.74	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064135	Polynucleobacter	345.65	10.51	UDP-glucuronic acid oxidase (UDP-4-keto-hexauronic acid decarboxylating) (EC 1.1.1.305)
+PGF_00064270	Polynucleobacter	246.10	37.63	UPF0246 protein YaaA
+PGF_00064290	Polynucleobacter	745.80	39.75	Arginine decarboxylase (EC 4.1.1.19); Ornithine decarboxylase (EC 4.1.1.17); Lysine decarboxylase (EC 4.1.1.18)
+PGF_00064393	Polynucleobacter	295.00	1.03	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064438	Polynucleobacter	192.55	31.93	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Polynucleobacter	499.57	90.63	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064557	Polynucleobacter	332.14	70.78	Uncharacterized GTP-binding protein YjiA
+PGF_00064685	Polynucleobacter	87.75	7.20	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Polynucleobacter	203.05	19.17	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00064880	Polynucleobacter	421.80	51.77	Uncharacterized protease YegQ
+PGF_00064997	Polynucleobacter	390.75	36.90	Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+PGF_00065887	Polynucleobacter	255.95	7.49	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065901	Polynucleobacter	321.15	2.62	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53)
+PGF_00066139	Polynucleobacter	259.32	5.12	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066294	Polynucleobacter	273.37	2.24	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Polynucleobacter	945.25	79.38	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Polynucleobacter	415.23	115.70	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Polynucleobacter	324.58	2.61	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Polynucleobacter	376.55	38.74	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067192	Polynucleobacter	181.70	0.47	YaeQ protein
+PGF_00067466	Polynucleobacter	570.33	93.29	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067538	Polynucleobacter	253.89	13.54	Zinc transporter, ZIP family
+PGF_00067554	Polynucleobacter	478.95	45.18	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Polynucleobacter	358.65	14.98	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00070354	Polynucleobacter	373.80	0.70	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)
+PGF_00070754	Polynucleobacter	546.89	4.08	ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines) / ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00070824	Polynucleobacter	413.58	11.37	BNR/Asp-box repeat protein
+PGF_00070995	Polynucleobacter	412.10	31.81	Membrane-bound lytic murein transglycosylase B
+PGF_00084324	Polynucleobacter	282.05	5.18	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00102041	Polynucleobacter	193.00	12.14	Esterase YqiA
+PGF_00120476	Polynucleobacter	403.25	1.12	hypothetical protein
+PGF_00144272	Polynucleobacter	162.47	1.12	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00221213	Polynucleobacter	123.75	5.59	Membrane protein
+PGF_00222644	Polynucleobacter	620.53	6.19	ABC transporter, substrate-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00268328	Polynucleobacter	117.58	15.65	hypothetical protein
+PGF_00284068	Polynucleobacter	156.26	5.09	Copper metallochaperone PCu(A)C, inserts Cu(I) into cytochrome oxidase subunit II
+PGF_00285620	Polynucleobacter	209.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00306574	Polynucleobacter	316.43	59.63	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00335614	Polynucleobacter	197.25	1.37	hypothetical protein
+PGF_00400845	Polynucleobacter	404.00	57.44	Uncharacterized integral membrane endopeptidase Bmul_2226
+PGF_00401752	Polynucleobacter	236.00	37.60	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00403860	Polynucleobacter	210.21	9.87	Ferric siderophore transport system, biopolymer transport protein ExbB
+PGF_00404078	Polynucleobacter	153.95	0.51	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Polynucleobacter	430.57	78.41	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404831	Polynucleobacter	279.00	0.00	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Polynucleobacter	879.14	192.85	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00410883	Polynucleobacter	151.05	0.22	Single-stranded DNA-binding protein
+PGF_00413203	Polynucleobacter	156.60	2.68	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Polynucleobacter	248.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Polynucleobacter	356.50	8.73	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Polynucleobacter	265.30	43.85	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Polynucleobacter	302.65	3.31	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Polynucleobacter	622.90	73.89	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Polynucleobacter	302.00	0.00	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413554	Polynucleobacter	142.48	27.22	tmRNA-binding protein SmpB
+PGF_00414137	Polynucleobacter	545.43	144.27	Tungsten-containing formate dehydrogenase beta subunit
+PGF_00414926	Polynucleobacter	372.05	19.59	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Polynucleobacter	279.30	45.83	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415407	Polynucleobacter	482.05	14.36	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415481	Polynucleobacter	389.45	20.60	SAM-dependent methyltransferase, MidA
+PGF_00415486	Polynucleobacter	145.85	5.14	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Polynucleobacter	218.19	19.05	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415652	Polynucleobacter	266.63	4.50	FIG00005326: uncharacterized protein
+PGF_00416115	Polynucleobacter	308.25	12.30	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Polynucleobacter	553.25	1.12	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Polynucleobacter	1034.33	179.34	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Polynucleobacter	195.35	3.51	3'-to-5' oligoribonuclease (orn)
+PGF_00417429	Polynucleobacter	369.29	59.90	Chaperone protein DnaJ
+PGF_00417433	Polynucleobacter	623.40	90.49	Chaperone protein DnaK
+PGF_00417437	Polynucleobacter	607.90	58.58	Chaperone protein HscA
+PGF_00417460	Polynucleobacter	102.42	2.14	Chaperone-modulator protein CbpM
+PGF_00417577	Polynucleobacter	149.70	1.13	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417755	Polynucleobacter	229.00	0.00	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Polynucleobacter	370.95	0.23	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Polynucleobacter	189.85	0.93	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Polynucleobacter	253.26	1.15	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418658	Polynucleobacter	186.84	3.47	Colicin V production protein
+PGF_00419702	Polynucleobacter	171.95	2.65	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419915	Polynucleobacter	270.35	5.75	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420048	Polynucleobacter	398.85	87.10	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420051	Polynucleobacter	534.35	72.58	3-methylmercaptopropionyl-CoA ligase (EC 6.2.1.44) of DmdB1 type
+PGF_00420121	Polynucleobacter	218.35	6.78	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420376	Polynucleobacter	55.00	0.00	Cytochrome c oxidase (cbb3-type) subunit CcoQ (EC 1.9.3.1)
+PGF_00420482	Polynucleobacter	255.84	0.69	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Polynucleobacter	639.05	0.22	Cytochrome c heme lyase subunit CcmF
+PGF_00420582	Polynucleobacter	194.35	1.53	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420584	Polynucleobacter	196.45	2.67	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center
+PGF_00420798	Polynucleobacter	317.95	64.68	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421489	Polynucleobacter	1093.36	305.50	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Polynucleobacter	371.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Polynucleobacter	617.60	139.07	DNA primase (EC 2.7.7.-)
+PGF_00421792	Polynucleobacter	455.85	5.53	DNA repair protein RadA
+PGF_00422053	Polynucleobacter	79.00	0.00	DNA-binding protein Fis
+PGF_00422271	Polynucleobacter	309.68	56.12	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422711	Polynucleobacter	212.85	6.55	DedA protein
+PGF_00422918	Polynucleobacter	186.26	4.12	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Polynucleobacter	149.00	0.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Polynucleobacter	375.21	6.80	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Polynucleobacter	293.90	8.64	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Polynucleobacter	437.89	17.11	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Polynucleobacter	454.71	73.57	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Polynucleobacter	124.81	20.67	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423376	Polynucleobacter	149.84	2.61	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423382	Polynucleobacter	335.10	53.57	Dihydroorotase (EC 3.5.2.3)
+PGF_00423450	Polynucleobacter	305.00	0.00	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)
+PGF_00423480	Polynucleobacter	255.05	4.44	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1
+PGF_00423533	Polynucleobacter	275.05	58.59	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Polynucleobacter	151.57	27.38	DksA family protein PA5536 (no Zn-finger)
+PGF_00423914	Polynucleobacter	260.60	36.66	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Polynucleobacter	270.86	55.24	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424123	Polynucleobacter	533.75	101.58	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424447	Polynucleobacter	314.86	63.08	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424569	Polynucleobacter	261.35	1.81	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Polynucleobacter	592.24	140.33	Excinuclease ABC subunit C
+PGF_00425024	Polynucleobacter	404.74	2.56	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425161	Polynucleobacter	671.05	16.66	Exoribonuclease II (EC 3.1.13.1)
+PGF_00425212	Polynucleobacter	564.20	5.57	Exported zinc metalloprotease YfgC precursor
+PGF_00425214	Polynucleobacter	107.00	0.00	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425665	Polynucleobacter	251.05	26.80	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425704	Polynucleobacter	88.60	4.49	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425810	Polynucleobacter	241.55	10.02	Cell division protein ZapD
+PGF_00425929	Polynucleobacter	303.55	1.50	5'-nucleotidase (EC 3.1.3.5)
+PGF_00425993	Polynucleobacter	385.35	32.56	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Polynucleobacter	353.11	9.59	FIG004453: protein YceG like
+PGF_00426044	Polynucleobacter	276.10	0.45	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426236	Polynucleobacter	421.65	8.65	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426342	Polynucleobacter	265.65	15.26	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426932	Polynucleobacter	169.70	3.31	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00457990	Polynucleobacter	190.00	0.00	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00482828	Polynucleobacter	448.58	1.54	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00529632	Polynucleobacter	800.00	211.24	ClpB protein
+PGF_00565351	Polynucleobacter	219.55	6.48	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00572317	Polynucleobacter	119.11	6.34	Protein tyrosine phosphatase
+PGF_00580333	Polynucleobacter	402.32	3.23	Lipopolysaccharide assembly protein LapB
+PGF_00582270	Polynucleobacter	460.95	3.41	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00616490	Polynucleobacter	268.00	0.00	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Polynucleobacter	395.70	14.08	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Polynucleobacter	244.74	9.04	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00639841	Polynucleobacter	516.33	112.72	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Polynucleobacter	344.26	14.19	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644212	Polynucleobacter	292.60	12.22	Nucleoside-diphosphate-sugar epimerases
+PGF_00644953	Polynucleobacter	315.40	48.83	DnaJ-class molecular chaperone CbpA
+PGF_00648054	Polynucleobacter	207.90	34.63	Tol-Pal system protein TolQ
+PGF_00655358	Polynucleobacter	491.05	75.36	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Polynucleobacter	515.00	0.00	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Polynucleobacter	214.60	24.77	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Polynucleobacter	402.90	92.25	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Polynucleobacter	129.52	1.17	Ribosomal silencing factor RsfA
+PGF_00671129	Polynucleobacter	112.00	0.00	Nitrogen regulatory protein P-II, GlnK
+PGF_00694978	Polynucleobacter	258.20	27.73	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00695496	Polynucleobacter	232.74	0.56	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00709443	Polynucleobacter	158.00	0.00	Twin-arginine translocation protein TatB
+PGF_00717495	Polynucleobacter	416.05	74.76	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00720161	Polynucleobacter	556.10	32.29	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase (EC 2.4.2.43) @ Melittin resistance protein PqaB @ Polymyxin resistance protein PmrK
+PGF_00721835	Polynucleobacter	328.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Polynucleobacter	818.60	92.04	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734751	Polynucleobacter	159.10	4.75	Cytochrome c heme lyase subunit CcmL
+PGF_00776859	Polynucleobacter	146.11	7.79	Putative transmembrane protein
+PGF_00777327	Polynucleobacter	354.85	54.34	AFG1-like ATPase
+PGF_00813259	Polynucleobacter	266.70	13.31	FolM Alternative dihydrofolate reductase 1
+PGF_00819312	Polynucleobacter	154.75	0.55	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_00842253	Polynucleobacter	140.58	1.61	PTS system, IIA component
+PGF_00853393	Polynucleobacter	295.75	3.88	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00867247	Polynucleobacter	226.90	0.31	Two-component transcriptional response regulator, LuxR family
+PGF_00874759	Polynucleobacter	417.79	9.64	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00900256	Polynucleobacter	466.00	62.61	Threonine synthase (EC 4.2.3.1)
+PGF_00908360	Polynucleobacter	262.95	6.68	Phospholipid ABC transporter permease protein MlaE
+PGF_00909659	Polynucleobacter	529.10	99.54	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00912265	Polynucleobacter	340.75	6.10	tRNA-dihydrouridine synthase DusB
+PGF_00924816	Polynucleobacter	238.30	2.00	Thiol:disulfide interchange protein DsbC
+PGF_00925844	Polynucleobacter	422.90	52.95	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Polynucleobacter	564.10	47.66	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00950554	Polynucleobacter	709.10	29.72	Excinuclease ABC subunit B
+PGF_00957419	Polynucleobacter	138.05	3.50	Putative pre-16S rRNA nuclease Yqg
+PGF_00973394	Polynucleobacter	155.90	18.34	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00973460	Polynucleobacter	279.11	10.46	NUDIX hydrolase, associated with Thiamin pyrophosphokinase
+PGF_00977861	Polynucleobacter	284.16	14.29	TonB protein
+PGF_01008498	Polynucleobacter	91.95	9.33	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01011517	Polynucleobacter	373.42	4.00	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01052295	Polynucleobacter	373.11	9.18	Lipopolysaccharide export system permease protein LptF
+PGF_01063193	Polynucleobacter	394.16	1.26	Uncharacterized MFS-type transporter
+PGF_01065911	Polynucleobacter	214.95	0.22	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01076995	Polynucleobacter	258.42	1.02	FIGfam005179
+PGF_01079016	Polynucleobacter	296.05	0.62	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Polynucleobacter	714.59	196.14	Outer membrane protein assembly factor YaeT
+PGF_01101526	Polynucleobacter	373.80	12.30	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01114007	Polynucleobacter	84.74	0.65	FIG005902: hypothetical protein
+PGF_01124177	Polynucleobacter	375.52	69.31	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Polynucleobacter	383.00	0.00	Rod shape-determining protein RodA
+PGF_01147190	Polynucleobacter	491.95	2.01	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01166636	Polynucleobacter	82.95	3.69	Glutaredoxin 3 (Grx3)
+PGF_01172200	Polynucleobacter	217.00	0.00	Uncharacterized membrane anchored protein Mext_4159
+PGF_01172431	Polynucleobacter	131.95	3.86	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172439	Polynucleobacter	160.65	24.86	hypothetical protein
+PGF_01172485	Polynucleobacter	390.33	59.29	Cell division protein FtsA
+PGF_01174739	Polynucleobacter	251.42	1.26	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Polynucleobacter	623.80	72.45	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176861	Polynucleobacter	79.90	0.31	Uncharacterized protein YpeB
+PGF_01199872	Polynucleobacter	357.42	0.90	putative membrane protein
+PGF_01212739	Polynucleobacter	533.40	73.30	Heat shock protein 60 family chaperone GroEL
+PGF_01223569	Polynucleobacter	154.80	5.37	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01225591	Polynucleobacter	226.14	35.97	Nucleotidyl transferase possibly involved in threonylcarbamoyladenosine formation
+PGF_01234013	Polynucleobacter	341.00	0.00	YgfD: protein that forms a complex with the methylmalonyl-CoA mutase in a pathway for conversion of succinyl-CoA to propionyl-CoA
+PGF_01291803	Polynucleobacter	339.25	12.19	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01313623	Polynucleobacter	395.95	27.06	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)
+PGF_01323228	Polynucleobacter	209.55	4.25	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01351158	Polynucleobacter	983.62	392.87	Transcription-repair coupling factor
+PGF_01364427	Polynucleobacter	183.62	30.06	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01382505	Polynucleobacter	219.00	0.00	FIG00449901: hypothetical protein
+PGF_01393949	Polynucleobacter	609.52	145.58	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01420802	Polynucleobacter	138.55	14.45	Cell division protein MraZ
+PGF_01421534	Polynucleobacter	213.21	1.32	LSU ribosomal protein L25p
+PGF_01423501	Polynucleobacter	153.81	19.20	Transcription elongation factor GreA
+PGF_01427611	Polynucleobacter	210.47	4.46	Uncharacterized UPF0126 inner membrane protein
+PGF_01444546	Polynucleobacter	97.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Polynucleobacter	107.00	0.00	Integration host factor alpha subunit
+PGF_01466819	Polynucleobacter	431.10	69.64	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483460	Polynucleobacter	383.21	3.95	Lipopolysaccharide export system permease protein LptG
+PGF_01486721	Polynucleobacter	92.65	12.65	hypothetical protein
+PGF_01496670	Polynucleobacter	278.15	32.64	ATPase associated with various cellular activities, AAA_5
+PGF_01514111	Polynucleobacter	354.35	11.85	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01614738	Polynucleobacter	117.65	13.04	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01674551	Polynucleobacter	132.85	8.68	Glycine cleavage system H protein
+PGF_01682537	Polynucleobacter	130.00	1.95	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Polynucleobacter	163.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Polynucleobacter	244.00	0.00	DNA recombination and repair protein RecO
+PGF_01734668	Polynucleobacter	221.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01777142	Polynucleobacter	228.47	8.86	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Polynucleobacter	139.00	3.45	Protein YhfA
+PGF_01867628	Polynucleobacter	336.40	1.23	Heat-inducible transcription repressor HrcA
+PGF_01888177	Polynucleobacter	147.10	8.98	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Polynucleobacter	218.65	3.27	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Polynucleobacter	281.37	1.16	Rod shape-determining protein MreC
+PGF_01910737	Polynucleobacter	282.10	5.85	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01916207	Polynucleobacter	261.50	6.07	Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion
+PGF_01921605	Polynucleobacter	483.35	16.14	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01925962	Polynucleobacter	151.00	4.14	Tripartite tricarboxylate transporter TctB family
+PGF_01960322	Polynucleobacter	584.15	115.60	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01985478	Polynucleobacter	357.70	71.73	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01994657	Polynucleobacter	428.50	73.79	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Polynucleobacter	252.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Polynucleobacter	339.55	37.79	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Polynucleobacter	347.05	55.77	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Polynucleobacter	363.20	2.09	GTP-binding protein Obg
+PGF_02061452	Polynucleobacter	385.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Polynucleobacter	89.05	0.22	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02141097	Polynucleobacter	722.67	155.67	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02213182	Polynucleobacter	62.00	0.33	Cytochrome c-type biogenesis protein CcmD, interacts with CcmCE
+PGF_02224568	Polynucleobacter	386.45	3.10	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Polynucleobacter	651.19	123.84	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02323834	Polynucleobacter	293.00	0.00	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02328820	Polynucleobacter	60.90	4.75	hypothetical protein
+PGF_02330496	Polynucleobacter	218.00	0.00	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Polynucleobacter	328.58	5.09	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Polynucleobacter	868.65	21.88	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Polynucleobacter	373.37	1.26	Alanine racemase (EC 5.1.1.1)
+PGF_02357764	Polynucleobacter	175.25	7.40	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02369559	Polynucleobacter	851.18	224.58	DNA polymerase I (EC 2.7.7.7)
+PGF_02382338	Polynucleobacter	270.20	53.48	Inner membrane protein YpjD
+PGF_02450432	Polynucleobacter	261.90	41.40	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Polynucleobacter	88.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Polynucleobacter	204.30	0.92	Recombination protein RecR
+PGF_02472165	Polynucleobacter	652.15	115.60	Propionyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.3)
+PGF_02473279	Polynucleobacter	244.65	15.25	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02510675	Polynucleobacter	210.40	29.29	Hypothetical protein in cytochrome oxidase biogenesis cluster
+PGF_02510679	Polynucleobacter	384.75	3.08	Lipopolysaccharide core heptosyltransferase III
+PGF_02515882	Polynucleobacter	389.10	86.52	Aspartokinase (EC 2.7.2.4)
+PGF_02516666	Polynucleobacter	384.89	0.32	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02517984	Polynucleobacter	59.42	0.84	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518965	Polynucleobacter	170.68	11.04	Regulatory protein RecX
+PGF_02593689	Polynucleobacter	533.45	29.33	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601905	Polynucleobacter	113.90	8.09	Transcriptional regulator PA2737, MerR family
+PGF_02619970	Polynucleobacter	104.21	2.70	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02704551	Polynucleobacter	1252.91	405.34	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Polynucleobacter	115.55	8.43	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02746016	Polynucleobacter	240.30	45.06	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02776739	Polynucleobacter	137.60	5.49	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Polynucleobacter	282.35	1.31	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Polynucleobacter	227.81	40.73	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Polynucleobacter	472.95	0.23	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Polynucleobacter	1241.50	346.09	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Polynucleobacter	514.20	10.99	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02838109	Polynucleobacter	157.65	14.98	Shikimate kinase I (EC 2.7.1.71)
+PGF_02862285	Polynucleobacter	408.00	7.79	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02877184	Polynucleobacter	359.80	1.82	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02893930	Polynucleobacter	256.70	19.79	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02899131	Polynucleobacter	64.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Polynucleobacter	229.95	5.88	Outer membrane lipoprotein carrier protein LolA
+PGF_02904832	Polynucleobacter	324.80	0.41	Homoserine kinase (EC 2.7.1.39)
+PGF_02911133	Polynucleobacter	210.60	21.83	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Polynucleobacter	287.60	6.74	HflC protein
+PGF_02912272	Polynucleobacter	163.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02919689	Polynucleobacter	286.40	0.75	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Polynucleobacter	236.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Polynucleobacter	292.30	23.29	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02938730	Polynucleobacter	353.00	0.00	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942020	Polynucleobacter	190.89	0.46	Peptidyl-prolyl cis-trans isomerase PpiA precursor (EC 5.2.1.8)
+PGF_02946231	Polynucleobacter	530.48	101.01	SSU ribosomal protein S1p
+PGF_02979277	Polynucleobacter	575.05	89.22	3-methylmercaptopropionyl-CoA dehydrogenase (DmdC)
+PGF_02987028	Polynucleobacter	214.60	21.11	HhH-GPD base excision DNA repair family protein; Probable 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase
+PGF_02991837	Polynucleobacter	224.00	0.00	Protein of unknown function DUF484
+PGF_02992100	Polynucleobacter	230.19	57.72	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Polynucleobacter	114.20	0.41	Protein translocase membrane subunit SecG
+PGF_02997723	Polynucleobacter	179.95	3.57	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03000070	Polynucleobacter	352.16	0.37	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03001544	Polynucleobacter	237.20	3.89	Hydrolase PA4440, alpha/beta fold family
+PGF_03006190	Polynucleobacter	377.25	33.54	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03017775	Polynucleobacter	515.26	1.79	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03020126	Polynucleobacter	62.00	0.00	hypothetical protein
+PGF_03025675	Polynucleobacter	562.90	112.53	Lipid A export permease/ATP-binding protein MsbA
+PGF_03026450	Polynucleobacter	1045.27	331.56	Chromosome partition protein smc
+PGF_03029859	Polynucleobacter	640.05	1.99	Bis-ABC ATPase Uup
+PGF_03036937	Polynucleobacter	352.05	52.32	Putative transmembrane protein
+PGF_03042775	Polynucleobacter	205.05	5.01	Phosphoheptose isomerase (EC 5.3.1.-)
+PGF_03050772	Polynucleobacter	248.25	16.59	Transcriptional regulator, Crp/Fnr family
+PGF_03054699	Polynucleobacter	760.15	27.93	DNA translocase FtsK
+PGF_03057384	Polynucleobacter	343.75	0.55	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03063012	Polynucleobacter	177.74	1.52	Chaperone protein HscB
+PGF_03069524	Polynucleobacter	77.00	0.00	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03073470	Polynucleobacter	536.10	108.10	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03074362	Polynucleobacter	390.53	13.89	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03124650	Polynucleobacter	503.55	6.48	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03125514	Polynucleobacter	435.70	41.47	FIG015287: Zinc protease
+PGF_03128228	Polynucleobacter	386.21	1.78	Outer membrane beta-barrel assembly protein BamB
+PGF_03132336	Polynucleobacter	427.53	2.06	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03138425	Polynucleobacter	286.90	21.65	FIG00613342: Bacterial patatin-like phospholipase domain containing protein
+PGF_03140041	Polynucleobacter	151.85	3.80	CBS domain protein
+PGF_03144011	Polynucleobacter	160.16	21.77	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146406	Polynucleobacter	562.95	114.95	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03174068	Polynucleobacter	190.05	0.23	Transcription antitermination protein NusG
+PGF_03203461	Polynucleobacter	603.15	12.04	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03222913	Polynucleobacter	138.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03253896	Polynucleobacter	230.10	22.36	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Polynucleobacter	239.70	3.13	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03278866	Polynucleobacter	77.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Polynucleobacter	208.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03306184	Polynucleobacter	258.95	0.23	4,5-DOPA dioxygenase extradiol (EC 1.13.11.29), but not physiological substrate
+PGF_03340305	Polynucleobacter	147.20	18.65	RidA/YER057c/UK114 superfamily, group 1
+PGF_03348128	Polynucleobacter	175.25	1.65	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03365853	Polynucleobacter	235.60	13.75	Heavy-metal-associated domain (N-terminus) and membrane-bounded cytochrome biogenesis cycZ-like domain, possible membrane copper tolerance protein
+PGF_03421722	Polynucleobacter	479.10	6.85	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03439690	Polynucleobacter	165.35	8.68	Ferric uptake regulation protein FUR
+PGF_03441339	Polynucleobacter	335.60	11.28	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03518570	Polynucleobacter	141.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Polynucleobacter	439.55	28.14	Cell division protein FtsZ
+PGF_03609651	Polynucleobacter	552.20	16.99	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Polynucleobacter	161.00	0.00	UPF0234 protein Yitk
+PGF_03708253	Polynucleobacter	125.00	0.00	Protein translocase subunit SecE
+PGF_03718818	Polynucleobacter	279.75	24.20	Cell division protein FtsQ
+PGF_03719269	Polynucleobacter	218.85	11.38	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Polynucleobacter	173.21	8.63	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729040	Polynucleobacter	154.47	0.51	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03750599	Polynucleobacter	241.95	5.60	Cell division coordinator CpoB
+PGF_03750600	Polynucleobacter	166.10	4.02	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Polynucleobacter	179.40	19.20	Heat shock protein GrpE
+PGF_03752544	Polynucleobacter	235.45	2.26	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Polynucleobacter	327.90	10.69	Site-specific tyrosine recombinase XerC
+PGF_03753933	Polynucleobacter	185.80	14.31	Iron-sulfur cluster regulator IscR
+PGF_03757137	Polynucleobacter	472.00	0.00	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03767152	Polynucleobacter	88.15	0.37	Proposed lipoate regulatory protein YbeD
+PGF_03768617	Polynucleobacter	185.50	11.79	Glutathione peroxidase (EC 1.11.1.9)
+PGF_03774054	Polynucleobacter	337.00	28.90	DNA/RNA non-specific endonuclease
+PGF_03778780	Polynucleobacter	289.75	27.95	Signal recognition particle receptor FtsY
+PGF_03783620	Polynucleobacter	173.95	0.22	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Polynucleobacter	191.60	1.85	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Polynucleobacter	247.10	52.08	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Polynucleobacter	288.45	1.15	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03804538	Polynucleobacter	533.00	31.25	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03815442	Polynucleobacter	309.79	2.20	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_03835760	Polynucleobacter	452.68	7.11	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03856084	Polynucleobacter	548.74	165.40	Cell division protein FtsH
+PGF_03873633	Polynucleobacter	74.11	2.21	hypothetical protein
+PGF_03935716	Polynucleobacter	658.25	5.08	Inner membrane protein, KefB/KefC family
+PGF_03954476	Polynucleobacter	154.05	33.27	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03960810	Polynucleobacter	257.00	0.00	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03969636	Polynucleobacter	186.16	0.69	PhbF
+PGF_04005838	Polynucleobacter	385.82	119.71	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Polynucleobacter	212.85	4.23	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Polynucleobacter	146.57	24.66	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Polynucleobacter	429.50	84.63	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Polynucleobacter	140.00	0.00	Large-conductance mechanosensitive channel
+PGF_04034430	Polynucleobacter	69.35	2.91	SSU ribosomal protein S21p
+PGF_04037464	Polynucleobacter	268.20	27.62	rRNA methylases
+PGF_04041316	Polynucleobacter	896.33	209.29	Excinuclease ABC subunit A
+PGF_04108824	Polynucleobacter	590.00	0.00	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04119806	Polynucleobacter	319.79	4.61	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04151476	Polynucleobacter	188.21	2.78	16S rRNA processing protein RimM
+PGF_04154333	Polynucleobacter	73.84	1.86	Twin-arginine translocation protein TatA
+PGF_04213876	Polynucleobacter	272.55	9.38	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04243031	Polynucleobacter	193.58	9.19	hypothetical protein
+PGF_04270464	Polynucleobacter	200.16	27.18	Putative transmembrane protein
+PGF_04275878	Polynucleobacter	245.63	24.37	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04315180	Polynucleobacter	172.26	2.16	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Polynucleobacter	449.68	124.09	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Polynucleobacter	917.95	13.64	Protein translocase subunit SecA
+PGF_04380075	Polynucleobacter	159.19	6.38	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Polynucleobacter	306.90	0.45	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04408110	Polynucleobacter	78.00	0.00	hypothetical protein
+PGF_04412082	Polynucleobacter	108.00	0.00	Thioredoxin
+PGF_04457297	Polynucleobacter	208.05	0.97	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04469552	Polynucleobacter	573.11	0.46	Polymyxin resistance protein ArnT, undecaprenyl phosphate-alpha-L-Ara4N transferase; Melittin resistance protein PqaB
+PGF_04482714	Polynucleobacter	357.00	85.42	Rubredoxin-NAD(+) reductase (EC 1.18.1.1)
+PGF_04501688	Polynucleobacter	336.52	62.52	hypothetical protein
+PGF_04505269	Polynucleobacter	249.00	0.00	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Polynucleobacter	346.75	1.12	Rod shape-determining protein MreB
+PGF_04519372	Polynucleobacter	433.79	0.92	Malonyl-CoA decarboxylase (EC 4.1.1.9)
+PGF_04521913	Polynucleobacter	458.62	76.84	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04561502	Polynucleobacter	72.37	1.61	hypothetical protein
+PGF_04569524	Polynucleobacter	485.48	86.29	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04570774	Polynucleobacter	88.00	0.00	Cell division protein FtsL
+PGF_04571944	Polynucleobacter	196.90	9.39	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Polynucleobacter	240.62	38.81	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04608820	Polynucleobacter	634.75	64.84	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04630848	Polynucleobacter	140.60	12.77	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04660832	Polynucleobacter	159.45	9.76	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Polynucleobacter	823.95	36.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04666574	Polynucleobacter	174.95	0.23	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_04719340	Polynucleobacter	170.21	14.77	protein of unknown function DUF306, Meta and HslJ
+PGF_04729769	Polynucleobacter	277.05	3.63	PpiC-type peptidyl-prolyl cis-trans isomerase
+PGF_04737526	Polynucleobacter	177.53	2.99	hypothetical protein
+PGF_04738677	Polynucleobacter	267.84	4.37	hypothetical protein
+PGF_04749763	Polynucleobacter	875.19	166.21	Translation initiation factor 2
+PGF_04757308	Polynucleobacter	655.25	133.75	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04759321	Polynucleobacter	105.00	0.00	hypothetical protein
+PGF_04788810	Polynucleobacter	190.24	27.79	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Polynucleobacter	323.30	46.29	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04814956	Polynucleobacter	95.00	13.56	hypothetical protein
+PGF_04821487	Polynucleobacter	347.21	0.63	hypothetical protein
+PGF_04836037	Polynucleobacter	501.89	25.55	hypothetical protein
+PGF_04845029	Polynucleobacter	129.67	1.68	LSU ribosomal protein L19p
+PGF_04877695	Polynucleobacter	94.37	7.88	Primosomal replication protein N
+PGF_04970608	Polynucleobacter	67.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Polynucleobacter	103.00	0.00	LSU ribosomal protein L21p
+PGF_05025448	Polynucleobacter	249.65	5.29	Pseudouridine synthase
+PGF_05111929	Polynucleobacter	576.75	40.87	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05120279	Polynucleobacter	170.16	6.35	Type IV fimbrial biogenesis protein FimT
+PGF_05135220	Polynucleobacter	845.24	148.49	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Polynucleobacter	315.33	63.93	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Polynucleobacter	438.10	88.16	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Polynucleobacter	565.90	125.45	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05210618	Polynucleobacter	274.05	6.79	Septum-associated cell division protein DedD
+PGF_05264096	Polynucleobacter	123.84	0.90	hypothetical protein
+PGF_05280843	Polynucleobacter	420.95	74.45	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Polynucleobacter	735.00	115.62	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05305024	Polynucleobacter	242.89	13.54	Acetoacetyl-CoA reductase (EC 1.1.1.36)
+PGF_05406959	Polynucleobacter	358.00	1.59	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05435672	Polynucleobacter	343.30	4.01	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05449103	Polynucleobacter	137.11	0.32	Rhodanese-related sulfurtransferase YibN
+PGF_05463808	Polynucleobacter	297.55	12.36	NAD kinase (EC 2.7.1.23)
+PGF_05497338	Polynucleobacter	212.11	4.40	Lipopolysaccharide export system protein LptC
+PGF_05547053	Polynucleobacter	112.84	16.40	hypothetical protein
+PGF_05581732	Polynucleobacter	401.82	113.95	Protein translocase subunit SecY
+PGF_05598173	Polynucleobacter	397.00	2.89	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Polynucleobacter	406.15	35.11	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05646459	Polynucleobacter	213.60	9.58	Glutathione S-transferase family protein
+PGF_05647533	Polynucleobacter	37.00	0.00	hypothetical protein
+PGF_05657253	Polynucleobacter	234.00	16.12	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05680322	Polynucleobacter	422.21	84.12	putative sugar transport protein
+PGF_05712128	Polynucleobacter	534.15	97.99	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05769513	Polynucleobacter	436.21	2.35	Tol-Pal system beta propeller repeat protein TolB
+PGF_05866109	Polynucleobacter	381.63	0.68	Outer membrane beta-barrel assembly protein BamC
+PGF_05872952	Polynucleobacter	288.40	46.85	Outer membrane beta-barrel assembly protein BamD
+PGF_05925776	Polynucleobacter	301.00	3.01	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Polynucleobacter	557.59	159.24	Protein translocase subunit SecD
+PGF_05971611	Polynucleobacter	364.27	101.22	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05975300	Polynucleobacter	45.00	0.00	hypothetical protein
+PGF_06005139	Polynucleobacter	70.00	0.00	hypothetical protein
+PGF_06005188	Polynucleobacter	572.43	190.70	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06048886	Polynucleobacter	204.21	7.09	Ubiquinone biosynthesis protein UbiJ
+PGF_06053106	Polynucleobacter	294.71	44.56	RNA polymerase sigma factor RpoH
+PGF_06058569	Polynucleobacter	67.89	1.73	hypothetical protein
+PGF_06061522	Polynucleobacter	139.00	0.00	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06065884	Polynucleobacter	217.53	4.91	Cell wall-associated hydrolases (invasion-associated proteins)
+PGF_06120144	Polynucleobacter	142.30	3.61	Ribosome association toxin RatA
+PGF_06140724	Polynucleobacter	271.05	20.81	TolA protein
+PGF_06170558	Polynucleobacter	154.95	0.22	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Polynucleobacter	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Polynucleobacter	96.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Polynucleobacter	199.35	27.71	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Polynucleobacter	389.14	110.33	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Polynucleobacter	319.15	57.34	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06320166	Polynucleobacter	254.05	5.34	Spermidine synthase-like protein
+PGF_06323462	Polynucleobacter	216.05	0.78	21 kDa hemolysin precursor
+PGF_06340436	Polynucleobacter	235.26	1.97	Tungstate ABC transporter, ATP-binding protein
+PGF_06379377	Polynucleobacter	420.65	70.12	Replication-associated recombination protein RarA
+PGF_06403538	Polynucleobacter	174.50	1.67	hypothetical protein
+PGF_06403579	Polynucleobacter	700.26	247.47	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06425596	Polynucleobacter	70.05	4.64	hypothetical protein
+PGF_06446585	Polynucleobacter	165.58	1.30	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_06458641	Polynucleobacter	149.63	20.28	Putative transmembrane protein
+PGF_06458877	Polynucleobacter	189.58	2.06	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06461498	Polynucleobacter	281.00	0.65	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06495818	Polynucleobacter	245.16	27.03	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06530721	Polynucleobacter	268.21	4.81	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06594013	Polynucleobacter	127.55	23.29	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06598717	Polynucleobacter	481.95	2.06	Serine protease precursor MucD/AlgY associated with sigma factor RpoE
+PGF_06648993	Polynucleobacter	79.00	0.00	Acyl carrier protein
+PGF_06649360	Polynucleobacter	249.15	7.16	Segregation and condensation protein B
+PGF_06669654	Polynucleobacter	173.58	8.17	LPS-assembly lipoprotein LptE
+PGF_06693963	Polynucleobacter	102.90	18.10	Nucleoid-associated protein YaaK
+PGF_06721510	Polynucleobacter	313.95	0.23	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+PGF_06735060	Polynucleobacter	751.10	153.07	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Polynucleobacter	374.85	8.59	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Polynucleobacter	503.10	12.97	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06772993	Polynucleobacter	838.00	127.04	Ribonuclease E (EC 3.1.26.12)
+PGF_06789737	Polynucleobacter	495.84	3.00	Glycosyl transferase, family 39
+PGF_06792905	Polynucleobacter	58.53	1.12	Type cbb3 cytochrome oxidase biogenesis protein CcoS, involved in heme b insertion
+PGF_07072582	Polynucleobacter	723.95	200.63	RNA polymerase sigma factor RpoD
+PGF_07242312	Polynucleobacter	624.10	48.75	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07344415	Polynucleobacter	180.58	6.69	Intracellular septation protein IspA
+PGF_07425883	Polynucleobacter	110.15	8.27	Ferredoxin, 2Fe-2S
+PGF_08046522	Polynucleobacter	102.00	0.00	Glutaredoxin-related protein
+PGF_08061357	Polynucleobacter	124.89	1.66	Iron-sulfur cluster insertion protein ErpA
+PGF_08126362	Polynucleobacter	414.60	41.34	DNA recombination protein RmuC
+PGF_08139315	Polynucleobacter	89.00	0.00	Phosphocarrier protein, nitrogen regulation associated
+PGF_08153913	Polynucleobacter	262.65	21.00	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08183187	Polynucleobacter	410.95	53.89	Cell division protein FtsW

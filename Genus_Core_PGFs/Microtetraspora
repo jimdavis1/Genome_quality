@@ -1,0 +1,933 @@
+PGF_00000134	Microtetraspora	864.20	10.33	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1 / 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2
+PGF_00000350	Microtetraspora	205.00	0.00	FIG007808: N-acetyltransferase
+PGF_00000416	Microtetraspora	297.00	12.37	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000494	Microtetraspora	160.60	16.44	FIG00816212: Putative membrane protein
+PGF_00000568	Microtetraspora	116.00	4.47	FIG00820327: hypothetical protein
+PGF_00001331	Microtetraspora	221.20	2.68	Endonuclease NucS
+PGF_00001886	Microtetraspora	108.00	0.00	FIG01123837: hypothetical protein
+PGF_00001896	Microtetraspora	280.40	3.21	FIG01124638: hypothetical protein
+PGF_00002542	Microtetraspora	127.40	4.28	FIG017342: transmembrane protein
+PGF_00002587	Microtetraspora	180.00	0.00	FIG019327: membrane domain
+PGF_00002866	Microtetraspora	112.80	4.02	FIG024795: hypothetical protein
+PGF_00003179	Microtetraspora	189.40	10.81	FIG049476: HIT family protein
+PGF_00003262	Microtetraspora	180.80	4.55	FIG067024: NTP pyrophosphohydrolases including oxidative damage repair enzymes
+PGF_00003409	Microtetraspora	640.40	0.89	FIG092679: Fe-S oxidoreductase
+PGF_00003506	Microtetraspora	296.20	112.25	FIG137478: Hypothetical protein
+PGF_00004094	Microtetraspora	315.00	6.71	Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)
+PGF_00004381	Microtetraspora	445.40	5.37	Ferredoxin--NADP(+) reductase, actinobacterial (eukaryote-like) type (EC 1.18.1.2)
+PGF_00004392	Microtetraspora	560.20	2.68	Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)
+PGF_00006046	Microtetraspora	409.00	10.51	Flp pilus assembly protein, ATPase CpaF
+PGF_00006100	Microtetraspora	339.20	10.64	tRNA-modifying protein YgfZ
+PGF_00006320	Microtetraspora	282.20	0.45	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006394	Microtetraspora	340.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006434	Microtetraspora	1333.60	7.13	FtsK/SpoIIIE family protein, putative EssC/YukB component of Type VII secretion system
+PGF_00006449	Microtetraspora	551.20	11.12	Fumarate hydratase class I (EC 4.2.1.2)
+PGF_00006724	Microtetraspora	282.80	6.26	GCN5-related N-acetyltransferase, FIGfam019367
+PGF_00006935	Microtetraspora	519.00	6.52	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Microtetraspora	362.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Microtetraspora	474.80	4.02	GTP-binding protein EngA
+PGF_00007027	Microtetraspora	304.00	6.71	GTP-binding protein Era
+PGF_00007028	Microtetraspora	473.00	13.42	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Microtetraspora	620.20	7.16	GTP-binding protein TypA/BipA
+PGF_00007085	Microtetraspora	374.20	2.68	Galactokinase (EC 2.7.1.6)
+PGF_00007120	Microtetraspora	353.80	5.76	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007304	Microtetraspora	278.20	1.64	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007519	Microtetraspora	532.00	1.87	Geranyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.5)
+PGF_00007533	Microtetraspora	433.60	3.13	Geranylgeranyl reductase (EC 1.3.1.83)
+PGF_00007558	Microtetraspora	748.60	23.63	Germacradienol/germacrene D synthase (EC 4.2.3.22)
+PGF_00007632	Microtetraspora	312.40	13.92	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00008024	Microtetraspora	324.20	10.18	Glucosyl-3-phosphoglycerate synthase (EC 2.4.1.266)
+PGF_00008051	Microtetraspora	492.00	26.43	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Microtetraspora	378.20	13.86	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Microtetraspora	384.80	1.79	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Microtetraspora	291.60	17.01	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Microtetraspora	1506.80	8.64	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008255	Microtetraspora	449.20	2.68	Glutamine synthetase family protein in hypothetical Actinobacterial gene cluster
+PGF_00008260	Microtetraspora	341.60	7.40	Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)
+PGF_00008334	Microtetraspora	438.20	7.16	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Microtetraspora	459.20	7.16	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008542	Microtetraspora	266.20	8.84	Glycerol uptake facilitator protein
+PGF_00008611	Microtetraspora	321.00	6.71	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Microtetraspora	955.20	3.70	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008780	Microtetraspora	375.60	10.85	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Microtetraspora	230.80	4.02	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008872	Microtetraspora	862.00	6.71	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009500	Microtetraspora	189.60	1.34	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009966	Microtetraspora	460.80	0.45	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Microtetraspora	247.60	1.95	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Microtetraspora	187.80	0.45	Guanylate kinase (EC 2.7.4.8)
+PGF_00010594	Microtetraspora	538.60	24.12	HEN1 C-terminal domain; double-stranded RNA 3'-methylase
+PGF_00011081	Microtetraspora	736.80	22.82	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Microtetraspora	308.20	12.97	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011576	Microtetraspora	251.80	0.45	Heteromeric decaprenylphosphoryl-beta-D-ribose 2'-epimerase (EC 1.1.1.333) subunit DprE2
+PGF_00011979	Microtetraspora	437.80	5.22	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Microtetraspora	348.80	10.08	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012288	Microtetraspora	300.20	29.52	Homocysteine S-methyltransferase (EC 2.1.1.10)
+PGF_00012340	Microtetraspora	431.60	0.89	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Microtetraspora	310.80	4.02	Homoserine kinase (EC 2.7.1.39)
+PGF_00012430	Microtetraspora	121.40	14.31	HspR, transcriptional repressor of DnaK operon
+PGF_00013022	Microtetraspora	259.00	0.00	Hypothetical NagD-like phosphatase, Actinobacterial subfamily
+PGF_00013224	Microtetraspora	184.00	13.42	ADP-ribose pyrophosphatase
+PGF_00013272	Microtetraspora	140.40	0.89	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Microtetraspora	239.80	0.45	UPF0001 protein YggS
+PGF_00013301	Microtetraspora	92.00	0.00	Hypothetical protein co-occurring with PspA-like suppressor
+PGF_00013388	Microtetraspora	386.60	9.18	ADP-ribosylglycohydrolase
+PGF_00013417	Microtetraspora	474.00	33.29	Hypothetical radical SAM family enzyme in interesting gene cluster
+PGF_00013492	Microtetraspora	184.80	0.45	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Microtetraspora	514.20	2.68	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Microtetraspora	204.40	4.67	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Microtetraspora	274.00	8.94	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Microtetraspora	339.40	48.98	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014314	Microtetraspora	372.40	0.89	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00014381	Microtetraspora	359.20	0.45	Inositol-1-phosphate synthase (EC 5.5.1.4)
+PGF_00014717	Microtetraspora	478.80	1.79	Integral membrane protein EccD-like, component of Type VII secretion system in Actinobacteria
+PGF_00014855	Microtetraspora	281.20	0.45	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00015142	Microtetraspora	74.20	1.30	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Microtetraspora	269.40	0.89	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Microtetraspora	301.00	2.24	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015357	Microtetraspora	454.20	16.02	Iron(II)-dependent oxidoreductase EgtB (hercynine sythase)
+PGF_00015467	Microtetraspora	233.00	2.24	Iron-dependent repressor IdeR/DtxR
+PGF_00015510	Microtetraspora	249.20	2.68	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Microtetraspora	470.20	0.45	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Microtetraspora	380.20	7.16	Iron-sulfur cluster assembly protein SufD
+PGF_00015543	Microtetraspora	262.40	33.70	Iron-sulfur cluster regulator SufR
+PGF_00015718	Microtetraspora	1056.20	6.38	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015735	Microtetraspora	195.20	12.62	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Microtetraspora	331.40	0.89	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015978	Microtetraspora	393.20	0.45	L-2-hydroxyglutarate oxidase (EC 1.1.3.15)
+PGF_00016074	Microtetraspora	404.20	2.68	L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC (EC 6.3.1.13)
+PGF_00016122	Microtetraspora	341.80	1.79	L-glyceraldehyde 3-phosphate reductase
+PGF_00016175	Microtetraspora	314.40	3.71	L-malyl-CoA/beta-methylmalyl-CoA lyase (EC 4.1.3.-), actinobacterial type
+PGF_00016225	Microtetraspora	456.80	0.45	L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016284	Microtetraspora	265.40	12.42	LOG family protein
+PGF_00016328	Microtetraspora	174.40	0.89	LSU ribosomal protein L10p (P0)
+PGF_00016340	Microtetraspora	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Microtetraspora	151.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Microtetraspora	139.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Microtetraspora	163.80	4.71	LSU ribosomal protein L17p
+PGF_00016353	Microtetraspora	125.40	0.89	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Microtetraspora	238.00	2.24	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Microtetraspora	126.40	0.89	LSU ribosomal protein L20p
+PGF_00016361	Microtetraspora	94.40	6.15	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Microtetraspora	107.80	20.57	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Microtetraspora	101.00	2.24	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Microtetraspora	99.80	1.79	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Microtetraspora	84.80	0.45	LSU ribosomal protein L27p
+PGF_00016393	Microtetraspora	278.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Microtetraspora	72.60	28.17	LSU ribosomal protein L30p (L7e)
+PGF_00016416	Microtetraspora	57.60	8.05	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Microtetraspora	45.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Microtetraspora	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Microtetraspora	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Microtetraspora	216.40	1.34	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Microtetraspora	215.40	0.55	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Microtetraspora	188.00	2.24	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Microtetraspora	179.80	0.45	LSU ribosomal protein L6p (L9e)
+PGF_00016452	Microtetraspora	148.00	0.00	LSU ribosomal protein L9p
+PGF_00016613	Microtetraspora	319.80	4.87	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_00016787	Microtetraspora	311.40	5.81	Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)
+PGF_00016824	Microtetraspora	692.20	23.93	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+PGF_00017139	Microtetraspora	509.20	2.68	ATP-dependent DNA ligase (EC 6.5.1.1)
+PGF_00017333	Microtetraspora	589.00	6.78	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16)
+PGF_00017479	Microtetraspora	311.60	5.81	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017656	Microtetraspora	523.80	5.72	LrgA-associated membrane protein LrgB
+PGF_00018560	Microtetraspora	430.20	2.68	Magnesium and cobalt efflux protein CorC
+PGF_00018956	Microtetraspora	325.80	1.79	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018964	Microtetraspora	531.00	6.71	Malate synthase (EC 2.3.3.9)
+PGF_00019051	Microtetraspora	583.20	4.71	Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141)
+PGF_00019284	Microtetraspora	829.40	0.89	Mannose-1-phosphate guanylyltransferase / Phosphomannomutase (EC 5.4.2.8)
+PGF_00020173	Microtetraspora	318.20	7.26	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Microtetraspora	159.40	3.13	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020650	Microtetraspora	113.80	3.77	ATP/GTP-binding protein
+PGF_00020793	Microtetraspora	195.60	3.13	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00021018	Microtetraspora	142.00	4.47	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00021391	Microtetraspora	389.60	8.82	Mg-chelatase subunit ChlD
+PGF_00022029	Microtetraspora	91.20	0.45	MoaD/ThiS family protein clustered with threonine synthase
+PGF_00022453	Microtetraspora	135.60	2.79	Molybdate-binding domain of ModE
+PGF_00022507	Microtetraspora	162.60	10.29	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022722	Microtetraspora	377.40	3.58	Mrp protein homolog
+PGF_00023532	Microtetraspora	291.60	3.13	Mycothiol S-conjugate amidase Mca
+PGF_00023760	Microtetraspora	393.60	1.34	N-acetylglucosamine kinase bacterial type predicted (EC 2.7.1.59) / Transcriptional regulator of N-acetylglucosamine utilization
+PGF_00024143	Microtetraspora	447.80	4.02	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_00024232	Microtetraspora	360.20	2.68	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Microtetraspora	355.40	6.54	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Microtetraspora	174.00	2.24	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Microtetraspora	382.40	9.04	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Microtetraspora	592.60	0.89	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024567	Microtetraspora	421.60	12.84	Acetate kinase (EC 2.7.2.1)
+PGF_00024615	Microtetraspora	304.20	7.12	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024692	Microtetraspora	229.80	10.55	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024712	Microtetraspora	361.80	98.23	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_00024831	Microtetraspora	449.80	4.02	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024969	Microtetraspora	281.60	3.13	NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)
+PGF_00025202	Microtetraspora	504.60	5.81	Na(+)/H(+) antiporter
+PGF_00025215	Microtetraspora	174.20	0.45	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025289	Microtetraspora	411.20	27.28	Na+/H+ antiporter NhaA type
+PGF_00025508	Microtetraspora	322.40	1.95	Acetyl xylan esterase
+PGF_00025554	Microtetraspora	132.80	1.10	Nickel-dependent superoxide dismutase (EC 1.15.1.1)
+PGF_00025562	Microtetraspora	191.80	4.02	Nicotinamidase (EC 3.5.1.19)
+PGF_00025623	Microtetraspora	363.20	2.68	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00026289	Microtetraspora	486.60	18.78	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026362	Microtetraspora	202.60	0.55	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Microtetraspora	323.20	5.76	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026438	Microtetraspora	353.80	13.08	Nucleoside-diphosphate-sugar epimerases
+PGF_00026615	Microtetraspora	312.80	7.66	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00028660	Microtetraspora	392.80	15.21	Oxidoreductase
+PGF_00028981	Microtetraspora	396.40	3.13	P-hydroxybenzoate hydroxylase (EC 1.14.13.2)
+PGF_00029114	Microtetraspora	366.60	5.81	PAS/PAC sensor signal transduction histidine kinase
+PGF_00029552	Microtetraspora	138.00	23.48	PTS system, N-acetylglucosamine-specific IIA component (EC 2.7.1.193)
+PGF_00029917	Microtetraspora	296.20	31.75	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Microtetraspora	312.60	12.52	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Microtetraspora	350.00	4.47	Peptide chain release factor 1
+PGF_00031596	Microtetraspora	384.80	1.79	Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE30
+PGF_00031617	Microtetraspora	377.80	6.26	Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE31
+PGF_00033095	Microtetraspora	850.20	7.66	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Microtetraspora	406.40	150.71	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033327	Microtetraspora	378.40	3.13	Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
+PGF_00033328	Microtetraspora	390.80	6.38	Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
+PGF_00033359	Microtetraspora	356.80	0.45	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Microtetraspora	241.20	1.79	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033390	Microtetraspora	599.20	3.27	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+PGF_00033392	Microtetraspora	881.80	17.80	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033511	Microtetraspora	397.40	3.13	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Microtetraspora	248.20	2.68	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033877	Microtetraspora	160.20	4.92	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033924	Microtetraspora	88.20	2.68	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Microtetraspora	405.80	17.82	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Microtetraspora	286.00	8.94	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033950	Microtetraspora	241.20	0.45	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Microtetraspora	343.80	6.26	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Microtetraspora	226.80	0.45	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Microtetraspora	751.80	2.95	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Microtetraspora	209.60	0.55	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033987	Microtetraspora	367.80	12.36	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034491	Microtetraspora	164.40	0.89	Pleiotropic negative regulator for morphological and physiological development in Streptomyces, BldD
+PGF_00034775	Microtetraspora	128.80	11.99	Cobalt ECF transporter, additional substrate-binding protein CbiN
+PGF_00034776	Microtetraspora	759.40	13.09	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Microtetraspora	171.00	6.71	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Microtetraspora	329.00	8.66	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035049	Microtetraspora	484.60	9.53	Possible Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00035334	Microtetraspora	323.60	1.67	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035440	Microtetraspora	508.20	13.65	Precorrin-2 C(20)-methyltransferase (EC 2.1.1.130) / Precorrin-3B C(17)-methyltransferase (EC 2.1.1.131)
+PGF_00035464	Microtetraspora	251.40	2.19	Precorrin-4 C(11)-methyltransferase (EC 2.1.1.133)
+PGF_00035467	Microtetraspora	439.80	32.41	Precorrin-6Y C(5,15)-methyltransferase [decarboxylating] (EC 2.1.1.132)
+PGF_00035468	Microtetraspora	208.60	1.34	Precorrin-8X methylmutase (EC 5.4.99.61)
+PGF_00035514	Microtetraspora	350.40	22.15	Adenylate cyclase (EC 4.6.1.1)
+PGF_00035556	Microtetraspora	946.60	16.64	Predicted D-lactate dehydrogenase, Fe-S protein, FAD/FMN-containing
+PGF_00035591	Microtetraspora	254.80	19.25	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Microtetraspora	477.80	5.22	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035599	Microtetraspora	220.60	9.71	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_00035721	Microtetraspora	480.00	5.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Microtetraspora	426.20	1.79	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035812	Microtetraspora	358.20	7.79	Predicted dye-decolorizing peroxidase (DyP), encapsulated subgroup
+PGF_00036580	Microtetraspora	144.00	4.24	Protein translocase subunit YajC
+PGF_00036729	Microtetraspora	1625.40	47.28	Probable ATP-dependent helicase lhr (EC 3.6.1.-)
+PGF_00036909	Microtetraspora	317.40	4.77	Probable acyl-ACP desaturase, Stearoyl-ACP desaturase (EC 1.14.19.2)
+PGF_00036979	Microtetraspora	265.80	21.60	Probable carboxyvinyl-carboxyphosphonate phosphorylmutase (EC 2.7.8.23)
+PGF_00037340	Microtetraspora	312.00	1.22	Probable short-chain type dehydrogenase/reductase (EC 1.-.-.-)
+PGF_00037510	Microtetraspora	69.20	0.45	Prokaryotic ubiquitin-like protein Pup
+PGF_00037521	Microtetraspora	304.00	2.24	Proline dehydrogenase (EC 1.5.5.2)
+PGF_00037588	Microtetraspora	577.20	6.26	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037784	Microtetraspora	413.80	83.24	Proposed precorrin-5* (C1)-methyltransferase @ Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00037865	Microtetraspora	259.60	5.41	Proteasome subunit alpha (EC 3.4.25.1), bacterial
+PGF_00037867	Microtetraspora	274.00	4.12	Proteasome subunit beta (EC 3.4.25.1), bacterial
+PGF_00038555	Microtetraspora	459.60	3.13	Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster
+PGF_00038579	Microtetraspora	106.00	2.24	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038674	Microtetraspora	353.20	2.49	Protein translocase subunit SecF
+PGF_00038796	Microtetraspora	76.40	0.89	Protein translocase membrane subunit SecG
+PGF_00038897	Microtetraspora	310.60	11.82	Aldo/keto reductase, SCO1670 family
+PGF_00038969	Microtetraspora	504.60	0.89	Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'
+PGF_00038970	Microtetraspora	452.20	0.45	Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'
+PGF_00038986	Microtetraspora	243.40	57.24	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039118	Microtetraspora	1156.40	363.63	Putative ATP-binding protein
+PGF_00039287	Microtetraspora	823.40	17.67	Putative DNA-binding protein
+PGF_00039346	Microtetraspora	413.20	17.41	Putative Dyp-type peroxidase, associated with bacterial analog of Cox17 protein
+PGF_00040437	Microtetraspora	444.20	19.58	Putative cryptic D-serine deaminase (EC 4.3.1.18)
+PGF_00040578	Microtetraspora	285.80	1.79	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040882	Microtetraspora	676.40	14.76	Putative glucanase glgE (EC 3.2.1.-)
+PGF_00041046	Microtetraspora	290.40	5.81	Putative glycosyltransferase
+PGF_00041119	Microtetraspora	414.80	1.79	Putative glycosyltransferase
+PGF_00041289	Microtetraspora	251.20	19.46	Putative hemolysin
+PGF_00041431	Microtetraspora	305.20	11.63	Putative hydrolase
+PGF_00041488	Microtetraspora	358.40	0.89	Putative hydrolase SCO1113
+PGF_00041559	Microtetraspora	313.40	20.43	Putative inner membrane protein
+PGF_00041719	Microtetraspora	277.20	20.28	Putative integral membrane protein SCO2176
+PGF_00041739	Microtetraspora	521.60	6.95	Efflux ABC transporter, permease protein / Efflux ABC transporter, permease protein
+PGF_00041788	Microtetraspora	145.40	1.52	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041794	Microtetraspora	193.00	8.22	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00042294	Microtetraspora	497.80	10.73	Putative methyltransferase SCO3545
+PGF_00042680	Microtetraspora	227.80	7.33	Putative oxidoreductase
+PGF_00042734	Microtetraspora	348.40	6.07	Putative oxidoreductase
+PGF_00042867	Microtetraspora	177.80	0.45	Alkyl hydroperoxide reductase AhpD (EC 1.11.1.15)
+PGF_00043212	Microtetraspora	843.60	9.61	Putative phosphatase
+PGF_00043554	Microtetraspora	249.40	0.89	Putative regulatory protein
+PGF_00044510	Microtetraspora	510.60	41.14	Putative transferase
+PGF_00045065	Microtetraspora	510.60	37.12	Putative transmembrane transport protein
+PGF_00045738	Microtetraspora	291.40	9.84	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045787	Microtetraspora	195.40	2.61	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Microtetraspora	303.00	0.71	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Microtetraspora	431.40	3.97	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045941	Microtetraspora	776.20	10.40	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00046104	Microtetraspora	385.60	3.58	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046597	Microtetraspora	170.80	88.44	RNA polymerase-binding transcription factor DksA
+PGF_00047078	Microtetraspora	367.80	5.26	RecA protein
+PGF_00047155	Microtetraspora	248.40	7.60	Redox-sensing transcriptional repressor Rex
+PGF_00047479	Microtetraspora	418.80	10.69	Related to HTH domain of SpoOJ/ParA/ParB/repB family, involved in chromosome partitioning
+PGF_00047888	Microtetraspora	249.00	2.24	Alpha-glucoside transport ATP-binding protein AglK
+PGF_00047936	Microtetraspora	441.60	1.14	Alpha-glucosides-binding periplasmic protein AglE precursor
+PGF_00048480	Microtetraspora	202.00	0.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048482	Microtetraspora	210.20	0.45	Riboflavin transporter PnuX
+PGF_00048586	Microtetraspora	240.20	2.17	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Microtetraspora	305.80	2.68	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048630	Microtetraspora	765.20	17.85	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048633	Microtetraspora	337.00	5.05	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Microtetraspora	146.80	13.86	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048829	Microtetraspora	470.20	112.94	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048846	Microtetraspora	469.60	1.34	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Microtetraspora	220.20	9.39	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Microtetraspora	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Microtetraspora	304.20	21.45	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048936	Microtetraspora	157.40	6.50	Ribosome-binding factor A
+PGF_00048985	Microtetraspora	223.00	2.24	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049331	Microtetraspora	246.40	10.62	S-adenosylmethionine-dependent methyltransferase
+PGF_00049398	Microtetraspora	202.80	6.26	Alternative RNA polymerase sigma factor SigE
+PGF_00049658	Microtetraspora	143.60	9.74	Alternative dihydrofolate reductase 3
+PGF_00049665	Microtetraspora	228.60	8.05	SC1B5.06c, unknown, len: 249 aa
+PGF_00049827	Microtetraspora	297.40	14.48	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Microtetraspora	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Microtetraspora	131.60	5.37	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Microtetraspora	123.80	0.45	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Microtetraspora	123.00	6.71	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Microtetraspora	99.40	0.89	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Microtetraspora	90.20	2.68	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Microtetraspora	150.80	4.38	SSU ribosomal protein S16p
+PGF_00049854	Microtetraspora	92.60	1.52	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Microtetraspora	92.20	0.45	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Microtetraspora	280.20	2.68	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Microtetraspora	204.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049901	Microtetraspora	96.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Microtetraspora	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Microtetraspora	126.80	11.63	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Microtetraspora	172.40	1.34	SSU ribosomal protein S9p (S16e)
+PGF_00050192	Microtetraspora	130.20	7.95	Secreted protein
+PGF_00050200	Microtetraspora	276.60	37.06	Secreted protein
+PGF_00050290	Microtetraspora	286.20	21.26	Segregation and condensation protein A
+PGF_00050582	Microtetraspora	258.40	22.33	Amidohydrolase EgtC (hercynylcysteine sulfoxide synthase)
+PGF_00050995	Microtetraspora	491.40	23.14	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Microtetraspora	421.80	4.02	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051868	Microtetraspora	255.40	3.13	Short-chain dehydrogenase/reductase in hypothetical Actinobacterial gene cluster
+PGF_00052238	Microtetraspora	519.40	6.27	Signal recognition particle protein Ffh
+PGF_00052520	Microtetraspora	321.40	0.89	Similar to F420-dependent glucose-6-phosphate dehydrogenase, SCO7290 family
+PGF_00053036	Microtetraspora	346.40	8.76	Aminodeoxyfutalosine deaminase (EC 3.5.4.40)
+PGF_00053513	Microtetraspora	332.00	2.24	Solanesyl diphosphate synthase (EC 2.5.1.11)
+PGF_00053601	Microtetraspora	170.40	1.52	Sortase and related acyltransferases
+PGF_00053770	Microtetraspora	367.20	13.86	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053822	Microtetraspora	140.00	2.24	2-aminomuconate deaminase (EC 3.5.99.5) @ RidA/YER057c/UK114 superfamily protein
+PGF_00053952	Microtetraspora	85.60	1.34	Sporulation regulatory protein WhiB
+PGF_00054022	Microtetraspora	483.80	12.38	2-aminomuconate semialdehyde dehydrogenase (EC 1.2.1.32)
+PGF_00054359	Microtetraspora	219.40	12.52	Cobalt ECF transporter, substrate-binding protein CbiM
+PGF_00054528	Microtetraspora	392.80	0.45	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055165	Microtetraspora	92.00	0.00	Sulfur/cysteine carrier protein CysO
+PGF_00055665	Microtetraspora	366.80	162.34	TPR-repeat-containing protein
+PGF_00055986	Microtetraspora	277.80	1.10	Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)
+PGF_00056078	Microtetraspora	217.00	13.96	Ankyrin
+PGF_00056255	Microtetraspora	268.60	10.29	TesB-like acyl-CoA thioesterase 3
+PGF_00056544	Microtetraspora	259.20	2.68	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Microtetraspora	348.40	3.13	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056872	Microtetraspora	217.00	1.22	Thymidine kinase (EC 2.7.1.21)
+PGF_00056947	Microtetraspora	460.80	1.79	TldE/PmbA family protein, Actinobacterial subgroup
+PGF_00057270	Microtetraspora	840.00	11.75	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057353	Microtetraspora	116.20	0.45	Anti-sigma factor antagonist BldG
+PGF_00057381	Microtetraspora	260.80	7.43	Trans,polycis-decaprenyl diphosphate synthase (EC 2.5.1.86)
+PGF_00057399	Microtetraspora	368.40	3.13	Transaldolase (EC 2.2.1.2)
+PGF_00057485	Microtetraspora	332.60	0.89	Transcription termination protein NusA
+PGF_00057488	Microtetraspora	137.80	4.02	Transcription termination protein NusB
+PGF_00058061	Microtetraspora	71.40	0.89	Transcriptional regulator
+PGF_00059040	Microtetraspora	77.00	0.00	Transcriptional regulator, AsnC family
+PGF_00059042	Microtetraspora	94.60	0.89	Transcriptional regulator, AsnC family
+PGF_00059313	Microtetraspora	243.40	5.27	Transcriptional regulator, GntR family, in hypothetical Actinobacterial gene cluster
+PGF_00059672	Microtetraspora	256.20	1.79	(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)
+PGF_00059852	Microtetraspora	94.00	15.65	Transcriptional regulator, WhiB family
+PGF_00060398	Microtetraspora	699.60	18.50	Transketolase (EC 2.2.1.1)
+PGF_00060409	Microtetraspora	700.80	4.02	Translation elongation factor G
+PGF_00060412	Microtetraspora	709.60	0.89	Elongation factor G-like protein TM_1651
+PGF_00060414	Microtetraspora	610.80	6.26	Translation elongation factor LepA
+PGF_00060421	Microtetraspora	186.40	0.89	Translation elongation factor P
+PGF_00060427	Microtetraspora	277.20	0.45	Translation elongation factor Ts
+PGF_00060428	Microtetraspora	397.00	0.00	Translation elongation factor Tu
+PGF_00060431	Microtetraspora	73.00	0.00	Translation initiation factor 1
+PGF_00060472	Microtetraspora	122.20	2.68	Antitoxin HigA
+PGF_00060478	Microtetraspora	206.00	20.01	Translation initiation factor 3
+PGF_00060510	Microtetraspora	246.20	8.67	Cobalt ECF transporter, transmembrane component of energizing module CbiQ
+PGF_00060519	Microtetraspora	255.40	3.71	Transmembrane component NikQ of energizing module of nickel ECF transporter
+PGF_00060585	Microtetraspora	225.80	5.72	Transmembrane protein MT2276, clustered with lipoate gene
+PGF_00061960	Microtetraspora	550.00	16.55	Apolipoprotein N-acyltransferase (EC 2.3.1.-) in lipid-linked oligosaccharide synthesis cluster
+PGF_00063916	Microtetraspora	424.40	7.06	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063999	Microtetraspora	460.00	7.55	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064034	Microtetraspora	524.60	4.93	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7)
+PGF_00064272	Microtetraspora	252.60	1.34	UPF0246 protein YaaA
+PGF_00064359	Microtetraspora	170.00	4.47	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064454	Microtetraspora	275.00	3.39	Ubiquinol-cytochrome C reductase, diheme cytochrome cc subunit
+PGF_00064786	Microtetraspora	362.80	0.45	Arogenate dehydrogenase (EC 1.3.1.43)
+PGF_00064835	Microtetraspora	264.00	1.73	Uncharacterized methyltransferase SCO7062
+PGF_00065286	Microtetraspora	282.60	189.17	Uncharacterized protein Q1 colocalized with Q
+PGF_00065292	Microtetraspora	166.40	3.13	Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene
+PGF_00065316	Microtetraspora	237.20	7.60	Uncharacterized protein SCO1764
+PGF_00065326	Microtetraspora	269.40	8.11	Uncharacterized protein SCO4203
+PGF_00065410	Microtetraspora	158.40	8.05	Uncharacterized protein YbbK
+PGF_00065887	Microtetraspora	239.60	14.96	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065911	Microtetraspora	250.40	4.98	Undecaprenyl-phosphate mannosyltransferase (EC 2.4.1.54)
+PGF_00066123	Microtetraspora	211.80	0.45	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Microtetraspora	193.40	3.58	Pyrimidine operon regulatory protein PyrR
+PGF_00066286	Microtetraspora	534.20	12.19	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066839	Microtetraspora	84.20	0.45	WhiB-like transcription regulator
+PGF_00066906	Microtetraspora	314.40	7.60	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067062	Microtetraspora	384.20	7.16	Xylose isomerase (EC 5.3.1.5)
+PGF_00067129	Microtetraspora	777.40	14.31	Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9) @ Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+PGF_00067188	Microtetraspora	352.40	8.05	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067389	Microtetraspora	98.20	1.79	YlxP-like protein
+PGF_00067401	Microtetraspora	300.20	15.12	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067466	Microtetraspora	578.80	16.39	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Microtetraspora	498.40	4.16	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067791	Microtetraspora	779.80	26.32	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068420	Microtetraspora	394.80	17.44	Protein YzbB
+PGF_00070089	Microtetraspora	132.80	1.79	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070156	Microtetraspora	320.60	3.21	conserved protein associated with acetyl-CoA C-acyltransferase / conserved protein associated with acetyl-CoA C-acyltransferase
+PGF_00070432	Microtetraspora	425.40	4.28	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00071194	Microtetraspora	445.80	2.39	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071558	Microtetraspora	587.20	0.45	Bacterial proteasome-activating AAA-ATPase (PAN)
+PGF_00071938	Microtetraspora	159.60	1.14	Bacterioferritin (EC 1.16.3.1)
+PGF_00076923	Microtetraspora	149.20	0.45	(3R)-hydroxyacyl-ACP dehydratase subunit HadA
+PGF_00111392	Microtetraspora	195.40	4.10	Acetyltransferase
+PGF_00121830	Microtetraspora	414.80	35.27	FIG01121868: Possible membrane protein, Rv0205
+PGF_00151416	Microtetraspora	37.40	3.13	hypothetical protein
+PGF_00172869	Microtetraspora	383.40	9.84	Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)
+PGF_00217849	Microtetraspora	248.20	4.09	Uncharacterized UPF0721 integral membrane protein
+PGF_00226237	Microtetraspora	65.60	3.58	hypothetical protein
+PGF_00255958	Microtetraspora	120.00	0.00	FIG01127210: hypothetical protein
+PGF_00261173	Microtetraspora	360.40	7.60	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00267378	Microtetraspora	154.60	8.82	AIG2-like domain protein
+PGF_00294865	Microtetraspora	582.80	12.97	Two component system sensor histidine kinase MtrB
+PGF_00305932	Microtetraspora	96.40	2.19	hypothetical protein
+PGF_00336478	Microtetraspora	205.80	8.23	Two-component transcriptional response regulator PdtaR, LuxR family
+PGF_00399662	Microtetraspora	1036.40	8.38	hypothetical protein SCD12A.14
+PGF_00400287	Microtetraspora	107.00	0.00	integration host factor
+PGF_00404326	Microtetraspora	308.80	15.59	probable iron-sulfur binding protein YPO1417
+PGF_00404359	Microtetraspora	354.00	0.00	Monooxygenase IpdC
+PGF_00404809	Microtetraspora	404.80	9.39	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00404817	Microtetraspora	136.60	9.84	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00405677	Microtetraspora	559.20	36.22	putative ATP-binding membrane protein
+PGF_00405711	Microtetraspora	385.20	9.15	putative ATPase
+PGF_00406752	Microtetraspora	490.00	73.24	putative endochitinase
+PGF_00406805	Microtetraspora	255.20	2.68	putative esterase/lipase
+PGF_00407331	Microtetraspora	264.60	4.93	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_00407407	Microtetraspora	241.40	12.70	Integral membrane protein
+PGF_00407411	Microtetraspora	552.20	66.03	Integral membrane protein
+PGF_00407441	Microtetraspora	133.20	4.92	Integral membrane protein
+PGF_00407616	Microtetraspora	238.20	0.45	Integral membrane protein
+PGF_00407669	Microtetraspora	372.40	4.28	Integral membrane protein
+PGF_00408246	Microtetraspora	420.20	1.30	putative lipoprotein
+PGF_00409256	Microtetraspora	490.60	21.47	putative membrane protein
+PGF_00409292	Microtetraspora	358.20	8.50	putative membrane protein
+PGF_00409838	Microtetraspora	382.00	0.00	lipid carrier protein or keto acyl-CoA thiolase Ltp3
+PGF_00409853	Microtetraspora	243.40	0.89	putative nucleotide sugar-1-phosphate transferase
+PGF_00409964	Microtetraspora	319.40	5.37	putative peptide transport ATP-binding protein
+PGF_00409965	Microtetraspora	340.60	11.33	putative peptide transport ATP-binding protein
+PGF_00410120	Microtetraspora	207.20	26.09	putative phosphoglycerate mutase
+PGF_00410582	Microtetraspora	393.00	32.19	putative secreted protein
+PGF_00410606	Microtetraspora	211.40	2.51	putative secreted protein
+PGF_00410679	Microtetraspora	281.80	5.76	putative secreted protein
+PGF_00410701	Microtetraspora	231.40	18.22	putative secreted protein
+PGF_00410978	Microtetraspora	324.60	13.65	putative succinoglycan biosynthesis protein
+PGF_00410998	Microtetraspora	242.40	17.07	putative sugar acetyltransferase
+PGF_00411408	Microtetraspora	334.80	1.79	Radical SAM protein required for addition of adenosine to hopane skeleton, HpnH
+PGF_00411437	Microtetraspora	301.00	57.18	pyridoxal-phosphate dependent enzyme family protein
+PGF_00411518	Microtetraspora	1005.60	14.05	Transcriptional regulator AfsR
+PGF_00412239	Microtetraspora	399.80	8.04	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)
+PGF_00413192	Microtetraspora	288.60	3.58	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413208	Microtetraspora	288.40	14.76	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Microtetraspora	296.20	6.26	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Microtetraspora	299.00	0.00	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Microtetraspora	155.60	1.34	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Microtetraspora	162.20	4.92	tmRNA-binding protein SmpB
+PGF_00414710	Microtetraspora	457.80	7.40	Pyrimidine permease
+PGF_00414926	Microtetraspora	475.80	6.10	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00414965	Microtetraspora	253.40	3.13	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_00415308	Microtetraspora	269.40	0.89	23S rRNA (cytidine(1920)-2'-O)-methyltransferase (EC 2.1.1.226) @ 16S rRNA (cytidine(1409)-2'-O)-methyltransferase (EC 2.1.1.227)
+PGF_00416115	Microtetraspora	301.00	2.24	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416410	Microtetraspora	1087.60	8.05	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416419	Microtetraspora	555.60	18.68	Carbamoyltransferase
+PGF_00416428	Microtetraspora	267.00	2.24	Carbohydrate Esterase Family 4
+PGF_00416576	Microtetraspora	198.40	0.89	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Microtetraspora	412.20	7.79	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416714	Microtetraspora	278.20	3.96	Catechol 1,2-dioxygenase 1 (EC 1.13.11.1)
+PGF_00416847	Microtetraspora	560.20	18.34	Ccs1/ResB-related putative cytochrome C-type biogenesis protein
+PGF_00417577	Microtetraspora	145.20	2.68	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417608	Microtetraspora	823.60	43.38	Chitinase (EC 3.2.1.14)
+PGF_00417645	Microtetraspora	703.80	24.13	ChlI component of cobalt chelatase involved in B12 biosynthesis / ChlD component of cobalt chelatase involved in B12 biosynthesis
+PGF_00417658	Microtetraspora	359.40	3.13	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Microtetraspora	392.40	0.89	Chorismate synthase (EC 4.2.3.5)
+PGF_00418244	Microtetraspora	200.40	0.89	Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ Cob(I)alamin adenosyltransferase (EC 2.5.1.17), clustered with cobalamin synthesis
+PGF_00418368	Microtetraspora	508.60	4.62	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Microtetraspora	457.60	15.65	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00418439	Microtetraspora	433.20	3.49	Coenzyme F420-0:L-glutamate ligase (EC 6.3.2.31) @ F420-1:L-glutamate ligase (EC 6.3.2.34) / Nitroreductase family protein Rcas_3978
+PGF_00418586	Microtetraspora	131.00	2.24	Cold shock protein of CSP family => SCO4325
+PGF_00419420	Microtetraspora	465.00	5.20	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419621	Microtetraspora	236.20	0.45	Coproheme decarboxylase HemQ (no EC)
+PGF_00419684	Microtetraspora	396.00	4.47	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
+PGF_00419702	Microtetraspora	191.00	8.60	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419913	Microtetraspora	162.00	4.18	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420001	Microtetraspora	142.00	2.55	CysO-cysteine peptidase
+PGF_00420080	Microtetraspora	315.20	0.45	Cysteine synthase, CysO-dependent
+PGF_00420081	Microtetraspora	392.00	0.00	Cysteine synthesis adenylyltransferase/sulfurtransferase
+PGF_00420121	Microtetraspora	222.40	0.89	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420406	Microtetraspora	131.20	0.45	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420886	Microtetraspora	388.00	5.52	D-amino-acid oxidase (EC 1.4.3.3)
+PGF_00420994	Microtetraspora	723.20	9.96	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421071	Microtetraspora	147.00	14.71	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421347	Microtetraspora	360.00	4.47	DNA integrity scanning protein DisA
+PGF_00421733	Microtetraspora	388.80	8.84	DNA recombination and repair protein RecF
+PGF_00421792	Microtetraspora	473.60	3.13	DNA repair protein RadA
+PGF_00421796	Microtetraspora	574.20	4.92	DNA repair protein RecN
+PGF_00422177	Microtetraspora	223.20	2.68	DNA-binding response regulator KdpE
+PGF_00422271	Microtetraspora	338.40	0.89	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422463	Microtetraspora	165.80	12.77	DUF1794
+PGF_00422530	Microtetraspora	141.20	12.26	DUF488 family protein SAV0238
+PGF_00422711	Microtetraspora	259.00	73.26	DedA protein
+PGF_00422888	Microtetraspora	541.40	0.89	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422922	Microtetraspora	191.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)
+PGF_00422959	Microtetraspora	150.00	11.18	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Microtetraspora	405.60	12.70	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Microtetraspora	275.80	8.50	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Microtetraspora	444.40	38.91	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423351	Microtetraspora	1233.00	67.07	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) / 2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) @ 2-oxoglutarate decarboxylase (EC 4.1.1.71) @ 2-hydroxy-3-oxoadipate synthase (EC 2.2.1.5)
+PGF_00423361	Microtetraspora	122.20	1.79	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423429	Microtetraspora	532.20	15.55	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423472	Microtetraspora	657.00	0.00	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Microtetraspora	304.20	3.03	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423731	Microtetraspora	70.20	0.45	Dodecin (COG3360) Flavin-binding
+PGF_00424189	Microtetraspora	271.80	1.79	Encapsulating protein for a DyP-type peroxidase or ferritin-like protein oligomers
+PGF_00424338	Microtetraspora	247.80	26.70	Endonuclease V (EC 3.1.21.7)
+PGF_00424569	Microtetraspora	254.80	1.79	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424619	Microtetraspora	339.60	8.85	4-nitrophenylphosphatase (EC 3.1.3.41)
+PGF_00424627	Microtetraspora	623.20	1.79	Epi-inositol hydrolase (EC 3.7.1.-)
+PGF_00424658	Microtetraspora	255.80	9.42	4-oxalocrotonate decarboxylase (EC 4.1.1.77)
+PGF_00424971	Microtetraspora	665.40	7.27	Excinuclease ABC subunit C
+PGF_00425024	Microtetraspora	398.60	5.37	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425092	Microtetraspora	379.60	10.90	Exonuclease SbcD
+PGF_00425665	Microtetraspora	237.60	3.58	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Microtetraspora	292.40	5.37	RNase adapter protein RapZ
+PGF_00425679	Microtetraspora	214.80	3.90	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Microtetraspora	250.80	0.45	Probable transcriptional regulatory protein YebC
+PGF_00425714	Microtetraspora	787.80	9.76	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425806	Microtetraspora	328.00	10.17	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00426115	Microtetraspora	639.20	10.83	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Microtetraspora	386.60	0.89	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426285	Microtetraspora	172.20	3.90	FIG004853: possible toxin to DivIC
+PGF_00426474	Microtetraspora	265.00	3.94	5-deoxy-glucuronate isomerase (EC 5.3.1.-)
+PGF_00426531	Microtetraspora	119.00	8.94	5-hydroxyisourate hydrolase (EC 3.5.2.17)
+PGF_00426572	Microtetraspora	324.20	9.39	5-keto-2-deoxygluconokinase (EC 2.7.1.92)
+PGF_00426616	Microtetraspora	314.00	2.24	FIG005453: Putative DeoR-family transcriptional regulator
+PGF_00426726	Microtetraspora	911.60	16.99	FIG005666: putative helicase
+PGF_00426932	Microtetraspora	160.00	0.71	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Microtetraspora	307.00	2.24	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00482828	Microtetraspora	438.20	12.60	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00488498	Microtetraspora	619.40	42.59	Terpene utilization protein AtuA
+PGF_00497557	Microtetraspora	496.20	30.47	Uncharacterized protein YjgR
+PGF_00500015	Microtetraspora	287.60	8.35	pyridoxal phosphate-dependent deaminase, putative
+PGF_00510935	Microtetraspora	97.00	2.24	DNA-binding protein HU
+PGF_00513269	Microtetraspora	68.20	0.45	hypothetical protein
+PGF_00518942	Microtetraspora	225.00	0.00	Two component system response regulator MtrA
+PGF_00546752	Microtetraspora	160.20	8.56	Phosphohistidine phosphatase SixA
+PGF_00565750	Microtetraspora	243.80	11.63	ATPase component NikO of energizing module of nickel ECF transporter
+PGF_00569671	Microtetraspora	315.00	6.71	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00581547	Microtetraspora	284.40	4.51	DegV family protein
+PGF_00595771	Microtetraspora	293.80	4.38	Squalene synthase (EC 2.5.1.21)
+PGF_00600061	Microtetraspora	503.80	12.42	putative proteinase
+PGF_00639841	Microtetraspora	794.00	129.14	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00659144	Microtetraspora	192.00	1.87	Transcriptional regulator, Xre family
+PGF_00659194	Microtetraspora	179.60	1.67	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662997	Microtetraspora	298.20	32.87	Cobalamin synthase (EC 2.7.8.26)
+PGF_00664069	Microtetraspora	432.40	9.84	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Microtetraspora	134.40	7.80	Ribosomal silencing factor RsfA
+PGF_00672736	Microtetraspora	162.80	1.79	Transcriptional regulator, MarR family
+PGF_00681634	Microtetraspora	322.60	5.81	SAM-dependent methyltransferase, MidA
+PGF_00684033	Microtetraspora	129.40	3.44	Integral membrane protein
+PGF_00692117	Microtetraspora	400.40	27.98	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_00705001	Microtetraspora	702.80	5.22	Enoyl-CoA hydratase (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_00719345	Microtetraspora	212.20	5.45	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), ADP-binding subunit DhaL
+PGF_00730641	Microtetraspora	204.80	4.02	4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+PGF_00734482	Microtetraspora	903.80	22.02	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735244	Microtetraspora	179.80	1.30	hypothetical protein
+PGF_00735685	Microtetraspora	1012.20	13.77	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_00755860	Microtetraspora	391.60	6.07	Two-component system sensor histidine kinase
+PGF_00765796	Microtetraspora	136.40	13.28	Two-component transcriptional response regulator, LuxR family
+PGF_00794535	Microtetraspora	824.40	86.35	Cellulose 1,4-beta-cellobiosidase (non-reducing end) (EC 3.2.1.91)
+PGF_00821644	Microtetraspora	210.00	6.86	Phosphatidylinositol phosphate synthase @ Archaetidylinositol phosphate synthase (EC 2.7.8.39)
+PGF_00832006	Microtetraspora	233.80	2.68	Phosphoglycerate mutase family protein
+PGF_00840309	Microtetraspora	404.60	15.06	Enhanced intracellular survival protein
+PGF_00848855	Microtetraspora	124.40	0.89	FKBP-type peptidyl-prolyl cis-trans isomerases 1
+PGF_00853393	Microtetraspora	291.60	1.34	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00854402	Microtetraspora	209.40	4.83	Alkylated DNA repair protein AlkB
+PGF_00856141	Microtetraspora	420.40	0.89	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00892874	Microtetraspora	607.40	14.83	Chitinase (EC 3.2.1.14)
+PGF_00904796	Microtetraspora	58.40	0.89	hypothetical protein
+PGF_00907900	Microtetraspora	225.60	0.89	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_00912265	Microtetraspora	377.60	7.50	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Microtetraspora	330.00	4.47	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00929252	Microtetraspora	275.00	8.43	putative rRNA methylase
+PGF_00943546	Microtetraspora	264.80	6.69	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00947829	Microtetraspora	132.40	18.23	putative membrane protein
+PGF_00950554	Microtetraspora	705.40	5.37	Excinuclease ABC subunit B
+PGF_00957419	Microtetraspora	162.00	4.47	Putative pre-16S rRNA nuclease Yqg
+PGF_00974773	Microtetraspora	244.40	29.46	Integral membrane protein
+PGF_00982735	Microtetraspora	109.80	0.45	hypothetical protein
+PGF_00988916	Microtetraspora	290.20	4.02	Putative hydrolase
+PGF_00996710	Microtetraspora	400.00	1.41	Membrane protein mosC
+PGF_01003446	Microtetraspora	253.00	4.47	2,5-diamino-6-ribosylamino-pyrimidinone 5-phosphate reductase (EC 1.1.1.302) homolog
+PGF_01008498	Microtetraspora	112.80	27.28	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01011517	Microtetraspora	366.40	26.56	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01022377	Microtetraspora	267.20	40.01	Urease accessory protein UreF
+PGF_01035777	Microtetraspora	468.80	7.16	Uncharacterized MFS-type transporter
+PGF_01039483	Microtetraspora	966.20	14.65	Fe-S protein, homolog of lactate dehydrogenase SO1521
+PGF_01054958	Microtetraspora	159.40	43.86	hypothetical protein
+PGF_01059307	Microtetraspora	534.80	16.10	beta-1,4-glucanase (cellulase) (EC 3.2.1.4)
+PGF_01065911	Microtetraspora	200.60	20.37	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01067969	Microtetraspora	265.00	37.33	Adenosylcobinamide amidohydrolase (EC 3.5.1.90)
+PGF_01075683	Microtetraspora	124.60	5.81	Hemoglobin-like protein HbO
+PGF_01079016	Microtetraspora	324.40	15.44	Chromosome (plasmid) partitioning protein ParB
+PGF_01126005	Microtetraspora	392.60	3.71	Rod shape-determining protein RodA
+PGF_01167921	Microtetraspora	144.20	4.92	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_01168641	Microtetraspora	278.40	0.89	Cobalt ECF transporter, ATPase component of energizing module CbiO
+PGF_01174739	Microtetraspora	302.40	19.57	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Microtetraspora	343.20	13.57	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Microtetraspora	658.00	2.45	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01181530	Microtetraspora	126.40	1.52	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01200403	Microtetraspora	317.00	0.00	FIG019733: possible DNA-binding protein
+PGF_01200827	Microtetraspora	1077.80	46.51	ATP-dependent DNA helicase SCO5183
+PGF_01206384	Microtetraspora	277.80	52.01	FIG187021: hypothetical protein
+PGF_01206852	Microtetraspora	141.80	0.45	Organic hydroperoxide resistance protein
+PGF_01223569	Microtetraspora	180.40	0.55	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Microtetraspora	172.80	14.65	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Microtetraspora	309.80	1.79	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Microtetraspora	215.40	0.89	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01351158	Microtetraspora	1163.80	6.26	Transcription-repair coupling factor
+PGF_01364427	Microtetraspora	206.80	1.30	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01366776	Microtetraspora	901.80	23.76	Uncharacterized hydrolase, CocE/NonD family / Efflux ABC transporter, ATP-binding protein
+PGF_01367064	Microtetraspora	430.40	29.79	Integral membrane protein
+PGF_01368025	Microtetraspora	361.00	0.00	Formaldehyde dehydrogenase MscR, NAD/mycothiol-dependent (EC 1.2.1.66) / S-nitrosomycothiol reductase MscR
+PGF_01373256	Microtetraspora	103.20	2.68	putative membrane protein
+PGF_01383123	Microtetraspora	647.20	10.43	Acetoacetyl-CoA synthetase (EC 6.2.1.16)
+PGF_01404160	Microtetraspora	457.00	2.24	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01421534	Microtetraspora	201.00	2.92	LSU ribosomal protein L25p
+PGF_01435565	Microtetraspora	159.80	0.45	TrkA, Potassium channel
+PGF_01444546	Microtetraspora	98.80	0.45	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01454630	Microtetraspora	1075.20	17.74	RND multidrug efflux transporter; Acriflavin resistance protein
+PGF_01462842	Microtetraspora	288.20	12.03	Uncharacterized protein YybG
+PGF_01466742	Microtetraspora	396.80	8.64	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Microtetraspora	289.80	2.49	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01467052	Microtetraspora	166.20	6.87	G/U mismatch-specific uracil DNA glycosylase (EC 3.2.2.28)
+PGF_01553036	Microtetraspora	290.00	1.87	CoA-transferase subunit alpha, IpdA
+PGF_01604929	Microtetraspora	333.80	20.13	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01667392	Microtetraspora	473.40	11.70	Xylulose kinase (EC 2.7.1.17)
+PGF_01667880	Microtetraspora	86.60	3.58	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01668012	Microtetraspora	286.60	5.37	Sulfur carrier protein FdhD
+PGF_01668186	Microtetraspora	250.00	0.00	Metal-dependent hydrolases of the beta-lactamase superfamily III
+PGF_01668974	Microtetraspora	830.80	45.88	DNA internalization-related competence protein ComEC/Rec2
+PGF_01674551	Microtetraspora	128.60	0.89	Glycine cleavage system H protein
+PGF_01677191	Microtetraspora	326.60	1.34	Sporulation transcription regulator WhiA
+PGF_01682537	Microtetraspora	117.20	2.68	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Microtetraspora	165.80	0.45	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Microtetraspora	271.40	14.67	DNA recombination and repair protein RecO
+PGF_01683273	Microtetraspora	407.40	21.62	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_01722484	Microtetraspora	495.60	32.58	Uncharacterized MFS-type transporter Saci_1521
+PGF_01724117	Microtetraspora	264.80	109.12	Uracil-DNA glycosylase, putative family 6 (EC 3.2.2.27)
+PGF_01726530	Microtetraspora	659.60	21.13	Geranyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.5)
+PGF_01734516	Microtetraspora	188.60	48.30	FHA-domain-containing protein
+PGF_01734668	Microtetraspora	216.60	0.89	Adenylate kinase (EC 2.7.4.3)
+PGF_01739753	Microtetraspora	150.60	16.99	Zinc metalloprotease
+PGF_01762565	Microtetraspora	197.60	8.05	Molybdenum cofactor cytidylyltransferase (EC 2.7.7.76)
+PGF_01837464	Microtetraspora	406.40	53.33	putative cellulose-binding protein
+PGF_01842781	Microtetraspora	561.00	0.00	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Microtetraspora	285.40	0.89	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Microtetraspora	337.40	0.89	Heat-inducible transcription repressor HrcA
+PGF_01898497	Microtetraspora	262.40	52.32	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Microtetraspora	359.40	9.71	Rod shape-determining protein MreC
+PGF_01900530	Microtetraspora	243.60	16.38	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01910737	Microtetraspora	204.80	1.10	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01943486	Microtetraspora	171.80	1.79	O-acetyl-ADP-ribose deacetylase
+PGF_01943564	Microtetraspora	59.60	3.13	hypothetical protein
+PGF_01959504	Microtetraspora	177.80	8.50	DUF2017 domain-containing protein
+PGF_01979610	Microtetraspora	330.00	0.00	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK
+PGF_01994657	Microtetraspora	461.20	3.96	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Microtetraspora	255.00	2.24	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02029783	Microtetraspora	455.80	12.97	GTP-binding protein Obg
+PGF_02059020	Microtetraspora	554.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02085373	Microtetraspora	120.60	27.33	UPF0225 protein YchJ
+PGF_02141097	Microtetraspora	806.80	12.42	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02150552	Microtetraspora	202.60	3.58	Putative hydrolase in cluster with formaldehyde/S-nitrosomycothiol reductase MscR
+PGF_02150921	Microtetraspora	169.20	51.88	FIG00820565: hypothetical protein
+PGF_02155126	Microtetraspora	161.20	6.34	Organic hydroperoxide resistance transcriptional regulator
+PGF_02185217	Microtetraspora	418.40	0.89	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02210145	Microtetraspora	344.80	14.70	Zn-dependent protease with chaperone function
+PGF_02213227	Microtetraspora	66.00	0.00	Sulfur carrier protein ThiS
+PGF_02226715	Microtetraspora	720.80	4.60	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02239557	Microtetraspora	259.20	5.12	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02246334	Microtetraspora	208.40	7.60	Integral membrane protein
+PGF_02247058	Microtetraspora	253.80	7.63	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+PGF_02278171	Microtetraspora	234.00	9.90	NADPH-dependent F420 reductase
+PGF_02289999	Microtetraspora	468.40	50.67	Precorrin-3B synthase
+PGF_02297251	Microtetraspora	215.00	11.18	KtrAB potassium uptake system, peripheral membrane component KtrA
+PGF_02311293	Microtetraspora	369.20	0.45	Peptide chain release factor 2
+PGF_02346768	Microtetraspora	889.80	0.45	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02347716	Microtetraspora	459.20	1.79	Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18)
+PGF_02349208	Microtetraspora	215.80	8.50	Hypothetical, related to broad specificity phosphatases COG0406
+PGF_02355769	Microtetraspora	389.20	8.32	Alanine racemase (EC 5.1.1.1)
+PGF_02360836	Microtetraspora	79.60	14.88	hypothetical protein
+PGF_02361937	Microtetraspora	195.40	10.88	Hydrolase SCO5215, alpha/beta fold family
+PGF_02394348	Microtetraspora	351.40	1.95	Lipid transfer protein or keto acyl-CoA thiolase Ltp4
+PGF_02409931	Microtetraspora	1096.20	21.28	ATP-dependent DNA helicase SCO5184
+PGF_02450432	Microtetraspora	301.00	8.43	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Microtetraspora	89.60	0.89	SSU ribosomal protein S20p
+PGF_02463284	Microtetraspora	199.00	0.00	Recombination protein RecR
+PGF_02489591	Microtetraspora	236.20	10.83	Uncharacterized Nudix hydrolase NudL
+PGF_02514958	Microtetraspora	324.60	3.91	putative periplasmic protein kinase ArgK and related GTPases of G3E family
+PGF_02515882	Microtetraspora	423.60	0.89	Aspartokinase (EC 2.7.2.4)
+PGF_02517984	Microtetraspora	57.60	1.34	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Microtetraspora	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02518965	Microtetraspora	165.60	12.99	Regulatory protein RecX
+PGF_02551265	Microtetraspora	311.40	5.37	L-histidine N(alpha)-methyltransferase (EC 2.1.1.44)
+PGF_02552234	Microtetraspora	90.20	16.69	hypothetical protein
+PGF_02565090	Microtetraspora	195.40	4.83	Thiol:disulfide oxidoreductase related to ResA
+PGF_02565280	Microtetraspora	82.40	0.89	Molybdopterin synthase sulfur carrier subunit
+PGF_02573780	Microtetraspora	77.80	0.45	Phosphotransferase system EIIB, cysteine phosphorylation domain
+PGF_02587605	Microtetraspora	125.40	8.05	Zinc uptake regulation protein Zur
+PGF_02593689	Microtetraspora	465.80	4.60	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601557	Microtetraspora	313.00	35.78	ParA-like protein
+PGF_02611620	Microtetraspora	735.00	236.25	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619970	Microtetraspora	136.80	10.73	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Microtetraspora	325.80	13.07	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Microtetraspora	1292.60	3.58	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02737404	Microtetraspora	278.80	2.49	Trehalose-6-phosphate phosphatase (EC 3.1.3.12)
+PGF_02776739	Microtetraspora	129.20	4.60	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Microtetraspora	283.40	1.34	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Microtetraspora	400.00	19.80	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Microtetraspora	239.20	13.48	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02795771	Microtetraspora	84.80	6.26	Glutaredoxin-like domain-containing protein PA3033
+PGF_02818638	Microtetraspora	438.20	4.32	Hemolysins and related proteins containing CBS domains
+PGF_02820109	Microtetraspora	196.20	2.68	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Microtetraspora	172.00	0.00	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Microtetraspora	240.40	8.82	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02866413	Microtetraspora	294.60	22.03	Rhomboid family protein
+PGF_02866666	Microtetraspora	886.20	38.42	ABC transporter, fused permease protein
+PGF_02870374	Microtetraspora	128.00	0.00	Lactoylglutathione lyase and related lyases
+PGF_02883702	Microtetraspora	347.60	0.89	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02893930	Microtetraspora	278.00	2.83	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02895544	Microtetraspora	220.00	2.24	TrkA-like protein
+PGF_02896943	Microtetraspora	280.00	7.18	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)
+PGF_02897543	Microtetraspora	178.20	0.45	Phospholipid-binding protein
+PGF_02898096	Microtetraspora	487.60	0.89	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02898176	Microtetraspora	218.80	1.79	Methionine ABC transporter permease protein
+PGF_02898859	Microtetraspora	436.40	15.44	FIG006762: Phosphoglycerate mutase family
+PGF_02898874	Microtetraspora	137.00	2.24	Putative response regulator
+PGF_02899131	Microtetraspora	77.40	1.34	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Microtetraspora	786.00	6.16	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02909952	Microtetraspora	259.20	5.22	putative lipoprotein
+PGF_02912272	Microtetraspora	176.40	12.07	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02919689	Microtetraspora	271.20	13.54	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Microtetraspora	265.80	2.68	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02927448	Microtetraspora	181.40	10.78	FIG00820146: hypothetical protein
+PGF_02930391	Microtetraspora	966.40	17.07	UPF0182 protein AF1421
+PGF_02931322	Microtetraspora	329.00	0.00	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02938730	Microtetraspora	325.80	2.39	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02944588	Microtetraspora	776.00	37.12	Na(+)-dependent bicarbonate transporter BicA / Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_02959749	Microtetraspora	409.40	10.43	Ribonuclease D (EC 3.1.26.3)
+PGF_02980852	Microtetraspora	323.60	10.50	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02982225	Microtetraspora	265.20	8.93	SAM-dependent methyltransferase
+PGF_02997723	Microtetraspora	157.20	2.68	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03014477	Microtetraspora	446.60	6.88	Uncharacterized ABC1 family protein SCO5192
+PGF_03017978	Microtetraspora	201.20	4.38	Septum formation protein Maf
+PGF_03022389	Microtetraspora	116.60	8.76	Protein of unknown function UPF0060
+PGF_03029489	Microtetraspora	240.00	2.24	GlnR-family transcriptional regulator
+PGF_03029859	Microtetraspora	613.80	8.96	Bis-ABC ATPase Uup
+PGF_03030703	Microtetraspora	583.20	90.46	Bis-ABC ATPase SCO6742
+PGF_03036396	Microtetraspora	406.20	8.76	Integral membrane protein
+PGF_03038172	Microtetraspora	80.00	2.24	Mycoredoxin (EC 1.20.4.3)
+PGF_03048591	Microtetraspora	165.00	5.96	Integral membrane protein
+PGF_03057384	Microtetraspora	356.60	7.50	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03058789	Microtetraspora	387.60	1.95	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03069524	Microtetraspora	91.20	9.68	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03070587	Microtetraspora	407.40	10.99	Ornithine aminotransferase (EC 2.6.1.13)
+PGF_03072132	Microtetraspora	158.40	3.58	CarD-like transcriptional regulator
+PGF_03075401	Microtetraspora	156.00	8.94	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Microtetraspora	95.20	0.45	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03087517	Microtetraspora	333.20	0.45	4-hydroxyproline epimerase (EC 5.1.1.8)
+PGF_03104288	Microtetraspora	327.80	60.19	hypothetical protein
+PGF_03111988	Microtetraspora	300.40	30.53	Cell division initiation protein DivIVA
+PGF_03124146	Microtetraspora	609.40	174.64	N-acetylneuraminate synthase (EC 2.5.1.56)
+PGF_03127349	Microtetraspora	342.80	39.80	Late competence protein ComEA, DNA receptor
+PGF_03128867	Microtetraspora	297.40	0.89	1-pyrroline-4-hydroxy-2-carboxylate deaminase (EC 3.5.4.22)
+PGF_03132336	Microtetraspora	419.80	4.02	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03147273	Microtetraspora	147.80	0.45	Nitrite-sensitive transcriptional repressor NsrR
+PGF_03152833	Microtetraspora	319.60	20.74	Ku domain protein
+PGF_03161859	Microtetraspora	367.00	1.00	Calcium/proton antiporter
+PGF_03174068	Microtetraspora	264.80	19.68	Transcription antitermination protein NusG
+PGF_03187392	Microtetraspora	299.80	1.79	Fructokinase (EC 2.7.1.4)
+PGF_03222913	Microtetraspora	131.20	4.02	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03272313	Microtetraspora	837.80	10.73	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277153	Microtetraspora	98.80	1.64	Sulfur metabolism protein SseC
+PGF_03281015	Microtetraspora	251.80	39.80	Acetyltransferase
+PGF_03291811	Microtetraspora	333.40	2.19	Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE32
+PGF_03331181	Microtetraspora	462.20	28.62	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)
+PGF_03365856	Microtetraspora	1229.20	59.54	Error-prone repair homolog of DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_03439827	Microtetraspora	410.00	0.00	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03470321	Microtetraspora	192.20	4.92	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03507859	Microtetraspora	352.40	8.26	Luciferase-like monooxygenase YhbW
+PGF_03518570	Microtetraspora	136.20	0.45	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03558934	Microtetraspora	279.80	9.86	hypothetical protein
+PGF_03574598	Microtetraspora	350.80	6.26	Lon-like protease with PDZ domain
+PGF_03584110	Microtetraspora	50.20	0.45	FIG011121: hypothetical protein
+PGF_03589570	Microtetraspora	107.60	0.89	hypothetical protein
+PGF_03591205	Microtetraspora	443.60	40.48	Serine/threonine phosphatase PPP (EC 3.1.3.16)
+PGF_03592453	Microtetraspora	212.00	4.47	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_03609651	Microtetraspora	569.20	33.55	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03642571	Microtetraspora	388.00	2.83	Similarity with glutathionylspermidine synthase (EC 6.3.1.8), group 1
+PGF_03645749	Microtetraspora	203.20	67.53	hypothetical protein
+PGF_03647550	Microtetraspora	163.00	0.00	UPF0234 protein Yitk
+PGF_03652487	Microtetraspora	430.60	1.95	Aminotransferase, class I and II
+PGF_03663954	Microtetraspora	137.20	1.79	Sporulation-specific cell division protein SsgB
+PGF_03674577	Microtetraspora	333.00	14.68	Cytochrome c-type biogenesis protein CcsA/ResC
+PGF_03701810	Microtetraspora	300.20	2.68	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Microtetraspora	89.00	5.52	Protein translocase subunit SecE
+PGF_03723827	Microtetraspora	154.00	6.71	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03739563	Microtetraspora	119.20	4.02	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03744900	Microtetraspora	358.40	8.11	Cell wall-associated hydrolases (invasion-associated proteins)
+PGF_03750571	Microtetraspora	525.20	37.35	Chromosomal replication initiator protein DnaA
+PGF_03750600	Microtetraspora	154.40	7.60	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03752544	Microtetraspora	217.60	4.77	Phosphate transport system regulatory protein PhoU
+PGF_03757137	Microtetraspora	471.80	1.79	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778127	Microtetraspora	158.20	9.39	FHA-domain-containing protein
+PGF_03778780	Microtetraspora	401.40	8.38	Signal recognition particle receptor FtsY
+PGF_03783620	Microtetraspora	176.60	0.89	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Microtetraspora	254.80	12.13	Ribonuclease III (EC 3.1.26.3)
+PGF_03801195	Microtetraspora	236.40	3.13	Putative amidotransferase similar to cobyric acid synthase
+PGF_03801201	Microtetraspora	265.00	2.24	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Microtetraspora	73.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03810115	Microtetraspora	258.40	0.89	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03862500	Microtetraspora	212.00	4.36	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03912513	Microtetraspora	155.20	0.45	DNA protection during starvation protein
+PGF_03991729	Microtetraspora	404.20	1.79	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04002906	Microtetraspora	94.60	3.13	Protein of unknown function DUF4031
+PGF_04009106	Microtetraspora	143.60	11.06	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Microtetraspora	493.20	6.50	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04036472	Microtetraspora	79.80	0.45	KH domain RNA binding protein YlqC
+PGF_04047265	Microtetraspora	81.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04059154	Microtetraspora	229.80	8.50	DNA alkylation repair enzyme
+PGF_04094270	Microtetraspora	221.80	0.45	TrkA-like protein
+PGF_04126481	Microtetraspora	630.20	13.86	Squalene---hopene cyclase (EC 5.4.99.17) @ Squalene---hopanol cyclase (EC 4.2.1.129)
+PGF_04127376	Microtetraspora	288.40	8.20	Twin-arginine translocation protein TatC
+PGF_04151476	Microtetraspora	174.40	5.37	16S rRNA processing protein RimM
+PGF_04163139	Microtetraspora	253.60	23.39	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Microtetraspora	229.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04198961	Microtetraspora	284.00	48.08	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04213876	Microtetraspora	262.60	3.71	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04251642	Microtetraspora	142.00	0.00	(3R)-hydroxyacyl-ACP dehydratase subunit HadB
+PGF_04255549	Microtetraspora	366.40	137.74	hypothetical protein
+PGF_04256257	Microtetraspora	467.60	3.05	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04310056	Microtetraspora	310.40	17.88	Acyltransferase family protein
+PGF_04345693	Microtetraspora	482.00	0.00	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Microtetraspora	936.20	3.03	Protein translocase subunit SecA
+PGF_04457297	Microtetraspora	191.60	1.34	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458521	Microtetraspora	451.60	7.80	Squalene/phytoene desaturase HopC
+PGF_04469179	Microtetraspora	160.80	5.54	Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase
+PGF_04492225	Microtetraspora	224.60	7.64	ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines)
+PGF_04505269	Microtetraspora	301.80	8.32	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Microtetraspora	459.00	8.40	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560184	Microtetraspora	497.40	13.20	hypothetical protein
+PGF_04560429	Microtetraspora	402.00	11.18	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Microtetraspora	545.80	6.61	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04593495	Microtetraspora	296.20	106.52	hypothetical protein
+PGF_04662829	Microtetraspora	652.80	12.97	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04679223	Microtetraspora	147.60	19.23	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04704185	Microtetraspora	466.20	7.16	NAD(P)H quinone reductase LpdA (EC 1.6.5.2)
+PGF_04788810	Microtetraspora	199.60	0.89	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Microtetraspora	301.40	7.09	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04837214	Microtetraspora	68.00	2.24	DNA binding domain, excisionase family
+PGF_04845029	Microtetraspora	114.20	15.21	LSU ribosomal protein L19p
+PGF_04866046	Microtetraspora	665.60	4.98	Uncharacterized protein YyaL
+PGF_04913120	Microtetraspora	1213.00	8.86	Aerobic cobaltochelatase CobN subunit (EC 6.6.1.2)
+PGF_04970608	Microtetraspora	87.60	1.34	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Microtetraspora	104.40	0.89	LSU ribosomal protein L21p
+PGF_05053989	Microtetraspora	357.80	3.27	ATP-dependent DNA ligase (EC 6.5.1.1) LigC
+PGF_05091456	Microtetraspora	309.20	13.86	Uncharacterized inner membrane protein RarD
+PGF_05109279	Microtetraspora	75.20	9.39	hypothetical protein
+PGF_05135220	Microtetraspora	847.00	60.37	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Microtetraspora	312.00	6.16	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Microtetraspora	475.80	1.79	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Microtetraspora	460.80	4.02	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05207025	Microtetraspora	172.80	12.24	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_05296102	Microtetraspora	301.80	4.02	Acetyl-CoA:Cys-GlcN-Ins acetyltransferase, mycothiol synthase MshD (EC 2.3.1.189)
+PGF_05366548	Microtetraspora	281.40	1.67	Methionine ABC transporter substrate-binding protein
+PGF_05442673	Microtetraspora	227.60	33.23	hypothetical protein
+PGF_05454161	Microtetraspora	93.00	8.94	hypothetical protein
+PGF_05463076	Microtetraspora	477.20	7.16	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05466290	Microtetraspora	252.20	0.45	Succinate dehydrogenase cytochrome b subunit
+PGF_05469576	Microtetraspora	229.80	8.01	2-phospho-L-lactate guanylyltransferase (EC 2.7.7.68)
+PGF_05560886	Microtetraspora	282.20	3.27	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05569177	Microtetraspora	251.60	3.58	CoA-transferase subunit beta, IpdB
+PGF_05595534	Microtetraspora	312.20	11.71	DNA polymerase I 5'-3' exonuclease domain
+PGF_05598173	Microtetraspora	395.00	10.89	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05613682	Microtetraspora	377.60	11.78	Putative ADP-ribosylglycohydrolase
+PGF_05657773	Microtetraspora	115.60	38.06	hypothetical protein
+PGF_05679920	Microtetraspora	1296.60	19.50	ATP-dependent helicase HrpA
+PGF_05710599	Microtetraspora	304.40	18.78	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05711018	Microtetraspora	196.00	1.87	Fructose-1,6-bisphosphatase, Mycobacterial type SUP1 (EC 3.1.3.11); Sugar phosphatase SUP1 (EC 3.1.3.23)
+PGF_05729472	Microtetraspora	1654.60	0.89	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05843198	Microtetraspora	255.00	28.62	FIG017108: hypothetical protein
+PGF_05934994	Microtetraspora	418.40	23.26	FIG002343: hypothetical protein
+PGF_05949521	Microtetraspora	570.60	6.31	Protein translocase subunit SecD
+PGF_05971611	Microtetraspora	401.00	4.47	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05988652	Microtetraspora	105.00	2.55	Type I antifreeze protein
+PGF_06005188	Microtetraspora	695.40	5.37	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06051345	Microtetraspora	945.60	17.70	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06051594	Microtetraspora	435.40	3.13	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06098633	Microtetraspora	414.60	4.67	Uncharacterized DUF349-containing protein SCO1511
+PGF_06161800	Microtetraspora	469.40	9.45	Putative oxidoreductase in 4-hydroxyproline catabolic gene cluster
+PGF_06180597	Microtetraspora	147.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Microtetraspora	499.60	9.84	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06241658	Microtetraspora	250.60	3.71	Probable enoyl-CoA hydratase EchA20 (EC 4.2.1.17)
+PGF_06285692	Microtetraspora	162.40	1.34	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06310118	Microtetraspora	369.40	24.83	ABC transporter, ATP-binding protein (cluster 13, osmolytes)
+PGF_06358631	Microtetraspora	148.00	4.12	hypothetical protein
+PGF_06379377	Microtetraspora	440.80	6.26	Replication-associated recombination protein RarA
+PGF_06403579	Microtetraspora	791.00	6.93	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06422869	Microtetraspora	546.80	291.89	hypothetical protein
+PGF_06469881	Microtetraspora	266.80	32.97	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06586947	Microtetraspora	404.00	2.24	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06594013	Microtetraspora	136.40	4.93	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06609275	Microtetraspora	54.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06649360	Microtetraspora	196.20	2.17	Segregation and condensation protein B
+PGF_06660812	Microtetraspora	195.40	0.89	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06684654	Microtetraspora	348.60	2.61	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_06690276	Microtetraspora	206.00	5.66	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Microtetraspora	114.20	1.79	Nucleoid-associated protein YaaK
+PGF_06701488	Microtetraspora	165.20	2.68	RNA-binding protein Jag
+PGF_06718352	Microtetraspora	168.60	6.39	Cys-tRNA(Pro) deacylase YbaK
+PGF_06735060	Microtetraspora	773.80	32.84	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Microtetraspora	395.80	1.79	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757690	Microtetraspora	792.80	38.60	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
+PGF_06765255	Microtetraspora	316.80	4.09	Guanidinobutyrase (EC 3.5.3.7)
+PGF_06772993	Microtetraspora	1012.60	143.88	Ribonuclease E (EC 3.1.26.12)
+PGF_06799953	Microtetraspora	232.40	2.51	COG2071: predicted glutamine amidotransferases in hypothetical Actinobacterial gene cluster
+PGF_06948903	Microtetraspora	78.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_07242312	Microtetraspora	682.80	8.29	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_08074612	Microtetraspora	252.60	14.76	Adenylate cyclase (EC 4.6.1.1)
+PGF_08082848	Microtetraspora	412.60	5.37	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08113889	Microtetraspora	128.40	0.89	hypothetical protein
+PGF_08117870	Microtetraspora	104.20	0.45	Ferredoxin, 2Fe-2S
+PGF_08125688	Microtetraspora	331.40	5.81	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_08127242	Microtetraspora	382.20	2.68	Glutamine-dependent 2-keto-4-methylthiobutyrate transaminase
+PGF_08153353	Microtetraspora	290.00	4.47	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_08178007	Microtetraspora	254.80	0.45	Efflux ABC transporter, permease protein
+PGF_08183187	Microtetraspora	426.60	1.52	Cell division protein FtsW
+PGF_08197987	Microtetraspora	117.20	0.45	Iron-sulfur cluster insertion protein SCO2161

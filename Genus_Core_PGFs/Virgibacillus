@@ -1,0 +1,685 @@
+PGF_00000027	Virgibacillus	264.76	0.54	Uncharacterized protein YmdB
+PGF_00000185	Virgibacillus	294.71	8.66	FIG006988: Lipase/Acylhydrolase with GDSL-like motif
+PGF_00000189	Virgibacillus	301.36	46.38	Uncharacterized protein YlxY
+PGF_00000196	Virgibacillus	405.24	6.07	FIG007079: UPF0348 protein family
+PGF_00000286	Virgibacillus	99.57	0.93	FIG007421: forespore shell protein
+PGF_00000416	Virgibacillus	345.43	62.19	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001028	Virgibacillus	427.19	0.60	Uncharacterized zinc protease YmfH
+PGF_00001047	Virgibacillus	419.81	2.23	FIG009300: TPR-repeat-containing protein
+PGF_00001219	Virgibacillus	105.14	0.48	FIG009688: Thioredoxin
+PGF_00002047	Virgibacillus	117.05	0.50	Uncharacterized protein YojF
+PGF_00002299	Virgibacillus	111.52	6.98	FIG012070: hypothetical protein
+PGF_00002359	Virgibacillus	145.29	6.18	UPF0403 protein YqiW
+PGF_00002451	Virgibacillus	222.86	1.88	N-acetylglucosaminyl-L-malate N-acetyl hydrolase
+PGF_00003485	Virgibacillus	245.38	4.07	Uncharacterized protein YabS
+PGF_00003516	Virgibacillus	365.45	25.36	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004058	Virgibacillus	195.52	4.19	Fatty acid metabolism regulator protein FadR, TetR family
+PGF_00004728	Virgibacillus	560.86	41.54	Fibronectin/fibrinogen-binding protein
+PGF_00005241	Virgibacillus	404.62	1.60	ABC transporter, permease protein EscB
+PGF_00006392	Virgibacillus	283.52	50.54	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006461	Virgibacillus	442.74	86.92	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Virgibacillus	511.86	3.21	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Virgibacillus	349.30	66.63	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Virgibacillus	418.09	64.49	GTP-binding protein EngA
+PGF_00007026	Virgibacillus	194.77	2.93	GTP-binding protein EngB
+PGF_00007027	Virgibacillus	300.32	1.52	GTP-binding protein Era
+PGF_00007041	Virgibacillus	581.13	99.24	GTP-binding protein TypA/BipA
+PGF_00007045	Virgibacillus	259.00	0.00	GTP-sensing transcriptional pleiotropic repressor codY
+PGF_00007057	Virgibacillus	438.26	70.03	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Virgibacillus	290.95	3.55	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007479	Virgibacillus	124.76	3.13	General stress protein 13
+PGF_00007481	Virgibacillus	171.18	0.73	ThiJ/PfpI family protein YhbO
+PGF_00007560	Virgibacillus	356.90	3.33	Germination (Cortex hydrolysis) and sporulation protein GerM
+PGF_00007632	Virgibacillus	326.00	4.21	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007844	Virgibacillus	323.74	19.74	Glucokinase (EC 2.7.1.2)
+PGF_00007988	Virgibacillus	457.91	30.25	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Virgibacillus	449.41	3.46	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008106	Virgibacillus	271.64	3.03	Glutamate racemase (EC 5.1.1.3)
+PGF_00008269	Virgibacillus	199.86	0.48	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008329	Virgibacillus	355.00	0.32	Glutamyl aminopeptidase (EC 3.4.11.7); Deblocking aminopeptidase
+PGF_00008334	Virgibacillus	454.36	7.02	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Virgibacillus	488.71	0.96	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008611	Virgibacillus	344.95	4.98	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Virgibacillus	225.91	41.01	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Virgibacillus	187.82	14.41	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009760	Virgibacillus	360.14	64.88	UDP-N-acetylglucosamine:L-malate glycosyltransferase
+PGF_00009967	Virgibacillus	294.91	5.45	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Virgibacillus	662.70	101.91	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Virgibacillus	240.09	41.58	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Virgibacillus	205.68	2.12	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Virgibacillus	769.61	142.85	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011098	Virgibacillus	449.14	6.81	Helicase loader DnaB
+PGF_00011246	Virgibacillus	272.95	1.36	HemX protein, negative effector of steady-state concentration of glutamyl-tRNA reductase
+PGF_00011536	Virgibacillus	255.67	9.26	Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)
+PGF_00011541	Virgibacillus	322.86	0.65	Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)
+PGF_00011542	Virgibacillus	228.86	1.15	Heptaprenylglyceryl phosphate synthase (EC 2.5.1.n9)
+PGF_00011953	Virgibacillus	143.95	4.58	Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+PGF_00011979	Virgibacillus	410.57	63.19	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Virgibacillus	331.43	16.33	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Virgibacillus	298.19	2.75	Homoserine kinase (EC 2.7.1.39)
+PGF_00012639	Virgibacillus	262.95	0.22	FIG00003568: ACT domain protein
+PGF_00012652	Virgibacillus	171.43	0.68	FIG001553: Hydrolase, HAD subfamily IIIA
+PGF_00013207	Virgibacillus	321.29	31.01	Uncharacterized membrane protein YfhP
+PGF_00013283	Virgibacillus	226.65	5.59	UPF0001 protein YggS
+PGF_00013347	Virgibacillus	88.62	0.74	UPF0297 protein YrzL
+PGF_00013492	Virgibacillus	180.95	2.79	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Virgibacillus	510.77	4.26	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Virgibacillus	194.23	0.69	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Virgibacillus	263.55	2.63	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Virgibacillus	489.14	0.56	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Virgibacillus	242.27	10.02	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Virgibacillus	69.41	2.97	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Virgibacillus	286.95	1.91	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Virgibacillus	260.45	2.34	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Virgibacillus	468.23	6.09	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Virgibacillus	435.19	0.40	Iron-sulfur cluster assembly protein SufD
+PGF_00015686	Virgibacillus	451.29	48.23	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015701	Virgibacillus	422.86	0.65	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015737	Virgibacillus	349.90	2.39	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00015855	Virgibacillus	345.68	3.36	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016082	Virgibacillus	463.77	0.97	L-cystine uptake protein TcyP, sodium:anion symporter family
+PGF_00016083	Virgibacillus	128.57	1.65	L-ectoine synthase (EC 4.2.1.108)
+PGF_00016328	Virgibacillus	166.41	0.96	LSU ribosomal protein L10p (P0)
+PGF_00016338	Virgibacillus	425.23	1.27	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Virgibacillus	122.05	0.21	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Virgibacillus	145.82	0.50	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Virgibacillus	143.68	1.49	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Virgibacillus	117.59	2.20	LSU ribosomal protein L17p
+PGF_00016353	Virgibacillus	120.14	1.04	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Virgibacillus	230.64	0.85	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Virgibacillus	117.91	0.29	LSU ribosomal protein L20p
+PGF_00016368	Virgibacillus	112.86	0.64	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Virgibacillus	95.14	0.71	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Virgibacillus	103.82	3.62	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Virgibacillus	95.36	2.40	LSU ribosomal protein L27p
+PGF_00016393	Virgibacillus	276.14	0.47	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Virgibacillus	60.05	0.21	LSU ribosomal protein L30p (L7e)
+PGF_00016423	Virgibacillus	64.95	0.38	LSU ribosomal protein L35p
+PGF_00016424	Virgibacillus	37.86	0.36	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Virgibacillus	209.18	0.66	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Virgibacillus	206.77	1.07	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Virgibacillus	179.41	0.50	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Virgibacillus	178.18	0.66	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Virgibacillus	121.18	0.50	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Virgibacillus	148.14	0.35	LSU ribosomal protein L9p
+PGF_00016495	Virgibacillus	254.14	2.27	Lactam utilization protein LamB
+PGF_00016739	Virgibacillus	322.43	45.55	Late competence protein ComGA, access of DNA to ComEA
+PGF_00017227	Virgibacillus	596.95	15.36	ATP-dependent DNA ligase (EC 6.5.1.1) clustered with Ku protein, LigD
+PGF_00017608	Virgibacillus	170.33	1.39	Low temperature requirement C protein
+PGF_00018944	Virgibacillus	69.95	9.47	Major transcriptional regulator of spore coat formation GerE
+PGF_00019038	Virgibacillus	463.36	5.88	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019221	Virgibacillus	1239.52	2.96	ATP-dependent helicase/nuclease AddAB, subunit A
+PGF_00019248	Virgibacillus	309.52	0.51	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019427	Virgibacillus	110.19	7.88	MazG nucleotide pyrophosphohydrolase
+PGF_00019428	Virgibacillus	180.23	2.20	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020147	Virgibacillus	365.57	1.50	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020272	Virgibacillus	247.73	38.84	Menaquinone-cytochrome C oxidoreductase, cytochrome C subunit
+PGF_00020273	Virgibacillus	170.24	1.34	Menaquinone-cytochrome C reductase iron-sulfur subunit
+PGF_00020275	Virgibacillus	224.00	0.00	Menaquinone-cytochrome c reductase, cytochrome B subunit
+PGF_00020361	Virgibacillus	154.77	1.11	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020984	Virgibacillus	285.23	2.27	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021217	Virgibacillus	512.45	2.84	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00023591	Virgibacillus	336.95	2.75	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00024273	Virgibacillus	162.18	2.20	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Virgibacillus	358.30	67.16	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Virgibacillus	248.71	6.15	NAD synthetase (EC 6.3.1.5)
+PGF_00024505	Virgibacillus	425.19	2.62	NAD-specific glutamate dehydrogenase (EC 1.4.1.2)
+PGF_00024567	Virgibacillus	395.57	0.75	Acetate kinase (EC 2.7.2.1)
+PGF_00025090	Virgibacillus	573.27	1.32	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Virgibacillus	169.59	9.72	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025410	Virgibacillus	229.90	3.95	Negative regulator of genetic competence MecA
+PGF_00025600	Virgibacillus	383.55	35.11	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026279	Virgibacillus	320.09	2.84	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Virgibacillus	199.23	2.64	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Virgibacillus	286.95	6.41	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026864	Virgibacillus	282.67	2.44	Octanoyl-[GcvH]:protein N-octanoyltransferase (EC 2.3.1.204)
+PGF_00027684	Virgibacillus	216.71	1.55	Acetyltransferase AcuA, acetyl-CoA synthetase inhibitor
+PGF_00028472	Virgibacillus	183.59	23.43	Outer spore coat protein CotE
+PGF_00029917	Virgibacillus	285.36	8.58	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Virgibacillus	356.36	1.22	Peptide chain release factor 1
+PGF_00031568	Virgibacillus	147.76	1.64	Peroxide stress regulator PerR, FUR family
+PGF_00033092	Virgibacillus	120.90	0.44	Phenylalanyl-tRNA synthetase alpha subunit
+PGF_00033197	Virgibacillus	323.00	1.67	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Virgibacillus	322.73	9.49	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Virgibacillus	303.92	37.24	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Virgibacillus	321.57	54.71	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Virgibacillus	328.95	6.99	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033411	Virgibacillus	267.41	2.75	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Virgibacillus	568.09	88.77	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033444	Virgibacillus	656.24	1.30	Cyclic-di-AMP phosphodiesterase GdpP
+PGF_00033511	Virgibacillus	392.82	1.37	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033877	Virgibacillus	158.36	3.77	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Virgibacillus	395.05	6.39	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033928	Virgibacillus	418.95	6.37	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033941	Virgibacillus	206.59	5.83	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Virgibacillus	239.91	6.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Virgibacillus	341.05	5.20	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033961	Virgibacillus	708.27	113.81	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Virgibacillus	184.26	33.02	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034776	Virgibacillus	705.00	1.88	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Virgibacillus	170.55	2.34	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Virgibacillus	338.18	55.60	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00036580	Virgibacillus	87.05	5.15	Protein translocase subunit YajC
+PGF_00036997	Virgibacillus	514.23	81.00	Probable cell division protein YtgP
+PGF_00037334	Virgibacillus	312.76	2.12	Serine/threonine-protein kinase YabT (EC 2.7.11.1)
+PGF_00037481	Virgibacillus	94.29	9.83	Programmed cell death antitoxin YdcD
+PGF_00037586	Virgibacillus	478.95	0.38	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00038619	Virgibacillus	253.76	3.52	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+PGF_00038653	Virgibacillus	753.81	3.11	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038971	Virgibacillus	271.43	3.76	Pur operon repressor PurR
+PGF_00038987	Virgibacillus	235.45	1.79	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039149	Virgibacillus	354.10	0.83	Putative ATP:guanido phosphotransferase YacI (EC 2.7.3.-)
+PGF_00039842	Virgibacillus	240.05	2.60	Putative acetyl esterase YjcH (EC 3.1.1.-)
+PGF_00039997	Virgibacillus	172.62	3.23	Putative acetyltransferase YvoF
+PGF_00040334	Virgibacillus	230.71	1.23	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PGF_00040464	Virgibacillus	361.82	62.10	Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
+PGF_00040578	Virgibacillus	256.61	5.80	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040606	Virgibacillus	130.81	2.02	Alkaline shock protein
+PGF_00041788	Virgibacillus	143.95	0.67	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00041946	Virgibacillus	339.67	3.92	Putative membrane protein YeiH
+PGF_00042022	Virgibacillus	443.81	3.59	Putative membrane-bound ClpP-class protease associated with aq_911
+PGF_00042913	Virgibacillus	289.86	5.40	Sporulation-specific protease YabG
+PGF_00045788	Virgibacillus	293.57	1.75	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045926	Virgibacillus	434.19	0.51	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045994	Virgibacillus	559.09	87.62	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00046197	Virgibacillus	273.50	8.09	RNA binding methyltransferase FtsJ like
+PGF_00046350	Virgibacillus	260.10	13.32	RNA polymerase sigma factor SigB
+PGF_00046551	Virgibacillus	239.19	0.51	RNA polymerase sporulation specific sigma factor SigE
+PGF_00046553	Virgibacillus	260.05	0.92	RNA polymerase sporulation specific sigma factor SigG
+PGF_00046555	Virgibacillus	216.76	4.47	RNA polymerase sporulation specific sigma factor SigH
+PGF_00046622	Virgibacillus	74.59	1.92	RNA-binding protein Hfq
+PGF_00048331	Virgibacillus	322.81	0.81	Rhodanese domain protein UPF0176, Firmicutes subgroup
+PGF_00048480	Virgibacillus	214.95	4.29	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Virgibacillus	255.18	14.39	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048557	Virgibacillus	310.48	1.50	Ribonuclease HIII (EC 3.1.26.4)
+PGF_00048564	Virgibacillus	554.68	1.49	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PGF_00048566	Virgibacillus	190.24	3.59	Ribonuclease M5 (EC 3.1.26.8)
+PGF_00048586	Virgibacillus	250.36	9.07	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Virgibacillus	305.43	1.47	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048643	Virgibacillus	158.45	10.86	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Virgibacillus	316.91	0.95	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Virgibacillus	247.55	9.01	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Virgibacillus	312.91	5.34	Ribosomal protein L11 methyltransferase
+PGF_00048868	Virgibacillus	237.86	1.96	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Virgibacillus	181.27	17.76	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Virgibacillus	182.95	1.46	Ribosome recycling factor
+PGF_00048928	Virgibacillus	294.95	10.77	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048932	Virgibacillus	86.29	1.23	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Virgibacillus	114.55	5.40	Ribosome-binding factor A
+PGF_00048985	Virgibacillus	219.39	2.33	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049245	Virgibacillus	118.00	0.00	RsbS, negative regulator of sigma-B
+PGF_00049362	Virgibacillus	333.30	46.37	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049731	Virgibacillus	393.59	66.85	Aluminum resistance protein
+PGF_00049827	Virgibacillus	292.73	5.52	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Virgibacillus	102.05	0.21	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Virgibacillus	129.36	0.66	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Virgibacillus	136.82	2.94	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Virgibacillus	120.86	0.64	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Virgibacillus	89.64	2.98	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Virgibacillus	90.14	2.10	SSU ribosomal protein S16p
+PGF_00049854	Virgibacillus	86.95	0.21	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Virgibacillus	76.05	0.49	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Virgibacillus	91.95	0.21	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Virgibacillus	214.09	4.14	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Virgibacillus	166.23	3.41	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Virgibacillus	97.86	8.97	SSU ribosomal protein S6p
+PGF_00049904	Virgibacillus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Virgibacillus	131.95	0.49	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Virgibacillus	129.95	0.21	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Virgibacillus	248.09	12.89	Segregation and condensation protein A
+PGF_00050579	Virgibacillus	589.62	2.58	Sensor histidine kinase ResE (EC 2.7.13.3)
+PGF_00050712	Virgibacillus	379.62	0.97	Sensor protein DegS
+PGF_00050995	Virgibacillus	471.05	8.48	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051108	Virgibacillus	564.00	1.84	Septation ring formation regulator EzrA
+PGF_00051120	Virgibacillus	229.86	4.61	Septum site-determining protein MinC
+PGF_00052218	Virgibacillus	106.90	1.34	Signal recognition particle associated protein
+PGF_00052238	Virgibacillus	448.77	5.95	Signal recognition particle protein Ffh
+PGF_00052905	Virgibacillus	212.90	7.25	Site-specific recombinase, resolvase family
+PGF_00052943	Virgibacillus	297.09	4.24	Site-specific tyrosine recombinase XerD
+PGF_00053035	Virgibacillus	58.86	2.76	Small acid-soluble spore protein
+PGF_00053877	Virgibacillus	273.48	8.22	Spore cortex-lytic enzyme, lytic transglycosylase SleB
+PGF_00053878	Virgibacillus	352.32	58.46	Spore germination endopeptidase Gpr (EC 3.4.24.78)
+PGF_00053892	Virgibacillus	447.33	1.98	Spore germination protein YpeB
+PGF_00053894	Virgibacillus	184.55	31.22	Spore maturation protein A
+PGF_00053897	Virgibacillus	175.05	5.31	Spore maturation protein B
+PGF_00053909	Virgibacillus	156.86	10.20	Spore protein GerW (YtfJ), not involved in spore germination
+PGF_00053991	Virgibacillus	269.43	21.41	Stage 0 sporulation protein YaaT
+PGF_00053997	Virgibacillus	258.95	1.32	Stage 0 sporulation two-component response regulator (Spo0A)
+PGF_00054013	Virgibacillus	211.71	0.85	Stage II sporulation protein M (SpoIIM)
+PGF_00054034	Virgibacillus	210.14	20.75	Stage II sporulation protein required for processing of pro-sigma-E (SpoIIR)
+PGF_00054038	Virgibacillus	315.62	10.06	Stage III sporulation protein AA
+PGF_00054046	Virgibacillus	67.95	0.22	Stage III sporulation protein AC
+PGF_00054049	Virgibacillus	129.81	0.68	Stage III sporulation protein AD
+PGF_00054051	Virgibacillus	383.86	48.40	Stage III sporulation protein AE
+PGF_00054072	Virgibacillus	189.24	7.95	Stage III sporulation protein AH
+PGF_00054075	Virgibacillus	91.77	7.33	Stage III sporulation protein D
+PGF_00054087	Virgibacillus	492.00	0.00	Stage IV sporulation protein A
+PGF_00054088	Virgibacillus	420.14	14.18	Stage IV sporulation protein B
+PGF_00054097	Virgibacillus	158.76	0.89	Stage V sporulation protein AC (SpoVAC)
+PGF_00054098	Virgibacillus	321.36	49.84	Stage V sporulation protein AD (SpoVAD)
+PGF_00054100	Virgibacillus	116.19	0.51	Stage V sporulation protein AE1 (SpoVAE1)
+PGF_00054103	Virgibacillus	493.29	2.51	Stage V sporulation protein AF (SpoVAF)
+PGF_00054106	Virgibacillus	516.29	0.72	Stage V sporulation protein B
+PGF_00054118	Virgibacillus	86.14	0.36	Spore core dehydratation and coat assembly protein SpoVS
+PGF_00054134	Virgibacillus	306.57	1.86	Stage V sporulation protein SpoVK
+PGF_00054466	Virgibacillus	208.52	14.60	Succinate dehydrogenase cytochrome b558 subunit
+PGF_00054528	Virgibacillus	386.14	0.47	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00056634	Virgibacillus	166.00	0.00	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056662	Virgibacillus	324.17	56.42	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056802	Virgibacillus	106.38	1.99	Thioredoxin-like protein YdbP
+PGF_00056814	Virgibacillus	467.55	7.19	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Virgibacillus	206.24	1.51	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Virgibacillus	211.55	1.99	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Virgibacillus	313.14	15.91	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057019	Virgibacillus	133.10	0.44	Anti-sigma B factor RsbT
+PGF_00057127	Virgibacillus	146.33	0.48	Anti-sigma F factor (EC 2.7.11.1)
+PGF_00057198	Virgibacillus	116.95	0.22	Anti-sigma F factor antagonist
+PGF_00057402	Virgibacillus	148.52	0.68	Transamidase GatB domain protein
+PGF_00057440	Virgibacillus	194.90	3.95	Transcription factor FapR
+PGF_00057451	Virgibacillus	111.76	2.10	Transcription regulator CDS_ID OB0894
+PGF_00057483	Virgibacillus	426.45	2.24	Transcription termination factor Rho
+PGF_00057485	Virgibacillus	373.14	27.84	Transcription termination protein NusA
+PGF_00057488	Virgibacillus	128.36	9.12	Transcription termination protein NusB
+PGF_00058523	Virgibacillus	229.86	1.39	Transcriptional regulator DegU, LuxR family
+PGF_00060261	Virgibacillus	166.05	30.53	Transcriptional repressor for NAD biosynthesis in gram-positives
+PGF_00060409	Virgibacillus	692.64	2.98	Translation elongation factor G
+PGF_00060414	Virgibacillus	602.59	1.71	Translation elongation factor LepA
+PGF_00060421	Virgibacillus	185.23	0.75	Translation elongation factor P
+PGF_00060427	Virgibacillus	293.73	1.08	Translation elongation factor Ts
+PGF_00060428	Virgibacillus	396.00	0.31	Translation elongation factor Tu
+PGF_00060431	Virgibacillus	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Virgibacillus	170.61	14.48	Translation initiation factor 3
+PGF_00060487	Virgibacillus	243.43	2.06	Translocation-enhancing protein TepA
+PGF_00060799	Virgibacillus	281.71	38.44	Uncharacterized UPF0750 membrane protein YpjC
+PGF_00062023	Virgibacillus	260.05	4.01	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Virgibacillus	399.13	3.38	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Virgibacillus	332.78	3.95	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Virgibacillus	403.09	79.56	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063974	Virgibacillus	306.45	7.24	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Virgibacillus	356.91	2.45	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Virgibacillus	437.23	12.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064251	Virgibacillus	370.78	59.48	UPF0229 protein YeaH
+PGF_00064359	Virgibacillus	149.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064587	Virgibacillus	158.33	7.36	Uncharacterized N-acetyltransferase BT9727_3663 (EC 2.3.1.-)
+PGF_00064857	Virgibacillus	305.33	0.80	Uncharacterized oxidoreductase YqkF
+PGF_00065380	Virgibacillus	476.71	2.57	Uncharacterized protein YaaO
+PGF_00066123	Virgibacillus	199.78	31.07	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Virgibacillus	182.24	6.25	Pyrimidine operon regulatory protein PyrR
+PGF_00066270	Virgibacillus	345.23	2.00	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Virgibacillus	903.86	92.01	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Virgibacillus	408.73	75.66	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066906	Virgibacillus	310.00	8.55	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Virgibacillus	431.41	12.14	Uracil permease @ Uracil:proton symporter UraA
+PGF_00067188	Virgibacillus	351.00	5.40	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067378	Virgibacillus	253.62	2.62	Putative esterase YitV
+PGF_00067554	Virgibacillus	476.32	1.73	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00070561	Virgibacillus	147.10	1.58	BH3430 unknown conserved protein
+PGF_00192883	Virgibacillus	265.90	1.09	Uncharacterized protein YfkD
+PGF_00213073	Virgibacillus	250.43	24.90	2-hydroxychromene-2-carboxylate isomerase/DsbA-like thioredoxin domain
+PGF_00219472	Virgibacillus	252.24	1.34	UPF0736 protein YjbA
+PGF_00246054	Virgibacillus	146.81	3.71	Uncharacterized protein YtoQ
+PGF_00247656	Virgibacillus	335.38	17.80	Putative membrane-bound acyltransferase YkrP
+PGF_00261173	Virgibacillus	370.23	3.29	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00271745	Virgibacillus	80.05	0.22	Uncharacterized membrane protein YqgY
+PGF_00309959	Virgibacillus	73.05	1.40	Small, acid-soluble spore protein I
+PGF_00346814	Virgibacillus	205.38	1.77	DUF1054 superfamily protein
+PGF_00350921	Virgibacillus	327.13	8.48	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00402090	Virgibacillus	339.52	9.18	outer membrane lipoprotein receptor
+PGF_00403691	Virgibacillus	481.52	1.08	possible tetrapyrrole methyltransferase domain / Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00404078	Virgibacillus	163.23	4.25	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404333	Virgibacillus	325.95	21.09	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404814	Virgibacillus	246.90	1.18	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404866	Virgibacillus	109.00	0.00	protein from nitrogen regulatory protein P-II (GLNB) family, ortholog YAAQ B. subtilis
+PGF_00406573	Virgibacillus	272.05	2.69	Putative phosphotransferase YtmP
+PGF_00406692	Virgibacillus	902.43	143.81	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00413203	Virgibacillus	157.82	4.07	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Virgibacillus	245.14	7.12	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Virgibacillus	247.86	17.09	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Virgibacillus	297.86	4.48	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Virgibacillus	450.76	1.09	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Virgibacillus	628.18	1.47	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Virgibacillus	155.68	7.25	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Virgibacillus	154.18	0.66	tmRNA-binding protein SmpB
+PGF_00414366	Virgibacillus	579.57	2.01	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414748	Virgibacillus	236.05	19.06	CAAX amino terminal protease family protein
+PGF_00414889	Virgibacillus	216.71	0.90	CBS domain protein AcuB
+PGF_00414926	Virgibacillus	400.05	5.04	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415631	Virgibacillus	92.71	0.78	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416025	Virgibacillus	171.95	0.74	2H phosphoesterase superfamily protein Bsu1186 (yjcG)
+PGF_00416115	Virgibacillus	312.78	1.17	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416674	Virgibacillus	305.13	107.38	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416683	Virgibacillus	331.73	1.52	Catabolite control protein A
+PGF_00417069	Virgibacillus	368.57	8.00	Cell division protein FtsW @ Stage V sporulation protein E
+PGF_00417093	Virgibacillus	103.33	1.93	Cell division protein GpsB, coordinates the switch between cylindrical and septal cell wall synthesis by re-localization of PBP1
+PGF_00417233	Virgibacillus	315.71	33.29	L-Ala--D-Glu endopeptidase
+PGF_00417381	Virgibacillus	340.90	1.81	Central glycolytic genes regulator
+PGF_00417429	Virgibacillus	373.22	7.54	Chaperone protein DnaJ
+PGF_00417433	Virgibacillus	613.50	6.95	Chaperone protein DnaK
+PGF_00417658	Virgibacillus	358.43	10.15	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Virgibacillus	370.09	67.42	Chorismate synthase (EC 4.2.3.5)
+PGF_00417995	Virgibacillus	230.24	3.37	Chromosome replication initiation protein DnaD
+PGF_00418737	Virgibacillus	447.95	80.63	ComF operon protein A, DNA transporter ATPase
+PGF_00419414	Virgibacillus	93.24	0.54	UPF0358 protein YlaN
+PGF_00419420	Virgibacillus	469.23	5.61	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419456	Virgibacillus	260.95	2.82	Conserved protein YqhG
+PGF_00419740	Virgibacillus	154.81	0.93	Transcriptional regulator CtsR
+PGF_00420087	Virgibacillus	175.86	3.28	Cysteinyl-tRNA synthetase related protein
+PGF_00420121	Virgibacillus	225.14	2.83	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420500	Virgibacillus	546.91	0.87	Cytochrome c-type biogenesis protein Ccs1/ResB
+PGF_00421071	Virgibacillus	147.86	1.13	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Virgibacillus	492.73	17.31	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Virgibacillus	1121.87	15.03	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Virgibacillus	377.55	2.40	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421624	Virgibacillus	573.90	5.64	DNA polymerase X family
+PGF_00421733	Virgibacillus	369.68	1.99	DNA recombination and repair protein RecF
+PGF_00421792	Virgibacillus	433.91	76.66	DNA repair protein RadA
+PGF_00421796	Virgibacillus	574.64	6.48	DNA repair protein RecN
+PGF_00421807	Virgibacillus	113.57	4.86	DNA replication intiation control protein YabA
+PGF_00422061	Virgibacillus	91.57	7.20	DNA-binding protein HBsu
+PGF_00422085	Virgibacillus	96.05	4.90	DNA-binding protein SpoVG
+PGF_00422186	Virgibacillus	237.90	0.30	DNA-binding response regulator ResD
+PGF_00422271	Virgibacillus	308.59	29.64	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422519	Virgibacillus	82.48	8.82	DUF378 domain-containing protein
+PGF_00423086	Virgibacillus	425.65	1.97	Diaminobutyrate--2-oxoglutarate transaminase (EC 2.6.1.76)
+PGF_00423089	Virgibacillus	359.55	45.74	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Virgibacillus	426.82	5.10	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Virgibacillus	121.09	1.87	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423378	Virgibacillus	414.43	14.15	Dihydroorotase (EC 3.5.2.3)
+PGF_00423429	Virgibacillus	544.50	40.33	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423472	Virgibacillus	920.00	57.52	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Virgibacillus	284.09	2.62	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423621	Virgibacillus	196.86	2.08	Dipicolinate synthase subunit B
+PGF_00424065	Virgibacillus	242.71	4.62	EcsC protein
+PGF_00424569	Virgibacillus	258.41	0.59	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Virgibacillus	569.96	95.00	Excinuclease ABC subunit C
+PGF_00425024	Virgibacillus	450.73	1.91	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Virgibacillus	1035.64	15.15	Exonuclease SbcC
+PGF_00425092	Virgibacillus	392.18	9.07	Exonuclease SbcD
+PGF_00425662	Virgibacillus	296.24	4.15	FIG00002411: Thioredoxin-fold protein
+PGF_00425665	Virgibacillus	267.55	5.47	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Virgibacillus	294.18	1.18	RNase adapter protein RapZ
+PGF_00425679	Virgibacillus	209.59	11.66	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Virgibacillus	242.41	5.73	Probable transcriptional regulatory protein YebC
+PGF_00425714	Virgibacillus	735.62	21.55	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425720	Virgibacillus	258.05	0.38	Putative RNA-binding protein YlmH
+PGF_00425729	Virgibacillus	432.29	3.13	FIG001621: Zinc protease
+PGF_00425734	Virgibacillus	120.05	0.22	FIG001802: Putative alkaline-shock protein
+PGF_00425747	Virgibacillus	139.00	6.65	SepF, FtsZ-interacting protein related to cell division
+PGF_00425786	Virgibacillus	520.33	0.66	Ribonuclease Y
+PGF_00425788	Virgibacillus	267.48	5.35	FIG002434: Uncharacterized protein YtpQ
+PGF_00425806	Virgibacillus	320.00	1.90	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425840	Virgibacillus	190.19	1.94	UPF0302 protein YpiB
+PGF_00425907	Virgibacillus	259.59	1.22	UPF0721 transmembrane protein YrkJ
+PGF_00425997	Virgibacillus	367.64	18.82	FIG004453: protein YceG like
+PGF_00426701	Virgibacillus	281.38	4.19	FIG005590: DegV family protein
+PGF_00426877	Virgibacillus	286.68	7.61	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Virgibacillus	155.41	1.37	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427033	Virgibacillus	72.76	0.89	UPF0154 protein YneF
+PGF_00438421	Virgibacillus	284.10	2.14	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00482828	Virgibacillus	446.91	6.57	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00549302	Virgibacillus	487.91	8.36	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00598888	Virgibacillus	135.43	4.71	Mini-ribonuclease III
+PGF_00618776	Virgibacillus	357.09	4.12	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Virgibacillus	337.86	12.81	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00650532	Virgibacillus	330.33	0.73	UPF0365 protein YqfA
+PGF_00656741	Virgibacillus	122.57	2.52	Protein RibT
+PGF_00659194	Virgibacillus	202.14	13.74	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Virgibacillus	117.59	1.26	Ribosomal silencing factor RsfA
+PGF_00667256	Virgibacillus	244.95	46.58	Hypothetical NagD-like phosphatase
+PGF_00694978	Virgibacillus	267.67	4.98	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00721110	Virgibacillus	78.33	1.53	Uncharacterized protein YhdB
+PGF_00730148	Virgibacillus	644.00	2.37	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Sporulation peptidoglycan synthetase SpoVD
+PGF_00734482	Virgibacillus	689.52	54.04	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00776587	Virgibacillus	118.19	0.60	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Virgibacillus	235.95	1.81	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Virgibacillus	229.14	1.49	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00797662	Virgibacillus	149.05	6.11	CBS domain-containing protein YkuL
+PGF_00827555	Virgibacillus	543.26	87.17	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00828128	Virgibacillus	360.95	0.22	Putative aminopeptidase YsdC
+PGF_00831223	Virgibacillus	422.05	4.38	Uncharacterized MFS-type transporter YqgE
+PGF_00853393	Virgibacillus	299.55	2.13	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Virgibacillus	406.32	1.76	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00925844	Virgibacillus	460.77	13.12	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00932867	Virgibacillus	191.14	5.98	Putative rRNA methylase YtqB
+PGF_00935308	Virgibacillus	246.62	2.04	FIG011178: rRNA methylase
+PGF_00950554	Virgibacillus	632.48	120.30	Excinuclease ABC subunit B
+PGF_00957419	Virgibacillus	137.77	2.35	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Virgibacillus	313.71	1.27	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_01075683	Virgibacillus	127.36	2.79	Hemoglobin-like protein HbO
+PGF_01079016	Virgibacillus	279.68	6.19	Chromosome (plasmid) partitioning protein ParB
+PGF_01124177	Virgibacillus	428.55	24.11	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01124268	Virgibacillus	195.90	2.39	RecU Holliday junction resolvase
+PGF_01127158	Virgibacillus	261.29	2.08	Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+PGF_01167921	Virgibacillus	158.38	1.16	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_01174739	Virgibacillus	248.41	2.87	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01212500	Virgibacillus	273.24	0.77	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Virgibacillus	545.09	1.19	Heat shock protein 60 family chaperone GroEL
+PGF_01223569	Virgibacillus	173.95	4.50	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Virgibacillus	170.74	1.66	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291823	Virgibacillus	206.48	6.06	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Virgibacillus	256.86	1.17	Chromosome (plasmid) partitioning protein ParA
+PGF_01313780	Virgibacillus	378.50	19.82	Uncharacterized peptidase YqjE
+PGF_01315291	Virgibacillus	406.57	1.78	Uncharacterized zinc protease YmxG
+PGF_01351158	Virgibacillus	1174.91	10.59	Transcription-repair coupling factor
+PGF_01364427	Virgibacillus	201.36	2.22	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01416650	Virgibacillus	265.52	0.68	Transmembrane component of general energizing module of ECF transporters
+PGF_01420802	Virgibacillus	143.86	2.71	Cell division protein MraZ
+PGF_01423501	Virgibacillus	158.09	0.43	Transcription elongation factor GreA
+PGF_01444546	Virgibacillus	95.95	0.21	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01461826	Virgibacillus	365.59	64.87	Endonuclease Q, cleaves 5' to damaged DNA bases
+PGF_01465362	Virgibacillus	141.19	2.04	Mn-dependent transcriptional regulator MntR
+PGF_01466742	Virgibacillus	463.78	29.88	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01513923	Virgibacillus	251.52	2.60	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01538186	Virgibacillus	111.57	12.44	Programmed cell death toxin YdcE
+PGF_01618915	Virgibacillus	342.43	4.26	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01667880	Virgibacillus	87.09	0.29	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01674551	Virgibacillus	126.77	1.19	Glycine cleavage system H protein
+PGF_01677191	Virgibacillus	314.48	1.03	Sporulation transcription regulator WhiA
+PGF_01682834	Virgibacillus	156.09	0.87	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Virgibacillus	247.00	2.45	DNA recombination and repair protein RecO
+PGF_01734668	Virgibacillus	214.50	1.19	Adenylate kinase (EC 2.7.4.3)
+PGF_01737958	Virgibacillus	261.52	3.79	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01751397	Virgibacillus	331.14	2.73	Adenine-specific methyltransferase (EC 2.1.1.72)
+PGF_01752285	Virgibacillus	168.57	2.27	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01777142	Virgibacillus	189.32	6.65	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01853493	Virgibacillus	275.86	3.56	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Virgibacillus	343.19	0.68	Heat-inducible transcription repressor HrcA
+PGF_01888177	Virgibacillus	139.77	1.48	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01899042	Virgibacillus	353.81	4.56	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01899937	Virgibacillus	293.27	2.37	Rod shape-determining protein MreC
+PGF_01900530	Virgibacillus	238.05	2.94	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900753	Virgibacillus	366.10	0.30	Prephenate dehydrogenase (EC 1.3.1.12)
+PGF_01932548	Virgibacillus	323.19	23.18	SpoIVD-associated factor SafA
+PGF_01984533	Virgibacillus	84.76	6.59	UPF0296 protein YlzA
+PGF_01994657	Virgibacillus	430.64	5.77	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010969	Virgibacillus	631.32	4.89	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) AsnB
+PGF_02011760	Virgibacillus	256.91	2.62	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02015262	Virgibacillus	308.57	0.98	Helicase loader DnaI
+PGF_02019462	Virgibacillus	332.22	58.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02026136	Virgibacillus	284.05	2.82	Uncharacterized S1 RNA binding domain protein YitL
+PGF_02029783	Virgibacillus	409.30	79.06	GTP-binding protein Obg
+PGF_02061452	Virgibacillus	378.91	0.29	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02154745	Virgibacillus	1422.48	31.82	DNA polymerase III polC-type (EC 2.7.7.7)
+PGF_02155509	Virgibacillus	709.95	1.47	ATP-dependent Clp protease, ATP-binding subunit ClpE
+PGF_02162014	Virgibacillus	215.29	3.69	Uncharacterized membrane protein YhjE
+PGF_02166856	Virgibacillus	118.57	1.96	UPF0342 protein YheA
+PGF_02177520	Virgibacillus	250.76	0.94	RNA polymerase sporulation specific sigma factor SigF
+PGF_02185217	Virgibacillus	426.68	3.27	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02226715	Virgibacillus	647.43	123.63	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227578	Virgibacillus	228.14	1.01	Putative membrane protease YugP
+PGF_02265871	Virgibacillus	170.85	4.67	Inosine/xanthosine triphosphatase (EC 3.6.1.-)
+PGF_02267642	Virgibacillus	280.82	2.91	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)
+PGF_02346768	Virgibacillus	840.52	172.39	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02405545	Virgibacillus	336.46	81.39	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02450432	Virgibacillus	263.64	2.82	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02463284	Virgibacillus	198.23	1.07	Recombination protein RecR
+PGF_02473354	Virgibacillus	539.48	1.03	Glucosaminyl-malate:cysteine ligase
+PGF_02475999	Virgibacillus	286.86	6.83	RsbT co-antagonist protein RsbRA
+PGF_02481237	Virgibacillus	669.77	110.82	Uncharacterized bis 4Fe-4S ferredoxin, membrane protein FadF (repressed by FadR)
+PGF_02516909	Virgibacillus	428.14	0.71	Enolase (EC 4.2.1.11)
+PGF_02522403	Virgibacillus	369.91	58.71	Pheromone shutdown protein
+PGF_02574886	Virgibacillus	533.43	1.33	Efflux ABC transporter, permease protein
+PGF_02587605	Virgibacillus	137.90	1.26	Zinc uptake regulation protein Zur
+PGF_02593689	Virgibacillus	429.91	66.84	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02619921	Virgibacillus	366.62	1.07	GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+PGF_02621120	Virgibacillus	141.55	1.79	GNAT family acetyltransferase YjcF
+PGF_02627816	Virgibacillus	203.50	37.17	FIG011945: O-methyltransferase family protein
+PGF_02652319	Virgibacillus	189.14	6.24	UPF0340 protein YwlG
+PGF_02704551	Virgibacillus	1211.27	43.30	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02704803	Virgibacillus	185.68	13.84	dCMP deaminase (EC 3.5.4.12) @ Late competence protein ComEB
+PGF_02713816	Virgibacillus	204.67	2.78	Uncharacterized protein YyaC
+PGF_02728524	Virgibacillus	839.87	108.58	DNA mismatch repair protein MutS
+PGF_02738107	Virgibacillus	322.77	12.15	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02787474	Virgibacillus	257.10	2.81	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02788357	Virgibacillus	609.38	1.32	Two-component sensor kinase SA14-24
+PGF_02788582	Virgibacillus	748.23	134.16	Recombination inhibitory protein MutS2
+PGF_02789532	Virgibacillus	306.09	89.40	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Virgibacillus	233.23	2.09	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Virgibacillus	466.82	1.99	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Virgibacillus	1182.55	41.64	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02844091	Virgibacillus	264.35	4.40	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Virgibacillus	415.59	7.29	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866866	Virgibacillus	312.67	1.28	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02883702	Virgibacillus	366.95	3.47	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02888001	Virgibacillus	385.52	27.12	Stage II sporulation protein D (SpoIID)
+PGF_02899131	Virgibacillus	65.95	0.79	LSU ribosomal protein L29p (L35e)
+PGF_02899960	Virgibacillus	229.76	2.39	Efflux ABC transporter, ATP-binding protein
+PGF_02901183	Virgibacillus	816.67	2.31	Stage II sporulation serine phosphatase for sigma-F activation (SpoIIE)
+PGF_02906681	Virgibacillus	725.64	16.69	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02922961	Virgibacillus	94.52	6.76	FIG004454: RNA binding protein
+PGF_02923127	Virgibacillus	240.68	2.77	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02944756	Virgibacillus	391.10	0.44	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Virgibacillus	380.00	42.12	SSU ribosomal protein S1p
+PGF_02950579	Virgibacillus	265.91	1.54	Septum site-determining protein MinD
+PGF_02979098	Virgibacillus	152.33	15.48	alternate gene name: ipa-62r
+PGF_02992495	Virgibacillus	78.82	8.98	Protein translocase membrane subunit SecG
+PGF_02997723	Virgibacillus	149.77	3.28	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03010512	Virgibacillus	75.00	0.00	UPF0033 protein YrkI
+PGF_03011298	Virgibacillus	145.29	0.96	ComK regulator YlbF
+PGF_03017775	Virgibacillus	495.71	5.61	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03026450	Virgibacillus	1134.48	173.09	Chromosome partition protein smc
+PGF_03029062	Virgibacillus	303.81	2.18	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03034879	Virgibacillus	262.14	6.88	Cell division protein FtsQ
+PGF_03036571	Virgibacillus	190.00	3.24	Cytochrome c-type biogenesis protein ResA
+PGF_03056554	Virgibacillus	184.19	1.21	Uncharacterized protein SAV1929
+PGF_03073470	Virgibacillus	560.95	2.65	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03077457	Virgibacillus	180.52	2.71	Glycerol-3-phosphate responsive antiterminator (mRNA-binding)
+PGF_03081665	Virgibacillus	90.82	25.59	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03084693	Virgibacillus	519.76	45.70	FIG006789: Stage V sporulation protein
+PGF_03104029	Virgibacillus	404.38	4.36	Sporulation integral membrane protein YlbJ
+PGF_03110657	Virgibacillus	712.86	2.57	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111948	Virgibacillus	250.14	31.53	Electron transfer flavoprotein, beta subunit
+PGF_03111988	Virgibacillus	168.48	4.86	Cell division initiation protein DivIVA
+PGF_03120492	Virgibacillus	248.71	2.43	Carboxylesterase (EC 3.1.1.1)
+PGF_03136340	Virgibacillus	542.68	51.79	Superfamily II DNA/RNA helicases, SNF2 family
+PGF_03143682	Virgibacillus	282.10	1.55	Uncharacterized protein YhbB
+PGF_03145797	Virgibacillus	120.62	6.56	UPF0382 membrane protein YwdK
+PGF_03146406	Virgibacillus	586.41	2.26	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03152833	Virgibacillus	283.05	2.91	Ku domain protein
+PGF_03174068	Virgibacillus	185.00	15.65	Transcription antitermination protein NusG
+PGF_03222913	Virgibacillus	131.77	2.22	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03248819	Virgibacillus	863.10	96.26	P-type Ca(2+)-transport ATPase (EC 3.6.3.8)
+PGF_03257845	Virgibacillus	229.96	124.41	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Virgibacillus	841.50	14.90	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Virgibacillus	62.73	3.41	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Virgibacillus	209.73	3.10	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03421722	Virgibacillus	440.82	67.42	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Virgibacillus	292.39	2.71	33 kDa chaperonin HslO
+PGF_03439690	Virgibacillus	151.09	1.97	Ferric uptake regulation protein FUR
+PGF_03441843	Virgibacillus	796.62	7.84	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03456282	Virgibacillus	165.24	3.42	Uncharacterized protein YwgA
+PGF_03462401	Virgibacillus	259.59	20.70	Peptidoglycan-N-acetylmuramic acid deacetylase PdaA
+PGF_03466304	Virgibacillus	284.57	2.71	Quorum-quenching lactonase YtnP
+PGF_03470321	Virgibacillus	172.32	13.92	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03518570	Virgibacillus	147.68	1.49	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Virgibacillus	381.23	4.88	Cell division protein FtsZ
+PGF_03574598	Virgibacillus	324.59	50.29	Lon-like protease with PDZ domain
+PGF_03609651	Virgibacillus	653.32	6.41	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03674577	Virgibacillus	396.00	1.27	Cytochrome c-type biogenesis protein CcsA/ResC
+PGF_03684283	Virgibacillus	415.24	0.77	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03701810	Virgibacillus	297.36	8.90	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Virgibacillus	59.14	14.17	Protein translocase subunit SecE
+PGF_03719269	Virgibacillus	201.41	3.91	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Virgibacillus	150.05	7.25	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03744665	Virgibacillus	241.05	3.12	Germination-specific N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28), cell wall hydrolase CwlD
+PGF_03750571	Virgibacillus	449.45	10.43	Chromosomal replication initiator protein DnaA
+PGF_03751823	Virgibacillus	194.82	7.24	Heat shock protein GrpE
+PGF_03752797	Virgibacillus	605.64	3.63	Efflux ABC transporter, permease/ATP-binding protein YfiC
+PGF_03753122	Virgibacillus	304.32	4.35	Site-specific tyrosine recombinase XerC
+PGF_03753933	Virgibacillus	141.18	8.80	Iron-sulfur cluster regulator IscR
+PGF_03755656	Virgibacillus	157.90	2.07	Uncharacterized membrane protein YuiD
+PGF_03778780	Virgibacillus	322.96	63.68	Signal recognition particle receptor FtsY
+PGF_03787199	Virgibacillus	191.57	2.09	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Virgibacillus	227.95	3.92	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Virgibacillus	270.33	2.68	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03889414	Virgibacillus	233.05	4.92	Uncharacterized protein YuiC
+PGF_03999196	Virgibacillus	808.57	1.16	ATP-dependent Clp protease, ATP-binding subunit ClpC
+PGF_04005838	Virgibacillus	434.22	4.26	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04016408	Virgibacillus	520.50	13.46	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04024952	Virgibacillus	464.19	2.27	5'-nucleotidase family protein in cluster with NagD-like phosphatase
+PGF_04036472	Virgibacillus	75.05	0.22	KH domain RNA binding protein YlqC
+PGF_04151476	Virgibacillus	171.73	2.78	16S rRNA processing protein RimM
+PGF_04345693	Virgibacillus	458.64	1.43	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Virgibacillus	840.00	16.09	Protein translocase subunit SecA
+PGF_04458212	Virgibacillus	319.00	0.00	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04481164	Virgibacillus	89.76	10.19	Veg protein
+PGF_04505269	Virgibacillus	251.14	3.47	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Virgibacillus	453.32	1.64	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04567743	Virgibacillus	408.26	3.96	Flavohemoglobin / Nitric oxide dioxygenase (EC 1.14.12.17)
+PGF_04569524	Virgibacillus	503.09	2.51	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Virgibacillus	251.91	0.68	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04660832	Virgibacillus	158.00	5.64	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Virgibacillus	648.27	35.01	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Virgibacillus	225.23	17.59	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Virgibacillus	721.64	31.81	Translation initiation factor 2
+PGF_04788810	Virgibacillus	186.73	1.80	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Virgibacillus	311.18	2.11	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Virgibacillus	114.23	1.07	LSU ribosomal protein L19p
+PGF_04872827	Virgibacillus	290.19	3.49	Chromosome (plasmid) partitioning protein ParB-2
+PGF_04874118	Virgibacillus	300.71	1.82	Cytochrome c oxidase caa3-type assembly factor CtaG_BS (unrelated to Cox11-CtaG family)
+PGF_04962192	Virgibacillus	699.35	133.55	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Virgibacillus	102.05	0.21	LSU ribosomal protein L21p
+PGF_05111929	Virgibacillus	732.61	140.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05113267	Virgibacillus	312.90	11.17	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_05135220	Virgibacillus	806.50	11.16	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Virgibacillus	302.96	52.37	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Virgibacillus	449.00	69.77	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05269328	Virgibacillus	436.52	1.25	DEAD-box ATP-dependent RNA helicase CshB (EC 3.6.4.13)
+PGF_05280843	Virgibacillus	428.90	1.18	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05377575	Virgibacillus	248.71	4.22	ABC transporter, ATP-binding protein EcsA
+PGF_05439724	Virgibacillus	652.71	64.17	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Virgibacillus	468.43	2.45	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05507938	Virgibacillus	622.09	11.61	DNA mismatch repair protein MutL
+PGF_05560886	Virgibacillus	279.73	1.35	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05714136	Virgibacillus	117.77	0.97	FIG138056: a glutathione-dependent thiol reductase
+PGF_05925776	Virgibacillus	293.91	0.97	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05971611	Virgibacillus	389.48	61.68	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06016284	Virgibacillus	75.67	6.33	NifU-like domain protein
+PGF_06044157	Virgibacillus	275.62	3.93	hypothetical protein
+PGF_06103095	Virgibacillus	84.29	1.31	Catabolite repression HPr-like protein Crh
+PGF_06111528	Virgibacillus	379.95	3.55	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06115957	Virgibacillus	399.29	1.27	tRNA 4-thiouridine synthase (EC 2.8.1.4)
+PGF_06122323	Virgibacillus	1165.57	3.74	ATP-dependent helicase/nuclease AddAB, subunit B
+PGF_06170558	Virgibacillus	155.55	0.80	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Virgibacillus	146.36	6.40	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Virgibacillus	94.14	0.47	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Virgibacillus	288.00	36.42	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06364262	Virgibacillus	234.05	0.22	Two-component response regulator SA14-24
+PGF_06379377	Virgibacillus	425.50	4.55	Replication-associated recombination protein RarA
+PGF_06403579	Virgibacillus	779.65	10.06	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06447349	Virgibacillus	412.32	2.71	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06459503	Virgibacillus	673.52	4.80	Serine/threonine protein kinase PrkC, regulator of stationary phase
+PGF_06481545	Virgibacillus	484.62	6.28	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06530721	Virgibacillus	216.59	8.09	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06589185	Virgibacillus	591.57	3.28	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06644010	Virgibacillus	309.32	1.25	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06649360	Virgibacillus	200.82	23.55	Segregation and condensation protein B
+PGF_06660812	Virgibacillus	194.14	4.84	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06671388	Virgibacillus	199.55	2.91	Carboxylesterase (EC 3.1.1.1)
+PGF_06693963	Virgibacillus	105.18	1.18	Nucleoid-associated protein YaaK
+PGF_06701488	Virgibacillus	204.81	1.03	RNA-binding protein Jag
+PGF_06755829	Virgibacillus	328.86	1.32	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_07072294	Virgibacillus	322.00	35.27	Electron transfer flavoprotein, alpha subunit
+PGF_07072582	Virgibacillus	384.45	51.27	RNA polymerase sigma factor RpoD
+PGF_07426744	Virgibacillus	247.95	1.12	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08133003	Virgibacillus	387.71	2.37	NAD-independent protein deacetylase AcuC

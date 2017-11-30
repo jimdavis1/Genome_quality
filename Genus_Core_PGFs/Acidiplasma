@@ -1,0 +1,781 @@
+PGF_00003106	Acidiplasma	282.20	2.68	FIG044987: protein with 4 CBS domains
+PGF_00003766	Acidiplasma	139.20	12.97	FMN adenylyltransferase, type 3 archaeal (EC 2.7.7.2)
+PGF_00004398	Acidiplasma	88.00	0.00	Ferredoxin-like protein SSO11114
+PGF_00006188	Acidiplasma	196.20	37.57	Hydrogenase-4 component E
+PGF_00006510	Acidiplasma	278.80	29.52	Fumarylacetoacetase (EC 3.7.1.2)
+PGF_00006934	Acidiplasma	172.40	25.12	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2)
+PGF_00007521	Acidiplasma	330.40	110.91	Geranylgeranyl diphosphate reductase (EC 1.3.1.83)
+PGF_00007525	Acidiplasma	344.60	9.84	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007982	Acidiplasma	251.20	61.57	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00008101	Acidiplasma	279.40	43.83	Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase
+PGF_00008152	Acidiplasma	251.80	56.38	Glutamate--LysW ligase ArgX
+PGF_00008334	Acidiplasma	369.00	76.62	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008341	Acidiplasma	566.40	70.66	Glutamyl-tRNA(Gln) amidotransferase transferase subunit (EC 6.3.5.7)
+PGF_00011572	Acidiplasma	266.60	67.98	Heterodisulfide reductase related protein
+PGF_00012293	Acidiplasma	354.80	54.11	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+PGF_00012340	Acidiplasma	326.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012921	Acidiplasma	395.60	159.66	4-hydroxybutyryl-CoA dehydratase
+PGF_00012963	Acidiplasma	256.00	10.84	Hydroxymethylpyrimidine kinase (EC 2.7.1.49) @ Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00013266	Acidiplasma	252.00	0.00	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013803	Acidiplasma	162.00	24.60	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Acidiplasma	223.00	49.19	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014298	Acidiplasma	432.20	80.05	Inorganic phosphate transporter
+PGF_00014306	Acidiplasma	169.40	21.47	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00015510	Acidiplasma	230.00	38.01	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Acidiplasma	697.00	269.45	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Acidiplasma	394.00	24.60	Iron-sulfur cluster assembly protein SufD
+PGF_00015567	Acidiplasma	377.00	0.00	Uncharacterized 4Fe-4S protein AF0811
+PGF_00016320	Acidiplasma	214.00	0.00	LSU ribosomal protein L10Ae (L1p)
+PGF_00016331	Acidiplasma	153.00	51.43	LSU ribosomal protein L11e (L5p)
+PGF_00016333	Acidiplasma	104.00	0.00	LSU ribosomal protein P1/P2 (L7p/L12p)
+PGF_00016335	Acidiplasma	139.00	0.00	LSU ribosomal protein L13Ae (L13p)
+PGF_00016341	Acidiplasma	174.20	11.28	LSU ribosomal protein L15e
+PGF_00016352	Acidiplasma	114.40	16.99	LSU ribosomal protein L18e
+PGF_00016354	Acidiplasma	142.20	35.33	LSU ribosomal protein L19e
+PGF_00016373	Acidiplasma	132.00	0.00	LSU ribosomal protein L23e (L14p)
+PGF_00016382	Acidiplasma	158.00	0.00	LSU ribosomal protein L26e (L24p)
+PGF_00016421	Acidiplasma	63.00	4.47	LSU ribosomal protein L35e (L29p)
+PGF_00016426	Acidiplasma	83.20	4.02	LSU ribosomal protein L37Ae
+PGF_00016427	Acidiplasma	51.00	6.71	LSU ribosomal protein L37e
+PGF_00016429	Acidiplasma	52.60	0.89	LSU ribosomal protein L39e
+PGF_00016430	Acidiplasma	329.80	0.45	LSU ribosomal protein L3e (L3p)
+PGF_00016434	Acidiplasma	49.00	0.00	LSU ribosomal protein L40e
+PGF_00016438	Acidiplasma	90.40	5.81	LSU ribosomal protein L44e
+PGF_00016446	Acidiplasma	160.80	1.79	LSU ribosomal protein L7Ae
+PGF_00016450	Acidiplasma	182.00	0.00	LSU ribosomal protein L9e (L6p)
+PGF_00018468	Acidiplasma	223.40	3.58	MTHFR (MetF)-like
+PGF_00018952	Acidiplasma	326.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019284	Acidiplasma	337.60	50.09	Mannose-1-phosphate guanylyltransferase / Phosphomannomutase (EC 5.4.2.8)
+PGF_00020611	Acidiplasma	508.00	193.10	Metallopeptidase
+PGF_00020984	Acidiplasma	277.60	5.37	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021442	Acidiplasma	306.00	2.74	Uncharacterized peptidase SSO1864
+PGF_00022028	Acidiplasma	608.60	0.89	MoaA/NifB/PqqE family protein MJ0619
+PGF_00022507	Acidiplasma	151.60	5.37	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00023592	Acidiplasma	504.00	69.32	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234) / Kinase (Bud32/PRPK), required for threonylcarbamoyladenosine t(6)A37 formation in tRNA (p53-regulating)
+PGF_00024308	Acidiplasma	208.20	71.11	NAD synthetase (EC 6.3.1.5)
+PGF_00024540	Acidiplasma	301.00	68.29	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024687	Acidiplasma	367.00	0.00	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024742	Acidiplasma	494.60	7.60	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Acidiplasma	458.00	24.60	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025384	Acidiplasma	111.00	0.00	Nascent polypeptide-associated complex protein
+PGF_00025622	Acidiplasma	332.80	10.80	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00026572	Acidiplasma	224.80	80.95	Acetylaminoadipate kinase (EC 2.7.2.-) @ Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00027002	Acidiplasma	297.00	8.94	ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00028678	Acidiplasma	411.00	0.00	Sulfide:quinone oxidoreductase SSO2261
+PGF_00029921	Acidiplasma	233.40	94.33	Pantothenate kinase (EC 2.7.1.33)
+PGF_00033643	Acidiplasma	225.00	4.47	Phosphoglycolate phosphatase, archaeal type (EC 3.1.3.18)
+PGF_00033813	Acidiplasma	416.40	61.19	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033959	Acidiplasma	256.80	7.16	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00034988	Acidiplasma	322.00	0.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035334	Acidiplasma	262.40	119.85	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035406	Acidiplasma	662.00	0.00	Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035407	Acidiplasma	207.00	0.00	Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035649	Acidiplasma	160.00	49.19	Predicted RNA-binding protein COG1491
+PGF_00035662	Acidiplasma	180.00	0.00	Adenylate kinase, archaeal type (EC 2.7.4.3)
+PGF_00035666	Acidiplasma	41.00	0.00	Predicted Zn-ribbon RNA-binding protein with a function in translation
+PGF_00037061	Acidiplasma	249.20	23.05	Exosome complex exonuclease RRP45 (EC 3.1.13.-)
+PGF_00037087	Acidiplasma	392.60	167.57	Probable glucarate transporter
+PGF_00037244	Acidiplasma	228.20	3.19	Peroxiredoxin, Bcp-type (EC 1.11.1.15)
+PGF_00039674	Acidiplasma	180.00	4.47	Putative RNA-binding protein COG1094
+PGF_00040922	Acidiplasma	324.20	31.48	ABC transporter, permease protein 1 (cluster 5, nickel/peptides/opines)
+PGF_00043380	Acidiplasma	362.60	24.82	Peptidase-like protein SSO1759
+PGF_00043728	Acidiplasma	148.80	13.86	Uncharacterized hydratase SSO3136
+PGF_00044391	Acidiplasma	299.00	0.00	Putative transcription antitermination protein NusG
+PGF_00045787	Acidiplasma	193.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045991	Acidiplasma	510.40	104.20	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046099	Acidiplasma	193.60	23.26	Quinol oxidase-2, sulfocyanin (blue copper protein) (SoxE)
+PGF_00046822	Acidiplasma	282.00	0.00	Alpha-aminoadipate--LysW ligase (EC 6.3.2.n4)
+PGF_00047026	Acidiplasma	352.40	23.15	Radical SAM heme biosynthesis protein AhbD, Fe-coproporphyrin III decarboxylase
+PGF_00048585	Acidiplasma	240.00	0.00	Exosome complex exonuclease RRP41 (EC 3.1.13.-)
+PGF_00048594	Acidiplasma	310.00	0.00	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048782	Acidiplasma	287.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048896	Acidiplasma	154.20	28.62	Ribosome biogenesis protein TSR3
+PGF_00049827	Acidiplasma	207.20	71.11	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049839	Acidiplasma	136.60	16.55	SSU ribosomal protein S13e (S15p)
+PGF_00049841	Acidiplasma	127.00	0.00	SSU ribosomal protein S14e (S11p)
+PGF_00049845	Acidiplasma	129.00	0.00	SSU ribosomal protein S15Ae (S8p)
+PGF_00049848	Acidiplasma	125.00	20.12	SSU ribosomal protein S16e (S9p)
+PGF_00049855	Acidiplasma	156.40	5.81	SSU ribosomal protein S18e (S13p)
+PGF_00049859	Acidiplasma	138.40	23.70	SSU ribosomal protein S19e
+PGF_00049869	Acidiplasma	140.40	2.19	SSU ribosomal protein S23e (S12p)
+PGF_00049876	Acidiplasma	54.00	4.47	SSU ribosomal protein S27Ae
+PGF_00049879	Acidiplasma	69.00	0.00	SSU ribosomal protein S28e
+PGF_00049880	Acidiplasma	53.00	0.00	SSU ribosomal protein S29e (S14p)
+PGF_00049888	Acidiplasma	218.00	0.00	SSU ribosomal protein S3e (S3p)
+PGF_00049907	Acidiplasma	196.00	0.00	SSU ribosomal protein S9e (S4p)
+PGF_00051471	Acidiplasma	231.00	0.00	Serine/threonine protein phosphatase (EC 3.1.3.16)
+PGF_00054474	Acidiplasma	116.00	0.00	Succinate:quinone reductase, subunit SdhF (EC 1.3.5.1)
+PGF_00054920	Acidiplasma	232.00	6.16	Sugar fermentation stimulation protein SfsA
+PGF_00055282	Acidiplasma	208.40	3.13	Superoxide dismutase [Mn] (EC 1.15.1.1); Superoxide dismutase [Fe] (EC 1.15.1.1); Superoxide dismutase ChrC
+PGF_00056057	Acidiplasma	265.60	3.13	Tas protein, an NADP(H)-dependent aldo-keto reductase
+PGF_00056535	Acidiplasma	177.20	0.45	Thiamine pyrophosphate-requiring protein SSO3210
+PGF_00056814	Acidiplasma	359.00	51.43	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00057441	Acidiplasma	96.40	4.93	Transcription factor S
+PGF_00059604	Acidiplasma	143.00	4.47	Transcriptional regulator, MarR family
+PGF_00060404	Acidiplasma	271.40	81.36	Translation elongation factor 1 alpha-related protein
+PGF_00060676	Acidiplasma	369.80	150.26	Uncharacterized MFS-type transporter SSO1539
+PGF_00061280	Acidiplasma	87.00	0.00	Transposase
+PGF_00061800	Acidiplasma	397.40	118.74	Trehalose synthase (EC 5.4.99.16)
+PGF_00062044	Acidiplasma	402.60	61.27	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00064246	Acidiplasma	165.00	0.00	UPF0218 protein MJ0395
+PGF_00064605	Acidiplasma	202.00	0.00	Uncharacterized Zn-dependent protease MJ0611
+PGF_00064731	Acidiplasma	388.20	167.26	Uncharacterized glycosyl transferase SSO0114
+PGF_00064995	Acidiplasma	399.00	0.00	Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+PGF_00065049	Acidiplasma	88.00	0.00	Uncharacterized protein MJ0319
+PGF_00065054	Acidiplasma	118.00	0.00	Uncharacterized protein MJ0408
+PGF_00065254	Acidiplasma	209.20	35.33	Uncharacterized protein MJ1634
+PGF_00065889	Acidiplasma	258.00	0.00	Undecaprenyl diphosphate synthase (geranylgeranyl diphosphate specific) (EC 2.5.1.89)
+PGF_00066648	Acidiplasma	360.20	57.69	Uncharacterized aminotransferase SSO2597
+PGF_00066854	Acidiplasma	429.20	55.45	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066960	Acidiplasma	145.80	11.63	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00068776	Acidiplasma	394.80	76.47	Arsenic efflux pump protein
+PGF_00070024	Acidiplasma	184.80	45.17	Uncharacterized protein MJ0570
+PGF_00070158	Acidiplasma	128.80	9.39	conserved protein associated with acetyl-CoA C-acyltransferase and HMGCo
+PGF_00070551	Acidiplasma	251.20	19.68	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00070777	Acidiplasma	329.60	43.38	Diphthamide biosynthesis protein 1
+PGF_00071193	Acidiplasma	235.40	79.60	Digeranylgeranylglyceryl phosphate synthase (EC 2.5.1.42)
+PGF_00072295	Acidiplasma	497.20	46.51	Uncharacterized acetyltransferase SSO0480
+PGF_00072362	Acidiplasma	315.80	152.50	Hydrogenase-4 component G
+PGF_00146725	Acidiplasma	308.80	29.52	CRISPR-associated protein Cas1
+PGF_00188552	Acidiplasma	300.00	22.36	Uncharacterized transcriptional regulatory protein MJ1164, Cro/C1 family
+PGF_00204172	Acidiplasma	461.80	152.50	Uncharacterized membrane-anchored protein Saci_1846
+PGF_00215658	Acidiplasma	173.80	92.53	Uncharacterized protein SSO1962
+PGF_00349129	Acidiplasma	85.00	0.00	UPF0147 protein MJ1419
+PGF_00401649	Acidiplasma	307.20	12.77	n-type ATP pyrophosphatase superfamily / TilS and TtcA-like
+PGF_00403176	Acidiplasma	266.60	105.99	Dolichol kinase (EC 2.7.1.108)
+PGF_00404546	Acidiplasma	253.80	105.54	probable polyketide cyclase
+PGF_00411462	Acidiplasma	194.00	28.28	Box C/D RNA-guided RNA methyltransferase subunit fibrillarin
+PGF_00411669	Acidiplasma	287.60	0.89	1,4-dihydroxy-6-naphtoate synthase-like protein SSO2229
+PGF_00412178	Acidiplasma	321.40	1.34	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413205	Acidiplasma	273.80	103.31	tRNA (guanine(10)-N(2))-dimethyltransferase (EC 2.1.1.213)
+PGF_00413210	Acidiplasma	276.60	68.60	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413237	Acidiplasma	391.00	154.20	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413256	Acidiplasma	394.00	21.30	tRNA N6-threonylcarbamoyladenosine 2-methylthiotransferase (putative) @ tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_00413286	Acidiplasma	387.80	63.06	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Acidiplasma	229.40	46.06	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413313	Acidiplasma	284.20	89.00	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase (EC 2.5.1.114)
+PGF_00414927	Acidiplasma	379.40	117.62	CCA tRNA nucleotidyltransferase, archaeal type (EC 2.7.7.72)
+PGF_00414966	Acidiplasma	183.40	46.08	Archaetidylglycerol phosphate synthase
+PGF_00415417	Acidiplasma	303.80	83.18	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+PGF_00415578	Acidiplasma	186.00	0.00	COG2078: Uncharacterized ACR
+PGF_00415581	Acidiplasma	175.80	40.70	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415735	Acidiplasma	89.80	13.86	COG4004 family
+PGF_00416652	Acidiplasma	220.00	6.71	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+PGF_00417645	Acidiplasma	530.80	168.15	ChlI component of cobalt chelatase involved in B12 biosynthesis / ChlD component of cobalt chelatase involved in B12 biosynthesis
+PGF_00417658	Acidiplasma	316.80	76.49	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417697	Acidiplasma	193.60	54.56	Uncharacterized protein SSO2169
+PGF_00418285	Acidiplasma	217.40	66.19	Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)
+PGF_00418308	Acidiplasma	349.60	107.71	Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289) / Cobalt-precorrin-6B C15-methyltransferase [decarboxylating] (EC 2.1.1.196)
+PGF_00418368	Acidiplasma	453.00	51.43	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00419900	Acidiplasma	363.00	0.00	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00420075	Acidiplasma	261.20	1.10	Cysteine synthase (EC 2.5.1.47)
+PGF_00420166	Acidiplasma	325.60	76.92	Cytochrome P450
+PGF_00420254	Acidiplasma	349.00	0.00	Cytochrome bc1-analogous complex, Rieske iron-sulfur subunit (SoxL)
+PGF_00420377	Acidiplasma	257.00	0.00	Cytochrome c oxidase assembly factor
+PGF_00421098	Acidiplasma	352.00	129.69	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421762	Acidiplasma	236.00	2.24	DNA repair and recombination protein RadB
+PGF_00421943	Acidiplasma	220.00	0.00	DNA-binding HTH domain in riboflavin kinase / CTP-dependent archaeal riboflavin kinase (EC 2.7.1.161)
+PGF_00422340	Acidiplasma	273.20	7.16	DNA-directed RNA polymerase subunit D (EC 2.7.7.6)
+PGF_00422341	Acidiplasma	223.20	0.45	DNA-directed RNA polymerase subunit E' (EC 2.7.7.6)
+PGF_00422356	Acidiplasma	86.00	0.00	DNA-directed RNA polymerase subunit H (EC 2.7.7.6)
+PGF_00422362	Acidiplasma	72.00	0.00	DNA-directed RNA polymerase subunit N (EC 2.7.7.6)
+PGF_00422407	Acidiplasma	90.00	0.00	DNA/RNA-binding protein Alba
+PGF_00422530	Acidiplasma	113.00	17.83	DUF488 family protein SAV0238
+PGF_00422918	Acidiplasma	143.20	1.79	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422979	Acidiplasma	178.00	20.12	Dephospho-CoA kinase archaeal, predicted (EC 2.7.1.24)
+PGF_00423081	Acidiplasma	437.80	21.83	4-aminobutyrate aminotransferase (EC 2.6.1.19)
+PGF_00423449	Acidiplasma	268.00	0.00	1,4-dihydroxy-6-naphtoate synthase
+PGF_00423953	Acidiplasma	341.80	0.45	EBNA-1 nuclear protein
+PGF_00424337	Acidiplasma	247.60	89.22	Endonuclease IV (EC 3.1.21.2)
+PGF_00424447	Acidiplasma	328.00	0.00	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424939	Acidiplasma	129.00	0.00	Eukaryotic translation initiation factor 5A
+PGF_00424940	Acidiplasma	209.40	19.23	Eukaryotic translation initiation factor 6
+PGF_00438421	Acidiplasma	261.20	26.39	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00625415	Acidiplasma	245.00	14.61	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00650260	Acidiplasma	137.00	0.00	HIT family protein
+PGF_00655628	Acidiplasma	381.00	44.72	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00662357	Acidiplasma	202.60	29.96	Metal-dependent hydrolase
+PGF_00665156	Acidiplasma	353.00	0.00	Uncharacterized DUF763 protein AF1496
+PGF_00673164	Acidiplasma	145.00	63.78	Uncharacterized protein SSO0580
+PGF_00685225	Acidiplasma	124.60	39.35	Transcriptional regulator, AsnC family
+PGF_00690046	Acidiplasma	287.60	21.02	ABC transporter, ATP-binding protein
+PGF_00717651	Acidiplasma	406.80	130.14	Uncharacterized MFS-type transporter
+PGF_00734372	Acidiplasma	493.60	123.88	2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)
+PGF_00742055	Acidiplasma	99.00	0.00	Translation initiation factor SUI1-related protein
+PGF_00743561	Acidiplasma	164.40	43.63	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00750454	Acidiplasma	392.80	33.99	Uncharacterized MFS-type transporter
+PGF_00833025	Acidiplasma	225.60	105.98	Oxidoreductase, aldo/keto reductase family
+PGF_00847940	Acidiplasma	397.60	9.84	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_00855938	Acidiplasma	158.00	53.67	Phosphoheptose isomerase (EC 5.3.1.-)
+PGF_00895872	Acidiplasma	179.60	56.80	Hydrolase, haloacid dehalogenase-like family
+PGF_00918779	Acidiplasma	549.80	0.45	Amino acid-proton symporter related protein
+PGF_00940958	Acidiplasma	203.00	6.71	Methyltransferase TM1293
+PGF_00967063	Acidiplasma	730.80	351.51	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+PGF_00970706	Acidiplasma	365.40	117.62	Uncharacterized MFS-type transporter
+PGF_01017017	Acidiplasma	330.80	97.83	Uncharacterized MFS-type transporter
+PGF_01039218	Acidiplasma	242.60	0.89	FIG006285: ICC-like protein phosphoesterase
+PGF_01040342	Acidiplasma	272.40	1.34	Spermidine synthase (EC 2.5.1.16)
+PGF_01047608	Acidiplasma	379.60	117.29	Uncharacterized MFS-type transporter
+PGF_01054751	Acidiplasma	173.20	12.97	Pyruvoyl-dependent arginine decarboxylase (EC 4.1.1.19)
+PGF_01056087	Acidiplasma	375.00	125.22	TldE protein, part of TldE/TldD proteolytic complex
+PGF_01092098	Acidiplasma	204.20	21.91	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01095191	Acidiplasma	272.80	20.64	Methylisocitrate lyase (EC 4.1.3.30)
+PGF_01104399	Acidiplasma	223.60	69.11	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01115564	Acidiplasma	241.00	108.45	Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)
+PGF_01138448	Acidiplasma	383.40	46.03	Transposase and inactivated derivatives
+PGF_01221657	Acidiplasma	69.00	0.00	Protein of unknown function DUF86, SO_3166 group
+PGF_01291823	Acidiplasma	192.60	29.96	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01305640	Acidiplasma	239.00	0.00	Phytyl-phosphate kinase (EC 2.7.4.-)
+PGF_01332636	Acidiplasma	184.40	70.66	Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)
+PGF_01383123	Acidiplasma	599.60	110.46	Acetoacetyl-CoA synthetase (EC 6.2.1.16)
+PGF_01402518	Acidiplasma	419.40	113.66	Malonate-semialdehyde dehydrogenase [inositol] (EC 1.2.1.18)
+PGF_01420693	Acidiplasma	365.20	93.47	Adenine-specific DNA methylase
+PGF_01443707	Acidiplasma	424.20	79.50	Dihydropyrimidinase (EC 3.5.2.2)
+PGF_01445700	Acidiplasma	220.00	0.00	Glutaredoxin-like protein
+PGF_01513745	Acidiplasma	217.00	0.00	Proteasome subunit beta (EC 3.4.25.1), archaeal
+PGF_01513923	Acidiplasma	213.80	69.77	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01557745	Acidiplasma	393.80	16.10	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01667671	Acidiplasma	172.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_01768456	Acidiplasma	454.40	157.87	medium-chain-fatty-acid--CoA ligase
+PGF_01853493	Acidiplasma	314.60	36.67	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01877133	Acidiplasma	333.40	127.82	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01962206	Acidiplasma	220.60	5.08	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01969379	Acidiplasma	601.80	172.63	Acetoin dehydrogenase E1 component beta-subunit (EC 2.3.1.190)
+PGF_02008715	Acidiplasma	384.00	0.00	Lactate 2-monooxygenase (EC 1.13.12.4)
+PGF_02011760	Acidiplasma	209.40	90.78	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02029456	Acidiplasma	293.20	9.39	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02139427	Acidiplasma	292.00	0.00	Pirin
+PGF_02210259	Acidiplasma	293.60	8.17	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_02211177	Acidiplasma	271.00	0.00	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02227611	Acidiplasma	158.00	3.46	Uncharacterized protein AF2422 with adenosine kinase domain
+PGF_02264943	Acidiplasma	127.80	20.57	Uncharacterized NUDIX hydrolase SSO3167
+PGF_02265633	Acidiplasma	205.00	0.00	hypothetical protein
+PGF_02278106	Acidiplasma	409.60	3.58	5'->3' exoribonuclease
+PGF_02278165	Acidiplasma	432.00	0.00	Na+/H+ antiporter, NhaP family
+PGF_02280075	Acidiplasma	166.20	53.22	UPF0215 protein MJ1150
+PGF_02280843	Acidiplasma	178.60	1.34	Small heat shock protein AF1296, Hsp20 family
+PGF_02281258	Acidiplasma	185.00	0.00	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase (EC 2.7.7.67)
+PGF_02282027	Acidiplasma	376.00	0.00	Uncharacterized transmembrane protein MJ1032
+PGF_02283009	Acidiplasma	149.00	0.00	Phospholipid-binding protein, YbhB/YbcL family
+PGF_02370501	Acidiplasma	285.20	77.82	Putative oxidoreductase
+PGF_02473279	Acidiplasma	240.00	0.00	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02515882	Acidiplasma	349.00	0.00	Aspartokinase (EC 2.7.2.4)
+PGF_02516666	Acidiplasma	273.00	0.00	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02517391	Acidiplasma	259.00	0.00	Uncharacterized P-loop-containing NTP hydrolase SSO1046
+PGF_02578186	Acidiplasma	321.20	48.75	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02710247	Acidiplasma	268.20	100.18	Glyoxylate reductase (EC 1.1.1.79) / Glyoxylate reductase (EC 1.1.1.26) / Hydroxypyruvate reductase (EC 1.1.1.81)
+PGF_02719014	Acidiplasma	160.20	0.45	Aerobic carbon monoxide dehydrogenase (quinone), small chain (EC 1.2.5.3)
+PGF_02719231	Acidiplasma	148.60	10.29	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02750614	Acidiplasma	176.20	66.63	Transcriptional regulator
+PGF_02797400	Acidiplasma	445.60	23.26	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02820109	Acidiplasma	193.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Acidiplasma	136.80	40.70	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02862285	Acidiplasma	398.60	3.58	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02867905	Acidiplasma	467.00	2.24	Uncharacterized MFS-type transporter SSO2852
+PGF_02923127	Acidiplasma	197.20	61.61	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02982550	Acidiplasma	225.20	30.86	Ser-tRNA(Ala) deacylase @ Gly-tRNA(Ala) deacylase
+PGF_02997723	Acidiplasma	152.00	0.00	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_02998943	Acidiplasma	150.80	0.45	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03030364	Acidiplasma	238.20	53.22	3-oxoacyl-[acyl-carrier protein] reductase
+PGF_03034557	Acidiplasma	235.40	4.10	Fumarate reductase iron-sulfur protein (EC 1.3.5.4)
+PGF_03055860	Acidiplasma	382.80	10.40	Sulfide:quinone oxidoreductase, Type III
+PGF_03055955	Acidiplasma	242.00	76.03	Uncharacterized radical SAM domain protein SSO2744
+PGF_03056409	Acidiplasma	265.00	0.00	Uncharacterized integral membrane protein SSO2272
+PGF_03056421	Acidiplasma	233.40	1.34	Uncharacterized protein SSO2205
+PGF_03058234	Acidiplasma	252.20	8.50	D-aminoacyl-tRNA deacylase (EC 3.1.1.96), archaeal type
+PGF_03059922	Acidiplasma	102.80	9.39	A. fulgidus predicted coding region AF0281
+PGF_03063591	Acidiplasma	526.00	84.97	Electron transfer flavoprotein, beta subunit / Electron transfer flavoprotein, alpha subunit
+PGF_03073470	Acidiplasma	568.80	4.55	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03087517	Acidiplasma	301.60	52.08	4-hydroxyproline epimerase (EC 5.1.1.8)
+PGF_03091176	Acidiplasma	87.20	17.44	Ferredoxin-like protein SSO11231
+PGF_03101662	Acidiplasma	338.20	10.73	HypE-like protein SSO2708
+PGF_03111948	Acidiplasma	245.00	0.00	Electron transfer flavoprotein, beta subunit
+PGF_03116802	Acidiplasma	202.20	32.86	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03287477	Acidiplasma	203.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03383104	Acidiplasma	142.60	29.96	Peroxiredoxin, Bcp-type (EC 1.11.1.15)
+PGF_03448459	Acidiplasma	136.40	14.31	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03518570	Acidiplasma	141.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03590193	Acidiplasma	415.60	50.09	Serine hydroxymethyltransferase (tetrahydromethanopterin-dependent)
+PGF_03674357	Acidiplasma	462.40	50.54	Uncharacterized MFS-type transporter SSO2057
+PGF_03674678	Acidiplasma	129.00	0.00	UPF0145 protein Ta0182
+PGF_03676764	Acidiplasma	177.60	54.56	Formate hydrogenlyase subunit 7-like protein
+PGF_03676839	Acidiplasma	210.00	0.00	Bacterio-opsin activator domain-containing protein
+PGF_03676895	Acidiplasma	191.20	24.15	Uncharacterized molybdopterin-containing protein SSO3201
+PGF_03677030	Acidiplasma	176.20	12.36	Uncharacterized transporter SSO0455, LysE family
+PGF_03677039	Acidiplasma	101.60	3.13	Uncharacterized protein SSO10704
+PGF_03677190	Acidiplasma	128.00	0.00	Uncharacterized protein Saci_1801
+PGF_03677981	Acidiplasma	405.00	0.00	Electron transfer flavoprotein-quinone oxidoreductase SSO2776
+PGF_03679846	Acidiplasma	505.40	34.88	Amino acid permease related protein Ta1279
+PGF_03679906	Acidiplasma	395.60	47.85	Uncharacterized membrane-anchored nucleotide-diphosphate:sugar transferase
+PGF_03681066	Acidiplasma	300.00	0.00	Uncharacterized integral membrane protein SSO2769
+PGF_03681069	Acidiplasma	420.40	63.95	Uncharacterized aminotransferase SSO2720
+PGF_03733480	Acidiplasma	172.00	0.00	dCMP deaminase (EC 3.5.4.12)
+PGF_03746089	Acidiplasma	145.00	0.00	Ferredoxin
+PGF_03750541	Acidiplasma	325.60	72.45	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03751823	Acidiplasma	168.60	8.73	Heat shock protein GrpE
+PGF_03778780	Acidiplasma	286.20	68.87	Signal recognition particle receptor FtsY
+PGF_03780858	Acidiplasma	534.20	77.82	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1
+PGF_03783620	Acidiplasma	164.00	17.59	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03785922	Acidiplasma	200.60	36.21	hypothetical protein
+PGF_03797809	Acidiplasma	368.60	41.14	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_03811905	Acidiplasma	271.20	100.18	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03846834	Acidiplasma	161.40	1.34	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03862500	Acidiplasma	174.00	33.54	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03944604	Acidiplasma	289.60	1.34	Succinate:quinone reductase, subunit SdhE (EC 1.3.5.1)
+PGF_03958563	Acidiplasma	208.80	15.59	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04050767	Acidiplasma	29.00	0.00	hypothetical protein
+PGF_04062587	Acidiplasma	351.80	4.87	3-isopropylmalate dehydrogenase (EC 1.1.1.85); Homoisocitrate dehydrogenase (EC 1.1.1.87)
+PGF_04066840	Acidiplasma	58.60	3.13	hypothetical protein
+PGF_04068899	Acidiplasma	155.00	0.00	single-stranded DNA binding protein (SSB)
+PGF_04075433	Acidiplasma	67.00	0.00	hypothetical protein
+PGF_04077656	Acidiplasma	121.80	2.77	hypothetical protein
+PGF_04080795	Acidiplasma	101.80	0.45	hypothetical protein
+PGF_04085571	Acidiplasma	481.80	2.68	Vinylacetyl-CoA delta-isomerase( EC:5.3.3.3 )
+PGF_04089309	Acidiplasma	87.80	11.03	hypothetical protein
+PGF_04098239	Acidiplasma	262.20	18.34	hypothetical protein
+PGF_04112099	Acidiplasma	211.60	14.31	hypothetical protein
+PGF_04113187	Acidiplasma	109.00	0.00	hypothetical protein
+PGF_04121289	Acidiplasma	79.00	0.00	hypothetical protein
+PGF_04126245	Acidiplasma	125.60	3.13	hypothetical protein
+PGF_04127376	Acidiplasma	265.20	19.68	Twin-arginine translocation protein TatC
+PGF_04133788	Acidiplasma	59.20	6.26	hypothetical protein
+PGF_04142585	Acidiplasma	304.60	18.50	Glyoxylate reductase (EC 1.1.1.26)
+PGF_04143966	Acidiplasma	102.60	18.78	hypothetical protein
+PGF_04144096	Acidiplasma	141.80	2.68	UPF0179 protein MJ1627
+PGF_04147021	Acidiplasma	127.00	2.24	hypothetical protein
+PGF_04158434	Acidiplasma	144.00	0.00	hypothetical protein
+PGF_04160219	Acidiplasma	104.00	0.00	hypothetical protein
+PGF_04166725	Acidiplasma	39.00	0.00	hypothetical protein
+PGF_04169126	Acidiplasma	105.80	2.68	hypothetical protein
+PGF_04171616	Acidiplasma	147.40	25.94	Ribosomal RNA processing endonuclease Nob1
+PGF_04175840	Acidiplasma	337.00	0.00	Endonuclease IV (EC 3.1.21.2)
+PGF_04177356	Acidiplasma	321.40	0.55	ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines)
+PGF_04184049	Acidiplasma	378.40	46.06	signal peptidase I
+PGF_04184544	Acidiplasma	288.40	19.31	hypothetical protein
+PGF_04187913	Acidiplasma	172.00	0.00	ferripyochelin binding protein
+PGF_04196699	Acidiplasma	197.40	7.09	hypothetical protein
+PGF_04217404	Acidiplasma	164.00	6.71	hypothetical protein
+PGF_04217750	Acidiplasma	59.00	8.94	hypothetical protein
+PGF_04230413	Acidiplasma	226.40	79.60	hypothetical protein
+PGF_04238355	Acidiplasma	108.40	0.89	hypothetical protein
+PGF_04241406	Acidiplasma	66.20	4.92	hypothetical protein
+PGF_04246737	Acidiplasma	39.00	0.00	hypothetical protein
+PGF_04250370	Acidiplasma	137.00	0.00	hypothetical protein
+PGF_04251998	Acidiplasma	76.00	0.00	hypothetical protein
+PGF_04252014	Acidiplasma	98.80	4.92	hypothetical protein
+PGF_04257515	Acidiplasma	96.60	3.13	Uncharacterized protein SSO9092
+PGF_04263472	Acidiplasma	177.40	13.94	hypothetical protein
+PGF_04266721	Acidiplasma	133.40	14.76	hypothetical protein
+PGF_04286580	Acidiplasma	249.40	12.24	asparagine synthetase
+PGF_04294677	Acidiplasma	326.20	39.80	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_04315370	Acidiplasma	132.60	25.49	hypothetical protein
+PGF_04317531	Acidiplasma	438.40	128.80	hypothetical protein
+PGF_04325376	Acidiplasma	77.00	0.00	hypothetical protein
+PGF_04341100	Acidiplasma	144.60	30.01	hypothetical protein
+PGF_04349437	Acidiplasma	512.40	166.81	Acylaminoacyl-peptidase
+PGF_04352721	Acidiplasma	76.00	7.38	hypothetical protein
+PGF_04365128	Acidiplasma	84.00	0.00	hypothetical protein
+PGF_04366426	Acidiplasma	288.20	93.47	DNA primase large subunit (EC 2.7.7.-)
+PGF_04369325	Acidiplasma	417.80	7.16	Replication factor C large subunit
+PGF_04379802	Acidiplasma	157.80	73.90	hypothetical protein
+PGF_04383594	Acidiplasma	311.20	7.16	hypothetical protein
+PGF_04384318	Acidiplasma	218.00	0.00	Gpr1/Fun34/YaaH family protein
+PGF_04386581	Acidiplasma	188.20	35.33	hypothetical protein
+PGF_04388890	Acidiplasma	145.00	0.00	hypothetical protein
+PGF_04393139	Acidiplasma	96.00	0.00	hypothetical protein
+PGF_04395488	Acidiplasma	221.60	7.60	hypothetical protein
+PGF_04403569	Acidiplasma	75.80	0.45	SSU ribosomal protein S17e
+PGF_04405589	Acidiplasma	157.40	16.88	hypothetical protein
+PGF_04408147	Acidiplasma	389.40	3.58	hypothetical protein
+PGF_04412082	Acidiplasma	120.40	23.70	Thioredoxin
+PGF_04413368	Acidiplasma	269.40	8.05	Gluconolactonase (EC 3.1.1.17)
+PGF_04430307	Acidiplasma	82.60	12.07	hypothetical protein
+PGF_04434483	Acidiplasma	104.40	23.26	hypothetical protein
+PGF_04437538	Acidiplasma	335.80	6.26	hypothetical protein
+PGF_04440037	Acidiplasma	235.00	22.36	hypothetical protein
+PGF_04445587	Acidiplasma	242.60	23.26	Dolichol-phosphate mannosyltransferase (EC 2.4.1.83)
+PGF_04452148	Acidiplasma	49.80	0.45	hypothetical protein
+PGF_04452767	Acidiplasma	59.00	0.00	hypothetical protein
+PGF_04453978	Acidiplasma	103.80	6.46	hypothetical protein
+PGF_04454891	Acidiplasma	185.00	53.67	hypothetical protein
+PGF_04456982	Acidiplasma	54.40	10.29	hypothetical protein
+PGF_04457582	Acidiplasma	498.80	3.90	hypothetical protein
+PGF_04459331	Acidiplasma	186.80	1.79	hypothetical protein
+PGF_04467059	Acidiplasma	97.00	15.65	hypothetical protein
+PGF_04471140	Acidiplasma	382.20	15.21	Uncharacterized integral membrane protein SSO2829
+PGF_04474519	Acidiplasma	155.20	51.88	Prefoldin subunit alpha
+PGF_04476316	Acidiplasma	70.00	0.00	hypothetical protein
+PGF_04503405	Acidiplasma	183.00	0.00	hypothetical protein
+PGF_04509185	Acidiplasma	206.20	66.63	hypothetical protein
+PGF_04510778	Acidiplasma	237.00	0.00	Ser-tRNA(Ala) deacylase @ Gly-tRNA(Ala) deacylase
+PGF_04527354	Acidiplasma	115.00	0.00	hypothetical protein
+PGF_04527402	Acidiplasma	445.00	53.67	hypothetical protein
+PGF_04549971	Acidiplasma	243.00	0.00	TPR-repeat-containing protein
+PGF_04556469	Acidiplasma	158.60	45.62	hypothetical protein
+PGF_04565180	Acidiplasma	180.00	15.94	hypothetical protein
+PGF_04570938	Acidiplasma	115.00	0.00	hypothetical protein
+PGF_04571944	Acidiplasma	151.00	0.00	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04572613	Acidiplasma	55.00	0.00	Preprotein translocase secG subunit
+PGF_04583840	Acidiplasma	294.00	0.00	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_04585243	Acidiplasma	273.00	22.36	hypothetical protein
+PGF_04589571	Acidiplasma	193.20	30.86	Bacterio-opsin activator domain-containing protein
+PGF_04592299	Acidiplasma	90.40	22.72	Twin-arginine translocation protein TatA
+PGF_04609794	Acidiplasma	98.80	4.02	hypothetical protein
+PGF_04631500	Acidiplasma	103.00	0.00	hypothetical protein
+PGF_04633291	Acidiplasma	79.20	6.26	hypothetical protein
+PGF_04634774	Acidiplasma	318.40	8.05	Menaquinone-specific polyprenyl reductase
+PGF_04636608	Acidiplasma	66.00	0.00	hypothetical protein
+PGF_04662829	Acidiplasma	643.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667164	Acidiplasma	45.00	0.00	hypothetical protein
+PGF_04678759	Acidiplasma	42.80	1.10	hypothetical protein
+PGF_04686544	Acidiplasma	265.40	68.42	hypothetical protein
+PGF_04693012	Acidiplasma	159.00	0.00	hypothetical protein
+PGF_04697499	Acidiplasma	117.00	6.71	hypothetical protein
+PGF_04698341	Acidiplasma	335.20	26.39	hypothetical protein
+PGF_04699462	Acidiplasma	129.20	26.39	hypothetical protein
+PGF_04702350	Acidiplasma	388.00	0.00	Putative 2-component regulator
+PGF_04706783	Acidiplasma	102.60	1.34	hypothetical protein
+PGF_04711008	Acidiplasma	450.00	23.86	hypothetical protein
+PGF_04712241	Acidiplasma	137.20	0.45	hypothetical protein
+PGF_04737739	Acidiplasma	130.40	8.05	LSU ribosomal protein L32e
+PGF_04750413	Acidiplasma	47.40	1.34	hypothetical protein
+PGF_04757308	Acidiplasma	626.00	0.00	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04762271	Acidiplasma	156.20	4.60	hypothetical protein
+PGF_04764216	Acidiplasma	48.00	0.00	hypothetical protein
+PGF_04764736	Acidiplasma	228.00	0.00	hypothetical protein
+PGF_04765869	Acidiplasma	79.00	0.00	hypothetical protein
+PGF_04769547	Acidiplasma	150.00	0.00	hypothetical protein
+PGF_04779280	Acidiplasma	230.00	17.89	hypothetical protein
+PGF_04784962	Acidiplasma	295.00	11.18	Aerobic carbon monoxide dehydrogenase (quinone), medium chain (EC 1.2.5.3)
+PGF_04792420	Acidiplasma	95.00	0.00	LSU ribosomal protein L21e
+PGF_04801069	Acidiplasma	151.40	3.71	hypothetical protein
+PGF_04801809	Acidiplasma	135.00	34.81	hypothetical protein
+PGF_04803480	Acidiplasma	218.20	41.54	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_04808412	Acidiplasma	241.00	20.12	hypothetical protein
+PGF_04812773	Acidiplasma	160.00	2.24	hypothetical protein
+PGF_04813175	Acidiplasma	367.00	0.00	hypothetical protein
+PGF_04815321	Acidiplasma	112.20	0.45	hypothetical protein
+PGF_04820239	Acidiplasma	145.80	47.40	Uncharacterized C4-type Zn finger protein MJ0530
+PGF_04828102	Acidiplasma	67.20	1.64	hypothetical protein
+PGF_04828338	Acidiplasma	355.80	23.50	hypothetical protein
+PGF_04859575	Acidiplasma	175.60	4.77	hypothetical protein
+PGF_04861650	Acidiplasma	57.00	0.00	Lysine Biosynthetic Amino Acid Carrier Protein LysW
+PGF_04866313	Acidiplasma	61.60	5.37	hypothetical protein
+PGF_04875076	Acidiplasma	63.00	0.00	hypothetical protein
+PGF_04888653	Acidiplasma	457.20	100.18	Cellulose synthase catalytic subunit [UDP-forming] (EC 2.4.1.12)
+PGF_04892728	Acidiplasma	219.00	0.00	involved in cell wall biogenesis
+PGF_04894755	Acidiplasma	161.60	3.13	hypothetical protein
+PGF_04896519	Acidiplasma	144.40	6.07	hypothetical protein
+PGF_04899328	Acidiplasma	446.60	47.88	Amino acid permease related protein Ta0645
+PGF_04909044	Acidiplasma	116.00	0.00	hypothetical protein
+PGF_04920470	Acidiplasma	433.40	3.58	hypothetical protein
+PGF_04929255	Acidiplasma	49.60	13.50	hypothetical protein
+PGF_04931588	Acidiplasma	168.00	0.00	hypothetical protein
+PGF_04933253	Acidiplasma	82.00	0.00	hypothetical protein
+PGF_04933701	Acidiplasma	104.20	21.91	hypothetical protein
+PGF_04934331	Acidiplasma	276.20	104.65	Uncharacterized NAD(P)H-dependent oxidoreductase SSO3013
+PGF_04943999	Acidiplasma	71.40	19.27	hypothetical protein
+PGF_04946417	Acidiplasma	42.00	0.00	hypothetical protein
+PGF_04959717	Acidiplasma	189.00	62.61	hypothetical protein
+PGF_04973716	Acidiplasma	444.20	6.26	hypothetical protein
+PGF_04974713	Acidiplasma	193.40	7.67	hypothetical protein
+PGF_04987660	Acidiplasma	244.00	51.43	hypothetical protein
+PGF_04988469	Acidiplasma	164.00	13.42	hypothetical protein
+PGF_04989025	Acidiplasma	175.00	0.00	hypothetical protein
+PGF_04989292	Acidiplasma	197.60	1.52	hypothetical protein
+PGF_04989370	Acidiplasma	91.00	13.42	hypothetical protein
+PGF_04994113	Acidiplasma	189.80	36.22	hypothetical protein
+PGF_05012187	Acidiplasma	100.00	2.24	hypothetical protein
+PGF_05034321	Acidiplasma	99.00	0.00	hypothetical protein
+PGF_05043103	Acidiplasma	185.00	35.78	hypothetical protein
+PGF_05044674	Acidiplasma	160.40	31.60	hypothetical protein
+PGF_05049602	Acidiplasma	48.00	0.00	hypothetical protein
+PGF_05060459	Acidiplasma	48.40	4.93	hypothetical protein
+PGF_05070334	Acidiplasma	96.00	2.24	Ribonuclease P protein component 1 (EC 3.1.26.5)
+PGF_05080902	Acidiplasma	286.60	3.13	2-dehydro-3-deoxygluconate aldolase (EC 4.1.2-)
+PGF_05081834	Acidiplasma	140.00	0.00	OsmC-like protein
+PGF_05092460	Acidiplasma	107.00	0.00	hypothetical protein
+PGF_05107784	Acidiplasma	128.00	22.36	hypothetical protein
+PGF_05110979	Acidiplasma	237.80	5.36	Efflux ABC transporter, permease protein
+PGF_05111354	Acidiplasma	75.60	3.13	hypothetical protein
+PGF_05111929	Acidiplasma	382.00	138.64	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05112101	Acidiplasma	96.60	12.07	hypothetical protein
+PGF_05118495	Acidiplasma	192.40	14.76	hypothetical protein
+PGF_05125825	Acidiplasma	67.80	13.86	hypothetical protein
+PGF_05145648	Acidiplasma	88.20	10.73	hypothetical protein
+PGF_05147805	Acidiplasma	112.00	13.42	hypothetical protein
+PGF_05152142	Acidiplasma	102.20	24.15	hypothetical protein
+PGF_05154819	Acidiplasma	216.60	36.67	hypothetical protein
+PGF_05156644	Acidiplasma	67.00	0.00	hypothetical protein
+PGF_05160925	Acidiplasma	117.00	38.01	hypothetical protein
+PGF_05164574	Acidiplasma	87.60	0.89	hypothetical protein
+PGF_05164929	Acidiplasma	432.20	77.82	(S)-2-hydroxy-acid oxidase chain D (EC 1.1.3.15)
+PGF_05165075	Acidiplasma	171.80	58.96	putative membrane protein
+PGF_05177842	Acidiplasma	75.80	13.86	hypothetical protein
+PGF_05192469	Acidiplasma	143.20	24.15	hypothetical protein
+PGF_05192917	Acidiplasma	454.80	38.46	hypothetical protein
+PGF_05197566	Acidiplasma	75.00	0.00	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_05199113	Acidiplasma	161.40	3.58	hypothetical protein
+PGF_05222464	Acidiplasma	253.60	60.65	hypothetical protein
+PGF_05235526	Acidiplasma	101.20	24.15	hypothetical protein
+PGF_05251611	Acidiplasma	84.00	15.17	Uncharacterized protein AF2325
+PGF_05253800	Acidiplasma	115.20	1.10	hypothetical protein
+PGF_05256741	Acidiplasma	203.00	24.60	hypothetical protein
+PGF_05280843	Acidiplasma	350.40	148.92	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05290030	Acidiplasma	52.00	0.00	hypothetical protein
+PGF_05290241	Acidiplasma	79.80	0.45	hypothetical protein
+PGF_05290739	Acidiplasma	295.00	127.46	tRNA (guanine(26)-N(2))-dimethyltransferase (EC 2.1.1.216)
+PGF_05295478	Acidiplasma	103.80	24.35	hypothetical protein
+PGF_05297705	Acidiplasma	213.80	72.00	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase (EC 2.1.1.219)
+PGF_05300672	Acidiplasma	160.60	16.55	hypothetical protein
+PGF_05301233	Acidiplasma	254.80	18.07	hypothetical protein
+PGF_05301462	Acidiplasma	314.60	0.89	hypothetical protein
+PGF_05303756	Acidiplasma	43.00	0.00	hypothetical protein
+PGF_05311341	Acidiplasma	192.00	0.00	hypothetical protein
+PGF_05312734	Acidiplasma	116.20	24.15	SSU ribosomal protein S6e
+PGF_05313195	Acidiplasma	161.60	11.44	hypothetical protein
+PGF_05313201	Acidiplasma	76.60	3.13	hypothetical protein
+PGF_05317762	Acidiplasma	134.20	39.84	Uncharacterized HTH-type transcriptional regulator MJ0586
+PGF_05335959	Acidiplasma	259.60	14.33	hypothetical protein
+PGF_05341307	Acidiplasma	113.20	1.79	DNA-binding protein MTH1615
+PGF_05345980	Acidiplasma	100.00	24.90	hypothetical protein
+PGF_05356863	Acidiplasma	29.00	0.00	hypothetical protein
+PGF_05358392	Acidiplasma	181.00	44.72	hypothetical protein
+PGF_05360688	Acidiplasma	175.00	8.94	Nicotinamidase (EC 3.5.1.19)
+PGF_05366249	Acidiplasma	525.00	15.65	Radical SAM domain protein
+PGF_05373046	Acidiplasma	81.60	0.89	hypothetical protein
+PGF_05374806	Acidiplasma	75.80	4.02	hypothetical protein
+PGF_05375611	Acidiplasma	237.00	26.83	hypothetical protein
+PGF_05377667	Acidiplasma	304.80	22.81	hypothetical protein
+PGF_05379859	Acidiplasma	221.00	26.83	Tetratricopeptide repeat family protein
+PGF_05386143	Acidiplasma	181.00	26.83	hypothetical protein
+PGF_05395284	Acidiplasma	265.40	50.54	hypothetical protein
+PGF_05412865	Acidiplasma	163.60	14.31	hypothetical protein
+PGF_05425428	Acidiplasma	234.00	15.65	hypothetical protein
+PGF_05427331	Acidiplasma	85.80	30.74	hypothetical protein
+PGF_05441279	Acidiplasma	341.80	0.45	hypothetical protein
+PGF_05449756	Acidiplasma	116.80	38.46	hypothetical protein
+PGF_05449956	Acidiplasma	170.00	0.00	ACT domain-containing protein
+PGF_05450374	Acidiplasma	162.40	8.05	hypothetical protein
+PGF_05453372	Acidiplasma	127.80	4.92	Succinyl-CoA synthetase, alpha subunit-related enzymes
+PGF_05454295	Acidiplasma	184.40	59.48	hypothetical protein
+PGF_05457462	Acidiplasma	235.80	4.92	SSU ribosomal protein S4e
+PGF_05458400	Acidiplasma	93.00	11.31	hypothetical protein
+PGF_05461486	Acidiplasma	301.40	32.65	LSU ribosomal protein P0 (L10p)
+PGF_05463808	Acidiplasma	267.00	48.14	NAD kinase (EC 2.7.1.23)
+PGF_05489574	Acidiplasma	112.00	0.00	hypothetical protein
+PGF_05493974	Acidiplasma	453.40	22.63	Mercuric ion reductase (EC 1.16.1.1)
+PGF_05496326	Acidiplasma	157.80	19.61	hypothetical protein
+PGF_05497010	Acidiplasma	168.80	7.16	hypothetical protein
+PGF_05500030	Acidiplasma	43.00	0.00	DNA-directed RNA polymerase subunit P (EC 2.7.7.6)
+PGF_05504310	Acidiplasma	127.40	30.41	hypothetical protein
+PGF_05506456	Acidiplasma	175.80	27.28	Membrane associated protein
+PGF_05511772	Acidiplasma	41.00	0.00	hypothetical protein
+PGF_05512354	Acidiplasma	109.60	5.37	hypothetical protein
+PGF_05514477	Acidiplasma	220.00	0.00	Chromate reductase (EC 1.6.5.2)
+PGF_05516041	Acidiplasma	212.00	0.00	iron-dependent repressor
+PGF_05517145	Acidiplasma	206.60	59.03	Metal-dependent hydrolase
+PGF_05524652	Acidiplasma	343.60	6.02	hypothetical protein
+PGF_05525003	Acidiplasma	301.00	0.00	hypothetical protein
+PGF_05525316	Acidiplasma	289.40	88.55	NMD protein affecting ribosome stability and mRNA decay
+PGF_05539903	Acidiplasma	49.80	8.50	hypothetical protein
+PGF_05546126	Acidiplasma	239.00	42.49	hypothetical protein
+PGF_05554107	Acidiplasma	182.00	24.60	Orotate phosphoribosyltransferase related protein
+PGF_05560886	Acidiplasma	219.20	74.59	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05561050	Acidiplasma	199.20	9.65	hypothetical protein
+PGF_05562976	Acidiplasma	250.60	34.44	hypothetical protein
+PGF_05565275	Acidiplasma	181.80	13.86	hypothetical protein
+PGF_05567948	Acidiplasma	345.20	16.47	hypothetical protein
+PGF_05568356	Acidiplasma	180.80	8.20	hypothetical protein
+PGF_05570574	Acidiplasma	144.00	0.00	hypothetical protein
+PGF_05572928	Acidiplasma	40.00	0.00	hypothetical protein
+PGF_05577448	Acidiplasma	123.00	0.00	Prefoldin subunit beta
+PGF_05599563	Acidiplasma	208.40	0.89	8-oxoguanine DNA glycosylase (EC 3.2.2.-) / DNA-(apurinic or apyrimidinic site) lyase (EC 4.2.99.18)
+PGF_05606238	Acidiplasma	115.00	0.00	hypothetical protein
+PGF_05614359	Acidiplasma	175.60	26.01	hypothetical protein
+PGF_05621691	Acidiplasma	94.40	0.89	hypothetical protein
+PGF_05622318	Acidiplasma	365.40	41.59	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05626430	Acidiplasma	194.60	32.20	hypothetical protein
+PGF_05634190	Acidiplasma	51.20	1.10	hypothetical protein
+PGF_05635833	Acidiplasma	130.20	0.45	Fumarate reductase cytochrome b-556 subunit
+PGF_05639604	Acidiplasma	141.00	0.00	HIT family protein
+PGF_05642844	Acidiplasma	127.20	21.91	hypothetical protein
+PGF_05643076	Acidiplasma	309.00	0.00	ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)
+PGF_05650087	Acidiplasma	82.00	0.00	hypothetical protein
+PGF_05657253	Acidiplasma	211.60	23.26	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05663459	Acidiplasma	102.60	18.78	hypothetical protein
+PGF_05665497	Acidiplasma	129.40	12.52	hypothetical protein
+PGF_05666335	Acidiplasma	177.80	6.72	hypothetical protein
+PGF_05679307	Acidiplasma	85.60	2.19	Translation elongation factor 1 beta subunit
+PGF_05685397	Acidiplasma	119.40	8.23	hypothetical protein
+PGF_05686465	Acidiplasma	58.60	9.99	Uncharacterized protein SSO9115
+PGF_05697430	Acidiplasma	157.60	19.46	hypothetical protein
+PGF_05697474	Acidiplasma	205.60	67.98	hypothetical protein
+PGF_05703351	Acidiplasma	139.40	20.02	hypothetical protein
+PGF_05704761	Acidiplasma	105.60	5.37	hypothetical protein
+PGF_05721880	Acidiplasma	188.20	33.09	hypothetical protein
+PGF_05730679	Acidiplasma	169.00	0.00	SAM-dependent methyltransferase
+PGF_05764433	Acidiplasma	77.00	0.00	hypothetical protein
+PGF_05772708	Acidiplasma	230.80	19.49	hypothetical protein
+PGF_05773705	Acidiplasma	169.20	48.75	hypothetical protein
+PGF_05776424	Acidiplasma	82.00	11.18	hypothetical protein
+PGF_05781805	Acidiplasma	241.80	14.52	hypothetical protein
+PGF_05786279	Acidiplasma	150.80	11.63	hypothetical protein
+PGF_05792559	Acidiplasma	249.60	45.62	hypothetical protein
+PGF_05795593	Acidiplasma	319.00	24.60	hypothetical protein
+PGF_05813233	Acidiplasma	135.00	0.00	hypothetical protein
+PGF_05816934	Acidiplasma	194.60	27.73	hypothetical protein
+PGF_05816952	Acidiplasma	181.00	31.18	phosphoglycerate mutase/fructose-2,6-bisphosphatase
+PGF_05829519	Acidiplasma	242.80	4.92	hypothetical protein
+PGF_05832226	Acidiplasma	167.40	48.30	hypothetical protein
+PGF_05854734	Acidiplasma	124.40	48.30	hypothetical protein
+PGF_05856306	Acidiplasma	79.20	1.64	hypothetical protein
+PGF_05862836	Acidiplasma	262.00	0.00	hypothetical protein
+PGF_05871257	Acidiplasma	150.00	0.00	hypothetical protein
+PGF_05872868	Acidiplasma	401.80	58.58	Putative inner membrane protein
+PGF_05874930	Acidiplasma	234.80	20.57	hypothetical protein
+PGF_05880544	Acidiplasma	392.20	26.39	Putative membrane-spanning protein
+PGF_05882216	Acidiplasma	105.40	3.58	hypothetical protein
+PGF_05885166	Acidiplasma	258.00	29.07	hypothetical protein
+PGF_05888055	Acidiplasma	180.80	4.92	hypothetical protein
+PGF_05912168	Acidiplasma	72.40	21.47	hypothetical protein
+PGF_05914450	Acidiplasma	255.00	43.18	Putative molybdenum cofactor biosynthesis protein
+PGF_05920811	Acidiplasma	161.00	0.00	hypothetical protein
+PGF_05925370	Acidiplasma	339.20	129.24	Heterodisulfide reductase related protein
+PGF_05926651	Acidiplasma	69.00	0.00	hypothetical protein
+PGF_05936060	Acidiplasma	102.00	0.00	hypothetical protein
+PGF_05937930	Acidiplasma	43.20	1.10	hypothetical protein
+PGF_05938380	Acidiplasma	283.20	50.39	Integral membrane protein
+PGF_05940831	Acidiplasma	73.60	28.17	hypothetical protein
+PGF_05949325	Acidiplasma	114.60	1.34	hypothetical protein
+PGF_05960016	Acidiplasma	206.60	3.71	hypothetical protein
+PGF_05963264	Acidiplasma	217.80	9.39	Hydrolase, haloacid dehalogenase-like family
+PGF_05971268	Acidiplasma	211.00	38.01	hypothetical protein
+PGF_05971611	Acidiplasma	336.60	140.65	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05984961	Acidiplasma	223.00	0.00	alkaline phosphatase like protein
+PGF_05996720	Acidiplasma	80.00	0.00	hypothetical protein
+PGF_05998235	Acidiplasma	257.00	8.94	hypothetical protein
+PGF_06028956	Acidiplasma	164.40	7.60	hypothetical protein
+PGF_06049700	Acidiplasma	143.00	0.00	Nucleotide-binding protein (UspA-related)
+PGF_06058517	Acidiplasma	145.00	0.00	hypothetical protein
+PGF_06073443	Acidiplasma	85.00	0.00	hypothetical protein
+PGF_06082198	Acidiplasma	93.00	25.12	Mov34/MPN/PAD-1 family
+PGF_06082815	Acidiplasma	202.00	0.00	hypothetical protein
+PGF_06086734	Acidiplasma	157.00	0.00	hypothetical protein
+PGF_06094078	Acidiplasma	63.00	0.00	hypothetical protein
+PGF_06094463	Acidiplasma	976.40	251.78	membrane associated serine protease
+PGF_06097461	Acidiplasma	162.60	59.03	2,5-diamino-6-ribosylamino-pyrimidinone 5-phosphate reductase, fungal/archaeal (EC 1.1.1.302)
+PGF_06106324	Acidiplasma	290.00	92.24	potassium channel protein
+PGF_06108382	Acidiplasma	300.80	2.68	hypothetical protein
+PGF_06116074	Acidiplasma	137.80	9.39	Diadenosine 5'5'''-P1,P4-tetraphosphate pyrophosphohydrolase / Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_06133167	Acidiplasma	294.80	25.04	MBL-fold metallo-hydrolase superfamily
+PGF_06139386	Acidiplasma	81.80	2.68	hypothetical protein
+PGF_06154372	Acidiplasma	308.80	54.11	hypothetical protein
+PGF_06170558	Acidiplasma	149.00	0.00	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06173091	Acidiplasma	202.40	10.29	hypothetical protein
+PGF_06185267	Acidiplasma	356.60	83.90	Second ORF in transposon ISC1904
+PGF_06200509	Acidiplasma	266.20	33.09	hypothetical protein
+PGF_06202786	Acidiplasma	124.00	0.00	hypothetical protein
+PGF_06210654	Acidiplasma	157.60	7.60	hypothetical protein
+PGF_06215916	Acidiplasma	97.00	20.12	hypothetical protein
+PGF_06230969	Acidiplasma	456.00	0.00	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06238154	Acidiplasma	120.60	9.84	hypothetical protein
+PGF_06244697	Acidiplasma	139.80	40.70	hypothetical protein
+PGF_06249027	Acidiplasma	99.80	1.79	DNA-directed RNA polymerase subunit L (EC 2.7.7.6)
+PGF_06257598	Acidiplasma	220.40	14.31	hypothetical protein
+PGF_06257871	Acidiplasma	63.00	0.00	DNA-directed RNA polymerase subunit E''
+PGF_06258076	Acidiplasma	64.00	14.40	hypothetical protein
+PGF_06260552	Acidiplasma	318.20	55.45	C4-dicarboxylate transporter
+PGF_06265999	Acidiplasma	110.00	0.00	hypothetical protein
+PGF_06278501	Acidiplasma	245.40	23.70	FKBP-type peptidyl-prolyl cis-trans isomerase MJ0825 (EC 5.2.1.8)
+PGF_06280623	Acidiplasma	47.00	0.00	hypothetical protein
+PGF_06282751	Acidiplasma	147.00	32.61	hypothetical protein
+PGF_06286124	Acidiplasma	392.20	5.07	Uncharacterized MFS-type transporter Ta0933
+PGF_06289536	Acidiplasma	255.80	0.45	MarR family transcriptional regulator MJ0558
+PGF_06298671	Acidiplasma	266.00	0.00	Efflux ABC transporter, permease protein
+PGF_06301178	Acidiplasma	238.00	0.00	hypothetical protein
+PGF_06323577	Acidiplasma	74.20	10.73	Protein transport protein sec61 gamma subunit
+PGF_06329652	Acidiplasma	142.60	14.31	hypothetical protein
+PGF_06340842	Acidiplasma	99.00	0.00	hypothetical protein
+PGF_06346633	Acidiplasma	325.80	9.63	hypothetical protein
+PGF_06346685	Acidiplasma	69.00	0.00	Ferredoxin
+PGF_06359553	Acidiplasma	57.00	2.24	hypothetical protein
+PGF_06360211	Acidiplasma	100.40	5.81	hypothetical protein
+PGF_06378697	Acidiplasma	112.40	14.76	hypothetical protein
+PGF_06379114	Acidiplasma	104.00	0.00	SSU ribosomal protein S24e
+PGF_06384226	Acidiplasma	119.60	31.71	hypothetical protein
+PGF_06384234	Acidiplasma	192.00	17.13	hypothetical protein
+PGF_06394262	Acidiplasma	84.00	0.00	hypothetical protein
+PGF_06398529	Acidiplasma	190.20	10.73	hypothetical protein
+PGF_06404840	Acidiplasma	101.00	11.18	hypothetical protein
+PGF_06407143	Acidiplasma	171.00	11.18	hypothetical protein
+PGF_06409116	Acidiplasma	189.00	71.55	hypothetical protein
+PGF_06411772	Acidiplasma	218.00	40.25	hypothetical protein
+PGF_06424305	Acidiplasma	220.60	3.71	2-phosphosulfolactate phosphatase (EC 3.1.3.71)
+PGF_06425353	Acidiplasma	111.60	23.26	Uncharacterized integral membrane protein SSO3212
+PGF_06429366	Acidiplasma	165.00	0.00	hypothetical protein
+PGF_06433526	Acidiplasma	332.20	62.16	Glycosyltransferase
+PGF_06434422	Acidiplasma	241.60	18.78	hypothetical protein
+PGF_06440960	Acidiplasma	108.40	19.23	hypothetical protein
+PGF_06441167	Acidiplasma	139.00	0.00	hypothetical protein
+PGF_06446962	Acidiplasma	204.40	3.58	hypothetical protein
+PGF_06448299	Acidiplasma	83.00	0.00	hypothetical protein
+PGF_06454823	Acidiplasma	578.00	98.39	tRNA-guanine(13/15) transglycosylase (EC 2.4.2.48) / archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) PUA domain
+PGF_06457006	Acidiplasma	219.00	4.24	hypothetical protein
+PGF_06459914	Acidiplasma	79.80	11.80	Putative snRNP Sm-like protein
+PGF_06469881	Acidiplasma	306.00	26.28	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06474648	Acidiplasma	203.40	43.83	hypothetical protein
+PGF_06477855	Acidiplasma	159.60	29.96	hypothetical protein
+PGF_06484531	Acidiplasma	171.80	49.64	Archaeal heat shock regulator, ArsR family
+PGF_06488216	Acidiplasma	266.80	7.43	hypothetical protein
+PGF_06505869	Acidiplasma	216.80	13.86	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety
+PGF_06511905	Acidiplasma	195.20	11.95	Phosphoglycerate mutase family protein
+PGF_06521904	Acidiplasma	165.60	32.20	hypothetical protein
+PGF_06528660	Acidiplasma	112.20	24.15	hypothetical protein
+PGF_06539585	Acidiplasma	218.40	16.99	hypothetical protein
+PGF_06545407	Acidiplasma	59.00	0.00	hypothetical protein
+PGF_06546264	Acidiplasma	133.60	38.82	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_06548351	Acidiplasma	252.60	3.58	hypothetical protein
+PGF_06563968	Acidiplasma	132.60	8.76	hypothetical protein
+PGF_06568172	Acidiplasma	133.00	0.00	hypothetical protein
+PGF_06568304	Acidiplasma	326.80	2.68	hypothetical protein
+PGF_06574387	Acidiplasma	45.00	0.00	hypothetical protein
+PGF_06583340	Acidiplasma	226.00	42.49	hypothetical protein
+PGF_06588531	Acidiplasma	86.40	8.05	hypothetical protein
+PGF_06589185	Acidiplasma	411.40	37.12	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06601329	Acidiplasma	315.00	0.00	hypothetical protein
+PGF_06601763	Acidiplasma	67.40	14.76	hypothetical protein
+PGF_06619823	Acidiplasma	166.40	5.90	hypothetical protein
+PGF_06638204	Acidiplasma	200.40	52.77	hypothetical protein
+PGF_06644010	Acidiplasma	279.80	7.16	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06649344	Acidiplasma	244.60	29.96	hypothetical protein
+PGF_06661548	Acidiplasma	351.00	0.00	Replication factor A (ssDNA-binding protein)
+PGF_06672012	Acidiplasma	190.80	11.63	hypothetical protein
+PGF_06678658	Acidiplasma	574.40	220.48	Copper-transporting P-type ATPase (EC 3.6.3.4)
+PGF_06678662	Acidiplasma	83.20	3.49	hypothetical protein
+PGF_06689973	Acidiplasma	80.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_06709764	Acidiplasma	303.80	20.57	hypothetical protein
+PGF_06715670	Acidiplasma	79.00	0.00	hypothetical protein
+PGF_06716170	Acidiplasma	67.40	1.34	LSU ribosomal protein L24e
+PGF_06725147	Acidiplasma	201.00	0.00	Formylmethanofuran dehydrogenase subunit E
+PGF_06729964	Acidiplasma	227.80	2.17	hypothetical protein
+PGF_06741538	Acidiplasma	269.00	111.80	Kinase similar to eukaryotic-like N-acetylglucosamine kinase
+PGF_06742506	Acidiplasma	233.20	0.45	hypothetical protein
+PGF_06744243	Acidiplasma	131.20	19.68	Transcriptional regulator, PadR family
+PGF_06750600	Acidiplasma	363.20	4.92	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_06752648	Acidiplasma	277.00	105.10	hypothetical protein
+PGF_06757293	Acidiplasma	277.80	4.92	NADH dehydrogenase/oxidoreductase-like protein
+PGF_06757690	Acidiplasma	649.20	288.82	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
+PGF_06758911	Acidiplasma	166.20	49.20	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety, TenA subgroup with conserved Glu in active site
+PGF_06762596	Acidiplasma	47.60	11.91	hypothetical protein
+PGF_06762904	Acidiplasma	76.00	0.00	hypothetical protein
+PGF_06765171	Acidiplasma	113.40	1.34	hypothetical protein
+PGF_06767735	Acidiplasma	225.40	23.70	hypothetical protein
+PGF_06777649	Acidiplasma	173.80	54.11	Mevalonate-3-phosphate-5-kinase (EC 2.7.1.186)
+PGF_06778352	Acidiplasma	137.60	8.20	hypothetical protein
+PGF_06787899	Acidiplasma	131.20	31.63	hypothetical protein
+PGF_07072294	Acidiplasma	269.20	53.22	Electron transfer flavoprotein, alpha subunit
+PGF_07436227	Acidiplasma	103.00	2.24	Arsenical resistance operon repressor
+PGF_08082848	Acidiplasma	343.80	78.71	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08098364	Acidiplasma	354.20	120.30	Arylsulfatase regulator
+PGF_08126362	Acidiplasma	358.60	63.50	DNA recombination protein RmuC

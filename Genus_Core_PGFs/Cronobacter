@@ -1,0 +1,2017 @@
+PGF_00000416	Cronobacter	354.35	39.79	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00001036	Cronobacter	110.66	8.44	FIG00923183: possible exported protein YebY
+PGF_00001392	Cronobacter	355.73	57.01	ABC-type efflux pump permease component YbhS
+PGF_00002124	Cronobacter	198.65	26.99	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002132	Cronobacter	72.00	0.00	UPF0270 protein YheU
+PGF_00002144	Cronobacter	180.59	4.69	Cell division protein ZapC
+PGF_00002487	Cronobacter	237.47	16.37	FIG015373: Membrane protein
+PGF_00002532	Cronobacter	263.43	25.44	ABC transporter permease protein YdcV
+PGF_00002592	Cronobacter	217.04	0.27	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00002672	Cronobacter	488.86	52.56	ATPase RavA
+PGF_00002688	Cronobacter	248.73	38.21	FIG023911: putative membrane protein
+PGF_00002975	Cronobacter	301.12	42.66	FIG032225: Transcriptional regulator, LysR family
+PGF_00003390	Cronobacter	143.92	1.03	FIG073159: hypothetical protein
+PGF_00003416	Cronobacter	211.83	28.79	FIG094199: Fumarylacetoacetate hydrolase
+PGF_00003452	Cronobacter	505.67	80.53	ABC transporter, ATP-binding protein YejF
+PGF_00003477	Cronobacter	151.16	18.45	FIG123062: hypothetical protein
+PGF_00003516	Cronobacter	244.58	21.38	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003528	Cronobacter	181.53	12.02	UPF0307 protein YjgA
+PGF_00003746	Cronobacter	273.89	13.69	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+PGF_00003749	Cronobacter	154.49	6.78	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003750	Cronobacter	194.01	0.91	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00003778	Cronobacter	161.60	19.89	FMN reductase (NADH) RutF (EC 1.5.1.42)
+PGF_00003779	Cronobacter	183.60	29.53	FMN reductase (NADPH) (EC 1.5.1.38)
+PGF_00004253	Cronobacter	403.85	48.15	Fermentation/respiration switch protein
+PGF_00004378	Cronobacter	239.68	41.65	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00004439	Cronobacter	255.39	28.67	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)
+PGF_00004444	Cronobacter	318.91	38.69	Ferric enterobactin transport system permease protein FepG (TC 3.A.1.14.2)
+PGF_00004447	Cronobacter	302.56	51.82	Ferric enterobactin-binding periplasmic protein FepB (TC 3.A.1.14.2)
+PGF_00004454	Cronobacter	297.33	8.13	Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), periplasmic substrate binding protein FhuD
+PGF_00004497	Cronobacter	254.69	33.14	Ferric reductase (1.6.99.14)
+PGF_00005260	Cronobacter	329.91	48.77	ABC transporter, permease protein YejE
+PGF_00005284	Cronobacter	531.10	106.87	Flagellar M-ring protein FliF
+PGF_00005288	Cronobacter	345.02	65.88	Flagellar P-ring protein FlgI
+PGF_00005302	Cronobacter	233.46	4.32	Flagellar assembly protein FliH
+PGF_00005331	Cronobacter	216.56	19.42	Flagellar basal-body P-ring formation protein FlgA
+PGF_00005354	Cronobacter	133.24	6.82	Flagellar basal-body rod protein FlgC
+PGF_00005358	Cronobacter	258.80	12.69	Flagellar basal-body rod protein FlgG
+PGF_00005402	Cronobacter	87.96	6.57	Flagellar biosynthesis protein FliQ
+PGF_00005429	Cronobacter	119.64	3.28	Flagellar biosynthesis protein FliT
+PGF_00005442	Cronobacter	237.61	29.92	Flagellar brake protein YcgR
+PGF_00005450	Cronobacter	403.92	36.82	Flagellar hook protein FlgE
+PGF_00005454	Cronobacter	548.86	29.76	Flagellar hook-associated protein FlgK
+PGF_00005572	Cronobacter	308.77	46.85	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005576	Cronobacter	159.54	11.05	16 kDa heat shock protein B
+PGF_00005589	Cronobacter	130.30	12.77	Flagellar protein FlhE
+PGF_00005630	Cronobacter	192.77	4.72	Flagellar transcriptional activator FlhC
+PGF_00005638	Cronobacter	272.87	30.86	Flagellin FliC
+PGF_00005653	Cronobacter	462.94	74.47	Flagellin protein FlaA
+PGF_00005780	Cronobacter	419.21	38.60	ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)
+PGF_00005921	Cronobacter	173.03	0.40	Flavodoxin 2
+PGF_00005948	Cronobacter	146.08	0.55	Flavoprotein MioC
+PGF_00006186	Cronobacter	282.32	39.26	Formate efflux transporter (TC 2.A.44 family)
+PGF_00006192	Cronobacter	191.29	32.96	Formate hydrogenlyase subunit 2
+PGF_00006228	Cronobacter	297.91	40.98	Formate hydrogenlyase subunit 4
+PGF_00006321	Cronobacter	136.11	2.35	Fosfomycin resistance protein FosA
+PGF_00006336	Cronobacter	112.74	17.32	Frataxin homolog CyaY, facilitates Fe-S cluster assembly, interacts with IscS
+PGF_00006376	Cronobacter	324.31	44.86	Fructose repressor FruR, LacI family
+PGF_00006378	Cronobacter	328.51	39.55	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006394	Cronobacter	357.13	11.22	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006403	Cronobacter	373.67	27.23	PTS system, fructose-specific IIA component (EC 2.7.1.202) / Fructose-specific phosphocarrier protein HPr
+PGF_00006410	Cronobacter	332.94	35.04	Fructoselysine-6-phosphate deglycase
+PGF_00006447	Cronobacter	244.19	28.61	Fumarate and nitrate reduction regulatory protein
+PGF_00006453	Cronobacter	522.47	95.09	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006461	Cronobacter	459.12	40.25	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006500	Cronobacter	131.01	0.16	Fumarate reductase subunit C
+PGF_00006733	Cronobacter	156.79	12.93	GDP-mannose mannosyl hydrolase
+PGF_00006737	Cronobacter	188.40	19.04	GDP-mannose pyrophosphatase NudK
+PGF_00006910	Cronobacter	256.11	10.34	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeH
+PGF_00006931	Cronobacter	339.98	39.59	GMP reductase (EC 1.7.1.7)
+PGF_00006935	Cronobacter	499.38	92.87	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006955	Cronobacter	309.57	27.59	Uncharacterized GNAT family acetyltransferase YiiD
+PGF_00006987	Cronobacter	190.90	23.66	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007012	Cronobacter	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Cronobacter	479.01	62.19	GTP-binding protein EngA
+PGF_00007026	Cronobacter	215.87	26.02	GTP-binding protein EngB
+PGF_00007027	Cronobacter	299.34	17.90	GTP-binding protein Era
+PGF_00007041	Cronobacter	606.60	5.00	GTP-binding protein TypA/BipA
+PGF_00007057	Cronobacter	444.79	50.34	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Cronobacter	369.60	47.30	Galactokinase (EC 2.7.1.6)
+PGF_00007092	Cronobacter	375.14	36.80	Galactonate dehydratase (EC 4.2.1.6)
+PGF_00007131	Cronobacter	332.01	1.07	Galactose/methyl galactoside ABC transport system, D-galactose-binding periplasmic protein MglB (TC 3.A.1.2.3)
+PGF_00007133	Cronobacter	335.51	6.19	Galactose/methyl galactoside ABC transport system, permease protein MglC (TC 3.A.1.2.3)
+PGF_00007154	Cronobacter	228.17	37.45	Gamma-D-Glutamyl-meso-Diaminopimelate Amidase
+PGF_00007481	Cronobacter	172.14	5.53	ThiJ/PfpI family protein YhbO
+PGF_00007525	Cronobacter	291.82	38.62	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007575	Cronobacter	135.94	4.25	Gfa-like protein
+PGF_00007632	Cronobacter	300.39	45.62	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007806	Cronobacter	539.26	61.81	Glucan 1,6-alpha-glucosidase (EC 3.2.1.70)
+PGF_00007812	Cronobacter	819.06	107.33	Glucans biosynthesis glucosyltransferase H (EC 2.4.1.-)
+PGF_00007822	Cronobacter	498.89	73.47	Glucans biosynthesis protein G precursor
+PGF_00007844	Cronobacter	320.23	11.71	Glucokinase (EC 2.7.1.2)
+PGF_00007883	Cronobacter	313.91	56.47	Gluconate utilization system Gnt-I transcriptional repressor
+PGF_00007887	Cronobacter	170.61	22.77	Gluconokinase (EC 2.7.1.12)
+PGF_00007920	Cronobacter	263.93	16.14	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00007988	Cronobacter	542.53	53.33	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Cronobacter	420.76	53.51	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008068	Cronobacter	236.96	20.64	Glutamate Aspartate transport ATP-binding protein GltL (TC 3.A.1.3.4)
+PGF_00008074	Cronobacter	224.02	0.14	Glutamate Aspartate transport system permease protein GltK (TC 3.A.1.3.4)
+PGF_00008105	Cronobacter	208.31	25.59	Glutamate racemase (EC 5.1.1.3)
+PGF_00008106	Cronobacter	250.03	17.25	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Cronobacter	1372.93	313.73	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008159	Cronobacter	504.58	61.94	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008164	Cronobacter	411.31	65.17	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008192	Cronobacter	302.43	35.28	Glutaminase (EC 3.5.1.2)
+PGF_00008281	Cronobacter	233.76	28.03	Glutamine ABC transporter, ATP-binding protein GlnQ
+PGF_00008293	Cronobacter	219.00	0.00	Glutamine ABC transporter, permease protein GlnP
+PGF_00008326	Cronobacter	554.80	3.16	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Cronobacter	425.25	62.54	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Cronobacter	465.16	40.77	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008381	Cronobacter	80.82	2.06	Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib
+PGF_00008439	Cronobacter	323.93	28.29	Glutathione S-transferase, omega (EC 2.5.1.18)
+PGF_00008441	Cronobacter	199.58	20.01	Uncharacterized GST-like protein YibF
+PGF_00008469	Cronobacter	307.10	40.21	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008487	Cronobacter	174.64	12.24	Glutathione-regulated potassium-efflux system ancillary protein KefF
+PGF_00008502	Cronobacter	380.21	23.96	Putative acid--amine ligase YgiC
+PGF_00008509	Cronobacter	335.41	27.53	D-erythrose-4-phosphate dehydrogenase (EC 1.2.1.72)
+PGF_00008537	Cronobacter	478.20	95.61	Glycerol kinase (EC 2.7.1.30)
+PGF_00008542	Cronobacter	280.63	18.50	Glycerol uptake facilitator protein
+PGF_00008595	Cronobacter	780.76	106.42	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+PGF_00008611	Cronobacter	335.76	22.91	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008644	Cronobacter	433.70	62.57	Glycerol-3-phosphate transporter
+PGF_00008651	Cronobacter	236.81	38.78	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+PGF_00008767	Cronobacter	188.34	4.52	Glycine cleavage system transcriptional antiactivator GcvR
+PGF_00008773	Cronobacter	910.34	165.12	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Cronobacter	195.39	36.91	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008874	Cronobacter	785.12	123.09	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009500	Cronobacter	192.68	24.83	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009539	Cronobacter	343.30	32.35	Glycosyl transferase, group 2 family
+PGF_00009666	Cronobacter	325.15	29.35	Uncharacterized glycosyltransferase YibD
+PGF_00009899	Cronobacter	408.62	52.97	Glycosyltransferase tibC (EC 2.4.-.-) (Fragment)
+PGF_00009967	Cronobacter	298.74	27.65	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010360	Cronobacter	207.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010634	Cronobacter	268.41	22.63	HMP-PP hydrolase (pyridoxal phosphatase) Cof, detected in genetic screen for thiamin metabolic genes
+PGF_00010746	Cronobacter	178.11	17.43	HTH-type transcriptional regulator RcdA
+PGF_00010776	Cronobacter	205.92	17.45	HTH-type transcriptional repressor ComR
+PGF_00010976	Cronobacter	138.12	9.87	Heat shock protein HslJ
+PGF_00011053	Cronobacter	346.57	38.93	ABC transporter, substrate-binding protein (cluster 2, ribose/xylose/arabinose/galactose)
+PGF_00011321	Cronobacter	288.68	30.68	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011634	Cronobacter	408.88	35.21	HflK protein
+PGF_00011644	Cronobacter	122.88	8.04	Hha toxicity modulator TomB
+PGF_00011803	Cronobacter	253.78	24.46	Histidine ABC transporter, ATP-binding protein HisP (TC 3.A.1.3.1)
+PGF_00011807	Cronobacter	265.23	34.76	Histidine ABC transporter, histidine-binding periplasmic protein precursor HisJ (TC 3.A.1.3.1)
+PGF_00011813	Cronobacter	234.84	20.22	Histidine ABC transporter, permease protein HisM (TC 3.A.1.3.1)
+PGF_00011816	Cronobacter	227.68	4.11	Histidine ABC transporter, permease protein HisQ (TC 3.A.1.3.1)
+PGF_00011990	Cronobacter	338.53	55.72	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012264	Cronobacter	326.52	48.57	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Cronobacter	306.42	22.17	Homoserine kinase (EC 2.7.1.39)
+PGF_00012499	Cronobacter	153.87	11.16	Formate hydrogenlyase maturation protease (EC 3.4.23.51)
+PGF_00012900	Cronobacter	199.52	17.62	Hydroxyaromatic non-oxidative decarboxylase protein B (EC 4.1.1.-)
+PGF_00012901	Cronobacter	457.09	70.90	Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)
+PGF_00012902	Cronobacter	76.67	4.59	Hydroxyaromatic non-oxidative decarboxylase protein D (EC 4.1.1.-)
+PGF_00012920	Cronobacter	533.29	79.15	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012970	Cronobacter	618.64	72.80	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00012972	Cronobacter	193.39	22.53	ADP compounds hydrolase NudE (EC 3.6.1.-)
+PGF_00013003	Cronobacter	605.65	109.79	Bis-ABC ATPase YheS
+PGF_00013017	Cronobacter	305.10	27.88	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013066	Cronobacter	147.91	9.82	Hypothetical flavoprotein YqcA (clustered with tRNA pseudouridine synthase C)
+PGF_00013082	Cronobacter	191.67	3.33	Hypothetical lipoprotein YajG precursor
+PGF_00013088	Cronobacter	185.61	3.61	Hypothetical lipoprotein yajI
+PGF_00013092	Cronobacter	69.04	8.16	Uncharacterized lipoprotein YgdR
+PGF_00013100	Cronobacter	459.75	62.33	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013244	Cronobacter	206.25	20.31	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013272	Cronobacter	140.15	2.33	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013273	Cronobacter	127.78	9.49	Uncharacterized protein YaeR with similarity to glyoxylase family
+PGF_00013283	Cronobacter	225.89	29.39	UPF0001 protein YggS
+PGF_00013290	Cronobacter	107.08	9.19	Uncharacterized protein YqcC
+PGF_00013293	Cronobacter	385.52	46.64	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase paralog YfaY, no functional activity
+PGF_00013492	Cronobacter	178.19	14.47	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Cronobacter	526.47	18.69	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013801	Cronobacter	454.43	93.07	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013857	Cronobacter	702.06	155.09	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014053	Cronobacter	432.96	73.49	Indole-3-glycerol phosphate synthase (EC 4.1.1.48) / Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00014087	Cronobacter	284.82	30.63	Inner membrane ABC transporter permease protein YcjO
+PGF_00014120	Cronobacter	100.56	4.64	Inner membrane protein YaiY
+PGF_00014124	Cronobacter	233.40	7.47	Inner membrane protein YbhL
+PGF_00014125	Cronobacter	137.82	2.31	Inner membrane protein YbhQ
+PGF_00014126	Cronobacter	333.51	39.74	Inner membrane protein YbhQ
+PGF_00014128	Cronobacter	402.03	36.01	Inner membrane protein YbjJ
+PGF_00014129	Cronobacter	115.06	15.99	Inner membrane protein YbjM
+PGF_00014130	Cronobacter	152.54	7.11	Inner membrane protein YbjO
+PGF_00014132	Cronobacter	146.35	11.38	Inner membrane protein YccF
+PGF_00014133	Cronobacter	161.68	4.41	Inner membrane protein YcdZ
+PGF_00014139	Cronobacter	130.32	7.01	Inner membrane protein YecN
+PGF_00014140	Cronobacter	293.51	48.06	Inner membrane protein YedI
+PGF_00014142	Cronobacter	354.85	8.61	Inner membrane protein YeeA
+PGF_00014144	Cronobacter	551.01	107.45	Inner membrane protein YejM, alkaline phosphatase superfamily
+PGF_00014145	Cronobacter	309.69	33.62	Inner membrane protein YfdC
+PGF_00014146	Cronobacter	138.57	19.04	Inner membrane protein YfeZ
+PGF_00014154	Cronobacter	121.15	1.09	Inner membrane protein YhaH
+PGF_00014160	Cronobacter	336.56	43.71	Inner membrane protein YiaH
+PGF_00014183	Cronobacter	282.64	35.62	Inner membrane protein YihY, formerly thought to be RNase BN
+PGF_00014190	Cronobacter	165.83	15.23	Inner membrane protein YlaC
+PGF_00014194	Cronobacter	186.47	14.59	Inner membrane protein YohC
+PGF_00014195	Cronobacter	191.78	16.65	Inner membrane protein YohC
+PGF_00014196	Cronobacter	226.88	23.25	Inner membrane protein YohK
+PGF_00014207	Cronobacter	131.30	4.04	Inner membrane protein YqjE
+PGF_00014208	Cronobacter	129.92	4.36	Inner membrane protein YqjF
+PGF_00014209	Cronobacter	97.80	1.79	Inner membrane protein YqjK
+PGF_00014279	Cronobacter	102.24	2.87	Inner membrane protein yciS
+PGF_00014284	Cronobacter	441.92	60.98	Inner membrane transport protein YajR
+PGF_00014306	Cronobacter	169.60	24.19	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Cronobacter	475.47	56.33	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Cronobacter	269.73	7.07	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Cronobacter	79.04	0.56	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Cronobacter	285.30	15.31	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Cronobacter	106.95	0.63	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015313	Cronobacter	123.41	10.66	ATP synthase protein I
+PGF_00015510	Cronobacter	243.78	23.51	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Cronobacter	479.36	69.60	Iron-sulfur cluster assembly protein SufB
+PGF_00015523	Cronobacter	127.24	7.67	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015658	Cronobacter	270.08	58.93	Isochorismatase (EC 3.3.2.1) [enterobactin] siderophore / Apo-aryl carrier domain of EntB @ Isochorismatase (EC 3.3.2.1) of siderophore biosynthesis
+PGF_00015696	Cronobacter	348.53	88.31	Isochorismate synthase (EC 5.4.4.2) [enterobactin] siderophore @ Isochorismate synthase (EC 5.4.4.2) of siderophore biosynthesis
+PGF_00015707	Cronobacter	570.46	93.30	Isocitrate dehydrogenase phosphatase (EC 2.7.11.5)/kinase (EC 3.1.3.-)
+PGF_00015958	Cronobacter	300.20	32.58	L,D-transpeptidase YbiS
+PGF_00015962	Cronobacter	334.86	44.16	L,D-transpeptidase YnhG
+PGF_00016021	Cronobacter	172.04	0.73	L-amino acid N-acyltransferase MnaT
+PGF_00016028	Cronobacter	483.64	76.93	L-arabinose isomerase (EC 5.3.1.4)
+PGF_00016041	Cronobacter	326.94	21.56	L-arabinose ABC transporter, substrate-binding protein AraF
+PGF_00016047	Cronobacter	335.99	19.86	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016049	Cronobacter	478.63	41.18	L-asparagine permease
+PGF_00016076	Cronobacter	237.65	40.21	L-cystine ABC transporter (wide substrate range), ATP-binding protein YecC
+PGF_00016078	Cronobacter	219.72	16.57	L-cystine ABC transporter (wide substrate range), permease protein YecS
+PGF_00016080	Cronobacter	255.95	30.51	L-cystine ABC transporter (wide substrate range), substrate-binding protein FliY
+PGF_00016082	Cronobacter	439.95	84.87	L-cystine uptake protein TcyP, sodium:anion symporter family
+PGF_00016130	Cronobacter	389.22	52.79	L-lactate dehydrogenase
+PGF_00016139	Cronobacter	524.41	100.74	L-lactate permease
+PGF_00016189	Cronobacter	329.36	20.62	Glycine betaine/L-proline transport substrate-binding protein ProX (TC 3.A.1.12.1)
+PGF_00016200	Cronobacter	399.59	65.68	L-rhamnose isomerase (EC 5.3.1.14)
+PGF_00016202	Cronobacter	103.80	2.47	L-rhamnose mutarotase (EC 5.1.3.32)
+PGF_00016205	Cronobacter	269.36	39.18	L-rhamnose operon regulatory protein RhaS
+PGF_00016210	Cronobacter	282.31	4.56	L-rhamnose operon transcriptional activator RhaR
+PGF_00016218	Cronobacter	226.86	24.75	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
+PGF_00016235	Cronobacter	406.43	79.67	L-sorbosone dehydrogenase
+PGF_00016261	Cronobacter	328.53	48.38	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016328	Cronobacter	164.97	0.40	LSU ribosomal protein L10p (P0)
+PGF_00016338	Cronobacter	408.61	62.13	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016342	Cronobacter	142.97	9.22	LSU ribosomal protein L15p (L27Ae)
+PGF_00016346	Cronobacter	127.25	5.25	LSU ribosomal protein L17p
+PGF_00016353	Cronobacter	117.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Cronobacter	233.35	7.64	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Cronobacter	117.72	2.53	LSU ribosomal protein L20p
+PGF_00016361	Cronobacter	105.62	2.10	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016374	Cronobacter	99.12	6.55	LSU ribosomal protein L23p (L23Ae)
+PGF_00016385	Cronobacter	85.01	0.08	LSU ribosomal protein L27p
+PGF_00016393	Cronobacter	271.57	17.96	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Cronobacter	58.96	0.65	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Cronobacter	57.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Cronobacter	54.81	1.68	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016431	Cronobacter	203.66	27.47	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Cronobacter	199.74	11.43	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Cronobacter	178.77	2.93	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Cronobacter	170.15	28.82	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Cronobacter	121.99	0.14	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Cronobacter	148.02	9.39	LSU ribosomal protein L9p
+PGF_00016546	Cronobacter	134.61	4.93	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00016919	Cronobacter	233.51	6.15	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017054	Cronobacter	230.68	25.16	Lipid A 1-diphosphate synthase
+PGF_00017057	Cronobacter	190.46	11.95	Lipid A palmitoyltransferase PagP (EC 2.3.1.251)
+PGF_00017063	Cronobacter	313.88	39.44	Lipid A biosynthesis myristoyltransferase (EC 2.3.1.243)
+PGF_00017064	Cronobacter	284.15	56.86	Lipid A biosynthesis palmitoleoyltransferase (EC 2.3.1.242)
+PGF_00017107	Cronobacter	292.52	28.19	Lipid kinase YegS
+PGF_00017109	Cronobacter	368.88	47.39	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017127	Cronobacter	326.85	53.63	Lipoate-protein ligase A
+PGF_00017129	Cronobacter	208.21	35.11	Protein Smp
+PGF_00017190	Cronobacter	238.23	21.05	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017192	Cronobacter	245.28	13.74	Lipopolysaccharide N-acetylmannosaminouronosyltransferase (EC 2.4.1.180)
+PGF_00017215	Cronobacter	469.60	76.48	Lipopolysaccharide biosynthesis protein WzxC
+PGF_00017281	Cronobacter	325.97	35.87	Lipopolysaccharide core heptosyltransferase I
+PGF_00017283	Cronobacter	357.34	45.32	Lipopolysaccharide core heptosyltransferase III
+PGF_00017327	Cronobacter	189.71	11.04	Lipopolysaccharide export system protein LptC
+PGF_00017384	Cronobacter	101.20	3.00	Lipoprotein BsmA
+PGF_00017400	Cronobacter	357.15	60.29	Murein hydrolase activator NlpD
+PGF_00017407	Cronobacter	289.60	26.06	Lipoprotein NlpI
+PGF_00017409	Cronobacter	215.17	23.34	Lipoprotein YcfM, part of a salvage pathway of unknown substrate
+PGF_00017464	Cronobacter	230.74	20.90	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Cronobacter	318.46	22.87	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017518	Cronobacter	547.99	64.55	Lon protease homolog YcbZ
+PGF_00017613	Cronobacter	488.09	64.68	Low-affinity inorganic phosphate transporter
+PGF_00017614	Cronobacter	445.37	48.23	Low-affinity putrescine importer PlaP
+PGF_00017617	Cronobacter	327.34	39.48	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017621	Cronobacter	426.01	75.49	ATP-dependent RNA helicase SrmB
+PGF_00017640	Cronobacter	183.56	11.83	Lipopolysaccharide export system protein LptA
+PGF_00017790	Cronobacter	300.11	45.71	LysR family transcriptional activator LeuO
+PGF_00017793	Cronobacter	308.48	29.56	LysR family transcriptional regulator AaeR
+PGF_00017805	Cronobacter	268.91	25.59	LysR family transcriptional regulator HdfR
+PGF_00017808	Cronobacter	305.91	54.29	LysR family transcriptional regulator LrhA
+PGF_00017855	Cronobacter	299.20	37.59	LysR family transcriptional regulator YdcI
+PGF_00017861	Cronobacter	291.91	34.80	LysR family transcriptional regulator YhjC
+PGF_00017922	Cronobacter	321.30	40.15	LysR-family transcriptional regulator YbeF
+PGF_00017925	Cronobacter	296.51	19.56	LysR-family transcriptional regulator YhaJ
+PGF_00017939	Cronobacter	334.46	28.96	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00017963	Cronobacter	679.32	123.48	Lysine decarboxylase 2, constitutive (EC 4.1.1.18)
+PGF_00018016	Cronobacter	463.07	87.08	Lysine-specific permease
+PGF_00018065	Cronobacter	388.97	43.01	Lysophospholipid transporter LplT
+PGF_00018552	Cronobacter	194.31	6.00	Maf-like protein YceF
+PGF_00018964	Cronobacter	511.33	72.99	Malate synthase (EC 2.3.3.9)
+PGF_00019038	Cronobacter	426.47	71.64	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019053	Cronobacter	530.47	171.80	Maltodextrin glucosidase (EC 3.2.1.20)
+PGF_00019063	Cronobacter	766.36	125.15	Maltodextrin phosphorylase (EC 2.4.1.1)
+PGF_00019087	Cronobacter	310.90	11.17	Maltose operon periplasmic protein MalM
+PGF_00019236	Cronobacter	389.48	70.90	Manganese transport protein MntH
+PGF_00019268	Cronobacter	178.77	1.10	Mannitol operon repressor
+PGF_00019273	Cronobacter	393.95	49.99	Mannonate dehydratase (EC 4.2.1.8)
+PGF_00019302	Cronobacter	116.99	7.52	Mannose-6-phosphate isomerase
+PGF_00019428	Cronobacter	175.47	1.88	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019755	Cronobacter	213.83	14.66	Membrane protein
+PGF_00019972	Cronobacter	245.49	16.44	Membrane protein YciC, linked to IspA
+PGF_00019974	Cronobacter	323.39	69.74	Membrane protein YcjF
+PGF_00020168	Cronobacter	357.18	37.36	Membrane-bound lytic murein transglycosylase A
+PGF_00020172	Cronobacter	269.62	25.31	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020176	Cronobacter	349.18	51.42	Membrane-bound lytic murein transglycosylase C (EC 3.2.1.n1)
+PGF_00020184	Cronobacter	378.44	55.43	Membrane-bound lytic murein transglycosylase D
+PGF_00020195	Cronobacter	192.60	19.62	Membrane-bound metal-dependent hydrolase YdjM, induced during SOS response
+PGF_00020322	Cronobacter	210.67	14.24	Metal-binding protein ZinT
+PGF_00020361	Cronobacter	154.33	6.18	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020376	Cronobacter	208.85	12.23	Metal-dependent hydrolase related to alanyl-tRNA synthetase
+PGF_00020747	Cronobacter	104.55	3.63	Methionine repressor MetJ
+PGF_00020823	Cronobacter	280.07	24.75	Uncharacterized protein YjcZ
+PGF_00020984	Cronobacter	284.48	24.72	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020993	Cronobacter	271.70	22.83	Methylglyoxal reductase, dihydroxyacetone producing @ 2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming) (EC 1.1.1.274)
+PGF_00020996	Cronobacter	150.21	13.23	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021036	Cronobacter	319.90	60.06	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021037	Cronobacter	203.40	7.20	Methylthioribulose-1-phosphate dehydratase (EC 4.2.1.109)
+PGF_00021186	Cronobacter	322.90	60.35	ATPase
+PGF_00021217	Cronobacter	502.44	83.74	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021418	Cronobacter	340.22	6.77	Mgl repressor and galactose ultrainduction factor GalS, HTH-type transcriptional regulator
+PGF_00021944	Cronobacter	244.34	10.49	MltA-interacting protein MipA
+PGF_00022467	Cronobacter	169.50	6.87	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00022479	Cronobacter	189.30	16.96	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022507	Cronobacter	193.71	8.34	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Cronobacter	81.01	0.08	Molybdopterin synthase sulfur carrier subunit
+PGF_00022605	Cronobacter	239.37	15.35	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022781	Cronobacter	366.67	51.22	ATPase, AFG1 family
+PGF_00023011	Cronobacter	363.77	31.81	ABC-type efflux pump permease component YbhR
+PGF_00023256	Cronobacter	446.07	79.74	Uncharacterized transporter MdtD of major facilitator superfamily (MFS)
+PGF_00023306	Cronobacter	122.49	7.86	Multiple antibiotic resistance protein MarA
+PGF_00023326	Cronobacter	196.42	4.60	MarC family integral membrane protein
+PGF_00023331	Cronobacter	84.50	3.13	Multiple stress resistance protein BhsA
+PGF_00023403	Cronobacter	439.70	25.28	Murein DD-endopeptidase MepM
+PGF_00023404	Cronobacter	174.53	11.06	Murein DD-endopeptidase MepS @ Murein LD-carboxypeptidase (EC 3.4.17.13)
+PGF_00023405	Cronobacter	305.03	26.84	Murein-DD-endopeptidase (EC 3.4.99.-)
+PGF_00023476	Cronobacter	129.11	7.91	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023616	Cronobacter	239.68	27.12	N-3-oxohexanoyl-L-homoserine lactone quorum-sensing transcriptional activator @ N-3-oxooctanoyl-L-homoserine lactone quorum-sensing transcriptional activator
+PGF_00023715	Cronobacter	289.47	54.19	N-acetyl-D-glucosamine kinase (EC 2.7.1.59)
+PGF_00023739	Cronobacter	329.57	42.88	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023794	Cronobacter	372.70	42.44	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00023796	Cronobacter	400.55	33.32	N-acetylglucosamine-6P-responsive transcriptional repressor NagC, ROK family
+PGF_00023818	Cronobacter	431.50	43.86	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00023831	Cronobacter	238.61	38.27	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis
+PGF_00023835	Cronobacter	289.74	34.23	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00023946	Cronobacter	154.09	12.11	N-acetyltransferase ElaA
+PGF_00024234	Cronobacter	357.52	69.76	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024308	Cronobacter	271.54	25.24	NAD synthetase (EC 6.3.1.5)
+PGF_00024366	Cronobacter	195.75	12.66	NAD(P)H-flavin oxidoreductase
+PGF_00024370	Cronobacter	230.91	18.56	NAD(P)H-flavin reductase (EC 1.5.1.41) (EC 1.16.1.3)
+PGF_00024480	Cronobacter	529.37	115.07	NAD-dependent malic enzyme (EC 1.1.1.38)
+PGF_00024540	Cronobacter	416.98	63.12	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024567	Cronobacter	380.84	53.87	Acetate kinase (EC 2.7.2.1)
+PGF_00024602	Cronobacter	278.05	0.22	Acetate operon repressor IclR
+PGF_00024608	Cronobacter	315.73	35.61	NADH oxidoreductase for hydroxylamine reductase
+PGF_00024615	Cronobacter	256.76	3.01	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024685	Cronobacter	560.34	120.19	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024728	Cronobacter	184.78	14.34	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Cronobacter	100.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Cronobacter	500.76	53.22	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Cronobacter	472.26	65.94	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Cronobacter	275.32	31.77	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00024924	Cronobacter	276.92	35.85	NAD(P)H dehydrogenase (quinone) 2 (EC 1.6.5.2)
+PGF_00025215	Cronobacter	171.38	12.22	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025216	Cronobacter	85.06	0.36	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025290	Cronobacter	504.38	75.16	Na+/H+ antiporter NhaB
+PGF_00025366	Cronobacter	406.44	32.41	NadR transcriptional regulator / Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)
+PGF_00025448	Cronobacter	191.00	0.00	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025559	Cronobacter	104.89	7.98	Nickel/cobalt homeostasis protein RcnB
+PGF_00025562	Cronobacter	211.85	11.78	Nicotinamidase (EC 3.5.1.19)
+PGF_00025578	Cronobacter	480.14	69.02	Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)
+PGF_00025586	Cronobacter	162.39	18.53	Nicotinamide-nucleotide amidase paralog YdeJ, no functional activity
+PGF_00025588	Cronobacter	291.29	42.45	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) @ Dimethylallyltransferase (EC 2.5.1.1)
+PGF_00025598	Cronobacter	384.62	58.77	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025843	Cronobacter	107.04	7.33	Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)
+PGF_00025875	Cronobacter	126.16	17.86	Acetyl-CoA sensor PanM, required for maturation of L-aspartate decarboxylase
+PGF_00025890	Cronobacter	348.19	20.80	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Cronobacter	309.14	45.44	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026349	Cronobacter	326.09	38.49	Nucleoid-associated protein NdpA
+PGF_00026362	Cronobacter	194.11	17.14	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Cronobacter	257.14	28.67	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Cronobacter	297.28	40.44	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026544	Cronobacter	191.67	15.82	Nudix hydrolase family protein KPN_02621
+PGF_00026563	Cronobacter	146.08	15.80	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Cronobacter	256.11	14.66	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026796	Cronobacter	317.59	25.08	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00026904	Cronobacter	653.15	98.39	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027004	Cronobacter	298.70	37.33	Oligopeptide transport permease protein OppB-like @ Glutathione ABC transporter permease protein GsiC
+PGF_00027006	Cronobacter	291.06	46.23	Oligopeptide transport permease protein OppC-like @ Glutathione ABC transporter permease protein GsiD
+PGF_00027212	Cronobacter	210.02	0.14	Outer membrane protein W precursor
+PGF_00027554	Cronobacter	57.04	0.56	Orphan toxin OrtT
+PGF_00027613	Cronobacter	234.19	32.17	Osmoprotectant ABC transporter inner membrane protein YehW
+PGF_00027668	Cronobacter	70.77	2.93	Osmotically-inducible lipoprotein OsmB
+PGF_00027674	Cronobacter	202.47	13.53	Osmotically inducible protein OsmY
+PGF_00027680	Cronobacter	111.59	8.37	Osmotically-inducible lipoprotein E
+PGF_00027728	Cronobacter	340.47	21.52	Outer membrane beta-barrel assembly protein BamC
+PGF_00027752	Cronobacter	549.19	103.97	Outer membrane component of TAM transport system
+PGF_00027833	Cronobacter	104.28	7.16	Outer membrane lipoprotein YidQ
+PGF_00027841	Cronobacter	162.65	19.42	Acetyltransferase YpeA
+PGF_00027863	Cronobacter	153.57	12.75	Outer membrane lipoprotein pcp precursor
+PGF_00028093	Cronobacter	347.34	46.35	Outer membrane porin PhoE
+PGF_00028319	Cronobacter	169.36	5.90	Outer membrane protein X precursor
+PGF_00028422	Cronobacter	452.24	32.80	Outer membrane stress sensor protease DegQ, serine protease
+PGF_00028423	Cronobacter	347.09	44.12	Outer membrane stress sensor protease DegS
+PGF_00028486	Cronobacter	245.72	25.78	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00028690	Cronobacter	289.10	42.98	Oxidoreductase YdhF
+PGF_00028947	Cronobacter	211.06	20.07	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) / Dihydropteridine reductase (EC 1.5.1.34)
+PGF_00029071	Cronobacter	224.18	24.35	2,3-diketo-5-methylthiopentyl-1-phosphate enolase-phosphatase (EC 3.1.3.77)
+PGF_00029133	Cronobacter	124.10	6.63	Acidic protein msyB
+PGF_00029269	Cronobacter	842.77	165.55	Aconitate hydratase (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_00029464	Cronobacter	174.35	5.83	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029589	Cronobacter	473.94	75.94	PTS system, arbutin-, cellobiose-, and salicin-specific IIB component / PTS system, arbutin-, cellobiose-, and salicin-specific IIC component
+PGF_00029614	Cronobacter	104.66	3.36	PTS system, IIA component
+PGF_00029683	Cronobacter	957.19	257.24	Multidrug efflux system AcrAB-TolC, inner-membrane proton/drug antiporter AcrB (RND type)
+PGF_00029699	Cronobacter	364.53	58.95	Multidrug efflux system AcrEF-TolC, membrane fusion component AcrE
+PGF_00029812	Cronobacter	307.12	45.64	PTS system, mannose-specific IIA component (EC 2.7.1.191) / PTS system, mannose-specific IIB component (EC 2.7.1.191)
+PGF_00029866	Cronobacter	444.18	87.81	PTS system, trehalose-specific IIB component (EC 2.7.1.201) / PTS system, trehalose-specific IIC component
+PGF_00029917	Cronobacter	279.51	25.34	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Cronobacter	310.86	35.98	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030154	Cronobacter	429.36	39.30	Pectinesterase (EC 3.1.1.11)
+PGF_00030640	Cronobacter	335.03	80.49	Peptide chain release factor 1
+PGF_00030643	Cronobacter	514.19	67.01	Peptide chain release factor 3
+PGF_00030694	Cronobacter	325.81	31.29	Peptide transport system ATP-binding protein SapD
+PGF_00030698	Cronobacter	314.08	36.50	Peptide transport system permease protein SapB
+PGF_00030701	Cronobacter	278.69	54.54	Peptide transport system permease protein SapC
+PGF_00030812	Cronobacter	160.21	18.57	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00030829	Cronobacter	204.67	1.90	Acyl-ACP:glycerol-3-phosphate O-acyltransferase (EC 2.3.1.n5)
+PGF_00030901	Cronobacter	527.70	61.44	Murein peptide ABC transporter, substrate-binding protein (requires DppBCDF)
+PGF_00030918	Cronobacter	306.66	46.66	Periplasmic aromatic aldehyde oxidoreductase, FAD binding subunit YagS
+PGF_00031058	Cronobacter	120.77	9.73	Periplasmic protein YqjC
+PGF_00031127	Cronobacter	207.09	8.46	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00031593	Cronobacter	225.16	31.34	Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB (EC 3.5.1.110)
+PGF_00032318	Cronobacter	108.81	11.83	Phage protein
+PGF_00032662	Cronobacter	216.79	29.04	Phage shock protein A @ Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00032664	Cronobacter	73.96	1.07	Phage shock protein B
+PGF_00032667	Cronobacter	116.63	9.24	Phage shock protein C
+PGF_00032671	Cronobacter	80.23	3.20	Phage shock protein D
+PGF_00033019	Cronobacter	166.15	13.47	Phenolic acid decarboxylase (EC 4.1.1.-)
+PGF_00033095	Cronobacter	728.50	181.04	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033161	Cronobacter	47.15	1.90	PhoP/PhoQ regulator MgrB
+PGF_00033253	Cronobacter	292.70	20.80	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Cronobacter	321.16	39.67	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033312	Cronobacter	243.88	39.52	Phosphatidylglycerophosphatase B (EC 3.1.3.27)
+PGF_00033319	Cronobacter	209.56	13.29	Phosphatidylglycerophosphatase C (EC 3.1.3.27)
+PGF_00033359	Cronobacter	360.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Cronobacter	243.99	0.08	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033379	Cronobacter	183.00	0.00	Phosphodiesterase YfcE
+PGF_00033411	Cronobacter	273.75	24.23	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033471	Cronobacter	496.64	91.85	Phosphoethanolamine transferase OpgE
+PGF_00033473	Cronobacter	548.98	56.74	Phosphoethanolamine transferase specific for the outer Kdo residue of lipopolysaccharide
+PGF_00033479	Cronobacter	528.42	84.25	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033486	Cronobacter	132.56	4.58	Acyl-CoA thioesterase YciA, involved in membrane biogenesis
+PGF_00033488	Cronobacter	577.54	91.49	Phosphogluconate dehydratase (EC 4.2.1.12)
+PGF_00033489	Cronobacter	291.74	27.78	Phosphogluconate repressor HexR, RpiR family
+PGF_00033536	Cronobacter	248.97	11.75	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033539	Cronobacter	211.62	17.51	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033595	Cronobacter	722.43	143.76	Phosphatidylglycerol--membrane-oligosaccharide glycerophosphotransferase (EC 2.7.8.20)
+PGF_00033642	Cronobacter	239.14	25.83	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00033729	Cronobacter	259.48	18.57	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Cronobacter	266.18	25.97	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Cronobacter	206.25	25.30	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Cronobacter	158.37	4.64	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Cronobacter	404.52	23.61	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Cronobacter	200.43	18.15	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Cronobacter	417.19	60.81	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033946	Cronobacter	239.40	27.44	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Cronobacter	331.85	49.63	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033968	Cronobacter	207.07	24.34	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033982	Cronobacter	289.00	0.00	Phosphoribulokinase homolog, function unknown
+PGF_00034022	Cronobacter	237.75	34.90	Phosphosugar-binding transcriptional regulator, RpiR family
+PGF_00034227	Cronobacter	466.59	85.76	Phytoene desaturase (lycopene-forming) (EC 1.3.99.31)
+PGF_00034349	Cronobacter	92.96	0.48	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative
+PGF_00034350	Cronobacter	231.25	14.10	Quercetin 2,3-dioxygenase (EC 1.13.11.24) => YhhW
+PGF_00034972	Cronobacter	181.89	9.95	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Cronobacter	325.17	1.67	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035009	Cronobacter	167.00	0.00	Positive regulator of CheA protein activity (CheW)
+PGF_00035183	Cronobacter	176.84	1.75	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035405	Cronobacter	523.49	112.14	Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035407	Cronobacter	183.99	26.26	Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035414	Cronobacter	212.39	14.22	Probable acrEF/envCD operon repressor EnvR
+PGF_00035492	Cronobacter	522.49	101.50	Predicted ATP-dependent endonuclease of the OLD family
+PGF_00035577	Cronobacter	56.00	0.00	Predicted Fic antitoxin YfhG
+PGF_00035721	Cronobacter	450.75	39.64	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Cronobacter	426.38	37.26	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036155	Cronobacter	194.50	14.45	Predicted outer membrane lipoprotein YfeY
+PGF_00036543	Cronobacter	498.02	45.43	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036567	Cronobacter	236.42	14.03	Aerobic respiration control protein arcA
+PGF_00036570	Cronobacter	157.00	0.00	Prepilin peptidase dependent protein A precursor
+PGF_00036675	Cronobacter	167.62	17.45	Primosomal replication protein N prime prime
+PGF_00036688	Cronobacter	222.88	33.42	RNA chaperone ProQ
+PGF_00036783	Cronobacter	184.05	18.70	Probable DNA endonuclease SmrA
+PGF_00036988	Cronobacter	298.94	37.07	Agmatinase (EC 3.5.3.11)
+PGF_00037052	Cronobacter	153.71	2.82	Probable endopeptidase NlpC
+PGF_00037103	Cronobacter	207.23	31.92	Probable glutathione S-transferase (EC 2.5.1.18), YfcF homolog
+PGF_00037131	Cronobacter	200.09	40.23	Osmoprotectant ABC transporter, permease protein OsmW
+PGF_00037419	Cronobacter	451.14	49.12	Probable transport protein YifK
+PGF_00037558	Cronobacter	449.80	42.12	Proline-specific permease proY
+PGF_00037588	Cronobacter	540.96	113.56	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037591	Cronobacter	133.09	2.87	Proofreading thioesterase in enterobactin biosynthesis EntH
+PGF_00037785	Cronobacter	442.09	78.02	Proposed xyloside/Na+ symporter YagG
+PGF_00037786	Cronobacter	460.37	42.38	Proposed xyloside/Na+ symporter YicJ
+PGF_00037828	Cronobacter	286.76	30.99	Protease HtpX
+PGF_00037837	Cronobacter	912.65	159.18	Protease III precursor (EC 3.4.24.55)
+PGF_00037915	Cronobacter	65.53	4.36	Protein IscX, believed to be involved in assembly of Fe-S clusters
+PGF_00037937	Cronobacter	107.64	14.28	Protein PhnA
+PGF_00037945	Cronobacter	129.34	15.59	Protein RcsF
+PGF_00037954	Cronobacter	71.84	3.38	Protein SlyX
+PGF_00037958	Cronobacter	260.09	30.52	Protein SseB
+PGF_00037973	Cronobacter	88.10	8.61	Protein YcgL
+PGF_00037975	Cronobacter	114.69	11.91	Protein YchN
+PGF_00037976	Cronobacter	165.87	18.31	Protein YciE
+PGF_00037977	Cronobacter	82.89	2.37	Protein YciN
+PGF_00037978	Cronobacter	179.74	28.08	Protein YecM
+PGF_00037979	Cronobacter	266.34	36.88	Protein YeeZ
+PGF_00037991	Cronobacter	474.00	78.52	Protein YhjJ, putative peptidase
+PGF_00037998	Cronobacter	110.83	7.73	UPF0438 protein YifE
+PGF_00038165	Cronobacter	304.86	36.20	Protein involved in stability of MscS mechanosensitive channel
+PGF_00038329	Cronobacter	160.79	32.44	Der GTPase-activating protein YihI
+PGF_00038363	Cronobacter	264.03	1.90	Protein of unknown function DUF541
+PGF_00038542	Cronobacter	157.00	0.00	Protein of unknown function Smg
+PGF_00038599	Cronobacter	255.89	33.78	Protein phosphatase 2C-like:Protein phosphatase 2C-like
+PGF_00038642	Cronobacter	155.16	28.59	Protein SprT
+PGF_00038674	Cronobacter	322.18	8.56	Protein translocase subunit SecF
+PGF_00038758	Cronobacter	624.69	99.07	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeK
+PGF_00038759	Cronobacter	88.65	4.14	Protein YihD
+PGF_00038761	Cronobacter	115.96	7.90	Uncharacterized protein YjbR
+PGF_00038829	Cronobacter	167.78	16.44	Proteinase inhibitor I11, ecotin precursor
+PGF_00038882	Cronobacter	177.08	0.55	Protoporphyrinogen IX oxidase, oxygen-independent, HemG (EC 1.3.-.-)
+PGF_00038937	Cronobacter	322.84	41.00	Psp operon transcriptional activator
+PGF_00038987	Cronobacter	239.00	0.00	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00038991	Cronobacter	331.73	43.42	Purine nucleotide synthesis repressor
+PGF_00039037	Cronobacter	305.89	37.67	Glyoxylate/hydroxypyruvate reductase A (EC 1.1.1.79) (EC 1.1.1.81)
+PGF_00039342	Cronobacter	276.27	34.13	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039347	Cronobacter	447.93	36.95	Putative ECA polymerase WzyE
+PGF_00039356	Cronobacter	502.69	61.13	Putative GTP-binding protein YdgA
+PGF_00039367	Cronobacter	153.26	3.09	Uncharacterized transcriptional regulator YbaO, AsnC family
+PGF_00039385	Cronobacter	303.86	35.41	AaeAB efflux system for hydroxylated, aromatic carboxylic acids, membrane fusion component AaeA
+PGF_00039502	Cronobacter	253.42	21.47	Putative NAD(P)-dependent oxidoreductase EC-YbbO
+PGF_00039503	Cronobacter	181.43	13.73	Putative NAD(P)H nitroreductase YdjA
+PGF_00039714	Cronobacter	220.26	28.96	Putative SOS response-associated peptidase YedK
+PGF_00039721	Cronobacter	219.00	0.00	Putative TEGT family carrier/transport protein
+PGF_00039776	Cronobacter	323.96	46.41	Putative ThuR, regulatory protein for trehalosemaltose transport
+PGF_00040053	Cronobacter	310.76	52.63	Alkaline induced inner membrane protein Alx
+PGF_00040135	Cronobacter	251.57	36.20	Putative amidase
+PGF_00040223	Cronobacter	131.31	6.38	Putative aminoacrylate peracid reductase RutC @ RidA/YER057c/UK114 superfamily protein
+PGF_00040278	Cronobacter	231.65	26.88	Putative anti-FlhC(2)FlhD(4) factor YdiV
+PGF_00040367	Cronobacter	514.82	65.67	Putative capsular polysaccharide transport protein YegH
+PGF_00040461	Cronobacter	491.52	104.08	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeC
+PGF_00040500	Cronobacter	131.35	5.60	Putative cytochrome d ubiquinol oxidase subunit III (EC 1.10.3.-) (Cytochrome bd-I oxidase subunit III)
+PGF_00040507	Cronobacter	133.80	9.22	Putative cytoplasmic protein STM4186
+PGF_00040522	Cronobacter	79.00	0.00	Putative cytoplasmic protein YebV
+PGF_00040536	Cronobacter	149.57	9.90	Putative dehydrogenase
+PGF_00040578	Cronobacter	261.18	21.48	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Cronobacter	259.96	12.86	Putative deoxyribonuclease YjjV
+PGF_00040676	Cronobacter	356.61	85.63	Inner membrane transport protein YdhP
+PGF_00040782	Cronobacter	325.95	49.30	Protein YdgH
+PGF_00040855	Cronobacter	244.18	36.97	Alkanesulfonate ABC transporter ATP-binding protein SsuB
+PGF_00040869	Cronobacter	261.82	8.25	Alkanesulfonate ABC transporter permease protein SsuC
+PGF_00040881	Cronobacter	390.65	44.67	Putative galactosidase
+PGF_00040887	Cronobacter	307.01	57.28	Alkanesulfonate ABC transporter substrate-binding protein SsuA
+PGF_00040888	Cronobacter	357.69	28.51	Putative glutamate--cysteine ligase (EC:6.3.2.2)
+PGF_00041369	Cronobacter	225.35	7.93	GMP/IMP nucleotidase YrfG
+PGF_00041555	Cronobacter	135.42	9.05	Putative inner membrane protein
+PGF_00041585	Cronobacter	67.04	1.57	AaeX protein, function unknown
+PGF_00041586	Cronobacter	514.68	80.25	Putative inner membrane protein
+PGF_00041588	Cronobacter	213.92	0.96	Uncharacterized inner membrane protein STM4444
+PGF_00041607	Cronobacter	254.65	23.12	Uncharacterized inner membrane protein STM4443
+PGF_00041647	Cronobacter	228.22	31.68	Putative inner membrane protein
+PGF_00041657	Cronobacter	370.66	35.46	Putative inner membrane protein
+PGF_00041691	Cronobacter	65.35	2.18	Putative inner membrane protein YjeT (clustered with HflC)
+PGF_00041764	Cronobacter	467.47	55.73	Putative invasin
+PGF_00041794	Cronobacter	187.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041831	Cronobacter	496.19	85.84	Alkyl hydroperoxide reductase protein F
+PGF_00041906	Cronobacter	199.74	12.11	Putative luxR family bacterial regulatory protein
+PGF_00041931	Cronobacter	265.10	32.52	Putative mannosyl-3-phosphoglycerate phosphatase (EC 3.1.3.70)
+PGF_00041948	Cronobacter	413.26	60.54	Putative membrane protein YfjD
+PGF_00041955	Cronobacter	329.13	22.42	Putative membrane protein precursor
+PGF_00041975	Cronobacter	104.79	1.61	Inner membrane protein YjcH, clustering with ActP
+PGF_00042301	Cronobacter	477.91	58.60	Putative molybdenum transport ATP-binding protein modF
+PGF_00042419	Cronobacter	55.85	1.36	Putative outer membrane lipoprotein
+PGF_00042423	Cronobacter	75.08	2.12	Putative outer membrane lipoprotein
+PGF_00042427	Cronobacter	72.85	1.83	Uncharacterized membrane protein YhdV
+PGF_00042437	Cronobacter	112.68	6.02	Putative outer membrane lipoprotein
+PGF_00042440	Cronobacter	76.65	3.13	Putative outer membrane lipoprotein STM0080
+PGF_00042455	Cronobacter	254.53	22.04	Putative outer membrane or secreted lipoprotein
+PGF_00042517	Cronobacter	255.20	17.30	Putative outer membrane protein
+PGF_00042798	Cronobacter	249.82	21.08	Putative oxidoreductase
+PGF_00042837	Cronobacter	322.44	35.38	Putative oxidoreductase STM2406
+PGF_00042840	Cronobacter	286.54	15.63	Putative oxidoreductase YdbC
+PGF_00042843	Cronobacter	330.67	52.91	Putative oxidoreductase YncB
+PGF_00042848	Cronobacter	178.05	31.53	Anaerobic respiratory reductase chaperone
+PGF_00042863	Cronobacter	106.30	6.33	Putative pectin degradation protein
+PGF_00042961	Cronobacter	214.14	18.67	Putative periplasmic or exported protein
+PGF_00043027	Cronobacter	129.42	13.98	Putative periplasmic protein
+PGF_00043030	Cronobacter	99.36	8.83	Putative periplasmic protein
+PGF_00043067	Cronobacter	310.69	21.13	Putative periplasmic protein YibQ, distant homology with nucleoside diphosphatase and polysaccharide deacetylase
+PGF_00043154	Cronobacter	351.56	22.78	Putative permease PerM (= YfgO)
+PGF_00043218	Cronobacter	263.81	31.94	Putative phosphatase
+PGF_00043638	Cronobacter	212.62	18.20	Putative regulatory protein
+PGF_00043742	Cronobacter	180.92	12.21	Succinate-acetate/proton symporter SatP
+PGF_00043874	Cronobacter	66.11	4.38	Putative selenium-binding protein YdfZ
+PGF_00044215	Cronobacter	323.51	34.32	Galactofuranose ABC transporter, permease protein 2
+PGF_00045150	Cronobacter	383.17	46.27	Sugar efflux transporter A
+PGF_00045590	Cronobacter	214.84	41.84	Putative two-component system response regulator YedW
+PGF_00045599	Cronobacter	249.77	27.76	Putative two-domain glycosyltransferase
+PGF_00045657	Cronobacter	199.55	5.78	Uncharacterized protein YiiQ
+PGF_00045677	Cronobacter	764.72	249.10	Putative uncharacterized protein ydbH
+PGF_00045702	Cronobacter	423.42	110.27	Putative virulence effector protein
+PGF_00045727	Cronobacter	456.81	44.70	Putrescine aminotransferase (EC 2.6.1.82)
+PGF_00045731	Cronobacter	429.19	80.99	Putrescine importer
+PGF_00045738	Cronobacter	314.28	31.41	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045748	Cronobacter	429.86	41.00	Putrescine/proton symporter, putrescine/ornithine antiporter PotE
+PGF_00045833	Cronobacter	215.23	20.65	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Cronobacter	238.28	26.06	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045920	Cronobacter	355.17	43.62	Pyrimidine monooxygenase RutA (EC 1.14.99.46)
+PGF_00045982	Cronobacter	847.13	139.86	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00045997	Cronobacter	555.98	77.84	Pyruvate dehydrogenase (quinone) (EC 1.2.5.1)
+PGF_00046060	Cronobacter	219.95	18.94	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Cronobacter	287.76	34.02	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Cronobacter	344.93	35.87	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046273	Cronobacter	310.84	35.10	alpha-L-arabinofuranosidase II (EC 3.2.1.55)
+PGF_00046377	Cronobacter	234.03	5.54	RNA polymerase sigma factor for flagellar operon
+PGF_00046403	Cronobacter	468.30	58.29	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Cronobacter	151.04	0.48	RNA polymerase-binding transcription factor DksA
+PGF_00046613	Cronobacter	103.03	9.09	RNA-binding domain protein
+PGF_00046622	Cronobacter	101.09	4.61	RNA-binding protein Hfq
+PGF_00047078	Cronobacter	355.70	49.88	RecA protein
+PGF_00047147	Cronobacter	126.06	0.41	Redox-sensing transcriptional regulator QorR
+PGF_00047187	Cronobacter	324.27	51.12	Regulator of RpoS
+PGF_00047227	Cronobacter	166.50	4.51	Regulator of sigma D
+PGF_00047231	Cronobacter	181.90	1.44	Regulator of sigma S factor FliZ
+PGF_00047274	Cronobacter	151.97	0.40	Regulatory protein AsnC
+PGF_00047494	Cronobacter	675.21	110.53	alpha-galactosidase (EC 3.2.1.22)
+PGF_00047533	Cronobacter	393.33	35.29	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00047555	Cronobacter	548.60	54.80	Alpha-glucosidase (EC 3.2.1.20)
+PGF_00047556	Cronobacter	748.50	148.30	Alpha-glucosidase (EC 3.2.1.20)
+PGF_00047730	Cronobacter	468.24	109.42	Respiratory nitrate reductase beta chain (EC 1.7.99.4)
+PGF_00047732	Cronobacter	231.69	24.71	Respiratory nitrate reductase delta chain (EC 1.7.99.4)
+PGF_00047734	Cronobacter	216.57	35.88	Respiratory nitrate reductase gamma chain (EC 1.7.99.4)
+PGF_00047903	Cronobacter	371.01	83.88	Response regulator NasT
+PGF_00048177	Cronobacter	426.34	41.33	Alpha-ketoglutarate permease
+PGF_00048249	Cronobacter	202.64	36.56	Alpha-ketoglutarate-dependent dioxygenase AlkB (EC 1.14.11.33)
+PGF_00048271	Cronobacter	522.86	37.65	Rhamnogalacturonide transporter RhiT
+PGF_00048282	Cronobacter	464.23	84.45	Rhamnulokinase (EC 2.7.1.5)
+PGF_00048285	Cronobacter	268.35	36.20	Rhamnulose-1-phosphate aldolase (EC 4.1.2.19)
+PGF_00048290	Cronobacter	85.95	0.31	Rho-specific inhibitor of transcription termination (YaeO)
+PGF_00048419	Cronobacter	272.06	25.27	Rhomboid protease GlpG (EC 3.4.21.105)
+PGF_00048480	Cronobacter	211.65	25.79	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Cronobacter	112.68	7.38	Outer membrane beta-barrel assembly protein BamE
+PGF_00048539	Cronobacter	137.84	12.05	Ribonuclease E inhibitor RraB
+PGF_00048556	Cronobacter	195.68	13.35	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048559	Cronobacter	267.04	13.90	Ribonuclease I precursor (EC 3.1.27.6)
+PGF_00048586	Cronobacter	234.75	8.78	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048589	Cronobacter	219.99	18.47	Ribonuclease T
+PGF_00048594	Cronobacter	300.82	25.91	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048627	Cronobacter	688.74	91.55	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048641	Cronobacter	315.60	25.90	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Cronobacter	148.92	0.95	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048645	Cronobacter	129.50	14.50	Ribonucleotide reduction protein NrdI
+PGF_00048782	Cronobacter	312.21	18.12	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048787	Cronobacter	275.08	41.61	Ribose-phosphate pyrophosphokinase, possible alternative form
+PGF_00048817	Cronobacter	267.75	13.18	Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)
+PGF_00048840	Cronobacter	282.54	41.39	Ribosomal protein L11 methyltransferase
+PGF_00048842	Cronobacter	313.52	40.61	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Cronobacter	434.01	34.72	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048858	Cronobacter	283.74	46.76	Ribosomal protein S6--L-glutamate ligase
+PGF_00048868	Cronobacter	232.46	16.95	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048898	Cronobacter	112.08	8.16	Ribosome-associated inhibitor A
+PGF_00048917	Cronobacter	95.00	0.00	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Cronobacter	182.64	15.73	Ribosome recycling factor
+PGF_00048928	Cronobacter	348.00	0.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Cronobacter	132.87	1.41	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Cronobacter	133.31	3.97	Ribosome-binding factor A
+PGF_00048955	Cronobacter	236.89	15.61	Ribosyl nicotinamide transporter, PnuC-like
+PGF_00048961	Cronobacter	533.65	118.61	Ribulokinase (EC 2.7.1.16)
+PGF_00048985	Cronobacter	223.35	30.14	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049163	Cronobacter	158.85	17.71	Rod shape-determining protein MreD
+PGF_00049323	Cronobacter	259.85	24.15	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+PGF_00049344	Cronobacter	254.74	22.24	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00049430	Cronobacter	435.74	87.42	S-methylmethionine permease
+PGF_00049433	Cronobacter	169.32	14.13	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049546	Cronobacter	249.66	30.59	SAM-dependent methyltransferase YafE (UbiE paralog)
+PGF_00049706	Cronobacter	462.11	103.96	Altronate dehydratase (EC 4.2.1.7)
+PGF_00049721	Cronobacter	450.42	102.87	Altronate oxidoreductase (EC 1.1.1.58)
+PGF_00049827	Cronobacter	270.35	18.25	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Cronobacter	102.81	2.38	SSU ribosomal protein S10p (S20e)
+PGF_00049838	Cronobacter	116.32	23.15	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Cronobacter	113.13	13.00	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Cronobacter	100.46	8.92	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Cronobacter	81.49	4.53	SSU ribosomal protein S16p
+PGF_00049854	Cronobacter	83.90	1.27	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Cronobacter	74.81	2.46	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049889	Cronobacter	231.94	12.24	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Cronobacter	200.28	15.75	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Cronobacter	166.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Cronobacter	131.00	0.00	SSU ribosomal protein S6p
+PGF_00049906	Cronobacter	129.75	2.24	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Cronobacter	130.19	7.22	SSU ribosomal protein S9p (S16e)
+PGF_00050078	Cronobacter	389.90	61.14	SbmA protein
+PGF_00050573	Cronobacter	494.57	36.38	Sensor histidine kinase PhoQ (EC 2.7.13.3)
+PGF_00050590	Cronobacter	556.06	42.01	Sensor histidine kinase YehU
+PGF_00050592	Cronobacter	557.84	72.20	Sensor histidine kinase YpdA
+PGF_00050700	Cronobacter	346.62	36.61	Sensor protein BasS (activates BasR)
+PGF_00050981	Cronobacter	444.02	84.23	Sensory histidine kinase CreC of two-component signal transduction system CreBC
+PGF_00050995	Cronobacter	494.20	55.95	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Cronobacter	224.10	29.47	Septum site-determining protein MinC
+PGF_00051133	Cronobacter	419.37	69.22	Septum-associated cell division protein DamX
+PGF_00051140	Cronobacter	233.87	24.98	Septum-associated cell division protein DedD
+PGF_00051143	Cronobacter	182.23	7.38	SeqA protein, negative modulator of initiation of replication
+PGF_00051167	Cronobacter	203.67	18.32	Ser/Thr and Tyr protein phosphatase (dual specificity)
+PGF_00051326	Cronobacter	424.29	33.97	Serine transporter
+PGF_00051492	Cronobacter	206.27	28.17	Serine/threonine protein phosphatase 1 (EC 3.1.3.16)
+PGF_00051530	Cronobacter	543.96	62.32	SgrR, sugar-phosphate stress, transcriptional activator of SgrS small RNA
+PGF_00051717	Cronobacter	243.41	25.98	3-hydroxypropionate dehydrogenase (EC 1.1.1.298)
+PGF_00052132	Cronobacter	291.03	59.55	Sigma-fimbriae tip adhesin
+PGF_00052210	Cronobacter	595.32	79.20	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Cronobacter	448.04	37.96	Signal recognition particle protein Ffh
+PGF_00052511	Cronobacter	168.71	32.59	Uncharacterized protein YrdD
+PGF_00052705	Cronobacter	137.94	17.25	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Cronobacter	298.59	15.22	Site-specific tyrosine recombinase XerD
+PGF_00053521	Cronobacter	125.52	11.01	Soluble cytochrome b562
+PGF_00053553	Cronobacter	462.15	62.45	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+PGF_00053627	Cronobacter	185.98	0.14	Spermidine N1-acetyltransferase (EC 2.3.1.57)
+PGF_00053669	Cronobacter	119.00	0.00	Spermidine export protein MdtJ
+PGF_00053752	Cronobacter	158.04	13.47	Spheroplast protein Y
+PGF_00053770	Cronobacter	360.79	33.55	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054161	Cronobacter	404.81	59.12	Stationary phase inducible protein CsiE
+PGF_00054301	Cronobacter	207.58	25.31	Stringent starvation protein A
+PGF_00054323	Cronobacter	204.32	11.61	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Cronobacter	114.36	6.32	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Cronobacter	236.51	16.09	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Cronobacter	370.15	64.41	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054543	Cronobacter	404.41	93.96	Succinylarginine dihydrolase (EC 3.5.3.23)
+PGF_00054569	Cronobacter	341.14	22.02	Sucrose operon repressor ScrR, LacI family
+PGF_00054778	Cronobacter	363.92	55.50	Sugar diacid utilization regulator SdaR
+PGF_00054816	Cronobacter	268.54	25.84	Sugar phosphatase YbiV
+PGF_00054818	Cronobacter	215.00	20.07	Sugar phosphatase YfbT (EC 3.1.3.23)
+PGF_00054820	Cronobacter	268.17	15.77	Sugar phosphatase YidA (EC 3.1.3.23)
+PGF_00054959	Cronobacter	467.58	52.46	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Cronobacter	291.33	44.43	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00054964	Cronobacter	347.13	56.98	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+PGF_00054986	Cronobacter	268.25	34.23	Sulfate transport system permease protein CysT
+PGF_00054988	Cronobacter	288.96	0.81	Sulfate transport system permease protein CysW
+PGF_00055049	Cronobacter	564.49	108.77	Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+PGF_00055052	Cronobacter	534.14	98.91	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055095	Cronobacter	321.25	53.35	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+PGF_00055099	Cronobacter	137.00	9.23	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055363	Cronobacter	180.44	7.32	Syd protein
+PGF_00055398	Cronobacter	344.75	47.01	TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase (EC 2.4.1.325)
+PGF_00055966	Cronobacter	365.35	65.55	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056057	Cronobacter	343.69	22.85	Tas protein, an NADP(H)-dependent aldo-keto reductase
+PGF_00056105	Cronobacter	269.54	32.66	Taurine transport system permease protein TauC
+PGF_00056127	Cronobacter	75.82	2.58	Tautomerase PptA
+PGF_00056170	Cronobacter	190.67	29.15	Tellurite methyltransferase (EC 2.1.1.265)
+PGF_00056273	Cronobacter	313.74	41.66	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056496	Cronobacter	226.48	29.24	Thiamin ABC transporter, ATPase component
+PGF_00056498	Cronobacter	319.32	42.83	Thiamin ABC transporter, substrate-binding component
+PGF_00056527	Cronobacter	268.54	22.71	Thiamine kinase (EC 2.7.1.89) @ Adenosylcobinamide kinase (EC 2.7.1.156)
+PGF_00056634	Cronobacter	165.27	16.79	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056700	Cronobacter	315.81	36.51	Anthranilate phosphoribosyltransferase like (EC 2.4.2.18)
+PGF_00056821	Cronobacter	114.10	8.18	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)
+PGF_00056876	Cronobacter	411.50	100.76	Thymidine phosphorylase (EC 2.4.2.4)
+PGF_00056900	Cronobacter	302.58	36.15	2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)
+PGF_00056935	Cronobacter	449.72	92.50	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Cronobacter	141.78	2.78	Tol biopolymer transport system, TolR protein
+PGF_00057032	Cronobacter	130.69	11.25	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057226	Cronobacter	741.69	81.98	TonB-dependent receptor; Outer membrane receptor for ferric enterobactin and colicins B, D
+PGF_00057422	Cronobacter	623.89	69.47	Transcription antiterminator STM4448, BglG family
+PGF_00057435	Cronobacter	155.14	13.31	Transcription elongation factor GreB
+PGF_00057445	Cronobacter	203.25	15.40	2-dehydro-3-deoxyphosphogalactonate aldolase (EC 4.1.2.21)
+PGF_00057483	Cronobacter	415.18	28.64	Transcription termination factor Rho
+PGF_00057485	Cronobacter	477.64	72.05	Transcription termination protein NusA
+PGF_00057488	Cronobacter	138.43	8.08	Transcription termination protein NusB
+PGF_00057496	Cronobacter	342.52	17.17	Transcriptional (co)regulator CytR
+PGF_00057513	Cronobacter	288.97	40.11	Transcriptional activator NhaR
+PGF_00057518	Cronobacter	114.11	0.37	Transcriptional activator RamA
+PGF_00057520	Cronobacter	160.98	9.63	Transcriptional activator RfaH
+PGF_00057543	Cronobacter	848.24	161.84	Transcriptional activator of maltose regulon, MalT
+PGF_00057553	Cronobacter	310.56	8.83	Transcriptional activator protein LysR
+PGF_00057576	Cronobacter	213.25	17.96	Transcriptional activator protein bglJ
+PGF_00058562	Cronobacter	462.28	97.57	Transcriptional regulator GabR of GABA utilization (GntR family with aminotransferase-like domain)
+PGF_00058666	Cronobacter	193.56	22.96	Transcriptional regulator SlmA, TetR family
+PGF_00058670	Cronobacter	144.01	1.54	Transcriptional regulator SlyA
+PGF_00058671	Cronobacter	155.46	6.58	Transcriptional regulator SlyA
+PGF_00058710	Cronobacter	139.11	11.43	Transcriptional regulator ZntR, MerR family
+PGF_00058734	Cronobacter	238.35	10.20	Transcriptional regulator for fatty acid degradation FadR, GntR family
+PGF_00058781	Cronobacter	236.40	27.55	Transcriptional regulator of fructoselysine utilization operon FrlR
+PGF_00058852	Cronobacter	190.62	4.68	Transcriptional regulator YjdC, AcrR family
+PGF_00059352	Cronobacter	226.47	23.46	Transcriptional regulator, IclR family
+PGF_00060176	Cronobacter	235.40	32.98	Transcriptional regulatory protein RstA
+PGF_00060178	Cronobacter	514.30	75.69	Transcriptional regulatory protein RtcR
+PGF_00060184	Cronobacter	257.78	26.38	Transcriptional regulatory protein YciT
+PGF_00060186	Cronobacter	240.42	6.92	Transcriptional regulatory protein YehT
+PGF_00060187	Cronobacter	242.99	0.08	Transcriptional regulatory protein YpdB
+PGF_00060255	Cronobacter	174.95	9.54	Multidrug resistance regulator EmrR (MprA)
+PGF_00060263	Cronobacter	253.74	2.35	Transcriptional repressor for pyruvate dehydrogenase complex
+PGF_00060287	Cronobacter	109.02	0.14	Transcriptional repressor protein TrpR
+PGF_00060289	Cronobacter	494.01	90.95	Transcriptional repressor protein TyrR
+PGF_00060313	Cronobacter	433.48	56.71	Transcriptional response regulatory protein GlrR
+PGF_00060414	Cronobacter	580.79	82.27	Translation elongation factor LepA
+PGF_00060421	Cronobacter	187.15	3.48	Translation elongation factor P
+PGF_00060424	Cronobacter	321.94	23.05	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Cronobacter	280.84	18.95	Translation elongation factor Ts
+PGF_00060431	Cronobacter	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Cronobacter	131.60	15.29	Translation initiation factor 3
+PGF_00060481	Cronobacter	107.96	0.48	Translation initiation factor SUI1-related protein
+PGF_00061434	Cronobacter	94.83	7.44	Antitoxin to RelE-like translational repressor toxin
+PGF_00061607	Cronobacter	125.00	0.00	ApaG protein
+PGF_00061792	Cronobacter	310.72	29.02	Trehalose operon transcriptional repressor
+PGF_00061800	Cronobacter	506.14	101.71	Trehalose synthase (EC 5.4.99.16)
+PGF_00062023	Cronobacter	266.62	18.68	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062041	Cronobacter	397.09	64.15	Tryptophan-specific transport protein
+PGF_00062045	Cronobacter	327.82	35.69	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062061	Cronobacter	391.69	26.09	Selenite- and tellurite-inducible protein TsgA
+PGF_00062146	Cronobacter	67.18	3.23	Twin-arginine translocation protein TatE
+PGF_00062710	Cronobacter	221.33	9.56	2-deoxyglucose-6-phosphate hydrolase YniC
+PGF_00063150	Cronobacter	209.49	31.78	Two-component transcriptional regulatory protein BasR (activated by BasS)
+PGF_00063683	Cronobacter	142.57	8.24	Type IV pilin PilA
+PGF_00063806	Cronobacter	168.00	0.00	Type VI secretion lipoprotein/VasD
+PGF_00063912	Cronobacter	394.73	39.68	Tyrosine-specific transport protein
+PGF_00063916	Cronobacter	417.47	56.31	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Cronobacter	232.80	29.29	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Cronobacter	298.42	24.88	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Cronobacter	335.53	25.72	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Cronobacter	341.28	17.79	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063999	Cronobacter	447.99	114.89	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064141	Cronobacter	520.86	98.35	UDP-sugar hydrolase (EC 3.6.1.45); 5'-nucleotidase (EC 3.1.3.5)
+PGF_00064154	Cronobacter	76.70	2.22	UPF0033 protein YedF
+PGF_00064170	Cronobacter	236.75	2.87	UPF0053 inner membrane protein YgdQ
+PGF_00064180	Cronobacter	236.42	29.54	Arginine ABC transporter, ATP-binding protein ArtP
+PGF_00064184	Cronobacter	458.06	84.36	UPF0061 protein YdiU
+PGF_00064191	Cronobacter	155.30	17.22	UPF0098 protein ybhB
+PGF_00064196	Cronobacter	224.52	45.35	Arginine ABC transporter, substrate-binding protein ArtJ
+PGF_00064199	Cronobacter	195.86	17.48	UPF0115 protein YfcN
+PGF_00064201	Cronobacter	349.52	35.16	UPF0118 inner membrane protein YhhT
+PGF_00064204	Cronobacter	220.01	13.25	Arginine ABC transporter, permease protein ArtM
+PGF_00064212	Cronobacter	106.70	9.26	UPF0131 protein YtfP
+PGF_00064218	Cronobacter	106.81	1.78	UPF0145 protein YbjQ
+PGF_00064239	Cronobacter	149.30	10.31	UPF0208 membrane protein YfbV
+PGF_00064250	Cronobacter	379.48	61.01	UPF0226 protein YhhS
+PGF_00064251	Cronobacter	410.51	61.55	UPF0229 protein YeaH
+PGF_00064256	Cronobacter	120.53	5.71	UPF0231 protein YacL
+PGF_00064270	Cronobacter	257.00	0.00	UPF0246 protein YaaA
+PGF_00064277	Cronobacter	66.00	0.00	UPF0253 protein YaeP
+PGF_00064280	Cronobacter	148.22	2.96	UPF0260 protein YcgN
+PGF_00064283	Cronobacter	110.85	7.94	UPF0265 protein YeeX
+PGF_00064284	Cronobacter	149.68	12.05	UPF0266 membrane protein YobD
+PGF_00064294	Cronobacter	246.46	26.86	UPF0294 protein YafD
+PGF_00064295	Cronobacter	132.51	5.85	UPF0299 membrane protein YohJ
+PGF_00064317	Cronobacter	128.53	4.22	UPF0325 protein YaeH
+PGF_00064341	Cronobacter	74.78	2.70	UPF0352 protein YejL
+PGF_00064342	Cronobacter	61.91	4.65	UPF0370 protein YpfN
+PGF_00064350	Cronobacter	93.45	4.91	UPF0381 protein YfcZ
+PGF_00064355	Cronobacter	390.66	54.73	UPF0394 inner membrane protein YedE
+PGF_00064376	Cronobacter	58.60	5.14	UPF0509 protein YciZ
+PGF_00064378	Cronobacter	255.42	35.16	Transmembrane protein YfcA
+PGF_00064385	Cronobacter	261.21	40.68	UPF0759 protein YecE
+PGF_00064460	Cronobacter	512.64	93.37	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064489	Cronobacter	237.69	2.52	Arginine ABC transporter, permease protein ArtQ
+PGF_00064506	Cronobacter	250.36	27.44	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064571	Cronobacter	279.05	24.95	Uncharacterized HTH-type transcriptional regulator YfhH
+PGF_00064578	Cronobacter	233.08	0.55	Uncharacterized transcriptional regulator YieP, GntR family
+PGF_00064596	Cronobacter	189.85	20.16	Uncharacterized Nudix hydrolase YfcD
+PGF_00064610	Cronobacter	441.20	67.54	Arginine/ornithine antiporter ArcD
+PGF_00064685	Cronobacter	82.29	11.18	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064730	Cronobacter	669.58	188.73	Uncharacterized glycosyl hydrolase YcjT
+PGF_00064747	Cronobacter	82.92	0.55	Uncharacterized inner membrane protein YbdJ
+PGF_00064760	Cronobacter	443.48	56.22	Uncharacterized iron-regulated membrane protein; Iron-uptake factor PiuB
+PGF_00064772	Cronobacter	173.97	10.83	Uncharacterized lipoprotein YbjP
+PGF_00064774	Cronobacter	187.94	27.03	Uncharacterized lipoprotein YeaY
+PGF_00064775	Cronobacter	221.57	23.11	AroM protein
+PGF_00064776	Cronobacter	136.14	8.02	Uncharacterized lipoprotein YedD
+PGF_00064781	Cronobacter	185.15	11.62	Uncharacterized lipoprotein YmbA
+PGF_00064805	Cronobacter	100.00	0.00	Uncharacterized membrane protein YqjD
+PGF_00064819	Cronobacter	224.72	23.09	Uncharacterized metabolite ABC transporter in Enterobacteriaceae, ATP-binding protein EC-YbbA
+PGF_00064840	Cronobacter	358.66	46.22	Uncharacterized outer membrane protein YaiW
+PGF_00064844	Cronobacter	179.73	17.58	Uncharacterized outer membrane protein YfaZ
+PGF_00064859	Cronobacter	340.94	36.00	Uncharacterized oxidoreductase YdgJ
+PGF_00064863	Cronobacter	447.55	46.78	Aromatic amino acid transport protein AroP
+PGF_00064865	Cronobacter	85.84	1.99	Uncharacterized periplasmic protein YbiJ
+PGF_00064879	Cronobacter	613.96	122.29	Uncharacterized protease YdcP
+PGF_00064880	Cronobacter	430.51	70.91	Uncharacterized protease YegQ
+PGF_00064992	Cronobacter	137.07	16.90	Uncharacterized protein KPN_01043
+PGF_00065178	Cronobacter	361.54	44.60	Inner membrane protein YbiR
+PGF_00065402	Cronobacter	208.00	0.00	Uncharacterized protein YaiV
+PGF_00065403	Cronobacter	71.63	2.61	Uncharacterized protein YaiZ
+PGF_00065405	Cronobacter	50.16	1.38	Uncharacterized protein YbaM
+PGF_00065406	Cronobacter	251.76	44.64	Uncharacterized protein YbaP
+PGF_00065425	Cronobacter	67.52	2.93	Uncharacterized protein YbfA
+PGF_00065436	Cronobacter	295.27	16.16	Uncharacterized protein YcbJ
+PGF_00065438	Cronobacter	73.72	6.26	Uncharacterized protein YccJ
+PGF_00065454	Cronobacter	362.29	71.11	Uncharacterized protein YciW
+PGF_00065467	Cronobacter	76.98	6.19	Tetrapartite efflux system component, FusD-like
+PGF_00065468	Cronobacter	77.81	5.65	Uncharacterized protein YdhL
+PGF_00065479	Cronobacter	96.50	3.20	Uncharacterized protein YdiZ
+PGF_00065481	Cronobacter	90.77	7.15	Uncharacterized protein YeaC
+PGF_00065482	Cronobacter	613.26	109.13	Uncharacterized protein YeaG
+PGF_00065488	Cronobacter	94.94	0.35	Uncharacterized protein YebO
+PGF_00065489	Cronobacter	223.07	0.83	Uncharacterized protein YecA
+PGF_00065515	Cronobacter	371.23	56.61	Uncharacterized protein YeiB
+PGF_00065521	Cronobacter	113.23	5.65	Uncharacterized protein YejG
+PGF_00065535	Cronobacter	201.44	18.17	Arylsulfatase (EC 3.1.6.1)
+PGF_00065554	Cronobacter	50.93	0.26	Uncharacterized protein YfgG
+PGF_00065556	Cronobacter	72.92	1.61	Uncharacterized protein YfgJ
+PGF_00065591	Cronobacter	147.05	13.44	Uncharacterized protein YhhA
+PGF_00065593	Cronobacter	88.94	3.91	Uncharacterized protein YhhL
+PGF_00065603	Cronobacter	397.08	68.83	Uncharacterized protein YidR
+PGF_00065644	Cronobacter	114.03	7.45	Uncharacterized protein YneG
+PGF_00065648	Cronobacter	91.79	6.89	Uncharacterized protein YnjH
+PGF_00065658	Cronobacter	78.81	2.99	Uncharacterized protein YobH
+PGF_00065659	Cronobacter	59.98	0.14	Uncharacterized protein YodC
+PGF_00065682	Cronobacter	126.99	3.15	Uncharacterized protein YqjB
+PGF_00065688	Cronobacter	68.00	0.00	Uncharacterized protein YtfK
+PGF_00065737	Cronobacter	151.50	24.54	Uncharacterized protein similar to VCA0109
+PGF_00065765	Cronobacter	93.37	3.44	Uncharacterized protein YbfE
+PGF_00065779	Cronobacter	62.96	0.48	Uncharacterized protein ynbE; probable lipoprotein STY1424
+PGF_00065815	Cronobacter	232.68	26.84	Uncharacterized putative hydrolase YigB
+PGF_00065835	Cronobacter	158.89	1.43	Uncharacterized sensory transduction regulator YbjN
+PGF_00065854	Cronobacter	222.91	25.10	Uncharacterized tRNA/rRNA methyltransferase LasT
+PGF_00065856	Cronobacter	336.95	58.98	Uncharacterized tRNA/rRNA methyltransferase YfiF
+PGF_00065878	Cronobacter	467.77	76.24	Uncharacterized transporter YeeO
+PGF_00065882	Cronobacter	392.01	70.74	Uncharacterized zinc-type alcohol dehydrogenase-like protein YbdR
+PGF_00065887	Cronobacter	249.70	9.87	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065899	Cronobacter	196.48	4.47	Undecaprenyl-diphosphatase BcrC (EC 3.6.1.27)
+PGF_00065934	Cronobacter	137.44	21.36	Universal stress protein A
+PGF_00065937	Cronobacter	109.41	8.83	Universal stress protein B
+PGF_00065941	Cronobacter	308.07	43.60	Universal stress protein E
+PGF_00066089	Cronobacter	208.65	19.31	Unsaturated fatty acid biosythesis repressor FabR, TetR family
+PGF_00066123	Cronobacter	206.70	16.91	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Cronobacter	216.78	37.23	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Cronobacter	208.81	21.05	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066263	Cronobacter	457.12	63.48	Uronate isomerase (EC 5.3.1.12)
+PGF_00066270	Cronobacter	339.22	53.86	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066281	Cronobacter	529.06	98.69	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)
+PGF_00066294	Cronobacter	241.87	19.70	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066449	Cronobacter	407.47	73.55	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00066502	Cronobacter	460.68	37.43	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Cronobacter	125.79	2.63	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066616	Cronobacter	295.32	45.96	Virulence factor MviM
+PGF_00066690	Cronobacter	241.68	25.00	Vitamin B12 ABC transporter, ATP-binding protein BtuD
+PGF_00066715	Cronobacter	379.40	62.87	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00066854	Cronobacter	467.84	57.13	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066884	Cronobacter	429.40	53.10	Xaa-Pro dipeptidase PepQ (EC 3.4.13.9)
+PGF_00066906	Cronobacter	297.39	48.61	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Cronobacter	423.52	36.56	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066960	Cronobacter	153.06	0.72	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067060	Cronobacter	379.57	50.87	Xylose activator XylR (AraC family)
+PGF_00067063	Cronobacter	439.03	5.83	Xylose isomerase (EC 5.3.1.5)
+PGF_00067091	Cronobacter	222.25	38.21	Aspartate racemase (EC 5.1.1.13)
+PGF_00067160	Cronobacter	323.04	40.33	Aspartate--ammonia ligase (EC 6.3.1.1)
+PGF_00067192	Cronobacter	181.00	0.00	YaeQ protein
+PGF_00067254	Cronobacter	120.74	8.02	YcfF/hinT protein: a purine nucleoside phosphoramidase
+PGF_00067257	Cronobacter	121.50	12.49	YcfL protein: an outer membrane lipoprotein that is part of a salvage cluster
+PGF_00067259	Cronobacter	179.33	11.47	YcfP protein: probably an esterase that is part of a salvage cluster
+PGF_00067273	Cronobacter	115.93	1.25	YebG, DNA damage-inducible gene in SOS regulon, expressed in stationary phase
+PGF_00067343	Cronobacter	104.00	0.00	YgiN protei involved in menadione metabolism
+PGF_00067346	Cronobacter	235.96	21.83	YheO-like PAS domain
+PGF_00067360	Cronobacter	321.02	46.25	YihE protein, a ser/thr kinase implicated in LPS synthesis and Cpx signalling
+PGF_00067366	Cronobacter	210.27	4.67	Uncharacterized lipoprotein YjbF
+PGF_00067371	Cronobacter	666.87	117.31	Uncharacterized lipoprotein YjbH
+PGF_00067401	Cronobacter	278.62	30.36	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067528	Cronobacter	305.90	60.82	Zinc transport protein ZntB
+PGF_00067532	Cronobacter	252.66	27.70	Zinc transporter ZupT
+PGF_00067547	Cronobacter	169.55	13.11	Zinc uptake regulation protein Zur
+PGF_00067788	Cronobacter	274.58	48.48	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00067791	Cronobacter	828.46	189.03	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00069596	Cronobacter	296.36	28.83	Ferrous-iron efflux pump FieF
+PGF_00069740	Cronobacter	373.27	28.78	2-iminoacetate synthase (ThiH) (EC 4.1.99.19)
+PGF_00070457	Cronobacter	358.66	65.07	dTDP-4-amino-4,6-dideoxygalactose transaminase (EC 2.6.1.59)
+PGF_00071693	Cronobacter	278.30	67.08	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00071934	Cronobacter	320.04	49.63	2-keto-3-deoxygluconate permease (KDG permease)
+PGF_00071938	Cronobacter	155.82	11.93	Bacterioferritin (EC 1.16.3.1)
+PGF_00072177	Cronobacter	104.14	6.30	hemimethylated DNA binding protein YccV
+PGF_00072449	Cronobacter	215.19	15.88	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00084324	Cronobacter	270.72	19.32	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00092793	Cronobacter	89.68	3.98	Uncharacterized protein YjbD
+PGF_00100287	Cronobacter	195.01	32.11	hypothetical protein
+PGF_00103526	Cronobacter	333.89	56.08	hypothetical protein
+PGF_00111175	Cronobacter	215.92	16.30	hypothetical protein
+PGF_00113984	Cronobacter	187.58	16.97	Flavin prenyltransferase UbiX
+PGF_00115977	Cronobacter	265.44	36.90	hypothetical protein
+PGF_00145700	Cronobacter	112.25	6.20	Inner membrane protein YidG
+PGF_00153636	Cronobacter	278.62	37.75	hypothetical protein
+PGF_00163938	Cronobacter	134.88	22.83	hypothetical protein
+PGF_00183915	Cronobacter	126.19	39.29	hypothetical protein
+PGF_00184206	Cronobacter	150.61	3.12	L-alanine exporter AlaE
+PGF_00184795	Cronobacter	144.08	0.55	UPF0306 protein YhbP
+PGF_00189884	Cronobacter	530.11	92.63	hypothetical protein
+PGF_00210946	Cronobacter	220.53	16.99	Uncharacterized protein YjaH
+PGF_00225462	Cronobacter	129.27	6.76	hypothetical protein
+PGF_00227318	Cronobacter	281.30	50.36	Threonine/homoserine exporter RhtA
+PGF_00232340	Cronobacter	108.24	10.03	hypothetical protein
+PGF_00246154	Cronobacter	95.54	8.04	hypothetical protein
+PGF_00254024	Cronobacter	303.96	34.90	Uncharacterized protein YagQ
+PGF_00255992	Cronobacter	118.38	7.94	hypothetical protein
+PGF_00259798	Cronobacter	81.01	2.57	hypothetical protein
+PGF_00261173	Cronobacter	356.55	52.06	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00279480	Cronobacter	107.14	7.65	Uncharacterized protein STM4440
+PGF_00280549	Cronobacter	302.01	20.39	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00285620	Cronobacter	205.28	13.54	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00295936	Cronobacter	239.41	20.12	ABC transporter, ATP-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_00300187	Cronobacter	286.45	18.85	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00312702	Cronobacter	146.75	5.23	hypothetical protein
+PGF_00314131	Cronobacter	249.58	7.12	Uncharacterized protein YieE
+PGF_00319032	Cronobacter	110.38	13.41	hypothetical protein
+PGF_00350045	Cronobacter	199.13	0.71	hypothetical protein
+PGF_00350921	Cronobacter	340.64	33.12	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00364373	Cronobacter	414.83	36.78	Uncharacterized inner membrane protein YjiN
+PGF_00380726	Cronobacter	115.22	10.83	hypothetical protein
+PGF_00380777	Cronobacter	177.11	22.52	Stresses-induced protein Ves (HutD)
+PGF_00391302	Cronobacter	178.93	11.24	hypothetical protein
+PGF_00399327	Cronobacter	366.40	50.63	Uncharacterized protein YjjU
+PGF_00399622	Cronobacter	89.86	5.15	Barstar, ribonuclease (Barnase) inhibitor
+PGF_00400351	Cronobacter	320.53	27.63	2-ketoaldonate reductase, broad specificity (EC 1.1.1.215) (EC 1.1.1.-)
+PGF_00401234	Cronobacter	416.01	51.75	2-ketogluconate transporter
+PGF_00401437	Cronobacter	331.48	37.36	2-ketogluconate utilization repressor PtxS
+PGF_00401928	Cronobacter	250.76	3.01	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201) @ Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_00402817	Cronobacter	474.50	66.73	Betaine aldehyde dehydrogenase (EC 1.2.1.8)
+PGF_00403787	Cronobacter	83.32	3.76	Biofilm regulator BssS
+PGF_00404019	Cronobacter	603.64	138.24	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Cronobacter	156.57	10.68	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Cronobacter	434.74	69.36	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Cronobacter	317.20	20.90	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404384	Cronobacter	338.66	35.96	Biotin synthase (EC 2.8.1.6)
+PGF_00404395	Cronobacter	90.40	3.76	probable membrane protein YPO2012
+PGF_00404496	Cronobacter	247.42	41.76	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)
+PGF_00404831	Cronobacter	275.54	36.92	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Cronobacter	899.50	140.65	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00407886	Cronobacter	628.46	82.37	RNase E specificity factor CsrD
+PGF_00408176	Cronobacter	214.65	19.81	UPF0441 protein YgiB
+PGF_00408794	Cronobacter	351.54	20.74	putative membrane protein
+PGF_00409373	Cronobacter	144.34	16.08	putative membrane protein
+PGF_00409577	Cronobacter	176.82	11.01	putative membrane protein
+PGF_00410674	Cronobacter	109.12	0.85	UPF0482 protein YnfB
+PGF_00410709	Cronobacter	130.13	0.73	putative secreted protein
+PGF_00412239	Cronobacter	362.73	31.33	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)
+PGF_00413166	Cronobacter	244.73	24.69	BsmA
+PGF_00413182	Cronobacter	319.51	26.46	tRNA (mo5U34)-methyltransferase
+PGF_00413203	Cronobacter	156.17	6.37	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Cronobacter	239.44	46.64	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413223	Cronobacter	227.43	13.58	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+PGF_00413230	Cronobacter	242.57	27.08	tRNA (cmo5U34)-methyltransferase
+PGF_00413232	Cronobacter	109.50	7.69	tRNA 2-thiouridine synthesis protein TusE
+PGF_00413237	Cronobacter	455.12	97.70	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413239	Cronobacter	94.24	5.98	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusB
+PGF_00413243	Cronobacter	117.86	7.86	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusC
+PGF_00413245	Cronobacter	126.96	7.65	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD
+PGF_00413253	Cronobacter	85.26	4.98	tRNA 5-methylaminomethyl-2-thiouridine synthesis sulfur carrier protein TusA
+PGF_00413266	Cronobacter	326.12	29.24	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413284	Cronobacter	150.19	12.30	tRNA proofreading protein STM4549
+PGF_00413286	Cronobacter	324.22	75.51	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Cronobacter	266.90	20.64	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Cronobacter	313.30	5.94	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Cronobacter	592.17	116.12	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Cronobacter	300.59	40.76	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413319	Cronobacter	250.01	24.54	tRNA-(ms[2]io[6]A)-hydroxylase
+PGF_00413340	Cronobacter	299.66	42.26	tRNA-dihydrouridine(16) synthase
+PGF_00413554	Cronobacter	158.47	12.62	tmRNA-binding protein SmpB
+PGF_00414228	Cronobacter	232.15	34.69	Two-component system response regulator OmpR
+PGF_00414926	Cronobacter	397.15	68.48	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00414976	Cronobacter	445.83	45.23	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_00415045	Cronobacter	316.26	42.69	L-arabinose ABC transporter, permease protein AraH
+PGF_00415136	Cronobacter	367.86	43.13	COG0330: Membrane protease subunits, stomatin/prohibitin homologs
+PGF_00415150	Cronobacter	278.84	15.11	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415332	Cronobacter	356.35	45.26	23S rRNA (cytidine(2498)-2'-O)-methyltransferase (EC 2.1.1.186)
+PGF_00415346	Cronobacter	377.82	64.53	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415363	Cronobacter	368.31	40.71	23S rRNA (guanine(1835)-N(2))-methyltransferase (EC 2.1.1.174)
+PGF_00415422	Cronobacter	692.82	73.91	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415434	Cronobacter	238.51	16.86	COG1296: Predicted branched-chain amino acid permease (azaleucine resistance)
+PGF_00415463	Cronobacter	170.06	0.56	Uncharacterized protein YgjP
+PGF_00415545	Cronobacter	356.23	68.11	23S rRNA (uracil(747)-C(5))-methyltransferase (EC 2.1.1.189)
+PGF_00415581	Cronobacter	211.01	12.39	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416129	Cronobacter	527.94	80.32	CTP synthase (EC 6.3.4.2)
+PGF_00416200	Cronobacter	361.84	30.39	Calcium/proton antiporter
+PGF_00416302	Cronobacter	356.46	66.77	Capsular polysaccharide export system inner membrane protein KpsE
+PGF_00416306	Cronobacter	529.87	89.19	Capsular polysaccharide export system periplasmic protein KpsD
+PGF_00416408	Cronobacter	295.65	36.49	Carbamate kinase (EC 2.7.2.2)
+PGF_00416508	Cronobacter	61.00	0.00	Carbon storage regulator
+PGF_00416576	Cronobacter	179.82	9.48	3'-to-5' oligoribonuclease (orn)
+PGF_00416584	Cronobacter	268.90	24.82	Dienelactone hydrolase family protein
+PGF_00416684	Cronobacter	304.76	37.10	Catabolite control protein A
+PGF_00416702	Cronobacter	677.15	147.97	Catalase-peroxidase KatG (EC 1.11.1.21)
+PGF_00416769	Cronobacter	75.67	3.60	Cation transport regulator chaB
+PGF_00416872	Cronobacter	167.59	4.85	Cell division inhibitor
+PGF_00417010	Cronobacter	119.58	6.56	Cell division protein FtsL
+PGF_00417104	Cronobacter	308.85	38.47	Cell division protein ZipA
+PGF_00417140	Cronobacter	226.28	42.00	ABC transporter, ATP-binding protein
+PGF_00417429	Cronobacter	366.81	51.14	Chaperone protein DnaJ
+PGF_00417577	Cronobacter	149.73	10.53	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Cronobacter	324.41	32.48	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Cronobacter	242.11	8.33	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417831	Cronobacter	364.52	43.20	Chorismate mutase I (EC 5.4.99.5) / Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_00417840	Cronobacter	351.56	45.39	Chorismate synthase (EC 4.2.3.5)
+PGF_00417843	Cronobacter	169.11	1.01	Chorismate--pyruvate lyase (EC 4.1.3.40)
+PGF_00417961	Cronobacter	437.32	31.41	Chromosome partition protein MukF
+PGF_00417987	Cronobacter	182.89	24.51	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Cronobacter	247.19	4.46	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418156	Cronobacter	162.19	7.56	ClpXP protease specificity-enhancing factor / Stringent starvation protein B
+PGF_00418168	Cronobacter	74.69	11.41	Cnu protein
+PGF_00418243	Cronobacter	193.91	16.89	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00418406	Cronobacter	170.72	12.36	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418526	Cronobacter	159.52	17.39	Colanic acid biosynthesis acetyltransferase WcaB (EC 2.3.1.-)
+PGF_00418528	Cronobacter	182.18	6.95	Colanic acid biosynthesis acetyltransferase WcaF (EC 2.3.1.-)
+PGF_00418532	Cronobacter	281.01	10.45	Colanic acid biosynthesis glycosyl transferase WcaA
+PGF_00418534	Cronobacter	392.15	51.90	Colanic acid biosynthesis glycosyl transferase WcaC
+PGF_00418537	Cronobacter	397.87	39.31	Colanic acid biosynthesis glycosyl transferase WcaL
+PGF_00418539	Cronobacter	458.92	53.74	Colanic acid biosynthesis protein WcaM
+PGF_00418547	Cronobacter	420.11	37.66	Colanic acid biosysnthesis protein WcaK
+PGF_00418549	Cronobacter	390.14	57.18	Colanic acid polymerase WcaD
+PGF_00418658	Cronobacter	161.06	0.57	Colicin V production protein
+PGF_00418710	Cronobacter	319.53	47.99	Uncharacterized protease YhbU
+PGF_00419420	Cronobacter	458.66	43.75	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419487	Cronobacter	162.20	4.46	Conserved uncharacterized protein CreA
+PGF_00419572	Cronobacter	136.03	8.07	Copper resistance transcriptional regulator CueR (MerR family)
+PGF_00419627	Cronobacter	293.40	34.79	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419628	Cronobacter	448.18	46.03	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Cronobacter	170.59	15.88	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419802	Cronobacter	169.41	12.91	Cupin domain-containing protein
+PGF_00419816	Cronobacter	128.82	1.70	Curlin genes transcriptional activator
+PGF_00419886	Cronobacter	274.99	32.40	3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2)
+PGF_00419891	Cronobacter	209.59	3.63	Cyclic AMP receptor protein
+PGF_00419904	Cronobacter	624.70	120.63	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeR
+PGF_00419913	Cronobacter	160.54	6.82	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Cronobacter	256.48	32.80	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00419962	Cronobacter	96.53	4.78	Cyd operon protein YbgE
+PGF_00419965	Cronobacter	45.01	0.34	Cytochrome d ubiquinol oxidase subunit X (EC 1.10.3.-)
+PGF_00419986	Cronobacter	316.91	36.46	Cys regulon transcriptional activator CysB
+PGF_00420012	Cronobacter	383.45	35.04	Cystathionine beta-lyase MalY (EC 4.4.1.8) @ Maltose regulon modulator
+PGF_00420048	Cronobacter	386.45	64.79	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420075	Cronobacter	316.90	31.89	Cysteine synthase (EC 2.5.1.47)
+PGF_00420078	Cronobacter	294.61	38.97	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420121	Cronobacter	224.82	23.39	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420152	Cronobacter	646.52	76.43	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420155	Cronobacter	202.95	10.16	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)
+PGF_00420482	Cronobacter	233.45	37.97	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420612	Cronobacter	244.46	7.95	Cytoplasmic copper homeostasis protein CutC
+PGF_00420676	Cronobacter	94.04	0.27	Cytoplasmic protein YaiE
+PGF_00420694	Cronobacter	402.92	67.97	Cytosine permease
+PGF_00420732	Cronobacter	472.68	64.80	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420764	Cronobacter	360.37	57.29	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+PGF_00420778	Cronobacter	225.99	13.28	D-Galactonate repressor DgoR
+PGF_00420903	Cronobacter	318.18	42.17	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420919	Cronobacter	318.82	38.55	D-cysteine desulfhydrase (EC 4.4.1.15)
+PGF_00420963	Cronobacter	397.90	72.87	D-glycerate transporter (predicted)
+PGF_00420992	Cronobacter	549.16	97.58	D-lactate dehydrogenase (EC 1.1.1.28)
+PGF_00420993	Cronobacter	322.61	35.86	D-lactate dehydrogenase (EC 1.1.1.28)
+PGF_00420994	Cronobacter	712.40	94.95	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421013	Cronobacter	389.73	56.09	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421039	Cronobacter	464.84	36.67	D-serine/D-alanine/glycine transporter
+PGF_00421082	Cronobacter	501.32	57.52	D-xylose transport ATP-binding protein XylG
+PGF_00421156	Cronobacter	191.17	26.18	DJ-1/YajL/PfpI superfamily, includes chaperone protein YajL (former ThiJ), parkinsonism-associated protein DJ-1, peptidases PfpI, Hsp31
+PGF_00421181	Cronobacter	99.38	13.59	DNA base-flipping protein
+PGF_00421257	Cronobacter	154.98	14.27	DNA gyrase inhibitory protein
+PGF_00421408	Cronobacter	223.11	27.71	DNA mismatch repair endonuclease MutH
+PGF_00421447	Cronobacter	553.50	109.26	ATP-dependent RNA helicase YejH
+PGF_00421498	Cronobacter	342.65	71.51	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Cronobacter	569.63	54.54	DNA primase (EC 2.7.7.-)
+PGF_00421733	Cronobacter	341.24	59.03	DNA recombination and repair protein RecF
+PGF_00421792	Cronobacter	437.68	73.19	DNA repair protein RadA
+PGF_00421796	Cronobacter	523.31	101.64	DNA repair protein RecN
+PGF_00421814	Cronobacter	242.49	19.28	DNA replication helicase loader DnaC/DnaI
+PGF_00421893	Cronobacter	201.66	17.93	DNA transformation protein TfoX
+PGF_00421954	Cronobacter	213.16	18.62	DNA-binding capsular synthesis response regulator RcsB
+PGF_00421959	Cronobacter	258.74	23.78	DNA-binding domain of ModE / Molybdate-binding domain of ModE
+PGF_00422053	Cronobacter	97.88	1.51	DNA-binding protein Fis
+PGF_00422078	Cronobacter	90.00	0.00	DNA-binding protein HU-alpha
+PGF_00422177	Cronobacter	218.89	26.12	DNA-binding response regulator KdpE
+PGF_00422255	Cronobacter	81.08	4.19	DNA-damage-inducible protein I
+PGF_00422373	Cronobacter	225.39	29.91	4'-phosphopantetheinyl transferase (EC 2.7.8.-) [enterobactin] siderophore
+PGF_00422589	Cronobacter	182.64	16.68	DcrB protein precursor
+PGF_00422655	Cronobacter	427.38	85.65	LOG family protein YgdH
+PGF_00422675	Cronobacter	252.57	22.69	DedA family inner membrane protein YabI
+PGF_00422679	Cronobacter	213.38	22.19	DedA family inner membrane protein YghB
+PGF_00422681	Cronobacter	218.53	12.91	DedA family inner membrane protein YqjA
+PGF_00422711	Cronobacter	216.67	17.02	DedA protein
+PGF_00422909	Cronobacter	261.49	29.13	DeoR-type transcriptional regulator YihW
+PGF_00422916	Cronobacter	193.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422949	Cronobacter	257.59	26.16	Deoxyribonuclease TatD
+PGF_00422955	Cronobacter	252.38	16.14	Deoxyribose operon repressor, DeoR family
+PGF_00422959	Cronobacter	150.40	9.35	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423021	Cronobacter	475.21	71.74	Di-tripeptide/H+ symporter DtpA
+PGF_00423097	Cronobacter	267.09	36.50	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423340	Cronobacter	158.11	6.92	4-carboxymuconolactone decarboxylase domain/alkylhydroperoxidase AhpD family core domain protein
+PGF_00423361	Cronobacter	118.40	6.74	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423376	Cronobacter	145.76	8.29	Dihydroneopterin triphosphate pyrophosphohydrolase type 2
+PGF_00423567	Cronobacter	513.87	71.29	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2) @ Dipeptide chemoreceptor
+PGF_00423709	Cronobacter	266.86	14.29	DnaJ-like protein DjlA
+PGF_00423896	Cronobacter	61.69	2.86	DsrB protein
+PGF_00423914	Cronobacter	186.92	0.55	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00424141	Cronobacter	220.76	30.91	Electron transport complex protein RnfE
+PGF_00424166	Cronobacter	187.76	15.69	Elongation factor P-like protein
+PGF_00424204	Cronobacter	380.25	48.62	Uncharacterized glycosyl hyrdrolase YieL
+PGF_00424228	Cronobacter	131.93	0.88	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424338	Cronobacter	220.36	16.67	Endonuclease V (EC 3.1.21.7)
+PGF_00424340	Cronobacter	255.07	39.11	Endonuclease VIII
+PGF_00424510	Cronobacter	281.22	35.46	Enoyl-CoA hydratase/carnithine racemase
+PGF_00424569	Cronobacter	261.94	0.72	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424600	Cronobacter	380.81	88.65	Enterobactin esterase
+PGF_00424798	Cronobacter	229.19	16.68	Esterase YpfH
+PGF_00424800	Cronobacter	252.07	23.66	Esterase ybfF (EC 3.1.-.-)
+PGF_00424971	Cronobacter	577.30	107.42	Excinuclease ABC subunit C
+PGF_00424985	Cronobacter	273.71	55.61	Excinuclease cho (excinuclease ABC alternative C subunit)
+PGF_00425011	Cronobacter	243.81	68.20	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425021	Cronobacter	1017.58	283.54	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Cronobacter	431.21	82.68	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425044	Cronobacter	220.09	0.86	Exodeoxyribonuclease X
+PGF_00425212	Cronobacter	470.71	67.81	Exported zinc metalloprotease YfgC precursor
+PGF_00425243	Cronobacter	230.22	27.14	Extracellular deoxyribonuclease Dns (EC 3.1.21.-)
+PGF_00425275	Cronobacter	324.48	56.24	Extracellular metalloprotease precursor (EC 3.4.24.-)
+PGF_00425671	Cronobacter	265.89	53.68	RNase adapter protein RapZ
+PGF_00425679	Cronobacter	195.87	27.88	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Cronobacter	245.37	8.04	Probable transcriptional regulatory protein YebC
+PGF_00425685	Cronobacter	280.88	21.28	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425722	Cronobacter	192.64	23.74	FIG001587: exported protein
+PGF_00425726	Cronobacter	740.62	54.38	FIG001592: Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated
+PGF_00425727	Cronobacter	315.14	49.24	FIG001614: Membrane protein
+PGF_00425736	Cronobacter	154.06	14.73	FIG001826: putative inner membrane protein
+PGF_00425757	Cronobacter	108.00	0.00	FIG002060: uncharacterized protein YggL
+PGF_00425763	Cronobacter	130.65	4.48	FIG002082: Protein SirB2
+PGF_00425802	Cronobacter	268.30	2.60	FIG002708: Protein SirB1
+PGF_00425806	Cronobacter	298.82	23.92	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425808	Cronobacter	194.60	21.54	5'-deoxynucleotidase YfbR (EC 3.1.3.89)
+PGF_00425810	Cronobacter	243.10	24.69	Cell division protein ZapD
+PGF_00425812	Cronobacter	204.98	22.07	High frequency lysogenization protein HflD
+PGF_00425941	Cronobacter	223.78	14.22	FIG004088: inner membrane protein YebE
+PGF_00425970	Cronobacter	223.20	15.15	Pyrimidine 5'-nucleotidase YjjG (EC 3.1.3.5)
+PGF_00425993	Cronobacter	406.48	23.38	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Cronobacter	336.25	21.71	FIG004453: protein YceG like
+PGF_00426044	Cronobacter	293.11	33.85	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Cronobacter	585.91	113.62	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426231	Cronobacter	510.35	52.78	FIG004684: SpoVR-like protein
+PGF_00426236	Cronobacter	363.15	44.73	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426467	Cronobacter	315.14	41.31	FIG005189: putative transferase clustered with tellurite resistance proteins TehA/TehB
+PGF_00426629	Cronobacter	136.18	8.25	5-methyl-dCTP pyrophosphohydrolase (EC 3.6.1.-)
+PGF_00426660	Cronobacter	442.51	44.40	FIG00553377: hypothetical protein
+PGF_00426669	Cronobacter	165.59	11.28	FIG00553607: hypothetical protein
+PGF_00426671	Cronobacter	98.19	2.30	hypothetical protein
+PGF_00426675	Cronobacter	160.38	14.04	FIG00554218: hypothetical protein
+PGF_00426677	Cronobacter	62.86	1.68	FIG00554528: hypothetical protein
+PGF_00426681	Cronobacter	317.76	58.81	FIG00554569: hypothetical protein
+PGF_00426782	Cronobacter	382.53	67.49	5-methylthioribose kinase (EC 2.7.1.100)
+PGF_00426932	Cronobacter	155.04	9.13	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427299	Cronobacter	456.15	61.13	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00427310	Cronobacter	219.09	13.69	6-phosphogluconate phosphatase
+PGF_00447438	Cronobacter	193.03	0.40	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00447765	Cronobacter	97.14	5.97	YciL protein
+PGF_00451246	Cronobacter	96.19	7.96	RNA-binding protein YhbY
+PGF_00454030	Cronobacter	383.90	36.00	Multidrug efflux system EmrAB-OMF, membrane fusion component EmrA
+PGF_00464627	Cronobacter	521.17	93.25	Sodium-dependent phosphate transporter
+PGF_00466006	Cronobacter	407.66	34.62	Multidrug translocase MdfA
+PGF_00473519	Cronobacter	203.10	23.12	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00474012	Cronobacter	434.23	45.63	Uncharacterized MFS-type transporter YhjE
+PGF_00482828	Cronobacter	431.96	50.29	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00490053	Cronobacter	485.11	62.31	Outer membrane channel TolC (OpmH)
+PGF_00502502	Cronobacter	75.96	0.28	Cold shock protein of CSP family => CspD (naming convention as in E.coli)
+PGF_00502584	Cronobacter	66.00	0.00	Sulfur carrier protein ThiS
+PGF_00502921	Cronobacter	240.39	20.54	Arginine ABC transporter, substrate-binding protein ArtI
+PGF_00503312	Cronobacter	338.31	30.76	Cell division protein FtsN
+PGF_00503343	Cronobacter	190.08	6.72	Uncharacterized protein YraP
+PGF_00538878	Cronobacter	259.56	32.90	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00546752	Cronobacter	156.22	13.32	Phosphohistidine phosphatase SixA
+PGF_00550785	Cronobacter	303.43	56.91	Inner membrane protein YtfF
+PGF_00569671	Cronobacter	305.00	0.00	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00572136	Cronobacter	122.07	10.42	Copper resistance protein CopC
+PGF_00577920	Cronobacter	143.00	0.00	Tripartite tricarboxylate transporter TctB family
+PGF_00580333	Cronobacter	380.09	47.72	Lipopolysaccharide assembly protein LapB
+PGF_00580417	Cronobacter	601.68	73.52	Outer membrane vitamin B12 receptor BtuB
+PGF_00596539	Cronobacter	549.01	117.32	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598374	Cronobacter	186.38	7.85	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00599158	Cronobacter	99.33	4.55	Uncharacterized protein STM4442
+PGF_00599203	Cronobacter	356.40	46.93	L-amino acid ABC transporter (Glu/Asp/His/...), permease protein 2 AapM
+PGF_00599432	Cronobacter	237.37	16.85	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)
+PGF_00612013	Cronobacter	201.35	21.36	UPF0126 inner membrane protein YadS
+PGF_00616490	Cronobacter	315.17	28.17	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Cronobacter	377.97	49.17	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Cronobacter	229.27	14.46	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00634936	Cronobacter	295.62	36.15	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Cronobacter	516.09	87.72	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Cronobacter	287.41	29.61	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644224	Cronobacter	275.14	37.73	PTS system, mannose-specific IID component
+PGF_00646255	Cronobacter	116.52	4.61	[NiFe] hydrogenase nickel incorporation protein HypA
+PGF_00648054	Cronobacter	229.66	14.24	Tol-Pal system protein TolQ
+PGF_00649271	Cronobacter	104.24	6.59	Cell division protein BolA
+PGF_00655131	Cronobacter	480.41	61.66	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Cronobacter	462.24	91.80	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Cronobacter	208.39	26.72	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Cronobacter	440.90	33.88	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Cronobacter	104.14	7.64	Ribosomal silencing factor RsfA
+PGF_00671129	Cronobacter	112.41	5.19	Nitrogen regulatory protein P-II, GlnK
+PGF_00676488	Cronobacter	377.32	57.32	Uncharacterized MFS-type transporter STM2812
+PGF_00680314	Cronobacter	235.46	5.26	Protein phosphatase ImpM
+PGF_00685421	Cronobacter	199.99	0.28	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+PGF_00694978	Cronobacter	259.96	32.80	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00702753	Cronobacter	222.85	26.08	Chaperone protein fimC precursor
+PGF_00709443	Cronobacter	184.47	16.21	Twin-arginine translocation protein TatB
+PGF_00717495	Cronobacter	421.09	40.60	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00720623	Cronobacter	138.81	12.50	TonB-ExbBD energy transducing system, ExbD subunit
+PGF_00721835	Cronobacter	315.88	9.06	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Cronobacter	748.21	136.03	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00738571	Cronobacter	73.85	2.73	hypothetical protein
+PGF_00777371	Cronobacter	256.43	30.07	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Cronobacter	232.00	0.00	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00798173	Cronobacter	292.11	39.90	Manganese catalase (EC 1.11.1.6)
+PGF_00800643	Cronobacter	424.64	68.07	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
+PGF_00834004	Cronobacter	132.68	3.95	hypothetical protein
+PGF_00835800	Cronobacter	253.16	33.92	Lysine-arginine-ornithine-binding periplasmic protein ArgT (TC 3.A.1.3.1)
+PGF_00853393	Cronobacter	289.21	3.61	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Cronobacter	399.28	45.98	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00861751	Cronobacter	323.24	27.64	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00885329	Cronobacter	324.18	47.48	Flagellar motor switch protein FliM
+PGF_00900256	Cronobacter	427.89	9.84	Threonine synthase (EC 4.2.3.1)
+PGF_00904010	Cronobacter	550.04	75.30	PTS system, inactive IIB catalytic domain / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_00908360	Cronobacter	254.91	26.90	Phospholipid ABC transporter permease protein MlaE
+PGF_00909459	Cronobacter	155.96	7.80	Flagellar basal body-associated protein FliL
+PGF_00909659	Cronobacter	533.65	120.94	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00910575	Cronobacter	226.30	29.37	Uncharacterized protein YedJ
+PGF_00911315	Cronobacter	347.55	40.09	Alkanal monooxygenase alpha chain (EC 1.14.14.3)
+PGF_00912265	Cronobacter	319.76	30.23	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Cronobacter	279.97	28.54	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00924117	Cronobacter	469.03	96.38	Galactofuranose ABC transporter, ATP-binding protein
+PGF_00926109	Cronobacter	570.18	49.14	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00944230	Cronobacter	386.59	49.81	Xylose ABC transporter, permease protein XylH
+PGF_00945778	Cronobacter	393.55	37.91	Multidrug efflux system AcrAB-TolC, membrane fusion component AcrA
+PGF_00947849	Cronobacter	175.46	12.08	Isochorismatase (EC 3.3.2.1)
+PGF_00948290	Cronobacter	398.62	69.97	Murein hydrolase activator EnvC
+PGF_00950792	Cronobacter	505.57	62.18	PTS system, N-acetylmannosamine-specific IIC component / PTS system, N-acetylmannosamine-specific IIB component
+PGF_00957419	Cronobacter	135.77	12.16	Putative pre-16S rRNA nuclease Yqg
+PGF_00959306	Cronobacter	139.70	5.88	putative membrane protein
+PGF_00973394	Cronobacter	181.47	11.79	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00978669	Cronobacter	73.23	6.39	Uncharacterized lipoprotein YgdI
+PGF_00979178	Cronobacter	119.01	7.31	Uncharacterized protein STM4441
+PGF_00979610	Cronobacter	528.20	90.43	Trehalose-6-phosphate hydrolase (EC 3.2.1.93)
+PGF_00981596	Cronobacter	474.05	95.57	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_00985749	Cronobacter	371.49	22.30	Class C beta-lactamase (EC 3.5.2.6)
+PGF_00999655	Cronobacter	391.16	54.80	hypothetical protein
+PGF_01002992	Cronobacter	309.33	31.01	Transaldolase (EC 2.2.1.2)
+PGF_01008498	Cronobacter	93.53	29.35	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Cronobacter	247.01	29.00	Flagellar basal-body rod protein FlgF
+PGF_01033782	Cronobacter	266.00	0.00	HAD phosphatase YigL
+PGF_01036334	Cronobacter	418.61	13.55	UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)
+PGF_01050622	Cronobacter	338.55	51.08	Glycerophosphoryl diester phosphodiesterase, periplasmic (EC 3.1.4.46)
+PGF_01052295	Cronobacter	352.14	67.18	Lipopolysaccharide export system permease protein LptF
+PGF_01054457	Cronobacter	278.98	34.83	Transcriptional regulator, LysR family
+PGF_01058223	Cronobacter	411.30	56.54	Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+PGF_01059580	Cronobacter	608.79	124.02	Macrolide export ATP-binding/permease protein MacB
+PGF_01066071	Cronobacter	205.01	9.43	Homoserine/homoserine lactone efflux protein
+PGF_01067056	Cronobacter	114.09	7.17	Periplasmic divalent cation tolerance protein CutA
+PGF_01073011	Cronobacter	438.40	81.02	Xanthine permease @ Xanthine:proton symporter XanP
+PGF_01074065	Cronobacter	143.84	8.98	Uncharacterized N-acetyltransferase YiaC
+PGF_01076221	Cronobacter	336.74	45.72	UPF0718 membrane protein YraQ
+PGF_01078020	Cronobacter	401.99	48.43	Cytosine deaminase (EC 3.5.4.1)
+PGF_01083115	Cronobacter	494.23	94.20	Oligopeptide transport substrate-binding protein @ Glutathione ABC transporter substrate-binding protein GsiB
+PGF_01084030	Cronobacter	750.65	70.81	Outer membrane protein assembly factor YaeT
+PGF_01084735	Cronobacter	37.00	0.00	Cytochrome d ubiquinol oxidase subunit X (EC 1.10.3.-)
+PGF_01092098	Cronobacter	151.81	2.46	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01101526	Cronobacter	440.55	47.91	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01102972	Cronobacter	378.59	29.51	Acetylornithine deacetylase (EC 3.5.1.16)
+PGF_01104399	Cronobacter	244.65	32.78	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01110486	Cronobacter	354.65	55.76	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+PGF_01124177	Cronobacter	392.18	64.65	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Cronobacter	364.30	33.15	Rod shape-determining protein RodA
+PGF_01138219	Cronobacter	323.02	38.67	Xylose ABC transporter, periplasmic xylose-binding protein XylF
+PGF_01147190	Cronobacter	442.99	89.69	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01149804	Cronobacter	457.00	74.53	Flagellar cap protein FliD
+PGF_01151090	Cronobacter	147.34	8.30	Uncharacterized LysM domain protein YgaU
+PGF_01166636	Cronobacter	83.04	0.56	Glutaredoxin 3 (Grx3)
+PGF_01172485	Cronobacter	412.07	32.75	Cell division protein FtsA
+PGF_01174739	Cronobacter	238.97	22.21	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Cronobacter	449.87	47.37	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Cronobacter	617.68	102.53	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176861	Cronobacter	71.02	0.24	Uncharacterized protein YpeB
+PGF_01181530	Cronobacter	117.64	4.76	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01191170	Cronobacter	163.00	7.61	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01197369	Cronobacter	427.70	4.43	Na+/H+-dicarboxylate symporter
+PGF_01212739	Cronobacter	539.78	49.62	Heat shock protein 60 family chaperone GroEL
+PGF_01216478	Cronobacter	135.78	1.00	Succinyl-CoA synthetase, alpha subunit-related enzymes
+PGF_01217385	Cronobacter	210.09	27.24	Enhancing lycopene biosynthesis protein 2
+PGF_01218448	Cronobacter	260.00	29.60	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01220597	Cronobacter	530.76	111.16	Putative hemolysin
+PGF_01220766	Cronobacter	273.10	37.14	Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)
+PGF_01223569	Cronobacter	151.82	19.15	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Cronobacter	158.04	6.40	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01285024	Cronobacter	250.23	38.40	Taurine transport ATP-binding protein TauB
+PGF_01291803	Cronobacter	311.57	41.82	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Cronobacter	204.95	35.22	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01309240	Cronobacter	163.75	17.44	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01325304	Cronobacter	224.84	24.67	Molybdenum ABC transporter permease protein ModB
+PGF_01353801	Cronobacter	425.66	70.79	Anaerobic C4-dicarboxylate transporter DcuB
+PGF_01364427	Cronobacter	198.88	20.87	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01382505	Cronobacter	192.94	34.92	FIG00449901: hypothetical protein
+PGF_01383880	Cronobacter	173.47	12.85	Uncharacterized protein YeaK
+PGF_01386312	Cronobacter	159.54	13.62	Acetyltransferase
+PGF_01386316	Cronobacter	199.52	31.57	hypothetical protein
+PGF_01386317	Cronobacter	58.00	0.00	hypothetical protein
+PGF_01386319	Cronobacter	102.79	2.57	hypothetical protein
+PGF_01386321	Cronobacter	137.54	12.17	hypothetical protein
+PGF_01386322	Cronobacter	106.68	8.36	hypothetical protein
+PGF_01386323	Cronobacter	64.99	0.11	hypothetical protein
+PGF_01386324	Cronobacter	158.46	11.61	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01386325	Cronobacter	127.49	7.40	TfoX-like
+PGF_01386328	Cronobacter	58.97	0.40	hypothetical protein
+PGF_01386329	Cronobacter	41.86	9.67	hypothetical protein
+PGF_01386332	Cronobacter	77.74	8.31	hypothetical protein
+PGF_01386333	Cronobacter	84.65	2.75	hypothetical protein
+PGF_01386336	Cronobacter	67.00	0.00	hypothetical protein
+PGF_01386337	Cronobacter	56.28	3.44	hypothetical protein
+PGF_01386338	Cronobacter	98.00	0.00	hypothetical protein
+PGF_01386339	Cronobacter	63.01	0.08	hypothetical protein
+PGF_01386345	Cronobacter	165.64	15.18	Uncharacterized protein YqhG
+PGF_01386348	Cronobacter	140.88	13.79	hypothetical protein
+PGF_01386394	Cronobacter	151.72	9.85	hypothetical protein
+PGF_01386400	Cronobacter	216.36	7.20	hypothetical protein
+PGF_01387916	Cronobacter	144.76	10.60	Inner membrane protein YdgK
+PGF_01388673	Cronobacter	218.19	20.17	Transcriptional regulator of acrAB operon, AcrR
+PGF_01389077	Cronobacter	69.42	4.40	Uncharacterized protein YbcJ
+PGF_01404160	Cronobacter	435.31	70.74	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01412799	Cronobacter	208.59	19.21	UPF0056 inner membrane protein YchE
+PGF_01415861	Cronobacter	197.03	6.00	LPS-assembly lipoprotein LptE
+PGF_01420802	Cronobacter	151.05	4.14	Cell division protein MraZ
+PGF_01421534	Cronobacter	93.44	5.02	LSU ribosomal protein L25p
+PGF_01423404	Cronobacter	298.00	0.00	Uncharacterized oxidoreductase YghA
+PGF_01423501	Cronobacter	157.00	9.40	Transcription elongation factor GreA
+PGF_01435544	Cronobacter	257.03	37.49	Phenazine biosynthesis protein PhzF like
+PGF_01442793	Cronobacter	185.98	11.11	Putative manganese efflux pump MntP
+PGF_01465362	Cronobacter	156.00	5.80	Mn-dependent transcriptional regulator MntR
+PGF_01466742	Cronobacter	437.03	0.57	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01467052	Cronobacter	166.06	13.04	G/U mismatch-specific uracil DNA glycosylase (EC 3.2.2.28)
+PGF_01477459	Cronobacter	381.04	67.93	Glycine betaine/L-proline transport ATP-binding protein ProV (TC 3.A.1.12.1)
+PGF_01482614	Cronobacter	189.58	22.52	Modulator of drug activity B
+PGF_01483460	Cronobacter	348.43	52.93	Lipopolysaccharide export system permease protein LptG
+PGF_01484108	Cronobacter	204.49	21.77	Electron transport complex protein RnfG
+PGF_01492504	Cronobacter	244.74	30.76	Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)
+PGF_01496598	Cronobacter	320.04	17.67	Chemotaxis protein CheV (EC 2.7.3.-)
+PGF_01512690	Cronobacter	277.80	28.55	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01514111	Cronobacter	322.25	26.26	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01522203	Cronobacter	48.69	2.46	AcrZ membrane protein associated with AcrAB-TolC multidrug efflux pump
+PGF_01528300	Cronobacter	296.28	24.92	Formate dehydrogenase O beta subunit (EC 1.2.1.2)
+PGF_01529260	Cronobacter	153.62	11.77	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01532393	Cronobacter	663.32	106.10	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01542417	Cronobacter	68.74	2.54	Cold shock protein of CSP family => CspC (naming convention as in E.coli)
+PGF_01553714	Cronobacter	174.00	0.00	Uncharacterized protein YhbT
+PGF_01555804	Cronobacter	136.45	7.14	Flagellar basal-body rod protein FlgB
+PGF_01568912	Cronobacter	199.65	11.28	Anaerobic dimethyl sulfoxide reductase chaperone DmsD
+PGF_01569213	Cronobacter	146.11	9.38	Acetyltransferase, GNAT family
+PGF_01574344	Cronobacter	204.35	25.28	Uncharacterized protein YhjY
+PGF_01574733	Cronobacter	106.90	2.16	Inner membrane protein YgbE
+PGF_01599021	Cronobacter	171.04	0.28	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Cronobacter	225.99	0.08	Flagellar basal-body rod modification protein FlgD
+PGF_01603132	Cronobacter	80.00	0.00	Uncharacterized protein YhdT
+PGF_01603398	Cronobacter	584.51	53.91	Efflux ABC transporter, permease/ATP-binding protein MdlB
+PGF_01604929	Cronobacter	257.86	11.71	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01614738	Cronobacter	86.29	0.96	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01626459	Cronobacter	60.78	0.50	UPF0181 protein YoaH
+PGF_01629422	Cronobacter	100.08	6.26	PTS system, cellobiose-specific IIA component (EC 2.7.1.205)
+PGF_01632789	Cronobacter	156.56	33.46	Periplasmic protein CpxP
+PGF_01643255	Cronobacter	81.21	7.36	proteinase inhibitor
+PGF_01667392	Cronobacter	482.63	13.37	Xylulose kinase (EC 2.7.1.17)
+PGF_01667880	Cronobacter	84.51	4.62	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Cronobacter	187.15	19.46	RNA polymerase sigma factor RpoE
+PGF_01668012	Cronobacter	273.93	28.74	Sulfur carrier protein FdhD
+PGF_01668974	Cronobacter	715.65	126.00	DNA internalization-related competence protein ComEC/Rec2
+PGF_01670799	Cronobacter	192.63	10.31	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01673335	Cronobacter	252.27	16.38	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01674551	Cronobacter	128.98	0.14	Glycine cleavage system H protein
+PGF_01678333	Cronobacter	346.39	26.07	Electron transport complex protein RnfD
+PGF_01681377	Cronobacter	205.01	3.83	UPF0126 inner membrane protein YicG
+PGF_01682834	Cronobacter	155.62	15.03	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Cronobacter	241.33	23.76	DNA recombination and repair protein RecO
+PGF_01692355	Cronobacter	455.88	82.01	Serine/threonine protein kinase
+PGF_01715955	Cronobacter	185.92	4.11	Ribosomal-protein-L7p-serine acetyltransferase
+PGF_01734668	Cronobacter	212.39	16.26	Adenylate kinase (EC 2.7.4.3)
+PGF_01747642	Cronobacter	205.60	15.23	Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_01748119	Cronobacter	145.91	9.67	Sulfur acceptor protein => sulfur transfer pathway protein CsdE
+PGF_01756547	Cronobacter	634.90	68.01	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16) / 3'-nucleotidase (EC 3.1.3.6)
+PGF_01761890	Cronobacter	65.99	0.16	DNA gyrase inhibitor YacG
+PGF_01762565	Cronobacter	187.27	16.74	Molybdenum cofactor cytidylyltransferase (EC 2.7.7.76)
+PGF_01763778	Cronobacter	297.30	38.45	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01771963	Cronobacter	404.32	28.25	RNA-2',3'-PO4:RNA-5'-OH ligase
+PGF_01777142	Cronobacter	216.82	15.01	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Cronobacter	134.03	5.87	Protein YhfA
+PGF_01809653	Cronobacter	315.94	29.69	Uncharacterized inner membrane transporter YhbE
+PGF_01810305	Cronobacter	194.56	4.49	Uncharacterized protein YjaG
+PGF_01832663	Cronobacter	349.20	39.12	Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)
+PGF_01839055	Cronobacter	332.37	45.83	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01841446	Cronobacter	474.90	58.37	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01853493	Cronobacter	275.65	32.84	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01877133	Cronobacter	376.13	93.26	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Cronobacter	149.28	10.63	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01889558	Cronobacter	246.48	36.68	Sulfur carrier protein ThiS adenylyltransferase (EC 2.7.7.73)
+PGF_01898497	Cronobacter	210.47	4.92	Endonuclease III (EC 4.2.99.18)
+PGF_01899924	Cronobacter	299.82	43.09	Flagellar motor rotation protein MotB
+PGF_01899937	Cronobacter	328.58	40.63	Rod shape-determining protein MreC
+PGF_01900807	Cronobacter	262.56	20.53	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01920666	Cronobacter	103.76	18.34	Z-ring-associated protein ZapA
+PGF_01920667	Cronobacter	140.24	1.13	Uncharacterized protein YqiB
+PGF_01920692	Cronobacter	66.00	0.00	Cytoplasmic protein, probably associated with glutathione-regulated potassium-efflux
+PGF_01920828	Cronobacter	267.81	8.68	HesA/MoeB/ThiF family protein => sulfur transfer pathway protein CsdL
+PGF_01921605	Cronobacter	599.84	90.70	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01923866	Cronobacter	84.72	3.17	Acid stress protein IbaG
+PGF_01930573	Cronobacter	314.59	20.52	Alkanesulfonate utilization operon LysR-family regulator CbI
+PGF_01943486	Cronobacter	177.65	13.11	O-acetyl-ADP-ribose deacetylase
+PGF_01949788	Cronobacter	185.59	12.32	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01950071	Cronobacter	286.47	39.21	Aldose 1-epimerase family protein YeaD
+PGF_01953726	Cronobacter	191.57	4.44	Uncharacterized protein YtfB
+PGF_01959179	Cronobacter	93.33	8.26	Uncharacterized protein YjcB
+PGF_01981332	Cronobacter	158.46	10.87	Transcriptional regulator, AsnC family
+PGF_01994657	Cronobacter	426.98	38.46	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Cronobacter	120.76	7.93	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Cronobacter	250.40	37.48	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Cronobacter	314.67	47.41	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Cronobacter	313.27	35.37	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02049468	Cronobacter	69.94	0.88	Cold shock protein of CSP family
+PGF_02059020	Cronobacter	545.31	57.46	Energy-dependent translational throttle protein EttA
+PGF_02061452	Cronobacter	370.07	33.94	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Cronobacter	87.85	1.90	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02073942	Cronobacter	696.59	70.83	2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) / Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)
+PGF_02085373	Cronobacter	144.64	13.92	UPF0225 protein YchJ
+PGF_02111888	Cronobacter	309.93	35.31	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02155126	Cronobacter	153.53	13.44	Organic hydroperoxide resistance transcriptional regulator
+PGF_02166416	Cronobacter	630.30	50.42	PTS system, mannitol-specific IIC component / PTS system, mannitol-specific IIB component (EC 2.7.1.197) / PTS system, mannitol-specific IIA component (EC 2.7.1.197)
+PGF_02168439	Cronobacter	293.46	56.11	Osmoprotectant ABC transporter ATP-binding subunit YehX
+PGF_02169237	Cronobacter	239.01	25.34	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Cronobacter	409.75	63.39	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02209787	Cronobacter	441.75	89.83	Conserved protein YcjX with nucleoside triphosphate hydrolase domain
+PGF_02226715	Cronobacter	663.89	114.89	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02230495	Cronobacter	229.00	0.00	N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)
+PGF_02246168	Cronobacter	288.75	36.69	ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)
+PGF_02246376	Cronobacter	293.85	15.81	Ribose ABC transport system, periplasmic ribose-binding protein RbsB (TC 3.A.1.2.1)
+PGF_02265871	Cronobacter	168.32	14.33	Inosine/xanthosine triphosphatase (EC 3.6.1.-)
+PGF_02268482	Cronobacter	240.90	43.75	Putative glutamine amidotransferase YafJ
+PGF_02272288	Cronobacter	644.46	127.35	DNA helicase IV (EC 3.6.4.12)
+PGF_02325838	Cronobacter	503.53	63.31	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02329103	Cronobacter	96.55	2.33	Negative regulator of flagellin synthesis FlgM (anti-sigma28)
+PGF_02329420	Cronobacter	360.13	48.23	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG
+PGF_02329874	Cronobacter	117.25	8.82	FIG016027: protein of unknown function YeaO
+PGF_02330496	Cronobacter	201.07	29.45	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02336950	Cronobacter	114.83	6.49	Flagellar transcriptional activator FlhD
+PGF_02357764	Cronobacter	167.41	18.08	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02380724	Cronobacter	225.25	29.86	Quercetin 2,3-dioxygenase (EC 1.13.11.24) => YhhW
+PGF_02380854	Cronobacter	476.29	42.25	Protein ViaA
+PGF_02382338	Cronobacter	262.85	15.79	Inner membrane protein YpjD
+PGF_02386652	Cronobacter	161.60	2.12	Ribonuclease E inhibitor RraA
+PGF_02405545	Cronobacter	317.14	17.34	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02415711	Cronobacter	367.55	36.36	GDP-mannose 4,6-dehydratase (EC 4.2.1.47)
+PGF_02437557	Cronobacter	347.02	92.57	Alkanesulfonate monooxygenase (EC 1.14.14.5)
+PGF_02449016	Cronobacter	652.68	95.23	PTS system, N-acetylglucosamine-specific IIC component / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.193) / PTS system, N-acetylglucosamine-specific IIA component (EC 2.7.1.193)
+PGF_02450432	Cronobacter	285.14	1.74	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Cronobacter	62.65	6.35	SSU ribosomal protein S20p
+PGF_02462544	Cronobacter	390.16	85.82	Arginine deiminase (EC 3.5.3.6)
+PGF_02463284	Cronobacter	200.74	4.10	Recombination protein RecR
+PGF_02473279	Cronobacter	245.18	0.82	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Cronobacter	185.01	26.72	Uncharacterized Nudix hydrolase NudL
+PGF_02499550	Cronobacter	200.13	10.98	Ubiquinone biosynthesis protein UbiJ
+PGF_02504770	Cronobacter	250.89	27.99	ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)
+PGF_02505498	Cronobacter	360.96	69.11	Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)
+PGF_02505612	Cronobacter	138.48	6.58	Uncharacterized protein YiiR
+PGF_02507218	Cronobacter	216.84	16.86	Outer membrane porin, OmpA family
+PGF_02515882	Cronobacter	436.33	58.11	Aspartokinase (EC 2.7.2.4)
+PGF_02517984	Cronobacter	59.92	0.71	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Cronobacter	111.46	6.76	Nitrogen regulatory protein P-II
+PGF_02518488	Cronobacter	140.49	3.02	Flagellar biosynthesis protein FlgN
+PGF_02518965	Cronobacter	172.42	17.24	Regulatory protein RecX
+PGF_02537450	Cronobacter	453.11	78.58	HtrA protease/chaperone protein
+PGF_02572093	Cronobacter	432.67	39.76	Nitrate/nitrite transporter
+PGF_02593689	Cronobacter	429.18	56.23	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02595016	Cronobacter	407.09	34.95	Multidrug efflux system MdtABC-TolC, membrane fusion component MdtA
+PGF_02613926	Cronobacter	275.37	45.12	Ribulosamine/erythrulosamine 3-kinase potentially involved in protein deglycation
+PGF_02619970	Cronobacter	102.81	2.71	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02621603	Cronobacter	301.09	27.90	Non-specific ribonucleoside hydrolase RihC
+PGF_02623406	Cronobacter	305.81	32.86	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02635429	Cronobacter	233.23	15.22	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02704551	Cronobacter	1337.56	249.79	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02706008	Cronobacter	262.55	18.11	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02717713	Cronobacter	723.15	128.72	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02719231	Cronobacter	148.78	2.15	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02722374	Cronobacter	143.70	11.49	hypothetical protein
+PGF_02722923	Cronobacter	178.07	12.54	Hydrolase, HAD superfamily
+PGF_02723242	Cronobacter	115.66	2.61	hypothetical protein
+PGF_02728196	Cronobacter	132.93	12.65	Uncharacterized protein YgdB
+PGF_02728332	Cronobacter	84.49	4.91	Uncharacterized protein YrdB
+PGF_02728989	Cronobacter	221.98	9.26	Transcriptional regulatory protein PhoP
+PGF_02729762	Cronobacter	67.00	0.00	Diaminopimelate decarboxylase and/or diaminopimelate epimerase leader peptide
+PGF_02738107	Cronobacter	296.28	51.25	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02738244	Cronobacter	304.62	15.71	Glycine cleavage system transcriptional activator GcvA
+PGF_02742898	Cronobacter	299.19	19.36	Osmoprotectant ABC transporter, substrate-binding protein OsmX
+PGF_02744871	Cronobacter	102.90	1.28	Flagellar hook-basal body complex protein FliE
+PGF_02746016	Cronobacter	223.17	38.26	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02748064	Cronobacter	119.79	11.44	Uncharacterized protein YhdN
+PGF_02756897	Cronobacter	338.62	34.41	L-rhamnose-proton symporter
+PGF_02789532	Cronobacter	274.69	35.14	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02802027	Cronobacter	435.69	61.71	Guanine/hypoxanthine permease GhxP
+PGF_02806339	Cronobacter	86.00	0.00	Phage shock protein G
+PGF_02806530	Cronobacter	105.92	5.08	Putative uncharacterized protein ydbL, may be related to amine metabolism
+PGF_02820109	Cronobacter	220.48	20.81	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827138	Cronobacter	235.22	13.20	Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+PGF_02827614	Cronobacter	111.43	16.58	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02831085	Cronobacter	182.01	15.68	Maltose O-acetyltransferase (EC 2.3.1.79)
+PGF_02838109	Cronobacter	168.34	18.77	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Cronobacter	262.21	31.07	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02853126	Cronobacter	219.64	12.11	Repair of Iron Centers di-iron protein
+PGF_02862285	Cronobacter	394.94	45.11	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02865787	Cronobacter	559.94	137.09	Glutathione-regulated potassium-efflux system protein KefB
+PGF_02872483	Cronobacter	83.87	2.43	YfaE: ferredoxin involved with ribonucleotide reductase diferric-tyrosyl radical (Y*) cofactor maintenance
+PGF_02873160	Cronobacter	221.05	0.63	Putative preQ0 transporter YhhQ
+PGF_02873311	Cronobacter	84.80	8.87	Sugar fermentation stimulation protein B
+PGF_02873723	Cronobacter	469.01	74.12	Ribonuclease G
+PGF_02875609	Cronobacter	430.98	68.99	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02883702	Cronobacter	359.02	25.02	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02883852	Cronobacter	137.80	9.81	UPF0047 protein YjbQ
+PGF_02890229	Cronobacter	555.59	108.24	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02893007	Cronobacter	452.26	61.62	Probable transport protein HsrA
+PGF_02893929	Cronobacter	245.31	15.16	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02898096	Cronobacter	462.88	50.29	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Cronobacter	63.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02901347	Cronobacter	114.79	2.63	Inner membrane protein YidH
+PGF_02902854	Cronobacter	201.99	15.88	Outer membrane lipoprotein carrier protein LolA
+PGF_02903501	Cronobacter	280.69	50.37	Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)
+PGF_02907443	Cronobacter	191.67	14.81	FIG001590: Putative conserved exported protein precursor
+PGF_02908029	Cronobacter	95.34	2.10	UPF0213 protein YhbQ
+PGF_02911133	Cronobacter	203.89	19.86	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Cronobacter	332.70	16.42	HflC protein
+PGF_02912272	Cronobacter	178.38	11.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02914080	Cronobacter	163.56	10.29	putative membrane protein
+PGF_02923127	Cronobacter	227.10	40.62	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02927036	Cronobacter	506.57	64.31	c-di-GMP phosphodiesterase (EC 3.1.4.52) => PdeN
+PGF_02930057	Cronobacter	124.14	7.86	UPF0060 membrane protein YnfA
+PGF_02931322	Cronobacter	316.50	44.21	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02933974	Cronobacter	580.86	80.18	L,D-transpeptidase YcbB
+PGF_02936332	Cronobacter	280.80	46.24	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Cronobacter	369.04	73.27	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02938087	Cronobacter	465.67	61.31	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) => Colanic acid / Mannose-6-phosphate isomerase (EC 5.3.1.8) => Colanic acid
+PGF_02938730	Cronobacter	339.12	23.47	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02941611	Cronobacter	345.31	55.52	Uncharacterized oxidoreductase YbdH
+PGF_02942020	Cronobacter	186.45	20.20	Peptidyl-prolyl cis-trans isomerase PpiA precursor (EC 5.2.1.8)
+PGF_02942351	Cronobacter	247.30	26.35	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Cronobacter	539.62	76.71	SSU ribosomal protein S1p
+PGF_02947204	Cronobacter	523.90	71.13	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02949574	Cronobacter	245.82	29.70	L-amino acid ABC transporter (Glu/Asp/His/...), ATP-binding protein AapP
+PGF_02950579	Cronobacter	268.16	14.29	Septum site-determining protein MinD
+PGF_02959749	Cronobacter	354.55	64.33	Ribonuclease D (EC 3.1.26.3)
+PGF_02961167	Cronobacter	127.68	4.06	2-iminobutanoate/2-iminopropanoate deaminase RidA/TdcF (EC 3.5.99.10)
+PGF_02961874	Cronobacter	189.19	10.25	Glycoprotein-polysaccharide metabolism
+PGF_02965454	Cronobacter	87.18	5.79	Uncharacterized zinc-finger containing protein YbiI
+PGF_02977258	Cronobacter	113.43	6.07	RidA/YER057c/UK114 superfamily, group 2, YoaB-like protein
+PGF_02977268	Cronobacter	184.78	1.64	Uncharacterized protein YtfJ
+PGF_02978115	Cronobacter	179.15	10.28	Inner membrane protein ygjV
+PGF_02989257	Cronobacter	141.25	5.11	putative membrane protein
+PGF_02991937	Cronobacter	233.11	15.28	Uncharacterized protein Pfl_4311
+PGF_02992495	Cronobacter	109.53	4.44	Protein translocase membrane subunit SecG
+PGF_02998943	Cronobacter	185.15	8.73	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_02999030	Cronobacter	371.54	79.07	Putative acid--amine ligase YjfC
+PGF_03006136	Cronobacter	645.09	125.94	Periplasmic alpha-amylase (EC 3.2.1.1)
+PGF_03006190	Cronobacter	376.86	56.23	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03007781	Cronobacter	244.14	29.26	Colanic acid biosynthesis glycosyl transferase WcaE
+PGF_03011092	Cronobacter	288.35	41.24	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017775	Cronobacter	503.86	16.83	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Cronobacter	187.65	19.04	Septum formation protein Maf
+PGF_03025044	Cronobacter	210.06	15.38	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03025675	Cronobacter	572.26	63.98	Lipid A export permease/ATP-binding protein MsbA
+PGF_03027333	Cronobacter	145.68	12.06	Low molecular weight protein-tyrosine-phosphatase (EC 3.1.3.48) => Wzb
+PGF_03029859	Cronobacter	614.66	85.68	Bis-ABC ATPase Uup
+PGF_03035229	Cronobacter	310.52	56.94	Tripartite tricarboxylate transporter TctC family
+PGF_03036196	Cronobacter	197.79	2.62	NAD(P)H dehydrogenase (quinone), Type IV (EC 1.6.5.2)
+PGF_03038852	Cronobacter	130.42	4.09	FIG00018398: hypothetical regulator
+PGF_03046709	Cronobacter	422.59	40.80	Ammonium transporter
+PGF_03047945	Cronobacter	336.01	19.79	Galactose operon repressor, GalR-LacI family of transcriptional regulators
+PGF_03048745	Cronobacter	239.53	25.73	Uncharacterized protein YjbG
+PGF_03052331	Cronobacter	68.60	3.56	UPF0337 protein YjbJ
+PGF_03053958	Cronobacter	354.69	27.01	Outer membrane protein A precursor
+PGF_03057384	Cronobacter	329.25	30.22	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03058189	Cronobacter	250.37	55.97	N-hydroxyarylamine O-acetyltransferase (EC 2.3.1.118)
+PGF_03062230	Cronobacter	137.51	5.95	16 kDa heat shock protein A
+PGF_03062265	Cronobacter	77.67	18.98	Uncharacterized protein YdbJ
+PGF_03062274	Cronobacter	107.99	0.08	Uncharacterized protein YgaM
+PGF_03063012	Cronobacter	169.76	12.06	Chaperone protein HscB
+PGF_03064305	Cronobacter	503.17	75.88	Putative cyclic-di-GMP phosphodiesterase YlaB
+PGF_03065239	Cronobacter	282.99	16.44	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+PGF_03066317	Cronobacter	556.01	35.81	Inner membrane protein YbaL, KefB/KefC family
+PGF_03066520	Cronobacter	394.40	62.56	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03069524	Cronobacter	79.97	0.32	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03070403	Cronobacter	295.79	32.08	Glutamate Aspartate periplasmic binding protein precursor GltI (TC 3.A.1.3.4)
+PGF_03072887	Cronobacter	131.89	1.03	Protein ygiW precursor
+PGF_03073470	Cronobacter	602.59	67.17	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03074362	Cronobacter	359.18	57.75	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03074671	Cronobacter	67.31	7.18	Cold shock protein of CSP family => CspE (naming convention as in E.coli)
+PGF_03080222	Cronobacter	131.12	7.38	UPF0719 inner membrane protein YjfL
+PGF_03081665	Cronobacter	182.02	11.10	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03081766	Cronobacter	359.98	59.29	Polysaccharide export lipoprotein => Wza
+PGF_03086624	Cronobacter	359.50	90.11	Sugar efflux transporter B
+PGF_03089916	Cronobacter	714.38	46.68	Tyrosine-protein kinase (EC 2.7.10.2) => Wzc
+PGF_03096126	Cronobacter	728.07	131.54	Periplasmic beta-glucosidase (EC 3.2.1.21)
+PGF_03104567	Cronobacter	442.96	61.24	Trk potassium uptake system protein TrkA
+PGF_03106337	Cronobacter	441.00	66.14	Phosphomannomutase (EC 5.4.2.8) => Colanic acid
+PGF_03111094	Cronobacter	744.40	136.73	Clamp-binding protein CrfC
+PGF_03112776	Cronobacter	206.86	24.93	Transcriptional regulator RutR of pyrimidine catabolism (TetR family)
+PGF_03115661	Cronobacter	230.31	18.03	Uncharacterized DUF484 protein YigA
+PGF_03116802	Cronobacter	311.76	41.81	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03122066	Cronobacter	147.46	16.46	Protein YaiI
+PGF_03122400	Cronobacter	302.94	38.73	Uncharacterized radical SAM protein YhcC
+PGF_03123058	Cronobacter	180.22	13.45	Transcriptional regulator
+PGF_03126065	Cronobacter	335.82	7.61	Putative esterase YheT functionally coupled to phosphoribulokinase homolog
+PGF_03128228	Cronobacter	375.16	57.13	Outer membrane beta-barrel assembly protein BamB
+PGF_03128934	Cronobacter	182.06	11.87	Glutathione-regulated potassium-efflux system ancillary protein KefG
+PGF_03129066	Cronobacter	173.99	17.35	Cytochrome b561 homolog 2
+PGF_03131321	Cronobacter	417.39	61.42	DNA-damage-inducible protein F
+PGF_03132336	Cronobacter	402.61	60.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Cronobacter	312.54	33.80	Flagellar hook-associated protein FlgL
+PGF_03135428	Cronobacter	223.63	13.67	Protein YiiM
+PGF_03138644	Cronobacter	206.96	9.44	Arginine exporter protein ArgO
+PGF_03146406	Cronobacter	567.77	82.86	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03147273	Cronobacter	140.74	6.93	Nitrite-sensitive transcriptional repressor NsrR
+PGF_03152669	Cronobacter	264.06	17.17	PTS system, mannose-specific IIC component
+PGF_03154343	Cronobacter	277.87	41.39	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Cronobacter	288.14	19.32	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Cronobacter	181.00	0.00	Transcription antitermination protein NusG
+PGF_03197613	Cronobacter	288.72	4.34	LysR family transcriptional regulator STM3121
+PGF_03217584	Cronobacter	361.39	68.64	Probable 3-phenylpropionic acid transporter
+PGF_03222913	Cronobacter	139.00	4.15	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Cronobacter	95.83	2.30	UPF0125 protein RatB
+PGF_03226402	Cronobacter	177.71	15.89	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase (EC 1.13.11.54)
+PGF_03232407	Cronobacter	189.80	9.72	Protein yceI precursor
+PGF_03253896	Cronobacter	227.09	14.80	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03272313	Cronobacter	813.61	183.37	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03275428	Cronobacter	484.19	78.09	Tripartite tricarboxylate transporter TctA family
+PGF_03278866	Cronobacter	75.28	5.24	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03300113	Cronobacter	184.95	9.64	Putative lipoprotein yceB precursor
+PGF_03306184	Cronobacter	287.43	32.08	4,5-DOPA dioxygenase extradiol (EC 1.13.11.29), but not physiological substrate
+PGF_03310128	Cronobacter	159.69	18.62	Uncharacterized protein YbeL
+PGF_03310415	Cronobacter	247.04	23.80	Uncharacterized lipoprotein YgeR
+PGF_03318456	Cronobacter	470.56	65.10	Trk potassium uptake system protein TrkH
+PGF_03325319	Cronobacter	194.46	14.27	DnaA initiator-associating protein DiaA
+PGF_03326496	Cronobacter	112.92	4.28	Putative outer membrane lipoprotein
+PGF_03326547	Cronobacter	111.09	13.06	Uncharacterized protein YgaC
+PGF_03331183	Cronobacter	91.00	0.00	Putative inner membrane protein
+PGF_03331199	Cronobacter	208.52	30.88	Uncharacterized protein YraR
+PGF_03340039	Cronobacter	185.67	14.51	Isochorismatase family protein YecD
+PGF_03341277	Cronobacter	231.63	8.91	Flagellar L-ring protein FlgH
+PGF_03348849	Cronobacter	120.46	2.31	Uncharacterized protein YqiC
+PGF_03351651	Cronobacter	565.50	95.19	Efflux ABC transporter, permease/ATP-binding protein MdlA
+PGF_03373110	Cronobacter	148.59	4.02	UPF0756 membrane protein YeaL
+PGF_03374853	Cronobacter	155.33	8.14	Uncharacterized protein YigI
+PGF_03376021	Cronobacter	582.56	100.38	Uncharacterized transporter YfbS
+PGF_03400333	Cronobacter	308.52	50.31	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03439690	Cronobacter	143.20	22.92	Ferric uptake regulation protein FUR
+PGF_03441339	Cronobacter	314.95	48.21	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03456505	Cronobacter	593.11	117.73	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03470321	Cronobacter	172.50	4.47	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03498722	Cronobacter	401.86	87.27	Di- and tricarboxylate transporters
+PGF_03507859	Cronobacter	327.12	45.21	Luciferase-like monooxygenase YhbW
+PGF_03514188	Cronobacter	429.52	65.77	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Cronobacter	142.30	6.56	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Cronobacter	380.04	22.37	Cell division protein FtsZ
+PGF_03609651	Cronobacter	650.84	128.09	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Cronobacter	159.35	18.40	UPF0234 protein Yitk
+PGF_03682090	Cronobacter	108.02	7.76	small multidrug resistance family (SMR) protein
+PGF_03683955	Cronobacter	277.18	51.57	Nitrate ABC transporter, permease protein
+PGF_03699416	Cronobacter	187.70	14.63	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Cronobacter	347.12	37.19	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Cronobacter	124.30	15.13	Protein translocase subunit SecE
+PGF_03718818	Cronobacter	274.29	17.87	Cell division protein FtsQ
+PGF_03723827	Cronobacter	148.72	15.59	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03726554	Cronobacter	241.22	45.23	CDP-diacylglycerol pyrophosphatase (EC 3.6.1.26)
+PGF_03726865	Cronobacter	260.11	10.94	Lactate-responsive regulator LldR in Enterobacteria, GntR family
+PGF_03729098	Cronobacter	293.91	53.29	Sigma factor RpoE negative regulatory protein RseB precursor
+PGF_03729141	Cronobacter	187.68	15.24	UPF0301 protein YqgE
+PGF_03743176	Cronobacter	553.75	151.78	Selenocysteine-specific translation elongation factor
+PGF_03750571	Cronobacter	457.12	15.58	Chromosomal replication initiator protein DnaA
+PGF_03750599	Cronobacter	261.04	20.10	Cell division coordinator CpoB
+PGF_03750600	Cronobacter	158.59	20.36	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03752215	Cronobacter	139.27	11.65	D-ribose pyranase (EC 5.4.99.62)
+PGF_03753122	Cronobacter	292.24	38.39	Site-specific tyrosine recombinase XerC
+PGF_03753933	Cronobacter	161.71	3.16	Iron-sulfur cluster regulator IscR
+PGF_03754578	Cronobacter	290.42	37.59	Transcriptional regulator YqhC, positively regulates YqhD and DkgA
+PGF_03757137	Cronobacter	451.02	43.70	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03768099	Cronobacter	313.54	32.61	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03772086	Cronobacter	466.96	24.59	Sensor histidine kinase GlrK
+PGF_03778780	Cronobacter	489.50	100.92	Signal recognition particle receptor FtsY
+PGF_03781125	Cronobacter	243.63	34.15	Endonuclease/exonuclease/phosphatase family protein
+PGF_03786411	Cronobacter	370.48	44.67	Rhamnogalacturonides degradation protein RhiN
+PGF_03787199	Cronobacter	179.22	16.90	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Cronobacter	344.77	43.58	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Cronobacter	223.69	17.29	Ribonuclease III (EC 3.1.26.3)
+PGF_03801156	Cronobacter	312.39	32.13	Cobalt-zinc-cadmium resistance protein CzcD
+PGF_03801201	Cronobacter	265.42	23.99	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Cronobacter	69.89	1.44	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03803868	Cronobacter	565.69	107.64	Fumarate reductase flavoprotein subunit (EC 1.3.5.4)
+PGF_03811905	Cronobacter	349.72	49.05	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03828790	Cronobacter	95.58	4.27	UPF0235 protein VC0458
+PGF_03828854	Cronobacter	167.00	0.00	Uncharacterized N-acetyltransferase YhbS
+PGF_03843714	Cronobacter	119.07	0.88	Inner membrane protein YijD
+PGF_03844705	Cronobacter	412.25	76.05	Anaerobic C4-dicarboxylate transporter DcuA
+PGF_03852293	Cronobacter	548.29	61.12	Channel-forming transporter/cytolysins activator of TpsB family
+PGF_03862500	Cronobacter	195.49	4.06	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03906292	Cronobacter	99.92	1.04	Phospholipid ABC transporter-binding protein MlaB
+PGF_03912513	Cronobacter	166.57	5.45	DNA protection during starvation protein
+PGF_03919925	Cronobacter	135.98	5.43	DNA-binding protein H-NS
+PGF_03927891	Cronobacter	102.78	2.48	ElaB protein
+PGF_03931503	Cronobacter	407.23	38.83	Uncharacterized protein YadE
+PGF_03931564	Cronobacter	547.22	63.27	Uncharacterized protein YicH
+PGF_03932611	Cronobacter	284.39	27.19	DNA-binding transcriptional dual regulator Rob
+PGF_03949149	Cronobacter	123.53	9.39	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_03961195	Cronobacter	282.27	18.35	AmpE protein
+PGF_03971314	Cronobacter	166.87	9.13	Uncharacterized N-acetyltransferase YjgM
+PGF_03979761	Cronobacter	256.25	20.67	Putative hydrolase
+PGF_03980141	Cronobacter	818.43	135.84	Adenylate cyclase (EC 4.6.1.1)
+PGF_03995518	Cronobacter	86.87	1.59	Proposed lipoate regulatory protein YbeD
+PGF_03999642	Cronobacter	76.25	7.56	DNA polymerase III theta subunit (EC 2.7.7.7)
+PGF_04007946	Cronobacter	209.09	24.73	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Cronobacter	148.30	11.19	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04009223	Cronobacter	385.42	47.78	Uncharacterized protein EC-HemX
+PGF_04012930	Cronobacter	103.34	13.15	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)
+PGF_04016408	Cronobacter	453.56	80.64	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019834	Cronobacter	339.14	22.18	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04025415	Cronobacter	133.44	9.48	Large-conductance mechanosensitive channel
+PGF_04027970	Cronobacter	241.41	23.71	Putative L,D-transpeptidase YafK
+PGF_04034666	Cronobacter	117.86	2.57	Putative negative regulator
+PGF_04043844	Cronobacter	607.30	118.54	Exoribonuclease II (EC 3.1.13.1)
+PGF_04048555	Cronobacter	361.91	46.47	UPF0118 inner membrane protein YdiK
+PGF_04108824	Cronobacter	560.32	102.00	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04108994	Cronobacter	420.55	57.65	Inorganic triphosphatase (EC 3.6.1.25)
+PGF_04111601	Cronobacter	413.83	57.23	TRAP-type C4-dicarboxylate transport system, large permease component
+PGF_04127376	Cronobacter	253.08	0.75	Twin-arginine translocation protein TatC
+PGF_04131439	Cronobacter	356.54	77.83	Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)
+PGF_04154333	Cronobacter	87.00	0.28	Twin-arginine translocation protein TatA
+PGF_04163139	Cronobacter	216.86	26.43	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Cronobacter	217.19	20.06	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04189945	Cronobacter	202.96	13.94	Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)
+PGF_04204856	Cronobacter	566.91	78.69	hypothetical protein
+PGF_04217897	Cronobacter	486.35	74.04	L-arabinose ABC transporter, ATP-binding protein AraG
+PGF_04240096	Cronobacter	633.71	125.21	Signal transduction histidine kinase CheA
+PGF_04258098	Cronobacter	289.03	53.68	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+PGF_04275878	Cronobacter	221.22	23.06	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04294484	Cronobacter	243.24	30.87	Epimerase KguE
+PGF_04315180	Cronobacter	155.43	3.04	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Cronobacter	452.27	26.80	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Cronobacter	891.45	65.47	Protein translocase subunit SecA
+PGF_04368280	Cronobacter	312.95	19.59	Galactofuranose ABC transporter, substrate-binding protein
+PGF_04380075	Cronobacter	223.70	4.46	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Cronobacter	308.11	11.26	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Cronobacter	108.54	5.49	Thioredoxin
+PGF_04457297	Cronobacter	224.35	20.72	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Cronobacter	320.21	4.20	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04478029	Cronobacter	189.88	14.87	Periplasmic aromatic aldehyde oxidoreductase, iron-sulfur subunit YagT
+PGF_04490918	Cronobacter	131.98	0.24	Rhodanese-related sulfurtransferase
+PGF_04502464	Cronobacter	611.89	124.73	DNA topoisomerase III (EC 5.99.1.2)
+PGF_04504813	Cronobacter	130.06	127.50	hypothetical protein
+PGF_04505269	Cronobacter	237.60	19.07	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Cronobacter	430.85	73.11	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04567743	Cronobacter	390.04	38.83	Flavohemoglobin / Nitric oxide dioxygenase (EC 1.14.12.17)
+PGF_04569524	Cronobacter	493.31	80.11	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Cronobacter	244.96	35.58	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04592595	Cronobacter	459.24	67.12	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4) @ Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04596496	Cronobacter	323.32	28.20	Quinone oxidoreductase (EC 1.6.5.5)
+PGF_04608820	Cronobacter	602.24	122.68	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04620152	Cronobacter	475.24	45.18	Pantothenate:Na+ symporter (TC 2.A.21.1.1)
+PGF_04630848	Cronobacter	156.01	15.06	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Cronobacter	90.00	0.00	DNA-binding protein HU-beta
+PGF_04655384	Cronobacter	309.48	23.55	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Cronobacter	164.11	9.57	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Cronobacter	763.76	146.61	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Cronobacter	400.89	27.84	Alanine transaminase (EC 2.6.1.2)
+PGF_04679223	Cronobacter	135.24	12.36	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04681134	Cronobacter	199.85	2.59	Cell filamentation protein Fic
+PGF_04687504	Cronobacter	454.35	61.35	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04695681	Cronobacter	271.38	31.03	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04724831	Cronobacter	343.22	39.70	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04734234	Cronobacter	614.59	57.87	Kup system potassium uptake protein
+PGF_04749763	Cronobacter	873.31	136.73	Translation initiation factor 2
+PGF_04757308	Cronobacter	589.04	91.44	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Cronobacter	191.81	14.00	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Cronobacter	275.85	28.42	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04807308	Cronobacter	164.04	12.55	Stress response diiron-containing protein YciF
+PGF_04807486	Cronobacter	305.19	20.35	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Cronobacter	115.00	0.00	LSU ribosomal protein L19p
+PGF_04857863	Cronobacter	186.49	12.28	Fructose-1-phosphate phosphatase YqaB (EC 3.1.3.-)
+PGF_04958295	Cronobacter	134.53	9.01	Flagellar biosynthesis protein FliS
+PGF_04962192	Cronobacter	794.95	110.88	3'-to-5' exoribonuclease RNase R
+PGF_04965976	Cronobacter	360.25	65.28	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Cronobacter	90.52	3.54	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_05021259	Cronobacter	312.59	43.37	GDP-L-fucose synthetase (EC 1.1.1.271)
+PGF_05038169	Cronobacter	310.67	37.57	COG1683: Uncharacterized conserved protein / FIG143828: Hypothetical protein YbgA
+PGF_05048110	Cronobacter	266.13	24.44	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1)
+PGF_05091456	Cronobacter	288.18	39.42	Uncharacterized inner membrane protein RarD
+PGF_05119600	Cronobacter	898.20	284.10	Multidrug efflux system MdtABC-TolC, inner-membrane proton/drug antiporter MdtC (RND type)
+PGF_05122891	Cronobacter	304.04	26.52	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+PGF_05140475	Cronobacter	430.30	50.69	Branched-chain amino acid transport system carrier protein
+PGF_05144592	Cronobacter	371.44	74.99	Putative diheme cytochrome c-553
+PGF_05165078	Cronobacter	307.04	38.28	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Cronobacter	214.40	7.56	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05187258	Cronobacter	299.43	26.87	Cryptic sugar kinase Mak
+PGF_05195027	Cronobacter	448.34	67.70	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05220334	Cronobacter	454.75	88.85	Succinate-semialdehyde dehydrogenase [NAD(P)+] (EC 1.2.1.16)
+PGF_05249824	Cronobacter	252.18	17.98	Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+PGF_05255412	Cronobacter	423.85	33.18	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05294175	Cronobacter	172.02	0.14	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05338234	Cronobacter	283.32	26.14	Protein YicC
+PGF_05406959	Cronobacter	331.89	43.21	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05442739	Cronobacter	323.57	53.18	Sulfate and thiosulfate binding protein CysP
+PGF_05449103	Cronobacter	142.00	7.73	Rhodanese-related sulfurtransferase YibN
+PGF_05463808	Cronobacter	290.96	11.86	NAD kinase (EC 2.7.1.23)
+PGF_05475561	Cronobacter	481.90	96.69	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+PGF_05493552	Cronobacter	90.71	7.34	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05498463	Cronobacter	393.10	77.93	Glutamate-pyruvate aminotransferase AlaC (EC 2.6.1.2)
+PGF_05507938	Cronobacter	604.87	106.68	DNA mismatch repair protein MutL
+PGF_05513991	Cronobacter	178.69	6.90	Electron transport protein HydN
+PGF_05515206	Cronobacter	326.79	31.41	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)
+PGF_05560886	Cronobacter	269.29	19.61	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05597323	Cronobacter	100.00	0.00	hypothetical protein
+PGF_05598173	Cronobacter	364.68	46.74	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Cronobacter	399.83	67.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05626125	Cronobacter	333.04	44.64	Inner membrane protein YhjD
+PGF_05657253	Cronobacter	210.31	35.25	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05676471	Cronobacter	241.08	24.07	Glutamate Aspartate transport system permease protein GltJ (TC 3.A.1.3.4)
+PGF_05676783	Cronobacter	283.35	56.08	Osmoprotectant ABC transporter binding protein YehZ
+PGF_05693577	Cronobacter	97.87	2.88	Integration host factor beta subunit
+PGF_05712128	Cronobacter	543.32	39.55	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05748227	Cronobacter	229.79	22.75	Uncharacterized conserved protein YfiP, contains DTW domain
+PGF_05769513	Cronobacter	420.16	52.02	Tol-Pal system beta propeller repeat protein TolB
+PGF_05837052	Cronobacter	427.52	42.48	Isocitrate lyase (EC 4.1.3.1)
+PGF_05847461	Cronobacter	295.49	26.69	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05872952	Cronobacter	243.74	15.29	Outer membrane beta-barrel assembly protein BamD
+PGF_05946087	Cronobacter	291.63	28.48	Transcriptional regulator ArgP, LysR family
+PGF_05949521	Cronobacter	534.17	170.45	Protein translocase subunit SecD
+PGF_05965455	Cronobacter	468.87	83.25	AmpG permease
+PGF_05971611	Cronobacter	381.96	68.81	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06000040	Cronobacter	394.39	32.24	Type IV fimbrial assembly protein PilC
+PGF_06025565	Cronobacter	305.65	20.96	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06026973	Cronobacter	227.50	21.73	Cation transport protein chaC
+PGF_06027248	Cronobacter	440.89	128.80	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06037862	Cronobacter	658.75	101.87	Penicillin-binding protein activator LpoA
+PGF_06053106	Cronobacter	272.58	37.54	RNA polymerase sigma factor RpoH
+PGF_06061522	Cronobacter	129.19	4.64	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06062291	Cronobacter	119.12	8.61	Uncharacterized protein YibL
+PGF_06111528	Cronobacter	378.79	4.71	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06120144	Cronobacter	144.39	7.58	Ribosome association toxin RatA
+PGF_06137558	Cronobacter	325.74	15.89	TRAP-type C4-dicarboxylate transport system, periplasmic component
+PGF_06152571	Cronobacter	251.21	17.60	Sulfate transporter, CysZ-type
+PGF_06158097	Cronobacter	81.81	6.83	hypothetical protein
+PGF_06170558	Cronobacter	155.15	11.45	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Cronobacter	134.52	26.37	LSU ribosomal protein L13p (L13Ae)
+PGF_06180612	Cronobacter	259.23	36.56	Uncharacterized SAM-binding protein YdcF
+PGF_06189158	Cronobacter	114.45	5.29	Monothiol glutaredoxin GrxD
+PGF_06213055	Cronobacter	252.59	26.99	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06242044	Cronobacter	151.88	16.16	Acetyltransferase
+PGF_06254345	Cronobacter	96.96	0.56	Heat shock protein 60 family co-chaperone GroES
+PGF_06287652	Cronobacter	241.72	33.97	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06315406	Cronobacter	402.44	66.96	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Cronobacter	324.89	41.16	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06326847	Cronobacter	240.43	25.12	Flagellar biosynthesis protein FliP
+PGF_06362312	Cronobacter	492.37	66.53	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06379377	Cronobacter	435.87	55.67	Replication-associated recombination protein RarA
+PGF_06398080	Cronobacter	338.90	20.44	L-amino acid ABC transporter (Glu/Asp/His/...), substrate-binding protein AapJ
+PGF_06447349	Cronobacter	729.10	121.37	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06458877	Cronobacter	172.93	0.88	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Cronobacter	352.03	45.88	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06470834	Cronobacter	166.66	15.16	Lipocalin Blc
+PGF_06509266	Cronobacter	264.68	12.65	Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), ATP-binding protein FhuC
+PGF_06530721	Cronobacter	238.74	25.91	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Cronobacter	124.57	13.28	Fluoride ion transporter CrcB
+PGF_06562926	Cronobacter	298.88	43.33	Formate dehydrogenase formation protein FdhE
+PGF_06579751	Cronobacter	786.34	193.32	Aconitate hydratase 2 (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_06592852	Cronobacter	288.83	7.51	Transcriptional regulator YeiE, LysR family
+PGF_06594013	Cronobacter	137.00	0.00	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06603185	Cronobacter	225.21	15.67	UPF0758 protein YicR
+PGF_06605523	Cronobacter	395.84	64.76	hypothetical protein
+PGF_06635957	Cronobacter	301.09	42.56	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06660812	Cronobacter	200.00	13.29	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06664917	Cronobacter	385.07	40.64	L-amino acid ABC transporter (Glu/Asp/His/...), permease protein 1 AapQ
+PGF_06679416	Cronobacter	199.15	13.86	Adenylylsulfate kinase (EC 2.7.1.25)
+PGF_06683120	Cronobacter	164.00	0.00	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_06693963	Cronobacter	109.98	0.14	Nucleoid-associated protein YaaK
+PGF_06706859	Cronobacter	178.44	12.91	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06718352	Cronobacter	158.89	1.35	Cys-tRNA(Pro) deacylase YbaK
+PGF_06721510	Cronobacter	308.97	33.12	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+PGF_06738272	Cronobacter	262.64	52.16	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_06743269	Cronobacter	383.91	53.65	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06755829	Cronobacter	311.05	66.94	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Cronobacter	506.73	48.08	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06767187	Cronobacter	331.99	36.33	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06863675	Cronobacter	214.92	33.92	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_06895518	Cronobacter	170.31	30.15	Fimbrial protein
+PGF_06902083	Cronobacter	49.44	3.90	hypothetical protein
+PGF_06965613	Cronobacter	161.06	18.15	GNAT family acetyltransferase YhhY
+PGF_07011327	Cronobacter	232.19	14.62	RNA binding S1 domain protein
+PGF_07163125	Cronobacter	135.01	0.11	Formate hydrogenlyase maturation protein HycH
+PGF_07171792	Cronobacter	250.70	14.02	Glycerol-3-phosphate regulon repressor GlpR
+PGF_07242312	Cronobacter	609.77	89.20	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07263029	Cronobacter	360.52	23.03	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_07344415	Cronobacter	175.32	15.05	Intracellular septation protein IspA
+PGF_07368646	Cronobacter	241.01	18.01	TonB-ExbBD energy transducing system, ExbB subunit
+PGF_07370370	Cronobacter	432.37	98.07	Voltage-gated H(+)/2Cl(-) exchange transporter ClcA
+PGF_07410445	Cronobacter	381.35	33.59	NADPH-dependent broad range aldehyde dehydrogenase YqhD
+PGF_07410757	Cronobacter	331.42	54.43	Aldose 1-epimerase (EC 5.1.3.3)
+PGF_07419348	Cronobacter	442.71	105.85	Tricarboxylate transport sensor protein TctE
+PGF_07425883	Cronobacter	110.45	4.63	Ferredoxin, 2Fe-2S
+PGF_07426744	Cronobacter	243.16	17.95	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_08031207	Cronobacter	104.99	0.08	Small multidrug resistance (SMR) efflux transporter => SugE, quaternary ammonium compounds
+PGF_08049323	Cronobacter	261.77	30.63	Peptide transport system ATP-binding protein SapF
+PGF_08050537	Cronobacter	304.93	25.55	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08056783	Cronobacter	179.61	7.26	Formate hydrogenlyase subunit 6
+PGF_08059428	Cronobacter	86.01	9.87	Cell division topological specificity factor MinE
+PGF_08059713	Cronobacter	90.00	0.00	Phosphocarrier protein, nitrogen regulation associated
+PGF_08061357	Cronobacter	114.00	0.00	Iron-sulfur cluster insertion protein ErpA
+PGF_08070641	Cronobacter	232.22	40.64	TonB-ExbBD energy transducing system, TonB subunit
+PGF_08074580	Cronobacter	385.59	56.56	Lipoprotein releasing system transmembrane protein LolC
+PGF_08114563	Cronobacter	290.47	19.18	hypothetical protein
+PGF_08126362	Cronobacter	468.14	46.38	DNA recombination protein RmuC
+PGF_08139865	Cronobacter	162.69	11.19	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_08149378	Cronobacter	124.53	6.13	Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+PGF_08153913	Cronobacter	247.93	19.71	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08177814	Cronobacter	410.77	25.63	Lipoprotein releasing system transmembrane protein LolE
+PGF_08183187	Cronobacter	406.01	41.92	Cell division protein FtsW

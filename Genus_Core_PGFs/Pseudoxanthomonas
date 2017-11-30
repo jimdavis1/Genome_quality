@@ -1,0 +1,958 @@
+PGF_00000261	Pseudoxanthomonas	398.47	2.32	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000416	Pseudoxanthomonas	360.29	16.53	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000939	Pseudoxanthomonas	395.35	2.29	Uncharacterized protein YhiN
+PGF_00002124	Pseudoxanthomonas	219.47	11.03	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002585	Pseudoxanthomonas	212.35	4.12	FIG019175: putative membrane protein
+PGF_00002980	Pseudoxanthomonas	501.35	7.27	FIG032621: Hydrolase, alpha/beta hydrolase fold family
+PGF_00003009	Pseudoxanthomonas	199.47	4.78	FIG034602: Probable transmembrane protein
+PGF_00003030	Pseudoxanthomonas	616.82	38.22	FIG035830: Two-component system regulatory protein
+PGF_00003047	Pseudoxanthomonas	807.71	181.35	FIG037127: Two-component system sensor protein
+PGF_00003448	Pseudoxanthomonas	377.59	3.41	FIG110192: hypothetical protein
+PGF_00003528	Pseudoxanthomonas	193.53	11.66	UPF0307 protein YjgA
+PGF_00003746	Pseudoxanthomonas	310.71	1.10	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+PGF_00003975	Pseudoxanthomonas	688.18	3.59	FOG: PAS/PAC domain
+PGF_00004378	Pseudoxanthomonas	259.65	0.61	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00004506	Pseudoxanthomonas	222.59	8.20	Ferric siderophore transport system, biopolymer transport protein ExbB
+PGF_00004517	Pseudoxanthomonas	333.41	8.94	putative TonB-dependent receptor
+PGF_00004984	Pseudoxanthomonas	418.47	15.99	ABC transporter, permease protein
+PGF_00005780	Pseudoxanthomonas	434.82	9.91	ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)
+PGF_00006100	Pseudoxanthomonas	275.00	22.12	tRNA-modifying protein YgfZ
+PGF_00006320	Pseudoxanthomonas	283.00	0.00	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006391	Pseudoxanthomonas	334.53	0.62	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006454	Pseudoxanthomonas	514.29	8.30	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006461	Pseudoxanthomonas	474.82	12.01	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Pseudoxanthomonas	522.35	1.97	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Pseudoxanthomonas	353.41	39.53	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Pseudoxanthomonas	467.12	6.17	GTP-binding protein EngA
+PGF_00007026	Pseudoxanthomonas	202.82	4.45	GTP-binding protein EngB
+PGF_00007028	Pseudoxanthomonas	439.71	10.91	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Pseudoxanthomonas	609.65	1.84	GTP-binding protein TypA/BipA
+PGF_00007057	Pseudoxanthomonas	446.59	2.62	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007437	Pseudoxanthomonas	248.00	0.00	ABC-type Na+ transport system not coupled with H+ or K+ uptake, ATPase component NatA
+PGF_00007632	Pseudoxanthomonas	323.35	20.15	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007773	Pseudoxanthomonas	441.88	18.68	ABC-type antimicrobial peptide transport system, permease component
+PGF_00007988	Pseudoxanthomonas	501.53	8.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Pseudoxanthomonas	440.88	13.33	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008115	Pseudoxanthomonas	1488.59	7.15	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008164	Pseudoxanthomonas	430.00	1.32	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Pseudoxanthomonas	468.76	0.66	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Pseudoxanthomonas	583.47	4.19	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Pseudoxanthomonas	430.82	4.84	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Pseudoxanthomonas	468.65	3.37	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008353	Pseudoxanthomonas	94.53	3.10	Glutaredoxin 3
+PGF_00008377	Pseudoxanthomonas	309.53	4.02	Glutaredoxin-like protein
+PGF_00008469	Pseudoxanthomonas	316.12	5.60	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008595	Pseudoxanthomonas	880.35	18.53	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+PGF_00008611	Pseudoxanthomonas	342.24	2.28	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008767	Pseudoxanthomonas	187.76	2.46	Glycine cleavage system transcriptional antiactivator GcvR
+PGF_00008773	Pseudoxanthomonas	962.35	10.58	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Pseudoxanthomonas	214.76	3.51	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009000	Pseudoxanthomonas	282.88	5.94	Glycosyl transferase
+PGF_00009500	Pseudoxanthomonas	211.24	10.80	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Pseudoxanthomonas	302.88	6.46	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Pseudoxanthomonas	706.71	13.89	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010170	Pseudoxanthomonas	348.12	9.03	Glyoxylate reductase (EC 1.1.1.79) / Glyoxylate reductase (EC 1.1.1.26) / Hydroxypyruvate reductase (EC 1.1.1.81); 2-ketoaldonate reductase, broad specificity (EC 1.1.1.215) (EC 1.1.1.-)
+PGF_00010205	Pseudoxanthomonas	243.59	0.62	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Pseudoxanthomonas	721.59	4.82	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Pseudoxanthomonas	210.29	7.38	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Pseudoxanthomonas	316.88	0.70	HPr kinase/phosphorylase
+PGF_00010918	Pseudoxanthomonas	307.24	10.88	Haloalkane dehalogenase-like protein
+PGF_00011321	Pseudoxanthomonas	302.65	5.83	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011634	Pseudoxanthomonas	372.65	13.98	HflK protein
+PGF_00011791	Pseudoxanthomonas	107.53	4.67	His repressor
+PGF_00011935	Pseudoxanthomonas	445.00	0.35	Histidine kinase/response regulator hybrid protein
+PGF_00011979	Pseudoxanthomonas	440.71	4.71	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Pseudoxanthomonas	357.12	0.33	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012264	Pseudoxanthomonas	346.18	6.50	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012291	Pseudoxanthomonas	432.29	1.65	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+PGF_00012356	Pseudoxanthomonas	310.41	6.65	Homoserine kinase (EC 2.7.1.39)
+PGF_00012972	Pseudoxanthomonas	182.12	1.62	ADP compounds hydrolase NudE (EC 3.6.1.-)
+PGF_00013003	Pseudoxanthomonas	615.94	15.69	Bis-ABC ATPase YheS
+PGF_00013244	Pseudoxanthomonas	185.82	1.85	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013267	Pseudoxanthomonas	537.53	8.17	Hypothetical protein USSDB1A
+PGF_00013272	Pseudoxanthomonas	146.88	8.18	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Pseudoxanthomonas	228.35	3.12	UPF0001 protein YggS
+PGF_00013509	Pseudoxanthomonas	528.59	1.37	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013857	Pseudoxanthomonas	717.35	10.58	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00013971	Pseudoxanthomonas	554.35	9.98	AMP-dependent synthetase/ligase in alkane synthesis cluster
+PGF_00014051	Pseudoxanthomonas	263.88	0.49	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Pseudoxanthomonas	486.88	3.52	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Pseudoxanthomonas	268.82	6.80	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Pseudoxanthomonas	94.29	3.31	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Pseudoxanthomonas	174.94	0.24	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Pseudoxanthomonas	287.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015263	Pseudoxanthomonas	110.88	0.99	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_00015510	Pseudoxanthomonas	254.00	0.35	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Pseudoxanthomonas	487.53	5.81	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Pseudoxanthomonas	428.00	9.12	Iron-sulfur cluster assembly protein SufD
+PGF_00015707	Pseudoxanthomonas	568.94	9.55	Isocitrate dehydrogenase phosphatase (EC 2.7.11.5)/kinase (EC 3.1.3.-)
+PGF_00015718	Pseudoxanthomonas	941.65	6.43	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Pseudoxanthomonas	338.24	8.20	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015931	Pseudoxanthomonas	422.65	2.52	Kynureninase (EC 3.7.1.3)
+PGF_00015934	Pseudoxanthomonas	459.59	4.84	Kynurenine 3-monooxygenase (EC 1.14.13.9)
+PGF_00016261	Pseudoxanthomonas	342.59	1.97	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016328	Pseudoxanthomonas	179.18	6.78	LSU ribosomal protein L10p (P0)
+PGF_00016338	Pseudoxanthomonas	428.12	0.93	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Pseudoxanthomonas	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Pseudoxanthomonas	145.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Pseudoxanthomonas	137.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Pseudoxanthomonas	123.88	1.11	LSU ribosomal protein L17p
+PGF_00016353	Pseudoxanthomonas	118.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Pseudoxanthomonas	232.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Pseudoxanthomonas	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Pseudoxanthomonas	105.06	4.67	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Pseudoxanthomonas	111.24	0.66	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Pseudoxanthomonas	99.29	1.26	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Pseudoxanthomonas	104.35	2.42	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Pseudoxanthomonas	85.88	0.49	LSU ribosomal protein L27p
+PGF_00016393	Pseudoxanthomonas	273.41	4.39	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Pseudoxanthomonas	63.12	0.49	LSU ribosomal protein L30p (L7e)
+PGF_00016416	Pseudoxanthomonas	54.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Pseudoxanthomonas	46.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Pseudoxanthomonas	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016425	Pseudoxanthomonas	41.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016431	Pseudoxanthomonas	216.12	1.65	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Pseudoxanthomonas	201.06	0.24	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Pseudoxanthomonas	180.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Pseudoxanthomonas	175.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016452	Pseudoxanthomonas	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016850	Pseudoxanthomonas	366.12	0.33	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)
+PGF_00016919	Pseudoxanthomonas	248.41	3.02	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Pseudoxanthomonas	402.71	9.67	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Pseudoxanthomonas	239.24	0.44	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017400	Pseudoxanthomonas	257.41	24.65	Murein hydrolase activator NlpD
+PGF_00017464	Pseudoxanthomonas	235.41	3.24	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Pseudoxanthomonas	337.35	8.34	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017579	Pseudoxanthomonas	546.53	122.47	ATP-dependent RNA helicase RhlB
+PGF_00017939	Pseudoxanthomonas	340.12	13.58	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018560	Pseudoxanthomonas	291.59	7.19	Magnesium and cobalt efflux protein CorC
+PGF_00018956	Pseudoxanthomonas	327.65	0.49	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018964	Pseudoxanthomonas	551.35	9.46	Malate synthase (EC 2.3.3.9)
+PGF_00018992	Pseudoxanthomonas	222.00	2.98	Maleylacetoacetate isomerase (EC 5.2.1.2) @ Glutathione S-transferase, zeta (EC 2.5.1.18)
+PGF_00019038	Pseudoxanthomonas	455.82	3.28	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Pseudoxanthomonas	183.00	0.00	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019904	Pseudoxanthomonas	436.29	10.62	Membrane protein
+PGF_00020172	Pseudoxanthomonas	291.35	9.55	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020184	Pseudoxanthomonas	397.18	10.82	Membrane-bound lytic murein transglycosylase D
+PGF_00020361	Pseudoxanthomonas	159.59	4.84	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020793	Pseudoxanthomonas	185.12	3.79	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020981	Pseudoxanthomonas	535.00	0.00	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Pseudoxanthomonas	287.29	2.31	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021030	Pseudoxanthomonas	506.71	11.64	Methylphosphotriester-DNA--protein-cysteine S-methyltransferase (EC 2.1.1.n11) / DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_00021036	Pseudoxanthomonas	351.76	0.44	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021037	Pseudoxanthomonas	214.00	1.41	Methylthioribulose-1-phosphate dehydratase (EC 4.2.1.109)
+PGF_00022467	Pseudoxanthomonas	172.41	0.71	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00022605	Pseudoxanthomonas	237.24	19.82	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00023326	Pseudoxanthomonas	199.53	0.94	MarC family integral membrane protein
+PGF_00023476	Pseudoxanthomonas	162.00	0.00	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023488	Pseudoxanthomonas	319.18	8.21	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-) / Thiazole tautomerase TenI-like domain
+PGF_00023591	Pseudoxanthomonas	343.65	11.62	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023727	Pseudoxanthomonas	366.35	4.40	N-acetyl-L-citrulline deacetylase
+PGF_00023739	Pseudoxanthomonas	321.24	3.23	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023794	Pseudoxanthomonas	382.29	1.57	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00024234	Pseudoxanthomonas	379.94	4.75	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Pseudoxanthomonas	163.47	11.61	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Pseudoxanthomonas	379.29	5.16	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Pseudoxanthomonas	546.65	5.30	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024322	Pseudoxanthomonas	472.82	7.72	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024362	Pseudoxanthomonas	333.82	1.70	NAD(P)H steroid dehydrogenase-like protein in alkane synthesis cluster
+PGF_00024478	Pseudoxanthomonas	334.06	0.56	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024615	Pseudoxanthomonas	309.06	6.29	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024687	Pseudoxanthomonas	435.94	2.51	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Pseudoxanthomonas	175.00	0.00	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Pseudoxanthomonas	215.88	2.18	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Pseudoxanthomonas	101.12	0.49	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Pseudoxanthomonas	503.00	1.37	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Pseudoxanthomonas	484.18	3.17	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Pseudoxanthomonas	272.88	1.93	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Pseudoxanthomonas	580.41	5.57	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025448	Pseudoxanthomonas	198.53	2.72	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025673	Pseudoxanthomonas	277.29	8.84	Nikel transport family protein NikM
+PGF_00026039	Pseudoxanthomonas	192.65	2.83	Nitroreductase
+PGF_00026279	Pseudoxanthomonas	319.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Pseudoxanthomonas	198.94	4.70	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Pseudoxanthomonas	273.41	7.22	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026563	Pseudoxanthomonas	153.65	5.66	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Pseudoxanthomonas	441.59	3.37	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026632	Pseudoxanthomonas	405.71	6.09	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49)
+PGF_00026866	Pseudoxanthomonas	334.06	2.05	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00027752	Pseudoxanthomonas	611.47	39.46	Outer membrane component of TAM transport system
+PGF_00028559	Pseudoxanthomonas	312.47	1.33	Oxidoreductase
+PGF_00028913	Pseudoxanthomonas	294.24	12.60	Acid phosphatase (EC 3.1.3.2)
+PGF_00029071	Pseudoxanthomonas	232.88	1.32	2,3-diketo-5-methylthiopentyl-1-phosphate enolase-phosphatase (EC 3.1.3.77)
+PGF_00029269	Pseudoxanthomonas	920.53	3.28	Aconitate hydratase (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_00029917	Pseudoxanthomonas	280.06	0.24	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Pseudoxanthomonas	360.71	1.69	Peptide chain release factor 1
+PGF_00030643	Pseudoxanthomonas	533.65	10.52	Peptide chain release factor 3
+PGF_00030781	Pseudoxanthomonas	305.35	5.20	Peptidyl-prolyl cis-trans isomerase
+PGF_00033071	Pseudoxanthomonas	296.47	1.87	Phenylalanine-4-hydroxylase (EC 1.14.16.1)
+PGF_00033095	Pseudoxanthomonas	768.29	130.34	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Pseudoxanthomonas	327.35	1.06	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033359	Pseudoxanthomonas	361.18	0.73	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Pseudoxanthomonas	243.18	4.46	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033392	Pseudoxanthomonas	913.82	22.13	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033402	Pseudoxanthomonas	793.18	6.67	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033411	Pseudoxanthomonas	273.88	2.50	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033423	Pseudoxanthomonas	572.47	2.55	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033488	Pseudoxanthomonas	636.59	0.51	Phosphogluconate dehydratase (EC 4.2.1.12)
+PGF_00033511	Pseudoxanthomonas	391.59	3.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Pseudoxanthomonas	261.88	0.60	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Pseudoxanthomonas	266.41	12.26	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033743	Pseudoxanthomonas	217.53	5.26	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Pseudoxanthomonas	166.12	1.73	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Pseudoxanthomonas	214.76	9.88	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Pseudoxanthomonas	429.24	1.35	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Pseudoxanthomonas	313.00	4.20	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Pseudoxanthomonas	249.24	4.60	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Pseudoxanthomonas	346.06	7.72	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Pseudoxanthomonas	1312.94	39.47	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Pseudoxanthomonas	220.53	3.62	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Pseudoxanthomonas	396.94	3.29	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033985	Pseudoxanthomonas	361.18	0.53	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00033992	Pseudoxanthomonas	240.12	5.72	Phosphoserine phosphatase
+PGF_00034566	Pseudoxanthomonas	431.00	31.40	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034972	Pseudoxanthomonas	176.06	3.86	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Pseudoxanthomonas	330.71	3.04	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Pseudoxanthomonas	196.71	9.70	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035378	Pseudoxanthomonas	480.06	1.48	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035721	Pseudoxanthomonas	456.24	3.31	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00036580	Pseudoxanthomonas	112.53	1.46	Protein translocase subunit YajC
+PGF_00036800	Pseudoxanthomonas	372.00	4.62	Probable GTPase related to EngC
+PGF_00037006	Pseudoxanthomonas	344.71	5.11	Agmatine deiminase (EC 3.5.3.12)
+PGF_00037588	Pseudoxanthomonas	565.41	3.22	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037750	Pseudoxanthomonas	631.35	1.84	Propionate--CoA ligase (EC 6.2.1.17)
+PGF_00037828	Pseudoxanthomonas	292.53	1.66	Protease HtpX
+PGF_00037835	Pseudoxanthomonas	719.76	13.33	Protease II (EC 3.4.21.83)
+PGF_00037937	Pseudoxanthomonas	105.18	15.09	Protein PhnA
+PGF_00038060	Pseudoxanthomonas	311.00	1.97	Protein containing domains DUF403
+PGF_00038367	Pseudoxanthomonas	156.76	1.39	Protein of unknown function DUF55
+PGF_00038542	Pseudoxanthomonas	156.88	0.33	Protein of unknown function Smg
+PGF_00038674	Pseudoxanthomonas	322.41	2.98	Protein translocase subunit SecF
+PGF_00039342	Pseudoxanthomonas	279.12	4.68	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040388	Pseudoxanthomonas	418.76	5.52	Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)
+PGF_00040580	Pseudoxanthomonas	258.41	3.62	Putative deoxyribonuclease YjjV
+PGF_00041794	Pseudoxanthomonas	186.88	0.33	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041831	Pseudoxanthomonas	529.94	2.11	Alkyl hydroperoxide reductase protein F
+PGF_00042959	Pseudoxanthomonas	131.47	3.69	Putative periplasmic cytochrome type-C oxidoreductase signal peptide protein (EC 1.-.-.-)
+PGF_00043159	Pseudoxanthomonas	391.00	4.78	Putative permease often clustered with de novo purine synthesis
+PGF_00045706	Pseudoxanthomonas	569.53	39.43	Putative von Willebrand factor, vWF type A domain protein STM2315
+PGF_00045738	Pseudoxanthomonas	305.24	4.49	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045833	Pseudoxanthomonas	230.24	84.23	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Pseudoxanthomonas	253.41	2.76	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045941	Pseudoxanthomonas	731.29	67.24	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045982	Pseudoxanthomonas	802.94	264.58	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046005	Pseudoxanthomonas	1650.59	9.73	Alpha-2-macroglobulin
+PGF_00046060	Pseudoxanthomonas	224.41	6.30	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Pseudoxanthomonas	285.18	6.99	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046452	Pseudoxanthomonas	197.59	24.92	RNA polymerase sigma-70 factor
+PGF_00046622	Pseudoxanthomonas	91.65	1.22	RNA-binding protein Hfq
+PGF_00047078	Pseudoxanthomonas	343.35	1.37	RecA protein
+PGF_00047089	Pseudoxanthomonas	208.24	6.20	RecA/RadA recombinase
+PGF_00047533	Pseudoxanthomonas	400.76	3.27	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00047554	Pseudoxanthomonas	648.06	147.84	Alpha-glucosidase (EC 3.2.1.20)
+PGF_00047896	Pseudoxanthomonas	227.71	4.58	Response regulator CreB of two-component signal transduction system CreBC
+PGF_00048480	Pseudoxanthomonas	203.06	3.60	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Pseudoxanthomonas	130.53	5.44	Outer membrane beta-barrel assembly protein BamE
+PGF_00048542	Pseudoxanthomonas	149.53	1.23	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Pseudoxanthomonas	214.47	13.92	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Pseudoxanthomonas	240.71	3.50	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048589	Pseudoxanthomonas	219.65	29.24	Ribonuclease T
+PGF_00048620	Pseudoxanthomonas	267.24	11.82	Ribonucleotide reductase of class II (coenzyme B12-dependent), alpha subunit (EC 1.17.4.1)
+PGF_00048630	Pseudoxanthomonas	813.88	7.74	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048643	Pseudoxanthomonas	178.00	1.80	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Pseudoxanthomonas	324.59	8.99	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048834	Pseudoxanthomonas	189.88	18.24	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048836	Pseudoxanthomonas	240.24	2.17	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Pseudoxanthomonas	307.00	5.51	Ribosomal protein L11 methyltransferase
+PGF_00048842	Pseudoxanthomonas	310.53	5.55	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048858	Pseudoxanthomonas	301.53	12.92	Ribosomal protein S6--L-glutamate ligase
+PGF_00048868	Pseudoxanthomonas	237.41	2.60	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048926	Pseudoxanthomonas	185.00	0.00	Ribosome recycling factor
+PGF_00048933	Pseudoxanthomonas	132.18	5.13	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Pseudoxanthomonas	123.00	2.26	Ribosome-binding factor A
+PGF_00048985	Pseudoxanthomonas	225.88	2.26	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049163	Pseudoxanthomonas	160.41	0.94	Rod shape-determining protein MreD
+PGF_00049204	Pseudoxanthomonas	288.76	0.75	RpfF protein
+PGF_00049323	Pseudoxanthomonas	264.88	1.65	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+PGF_00049330	Pseudoxanthomonas	404.24	1.39	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Pseudoxanthomonas	349.24	7.93	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049363	Pseudoxanthomonas	284.18	8.05	S-formylglutathione hydrolase (EC 3.1.2.12)
+PGF_00049827	Pseudoxanthomonas	262.41	5.40	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Pseudoxanthomonas	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Pseudoxanthomonas	130.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Pseudoxanthomonas	124.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Pseudoxanthomonas	118.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Pseudoxanthomonas	99.53	2.35	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Pseudoxanthomonas	86.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Pseudoxanthomonas	86.06	1.25	SSU ribosomal protein S16p
+PGF_00049854	Pseudoxanthomonas	87.76	0.44	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Pseudoxanthomonas	76.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Pseudoxanthomonas	89.65	1.62	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Pseudoxanthomonas	240.71	1.72	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Pseudoxanthomonas	208.47	0.51	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Pseudoxanthomonas	179.82	0.88	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Pseudoxanthomonas	142.88	2.03	SSU ribosomal protein S6p
+PGF_00049904	Pseudoxanthomonas	155.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Pseudoxanthomonas	131.94	0.24	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Pseudoxanthomonas	128.94	4.37	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Pseudoxanthomonas	295.00	12.89	Segregation and condensation protein A
+PGF_00050573	Pseudoxanthomonas	472.41	12.10	Sensor histidine kinase PhoQ (EC 2.7.13.3)
+PGF_00050981	Pseudoxanthomonas	477.65	2.03	Sensory histidine kinase CreC of two-component signal transduction system CreBC
+PGF_00050995	Pseudoxanthomonas	488.94	0.24	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051104	Pseudoxanthomonas	730.82	4.11	Sensory/regulatory protein rpfC (EC 2.7.3.-)
+PGF_00051120	Pseudoxanthomonas	258.29	7.58	Septum site-determining protein MinC
+PGF_00051140	Pseudoxanthomonas	321.71	65.23	Septum-associated cell division protein DedD
+PGF_00051142	Pseudoxanthomonas	383.88	87.49	Septum-associated rare lipoprotein A
+PGF_00051324	Pseudoxanthomonas	317.12	6.28	Serine racemase (EC 5.1.1.18) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17) @ D-serine ammonia-lyase (EC 4.3.1.18)
+PGF_00051525	Pseudoxanthomonas	429.29	6.71	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052210	Pseudoxanthomonas	634.24	1.30	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Pseudoxanthomonas	457.94	2.30	Signal recognition particle protein Ffh
+PGF_00052676	Pseudoxanthomonas	231.06	10.53	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase
+PGF_00052705	Pseudoxanthomonas	142.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Pseudoxanthomonas	317.88	17.59	Site-specific tyrosine recombinase XerD
+PGF_00053770	Pseudoxanthomonas	370.35	3.43	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054154	Pseudoxanthomonas	175.65	3.81	Starvation lipoprotein Slp paralog
+PGF_00054301	Pseudoxanthomonas	209.35	2.67	Stringent starvation protein A
+PGF_00054302	Pseudoxanthomonas	148.82	5.39	Stringent starvation protein B
+PGF_00054476	Pseudoxanthomonas	127.71	1.31	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Pseudoxanthomonas	260.29	0.69	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Pseudoxanthomonas	387.65	1.32	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054531	Pseudoxanthomonas	398.88	9.40	Succinyl-CoA synthetase, alpha subunit
+PGF_00054541	Pseudoxanthomonas	209.65	1.22	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00054798	Pseudoxanthomonas	310.41	0.51	Sugar kinase
+PGF_00054960	Pseudoxanthomonas	643.24	20.66	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4) / Adenylylsulfate kinase (EC 2.7.1.25)
+PGF_00054961	Pseudoxanthomonas	296.82	31.44	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00055049	Pseudoxanthomonas	617.24	5.67	Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+PGF_00055052	Pseudoxanthomonas	571.59	2.76	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055095	Pseudoxanthomonas	322.35	0.49	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+PGF_00055099	Pseudoxanthomonas	146.00	2.52	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055273	Pseudoxanthomonas	192.24	0.97	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055354	Pseudoxanthomonas	450.47	13.51	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055537	Pseudoxanthomonas	588.35	10.46	Aerotolerance protein BatB / Aerotolerance protein BatC
+PGF_00055966	Pseudoxanthomonas	376.82	4.69	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Pseudoxanthomonas	325.82	53.41	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056407	Pseudoxanthomonas	1099.65	6.89	Ankyrin-like protein
+PGF_00056662	Pseudoxanthomonas	346.59	2.60	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Pseudoxanthomonas	492.41	4.05	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056897	Pseudoxanthomonas	264.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Pseudoxanthomonas	482.94	6.79	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057032	Pseudoxanthomonas	141.88	7.04	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057116	Pseudoxanthomonas	290.65	3.16	TonB protein
+PGF_00057270	Pseudoxanthomonas	712.53	146.00	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Pseudoxanthomonas	323.18	3.15	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Pseudoxanthomonas	148.59	1.66	Transamidase GatB domain protein
+PGF_00057435	Pseudoxanthomonas	166.94	0.97	Transcription elongation factor GreB
+PGF_00057483	Pseudoxanthomonas	567.59	39.53	Transcription termination factor Rho
+PGF_00057485	Pseudoxanthomonas	503.00	0.00	Transcription termination protein NusA
+PGF_00057488	Pseudoxanthomonas	156.00	1.62	Transcription termination protein NusB
+PGF_00059035	Pseudoxanthomonas	309.00	0.00	Transcriptional regulator, ArsR family / Methyltransferase fusion
+PGF_00060421	Pseudoxanthomonas	188.00	0.00	Translation elongation factor P
+PGF_00060424	Pseudoxanthomonas	348.35	59.38	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060431	Pseudoxanthomonas	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Pseudoxanthomonas	154.76	3.61	Translation initiation factor 3
+PGF_00060575	Pseudoxanthomonas	296.47	1.81	Transmembrane protein
+PGF_00061607	Pseudoxanthomonas	126.41	1.42	ApaG protein
+PGF_00062002	Pseudoxanthomonas	288.41	3.45	Tryptophan 2,3-dioxygenase (EC 1.13.11.11)
+PGF_00062045	Pseudoxanthomonas	445.18	14.11	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062571	Pseudoxanthomonas	540.00	11.67	Two-component sensor PilS
+PGF_00063623	Pseudoxanthomonas	469.18	10.35	Type IV fimbriae expression regulatory protein PilR
+PGF_00063761	Pseudoxanthomonas	178.71	2.73	Type IV pilus biogenesis protein PilP
+PGF_00063916	Pseudoxanthomonas	404.12	4.36	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Pseudoxanthomonas	249.41	13.87	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Pseudoxanthomonas	303.71	0.77	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Pseudoxanthomonas	336.12	9.60	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Pseudoxanthomonas	347.65	2.06	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Pseudoxanthomonas	368.24	5.07	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Pseudoxanthomonas	481.71	2.37	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064184	Pseudoxanthomonas	521.12	7.69	UPF0061 protein YdiU
+PGF_00064393	Pseudoxanthomonas	289.71	15.14	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064438	Pseudoxanthomonas	199.29	10.29	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Pseudoxanthomonas	552.47	2.96	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064506	Pseudoxanthomonas	264.71	5.36	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064685	Pseudoxanthomonas	87.06	5.20	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Pseudoxanthomonas	213.82	1.07	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00064751	Pseudoxanthomonas	300.47	4.60	Uncharacterized inner membrane transporter YedA
+PGF_00065755	Pseudoxanthomonas	374.41	10.69	Uncharacterized protein with LysM domain, COG1652
+PGF_00065887	Pseudoxanthomonas	247.88	7.43	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066139	Pseudoxanthomonas	240.29	8.86	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066270	Pseudoxanthomonas	356.65	1.37	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Pseudoxanthomonas	948.76	22.47	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Pseudoxanthomonas	466.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Pseudoxanthomonas	126.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066867	Pseudoxanthomonas	441.82	2.24	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066884	Pseudoxanthomonas	442.00	3.57	Xaa-Pro dipeptidase PepQ (EC 3.4.13.9)
+PGF_00066906	Pseudoxanthomonas	312.53	5.82	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Pseudoxanthomonas	340.94	0.66	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067192	Pseudoxanthomonas	184.29	1.10	YaeQ protein
+PGF_00067354	Pseudoxanthomonas	871.53	6.81	Aspartokinase (EC 2.7.2.4) / Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_00067370	Pseudoxanthomonas	831.18	8.26	Aspartokinase (EC 2.7.2.4) / Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00067412	Pseudoxanthomonas	75.71	5.27	YrbA protein
+PGF_00067547	Pseudoxanthomonas	161.35	1.50	Zinc uptake regulation protein Zur
+PGF_00067569	Pseudoxanthomonas	718.71	16.96	Zinc-regulated outer membrane receptor
+PGF_00067739	Pseudoxanthomonas	311.65	38.03	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Pseudoxanthomonas	873.00	12.93	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00067895	Pseudoxanthomonas	258.65	8.42	acetylxylan esterase
+PGF_00068058	Pseudoxanthomonas	702.88	22.88	alanyl dipeptidyl peptidase
+PGF_00068806	Pseudoxanthomonas	169.59	18.81	asparaginase/glutaminase
+PGF_00069581	Pseudoxanthomonas	657.35	8.41	cardiolipin synthase
+PGF_00070302	Pseudoxanthomonas	186.24	0.56	cytidine and deoxycytidylate deaminase family protein
+PGF_00070316	Pseudoxanthomonas	147.35	4.51	cytochrome C552
+PGF_00071194	Pseudoxanthomonas	463.41	1.54	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071693	Pseudoxanthomonas	308.47	10.14	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00072449	Pseudoxanthomonas	216.65	5.30	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00084324	Pseudoxanthomonas	268.94	8.37	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00089023	Pseudoxanthomonas	136.82	9.53	hypothetical protein
+PGF_00089554	Pseudoxanthomonas	239.12	0.78	hypothetical protein
+PGF_00098611	Pseudoxanthomonas	277.65	4.12	ABC transporter, permease protein 2 (cluster 1, maltose/g3p/polyamine/iron)
+PGF_00148822	Pseudoxanthomonas	112.06	2.22	hypothetical protein
+PGF_00167225	Pseudoxanthomonas	360.41	3.06	hypothetical protein
+PGF_00167788	Pseudoxanthomonas	131.59	2.83	hypothetical protein
+PGF_00209163	Pseudoxanthomonas	89.06	2.82	hypothetical protein
+PGF_00261173	Pseudoxanthomonas	372.47	10.11	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Pseudoxanthomonas	207.29	3.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00300187	Pseudoxanthomonas	388.88	15.06	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00305179	Pseudoxanthomonas	169.53	13.45	hypothetical protein
+PGF_00306574	Pseudoxanthomonas	334.47	19.66	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00320377	Pseudoxanthomonas	72.24	0.44	hypothetical protein
+PGF_00324029	Pseudoxanthomonas	156.47	1.50	hypothetical protein
+PGF_00344154	Pseudoxanthomonas	76.29	6.73	hypothetical protein
+PGF_00398847	Pseudoxanthomonas	107.24	3.07	hypothetical protein
+PGF_00399630	Pseudoxanthomonas	306.12	9.71	hypothetical protein PA3071
+PGF_00400019	Pseudoxanthomonas	337.59	3.45	Aerotolerance protein BatA
+PGF_00401162	Pseudoxanthomonas	521.12	7.10	membrane-bound lytic murein transglycosylase D precursor
+PGF_00401752	Pseudoxanthomonas	253.29	1.21	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00401971	Pseudoxanthomonas	180.41	10.81	ortholog of Bordetella pertussis (BX470248) BP2475
+PGF_00403193	Pseudoxanthomonas	677.41	1.28	pilus biogenesis protein
+PGF_00403434	Pseudoxanthomonas	384.59	1.66	2-methylcitrate synthase (EC 2.3.3.5)
+PGF_00403906	Pseudoxanthomonas	619.41	7.87	Efflux ABC transporter, permease/ATP-binding protein Atu2242
+PGF_00404019	Pseudoxanthomonas	629.65	1.17	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Pseudoxanthomonas	160.65	2.45	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404196	Pseudoxanthomonas	479.18	11.49	probable exported protein STY2149
+PGF_00404256	Pseudoxanthomonas	455.00	0.00	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404817	Pseudoxanthomonas	118.06	4.76	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404831	Pseudoxanthomonas	283.00	3.02	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Pseudoxanthomonas	945.47	7.82	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00412178	Pseudoxanthomonas	356.35	9.06	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413203	Pseudoxanthomonas	157.82	5.69	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Pseudoxanthomonas	254.53	2.81	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Pseudoxanthomonas	338.12	16.63	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413286	Pseudoxanthomonas	348.82	4.30	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413295	Pseudoxanthomonas	318.76	13.98	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Pseudoxanthomonas	629.41	1.97	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Pseudoxanthomonas	301.53	5.26	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Pseudoxanthomonas	237.12	93.82	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413386	Pseudoxanthomonas	727.24	3.42	tail-specific protease
+PGF_00413554	Pseudoxanthomonas	167.53	5.55	tmRNA-binding protein SmpB
+PGF_00414156	Pseudoxanthomonas	127.47	7.10	twitching motility protein PilG
+PGF_00414424	Pseudoxanthomonas	177.53	4.27	type IV pili signal transduction protein PilI
+PGF_00414926	Pseudoxanthomonas	412.00	5.18	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Pseudoxanthomonas	286.76	1.48	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415332	Pseudoxanthomonas	352.53	8.36	23S rRNA (cytidine(2498)-2'-O)-methyltransferase (EC 2.1.1.186)
+PGF_00415346	Pseudoxanthomonas	392.76	7.83	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415422	Pseudoxanthomonas	733.18	23.86	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415481	Pseudoxanthomonas	394.24	7.64	SAM-dependent methyltransferase, MidA
+PGF_00415486	Pseudoxanthomonas	158.18	7.14	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415652	Pseudoxanthomonas	270.53	6.46	FIG00005326: uncharacterized protein
+PGF_00416129	Pseudoxanthomonas	553.12	1.45	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Pseudoxanthomonas	1080.29	0.47	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Pseudoxanthomonas	198.71	43.22	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Pseudoxanthomonas	365.71	3.04	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417102	Pseudoxanthomonas	244.82	3.30	Cell division protein ZipA
+PGF_00417429	Pseudoxanthomonas	373.53	2.45	Chaperone protein DnaJ
+PGF_00417433	Pseudoxanthomonas	640.18	1.19	Chaperone protein DnaK
+PGF_00417579	Pseudoxanthomonas	411.06	64.32	Chemotaxis response regulator containing a CheY-like receiver domain and a methylesterase domain
+PGF_00417658	Pseudoxanthomonas	368.41	3.62	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Pseudoxanthomonas	243.76	7.11	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Pseudoxanthomonas	370.18	4.89	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Pseudoxanthomonas	185.53	4.68	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Pseudoxanthomonas	256.88	10.66	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418501	Pseudoxanthomonas	181.82	5.25	3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6)
+PGF_00418791	Pseudoxanthomonas	254.65	16.83	Type IV pilus biogenesis protein PilN
+PGF_00419420	Pseudoxanthomonas	483.59	16.31	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419702	Pseudoxanthomonas	179.47	6.01	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419891	Pseudoxanthomonas	221.47	12.97	Cyclic AMP receptor protein
+PGF_00419913	Pseudoxanthomonas	164.59	7.00	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Pseudoxanthomonas	271.24	3.33	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420121	Pseudoxanthomonas	224.47	1.46	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420141	Pseudoxanthomonas	172.18	2.58	Cytochrome C5
+PGF_00420482	Pseudoxanthomonas	249.76	1.56	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Pseudoxanthomonas	641.18	2.81	Cytochrome c heme lyase subunit CcmF
+PGF_00420556	Pseudoxanthomonas	244.24	9.67	3-oxoacyl-[ACP] reductase (EC 1.1.1.100)
+PGF_00420582	Pseudoxanthomonas	195.71	3.58	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420584	Pseudoxanthomonas	217.35	1.46	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center
+PGF_00420595	Pseudoxanthomonas	398.18	5.35	3-oxoacyl-[ACP] synthase (EC 2.3.1.41) FabV like
+PGF_00420609	Pseudoxanthomonas	338.71	2.91	3-oxoacyl-[ACP] synthase III in alkane synthesis cluster
+PGF_00420683	Pseudoxanthomonas	153.00	3.91	Cytosine deaminase (EC 3.5.4.1)
+PGF_00420731	Pseudoxanthomonas	491.76	2.99	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420903	Pseudoxanthomonas	330.29	8.70	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421071	Pseudoxanthomonas	145.88	0.33	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Pseudoxanthomonas	635.76	28.51	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Pseudoxanthomonas	1193.65	18.85	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Pseudoxanthomonas	366.12	0.33	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Pseudoxanthomonas	576.76	3.40	DNA primase (EC 2.7.7.-)
+PGF_00421733	Pseudoxanthomonas	366.47	6.47	DNA recombination and repair protein RecF
+PGF_00421760	Pseudoxanthomonas	300.59	0.51	DNA recombination-dependent growth factor RdgC
+PGF_00421792	Pseudoxanthomonas	465.24	5.94	DNA repair protein RadA
+PGF_00421796	Pseudoxanthomonas	565.18	12.21	DNA repair protein RecN
+PGF_00422053	Pseudoxanthomonas	88.94	6.46	DNA-binding protein Fis
+PGF_00422271	Pseudoxanthomonas	332.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422655	Pseudoxanthomonas	459.88	0.60	LOG family protein YgdH
+PGF_00422918	Pseudoxanthomonas	189.82	1.07	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422949	Pseudoxanthomonas	266.47	3.74	Deoxyribonuclease TatD
+PGF_00422959	Pseudoxanthomonas	154.06	3.60	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00422967	Pseudoxanthomonas	616.35	6.29	4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family
+PGF_00423089	Pseudoxanthomonas	364.35	3.62	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Pseudoxanthomonas	280.41	3.54	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Pseudoxanthomonas	411.29	74.64	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Pseudoxanthomonas	477.94	1.14	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423472	Pseudoxanthomonas	678.00	9.62	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Pseudoxanthomonas	292.12	7.84	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423603	Pseudoxanthomonas	665.88	11.26	Dipeptidyl carboxypeptidase
+PGF_00423610	Pseudoxanthomonas	795.59	10.17	Dipeptidyl-peptidase
+PGF_00423663	Pseudoxanthomonas	326.59	77.44	DksA family protein PA5536 (no Zn-finger)
+PGF_00423738	Pseudoxanthomonas	240.82	4.28	Dolichol-phosphate mannosyltransferase
+PGF_00423927	Pseudoxanthomonas	300.82	10.10	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424123	Pseudoxanthomonas	544.24	7.65	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424166	Pseudoxanthomonas	188.00	0.00	Elongation factor P-like protein
+PGF_00424186	Pseudoxanthomonas	140.82	1.91	4-hydroxybenzoyl-CoA thioesterase (EC 3.1.2.23)
+PGF_00424425	Pseudoxanthomonas	369.00	5.88	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+PGF_00424971	Pseudoxanthomonas	622.59	7.91	Excinuclease ABC subunit C
+PGF_00425010	Pseudoxanthomonas	482.71	11.16	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425021	Pseudoxanthomonas	1143.47	30.94	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Pseudoxanthomonas	450.35	9.60	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425202	Pseudoxanthomonas	649.35	11.60	Exported protein
+PGF_00425214	Pseudoxanthomonas	107.00	0.00	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425665	Pseudoxanthomonas	260.94	8.14	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Pseudoxanthomonas	298.47	8.22	RNase adapter protein RapZ
+PGF_00425684	Pseudoxanthomonas	242.12	2.26	Probable transcriptional regulatory protein YebC
+PGF_00425685	Pseudoxanthomonas	295.94	45.12	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425704	Pseudoxanthomonas	90.29	1.31	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425714	Pseudoxanthomonas	650.41	4.51	FIG001454: Transglutaminase-like enzymes, putative cysteine proteases
+PGF_00425725	Pseudoxanthomonas	180.06	4.34	FIG001590: Putative conserved exported protein precursor
+PGF_00425929	Pseudoxanthomonas	308.29	6.16	5'-nucleotidase (EC 3.1.3.5)
+PGF_00425993	Pseudoxanthomonas	399.35	6.30	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426044	Pseudoxanthomonas	275.47	2.37	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Pseudoxanthomonas	639.59	7.50	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Pseudoxanthomonas	422.59	2.35	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426932	Pseudoxanthomonas	155.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447508	Pseudoxanthomonas	419.59	1.00	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00451246	Pseudoxanthomonas	99.65	5.58	RNA-binding protein YhbY
+PGF_00474012	Pseudoxanthomonas	423.94	4.49	Uncharacterized MFS-type transporter YhjE
+PGF_00482828	Pseudoxanthomonas	450.41	1.97	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00490053	Pseudoxanthomonas	454.59	6.02	Outer membrane channel TolC (OpmH)
+PGF_00529632	Pseudoxanthomonas	863.53	5.28	ClpB protein
+PGF_00546752	Pseudoxanthomonas	158.82	2.72	Phosphohistidine phosphatase SixA
+PGF_00565351	Pseudoxanthomonas	228.53	1.18	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00569671	Pseudoxanthomonas	310.47	44.01	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580333	Pseudoxanthomonas	392.00	0.00	Lipopolysaccharide assembly protein LapB
+PGF_00582270	Pseudoxanthomonas	762.24	62.51	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00618776	Pseudoxanthomonas	402.06	8.15	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Pseudoxanthomonas	223.12	2.74	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00641071	Pseudoxanthomonas	296.35	19.80	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644953	Pseudoxanthomonas	293.00	3.94	DnaJ-class molecular chaperone CbpA
+PGF_00645831	Pseudoxanthomonas	140.76	2.41	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_00648054	Pseudoxanthomonas	257.12	1.11	Tol-Pal system protein TolQ
+PGF_00649271	Pseudoxanthomonas	99.00	10.50	Cell division protein BolA
+PGF_00655358	Pseudoxanthomonas	492.35	5.81	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Pseudoxanthomonas	516.06	7.03	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Pseudoxanthomonas	221.47	3.62	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00659286	Pseudoxanthomonas	458.76	9.45	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00664069	Pseudoxanthomonas	453.88	5.17	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Pseudoxanthomonas	132.00	9.74	Ribosomal silencing factor RsfA
+PGF_00668677	Pseudoxanthomonas	169.18	19.23	hypothetical protein
+PGF_00669325	Pseudoxanthomonas	215.12	6.01	hypothetical protein
+PGF_00685421	Pseudoxanthomonas	217.29	12.24	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+PGF_00695496	Pseudoxanthomonas	242.53	2.87	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00695564	Pseudoxanthomonas	316.47	6.48	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_00709443	Pseudoxanthomonas	154.35	17.15	Twin-arginine translocation protein TatB
+PGF_00717495	Pseudoxanthomonas	429.59	4.09	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00725839	Pseudoxanthomonas	792.53	25.89	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734372	Pseudoxanthomonas	684.94	13.17	2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)
+PGF_00734482	Pseudoxanthomonas	837.53	10.23	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00734751	Pseudoxanthomonas	152.88	6.50	Cytochrome c heme lyase subunit CcmL
+PGF_00777371	Pseudoxanthomonas	240.35	1.77	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00786008	Pseudoxanthomonas	285.35	4.36	Transcriptional regulator
+PGF_00795934	Pseudoxanthomonas	180.71	4.67	Acetyltransferase
+PGF_00813259	Pseudoxanthomonas	247.47	2.94	FolM Alternative dihydrofolate reductase 1
+PGF_00827555	Pseudoxanthomonas	569.53	142.24	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Pseudoxanthomonas	290.94	0.75	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Pseudoxanthomonas	418.82	3.47	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00860158	Pseudoxanthomonas	272.18	1.24	Short-chain dehydrogenase
+PGF_00874759	Pseudoxanthomonas	414.00	3.59	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00876059	Pseudoxanthomonas	66.94	37.93	hypothetical protein
+PGF_00900256	Pseudoxanthomonas	430.00	1.62	Threonine synthase (EC 4.2.3.1)
+PGF_00908360	Pseudoxanthomonas	249.47	0.62	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Pseudoxanthomonas	333.35	3.97	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Pseudoxanthomonas	300.65	4.15	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00924816	Pseudoxanthomonas	279.94	32.48	Thiol:disulfide interchange protein DsbC
+PGF_00926109	Pseudoxanthomonas	562.88	3.14	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00943546	Pseudoxanthomonas	262.94	3.49	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00944166	Pseudoxanthomonas	334.59	0.51	Isocitrate dehydrogenase [NAD] (EC 1.1.1.41)
+PGF_00948290	Pseudoxanthomonas	419.76	10.41	Murein hydrolase activator EnvC
+PGF_00950554	Pseudoxanthomonas	679.06	16.52	Excinuclease ABC subunit B
+PGF_00957419	Pseudoxanthomonas	149.47	7.19	Putative pre-16S rRNA nuclease Yqg
+PGF_00969413	Pseudoxanthomonas	506.41	3.89	transmembrane protein, distant homology with ydbT
+PGF_00973394	Pseudoxanthomonas	176.82	4.64	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_01011517	Pseudoxanthomonas	390.59	5.84	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01030299	Pseudoxanthomonas	331.53	2.37	ABC transporter, permease protein
+PGF_01052295	Pseudoxanthomonas	363.00	7.94	Lipopolysaccharide export system permease protein LptF
+PGF_01058419	Pseudoxanthomonas	1209.35	11.21	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01076590	Pseudoxanthomonas	250.88	1.62	MotA/TolQ/ExbB proton channel family protein
+PGF_01079016	Pseudoxanthomonas	303.76	5.94	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Pseudoxanthomonas	827.00	24.14	Outer membrane protein assembly factor YaeT
+PGF_01095191	Pseudoxanthomonas	294.88	1.83	Methylisocitrate lyase (EC 4.1.3.30)
+PGF_01124177	Pseudoxanthomonas	403.12	6.83	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01170625	Pseudoxanthomonas	87.00	0.00	Cell division protein FtsL
+PGF_01172485	Pseudoxanthomonas	411.00	0.00	Cell division protein FtsA
+PGF_01174739	Pseudoxanthomonas	249.88	4.08	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Pseudoxanthomonas	643.47	23.41	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Pseudoxanthomonas	545.53	1.55	Heat shock protein 60 family chaperone GroEL
+PGF_01212853	Pseudoxanthomonas	249.88	3.41	Oxidoreductase
+PGF_01221876	Pseudoxanthomonas	84.00	1.58	Transglycosylase-associated protein
+PGF_01223569	Pseudoxanthomonas	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01291803	Pseudoxanthomonas	327.88	5.37	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Pseudoxanthomonas	210.47	2.35	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Pseudoxanthomonas	267.06	2.14	Chromosome (plasmid) partitioning protein ParA
+PGF_01325304	Pseudoxanthomonas	231.65	1.22	Molybdenum ABC transporter permease protein ModB
+PGF_01336295	Pseudoxanthomonas	964.94	22.95	GAF domain/GGDEF domain/EAL domain protein
+PGF_01351158	Pseudoxanthomonas	1168.35	17.87	Transcription-repair coupling factor
+PGF_01364427	Pseudoxanthomonas	194.53	2.03	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Pseudoxanthomonas	202.35	16.06	HNH endonuclease family protein
+PGF_01382505	Pseudoxanthomonas	209.59	2.03	FIG00449901: hypothetical protein
+PGF_01393949	Pseudoxanthomonas	647.00	0.00	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01407825	Pseudoxanthomonas	401.06	7.70	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_01415861	Pseudoxanthomonas	195.35	16.43	LPS-assembly lipoprotein LptE
+PGF_01420802	Pseudoxanthomonas	148.88	7.07	Cell division protein MraZ
+PGF_01423501	Pseudoxanthomonas	156.59	2.12	Transcription elongation factor GreA
+PGF_01424463	Pseudoxanthomonas	158.76	5.14	MOSC domain protein
+PGF_01448031	Pseudoxanthomonas	100.00	1.00	Integration host factor alpha subunit
+PGF_01466742	Pseudoxanthomonas	451.41	12.40	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01483460	Pseudoxanthomonas	367.18	1.19	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Pseudoxanthomonas	271.82	2.04	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01487876	Pseudoxanthomonas	119.12	5.17	Uncharacterized membrane protein PA1577
+PGF_01492504	Pseudoxanthomonas	295.76	2.46	Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)
+PGF_01514111	Pseudoxanthomonas	363.06	0.24	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01532393	Pseudoxanthomonas	698.41	4.91	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01534013	Pseudoxanthomonas	326.12	9.77	Lysophospholipid acyltransferase
+PGF_01551520	Pseudoxanthomonas	133.76	4.74	Histone-like bacterial DNA-binding protein
+PGF_01576148	Pseudoxanthomonas	170.41	17.66	transmembrane protein, distant homology with ydbS
+PGF_01614738	Pseudoxanthomonas	81.76	2.82	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01674551	Pseudoxanthomonas	131.00	0.00	Glycine cleavage system H protein
+PGF_01682834	Pseudoxanthomonas	200.29	10.53	Bacterial ribosome SSU maturation protein RimP
+PGF_01692444	Pseudoxanthomonas	308.00	0.00	ABC transporter, substrate-binding protein (cluster 9, phospholipid)
+PGF_01734668	Pseudoxanthomonas	189.88	1.93	Adenylate kinase (EC 2.7.4.3)
+PGF_01760799	Pseudoxanthomonas	627.94	11.85	Type IV pilus biogenesis protein PilQ
+PGF_01767358	Pseudoxanthomonas	261.41	37.26	HesA/MoeB/ThiF family protein
+PGF_01775859	Pseudoxanthomonas	1271.24	6.67	Inner membrane component of TAM transport system
+PGF_01777142	Pseudoxanthomonas	222.12	5.69	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01782190	Pseudoxanthomonas	248.76	2.22	3-deoxy-D-manno-octulosonic acid kinase (EC 2.7.1.-)
+PGF_01797166	Pseudoxanthomonas	466.29	9.92	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01839055	Pseudoxanthomonas	323.71	9.82	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01853493	Pseudoxanthomonas	298.82	1.07	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Pseudoxanthomonas	354.65	5.47	Heat-inducible transcription repressor HrcA
+PGF_01888177	Pseudoxanthomonas	152.18	1.13	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Pseudoxanthomonas	239.35	19.97	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Pseudoxanthomonas	362.47	26.41	Rod shape-determining protein MreC
+PGF_01900676	Pseudoxanthomonas	278.71	18.90	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01900807	Pseudoxanthomonas	270.82	5.35	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01910737	Pseudoxanthomonas	290.88	1.32	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01922580	Pseudoxanthomonas	393.65	2.15	2-polyprenylphenol hydroxylase
+PGF_01936994	Pseudoxanthomonas	353.88	5.31	Type IV pilus biogenesis protein PilM
+PGF_01949788	Pseudoxanthomonas	183.71	7.20	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01994657	Pseudoxanthomonas	431.94	5.72	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Pseudoxanthomonas	257.53	0.51	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Pseudoxanthomonas	332.76	2.46	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Pseudoxanthomonas	323.12	6.21	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Pseudoxanthomonas	354.29	5.50	GTP-binding protein Obg
+PGF_02030844	Pseudoxanthomonas	613.06	14.21	ATP-dependent DNA helicase RecQ
+PGF_02059020	Pseudoxanthomonas	554.06	0.66	Energy-dependent translational throttle protein EttA
+PGF_02061452	Pseudoxanthomonas	378.94	6.28	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Pseudoxanthomonas	83.76	8.60	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02075241	Pseudoxanthomonas	667.88	7.93	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02085373	Pseudoxanthomonas	128.35	10.41	UPF0225 protein YchJ
+PGF_02111888	Pseudoxanthomonas	316.00	0.00	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Pseudoxanthomonas	746.65	1.97	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02169237	Pseudoxanthomonas	244.88	3.46	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02180922	Pseudoxanthomonas	85.53	1.94	hypothetical protein
+PGF_02185217	Pseudoxanthomonas	461.47	7.12	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186750	Pseudoxanthomonas	316.18	25.72	DUF1022 domain-containing protein
+PGF_02204321	Pseudoxanthomonas	345.00	0.00	Twitching motility protein PilT
+PGF_02211314	Pseudoxanthomonas	209.41	1.00	Predicted transcriptional regulator for fatty acid degradation FadQ, TetR family
+PGF_02226715	Pseudoxanthomonas	713.18	31.16	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02239557	Pseudoxanthomonas	254.76	3.60	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02246168	Pseudoxanthomonas	293.59	2.74	ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)
+PGF_02267642	Pseudoxanthomonas	286.18	4.71	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)
+PGF_02314180	Pseudoxanthomonas	51.88	0.49	UPF0391 membrane protein YtjA
+PGF_02328820	Pseudoxanthomonas	65.47	1.94	hypothetical protein
+PGF_02328856	Pseudoxanthomonas	268.65	6.04	Type IV pilus biogenesis protein PilF
+PGF_02346768	Pseudoxanthomonas	882.35	0.79	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Pseudoxanthomonas	372.18	20.41	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Pseudoxanthomonas	164.24	0.44	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02382338	Pseudoxanthomonas	265.06	5.70	Inner membrane protein YpjD
+PGF_02454577	Pseudoxanthomonas	89.00	0.50	SSU ribosomal protein S20p
+PGF_02463284	Pseudoxanthomonas	198.41	3.54	Recombination protein RecR
+PGF_02473279	Pseudoxanthomonas	269.00	11.70	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Pseudoxanthomonas	269.53	9.93	Uncharacterized Nudix hydrolase NudL
+PGF_02499550	Pseudoxanthomonas	208.88	7.36	Ubiquinone biosynthesis protein UbiJ
+PGF_02516909	Pseudoxanthomonas	429.06	1.20	Enolase (EC 4.2.1.11)
+PGF_02578186	Pseudoxanthomonas	365.71	10.98	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02593689	Pseudoxanthomonas	463.53	4.24	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601905	Pseudoxanthomonas	118.00	0.00	Transcriptional regulator PA2737, MerR family
+PGF_02618793	Pseudoxanthomonas	247.41	7.94	Short-chain dehydrogenase
+PGF_02619970	Pseudoxanthomonas	113.71	6.65	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Pseudoxanthomonas	322.18	11.11	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Pseudoxanthomonas	1409.59	2.32	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02706008	Pseudoxanthomonas	239.41	2.83	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02719231	Pseudoxanthomonas	117.47	2.18	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Pseudoxanthomonas	868.94	12.71	DNA mismatch repair protein MutS
+PGF_02728989	Pseudoxanthomonas	227.41	0.51	Transcriptional regulatory protein PhoP
+PGF_02744430	Pseudoxanthomonas	309.41	8.55	hypothetical protein
+PGF_02789532	Pseudoxanthomonas	281.76	13.78	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Pseudoxanthomonas	242.76	11.28	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Pseudoxanthomonas	458.88	3.35	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Pseudoxanthomonas	1389.18	6.55	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Pseudoxanthomonas	531.35	8.74	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02818638	Pseudoxanthomonas	438.35	3.94	Hemolysins and related proteins containing CBS domains
+PGF_02820109	Pseudoxanthomonas	199.24	2.25	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02825654	Pseudoxanthomonas	272.18	2.74	probable exported protein YPO1624
+PGF_02827614	Pseudoxanthomonas	117.76	1.30	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02838109	Pseudoxanthomonas	180.47	6.62	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Pseudoxanthomonas	233.12	9.72	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Pseudoxanthomonas	406.41	7.36	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866109	Pseudoxanthomonas	198.06	5.80	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02866666	Pseudoxanthomonas	830.29	2.97	ABC transporter, fused permease protein
+PGF_02870711	Pseudoxanthomonas	414.71	2.17	Acriflavin resistance protein
+PGF_02873723	Pseudoxanthomonas	495.59	1.18	Ribonuclease G
+PGF_02875609	Pseudoxanthomonas	452.71	7.41	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Pseudoxanthomonas	390.71	6.26	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Pseudoxanthomonas	360.18	11.85	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02893929	Pseudoxanthomonas	268.76	4.92	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02898096	Pseudoxanthomonas	489.82	8.02	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Pseudoxanthomonas	62.06	1.56	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Pseudoxanthomonas	209.47	10.19	Outer membrane lipoprotein carrier protein LolA
+PGF_02911133	Pseudoxanthomonas	248.65	72.08	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Pseudoxanthomonas	287.12	0.49	HflC protein
+PGF_02912009	Pseudoxanthomonas	224.06	5.98	Type IV pilus biogenesis protein PilO
+PGF_02912272	Pseudoxanthomonas	162.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Pseudoxanthomonas	238.53	6.26	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02926173	Pseudoxanthomonas	393.29	1.21	ABC-type Na+ efflux pump not coupled with H+ or K+ uptake, permease component NatB
+PGF_02931322	Pseudoxanthomonas	340.00	2.94	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02938730	Pseudoxanthomonas	345.06	2.49	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02944756	Pseudoxanthomonas	402.53	4.78	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02945199	Pseudoxanthomonas	427.65	1.84	Gamma-glutamyl-putrescine oxidase (EC1.4.3.-)
+PGF_02946231	Pseudoxanthomonas	561.53	3.20	SSU ribosomal protein S1p
+PGF_02950579	Pseudoxanthomonas	269.06	0.24	Septum site-determining protein MinD
+PGF_02956692	Pseudoxanthomonas	283.12	5.59	Glycosyltransferase
+PGF_02959749	Pseudoxanthomonas	365.18	3.70	Ribonuclease D (EC 3.1.26.3)
+PGF_02965454	Pseudoxanthomonas	87.18	2.43	Uncharacterized zinc-finger containing protein YbiI
+PGF_02980852	Pseudoxanthomonas	300.00	3.98	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02991837	Pseudoxanthomonas	224.53	1.12	Protein of unknown function DUF484
+PGF_02992100	Pseudoxanthomonas	246.41	6.81	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Pseudoxanthomonas	149.29	7.59	Protein translocase membrane subunit SecG
+PGF_02997723	Pseudoxanthomonas	167.71	1.86	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03001544	Pseudoxanthomonas	222.53	4.03	Hydrolase PA4440, alpha/beta fold family
+PGF_03006190	Pseudoxanthomonas	402.35	10.72	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03011092	Pseudoxanthomonas	304.53	2.27	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03016423	Pseudoxanthomonas	280.35	3.26	Protein sirB1
+PGF_03017775	Pseudoxanthomonas	506.94	2.86	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Pseudoxanthomonas	196.59	5.09	Septum formation protein Maf
+PGF_03020719	Pseudoxanthomonas	634.88	3.97	Lysophospholipid transporter LplT / 2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40)
+PGF_03026450	Pseudoxanthomonas	1167.65	2.67	Chromosome partition protein smc
+PGF_03027517	Pseudoxanthomonas	182.00	0.00	Transcriptional regulator
+PGF_03038552	Pseudoxanthomonas	76.82	3.41	hypothetical protein
+PGF_03040202	Pseudoxanthomonas	110.41	1.42	DnaJ-like protein
+PGF_03046709	Pseudoxanthomonas	493.24	13.88	Ammonium transporter
+PGF_03054699	Pseudoxanthomonas	785.59	2.92	DNA translocase FtsK
+PGF_03057384	Pseudoxanthomonas	350.47	1.46	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03069524	Pseudoxanthomonas	87.59	5.37	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03073470	Pseudoxanthomonas	612.41	6.27	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03074101	Pseudoxanthomonas	88.88	3.90	Acyl carrier protein (ACP1)
+PGF_03074362	Pseudoxanthomonas	385.00	2.72	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03094694	Pseudoxanthomonas	457.00	2.24	Peptidase B (EC 3.4.11.23)
+PGF_03106022	Pseudoxanthomonas	1090.24	43.40	Oar protein
+PGF_03111948	Pseudoxanthomonas	248.00	0.00	Electron transfer flavoprotein, beta subunit
+PGF_03115092	Pseudoxanthomonas	229.76	14.24	Uncharacterized membrane anchored protein XCC1347
+PGF_03128228	Pseudoxanthomonas	398.59	11.55	Outer membrane beta-barrel assembly protein BamB
+PGF_03129066	Pseudoxanthomonas	197.94	6.84	Cytochrome b561 homolog 2
+PGF_03132336	Pseudoxanthomonas	421.88	2.80	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03142586	Pseudoxanthomonas	114.35	0.61	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03144011	Pseudoxanthomonas	164.47	1.59	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03145727	Pseudoxanthomonas	291.94	7.00	Efflux ABC transporter, ATP-binding protein
+PGF_03146406	Pseudoxanthomonas	596.59	0.51	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03152833	Pseudoxanthomonas	310.12	7.26	Ku domain protein
+PGF_03172904	Pseudoxanthomonas	294.71	2.59	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Pseudoxanthomonas	185.00	0.00	Transcription antitermination protein NusG
+PGF_03197083	Pseudoxanthomonas	801.06	14.18	Penicillin-insensitive transglycosylase (EC 2.4.2.-) & transpeptidase PBP-1C
+PGF_03205915	Pseudoxanthomonas	251.29	10.47	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_03222913	Pseudoxanthomonas	141.59	5.53	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03226402	Pseudoxanthomonas	184.94	0.97	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase (EC 1.13.11.54)
+PGF_03253896	Pseudoxanthomonas	229.53	2.18	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03272313	Pseudoxanthomonas	881.53	19.13	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Pseudoxanthomonas	76.65	3.82	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03348128	Pseudoxanthomonas	195.00	6.90	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03365856	Pseudoxanthomonas	1088.35	23.01	Error-prone repair homolog of DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_03389162	Pseudoxanthomonas	159.53	1.33	hypothetical protein
+PGF_03412648	Pseudoxanthomonas	289.82	5.38	hypothetical protein
+PGF_03427551	Pseudoxanthomonas	366.47	11.05	UPF0118 membrane protein SMc00793
+PGF_03429638	Pseudoxanthomonas	297.41	13.26	33 kDa chaperonin HslO
+PGF_03439690	Pseudoxanthomonas	135.76	3.05	Ferric uptake regulation protein FUR
+PGF_03441339	Pseudoxanthomonas	318.82	10.68	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03441843	Pseudoxanthomonas	790.41	2.24	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03456505	Pseudoxanthomonas	475.41	4.69	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03507859	Pseudoxanthomonas	329.24	10.08	Luciferase-like monooxygenase YhbW
+PGF_03514188	Pseudoxanthomonas	455.12	4.06	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Pseudoxanthomonas	141.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Pseudoxanthomonas	413.94	4.15	Cell division protein FtsZ
+PGF_03589991	Pseudoxanthomonas	157.88	5.66	Proteins containing SET domain
+PGF_03609651	Pseudoxanthomonas	696.29	10.25	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Pseudoxanthomonas	161.53	6.31	UPF0234 protein Yitk
+PGF_03694962	Pseudoxanthomonas	335.59	6.98	TolA protein
+PGF_03699416	Pseudoxanthomonas	186.76	1.09	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Pseudoxanthomonas	318.41	4.56	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Pseudoxanthomonas	133.00	3.79	Protein translocase subunit SecE
+PGF_03719269	Pseudoxanthomonas	208.82	8.32	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Pseudoxanthomonas	158.82	4.61	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Pseudoxanthomonas	188.88	1.45	UPF0301 protein YqgE
+PGF_03739563	Pseudoxanthomonas	177.71	8.45	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Pseudoxanthomonas	451.00	16.59	Chromosomal replication initiator protein DnaA
+PGF_03750599	Pseudoxanthomonas	273.00	5.83	Cell division coordinator CpoB
+PGF_03750600	Pseudoxanthomonas	179.47	64.82	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751065	Pseudoxanthomonas	62.71	0.59	Rubredoxin
+PGF_03751658	Pseudoxanthomonas	82.88	4.04	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Pseudoxanthomonas	172.06	1.95	Heat shock protein GrpE
+PGF_03753122	Pseudoxanthomonas	298.12	10.82	Site-specific tyrosine recombinase XerC
+PGF_03753933	Pseudoxanthomonas	163.47	28.06	Iron-sulfur cluster regulator IscR
+PGF_03757137	Pseudoxanthomonas	431.24	1.44	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03767717	Pseudoxanthomonas	256.06	8.10	3-oxoacyl-[ACP] synthase
+PGF_03778780	Pseudoxanthomonas	396.94	38.16	Signal recognition particle receptor FtsY
+PGF_03787199	Pseudoxanthomonas	213.41	1.91	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03801201	Pseudoxanthomonas	279.29	3.00	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03804538	Pseudoxanthomonas	538.00	2.26	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+PGF_03810115	Pseudoxanthomonas	237.47	1.33	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Pseudoxanthomonas	364.59	5.69	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03835760	Pseudoxanthomonas	441.12	12.33	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03862500	Pseudoxanthomonas	199.76	1.60	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03870181	Pseudoxanthomonas	418.18	1.78	DUF819 domain-containing protein
+PGF_03960810	Pseudoxanthomonas	247.82	3.50	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03969636	Pseudoxanthomonas	169.29	4.18	PhbF
+PGF_03981123	Pseudoxanthomonas	273.47	4.02	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_04007946	Pseudoxanthomonas	229.53	8.63	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Pseudoxanthomonas	149.00	7.43	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04025415	Pseudoxanthomonas	138.06	5.24	Large-conductance mechanosensitive channel
+PGF_04034430	Pseudoxanthomonas	71.00	0.00	SSU ribosomal protein S21p
+PGF_04078521	Pseudoxanthomonas	323.41	1.62	hypothetical protein
+PGF_04108824	Pseudoxanthomonas	612.65	10.68	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Pseudoxanthomonas	249.94	4.62	Twin-arginine translocation protein TatC
+PGF_04151476	Pseudoxanthomonas	175.94	10.08	16S rRNA processing protein RimM
+PGF_04163139	Pseudoxanthomonas	232.94	13.20	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Pseudoxanthomonas	228.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04217548	Pseudoxanthomonas	612.12	68.10	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04315180	Pseudoxanthomonas	173.65	2.64	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Pseudoxanthomonas	455.94	1.56	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Pseudoxanthomonas	914.88	4.24	Protein translocase subunit SecA
+PGF_04380075	Pseudoxanthomonas	186.53	3.36	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04457297	Pseudoxanthomonas	199.88	3.14	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04519363	Pseudoxanthomonas	348.06	0.24	Rod shape-determining protein MreB
+PGF_04521913	Pseudoxanthomonas	466.24	9.52	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Pseudoxanthomonas	515.29	1.21	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Pseudoxanthomonas	245.65	4.80	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Pseudoxanthomonas	251.88	1.54	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04588167	Pseudoxanthomonas	319.24	3.91	FIG002343: hypothetical protein
+PGF_04608820	Pseudoxanthomonas	659.00	6.30	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04630848	Pseudoxanthomonas	154.88	2.74	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Pseudoxanthomonas	90.00	0.00	DNA-binding protein HU-beta
+PGF_04660832	Pseudoxanthomonas	169.88	10.01	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Pseudoxanthomonas	816.29	4.19	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04679223	Pseudoxanthomonas	142.76	1.86	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04687504	Pseudoxanthomonas	479.29	3.62	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04724831	Pseudoxanthomonas	204.53	0.62	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04734234	Pseudoxanthomonas	637.24	7.71	Kup system potassium uptake protein
+PGF_04749763	Pseudoxanthomonas	863.18	71.87	Translation initiation factor 2
+PGF_04757308	Pseudoxanthomonas	721.88	19.35	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Pseudoxanthomonas	191.82	10.68	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Pseudoxanthomonas	280.65	0.70	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04807486	Pseudoxanthomonas	319.00	19.41	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Pseudoxanthomonas	133.06	3.23	LSU ribosomal protein L19p
+PGF_04962192	Pseudoxanthomonas	822.24	17.17	3'-to-5' exoribonuclease RNase R
+PGF_04965976	Pseudoxanthomonas	380.35	4.96	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Pseudoxanthomonas	98.88	0.33	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Pseudoxanthomonas	102.12	3.04	LSU ribosomal protein L21p
+PGF_05111929	Pseudoxanthomonas	575.76	12.16	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Pseudoxanthomonas	942.47	20.37	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Pseudoxanthomonas	881.00	3.55	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Pseudoxanthomonas	306.41	0.62	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Pseudoxanthomonas	467.00	2.55	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Pseudoxanthomonas	695.12	43.85	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05225639	Pseudoxanthomonas	783.94	4.83	FIG021862: membrane protein, exporter
+PGF_05280843	Pseudoxanthomonas	442.82	13.76	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Pseudoxanthomonas	171.12	1.76	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05374359	Pseudoxanthomonas	330.24	1.39	Fumarylacetoacetate hydrolase family protein
+PGF_05386032	Pseudoxanthomonas	191.82	0.73	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05435672	Pseudoxanthomonas	344.59	7.95	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05439724	Pseudoxanthomonas	793.06	19.25	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Pseudoxanthomonas	256.18	1.59	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Pseudoxanthomonas	508.82	6.31	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05507938	Pseudoxanthomonas	606.71	14.17	DNA mismatch repair protein MutL
+PGF_05519582	Pseudoxanthomonas	417.47	3.76	NAD(FAD)-utilizing dehydrogenases
+PGF_05560886	Pseudoxanthomonas	281.71	1.40	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Pseudoxanthomonas	450.88	2.37	Protein translocase subunit SecY
+PGF_05598173	Pseudoxanthomonas	377.53	9.05	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Pseudoxanthomonas	421.18	5.40	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Pseudoxanthomonas	215.71	0.85	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05679920	Pseudoxanthomonas	1387.29	26.71	ATP-dependent helicase HrpA
+PGF_05681779	Pseudoxanthomonas	197.00	0.00	Lysine decarboxylase family
+PGF_05693577	Pseudoxanthomonas	102.35	1.32	Integration host factor beta subunit
+PGF_05712128	Pseudoxanthomonas	570.12	10.29	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Pseudoxanthomonas	118.88	1.11	FIG138056: a glutathione-dependent thiol reductase
+PGF_05729472	Pseudoxanthomonas	1673.94	22.66	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05769513	Pseudoxanthomonas	439.35	2.60	Tol-Pal system beta propeller repeat protein TolB
+PGF_05837052	Pseudoxanthomonas	433.53	6.08	Isocitrate lyase (EC 4.1.3.1)
+PGF_05872952	Pseudoxanthomonas	290.53	8.01	Outer membrane beta-barrel assembly protein BamD
+PGF_05949521	Pseudoxanthomonas	621.18	7.94	Protein translocase subunit SecD
+PGF_05965455	Pseudoxanthomonas	443.94	9.06	AmpG permease
+PGF_05971611	Pseudoxanthomonas	413.18	7.15	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05999853	Pseudoxanthomonas	371.82	1.67	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06005188	Pseudoxanthomonas	630.82	5.03	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06025565	Pseudoxanthomonas	318.94	5.72	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06051345	Pseudoxanthomonas	717.24	0.83	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06051594	Pseudoxanthomonas	466.00	0.71	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06053106	Pseudoxanthomonas	292.65	1.37	RNA polymerase sigma factor RpoH
+PGF_06061522	Pseudoxanthomonas	122.82	8.46	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06094946	Pseudoxanthomonas	506.53	71.14	LppC putative lipoprotein
+PGF_06120144	Pseudoxanthomonas	140.24	5.38	Ribosome association toxin RatA
+PGF_06150781	Pseudoxanthomonas	437.65	85.99	ATP-dependent 23S rRNA helicase DbpA
+PGF_06170558	Pseudoxanthomonas	159.41	1.42	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06170900	Pseudoxanthomonas	166.00	4.17	hypothetical protein
+PGF_06180597	Pseudoxanthomonas	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06254345	Pseudoxanthomonas	96.18	0.53	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Pseudoxanthomonas	376.59	11.76	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06285197	Pseudoxanthomonas	413.94	3.13	Intracellular PHB depolymerase
+PGF_06362312	Pseudoxanthomonas	490.71	52.56	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06379377	Pseudoxanthomonas	454.29	11.31	Replication-associated recombination protein RarA
+PGF_06403579	Pseudoxanthomonas	818.88	4.37	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06412007	Pseudoxanthomonas	824.24	1.35	Acyl-coenzyme A dehydrogenase FadE
+PGF_06469881	Pseudoxanthomonas	325.41	8.07	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06495818	Pseudoxanthomonas	258.88	8.80	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06524027	Pseudoxanthomonas	658.41	8.47	ATP-dependent DNA helicase Rep
+PGF_06530721	Pseudoxanthomonas	251.18	9.29	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06589185	Pseudoxanthomonas	584.29	1.65	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06644010	Pseudoxanthomonas	303.88	2.64	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06649360	Pseudoxanthomonas	288.76	18.96	Segregation and condensation protein B
+PGF_06660812	Pseudoxanthomonas	203.76	10.77	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06668048	Pseudoxanthomonas	135.71	1.10	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+PGF_06693963	Pseudoxanthomonas	105.59	1.70	Nucleoid-associated protein YaaK
+PGF_06706859	Pseudoxanthomonas	174.41	10.43	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06772993	Pseudoxanthomonas	1010.12	236.87	Ribonuclease E (EC 3.1.26.12)
+PGF_06949599	Pseudoxanthomonas	839.76	20.03	ATP-dependent helicase HrpB
+PGF_06965980	Pseudoxanthomonas	343.24	19.54	N-acetylornithine carbamoyltransferase (EC 2.1.3.9)
+PGF_07072582	Pseudoxanthomonas	619.06	2.51	RNA polymerase sigma factor RpoD
+PGF_07482612	Pseudoxanthomonas	258.94	1.56	Putative preQ0 transporter YhhQ
+PGF_08046522	Pseudoxanthomonas	106.24	0.97	Glutaredoxin-related protein
+PGF_08059428	Pseudoxanthomonas	84.47	0.51	Cell division topological specificity factor MinE
+PGF_08061357	Pseudoxanthomonas	123.06	5.19	Iron-sulfur cluster insertion protein ErpA
+PGF_08072480	Pseudoxanthomonas	304.88	5.74	Integral membrane protein
+PGF_08074577	Pseudoxanthomonas	99.71	2.93	hypothetical protein
+PGF_08117870	Pseudoxanthomonas	110.00	0.50	Ferredoxin, 2Fe-2S
+PGF_08151304	Pseudoxanthomonas	278.53	5.80	hypothetical protein
+PGF_08153913	Pseudoxanthomonas	255.53	7.14	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08183187	Pseudoxanthomonas	440.94	8.31	Cell division protein FtsW

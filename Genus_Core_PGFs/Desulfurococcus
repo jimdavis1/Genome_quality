@@ -1,0 +1,773 @@
+PGF_00003748	Desulfurococcus	232.20	4.38	FKBP-type peptidyl-prolyl cis-trans isomerase MJ0825 (EC 5.2.1.8)
+PGF_00004133	Desulfurococcus	500.20	6.57	Conserved Archaeal protein Saci_1585
+PGF_00004481	Desulfurococcus	717.60	25.47	Ferric iron ABC transporter, permease protein
+PGF_00004645	Desulfurococcus	256.20	138.48	Ferritin/ribonucleotide reductase-like protein / Encapsulating protein for a DyP-type peroxidase or ferritin-like protein oligomers
+PGF_00004671	Desulfurococcus	697.80	1.79	Ferrous iron transport protein B
+PGF_00005666	Desulfurococcus	354.20	1.64	Flap structure-specific endonuclease
+PGF_00005884	Desulfurococcus	334.00	1.00	Manganese ABC transporter, periplasmic-binding protein SitA; Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_00006304	Desulfurococcus	227.00	2.74	Formylmethanofuran dehydrogenase FmdE
+PGF_00006398	Desulfurococcus	272.00	0.00	Fructose-bisphosphate aldolase, archaeal class I (EC 4.1.2.13)
+PGF_00006402	Desulfurococcus	382.20	0.45	Fructose-bisphosphate aldolase/bisphosphatase ancestral bifunctional (EC 4.1.2.13) (EC 3.1.3.11)
+PGF_00006935	Desulfurococcus	523.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Desulfurococcus	412.20	4.38	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007028	Desulfurococcus	351.00	0.00	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007040	Desulfurococcus	386.00	0.00	GTP-binding protein RBG1/RBG2
+PGF_00007044	Desulfurococcus	339.60	3.58	OBG-family ribosome assembly protein NOG1/MJ1408
+PGF_00007525	Desulfurococcus	380.80	22.42	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007655	Desulfurococcus	159.40	0.55	Uhcharacterized methyltransferase SSO0554
+PGF_00008269	Desulfurococcus	193.00	0.00	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_00008324	Desulfurococcus	296.00	0.00	Glutaminyl transferase family protein SSO2346
+PGF_00008336	Desulfurococcus	589.00	0.00	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008338	Desulfurococcus	431.00	44.72	Glutamyl-tRNA(Gln) amidotransferase asparaginase subunit (EC 6.3.5.7)
+PGF_00008341	Desulfurococcus	638.00	0.00	Glutamyl-tRNA(Gln) amidotransferase transferase subunit (EC 6.3.5.7)
+PGF_00008506	Desulfurococcus	505.20	1.10	Glyceraldehyde-3-phosphate dehydrogenase (NADP(+)) (EC 1.2.1.9)
+PGF_00008515	Desulfurococcus	651.60	2.19	Glyceraldehyde-3-phosphate: ferredoxin oxidoreductase (EC 1.2.7.6)
+PGF_00008548	Desulfurococcus	351.40	0.55	Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261)
+PGF_00008774	Desulfurococcus	475.20	6.06	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)
+PGF_00008776	Desulfurococcus	521.00	1.22	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)
+PGF_00008873	Desulfurococcus	452.00	128.58	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Desulfurococcus	513.60	2.19	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00010628	Desulfurococcus	173.80	10.23	HIT family protein
+PGF_00010739	Desulfurococcus	145.00	0.00	Transcriptional regulator Ptr2, AsnC family
+PGF_00011603	Desulfurococcus	330.20	1.64	Hexokinase (EC 2.7.1.1)
+PGF_00012928	Desulfurococcus	352.00	0.00	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+PGF_00012966	Desulfurococcus	454.00	0.00	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7) / Thiamin-phosphate synthase ThiN (EC 2.5.1.3)
+PGF_00013006	Desulfurococcus	183.60	2.19	Nucleoside-triphosphatase THEP1 (EC 3.6.1.15)
+PGF_00013741	Desulfurococcus	331.00	0.00	AIR Synthase, TMP kinase, hydrogenase maturation protein HypE superfamily
+PGF_00013822	Desulfurococcus	509.00	0.00	AMP phosphorylase (EC 2.4.2.57)
+PGF_00014306	Desulfurococcus	176.20	1.64	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00015468	Desulfurococcus	124.80	1.10	Iron-dependent repressor IdeR/DtxR
+PGF_00015514	Desulfurococcus	468.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015718	Desulfurococcus	1059.60	2.19	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015737	Desulfurococcus	385.60	6.02	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00015813	Desulfurococcus	522.00	0.00	Uncharacterized KH and PIN-domain containing protein MJ1533
+PGF_00016267	Desulfurococcus	380.40	0.55	L-tyrosine decarboxylase (EC 4.1.1.25)
+PGF_00016320	Desulfurococcus	214.20	1.10	LSU ribosomal protein L10Ae (L1p)
+PGF_00016321	Desulfurococcus	174.00	0.00	LSU ribosomal protein L10e (L16p)
+PGF_00016331	Desulfurococcus	187.00	0.00	LSU ribosomal protein L11e (L5p)
+PGF_00016333	Desulfurococcus	98.20	12.05	LSU ribosomal protein P1/P2 (L7p/L12p)
+PGF_00016334	Desulfurococcus	170.00	0.00	LSU ribosomal protein L12e (L11p)
+PGF_00016339	Desulfurococcus	96.00	0.00	LSU ribosomal protein L14e
+PGF_00016341	Desulfurococcus	220.00	0.00	LSU ribosomal protein L15e
+PGF_00016345	Desulfurococcus	157.00	0.00	LSU ribosomal protein L17e (L22p)
+PGF_00016354	Desulfurococcus	152.00	0.00	LSU ribosomal protein L19e
+PGF_00016356	Desulfurococcus	272.40	0.89	LSU ribosomal protein L1e (L4p)
+PGF_00016363	Desulfurococcus	105.00	0.00	LSU ribosomal protein L21e
+PGF_00016371	Desulfurococcus	89.80	1.10	LSU ribosomal protein L23Ae (L23p)
+PGF_00016373	Desulfurococcus	142.00	0.00	LSU ribosomal protein L23e (L14p)
+PGF_00016382	Desulfurococcus	133.00	0.00	LSU ribosomal protein L26e (L24p)
+PGF_00016384	Desulfurococcus	155.00	0.00	LSU ribosomal protein L27Ae (L15p)
+PGF_00016394	Desulfurococcus	104.80	1.10	LSU ribosomal protein L30e
+PGF_00016417	Desulfurococcus	90.00	0.00	LSU ribosomal protein L34e
+PGF_00016426	Desulfurococcus	86.00	0.00	LSU ribosomal protein L37Ae
+PGF_00016427	Desulfurococcus	62.00	0.00	LSU ribosomal protein L37e
+PGF_00016429	Desulfurococcus	52.00	0.00	LSU ribosomal protein L39e
+PGF_00016430	Desulfurococcus	396.00	0.00	LSU ribosomal protein L3e (L3p)
+PGF_00016434	Desulfurococcus	58.00	0.00	LSU ribosomal protein L40e
+PGF_00016438	Desulfurococcus	97.00	2.83	LSU ribosomal protein L44e
+PGF_00016442	Desulfurococcus	196.80	1.10	LSU ribosomal protein L5e (L18p)
+PGF_00016446	Desulfurococcus	127.00	0.00	LSU ribosomal protein L7Ae
+PGF_00016447	Desulfurococcus	162.00	0.00	LSU ribosomal protein L7e (L30p)
+PGF_00016449	Desulfurococcus	239.00	0.00	LSU ribosomal protein L8e (L2p)
+PGF_00016450	Desulfurococcus	184.00	0.00	LSU ribosomal protein L9e (L6p)
+PGF_00016455	Desulfurococcus	333.40	1.52	LSU ribosomal protein P0 (L10p)
+PGF_00017127	Desulfurococcus	254.40	3.29	Lipoate-protein ligase A
+PGF_00019056	Desulfurococcus	688.80	3.42	Maltodextrin glucosidase (EC 3.2.1.20)
+PGF_00019145	Desulfurococcus	511.20	4.76	Maltodextrin ABC transporter, substrate-binding protein MdxE
+PGF_00020589	Desulfurococcus	307.20	1.10	Metallophosphoesterase
+PGF_00020735	Desulfurococcus	296.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00021006	Desulfurococcus	518.00	0.00	Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41); Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00021036	Desulfurococcus	358.80	0.45	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00022028	Desulfurococcus	568.40	4.93	MoaA/NifB/PqqE family protein MJ0619
+PGF_00022507	Desulfurococcus	162.80	2.68	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022531	Desulfurococcus	656.40	1.34	Molybdopterin molybdenumtransferase (EC 2.10.1.1) / Periplasmic molybdate-binding domain
+PGF_00023326	Desulfurococcus	203.00	0.00	MarC family integral membrane protein
+PGF_00023591	Desulfurococcus	355.00	0.00	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00024308	Desulfurococcus	272.40	10.43	NAD synthetase (EC 6.3.1.5)
+PGF_00024323	Desulfurococcus	297.00	125.82	NAD(P)-dependent glyceraldehyde 3-phosphate dehydrogenase archaeal (EC 1.2.1.59)
+PGF_00024509	Desulfurococcus	426.00	0.00	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024589	Desulfurococcus	463.00	5.79	NADH oxidase
+PGF_00024746	Desulfurococcus	516.20	1.64	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024865	Desulfurococcus	239.00	0.00	NADPH-dependent FMN reductase
+PGF_00025342	Desulfurococcus	478.80	1.30	Na+/solute symporter
+PGF_00025440	Desulfurococcus	391.20	0.45	Acetyl CoA synthase (Acetyl-CoA c-acetyltransferase) (EC 2.3.1.9)
+PGF_00025600	Desulfurococcus	391.40	0.55	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00026463	Desulfurococcus	187.60	3.29	Nucleotidase YfbR, HD superfamily
+PGF_00026479	Desulfurococcus	242.40	13.37	Nucleotidyl transferase
+PGF_00026575	Desulfurococcus	148.00	0.00	NusA protein homolog, archaeal
+PGF_00027494	Desulfurococcus	394.00	0.00	Origin of replication recognition protein @ Cell division control protein 6
+PGF_00029180	Desulfurococcus	354.40	2.19	PELOTA homolog; COG1537: Predicted RNA-binding proteins
+PGF_00029916	Desulfurococcus	285.20	7.12	Pantoate kinase, archaeal (EC 2.7.1.169)
+PGF_00030475	Desulfurococcus	1288.60	5.37	Peptidase S8 and S53, subtilisin, kexin, sedolisin
+PGF_00030842	Desulfurococcus	115.00	0.00	Peptidyl-tRNA hydrolase, archaeal type (EC 3.1.1.29)
+PGF_00033390	Desulfurococcus	629.40	0.55	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+PGF_00033402	Desulfurococcus	832.80	3.83	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033482	Desulfurococcus	456.80	1.79	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00033530	Desulfurococcus	424.40	0.55	Phosphoglycerate mutase (2,3-diphosphoglycerate-independent), archaeal type (EC 5.4.2.12)
+PGF_00033819	Desulfurococcus	468.80	4.38	Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00033890	Desulfurococcus	246.80	16.80	Phosphopantothenate synthetase, archaeal (EC 6.3.2.36)
+PGF_00034985	Desulfurococcus	240.40	2.61	Adenine phosphoribosyltransferase, fused to N-terminal DNA-binding domain
+PGF_00035378	Desulfurococcus	418.00	0.00	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035648	Desulfurococcus	214.20	2.86	RNA methylase
+PGF_00035649	Desulfurococcus	214.00	2.74	Predicted RNA-binding protein COG1491
+PGF_00035666	Desulfurococcus	73.00	0.00	Predicted Zn-ribbon RNA-binding protein with a function in translation
+PGF_00036988	Desulfurococcus	286.60	4.34	Agmatinase (EC 3.5.3.11)
+PGF_00037060	Desulfurococcus	238.60	0.55	Exosome complex exonuclease RRP4
+PGF_00037061	Desulfurococcus	286.00	0.00	Exosome complex exonuclease RRP45 (EC 3.1.13.-)
+PGF_00037171	Desulfurococcus	397.60	2.19	Probable low-affinity inorganic phosphate transporter
+PGF_00037244	Desulfurococcus	234.20	1.10	Peroxiredoxin, Bcp-type (EC 1.11.1.15)
+PGF_00037586	Desulfurococcus	458.40	46.62	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037650	Desulfurococcus	334.00	0.00	Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_00037826	Desulfurococcus	377.20	1.64	Protease HtpX homolog
+PGF_00037864	Desulfurococcus	246.00	0.00	Proteasome subunit alpha (EC 3.4.25.1), archaeal
+PGF_00037870	Desulfurococcus	413.40	6.39	Proteasome-activating AAA-ATPase (PAN), archaeal
+PGF_00038629	Desulfurococcus	647.00	0.00	Protein similar to polyadenylation specificity factor, MJ1236 type
+PGF_00038675	Desulfurococcus	474.40	0.55	Protein translocase subunit SecY
+PGF_00039034	Desulfurococcus	390.20	10.26	Uncharacterized AAA+ ATPase SSO2363
+PGF_00039674	Desulfurococcus	208.60	3.29	Putative RNA-binding protein COG1094
+PGF_00040585	Desulfurococcus	239.60	0.55	Putative deoxyribonuclease similar to YcfH, type 3
+PGF_00044172	Desulfurococcus	75.00	0.00	Putative snRNP Sm-like protein
+PGF_00044198	Desulfurococcus	262.00	0.00	Putative stomatin/prohibitin-family membrane protease subunit aq_911
+PGF_00045633	Desulfurococcus	151.80	10.55	Putative uncharacterized protein ST0479
+PGF_00045787	Desulfurococcus	199.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Desulfurococcus	335.20	1.10	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045990	Desulfurococcus	376.00	0.00	Pyruvate formate-lyase activating enzyme homolog
+PGF_00045991	Desulfurococcus	471.40	2.19	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046769	Desulfurococcus	602.00	0.00	RNase L inhibitor
+PGF_00046844	Desulfurococcus	514.00	0.00	Alpha-amylase (EC 3.2.1.1)
+PGF_00046915	Desulfurococcus	261.20	41.39	Radical SAM domain protein
+PGF_00047006	Desulfurococcus	525.00	0.00	Radical SAM domain protein
+PGF_00047472	Desulfurococcus	432.40	188.06	Related to Dihydropteroate synthase
+PGF_00047533	Desulfurococcus	396.00	0.00	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00047547	Desulfurococcus	144.80	9.86	Replication factor A (ssDNA-binding protein)
+PGF_00047549	Desulfurococcus	425.60	0.55	Replication factor C large subunit
+PGF_00047550	Desulfurococcus	330.00	9.51	Replication factor C small subunit
+PGF_00048489	Desulfurococcus	310.80	3.83	Ribokinase-like protein SSO2449
+PGF_00048556	Desulfurococcus	255.00	0.00	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048584	Desulfurococcus	119.00	7.38	Ribonuclease P protein component 4 (EC 3.1.26.5)
+PGF_00048585	Desulfurococcus	242.40	0.55	Exosome complex exonuclease RRP41 (EC 3.1.13.-)
+PGF_00048594	Desulfurococcus	249.00	0.00	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048782	Desulfurococcus	301.40	0.55	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048896	Desulfurococcus	179.20	7.66	Ribosome biogenesis protein TSR3
+PGF_00048976	Desulfurococcus	445.00	0.00	Ribulose-1,5-bisphosphate carboxylase, Type III (EC 4.1.1.39)
+PGF_00049827	Desulfurococcus	273.80	9.39	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049829	Desulfurococcus	116.00	0.00	SSU ribosomal protein S11e (S17p)
+PGF_00049839	Desulfurococcus	148.00	36.99	SSU ribosomal protein S13e (S15p)
+PGF_00049841	Desulfurococcus	133.00	0.00	SSU ribosomal protein S14e (S11p)
+PGF_00049845	Desulfurococcus	133.00	0.00	SSU ribosomal protein S15Ae (S8p)
+PGF_00049846	Desulfurococcus	143.40	4.16	SSU ribosomal protein S15e (S19p)
+PGF_00049855	Desulfurococcus	166.80	5.02	SSU ribosomal protein S18e (S13p)
+PGF_00049859	Desulfurococcus	157.80	1.10	SSU ribosomal protein S19e
+PGF_00049862	Desulfurococcus	102.00	2.24	SSU ribosomal protein S20e (S10p)
+PGF_00049869	Desulfurococcus	148.00	0.00	SSU ribosomal protein S23e (S12p)
+PGF_00049870	Desulfurococcus	114.00	0.00	SSU ribosomal protein S24e
+PGF_00049875	Desulfurococcus	95.00	0.00	SSU ribosomal protein S26e
+PGF_00049878	Desulfurococcus	68.00	0.00	SSU ribosomal protein S27e
+PGF_00049879	Desulfurococcus	87.60	2.19	SSU ribosomal protein S28e
+PGF_00049880	Desulfurococcus	54.00	0.00	SSU ribosomal protein S29e (S14p)
+PGF_00049881	Desulfurococcus	214.00	0.00	SSU ribosomal protein S2e (S5p)
+PGF_00049883	Desulfurococcus	50.00	0.00	SSU ribosomal protein S30e
+PGF_00049886	Desulfurococcus	213.80	1.10	SSU ribosomal protein S3Ae
+PGF_00049887	Desulfurococcus	222.60	0.55	SSU ribosomal protein S3e (S3p)
+PGF_00049894	Desulfurococcus	198.00	0.00	SSU ribosomal protein S5e (S7p)
+PGF_00049898	Desulfurococcus	218.00	0.00	SSU ribosomal protein S6e
+PGF_00049905	Desulfurococcus	128.40	0.55	SSU ribosomal protein S8e
+PGF_00049907	Desulfurococcus	170.00	0.00	SSU ribosomal protein S9e (S4p)
+PGF_00050055	Desulfurococcus	376.00	0.00	Sarcosine oxidase beta subunit (EC 1.5.3.1)
+PGF_00051525	Desulfurococcus	459.20	0.45	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051879	Desulfurococcus	231.00	0.00	Shwachman-Bodian-Diamond syndrome protein; predicted exosome subunit
+PGF_00052238	Desulfurococcus	449.40	0.55	Signal recognition particle protein Ffh
+PGF_00053770	Desulfurococcus	369.00	0.00	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053789	Desulfurococcus	367.80	1.10	Aminopeptidase
+PGF_00054318	Desulfurococcus	108.00	0.00	Structure-specific tRNA-binding protein trbp111
+PGF_00054528	Desulfurococcus	379.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055392	Desulfurococcus	193.60	0.55	TATA-box binding protein
+PGF_00055393	Desulfurococcus	445.80	11.14	DNA helicase RVB1/RVB2/TIP49
+PGF_00056883	Desulfurococcus	205.20	1.10	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057441	Desulfurococcus	99.60	14.55	Transcription factor S
+PGF_00060402	Desulfurococcus	438.00	0.00	Translation elongation factor 1 alpha subunit
+PGF_00060405	Desulfurococcus	90.00	0.00	Translation elongation factor 1 beta subunit
+PGF_00060408	Desulfurococcus	736.00	0.00	Translation elongation factor 2
+PGF_00061926	Desulfurococcus	317.60	3.29	Triphosphoribosyl-dephospho-CoA synthetase
+PGF_00062019	Desulfurococcus	350.80	172.62	Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)
+PGF_00062044	Desulfurococcus	368.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063608	Desulfurococcus	417.80	4.44	S-adenosylmethionine synthetase, archaeal (EC 2.5.1.6)
+PGF_00063695	Desulfurococcus	237.00	0.00	Archaeal flavoprotein COG1036
+PGF_00063915	Desulfurococcus	370.60	21.47	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00064030	Desulfurococcus	156.60	3.05	Archease
+PGF_00064185	Desulfurococcus	318.60	70.21	UPF0063 protein MJ0103
+PGF_00064246	Desulfurococcus	159.40	3.29	UPF0218 protein MJ0395
+PGF_00064286	Desulfurococcus	253.40	6.02	UPF0273 protein TK1590
+PGF_00064425	Desulfurococcus	426.00	0.00	UbiD family decarboxylase, MJ1133 type
+PGF_00064540	Desulfurococcus	930.80	1.64	Uncharacterized ATP-dependent helicase AF1149
+PGF_00064731	Desulfurococcus	464.00	0.00	Uncharacterized glycosyl transferase SSO0114
+PGF_00064745	Desulfurococcus	366.00	0.00	Uncharacterized hydrolase MJ0555
+PGF_00064917	Desulfurococcus	231.80	3.83	Uncharacterized protein COG1849 (DUF357) / FMN adenylyltransferase, type 3 archaeal (EC 2.7.7.2)
+PGF_00065032	Desulfurococcus	150.20	22.65	Uncharacterized protein MJ0213
+PGF_00065039	Desulfurococcus	522.40	2.61	Uncharacterized protein MJ0274
+PGF_00065049	Desulfurococcus	95.80	1.64	Uncharacterized protein MJ0319
+PGF_00065083	Desulfurococcus	344.00	0.00	Uncharacterized protein MJ0535
+PGF_00065212	Desulfurococcus	389.00	0.00	Uncharacterized protein MJ1313
+PGF_00065253	Desulfurococcus	542.80	8.64	Uncharacterized protein MJ1620
+PGF_00065335	Desulfurococcus	239.40	2.61	Uncharacterized protein SSO0086
+PGF_00065336	Desulfurococcus	364.00	0.00	Uncharacterized protein SSO0097
+PGF_00065341	Desulfurococcus	375.80	3.83	Uncharacterized protein SSO0869
+PGF_00065889	Desulfurococcus	272.40	6.88	Undecaprenyl diphosphate synthase (geranylgeranyl diphosphate specific) (EC 2.5.1.89)
+PGF_00066257	Desulfurococcus	285.20	1.64	Uridine phosphorylase (EC 2.4.2.3)
+PGF_00066389	Desulfurococcus	198.60	12.64	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066453	Desulfurococcus	813.20	1.64	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Desulfurococcus	432.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066906	Desulfurococcus	307.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067771	Desulfurococcus	380.80	8.41	[NiFe] hydrogenase metallocenter assembly protein HypD
+PGF_00067772	Desulfurococcus	305.80	87.65	[NiFe] hydrogenase metallocenter assembly protein HypE
+PGF_00068730	Desulfurococcus	160.80	1.10	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) PUA domain
+PGF_00070163	Desulfurococcus	158.20	1.10	conserved protein with predicted RNA binding PUA domain
+PGF_00070777	Desulfurococcus	337.80	4.38	Diphthamide biosynthesis protein 1
+PGF_00083505	Desulfurococcus	400.00	0.00	hypothetical protein
+PGF_00088693	Desulfurococcus	122.60	24.50	Uncharacterized protein SSO0206
+PGF_00095057	Desulfurococcus	164.00	0.00	hypothetical protein
+PGF_00095674	Desulfurococcus	410.40	0.55	hypothetical protein
+PGF_00102453	Desulfurococcus	92.20	6.57	hypothetical protein
+PGF_00110579	Desulfurococcus	424.00	2.74	Uncharacterized protein SSO2360
+PGF_00113984	Desulfurococcus	194.20	0.84	Flavin prenyltransferase UbiX
+PGF_00159904	Desulfurococcus	100.60	0.55	Uncharacterized protein SSO0915
+PGF_00165012	Desulfurococcus	151.00	0.00	hypothetical protein
+PGF_00166772	Desulfurococcus	104.80	4.38	Uncharacterized protein AF2325
+PGF_00188552	Desulfurococcus	289.80	12.77	Uncharacterized transcriptional regulatory protein MJ1164, Cro/C1 family
+PGF_00193070	Desulfurococcus	141.80	4.09	Uncharacterized protein Saci_0847
+PGF_00209388	Desulfurococcus	412.40	4.34	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_00217872	Desulfurococcus	93.00	0.00	Uncharacterized protein Saci_1399/Saci_2308
+PGF_00222644	Desulfurococcus	582.80	3.83	ABC transporter, substrate-binding protein (cluster 5, nickel/peptides/opines)
+PGF_00231772	Desulfurococcus	54.40	4.28	Uncharacterized protein SSO5826
+PGF_00235535	Desulfurococcus	312.40	0.89	hypothetical protein
+PGF_00242943	Desulfurococcus	182.40	0.55	Uncharacterized protein SSO0194
+PGF_00244143	Desulfurococcus	184.00	0.00	Uncharacterized protein SSO0171
+PGF_00248788	Desulfurococcus	228.00	0.00	UPF0173 metal-dependent hydrolase SSO0099
+PGF_00256629	Desulfurococcus	206.40	19.72	hypothetical protein
+PGF_00280549	Desulfurococcus	311.40	1.52	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00280847	Desulfurococcus	212.00	2.74	CRISPR-associated RecB family exonuclease Cas4
+PGF_00286855	Desulfurococcus	128.80	7.16	Uncharacterized protein SSO0205
+PGF_00295348	Desulfurococcus	407.20	4.92	ABC-type antimicrobial peptide transport system, permease component
+PGF_00296985	Desulfurococcus	329.80	1.64	hypothetical protein
+PGF_00310357	Desulfurococcus	230.00	0.00	ESCORT-III-interacting protein CdvA
+PGF_00346636	Desulfurococcus	148.20	3.83	hypothetical protein
+PGF_00349129	Desulfurococcus	89.00	0.00	UPF0147 protein MJ1419
+PGF_00350921	Desulfurococcus	373.00	1.22	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00353725	Desulfurococcus	61.00	0.00	Chromatin protein Cren7
+PGF_00357142	Desulfurococcus	108.20	1.64	Uncharacterized protein SSO0555
+PGF_00366404	Desulfurococcus	255.60	1.67	Uncharacterized protein SSO1038
+PGF_00386327	Desulfurococcus	326.60	1.52	Uncharacterized glycosyltransferase SSO2485
+PGF_00395552	Desulfurococcus	227.00	129.66	hypothetical protein
+PGF_00400792	Desulfurococcus	360.80	1.64	mRNA 3-end processing exonuclease
+PGF_00401649	Desulfurococcus	338.00	2.24	n-type ATP pyrophosphatase superfamily / TilS and TtcA-like
+PGF_00404333	Desulfurococcus	267.20	75.58	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404466	Desulfurococcus	307.00	0.00	Biotin synthase-related protein, radical SAM superfamily
+PGF_00405697	Desulfurococcus	637.80	27.82	putative ATP-dependent protease
+PGF_00406583	Desulfurococcus	264.00	0.00	putative circadian clock protein, KaiC
+PGF_00411462	Desulfurococcus	236.20	1.10	Box C/D RNA-guided RNA methyltransferase subunit fibrillarin
+PGF_00411463	Desulfurococcus	415.00	8.22	Box C/D RNA-guided RNA methyltransferase subunit Nop5
+PGF_00411474	Desulfurococcus	231.20	2.59	rRNA small subunit pseudouridine methyltransferase Nep1 (EC 2.1.1.260)
+PGF_00413191	Desulfurococcus	262.60	2.51	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase (EC 2.1.1.219)
+PGF_00413204	Desulfurococcus	179.40	0.55	tRNA (cytidine(56)-2'-O)-methyltransferase (EC 2.1.1.206)
+PGF_00413205	Desulfurococcus	337.60	2.19	tRNA (guanine(10)-N(2))-dimethyltransferase (EC 2.1.1.213)
+PGF_00413206	Desulfurococcus	396.00	0.00	tRNA (guanine(26)-N(2))-dimethyltransferase (EC 2.1.1.216)
+PGF_00413210	Desulfurococcus	339.40	8.76	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413235	Desulfurococcus	362.00	0.00	tRNA 4-demethylwyosine synthase (AdoMet-dependent) (EC 4.1.3.44)
+PGF_00413237	Desulfurococcus	482.80	1.10	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413256	Desulfurococcus	430.40	2.19	tRNA N6-threonylcarbamoyladenosine 2-methylthiotransferase (putative) @ tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_00413263	Desulfurococcus	814.00	0.00	tRNA cytosine(12) acetyltransferase, catalytic subunit @ SSU rRNA acetyltransferase, catalytic subunit
+PGF_00413286	Desulfurococcus	369.20	1.10	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413287	Desulfurococcus	445.20	1.64	tRNA pseudouridine(54/55) synthase
+PGF_00413307	Desulfurococcus	450.60	0.55	tRNA(Ile)(2)-agmatinylcytidine synthase (EC 6.3.4.22)
+PGF_00413314	Desulfurococcus	225.00	6.40	tRNA(Phe) 7-((3-amino-3-carboxypropyl)-4-demethylwyosine(37)-N(4))-methyltransferase (EC 2.1.1.282)
+PGF_00413342	Desulfurococcus	520.00	0.00	tRNA-guanine(15) transglycosylase (EC 2.4.2.48)
+PGF_00414519	Desulfurococcus	250.00	2.74	Phosphoglycerol geranylgeranyltransferase (EC 2.5.1.41)
+PGF_00414927	Desulfurococcus	465.20	1.10	CCA tRNA nucleotidyltransferase, archaeal type (EC 2.7.7.72)
+PGF_00415417	Desulfurococcus	357.40	0.55	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+PGF_00415433	Desulfurococcus	659.60	6.39	RNA-binding protein homologous to eukaryotic snRNP
+PGF_00415520	Desulfurococcus	233.00	21.76	FIG003003: hypothetical protein
+PGF_00415578	Desulfurococcus	226.60	3.29	COG2078: Uncharacterized ACR
+PGF_00415580	Desulfurococcus	275.20	1.10	COG2106 Methylase
+PGF_00416129	Desulfurococcus	530.40	0.55	CTP synthase (EC 6.3.4.2)
+PGF_00416211	Desulfurococcus	285.40	3.29	Candidate phosphomevalonate decarboxylase; COG1355, Predicted dioxygenase
+PGF_00416408	Desulfurococcus	323.80	1.10	Carbamate kinase (EC 2.7.2.2)
+PGF_00417702	Desulfurococcus	466.00	0.00	Chlorohydrolase/deaminase family protein
+PGF_00417931	Desulfurococcus	255.00	0.00	Chromosome (plasmid) partitioning protein ParB
+PGF_00419913	Desulfurococcus	146.80	1.10	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Desulfurococcus	270.20	1.30	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420734	Desulfurococcus	283.40	3.29	Cytosolic Fe-S cluster assembling factor NBP35
+PGF_00420894	Desulfurococcus	224.20	10.78	D-arabino-3-hexulose 6-phosphate formaldehyde-lyase (EC 4.1.2.43)
+PGF_00421106	Desulfurococcus	751.20	19.16	DEAD/DEAH box helicase domain protein
+PGF_00421296	Desulfurococcus	552.20	4.92	DNA helicase (Rad25 homolog)
+PGF_00421628	Desulfurococcus	245.60	0.55	DNA polymerase sliding clamp protein PCNA
+PGF_00421665	Desulfurococcus	408.40	0.55	DNA primase (EC 2.7.7.-)
+PGF_00421689	Desulfurococcus	378.40	3.13	DNA primase large subunit (EC 2.7.7.-)
+PGF_00421761	Desulfurococcus	328.40	0.55	DNA repair and recombination protein RadA
+PGF_00421805	Desulfurococcus	700.00	0.00	DNA replication helicase protein MCM
+PGF_00421878	Desulfurococcus	433.40	0.55	DNA topoisomerase VI subunit A (EC 5.99.1.3)
+PGF_00421879	Desulfurococcus	529.60	0.55	DNA topoisomerase VI subunit B (EC 5.99.1.3)
+PGF_00422084	Desulfurococcus	116.20	1.10	DNA-binding protein MTH1615
+PGF_00422245	Desulfurococcus	323.60	0.55	DNA-cytosine modification methylase MJ0563 (EC 2.1.1.37)
+PGF_00422335	Desulfurococcus	406.40	0.55	DNA-directed RNA polymerase subunit A'' (EC 2.7.7.6)
+PGF_00422337	Desulfurococcus	1165.60	0.55	DNA-directed RNA polymerase subunit B (EC 2.7.7.6)
+PGF_00422340	Desulfurococcus	280.00	0.00	DNA-directed RNA polymerase subunit D (EC 2.7.7.6)
+PGF_00422341	Desulfurococcus	189.60	0.55	DNA-directed RNA polymerase subunit E' (EC 2.7.7.6)
+PGF_00422356	Desulfurococcus	83.00	0.00	DNA-directed RNA polymerase subunit H (EC 2.7.7.6)
+PGF_00422358	Desulfurococcus	106.00	0.00	DNA-directed RNA polymerase subunit K (EC 2.7.7.6)
+PGF_00422360	Desulfurococcus	93.00	0.00	DNA-directed RNA polymerase subunit L (EC 2.7.7.6)
+PGF_00422407	Desulfurococcus	87.20	6.02	DNA/RNA-binding protein Alba
+PGF_00422531	Desulfurococcus	129.00	3.46	UPF0201 protein MJ1564
+PGF_00422918	Desulfurococcus	182.20	1.64	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422979	Desulfurococcus	182.60	2.19	Dephospho-CoA kinase archaeal, predicted (EC 2.7.1.24)
+PGF_00423378	Desulfurococcus	451.00	3.46	Dihydroorotase (EC 3.5.2.3)
+PGF_00424338	Desulfurococcus	221.00	2.74	Endonuclease V (EC 3.1.21.7)
+PGF_00424924	Desulfurococcus	362.20	1.10	Eukaryotic peptide chain release factor subunit 1
+PGF_00424930	Desulfurococcus	418.00	0.00	Eukaryotic translation initiation factor 2 gamma subunit
+PGF_00424939	Desulfurococcus	132.00	0.00	Eukaryotic translation initiation factor 5A
+PGF_00424940	Desulfurococcus	228.60	2.88	Eukaryotic translation initiation factor 6
+PGF_00425052	Desulfurococcus	519.00	4.24	Exoenzymes regulatory protein AepA precursor
+PGF_00425478	Desulfurococcus	160.00	0.00	4Fe-4S ferredoxin, iron-sulfur binding domain protein
+PGF_00585913	Desulfurococcus	387.00	2.74	ABC transporter, substrate-binding protein (cluster 8, B12/iron complex)
+PGF_00665156	Desulfurococcus	404.80	5.45	Uncharacterized DUF763 protein AF1496
+PGF_00665189	Desulfurococcus	412.80	1.64	Origin of replication recognition protein @ Cell division control protein 6
+PGF_00669668	Desulfurococcus	366.60	12.58	Uncharacterized MFS-type transporter
+PGF_00699794	Desulfurococcus	151.40	0.55	Transcriptional regulator, PadR family
+PGF_00734221	Desulfurococcus	281.00	3.00	Xanthine and CO dehydrogenases maturation factor, XdhC/CoxF family
+PGF_00734482	Desulfurococcus	683.00	6.86	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00743714	Desulfurococcus	187.40	0.55	Chromate transport protein
+PGF_00774032	Desulfurococcus	413.80	3.03	Uncharacterized MFS-type transporter
+PGF_00821644	Desulfurococcus	189.20	6.57	Phosphatidylinositol phosphate synthase @ Archaetidylinositol phosphate synthase (EC 2.7.8.39)
+PGF_00852852	Desulfurococcus	181.40	1.34	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_00853393	Desulfurococcus	291.40	0.55	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Desulfurococcus	421.00	0.00	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00867430	Desulfurococcus	399.00	0.71	Uncharacterized MFS-type transporter
+PGF_00887586	Desulfurococcus	255.00	0.00	Uncharacterized P-loop-containing NTP hydrolase AF0539
+PGF_00915745	Desulfurococcus	173.00	0.00	Nitroreductase
+PGF_00924363	Desulfurococcus	175.60	0.55	Substrate-specific component YkoE of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_00926109	Desulfurococcus	756.40	2.19	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00928238	Desulfurococcus	282.40	3.29	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00955016	Desulfurococcus	253.40	0.55	ABC transporter related
+PGF_00955174	Desulfurococcus	373.00	0.00	Nucleoside ABC transporter, permease protein 1
+PGF_00966887	Desulfurococcus	251.60	0.55	Dolichol-phosphate mannosyltransferase (EC 2.4.1.83)
+PGF_00983913	Desulfurococcus	172.40	0.55	Ribosomal RNA processing endonuclease Nob1
+PGF_01001644	Desulfurococcus	448.40	2.19	Putative membrane-bound ClpP-class protease associated with aq_911
+PGF_01005731	Desulfurococcus	357.00	0.00	RNA 3'-terminal-phosphate cyclase (GTP) (EC 6.5.1.5)
+PGF_01039218	Desulfurococcus	300.00	0.00	FIG006285: ICC-like protein phosphoesterase
+PGF_01040342	Desulfurococcus	285.60	0.55	Spermidine synthase (EC 2.5.1.16)
+PGF_01043956	Desulfurococcus	613.60	8.05	DNA ligase (ATP, ADP or GTP) (EC 6.5.1.7)
+PGF_01056087	Desulfurococcus	441.00	0.00	TldE protein, part of TldE/TldD proteolytic complex
+PGF_01061008	Desulfurococcus	425.00	1.00	DNA double-strand break repair protein Mre11
+PGF_01061115	Desulfurococcus	650.00	1.22	amylopullulanase
+PGF_01080662	Desulfurococcus	311.00	0.00	methanol dehydrogenase regulatory protein
+PGF_01102972	Desulfurococcus	410.00	0.00	Acetylornithine deacetylase (EC 3.5.1.16)
+PGF_01123181	Desulfurococcus	657.00	11.87	PUA-PAPS reductase like fusion
+PGF_01137150	Desulfurococcus	249.20	1.10	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01218448	Desulfurococcus	345.40	3.29	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01421686	Desulfurococcus	395.00	185.66	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit B
+PGF_01466973	Desulfurococcus	410.20	1.10	Peptidase S8 and S53, subtilisin, kexin, sedolisin
+PGF_01486881	Desulfurococcus	238.00	0.00	ABC-type antimicrobial peptide transport system, ATPase component
+PGF_01512759	Desulfurococcus	257.00	2.74	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2
+PGF_01512760	Desulfurococcus	138.00	0.00	transcriptional regulator AbrB family, ACT domain-containing
+PGF_01512761	Desulfurococcus	133.00	6.60	transcriptional regulator, TrmB
+PGF_01512762	Desulfurococcus	470.20	4.38	trehalose synthase
+PGF_01512763	Desulfurococcus	239.00	8.12	zinc/iron permease
+PGF_01512764	Desulfurococcus	224.00	0.00	hypothetical protein
+PGF_01512765	Desulfurococcus	137.00	5.48	hypothetical protein
+PGF_01512766	Desulfurococcus	174.40	0.55	hypothetical protein
+PGF_01512767	Desulfurococcus	240.00	0.00	hypothetical protein
+PGF_01512768	Desulfurococcus	319.40	2.19	hypothetical protein
+PGF_01512770	Desulfurococcus	86.60	2.19	hypothetical protein
+PGF_01512771	Desulfurococcus	371.80	3.83	hypothetical protein
+PGF_01512772	Desulfurococcus	118.00	4.42	Uncharacterized protein SSO0260
+PGF_01512785	Desulfurococcus	161.00	0.00	Ferritin, Dps family protein
+PGF_01512800	Desulfurococcus	196.40	2.19	Phosphoesterase
+PGF_01512802	Desulfurococcus	520.60	0.55	Polysaccharide biosynthesis protein
+PGF_01512816	Desulfurococcus	375.40	4.93	Glycosyl transferase, group 1
+PGF_01512821	Desulfurococcus	131.20	1.64	hypothetical protein
+PGF_01512868	Desulfurococcus	279.00	0.00	hypothetical protein
+PGF_01512887	Desulfurococcus	93.00	0.00	hypothetical protein
+PGF_01512890	Desulfurococcus	318.00	0.00	Uncharacterized protein SSO2457
+PGF_01512926	Desulfurococcus	461.80	1.10	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_01512955	Desulfurococcus	239.40	1.67	membrane protein-like protein
+PGF_01512970	Desulfurococcus	414.40	88.92	ABC transporter related
+PGF_01512976	Desulfurococcus	121.00	0.00	Prefoldin subunit beta
+PGF_01512996	Desulfurococcus	137.80	27.52	Formate hydrogenlyase subunit 7
+PGF_01513005	Desulfurococcus	270.00	0.00	Efflux ABC transporter, permease protein
+PGF_01513016	Desulfurococcus	418.20	1.10	ABC-2 type transporter
+PGF_01513045	Desulfurococcus	256.80	1.64	ABC-type molybdate transport system, permease component
+PGF_01513113	Desulfurococcus	305.80	1.10	ATPase associated with various cellular activities, AAA_5
+PGF_01513229	Desulfurococcus	311.60	0.55	Nucleoside ABC transporter, permease protein 2
+PGF_01513247	Desulfurococcus	134.40	7.67	Nucleotide binding protein, PINc
+PGF_01513265	Desulfurococcus	160.60	9.84	NusA protein homolog 2, archaeal
+PGF_01513282	Desulfurococcus	258.40	0.55	Oligopeptide/dipeptide ABC transporter, ATP-binding protein-like
+PGF_01513287	Desulfurococcus	817.60	0.55	Oligosaccharyl transferase, STT3 subunit
+PGF_01513338	Desulfurococcus	247.40	4.98	PA14 domain protein
+PGF_01513396	Desulfurococcus	151.00	21.40	Formate hydrogenlyase maturation protease (EC 3.4.23.51)
+PGF_01513426	Desulfurococcus	92.40	0.55	LSU ribosomal protein L31e
+PGF_01513564	Desulfurococcus	78.60	3.91	LSU ribosomal protein L35e (L29p)
+PGF_01513625	Desulfurococcus	239.60	13.28	Proteasome assembly chaperone Pac2
+PGF_01513734	Desulfurococcus	252.40	2.19	DNA polymerase sliding clamp protein PCNA
+PGF_01513737	Desulfurococcus	295.20	10.89	hypothetical protein
+PGF_01513738	Desulfurococcus	545.60	0.55	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+PGF_01513739	Desulfurococcus	294.80	1.64	ABC-3 protein
+PGF_01513740	Desulfurococcus	307.40	10.99	ABC transporter related
+PGF_01513741	Desulfurococcus	298.00	0.00	ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)
+PGF_01513742	Desulfurococcus	273.00	5.48	Adenine phosphoribosyltransferase, fused to N-terminal DNA-binding domain
+PGF_01513743	Desulfurococcus	161.80	23.00	Archaeal transcription factor E
+PGF_01513748	Desulfurococcus	238.80	2.17	Putative ATP-dependent RNA helicase
+PGF_01513751	Desulfurococcus	163.00	0.00	Putative transcription antitermination protein NusG
+PGF_01513753	Desulfurococcus	383.20	1.10	PhoH family protein
+PGF_01513754	Desulfurococcus	201.60	0.55	Phosphate transport system regulatory protein PhoU
+PGF_01513755	Desulfurococcus	337.60	0.55	Phosphate uptake regulator PhoU
+PGF_01513758	Desulfurococcus	304.00	2.74	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_01513761	Desulfurococcus	467.40	8.76	Chlorohydrolase/deaminase family protein
+PGF_01513762	Desulfurococcus	475.40	41.45	Citrate transporter
+PGF_01513763	Desulfurococcus	821.20	4.38	DNA double-strand break repair Rad50 ATPase
+PGF_01513764	Desulfurococcus	206.00	0.00	DNA repair and recombination protein RadB
+PGF_01513766	Desulfurococcus	244.80	10.80	Diphthine synthase (EC 2.1.1.98)
+PGF_01513767	Desulfurococcus	326.80	9.31	FIG041141: CBS domain protein
+PGF_01513768	Desulfurococcus	171.40	0.55	Formate hydrogenlyase subunit 6
+PGF_01513770	Desulfurococcus	195.80	8.84	HAD-superfamily hydrolase, subfamily IA, variant 3
+PGF_01513772	Desulfurococcus	388.20	1.10	Iron-containing alcohol dehydrogenase
+PGF_01513773	Desulfurococcus	276.20	1.10	FIG049181: CBS-domain-containing protein
+PGF_01513775	Desulfurococcus	181.80	1.10	Exosome complex RNA binding Csl4
+PGF_01513776	Desulfurococcus	382.80	5.85	Radical SAM domain protein
+PGF_01513781	Desulfurococcus	70.40	0.55	SSU ribosomal protein S17e
+PGF_01513783	Desulfurococcus	88.40	0.55	SSU ribosomal protein S25e
+PGF_01513785	Desulfurococcus	161.00	0.00	Substrate-specific component QueT (COG4708) of predicted queuosine-regulated ECF transporter
+PGF_01513786	Desulfurococcus	281.00	0.00	TatD-related deoxyribonuclease
+PGF_01513790	Desulfurococcus	124.00	0.00	DNA-directed RNA polymerase subunit F (EC 2.7.7.6)
+PGF_01513791	Desulfurococcus	230.60	0.55	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine
+PGF_01513792	Desulfurococcus	536.00	60.35	Type II secretion system protein
+PGF_01513796	Desulfurococcus	294.20	4.38	Uncharacterized protein MJ0202
+PGF_01513798	Desulfurococcus	130.20	1.64	Uncharacterized protein MJ0408
+PGF_01513799	Desulfurococcus	117.20	1.64	Uncharacterized protein SSO0107
+PGF_01513801	Desulfurococcus	138.00	0.00	UspA domain protein
+PGF_01513807	Desulfurococcus	295.00	2.74	amidohydrolase-like protein
+PGF_01513808	Desulfurococcus	465.00	2.74	amino acid carrier protein
+PGF_01513809	Desulfurococcus	592.60	7.67	arginine decarboxylase( EC:4.1.1.19 )
+PGF_01513810	Desulfurococcus	254.00	3.39	atp-binding transport protein
+PGF_01513813	Desulfurococcus	49.00	0.00	DNA-directed RNA polymerase subunit P (EC 2.7.7.6)
+PGF_01513814	Desulfurococcus	311.40	4.93	cation diffusion facilitator family transporter
+PGF_01513815	Desulfurococcus	137.80	2.59	conserved protein associated with acetyl-CoA C-acyltransferase and HMGCo
+PGF_01513818	Desulfurococcus	112.80	16.47	deoxyribonuclease/rho motif-related TRAM
+PGF_01513819	Desulfurococcus	183.00	0.00	flavin reductase domain protein, FMN-binding
+PGF_01513820	Desulfurococcus	245.40	0.55	glutaredoxin-like domain protein
+PGF_01513821	Desulfurococcus	624.60	0.55	glycoside hydrolase, family 57
+PGF_01513823	Desulfurococcus	385.00	5.48	hypothetical protein
+PGF_01513824	Desulfurococcus	74.80	0.45	hypothetical protein
+PGF_01513825	Desulfurococcus	120.00	0.00	hypothetical protein
+PGF_01513826	Desulfurococcus	158.60	0.55	Uncharacterized protein SSO0203
+PGF_01513828	Desulfurococcus	210.00	0.00	hypothetical protein
+PGF_01513829	Desulfurococcus	90.00	0.00	hypothetical protein
+PGF_01513830	Desulfurococcus	237.40	0.55	hypothetical protein
+PGF_01513831	Desulfurococcus	101.20	1.10	hypothetical protein
+PGF_01513832	Desulfurococcus	125.40	46.07	Uncharacterized protein SSO0438
+PGF_01513833	Desulfurococcus	222.00	0.00	hypothetical protein
+PGF_01513834	Desulfurococcus	235.00	0.00	Uncharacterized protein SSO0191
+PGF_01513836	Desulfurococcus	228.40	3.51	hypothetical protein
+PGF_01513837	Desulfurococcus	121.20	9.31	hypothetical protein
+PGF_01513838	Desulfurococcus	403.80	9.31	hypothetical protein
+PGF_01513839	Desulfurococcus	213.00	2.24	hypothetical protein
+PGF_01513841	Desulfurococcus	215.60	0.55	hypothetical protein
+PGF_01513842	Desulfurococcus	90.40	8.05	hypothetical protein
+PGF_01513843	Desulfurococcus	180.80	0.45	hypothetical protein
+PGF_01513844	Desulfurococcus	255.00	11.98	hypothetical protein
+PGF_01513845	Desulfurococcus	250.60	0.55	hypothetical protein
+PGF_01513847	Desulfurococcus	867.60	5.18	hypothetical protein
+PGF_01513848	Desulfurococcus	367.80	1.10	hypothetical protein
+PGF_01513852	Desulfurococcus	260.80	4.38	hypothetical protein
+PGF_01513853	Desulfurococcus	133.00	0.00	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+PGF_01513854	Desulfurococcus	254.20	5.76	hypothetical protein
+PGF_01513855	Desulfurococcus	163.60	24.10	hypothetical protein
+PGF_01513857	Desulfurococcus	376.20	5.50	hypothetical protein
+PGF_01513858	Desulfurococcus	401.40	0.55	hypothetical protein
+PGF_01513859	Desulfurococcus	202.40	16.07	hypothetical protein
+PGF_01513860	Desulfurococcus	559.40	0.55	hypothetical protein
+PGF_01513861	Desulfurococcus	434.80	35.24	hypothetical protein
+PGF_01513862	Desulfurococcus	288.40	2.19	hypothetical protein
+PGF_01513863	Desulfurococcus	121.60	47.00	hypothetical protein
+PGF_01513866	Desulfurococcus	221.40	0.55	Uncharacterized protein SSO2401
+PGF_01513867	Desulfurococcus	423.00	0.71	hypothetical protein
+PGF_01513868	Desulfurococcus	308.40	0.55	hypothetical protein
+PGF_01513869	Desulfurococcus	212.80	1.64	hypothetical protein
+PGF_01513870	Desulfurococcus	116.00	0.00	Uncharacterized protein Smar_0293
+PGF_01513872	Desulfurococcus	122.20	3.83	hypothetical protein
+PGF_01513874	Desulfurococcus	247.60	73.57	hypothetical protein
+PGF_01513880	Desulfurococcus	100.00	0.00	hypothetical protein
+PGF_01513881	Desulfurococcus	261.60	0.55	hypothetical protein
+PGF_01513882	Desulfurococcus	63.00	2.74	hypothetical protein
+PGF_01513883	Desulfurococcus	211.80	1.64	hypothetical protein
+PGF_01513885	Desulfurococcus	265.00	37.97	hypothetical protein
+PGF_01513886	Desulfurococcus	97.80	1.64	hypothetical protein
+PGF_01513887	Desulfurococcus	492.20	1.10	hypothetical protein
+PGF_01513889	Desulfurococcus	521.00	5.48	hypothetical protein
+PGF_01513891	Desulfurococcus	1188.20	6.57	hypothetical protein
+PGF_01513892	Desulfurococcus	280.60	2.30	hypothetical protein
+PGF_01513893	Desulfurococcus	154.40	84.43	hypothetical protein
+PGF_01513894	Desulfurococcus	139.00	0.00	hypothetical protein
+PGF_01513895	Desulfurococcus	233.80	7.12	hypothetical protein
+PGF_01513898	Desulfurococcus	399.60	0.55	hypothetical protein
+PGF_01513900	Desulfurococcus	218.40	0.55	hypothetical protein
+PGF_01513901	Desulfurococcus	358.80	1.64	hypothetical protein
+PGF_01513902	Desulfurococcus	438.60	0.55	hypothetical protein
+PGF_01513903	Desulfurococcus	157.60	4.28	hypothetical protein
+PGF_01513904	Desulfurococcus	435.00	1.41	hypothetical protein
+PGF_01513905	Desulfurococcus	504.00	0.00	hypothetical protein
+PGF_01513906	Desulfurococcus	738.00	27.13	hypothetical protein
+PGF_01513907	Desulfurococcus	100.60	0.55	hypothetical protein
+PGF_01513908	Desulfurococcus	263.60	8.76	hypothetical protein
+PGF_01513909	Desulfurococcus	173.80	1.10	hypothetical protein
+PGF_01513911	Desulfurococcus	93.80	10.73	hypothetical protein
+PGF_01513912	Desulfurococcus	166.20	1.64	hypothetical protein
+PGF_01513914	Desulfurococcus	643.00	0.00	4-alpha-glucanotransferase
+PGF_01513916	Desulfurococcus	241.60	0.55	ATPase involved in chromosome partitioning, ParA/MinD family, Mrp homolog
+PGF_01513918	Desulfurococcus	195.40	3.91	Adenylate cyclase (EC 4.6.1.1)
+PGF_01513919	Desulfurococcus	265.40	5.64	Isopentenyl phosphate kinase (EC 2.7.4.26)
+PGF_01513921	Desulfurococcus	249.00	0.00	DNA polymerase sliding clamp protein PCNA
+PGF_01513923	Desulfurococcus	256.20	1.64	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01513924	Desulfurococcus	426.20	0.84	Duplicated ATPase component of energizing module of predicted pyridoxine-related ECF transporter
+PGF_01513925	Desulfurococcus	221.60	0.55	Metallophosphoesterase
+PGF_01513927	Desulfurococcus	196.20	3.83	Methyltransferase type 11
+PGF_01513928	Desulfurococcus	63.00	0.00	Helix-turn-helix, type 11 domain protein
+PGF_01513930	Desulfurococcus	285.80	10.35	MscS Mechanosensitive ion channel
+PGF_01513932	Desulfurococcus	451.80	120.09	NADH dehydrogenase/oxidoreductase
+PGF_01513933	Desulfurococcus	504.40	1.67	NADH dehydrogenase (quinone)( EC:1.6.99.5 )
+PGF_01513936	Desulfurococcus	160.40	0.55	NADH-quinone oxidoreductase, B subunit
+PGF_01513937	Desulfurococcus	337.40	0.55	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_01513939	Desulfurococcus	228.80	1.10	PHP C-terminal domain protein
+PGF_01513940	Desulfurococcus	54.60	0.55	hypothetical protein
+PGF_01513941	Desulfurococcus	243.00	0.00	hypothetical protein
+PGF_01513942	Desulfurococcus	408.80	146.91	hypothetical protein
+PGF_01513944	Desulfurococcus	636.60	3.29	hypothetical protein
+PGF_01513945	Desulfurococcus	594.60	0.55	hypothetical protein
+PGF_01513946	Desulfurococcus	135.40	36.15	hypothetical protein
+PGF_01513947	Desulfurococcus	554.80	1.64	hypothetical protein
+PGF_01513948	Desulfurococcus	226.40	3.65	hypothetical protein
+PGF_01513950	Desulfurococcus	140.80	1.10	hypothetical protein
+PGF_01513951	Desulfurococcus	129.20	3.83	hypothetical protein
+PGF_01513954	Desulfurococcus	302.00	3.67	hypothetical protein
+PGF_01513955	Desulfurococcus	339.40	0.55	hypothetical protein
+PGF_01513957	Desulfurococcus	99.40	0.55	hypothetical protein
+PGF_01513958	Desulfurococcus	224.80	1.10	hypothetical protein
+PGF_01513960	Desulfurococcus	345.00	3.08	hypothetical protein
+PGF_01513961	Desulfurococcus	84.80	0.84	hypothetical protein
+PGF_01513962	Desulfurococcus	339.20	16.32	hypothetical protein
+PGF_01513964	Desulfurococcus	231.00	5.05	hypothetical protein
+PGF_01513969	Desulfurococcus	94.60	9.18	hypothetical protein
+PGF_01513974	Desulfurococcus	113.80	6.06	hypothetical protein
+PGF_01513977	Desulfurococcus	212.20	1.30	hypothetical protein
+PGF_01513978	Desulfurococcus	277.00	2.74	hypothetical protein
+PGF_01513979	Desulfurococcus	232.00	2.24	hypothetical protein
+PGF_01513980	Desulfurococcus	288.00	0.00	hypothetical protein
+PGF_01513981	Desulfurococcus	206.80	1.64	hypothetical protein
+PGF_01513982	Desulfurococcus	86.00	0.00	hypothetical protein
+PGF_01513983	Desulfurococcus	350.80	10.52	hypothetical protein
+PGF_01513985	Desulfurococcus	120.40	1.67	hypothetical protein
+PGF_01513986	Desulfurococcus	151.60	1.34	hypothetical protein
+PGF_01513987	Desulfurococcus	635.60	0.55	hypothetical protein
+PGF_01513988	Desulfurococcus	125.60	2.19	hypothetical protein
+PGF_01513989	Desulfurococcus	130.60	1.34	Uncharacterized protein SSO0261
+PGF_01513990	Desulfurococcus	94.00	0.00	hypothetical protein
+PGF_01513991	Desulfurococcus	102.00	2.24	hypothetical protein
+PGF_01513992	Desulfurococcus	170.00	0.00	hypothetical protein
+PGF_01513993	Desulfurococcus	179.00	3.00	hypothetical protein
+PGF_01513994	Desulfurococcus	84.40	9.53	hypothetical protein
+PGF_01513995	Desulfurococcus	312.20	3.49	hypothetical protein
+PGF_01513997	Desulfurococcus	542.00	2.83	Amino acid permease-associated region
+PGF_01513998	Desulfurococcus	195.00	0.00	hypothetical protein
+PGF_01513999	Desulfurococcus	167.60	0.55	hypothetical protein
+PGF_01514001	Desulfurococcus	152.80	1.79	hypothetical protein
+PGF_01514003	Desulfurococcus	376.20	96.50	hypothetical protein
+PGF_01514004	Desulfurococcus	160.40	0.55	hypothetical protein
+PGF_01514006	Desulfurococcus	193.00	0.00	Adenylate kinase isoenzyme 6 homolog FAP7, plays role in rRNA maturation
+PGF_01514007	Desulfurococcus	101.20	6.57	hypothetical protein
+PGF_01514009	Desulfurococcus	202.60	13.15	hypothetical protein
+PGF_01514011	Desulfurococcus	162.40	2.61	hypothetical protein
+PGF_01514013	Desulfurococcus	445.20	5.22	hypothetical protein
+PGF_01514014	Desulfurococcus	99.40	0.55	hypothetical protein
+PGF_01514015	Desulfurococcus	90.40	2.61	hypothetical protein
+PGF_01514018	Desulfurococcus	147.00	2.83	hypothetical protein
+PGF_01514020	Desulfurococcus	133.60	0.55	hypothetical protein
+PGF_01514021	Desulfurococcus	122.00	0.00	hypothetical protein
+PGF_01514024	Desulfurococcus	81.00	0.00	hypothetical protein
+PGF_01514025	Desulfurococcus	149.00	0.00	Uncharacterized protein SSO0276
+PGF_01514028	Desulfurococcus	203.80	1.64	hypothetical protein
+PGF_01514031	Desulfurococcus	155.00	0.00	hypothetical protein
+PGF_01514033	Desulfurococcus	269.40	16.92	hypothetical protein
+PGF_01514035	Desulfurococcus	177.60	0.55	hypothetical protein
+PGF_01514036	Desulfurococcus	172.00	0.00	hypothetical protein
+PGF_01514037	Desulfurococcus	266.00	0.00	ABC transporter, permease protein
+PGF_01514038	Desulfurococcus	236.40	0.55	hypothetical protein
+PGF_01514041	Desulfurococcus	118.00	2.24	hypothetical protein
+PGF_01514043	Desulfurococcus	121.40	0.55	hypothetical protein
+PGF_01514044	Desulfurococcus	79.00	0.00	hypothetical protein
+PGF_01514046	Desulfurococcus	112.00	0.00	hypothetical protein
+PGF_01514047	Desulfurococcus	241.60	0.55	hypothetical protein
+PGF_01514048	Desulfurococcus	379.80	7.12	hypothetical protein
+PGF_01514052	Desulfurococcus	59.00	0.00	hypothetical protein
+PGF_01514053	Desulfurococcus	134.00	0.00	hypothetical protein
+PGF_01514054	Desulfurococcus	150.20	2.86	Uncharacterized protein MJ1199
+PGF_01514056	Desulfurococcus	207.40	0.55	Uncharacterized protein SSO0619
+PGF_01514057	Desulfurococcus	92.80	1.64	hypothetical protein
+PGF_01514058	Desulfurococcus	122.00	0.00	hypothetical protein
+PGF_01514060	Desulfurococcus	92.40	0.55	hypothetical protein
+PGF_01514061	Desulfurococcus	171.00	2.74	hypothetical protein
+PGF_01514062	Desulfurococcus	89.60	0.55	hypothetical protein
+PGF_01514063	Desulfurococcus	481.80	7.12	hypothetical protein
+PGF_01514065	Desulfurococcus	87.00	0.00	hypothetical protein
+PGF_01514066	Desulfurococcus	85.20	1.10	Uncharacterized protein Saci_0899
+PGF_01514067	Desulfurococcus	113.00	5.48	Uncharacterized PQQ synthase-like protein SSO10285
+PGF_01514069	Desulfurococcus	296.20	1.64	hypothetical protein
+PGF_01514070	Desulfurococcus	74.40	0.55	hypothetical protein
+PGF_01514071	Desulfurococcus	116.00	0.00	hypothetical protein
+PGF_01514072	Desulfurococcus	136.60	0.89	hypothetical protein
+PGF_01514073	Desulfurococcus	304.00	2.83	hypothetical protein
+PGF_01514074	Desulfurococcus	105.00	0.00	Uncharacterized protein SSO0866
+PGF_01514075	Desulfurococcus	142.20	7.16	hypothetical protein
+PGF_01514076	Desulfurococcus	58.60	0.55	hypothetical protein
+PGF_01514079	Desulfurococcus	51.00	0.00	hypothetical protein
+PGF_01514082	Desulfurococcus	55.00	0.00	hypothetical protein
+PGF_01514084	Desulfurococcus	77.00	0.00	hypothetical protein
+PGF_01514085	Desulfurococcus	108.00	1.73	hypothetical protein
+PGF_01514086	Desulfurococcus	184.20	4.38	isochorismatase hydrolase
+PGF_01514087	Desulfurococcus	415.00	0.00	mannose-1-phosphate guanyltransferase
+PGF_01514090	Desulfurococcus	339.00	0.00	hypothetical protein
+PGF_01514093	Desulfurococcus	288.60	97.05	peptidase M19, renal dipeptidase
+PGF_01514094	Desulfurococcus	153.20	1.64	peptidase S26B, signal peptidase
+PGF_01514095	Desulfurococcus	282.00	0.00	phosphate ABC transporter, inner membrane subunit PstA
+PGF_01514097	Desulfurococcus	345.00	2.24	phosphate uptake regulator, PhoU
+PGF_01514098	Desulfurococcus	173.20	1.10	phosphodiesterase, MJ0936 family
+PGF_01514099	Desulfurococcus	264.20	4.38	predicted Co/Zn/Cd cation transporter
+PGF_01514100	Desulfurococcus	154.80	1.64	Prefoldin subunit alpha
+PGF_01514102	Desulfurococcus	221.00	0.00	protein of unknown function DUF47
+PGF_01514103	Desulfurococcus	119.00	0.00	protein of unknown function DUF59
+PGF_01514104	Desulfurococcus	360.60	13.15	protein of unknown function DUF711
+PGF_01514105	Desulfurococcus	156.20	28.00	protein of unknown function UPF0153
+PGF_01514106	Desulfurococcus	412.80	3.83	proton/glutamate symporter
+PGF_01514110	Desulfurococcus	132.40	0.55	putative transcriptional regulator, CopG family
+PGF_01514113	Desulfurococcus	151.60	4.34	ribose-5-phosphate isomerase
+PGF_01604929	Desulfurococcus	233.60	0.55	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01618915	Desulfurococcus	357.80	1.10	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01625234	Desulfurococcus	334.40	0.55	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667671	Desulfurococcus	183.40	2.19	Cytidylate kinase (EC 2.7.4.25)
+PGF_01674551	Desulfurococcus	141.60	0.55	Glycine cleavage system H protein
+PGF_01762565	Desulfurococcus	207.00	0.00	Molybdenum cofactor cytidylyltransferase (EC 2.7.7.76)
+PGF_01771963	Desulfurococcus	482.00	0.00	RNA-2',3'-PO4:RNA-5'-OH ligase
+PGF_01891030	Desulfurococcus	461.00	0.00	Nucleoside ABC transporter, periplasmic nucleoside-binding protein
+PGF_01898497	Desulfurococcus	229.60	6.02	Endonuclease III (EC 4.2.99.18)
+PGF_01899917	Desulfurococcus	500.00	0.00	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_02019462	Desulfurococcus	514.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02104610	Desulfurococcus	208.00	0.00	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases
+PGF_02185217	Desulfurococcus	437.60	3.29	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02210259	Desulfurococcus	286.60	5.81	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_02227611	Desulfurococcus	162.00	0.00	Uncharacterized protein AF2422 with adenosine kinase domain
+PGF_02264561	Desulfurococcus	326.40	7.40	Site-specific tyrosine recombinase
+PGF_02266590	Desulfurococcus	208.40	0.55	Uncharacterized integral membrane protein SSO2786
+PGF_02277521	Desulfurococcus	294.60	0.55	Serine/threonine-protein kinase RIO2 (EC 2.7.11.1)
+PGF_02277940	Desulfurococcus	884.60	1.34	ATP-dependent, 3'-5' DNA helicase with strand annealing activity
+PGF_02278032	Desulfurococcus	178.60	1.52	Uncharacterized C4-type Zn finger protein MJ0530
+PGF_02278091	Desulfurococcus	268.60	2.19	Serine/threonine-protein kinase RIO1 (EC 2.7.11.1)
+PGF_02278106	Desulfurococcus	424.60	0.55	5'->3' exoribonuclease
+PGF_02280075	Desulfurococcus	191.80	3.83	UPF0215 protein MJ1150
+PGF_02280331	Desulfurococcus	162.20	1.10	Uncharacterized HTH-type transcriptional regulator MJ0586
+PGF_02280843	Desulfurococcus	192.00	0.00	Small heat shock protein AF1296, Hsp20 family
+PGF_02281258	Desulfurococcus	170.00	0.00	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase (EC 2.7.7.67)
+PGF_02283727	Desulfurococcus	141.00	0.00	Eukaryotic translation initiation factor 2 beta subunit
+PGF_02284545	Desulfurococcus	86.00	0.00	LSU ribosomal protein L18Ae
+PGF_02330496	Desulfurococcus	226.60	0.55	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346768	Desulfurococcus	897.20	24.15	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02357764	Desulfurococcus	126.80	5.36	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02382389	Desulfurococcus	307.60	0.55	Ribokinase (EC 2.7.1.15)
+PGF_02405545	Desulfurococcus	281.60	45.62	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02473279	Desulfurococcus	225.60	7.40	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02516909	Desulfurococcus	435.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02517281	Desulfurococcus	252.00	0.00	SSU ribosomal protein S4e
+PGF_02517391	Desulfurococcus	261.00	0.00	Uncharacterized P-loop-containing NTP hydrolase SSO1046
+PGF_02635429	Desulfurococcus	171.40	2.19	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02797400	Desulfurococcus	487.60	3.29	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02866413	Desulfurococcus	440.20	16.35	Rhomboid family protein
+PGF_02890229	Desulfurococcus	501.80	1.79	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02894747	Desulfurococcus	230.00	0.00	Uncharacterized protein SSO0494
+PGF_02895999	Desulfurococcus	611.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_02897110	Desulfurococcus	201.00	0.00	6-phospho-3-hexuloisomerase (EC 5.3.1.27)
+PGF_02912272	Desulfurococcus	157.20	1.10	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Desulfurococcus	224.60	0.55	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Desulfurococcus	306.40	3.29	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02937881	Desulfurococcus	314.20	1.64	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+PGF_02960761	Desulfurococcus	407.00	0.00	Iron-sulfur cluster assembly protein SufB
+PGF_02967322	Desulfurococcus	121.80	1.10	hypothetical protein
+PGF_02977685	Desulfurococcus	426.60	0.55	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_02982550	Desulfurococcus	238.60	0.55	Ser-tRNA(Ala) deacylase @ Gly-tRNA(Ala) deacylase
+PGF_02995302	Desulfurococcus	303.40	6.02	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_03024492	Desulfurococcus	164.80	24.48	Peptide alpha-N-acetyltransferase (EC 2.3.1.88)
+PGF_03029062	Desulfurococcus	299.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03047886	Desulfurococcus	91.60	17.08	Uncharacterized transcriptional regulator SSO5522, AsnC family
+PGF_03051427	Desulfurococcus	289.00	2.74	3-hydroxyisobutyrate dehydrogenase family protein
+PGF_03055704	Desulfurococcus	158.80	9.93	Endonuclease III (EC 4.2.99.18)
+PGF_03055715	Desulfurococcus	375.00	0.00	Nucleotidyl transferase
+PGF_03055955	Desulfurococcus	265.00	0.00	Uncharacterized radical SAM domain protein SSO2744
+PGF_03058234	Desulfurococcus	272.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96), archaeal type
+PGF_03059626	Desulfurococcus	96.80	1.79	Transcription factor S-related protein 2
+PGF_03059834	Desulfurococcus	145.20	1.10	Uncharacterized protein MJ0497
+PGF_03059837	Desulfurococcus	251.60	4.93	Uncharacterized protein SSO0109
+PGF_03060007	Desulfurococcus	322.60	7.67	hypothetical protein
+PGF_03060581	Desulfurococcus	296.00	8.22	UPF0282 protein MJ1629
+PGF_03060918	Desulfurococcus	410.40	15.87	Uncharacterized protein SSO2743
+PGF_03061361	Desulfurococcus	186.80	1.64	Archaemetzincin Zn-dependent protease
+PGF_03104567	Desulfurococcus	218.00	0.00	Trk potassium uptake system protein TrkA
+PGF_03110928	Desulfurococcus	386.60	0.55	AAA family ATPase, p60 katanin
+PGF_03140041	Desulfurococcus	137.60	7.60	CBS domain protein
+PGF_03142548	Desulfurococcus	286.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_03154343	Desulfurococcus	133.80	1.10	Cytidine deaminase (EC 3.5.4.5)
+PGF_03177252	Desulfurococcus	85.00	0.00	Uncharacterized MazG-like protein SSO12199
+PGF_03318456	Desulfurococcus	479.20	8.53	Trk potassium uptake system protein TrkH
+PGF_03368816	Desulfurococcus	138.00	0.00	Uncharacterized protein AF0741 (similar to YjbQ)
+PGF_03448459	Desulfurococcus	122.00	0.00	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_03590193	Desulfurococcus	448.00	0.00	Serine hydroxymethyltransferase (tetrahydromethanopterin-dependent)
+PGF_03609651	Desulfurococcus	504.40	8.76	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03676805	Desulfurococcus	120.00	0.00	UPF0148 protein SSO0781
+PGF_03676812	Desulfurococcus	473.20	4.87	RNA-binding protein AU-1
+PGF_03676895	Desulfurococcus	313.00	1.73	Uncharacterized molybdopterin-containing protein SSO3201
+PGF_03683488	Desulfurococcus	190.40	2.19	2'-5' RNA ligase
+PGF_03757178	Desulfurococcus	457.60	13.61	4-aminobutyrate aminotransferase
+PGF_03778780	Desulfurococcus	296.00	0.00	Signal recognition particle receptor FtsY
+PGF_03797303	Desulfurococcus	606.00	0.00	Adenine deaminase (EC 3.5.4.2)
+PGF_03797809	Desulfurococcus	409.60	15.95	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_03803024	Desulfurococcus	462.00	0.00	Pyruvate carboxylase subunit B (EC 6.4.1.1)
+PGF_03958563	Desulfurococcus	230.60	0.55	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_03988398	Desulfurococcus	624.80	12.83	hypothetical protein
+PGF_04010672	Desulfurococcus	342.80	1.10	ABC transporter, permease protein 1 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04055837	Desulfurococcus	306.00	0.00	ABC transporter, permease protein 2 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04345693	Desulfurococcus	430.60	4.93	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04408956	Desulfurococcus	545.00	0.00	Hydrogenase-4 component G
+PGF_04493258	Desulfurococcus	291.60	4.93	Cobalt-zinc-cadmium resistance protein
+PGF_04730942	Desulfurococcus	233.80	1.10	Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter
+PGF_04737739	Desulfurococcus	132.80	6.26	LSU ribosomal protein L32e
+PGF_04815798	Desulfurococcus	315.20	2.05	Mevalonate kinase (EC 2.7.1.36)
+PGF_04960746	Desulfurococcus	219.20	10.83	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04991091	Desulfurococcus	670.40	12.24	Bipolar DNA helicase HerA
+PGF_05135220	Desulfurococcus	969.00	2.74	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05366249	Desulfurococcus	437.40	2.19	Radical SAM domain protein
+PGF_05401443	Desulfurococcus	456.60	1.34	Digeranylgeranylglycerophospholipid reductase
+PGF_05463808	Desulfurococcus	275.00	0.00	NAD kinase (EC 2.7.1.23)
+PGF_05493552	Desulfurococcus	74.40	0.55	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05657253	Desulfurococcus	241.80	1.64	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05773989	Desulfurococcus	394.20	4.92	L-carnitine dehydratase/bile acid-inducible protein F
+PGF_05847461	Desulfurococcus	332.60	44.37	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05971611	Desulfurococcus	405.60	2.07	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06211427	Desulfurococcus	273.00	0.00	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06213055	Desulfurococcus	250.00	0.00	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Desulfurococcus	535.60	16.30	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06333498	Desulfurococcus	288.00	0.00	Spermidine synthase (EC 2.5.1.16)
+PGF_06426254	Desulfurococcus	310.40	0.55	beta-ribofuranosylaminobenzene 5'-phosphate synthase (EC 2.4.2.54)
+PGF_06461498	Desulfurococcus	224.20	0.45	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Desulfurococcus	332.60	6.02	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06646425	Desulfurococcus	503.20	49.14	MATE efflux family protein
+PGF_06767187	Desulfurococcus	346.40	7.67	Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)
+PGF_06900368	Desulfurococcus	240.60	1.34	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_06947517	Desulfurococcus	212.20	3.56	Uncharacterized protein MJ0175
+PGF_06952714	Desulfurococcus	116.00	0.00	Translation initiation factor 1A
+PGF_06976944	Desulfurococcus	241.40	0.55	Efflux ABC transporter, ATP-binding protein
+PGF_07263029	Desulfurococcus	334.40	2.07	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)
+PGF_08082758	Desulfurococcus	336.00	2.74	Threonine dehydrogenase and related Zn-dependent dehydrogenases

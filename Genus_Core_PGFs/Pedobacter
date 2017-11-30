@@ -1,0 +1,632 @@
+PGF_00000416	Pedobacter	349.46	10.55	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000961	Pedobacter	154.21	18.05	FIG00907020: hypothetical protein
+PGF_00000976	Pedobacter	114.73	5.89	FIG00907621: hypothetical protein
+PGF_00001002	Pedobacter	364.63	52.00	FIG00909145: hypothetical protein
+PGF_00001679	Pedobacter	382.81	46.30	FIG01093604: hypothetical protein
+PGF_00001681	Pedobacter	939.88	104.25	FIG01093685: hypothetical protein
+PGF_00002141	Pedobacter	219.88	9.49	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00002867	Pedobacter	364.90	0.58	FIG024850: short form Mg-chelase associated protein with vWA domain
+PGF_00003504	Pedobacter	243.07	28.04	FIG137478: Hypothetical protein
+PGF_00003516	Pedobacter	363.79	19.97	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003525	Pedobacter	254.54	2.79	FIG137884: hypothetical protein
+PGF_00003750	Pedobacter	164.26	21.58	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004323	Pedobacter	116.49	7.76	Ferredoxin
+PGF_00004541	Pedobacter	162.45	3.29	Ferric uptake regulation protein FUR
+PGF_00004671	Pedobacter	669.84	121.03	Ferrous iron transport protein B
+PGF_00006394	Pedobacter	359.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Pedobacter	467.89	13.05	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006653	Pedobacter	420.17	5.56	Gate supefamily SpmA/SpmB domains protein
+PGF_00006935	Pedobacter	508.40	14.05	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007024	Pedobacter	423.67	52.08	GTP-binding protein EngA
+PGF_00007026	Pedobacter	206.52	6.74	GTP-binding protein EngB
+PGF_00007027	Pedobacter	294.81	3.13	GTP-binding protein Era
+PGF_00007028	Pedobacter	397.54	5.03	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Pedobacter	600.35	8.23	GTP-binding protein TypA/BipA
+PGF_00007057	Pedobacter	456.33	8.46	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Pedobacter	238.02	9.43	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007525	Pedobacter	323.84	3.95	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007607	Pedobacter	111.83	4.90	GldC
+PGF_00007632	Pedobacter	301.18	11.46	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007971	Pedobacter	418.50	21.86	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007988	Pedobacter	539.23	62.76	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008106	Pedobacter	285.48	49.55	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Pedobacter	1412.45	324.02	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008164	Pedobacter	457.33	9.79	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008261	Pedobacter	725.71	11.53	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+PGF_00008326	Pedobacter	555.74	5.37	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Pedobacter	406.07	16.63	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Pedobacter	493.81	71.47	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008611	Pedobacter	329.88	5.46	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Pedobacter	959.69	3.37	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Pedobacter	209.79	2.37	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008876	Pedobacter	470.40	3.78	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Pedobacter	178.14	4.28	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009533	Pedobacter	248.12	4.01	Glycosyl transferase, group 2 family
+PGF_00009966	Pedobacter	512.24	25.89	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Pedobacter	234.21	1.55	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Pedobacter	734.98	8.69	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Pedobacter	189.79	3.20	Guanylate kinase (EC 2.7.4.8)
+PGF_00010894	Pedobacter	214.00	9.14	Haloacid dehalogenase-like hydrolase
+PGF_00011081	Pedobacter	822.60	15.75	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Pedobacter	289.88	19.32	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011530	Pedobacter	321.00	25.28	Heptaprenyl diphosphate synthase (all-trans) (EC 2.5.1.30)
+PGF_00011979	Pedobacter	430.44	5.60	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Pedobacter	375.60	4.85	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012264	Pedobacter	333.77	40.09	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012356	Pedobacter	311.62	4.62	Homoserine kinase (EC 2.7.1.39)
+PGF_00013003	Pedobacter	621.84	83.16	Bis-ABC ATPase YheS
+PGF_00013144	Pedobacter	183.23	5.37	Terminal oxidase biogenesis protein CtaM, putative heme A, heme O chaperone
+PGF_00013492	Pedobacter	181.14	2.77	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Pedobacter	495.77	65.80	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013800	Pedobacter	288.17	4.19	AMP nucleosidase (EC 3.2.2.4)
+PGF_00014051	Pedobacter	255.90	33.62	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Pedobacter	480.28	45.96	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Pedobacter	374.55	17.70	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Pedobacter	70.12	2.06	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Pedobacter	294.24	1.92	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015523	Pedobacter	137.24	2.26	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015601	Pedobacter	429.93	7.68	Iron-sulphur-binding reductase
+PGF_00015718	Pedobacter	1103.23	133.11	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Pedobacter	476.74	41.23	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016047	Pedobacter	334.93	22.39	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016325	Pedobacter	842.74	17.95	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Pedobacter	170.86	5.39	LSU ribosomal protein L10p (P0)
+PGF_00016338	Pedobacter	397.05	44.45	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Pedobacter	122.02	0.15	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Pedobacter	151.12	6.31	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Pedobacter	135.49	17.46	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Pedobacter	179.28	17.64	LSU ribosomal protein L17p
+PGF_00016353	Pedobacter	116.74	2.35	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Pedobacter	233.24	5.60	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Pedobacter	113.81	3.22	LSU ribosomal protein L20p
+PGF_00016368	Pedobacter	115.74	15.27	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Pedobacter	96.10	0.62	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Pedobacter	112.31	1.47	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Pedobacter	134.93	13.94	LSU ribosomal protein L27p
+PGF_00016393	Pedobacter	273.98	0.15	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Pedobacter	58.46	2.40	LSU ribosomal protein L30p (L7e)
+PGF_00016416	Pedobacter	57.88	6.25	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Pedobacter	65.98	0.16	LSU ribosomal protein L35p
+PGF_00016431	Pedobacter	205.29	1.37	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Pedobacter	208.81	1.23	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Pedobacter	188.12	1.85	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Pedobacter	184.81	1.23	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Pedobacter	124.51	0.81	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Pedobacter	147.05	0.31	LSU ribosomal protein L9p
+PGF_00016850	Pedobacter	363.59	5.20	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)
+PGF_00016919	Pedobacter	214.91	11.29	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Pedobacter	371.10	4.98	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Pedobacter	237.23	30.15	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017464	Pedobacter	216.67	5.72	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Pedobacter	289.60	22.94	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017514	Pedobacter	352.32	5.63	Lmo0572 protein
+PGF_00018577	Pedobacter	496.71	4.56	Magnesium chelatase, subunit ChlI (EC 6.6.1.1)
+PGF_00018952	Pedobacter	313.36	10.90	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00020150	Pedobacter	449.34	9.89	Membrane-associated zinc metalloprotease
+PGF_00020172	Pedobacter	265.37	32.34	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Pedobacter	147.24	9.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Pedobacter	251.52	10.62	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020793	Pedobacter	182.07	0.35	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020984	Pedobacter	286.19	38.87	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021217	Pedobacter	495.00	60.86	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022540	Pedobacter	488.38	8.08	Molybdopterin oxidoreductase
+PGF_00022545	Pedobacter	423.76	36.73	Molybdopterin oxidoreductase subunit, predicted; chaperone protein HtpG
+PGF_00022548	Pedobacter	1014.02	8.01	Molybdopterin oxidoreductase, iron-sulfur binding subunit (EC 1.2.7.-)
+PGF_00022605	Pedobacter	234.83	15.23	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00023591	Pedobacter	333.17	4.90	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Pedobacter	329.26	8.83	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023752	Pedobacter	458.45	54.58	N-acetylglucosamine deacetylase (EC 3.5.1.-) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_00023816	Pedobacter	377.12	26.65	N-acetylglucosaminyltransferase (EC 2.4.1.-)
+PGF_00023933	Pedobacter	321.15	2.22	N-acetylornithine carbamoyltransferase (EC 2.1.3.9)
+PGF_00024273	Pedobacter	164.00	5.96	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Pedobacter	378.14	5.11	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Pedobacter	543.70	17.68	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024314	Pedobacter	515.49	5.87	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024509	Pedobacter	473.78	1.75	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024692	Pedobacter	169.50	3.51	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Pedobacter	159.61	19.79	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00025215	Pedobacter	202.33	19.28	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025575	Pedobacter	428.26	59.75	Nicotinamide mononucleotide adenylyltransferase
+PGF_00025639	Pedobacter	385.79	38.23	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00025665	Pedobacter	182.93	2.61	NifU-like protein
+PGF_00026279	Pedobacter	306.00	54.76	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Pedobacter	194.31	8.78	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Pedobacter	267.36	5.98	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Pedobacter	280.88	9.68	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Pedobacter	266.43	8.71	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026786	Pedobacter	386.45	55.14	Acetylornithine aminotransferase (EC 2.6.1.11) (ACOAT)
+PGF_00026887	Pedobacter	568.80	5.03	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00027700	Pedobacter	308.43	7.33	Outer membrane assembly lipoprotein YfiO
+PGF_00028336	Pedobacter	829.98	108.14	Outer membrane protein assembly factor YaeT
+PGF_00028559	Pedobacter	321.20	3.95	Oxidoreductase
+PGF_00029917	Pedobacter	274.20	29.83	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Pedobacter	354.90	21.01	Peptide chain release factor 1
+PGF_00030643	Pedobacter	528.10	5.48	Peptide chain release factor 3
+PGF_00033095	Pedobacter	783.51	101.87	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Pedobacter	320.16	10.03	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Pedobacter	311.76	10.11	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Pedobacter	413.67	10.74	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Pedobacter	841.09	109.90	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033479	Pedobacter	578.10	7.81	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Pedobacter	396.74	1.78	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Pedobacter	260.31	4.67	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Pedobacter	250.44	3.15	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033877	Pedobacter	154.00	1.85	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Pedobacter	198.19	4.06	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Pedobacter	414.05	50.57	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Pedobacter	313.52	12.24	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Pedobacter	242.93	27.60	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Pedobacter	393.52	9.18	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033968	Pedobacter	192.86	7.87	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034027	Pedobacter	252.95	8.57	Phosphosulfolactate synthase (EC 4.4.1.19)
+PGF_00034776	Pedobacter	713.60	2.31	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Pedobacter	316.71	23.33	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035091	Pedobacter	327.56	4.46	Possible acyl protein synthase/acyl-CoA reductase-like protein
+PGF_00035378	Pedobacter	438.00	0.00	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035547	Pedobacter	118.71	3.66	Predicted CoA-binding domain COG1832
+PGF_00035721	Pedobacter	437.49	53.23	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035831	Pedobacter	235.05	3.84	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00036172	Pedobacter	454.71	10.42	Lipopolysaccharide export system permease protein LptF
+PGF_00036580	Pedobacter	104.07	9.37	Protein translocase subunit YajC
+PGF_00036810	Pedobacter	428.98	61.54	Probable L-lysine-epsilon aminotransferase (EC 2.6.1.36) (L-lysine aminotransferase) (Lysine 6-aminotransferase)
+PGF_00036908	Pedobacter	318.10	37.05	Probable acyl-ACP desaturase, Stearoyl-ACP desaturase (EC 1.14.19.2)
+PGF_00037171	Pedobacter	337.72	32.99	Probable low-affinity inorganic phosphate transporter
+PGF_00037586	Pedobacter	489.83	8.28	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037937	Pedobacter	166.49	44.49	Protein PhnA
+PGF_00038367	Pedobacter	133.36	8.86	Protein of unknown function DUF55
+PGF_00038653	Pedobacter	979.17	49.06	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038879	Pedobacter	181.59	5.96	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00038986	Pedobacter	271.20	0.64	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039342	Pedobacter	268.36	15.72	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039710	Pedobacter	264.53	6.67	Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00040578	Pedobacter	256.00	4.62	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00045833	Pedobacter	217.17	3.54	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Pedobacter	239.10	1.68	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045941	Pedobacter	748.65	51.03	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00046060	Pedobacter	207.14	3.35	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Pedobacter	282.74	5.31	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Pedobacter	334.02	6.89	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046403	Pedobacter	478.40	58.59	RNA polymerase sigma-54 factor RpoN
+PGF_00047078	Pedobacter	338.19	2.86	RecA protein
+PGF_00047093	Pedobacter	477.66	4.35	RecD-like DNA helicase Atu2026
+PGF_00047672	Pedobacter	818.37	22.20	Alpha-glucosidase, family 31 of glycosyl hydrolases, COG1501
+PGF_00047815	Pedobacter	504.88	64.36	Response regulator
+PGF_00048139	Pedobacter	229.32	2.08	Response regulator receiver:Transcriptional regulatory protein, C-terminal
+PGF_00048331	Pedobacter	304.62	38.70	Rhodanese domain protein UPF0176, Firmicutes subgroup
+PGF_00048480	Pedobacter	195.45	3.09	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Pedobacter	156.71	3.59	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Pedobacter	202.30	2.26	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048594	Pedobacter	300.95	6.96	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048630	Pedobacter	792.40	6.41	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048632	Pedobacter	316.21	41.40	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048782	Pedobacter	313.98	4.60	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048836	Pedobacter	321.57	32.30	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Pedobacter	280.26	3.88	Ribosomal protein L11 methyltransferase
+PGF_00048846	Pedobacter	430.95	52.03	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Pedobacter	114.05	3.22	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Pedobacter	185.74	3.44	Ribosome recycling factor
+PGF_00048928	Pedobacter	309.51	11.99	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Pedobacter	133.76	3.77	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Pedobacter	126.98	6.65	Ribosome-binding factor A
+PGF_00048985	Pedobacter	225.88	9.61	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Pedobacter	410.45	43.06	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Pedobacter	349.65	15.37	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049415	Pedobacter	411.98	10.67	Alternative cytochrome c oxidase polypeptide CoxM (EC 1.9.3.1)
+PGF_00049431	Pedobacter	619.58	16.45	Alternative cytochrome c oxidase polypeptide CoxN (EC 1.9.3.1)
+PGF_00049532	Pedobacter	232.88	6.53	Alternative cytochrome c oxidase polypeptide CoxP (EC 1.9.3.1)
+PGF_00049827	Pedobacter	262.62	6.92	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Pedobacter	101.05	0.31	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Pedobacter	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Pedobacter	128.24	18.06	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Pedobacter	125.24	2.86	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Pedobacter	88.93	3.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Pedobacter	95.19	3.41	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Pedobacter	185.19	29.19	SSU ribosomal protein S16p
+PGF_00049854	Pedobacter	84.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Pedobacter	86.71	1.85	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Pedobacter	79.76	15.99	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Pedobacter	280.29	10.49	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Pedobacter	202.10	0.62	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Pedobacter	171.86	0.93	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Pedobacter	117.58	6.04	SSU ribosomal protein S6p
+PGF_00049904	Pedobacter	151.79	8.17	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Pedobacter	133.57	7.35	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Pedobacter	128.07	0.34	SSU ribosomal protein S9p (S16e)
+PGF_00050995	Pedobacter	601.91	113.96	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051525	Pedobacter	424.28	5.23	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051909	Pedobacter	213.90	1.98	Siderophore (Surfactin) biosynthesis regulatory protein
+PGF_00052210	Pedobacter	589.45	6.24	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Pedobacter	446.07	1.45	Signal recognition particle protein Ffh
+PGF_00052705	Pedobacter	144.38	9.12	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Pedobacter	288.77	38.10	Site-specific tyrosine recombinase XerD
+PGF_00053078	Pedobacter	391.14	48.90	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00053364	Pedobacter	547.83	82.23	Sodium iodide symporter
+PGF_00053770	Pedobacter	353.95	34.56	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053991	Pedobacter	475.98	91.55	Stage 0 sporulation protein YaaT
+PGF_00054323	Pedobacter	206.88	3.93	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054528	Pedobacter	380.68	70.59	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054959	Pedobacter	417.17	9.02	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Pedobacter	300.90	3.36	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00054974	Pedobacter	520.80	71.52	Na(+)-dependent bicarbonate transporter BicA
+PGF_00055354	Pedobacter	448.44	39.08	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055649	Pedobacter	982.39	151.11	TPR-domain-containing protein
+PGF_00055966	Pedobacter	395.57	16.28	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Pedobacter	346.21	36.51	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056514	Pedobacter	810.05	18.10	Thiamin-regulated outer membrane receptor Omr1
+PGF_00056662	Pedobacter	330.37	4.36	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Pedobacter	468.74	8.45	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Pedobacter	189.12	8.30	Thymidine kinase (EC 2.7.1.21)
+PGF_00057270	Pedobacter	987.80	64.91	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Pedobacter	148.85	6.79	Transamidase GatB domain protein
+PGF_00057483	Pedobacter	566.29	37.93	Transcription termination factor Rho
+PGF_00057485	Pedobacter	413.27	14.98	Transcription termination protein NusA
+PGF_00057488	Pedobacter	296.40	42.92	Transcription termination protein NusB
+PGF_00060230	Pedobacter	235.34	8.37	Transcriptional regulatory protein rprY
+PGF_00060409	Pedobacter	703.47	1.20	Translation elongation factor G
+PGF_00060414	Pedobacter	592.95	11.68	Translation elongation factor LepA
+PGF_00060427	Pedobacter	280.43	4.69	Translation elongation factor Ts
+PGF_00060428	Pedobacter	381.18	51.73	Translation elongation factor Tu
+PGF_00060431	Pedobacter	71.51	3.12	Translation initiation factor 1
+PGF_00060481	Pedobacter	113.37	14.35	Translation initiation factor SUI1-related protein
+PGF_00061607	Pedobacter	127.95	0.49	ApaG protein
+PGF_00061919	Pedobacter	539.88	14.43	Apolipoprotein N-acyltransferase
+PGF_00061922	Pedobacter	409.05	50.53	Tripeptide aminopeptidase (EC 3.4.11.4)
+PGF_00062023	Pedobacter	250.10	34.25	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Pedobacter	409.76	56.04	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Pedobacter	331.70	5.13	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Pedobacter	423.26	26.51	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Pedobacter	251.79	7.37	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063948	Pedobacter	350.47	27.26	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Pedobacter	330.28	47.32	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Pedobacter	369.07	3.90	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Pedobacter	441.23	55.01	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064422	Pedobacter	612.56	8.77	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00064942	Pedobacter	52.71	1.83	Uncharacterized protein Fjoh_4981, DUF4295-containing
+PGF_00065887	Pedobacter	239.65	27.58	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Pedobacter	215.02	3.86	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Pedobacter	181.90	1.32	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Pedobacter	225.16	20.66	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066270	Pedobacter	341.88	3.36	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066291	Pedobacter	255.02	2.98	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066453	Pedobacter	890.83	13.80	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Pedobacter	481.83	3.55	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066906	Pedobacter	305.79	27.78	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Pedobacter	327.95	13.31	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067370	Pedobacter	799.11	111.87	Aspartokinase (EC 2.7.2.4) / Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00067521	Pedobacter	420.68	19.01	Zinc protease
+PGF_00070779	Pedobacter	376.63	5.33	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54) / Chorismate mutase I (EC 5.4.99.5)
+PGF_00081746	Pedobacter	379.73	1.14	hypothetical protein
+PGF_00084324	Pedobacter	257.09	33.50	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00113984	Pedobacter	184.05	23.15	Flavin prenyltransferase UbiX
+PGF_00114419	Pedobacter	179.56	9.20	hypothetical protein
+PGF_00122010	Pedobacter	133.80	9.76	hypothetical protein
+PGF_00174291	Pedobacter	72.10	5.19	hypothetical protein
+PGF_00225222	Pedobacter	309.07	29.24	hypothetical protein
+PGF_00261173	Pedobacter	346.61	54.83	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00266965	Pedobacter	186.48	23.70	hypothetical protein
+PGF_00376190	Pedobacter	123.73	7.92	hypothetical protein
+PGF_00381334	Pedobacter	109.07	4.41	hypothetical protein
+PGF_00390095	Pedobacter	394.23	42.90	hypothetical protein
+PGF_00396146	Pedobacter	131.20	4.86	hypothetical protein
+PGF_00404078	Pedobacter	158.05	1.25	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Pedobacter	437.37	57.51	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00406692	Pedobacter	912.93	119.81	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408485	Pedobacter	340.02	38.53	putative lipoprotein
+PGF_00411216	Pedobacter	398.74	25.41	ABC transporter, permease protein
+PGF_00411399	Pedobacter	413.88	2.93	putative zinc protease
+PGF_00411811	Pedobacter	367.98	75.52	response regulator receiver sensor signal transduction histidine kinase
+PGF_00412165	Pedobacter	789.90	87.68	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4) / Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00412328	Pedobacter	451.50	54.84	sigma-54 dependent transcriptional regulator/response regulator
+PGF_00412368	Pedobacter	174.51	18.11	sigma-70 region 2 domain protein
+PGF_00413208	Pedobacter	225.33	4.79	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413295	Pedobacter	244.43	12.59	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Pedobacter	428.12	55.23	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Pedobacter	619.86	6.24	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413351	Pedobacter	156.80	1.90	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413359	Pedobacter	177.78	6.85	tRNA/rRNA methyltransferase
+PGF_00413554	Pedobacter	151.48	8.17	tmRNA-binding protein SmpB
+PGF_00414926	Pedobacter	468.79	10.90	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415346	Pedobacter	386.07	45.88	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415486	Pedobacter	156.95	0.31	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00416115	Pedobacter	293.60	3.85	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Pedobacter	525.07	58.04	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Pedobacter	947.21	22.84	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416424	Pedobacter	395.29	8.93	Carbapenem antibiotics biosynthesis protein carD
+PGF_00417429	Pedobacter	383.55	22.73	Chaperone protein DnaJ
+PGF_00417577	Pedobacter	140.19	4.98	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417810	Pedobacter	243.39	5.38	Chorismate dehydratase (EC 4.2.1.151)
+PGF_00417840	Pedobacter	363.79	1.57	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Pedobacter	171.18	21.18	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00419420	Pedobacter	461.66	29.23	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419627	Pedobacter	294.07	32.69	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Pedobacter	191.71	6.83	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419900	Pedobacter	374.76	4.28	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00420048	Pedobacter	401.19	6.08	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420121	Pedobacter	227.10	4.80	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420481	Pedobacter	222.24	9.67	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420492	Pedobacter	141.27	12.04	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_00420496	Pedobacter	820.80	3.38	Cytochrome c heme lyase subunit CcmF
+PGF_00420798	Pedobacter	330.33	8.62	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Pedobacter	321.02	8.03	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420994	Pedobacter	647.05	83.28	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421071	Pedobacter	149.00	5.21	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421164	Pedobacter	322.07	14.41	DNA Pol III Epsilon Chain
+PGF_00421498	Pedobacter	359.33	42.79	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421624	Pedobacter	561.83	9.45	DNA polymerase X family
+PGF_00421733	Pedobacter	367.02	1.91	DNA recombination and repair protein RecF
+PGF_00421792	Pedobacter	458.63	9.83	DNA repair protein RadA
+PGF_00422271	Pedobacter	317.91	48.34	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422287	Pedobacter	105.12	11.58	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_00422912	Pedobacter	204.37	1.88	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+PGF_00423089	Pedobacter	349.45	6.74	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Pedobacter	258.76	30.68	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Pedobacter	414.16	53.70	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Pedobacter	461.59	47.48	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423449	Pedobacter	281.56	3.01	1,4-dihydroxy-6-naphtoate synthase
+PGF_00423533	Pedobacter	269.45	6.71	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423723	Pedobacter	126.56	3.07	DnaK suppressor protein, putative
+PGF_00423732	Pedobacter	282.32	1.29	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_00423739	Pedobacter	246.10	5.76	Dolichol-phosphate mannosyltransferase
+PGF_00424237	Pedobacter	140.05	6.15	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424967	Pedobacter	934.98	2.47	Excinuclease ABC subunit A paralog in greater Bacteroides group
+PGF_00424971	Pedobacter	584.77	67.30	Excinuclease ABC subunit C
+PGF_00425679	Pedobacter	196.21	29.83	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Pedobacter	239.86	5.52	Probable transcriptional regulatory protein YebC
+PGF_00425786	Pedobacter	519.41	8.01	Ribonuclease Y
+PGF_00425993	Pedobacter	388.70	7.27	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Pedobacter	341.95	48.19	FIG004453: protein YceG like
+PGF_00426044	Pedobacter	312.95	26.12	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426236	Pedobacter	652.81	45.20	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426722	Pedobacter	1233.45	27.08	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Pedobacter	164.26	6.27	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Pedobacter	278.63	6.11	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00500015	Pedobacter	291.32	5.72	pyridoxal phosphate-dependent deaminase, putative
+PGF_00502238	Pedobacter	325.29	39.10	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00586261	Pedobacter	188.49	0.60	hypothetical protein
+PGF_00601220	Pedobacter	219.44	25.78	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+PGF_00602314	Pedobacter	108.59	1.34	hypothetical protein
+PGF_00607729	Pedobacter	426.12	46.76	ATP-dependent RNA helicase BT1154
+PGF_00618776	Pedobacter	350.86	6.13	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Pedobacter	528.83	2.27	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Pedobacter	304.88	19.16	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00650260	Pedobacter	132.78	3.56	HIT family protein
+PGF_00655358	Pedobacter	485.21	1.88	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Pedobacter	444.29	59.41	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Pedobacter	216.95	9.67	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00664069	Pedobacter	449.91	13.26	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665441	Pedobacter	697.23	2.93	Ferredoxin--sulfite reductase (EC 1.8.7.1)
+PGF_00665875	Pedobacter	123.55	5.21	Ribosomal silencing factor RsfA
+PGF_00717495	Pedobacter	422.86	36.98	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00725839	Pedobacter	885.07	23.46	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Pedobacter	826.74	133.15	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00827555	Pedobacter	594.40	58.40	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00827693	Pedobacter	596.59	3.47	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_00831446	Pedobacter	363.98	28.17	Permease
+PGF_00853393	Pedobacter	289.79	4.39	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00870026	Pedobacter	240.22	2.99	Zinc transporter, ZIP family
+PGF_00900256	Pedobacter	435.83	2.06	Threonine synthase (EC 4.2.3.1)
+PGF_00905572	Pedobacter	683.39	16.53	TonB-dependent receptor
+PGF_00908360	Pedobacter	243.76	4.82	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Pedobacter	335.48	5.32	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Pedobacter	446.50	7.34	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Pedobacter	595.10	18.64	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00934722	Pedobacter	117.07	3.24	Protein translocase membrane subunit SecG
+PGF_00950554	Pedobacter	670.19	67.32	Excinuclease ABC subunit B
+PGF_00957419	Pedobacter	138.81	2.63	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Pedobacter	337.73	6.31	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_01008498	Pedobacter	137.98	12.01	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01010402	Pedobacter	467.73	4.37	TPR-repeat-containing protein?
+PGF_01028639	Pedobacter	271.22	1.01	Short-chain dehydrogenase
+PGF_01037254	Pedobacter	226.34	25.72	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01065911	Pedobacter	219.78	2.12	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01079016	Pedobacter	303.39	3.72	Chromosome (plasmid) partitioning protein ParB
+PGF_01124177	Pedobacter	416.79	31.54	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Pedobacter	407.35	60.19	Rod shape-determining protein RodA
+PGF_01172485	Pedobacter	451.12	5.40	Cell division protein FtsA
+PGF_01174739	Pedobacter	255.43	4.45	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Pedobacter	404.16	63.41	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Pedobacter	615.77	105.24	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176861	Pedobacter	70.90	1.25	Uncharacterized protein YpeB
+PGF_01212500	Pedobacter	262.93	0.47	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Pedobacter	532.07	72.53	Heat shock protein 60 family chaperone GroEL
+PGF_01212904	Pedobacter	325.73	10.58	Ribonuclease BN
+PGF_01220597	Pedobacter	566.26	75.77	Putative hemolysin
+PGF_01220614	Pedobacter	249.56	16.23	RNA methyltransferase, TrmH family
+PGF_01232770	Pedobacter	164.32	4.33	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01323228	Pedobacter	215.20	1.05	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01329056	Pedobacter	232.21	29.58	N-acetylglucosaminyl-L-malate N-acetyl hydrolase
+PGF_01364427	Pedobacter	194.24	1.54	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01416568	Pedobacter	193.49	6.84	LemA family protein
+PGF_01421534	Pedobacter	188.05	21.54	LSU ribosomal protein L25p
+PGF_01423501	Pedobacter	157.02	0.15	Transcription elongation factor GreA
+PGF_01448568	Pedobacter	65.56	1.98	Uncharacterized protein YwbE
+PGF_01469197	Pedobacter	477.63	11.57	RNA methyltransferase, TrmA family
+PGF_01483460	Pedobacter	365.98	2.38	Lipopolysaccharide export system permease protein LptG
+PGF_01614738	Pedobacter	79.36	8.05	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01668974	Pedobacter	625.24	112.19	DNA internalization-related competence protein ComEC/Rec2
+PGF_01682834	Pedobacter	154.05	0.92	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Pedobacter	240.60	5.09	DNA recombination and repair protein RecO
+PGF_01699685	Pedobacter	95.43	38.77	hypothetical protein
+PGF_01734668	Pedobacter	190.62	4.37	Adenylate kinase (EC 2.7.4.3)
+PGF_01744781	Pedobacter	181.38	9.20	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01777142	Pedobacter	191.76	8.24	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01797166	Pedobacter	448.27	8.06	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01853493	Pedobacter	284.71	4.65	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01898497	Pedobacter	226.27	11.71	Endonuclease III (EC 4.2.99.18)
+PGF_01900530	Pedobacter	244.39	5.66	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900807	Pedobacter	271.70	31.20	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01933275	Pedobacter	215.73	3.29	HD domain protein
+PGF_01949788	Pedobacter	187.48	10.20	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01994657	Pedobacter	438.12	59.39	Cell division trigger factor (EC 5.2.1.8)
+PGF_02019462	Pedobacter	346.05	6.28	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Pedobacter	337.52	3.73	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Pedobacter	332.14	14.25	GTP-binding protein Obg
+PGF_02052530	Pedobacter	376.17	37.64	hypothetical protein
+PGF_02059020	Pedobacter	547.45	54.18	Energy-dependent translational throttle protein EttA
+PGF_02061452	Pedobacter	375.83	9.23	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02141097	Pedobacter	335.80	4.03	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02141148	Pedobacter	162.54	8.03	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_02185217	Pedobacter	457.93	57.64	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02226715	Pedobacter	700.95	1.80	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02278020	Pedobacter	410.68	5.94	Transcriptional regulator
+PGF_02330496	Pedobacter	232.71	56.41	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346768	Pedobacter	886.88	12.98	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02369559	Pedobacter	936.05	5.73	DNA polymerase I (EC 2.7.7.7)
+PGF_02450432	Pedobacter	268.10	4.50	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Pedobacter	82.36	7.34	SSU ribosomal protein S20p
+PGF_02463284	Pedobacter	205.98	3.88	Recombination protein RecR
+PGF_02473354	Pedobacter	529.63	5.06	Glucosaminyl-malate:cysteine ligase
+PGF_02501353	Pedobacter	283.27	12.13	Uncharacterized UPF0750 membrane protein
+PGF_02589860	Pedobacter	165.64	18.84	Uncharacterized protein SAV2112
+PGF_02593689	Pedobacter	453.29	8.60	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Pedobacter	516.23	26.77	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619970	Pedobacter	98.62	7.46	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Pedobacter	321.98	12.26	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Pedobacter	1375.79	201.46	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02728524	Pedobacter	864.45	7.18	DNA mismatch repair protein MutS
+PGF_02746016	Pedobacter	222.40	18.18	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02788582	Pedobacter	767.95	101.28	Recombination inhibitory protein MutS2
+PGF_02789532	Pedobacter	285.24	6.73	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Pedobacter	228.69	1.72	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Pedobacter	486.79	8.79	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Pedobacter	1227.84	142.12	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02862285	Pedobacter	398.43	8.09	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02863224	Pedobacter	371.20	2.24	Endoglucanase
+PGF_02873723	Pedobacter	514.90	5.01	Ribonuclease G
+PGF_02883702	Pedobacter	359.74	5.69	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02898096	Pedobacter	488.26	2.96	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02906681	Pedobacter	749.26	94.61	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02912272	Pedobacter	167.07	3.32	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02919689	Pedobacter	228.98	6.90	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923121	Pedobacter	197.95	22.14	hypothetical protein
+PGF_02923127	Pedobacter	229.51	22.98	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930037	Pedobacter	136.83	5.24	hypothetical protein
+PGF_02937289	Pedobacter	317.24	38.80	hypothetical protein
+PGF_02944756	Pedobacter	391.90	2.78	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Pedobacter	629.63	70.57	SSU ribosomal protein S1p
+PGF_02954466	Pedobacter	234.00	1.86	Two-component transcriptional response regulator, winged helix family
+PGF_03011092	Pedobacter	285.14	6.79	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017775	Pedobacter	554.63	75.69	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Pedobacter	188.05	8.97	Septum formation protein Maf
+PGF_03029844	Pedobacter	762.98	54.80	Lipopolysaccharide export system protein LptA
+PGF_03029859	Pedobacter	620.98	7.57	Bis-ABC ATPase Uup
+PGF_03038852	Pedobacter	128.24	1.81	FIG00018398: hypothetical regulator
+PGF_03057384	Pedobacter	343.71	8.33	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03073470	Pedobacter	562.18	10.13	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03095069	Pedobacter	318.69	7.71	COG1242: Predicted Fe-S oxidoreductase
+PGF_03109216	Pedobacter	256.80	5.95	Transcriptional regulator
+PGF_03111948	Pedobacter	244.34	6.09	Electron transfer flavoprotein, beta subunit
+PGF_03116534	Pedobacter	525.77	7.11	Porphobilinogen deaminase (EC 2.5.1.61) / Putative uroporphyrinogen-III synthase (EC 4.2.1.75), related to YjjA (in BS)
+PGF_03145455	Pedobacter	328.27	1.28	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03174068	Pedobacter	179.74	0.50	Transcription antitermination protein NusG
+PGF_03205915	Pedobacter	276.81	7.16	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_03222913	Pedobacter	82.21	9.01	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03272313	Pedobacter	873.74	57.35	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Pedobacter	74.45	6.39	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03381335	Pedobacter	553.62	14.84	hypothetical protein
+PGF_03383598	Pedobacter	127.22	4.16	hypothetical protein
+PGF_03391126	Pedobacter	153.12	2.28	hypothetical protein
+PGF_03441843	Pedobacter	778.90	92.40	3-hydroxyacyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.1.1.35) / Enoyl-CoA hydratase [fadN-fadA-fadE operon] (EC 4.2.1.17)
+PGF_03442211	Pedobacter	340.17	2.32	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_03456505	Pedobacter	537.45	76.92	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03518570	Pedobacter	139.17	0.76	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Pedobacter	528.86	74.89	Cell division protein FtsZ
+PGF_03647550	Pedobacter	163.07	6.77	UPF0234 protein Yitk
+PGF_03684283	Pedobacter	415.51	1.50	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03699416	Pedobacter	190.42	21.07	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Pedobacter	293.93	9.30	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Pedobacter	200.02	3.06	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Pedobacter	139.00	16.68	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03733480	Pedobacter	151.12	7.30	dCMP deaminase (EC 3.5.4.12)
+PGF_03750600	Pedobacter	158.88	0.71	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Pedobacter	192.74	16.99	Heat shock protein GrpE
+PGF_03753122	Pedobacter	283.05	39.48	Site-specific tyrosine recombinase XerC
+PGF_03757137	Pedobacter	445.56	14.28	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03778780	Pedobacter	318.63	43.87	Signal recognition particle receptor FtsY
+PGF_03783620	Pedobacter	170.24	6.11	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Pedobacter	240.71	6.02	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Pedobacter	271.50	4.41	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03811905	Pedobacter	344.44	25.99	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03835760	Pedobacter	399.88	48.87	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03991729	Pedobacter	380.74	14.35	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04005838	Pedobacter	387.02	10.08	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Pedobacter	234.10	11.52	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Pedobacter	470.91	51.18	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Pedobacter	139.25	17.42	Large-conductance mechanosensitive channel
+PGF_04034430	Pedobacter	63.90	1.30	SSU ribosomal protein S21p
+PGF_04041316	Pedobacter	913.84	156.85	Excinuclease ABC subunit A
+PGF_04105233	Pedobacter	104.66	3.69	Uncharacterized protein TTC1240
+PGF_04108824	Pedobacter	691.74	25.23	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Pedobacter	284.59	40.98	Twin-arginine translocation protein TatC
+PGF_04182459	Pedobacter	226.10	4.08	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Pedobacter	247.34	3.57	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04360357	Pedobacter	1082.43	150.53	Protein translocase subunit SecA
+PGF_04457297	Pedobacter	188.52	6.59	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04502464	Pedobacter	598.83	73.42	DNA topoisomerase III (EC 5.99.1.2)
+PGF_04505269	Pedobacter	276.52	8.59	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Pedobacter	337.69	11.30	Rod shape-determining protein MreB
+PGF_04521913	Pedobacter	432.67	6.46	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Pedobacter	524.64	6.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Pedobacter	248.47	23.61	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04662829	Pedobacter	657.33	23.41	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Pedobacter	386.37	46.67	Alanine transaminase (EC 2.6.1.2)
+PGF_04749763	Pedobacter	989.34	96.90	Translation initiation factor 2
+PGF_04788810	Pedobacter	186.71	2.83	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04845029	Pedobacter	115.00	0.00	LSU ribosomal protein L19p
+PGF_04962192	Pedobacter	712.38	17.53	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Pedobacter	103.00	0.00	LSU ribosomal protein L21p
+PGF_05022117	Pedobacter	530.12	60.40	Bis-ABC ATPase YbiT
+PGF_05111929	Pedobacter	568.07	4.94	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05113267	Pedobacter	352.62	1.00	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_05114286	Pedobacter	363.81	35.84	hypothetical protein
+PGF_05135220	Pedobacter	962.83	70.97	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Pedobacter	302.07	3.41	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Pedobacter	493.98	37.36	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05248419	Pedobacter	448.56	3.25	ABC transporter, RND-adapter-like protein
+PGF_05280843	Pedobacter	419.38	14.60	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05338234	Pedobacter	289.21	5.34	Protein YicC
+PGF_05386032	Pedobacter	192.46	4.02	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05421852	Pedobacter	623.38	28.59	Chaperone protein HtpG
+PGF_05439724	Pedobacter	665.37	17.57	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Pedobacter	281.75	43.31	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Pedobacter	618.45	7.00	DNA mismatch repair protein MutL
+PGF_05560886	Pedobacter	250.38	6.34	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Pedobacter	441.90	12.63	Protein translocase subunit SecY
+PGF_05598173	Pedobacter	364.09	34.79	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Pedobacter	423.34	5.20	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05712128	Pedobacter	588.49	71.94	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Pedobacter	117.19	7.12	FIG138056: a glutathione-dependent thiol reductase
+PGF_05763732	Pedobacter	205.05	3.16	Efflux ABC transporter, ATP-binding protein
+PGF_05866195	Pedobacter	374.66	10.49	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+PGF_05872926	Pedobacter	406.07	3.76	Putative uncharacterized protein TTHA1760
+PGF_05971611	Pedobacter	389.89	42.13	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05997999	Pedobacter	312.50	44.27	Glycosyltransferase
+PGF_06005188	Pedobacter	629.48	11.01	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06111528	Pedobacter	315.05	11.80	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06180597	Pedobacter	145.98	5.90	LSU ribosomal protein L13p (L13Ae)
+PGF_06220004	Pedobacter	409.17	9.17	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_06254345	Pedobacter	95.52	3.28	Heat shock protein 60 family co-chaperone GroES
+PGF_06315406	Pedobacter	432.98	46.86	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Pedobacter	348.52	23.54	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06379377	Pedobacter	426.02	4.85	Replication-associated recombination protein RarA
+PGF_06403579	Pedobacter	821.60	11.17	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06421645	Pedobacter	213.61	5.48	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_06447349	Pedobacter	769.55	8.23	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06460114	Pedobacter	358.00	3.28	Septum site-determining protein MinD
+PGF_06461498	Pedobacter	276.61	5.10	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Pedobacter	338.28	44.89	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06530721	Pedobacter	212.42	27.55	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06589185	Pedobacter	582.00	3.63	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06660812	Pedobacter	196.12	2.82	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06755300	Pedobacter	178.00	0.00	ABC-type Fe3+ transport system protein; Molybdenum transport protein, putative
+PGF_06755829	Pedobacter	382.12	10.15	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06841481	Pedobacter	63.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_07072294	Pedobacter	323.32	1.63	Electron transfer flavoprotein, alpha subunit
+PGF_07111723	Pedobacter	149.37	6.96	hypothetical protein
+PGF_07242312	Pedobacter	639.02	71.88	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_08107276	Pedobacter	363.27	6.32	Probable Co/Zn/Cd efflux system membrane fusion protein
+PGF_08126362	Pedobacter	448.62	13.27	DNA recombination protein RmuC
+PGF_08141073	Pedobacter	288.27	2.25	hypothetical protein
+PGF_08183187	Pedobacter	394.02	5.95	Cell division protein FtsW
+PGF_08197941	Pedobacter	248.02	29.23	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)
+PGF_08199149	Pedobacter	445.93	61.45	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)

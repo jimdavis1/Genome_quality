@@ -1,0 +1,381 @@
+PGF_00000027	Smithella	261.86	0.38	Uncharacterized protein YmdB
+PGF_00006320	Smithella	285.00	0.00	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006983	Smithella	255.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007027	Smithella	295.86	0.38	GTP-binding protein Era
+PGF_00007057	Smithella	459.29	0.76	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007141	Smithella	214.00	20.14	Galactoside O-acetyltransferase (EC 2.3.1.18)
+PGF_00008051	Smithella	446.50	0.84	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Smithella	382.83	1.17	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Smithella	393.83	12.66	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008326	Smithella	563.00	0.00	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00009533	Smithella	217.57	62.74	Glycosyl transferase, group 2 family
+PGF_00009967	Smithella	282.57	18.34	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00010349	Smithella	638.50	194.73	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Smithella	182.71	38.75	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Smithella	754.83	115.53	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00012376	Smithella	232.00	0.00	Tungstate ABC transporter, permease protein
+PGF_00013003	Smithella	606.83	109.25	Bis-ABC ATPase YheS
+PGF_00013492	Smithella	176.00	3.83	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00014311	Smithella	486.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015259	Smithella	291.17	0.41	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015530	Smithella	274.00	0.00	Iron-sulfur cluster assembly scaffold protein NifU
+PGF_00015699	Smithella	376.67	44.67	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00016338	Smithella	417.67	5.24	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Smithella	105.57	30.02	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Smithella	148.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Smithella	140.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Smithella	125.17	10.55	LSU ribosomal protein L17p
+PGF_00016353	Smithella	99.43	36.93	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Smithella	233.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Smithella	117.50	1.64	LSU ribosomal protein L20p
+PGF_00016368	Smithella	111.29	1.60	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Smithella	92.50	6.12	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Smithella	107.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Smithella	84.14	0.38	LSU ribosomal protein L27p
+PGF_00016393	Smithella	235.67	91.45	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Smithella	61.50	1.22	LSU ribosomal protein L30p (L7e)
+PGF_00016423	Smithella	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Smithella	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Smithella	185.33	38.21	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Smithella	206.86	0.38	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Smithella	160.29	49.51	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Smithella	180.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Smithella	127.86	0.90	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Smithella	149.43	0.53	LSU ribosomal protein L9p
+PGF_00017190	Smithella	191.71	82.46	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00019038	Smithella	421.33	104.51	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Smithella	193.67	16.81	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00020168	Smithella	385.29	5.22	Membrane-bound lytic murein transglycosylase A
+PGF_00020361	Smithella	150.86	1.07	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00021217	Smithella	499.67	131.34	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022507	Smithella	163.14	0.38	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022605	Smithella	288.50	6.16	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00023591	Smithella	324.33	16.82	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023784	Smithella	409.50	10.63	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_00024273	Smithella	149.67	35.38	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024309	Smithella	681.14	22.14	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024831	Smithella	451.00	0.00	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00025090	Smithella	501.33	160.85	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025517	Smithella	138.00	0.00	Nickel responsive regulator NikR
+PGF_00026615	Smithella	296.67	1.63	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00028941	Smithella	360.67	5.72	Oxygen-independent coproporphyrinogen III oxidase (EC 1.-.-.-)
+PGF_00029917	Smithella	299.50	15.88	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00033095	Smithella	551.86	316.21	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Smithella	339.57	5.86	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033877	Smithella	168.67	3.61	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Smithella	442.14	0.38	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Smithella	293.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Smithella	200.00	67.39	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033988	Smithella	375.00	0.00	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034647	Smithella	321.00	92.03	Polyhydroxyalkanoic acid synthase
+PGF_00034776	Smithella	478.67	334.90	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00035378	Smithella	405.67	167.38	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00038867	Smithella	361.00	121.01	Proton/sodium-glutamate symport protein
+PGF_00039342	Smithella	275.00	0.00	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040091	Smithella	293.00	0.00	Putative aldolase
+PGF_00040940	Smithella	559.17	161.26	Glutathione-regulated potassium-efflux system protein KefB/C
+PGF_00042020	Smithella	425.67	19.99	Putative membrane-bound ClpP-class protease associated with aq_911
+PGF_00044198	Smithella	245.33	13.43	Putative stomatin/prohibitin-family membrane protease subunit aq_911
+PGF_00045696	Smithella	358.83	35.68	Putative virion core protein (lumpy skin disease virus)
+PGF_00046403	Smithella	437.86	115.68	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Smithella	127.83	0.41	RNA polymerase-binding transcription factor DksA
+PGF_00047479	Smithella	367.50	111.45	Related to HTH domain of SpoOJ/ParA/ParB/repB family, involved in chromosome partitioning
+PGF_00048556	Smithella	205.00	0.00	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048651	Smithella	142.00	12.77	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048829	Smithella	245.14	7.08	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048926	Smithella	164.00	55.56	Ribosome recycling factor
+PGF_00048936	Smithella	121.33	3.61	Ribosome-binding factor A
+PGF_00048985	Smithella	221.50	0.55	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049827	Smithella	257.50	67.87	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Smithella	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Smithella	130.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Smithella	123.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Smithella	122.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049849	Smithella	79.83	4.62	SSU ribosomal protein S16p
+PGF_00049854	Smithella	82.00	7.35	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Smithella	90.00	7.94	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Smithella	190.43	60.60	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Smithella	162.00	2.45	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Smithella	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Smithella	132.71	0.76	SSU ribosomal protein S8p (S15Ae)
+PGF_00051525	Smithella	428.33	6.71	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Smithella	443.00	0.00	Signal recognition particle protein Ffh
+PGF_00052705	Smithella	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Smithella	296.00	0.00	Site-specific tyrosine recombinase XerD
+PGF_00052978	Smithella	365.67	2.58	Aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
+PGF_00053562	Smithella	298.00	97.00	Sorbitol dehydrogenase (EC 1.1.1.14)
+PGF_00055234	Smithella	454.50	89.41	Superfamily II DNA and RNA helicases
+PGF_00055324	Smithella	430.00	171.46	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+PGF_00057399	Smithella	185.67	71.85	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Smithella	148.00	0.00	Transamidase GatB domain protein
+PGF_00060412	Smithella	673.86	52.41	Elongation factor G-like protein TM_1651
+PGF_00060414	Smithella	486.33	186.46	Translation elongation factor LepA
+PGF_00060427	Smithella	200.71	0.49	Translation elongation factor Ts
+PGF_00060428	Smithella	397.00	0.00	Translation elongation factor Tu
+PGF_00060431	Smithella	69.14	7.56	Translation initiation factor 1
+PGF_00060478	Smithella	143.67	6.95	Translation initiation factor 3
+PGF_00062045	Smithella	312.71	43.09	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Smithella	414.14	41.65	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063944	Smithella	309.83	0.41	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063955	Smithella	372.50	25.72	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87)
+PGF_00064132	Smithella	317.67	10.03	UDP-glucuronate decarboxylase (EC 4.1.1.35)
+PGF_00064135	Smithella	336.86	18.90	UDP-glucuronic acid oxidase (UDP-4-keto-hexauronic acid decarboxylating) (EC 1.1.1.305)
+PGF_00064679	Smithella	335.33	113.31	Uncharacterized ferredoxin oxidoreductase MJ0100
+PGF_00065238	Smithella	274.43	127.74	Arsenical-resistance protein ACR3
+PGF_00065887	Smithella	247.33	1.51	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065901	Smithella	314.67	2.58	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53)
+PGF_00066589	Smithella	118.33	0.52	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00068717	Smithella	342.33	37.51	Autolysin sensor kinase (EC 2.7.3.-)
+PGF_00070432	Smithella	478.83	6.77	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00073423	Smithella	261.67	0.52	hypothetical protein
+PGF_00081927	Smithella	255.33	3.14	hypothetical protein
+PGF_00084324	Smithella	268.50	7.37	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00089006	Smithella	283.33	41.31	hypothetical protein
+PGF_00097173	Smithella	221.00	0.00	hypothetical protein
+PGF_00098768	Smithella	271.14	0.38	hypothetical protein
+PGF_00100328	Smithella	485.33	161.52	hypothetical protein
+PGF_00109288	Smithella	259.67	4.08	hypothetical protein
+PGF_00121107	Smithella	289.67	101.98	hypothetical protein
+PGF_00134118	Smithella	981.17	19.96	Predicted insulinase-like Zn-dependent peptidase DVU0941
+PGF_00138185	Smithella	307.67	1.51	hypothetical protein
+PGF_00138618	Smithella	85.00	10.82	hypothetical protein
+PGF_00141848	Smithella	260.00	10.16	hypothetical protein
+PGF_00148685	Smithella	261.67	104.20	hypothetical protein
+PGF_00176240	Smithella	392.86	11.81	hypothetical protein
+PGF_00187841	Smithella	331.00	72.03	hypothetical protein
+PGF_00191284	Smithella	229.00	1.10	hypothetical protein
+PGF_00194473	Smithella	270.17	34.39	hypothetical protein
+PGF_00197321	Smithella	177.33	5.68	hypothetical protein
+PGF_00200090	Smithella	194.33	1.63	hypothetical protein
+PGF_00202930	Smithella	562.50	181.20	hypothetical protein
+PGF_00210895	Smithella	346.83	129.75	hypothetical protein
+PGF_00214121	Smithella	306.67	26.60	hypothetical protein
+PGF_00224490	Smithella	130.83	23.81	hypothetical protein
+PGF_00244332	Smithella	144.00	0.00	hypothetical protein
+PGF_00248641	Smithella	171.17	7.49	hypothetical protein
+PGF_00249115	Smithella	166.00	0.00	hypothetical protein
+PGF_00252174	Smithella	464.00	22.63	hypothetical protein
+PGF_00267596	Smithella	113.67	1.37	hypothetical protein
+PGF_00285620	Smithella	206.33	4.76	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00295348	Smithella	406.33	4.13	ABC-type antimicrobial peptide transport system, permease component
+PGF_00295548	Smithella	102.00	0.00	hypothetical protein
+PGF_00300187	Smithella	397.00	6.57	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00315265	Smithella	397.00	0.00	hypothetical protein
+PGF_00316630	Smithella	302.83	114.07	hypothetical protein
+PGF_00354192	Smithella	290.14	0.38	Uncharacterized protein MJ1002
+PGF_00366841	Smithella	523.14	186.20	hypothetical protein
+PGF_00366955	Smithella	245.17	29.58	hypothetical protein
+PGF_00405074	Smithella	240.83	4.49	protein of unknown function DUF164
+PGF_00411452	Smithella	629.33	3.88	Re face-specific citrate synthase (EC 2.3.3.3) / extracellular cache domain
+PGF_00411666	Smithella	424.71	0.76	related to glyceraldehyde-3-phosphate dehydrogenase
+PGF_00413208	Smithella	245.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413554	Smithella	155.00	4.82	tmRNA-binding protein SmpB
+PGF_00415697	Smithella	240.29	43.34	Uncharacterized NRDE family protein
+PGF_00416129	Smithella	491.57	143.63	CTP synthase (EC 6.3.4.2)
+PGF_00417433	Smithella	639.00	4.10	Chaperone protein DnaK
+PGF_00418128	Smithella	183.50	99.54	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00419702	Smithella	149.00	27.54	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419915	Smithella	272.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420050	Smithella	392.50	1.22	Cysteine desulfurase (EC 2.8.1.7) => NifS
+PGF_00420731	Smithella	412.17	135.69	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420903	Smithella	300.50	52.31	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421071	Smithella	113.86	43.83	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421796	Smithella	565.00	5.29	DNA repair protein RecN
+PGF_00422271	Smithella	322.50	0.55	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422938	Smithella	295.14	89.63	Deoxyhypusine synthase (EC 2.5.1.46)
+PGF_00422959	Smithella	147.50	1.76	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423300	Smithella	432.67	6.35	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00424482	Smithella	326.33	91.36	4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
+PGF_00424971	Smithella	613.86	14.01	Excinuclease ABC subunit C
+PGF_00425011	Smithella	257.50	0.55	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425671	Smithella	293.43	9.55	RNase adapter protein RapZ
+PGF_00425684	Smithella	251.67	6.53	Probable transcriptional regulatory protein YebC
+PGF_00425786	Smithella	491.29	51.43	Ribonuclease Y
+PGF_00425993	Smithella	386.83	1.17	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00482828	Smithella	416.86	56.55	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00618776	Smithella	352.67	3.14	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Smithella	529.00	0.00	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Smithella	278.43	43.22	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00718789	Smithella	269.71	60.48	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00774637	Smithella	404.67	113.21	hypothetical protein
+PGF_00777371	Smithella	246.00	4.80	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00781976	Smithella	266.83	8.47	3-oxoadipate CoA-transferase subunit B (EC 2.8.3.6)
+PGF_00800643	Smithella	460.00	0.00	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
+PGF_00830556	Smithella	152.00	0.00	hypothetical protein
+PGF_00877997	Smithella	379.33	45.96	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_00912265	Smithella	326.33	1.37	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Smithella	451.86	19.34	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Smithella	554.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00960579	Smithella	316.00	0.00	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_01101526	Smithella	363.00	0.00	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01137150	Smithella	229.00	0.00	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01162681	Smithella	643.17	1.47	Aconitate hydratase (EC 4.2.1.3)
+PGF_01174739	Smithella	251.71	4.54	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Smithella	555.67	163.60	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01232770	Smithella	154.67	29.81	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01296193	Smithella	241.17	32.38	Chromosome (plasmid) partitioning protein ParA
+PGF_01364427	Smithella	202.00	0.00	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01423501	Smithella	158.00	1.10	Transcription elongation factor GreA
+PGF_01448031	Smithella	90.14	0.38	Integration host factor alpha subunit
+PGF_01466819	Smithella	514.33	8.94	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01513923	Smithella	270.00	0.00	Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)
+PGF_01668974	Smithella	636.14	265.89	DNA internalization-related competence protein ComEC/Rec2
+PGF_01682537	Smithella	126.86	2.04	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01760799	Smithella	548.83	88.90	Type IV pilus biogenesis protein PilQ
+PGF_01877133	Smithella	388.67	57.15	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01898497	Smithella	218.50	0.55	Endonuclease III (EC 4.2.99.18)
+PGF_01899098	Smithella	126.83	28.38	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01899937	Smithella	276.00	1.55	Rod shape-determining protein MreC
+PGF_01943486	Smithella	170.33	3.27	O-acetyl-ADP-ribose deacetylase
+PGF_01994657	Smithella	440.17	0.41	Cell division trigger factor (EC 5.2.1.8)
+PGF_02019462	Smithella	338.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Smithella	332.00	1.67	GTP-binding protein Obg
+PGF_02059020	Smithella	561.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02185217	Smithella	375.43	118.81	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02279959	Smithella	333.00	0.00	Transcriptional repressor of nif and glnA operons
+PGF_02281129	Smithella	139.14	31.37	Rubrerythrin
+PGF_02325838	Smithella	467.17	147.61	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02346768	Smithella	811.43	181.42	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Smithella	657.17	11.50	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Smithella	180.43	1.13	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02450432	Smithella	244.17	73.60	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Smithella	87.14	0.38	SSU ribosomal protein S20p
+PGF_02471934	Smithella	608.29	122.27	ATP-dependent DNA helicase UvrD/PcrA/Rep, TM1238 type
+PGF_02601796	Smithella	286.50	99.20	Ornithine cyclodeaminase (EC 4.3.1.12)
+PGF_02704551	Smithella	1204.14	422.94	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02790700	Smithella	183.00	0.00	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02797402	Smithella	1076.29	509.13	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Smithella	525.83	11.82	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02919689	Smithella	247.50	17.95	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02931322	Smithella	329.00	2.97	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_03017978	Smithella	173.67	41.15	Septum formation protein Maf
+PGF_03029062	Smithella	308.17	0.41	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03071798	Smithella	682.00	219.16	Type II secretory pathway, ATPase PulE/Tfp pilus assembly pathway, ATPase PilB
+PGF_03110657	Smithella	642.29	237.76	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03124650	Smithella	458.00	71.44	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03174068	Smithella	176.14	0.38	Transcription antitermination protein NusG
+PGF_03368456	Smithella	177.17	4.40	hypothetical protein
+PGF_03368458	Smithella	178.83	2.04	hypothetical protein
+PGF_03368524	Smithella	226.00	0.00	hypothetical protein
+PGF_03368611	Smithella	198.83	32.77	hypothetical protein
+PGF_03368621	Smithella	317.17	1.94	hypothetical protein
+PGF_03368644	Smithella	220.00	0.00	hypothetical protein
+PGF_03368660	Smithella	150.83	9.11	hypothetical protein
+PGF_03368956	Smithella	452.71	0.76	hypothetical protein
+PGF_03369044	Smithella	667.86	57.71	hypothetical protein
+PGF_03369088	Smithella	356.86	2.27	hypothetical protein
+PGF_03369292	Smithella	415.14	108.54	hypothetical protein
+PGF_03369379	Smithella	305.00	0.00	hypothetical protein
+PGF_03369401	Smithella	224.33	77.08	hypothetical protein
+PGF_03369423	Smithella	144.17	51.11	hypothetical protein
+PGF_03369477	Smithella	103.57	0.53	hypothetical protein
+PGF_03369497	Smithella	92.00	0.00	hypothetical protein
+PGF_03369504	Smithella	348.14	4.49	hypothetical protein
+PGF_03369523	Smithella	233.00	29.52	hypothetical protein
+PGF_03369527	Smithella	126.00	5.35	hypothetical protein
+PGF_03370329	Smithella	173.67	75.51	hypothetical protein
+PGF_03370357	Smithella	269.33	7.61	hypothetical protein
+PGF_03370377	Smithella	172.00	0.00	hypothetical protein
+PGF_03370386	Smithella	571.17	3.49	hypothetical protein
+PGF_03370436	Smithella	233.17	5.31	hypothetical protein
+PGF_03370454	Smithella	163.83	0.41	hypothetical protein
+PGF_03370484	Smithella	227.00	0.00	hypothetical protein
+PGF_03370495	Smithella	168.67	58.95	hypothetical protein
+PGF_03370504	Smithella	281.33	6.74	hypothetical protein
+PGF_03371345	Smithella	298.50	24.72	hypothetical protein
+PGF_03371356	Smithella	391.17	66.20	hypothetical protein
+PGF_03371430	Smithella	505.83	16.94	hypothetical protein
+PGF_03371461	Smithella	192.67	45.20	hypothetical protein
+PGF_03371545	Smithella	778.33	131.18	hypothetical protein
+PGF_03371566	Smithella	283.29	1.89	hypothetical protein
+PGF_03371652	Smithella	328.00	0.00	hypothetical protein
+PGF_03372008	Smithella	164.00	3.46	hypothetical protein
+PGF_03372041	Smithella	148.17	2.56	hypothetical protein
+PGF_03372052	Smithella	445.67	6.22	hypothetical protein
+PGF_03372084	Smithella	172.83	2.04	hypothetical protein
+PGF_03372095	Smithella	116.50	16.68	hypothetical protein
+PGF_03372107	Smithella	88.00	0.00	hypothetical protein
+PGF_03372129	Smithella	126.00	24.49	hypothetical protein
+PGF_03372159	Smithella	345.17	109.12	hypothetical protein
+PGF_03372170	Smithella	130.00	9.86	hypothetical protein
+PGF_03372190	Smithella	179.33	66.35	hypothetical protein
+PGF_03372192	Smithella	188.00	4.94	hypothetical protein
+PGF_03372311	Smithella	447.00	31.84	hypothetical protein
+PGF_03372322	Smithella	138.83	6.34	hypothetical protein
+PGF_03372354	Smithella	263.14	40.71	hypothetical protein
+PGF_03372365	Smithella	159.17	2.86	hypothetical protein
+PGF_03372419	Smithella	136.00	0.00	hypothetical protein
+PGF_03372430	Smithella	160.00	0.00	hypothetical protein
+PGF_03372485	Smithella	135.00	0.00	hypothetical protein
+PGF_03372507	Smithella	139.33	67.13	hypothetical protein
+PGF_03372518	Smithella	91.00	0.00	hypothetical protein
+PGF_03372529	Smithella	94.50	1.97	hypothetical protein
+PGF_03372573	Smithella	202.83	56.35	hypothetical protein
+PGF_03372595	Smithella	166.33	0.52	hypothetical protein
+PGF_03372606	Smithella	124.17	0.41	hypothetical protein
+PGF_03372650	Smithella	109.17	16.25	hypothetical protein
+PGF_03372672	Smithella	176.50	0.55	hypothetical protein
+PGF_03372683	Smithella	182.50	0.55	hypothetical protein
+PGF_03372694	Smithella	184.00	0.00	hypothetical protein
+PGF_03372705	Smithella	169.67	0.52	hypothetical protein
+PGF_03372735	Smithella	90.00	0.00	hypothetical protein
+PGF_03372741	Smithella	116.00	0.00	hypothetical protein
+PGF_03372743	Smithella	377.50	113.19	hypothetical protein
+PGF_03372748	Smithella	172.33	2.07	hypothetical protein
+PGF_03372749	Smithella	224.33	3.27	hypothetical protein
+PGF_03372751	Smithella	169.17	20.50	hypothetical protein
+PGF_03372752	Smithella	102.83	2.04	hypothetical protein
+PGF_03372753	Smithella	336.83	98.30	hypothetical protein
+PGF_03372754	Smithella	400.17	10.93	hypothetical protein
+PGF_03372756	Smithella	90.50	2.74	hypothetical protein
+PGF_03372761	Smithella	130.17	0.41	hypothetical protein
+PGF_03372762	Smithella	205.67	0.82	hypothetical protein
+PGF_03372763	Smithella	79.17	6.01	hypothetical protein
+PGF_03372767	Smithella	125.00	66.69	hypothetical protein
+PGF_03372772	Smithella	312.17	12.50	hypothetical protein
+PGF_03372778	Smithella	216.50	72.26	hypothetical protein
+PGF_03372781	Smithella	226.33	57.97	hypothetical protein
+PGF_03372783	Smithella	159.17	49.59	hypothetical protein
+PGF_03372784	Smithella	63.00	0.00	hypothetical protein
+PGF_03372788	Smithella	92.33	1.51	hypothetical protein
+PGF_03372789	Smithella	89.00	0.00	hypothetical protein
+PGF_03372790	Smithella	163.33	1.63	hypothetical protein
+PGF_03723827	Smithella	160.14	0.38	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750541	Smithella	361.33	0.52	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03751823	Smithella	208.57	17.83	Heat shock protein GrpE
+PGF_03753122	Smithella	244.83	80.39	Site-specific tyrosine recombinase XerC
+PGF_03757137	Smithella	423.33	92.76	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03790040	Smithella	237.71	0.95	Ribonuclease III (EC 3.1.26.3)
+PGF_03799668	Smithella	394.00	51.16	acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase
+PGF_03811905	Smithella	327.43	55.17	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03977289	Smithella	71.00	0.00	hypothetical protein
+PGF_04019463	Smithella	149.33	43.86	Repair of Iron Centers di-iron protein
+PGF_04041316	Smithella	661.50	333.71	Excinuclease ABC subunit A
+PGF_04127376	Smithella	260.50	2.26	Twin-arginine translocation protein TatC
+PGF_04150742	Smithella	259.00	41.47	Zinc ABC transporter, permease protein ZnuB
+PGF_04163139	Smithella	226.33	44.26	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04345693	Smithella	237.33	28.22	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04505269	Smithella	250.29	66.85	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Smithella	345.00	0.00	Rod shape-determining protein MreB
+PGF_04569524	Smithella	411.71	165.42	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04749763	Smithella	538.17	375.02	Translation initiation factor 2
+PGF_04970608	Smithella	89.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Smithella	103.00	0.00	LSU ribosomal protein L21p
+PGF_05165078	Smithella	312.00	0.00	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05439724	Smithella	611.67	140.93	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Smithella	296.14	0.38	NAD kinase (EC 2.7.1.23)
+PGF_05560886	Smithella	411.86	187.87	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Smithella	422.17	31.44	Protein translocase subunit SecY
+PGF_05710599	Smithella	294.86	10.87	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05712128	Smithella	514.14	86.87	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05999853	Smithella	309.67	89.34	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06053106	Smithella	253.83	67.04	RNA polymerase sigma factor RpoH
+PGF_06586947	Smithella	349.29	57.43	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06609275	Smithella	49.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06649360	Smithella	232.83	13.44	Segregation and condensation protein B
+PGF_06672158	Smithella	231.67	108.97	Nitroreductase family protein
+PGF_06849039	Smithella	222.00	0.00	hypothetical protein
+PGF_07076389	Smithella	1474.17	5.08	heterodisulfide reductase, subunit A/methylviologen reducing hydrogenase, subunit delta
+PGF_07242312	Smithella	520.33	233.85	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_08076089	Smithella	613.83	86.14	Heterodisulfide reductase subunit A-like protein
+PGF_08083533	Smithella	346.67	13.06	Ketol-acid reductoisomerase (NAD(+)) (EC 1.1.1.382)

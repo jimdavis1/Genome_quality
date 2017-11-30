@@ -1,0 +1,935 @@
+PGF_00000125	Anabaena	325.43	6.97	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1
+PGF_00000144	Anabaena	378.07	10.28	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2
+PGF_00000414	Anabaena	190.21	33.20	FIG00814129: Possible chaperone
+PGF_00000694	Anabaena	164.93	14.62	FIG00870489: hypothetical protein
+PGF_00000761	Anabaena	208.71	0.73	FIG00872222: hypothetical protein
+PGF_00000821	Anabaena	190.29	0.73	FIG00873889: hypothetical protein
+PGF_00002550	Anabaena	213.21	0.70	FIG017608: hypothetical membrane protein, specific for cyanobacteria
+PGF_00002614	Anabaena	105.00	3.28	FIG020308: hypothetical protein
+PGF_00002680	Anabaena	84.36	13.35	FIG023675: hypothetical protein
+PGF_00003191	Anabaena	169.36	0.93	FIG052964: hypothetical protein
+PGF_00003229	Anabaena	167.57	0.94	FIG057954: metal-binding, possibly nucleic acid-binding protein
+PGF_00003448	Anabaena	378.71	45.14	FIG110192: hypothetical protein
+PGF_00003464	Anabaena	98.50	15.03	FIG113347: hypothetical protein
+PGF_00003516	Anabaena	262.64	1.34	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003521	Anabaena	127.79	0.58	FIG137771: hypothetical protein
+PGF_00004011	Anabaena	475.64	12.59	FOG: WD40 repeat
+PGF_00004144	Anabaena	116.00	0.00	Fe-S cluster protein
+PGF_00004255	Anabaena	78.00	1.04	Ferredoxin
+PGF_00004311	Anabaena	121.86	3.21	Ferredoxin
+PGF_00004323	Anabaena	151.57	1.28	Ferredoxin
+PGF_00004378	Anabaena	448.71	10.91	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00004389	Anabaena	640.00	5.11	Ferredoxin--sulfite reductase (EC 1.8.7.1)
+PGF_00004395	Anabaena	1562.86	3.44	Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+PGF_00004412	Anabaena	76.36	6.69	Ferredoxin-thioredoxin reductase, variable chain
+PGF_00004728	Anabaena	580.64	14.74	Fibronectin/fibrinogen-binding protein
+PGF_00005890	Anabaena	323.86	1.56	ABC transporter, substrate-binding protein (cluster 12, methionine/phosphonates)
+PGF_00006100	Anabaena	326.79	5.54	tRNA-modifying protein YgfZ
+PGF_00006379	Anabaena	348.29	8.35	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11) / Sedoheptulose-1,7-bisphosphatase (EC 3.1.3.37)
+PGF_00006394	Anabaena	357.57	0.94	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Anabaena	473.29	19.54	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006923	Anabaena	147.71	9.91	GLP_28_74910_75575
+PGF_00006932	Anabaena	156.21	0.80	ABC-type Co2+ transport system, permease component
+PGF_00006935	Anabaena	539.71	1.07	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Anabaena	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Anabaena	453.71	0.47	GTP-binding protein EngA
+PGF_00007027	Anabaena	324.57	5.83	GTP-binding protein Era
+PGF_00007028	Anabaena	543.21	22.78	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Anabaena	596.00	0.00	GTP-binding protein TypA/BipA
+PGF_00007057	Anabaena	467.29	9.34	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007187	Anabaena	120.57	3.57	Gas vesicle protein
+PGF_00007521	Anabaena	411.64	12.46	Geranylgeranyl diphosphate reductase (EC 1.3.1.83)
+PGF_00007766	Anabaena	222.71	0.73	Global nitrogen regulatory protein, CRP family of transcriptional regulators
+PGF_00007971	Anabaena	429.00	0.00	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007988	Anabaena	526.29	6.13	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Anabaena	449.07	4.75	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008106	Anabaena	285.14	3.48	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Anabaena	432.00	0.00	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008334	Anabaena	427.86	0.53	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Anabaena	480.21	0.97	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008354	Anabaena	86.36	1.08	Glutaredoxin 3 (Grx1)
+PGF_00008469	Anabaena	321.07	5.99	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008783	Anabaena	654.50	5.21	Glycine oxidase ThiO (EC 1.4.3.19) / Thiazole synthase (EC 2.8.1.10)
+PGF_00008838	Anabaena	249.29	2.81	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009097	Anabaena	320.14	6.27	Glycosyl transferase, family 2
+PGF_00009248	Anabaena	494.50	3.74	Membrane-bound glycosyltransferase
+PGF_00009500	Anabaena	191.50	6.91	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009706	Anabaena	411.86	8.58	Glycosyltransferase
+PGF_00009969	Anabaena	716.71	2.13	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010019	Anabaena	149.43	2.71	Glyoxalase family protein
+PGF_00010205	Anabaena	234.86	1.35	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Anabaena	750.29	27.67	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Anabaena	197.14	8.51	Guanylate kinase (EC 2.7.4.8)
+PGF_00012356	Anabaena	304.36	1.39	Homoserine kinase (EC 2.7.1.39)
+PGF_00012767	Anabaena	282.71	0.47	Hydrolase, alpha/beta fold family protein, At1g52510/AT4G12830 homolog
+PGF_00012970	Anabaena	457.00	0.00	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013055	Anabaena	731.79	17.03	Hypothetical cyanobacterial membrane protein, in cluster with PxcA
+PGF_00013068	Anabaena	321.50	2.38	Hypothetical glycine rich membrane protein DUF1517
+PGF_00013110	Anabaena	358.93	23.24	Uncharacterized protein (associated with DNA helicase - Rad25 homolog)
+PGF_00013112	Anabaena	62.71	3.89	Hypothetical protein Ava_1278
+PGF_00013123	Anabaena	315.36	3.18	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_00013395	Anabaena	100.57	1.45	Hypothetical protein, Slr0957 homolog
+PGF_00013509	Anabaena	507.86	2.11	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013511	Anabaena	247.14	0.36	IMP dehydrogenase/GMP reductase
+PGF_00013803	Anabaena	207.00	11.96	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013854	Anabaena	254.36	7.16	Inactivated Zn-dependent hydrolase of the beta-lactamase fold
+PGF_00013855	Anabaena	255.29	0.73	Inactivated Zn-dependent hydrolase of the beta-lactamase fold
+PGF_00014264	Anabaena	377.71	8.16	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014306	Anabaena	170.86	1.23	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014314	Anabaena	389.57	6.54	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00015065	Anabaena	186.14	3.30	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_00015124	Anabaena	153.00	10.38	ATP synthase F0 sector subunit b' (EC 3.6.3.14)
+PGF_00015142	Anabaena	81.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Anabaena	183.86	0.36	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015255	Anabaena	268.07	7.75	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015259	Anabaena	315.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015300	Anabaena	158.43	6.94	ATP synthase protein I
+PGF_00015510	Anabaena	261.29	0.47	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015517	Anabaena	446.64	6.58	Iron-sulfur cluster assembly protein SufD
+PGF_00015541	Anabaena	220.14	16.69	Iron-sulfur cluster regulator SufR
+PGF_00015630	Anabaena	316.21	2.61	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015692	Anabaena	436.86	112.94	Isochorismate synthase (EC 5.4.4.2) @ Phylloquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015701	Anabaena	469.93	11.49	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015963	Anabaena	411.00	0.00	L,L-diaminopimelate aminotransferase (EC 2.6.1.83)
+PGF_00016003	Anabaena	350.00	0.00	L-alanine-DL-glutamate epimerase (EC 5.1.1.n1)
+PGF_00016137	Anabaena	196.43	0.76	L-lactate permease
+PGF_00016328	Anabaena	187.36	3.97	LSU ribosomal protein L10p (P0)
+PGF_00016338	Anabaena	440.93	11.85	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Anabaena	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Anabaena	148.57	2.77	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Anabaena	141.29	0.47	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Anabaena	116.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Anabaena	120.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Anabaena	238.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016361	Anabaena	81.00	20.06	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Anabaena	119.86	1.03	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Anabaena	104.57	0.51	LSU ribosomal protein L23p (L23Ae)
+PGF_00016375	Anabaena	97.29	8.98	ATP-dependent Clp protease adaptor protein ClpS Cyano2
+PGF_00016377	Anabaena	115.86	0.66	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Anabaena	93.29	0.91	LSU ribosomal protein L27p
+PGF_00016393	Anabaena	287.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016406	Anabaena	57.57	0.51	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016439	Anabaena	207.14	10.69	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Anabaena	182.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Anabaena	182.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Anabaena	128.93	1.38	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Anabaena	155.43	10.01	LSU ribosomal protein L9p
+PGF_00016561	Anabaena	144.71	10.80	Lactoylglutathione lyase and related lyases
+PGF_00016919	Anabaena	191.50	1.40	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00016939	Anabaena	776.29	30.00	ATP-dependent DNA helicase UvrD/PcrA/Rep, cyanobacterial paralog
+PGF_00016942	Anabaena	378.64	10.51	Light dependent period modulator LdpA
+PGF_00016953	Anabaena	459.14	20.05	Light-independent protochlorophyllide reductase subunit N (EC 1.18.-.-)
+PGF_00017081	Anabaena	447.43	4.65	Lipid A disaccharide synthetase related enzyme
+PGF_00017108	Anabaena	416.36	3.39	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017109	Anabaena	383.64	4.88	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017127	Anabaena	241.29	2.81	Lipoate-protein ligase A
+PGF_00017190	Anabaena	242.14	0.36	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017611	Anabaena	375.79	0.58	Low-affinity CO2 hydration protein CphX
+PGF_00017650	Anabaena	166.93	7.23	Lipopolysaccharide export system protein LptA
+PGF_00017727	Anabaena	693.71	17.00	Lycopene cyclase, CruA type
+PGF_00018581	Anabaena	294.21	8.10	Main regulator of heterocyst differentiation HetR
+PGF_00019276	Anabaena	388.86	0.36	Mannose-1-phosphate guanylyltransferase
+PGF_00019284	Anabaena	840.21	6.40	Mannose-1-phosphate guanylyltransferase / Phosphomannomutase (EC 5.4.2.8)
+PGF_00020361	Anabaena	175.71	13.71	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020400	Anabaena	277.00	4.08	Metal-dependent membrane protease, abortive infection protein
+PGF_00020530	Anabaena	276.29	4.65	ATP-utilizing enzyme of the PP-loop superfamily
+PGF_00021036	Anabaena	347.14	4.44	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021217	Anabaena	536.14	8.24	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021400	Anabaena	229.21	1.25	Mg-protoporphyrin O-methyltransferase (EC 2.1.1.11)
+PGF_00022029	Anabaena	91.00	0.00	MoaD/ThiS family protein clustered with threonine synthase
+PGF_00022501	Anabaena	600.36	4.34	Molybdenum ABC transporter permease protein ModB / Molybdenum ABC transporter ATP-binding protein ModC
+PGF_00023386	Anabaena	216.14	10.42	Multisubunit-sodium/proton-antiporter-like complex, protein B
+PGF_00023399	Anabaena	205.43	27.16	Muramidase (phage lambda lysozyme)
+PGF_00023476	Anabaena	139.86	1.83	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Anabaena	352.57	8.93	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023835	Anabaena	309.64	4.48	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00023941	Anabaena	177.29	3.75	N-acetyltransferase (GNAT) family, Syn7942_0773 homolog, Ycf52 protein
+PGF_00024273	Anabaena	176.14	21.37	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Anabaena	380.21	3.81	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Anabaena	565.79	5.94	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024375	Anabaena	369.93	7.75	NAD(P)H-plastoquinone oxidoreductase (EC 1.6.5.-) chain 1, NDHA
+PGF_00024384	Anabaena	394.00	0.00	NAD(P)H-plastoquinone oxidoreductase (EC 1.6.5.-) subunit H, NDHH
+PGF_00024390	Anabaena	244.86	0.36	NAD(P)H-plastoquinone oxidoreductase (EC 1.6.5.-) subunit K, NDHK
+PGF_00024392	Anabaena	104.36	26.73	NAD(P)H-plastoquinone oxidoreductase (EC 1.6.5.-) chain 3, NDHC
+PGF_00024478	Anabaena	308.21	84.18	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024500	Anabaena	180.50	14.02	NAD-reducing [NiFe] hydrogenase HoxFUYH(E), subunit delta (HoxY) (EC 1.12.1.2)
+PGF_00024501	Anabaena	239.79	6.68	NAD-reducing [NiFe] hydrogenase HoxFUYH(E), subunit gamma (HoxU) (EC 1.12.1.2)
+PGF_00024509	Anabaena	429.07	0.27	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024567	Anabaena	404.64	1.22	Acetate kinase (EC 2.7.2.1)
+PGF_00024674	Anabaena	150.36	4.88	[NiFe] hydrogenase HoxFUYH(E) maturation factor HoxW
+PGF_00024855	Anabaena	140.36	5.98	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00024906	Anabaena	337.00	0.00	NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)
+PGF_00025090	Anabaena	631.14	1.88	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025164	Anabaena	84.71	0.73	Multisubunit-sodium/proton-antiporter-like complex, protein F
+PGF_00025168	Anabaena	92.29	1.07	Multisubunit-sodium/proton-antiporter-like complex, protein G
+PGF_00025215	Anabaena	173.00	4.40	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025389	Anabaena	289.07	13.14	Negative regulator of beta-lactamase expression
+PGF_00025441	Anabaena	504.14	0.36	Neurosporene C-3',4' desaturase
+PGF_00025474	Anabaena	156.00	1.66	Hydrogenase maturation protease
+PGF_00025602	Anabaena	196.50	4.31	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_00025622	Anabaena	373.79	7.71	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025882	Anabaena	303.64	21.11	Nitrogen assimilation transcriptional activator NtcB
+PGF_00025945	Anabaena	251.07	9.19	Nitrogen-responsive response regulator NrrA
+PGF_00026260	Anabaena	320.00	10.94	Nonaprenyl diphosphate synthase (geranylgeranyl-diphosphate specific) (EC 2.5.1.85)
+PGF_00026279	Anabaena	326.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026453	Anabaena	316.57	0.51	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026454	Anabaena	198.00	3.37	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)
+PGF_00026615	Anabaena	297.64	0.84	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026796	Anabaena	322.57	10.32	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00026903	Anabaena	148.29	1.94	Oligoketide cyclase/lipid transport protein homolog
+PGF_00029229	Anabaena	228.00	0.00	PHP family metal-dependent phosphoesterase
+PGF_00029287	Anabaena	870.00	9.84	Aconitate hydratase 2 (EC 4.2.1.3)
+PGF_00029919	Anabaena	536.86	8.99	Pantoate--beta-alanine ligase (EC 6.3.2.1) / Cytidylate kinase (EC 2.7.4.25)
+PGF_00030640	Anabaena	366.79	4.15	Peptide chain release factor 1
+PGF_00030643	Anabaena	543.00	5.23	Peptide chain release factor 3
+PGF_00030889	Anabaena	170.71	7.67	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00030988	Anabaena	172.00	6.67	Periplasmic component of the Tol biopolymer transport system
+PGF_00030990	Anabaena	172.07	16.10	Periplasmic component of the Tol biopolymer transport system
+PGF_00031429	Anabaena	168.50	3.30	Uncharacterized MFS-type transporter
+PGF_00031511	Anabaena	219.21	2.49	Uncharacterized MFS-type transporter
+PGF_00033095	Anabaena	810.86	0.36	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Anabaena	317.21	0.80	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Anabaena	337.71	5.57	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Anabaena	364.00	13.18	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Anabaena	1012.93	11.72	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033539	Anabaena	447.71	1.20	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033727	Anabaena	209.00	6.64	Phospholipase/carboxylesterase family protein, sll1284 homolog
+PGF_00033729	Anabaena	270.29	8.80	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Anabaena	268.43	9.63	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033928	Anabaena	425.57	0.94	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Anabaena	246.57	2.77	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Anabaena	212.50	3.01	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Anabaena	258.43	5.35	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033959	Anabaena	223.43	0.51	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Anabaena	858.07	175.70	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Anabaena	216.93	3.52	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033980	Anabaena	333.43	0.51	Phosphoribulokinase (EC 2.7.1.19)
+PGF_00034083	Anabaena	77.14	9.80	Photosystem I iron-sulfur center (EC 1.97.1.12)
+PGF_00034085	Anabaena	66.29	1.82	Photosystem II 10 kDa phosphoprotein (PsbH)
+PGF_00034086	Anabaena	144.07	3.25	Photosystem II 12 kDa extrinsic protein (PsbU)
+PGF_00034089	Anabaena	508.43	0.51	Photosystem II CP47 protein (PsbB)
+PGF_00034090	Anabaena	275.79	1.25	Photosystem II manganese-stabilizing protein (PsbO)
+PGF_00034091	Anabaena	183.43	6.17	Photosystem II oxygen evolving complex protein PsbP
+PGF_00034092	Anabaena	131.00	4.98	Photosystem II protein Psb27
+PGF_00034093	Anabaena	38.79	2.94	Photosystem II protein PsbI
+PGF_00034095	Anabaena	39.29	0.47	Photosystem II protein PsbJ
+PGF_00034096	Anabaena	45.00	0.00	Photosystem II protein PsbK
+PGF_00034101	Anabaena	162.64	1.34	Photosystem II protein PsbV, cytochrome c550
+PGF_00034102	Anabaena	39.00	0.00	Photosystem II protein PsbX
+PGF_00034104	Anabaena	57.00	8.30	Photosystem II protein PsbZ
+PGF_00034106	Anabaena	338.71	1.98	Photosystem II stability/assembly factor HCF136/Ycf48
+PGF_00034124	Anabaena	68.00	0.00	Phycobilisome small core linker polypeptide
+PGF_00034127	Anabaena	219.86	0.53	Phycocyanin alpha phycocyanobilin lyase related protein NblB
+PGF_00034139	Anabaena	189.21	1.48	Phycoerythrin linker protein CpeS homolog
+PGF_00034237	Anabaena	479.43	3.92	Squalene/phytoene desaturase HopC
+PGF_00034481	Anabaena	140.21	4.54	Plastocyanin
+PGF_00034972	Anabaena	172.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00035076	Anabaena	130.07	4.34	Possible RuBisCo chaperonin RbcX
+PGF_00035117	Anabaena	305.00	6.47	Possible alpha/beta hydrolase superfamily, slr1827 homolog
+PGF_00035122	Anabaena	298.64	6.25	Possible alpha/beta hydrolase superfamily, slr1917 homolog
+PGF_00035194	Anabaena	341.36	7.25	Adenosine deaminase (EC 3.5.4.4)
+PGF_00035220	Anabaena	514.93	9.01	Possible membrane associated protease
+PGF_00035334	Anabaena	318.07	1.94	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035439	Anabaena	234.57	0.51	Precorrin-2 C(20)-methyltransferase (EC 2.1.1.130)
+PGF_00035467	Anabaena	402.36	0.63	Precorrin-6Y C(5,15)-methyltransferase [decarboxylating] (EC 2.1.1.132)
+PGF_00035721	Anabaena	433.14	7.75	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Anabaena	439.79	16.52	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036682	Anabaena	480.00	3.66	Pro-zeta-carotene desaturase, prolycopene producing (EC 1.-.-.-)
+PGF_00036988	Anabaena	348.36	2.73	Agmatinase (EC 3.5.3.11)
+PGF_00037773	Anabaena	535.79	9.28	Proposed peptidoglycan lipid II flippase MurJ
+PGF_00037884	Anabaena	79.79	1.37	Protein CP12, regulation of Calvin cycle via association/dissociation of PRK/CP12/GAPDH complex
+PGF_00038674	Anabaena	323.57	1.99	Protein translocase subunit SecF
+PGF_00038799	Anabaena	76.57	1.60	Protein translocase membrane subunit SecG
+PGF_00038833	Anabaena	375.93	7.02	Aldo/keto reductase slr1520, 4Fe-4S-containing
+PGF_00038872	Anabaena	371.64	3.18	Protoporphyrin IX Mg-chelatase subunit I (EC 6.6.1.1)
+PGF_00039489	Anabaena	127.43	1.16	Multisubunit-sodium/proton-antiporter-like complex, protein E
+PGF_00040290	Anabaena	108.93	23.93	Putative anti-sigma factor antagonist
+PGF_00040410	Anabaena	329.57	5.92	Putative chaperon-like protein Ycf39 for quinone binding in Photosystem II
+PGF_00043174	Anabaena	304.36	10.65	All-trans-phytoene synthase (EC 2.5.1.99)
+PGF_00043314	Anabaena	245.00	2.45	All3116 protein
+PGF_00044207	Anabaena	159.14	1.88	Putative subunit of NAD(P)H:quinone oxidoreductase
+PGF_00044211	Anabaena	300.00	3.74	Heterodisulfide reductase subunit B-like protein @ Putative succinate dehydrogenase subunit
+PGF_00044439	Anabaena	161.00	0.00	Allophycocyanin alpha chain
+PGF_00045026	Anabaena	306.86	2.66	Putative transmembrane protein HieC
+PGF_00045184	Anabaena	161.00	0.00	Allophycocyanin-B
+PGF_00045833	Anabaena	214.36	0.74	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045991	Anabaena	478.36	8.82	Pyruvate kinase (EC 2.7.1.40)
+PGF_00045994	Anabaena	588.93	0.27	Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain
+PGF_00046016	Anabaena	186.71	13.62	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component, and related enzymes
+PGF_00046017	Anabaena	72.36	3.15	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component, and related enzymes
+PGF_00046060	Anabaena	238.64	32.04	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046197	Anabaena	273.07	2.06	RNA binding methyltransferase FtsJ like
+PGF_00046619	Anabaena	166.86	2.51	RNA-binding protein
+PGF_00046870	Anabaena	155.14	7.82	RTX toxins and related Ca2+-binding proteins
+PGF_00047084	Anabaena	888.29	10.57	Alpha-amylase/alpha-mannosidase
+PGF_00048311	Anabaena	155.43	14.43	alpha-mannosidase (EC 3.2.1.24)
+PGF_00048333	Anabaena	299.93	3.10	Rhodanese domain protein UPF0176, cyanobacterial/alphaproteobacterial subgroup
+PGF_00048528	Anabaena	209.00	0.00	Ribonuclease D related protein
+PGF_00048586	Anabaena	244.86	5.83	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Anabaena	319.29	7.79	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048829	Anabaena	262.86	11.04	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048834	Anabaena	199.21	9.40	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048846	Anabaena	446.00	5.42	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048926	Anabaena	180.14	3.70	Ribosome recycling factor
+PGF_00048936	Anabaena	132.21	0.43	Ribosome-binding factor A
+PGF_00048975	Anabaena	109.00	0.00	Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)
+PGF_00049092	Anabaena	262.57	2.14	Efflux ABC transporter, permease protein
+PGF_00049184	Anabaena	202.79	7.37	Rod shape-determining protein MreD
+PGF_00049225	Anabaena	144.50	9.35	Rrf2 family transcriptional regulator
+PGF_00049264	Anabaena	337.29	0.83	Transcriptional regulator in carotenogenisis cluster
+PGF_00049269	Anabaena	412.79	5.03	Alr5253 protein
+PGF_00049536	Anabaena	326.00	10.17	SAM-dependent methyltransferase DSY4148 (UbiE paralog)
+PGF_00049551	Anabaena	210.86	5.02	SAM-dependent methyltransferase sll0829 (UbiE paralog)
+PGF_00049731	Anabaena	409.14	0.36	Aluminum resistance protein
+PGF_00049817	Anabaena	534.07	19.49	Amidase enhancer
+PGF_00049828	Anabaena	105.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Anabaena	128.00	7.63	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Anabaena	115.71	29.11	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Anabaena	117.00	18.09	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Anabaena	98.93	2.13	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Anabaena	86.86	8.02	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Anabaena	86.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Anabaena	82.29	0.73	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Anabaena	71.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Anabaena	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Anabaena	257.71	4.39	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Anabaena	174.07	0.27	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Anabaena	107.64	0.50	SSU ribosomal protein S6p
+PGF_00049904	Anabaena	149.86	12.24	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Anabaena	133.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Anabaena	138.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050288	Anabaena	268.86	8.47	Segregation and condensation protein A
+PGF_00050292	Anabaena	179.21	3.98	Segregation and condensation protein B
+PGF_00050995	Anabaena	498.93	16.08	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Anabaena	373.36	24.90	Septum site-determining protein MinC
+PGF_00051334	Anabaena	383.50	4.09	Serine--pyruvate aminotransferase (EC 2.6.1.51) / L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
+PGF_00051417	Anabaena	394.36	43.35	Serine/threonine protein kinase
+PGF_00052210	Anabaena	607.29	2.81	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Anabaena	483.79	3.24	Signal recognition particle protein Ffh
+PGF_00052291	Anabaena	112.57	3.20	Signal transduction histidine kinase
+PGF_00052578	Anabaena	200.57	1.45	Similar to cobalt-precorrin-6B C15-methyltransferase [decarboxylating]
+PGF_00052705	Anabaena	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052818	Anabaena	768.86	4.69	Single-stranded-DNA-specific exonuclease RecJ, cyanobacterial paralog
+PGF_00052911	Anabaena	452.29	3.81	Amino-terminal intein-mediated trans-splice / DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00053029	Anabaena	508.57	15.87	Small GTP-binding protein domain
+PGF_00053770	Anabaena	386.57	8.92	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054323	Anabaena	223.07	13.81	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054343	Anabaena	193.86	4.87	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054385	Anabaena	306.71	0.47	Substrate-specific component NikM of nickel ECF transporter / Additional substrate-specific component NikN of nickel ECF transporter
+PGF_00054480	Anabaena	331.21	1.53	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Anabaena	411.21	3.93	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054920	Anabaena	245.93	8.67	Sugar fermentation stimulation protein SfsA
+PGF_00054955	Anabaena	392.57	0.65	Sulfate adenylyltransferase (EC 2.7.7.4)
+PGF_00054964	Anabaena	338.00	0.00	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+PGF_00054986	Anabaena	279.93	17.77	Sulfate transport system permease protein CysT
+PGF_00054988	Anabaena	280.07	7.77	Sulfate transport system permease protein CysW
+PGF_00055099	Anabaena	144.14	0.95	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055198	Anabaena	269.36	17.49	Superfamily I DNA and RNA helicases
+PGF_00055222	Anabaena	488.64	7.12	Superfamily I DNA/RNA helicase
+PGF_00055273	Anabaena	199.14	1.03	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055660	Anabaena	140.64	1.34	TPR-repeat protein, specific for cyanobacteria
+PGF_00055966	Anabaena	385.71	5.38	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056078	Anabaena	427.07	0.92	Ankyrin
+PGF_00056662	Anabaena	352.07	5.59	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056930	Anabaena	479.43	4.78	TldD family protein, Beta/Gamma-proteobacterial subgroup
+PGF_00056948	Anabaena	448.07	1.90	TldE/PmbA family protein, Beta/Gamma-proteobacterial subgroup
+PGF_00057475	Anabaena	146.79	8.29	Anti-sigma regulatory factor (Ser/Thr protein kinase), essential for photomixotrophic growth, PmgA
+PGF_00057485	Anabaena	424.29	2.27	Transcription termination protein NusA
+PGF_00057488	Anabaena	212.14	1.51	Transcription termination protein NusB
+PGF_00058382	Anabaena	223.14	2.28	Transcriptional regulator
+PGF_00060005	Anabaena	298.93	6.63	Transcriptional regulator/sugar kinase, NOT Glucokinase (PMID:15879711)
+PGF_00060365	Anabaena	556.86	8.08	Transglutaminase-like protein Sll1049
+PGF_00060398	Anabaena	666.36	13.07	Transketolase (EC 2.2.1.1)
+PGF_00060409	Anabaena	688.29	13.90	Translation elongation factor G
+PGF_00060414	Anabaena	600.14	10.69	Translation elongation factor LepA
+PGF_00060421	Anabaena	169.79	31.67	Translation elongation factor P
+PGF_00060427	Anabaena	313.36	1.08	Translation elongation factor Ts
+PGF_00060428	Anabaena	409.00	0.00	Translation elongation factor Tu
+PGF_00060431	Anabaena	73.43	2.14	Translation initiation factor 1
+PGF_00060478	Anabaena	177.00	0.00	Translation initiation factor 3
+PGF_00060481	Anabaena	115.07	3.85	Translation initiation factor SUI1-related protein
+PGF_00060519	Anabaena	218.64	2.02	Transmembrane component NikQ of energizing module of nickel ECF transporter
+PGF_00060540	Anabaena	308.79	0.97	Transmembrane component of energizing module of ECF transporters in Cyanobacteria
+PGF_00060588	Anabaena	206.71	1.73	Transmembrane protein PFT27
+PGF_00061916	Anabaena	514.00	39.13	Apolipoprotein N-acyltransferase
+PGF_00062027	Anabaena	393.14	69.19	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062037	Anabaena	87.43	6.00	Tryptophan-rich protein DUF2389, Ssr2843 homolog
+PGF_00062045	Anabaena	335.36	1.34	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063404	Anabaena	164.71	24.24	Type II secretory pathway, pseudopilin PulG
+PGF_00063727	Anabaena	366.57	8.32	Type IV pilus biogenesis protein PilM
+PGF_00063766	Anabaena	786.00	28.95	Type IV pilus biogenesis protein PilQ
+PGF_00063916	Anabaena	409.21	10.39	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063944	Anabaena	284.79	5.48	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063993	Anabaena	357.21	0.80	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00064132	Anabaena	310.57	1.79	UDP-glucuronate decarboxylase (EC 4.1.1.35)
+PGF_00064143	Anabaena	381.71	8.55	UDP-sulfoquinovose synthase (EC 3.13.1.1)
+PGF_00064244	Anabaena	474.43	45.90	Arginine decarboxylase (EC 4.1.1.19)
+PGF_00064285	Anabaena	425.64	7.01	UPF0272 protein Slr1411
+PGF_00064839	Anabaena	107.00	0.00	Uncharacterized monothiol glutaredoxin ycf64-like
+PGF_00065349	Anabaena	328.36	5.46	Uncharacterized protein Slr1444
+PGF_00065743	Anabaena	530.43	124.33	Uncharacterized protein sll1770
+PGF_00065746	Anabaena	464.00	40.24	Uncharacterized protein slr1624
+PGF_00065748	Anabaena	567.86	9.00	Uncharacterized protein slr1919
+PGF_00066203	Anabaena	146.21	0.58	Urease accessory protein UreE
+PGF_00066215	Anabaena	567.64	1.74	Urease alpha subunit (EC 3.5.1.5)
+PGF_00066216	Anabaena	102.21	2.49	Urease beta subunit (EC 3.5.1.5)
+PGF_00066218	Anabaena	100.00	0.00	Urease gamma subunit (EC 3.5.1.5)
+PGF_00066242	Anabaena	312.00	0.39	Uridine kinase (EC 2.7.1.48)
+PGF_00066253	Anabaena	472.93	6.16	Uridine phosphorylase
+PGF_00066270	Anabaena	350.00	0.00	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066449	Anabaena	430.93	12.69	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00066453	Anabaena	1009.00	5.68	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Anabaena	125.50	6.14	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00067129	Anabaena	793.00	0.00	Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9) @ Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+PGF_00067188	Anabaena	340.21	18.20	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067217	Anabaena	249.93	3.95	Probable iron export ATP-binding protein FetA
+PGF_00067340	Anabaena	95.86	1.03	YggT family protein YlmG/ssl0353, required for proper distribution of nucleoids in chloroplast and cyanobacteria
+PGF_00067347	Anabaena	605.64	6.73	Aspartokinase (EC 2.7.2.4) / ACT domain-containing protein
+PGF_00067383	Anabaena	562.00	11.79	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067412	Anabaena	79.86	4.70	YrbA protein
+PGF_00067731	Anabaena	182.21	1.85	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_00067771	Anabaena	384.36	3.71	[NiFe] hydrogenase metallocenter assembly protein HypD
+PGF_00068082	Anabaena	336.36	15.29	aldo/keto reductase family
+PGF_00069870	Anabaena	175.29	10.16	Cob(I)alamin adenosyltransferase-like protein
+PGF_00070710	Anabaena	800.86	4.40	BILE ACID BETA-GLUCOSIDASE
+PGF_00071648	Anabaena	378.14	2.66	glutamate--cysteine ligase, putative
+PGF_00072204	Anabaena	834.50	11.75	heterocyst differentiation protein
+PGF_00072206	Anabaena	217.71	3.20	heterocyst differentiation related protein
+PGF_00073885	Anabaena	105.14	11.76	hypothetical protein
+PGF_00075405	Anabaena	126.00	1.24	hypothetical protein
+PGF_00082486	Anabaena	107.79	4.54	hypothetical protein
+PGF_00083247	Anabaena	158.57	5.21	hypothetical protein
+PGF_00083254	Anabaena	104.71	12.57	hypothetical protein
+PGF_00084324	Anabaena	308.29	11.55	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00085920	Anabaena	365.14	10.83	hypothetical protein
+PGF_00091492	Anabaena	70.07	0.27	hypothetical protein
+PGF_00097198	Anabaena	128.71	5.65	hypothetical protein
+PGF_00097987	Anabaena	310.71	0.73	hypothetical protein
+PGF_00099406	Anabaena	248.93	12.78	hypothetical protein
+PGF_00099927	Anabaena	260.93	0.27	hypothetical protein
+PGF_00100883	Anabaena	149.21	5.21	hypothetical protein
+PGF_00104243	Anabaena	161.57	2.62	hypothetical protein
+PGF_00110592	Anabaena	263.71	25.41	hypothetical protein
+PGF_00112865	Anabaena	170.71	5.81	hypothetical protein
+PGF_00113383	Anabaena	68.00	0.00	hypothetical protein
+PGF_00113461	Anabaena	280.86	3.21	FIG00872925: hypothetical protein, COG4735 domain
+PGF_00113984	Anabaena	203.00	11.81	Flavin prenyltransferase UbiX
+PGF_00120080	Anabaena	51.00	0.00	hypothetical protein
+PGF_00126288	Anabaena	201.64	1.45	hypothetical protein
+PGF_00129496	Anabaena	158.14	8.38	hypothetical protein
+PGF_00129533	Anabaena	281.21	6.68	hypothetical protein
+PGF_00130323	Anabaena	211.29	2.58	hypothetical protein
+PGF_00132798	Anabaena	465.29	2.70	hypothetical protein
+PGF_00135236	Anabaena	99.00	13.25	hypothetical protein
+PGF_00137773	Anabaena	189.71	8.55	hypothetical protein
+PGF_00140456	Anabaena	461.57	39.58	hypothetical protein
+PGF_00144283	Anabaena	86.00	0.00	hypothetical protein
+PGF_00146467	Anabaena	168.36	42.58	hypothetical protein
+PGF_00150759	Anabaena	65.64	2.98	hypothetical protein
+PGF_00152029	Anabaena	78.00	0.00	hypothetical protein
+PGF_00156911	Anabaena	186.14	16.09	hypothetical protein
+PGF_00167975	Anabaena	68.86	2.32	hypothetical protein
+PGF_00171838	Anabaena	86.07	3.12	hypothetical protein
+PGF_00172188	Anabaena	84.93	4.01	hypothetical protein
+PGF_00172932	Anabaena	126.57	4.93	hypothetical protein
+PGF_00174328	Anabaena	136.29	13.94	hypothetical protein
+PGF_00177977	Anabaena	520.43	8.18	hypothetical protein
+PGF_00181406	Anabaena	141.86	0.36	hypothetical protein
+PGF_00184518	Anabaena	122.93	4.01	hypothetical protein
+PGF_00188079	Anabaena	57.50	2.28	hypothetical protein
+PGF_00198205	Anabaena	123.00	0.00	hypothetical protein
+PGF_00208319	Anabaena	101.43	8.78	hypothetical protein
+PGF_00218510	Anabaena	110.00	0.00	hypothetical protein
+PGF_00225223	Anabaena	88.50	7.18	hypothetical protein
+PGF_00229475	Anabaena	135.07	2.67	hypothetical protein
+PGF_00230897	Anabaena	86.86	0.86	hypothetical protein
+PGF_00231600	Anabaena	289.57	0.51	hypothetical protein
+PGF_00234189	Anabaena	122.50	12.81	Cytochrome c, class I
+PGF_00238016	Anabaena	85.29	4.79	hypothetical protein
+PGF_00239472	Anabaena	88.86	1.03	hypothetical protein
+PGF_00244644	Anabaena	61.21	5.47	hypothetical protein
+PGF_00256842	Anabaena	198.21	20.05	hypothetical protein
+PGF_00261173	Anabaena	351.29	1.77	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00262844	Anabaena	136.71	12.29	hypothetical protein
+PGF_00263896	Anabaena	83.36	5.12	hypothetical protein
+PGF_00267540	Anabaena	193.21	0.58	hypothetical protein
+PGF_00268082	Anabaena	85.00	0.00	hypothetical protein
+PGF_00268956	Anabaena	89.21	4.54	hypothetical protein
+PGF_00269131	Anabaena	167.57	4.22	hypothetical protein
+PGF_00272558	Anabaena	118.36	12.78	hypothetical protein
+PGF_00277009	Anabaena	107.79	30.36	hypothetical protein
+PGF_00279105	Anabaena	106.64	9.68	hypothetical protein
+PGF_00281247	Anabaena	134.86	0.53	hypothetical protein
+PGF_00282768	Anabaena	88.86	3.35	hypothetical protein
+PGF_00285169	Anabaena	162.36	2.50	hypothetical protein
+PGF_00285329	Anabaena	57.00	0.00	hypothetical protein
+PGF_00285828	Anabaena	95.57	3.03	hypothetical protein
+PGF_00291209	Anabaena	97.14	2.98	hypothetical protein
+PGF_00294765	Anabaena	146.43	2.95	hypothetical protein
+PGF_00295936	Anabaena	246.43	1.60	ABC transporter, ATP-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_00298948	Anabaena	81.64	1.15	hypothetical protein
+PGF_00305582	Anabaena	186.43	7.08	hypothetical protein
+PGF_00307953	Anabaena	81.50	3.63	hypothetical protein
+PGF_00319634	Anabaena	161.21	12.13	hypothetical protein
+PGF_00321553	Anabaena	309.29	0.99	ABC transporter, substrate-binding protein (cluster 8, B12/iron complex)
+PGF_00324445	Anabaena	186.86	6.95	hypothetical protein
+PGF_00329912	Anabaena	224.71	7.39	hypothetical protein
+PGF_00336107	Anabaena	90.36	1.34	hypothetical protein
+PGF_00342383	Anabaena	63.71	0.83	hypothetical protein
+PGF_00342973	Anabaena	135.14	19.30	hypothetical protein
+PGF_00343373	Anabaena	116.86	1.29	hypothetical protein
+PGF_00345496	Anabaena	86.86	2.57	hypothetical protein
+PGF_00347404	Anabaena	93.14	2.11	hypothetical protein
+PGF_00347881	Anabaena	75.00	0.00	hypothetical protein
+PGF_00350648	Anabaena	64.64	0.50	hypothetical protein
+PGF_00357676	Anabaena	51.71	2.64	hypothetical protein
+PGF_00363665	Anabaena	86.50	1.09	hypothetical protein
+PGF_00371829	Anabaena	349.71	3.77	hypothetical protein
+PGF_00372705	Anabaena	427.07	17.26	hypothetical protein
+PGF_00375332	Anabaena	198.79	1.31	SepF, FtsZ-interacting protein related to cell division
+PGF_00380046	Anabaena	168.64	15.54	FIG01149322: hypothetical protein
+PGF_00380417	Anabaena	88.64	11.28	hypothetical protein
+PGF_00383137	Anabaena	345.43	17.54	hypothetical protein
+PGF_00386026	Anabaena	110.29	3.79	Uncharacterized protein sll0608
+PGF_00389809	Anabaena	67.07	0.27	hypothetical protein
+PGF_00391321	Anabaena	71.79	0.43	hypothetical protein
+PGF_00397453	Anabaena	161.21	3.58	hypothetical protein
+PGF_00397689	Anabaena	83.00	4.28	hypothetical protein
+PGF_00399354	Anabaena	92.71	3.97	hypothetical protein
+PGF_00401528	Anabaena	295.93	4.46	Beta-carotene hydroxylase
+PGF_00401626	Anabaena	142.93	2.23	mutator protein
+PGF_00401690	Anabaena	278.71	0.47	Bicarbonate ABC transporter, permease protein
+PGF_00402031	Anabaena	367.00	12.16	2-methyl-6-phytyl-1,4-benzoquinone cyclase @ 2,3-dimethyl-6-phytyl-1,4-benzoquinone cyclase @ 2-methyl-6-geranylgeranyl-1,4-benzoquinone cyclase @ 2,3-dimethyl-6-geranylgeranyl-1,4-benzoquinone cyclase
+PGF_00402478	Anabaena	231.00	7.25	D-alanyl-D-alanine dipeptidase (EC 3.4.13.22)
+PGF_00402673	Anabaena	243.86	4.87	Beta-phosphoglucomutase (EC 5.4.2.6)
+PGF_00402983	Anabaena	352.71	2.97	phosphatidylcholine desaturase
+PGF_00402985	Anabaena	282.00	4.56	Bicarbonate ABC transporter, ATP-binding protein
+PGF_00402998	Anabaena	457.21	2.52	Bicarbonate ABC transporter, substrate-binding protein
+PGF_00403137	Anabaena	189.79	11.36	photosystem I assembly related protein Ycf4
+PGF_00403139	Anabaena	138.43	0.51	photosystem I subunit II (PsaD)
+PGF_00403140	Anabaena	164.00	0.00	photosystem I subunit III precursor, plastocyanin (cyt c553) docking protein (PsaF)
+PGF_00403141	Anabaena	70.07	3.22	photosystem I subunit IV (PsaE)
+PGF_00403146	Anabaena	161.50	9.75	photosystem I subunit XI (PsaL)
+PGF_00403480	Anabaena	329.14	3.86	Biliverdin reductase (EC 1.3.1.24)
+PGF_00403612	Anabaena	229.71	9.78	possible heat shock protein DnaJ
+PGF_00404078	Anabaena	176.14	4.49	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404227	Anabaena	142.21	11.65	Biotin carboxylase (EC 6.3.4.14)
+PGF_00404256	Anabaena	447.71	0.47	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404555	Anabaena	608.57	85.82	probable protein phosphatase
+PGF_00404718	Anabaena	500.86	5.29	processing proteinase
+PGF_00404809	Anabaena	448.21	6.33	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00404829	Anabaena	720.86	12.87	protease htpX-like protein
+PGF_00405566	Anabaena	165.86	1.41	purine-binding chemotaxis protein
+PGF_00406299	Anabaena	463.86	1.46	putative amidase sll0828
+PGF_00408704	Anabaena	121.29	18.79	putative membrane protein
+PGF_00410452	Anabaena	584.07	6.18	putative secreted protein
+PGF_00411958	Anabaena	409.64	3.75	Ribulose 1,5-bisphosphate carboxylase/oxygenase activase
+PGF_00412482	Anabaena	156.00	0.00	Branched-chain amino acid permeases
+PGF_00412546	Anabaena	957.36	3.15	similar to phosphoenolpyruvate synthase
+PGF_00412788	Anabaena	228.86	0.36	2-phytyl-1,4-naphtoquinone methyltransferase (EC 2.1.1.n12) @ Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_00413203	Anabaena	152.43	1.65	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413277	Anabaena	897.29	15.07	tRNA nucleotidyltransferase, A-adding (EC 2.7.7.72)
+PGF_00413279	Anabaena	424.64	1.86	tRNA nucleotidyltransferase, CC-adding (EC 2.7.7.72)
+PGF_00413295	Anabaena	295.14	6.32	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Anabaena	155.86	6.21	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Anabaena	155.57	0.51	tmRNA-binding protein SmpB
+PGF_00413583	Anabaena	297.86	8.24	C-1'-hydroxylase CruF
+PGF_00414366	Anabaena	577.57	12.41	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414830	Anabaena	55.79	0.58	CAB/ELIP/HLIP-related protein
+PGF_00415247	Anabaena	263.86	4.37	COG0546: Predicted phosphatases
+PGF_00415498	Anabaena	670.79	0.80	COG1649 predicted glycoside hydrolase
+PGF_00415634	Anabaena	89.36	0.74	COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+PGF_00416115	Anabaena	292.86	0.36	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416210	Anabaena	249.57	3.34	Candidate 1: dienelactone hydrolase
+PGF_00416442	Anabaena	424.64	12.64	Carbohydrate kinase, FGGY family
+PGF_00416460	Anabaena	261.86	1.23	Carbon dioxide concentrating mechanism protein CcmO
+PGF_00416533	Anabaena	543.21	9.92	3'-phosphoadenosine 5'-phosphosulfate sulfurtransferase DndC
+PGF_00416643	Anabaena	100.57	0.65	Carboxysome protein CcmL
+PGF_00416644	Anabaena	553.50	2.31	Carboxysome protein CcmM
+PGF_00416645	Anabaena	258.50	11.75	Carboxysome protein CcmN
+PGF_00416704	Anabaena	560.71	12.17	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25) / C-terminal extension specific for cyanobacteria
+PGF_00416957	Anabaena	269.00	0.00	Cell division protein FtsI/penicillin-binding protein 2
+PGF_00417107	Anabaena	766.71	14.21	Cell division protein ZipN/Ftn2/Arc6, specific for cyanobacteria and chloroplast
+PGF_00417351	Anabaena	69.64	1.65	Cellulase M and related proteins
+PGF_00417414	Anabaena	107.00	0.00	Changed start to match that seen in other orgs.
+PGF_00417429	Anabaena	374.86	9.37	Chaperone protein DnaJ
+PGF_00417577	Anabaena	148.29	7.11	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417839	Anabaena	136.43	1.45	Chorismate mutase II (EC 5.4.99.5)
+PGF_00418036	Anabaena	286.64	14.61	Chromosome segregation ATPases
+PGF_00418039	Anabaena	688.79	5.01	Chromosome segregation ATPases
+PGF_00418069	Anabaena	162.14	44.19	Circadian clock protein KaiA
+PGF_00418087	Anabaena	261.64	0.84	Circadian phase modifier
+PGF_00418147	Anabaena	545.79	27.67	Cleavage and polyadenylation specificity factor, 73 kDa subunit
+PGF_00418148	Anabaena	401.14	7.29	Clock-associated two-component sensor histidine kinase SasA
+PGF_00418252	Anabaena	348.64	2.02	CobW GTPase involved in cobalt insertion for B12 biosynthesis
+PGF_00418291	Anabaena	269.50	8.25	Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+PGF_00418292	Anabaena	370.21	1.85	Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)
+PGF_00418379	Anabaena	466.57	15.64	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00419437	Anabaena	260.00	0.00	Efflux ABC transporter, permease protein
+PGF_00419702	Anabaena	163.00	0.00	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419850	Anabaena	384.71	5.99	Cyanobacteria-specific RpoD-like sigma factor, type-1
+PGF_00419854	Anabaena	324.71	23.84	Cyanobacteria-specific RpoD-like sigma factor, type-2 @ Group 2 RNA polymerase sigma factor
+PGF_00419855	Anabaena	327.00	0.00	Cyanobacteria-specific RpoD-like sigma factor, type-3 @ Group 2 RNA polymerase sigma factor
+PGF_00419862	Anabaena	183.07	3.47	Cyanobacterial protein slr0575
+PGF_00419870	Anabaena	891.93	25.43	Cyanophycin synthase (EC 6.3.2.29)(EC 6.3.2.30)
+PGF_00419913	Anabaena	163.71	6.52	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420048	Anabaena	392.57	13.14	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420232	Anabaena	82.00	0.00	Cytochrome b559 alpha chain (PsbE)
+PGF_00420233	Anabaena	45.00	0.00	Cytochrome b559 beta chain (PsbF)
+PGF_00420244	Anabaena	142.71	5.33	Cytochrome b6-f complex alternative Rieske iron sulfur protein PetC3
+PGF_00420245	Anabaena	177.71	4.81	Cytochrome b6-f complex iron-sulfur subunit PetC1 (Rieske iron sulfur protein EC 1.10.9.1)
+PGF_00420246	Anabaena	152.57	19.14	Cytochrome b6-f complex subunit IV (PetD)
+PGF_00420251	Anabaena	328.14	8.03	Cytochrome b6-f complex subunit, apocytochrome f
+PGF_00420252	Anabaena	215.00	0.00	Cytochrome b6-f complex subunit, cytochrome b6
+PGF_00420471	Anabaena	245.93	0.27	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+PGF_00420731	Anabaena	490.57	1.09	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420798	Anabaena	357.29	6.72	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420959	Anabaena	345.71	6.90	D-glycerate 3-kinase (EC 2.7.1.31), plant type
+PGF_00420994	Anabaena	763.29	0.47	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421492	Anabaena	875.29	0.91	DNA polymerase III alpha subunit (EC 2.7.7.7) / Carboxy-terminal intein-mediated trans-splice
+PGF_00421796	Anabaena	577.57	2.93	DNA repair protein RecN
+PGF_00421916	Anabaena	177.07	1.33	DNA uptake protein and related DNA-binding proteins
+PGF_00422271	Anabaena	312.43	11.39	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422286	Anabaena	75.00	5.96	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_00422971	Anabaena	610.50	8.67	4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family
+PGF_00423089	Anabaena	394.21	7.32	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423141	Anabaena	148.71	0.47	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in phylloquinone biosynthesis
+PGF_00423348	Anabaena	480.00	10.60	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_00423533	Anabaena	316.14	4.72	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423692	Anabaena	172.93	15.24	DnaJ protein
+PGF_00423701	Anabaena	207.71	0.91	DnaJ-class molecular chaperone
+PGF_00424225	Anabaena	166.71	2.52	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424425	Anabaena	355.00	7.71	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+PGF_00424447	Anabaena	358.71	20.34	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424853	Anabaena	275.29	8.62	Esterase/lipase/thioesterase family protein
+PGF_00424971	Anabaena	626.29	1.98	Excinuclease ABC subunit C
+PGF_00425011	Anabaena	260.14	0.36	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425630	Anabaena	442.29	13.58	FHA-domain-containing protein
+PGF_00425665	Anabaena	259.57	2.44	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425684	Anabaena	252.29	2.87	Probable transcriptional regulatory protein YebC
+PGF_00425720	Anabaena	260.07	4.01	Putative RNA-binding protein YlmH
+PGF_00425806	Anabaena	456.79	0.58	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Anabaena	398.14	0.36	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426041	Anabaena	312.93	18.86	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Anabaena	635.07	0.27	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426722	Anabaena	1178.50	1.56	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426877	Anabaena	293.36	0.74	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Anabaena	174.50	13.35	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Anabaena	288.14	3.13	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00500015	Anabaena	303.00	12.37	pyridoxal phosphate-dependent deaminase, putative
+PGF_00503288	Anabaena	786.50	16.24	[NiFe] hydrogenase metallocenter assembly protein HypF
+PGF_00565750	Anabaena	254.00	0.00	ATPase component NikO of energizing module of nickel ECF transporter
+PGF_00587021	Anabaena	133.00	0.00	Sensory subunit of low CO2-induced protein complex, putative
+PGF_00598888	Anabaena	160.57	4.50	Mini-ribonuclease III
+PGF_00618776	Anabaena	356.14	0.86	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Anabaena	228.36	4.88	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00637546	Anabaena	173.14	12.06	hypothetical protein
+PGF_00637549	Anabaena	147.00	4.56	hypothetical protein
+PGF_00637599	Anabaena	120.86	25.88	hypothetical protein
+PGF_00637853	Anabaena	108.79	12.35	hypothetical protein
+PGF_00641071	Anabaena	287.50	15.76	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644212	Anabaena	274.29	0.73	Nucleoside-diphosphate-sugar epimerases
+PGF_00655358	Anabaena	496.36	1.78	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00665875	Anabaena	146.43	6.12	Ribosomal silencing factor RsfA
+PGF_00687056	Anabaena	479.64	5.08	Protein pucC
+PGF_00693446	Anabaena	102.07	4.01	NAD(P)H-plastoquinone oxidoreductase (EC 1.6.5.-) chain 4L, NDHE
+PGF_00693516	Anabaena	188.79	3.72	Multisubunit-sodium/proton-antiporter-like complex, protein X
+PGF_00693609	Anabaena	225.29	10.36	hypothetical protein
+PGF_00694163	Anabaena	217.79	7.89	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_00695458	Anabaena	279.29	1.07	Urease accessory protein UreD
+PGF_00717495	Anabaena	378.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00728253	Anabaena	239.57	21.87	hypothetical protein
+PGF_00730641	Anabaena	219.79	11.51	4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+PGF_00734617	Anabaena	220.71	8.94	ABC transporter, ATP-binding protein
+PGF_00736511	Anabaena	125.86	1.35	Uncharacterized MFS-type transporter
+PGF_00743561	Anabaena	196.71	2.05	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00776422	Anabaena	138.86	12.35	hypothetical protein
+PGF_00777371	Anabaena	238.93	4.32	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00778855	Anabaena	102.00	0.00	Carbon dioxide-concentrating mechanism protein CcmK homolog 2
+PGF_00799424	Anabaena	304.00	6.23	hypothetical protein
+PGF_00800095	Anabaena	290.79	19.09	Phage peptidoglycan binding endopeptidase
+PGF_00853393	Anabaena	296.00	3.21	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Anabaena	420.79	0.58	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00860314	Anabaena	124.43	18.73	Metal-sensitive transcriptional repressor
+PGF_00883341	Anabaena	45.57	0.51	hypothetical protein
+PGF_00886712	Anabaena	502.21	0.80	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00899459	Anabaena	262.36	6.44	ABC transporter, permease protein (cluster 12, methionine/phosphonates)
+PGF_00908360	Anabaena	258.36	5.11	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Anabaena	350.00	0.96	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Anabaena	334.36	6.17	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00929949	Anabaena	341.93	5.62	Sorbitol dehydrogenase (EC 1.1.1.14)
+PGF_00931618	Anabaena	177.21	4.90	Single-stranded DNA-binding protein
+PGF_00932354	Anabaena	299.00	21.45	Cell division protein FtsQ
+PGF_00934386	Anabaena	113.71	1.68	Carbon dioxide-concentrating mechanism protein CcmK homolog 1
+PGF_00935308	Anabaena	262.64	3.69	FIG011178: rRNA methylase
+PGF_00955412	Anabaena	258.00	0.00	Probable iron export permease protein FetB
+PGF_00956193	Anabaena	364.36	1.95	BioD-like N-terminal domain of phosphotransacetylase
+PGF_00958117	Anabaena	135.00	0.00	hypothetical protein
+PGF_00960089	Anabaena	267.50	2.98	hypothetical protein
+PGF_00961499	Anabaena	750.14	12.22	Amylopullulanase
+PGF_00965993	Anabaena	135.00	8.40	Two-component transcriptional response regulator, LuxR family
+PGF_00972322	Anabaena	291.43	37.14	Serine/threonine protein kinase
+PGF_00983639	Anabaena	119.21	5.35	Two-component transcriptional response regulator, LuxR family
+PGF_01000736	Anabaena	366.07	5.28	hypothetical protein
+PGF_01008498	Anabaena	123.14	23.63	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01021012	Anabaena	273.00	0.00	Protease IV
+PGF_01041366	Anabaena	1090.79	26.85	Two-component system sensor histidine kinase/response regulator hybrid
+PGF_01042308	Anabaena	210.21	9.10	hypothetical protein
+PGF_01085115	Anabaena	223.86	33.33	Uncharacterized MFS-type transporter
+PGF_01126005	Anabaena	432.43	8.80	Rod shape-determining protein RodA
+PGF_01147190	Anabaena	478.21	0.43	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01174739	Anabaena	365.93	80.32	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01193380	Anabaena	130.86	1.41	DNA sulfur modification protein DndE
+PGF_01207318	Anabaena	152.29	7.67	hypothetical protein
+PGF_01212500	Anabaena	309.93	23.28	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01284176	Anabaena	223.71	49.71	Rubrerythrin
+PGF_01305640	Anabaena	258.57	12.13	Phytyl-phosphate kinase (EC 2.7.4.-)
+PGF_01323228	Anabaena	226.43	2.65	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01351158	Anabaena	1153.07	65.82	Transcription-repair coupling factor
+PGF_01389077	Anabaena	65.86	2.25	Uncharacterized protein YbcJ
+PGF_01406994	Anabaena	259.86	12.18	Glutamine TRAP transporter, substrate-binding protein
+PGF_01407825	Anabaena	487.00	2.75	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_01408166	Anabaena	293.14	7.84	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_01412007	Anabaena	250.86	20.39	hypothetical protein
+PGF_01412814	Anabaena	102.00	2.42	hypothetical protein
+PGF_01414571	Anabaena	108.00	3.74	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_01421534	Anabaena	98.93	0.27	LSU ribosomal protein L25p
+PGF_01435544	Anabaena	265.79	0.80	Phenazine biosynthesis protein PhzF like
+PGF_01444546	Anabaena	96.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01457046	Anabaena	346.14	12.20	Uncharacterized membrane protein, YraQ family
+PGF_01466742	Anabaena	424.21	23.72	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01469197	Anabaena	459.21	1.42	RNA methyltransferase, TrmA family
+PGF_01473791	Anabaena	457.29	2.97	Cytochrome c-type biogenesis protein Ccs1/ResB
+PGF_01529717	Anabaena	510.07	82.91	DndB-like protein
+PGF_01532393	Anabaena	724.07	12.47	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01614738	Anabaena	85.14	18.96	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01673335	Anabaena	272.29	2.79	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01674551	Anabaena	129.57	0.51	Glycine cleavage system H protein
+PGF_01682834	Anabaena	153.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Anabaena	304.14	5.33	DNA recombination and repair protein RecO
+PGF_01691669	Anabaena	241.57	5.65	hypothetical protein
+PGF_01691775	Anabaena	141.64	8.45	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_01752285	Anabaena	180.50	6.20	Uncharacterized protein YacP, similar to C-terminal domain of ribosome protection-type Tc-resistance proteins
+PGF_01810645	Anabaena	503.07	1.49	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01842781	Anabaena	588.21	0.58	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01867628	Anabaena	361.86	5.89	Heat-inducible transcription repressor HrcA
+PGF_01877133	Anabaena	410.79	9.12	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Anabaena	171.14	6.70	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Anabaena	222.21	4.06	Endonuclease III (EC 4.2.99.18)
+PGF_01898546	Anabaena	444.36	7.46	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01899937	Anabaena	265.64	5.18	Rod shape-determining protein MreC
+PGF_01960322	Anabaena	628.86	3.42	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01984533	Anabaena	88.00	0.00	UPF0296 protein YlzA
+PGF_01994657	Anabaena	469.21	2.75	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Anabaena	142.50	8.82	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02019462	Anabaena	330.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Anabaena	342.79	1.58	GTP-binding protein Obg
+PGF_02061452	Anabaena	380.50	4.93	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02083711	Anabaena	117.29	5.78	hypothetical protein
+PGF_02084651	Anabaena	71.79	6.97	hypothetical protein
+PGF_02084687	Anabaena	115.14	4.29	hypothetical protein
+PGF_02085496	Anabaena	281.07	74.41	DnaJ-class molecular chaperone
+PGF_02086898	Anabaena	245.00	8.38	Sirohydrochlorin cobaltochelatase CbiX(long) (EC 4.99.1.3)
+PGF_02087596	Anabaena	176.93	2.16	Positive regulator of CheA protein activity (CheW)
+PGF_02092515	Anabaena	46.00	0.00	hypothetical protein
+PGF_02097015	Anabaena	313.86	1.79	Homogentisate phytyltransferase (EC 2.5.1.115) @ Homogentisate geranylgeranyltransferase (EC 2.5.1.116)
+PGF_02098869	Anabaena	428.29	30.36	Lipid A core O-antigen ligase related Slr0728
+PGF_02111888	Anabaena	401.64	0.93	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02224568	Anabaena	402.50	1.22	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02283065	Anabaena	627.43	10.80	Sodium/hydrogen exchanger family protein
+PGF_02346669	Anabaena	307.36	5.08	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02355769	Anabaena	395.50	1.87	Alanine racemase (EC 5.1.1.1)
+PGF_02364859	Anabaena	152.21	1.05	Peroxiredoxin, Bcp-type (EC 1.11.1.15)
+PGF_02364962	Anabaena	191.29	1.49	hypothetical protein
+PGF_02366121	Anabaena	692.57	2.71	NAD(P)H-plastoquinone oxidoreductase (EC 1.6.5.-) chain 5, NDHF
+PGF_02366845	Anabaena	648.64	22.46	Two-component system sensor histidine kinase
+PGF_02420191	Anabaena	490.64	2.50	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02463284	Anabaena	185.07	11.10	Recombination protein RecR
+PGF_02518459	Anabaena	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02587605	Anabaena	134.00	6.18	Zinc uptake regulation protein Zur
+PGF_02593689	Anabaena	459.57	7.74	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02623406	Anabaena	342.21	11.26	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02695593	Anabaena	129.43	0.76	hypothetical protein
+PGF_02773887	Anabaena	444.07	3.75	Candidate type III effector Hop protein
+PGF_02789532	Anabaena	303.36	3.63	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Anabaena	189.43	14.08	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Anabaena	223.79	13.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02838109	Anabaena	182.64	8.13	Shikimate kinase I (EC 2.7.1.71)
+PGF_02862285	Anabaena	399.29	0.61	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866109	Anabaena	207.43	22.63	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02886714	Anabaena	293.79	26.03	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+PGF_02893291	Anabaena	586.57	8.67	Efflux ABC transporter, permease/ATP-binding protein slr0615
+PGF_02893929	Anabaena	285.79	3.26	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02893930	Anabaena	271.07	1.77	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02895613	Anabaena	441.21	3.04	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02899131	Anabaena	74.86	0.36	LSU ribosomal protein L29p (L35e)
+PGF_02904405	Anabaena	114.21	4.54	[NiFe] hydrogenase nickel incorporation protein HypA
+PGF_02920309	Anabaena	333.43	12.41	Transcriptional regulator, GntR family
+PGF_02923127	Anabaena	240.79	4.54	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Anabaena	326.29	11.31	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Anabaena	296.29	3.50	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02948776	Anabaena	74.57	12.36	hypothetical protein
+PGF_02950579	Anabaena	268.00	0.00	Septum site-determining protein MinD
+PGF_02960239	Anabaena	445.86	0.36	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02967820	Anabaena	260.57	1.87	hypothetical protein
+PGF_02970899	Anabaena	626.00	0.00	Efflux ABC transporter, permease/ATP-binding protein slr1149
+PGF_02988857	Anabaena	404.57	5.21	N-acetyl-L,L-diaminopimelate deacetylase homolog
+PGF_02997519	Anabaena	490.71	6.71	DNA repair helicase
+PGF_02997723	Anabaena	177.14	12.43	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_02999429	Anabaena	142.29	1.82	MutT/Nudix family protein
+PGF_03000070	Anabaena	347.71	8.86	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03006190	Anabaena	419.57	0.51	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03011148	Anabaena	102.43	6.19	Cell division topological specificity factor MinE
+PGF_03032881	Anabaena	415.07	1.33	Phosphate-binding protein
+PGF_03033259	Anabaena	250.79	6.64	Serine/threonine protein phosphatase (EC 3.1.3.16)
+PGF_03051427	Anabaena	292.00	0.00	3-hydroxyisobutyrate dehydrogenase family protein
+PGF_03057384	Anabaena	376.00	7.21	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03064522	Anabaena	136.64	6.77	Methyl-accepting chemotaxis protein
+PGF_03069304	Anabaena	77.00	0.00	hypothetical protein
+PGF_03081665	Anabaena	89.14	8.65	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03084438	Anabaena	139.50	3.06	Two-component transcriptional response regulator, LuxR family
+PGF_03099736	Anabaena	109.86	2.11	hypothetical protein
+PGF_03103119	Anabaena	333.00	10.32	Light-dependent protochlorophyllide reductase (EC 1.3.1.33)
+PGF_03103521	Anabaena	166.50	8.02	Uncharacterized protein Npun_F1500
+PGF_03104213	Anabaena	410.86	5.43	Rhs-family protein
+PGF_03111775	Anabaena	349.64	4.83	Anthranilate phosphoribosyltransferase like (EC 2.4.2.18)
+PGF_03124650	Anabaena	485.93	0.27	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Anabaena	438.00	3.23	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03133699	Anabaena	858.93	16.50	Aminopeptidase
+PGF_03145455	Anabaena	327.00	0.00	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+PGF_03174068	Anabaena	210.36	1.65	Transcription antitermination protein NusG
+PGF_03187392	Anabaena	304.71	74.56	Fructokinase (EC 2.7.1.4)
+PGF_03222913	Anabaena	138.93	7.22	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03253896	Anabaena	250.07	0.27	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Anabaena	201.79	2.94	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03278866	Anabaena	78.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03293103	Anabaena	379.50	24.73	Transcriptional regulator
+PGF_03362160	Anabaena	365.64	17.16	Ca(2+)/H(+) antiporter
+PGF_03429638	Anabaena	300.29	1.49	33 kDa chaperonin HslO
+PGF_03439690	Anabaena	151.00	0.00	Ferric uptake regulation protein FUR
+PGF_03456505	Anabaena	429.00	6.98	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03509570	Anabaena	106.93	2.34	Uncharacterized protein sll1155
+PGF_03518570	Anabaena	152.00	3.11	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03534120	Anabaena	248.00	0.00	Nudix-related transcriptional regulator NrtR
+PGF_03609651	Anabaena	528.93	8.99	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03670939	Anabaena	211.50	2.56	SAM-dependent methyltransferase
+PGF_03679540	Anabaena	228.14	0.66	Urease accessory protein UreF
+PGF_03684283	Anabaena	423.00	13.06	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03699416	Anabaena	195.21	2.89	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701856	Anabaena	135.71	1.33	hypothetical protein
+PGF_03701923	Anabaena	184.00	0.00	DNA protection during starvation protein
+PGF_03705904	Anabaena	174.07	1.49	hypothetical protein
+PGF_03708253	Anabaena	73.00	0.00	Protein translocase subunit SecE
+PGF_03717501	Anabaena	237.29	3.63	15-cis-zeta-carotene isomerase (EC 5.2.1.12)
+PGF_03717821	Anabaena	97.86	0.77	hypothetical protein
+PGF_03718806	Anabaena	241.14	7.53	hypothetical protein
+PGF_03719288	Anabaena	300.14	5.53	Possible alpha/beta hydrolase superfamily, slr1916 homolog
+PGF_03719292	Anabaena	348.00	0.00	Protein often near L-alanine-DL-glutamate epimerase (cell wall recycling)
+PGF_03719383	Anabaena	61.21	3.98	hypothetical protein
+PGF_03723827	Anabaena	150.14	15.53	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03740107	Anabaena	312.71	2.13	RuBisCO operon transcriptional regulator CbbR
+PGF_03751264	Anabaena	366.93	3.47	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_03751658	Anabaena	76.00	10.96	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Anabaena	233.93	12.21	Heat shock protein GrpE
+PGF_03752544	Anabaena	220.21	7.59	Phosphate transport system regulatory protein PhoU
+PGF_03753128	Anabaena	101.36	13.51	Multisubunit-sodium/proton-antiporter-like complex, protein C
+PGF_03755656	Anabaena	152.57	2.06	Uncharacterized membrane protein YuiD
+PGF_03760224	Anabaena	224.14	5.10	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03778780	Anabaena	513.14	27.34	Signal recognition particle receptor FtsY
+PGF_03783620	Anabaena	173.86	11.11	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Anabaena	172.93	6.99	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03801195	Anabaena	268.21	4.51	Putative amidotransferase similar to cobyric acid synthase
+PGF_03810115	Anabaena	246.57	9.22	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03952554	Anabaena	250.71	4.81	Parvulin-like peptidyl-prolyl isomerase
+PGF_03954476	Anabaena	253.57	43.50	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03983807	Anabaena	209.00	0.00	DedA family protein
+PGF_04007946	Anabaena	224.64	10.44	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Anabaena	161.29	3.31	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Anabaena	450.21	8.87	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04018699	Anabaena	107.00	1.04	hypothetical protein
+PGF_04036472	Anabaena	130.00	7.83	KH domain RNA binding protein YlqC
+PGF_04047265	Anabaena	92.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04075955	Anabaena	168.71	17.64	Phosphohistidine phosphatase SixA
+PGF_04108824	Anabaena	599.57	20.35	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04151476	Anabaena	221.93	13.08	16S rRNA processing protein RimM
+PGF_04163139	Anabaena	222.14	3.55	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04164378	Anabaena	118.93	18.98	hypothetical protein
+PGF_04213876	Anabaena	263.00	34.34	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04306800	Anabaena	362.86	0.36	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04452754	Anabaena	252.07	7.31	Precorrin-6A reductase (EC 1.3.1.54)
+PGF_04487934	Anabaena	331.29	6.14	Glycosyl transferase, family 2
+PGF_04493258	Anabaena	300.57	1.99	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Anabaena	257.79	8.37	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Anabaena	334.93	0.27	Rod shape-determining protein MreB
+PGF_04521913	Anabaena	450.57	1.09	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Anabaena	507.64	6.15	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Anabaena	242.93	7.65	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04660832	Anabaena	155.00	2.45	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Anabaena	776.93	248.19	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04672162	Anabaena	403.29	9.34	Uncharacterized MFS-type transporter
+PGF_04749763	Anabaena	1023.21	37.71	Translation initiation factor 2
+PGF_04788810	Anabaena	213.21	0.70	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Anabaena	297.21	7.50	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Anabaena	120.71	2.67	LSU ribosomal protein L19p
+PGF_04960746	Anabaena	228.71	5.40	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Anabaena	785.14	3.51	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Anabaena	135.21	3.53	LSU ribosomal protein L21p
+PGF_05113267	Anabaena	317.57	13.94	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_05147908	Anabaena	529.64	50.90	Proposed precorrin-4 hydrolase (analogous to cobalt-precorrin-5A hydrolase) / Precorrin-3B C(17)-methyltransferase (EC 2.1.1.131)
+PGF_05165078	Anabaena	333.14	0.66	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Anabaena	482.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05241964	Anabaena	429.29	4.89	Kef-type K+ transport systems (NAD-binding component fused to domain related to exopolyphosphatase)
+PGF_05406959	Anabaena	362.29	2.64	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05471309	Anabaena	545.93	7.08	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05493552	Anabaena	83.14	1.96	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05560886	Anabaena	289.29	2.95	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05579323	Anabaena	367.50	13.71	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Anabaena	437.00	0.39	Protein translocase subunit SecY
+PGF_05657253	Anabaena	236.00	0.00	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05676895	Anabaena	519.21	1.93	NAD(P)H-plastoquinone oxidoreductase (EC 1.6.5.-) chain 2, NDHB
+PGF_05925776	Anabaena	310.71	1.54	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Anabaena	471.21	1.85	Protein translocase subunit SecD
+PGF_05959271	Anabaena	102.79	6.60	Uncharacterized protein sll0609
+PGF_06000040	Anabaena	411.57	17.10	Type IV fimbrial assembly protein PilC
+PGF_06180597	Anabaena	148.29	9.30	LSU ribosomal protein L13p (L13Ae)
+PGF_06206590	Anabaena	534.14	50.44	Domain of unknown function / Pseudouridine synthase
+PGF_06211427	Anabaena	290.00	0.00	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06230969	Anabaena	502.79	44.90	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06298671	Anabaena	295.00	5.71	Efflux ABC transporter, permease protein
+PGF_06310118	Anabaena	255.00	3.40	ABC transporter, ATP-binding protein (cluster 13, osmolytes)
+PGF_06315406	Anabaena	433.21	15.27	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Anabaena	346.71	2.92	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06349406	Anabaena	142.43	2.06	hypothetical protein
+PGF_06419730	Anabaena	682.36	165.32	Assimilatory nitrate reductase large subunit (EC 1.7.99.4)
+PGF_06420374	Anabaena	112.43	1.45	hypothetical protein
+PGF_06481545	Anabaena	451.14	10.57	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06483710	Anabaena	73.29	1.49	hypothetical protein
+PGF_06495818	Anabaena	265.07	12.86	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06594013	Anabaena	161.86	8.02	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06644010	Anabaena	322.79	14.63	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06693963	Anabaena	115.14	0.36	Nucleoid-associated protein YaaK
+PGF_06701488	Anabaena	169.00	4.15	RNA-binding protein Jag
+PGF_06759389	Anabaena	269.79	0.80	Gliding motility-associated ABC transporter permease protein GldF
+PGF_06770993	Anabaena	374.07	7.83	Lipopolysaccharide export system permease protein LptF @ Lipopolysaccharide export system permease protein LptG
+PGF_06777554	Anabaena	327.14	2.03	Efflux ABC transporter, ATP-binding protein
+PGF_06871000	Anabaena	503.36	77.89	Ferredoxin--nitrite reductase (EC 1.7.7.1)
+PGF_06976145	Anabaena	144.00	0.00	DNA protection during starvation protein
+PGF_07242312	Anabaena	600.71	8.36	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07284796	Anabaena	437.86	5.75	D-alanyl-D-alanine carboxypeptidase-like protein
+PGF_07410445	Anabaena	383.29	34.91	NADPH-dependent broad range aldehyde dehydrogenase YqhD
+PGF_07475464	Anabaena	234.93	20.09	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_07484138	Anabaena	308.93	2.37	FIG140336: TPR domain protein
+PGF_07518699	Anabaena	446.21	3.95	ATP-DEPENDENT PROTEASE SUBUNIT
+PGF_07625481	Anabaena	409.07	4.01	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin) (EC 1.17.7.1)
+PGF_08031795	Anabaena	186.43	39.60	hypothetical protein
+PGF_08043472	Anabaena	1007.86	0.36	DNA double-strand break repair Rad50 ATPase
+PGF_08047383	Anabaena	316.57	6.81	Uptake [NiFe] hydrogenase, small subunit HyaA (EC 1.12.99.6)
+PGF_08059770	Anabaena	70.00	0.00	Sulfur carrier protein ThiS
+PGF_08068450	Anabaena	322.36	4.01	ROK family sugar kinase or transcriptional regulator
+PGF_08082758	Anabaena	317.86	0.36	Threonine dehydrogenase and related Zn-dependent dehydrogenases
+PGF_08115672	Anabaena	157.43	20.44	hypothetical protein
+PGF_08151051	Anabaena	259.79	33.07	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_08152332	Anabaena	167.93	5.59	NAD-reducing [NiFe] hydrogenase HoxFUYH(E), subunit epsilon (HoxE) (EC 1.12.1.2)
+PGF_08153913	Anabaena	256.64	1.34	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08183187	Anabaena	392.93	8.42	Cell division protein FtsW
+PGF_08190542	Anabaena	148.64	1.91	Cell division inhibitor

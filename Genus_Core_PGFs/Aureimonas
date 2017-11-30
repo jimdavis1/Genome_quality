@@ -1,0 +1,926 @@
+PGF_00000027	Aureimonas	273.20	0.41	Uncharacterized protein YmdB
+PGF_00000063	Aureimonas	249.75	9.88	FIG006611: nucleotidyltransferase
+PGF_00000416	Aureimonas	362.15	12.34	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000936	Aureimonas	120.95	2.67	FIG00899427: hypothetical protein
+PGF_00002554	Aureimonas	336.35	0.75	FIG017823: ATPase, MoxR family
+PGF_00002570	Aureimonas	96.50	4.92	FIG018229: hypothetical protein
+PGF_00002615	Aureimonas	129.90	1.41	FIG020313: hypothetical protein
+PGF_00003090	Aureimonas	999.50	169.62	FIG041266: ATP-dependent nuclease subunit B
+PGF_00003175	Aureimonas	317.10	1.02	FIG049039: Transcriptional regulator, LysR family
+PGF_00003243	Aureimonas	1198.90	54.12	FIG061771: ATP-dependent nuclease subunit A
+PGF_00003448	Aureimonas	402.75	5.74	FIG110192: hypothetical protein
+PGF_00003526	Aureimonas	401.65	59.82	FIG137887: membrane protein related to purine degradation
+PGF_00003537	Aureimonas	304.65	1.98	FIG139612: Possible conserved membrane protein
+PGF_00003989	Aureimonas	361.65	32.03	FOG: TPR repeat, SEL1 subfamily
+PGF_00004033	Aureimonas	601.05	5.62	Efflux ABC transporter, permease/ATP-binding protein ExsA
+PGF_00005614	Aureimonas	119.20	0.89	Flagellar protein FliJ
+PGF_00005930	Aureimonas	273.70	2.05	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+PGF_00006100	Aureimonas	280.35	2.72	tRNA-modifying protein YgfZ
+PGF_00006378	Aureimonas	329.50	2.44	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006515	Aureimonas	389.65	2.60	Fumarylacetoacetate hydrolase family protein
+PGF_00006935	Aureimonas	518.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Aureimonas	367.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007014	Aureimonas	352.90	4.88	GTP-binding protein
+PGF_00007024	Aureimonas	454.71	70.78	GTP-binding protein EngA
+PGF_00007026	Aureimonas	224.20	6.51	GTP-binding protein EngB
+PGF_00007027	Aureimonas	315.05	2.14	GTP-binding protein Era
+PGF_00007028	Aureimonas	458.50	15.53	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007304	Aureimonas	312.55	9.24	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Aureimonas	324.43	62.66	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007812	Aureimonas	603.00	3.64	Glucans biosynthesis glucosyltransferase H (EC 2.4.1.-)
+PGF_00007821	Aureimonas	520.25	8.84	Glucans biosynthesis protein D precursor
+PGF_00007822	Aureimonas	543.00	19.30	Glucans biosynthesis protein G precursor
+PGF_00007844	Aureimonas	339.10	11.00	Glucokinase (EC 2.7.1.2)
+PGF_00007935	Aureimonas	270.20	3.50	Glucose 1-dehydrogenase (EC 1.1.1.47)
+PGF_00007971	Aureimonas	421.70	1.49	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007982	Aureimonas	292.85	5.01	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+PGF_00007988	Aureimonas	550.75	7.93	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Aureimonas	462.80	57.16	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Aureimonas	388.15	5.93	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Aureimonas	410.45	1.10	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Aureimonas	260.95	2.70	Glutamate racemase (EC 5.1.1.3)
+PGF_00008154	Aureimonas	500.30	15.59	glutamine synthetase family protein
+PGF_00008335	Aureimonas	451.33	88.56	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008342	Aureimonas	458.45	2.26	Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008355	Aureimonas	79.20	16.21	Glutaredoxin 3 (Grx2)
+PGF_00008469	Aureimonas	307.60	20.99	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008611	Aureimonas	313.57	50.47	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Aureimonas	219.25	19.24	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008846	Aureimonas	605.75	9.47	Homodimeric efflux ABC transporter, ATP-binding/permease protein
+PGF_00008874	Aureimonas	830.60	4.65	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Aureimonas	482.15	1.14	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00008882	Aureimonas	408.80	4.95	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00008885	Aureimonas	445.60	3.00	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009500	Aureimonas	189.05	4.89	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Aureimonas	315.25	2.05	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Aureimonas	708.10	1.89	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Aureimonas	249.15	1.76	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Aureimonas	730.90	5.65	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Aureimonas	224.85	2.52	Guanylate kinase (EC 2.7.4.8)
+PGF_00010738	Aureimonas	176.65	8.58	HTH-type transcriptional regulator PetP
+PGF_00010960	Aureimonas	433.30	4.35	16S ribosomal RNA m(5)C 967 methyltransferase
+PGF_00011081	Aureimonas	738.60	12.02	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011277	Aureimonas	363.25	2.29	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_00011321	Aureimonas	313.40	3.38	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011528	Aureimonas	563.90	4.68	Heparinase II/III-like
+PGF_00011634	Aureimonas	402.25	6.86	HflK protein
+PGF_00011729	Aureimonas	370.15	1.98	High-affinity leucine-specific transport system, periplasmic binding protein LivK (TC 3.A.1.4.1)
+PGF_00012264	Aureimonas	331.10	57.13	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Aureimonas	433.85	0.37	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00013266	Aureimonas	251.00	3.97	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013272	Aureimonas	146.25	10.48	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Aureimonas	226.43	11.01	UPF0001 protein YggS
+PGF_00013341	Aureimonas	334.55	2.24	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013492	Aureimonas	178.20	0.83	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Aureimonas	541.55	9.06	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013801	Aureimonas	500.30	1.45	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013803	Aureimonas	202.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Aureimonas	265.95	15.15	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Aureimonas	500.35	1.09	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014327	Aureimonas	275.25	1.29	Inositol monophosphatase and related sulfite synthesis enzyme
+PGF_00015039	Aureimonas	251.45	7.83	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Aureimonas	74.20	0.41	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015171	Aureimonas	195.55	7.05	Intracellular septation protein
+PGF_00015216	Aureimonas	186.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Aureimonas	294.75	2.02	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015263	Aureimonas	126.30	5.74	Iron-sulfur cluster assembly iron binding protein SufA
+PGF_00015416	Aureimonas	288.75	1.25	ATP-DEPENDENT PROTEASE SUBUNIT
+PGF_00015487	Aureimonas	155.90	4.52	Iron-responsive regulator Irr
+PGF_00015489	Aureimonas	158.20	3.53	Iron-responsive repressor RirA
+PGF_00015510	Aureimonas	251.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Aureimonas	510.70	1.78	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Aureimonas	412.90	2.47	Iron-sulfur cluster assembly protein SufD
+PGF_00015718	Aureimonas	1009.70	15.68	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015737	Aureimonas	353.20	11.82	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00015855	Aureimonas	338.90	0.45	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016003	Aureimonas	325.70	8.66	L-alanine-DL-glutamate epimerase (EC 5.1.1.n1)
+PGF_00016325	Aureimonas	833.70	5.47	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Aureimonas	172.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Aureimonas	422.00	0.00	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Aureimonas	119.00	13.75	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Aureimonas	158.40	1.85	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Aureimonas	131.71	24.22	LSU ribosomal protein L16p (L10e)
+PGF_00016353	Aureimonas	118.40	4.42	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Aureimonas	232.60	0.82	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Aureimonas	138.60	0.50	LSU ribosomal protein L20p
+PGF_00016368	Aureimonas	128.15	0.37	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Aureimonas	97.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Aureimonas	106.20	1.64	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Aureimonas	88.95	0.22	LSU ribosomal protein L27p
+PGF_00016393	Aureimonas	278.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Aureimonas	66.20	1.96	LSU ribosomal protein L30p (L7e)
+PGF_00016416	Aureimonas	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Aureimonas	66.00	0.00	LSU ribosomal protein L35p
+PGF_00016425	Aureimonas	43.15	9.62	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent
+PGF_00016431	Aureimonas	239.30	1.17	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Aureimonas	206.20	0.41	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Aureimonas	185.65	0.93	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Aureimonas	175.80	3.75	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Aureimonas	124.40	0.50	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Aureimonas	192.50	2.48	LSU ribosomal protein L9p
+PGF_00017109	Aureimonas	387.95	3.82	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Aureimonas	260.45	21.24	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017389	Aureimonas	518.30	12.18	ATP-dependent RNA helicase Atu1833
+PGF_00017406	Aureimonas	596.75	9.73	ATP-dependent RNA helicase Atu4171
+PGF_00017464	Aureimonas	230.50	2.44	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Aureimonas	323.20	1.15	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Aureimonas	349.45	1.61	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017725	Aureimonas	388.80	1.70	Lycopene cyclase
+PGF_00018084	Aureimonas	552.85	6.89	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+PGF_00018131	Aureimonas	263.70	4.86	Lyzozyme M1 (1,4-beta-N-acetylmuramidase) (EC 3.2.1.17)
+PGF_00018560	Aureimonas	342.20	4.43	Magnesium and cobalt efflux protein CorC
+PGF_00019038	Aureimonas	425.33	47.05	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019051	Aureimonas	596.86	101.59	Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141)
+PGF_00019280	Aureimonas	474.76	4.71	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) / Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Aureimonas	185.90	2.00	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Aureimonas	881.45	2.44	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00019982	Aureimonas	454.00	17.16	Membrane protein involved in aromatic hydrocarbon degradation
+PGF_00020172	Aureimonas	284.40	4.73	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Aureimonas	185.05	8.85	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020387	Aureimonas	266.30	10.34	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+PGF_00020735	Aureimonas	276.52	27.65	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020793	Aureimonas	190.75	2.67	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00021019	Aureimonas	137.80	1.70	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00021186	Aureimonas	393.45	6.88	ATPase
+PGF_00021491	Aureimonas	436.30	2.47	Mitochondrial processing peptidase-like protein (EC 3.4.24.64)
+PGF_00021508	Aureimonas	212.70	10.73	Mll0513 protein
+PGF_00021520	Aureimonas	251.30	7.17	Mll0713 protein
+PGF_00021585	Aureimonas	572.95	126.09	Mll3872 protein
+PGF_00021718	Aureimonas	177.35	2.56	Mlr0777 protein
+PGF_00021808	Aureimonas	165.35	2.52	Mlr4354 like protein
+PGF_00021895	Aureimonas	313.75	5.56	Mlr7703 protein
+PGF_00022467	Aureimonas	182.05	1.15	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00022605	Aureimonas	239.45	18.73	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022665	Aureimonas	345.10	9.85	MotA/TolQ/ExbB proton channel family protein, probably associated with flagella
+PGF_00022666	Aureimonas	342.20	1.28	MotB-like protein Atu3746
+PGF_00023591	Aureimonas	355.52	74.99	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Aureimonas	311.95	10.64	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023794	Aureimonas	387.15	8.22	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+PGF_00024273	Aureimonas	169.55	5.03	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Aureimonas	362.10	2.83	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Aureimonas	691.85	4.48	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024615	Aureimonas	311.70	21.68	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024687	Aureimonas	396.05	0.22	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Aureimonas	409.20	31.98	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Aureimonas	204.55	0.51	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Aureimonas	102.00	0.00	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Aureimonas	502.45	0.51	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Aureimonas	481.40	0.88	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024801	Aureimonas	128.00	1.26	NADH:ubiquinone oxidoreductase 17.2 kD subunit
+PGF_00024855	Aureimonas	154.65	6.77	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00024908	Aureimonas	338.10	5.05	NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13) / NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00025090	Aureimonas	575.95	92.80	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Aureimonas	193.05	1.70	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025598	Aureimonas	434.00	0.00	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025623	Aureimonas	338.60	0.99	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025653	Aureimonas	191.85	1.76	NifU-like domain protein
+PGF_00025890	Aureimonas	368.81	39.80	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00025914	Aureimonas	453.15	0.37	Nitrogen regulation protein NtrX
+PGF_00026279	Aureimonas	320.50	4.08	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Aureimonas	219.10	4.59	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Aureimonas	288.35	4.69	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Aureimonas	305.80	6.38	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026614	Aureimonas	140.00	0.00	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026615	Aureimonas	295.25	1.77	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026888	Aureimonas	613.00	6.77	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00027643	Aureimonas	848.95	136.61	Osmosensitive K+ channel histidine kinase KdpD
+PGF_00027752	Aureimonas	627.43	117.78	Outer membrane component of TAM transport system
+PGF_00027831	Aureimonas	165.70	6.91	Outer membrane beta-barrel assembly protein BamE
+PGF_00028539	Aureimonas	285.00	8.63	Oxidoreductase
+PGF_00029464	Aureimonas	154.05	4.71	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029921	Aureimonas	318.80	1.54	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030086	Aureimonas	324.25	15.52	Patatin-like phospholipase domain protein
+PGF_00030246	Aureimonas	337.35	55.60	Penicillin-insensitive murein endopeptidase
+PGF_00030640	Aureimonas	357.40	2.21	Peptide chain release factor 1
+PGF_00032637	Aureimonas	213.25	2.95	Phage repressor
+PGF_00033095	Aureimonas	780.40	110.96	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Aureimonas	343.48	16.25	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Aureimonas	440.70	1.13	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Aureimonas	363.00	4.24	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033293	Aureimonas	252.85	8.65	Phosphatidylcholine synthase (EC 2.7.8.24)
+PGF_00033359	Aureimonas	360.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033479	Aureimonas	542.20	0.41	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033488	Aureimonas	605.10	0.55	Phosphogluconate dehydratase (EC 4.2.1.12)
+PGF_00033511	Aureimonas	398.65	4.03	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Aureimonas	206.20	0.89	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033725	Aureimonas	305.30	13.95	Phospholipase/carboxylesterase family protein
+PGF_00033729	Aureimonas	268.40	1.57	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033814	Aureimonas	470.50	2.93	Phosphomannomutase (EC 5.4.2.8)
+PGF_00033877	Aureimonas	165.70	3.18	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Aureimonas	403.95	72.44	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Aureimonas	254.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Aureimonas	233.90	8.21	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Aureimonas	244.95	2.37	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Aureimonas	356.75	1.45	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Aureimonas	226.85	0.37	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Aureimonas	739.15	8.79	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Aureimonas	214.19	29.34	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033988	Aureimonas	391.05	0.22	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034227	Aureimonas	478.57	77.32	Phytoene desaturase (lycopene-forming) (EC 1.3.99.31)
+PGF_00034776	Aureimonas	710.55	1.54	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Aureimonas	341.60	4.75	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Aureimonas	171.25	0.64	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035334	Aureimonas	316.00	13.46	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035378	Aureimonas	444.00	82.40	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035405	Aureimonas	568.75	1.12	Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035406	Aureimonas	683.70	0.47	Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035407	Aureimonas	201.30	8.17	Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035464	Aureimonas	260.15	1.87	Precorrin-4 C(11)-methyltransferase (EC 2.1.1.133)
+PGF_00035467	Aureimonas	403.45	2.06	Precorrin-6Y C(5,15)-methyltransferase [decarboxylating] (EC 2.1.1.132)
+PGF_00035468	Aureimonas	255.35	93.22	Precorrin-8X methylmutase (EC 5.4.99.61)
+PGF_00035721	Aureimonas	436.85	2.64	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Aureimonas	430.05	0.22	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035831	Aureimonas	262.65	6.77	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00035841	Aureimonas	186.75	4.99	Hydrolase, alpha/beta fold family
+PGF_00036513	Aureimonas	328.00	0.00	Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)
+PGF_00036580	Aureimonas	114.50	3.43	Protein translocase subunit YajC
+PGF_00037013	Aureimonas	425.75	17.45	Probable cytochrome c-552
+PGF_00037523	Aureimonas	1090.10	93.45	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037526	Aureimonas	453.45	58.94	Alanylphosphatidylglycerol hydrolase, periplasmic
+PGF_00037588	Aureimonas	419.29	65.86	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037758	Aureimonas	508.80	1.01	Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)
+PGF_00037826	Aureimonas	323.40	5.27	Protease HtpX homolog
+PGF_00037835	Aureimonas	703.85	4.65	Protease II (EC 3.4.21.83)
+PGF_00038060	Aureimonas	313.30	0.73	Protein containing domains DUF403
+PGF_00038061	Aureimonas	469.10	3.58	Protein containing domains DUF404, DUF407
+PGF_00038062	Aureimonas	728.38	170.21	Protein containing domains DUF404, DUF407, DUF403
+PGF_00038367	Aureimonas	144.50	1.24	Protein of unknown function DUF55
+PGF_00038612	Aureimonas	118.80	1.54	Protein secretion chaperonin CsaA
+PGF_00038879	Aureimonas	168.85	11.89	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00038986	Aureimonas	264.30	5.79	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039342	Aureimonas	278.00	2.55	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039827	Aureimonas	512.25	6.19	Putative Zn-dependent protease
+PGF_00040578	Aureimonas	267.25	2.15	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041206	Aureimonas	423.60	6.24	Uncharacterized chaperone protein YegD
+PGF_00041289	Aureimonas	301.00	4.44	Putative hemolysin
+PGF_00041786	Aureimonas	156.95	17.64	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00043159	Aureimonas	391.35	2.91	Putative permease often clustered with de novo purine synthesis
+PGF_00044215	Aureimonas	321.20	1.70	Galactofuranose ABC transporter, permease protein 2
+PGF_00044216	Aureimonas	345.15	6.38	Galactofuranose ABC transporter, permease protein 1
+PGF_00044989	Aureimonas	848.14	156.40	Methyl-accepting chemotaxis protein
+PGF_00045726	Aureimonas	363.20	0.62	Putrescine ABC transporter putrescine-binding protein PotF (TC 3.A.1.11.2)
+PGF_00045738	Aureimonas	297.38	29.09	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045833	Aureimonas	206.24	2.66	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Aureimonas	247.35	1.57	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045963	Aureimonas	1152.65	0.81	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00046197	Aureimonas	249.55	5.02	RNA binding methyltransferase FtsJ like
+PGF_00046224	Aureimonas	290.00	5.15	RNA methyltransferase Atu0341
+PGF_00046345	Aureimonas	286.65	3.30	RNA polymerase sigma factor RpoH-related protein
+PGF_00046403	Aureimonas	492.75	22.41	RNA polymerase sigma-54 factor RpoN
+PGF_00046622	Aureimonas	82.50	6.07	RNA-binding protein Hfq
+PGF_00046846	Aureimonas	630.67	151.81	Alpha-amylase (EC 3.2.1.1)
+PGF_00046915	Aureimonas	385.65	2.46	Radical SAM domain protein
+PGF_00047078	Aureimonas	351.67	4.90	RecA protein
+PGF_00047093	Aureimonas	375.40	1.79	RecD-like DNA helicase Atu2026
+PGF_00047208	Aureimonas	341.95	3.59	Regulator of phosphoenolpyruvate carboxykinase (pkaR)
+PGF_00048333	Aureimonas	303.90	40.95	Rhodanese domain protein UPF0176, cyanobacterial/alphaproteobacterial subgroup
+PGF_00048480	Aureimonas	204.45	4.99	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048528	Aureimonas	207.35	1.09	Ribonuclease D related protein
+PGF_00048556	Aureimonas	227.30	23.34	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Aureimonas	239.50	1.79	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Aureimonas	157.75	11.10	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Aureimonas	297.52	45.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048840	Aureimonas	290.35	2.60	Ribosomal protein L11 methyltransferase
+PGF_00048917	Aureimonas	193.50	4.59	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Aureimonas	185.00	0.00	Ribosome recycling factor
+PGF_00048933	Aureimonas	116.75	11.30	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00049304	Aureimonas	370.81	3.71	S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284)
+PGF_00049362	Aureimonas	358.20	5.62	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049363	Aureimonas	279.25	1.25	S-formylglutathione hydrolase (EC 3.1.2.12)
+PGF_00049461	Aureimonas	384.80	28.01	SAM-dependent methyltransferase
+PGF_00049533	Aureimonas	261.15	10.16	SAM-dependent methyltransferase 2, in cluster with Hydroxyacylglutathione hydrolase
+PGF_00049555	Aureimonas	293.85	6.63	SAM-dependent methyltransferase, BioC-like
+PGF_00049581	Aureimonas	222.60	4.27	SAM-dependent methyltransferase
+PGF_00049827	Aureimonas	267.05	47.74	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Aureimonas	102.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Aureimonas	128.80	0.41	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Aureimonas	123.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Aureimonas	122.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Aureimonas	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Aureimonas	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Aureimonas	132.25	4.06	SSU ribosomal protein S16p
+PGF_00049854	Aureimonas	81.95	4.36	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Aureimonas	82.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Aureimonas	92.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Aureimonas	238.75	2.20	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Aureimonas	203.70	5.81	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Aureimonas	181.70	13.62	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Aureimonas	145.45	2.70	SSU ribosomal protein S6p
+PGF_00049904	Aureimonas	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Aureimonas	132.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Aureimonas	157.05	0.51	SSU ribosomal protein S9p (S16e)
+PGF_00050557	Aureimonas	599.30	8.14	Sensor histidine kinase ChvG (EC 2.7.3.-)
+PGF_00050707	Aureimonas	474.45	8.95	Sensor protein BasS (activates BasR)
+PGF_00050995	Aureimonas	491.85	9.72	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Aureimonas	253.40	4.45	Septum site-determining protein MinC
+PGF_00051525	Aureimonas	418.24	39.70	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Aureimonas	518.10	4.94	Signal recognition particle protein Ffh
+PGF_00052556	Aureimonas	483.90	1.65	Amino acid regulated cytosolic protein
+PGF_00052674	Aureimonas	233.40	1.98	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052705	Aureimonas	142.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Aureimonas	317.90	7.12	Site-specific tyrosine recombinase XerD
+PGF_00053059	Aureimonas	146.43	4.02	Small heat shock protein
+PGF_00054476	Aureimonas	125.00	0.00	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Aureimonas	259.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Aureimonas	395.95	0.51	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054576	Aureimonas	691.10	2.29	Sucrose phosphate synthase
+PGF_00055052	Aureimonas	562.75	2.40	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055099	Aureimonas	141.10	1.07	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055169	Aureimonas	724.43	97.13	Anaerobic dehydrogenases, typically selenocysteine-containing
+PGF_00055354	Aureimonas	311.35	2.16	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055471	Aureimonas	291.30	10.36	TPR domain protein
+PGF_00055741	Aureimonas	525.95	18.34	TRAP dicarboxylate transporter, DctM subunit, unknown substrate 6
+PGF_00055771	Aureimonas	181.80	5.80	TRAP dicarboxylate transporter, DctQ subunit, unknown substrate 6
+PGF_00055816	Aureimonas	305.45	6.71	2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58)
+PGF_00055966	Aureimonas	378.05	6.16	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056662	Aureimonas	342.00	1.84	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056712	Aureimonas	227.20	5.54	Thiol:disulfide oxidoreductase TlpA
+PGF_00056828	Aureimonas	728.80	1.06	Anthranilate synthase, aminase component (EC 4.1.3.27) / Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00056883	Aureimonas	227.60	8.90	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056900	Aureimonas	317.90	7.27	2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)
+PGF_00056935	Aureimonas	471.30	0.47	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Aureimonas	153.80	10.10	Tol biopolymer transport system, TolR protein
+PGF_00057032	Aureimonas	153.30	5.58	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Aureimonas	749.50	4.89	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Aureimonas	303.86	43.29	Transaldolase (EC 2.2.1.2)
+PGF_00057430	Aureimonas	168.90	3.95	Transcription elongation factor
+PGF_00057483	Aureimonas	421.75	3.35	Transcription termination factor Rho
+PGF_00057485	Aureimonas	530.35	2.01	Transcription termination protein NusA
+PGF_00057488	Aureimonas	164.35	1.73	Transcription termination protein NusB
+PGF_00058320	Aureimonas	220.55	10.26	Transcriptional regulator
+PGF_00059034	Aureimonas	333.05	1.50	Transcriptional regulator, ArsR family / Methyltransferase fusion
+PGF_00059092	Aureimonas	130.80	1.79	Transcriptional regulator, Xre family
+PGF_00060409	Aureimonas	696.00	0.00	Translation elongation factor G
+PGF_00060414	Aureimonas	603.75	1.07	Translation elongation factor LepA
+PGF_00060427	Aureimonas	308.05	0.22	Translation elongation factor Ts
+PGF_00060431	Aureimonas	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Aureimonas	140.05	27.16	Translation initiation factor 3
+PGF_00061607	Aureimonas	133.75	8.42	ApaG protein
+PGF_00062023	Aureimonas	276.15	2.08	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Aureimonas	406.65	0.49	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Aureimonas	355.80	2.95	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062705	Aureimonas	775.35	14.42	Two-component sensor histidine kinase PleC
+PGF_00063916	Aureimonas	415.90	1.21	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063944	Aureimonas	315.75	3.65	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Aureimonas	345.70	33.91	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Aureimonas	316.40	1.73	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063992	Aureimonas	366.33	70.94	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063993	Aureimonas	367.55	1.50	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Aureimonas	473.10	4.38	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064143	Aureimonas	392.80	3.82	UDP-sulfoquinovose synthase (EC 3.13.1.1)
+PGF_00064280	Aureimonas	173.25	9.73	UPF0260 protein YcgN
+PGF_00064378	Aureimonas	247.85	0.37	Transmembrane protein YfcA
+PGF_00064393	Aureimonas	303.30	4.50	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064438	Aureimonas	185.70	5.94	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Aureimonas	527.85	0.37	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064839	Aureimonas	116.55	10.25	Uncharacterized monothiol glutaredoxin ycf64-like
+PGF_00064933	Aureimonas	493.75	11.39	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_00065784	Aureimonas	78.20	0.41	Uncharacterized protein, Bsl7517 homolog
+PGF_00066214	Aureimonas	217.35	3.80	Urease accessory protein UreG
+PGF_00066215	Aureimonas	569.55	1.10	Urease alpha subunit (EC 3.5.1.5)
+PGF_00066216	Aureimonas	101.65	1.04	Urease beta subunit (EC 3.5.1.5)
+PGF_00066218	Aureimonas	100.00	0.00	Urease gamma subunit (EC 3.5.1.5)
+PGF_00066270	Aureimonas	337.67	28.11	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Aureimonas	925.80	2.86	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066539	Aureimonas	290.14	3.82	Various polyols ABC transporter, permease protein 1
+PGF_00066553	Aureimonas	325.05	0.22	Vegetatible incompatibility protein HET-E-1
+PGF_00066867	Aureimonas	580.48	114.95	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Aureimonas	313.25	8.88	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067018	Aureimonas	341.14	58.74	Xylitol dehydrogenase (EC 1.1.1.9)
+PGF_00067188	Aureimonas	343.15	1.98	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067277	Aureimonas	390.90	4.88	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067401	Aureimonas	295.70	4.53	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067412	Aureimonas	78.80	3.24	YrbA protein
+PGF_00067466	Aureimonas	599.65	8.95	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067515	Aureimonas	444.10	2.47	Zinc protease
+PGF_00067554	Aureimonas	498.80	0.52	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Aureimonas	388.55	33.32	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Aureimonas	955.85	7.16	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00069558	Aureimonas	265.15	7.54	2-hydroxymuconic semialdehyde hydrolase (EC 3.7.1.9)
+PGF_00071194	Aureimonas	459.75	0.64	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071693	Aureimonas	289.38	42.03	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00144272	Aureimonas	180.00	8.53	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00158997	Aureimonas	634.15	1.95	Aerobic cobaltochelatase CobT subunit (EC 6.6.1.2)
+PGF_00191696	Aureimonas	71.05	10.16	hypothetical protein
+PGF_00261173	Aureimonas	387.85	4.15	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00333063	Aureimonas	53.65	3.27	UPF0057 membrane protein YqaE
+PGF_00341989	Aureimonas	154.80	4.91	hypothetical protein
+PGF_00350921	Aureimonas	348.25	3.60	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00365400	Aureimonas	260.10	4.02	Trehalose utilization protein ThuA
+PGF_00387287	Aureimonas	492.65	12.21	hypothetical protein
+PGF_00400595	Aureimonas	270.55	11.51	lipid A-myristate beta-hydroxylase (EC 1.14.11.-)
+PGF_00401752	Aureimonas	258.45	2.46	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00402817	Aureimonas	669.60	79.71	Betaine aldehyde dehydrogenase (EC 1.2.1.8)
+PGF_00404432	Aureimonas	420.65	11.29	Biotin synthase related domain containing protein
+PGF_00404660	Aureimonas	321.90	5.27	Dioxygenases related to 2-nitropropane dioxygenase
+PGF_00404817	Aureimonas	141.85	3.00	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00406609	Aureimonas	458.45	5.83	Putative Zn-dependent protease, contains TPR repeats
+PGF_00406692	Aureimonas	954.67	154.15	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00411735	Aureimonas	239.10	2.55	response regulator in two-component regulatory system with PhoQ
+PGF_00412885	Aureimonas	354.40	3.99	Lipopolysaccharide core biosynthesis mannosyltransferase WadC
+PGF_00413203	Aureimonas	157.76	11.30	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Aureimonas	230.85	4.64	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413266	Aureimonas	337.05	7.54	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Aureimonas	262.60	14.19	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Aureimonas	327.00	0.65	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Aureimonas	435.40	8.18	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Aureimonas	584.90	132.48	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Aureimonas	292.70	3.79	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Aureimonas	149.40	4.37	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00414926	Aureimonas	415.40	2.98	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415045	Aureimonas	401.35	4.16	L-arabinose ABC transporter, permease protein AraH
+PGF_00415150	Aureimonas	283.25	6.26	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415449	Aureimonas	154.20	4.44	(U87316) orf4
+PGF_00415481	Aureimonas	361.90	6.94	SAM-dependent methyltransferase, MidA
+PGF_00415486	Aureimonas	159.80	0.62	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Aureimonas	245.25	4.08	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415840	Aureimonas	149.55	13.38	COGs COG3339
+PGF_00416115	Aureimonas	312.80	3.81	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Aureimonas	542.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Aureimonas	1146.85	9.75	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416525	Aureimonas	244.57	60.47	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416674	Aureimonas	374.85	1.87	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417043	Aureimonas	302.35	4.22	Cell division protein FtsQ
+PGF_00417429	Aureimonas	381.85	3.63	Chaperone protein DnaJ
+PGF_00417433	Aureimonas	640.86	3.12	Chaperone protein DnaK
+PGF_00417549	Aureimonas	320.50	3.97	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_00417658	Aureimonas	375.55	3.35	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Aureimonas	248.80	3.58	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Aureimonas	364.35	1.39	Chorismate synthase (EC 4.2.3.5)
+PGF_00418252	Aureimonas	358.25	1.86	CobW GTPase involved in cobalt insertion for B12 biosynthesis
+PGF_00418368	Aureimonas	495.35	5.66	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418406	Aureimonas	176.65	2.89	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418583	Aureimonas	188.45	9.53	Cold shock protein of CSP family => dimer
+PGF_00418658	Aureimonas	209.35	4.09	Colicin V production protein
+PGF_00419627	Aureimonas	302.00	0.46	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419702	Aureimonas	174.25	5.53	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419886	Aureimonas	285.62	6.67	3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2)
+PGF_00419913	Aureimonas	160.85	5.07	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420121	Aureimonas	251.40	63.68	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420482	Aureimonas	251.10	0.91	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Aureimonas	660.10	2.29	Cytochrome c heme lyase subunit CcmF
+PGF_00420582	Aureimonas	201.90	1.29	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420731	Aureimonas	504.50	11.13	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420798	Aureimonas	306.80	0.70	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Aureimonas	330.71	2.51	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420994	Aureimonas	736.60	60.39	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421013	Aureimonas	407.40	3.25	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421489	Aureimonas	1179.81	23.09	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421733	Aureimonas	364.90	67.58	DNA recombination and repair protein RecF
+PGF_00421738	Aureimonas	244.65	3.17	DNA recombination and repair protein RecO
+PGF_00421792	Aureimonas	462.90	2.67	DNA repair protein RadA
+PGF_00421796	Aureimonas	540.67	89.90	DNA repair protein RecN
+PGF_00422163	Aureimonas	234.95	2.26	DNA-binding response regulator ChvI
+PGF_00422177	Aureimonas	226.70	3.34	DNA-binding response regulator KdpE
+PGF_00422183	Aureimonas	240.00	1.49	DNA-binding response regulator PetR
+PGF_00422271	Aureimonas	338.80	0.41	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422307	Aureimonas	261.55	18.42	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
+PGF_00422651	Aureimonas	342.60	18.75	Decaprenyl diphosphate synthase (EC 2.5.1.91)
+PGF_00422656	Aureimonas	289.85	3.65	Decarboxylase family protein
+PGF_00422728	Aureimonas	383.55	5.89	DegT/DnrJ/EryC1/StrS aminotransferase
+PGF_00422918	Aureimonas	360.80	3.58	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Aureimonas	156.48	27.47	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Aureimonas	363.30	8.40	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Aureimonas	296.75	3.32	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423225	Aureimonas	968.65	6.61	Diguanylate cyclase/phosphodiesterase domain 2 (EAL)
+PGF_00423300	Aureimonas	445.30	1.49	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Aureimonas	471.35	1.27	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423530	Aureimonas	279.50	12.42	Dipeptide transport ATP-binding protein DppF (TC 3.A.1.5.2)
+PGF_00423533	Aureimonas	300.15	5.67	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423604	Aureimonas	683.60	10.51	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+PGF_00423663	Aureimonas	132.15	8.40	DksA family protein PA5536 (no Zn-finger)
+PGF_00423709	Aureimonas	238.40	2.37	DnaJ-like protein DjlA
+PGF_00423798	Aureimonas	483.05	32.75	Domain often clustered or fused with uracil-DNA glycosylase / Uracil-DNA glycosylase, putative family 6 (EC 3.2.2.27)
+PGF_00423927	Aureimonas	330.80	3.85	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424123	Aureimonas	555.10	2.07	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424496	Aureimonas	732.70	1.38	Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_00424868	Aureimonas	463.20	3.91	Ethanolamine ammonia-lyase heavy chain (EC 4.3.1.7)
+PGF_00424869	Aureimonas	266.50	6.42	Ethanolamine ammonia-lyase light chain (EC 4.3.1.7)
+PGF_00424971	Aureimonas	697.05	17.75	Excinuclease ABC subunit C
+PGF_00425024	Aureimonas	505.33	76.63	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425044	Aureimonas	257.24	46.88	Exodeoxyribonuclease X
+PGF_00425214	Aureimonas	112.00	0.00	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425665	Aureimonas	272.65	5.24	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425684	Aureimonas	249.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425685	Aureimonas	329.90	6.19	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425828	Aureimonas	852.10	8.56	ATP-dependent, 3'-5' DNA helicase with strand annealing activity
+PGF_00425847	Aureimonas	209.75	8.09	FIG003437: hypothetical with DnaJ-like domain
+PGF_00425857	Aureimonas	691.70	1.08	FIG003492: Threonine dehydrogenase and related Zn-dependent dehydrogenases
+PGF_00425900	Aureimonas	909.71	143.09	FIG003603: membrane protein, putative
+PGF_00425985	Aureimonas	290.95	53.51	Cell division organizing protein PopZ
+PGF_00425997	Aureimonas	358.14	62.87	FIG004453: protein YceG like
+PGF_00426115	Aureimonas	638.00	1.38	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426204	Aureimonas	427.85	8.04	5-aminolevulinate synthase (EC 2.3.1.37)
+PGF_00426236	Aureimonas	414.35	36.48	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426531	Aureimonas	121.75	4.90	5-hydroxyisourate hydrolase (EC 3.5.2.17)
+PGF_00426620	Aureimonas	118.65	5.97	FIG005495: hypothetical protein
+PGF_00426629	Aureimonas	135.40	2.62	5-methyl-dCTP pyrophosphohydrolase (EC 3.6.1.-)
+PGF_00426722	Aureimonas	1201.00	244.06	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Aureimonas	148.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00435859	Aureimonas	133.00	0.00	PTS system permease (IIAMan), nitrogen regulatory IIA protein
+PGF_00444138	Aureimonas	742.50	8.39	Nitrogen regulation protein NtrY (EC 2.7.3.-)
+PGF_00447508	Aureimonas	431.00	2.05	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Aureimonas	449.20	2.59	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00502238	Aureimonas	359.25	9.43	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)
+PGF_00538878	Aureimonas	272.35	4.33	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00549302	Aureimonas	450.25	3.88	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00565351	Aureimonas	218.80	0.41	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00569671	Aureimonas	310.70	6.91	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00594449	Aureimonas	268.55	4.66	putative membrane protein
+PGF_00599203	Aureimonas	497.70	1.59	L-amino acid ABC transporter (Glu/Asp/His/...), permease protein 2 AapM
+PGF_00616490	Aureimonas	245.10	3.73	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Aureimonas	406.65	4.58	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Aureimonas	321.00	0.00	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644734	Aureimonas	321.95	6.77	putative phosphohydrolases, Icc family
+PGF_00644953	Aureimonas	315.75	3.04	DnaJ-class molecular chaperone CbpA
+PGF_00648054	Aureimonas	240.60	9.78	Tol-Pal system protein TolQ
+PGF_00649271	Aureimonas	100.80	2.57	Cell division protein BolA
+PGF_00655358	Aureimonas	482.85	1.73	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Aureimonas	192.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00659286	Aureimonas	457.00	0.00	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00662997	Aureimonas	258.80	3.29	Cobalamin synthase (EC 2.7.8.26)
+PGF_00664069	Aureimonas	435.30	0.73	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Aureimonas	120.85	28.84	Ribosomal silencing factor RsfA
+PGF_00695458	Aureimonas	282.90	7.93	Urease accessory protein UreD
+PGF_00702199	Aureimonas	120.75	1.12	Response regulator
+PGF_00709627	Aureimonas	296.65	47.94	Nucleoside ABC transporter, permease protein 2
+PGF_00717495	Aureimonas	421.57	32.68	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Aureimonas	324.65	1.09	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Aureimonas	816.75	4.62	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00730641	Aureimonas	212.95	0.60	4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)
+PGF_00734482	Aureimonas	908.35	10.97	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00734751	Aureimonas	162.30	10.14	Cytochrome c heme lyase subunit CcmL
+PGF_00776587	Aureimonas	113.75	2.45	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777371	Aureimonas	216.65	25.78	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00814540	Aureimonas	252.90	2.43	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_00827555	Aureimonas	657.25	25.07	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Aureimonas	300.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Aureimonas	416.35	4.91	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00861656	Aureimonas	555.10	1.71	Choline dehydrogenase (EC 1.1.99.1)
+PGF_00874759	Aureimonas	430.95	6.40	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00900256	Aureimonas	469.40	1.70	Threonine synthase (EC 4.2.3.1)
+PGF_00904119	Aureimonas	199.25	3.67	Mll7752 protein
+PGF_00912265	Aureimonas	355.80	3.69	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Aureimonas	289.25	1.25	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00924117	Aureimonas	511.50	12.84	Galactofuranose ABC transporter, ATP-binding protein
+PGF_00926109	Aureimonas	582.75	0.55	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00950554	Aureimonas	1004.80	35.45	Excinuclease ABC subunit B
+PGF_00956999	Aureimonas	275.29	1.31	Putative oxidoreductase
+PGF_00957419	Aureimonas	161.90	1.89	Putative pre-16S rRNA nuclease Yqg
+PGF_00982841	Aureimonas	508.40	6.57	Choline-sulfatase (EC 3.1.6.6)
+PGF_00983926	Aureimonas	141.40	2.58	Ribosome-binding factor A
+PGF_01008498	Aureimonas	119.35	12.16	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01026260	Aureimonas	98.00	0.00	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_01030712	Aureimonas	264.15	4.03	Protein of unknown function DUF374
+PGF_01065911	Aureimonas	232.00	0.00	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01079016	Aureimonas	319.19	33.37	Chromosome (plasmid) partitioning protein ParB
+PGF_01089647	Aureimonas	376.65	91.55	putative TonB-dependent receptor
+PGF_01092098	Aureimonas	164.85	0.49	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01101526	Aureimonas	379.05	0.22	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01104399	Aureimonas	256.30	4.14	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Aureimonas	400.24	79.05	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01162681	Aureimonas	924.95	23.28	Aconitate hydratase (EC 4.2.1.3)
+PGF_01171915	Aureimonas	284.75	8.24	HAD superfamily protein involved in N-acetyl-glucosamine catabolism
+PGF_01172485	Aureimonas	442.00	0.00	Cell division protein FtsA
+PGF_01174739	Aureimonas	286.65	9.81	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Aureimonas	655.60	2.19	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01196008	Aureimonas	231.55	1.99	Tim44-like domain protein
+PGF_01197369	Aureimonas	449.15	1.63	Na+/H+-dicarboxylate symporter
+PGF_01232770	Aureimonas	171.35	4.07	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Aureimonas	337.60	13.74	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01291823	Aureimonas	208.10	6.13	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Aureimonas	260.30	40.32	Chromosome (plasmid) partitioning protein ParA
+PGF_01323228	Aureimonas	201.35	1.50	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Aureimonas	227.05	10.04	Molybdenum ABC transporter permease protein ModB
+PGF_01364427	Aureimonas	206.15	0.49	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Aureimonas	186.00	0.00	HNH endonuclease family protein
+PGF_01408166	Aureimonas	309.35	15.81	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_01421534	Aureimonas	212.40	5.33	LSU ribosomal protein L25p
+PGF_01421577	Aureimonas	614.25	8.93	TPR domain protein
+PGF_01423501	Aureimonas	156.50	1.54	Transcription elongation factor GreA
+PGF_01427606	Aureimonas	397.25	3.49	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_01444546	Aureimonas	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Aureimonas	113.25	3.31	Integration host factor alpha subunit
+PGF_01462537	Aureimonas	552.95	93.84	Efflux ABC transporter, permease/ATP-binding protein YwjA
+PGF_01466742	Aureimonas	418.95	18.69	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Aureimonas	390.50	13.59	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01468040	Aureimonas	377.80	8.63	Nucleoside ABC transporter, permease protein 1
+PGF_01483460	Aureimonas	359.25	0.44	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Aureimonas	300.00	8.09	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01514111	Aureimonas	349.65	4.12	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01515965	Aureimonas	241.95	8.22	FIG006285: ICC-like protein phosphoesterase
+PGF_01532393	Aureimonas	793.00	13.00	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01553314	Aureimonas	466.80	4.09	Sensor histidine kinase
+PGF_01599021	Aureimonas	173.25	5.58	Peptide deformylase (EC 3.5.1.88)
+PGF_01614738	Aureimonas	73.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Aureimonas	321.25	1.41	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01668012	Aureimonas	273.70	10.88	Sulfur carrier protein FdhD
+PGF_01670799	Aureimonas	210.10	6.62	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01682537	Aureimonas	134.55	0.89	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Aureimonas	204.15	9.95	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Aureimonas	198.95	7.61	Adenylate kinase (EC 2.7.4.3)
+PGF_01739753	Aureimonas	258.25	9.60	Zinc metalloprotease
+PGF_01744781	Aureimonas	188.45	2.56	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01763778	Aureimonas	306.75	2.17	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01777142	Aureimonas	212.85	2.25	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01810645	Aureimonas	572.48	147.20	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01819962	Aureimonas	139.10	0.91	Na(+) H(+) antiporter subunit B
+PGF_01842781	Aureimonas	544.76	36.01	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Aureimonas	288.75	6.12	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Aureimonas	374.35	11.12	Heat-inducible transcription repressor HrcA
+PGF_01877133	Aureimonas	402.80	1.64	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Aureimonas	155.60	2.50	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01891030	Aureimonas	361.50	1.70	Nucleoside ABC transporter, periplasmic nucleoside-binding protein
+PGF_01900676	Aureimonas	272.25	8.22	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01900746	Aureimonas	476.81	84.89	Murein hydrolase activator EnvC
+PGF_01910737	Aureimonas	292.50	1.00	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01912476	Aureimonas	274.90	12.67	Phytoene synthase (EC 2.5.1.32)
+PGF_01913107	Aureimonas	310.10	4.70	Sulfite exporter TauE/SafE
+PGF_01949788	Aureimonas	224.50	12.71	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Aureimonas	608.05	0.22	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01962206	Aureimonas	228.20	7.18	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01975680	Aureimonas	123.80	2.46	Polar-differentiation response regulator DivK
+PGF_01981185	Aureimonas	319.76	58.09	Integral membrane protein
+PGF_01994657	Aureimonas	451.50	0.51	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Aureimonas	267.40	5.70	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Aureimonas	358.65	19.61	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Aureimonas	338.05	68.34	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Aureimonas	358.30	7.33	GTP-binding protein Obg
+PGF_02059020	Aureimonas	531.00	82.49	Energy-dependent translational throttle protein EttA
+PGF_02061452	Aureimonas	377.45	4.77	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02086898	Aureimonas	397.10	22.64	Sirohydrochlorin cobaltochelatase CbiX(long) (EC 4.99.1.3)
+PGF_02111888	Aureimonas	341.80	0.52	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Aureimonas	672.30	89.89	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02167696	Aureimonas	788.50	10.19	Na(+) H(+) antiporter subunit A
+PGF_02169237	Aureimonas	238.40	4.59	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+PGF_02185217	Aureimonas	512.05	13.64	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02204102	Aureimonas	163.85	3.80	Universal stress protein UspA and related nucleotide-binding proteins
+PGF_02211177	Aureimonas	252.24	3.32	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02224568	Aureimonas	382.65	3.45	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Aureimonas	701.60	0.50	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02237971	Aureimonas	218.25	7.38	Transcriptional regulator of pyrimidine catabolism (TetR family)
+PGF_02254418	Aureimonas	368.60	4.33	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57) @ Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_02323834	Aureimonas	320.00	4.40	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02325838	Aureimonas	539.75	13.84	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02346669	Aureimonas	315.00	4.12	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Aureimonas	883.65	1.90	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02369559	Aureimonas	942.71	144.81	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Aureimonas	492.40	3.72	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02420191	Aureimonas	497.00	0.00	Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD
+PGF_02454577	Aureimonas	89.35	0.93	SSU ribosomal protein S20p
+PGF_02463284	Aureimonas	196.90	18.77	Recombination protein RecR
+PGF_02473279	Aureimonas	260.70	6.60	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02489591	Aureimonas	203.35	12.91	Uncharacterized Nudix hydrolase NudL
+PGF_02501353	Aureimonas	230.35	6.30	Uncharacterized UPF0750 membrane protein
+PGF_02505159	Aureimonas	347.30	1.26	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02507218	Aureimonas	220.20	0.70	Outer membrane porin, OmpA family
+PGF_02515882	Aureimonas	409.86	34.81	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Aureimonas	425.50	0.76	Enolase (EC 4.2.1.11)
+PGF_02517984	Aureimonas	63.95	2.28	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Aureimonas	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02593689	Aureimonas	464.10	1.83	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601905	Aureimonas	179.80	7.20	Transcriptional regulator PA2737, MerR family
+PGF_02623406	Aureimonas	329.40	3.22	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Aureimonas	1399.90	4.05	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Aureimonas	122.95	8.04	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Aureimonas	910.20	11.98	DNA mismatch repair protein MutS
+PGF_02743075	Aureimonas	245.45	1.50	2-keto-3-deoxy-L-fuconate dehydrogenase
+PGF_02776739	Aureimonas	138.40	11.21	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Aureimonas	290.70	15.28	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Aureimonas	170.40	5.38	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Aureimonas	231.90	9.48	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Aureimonas	483.90	17.56	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Aureimonas	1382.45	1.54	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02817932	Aureimonas	391.71	19.94	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02818638	Aureimonas	418.71	89.63	Hemolysins and related proteins containing CBS domains
+PGF_02820109	Aureimonas	206.35	0.67	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Aureimonas	194.85	3.76	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Aureimonas	269.35	2.41	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Aureimonas	404.05	7.79	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866109	Aureimonas	225.10	4.82	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02866666	Aureimonas	861.35	3.95	ABC transporter, fused permease protein
+PGF_02873160	Aureimonas	231.10	2.17	Putative preQ0 transporter YhhQ
+PGF_02875609	Aureimonas	446.50	3.55	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02893929	Aureimonas	270.25	14.59	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02895613	Aureimonas	471.50	3.30	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74)
+PGF_02898096	Aureimonas	461.19	72.08	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Aureimonas	66.10	0.44	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Aureimonas	225.45	16.57	Outer membrane lipoprotein carrier protein LolA
+PGF_02904832	Aureimonas	325.15	1.50	Homoserine kinase (EC 2.7.1.39)
+PGF_02911364	Aureimonas	337.90	12.00	HflC protein
+PGF_02912272	Aureimonas	163.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Aureimonas	236.00	3.87	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Aureimonas	343.25	10.81	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Aureimonas	293.65	0.49	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02947204	Aureimonas	536.55	0.60	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02949574	Aureimonas	259.15	1.93	L-amino acid ABC transporter (Glu/Asp/His/...), ATP-binding protein AapP
+PGF_02950579	Aureimonas	270.95	0.39	Septum site-determining protein MinD
+PGF_02959749	Aureimonas	385.45	3.90	Ribonuclease D (EC 3.1.26.3)
+PGF_02960121	Aureimonas	324.52	35.67	hypothetical protein
+PGF_02992100	Aureimonas	258.45	7.16	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Aureimonas	197.60	10.77	Protein translocase membrane subunit SecG
+PGF_02995555	Aureimonas	491.05	50.34	Catalase KatE (EC 1.11.1.6)
+PGF_02997723	Aureimonas	172.80	3.56	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03003352	Aureimonas	566.50	6.68	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03022560	Aureimonas	498.00	0.00	Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27)
+PGF_03025675	Aureimonas	604.65	4.53	Lipid A export permease/ATP-binding protein MsbA
+PGF_03029859	Aureimonas	563.81	133.45	Bis-ABC ATPase Uup
+PGF_03033930	Aureimonas	472.95	1.79	Type I secretion outer membrane protein, TolC family
+PGF_03041139	Aureimonas	245.30	5.79	Pyridoxal-5'-phosphate phosphatase (EC 3.1.3.74), Alphaproteobacterial type
+PGF_03057384	Aureimonas	367.65	11.25	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03062184	Aureimonas	235.85	2.43	Mlr0671 protein
+PGF_03062230	Aureimonas	154.05	1.99	16 kDa heat shock protein A
+PGF_03069524	Aureimonas	88.70	1.56	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03072132	Aureimonas	197.90	4.28	CarD-like transcriptional regulator
+PGF_03074362	Aureimonas	400.90	3.06	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03081665	Aureimonas	100.95	6.19	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03087517	Aureimonas	332.90	0.31	4-hydroxyproline epimerase (EC 5.1.1.8)
+PGF_03116802	Aureimonas	293.30	0.47	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03124650	Aureimonas	493.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Aureimonas	429.65	16.95	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03135926	Aureimonas	308.00	0.00	Acetylspermidine deacetylase (EC 3.5.1.48); Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_03144011	Aureimonas	168.95	3.20	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146406	Aureimonas	613.60	2.70	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03146958	Aureimonas	266.65	5.62	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8) @ Archaetidylserine synthase (EC 2.7.8.38)
+PGF_03172904	Aureimonas	288.80	6.85	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Aureimonas	176.00	0.00	Transcription antitermination protein NusG
+PGF_03202871	Aureimonas	224.00	0.00	Hydrolase SMc00528, alpha/beta fold family
+PGF_03203461	Aureimonas	629.30	14.35	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03222913	Aureimonas	133.40	0.75	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03253896	Aureimonas	242.15	2.32	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03272313	Aureimonas	923.85	2.96	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Aureimonas	101.65	8.01	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Aureimonas	230.55	2.19	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03331181	Aureimonas	480.60	4.96	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)
+PGF_03348128	Aureimonas	205.35	9.70	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03383443	Aureimonas	144.35	0.49	Peroxiredoxin OsmC (EC 1.11.1.15)
+PGF_03396423	Aureimonas	262.15	4.52	FIG043197: Inositol monophosphatase family protein
+PGF_03429638	Aureimonas	339.35	7.35	33 kDa chaperonin HslO
+PGF_03439827	Aureimonas	495.05	9.76	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03441339	Aureimonas	329.20	0.95	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03507859	Aureimonas	337.35	2.96	Luciferase-like monooxygenase YhbW
+PGF_03514188	Aureimonas	465.30	1.63	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Aureimonas	140.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Aureimonas	527.95	10.30	Cell division protein FtsZ
+PGF_03609651	Aureimonas	517.85	6.64	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03642389	Aureimonas	355.20	8.15	putative membrane protein
+PGF_03679540	Aureimonas	231.10	6.21	Urease accessory protein UreF
+PGF_03683488	Aureimonas	196.05	2.93	2'-5' RNA ligase
+PGF_03685534	Aureimonas	316.70	38.83	Glycosyl transferase, group 1
+PGF_03708253	Aureimonas	66.00	0.00	Protein translocase subunit SecE
+PGF_03719269	Aureimonas	205.60	15.68	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03729141	Aureimonas	199.75	6.91	UPF0301 protein YqgE
+PGF_03739563	Aureimonas	139.40	5.37	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Aureimonas	495.48	70.92	Chromosomal replication initiator protein DnaA
+PGF_03750599	Aureimonas	297.67	62.51	Cell division coordinator CpoB
+PGF_03751658	Aureimonas	91.35	7.07	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Aureimonas	237.85	14.38	Heat shock protein GrpE
+PGF_03752544	Aureimonas	241.20	2.38	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Aureimonas	322.40	6.92	Site-specific tyrosine recombinase XerC
+PGF_03778780	Aureimonas	510.05	79.60	Signal recognition particle receptor FtsY
+PGF_03783620	Aureimonas	177.45	3.15	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Aureimonas	197.05	15.06	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Aureimonas	236.80	4.07	Ribonuclease III (EC 3.1.26.3)
+PGF_03797303	Aureimonas	597.71	12.72	Adenine deaminase (EC 3.5.4.2)
+PGF_03801201	Aureimonas	273.25	2.24	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03810115	Aureimonas	233.70	1.87	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03835760	Aureimonas	439.10	5.64	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03846834	Aureimonas	133.05	3.39	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03862500	Aureimonas	217.30	0.47	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03934926	Aureimonas	150.10	0.45	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03960810	Aureimonas	320.90	7.20	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03991729	Aureimonas	402.15	8.63	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04007946	Aureimonas	239.50	13.85	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Aureimonas	153.45	2.76	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Aureimonas	490.80	16.38	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Aureimonas	153.25	3.01	Large-conductance mechanosensitive channel
+PGF_04041316	Aureimonas	965.70	16.34	Excinuclease ABC subunit A
+PGF_04047265	Aureimonas	80.00	0.00	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04119806	Aureimonas	293.95	2.63	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Aureimonas	270.25	3.68	Twin-arginine translocation protein TatC
+PGF_04151476	Aureimonas	190.24	37.16	16S rRNA processing protein RimM
+PGF_04154333	Aureimonas	76.30	0.47	Twin-arginine translocation protein TatA
+PGF_04156755	Aureimonas	118.60	11.39	Na(+) H(+) antiporter subunit F
+PGF_04163139	Aureimonas	252.85	11.60	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04169319	Aureimonas	481.85	0.37	Nitrogen assimilation regulatory protein
+PGF_04182459	Aureimonas	222.35	8.22	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04198961	Aureimonas	194.40	9.22	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04217897	Aureimonas	513.30	3.54	L-arabinose ABC transporter, ATP-binding protein AraG
+PGF_04315180	Aureimonas	165.80	2.53	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04325499	Aureimonas	385.86	20.27	Choline binding ABC transport system ATP-binding protein ChoV
+PGF_04345693	Aureimonas	453.85	8.07	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Aureimonas	871.24	156.50	Protein translocase subunit SecA
+PGF_04368280	Aureimonas	320.70	0.73	Galactofuranose ABC transporter, substrate-binding protein
+PGF_04380075	Aureimonas	185.50	7.46	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04406156	Aureimonas	173.25	3.42	Cation transport protein ChaC
+PGF_04412082	Aureimonas	106.90	0.31	Thioredoxin
+PGF_04448471	Aureimonas	651.81	12.89	UPF0118 membrane protein Mext_3812
+PGF_04493258	Aureimonas	304.57	4.42	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Aureimonas	264.25	3.57	SSU ribosomal protein S2p (SAe)
+PGF_04521913	Aureimonas	488.30	1.42	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04559970	Aureimonas	346.70	4.89	hypothetical protein
+PGF_04561069	Aureimonas	437.50	8.08	Hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolyzing) (EC 6.3.5.9)
+PGF_04569524	Aureimonas	509.05	0.22	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Aureimonas	193.85	19.12	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04576386	Aureimonas	283.29	2.35	Choline binding ABC transport system permease protein ChoW
+PGF_04608820	Aureimonas	742.35	19.80	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04630848	Aureimonas	163.75	4.60	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Aureimonas	93.05	3.58	DNA-binding protein HU-beta
+PGF_04662829	Aureimonas	813.30	2.13	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04703870	Aureimonas	83.40	2.85	hypothetical protein
+PGF_04722237	Aureimonas	88.75	7.91	FIG00450894: hypothetical protein
+PGF_04724831	Aureimonas	365.45	4.95	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04757308	Aureimonas	639.57	101.95	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Aureimonas	241.30	2.89	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04803924	Aureimonas	274.30	3.25	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+PGF_04807486	Aureimonas	303.40	6.83	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Aureimonas	154.55	3.85	LSU ribosomal protein L19p
+PGF_04876331	Aureimonas	496.15	4.86	Bll0849 protein
+PGF_04913120	Aureimonas	1253.65	27.46	Aerobic cobaltochelatase CobN subunit (EC 6.6.1.2)
+PGF_04919938	Aureimonas	399.00	10.84	Lipopolysaccharide export system permease protein LptF
+PGF_04960746	Aureimonas	291.20	9.62	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Aureimonas	760.00	3.46	3'-to-5' exoribonuclease RNase R
+PGF_04965976	Aureimonas	371.14	63.38	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Aureimonas	134.55	1.47	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Aureimonas	141.15	22.90	LSU ribosomal protein L21p
+PGF_05053989	Aureimonas	552.15	3.42	ATP-dependent DNA ligase (EC 6.5.1.1) LigC
+PGF_05091456	Aureimonas	308.25	4.25	Uncharacterized inner membrane protein RarD
+PGF_05111929	Aureimonas	597.25	1.12	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Aureimonas	987.65	7.62	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Aureimonas	876.60	11.30	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05142289	Aureimonas	301.20	23.63	hypothetical protein
+PGF_05147908	Aureimonas	582.45	102.78	Proposed precorrin-4 hydrolase (analogous to cobalt-precorrin-5A hydrolase) / Precorrin-3B C(17)-methyltransferase (EC 2.1.1.131)
+PGF_05165078	Aureimonas	313.71	2.76	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Aureimonas	215.55	5.44	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Aureimonas	483.40	0.50	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Aureimonas	483.15	0.37	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05294175	Aureimonas	182.00	4.98	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Aureimonas	426.24	103.43	ATP-dependent RNA helicase RhlE
+PGF_05338234	Aureimonas	296.05	1.32	Protein YicC
+PGF_05406959	Aureimonas	341.95	2.67	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05438608	Aureimonas	157.95	9.06	hypothetical protein
+PGF_05439724	Aureimonas	764.52	138.84	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Aureimonas	251.85	12.24	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Aureimonas	595.10	98.32	DNA mismatch repair protein MutL
+PGF_05529726	Aureimonas	104.60	0.94	hypothetical protein
+PGF_05581732	Aureimonas	447.00	0.00	Protein translocase subunit SecY
+PGF_05589579	Aureimonas	285.45	18.72	ABC-type amino acid transport/signal transduction system, periplasmic component/domain
+PGF_05598173	Aureimonas	393.30	3.01	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05611480	Aureimonas	113.75	7.06	hypothetical protein
+PGF_05612921	Aureimonas	108.65	3.07	Heme-degrading monooxygenase, staphylobilin-producing (EC 1.14.99.48)
+PGF_05681779	Aureimonas	201.76	14.27	Lysine decarboxylase family
+PGF_05693577	Aureimonas	93.00	0.73	Integration host factor beta subunit
+PGF_05712128	Aureimonas	601.80	3.09	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05729472	Aureimonas	1627.20	5.21	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05747509	Aureimonas	85.95	0.22	hypothetical protein
+PGF_05769513	Aureimonas	441.25	8.87	Tol-Pal system beta propeller repeat protein TolB
+PGF_05809633	Aureimonas	451.70	5.72	C4-dicarboxylate transport transcriptional regulatory protein dctD
+PGF_05850452	Aureimonas	269.05	14.04	hypothetical protein
+PGF_05908643	Aureimonas	318.50	37.68	putative membrane protein
+PGF_05971611	Aureimonas	408.65	5.42	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05979614	Aureimonas	259.52	44.29	hypothetical protein
+PGF_05999853	Aureimonas	394.95	6.13	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06005188	Aureimonas	677.80	1.44	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06048290	Aureimonas	89.25	0.97	hypothetical protein
+PGF_06051345	Aureimonas	1275.40	6.99	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06061522	Aureimonas	131.20	4.63	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06162164	Aureimonas	481.00	0.00	Homospermidine synthase (EC 2.5.1.44)
+PGF_06162541	Aureimonas	323.60	8.69	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_06170558	Aureimonas	162.50	15.47	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Aureimonas	155.40	4.31	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Aureimonas	269.25	0.72	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06225887	Aureimonas	215.05	1.99	Uncharacterized sugar kinase
+PGF_06230969	Aureimonas	494.55	14.80	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06285197	Aureimonas	511.20	49.81	Intracellular PHB depolymerase
+PGF_06379377	Aureimonas	435.33	61.09	Replication-associated recombination protein RarA
+PGF_06398080	Aureimonas	335.71	15.06	L-amino acid ABC transporter (Glu/Asp/His/...), substrate-binding protein AapJ
+PGF_06403579	Aureimonas	796.10	45.58	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06441888	Aureimonas	368.15	9.46	hypothetical protein
+PGF_06495818	Aureimonas	258.60	7.92	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06530721	Aureimonas	236.10	2.20	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06605246	Aureimonas	91.90	2.57	hypothetical protein
+PGF_06635957	Aureimonas	343.15	14.27	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06644010	Aureimonas	313.30	9.10	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06664917	Aureimonas	394.70	6.55	L-amino acid ABC transporter (Glu/Asp/His/...), permease protein 1 AapQ
+PGF_06693963	Aureimonas	106.80	0.89	Nucleoid-associated protein YaaK
+PGF_06755829	Aureimonas	345.85	4.89	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Aureimonas	412.90	19.46	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06757690	Aureimonas	868.00	157.27	Malto-oligosyltrehalose synthase (EC 5.4.99.15)
+PGF_06772993	Aureimonas	949.40	25.20	Ribonuclease E (EC 3.1.26.12)
+PGF_06775354	Aureimonas	467.20	13.17	DNA-binding transcriptional regulator, MocR family / aminotransferase domain
+PGF_06949599	Aureimonas	816.90	17.52	ATP-dependent helicase HrpB
+PGF_07072582	Aureimonas	658.60	2.19	RNA polymerase sigma factor RpoD
+PGF_07091275	Aureimonas	478.15	8.60	Osmolarity sensor protein EnvZ (EC 2.7.3.-)
+PGF_07344415	Aureimonas	219.55	3.76	Intracellular septation protein IspA
+PGF_07425883	Aureimonas	106.10	0.45	Ferredoxin, 2Fe-2S
+PGF_07507244	Aureimonas	229.70	9.76	Glutathione S-transferase family protein
+PGF_08044951	Aureimonas	245.85	0.37	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_08073318	Aureimonas	92.45	5.47	Cell division topological specificity factor MinE
+PGF_08097473	Aureimonas	232.25	1.12	hypothetical protein
+PGF_08139315	Aureimonas	106.05	7.56	Phosphocarrier protein, nitrogen regulation associated
+PGF_08147453	Aureimonas	395.30	31.39	DNA recombination protein RmuC
+PGF_08153913	Aureimonas	259.05	8.65	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08157634	Aureimonas	74.90	3.09	hypothetical protein
+PGF_08177691	Aureimonas	148.35	3.41	Arsenate reductase (EC 1.20.4.1) glutaredoxin-coupled, LMWP family
+PGF_08178989	Aureimonas	125.15	4.31	hypothetical protein
+PGF_08183187	Aureimonas	387.50	1.73	Cell division protein FtsW

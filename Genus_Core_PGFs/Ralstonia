@@ -1,0 +1,935 @@
+PGF_00000416	Ralstonia	373.57	42.53	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000936	Ralstonia	137.97	0.76	FIG00899427: hypothetical protein
+PGF_00000939	Ralstonia	401.05	65.66	Uncharacterized protein YhiN
+PGF_00002487	Ralstonia	237.60	21.87	FIG015373: Membrane protein
+PGF_00002491	Ralstonia	488.29	36.23	FIG015547: peptidase, M16 family
+PGF_00002555	Ralstonia	213.04	27.51	FIG017861: hypothetical protein
+PGF_00003516	Ralstonia	247.48	4.27	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003528	Ralstonia	205.19	6.15	UPF0307 protein YjgA
+PGF_00003655	Ralstonia	195.87	8.61	FIG146278: Maf/YceF/YhdE family protein
+PGF_00003746	Ralstonia	136.48	13.16	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+PGF_00003749	Ralstonia	157.70	4.27	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003750	Ralstonia	173.93	1.75	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004378	Ralstonia	259.00	22.07	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00004671	Ralstonia	613.29	59.47	Ferrous iron transport protein B
+PGF_00006078	Ralstonia	439.64	46.42	Fmu (Sun) /eukaryotic nucleolar NOL1/Nop2p; tRNA/rRNA cytosine-C5-methyltransferase
+PGF_00006143	Ralstonia	381.19	18.55	Formate dehydrogenase O gamma subunit (EC 1.2.1.2)
+PGF_00006179	Ralstonia	979.79	95.69	Formate dehydrogenase-O, major subunit (EC 1.2.1.2)
+PGF_00006336	Ralstonia	113.10	0.83	Frataxin homolog CyaY, facilitates Fe-S cluster assembly, interacts with IscS
+PGF_00006394	Ralstonia	353.10	8.02	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006454	Ralstonia	497.24	57.13	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006461	Ralstonia	454.19	44.79	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006653	Ralstonia	412.32	20.89	Gate supefamily SpmA/SpmB domains protein
+PGF_00006935	Ralstonia	540.36	4.89	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006983	Ralstonia	267.40	4.52	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007012	Ralstonia	364.20	2.67	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Ralstonia	445.87	8.64	GTP-binding protein EngA
+PGF_00007026	Ralstonia	233.69	3.84	GTP-binding protein EngB
+PGF_00007027	Ralstonia	311.10	7.66	GTP-binding protein Era
+PGF_00007028	Ralstonia	413.99	15.68	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007033	Ralstonia	276.01	27.97	ABC-type Fe3+-hydroxamate transport system, periplasmic component
+PGF_00007041	Ralstonia	601.16	43.61	GTP-binding protein TypA/BipA
+PGF_00007097	Ralstonia	305.95	42.29	Galactose mutarotase and related enzymes
+PGF_00007162	Ralstonia	409.65	70.70	Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
+PGF_00007720	Ralstonia	580.61	51.80	ABC transporter, permease protein (cluster 10, nitrate/sulfonate/bicarbonate) / ABC transporter, permease protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_00007812	Ralstonia	829.20	101.71	Glucans biosynthesis glucosyltransferase H (EC 2.4.1.-)
+PGF_00007822	Ralstonia	508.39	45.11	Glucans biosynthesis protein G precursor
+PGF_00008051	Ralstonia	427.21	67.15	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Ralstonia	372.84	7.65	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008068	Ralstonia	241.65	17.46	Glutamate Aspartate transport ATP-binding protein GltL (TC 3.A.1.3.4)
+PGF_00008074	Ralstonia	226.82	2.42	Glutamate Aspartate transport system permease protein GltK (TC 3.A.1.3.4)
+PGF_00008075	Ralstonia	405.11	29.43	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008115	Ralstonia	1504.95	287.25	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008161	Ralstonia	428.05	34.58	Glutamate--cysteine ligase (EC 6.3.2.2), divergent, of Alpha- and Beta-proteobacteria type
+PGF_00008164	Ralstonia	418.27	65.63	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008326	Ralstonia	572.91	37.29	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008393	Ralstonia	397.93	37.28	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008416	Ralstonia	218.51	31.74	Glutathione S-transferase N-terminal domain protein (EC 2.5.1.18)
+PGF_00008446	Ralstonia	203.29	18.29	Glutathione S-transferase, unnamed subgroup 2 (EC 2.5.1.18)
+PGF_00008469	Ralstonia	318.80	31.60	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008487	Ralstonia	186.26	17.95	Glutathione-regulated potassium-efflux system ancillary protein KefF
+PGF_00008537	Ralstonia	491.51	48.17	Glycerol kinase (EC 2.7.1.30)
+PGF_00008583	Ralstonia	226.36	27.16	Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)
+PGF_00008592	Ralstonia	570.22	66.39	Glycerol ABC transporter, substrate-binding protein GlpV
+PGF_00008838	Ralstonia	222.19	15.43	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008882	Ralstonia	348.70	87.17	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00009614	Ralstonia	447.20	26.15	ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate) / C-terminal AAA-associated domain
+PGF_00009969	Ralstonia	678.52	105.81	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Ralstonia	247.29	33.17	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Ralstonia	778.73	135.88	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010356	Ralstonia	135.90	11.22	Guanyl-specific ribonuclease (EC 3.1.27.3)
+PGF_00010360	Ralstonia	220.97	0.61	Guanylate kinase (EC 2.7.4.8)
+PGF_00010692	Ralstonia	319.12	30.31	HPr kinase/phosphorylase
+PGF_00011081	Ralstonia	662.72	238.20	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011321	Ralstonia	309.08	15.69	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011979	Ralstonia	424.39	64.38	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012092	Ralstonia	175.84	4.36	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012135	Ralstonia	229.48	15.13	Histone acetyltransferase HPA2 and related acetyltransferases
+PGF_00012340	Ralstonia	435.02	39.34	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012344	Ralstonia	271.10	11.69	Tungstate ABC transporter, substrate-binding protein
+PGF_00012970	Ralstonia	620.35	54.93	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013017	Ralstonia	328.16	28.39	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013244	Ralstonia	202.81	14.83	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013492	Ralstonia	182.15	1.37	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Ralstonia	518.01	42.87	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013801	Ralstonia	489.77	45.88	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013803	Ralstonia	195.52	4.57	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013857	Ralstonia	739.07	69.36	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014284	Ralstonia	391.12	19.16	Inner membrane transport protein YajR
+PGF_00014306	Ralstonia	173.92	10.71	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Ralstonia	478.37	48.81	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014352	Ralstonia	276.73	14.45	Glycerol ABC transporter, permease protein GlpQ
+PGF_00014735	Ralstonia	232.40	6.92	Integral membrane protein, interacts with FtsH
+PGF_00015039	Ralstonia	292.93	27.04	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Ralstonia	88.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Ralstonia	177.87	1.75	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Ralstonia	291.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Ralstonia	106.00	0.00	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015523	Ralstonia	133.03	0.23	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015573	Ralstonia	264.04	32.59	Iron-sulfur cluster-binding protein
+PGF_00015630	Ralstonia	314.89	31.27	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase
+PGF_00015701	Ralstonia	412.30	32.72	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015707	Ralstonia	603.81	52.36	Isocitrate dehydrogenase phosphatase (EC 2.7.11.5)/kinase (EC 3.1.3.-)
+PGF_00015718	Ralstonia	923.14	152.45	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Ralstonia	337.98	0.20	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016046	Ralstonia	348.63	34.16	L-asparaginase (EC 3.5.1.1)
+PGF_00016139	Ralstonia	555.24	30.70	L-lactate permease
+PGF_00016338	Ralstonia	418.39	32.39	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016342	Ralstonia	143.02	0.14	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Ralstonia	136.02	13.86	LSU ribosomal protein L16p (L10e)
+PGF_00016353	Ralstonia	118.54	1.15	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Ralstonia	231.01	0.10	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Ralstonia	114.77	12.23	LSU ribosomal protein L20p
+PGF_00016368	Ralstonia	109.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Ralstonia	103.61	4.40	LSU ribosomal protein L23p (L23Ae)
+PGF_00016385	Ralstonia	86.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Ralstonia	274.81	11.27	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Ralstonia	60.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Ralstonia	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Ralstonia	56.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Ralstonia	65.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Ralstonia	216.30	20.87	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Ralstonia	201.66	24.85	LSU ribosomal protein L4p (L1e)
+PGF_00016445	Ralstonia	124.02	0.25	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Ralstonia	150.00	0.00	LSU ribosomal protein L9p
+PGF_00016852	Ralstonia	219.31	28.31	Leucine efflux protein
+PGF_00016919	Ralstonia	240.66	29.32	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Ralstonia	384.24	35.01	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017152	Ralstonia	369.72	12.55	Lipocalin-related protein and Bos/Can/Equ allergen
+PGF_00017190	Ralstonia	257.49	24.13	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017295	Ralstonia	208.89	10.71	Lipopolysaccharide export system protein LptC
+PGF_00017400	Ralstonia	268.62	17.87	Murein hydrolase activator NlpD
+PGF_00017479	Ralstonia	330.57	22.89	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017640	Ralstonia	195.00	4.42	Lipopolysaccharide export system protein LptA
+PGF_00017655	Ralstonia	238.27	21.69	LrgA-associated membrane protein LrgB
+PGF_00018956	Ralstonia	328.36	1.47	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018964	Ralstonia	519.74	46.30	Malate synthase (EC 2.3.3.9)
+PGF_00019038	Ralstonia	424.36	70.30	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Ralstonia	177.62	3.69	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019457	Ralstonia	188.82	16.58	ATP-dependent protease HslVU (ClpYQ), peptidase subunit
+PGF_00020089	Ralstonia	313.75	48.81	Membrane proteins related to metalloendopeptidases
+PGF_00020163	Ralstonia	147.09	12.47	Inhibitor of vertebrate c-type lysozyme, outer membrane
+PGF_00020361	Ralstonia	255.97	19.16	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Ralstonia	272.16	22.81	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020741	Ralstonia	210.84	17.61	Methionine biosynthesis protein MetW
+PGF_00020984	Ralstonia	288.46	5.08	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Ralstonia	144.49	4.59	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021186	Ralstonia	355.49	45.07	ATPase
+PGF_00022479	Ralstonia	204.02	0.97	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022507	Ralstonia	205.48	31.04	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022605	Ralstonia	234.30	3.26	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022925	Ralstonia	653.57	115.50	Multi-sensor signal transduction histidine kinase
+PGF_00023476	Ralstonia	150.26	2.47	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Ralstonia	341.74	40.46	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023818	Ralstonia	456.65	14.28	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00023821	Ralstonia	200.03	10.35	N-acetylglutamate synthase related protein
+PGF_00024232	Ralstonia	404.66	14.58	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024274	Ralstonia	402.63	49.58	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Ralstonia	546.10	48.39	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024478	Ralstonia	333.52	5.87	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024509	Ralstonia	429.34	36.24	NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024540	Ralstonia	434.47	42.13	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024687	Ralstonia	415.80	11.78	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Ralstonia	166.96	0.25	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Ralstonia	211.22	3.79	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Ralstonia	101.12	4.62	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Ralstonia	487.59	4.06	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Ralstonia	477.69	63.75	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024855	Ralstonia	274.92	23.39	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Ralstonia	576.45	68.08	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025136	Ralstonia	270.43	32.07	NUDIX hydrolase, associated with Thiamin pyrophosphokinase
+PGF_00025215	Ralstonia	163.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025252	Ralstonia	432.11	62.73	Na+-driven multidrug efflux pump
+PGF_00025562	Ralstonia	210.91	1.70	Nicotinamidase (EC 3.5.1.19)
+PGF_00025598	Ralstonia	397.08	30.01	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025639	Ralstonia	393.24	1.44	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00025731	Ralstonia	422.68	74.69	Nitrate/nitrite transporter
+PGF_00025843	Ralstonia	112.41	6.28	Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)
+PGF_00025890	Ralstonia	387.20	36.05	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Ralstonia	320.55	14.52	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026358	Ralstonia	162.02	4.80	Nucleoside 2-deoxyribosyltransferase
+PGF_00026453	Ralstonia	285.50	28.57	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026563	Ralstonia	164.64	14.00	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Ralstonia	314.83	34.08	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00027004	Ralstonia	307.58	2.57	Oligopeptide transport permease protein OppB-like @ Glutathione ABC transporter permease protein GsiC
+PGF_00027006	Ralstonia	296.78	22.31	Oligopeptide transport permease protein OppC-like @ Glutathione ABC transporter permease protein GsiD
+PGF_00027261	Ralstonia	143.80	5.79	Orf21; putative lipoprotein
+PGF_00027491	Ralstonia	71.00	0.00	Organosulfonate utilization protein SsuF
+PGF_00028423	Ralstonia	403.00	1.08	Outer membrane stress sensor protease DegS
+PGF_00028981	Ralstonia	398.84	52.25	P-hydroxybenzoate hydroxylase (EC 1.14.13.2)
+PGF_00029269	Ralstonia	877.01	125.62	Aconitate hydratase (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_00029464	Ralstonia	143.38	27.95	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029917	Ralstonia	278.66	30.06	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Ralstonia	359.39	4.51	Peptide chain release factor 1
+PGF_00030800	Ralstonia	259.44	26.94	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_00030812	Ralstonia	168.68	2.62	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00030889	Ralstonia	117.36	6.24	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00031519	Ralstonia	93.36	2.72	Uncharacterized MFS-type transporter
+PGF_00031585	Ralstonia	167.94	4.75	Peroxiredoxin
+PGF_00032972	Ralstonia	270.95	24.27	Phage-related protein, tail component
+PGF_00033071	Ralstonia	312.43	26.48	Phenylalanine-4-hydroxylase (EC 1.14.16.1)
+PGF_00033095	Ralstonia	778.04	130.19	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033158	Ralstonia	109.46	9.66	PhnO-related protein
+PGF_00033237	Ralstonia	315.45	44.80	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Ralstonia	303.02	16.03	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Ralstonia	356.54	37.82	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Ralstonia	388.21	7.76	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033390	Ralstonia	621.60	1.48	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+PGF_00033411	Ralstonia	285.47	10.99	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033509	Ralstonia	91.19	9.51	Acyl-CoA-binding protein
+PGF_00033511	Ralstonia	409.72	20.87	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Ralstonia	255.42	8.68	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033737	Ralstonia	276.35	22.44	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Ralstonia	209.67	4.76	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Ralstonia	167.38	1.07	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033908	Ralstonia	491.09	54.51	Phosphoprotein phosphatase
+PGF_00033928	Ralstonia	414.16	41.65	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Ralstonia	308.56	38.23	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Ralstonia	234.92	4.60	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Ralstonia	353.46	2.35	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033968	Ralstonia	216.27	3.45	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Ralstonia	378.17	3.40	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034349	Ralstonia	94.16	6.00	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative
+PGF_00034776	Ralstonia	705.48	77.88	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Ralstonia	203.69	16.82	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Ralstonia	327.25	22.99	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Ralstonia	235.23	19.19	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035194	Ralstonia	343.26	16.59	Adenosine deaminase (EC 3.5.4.4)
+PGF_00035378	Ralstonia	469.67	42.63	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035407	Ralstonia	199.04	28.23	Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)
+PGF_00035548	Ralstonia	249.42	24.82	Predicted D-glucarate or D-galactorate regulator, GntR family
+PGF_00035591	Ralstonia	240.78	4.73	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Ralstonia	468.58	5.74	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035721	Ralstonia	455.02	18.89	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Ralstonia	424.88	56.39	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035831	Ralstonia	267.24	3.26	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00036366	Ralstonia	185.49	13.38	Predicted transcription regulator, contains HTH domain (MarR family)
+PGF_00036427	Ralstonia	207.61	24.29	Predicted transcriptional regulator for fatty acid degradation FadP, TetR family
+PGF_00036580	Ralstonia	108.64	9.49	Protein translocase subunit YajC
+PGF_00036673	Ralstonia	107.60	3.47	Primosomal replication protein N
+PGF_00037171	Ralstonia	332.42	24.92	Probable low-affinity inorganic phosphate transporter
+PGF_00037283	Ralstonia	172.92	28.59	Probable proline-rich protein
+PGF_00037915	Ralstonia	64.30	0.46	Protein IscX, believed to be involved in assembly of Fe-S clusters
+PGF_00038060	Ralstonia	314.87	25.09	Protein containing domains DUF403
+PGF_00038061	Ralstonia	490.96	21.67	Protein containing domains DUF404, DUF407
+PGF_00038133	Ralstonia	439.29	18.22	Protein hipA
+PGF_00038367	Ralstonia	165.77	8.59	Protein of unknown function DUF55
+PGF_00038674	Ralstonia	322.27	0.47	Protein translocase subunit SecF
+PGF_00038839	Ralstonia	245.88	4.18	Protocatechuate 3,4-dioxygenase beta chain (EC 1.13.11.3)
+PGF_00038879	Ralstonia	140.22	1.94	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039703	Ralstonia	180.61	17.19	Putative SAM-dependent methyltransferase Bucepa02006346
+PGF_00040273	Ralstonia	75.56	1.06	Putative analog of CcoH, COG3198
+PGF_00040578	Ralstonia	269.55	25.59	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00041289	Ralstonia	264.72	47.05	Putative hemolysin
+PGF_00041381	Ralstonia	361.66	51.77	Enoyl-CoA hydratase/isomerase
+PGF_00041669	Ralstonia	281.89	24.31	Putative inner membrane protein
+PGF_00041691	Ralstonia	65.31	3.99	Putative inner membrane protein YjeT (clustered with HflC)
+PGF_00041948	Ralstonia	415.48	32.13	Putative membrane protein YfjD
+PGF_00042020	Ralstonia	443.60	78.65	Putative membrane-bound ClpP-class protease associated with aq_911
+PGF_00042867	Ralstonia	174.27	1.13	Alkyl hydroperoxide reductase AhpD (EC 1.11.1.15)
+PGF_00043639	Ralstonia	241.45	6.77	Putative regulatory protein
+PGF_00043769	Ralstonia	323.80	35.45	Allantoicase (EC 3.5.3.4)
+PGF_00044040	Ralstonia	257.92	31.87	hypothetical protein
+PGF_00044294	Ralstonia	255.21	24.09	Putative sulfate permease
+PGF_00044551	Ralstonia	213.72	19.53	Putative transmembrane lipoprotein
+PGF_00044567	Ralstonia	123.53	4.50	Putative transmembrane protein
+PGF_00044574	Ralstonia	44.80	5.36	Putative transmembrane protein
+PGF_00044714	Ralstonia	115.19	13.81	Putative transmembrane protein
+PGF_00044748	Ralstonia	160.49	9.71	Putative transmembrane protein
+PGF_00044854	Ralstonia	62.45	2.38	Putative transmembrane protein
+PGF_00044889	Ralstonia	189.59	3.43	Putative transmembrane protein
+PGF_00044992	Ralstonia	184.75	32.18	Putative transmembrane protein
+PGF_00045900	Ralstonia	257.52	32.76	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00046104	Ralstonia	377.36	30.76	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046348	Ralstonia	372.27	29.10	RNA polymerase sigma factor RpoS
+PGF_00046622	Ralstonia	79.00	0.00	RNA-binding protein Hfq
+PGF_00047078	Ralstonia	347.44	31.54	RecA protein
+PGF_00047887	Ralstonia	219.16	0.68	Response regulator BaeR
+PGF_00047903	Ralstonia	200.31	9.95	Response regulator NasT
+PGF_00048249	Ralstonia	216.74	13.04	Alpha-ketoglutarate-dependent dioxygenase AlkB (EC 1.14.11.33)
+PGF_00048480	Ralstonia	214.19	14.79	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Ralstonia	150.33	1.39	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048586	Ralstonia	236.48	16.46	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Ralstonia	150.12	2.97	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Ralstonia	315.63	9.19	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Ralstonia	578.73	85.16	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Ralstonia	296.98	9.61	Ribosomal protein L11 methyltransferase
+PGF_00048846	Ralstonia	452.30	9.50	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Ralstonia	252.67	23.62	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Ralstonia	117.08	0.92	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Ralstonia	185.94	0.35	Ribosome recycling factor
+PGF_00048928	Ralstonia	315.54	16.69	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Ralstonia	130.39	7.39	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Ralstonia	122.99	0.10	Ribosome-binding factor A
+PGF_00049163	Ralstonia	170.01	0.10	Rod shape-determining protein MreD
+PGF_00049330	Ralstonia	390.41	38.98	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049363	Ralstonia	284.49	26.60	S-formylglutathione hydrolase (EC 3.1.2.12)
+PGF_00049648	Ralstonia	467.24	1.66	SAM-dependent methyltransferase
+PGF_00049662	Ralstonia	146.49	3.43	Alternative dihydrofolate reductase 3
+PGF_00049837	Ralstonia	132.99	0.10	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Ralstonia	124.25	5.17	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Ralstonia	121.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Ralstonia	89.90	4.43	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Ralstonia	84.00	0.00	SSU ribosomal protein S16p
+PGF_00049858	Ralstonia	93.55	1.51	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Ralstonia	91.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049896	Ralstonia	171.70	2.23	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Ralstonia	120.80	8.85	SSU ribosomal protein S6p
+PGF_00049904	Ralstonia	156.07	0.71	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Ralstonia	130.17	4.85	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Ralstonia	129.06	9.24	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Ralstonia	293.16	1.04	Segregation and condensation protein A
+PGF_00050995	Ralstonia	514.80	15.09	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Ralstonia	250.41	26.08	Septum site-determining protein MinC
+PGF_00051525	Ralstonia	429.60	48.14	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051717	Ralstonia	247.68	19.73	3-hydroxypropionate dehydrogenase (EC 1.1.1.298)
+PGF_00052238	Ralstonia	462.29	55.67	Signal recognition particle protein Ffh
+PGF_00052674	Ralstonia	219.00	0.00	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052676	Ralstonia	223.76	24.41	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase
+PGF_00052705	Ralstonia	142.61	5.04	LSU ribosomal protein L11p (L12e)
+PGF_00052943	Ralstonia	302.99	37.92	Site-specific tyrosine recombinase XerD
+PGF_00053251	Ralstonia	62.00	0.00	Small molecule metabolism; degradation; carbon compounds
+PGF_00054301	Ralstonia	198.76	24.29	Stringent starvation protein A
+PGF_00054528	Ralstonia	385.40	27.54	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054541	Ralstonia	210.81	6.99	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+PGF_00054959	Ralstonia	428.24	51.32	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00054961	Ralstonia	314.83	4.03	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+PGF_00055037	Ralstonia	114.88	9.50	Sulfite dehydrogenase cytochrome subunit SoxD
+PGF_00055095	Ralstonia	324.50	35.18	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+PGF_00055156	Ralstonia	550.14	107.15	Sulfur oxidation protein SoxB
+PGF_00055158	Ralstonia	213.77	8.43	Sulfur oxidation protein SoxX
+PGF_00055273	Ralstonia	196.24	12.53	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055302	Ralstonia	330.63	26.61	Surface antigen
+PGF_00055354	Ralstonia	479.31	76.91	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00056273	Ralstonia	339.10	45.37	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056320	Ralstonia	243.00	0.00	Tetrapyrrole methylase family protein
+PGF_00056634	Ralstonia	166.35	3.45	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+PGF_00056659	Ralstonia	127.63	6.20	Thiol-disulfide isomerase and thioredoxins
+PGF_00056711	Ralstonia	172.95	8.43	Thiol:disulfide oxidoreductase
+PGF_00056730	Ralstonia	217.74	16.39	Thioredoxin
+PGF_00056814	Ralstonia	484.13	78.60	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056897	Ralstonia	266.71	27.31	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057016	Ralstonia	142.69	9.43	Tol biopolymer transport system, TolR protein
+PGF_00057116	Ralstonia	303.85	2.22	TonB protein
+PGF_00057399	Ralstonia	316.95	22.08	Transaldolase (EC 2.2.1.2)
+PGF_00057435	Ralstonia	188.64	7.84	Transcription elongation factor GreB
+PGF_00057483	Ralstonia	411.01	53.05	Transcription termination factor Rho
+PGF_00057485	Ralstonia	489.20	13.11	Transcription termination protein NusA
+PGF_00057488	Ralstonia	157.68	4.19	Transcription termination protein NusB
+PGF_00058562	Ralstonia	506.00	32.70	Transcriptional regulator GabR of GABA utilization (GntR family with aminotransferase-like domain)
+PGF_00058648	Ralstonia	290.06	27.75	Transcriptional regulator RSp1267, LysR family
+PGF_00058763	Ralstonia	285.81	24.50	Transcriptional regulator of RpiR family in catabolic operon
+PGF_00060265	Ralstonia	1208.99	325.02	Transcriptional repressor of PutA and PutP / Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00060398	Ralstonia	648.20	109.85	Transketolase (EC 2.2.1.1)
+PGF_00060414	Ralstonia	599.29	4.33	Translation elongation factor LepA
+PGF_00060421	Ralstonia	189.95	3.30	Translation elongation factor P
+PGF_00060427	Ralstonia	289.06	23.09	Translation elongation factor Ts
+PGF_00060478	Ralstonia	167.19	27.18	Translation initiation factor 3
+PGF_00060889	Ralstonia	259.63	24.95	ABC transporter, ATP-binding protein PA3838
+PGF_00061607	Ralstonia	123.98	7.30	ApaG protein
+PGF_00062002	Ralstonia	284.66	12.08	Tryptophan 2,3-dioxygenase (EC 1.13.11.11)
+PGF_00062045	Ralstonia	394.31	32.83	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062228	Ralstonia	425.23	59.47	Two component, Sigma-54 Specific, central transcriptional regulator of acidic amino acid uptake
+PGF_00062561	Ralstonia	230.83	20.28	Two-component response regulatory protein BP2547
+PGF_00063167	Ralstonia	113.31	5.25	Type I antifreeze protein
+PGF_00063734	Ralstonia	206.09	23.45	Type IV pilus biogenesis protein PilN
+PGF_00063761	Ralstonia	179.57	6.84	Type IV pilus biogenesis protein PilP
+PGF_00063815	Ralstonia	479.14	39.68	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
+PGF_00063916	Ralstonia	422.90	15.89	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063948	Ralstonia	348.90	46.28	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063952	Ralstonia	301.46	41.02	UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13)
+PGF_00063955	Ralstonia	373.61	55.37	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87)
+PGF_00063974	Ralstonia	341.81	9.16	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063999	Ralstonia	476.17	47.58	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Ralstonia	460.36	44.45	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064135	Ralstonia	342.11	45.54	UDP-glucuronic acid oxidase (UDP-4-keto-hexauronic acid decarboxylating) (EC 1.1.1.305)
+PGF_00064172	Ralstonia	437.97	10.34	UPF0053 inner membrane protein YtfL
+PGF_00064270	Ralstonia	258.21	6.52	UPF0246 protein YaaA
+PGF_00064290	Ralstonia	751.04	62.95	Arginine decarboxylase (EC 4.1.1.19); Ornithine decarboxylase (EC 4.1.1.17); Lysine decarboxylase (EC 4.1.1.18)
+PGF_00064438	Ralstonia	185.22	26.56	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064557	Ralstonia	356.04	29.59	Uncharacterized GTP-binding protein YjiA
+PGF_00064685	Ralstonia	83.71	3.22	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Ralstonia	213.79	17.14	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00065525	Ralstonia	276.40	27.89	Uncharacterized protein YfaP
+PGF_00065755	Ralstonia	387.04	35.66	Uncharacterized protein with LysM domain, COG1652
+PGF_00065887	Ralstonia	257.31	6.41	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065892	Ralstonia	123.52	3.59	Undecaprenyl phosphate-aminoarabinose flippase subunit ArnE @ Undecaprenyl phosphate-aminoarabinose flippase subunit ArnF
+PGF_00065901	Ralstonia	325.22	37.87	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53)
+PGF_00066123	Ralstonia	219.04	21.68	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Ralstonia	173.46	1.03	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Ralstonia	257.63	36.90	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066270	Ralstonia	362.94	33.10	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066440	Ralstonia	390.90	1.02	VWA containing CoxE family protein
+PGF_00066453	Ralstonia	966.25	6.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Ralstonia	445.23	65.41	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Ralstonia	319.71	27.58	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Ralstonia	360.92	30.79	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067192	Ralstonia	182.76	2.99	YaeQ protein
+PGF_00067277	Ralstonia	383.90	37.71	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067346	Ralstonia	210.17	25.17	YheO-like PAS domain
+PGF_00067361	Ralstonia	341.77	31.53	YihE protein, required for LPS synthesis
+PGF_00067412	Ralstonia	78.13	0.64	YrbA protein
+PGF_00067538	Ralstonia	262.71	30.09	Zinc transporter, ZIP family
+PGF_00067554	Ralstonia	475.71	61.48	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Ralstonia	360.17	25.76	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00071938	Ralstonia	158.99	0.10	Bacterioferritin (EC 1.16.3.1)
+PGF_00071989	Ralstonia	90.96	2.02	Bacterioferritin-associated ferredoxin
+PGF_00102041	Ralstonia	205.63	16.08	Esterase YqiA
+PGF_00109673	Ralstonia	84.67	0.75	hypothetical protein
+PGF_00116227	Ralstonia	91.45	11.44	hypothetical protein
+PGF_00120476	Ralstonia	400.08	20.38	hypothetical protein
+PGF_00122105	Ralstonia	101.29	2.39	hypothetical protein
+PGF_00127279	Ralstonia	467.55	30.59	Na+/H+ antiporter NhaD and related arsenite permeases
+PGF_00194548	Ralstonia	101.57	8.18	hypothetical protein
+PGF_00196395	Ralstonia	130.34	3.14	hypothetical protein
+PGF_00201871	Ralstonia	140.89	9.26	Putative activity regulator of membrane protease YbbK
+PGF_00206627	Ralstonia	154.94	10.25	hypothetical protein
+PGF_00261173	Ralstonia	354.09	68.38	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00266197	Ralstonia	216.61	17.70	3-oxoadipate CoA-transferase subunit B (EC 2.8.3.6)
+PGF_00284068	Ralstonia	165.45	5.28	Copper metallochaperone PCu(A)C, inserts Cu(I) into cytochrome oxidase subunit II
+PGF_00285620	Ralstonia	216.40	0.91	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00306574	Ralstonia	351.51	11.39	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00376758	Ralstonia	294.09	0.74	ATP/GTP-binding protein
+PGF_00399622	Ralstonia	201.61	3.25	Barstar, ribonuclease (Barnase) inhibitor
+PGF_00400832	Ralstonia	184.48	21.86	macromolecule metabolism; macromolecule degradation; degradation of dna
+PGF_00400845	Ralstonia	415.96	11.75	Uncharacterized integral membrane endopeptidase Bmul_2226
+PGF_00401752	Ralstonia	241.76	22.95	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00402820	Ralstonia	468.46	54.61	NAD-dependent aldehyde dehydrogenases
+PGF_00403860	Ralstonia	203.34	19.38	Ferric siderophore transport system, biopolymer transport protein ExbB
+PGF_00404369	Ralstonia	126.57	4.42	probable membrane protein NMA1176
+PGF_00404384	Ralstonia	355.71	27.80	Biotin synthase (EC 2.8.1.6)
+PGF_00404406	Ralstonia	192.56	4.08	probable membrane protein YPO3302
+PGF_00404831	Ralstonia	277.51	26.59	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00408673	Ralstonia	528.98	17.11	Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+PGF_00411910	Ralstonia	149.47	13.35	Blr3520 protein homolog, hypothetical protein
+PGF_00413208	Ralstonia	261.09	8.63	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Ralstonia	271.12	23.92	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413300	Ralstonia	633.19	85.32	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Ralstonia	309.23	27.06	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413340	Ralstonia	314.69	41.72	tRNA-dihydrouridine(16) synthase
+PGF_00413554	Ralstonia	148.03	0.23	tmRNA-binding protein SmpB
+PGF_00414156	Ralstonia	156.81	7.44	twitching motility protein PilG
+PGF_00414165	Ralstonia	715.80	84.52	twitching motility protein PilJ
+PGF_00414228	Ralstonia	239.82	1.73	Two-component system response regulator OmpR
+PGF_00414422	Ralstonia	181.33	1.50	type IV pili signal transduction protein PilI
+PGF_00415407	Ralstonia	449.79	76.20	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+PGF_00415481	Ralstonia	381.76	60.90	SAM-dependent methyltransferase, MidA
+PGF_00415581	Ralstonia	225.49	4.59	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415697	Ralstonia	263.40	41.24	Uncharacterized NRDE family protein
+PGF_00416129	Ralstonia	552.04	18.08	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Ralstonia	1064.24	88.85	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416506	Ralstonia	665.05	102.81	Carbon starvation protein A
+PGF_00416576	Ralstonia	216.99	17.99	3'-to-5' oligoribonuclease (orn)
+PGF_00416895	Ralstonia	398.29	40.96	Cell division protein
+PGF_00417429	Ralstonia	364.40	61.18	Chaperone protein DnaJ
+PGF_00417437	Ralstonia	599.68	98.24	Chaperone protein HscA
+PGF_00417658	Ralstonia	366.58	14.01	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Ralstonia	245.80	11.72	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417843	Ralstonia	183.47	27.64	Chorismate--pyruvate lyase (EC 4.1.3.40)
+PGF_00417927	Ralstonia	321.56	49.78	Chromosome (plasmid) partitioning protein ParB
+PGF_00417987	Ralstonia	195.71	2.05	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418027	Ralstonia	105.52	0.96	Chromosome segregation ATPases
+PGF_00418128	Ralstonia	260.41	34.06	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418156	Ralstonia	165.35	3.57	ClpXP protease specificity-enhancing factor / Stringent starvation protein B
+PGF_00418244	Ralstonia	202.46	3.72	Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ Cob(I)alamin adenosyltransferase (EC 2.5.1.17), clustered with cobalamin synthesis
+PGF_00418658	Ralstonia	163.99	10.69	Colicin V production protein
+PGF_00419487	Ralstonia	161.11	5.58	Conserved uncharacterized protein CreA
+PGF_00419628	Ralstonia	483.19	45.80	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419913	Ralstonia	154.92	17.70	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Ralstonia	271.70	24.61	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420048	Ralstonia	399.07	30.20	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420078	Ralstonia	299.78	6.86	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420121	Ralstonia	229.95	1.89	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420376	Ralstonia	60.07	1.37	Cytochrome c oxidase (cbb3-type) subunit CcoQ (EC 1.9.3.1)
+PGF_00420502	Ralstonia	697.12	138.28	Cytochrome c-type biogenesis protein Ccs1/ResB
+PGF_00420582	Ralstonia	201.60	2.50	Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+PGF_00420731	Ralstonia	487.59	61.76	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420781	Ralstonia	466.83	40.95	D-Lactate dehydrogenase, cytochrome c-dependent (EC 1.1.2.4)
+PGF_00420798	Ralstonia	314.72	61.29	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Ralstonia	328.56	73.17	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420918	Ralstonia	449.10	69.12	D-beta-hydroxybutyrate permease
+PGF_00421071	Ralstonia	164.47	13.27	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421103	Ralstonia	228.07	8.02	3-oxoadipate CoA-transferase subunit A (EC 2.8.3.6)
+PGF_00421498	Ralstonia	365.15	44.58	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421792	Ralstonia	457.37	13.32	DNA repair protein RadA
+PGF_00421876	Ralstonia	870.79	80.06	DNA topoisomerase III, Burkholderia type (EC 5.99.1.2)
+PGF_00421959	Ralstonia	263.04	28.62	DNA-binding domain of ModE / Molybdate-binding domain of ModE
+PGF_00422053	Ralstonia	77.02	0.14	DNA-binding protein Fis
+PGF_00422271	Ralstonia	325.00	9.80	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422303	Ralstonia	188.00	0.00	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
+PGF_00422711	Ralstonia	216.35	2.46	DedA protein
+PGF_00422918	Ralstonia	188.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Ralstonia	145.29	16.53	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Ralstonia	367.92	20.73	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Ralstonia	426.73	50.13	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Ralstonia	475.26	42.01	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Ralstonia	130.16	2.31	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423450	Ralstonia	293.95	21.32	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)
+PGF_00423472	Ralstonia	710.97	46.60	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Ralstonia	285.05	22.83	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423663	Ralstonia	149.33	26.77	DksA family protein PA5536 (no Zn-finger)
+PGF_00423668	Ralstonia	190.24	11.95	Dna binding response regulator PrrA (RegA)
+PGF_00423731	Ralstonia	82.38	2.18	Dodecin (COG3360) Flavin-binding
+PGF_00423914	Ralstonia	195.90	3.32	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Ralstonia	291.52	6.90	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424256	Ralstonia	283.74	19.96	Endo-type membrane-bound lytic murein transglycosylase A (EC 4.2.2.n2)
+PGF_00425161	Ralstonia	680.55	71.91	Exoribonuclease II (EC 3.1.13.1)
+PGF_00425240	Ralstonia	456.09	0.92	Pellicle/biofilm biosynthesis inner membrane protein PelG, MATE family transporter
+PGF_00425603	Ralstonia	1305.86	185.10	FAD/FMN-containing dehydrogenases
+PGF_00425671	Ralstonia	295.63	10.24	RNase adapter protein RapZ
+PGF_00425681	Ralstonia	337.58	6.35	1-aminocyclopropane-1-carboxylate deaminase (EC 3.5.99.7)
+PGF_00425684	Ralstonia	238.64	10.97	Probable transcriptional regulatory protein YebC
+PGF_00425704	Ralstonia	90.98	0.14	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425810	Ralstonia	252.46	2.22	Cell division protein ZapD
+PGF_00425918	Ralstonia	282.21	33.78	FIG003879: Uncharacterized subgroup of the nitrilase superfamily
+PGF_00425993	Ralstonia	389.97	33.07	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Ralstonia	334.97	19.91	FIG004453: protein YceG like
+PGF_00426044	Ralstonia	273.88	20.82	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426236	Ralstonia	417.68	52.48	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426599	Ralstonia	207.06	5.54	FIG005426: hypothetical protein
+PGF_00426932	Ralstonia	164.37	4.53	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00441630	Ralstonia	105.11	2.35	DNA uptake protein and related DNA-binding proteins
+PGF_00447508	Ralstonia	462.09	35.31	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Ralstonia	443.22	20.43	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00488496	Ralstonia	368.57	46.73	Type IV pilus assembly ATPase component PilU
+PGF_00546752	Ralstonia	155.06	17.96	Phosphohistidine phosphatase SixA
+PGF_00549302	Ralstonia	544.06	7.92	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00550718	Ralstonia	156.16	3.25	General secretion pathway protein G
+PGF_00569671	Ralstonia	309.28	37.17	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580333	Ralstonia	419.13	31.52	Lipopolysaccharide assembly protein LapB
+PGF_00580417	Ralstonia	617.65	27.51	Outer membrane vitamin B12 receptor BtuB
+PGF_00618776	Ralstonia	381.35	18.52	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Ralstonia	222.08	18.51	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00634936	Ralstonia	298.69	42.00	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00641071	Ralstonia	302.25	10.57	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00648054	Ralstonia	227.88	14.42	Tol-Pal system protein TolQ
+PGF_00655131	Ralstonia	493.08	56.31	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Ralstonia	497.86	77.53	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Ralstonia	513.00	0.00	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Ralstonia	232.60	5.35	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00694978	Ralstonia	270.09	0.74	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00695496	Ralstonia	232.34	0.66	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
+PGF_00709443	Ralstonia	170.14	14.58	Twin-arginine translocation protein TatB
+PGF_00709627	Ralstonia	302.09	28.88	Nucleoside ABC transporter, permease protein 2
+PGF_00717318	Ralstonia	296.69	14.63	Putative hydrolase
+PGF_00718789	Ralstonia	281.93	14.14	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00725839	Ralstonia	799.33	79.06	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00750493	Ralstonia	137.38	0.94	Hemerythrin domain protein
+PGF_00803325	Ralstonia	183.56	22.95	hypothetical protein
+PGF_00812240	Ralstonia	287.08	11.76	Metal-dependent hydrolase
+PGF_00813259	Ralstonia	259.76	33.91	FolM Alternative dihydrofolate reductase 1
+PGF_00832559	Ralstonia	67.00	0.00	hypothetical protein
+PGF_00853393	Ralstonia	292.69	2.76	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00858432	Ralstonia	57.40	1.35	Type cbb3 cytochrome oxidase biogenesis protein CcoS, involved in heme b insertion
+PGF_00874759	Ralstonia	414.08	36.25	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00900256	Ralstonia	484.97	8.72	Threonine synthase (EC 4.2.3.1)
+PGF_00903235	Ralstonia	341.59	59.05	membran protein
+PGF_00908360	Ralstonia	253.95	6.86	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Ralstonia	350.12	33.38	tRNA-dihydrouridine synthase DusB
+PGF_00920778	Ralstonia	61.15	0.36	hypothetical protein
+PGF_00924816	Ralstonia	248.24	0.87	Thiol:disulfide interchange protein DsbC
+PGF_00926109	Ralstonia	557.52	131.21	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00943546	Ralstonia	257.60	35.56	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00950554	Ralstonia	697.49	25.65	Excinuclease ABC subunit B
+PGF_00955412	Ralstonia	267.33	23.56	Probable iron export permease protein FetB
+PGF_00957419	Ralstonia	137.07	5.97	Putative pre-16S rRNA nuclease Yqg
+PGF_00961864	Ralstonia	249.13	18.94	Rhomboid family protein
+PGF_00973394	Ralstonia	171.35	5.33	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00980044	Ralstonia	295.96	0.29	Glycerol ABC transporter, permease protein GlpP
+PGF_01009119	Ralstonia	188.36	2.21	hypothetical protein
+PGF_01011517	Ralstonia	355.74	42.43	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01014789	Ralstonia	96.74	4.41	hypothetical protein
+PGF_01025037	Ralstonia	554.86	10.54	Probable activation/secretion signal peptide protein
+PGF_01052138	Ralstonia	214.46	11.38	FIG026291: Hypothetical periplasmic protein
+PGF_01052295	Ralstonia	377.36	8.45	Lipopolysaccharide export system permease protein LptF
+PGF_01061059	Ralstonia	481.44	79.51	Putative oxidoreductase
+PGF_01064695	Ralstonia	182.24	4.37	putative lipoprotein
+PGF_01064928	Ralstonia	89.15	3.39	hypothetical protein
+PGF_01065820	Ralstonia	177.46	18.97	Response regulator
+PGF_01065911	Ralstonia	215.75	3.11	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01071299	Ralstonia	233.56	5.33	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01075683	Ralstonia	133.05	10.24	Hemoglobin-like protein HbO
+PGF_01083115	Ralstonia	517.80	2.71	Oligopeptide transport substrate-binding protein @ Glutathione ABC transporter substrate-binding protein GsiB
+PGF_01084030	Ralstonia	750.72	35.61	Outer membrane protein assembly factor YaeT
+PGF_01092098	Ralstonia	193.61	5.08	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01104399	Ralstonia	249.33	4.06	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01111623	Ralstonia	105.81	8.56	Putative transmembrane protein
+PGF_01114007	Ralstonia	86.07	2.47	FIG005902: hypothetical protein
+PGF_01151090	Ralstonia	159.31	7.47	Uncharacterized LysM domain protein YgaU
+PGF_01151115	Ralstonia	125.32	2.24	Antiholin-like protein LrgA
+PGF_01166636	Ralstonia	84.69	1.21	Glutaredoxin 3 (Grx3)
+PGF_01172200	Ralstonia	242.93	15.31	Uncharacterized membrane anchored protein Mext_4159
+PGF_01172431	Ralstonia	124.03	0.42	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172485	Ralstonia	406.92	30.36	Cell division protein FtsA
+PGF_01174739	Ralstonia	244.53	21.24	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01176861	Ralstonia	71.11	0.86	Uncharacterized protein YpeB
+PGF_01181530	Ralstonia	123.05	16.28	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01220766	Ralstonia	278.62	23.78	Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)
+PGF_01223569	Ralstonia	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01232770	Ralstonia	169.27	1.53	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01323228	Ralstonia	206.40	2.31	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Ralstonia	239.69	25.26	Molybdenum ABC transporter permease protein ModB
+PGF_01351158	Ralstonia	1024.34	274.15	Transcription-repair coupling factor
+PGF_01364427	Ralstonia	190.96	12.38	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01373256	Ralstonia	724.25	83.64	putative membrane protein
+PGF_01382505	Ralstonia	210.97	0.23	FIG00449901: hypothetical protein
+PGF_01393708	Ralstonia	276.11	17.29	CDP-abequose synthase (Fragment)
+PGF_01393907	Ralstonia	171.60	18.87	hypothetical protein
+PGF_01403039	Ralstonia	312.92	42.46	Membrane fusion component of tripartite multidrug efflux system
+PGF_01408166	Ralstonia	283.32	37.26	Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)
+PGF_01415861	Ralstonia	169.36	7.30	LPS-assembly lipoprotein LptE
+PGF_01420802	Ralstonia	140.27	11.29	Cell division protein MraZ
+PGF_01421534	Ralstonia	205.25	2.33	LSU ribosomal protein L25p
+PGF_01423501	Ralstonia	158.81	3.95	Transcription elongation factor GreA
+PGF_01427611	Ralstonia	205.52	14.74	Uncharacterized UPF0126 inner membrane protein
+PGF_01448031	Ralstonia	137.73	7.65	Integration host factor alpha subunit
+PGF_01468040	Ralstonia	361.74	41.51	Nucleoside ABC transporter, permease protein 1
+PGF_01468064	Ralstonia	360.70	26.26	Type IV pilus biogenesis protein PilM
+PGF_01483460	Ralstonia	398.86	8.30	Lipopolysaccharide export system permease protein LptG
+PGF_01483829	Ralstonia	83.79	69.03	hypothetical protein
+PGF_01483918	Ralstonia	285.32	15.15	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01492185	Ralstonia	93.80	6.07	Glycerol transport-related protein GlpU
+PGF_01496670	Ralstonia	291.29	2.24	ATPase associated with various cellular activities, AAA_5
+PGF_01513918	Ralstonia	168.77	16.36	Adenylate cyclase (EC 4.6.1.1)
+PGF_01514111	Ralstonia	351.61	23.56	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01546618	Ralstonia	324.59	9.02	putative membrane protein
+PGF_01614738	Ralstonia	86.52	1.67	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01667880	Ralstonia	89.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Ralstonia	194.25	16.42	RNA polymerase sigma factor RpoE
+PGF_01674551	Ralstonia	126.69	0.46	Glycine cleavage system H protein
+PGF_01682537	Ralstonia	145.80	3.13	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Ralstonia	158.21	10.44	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Ralstonia	269.71	23.28	DNA recombination and repair protein RecO
+PGF_01719657	Ralstonia	263.16	29.26	Prephenate dehydratase (EC 4.2.1.51) @ Arogenate dehydratase (EC 4.2.1.91)
+PGF_01734668	Ralstonia	220.43	16.62	Adenylate kinase (EC 2.7.4.3)
+PGF_01739753	Ralstonia	279.82	35.28	Zinc metalloprotease
+PGF_01760799	Ralstonia	699.18	68.79	Type IV pilus biogenesis protein PilQ
+PGF_01761890	Ralstonia	69.81	2.05	DNA gyrase inhibitor YacG
+PGF_01780907	Ralstonia	148.03	4.36	Protein YhfA
+PGF_01809758	Ralstonia	324.58	24.55	ABC transporter, substrate-binding protein PA3836
+PGF_01852683	Ralstonia	504.22	47.78	Nucleoside ABC transporter, ATP-binding protein
+PGF_01867628	Ralstonia	351.24	20.80	Heat-inducible transcription repressor HrcA
+PGF_01888177	Ralstonia	164.45	2.55	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01891030	Ralstonia	378.62	36.62	Nucleoside ABC transporter, periplasmic nucleoside-binding protein
+PGF_01898497	Ralstonia	214.00	0.00	Endonuclease III (EC 4.2.99.18)
+PGF_01900676	Ralstonia	295.75	4.26	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01907880	Ralstonia	64.23	1.34	Uncharacterized proteins YbdD and YjiX
+PGF_01910737	Ralstonia	284.94	8.23	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01916207	Ralstonia	255.36	13.27	Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion
+PGF_01917086	Ralstonia	271.59	3.15	Sulfur oxidation protein SoxA
+PGF_01925962	Ralstonia	160.40	2.16	Tripartite tricarboxylate transporter TctB family
+PGF_01943486	Ralstonia	169.70	11.33	O-acetyl-ADP-ribose deacetylase
+PGF_01994657	Ralstonia	451.84	37.58	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Ralstonia	150.86	5.82	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Ralstonia	257.45	17.29	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Ralstonia	343.98	0.14	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Ralstonia	367.14	27.49	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Ralstonia	365.81	1.13	GTP-binding protein Obg
+PGF_02061452	Ralstonia	376.24	34.60	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02111888	Ralstonia	322.28	20.49	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02121439	Ralstonia	154.73	5.80	Exported protein
+PGF_02141097	Ralstonia	753.71	142.16	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02185217	Ralstonia	418.41	79.83	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02204321	Ralstonia	341.85	29.22	Twitching motility protein PilT
+PGF_02211177	Ralstonia	248.48	20.68	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02226715	Ralstonia	694.82	109.03	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02268482	Ralstonia	276.32	24.16	Putative glutamine amidotransferase YafJ
+PGF_02277802	Ralstonia	197.54	10.91	Putative transmembrane protein
+PGF_02282896	Ralstonia	230.15	0.63	Integral membrane protein
+PGF_02286202	Ralstonia	343.33	42.29	General secretion pathway protein K
+PGF_02295498	Ralstonia	108.13	0.67	Ferredoxin, 2Fe-2S
+PGF_02315338	Ralstonia	466.94	66.31	hypothetical protein
+PGF_02328820	Ralstonia	64.98	0.14	hypothetical protein
+PGF_02328856	Ralstonia	259.90	14.54	Type IV pilus biogenesis protein PilF
+PGF_02332970	Ralstonia	196.25	5.09	Probable NADH dehydrogenase/NAD(P)H nitroreductase
+PGF_02340266	Ralstonia	129.43	6.54	Membrane protein with DUF350 domain
+PGF_02343139	Ralstonia	159.40	3.11	Transcriptional regulator, MarR family
+PGF_02346669	Ralstonia	307.26	7.38	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Ralstonia	878.65	84.29	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02349818	Ralstonia	153.42	4.55	Acyl-coenzyme A thioesterase PaaD (Pse.pu.) (E. coli PaaI)
+PGF_02382338	Ralstonia	294.81	24.31	Inner membrane protein YpjD
+PGF_02450432	Ralstonia	271.87	4.95	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Ralstonia	88.16	1.04	SSU ribosomal protein S20p
+PGF_02463284	Ralstonia	203.16	21.18	Recombination protein RecR
+PGF_02473679	Ralstonia	564.32	43.45	Type IV fimbrial assembly, ATPase PilB
+PGF_02489591	Ralstonia	227.16	7.83	Uncharacterized Nudix hydrolase NudL
+PGF_02510675	Ralstonia	215.35	4.85	Hypothetical protein in cytochrome oxidase biogenesis cluster
+PGF_02515882	Ralstonia	416.65	17.55	Aspartokinase (EC 2.7.2.4)
+PGF_02517984	Ralstonia	61.54	4.03	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Ralstonia	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02518642	Ralstonia	232.94	25.97	Cell division protein FtsN
+PGF_02518965	Ralstonia	158.78	3.53	Regulatory protein RecX
+PGF_02537450	Ralstonia	498.30	43.42	HtrA protease/chaperone protein
+PGF_02593689	Ralstonia	530.01	86.40	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601905	Ralstonia	144.50	2.40	Transcriptional regulator PA2737, MerR family
+PGF_02619970	Ralstonia	111.01	0.42	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02621120	Ralstonia	149.21	4.26	GNAT family acetyltransferase YjcF
+PGF_02623406	Ralstonia	329.53	28.64	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Ralstonia	1349.16	241.21	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Ralstonia	119.75	2.92	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02719266	Ralstonia	175.53	19.74	Transcriptional regulator Bmul_5214, AsnC family
+PGF_02773452	Ralstonia	178.96	17.37	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+PGF_02776739	Ralstonia	140.62	2.90	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02787494	Ralstonia	208.72	10.41	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02790700	Ralstonia	191.34	16.47	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02798941	Ralstonia	524.79	7.86	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02826187	Ralstonia	285.19	16.35	Similar to eukaryotic Peptidyl prolyl 4-hydroxylase, alpha subunit (EC 1.14.11.2)
+PGF_02826291	Ralstonia	336.20	65.81	Putative transmembrane protein
+PGF_02827614	Ralstonia	158.00	0.00	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02838109	Ralstonia	205.45	18.02	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Ralstonia	263.50	15.29	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Ralstonia	437.46	55.96	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866109	Ralstonia	216.21	6.31	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02873723	Ralstonia	488.88	0.94	Ribonuclease G
+PGF_02874055	Ralstonia	538.11	47.40	3-methylmercaptopropionyl-CoA ligase (EC 6.2.1.44) of DmdB2 type
+PGF_02874203	Ralstonia	131.37	6.04	General secretion pathway protein I
+PGF_02875609	Ralstonia	452.43	40.95	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02891004	Ralstonia	437.55	3.54	Glycerol-3-phosphate ABC transporter, substrate-binding protein UgpB
+PGF_02898096	Ralstonia	475.94	51.80	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02901271	Ralstonia	150.78	5.12	PTS system, IIA component
+PGF_02902854	Ralstonia	214.47	1.71	Outer membrane lipoprotein carrier protein LolA
+PGF_02903501	Ralstonia	293.00	0.00	Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)
+PGF_02911133	Ralstonia	208.32	9.03	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Ralstonia	300.20	26.71	HflC protein
+PGF_02912009	Ralstonia	219.57	1.03	Type IV pilus biogenesis protein PilO
+PGF_02912272	Ralstonia	163.00	0.00	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02919689	Ralstonia	287.10	27.40	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Ralstonia	235.20	3.57	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02940505	Ralstonia	271.18	26.14	UDP-galactose-lipid carrier transferase (EC 2.-.-.-)
+PGF_02942020	Ralstonia	187.86	6.70	Peptidyl-prolyl cis-trans isomerase PpiA precursor (EC 5.2.1.8)
+PGF_02944756	Ralstonia	391.32	47.74	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02946231	Ralstonia	552.09	73.66	SSU ribosomal protein S1p
+PGF_02950579	Ralstonia	271.36	0.65	Septum site-determining protein MinD
+PGF_02963284	Ralstonia	131.31	3.09	Glyoxalase family protein
+PGF_02966355	Ralstonia	253.00	32.50	1,2-epoxyphenylacetyl-CoA isomerase (EC 5.3.3.18)
+PGF_02981550	Ralstonia	207.69	19.36	Kynurenine formamidase, bacterial (EC 3.5.1.9)
+PGF_02992100	Ralstonia	247.74	29.20	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Ralstonia	116.86	2.07	Protein translocase membrane subunit SecG
+PGF_02996778	Ralstonia	687.49	52.15	Enoyl-CoA hydratase (EC 4.2.1.17) / Delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase (EC 5.3.3.8) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_03000070	Ralstonia	353.67	2.41	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+PGF_03004255	Ralstonia	499.92	73.66	Multidrug efflux system, outer membrane factor associated with MexXY system
+PGF_03006832	Ralstonia	369.11	39.77	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03010412	Ralstonia	297.94	29.44	ABC transporter, permease protein PA3837
+PGF_03016423	Ralstonia	276.57	29.80	Protein sirB1
+PGF_03017775	Ralstonia	508.30	28.30	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Ralstonia	202.68	19.70	Septum formation protein Maf
+PGF_03020126	Ralstonia	62.27	2.26	hypothetical protein
+PGF_03025044	Ralstonia	186.23	6.86	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03025675	Ralstonia	587.23	20.30	Lipid A export permease/ATP-binding protein MsbA
+PGF_03026450	Ralstonia	1117.14	222.67	Chromosome partition protein smc
+PGF_03033930	Ralstonia	471.05	27.05	Type I secretion outer membrane protein, TolC family
+PGF_03052506	Ralstonia	86.12	3.53	hypothetical protein
+PGF_03063012	Ralstonia	177.53	4.42	Chaperone protein HscB
+PGF_03065480	Ralstonia	359.79	46.97	Putative transmembrane protein
+PGF_03065725	Ralstonia	101.27	9.70	hypothetical protein
+PGF_03065749	Ralstonia	75.96	2.22	hypothetical protein
+PGF_03065753	Ralstonia	116.75	19.46	hypothetical protein
+PGF_03066317	Ralstonia	404.56	27.11	Inner membrane protein YbaL, KefB/KefC family
+PGF_03066520	Ralstonia	400.82	37.64	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03066805	Ralstonia	68.01	0.10	hypothetical protein
+PGF_03068237	Ralstonia	58.00	0.00	hypothetical protein
+PGF_03069524	Ralstonia	81.85	13.63	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03070367	Ralstonia	210.29	41.90	Putative formate dehydrogenase-specific chaperone
+PGF_03072076	Ralstonia	267.57	17.98	hypothetical protein
+PGF_03072285	Ralstonia	341.04	21.60	ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)
+PGF_03074362	Ralstonia	412.09	62.66	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03085583	Ralstonia	600.20	104.40	Glutathione-regulated potassium-efflux system protein KefC
+PGF_03112345	Ralstonia	133.50	8.49	putative membrane protein
+PGF_03124650	Ralstonia	472.27	75.06	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03125075	Ralstonia	345.61	26.25	Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases
+PGF_03125514	Ralstonia	436.25	52.83	FIG015287: Zinc protease
+PGF_03128228	Ralstonia	391.26	7.32	Outer membrane beta-barrel assembly protein BamB
+PGF_03132336	Ralstonia	421.20	27.40	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03138396	Ralstonia	117.50	2.08	hypothetical protein
+PGF_03142586	Ralstonia	101.32	3.12	Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+PGF_03144011	Ralstonia	165.86	10.97	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03147273	Ralstonia	168.71	7.73	Nitrite-sensitive transcriptional repressor NsrR
+PGF_03158251	Ralstonia	117.14	9.19	COGs COG2343
+PGF_03172904	Ralstonia	300.27	17.01	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Ralstonia	193.93	1.02	Transcription antitermination protein NusG
+PGF_03196585	Ralstonia	103.00	0.00	Sulfur oxidation protein SoxZ
+PGF_03203461	Ralstonia	597.40	70.37	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03216775	Ralstonia	246.74	3.09	Probable cation transport protein
+PGF_03257845	Ralstonia	217.08	18.75	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Ralstonia	885.91	3.95	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Ralstonia	73.02	5.70	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Ralstonia	226.91	27.25	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03421722	Ralstonia	445.49	55.95	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Ralstonia	331.78	33.74	33 kDa chaperonin HslO
+PGF_03441339	Ralstonia	347.79	5.82	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03450769	Ralstonia	241.53	35.96	Putative transmembrane protein
+PGF_03470321	Ralstonia	182.71	22.35	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03514188	Ralstonia	444.32	102.40	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Ralstonia	140.80	1.94	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Ralstonia	391.42	48.88	Cell division protein FtsZ
+PGF_03558774	Ralstonia	282.56	26.45	Peptidase M48, Ste24p precursor
+PGF_03609651	Ralstonia	669.85	106.03	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Ralstonia	159.11	13.81	UPF0234 protein Yitk
+PGF_03674008	Ralstonia	95.26	1.10	1,2-phenylacetyl-CoA epoxidase, subunit B (EC 1.14.13.149)
+PGF_03674165	Ralstonia	340.60	31.45	1,2-phenylacetyl-CoA epoxidase, subunit A (EC 1.14.13.149)
+PGF_03674577	Ralstonia	382.10	55.14	Cytochrome c-type biogenesis protein CcsA/ResC
+PGF_03683955	Ralstonia	284.92	9.81	Nitrate ABC transporter, permease protein
+PGF_03694962	Ralstonia	328.29	54.79	TolA protein
+PGF_03718818	Ralstonia	292.24	42.86	Cell division protein FtsQ
+PGF_03719269	Ralstonia	201.96	16.70	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Ralstonia	186.07	23.10	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729040	Ralstonia	141.79	2.48	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03729098	Ralstonia	354.91	22.46	Sigma factor RpoE negative regulatory protein RseB precursor
+PGF_03729141	Ralstonia	189.86	1.76	UPF0301 protein YqgE
+PGF_03729877	Ralstonia	121.14	9.40	twitching motility protein PilH
+PGF_03750599	Ralstonia	262.99	7.66	Cell division coordinator CpoB
+PGF_03751065	Ralstonia	60.37	8.33	Rubredoxin
+PGF_03751823	Ralstonia	208.62	15.89	Heat shock protein GrpE
+PGF_03752544	Ralstonia	235.54	0.92	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Ralstonia	319.31	53.67	Site-specific tyrosine recombinase XerC
+PGF_03757137	Ralstonia	458.14	65.33	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03767152	Ralstonia	97.74	1.18	Proposed lipoate regulatory protein YbeD
+PGF_03768617	Ralstonia	226.10	27.26	Glutathione peroxidase (EC 1.11.1.9)
+PGF_03778780	Ralstonia	364.60	53.35	Signal recognition particle receptor FtsY
+PGF_03787199	Ralstonia	193.80	7.23	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Ralstonia	253.58	22.88	Ribonuclease III (EC 3.1.26.3)
+PGF_03815442	Ralstonia	314.67	7.04	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_03846586	Ralstonia	191.69	4.66	Putative transmembrane protein
+PGF_03960810	Ralstonia	243.38	29.97	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03966756	Ralstonia	158.16	5.81	Sulfur oxidation protein SoxY
+PGF_03969636	Ralstonia	186.41	29.75	PhbF
+PGF_04004195	Ralstonia	169.86	26.90	ATP synthase protein I
+PGF_04004610	Ralstonia	227.53	18.07	Protocatechuate 3,4-dioxygenase alpha chain (EC 1.13.11.3)
+PGF_04009106	Ralstonia	173.33	4.63	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04009998	Ralstonia	235.65	18.42	Histidine utilization repressor
+PGF_04025415	Ralstonia	141.40	0.67	Large-conductance mechanosensitive channel
+PGF_04037464	Ralstonia	257.80	13.40	rRNA methylases
+PGF_04041316	Ralstonia	923.25	137.80	Excinuclease ABC subunit A
+PGF_04127376	Ralstonia	268.96	7.55	Twin-arginine translocation protein TatC
+PGF_04151476	Ralstonia	199.52	14.49	16S rRNA processing protein RimM
+PGF_04154333	Ralstonia	84.02	4.54	Twin-arginine translocation protein TatA
+PGF_04162809	Ralstonia	209.90	17.72	Alkyl hydroperoxide reductase subunit C-like protein
+PGF_04213876	Ralstonia	281.49	48.35	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04249887	Ralstonia	69.25	1.16	hypothetical protein
+PGF_04275878	Ralstonia	231.89	11.55	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04284526	Ralstonia	395.43	13.70	Alpha-aminoadipate aminotransferase (EC 2.6.1.39) @ Leucine transaminase (EC 2.6.1.6) @ Valine transaminase
+PGF_04315180	Ralstonia	172.80	0.40	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04316112	Ralstonia	410.25	69.95	Flavocytochrome c:sulfide dehydrogenase
+PGF_04345693	Ralstonia	445.85	52.95	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04366875	Ralstonia	315.33	10.09	Transcriptional regulator
+PGF_04366905	Ralstonia	192.50	6.64	granule-associated protein
+PGF_04380075	Ralstonia	159.69	3.06	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04412082	Ralstonia	118.93	8.19	Thioredoxin
+PGF_04505269	Ralstonia	247.01	0.10	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Ralstonia	340.25	32.54	Rod shape-determining protein MreB
+PGF_04521913	Ralstonia	453.31	98.12	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Ralstonia	503.45	62.90	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Ralstonia	199.15	8.08	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Ralstonia	246.47	9.05	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04598128	Ralstonia	347.39	46.68	ABC transporter, ATP-binding protein
+PGF_04608820	Ralstonia	633.10	80.10	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04615494	Ralstonia	153.66	11.03	Putative transmembrane protein
+PGF_04641239	Ralstonia	348.67	2.34	CDP-6-deoxy-delta-3,4-glucoseen reductase-like
+PGF_04662829	Ralstonia	823.83	100.97	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04666574	Ralstonia	182.77	8.53	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_04667681	Ralstonia	416.13	36.41	Alanine transaminase (EC 2.6.1.2)
+PGF_04728143	Ralstonia	577.44	139.20	Glucoamylase (EC 3.2.1.3)
+PGF_04749763	Ralstonia	912.92	155.75	Translation initiation factor 2
+PGF_04757308	Ralstonia	679.61	39.80	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04783600	Ralstonia	293.38	41.47	Transcriptional regulator YfeR, LysR family
+PGF_04788810	Ralstonia	200.93	3.84	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04845029	Ralstonia	132.63	9.40	LSU ribosomal protein L19p
+PGF_04927434	Ralstonia	116.92	12.50	Phosphate starvation-inducible protein PsiF
+PGF_04960746	Ralstonia	276.06	25.93	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04970608	Ralstonia	67.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Ralstonia	102.58	4.08	LSU ribosomal protein L21p
+PGF_04985359	Ralstonia	1229.60	244.61	Inner membrane component of TAM transport system
+PGF_05022117	Ralstonia	525.14	74.56	Bis-ABC ATPase YbiT
+PGF_05111929	Ralstonia	535.95	94.05	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Ralstonia	849.11	127.14	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05152582	Ralstonia	784.62	76.24	Aerobic carbon monoxide dehydrogenase (quinone), large chain (EC 1.2.5.3)
+PGF_05154119	Ralstonia	285.68	1.61	Putative transmembrane protein
+PGF_05182506	Ralstonia	219.05	7.10	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05192570	Ralstonia	268.19	21.64	D-aminopeptidase dipeptide-binding protein DppA (EC 3.4.11.-)
+PGF_05195027	Ralstonia	464.96	33.01	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05210618	Ralstonia	268.43	48.27	Septum-associated cell division protein DedD
+PGF_05214881	Ralstonia	289.76	26.03	Haloacid dehalogenase-like hydrolase
+PGF_05257314	Ralstonia	1285.95	330.35	FIG005080: Possible exported protein
+PGF_05280843	Ralstonia	416.85	59.21	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Ralstonia	172.03	0.91	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05320667	Ralstonia	231.74	46.22	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
+PGF_05322459	Ralstonia	230.29	22.31	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_05374359	Ralstonia	324.95	29.55	Fumarylacetoacetate hydrolase family protein
+PGF_05386032	Ralstonia	188.58	4.16	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05442739	Ralstonia	337.15	4.39	Sulfate and thiosulfate binding protein CysP
+PGF_05449103	Ralstonia	141.25	5.67	Rhodanese-related sulfurtransferase YibN
+PGF_05463808	Ralstonia	308.38	20.09	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Ralstonia	504.65	39.30	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05545271	Ralstonia	267.51	6.69	Pca regulon regulatory protein PcaR
+PGF_05581732	Ralstonia	445.31	3.74	Protein translocase subunit SecY
+PGF_05598173	Ralstonia	371.56	38.44	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05679920	Ralstonia	1264.38	213.06	ATP-dependent helicase HrpA
+PGF_05681779	Ralstonia	194.00	0.00	Lysine decarboxylase family
+PGF_05693577	Ralstonia	140.20	3.14	Integration host factor beta subunit
+PGF_05714136	Ralstonia	114.12	14.86	FIG138056: a glutathione-dependent thiol reductase
+PGF_05769513	Ralstonia	431.78	12.34	Tol-Pal system beta propeller repeat protein TolB
+PGF_05805262	Ralstonia	313.02	9.97	Probable transcription regulator protein of MDR efflux pump cluster
+PGF_05872952	Ralstonia	275.46	16.23	Outer membrane beta-barrel assembly protein BamD
+PGF_05946698	Ralstonia	789.35	214.08	Alanylphosphatidylglycerol synthase (EC 2.3.2.11)
+PGF_05949521	Ralstonia	624.99	4.81	Protein translocase subunit SecD
+PGF_05965455	Ralstonia	395.92	76.13	AmpG permease
+PGF_05983502	Ralstonia	422.08	3.41	Nitrate ABC transporter, substrate-binding protein
+PGF_06000040	Ralstonia	421.40	1.07	Type IV fimbrial assembly protein PilC
+PGF_06005188	Ralstonia	660.93	13.92	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06051594	Ralstonia	558.12	33.57	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06053106	Ralstonia	306.71	1.27	RNA polymerase sigma factor RpoH
+PGF_06075233	Ralstonia	451.68	53.91	PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase
+PGF_06120144	Ralstonia	144.95	1.30	Ribosome association toxin RatA
+PGF_06170558	Ralstonia	154.04	0.52	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Ralstonia	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Ralstonia	260.37	18.27	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06285692	Ralstonia	161.58	19.12	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06294815	Ralstonia	342.51	15.08	Sodium/bile acid symporter family
+PGF_06315406	Ralstonia	439.60	50.07	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Ralstonia	336.98	3.13	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06403579	Ralstonia	781.43	122.95	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06429852	Ralstonia	202.50	19.40	Sigma factor RpoE negative regulatory protein RseA
+PGF_06453320	Ralstonia	154.00	0.00	Homoprotocatechuate degradative operon repressor
+PGF_06458877	Ralstonia	187.90	15.43	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06461498	Ralstonia	274.53	25.92	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06524027	Ralstonia	685.05	108.38	ATP-dependent DNA helicase Rep
+PGF_06545170	Ralstonia	119.63	16.16	Fluoride ion transporter CrcB
+PGF_06592852	Ralstonia	296.86	44.16	Transcriptional regulator YeiE, LysR family
+PGF_06594013	Ralstonia	127.32	11.85	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06614663	Ralstonia	187.41	1.48	hypothetical protein
+PGF_06693963	Ralstonia	114.80	1.11	Nucleoid-associated protein YaaK
+PGF_06706273	Ralstonia	151.37	92.30	hypothetical protein
+PGF_06721510	Ralstonia	302.33	33.13	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+PGF_06743269	Ralstonia	391.48	28.57	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06757295	Ralstonia	502.65	34.06	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_07171792	Ralstonia	254.48	19.12	Glycerol-3-phosphate regulon repressor GlpR
+PGF_07344415	Ralstonia	187.70	3.99	Intracellular septation protein IspA
+PGF_07425883	Ralstonia	106.97	7.80	Ferredoxin, 2Fe-2S
+PGF_08036191	Ralstonia	345.71	14.72	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)
+PGF_08046522	Ralstonia	102.33	4.91	Glutaredoxin-related protein
+PGF_08056786	Ralstonia	309.51	33.37	Ligand-binding SRPBCC domain protein family / Ligand-binding SRPBCC domain protein family
+PGF_08059428	Ralstonia	84.00	0.00	Cell division topological specificity factor MinE
+PGF_08061357	Ralstonia	123.96	0.29	Iron-sulfur cluster insertion protein ErpA
+PGF_08139865	Ralstonia	163.59	3.08	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_08147453	Ralstonia	481.04	53.73	DNA recombination protein RmuC
+PGF_08183187	Ralstonia	411.13	18.38	Cell division protein FtsW

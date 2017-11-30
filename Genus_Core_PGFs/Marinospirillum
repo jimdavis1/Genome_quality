@@ -1,0 +1,939 @@
+PGF_00000261	Marinospirillum	397.50	4.73	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000416	Marinospirillum	356.75	4.50	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000936	Marinospirillum	131.50	3.00	FIG00899427: hypothetical protein
+PGF_00000939	Marinospirillum	400.25	2.63	Uncharacterized protein YhiN
+PGF_00002124	Marinospirillum	212.75	11.64	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002609	Marinospirillum	207.50	1.91	FIG020042: hypothetical protein
+PGF_00002618	Marinospirillum	1223.00	10.80	FIG020374: hypothetical protein
+PGF_00002630	Marinospirillum	413.75	1.26	FIG020568: hypothetical protein
+PGF_00003416	Marinospirillum	223.25	0.96	FIG094199: Fumarylacetoacetate hydrolase
+PGF_00003448	Marinospirillum	393.75	9.46	FIG110192: hypothetical protein
+PGF_00003516	Marinospirillum	251.75	0.50	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003543	Marinospirillum	510.25	4.79	FIG139976: hypothetical protein
+PGF_00003749	Marinospirillum	149.00	0.00	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00004378	Marinospirillum	257.00	0.00	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+PGF_00004481	Marinospirillum	529.75	0.50	Ferric iron ABC transporter, permease protein
+PGF_00005260	Marinospirillum	350.25	2.63	ABC transporter, permease protein YejE
+PGF_00005284	Marinospirillum	586.25	2.06	Flagellar M-ring protein FliF
+PGF_00005288	Marinospirillum	375.00	3.56	Flagellar P-ring protein FlgI
+PGF_00005354	Marinospirillum	157.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005358	Marinospirillum	262.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Marinospirillum	706.00	0.00	Flagellar biosynthesis protein FlhA
+PGF_00005450	Marinospirillum	539.25	45.14	Flagellar hook protein FlgE
+PGF_00005623	Marinospirillum	352.00	5.94	Flagellar sensor histidine kinase FleS
+PGF_00006100	Marinospirillum	322.50	1.00	tRNA-modifying protein YgfZ
+PGF_00006320	Marinospirillum	284.00	0.00	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006394	Marinospirillum	354.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006447	Marinospirillum	254.00	9.38	Fumarate and nitrate reduction regulatory protein
+PGF_00006454	Marinospirillum	505.00	0.00	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006461	Marinospirillum	458.75	0.50	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006935	Marinospirillum	524.50	2.38	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006987	Marinospirillum	205.25	4.99	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007012	Marinospirillum	364.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Marinospirillum	496.75	4.27	GTP-binding protein EngA
+PGF_00007026	Marinospirillum	239.75	2.87	GTP-binding protein EngB
+PGF_00007027	Marinospirillum	300.25	1.50	GTP-binding protein Era
+PGF_00007028	Marinospirillum	431.00	0.00	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Marinospirillum	605.25	2.06	GTP-binding protein TypA/BipA
+PGF_00007057	Marinospirillum	453.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Marinospirillum	311.50	9.26	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Marinospirillum	321.25	4.27	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Marinospirillum	563.50	32.55	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Marinospirillum	434.75	1.26	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Marinospirillum	375.75	0.96	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Marinospirillum	405.00	0.00	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Marinospirillum	297.50	15.15	Glutamate racemase (EC 5.1.1.3)
+PGF_00008159	Marinospirillum	524.00	6.00	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008164	Marinospirillum	427.75	1.50	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008326	Marinospirillum	561.75	1.50	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Marinospirillum	429.75	0.96	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008337	Marinospirillum	502.75	1.26	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008349	Marinospirillum	84.00	0.00	Glutaredoxin 1
+PGF_00008469	Marinospirillum	319.50	1.00	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008509	Marinospirillum	343.00	0.82	D-erythrose-4-phosphate dehydrogenase (EC 1.2.1.72)
+PGF_00008510	Marinospirillum	261.50	4.12	16S rRNA (guanine(1516)-N(2))-methyltransferase (EC 2.1.1.242)
+PGF_00008611	Marinospirillum	354.25	0.50	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008780	Marinospirillum	364.50	1.73	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Marinospirillum	213.50	1.00	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Marinospirillum	200.25	8.62	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Marinospirillum	318.25	1.50	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Marinospirillum	687.75	0.50	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Marinospirillum	238.75	0.50	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Marinospirillum	705.75	0.50	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Marinospirillum	207.75	1.50	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Marinospirillum	745.50	1.73	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011634	Marinospirillum	414.50	4.65	HflK protein
+PGF_00011979	Marinospirillum	435.75	1.26	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Marinospirillum	333.50	0.58	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Marinospirillum	434.00	0.00	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012360	Marinospirillum	205.00	0.00	Homoserine kinase (EC 2.7.1.39) @ Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_00012970	Marinospirillum	634.00	5.23	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00012972	Marinospirillum	202.00	21.42	ADP compounds hydrolase NudE (EC 3.6.1.-)
+PGF_00013003	Marinospirillum	641.25	1.89	Bis-ABC ATPase YheS
+PGF_00013100	Marinospirillum	473.00	0.00	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013244	Marinospirillum	211.25	5.32	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013283	Marinospirillum	238.00	10.13	UPF0001 protein YggS
+PGF_00013492	Marinospirillum	189.00	0.00	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Marinospirillum	525.00	1.15	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Marinospirillum	197.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013857	Marinospirillum	754.00	1.63	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014051	Marinospirillum	267.00	0.82	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014284	Marinospirillum	454.25	0.96	Inner membrane transport protein YajR
+PGF_00014306	Marinospirillum	175.25	0.50	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Marinospirillum	489.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Marinospirillum	277.50	0.58	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Marinospirillum	75.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Marinospirillum	178.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Marinospirillum	274.50	17.92	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Marinospirillum	249.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Marinospirillum	483.50	1.73	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Marinospirillum	435.25	0.50	Iron-sulfur cluster assembly protein SufD
+PGF_00015703	Marinospirillum	740.25	0.50	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015709	Marinospirillum	532.50	1.73	Isocitrate lyase (EC 4.1.3.1)
+PGF_00015718	Marinospirillum	950.25	0.50	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Marinospirillum	340.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015972	Marinospirillum	154.50	19.82	L-2,4-diaminobutyric acid acetyltransferase (EC 2.3.1.178)
+PGF_00016083	Marinospirillum	132.00	1.15	L-ectoine synthase (EC 4.2.1.108)
+PGF_00016130	Marinospirillum	390.75	4.92	L-lactate dehydrogenase
+PGF_00016325	Marinospirillum	749.25	15.44	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Marinospirillum	166.75	0.50	LSU ribosomal protein L10p (P0)
+PGF_00016338	Marinospirillum	425.00	0.82	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Marinospirillum	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Marinospirillum	144.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Marinospirillum	137.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Marinospirillum	125.25	0.96	LSU ribosomal protein L17p
+PGF_00016353	Marinospirillum	116.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Marinospirillum	231.50	0.58	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Marinospirillum	118.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Marinospirillum	117.50	11.24	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Marinospirillum	110.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Marinospirillum	98.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Marinospirillum	105.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016393	Marinospirillum	274.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Marinospirillum	59.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Marinospirillum	59.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Marinospirillum	51.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Marinospirillum	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Marinospirillum	64.50	1.00	LSU ribosomal protein L35p
+PGF_00016431	Marinospirillum	213.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Marinospirillum	201.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Marinospirillum	179.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Marinospirillum	178.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Marinospirillum	122.25	0.50	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Marinospirillum	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016495	Marinospirillum	245.25	4.50	Lactam utilization protein LamB
+PGF_00016919	Marinospirillum	226.50	8.66	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Marinospirillum	379.25	3.59	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Marinospirillum	242.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017464	Marinospirillum	235.00	3.46	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Marinospirillum	321.00	0.00	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017579	Marinospirillum	433.75	35.70	ATP-dependent RNA helicase RhlB
+PGF_00017904	Marinospirillum	310.50	3.00	LysR-family transcriptional regulator PA5428
+PGF_00017939	Marinospirillum	342.50	6.40	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00017940	Marinospirillum	456.00	0.00	Lysine 2,3-aminomutase related protein
+PGF_00018536	Marinospirillum	714.00	2.00	ATP-dependent helicase DinG/Rad3
+PGF_00018560	Marinospirillum	292.00	0.00	Magnesium and cobalt efflux protein CorC
+PGF_00019038	Marinospirillum	441.75	0.50	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Marinospirillum	174.00	0.00	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Marinospirillum	886.00	1.41	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00019567	Marinospirillum	814.75	14.29	ATP-dependent protease La (EC 3.4.21.53) Type II
+PGF_00020184	Marinospirillum	579.75	14.86	Membrane-bound lytic murein transglycosylase D
+PGF_00020190	Marinospirillum	475.50	1.00	Membrane-bound lytic murein transglycosylase F (EC 4.2.2.n1)
+PGF_00020361	Marinospirillum	168.25	2.87	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020741	Marinospirillum	196.00	0.00	Methionine biosynthesis protein MetW
+PGF_00020981	Marinospirillum	535.00	0.00	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00020984	Marinospirillum	286.25	2.06	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021217	Marinospirillum	516.75	0.50	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022571	Marinospirillum	257.00	0.00	2,3-dehydroadipyl-CoA hydratase (EC 4.2.1.17)
+PGF_00022577	Marinospirillum	179.25	3.77	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00022781	Marinospirillum	366.00	6.68	ATPase, AFG1 family
+PGF_00022878	Marinospirillum	449.25	1.26	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+PGF_00023283	Marinospirillum	155.00	0.00	Multimeric flavodoxin WrbA
+PGF_00023488	Marinospirillum	314.25	3.86	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-) / Thiazole tautomerase TenI-like domain
+PGF_00023591	Marinospirillum	346.25	5.25	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Marinospirillum	355.75	13.50	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023818	Marinospirillum	438.00	0.00	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00024273	Marinospirillum	163.75	1.50	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Marinospirillum	378.75	1.26	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Marinospirillum	544.75	4.92	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024615	Marinospirillum	284.25	1.50	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024619	Marinospirillum	593.25	6.18	Acetate permease ActP (cation/acetate symporter)
+PGF_00024831	Marinospirillum	450.00	0.00	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024907	Marinospirillum	484.75	0.50	NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)
+PGF_00025090	Marinospirillum	572.50	5.00	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025184	Marinospirillum	453.00	0.00	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.8)
+PGF_00025185	Marinospirillum	401.75	0.50	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.8)
+PGF_00025187	Marinospirillum	254.50	0.58	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.8)
+PGF_00025188	Marinospirillum	222.00	0.00	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.8)
+PGF_00025189	Marinospirillum	206.00	0.00	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.8)
+PGF_00025190	Marinospirillum	400.00	12.70	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.8)
+PGF_00025215	Marinospirillum	163.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025448	Marinospirillum	202.75	1.50	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025639	Marinospirillum	391.00	0.00	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00026279	Marinospirillum	320.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Marinospirillum	204.00	3.65	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Marinospirillum	288.00	2.16	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Marinospirillum	287.50	0.58	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026563	Marinospirillum	155.00	2.00	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Marinospirillum	306.50	5.51	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026866	Marinospirillum	323.50	0.58	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Marinospirillum	681.75	3.77	Oligopeptidase A (EC 3.4.24.70)
+PGF_00028486	Marinospirillum	254.00	2.71	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00028512	Marinospirillum	587.25	15.97	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)
+PGF_00028516	Marinospirillum	439.00	0.00	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)
+PGF_00029464	Marinospirillum	139.00	26.67	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029917	Marinospirillum	287.25	0.96	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030640	Marinospirillum	360.75	0.50	Peptide chain release factor 1
+PGF_00030643	Marinospirillum	527.50	1.00	Peptide chain release factor 3
+PGF_00030812	Marinospirillum	170.50	1.00	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00032999	Marinospirillum	169.75	4.92	PhbF
+PGF_00033043	Marinospirillum	307.00	0.00	Phenylacetic acid degradation operon negative regulatory protein PaaX
+PGF_00033049	Marinospirillum	196.75	1.71	Phenylacetic acid degradation protein PaaY
+PGF_00033095	Marinospirillum	796.50	0.58	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033197	Marinospirillum	324.00	0.00	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033237	Marinospirillum	355.75	12.42	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033278	Marinospirillum	555.00	1.15	Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases
+PGF_00033289	Marinospirillum	340.50	1.00	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Marinospirillum	360.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Marinospirillum	882.50	1.00	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033402	Marinospirillum	797.50	1.91	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033411	Marinospirillum	276.00	0.00	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033489	Marinospirillum	272.50	16.50	Phosphogluconate repressor HexR, RpiR family
+PGF_00033511	Marinospirillum	387.25	0.50	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Marinospirillum	257.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Marinospirillum	271.25	0.50	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033877	Marinospirillum	160.00	1.15	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Marinospirillum	430.00	0.00	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Marinospirillum	237.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Marinospirillum	209.50	5.57	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Marinospirillum	242.75	0.50	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Marinospirillum	352.00	0.00	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Marinospirillum	1302.25	0.50	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Marinospirillum	224.00	3.16	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Marinospirillum	360.50	0.58	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034566	Marinospirillum	454.25	3.30	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034647	Marinospirillum	641.25	26.85	Polyhydroxyalkanoic acid synthase
+PGF_00034776	Marinospirillum	709.75	0.50	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Marinospirillum	333.00	0.00	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Marinospirillum	162.75	0.50	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035257	Marinospirillum	339.50	0.58	Possible protease sohB (EC 3.4.21.-)
+PGF_00035378	Marinospirillum	462.75	0.50	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035591	Marinospirillum	270.25	9.18	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Marinospirillum	483.00	1.15	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035721	Marinospirillum	459.50	1.73	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Marinospirillum	431.25	0.50	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00035831	Marinospirillum	253.00	8.12	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+PGF_00036928	Marinospirillum	302.25	3.95	Probable acyltransferase YihG
+PGF_00037523	Marinospirillum	1075.50	4.04	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037565	Marinospirillum	494.00	0.00	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037588	Marinospirillum	569.75	1.26	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037747	Marinospirillum	247.25	13.25	Propionate catabolism operon transcriptional regulator of GntR family
+PGF_00037750	Marinospirillum	628.75	0.50	Propionate--CoA ligase (EC 6.2.1.17)
+PGF_00037828	Marinospirillum	297.50	0.58	Protease HtpX
+PGF_00037837	Marinospirillum	938.50	16.09	Protease III precursor (EC 3.4.24.55)
+PGF_00037937	Marinospirillum	113.25	1.26	Protein PhnA
+PGF_00038267	Marinospirillum	556.00	0.00	Phenylacetic acid degradation protein PaaN2, ring-opening aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_00038455	Marinospirillum	261.50	0.58	Uncharacterized UPF0721 integral membrane protein
+PGF_00038642	Marinospirillum	180.25	3.20	Protein SprT
+PGF_00038674	Marinospirillum	313.50	0.58	Protein translocase subunit SecF
+PGF_00038879	Marinospirillum	145.00	0.00	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00039342	Marinospirillum	285.75	2.63	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039721	Marinospirillum	219.50	1.00	Putative TEGT family carrier/transport protein
+PGF_00039838	Marinospirillum	293.50	0.58	Putative acetate efflux pump, MadN
+PGF_00040578	Marinospirillum	275.50	3.00	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Marinospirillum	266.00	7.53	Putative deoxyribonuclease YjjV
+PGF_00041369	Marinospirillum	221.25	2.50	GMP/IMP nucleotidase YrfG
+PGF_00041948	Marinospirillum	433.75	2.36	Putative membrane protein YfjD
+PGF_00043154	Marinospirillum	366.25	3.20	Putative permease PerM (= YfgO)
+PGF_00044292	Marinospirillum	576.25	4.35	Putative sulfate permease
+PGF_00045833	Marinospirillum	216.25	1.50	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Marinospirillum	246.25	1.71	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045939	Marinospirillum	422.75	7.50	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+PGF_00045982	Marinospirillum	890.00	0.00	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046101	Marinospirillum	283.00	2.45	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Marinospirillum	345.50	3.00	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046275	Marinospirillum	979.75	1.50	RNA polymerase associated protein RapA
+PGF_00046348	Marinospirillum	333.50	4.04	RNA polymerase sigma factor RpoS
+PGF_00046377	Marinospirillum	245.00	0.00	RNA polymerase sigma factor for flagellar operon
+PGF_00046403	Marinospirillum	500.00	3.37	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Marinospirillum	145.00	0.00	RNA polymerase-binding transcription factor DksA
+PGF_00046622	Marinospirillum	77.75	0.96	RNA-binding protein Hfq
+PGF_00047078	Marinospirillum	359.00	4.69	RecA protein
+PGF_00048121	Marinospirillum	128.75	0.50	Response regulator receiver protein in cluster with DNA polymerase III epsilon subunit
+PGF_00048419	Marinospirillum	250.75	79.88	Rhomboid protease GlpG (EC 3.4.21.105)
+PGF_00048480	Marinospirillum	204.75	0.96	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Marinospirillum	154.00	4.24	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Marinospirillum	213.00	4.08	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Marinospirillum	239.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048589	Marinospirillum	220.00	1.15	Ribonuclease T
+PGF_00048630	Marinospirillum	863.75	122.12	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048643	Marinospirillum	149.25	9.54	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Marinospirillum	313.75	2.50	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048824	Marinospirillum	223.50	4.04	Ribosomal large subunit pseudouridine(746) synthase (EC 5.4.99.29) @ tRNA pseudouridine(32) synthase (EC 5.4.99.28)
+PGF_00048829	Marinospirillum	292.75	4.65	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048834	Marinospirillum	201.50	0.58	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048836	Marinospirillum	308.00	11.43	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Marinospirillum	299.00	2.83	Ribosomal protein L11 methyltransferase
+PGF_00048842	Marinospirillum	315.75	2.87	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Marinospirillum	448.00	1.63	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Marinospirillum	101.00	0.00	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Marinospirillum	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Marinospirillum	346.25	0.96	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Marinospirillum	134.00	2.45	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Marinospirillum	129.75	0.50	Ribosome-binding factor A
+PGF_00048985	Marinospirillum	231.00	1.15	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Marinospirillum	402.75	4.50	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Marinospirillum	344.50	2.65	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Marinospirillum	266.50	4.04	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Marinospirillum	100.75	4.50	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Marinospirillum	127.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Marinospirillum	123.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Marinospirillum	118.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Marinospirillum	97.25	2.50	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049849	Marinospirillum	82.00	0.00	SSU ribosomal protein S16p
+PGF_00049858	Marinospirillum	75.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049889	Marinospirillum	235.00	1.63	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Marinospirillum	206.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Marinospirillum	166.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Marinospirillum	148.50	15.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Marinospirillum	130.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Marinospirillum	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Marinospirillum	276.25	7.18	Segregation and condensation protein A
+PGF_00050995	Marinospirillum	506.50	1.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051142	Marinospirillum	299.75	3.59	Septum-associated rare lipoprotein A
+PGF_00051525	Marinospirillum	423.50	1.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051575	Marinospirillum	402.50	0.58	Short-chain alcohol dehydrogenase family
+PGF_00052238	Marinospirillum	465.75	2.87	Signal recognition particle protein Ffh
+PGF_00052676	Marinospirillum	227.25	8.58	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase
+PGF_00052705	Marinospirillum	143.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052978	Marinospirillum	371.00	0.00	Aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
+PGF_00053553	Marinospirillum	458.75	10.50	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+PGF_00054301	Marinospirillum	207.75	0.50	Stringent starvation protein A
+PGF_00054323	Marinospirillum	207.25	0.50	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Marinospirillum	115.00	0.00	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Marinospirillum	234.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Marinospirillum	388.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054959	Marinospirillum	581.25	19.77	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+PGF_00055052	Marinospirillum	553.50	3.32	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055099	Marinospirillum	136.50	1.00	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055273	Marinospirillum	194.00	0.00	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055354	Marinospirillum	429.00	2.45	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055771	Marinospirillum	182.00	0.00	TRAP dicarboxylate transporter, DctQ subunit, unknown substrate 6
+PGF_00055966	Marinospirillum	371.25	1.26	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Marinospirillum	341.00	9.76	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056498	Marinospirillum	341.25	6.99	Thiamin ABC transporter, substrate-binding component
+PGF_00056502	Marinospirillum	528.25	4.72	Thiamin ABC transporter, transmembrane component
+PGF_00056544	Marinospirillum	261.00	1.15	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Marinospirillum	339.00	0.00	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Marinospirillum	498.50	1.00	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056821	Marinospirillum	104.00	0.00	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)
+PGF_00056883	Marinospirillum	220.00	2.71	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Marinospirillum	264.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057016	Marinospirillum	147.00	0.00	Tol biopolymer transport system, TolR protein
+PGF_00057032	Marinospirillum	134.75	4.79	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Marinospirillum	753.50	0.58	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057435	Marinospirillum	173.50	3.00	Transcription elongation factor GreB
+PGF_00057483	Marinospirillum	409.00	11.55	Transcription termination factor Rho
+PGF_00057485	Marinospirillum	495.00	0.00	Transcription termination protein NusA
+PGF_00057488	Marinospirillum	168.50	1.00	Transcription termination protein NusB
+PGF_00057511	Marinospirillum	309.00	2.83	Transcriptional activator MetR
+PGF_00058666	Marinospirillum	202.00	0.82	Transcriptional regulator SlmA, TetR family
+PGF_00059463	Marinospirillum	223.25	6.50	Transcriptional regulator, LuxR family
+PGF_00060313	Marinospirillum	330.50	83.00	Transcriptional response regulatory protein GlrR
+PGF_00060398	Marinospirillum	668.00	0.00	Transketolase (EC 2.2.1.1)
+PGF_00060409	Marinospirillum	701.00	0.00	Translation elongation factor G
+PGF_00060414	Marinospirillum	600.00	2.00	Translation elongation factor LepA
+PGF_00060421	Marinospirillum	180.50	8.66	Translation elongation factor P
+PGF_00060422	Marinospirillum	200.50	3.32	Translation elongation factor P Lys34 hydroxylase
+PGF_00060424	Marinospirillum	316.00	2.45	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Marinospirillum	287.00	2.00	Translation elongation factor Ts
+PGF_00060428	Marinospirillum	398.25	0.96	Translation elongation factor Tu
+PGF_00060431	Marinospirillum	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Marinospirillum	164.00	34.96	Translation initiation factor 3
+PGF_00060481	Marinospirillum	124.00	0.00	Translation initiation factor SUI1-related protein
+PGF_00061019	Marinospirillum	1015.50	7.33	Transporter, AcrB/AcrD/AcrF family
+PGF_00062017	Marinospirillum	408.00	0.00	Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)
+PGF_00062023	Marinospirillum	269.25	1.50	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Marinospirillum	403.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Marinospirillum	339.50	5.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062563	Marinospirillum	982.75	4.03	Two-component sensor CbrA: intrcellular carbon:nitrogen balance
+PGF_00062564	Marinospirillum	476.75	3.50	Two-component sensor CbrB: intrcellular carbon:nitrogen balance
+PGF_00063916	Marinospirillum	399.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Marinospirillum	243.50	5.20	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Marinospirillum	304.00	0.00	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Marinospirillum	344.75	1.50	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Marinospirillum	350.75	2.36	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Marinospirillum	361.75	5.25	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Marinospirillum	471.50	12.37	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Marinospirillum	464.75	7.80	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064184	Marinospirillum	485.75	0.96	UPF0061 protein YdiU
+PGF_00064270	Marinospirillum	245.75	23.17	UPF0246 protein YaaA
+PGF_00064280	Marinospirillum	151.50	3.00	UPF0260 protein YcgN
+PGF_00064393	Marinospirillum	291.25	4.35	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064438	Marinospirillum	198.50	1.00	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Marinospirillum	545.00	0.00	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064506	Marinospirillum	257.75	0.50	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064685	Marinospirillum	84.00	0.00	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Marinospirillum	215.00	0.00	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00064828	Marinospirillum	235.25	0.50	Uncharacterized methyltransferase PA5071
+PGF_00064880	Marinospirillum	451.50	8.66	Uncharacterized protease YegQ
+PGF_00065238	Marinospirillum	357.25	3.20	Arsenical-resistance protein ACR3
+PGF_00066031	Marinospirillum	142.00	10.71	Universal stress protein family COG0589
+PGF_00066124	Marinospirillum	181.00	4.08	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Marinospirillum	228.75	2.36	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066270	Marinospirillum	359.50	9.04	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066449	Marinospirillum	421.75	0.96	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00066453	Marinospirillum	951.00	0.82	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Marinospirillum	126.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066867	Marinospirillum	445.75	6.18	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Marinospirillum	333.00	2.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067129	Marinospirillum	816.00	0.00	Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9) @ Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+PGF_00067188	Marinospirillum	368.50	0.58	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067466	Marinospirillum	590.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Marinospirillum	481.50	1.00	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Marinospirillum	268.00	0.00	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Marinospirillum	904.50	4.43	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00070627	Marinospirillum	327.50	4.80	diguanylate cyclase (GGDEF domain) with PAS/PAC sensor
+PGF_00070995	Marinospirillum	329.00	6.16	Membrane-bound lytic murein transglycosylase B
+PGF_00072449	Marinospirillum	202.50	12.15	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00113984	Marinospirillum	206.75	0.96	Flavin prenyltransferase UbiX
+PGF_00141955	Marinospirillum	565.50	16.66	K(+)/H(+) antiporter NhaP2
+PGF_00144272	Marinospirillum	178.25	1.50	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00187321	Marinospirillum	345.50	0.58	hypothetical protein
+PGF_00213073	Marinospirillum	216.25	5.06	2-hydroxychromene-2-carboxylate isomerase/DsbA-like thioredoxin domain
+PGF_00221583	Marinospirillum	288.75	0.50	hypothetical protein
+PGF_00261173	Marinospirillum	383.00	4.69	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Marinospirillum	205.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00327330	Marinospirillum	214.75	34.51	hypothetical protein
+PGF_00342563	Marinospirillum	744.00	7.66	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00379620	Marinospirillum	90.00	0.00	hypothetical protein
+PGF_00387400	Marinospirillum	677.00	1.15	hypothetical protein
+PGF_00401752	Marinospirillum	252.75	1.71	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00402786	Marinospirillum	394.00	2.31	2-methylaconitate isomerase
+PGF_00403100	Marinospirillum	865.50	2.38	2-methylcitrate dehydratase (2-methyl-trans-aconitate forming) (EC 4.2.1.117)
+PGF_00403434	Marinospirillum	380.25	4.35	2-methylcitrate synthase (EC 2.3.3.5)
+PGF_00404078	Marinospirillum	150.25	1.89	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404215	Marinospirillum	71.25	11.12	probable exported protein YPO3233
+PGF_00404256	Marinospirillum	446.00	0.00	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404384	Marinospirillum	356.50	2.89	Biotin synthase (EC 2.8.1.6)
+PGF_00404817	Marinospirillum	114.00	0.00	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+PGF_00404831	Marinospirillum	273.75	0.50	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00405572	Marinospirillum	238.25	7.85	putataive branched-chain amino acid transport protein AzlC
+PGF_00406692	Marinospirillum	927.00	35.62	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00411334	Marinospirillum	253.25	1.26	Bll7429 protein
+PGF_00412178	Marinospirillum	325.00	0.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00413182	Marinospirillum	338.75	0.96	tRNA (mo5U34)-methyltransferase
+PGF_00413203	Marinospirillum	161.50	2.52	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Marinospirillum	262.50	7.51	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413230	Marinospirillum	251.00	1.41	tRNA (cmo5U34)-methyltransferase
+PGF_00413253	Marinospirillum	80.75	0.96	tRNA 5-methylaminomethyl-2-thiouridine synthesis sulfur carrier protein TusA
+PGF_00413266	Marinospirillum	335.50	4.20	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413286	Marinospirillum	365.00	9.49	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Marinospirillum	315.50	2.52	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Marinospirillum	312.25	2.87	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Marinospirillum	627.00	1.15	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Marinospirillum	284.50	1.00	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413319	Marinospirillum	208.75	1.89	tRNA-(ms[2]io[6]A)-hydroxylase
+PGF_00413340	Marinospirillum	330.50	10.21	tRNA-dihydrouridine(16) synthase
+PGF_00413351	Marinospirillum	148.25	5.12	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Marinospirillum	160.00	0.00	tmRNA-binding protein SmpB
+PGF_00414926	Marinospirillum	365.25	2.63	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Marinospirillum	278.25	1.26	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415422	Marinospirillum	735.50	5.92	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415486	Marinospirillum	155.50	0.58	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Marinospirillum	206.00	0.00	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416115	Marinospirillum	315.00	2.00	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Marinospirillum	546.50	4.12	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Marinospirillum	1073.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416508	Marinospirillum	60.50	6.35	Carbon storage regulator
+PGF_00416576	Marinospirillum	192.25	3.20	3'-to-5' oligoribonuclease (orn)
+PGF_00416622	Marinospirillum	365.00	0.00	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Marinospirillum	413.00	0.00	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00416674	Marinospirillum	372.25	0.50	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417429	Marinospirillum	376.50	1.73	Chaperone protein DnaJ
+PGF_00417433	Marinospirillum	640.50	2.52	Chaperone protein DnaK
+PGF_00417510	Marinospirillum	330.75	0.50	Chemotaxis protein CheC -- inhibitor of MCP methylation
+PGF_00417577	Marinospirillum	147.25	4.50	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Marinospirillum	365.75	2.87	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Marinospirillum	239.00	0.00	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Marinospirillum	366.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Marinospirillum	182.00	1.41	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418244	Marinospirillum	201.00	0.00	Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ Cob(I)alamin adenosyltransferase (EC 2.5.1.17), clustered with cobalamin synthesis
+PGF_00418406	Marinospirillum	178.00	14.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418733	Marinospirillum	257.00	2.00	1,2-phenylacetyl-CoA epoxidase, subunit C (EC 1.14.13.149)
+PGF_00419013	Marinospirillum	192.25	0.50	1,2-phenylacetyl-CoA epoxidase, subunit D (EC 1.14.13.149)
+PGF_00419420	Marinospirillum	471.50	0.58	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419506	Marinospirillum	358.00	0.00	1,2-phenylacetyl-CoA epoxidase, subunit E (EC 1.14.13.149)
+PGF_00419627	Marinospirillum	306.50	2.38	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419628	Marinospirillum	465.00	0.00	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419684	Marinospirillum	391.00	0.00	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
+PGF_00419702	Marinospirillum	185.00	2.00	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419891	Marinospirillum	218.25	3.30	Cyclic AMP receptor protein
+PGF_00419913	Marinospirillum	268.25	2.75	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Marinospirillum	263.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00419936	Marinospirillum	745.00	4.32	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43) / 3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_00420051	Marinospirillum	543.00	0.00	3-methylmercaptopropionyl-CoA ligase (EC 6.2.1.44) of DmdB1 type
+PGF_00420078	Marinospirillum	305.00	2.45	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420121	Marinospirillum	232.25	2.50	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420482	Marinospirillum	249.00	0.00	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Marinospirillum	658.00	1.63	Cytochrome c heme lyase subunit CcmF
+PGF_00420584	Marinospirillum	200.75	0.96	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center
+PGF_00420731	Marinospirillum	496.75	13.52	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420764	Marinospirillum	377.75	2.87	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+PGF_00420798	Marinospirillum	314.25	0.50	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420843	Marinospirillum	320.25	0.50	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_00420903	Marinospirillum	323.00	0.00	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420920	Marinospirillum	127.25	2.36	D-erythro-7,8-dihydroneopterin triphosphate epimerase
+PGF_00421013	Marinospirillum	406.50	1.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421071	Marinospirillum	147.25	1.89	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Marinospirillum	574.75	5.44	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421447	Marinospirillum	597.00	6.00	ATP-dependent RNA helicase YejH
+PGF_00421489	Marinospirillum	1189.25	5.32	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Marinospirillum	369.25	0.50	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Marinospirillum	606.75	6.85	DNA primase (EC 2.7.7.-)
+PGF_00421733	Marinospirillum	367.25	2.36	DNA recombination and repair protein RecF
+PGF_00421792	Marinospirillum	460.00	5.48	DNA repair protein RadA
+PGF_00421796	Marinospirillum	551.25	0.50	DNA repair protein RecN
+PGF_00422053	Marinospirillum	89.00	0.00	DNA-binding protein Fis
+PGF_00422271	Marinospirillum	333.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422655	Marinospirillum	459.50	1.00	LOG family protein YgdH
+PGF_00422918	Marinospirillum	185.25	5.50	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422949	Marinospirillum	290.75	17.08	Deoxyribonuclease TatD
+PGF_00422959	Marinospirillum	156.75	4.79	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Marinospirillum	373.25	6.18	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Marinospirillum	430.50	20.87	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Marinospirillum	478.25	0.50	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423533	Marinospirillum	293.75	5.97	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423668	Marinospirillum	184.00	0.00	Dna binding response regulator PrrA (RegA)
+PGF_00423914	Marinospirillum	174.25	11.70	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Marinospirillum	291.75	5.50	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424123	Marinospirillum	550.00	0.00	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)
+PGF_00424447	Marinospirillum	329.75	4.79	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424971	Marinospirillum	610.50	2.65	Excinuclease ABC subunit C
+PGF_00425010	Marinospirillum	487.75	0.96	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425024	Marinospirillum	456.50	2.38	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425112	Marinospirillum	309.00	0.00	Exopolyphosphatase-related protein
+PGF_00425212	Marinospirillum	479.50	5.00	Exported zinc metalloprotease YfgC precursor
+PGF_00425214	Marinospirillum	107.00	0.00	4Fe-4S dicluster domain / Domain of unknown function DUF3470
+PGF_00425665	Marinospirillum	251.25	1.50	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Marinospirillum	291.00	1.15	RNase adapter protein RapZ
+PGF_00425704	Marinospirillum	91.00	0.00	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425726	Marinospirillum	760.00	4.24	FIG001592: Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated
+PGF_00425804	Marinospirillum	337.00	2.45	FIG002781: Alpha-L-glutamate ligase family protein
+PGF_00425993	Marinospirillum	392.50	1.00	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Marinospirillum	352.50	3.32	FIG004453: protein YceG like
+PGF_00426044	Marinospirillum	276.25	1.26	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Marinospirillum	633.25	9.22	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Marinospirillum	370.00	0.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426877	Marinospirillum	287.50	5.74	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Marinospirillum	158.25	0.50	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447508	Marinospirillum	418.50	0.58	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00447765	Marinospirillum	99.00	0.00	YciL protein
+PGF_00482828	Marinospirillum	446.00	0.00	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00488496	Marinospirillum	375.75	1.50	Type IV pilus assembly ATPase component PilU
+PGF_00490053	Marinospirillum	432.50	2.08	Outer membrane channel TolC (OpmH)
+PGF_00529632	Marinospirillum	858.50	0.58	ClpB protein
+PGF_00538878	Marinospirillum	273.00	0.00	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00549302	Marinospirillum	441.00	2.45	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00569671	Marinospirillum	301.00	0.00	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580333	Marinospirillum	393.00	0.00	Lipopolysaccharide assembly protein LapB
+PGF_00582270	Marinospirillum	459.00	0.00	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00616490	Marinospirillum	280.75	0.50	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Marinospirillum	387.75	2.50	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Marinospirillum	540.25	1.50	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Marinospirillum	305.50	22.87	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644358	Marinospirillum	623.00	27.76	Signal transduction histidine kinase regulating C4-dicarboxylate transport system
+PGF_00648054	Marinospirillum	224.00	0.00	Tol-Pal system protein TolQ
+PGF_00649271	Marinospirillum	104.00	0.00	Cell division protein BolA
+PGF_00655131	Marinospirillum	493.75	9.50	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Marinospirillum	515.00	15.10	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Marinospirillum	214.25	0.50	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Marinospirillum	115.25	0.50	Ribosomal silencing factor RsfA
+PGF_00693753	Marinospirillum	451.00	0.00	Sodium/glycine symporter GlyP
+PGF_00717495	Marinospirillum	426.75	0.96	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Marinospirillum	374.50	1.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00734372	Marinospirillum	674.00	0.00	2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)
+PGF_00734482	Marinospirillum	878.25	10.18	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00777371	Marinospirillum	229.00	0.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00827555	Marinospirillum	603.00	26.60	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00853393	Marinospirillum	290.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Marinospirillum	417.50	4.51	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00874759	Marinospirillum	412.50	0.58	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00884667	Marinospirillum	318.00	4.97	CheW domain protein
+PGF_00885329	Marinospirillum	325.00	0.00	Flagellar motor switch protein FliM
+PGF_00900256	Marinospirillum	465.25	1.50	Threonine synthase (EC 4.2.3.1)
+PGF_00908360	Marinospirillum	253.50	13.00	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Marinospirillum	320.75	8.62	tRNA-dihydrouridine synthase DusB
+PGF_00919056	Marinospirillum	373.50	3.70	Small-conductance mechanosensitive channel
+PGF_00926109	Marinospirillum	563.75	0.96	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00943546	Marinospirillum	263.50	1.91	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+PGF_00947361	Marinospirillum	436.00	0.82	Phenylacetate-coenzyme A ligase (EC 6.2.1.30)
+PGF_00950554	Marinospirillum	673.00	1.15	Excinuclease ABC subunit B
+PGF_01008556	Marinospirillum	246.25	1.89	Flagellar basal-body rod protein FlgF
+PGF_01063720	Marinospirillum	440.50	0.58	MATE efflux family protein
+PGF_01079016	Marinospirillum	294.50	7.55	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Marinospirillum	788.50	2.38	Outer membrane protein assembly factor YaeT
+PGF_01095191	Marinospirillum	297.00	0.00	Methylisocitrate lyase (EC 4.1.3.30)
+PGF_01101526	Marinospirillum	451.00	0.00	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01104399	Marinospirillum	251.50	1.73	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Marinospirillum	400.00	3.37	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Marinospirillum	379.00	0.00	Rod shape-determining protein RodA
+PGF_01147190	Marinospirillum	485.25	5.12	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01148336	Marinospirillum	373.50	4.36	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_01151115	Marinospirillum	118.50	0.58	Antiholin-like protein LrgA
+PGF_01162681	Marinospirillum	896.50	12.23	Aconitate hydratase (EC 4.2.1.3)
+PGF_01172431	Marinospirillum	109.25	0.96	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172485	Marinospirillum	420.00	0.00	Cell division protein FtsA
+PGF_01173493	Marinospirillum	405.75	1.50	D-amino acid dehydrogenase (EC 1.4.99.6)
+PGF_01174739	Marinospirillum	262.75	6.65	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Marinospirillum	451.50	7.55	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01174827	Marinospirillum	88.00	4.69	FIG152265: Sodium:solute symporter associated protein
+PGF_01175575	Marinospirillum	632.50	3.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Marinospirillum	548.75	2.22	Heat shock protein 60 family chaperone GroEL
+PGF_01217385	Marinospirillum	224.00	0.00	Enhancing lycopene biosynthesis protein 2
+PGF_01218448	Marinospirillum	301.50	11.45	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01223569	Marinospirillum	156.00	0.00	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01291803	Marinospirillum	320.00	0.00	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01351158	Marinospirillum	1163.00	12.75	Transcription-repair coupling factor
+PGF_01364427	Marinospirillum	202.00	1.41	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01407825	Marinospirillum	388.50	9.11	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+PGF_01421534	Marinospirillum	209.75	5.68	LSU ribosomal protein L25p
+PGF_01423501	Marinospirillum	160.25	0.96	Transcription elongation factor GreA
+PGF_01444546	Marinospirillum	95.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Marinospirillum	97.75	0.50	Integration host factor alpha subunit
+PGF_01466742	Marinospirillum	433.25	2.06	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Marinospirillum	442.00	2.16	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483918	Marinospirillum	286.00	2.00	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01496670	Marinospirillum	281.00	0.00	ATPase associated with various cellular activities, AAA_5
+PGF_01532393	Marinospirillum	737.75	4.79	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01599021	Marinospirillum	168.50	1.00	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Marinospirillum	227.75	1.26	Flagellar basal-body rod modification protein FlgD
+PGF_01625234	Marinospirillum	317.25	0.96	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667999	Marinospirillum	196.50	3.00	RNA polymerase sigma factor RpoE
+PGF_01668974	Marinospirillum	765.00	30.35	DNA internalization-related competence protein ComEC/Rec2
+PGF_01679220	Marinospirillum	392.75	10.50	Uncharacterized MFS-type transporter
+PGF_01682537	Marinospirillum	125.25	0.50	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Marinospirillum	141.25	31.53	Bacterial ribosome SSU maturation protein RimP
+PGF_01692355	Marinospirillum	571.00	1.41	Serine/threonine protein kinase
+PGF_01734668	Marinospirillum	218.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Marinospirillum	275.50	13.92	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01760799	Marinospirillum	593.75	3.86	Type IV pilus biogenesis protein PilQ
+PGF_01780907	Marinospirillum	139.25	0.50	Protein YhfA
+PGF_01797166	Marinospirillum	412.75	6.99	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01837405	Marinospirillum	512.00	8.83	Anaerobic nitric oxide reductase transcription regulator NorR
+PGF_01842781	Marinospirillum	449.50	5.20	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01853493	Marinospirillum	277.00	12.25	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01888177	Marinospirillum	146.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898127	Marinospirillum	508.50	3.79	3-hydroxyadipyl-CoA dehydrogenase
+PGF_01899924	Marinospirillum	268.25	1.50	Flagellar motor rotation protein MotB
+PGF_01899937	Marinospirillum	270.75	5.68	Rod shape-determining protein MreC
+PGF_01920828	Marinospirillum	272.50	12.26	HesA/MoeB/ThiF family protein => sulfur transfer pathway protein CsdL
+PGF_01922580	Marinospirillum	406.25	3.20	2-polyprenylphenol hydroxylase
+PGF_01936994	Marinospirillum	358.75	2.06	Type IV pilus biogenesis protein PilM
+PGF_01960322	Marinospirillum	613.50	1.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01985478	Marinospirillum	366.00	0.00	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01990221	Marinospirillum	436.25	2.50	Aspartyl aminopeptidase (EC 3.4.11.21)
+PGF_01994657	Marinospirillum	434.00	1.15	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Marinospirillum	209.25	99.54	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Marinospirillum	335.25	3.50	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Marinospirillum	333.00	2.00	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Marinospirillum	399.25	0.50	GTP-binding protein Obg
+PGF_02059020	Marinospirillum	555.25	4.50	Energy-dependent translational throttle protein EttA
+PGF_02061452	Marinospirillum	376.00	3.37	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02075241	Marinospirillum	673.75	0.96	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02109968	Marinospirillum	338.00	0.00	Flagellar motor switch protein FliG
+PGF_02111888	Marinospirillum	317.25	0.50	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Marinospirillum	429.50	3.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Marinospirillum	379.00	0.00	Flagellar biosynthesis protein FlhB
+PGF_02204321	Marinospirillum	337.50	13.00	Twitching motility protein PilT
+PGF_02211192	Marinospirillum	251.50	2.38	hypothetical protein
+PGF_02211314	Marinospirillum	216.25	1.89	Predicted transcriptional regulator for fatty acid degradation FadQ, TetR family
+PGF_02224568	Marinospirillum	391.50	3.00	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Marinospirillum	698.50	1.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02239557	Marinospirillum	257.00	0.00	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02268482	Marinospirillum	265.75	2.06	Putative glutamine amidotransferase YafJ
+PGF_02325838	Marinospirillum	504.75	1.71	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02330496	Marinospirillum	223.75	0.50	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Marinospirillum	307.75	0.50	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Marinospirillum	880.50	2.08	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02349818	Marinospirillum	148.25	1.71	Acyl-coenzyme A thioesterase PaaD (Pse.pu.) (E. coli PaaI)
+PGF_02355769	Marinospirillum	367.25	3.30	Alanine racemase (EC 5.1.1.1)
+PGF_02386652	Marinospirillum	162.00	0.00	Ribonuclease E inhibitor RraA
+PGF_02450432	Marinospirillum	268.00	0.00	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Marinospirillum	89.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Marinospirillum	205.50	1.00	Recombination protein RecR
+PGF_02473679	Marinospirillum	570.50	0.58	Type IV fimbrial assembly, ATPase PilB
+PGF_02489591	Marinospirillum	208.50	1.91	Uncharacterized Nudix hydrolase NudL
+PGF_02515882	Marinospirillum	412.75	1.50	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Marinospirillum	430.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02522403	Marinospirillum	407.25	3.30	Pheromone shutdown protein
+PGF_02537450	Marinospirillum	471.00	4.62	HtrA protease/chaperone protein
+PGF_02578186	Marinospirillum	396.50	3.00	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02593689	Marinospirillum	450.00	1.15	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Marinospirillum	469.25	0.50	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Marinospirillum	335.50	2.89	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02635429	Marinospirillum	222.75	17.25	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02704551	Marinospirillum	1404.00	0.00	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02717713	Marinospirillum	551.25	241.62	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02728524	Marinospirillum	870.00	6.98	DNA mismatch repair protein MutS
+PGF_02776739	Marinospirillum	148.50	1.91	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02789532	Marinospirillum	281.75	0.50	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02797400	Marinospirillum	471.75	1.50	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Marinospirillum	1349.50	11.09	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Marinospirillum	528.00	1.41	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Marinospirillum	196.00	5.77	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02825959	Marinospirillum	395.75	15.50	Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12)
+PGF_02838109	Marinospirillum	179.25	6.95	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Marinospirillum	267.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02853126	Marinospirillum	182.25	29.17	Repair of Iron Centers di-iron protein
+PGF_02862285	Marinospirillum	407.25	2.50	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02868941	Marinospirillum	601.00	0.00	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_02873160	Marinospirillum	219.75	0.96	Putative preQ0 transporter YhhQ
+PGF_02873723	Marinospirillum	487.00	0.82	Ribonuclease G
+PGF_02877184	Marinospirillum	366.25	0.50	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Marinospirillum	361.50	0.58	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02890229	Marinospirillum	608.50	6.76	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02893929	Marinospirillum	279.25	2.99	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02898176	Marinospirillum	221.00	0.00	Methionine ABC transporter permease protein
+PGF_02899131	Marinospirillum	63.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Marinospirillum	776.50	4.04	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02911133	Marinospirillum	214.75	4.86	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Marinospirillum	291.75	1.50	HflC protein
+PGF_02919689	Marinospirillum	301.75	5.32	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Marinospirillum	244.25	1.50	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02928645	Marinospirillum	383.00	0.00	Butyryl-CoA dehydrogenase (EC 1.3.8.1)
+PGF_02931322	Marinospirillum	338.00	4.55	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Marinospirillum	294.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02937243	Marinospirillum	773.50	3.79	Exporter protein, RND family
+PGF_02938730	Marinospirillum	338.75	3.95	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02946231	Marinospirillum	555.75	0.96	SSU ribosomal protein S1p
+PGF_02947204	Marinospirillum	515.25	4.92	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02956462	Marinospirillum	129.00	0.00	RidA/YER057c/UK114 superfamily protein
+PGF_02959749	Marinospirillum	375.25	1.50	Ribonuclease D (EC 3.1.26.3)
+PGF_02966355	Marinospirillum	263.00	0.00	1,2-epoxyphenylacetyl-CoA isomerase (EC 5.3.3.18)
+PGF_02976396	Marinospirillum	373.00	0.00	3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4)
+PGF_02992100	Marinospirillum	244.00	2.31	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02994459	Marinospirillum	559.00	0.00	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD35
+PGF_03002097	Marinospirillum	360.50	7.05	hypothetical protein
+PGF_03003352	Marinospirillum	556.25	0.50	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_03006190	Marinospirillum	410.75	2.22	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03009611	Marinospirillum	595.50	5.07	Acyl-CoA dehydrogenase 2 [fadN-fadA-fadE operon] (EC 1.3.8.7)
+PGF_03017775	Marinospirillum	498.50	5.57	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Marinospirillum	195.50	14.06	Septum formation protein Maf
+PGF_03022560	Marinospirillum	499.00	0.00	Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27)
+PGF_03025675	Marinospirillum	592.25	5.32	Lipid A export permease/ATP-binding protein MsbA
+PGF_03026450	Marinospirillum	1173.25	1.50	Chromosome partition protein smc
+PGF_03029859	Marinospirillum	641.25	7.09	Bis-ABC ATPase Uup
+PGF_03037296	Marinospirillum	403.50	5.20	FIG002776: hypothetical protein
+PGF_03050893	Marinospirillum	333.00	0.00	Diadenosine tetraphosphatase and related serine/threonine protein phosphatases
+PGF_03054699	Marinospirillum	784.25	14.86	DNA translocase FtsK
+PGF_03057384	Marinospirillum	340.00	1.41	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03059539	Marinospirillum	294.00	0.00	3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)
+PGF_03074362	Marinospirillum	405.50	3.32	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03075401	Marinospirillum	160.50	2.89	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Marinospirillum	194.00	1.63	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03104567	Marinospirillum	458.00	0.00	Trk potassium uptake system protein TrkA
+PGF_03122066	Marinospirillum	154.00	1.15	Protein YaiI
+PGF_03124650	Marinospirillum	482.75	0.50	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Marinospirillum	418.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03146406	Marinospirillum	595.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Marinospirillum	265.50	9.71	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Marinospirillum	176.50	1.00	Transcription antitermination protein NusG
+PGF_03222913	Marinospirillum	135.50	6.35	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Marinospirillum	97.50	4.04	UPF0125 protein RatB
+PGF_03253896	Marinospirillum	232.25	5.85	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Marinospirillum	216.25	5.50	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Marinospirillum	910.50	12.61	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277417	Marinospirillum	342.50	9.47	Methionine ABC transporter ATP-binding protein
+PGF_03278866	Marinospirillum	78.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Marinospirillum	215.50	1.73	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03318456	Marinospirillum	512.25	0.50	Trk potassium uptake system protein TrkH
+PGF_03325319	Marinospirillum	196.00	0.00	DnaA initiator-associating protein DiaA
+PGF_03337029	Marinospirillum	552.00	0.82	Sensor histidine kinase
+PGF_03341277	Marinospirillum	226.25	1.50	Flagellar L-ring protein FlgH
+PGF_03348128	Marinospirillum	179.00	0.00	Cytochrome c-type biogenesis protein CcmG/DsbE, thiol:disulfide oxidoreductase
+PGF_03364965	Marinospirillum	825.00	1.15	Type cbb3 cytochrome oxidase biogenesis protein CcoI; Copper-translocating P-type ATPase (EC 3.6.3.4)
+PGF_03365853	Marinospirillum	228.25	3.30	Heavy-metal-associated domain (N-terminus) and membrane-bounded cytochrome biogenesis cycZ-like domain, possible membrane copper tolerance protein
+PGF_03369967	Marinospirillum	389.00	0.00	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03400333	Marinospirillum	327.50	1.00	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03421722	Marinospirillum	470.75	10.21	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Marinospirillum	301.25	2.06	33 kDa chaperonin HslO
+PGF_03439582	Marinospirillum	256.25	8.10	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03439690	Marinospirillum	136.00	0.82	Ferric uptake regulation protein FUR
+PGF_03439827	Marinospirillum	468.50	7.55	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03441339	Marinospirillum	320.50	3.00	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03456505	Marinospirillum	551.50	1.91	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03474542	Marinospirillum	449.25	0.50	Flagellum-specific ATP synthase FliI
+PGF_03514188	Marinospirillum	452.00	0.00	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Marinospirillum	142.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Marinospirillum	400.00	22.02	Cell division protein FtsZ
+PGF_03609651	Marinospirillum	684.75	3.40	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03642389	Marinospirillum	358.25	9.84	putative membrane protein
+PGF_03647550	Marinospirillum	161.00	0.00	UPF0234 protein Yitk
+PGF_03674008	Marinospirillum	93.50	0.58	1,2-phenylacetyl-CoA epoxidase, subunit B (EC 1.14.13.149)
+PGF_03674165	Marinospirillum	330.75	0.50	1,2-phenylacetyl-CoA epoxidase, subunit A (EC 1.14.13.149)
+PGF_03699416	Marinospirillum	196.50	5.00	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Marinospirillum	363.00	2.45	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Marinospirillum	122.00	0.00	Protein translocase subunit SecE
+PGF_03719269	Marinospirillum	214.25	1.89	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Marinospirillum	153.25	1.89	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Marinospirillum	184.00	0.00	UPF0301 protein YqgE
+PGF_03739563	Marinospirillum	185.00	2.71	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Marinospirillum	490.75	7.80	Chromosomal replication initiator protein DnaA
+PGF_03750600	Marinospirillum	218.00	118.67	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Marinospirillum	107.25	5.50	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Marinospirillum	195.00	2.45	Heat shock protein GrpE
+PGF_03757137	Marinospirillum	473.25	6.24	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Marinospirillum	225.50	2.65	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03768099	Marinospirillum	286.75	1.71	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03768617	Marinospirillum	184.00	4.69	Glutathione peroxidase (EC 1.11.1.9)
+PGF_03777189	Marinospirillum	180.00	0.00	Protein YrdA
+PGF_03778780	Marinospirillum	352.50	15.67	Signal recognition particle receptor FtsY
+PGF_03783620	Marinospirillum	180.00	6.93	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Marinospirillum	185.00	1.15	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Marinospirillum	226.00	1.15	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Marinospirillum	279.50	1.91	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Marinospirillum	70.75	0.50	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03811905	Marinospirillum	353.75	0.96	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03815442	Marinospirillum	331.50	1.00	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_03835760	Marinospirillum	422.00	6.68	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03856084	Marinospirillum	648.50	11.12	Cell division protein FtsH
+PGF_03862500	Marinospirillum	216.50	5.74	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03912513	Marinospirillum	157.00	0.00	DNA protection during starvation protein
+PGF_03934498	Marinospirillum	449.75	3.30	Flagellar two-component response regulator FleR
+PGF_03954476	Marinospirillum	288.50	1.00	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03960810	Marinospirillum	260.00	6.38	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03975691	Marinospirillum	74.00	2.94	hypothetical protein
+PGF_03991729	Marinospirillum	395.00	1.15	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04001842	Marinospirillum	442.50	0.58	Sodium-dependent anion transporter family
+PGF_04007946	Marinospirillum	221.00	5.42	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Marinospirillum	159.50	4.20	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Marinospirillum	450.75	0.50	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04034430	Marinospirillum	71.00	0.00	SSU ribosomal protein S21p
+PGF_04041316	Marinospirillum	942.75	2.06	Excinuclease ABC subunit A
+PGF_04043844	Marinospirillum	660.00	0.00	Exoribonuclease II (EC 3.1.13.1)
+PGF_04108824	Marinospirillum	563.50	4.36	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Marinospirillum	260.00	2.31	Twin-arginine translocation protein TatC
+PGF_04151476	Marinospirillum	185.00	8.98	16S rRNA processing protein RimM
+PGF_04154333	Marinospirillum	85.50	5.74	Twin-arginine translocation protein TatA
+PGF_04182459	Marinospirillum	222.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Marinospirillum	269.00	5.23	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04257054	Marinospirillum	375.00	5.48	Fic domain protein, PA0574 type
+PGF_04315180	Marinospirillum	149.00	2.45	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04345693	Marinospirillum	454.50	1.73	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04359199	Marinospirillum	672.50	4.93	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04360357	Marinospirillum	901.50	1.73	Protein translocase subunit SecA
+PGF_04395505	Marinospirillum	332.25	0.96	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04412082	Marinospirillum	98.75	18.50	Thioredoxin
+PGF_04457297	Marinospirillum	209.25	6.95	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04493258	Marinospirillum	390.75	8.96	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Marinospirillum	242.00	0.82	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Marinospirillum	345.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Marinospirillum	452.25	0.50	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Marinospirillum	490.25	28.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Marinospirillum	248.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04630848	Marinospirillum	157.00	1.15	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Marinospirillum	97.00	8.08	DNA-binding protein HU-beta
+PGF_04660832	Marinospirillum	178.25	2.75	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Marinospirillum	805.75	0.50	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Marinospirillum	397.25	13.50	Alanine transaminase (EC 2.6.1.2)
+PGF_04695681	Marinospirillum	276.25	6.95	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Marinospirillum	879.25	1.26	Translation initiation factor 2
+PGF_04752158	Marinospirillum	433.75	3.40	Sensor histidine kinase PrrB (RegB) (EC 2.7.3.-)
+PGF_04788810	Marinospirillum	194.50	0.58	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Marinospirillum	326.75	7.27	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Marinospirillum	118.00	0.00	LSU ribosomal protein L19p
+PGF_04962192	Marinospirillum	825.25	23.04	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Marinospirillum	82.75	0.50	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Marinospirillum	102.75	0.50	LSU ribosomal protein L21p
+PGF_05079020	Marinospirillum	323.50	8.35	MoxR-like ATPase in aerotolerance operon
+PGF_05091456	Marinospirillum	299.00	5.77	Uncharacterized inner membrane protein RarD
+PGF_05111929	Marinospirillum	596.00	0.82	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Marinospirillum	986.50	13.03	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Marinospirillum	866.00	2.00	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Marinospirillum	320.25	5.19	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Marinospirillum	214.50	0.58	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Marinospirillum	441.00	20.78	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05255412	Marinospirillum	435.25	17.04	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05265534	Marinospirillum	552.50	0.58	Medium-chain-fatty-acid--CoA ligase (EC 6.2.1.-)
+PGF_05294175	Marinospirillum	180.25	2.99	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Marinospirillum	425.00	11.43	ATP-dependent RNA helicase RhlE
+PGF_05305024	Marinospirillum	245.25	0.50	Acetoacetyl-CoA reductase (EC 1.1.1.36)
+PGF_05338234	Marinospirillum	286.50	0.58	Protein YicC
+PGF_05366548	Marinospirillum	260.25	2.22	Methionine ABC transporter substrate-binding protein
+PGF_05406959	Marinospirillum	343.75	2.87	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05421852	Marinospirillum	633.25	3.40	Chaperone protein HtpG
+PGF_05444169	Marinospirillum	304.50	12.50	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05463808	Marinospirillum	296.25	0.50	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Marinospirillum	506.00	3.46	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05507938	Marinospirillum	629.50	6.40	DNA mismatch repair protein MutL
+PGF_05560886	Marinospirillum	278.25	0.96	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Marinospirillum	442.25	0.50	Protein translocase subunit SecY
+PGF_05598173	Marinospirillum	385.00	0.00	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Marinospirillum	419.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Marinospirillum	225.25	0.96	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05679920	Marinospirillum	1301.00	5.94	ATP-dependent helicase HrpA
+PGF_05693577	Marinospirillum	94.75	2.06	Integration host factor beta subunit
+PGF_05712128	Marinospirillum	555.75	2.36	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Marinospirillum	120.25	11.84	FIG138056: a glutathione-dependent thiol reductase
+PGF_05729472	Marinospirillum	1531.25	97.29	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05743061	Marinospirillum	909.00	0.00	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05748227	Marinospirillum	259.00	3.16	Uncharacterized conserved protein YfiP, contains DTW domain
+PGF_05769513	Marinospirillum	437.75	0.50	Tol-Pal system beta propeller repeat protein TolB
+PGF_05833722	Marinospirillum	448.25	9.84	Sulfide:quinone oxidoreductase, Type II
+PGF_05872952	Marinospirillum	284.00	2.83	Outer membrane beta-barrel assembly protein BamD
+PGF_05925776	Marinospirillum	290.25	0.50	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Marinospirillum	614.50	0.58	Protein translocase subunit SecD
+PGF_05965455	Marinospirillum	470.50	2.38	AmpG permease
+PGF_05971611	Marinospirillum	417.50	2.65	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06000040	Marinospirillum	405.00	0.00	Type IV fimbrial assembly protein PilC
+PGF_06005188	Marinospirillum	632.50	1.00	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06023291	Marinospirillum	260.75	2.06	Metal-dependent hydrolases of the beta-lactamase superfamily I
+PGF_06025565	Marinospirillum	319.50	1.00	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06043321	Marinospirillum	332.00	0.00	Ferric iron ABC transporter, iron-binding protein
+PGF_06053106	Marinospirillum	288.25	0.50	RNA polymerase sigma factor RpoH
+PGF_06061522	Marinospirillum	120.00	10.00	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06120144	Marinospirillum	146.75	0.50	Ribosome association toxin RatA
+PGF_06150781	Marinospirillum	461.00	2.00	ATP-dependent 23S rRNA helicase DbpA
+PGF_06170558	Marinospirillum	154.75	0.50	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Marinospirillum	142.50	0.58	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Marinospirillum	510.00	2.45	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Marinospirillum	95.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Marinospirillum	382.25	4.57	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Marinospirillum	420.00	0.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06326847	Marinospirillum	250.50	1.73	Flagellar biosynthesis protein FliP
+PGF_06362312	Marinospirillum	497.50	1.91	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06379377	Marinospirillum	446.25	6.29	Replication-associated recombination protein RarA
+PGF_06421645	Marinospirillum	220.00	1.15	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_06447349	Marinospirillum	423.00	0.00	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06458877	Marinospirillum	158.75	1.50	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06522139	Marinospirillum	735.50	4.20	Acetyl-CoA synthetase (ADP-forming) alpha and beta chains, putative
+PGF_06524027	Marinospirillum	677.75	0.50	ATP-dependent DNA helicase Rep
+PGF_06530721	Marinospirillum	244.25	0.96	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06579751	Marinospirillum	866.00	0.00	Aconitate hydratase 2 (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_06644010	Marinospirillum	310.00	0.00	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Marinospirillum	77.00	0.00	Acyl carrier protein
+PGF_06649360	Marinospirillum	250.00	4.90	Segregation and condensation protein B
+PGF_06660718	Marinospirillum	330.25	1.50	Bifunctional protein: zinc-containing alcohol dehydrogenase; quinone oxidoreductase ( NADPH:quinone reductase) (EC 1.1.1.-); Similar to arginate lyase
+PGF_06660812	Marinospirillum	212.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06690276	Marinospirillum	233.50	4.36	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Marinospirillum	110.00	0.00	Nucleoid-associated protein YaaK
+PGF_06735060	Marinospirillum	741.50	20.50	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06743269	Marinospirillum	411.50	0.58	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06755829	Marinospirillum	327.25	0.50	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Marinospirillum	504.75	0.50	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06772993	Marinospirillum	932.00	29.69	Ribonuclease E (EC 3.1.26.12)
+PGF_07072582	Marinospirillum	601.75	31.22	RNA polymerase sigma factor RpoD
+PGF_07101513	Marinospirillum	168.75	5.74	Flagellar motor switch protein FliN
+PGF_07199153	Marinospirillum	418.25	10.90	hypothetical protein
+PGF_07242312	Marinospirillum	624.25	0.50	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07267579	Marinospirillum	259.00	7.35	Chemotaxis response - phosphatase CheZ
+PGF_07416536	Marinospirillum	404.00	0.00	hypothetical protein
+PGF_08030224	Marinospirillum	386.00	162.67	hypothetical protein
+PGF_08036925	Marinospirillum	275.00	2.83	hypothetical protein
+PGF_08052215	Marinospirillum	1050.25	4.86	RND multidrug efflux transporter; Acriflavin resistance protein
+PGF_08061357	Marinospirillum	117.00	0.00	Iron-sulfur cluster insertion protein ErpA
+PGF_08139315	Marinospirillum	89.00	0.00	Phosphocarrier protein, nitrogen regulation associated
+PGF_08139865	Marinospirillum	168.50	1.00	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_08153913	Marinospirillum	260.00	0.00	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08183187	Marinospirillum	396.00	12.19	Cell division protein FtsW

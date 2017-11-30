@@ -1,0 +1,633 @@
+PGF_00000261	Helicobacter	370.18	30.60	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000416	Helicobacter	298.86	53.11	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00003193	Helicobacter	364.79	34.66	FIG053235: Diacylglucosamine hydrolase like
+PGF_00003502	Helicobacter	253.32	16.65	FIG137478: Hypothetical protein
+PGF_00003516	Helicobacter	242.66	14.88	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003750	Helicobacter	183.57	8.03	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00004671	Helicobacter	617.33	111.87	Ferrous iron transport protein B
+PGF_00005288	Helicobacter	339.74	23.10	Flagellar P-ring protein FlgI
+PGF_00005301	Helicobacter	253.25	24.01	Flagellar assembly protein FliH
+PGF_00005354	Helicobacter	160.29	9.41	Flagellar basal-body rod protein FlgC
+PGF_00005358	Helicobacter	260.31	16.78	Flagellar basal-body rod protein FlgG
+PGF_00005384	Helicobacter	716.78	88.04	Flagellar biosynthesis protein FlhA
+PGF_00005402	Helicobacter	88.09	6.58	Flagellar biosynthesis protein FliQ
+PGF_00005405	Helicobacter	251.86	22.30	Flagellar biosynthesis protein FliR
+PGF_00005450	Helicobacter	596.46	67.47	Flagellar hook protein FlgE
+PGF_00005454	Helicobacter	600.82	47.34	Flagellar hook-associated protein FlgK
+PGF_00005537	Helicobacter	284.44	20.37	Flagellar motor switch protein FliN
+PGF_00005579	Helicobacter	198.14	26.11	Flagellar protein FlgP
+PGF_00005625	Helicobacter	373.71	35.73	Flagellar sensory histidine kinase FlgS
+PGF_00006380	Helicobacter	289.16	14.49	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_00006394	Helicobacter	306.04	13.32	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Helicobacter	447.99	67.69	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006462	Helicobacter	257.03	10.11	Fumarate reductase cytochrome b subunit
+PGF_00006987	Helicobacter	193.86	12.78	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007012	Helicobacter	362.89	25.75	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Helicobacter	458.55	46.90	GTP-binding protein EngA
+PGF_00007026	Helicobacter	206.84	17.92	GTP-binding protein EngB
+PGF_00007027	Helicobacter	294.80	35.14	GTP-binding protein Era
+PGF_00007057	Helicobacter	434.14	66.34	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Helicobacter	280.12	41.33	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Helicobacter	305.95	27.86	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Helicobacter	529.87	65.64	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008106	Helicobacter	253.71	17.19	Glutamate racemase (EC 5.1.1.3)
+PGF_00008164	Helicobacter	422.38	48.12	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Helicobacter	469.93	58.78	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008334	Helicobacter	440.88	50.50	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Helicobacter	459.71	33.93	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008342	Helicobacter	426.86	59.58	Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+PGF_00008611	Helicobacter	309.02	28.29	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Helicobacter	177.50	12.74	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Helicobacter	188.72	17.28	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Helicobacter	297.21	18.01	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Helicobacter	673.97	115.01	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Helicobacter	223.36	19.02	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Helicobacter	750.12	96.12	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Helicobacter	205.86	9.95	Guanylate kinase (EC 2.7.4.8)
+PGF_00010628	Helicobacter	160.97	3.61	HIT family protein
+PGF_00011081	Helicobacter	602.78	88.13	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011940	Helicobacter	434.07	33.45	Histidine permease YuiF
+PGF_00012264	Helicobacter	330.50	34.13	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Helicobacter	416.12	35.25	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Helicobacter	288.74	28.23	Homoserine kinase (EC 2.7.1.39)
+PGF_00012430	Helicobacter	122.75	1.85	HspR, transcriptional repressor of DnaK operon
+PGF_00012443	Helicobacter	463.10	64.99	HtrA protease/chaperone protein / Serine protease (Protease DO) (EC 3.4.21.-)
+PGF_00013017	Helicobacter	327.91	28.42	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013100	Helicobacter	458.90	38.41	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013283	Helicobacter	221.15	13.10	UPF0001 protein YggS
+PGF_00013348	Helicobacter	181.73	12.32	Hypothetical protein probably associated with Carbamoyl-phosphate synthase
+PGF_00013519	Helicobacter	333.51	48.92	Lipopolysaccharide export system permease protein LptF
+PGF_00014053	Helicobacter	443.27	53.69	Indole-3-glycerol phosphate synthase (EC 4.1.1.48) / Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00014306	Helicobacter	172.67	5.67	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Helicobacter	472.71	49.80	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Helicobacter	224.41	11.65	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Helicobacter	104.88	5.41	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Helicobacter	300.87	1.61	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015350	Helicobacter	87.64	6.86	ATP synthase protein I-like membrane protein
+PGF_00015526	Helicobacter	323.83	20.95	Iron-sulfur cluster assembly scaffold protein IscU/NifU-like
+PGF_00015718	Helicobacter	901.01	124.71	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Helicobacter	328.35	18.62	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016046	Helicobacter	335.31	38.42	L-asparaginase (EC 3.5.1.1)
+PGF_00016225	Helicobacter	445.60	52.53	L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)
+PGF_00016325	Helicobacter	724.21	88.42	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Helicobacter	163.43	2.69	LSU ribosomal protein L10p (P0)
+PGF_00016338	Helicobacter	445.39	30.93	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Helicobacter	121.33	6.20	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Helicobacter	132.86	5.88	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Helicobacter	140.64	4.72	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Helicobacter	113.84	11.41	LSU ribosomal protein L17p
+PGF_00016353	Helicobacter	117.92	1.28	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Helicobacter	232.69	11.55	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Helicobacter	115.93	2.25	LSU ribosomal protein L20p
+PGF_00016368	Helicobacter	121.33	8.92	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Helicobacter	87.74	8.78	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Helicobacter	72.85	2.23	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Helicobacter	87.96	1.53	LSU ribosomal protein L27p
+PGF_00016393	Helicobacter	266.21	41.67	LSU ribosomal protein L2p (L8e)
+PGF_00016423	Helicobacter	63.80	1.85	LSU ribosomal protein L35p
+PGF_00016431	Helicobacter	188.82	16.55	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Helicobacter	210.26	21.27	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Helicobacter	180.88	3.42	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Helicobacter	177.92	1.70	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Helicobacter	124.00	7.73	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Helicobacter	148.31	9.21	LSU ribosomal protein L9p
+PGF_00016948	Helicobacter	653.43	94.51	ATP-dependent DNA helicase UvrD/PcrA/Rep, epsilon proteobacterial type 1
+PGF_00016959	Helicobacter	675.37	59.20	ATP-dependent DNA helicase UvrD/PcrA/Rep, epsilon proteobacterial type 2
+PGF_00017109	Helicobacter	354.29	38.82	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Helicobacter	239.45	8.71	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017281	Helicobacter	336.80	18.15	Lipopolysaccharide core heptosyltransferase I
+PGF_00018970	Helicobacter	446.21	29.22	Malate:quinone oxidoreductase (EC 1.1.5.4)
+PGF_00019038	Helicobacter	431.95	54.80	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019280	Helicobacter	461.24	56.31	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) / Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Helicobacter	179.00	6.14	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019594	Helicobacter	357.33	33.99	Membrane protease family protein HP0248
+PGF_00020173	Helicobacter	399.92	23.12	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020184	Helicobacter	369.20	35.36	Membrane-bound lytic murein transglycosylase D
+PGF_00020264	Helicobacter	271.81	34.83	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020361	Helicobacter	143.32	17.22	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020644	Helicobacter	485.06	47.04	ATP/GTP-binding protein
+PGF_00020735	Helicobacter	251.80	11.96	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020984	Helicobacter	289.44	15.29	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021217	Helicobacter	482.59	54.05	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022507	Helicobacter	171.63	21.64	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022667	Helicobacter	615.72	85.77	Motility accessory factor
+PGF_00022878	Helicobacter	455.43	26.83	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+PGF_00023591	Helicobacter	340.32	31.32	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00024218	Helicobacter	310.40	36.09	N-linked glycosylation glycosyltransferase PglG
+PGF_00024232	Helicobacter	372.21	39.41	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Helicobacter	382.59	33.29	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024308	Helicobacter	259.25	12.92	NAD synthetase (EC 6.3.1.5)
+PGF_00024687	Helicobacter	406.09	29.36	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024728	Helicobacter	181.61	10.03	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Helicobacter	100.03	0.93	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Helicobacter	510.82	24.03	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Helicobacter	485.92	41.67	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00024831	Helicobacter	435.78	64.14	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+PGF_00024855	Helicobacter	147.98	2.45	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025289	Helicobacter	432.96	45.46	Na+/H+ antiporter NhaA type
+PGF_00025517	Helicobacter	149.07	8.26	Nickel responsive regulator NikR
+PGF_00026263	Helicobacter	166.35	7.05	Nonheme iron-containing ferritin
+PGF_00026279	Helicobacter	311.09	9.57	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026453	Helicobacter	283.90	30.12	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026888	Helicobacter	566.03	74.58	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00029287	Helicobacter	831.66	116.70	Aconitate hydratase 2 (EC 4.2.1.3)
+PGF_00029593	Helicobacter	1001.16	142.16	Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => CmeF
+PGF_00029917	Helicobacter	277.06	24.79	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030018	Helicobacter	703.13	92.56	Paralog of flagellar hook protein FlgE
+PGF_00030640	Helicobacter	347.14	32.93	Peptide chain release factor 1
+PGF_00033095	Helicobacter	751.82	84.54	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033289	Helicobacter	334.86	26.64	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Helicobacter	353.36	43.20	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033511	Helicobacter	396.00	38.14	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Helicobacter	265.71	26.31	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033877	Helicobacter	156.75	8.23	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Helicobacter	406.16	61.86	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033986	Helicobacter	362.66	46.31	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Helicobacter	679.35	67.62	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Helicobacter	179.04	11.81	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Helicobacter	320.84	20.52	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035009	Helicobacter	165.02	1.98	Positive regulator of CheA protein activity (CheW)
+PGF_00035074	Helicobacter	347.88	22.52	Possible RNA methyltransferase aq_898
+PGF_00035183	Helicobacter	148.32	10.07	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035214	Helicobacter	408.06	18.39	Adenosine deaminase (EC 3.5.4.4), alternative form
+PGF_00035556	Helicobacter	916.60	144.83	Predicted D-lactate dehydrogenase, Fe-S protein, FAD/FMN-containing
+PGF_00035591	Helicobacter	242.26	21.51	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Helicobacter	473.04	52.51	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035721	Helicobacter	436.64	33.73	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Helicobacter	405.52	36.58	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036580	Helicobacter	110.49	15.26	Protein translocase subunit YajC
+PGF_00037219	Helicobacter	472.20	36.81	Multidrug efflux system, outer membrane factor lipoprotein => CmeD
+PGF_00037523	Helicobacter	1122.25	224.51	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037565	Helicobacter	490.04	59.28	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037588	Helicobacter	565.81	69.47	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00038140	Helicobacter	504.61	50.29	Protein hydE
+PGF_00038674	Helicobacter	319.01	28.03	Protein translocase subunit SecF
+PGF_00038791	Helicobacter	193.85	23.57	Protein translocase membrane subunit SecG
+PGF_00038879	Helicobacter	147.31	6.49	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)
+PGF_00038893	Helicobacter	339.66	28.37	Pseudaminic acid synthase (EC 2.5.1.97)
+PGF_00039342	Helicobacter	274.08	19.40	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039710	Helicobacter	316.62	36.74	Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00040578	Helicobacter	253.73	13.23	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040847	Helicobacter	415.95	24.40	Putative fibronectin domain-containing lipoprotein
+PGF_00041281	Helicobacter	251.31	9.64	Putative heme oxygenase
+PGF_00041939	Helicobacter	513.65	67.33	Putative mechanosensitive ion channel
+PGF_00042853	Helicobacter	420.45	53.24	Putative oxidoreductase ferredoxin-type protein, clusters with CPO
+PGF_00043007	Helicobacter	435.87	40.13	Putative periplasmic protein
+PGF_00043020	Helicobacter	323.83	40.38	Putative periplasmic protein
+PGF_00043033	Helicobacter	429.97	57.02	Putative periplasmic protein
+PGF_00043157	Helicobacter	307.86	14.09	All-trans-hexaprenyl-diphosphate synthase (EC 2.5.1.33)
+PGF_00043368	Helicobacter	421.21	40.07	Putative protease
+PGF_00045900	Helicobacter	260.51	15.37	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00046027	Helicobacter	401.62	38.77	Pyruvate:ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.1)
+PGF_00046029	Helicobacter	310.31	25.07	Pyruvate:ferredoxin oxidoreductase, beta subunit (EC 1.2.7.1)
+PGF_00046031	Helicobacter	130.22	5.24	Pyruvate:ferredoxin oxidoreductase, delta subunit (EC 1.2.7.1)
+PGF_00046034	Helicobacter	183.29	16.00	Pyruvate:ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.1)
+PGF_00046101	Helicobacter	269.95	24.23	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Helicobacter	325.56	40.24	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046134	Helicobacter	563.55	75.38	Quinone-reactive Ni/Fe-hydrogenase large chain (EC 1.12.5.1)
+PGF_00046135	Helicobacter	380.76	54.13	Quinone-reactive Ni/Fe-hydrogenase small chain (EC 1.12.5.1)
+PGF_00046197	Helicobacter	235.34	21.69	RNA binding methyltransferase FtsJ like
+PGF_00046377	Helicobacter	245.41	21.33	RNA polymerase sigma factor for flagellar operon
+PGF_00046403	Helicobacter	405.95	46.19	RNA polymerase sigma-54 factor RpoN
+PGF_00047078	Helicobacter	345.86	13.44	RecA protein
+PGF_00048480	Helicobacter	204.95	11.76	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Helicobacter	145.02	6.00	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Helicobacter	198.43	26.38	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048630	Helicobacter	785.49	27.53	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048636	Helicobacter	340.32	15.23	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048651	Helicobacter	150.96	5.98	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Helicobacter	315.31	19.49	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Helicobacter	253.00	29.01	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Helicobacter	322.01	35.99	Ribosomal protein L11 methyltransferase
+PGF_00048846	Helicobacter	425.94	66.43	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048926	Helicobacter	182.36	16.43	Ribosome recycling factor
+PGF_00048985	Helicobacter	216.82	11.55	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Helicobacter	379.24	37.41	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Helicobacter	342.43	32.32	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Helicobacter	153.21	7.84	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049550	Helicobacter	375.44	36.91	Alternative dihydrofolate reductase 2 / Dihydropteroate synthase (EC 2.5.1.15)
+PGF_00049827	Helicobacter	272.17	15.12	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Helicobacter	103.75	2.77	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Helicobacter	130.52	5.23	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Helicobacter	134.17	5.04	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Helicobacter	119.89	2.95	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Helicobacter	90.20	1.48	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Helicobacter	75.79	1.87	SSU ribosomal protein S16p
+PGF_00049854	Helicobacter	85.83	2.81	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Helicobacter	84.81	2.20	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Helicobacter	89.61	6.90	SSU ribosomal protein S19p (S15e)
+PGF_00049866	Helicobacter	69.91	1.88	SSU ribosomal protein S21p
+PGF_00049889	Helicobacter	232.60	14.09	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Helicobacter	204.60	20.97	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Helicobacter	146.83	3.05	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Helicobacter	142.16	3.12	SSU ribosomal protein S6p
+PGF_00049904	Helicobacter	153.93	9.37	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Helicobacter	125.59	9.58	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Helicobacter	128.26	6.99	SSU ribosomal protein S9p (S16e)
+PGF_00051142	Helicobacter	318.36	43.21	Septum-associated rare lipoprotein A
+PGF_00051326	Helicobacter	407.98	39.36	Serine transporter
+PGF_00051525	Helicobacter	409.22	42.83	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Helicobacter	425.37	79.06	Signal recognition particle protein Ffh
+PGF_00052705	Helicobacter	140.63	4.80	LSU ribosomal protein L11p (L12e)
+PGF_00052773	Helicobacter	385.31	32.98	Similarity with glutathionylspermidine synthase (EC 6.3.1.8), group 2
+PGF_00053048	Helicobacter	229.34	15.33	Aminodeoxyfutalosine nucleosidase (EC 3.2.2.30)
+PGF_00053078	Helicobacter	350.95	44.64	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00055273	Helicobacter	212.16	8.02	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00056273	Helicobacter	312.70	35.31	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056662	Helicobacter	337.44	28.66	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056883	Helicobacter	188.75	17.16	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057015	Helicobacter	132.73	3.45	Tol biopolymer transport system, TolR protein
+PGF_00057024	Helicobacter	328.31	31.38	Cell division coordinator CpoB
+PGF_00057028	Helicobacter	163.22	14.25	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_00057399	Helicobacter	315.13	18.00	Transaldolase (EC 2.2.1.2)
+PGF_00057483	Helicobacter	433.66	39.40	Transcription termination factor Rho
+PGF_00057485	Helicobacter	389.34	36.26	Transcription termination protein NusA
+PGF_00057488	Helicobacter	137.00	23.91	Transcription termination protein NusB
+PGF_00060398	Helicobacter	630.29	66.75	Transketolase (EC 2.2.1.1)
+PGF_00060409	Helicobacter	676.09	89.18	Translation elongation factor G
+PGF_00060414	Helicobacter	593.53	51.17	Translation elongation factor LepA
+PGF_00060421	Helicobacter	186.05	10.58	Translation elongation factor P
+PGF_00060427	Helicobacter	350.37	34.22	Translation elongation factor Ts
+PGF_00060428	Helicobacter	395.78	28.93	Translation elongation factor Tu
+PGF_00060431	Helicobacter	72.02	1.38	Translation initiation factor 1
+PGF_00060478	Helicobacter	196.36	13.77	Translation initiation factor 3
+PGF_00062023	Helicobacter	258.67	22.29	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Helicobacter	402.11	112.05	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Helicobacter	324.86	20.17	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Helicobacter	399.69	29.46	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063942	Helicobacter	313.45	44.49	UDP-2-acetamido-2-deoxy-D-glucuronic acid dehydrogenase (NAD+) (EC 1.1.1.335)
+PGF_00063944	Helicobacter	294.54	10.78	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Helicobacter	328.56	41.09	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063951	Helicobacter	371.25	36.85	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase (EC 2.6.1.92)
+PGF_00063974	Helicobacter	259.21	15.10	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063987	Helicobacter	327.14	28.58	UDP-N-acetylglucosamine 4,6-dehydratase (inverting) (EC 4.2.1.115)
+PGF_00063993	Helicobacter	346.79	40.13	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Helicobacter	435.49	63.68	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064169	Helicobacter	319.38	21.15	Arginase (EC 3.5.3.1)
+PGF_00064243	Helicobacter	598.13	85.42	Arginine decarboxylase (EC 4.1.1.19)
+PGF_00064393	Helicobacter	273.09	8.57	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064438	Helicobacter	166.89	4.60	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064685	Helicobacter	83.77	0.79	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064945	Helicobacter	432.19	45.17	Uncharacterized protein HP_1490
+PGF_00065274	Helicobacter	240.91	18.53	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+PGF_00065887	Helicobacter	232.58	8.76	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066139	Helicobacter	228.64	24.67	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066240	Helicobacter	210.66	9.85	Uridine diphosphate glucose pyrophosphatase (EC 3.6.1.45)
+PGF_00066270	Helicobacter	334.40	32.36	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Helicobacter	854.14	114.99	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Helicobacter	116.95	10.59	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066854	Helicobacter	463.01	41.78	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066906	Helicobacter	306.02	12.31	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Helicobacter	341.30	31.36	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067466	Helicobacter	567.05	65.25	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Helicobacter	471.48	28.30	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067772	Helicobacter	331.50	19.45	[NiFe] hydrogenase metallocenter assembly protein HypE
+PGF_00067788	Helicobacter	241.06	7.82	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00069943	Helicobacter	216.01	23.80	competence lipoprotein (comL)
+PGF_00071194	Helicobacter	441.53	51.21	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00071382	Helicobacter	163.81	4.78	Flavodoxin 1
+PGF_00113984	Helicobacter	186.66	14.01	Flavin prenyltransferase UbiX
+PGF_00134457	Helicobacter	274.61	12.17	hypothetical protein
+PGF_00206325	Helicobacter	333.06	57.62	Acid membrane antigen A
+PGF_00222425	Helicobacter	615.66	95.42	hypothetical protein
+PGF_00261173	Helicobacter	341.01	40.62	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00267028	Helicobacter	142.21	13.84	Uncharacterized protein jhp1395
+PGF_00285620	Helicobacter	193.73	12.57	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00295936	Helicobacter	245.79	19.64	ABC transporter, ATP-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_00301557	Helicobacter	233.30	11.51	hypothetical protein
+PGF_00319452	Helicobacter	109.88	3.40	hypothetical protein
+PGF_00320580	Helicobacter	177.78	15.93	hypothetical protein
+PGF_00338453	Helicobacter	104.87	2.56	hypothetical protein
+PGF_00347142	Helicobacter	241.73	17.28	hypothetical protein
+PGF_00404078	Helicobacter	157.10	10.38	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404195	Helicobacter	449.24	44.22	probable exported protein STY2149
+PGF_00404256	Helicobacter	443.64	60.09	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404384	Helicobacter	280.50	20.80	Biotin synthase (EC 2.8.1.6)
+PGF_00404827	Helicobacter	289.30	20.91	protease IV (PspA)
+PGF_00405565	Helicobacter	179.96	7.47	purine nucleoside phosphorylase (punB)
+PGF_00406056	Helicobacter	421.99	53.05	putative PROCESSING PROTEASE
+PGF_00407246	Helicobacter	370.24	33.51	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00409894	Helicobacter	112.47	3.62	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.-)
+PGF_00410883	Helicobacter	175.58	18.62	Single-stranded DNA-binding protein
+PGF_00413208	Helicobacter	229.20	8.88	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413230	Helicobacter	242.57	13.67	tRNA (cmo5U34)-methyltransferase
+PGF_00413290	Helicobacter	240.86	15.53	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413298	Helicobacter	415.93	27.56	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Helicobacter	607.39	83.40	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Helicobacter	252.38	15.56	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413527	Helicobacter	220.32	13.55	thiol:disulfide interchange protein (dsbC), putative
+PGF_00413554	Helicobacter	150.98	8.75	tmRNA-binding protein SmpB
+PGF_00414926	Helicobacter	397.57	74.10	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415486	Helicobacter	150.11	3.91	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00416129	Helicobacter	531.23	44.14	CTP synthase (EC 6.3.4.2)
+PGF_00416506	Helicobacter	672.27	84.51	Carbon starvation protein A
+PGF_00416508	Helicobacter	76.28	3.37	Carbon storage regulator
+PGF_00416620	Helicobacter	342.92	37.52	3'-to-5' oligoribonuclease B, Bacillus type
+PGF_00416622	Helicobacter	402.15	40.96	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Helicobacter	392.58	45.07	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00416674	Helicobacter	336.76	37.11	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417140	Helicobacter	211.84	12.01	ABC transporter, ATP-binding protein
+PGF_00417429	Helicobacter	366.14	24.63	Chaperone protein DnaJ
+PGF_00417433	Helicobacter	615.32	48.37	Chaperone protein DnaK
+PGF_00417577	Helicobacter	167.66	13.52	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Helicobacter	342.30	15.76	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417810	Helicobacter	224.25	23.96	Chorismate dehydratase (EC 4.2.1.151)
+PGF_00417840	Helicobacter	356.40	42.82	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Helicobacter	163.74	11.68	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Helicobacter	241.09	14.92	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418771	Helicobacter	401.16	33.02	Competence protein ComGF
+PGF_00419628	Helicobacter	452.44	39.09	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Helicobacter	157.24	1.10	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419900	Helicobacter	351.46	18.93	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00419913	Helicobacter	156.02	12.49	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Helicobacter	266.34	23.14	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420041	Helicobacter	439.57	13.99	Cysteine desulfurase (EC 2.8.1.7)
+PGF_00420358	Helicobacter	483.40	40.09	Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1)
+PGF_00420363	Helicobacter	232.34	8.90	Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)
+PGF_00420366	Helicobacter	290.09	18.11	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_00420549	Helicobacter	351.36	21.93	Cytochrome c551 peroxidase (EC 1.11.1.5)
+PGF_00420731	Helicobacter	488.43	47.79	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420798	Helicobacter	343.16	54.08	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Helicobacter	325.28	24.07	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421098	Helicobacter	478.99	61.54	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421489	Helicobacter	1161.24	191.55	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00422271	Helicobacter	341.30	19.94	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422918	Helicobacter	187.81	6.08	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Helicobacter	144.93	2.82	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Helicobacter	341.63	33.36	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Helicobacter	267.62	26.64	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Helicobacter	386.79	40.31	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423382	Helicobacter	335.71	29.75	Dihydroorotase (EC 3.5.2.3)
+PGF_00423449	Helicobacter	285.90	15.72	1,4-dihydroxy-6-naphtoate synthase
+PGF_00423533	Helicobacter	259.72	41.62	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424447	Helicobacter	310.91	29.28	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424971	Helicobacter	581.20	74.57	Excinuclease ABC subunit C
+PGF_00425011	Helicobacter	248.40	14.92	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425679	Helicobacter	189.56	9.87	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Helicobacter	237.51	17.84	Probable transcriptional regulatory protein YebC
+PGF_00425786	Helicobacter	476.74	92.53	Ribonuclease Y
+PGF_00425993	Helicobacter	364.03	31.19	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Helicobacter	288.35	27.79	FIG004453: protein YceG like
+PGF_00426115	Helicobacter	601.59	89.55	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Helicobacter	356.00	25.92	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426932	Helicobacter	155.04	9.66	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447508	Helicobacter	404.61	42.81	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00482828	Helicobacter	443.30	24.45	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00503288	Helicobacter	740.86	90.76	[NiFe] hydrogenase metallocenter assembly protein HypF
+PGF_00508272	Helicobacter	540.92	62.86	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00510935	Helicobacter	99.92	13.11	DNA-binding protein HU
+PGF_00582270	Helicobacter	453.38	40.74	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00616490	Helicobacter	289.32	23.71	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Helicobacter	355.82	23.20	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Helicobacter	218.53	36.10	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00626415	Helicobacter	176.39	12.20	Hydrogenase maturation protease
+PGF_00644953	Helicobacter	286.04	18.66	DnaJ-class molecular chaperone CbpA
+PGF_00648054	Helicobacter	186.82	19.33	Tol-Pal system protein TolQ
+PGF_00655358	Helicobacter	443.21	39.23	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Helicobacter	196.02	23.16	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Helicobacter	113.19	3.65	Ribosomal silencing factor RsfA
+PGF_00689755	Helicobacter	259.80	13.13	ABC transporter, ATP-binding protein HP_1465
+PGF_00709443	Helicobacter	158.59	9.37	Twin-arginine translocation protein TatB
+PGF_00717495	Helicobacter	421.45	36.71	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Helicobacter	326.12	34.90	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Helicobacter	746.24	64.09	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00750629	Helicobacter	223.01	2.22	Two-component transcriptional response regulator, LuxR family
+PGF_00777371	Helicobacter	224.75	20.04	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00807821	Helicobacter	334.65	41.68	hypothetical protein
+PGF_00827555	Helicobacter	571.53	83.26	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00832622	Helicobacter	272.99	18.36	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_00874759	Helicobacter	400.42	47.78	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00885329	Helicobacter	348.36	37.07	Flagellar motor switch protein FliM
+PGF_00900256	Helicobacter	476.16	55.20	Threonine synthase (EC 4.2.3.1)
+PGF_00909459	Helicobacter	181.67	11.47	Flagellar basal body-associated protein FliL
+PGF_00912265	Helicobacter	324.73	26.62	tRNA-dihydrouridine synthase DusB
+PGF_00914312	Helicobacter	104.84	3.98	HIT family protein
+PGF_00925844	Helicobacter	336.61	29.48	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Helicobacter	535.34	53.41	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00935629	Helicobacter	826.82	100.59	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_00946237	Helicobacter	354.85	4.02	Lipopolysaccharide export system permease protein LptG
+PGF_00950554	Helicobacter	647.33	75.74	Excinuclease ABC subunit B
+PGF_00957419	Helicobacter	134.47	14.18	Putative pre-16S rRNA nuclease Yqg
+PGF_01008498	Helicobacter	157.11	17.44	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Helicobacter	263.39	33.11	Flagellar basal-body rod protein FlgF
+PGF_01032333	Helicobacter	484.19	42.59	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01084030	Helicobacter	858.59	128.44	Outer membrane protein assembly factor YaeT
+PGF_01092098	Helicobacter	152.82	3.48	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01148812	Helicobacter	263.68	13.37	Uncharacterized amidohydrolase HP_1481
+PGF_01149804	Helicobacter	680.88	43.03	Flagellar cap protein FliD
+PGF_01169833	Helicobacter	448.56	54.81	Flagellar biosynthesis protein FlhF
+PGF_01172485	Helicobacter	485.69	42.16	Cell division protein FtsA
+PGF_01174739	Helicobacter	226.07	14.23	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Helicobacter	605.13	54.69	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Helicobacter	537.33	57.05	Heat shock protein 60 family chaperone GroEL
+PGF_01232770	Helicobacter	160.10	18.62	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291823	Helicobacter	215.80	17.84	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01323228	Helicobacter	234.97	18.84	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01351158	Helicobacter	977.12	127.44	Transcription-repair coupling factor
+PGF_01364427	Helicobacter	181.90	12.96	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01421534	Helicobacter	176.91	12.68	LSU ribosomal protein L25p
+PGF_01423501	Helicobacter	163.77	0.96	Transcription elongation factor GreA
+PGF_01427606	Helicobacter	401.71	29.20	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_01467232	Helicobacter	123.39	4.22	Flagellar motor switch protein FliN
+PGF_01514111	Helicobacter	323.79	32.30	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01532393	Helicobacter	664.40	74.77	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Helicobacter	141.01	18.06	Flagellar basal-body rod protein FlgB
+PGF_01599021	Helicobacter	173.72	7.42	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Helicobacter	330.09	43.41	Flagellar basal-body rod modification protein FlgD
+PGF_01625234	Helicobacter	305.36	32.38	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01682537	Helicobacter	118.38	11.36	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Helicobacter	146.58	6.95	Bacterial ribosome SSU maturation protein RimP
+PGF_01734668	Helicobacter	190.22	11.18	Adenylate kinase (EC 2.7.4.3)
+PGF_01763350	Helicobacter	223.15	10.60	Quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+PGF_01763778	Helicobacter	324.06	26.24	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)
+PGF_01769256	Helicobacter	117.76	6.57	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+PGF_01777142	Helicobacter	172.72	16.22	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01783385	Helicobacter	377.43	53.65	Two-component system sensor histidine kinase
+PGF_01842781	Helicobacter	687.06	48.34	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01868355	Helicobacter	168.61	16.30	hypothetical protein
+PGF_01869806	Helicobacter	325.87	28.24	Membrane fusion component of tripartite multidrug efflux system HP_1488
+PGF_01885659	Helicobacter	386.42	65.48	Murein hydrolase activator EnvC
+PGF_01886600	Helicobacter	359.45	29.41	Dioxygenases related to 2-nitropropane dioxygenase
+PGF_01886851	Helicobacter	194.92	18.61	hypothetical protein
+PGF_01886904	Helicobacter	179.97	3.54	membrane bound endonuclease (nuc)
+PGF_01887165	Helicobacter	228.71	13.51	Integral membrane protein
+PGF_01887428	Helicobacter	422.54	25.48	Uncharacterized protein HP_0971
+PGF_01887544	Helicobacter	662.85	76.26	Phosphoglycerol transferase
+PGF_01887648	Helicobacter	201.67	12.79	hypothetical protein
+PGF_01887745	Helicobacter	194.27	10.93	FIG00710213: hypothetical protein
+PGF_01887975	Helicobacter	449.19	49.96	Ferredoxin domain-containing integral membrane protein
+PGF_01888007	Helicobacter	152.43	8.56	hypothetical protein
+PGF_01888177	Helicobacter	159.09	3.62	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01889202	Helicobacter	192.42	15.66	Septum site-determining protein MinC
+PGF_01889558	Helicobacter	251.27	25.77	Sulfur carrier protein ThiS adenylyltransferase (EC 2.7.7.73)
+PGF_01899395	Helicobacter	234.35	18.87	Flagellar L-ring protein FlgH
+PGF_01900530	Helicobacter	244.00	19.35	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01922493	Helicobacter	491.56	47.19	Cardiolipin synthetase (EC 2.7.8.-)
+PGF_01960322	Helicobacter	588.10	66.98	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Helicobacter	446.34	35.55	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Helicobacter	126.63	9.18	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02019462	Helicobacter	323.32	32.79	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Helicobacter	330.48	29.06	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Helicobacter	352.67	44.08	GTP-binding protein Obg
+PGF_02061452	Helicobacter	364.96	35.33	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Helicobacter	339.96	24.15	Flagellar motor switch protein FliG
+PGF_02111888	Helicobacter	269.25	27.85	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Helicobacter	433.17	50.57	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02211177	Helicobacter	265.35	14.97	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02244871	Helicobacter	330.50	52.66	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_02311293	Helicobacter	363.96	20.04	Peptide chain release factor 2
+PGF_02330496	Helicobacter	208.75	9.12	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346768	Helicobacter	828.37	108.43	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Helicobacter	373.45	29.21	Alanine racemase (EC 5.1.1.1)
+PGF_02357230	Helicobacter	160.82	13.24	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_02357764	Helicobacter	164.91	16.33	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02415711	Helicobacter	378.63	27.11	GDP-mannose 4,6-dehydratase (EC 4.2.1.47)
+PGF_02432027	Helicobacter	496.24	51.97	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02450432	Helicobacter	262.04	25.94	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Helicobacter	82.42	14.62	SSU ribosomal protein S20p
+PGF_02515882	Helicobacter	398.80	41.64	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Helicobacter	422.38	28.73	Enolase (EC 4.2.1.11)
+PGF_02593689	Helicobacter	407.62	67.59	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Helicobacter	483.00	35.53	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Helicobacter	274.32	37.32	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02719231	Helicobacter	132.62	8.17	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02737642	Helicobacter	272.31	28.65	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02744871	Helicobacter	108.18	4.53	Flagellar hook-basal body complex protein FliE
+PGF_02789532	Helicobacter	274.98	20.96	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02797400	Helicobacter	451.00	68.07	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02798941	Helicobacter	463.02	83.50	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Helicobacter	179.24	12.20	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02838109	Helicobacter	161.82	5.58	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Helicobacter	252.42	15.07	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02890229	Helicobacter	541.72	97.16	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02899131	Helicobacter	65.02	2.59	LSU ribosomal protein L29p (L35e)
+PGF_02904405	Helicobacter	116.75	2.20	[NiFe] hydrogenase nickel incorporation protein HypA
+PGF_02912272	Helicobacter	220.14	9.12	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02919689	Helicobacter	235.98	12.52	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Helicobacter	228.66	38.23	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Helicobacter	296.36	25.04	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02937881	Helicobacter	509.21	59.28	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+PGF_02946231	Helicobacter	547.72	51.03	SSU ribosomal protein S1p
+PGF_02950579	Helicobacter	263.84	26.00	Septum site-determining protein MinD
+PGF_02956462	Helicobacter	124.75	3.74	RidA/YER057c/UK114 superfamily protein
+PGF_02972020	Helicobacter	131.80	9.13	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_02995302	Helicobacter	208.14	7.55	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_02995555	Helicobacter	497.34	47.98	Catalase KatE (EC 1.11.1.6)
+PGF_02998943	Helicobacter	173.86	6.31	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03009868	Helicobacter	232.72	32.13	Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+PGF_03017775	Helicobacter	500.25	19.88	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03034557	Helicobacter	243.29	14.55	Fumarate reductase iron-sulfur protein (EC 1.3.5.4)
+PGF_03057384	Helicobacter	348.36	24.11	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03066520	Helicobacter	392.14	56.86	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03070510	Helicobacter	291.93	15.57	Flagellar synthesis regulator FleN
+PGF_03081665	Helicobacter	96.57	4.17	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03095653	Helicobacter	232.77	14.59	Multidrug efflux system, membrane fusion component => CmeE
+PGF_03116802	Helicobacter	206.17	11.27	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03124650	Helicobacter	444.77	46.16	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132467	Helicobacter	817.90	80.10	Flagellar hook-associated protein FlgL
+PGF_03147465	Helicobacter	566.59	55.75	Multi-drug resistance efflux ABC transporter, permease/ATP-binding protein HetA
+PGF_03172904	Helicobacter	280.04	26.05	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Helicobacter	175.09	6.31	Transcription antitermination protein NusG
+PGF_03197417	Helicobacter	183.93	7.53	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)
+PGF_03222913	Helicobacter	122.98	3.42	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03272313	Helicobacter	801.00	114.75	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Helicobacter	62.04	0.60	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03439582	Helicobacter	233.80	19.87	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03439690	Helicobacter	149.34	7.32	Ferric uptake regulation protein FUR
+PGF_03474542	Helicobacter	429.94	33.42	Flagellum-specific ATP synthase FliI
+PGF_03518570	Helicobacter	136.64	4.50	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Helicobacter	378.38	35.54	Cell division protein FtsZ
+PGF_03719269	Helicobacter	197.53	17.00	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Helicobacter	131.93	6.62	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03750571	Helicobacter	440.16	57.55	Chromosomal replication initiator protein DnaA
+PGF_03751658	Helicobacter	117.19	7.56	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Helicobacter	189.64	4.72	Heat shock protein GrpE
+PGF_03760224	Helicobacter	217.51	7.40	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03768099	Helicobacter	264.36	21.38	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03778780	Helicobacter	292.52	13.43	Signal recognition particle receptor FtsY
+PGF_03787199	Helicobacter	178.78	11.76	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Helicobacter	238.49	9.32	Ribonuclease III (EC 3.1.26.3)
+PGF_03797809	Helicobacter	384.25	39.89	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_03801201	Helicobacter	253.98	33.81	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Helicobacter	67.19	3.33	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03835760	Helicobacter	377.71	66.62	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03844705	Helicobacter	417.99	89.93	Anaerobic C4-dicarboxylate transporter DcuA
+PGF_03846834	Helicobacter	172.89	7.34	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03850044	Helicobacter	397.61	61.10	Sodium/glutamate symporter
+PGF_03856084	Helicobacter	622.39	57.65	Cell division protein FtsH
+PGF_03912513	Helicobacter	143.90	3.92	DNA protection during starvation protein
+PGF_03960810	Helicobacter	288.18	27.85	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03977347	Helicobacter	270.88	18.79	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_04005838	Helicobacter	410.53	47.37	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04016408	Helicobacter	433.11	22.74	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04033923	Helicobacter	422.36	47.88	Uncharacterized protein HP0275
+PGF_04036472	Helicobacter	113.41	9.25	KH domain RNA binding protein YlqC
+PGF_04091295	Helicobacter	246.68	30.90	Flagellar motor rotation protein MotA
+PGF_04127376	Helicobacter	244.60	23.39	Twin-arginine translocation protein TatC
+PGF_04131439	Helicobacter	384.88	32.10	Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)
+PGF_04154333	Helicobacter	80.07	5.72	Twin-arginine translocation protein TatA
+PGF_04162809	Helicobacter	197.27	10.31	Alkyl hydroperoxide reductase subunit C-like protein
+PGF_04182459	Helicobacter	221.82	11.09	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Helicobacter	220.03	12.11	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04240096	Helicobacter	789.11	99.20	Signal transduction histidine kinase CheA
+PGF_04345693	Helicobacter	421.12	60.66	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04360357	Helicobacter	836.95	124.36	Protein translocase subunit SecA
+PGF_04380075	Helicobacter	159.00	7.71	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04490570	Helicobacter	384.93	26.14	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04505269	Helicobacter	256.59	32.96	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Helicobacter	336.03	47.45	Rod shape-determining protein MreB
+PGF_04521913	Helicobacter	487.61	31.76	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Helicobacter	499.33	36.37	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Helicobacter	261.21	26.20	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Helicobacter	228.38	28.21	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04608820	Helicobacter	540.78	87.59	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04660832	Helicobacter	156.57	5.32	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Helicobacter	755.29	98.10	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Helicobacter	173.93	21.73	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04757308	Helicobacter	595.86	81.92	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Helicobacter	190.34	35.94	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Helicobacter	277.98	28.59	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Helicobacter	118.24	1.22	LSU ribosomal protein L19p
+PGF_04846590	Helicobacter	317.47	12.23	Magnesium and cobalt transport protein CorA
+PGF_04958295	Helicobacter	125.26	7.10	Flagellar biosynthesis protein FliS
+PGF_04978890	Helicobacter	104.10	1.59	LSU ribosomal protein L21p
+PGF_05021259	Helicobacter	307.89	34.36	GDP-L-fucose synthetase (EC 1.1.1.271)
+PGF_05022117	Helicobacter	525.78	53.34	Bis-ABC ATPase YbiT
+PGF_05135220	Helicobacter	799.10	66.32	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Helicobacter	305.29	39.10	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Helicobacter	456.24	61.54	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05255412	Helicobacter	432.26	40.36	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Helicobacter	421.11	51.44	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Helicobacter	646.98	79.67	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05421852	Helicobacter	605.27	81.25	Chaperone protein HtpG
+PGF_05439724	Helicobacter	635.91	107.03	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05471309	Helicobacter	466.38	66.80	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05493552	Helicobacter	78.06	2.69	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05560886	Helicobacter	261.06	25.68	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Helicobacter	415.34	33.88	Protein translocase subunit SecY
+PGF_05598173	Helicobacter	363.58	49.23	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Helicobacter	404.14	53.83	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05712128	Helicobacter	535.33	64.61	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05769513	Helicobacter	412.84	30.88	Tol-Pal system beta propeller repeat protein TolB
+PGF_05925776	Helicobacter	301.77	11.84	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Helicobacter	504.53	86.64	Protein translocase subunit SecD
+PGF_05971611	Helicobacter	418.80	45.21	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06133167	Helicobacter	203.71	15.82	MBL-fold metallo-hydrolase superfamily
+PGF_06170558	Helicobacter	151.07	9.75	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Helicobacter	141.01	3.92	LSU ribosomal protein L13p (L13Ae)
+PGF_06230969	Helicobacter	460.58	42.13	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Helicobacter	116.65	5.91	Heat shock protein 60 family co-chaperone GroES
+PGF_06315406	Helicobacter	417.71	35.90	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06403579	Helicobacter	794.73	139.92	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06421645	Helicobacter	210.94	9.27	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_06458877	Helicobacter	156.94	9.21	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06530721	Helicobacter	383.90	58.98	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Helicobacter	129.48	4.77	Fluoride ion transporter CrcB
+PGF_06586947	Helicobacter	343.16	27.55	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06644010	Helicobacter	303.72	23.87	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06806192	Helicobacter	83.89	3.14	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_06921203	Helicobacter	691.44	94.78	Fumarate reductase flavoprotein subunit (EC 1.3.5.4)
+PGF_07072582	Helicobacter	666.35	60.67	RNA polymerase sigma factor RpoD
+PGF_07242312	Helicobacter	578.63	64.30	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_08107649	Helicobacter	255.84	12.49	Flagellar motor rotation protein MotB
+PGF_08183187	Helicobacter	379.84	43.85	Cell division protein FtsW

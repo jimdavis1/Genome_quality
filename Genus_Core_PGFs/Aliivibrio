@@ -1,0 +1,2015 @@
+PGF_00000261	Aliivibrio	383.00	0.00	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000306	Aliivibrio	239.48	2.37	FIG007491: hypothetical protein YeeN
+PGF_00000416	Aliivibrio	350.00	0.00	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000939	Aliivibrio	393.34	4.22	Uncharacterized protein YhiN
+PGF_00001005	Aliivibrio	222.00	0.00	FIG009095: D,D-carboxypeptidase family protein
+PGF_00001455	Aliivibrio	290.00	0.00	ABC transporter
+PGF_00001588	Aliivibrio	218.00	0.00	FIG010427: hypothetical protein
+PGF_00001730	Aliivibrio	256.00	0.00	FIG011065: hypothetical protein
+PGF_00002124	Aliivibrio	204.00	0.00	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002132	Aliivibrio	82.05	2.88	UPF0270 protein YheU
+PGF_00002144	Aliivibrio	179.65	0.48	Cell division protein ZapC
+PGF_00002229	Aliivibrio	116.14	0.52	hypothetical protein
+PGF_00002278	Aliivibrio	226.81	1.57	hypothetical protein
+PGF_00002307	Aliivibrio	123.05	13.31	(3R)-hydroxymyristoyl-[ACP] dehydratase (EC 4.2.1.-)
+PGF_00002578	Aliivibrio	67.95	0.31	FIG018429: hypothetical protein
+PGF_00002592	Aliivibrio	214.90	0.62	FIG01964566: Predicted membrane protein, hemolysin III homolog
+PGF_00002672	Aliivibrio	548.71	0.89	ATPase RavA
+PGF_00002688	Aliivibrio	251.12	19.36	FIG023911: putative membrane protein
+PGF_00002906	Aliivibrio	206.00	0.00	FIG027190: Putative transmembrane protein
+PGF_00003005	Aliivibrio	86.38	4.01	FIG034389 (not subsystem-based): hypothetical protein
+PGF_00003058	Aliivibrio	191.07	7.52	FIG037488: Putative conserved exported protein precursor
+PGF_00003146	Aliivibrio	126.52	7.72	ATP synthase protein I
+PGF_00003480	Aliivibrio	213.34	7.41	ABC transporter, ATP-binding protein YnjD
+PGF_00003516	Aliivibrio	251.02	0.15	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003528	Aliivibrio	176.57	1.19	UPF0307 protein YjgA
+PGF_00003530	Aliivibrio	411.21	1.12	FIG138576: 3-oxoacyl-[ACP] synthase (EC 2.3.1.41)
+PGF_00003543	Aliivibrio	499.26	12.80	FIG139976: hypothetical protein
+PGF_00003740	Aliivibrio	206.00	0.00	FKBP-type peptidyl-prolyl cis-trans isomerase FklB (EC 5.2.1.8)
+PGF_00003746	Aliivibrio	264.00	0.00	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+PGF_00003749	Aliivibrio	142.33	0.48	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00003750	Aliivibrio	196.10	3.49	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+PGF_00003967	Aliivibrio	146.71	0.81	FOG: PAS/PAC domain
+PGF_00003988	Aliivibrio	388.77	0.92	FOG: TPR repeat protein, SEL1 subfamily
+PGF_00004014	Aliivibrio	221.00	0.00	FOG: WD40 repeat
+PGF_00004018	Aliivibrio	337.07	0.26	FOG: WD40 repeat
+PGF_00004094	Aliivibrio	375.00	0.00	Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)
+PGF_00004253	Aliivibrio	412.37	0.54	Fermentation/respiration switch protein
+PGF_00004285	Aliivibrio	87.00	0.00	Ferredoxin
+PGF_00004481	Aliivibrio	541.74	8.18	Ferric iron ABC transporter, permease protein
+PGF_00004637	Aliivibrio	175.00	0.00	Ferritin-like protein 2
+PGF_00004671	Aliivibrio	758.00	0.00	Ferrous iron transport protein B
+PGF_00004672	Aliivibrio	80.00	0.00	Ferrous iron transport protein C
+PGF_00005275	Aliivibrio	553.20	10.06	ABC transporter, permease protein YnjC
+PGF_00005284	Aliivibrio	563.49	63.85	Flagellar M-ring protein FliF
+PGF_00005288	Aliivibrio	368.43	4.01	Flagellar P-ring protein FlgI
+PGF_00005302	Aliivibrio	265.00	0.00	Flagellar assembly protein FliH
+PGF_00005331	Aliivibrio	250.48	11.65	Flagellar basal-body P-ring formation protein FlgA
+PGF_00005354	Aliivibrio	138.00	0.00	Flagellar basal-body rod protein FlgC
+PGF_00005358	Aliivibrio	262.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005359	Aliivibrio	142.00	0.00	Flagellar biosynthesis protein FlgN
+PGF_00005384	Aliivibrio	697.67	4.32	Flagellar biosynthesis protein FlhA
+PGF_00005402	Aliivibrio	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005450	Aliivibrio	432.00	0.00	Flagellar hook protein FlgE
+PGF_00005454	Aliivibrio	626.00	0.00	Flagellar hook-associated protein FlgK
+PGF_00005481	Aliivibrio	414.67	16.67	Flagellar hook-length control protein FliK
+PGF_00005548	Aliivibrio	139.05	0.31	Flagellar protein FlaG
+PGF_00005572	Aliivibrio	336.67	2.78	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005580	Aliivibrio	143.31	0.47	Flagellar protein FlgP
+PGF_00005585	Aliivibrio	378.00	0.00	Flagellar protein FlgT
+PGF_00005608	Aliivibrio	146.64	0.66	Flagellar protein FliJ
+PGF_00005620	Aliivibrio	492.14	5.88	Flagellar regulatory protein FleQ
+PGF_00005623	Aliivibrio	352.29	1.97	Flagellar sensor histidine kinase FleS
+PGF_00005659	Aliivibrio	379.00	0.00	Flagellin protein FlaC
+PGF_00005661	Aliivibrio	377.00	0.00	Flagellin protein FlaF
+PGF_00005780	Aliivibrio	350.83	1.89	ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)
+PGF_00005921	Aliivibrio	172.95	1.72	Flavodoxin 2
+PGF_00005948	Aliivibrio	144.00	0.00	Flavoprotein MioC
+PGF_00006100	Aliivibrio	317.83	0.38	tRNA-modifying protein YgfZ
+PGF_00006127	Aliivibrio	339.53	0.74	Formate dehydrogenase -O, gamma subunit (EC 1.2.1.2)
+PGF_00006167	Aliivibrio	65.09	0.29	Formate dehydrogenase subunit or accessory protein
+PGF_00006173	Aliivibrio	202.00	0.00	Formate dehydrogenase-O, iron-sulfur subunit (EC 1.2.1.2); Putative formate dehydrogenase iron-sulfur subunit (EC 1.2.1.2)
+PGF_00006179	Aliivibrio	951.00	0.00	Formate dehydrogenase-O, major subunit (EC 1.2.1.2)
+PGF_00006245	Aliivibrio	581.95	4.52	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006320	Aliivibrio	270.77	36.96	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006336	Aliivibrio	104.00	0.00	Frataxin homolog CyaY, facilitates Fe-S cluster assembly, interacts with IscS
+PGF_00006376	Aliivibrio	318.60	41.94	Fructose repressor FruR, LacI family
+PGF_00006378	Aliivibrio	335.00	0.00	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006394	Aliivibrio	358.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006403	Aliivibrio	378.00	0.00	PTS system, fructose-specific IIA component (EC 2.7.1.202) / Fructose-specific phosphocarrier protein HPr
+PGF_00006440	Aliivibrio	341.00	0.00	Fucose 4-O-acetylase
+PGF_00006447	Aliivibrio	249.81	0.39	Fumarate and nitrate reduction regulatory protein
+PGF_00006454	Aliivibrio	509.60	2.01	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006500	Aliivibrio	127.00	0.00	Fumarate reductase subunit C
+PGF_00006501	Aliivibrio	120.00	0.00	Fumarate reductase subunit D
+PGF_00006770	Aliivibrio	520.00	0.00	GGDEF domain family protein
+PGF_00006935	Aliivibrio	517.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006955	Aliivibrio	299.00	0.00	Uncharacterized GNAT family acetyltransferase YiiD
+PGF_00006987	Aliivibrio	198.86	0.35	GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00007012	Aliivibrio	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Aliivibrio	500.00	0.00	GTP-binding protein EngA
+PGF_00007026	Aliivibrio	215.00	0.00	GTP-binding protein EngB
+PGF_00007027	Aliivibrio	321.34	0.48	GTP-binding protein Era
+PGF_00007028	Aliivibrio	435.00	2.86	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Aliivibrio	622.02	0.57	GTP-binding protein TypA/BipA
+PGF_00007043	Aliivibrio	443.66	48.61	GTP-binding protein related to HflX
+PGF_00007057	Aliivibrio	455.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Aliivibrio	376.85	49.61	Galactokinase (EC 2.7.1.6)
+PGF_00007120	Aliivibrio	349.32	0.47	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007304	Aliivibrio	287.00	0.00	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007312	Aliivibrio	226.98	2.83	General secretion pathway protein B
+PGF_00007318	Aliivibrio	301.51	1.36	General secretion pathway protein C
+PGF_00007353	Aliivibrio	404.32	0.47	General secretion pathway protein F
+PGF_00007379	Aliivibrio	197.44	3.98	General secretion pathway protein H
+PGF_00007406	Aliivibrio	224.17	4.01	General secretion pathway protein J
+PGF_00007445	Aliivibrio	162.98	0.16	General secretion pathway protein M
+PGF_00007602	Aliivibrio	470.00	0.00	N-acetylglucosamine phosphomutase (EC 5.4.2.3)
+PGF_00007632	Aliivibrio	316.00	0.00	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007806	Aliivibrio	543.00	0.00	Glucan 1,6-alpha-glucosidase (EC 3.2.1.70)
+PGF_00007818	Aliivibrio	473.00	0.00	16S rRNA (cytosine(1407)-C(5))-methyltransferase (EC 2.1.1.178)
+PGF_00007912	Aliivibrio	291.00	0.00	Glucosamine kinase GpsK (EC 2.7.1.8)
+PGF_00007920	Aliivibrio	266.00	0.00	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00007927	Aliivibrio	572.14	1.00	Glucosaminyl-1,4-glucosamine-6-phosphate hydrolase
+PGF_00007971	Aliivibrio	405.00	0.00	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007988	Aliivibrio	550.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Aliivibrio	438.93	12.52	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Aliivibrio	363.79	11.02	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008095	Aliivibrio	547.36	2.31	Glutamate decarboxylase, eukaryotic type (EC 4.1.1.15)
+PGF_00008106	Aliivibrio	262.20	0.81	Glutamate racemase (EC 5.1.1.3)
+PGF_00008109	Aliivibrio	344.42	53.55	Glutamate receptor 1 precursor
+PGF_00008115	Aliivibrio	1521.00	14.67	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008164	Aliivibrio	431.00	0.00	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008192	Aliivibrio	306.00	0.00	Glutaminase (EC 3.5.1.2)
+PGF_00008258	Aliivibrio	469.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Aliivibrio	552.00	0.00	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Aliivibrio	418.00	0.00	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Aliivibrio	474.24	0.43	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008344	Aliivibrio	74.74	1.70	Glutaredoxin
+PGF_00008346	Aliivibrio	119.67	0.48	Glutaredoxin
+PGF_00008349	Aliivibrio	87.00	0.00	Glutaredoxin 1
+PGF_00008351	Aliivibrio	216.00	0.00	Glutaredoxin 2
+PGF_00008467	Aliivibrio	485.80	0.41	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008469	Aliivibrio	315.52	1.74	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008490	Aliivibrio	159.55	2.25	Glutathione-regulated potassium-efflux system protein
+PGF_00008509	Aliivibrio	339.00	0.00	D-erythrose-4-phosphate dehydrogenase (EC 1.2.1.72)
+PGF_00008510	Aliivibrio	259.27	0.50	16S rRNA (guanine(1516)-N(2))-methyltransferase (EC 2.1.1.242)
+PGF_00008537	Aliivibrio	504.00	0.00	Glycerol kinase (EC 2.7.1.30)
+PGF_00008542	Aliivibrio	284.00	0.00	Glycerol uptake facilitator protein
+PGF_00008595	Aliivibrio	807.00	0.00	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+PGF_00008611	Aliivibrio	340.07	0.46	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008644	Aliivibrio	451.56	17.13	Glycerol-3-phosphate transporter
+PGF_00008767	Aliivibrio	174.32	7.46	Glycine cleavage system transcriptional antiactivator GcvR
+PGF_00008773	Aliivibrio	954.98	0.15	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Aliivibrio	209.81	0.40	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008874	Aliivibrio	797.84	90.71	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00008876	Aliivibrio	485.33	2.39	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00009500	Aliivibrio	198.39	7.20	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009847	Aliivibrio	338.10	3.43	Glycosyltransferase (EC 2.4.1.-) SypH
+PGF_00009864	Aliivibrio	379.93	2.96	Glycosyltransferase SypN
+PGF_00009866	Aliivibrio	362.00	0.00	Glycosyltransferase SypP
+PGF_00009867	Aliivibrio	394.67	0.48	Glycosyltransferase SypQ
+PGF_00009967	Aliivibrio	304.31	9.81	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Aliivibrio	688.95	1.99	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Aliivibrio	243.00	0.00	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Aliivibrio	707.39	0.63	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010352	Aliivibrio	491.63	35.64	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase (EC 3.6.1.40) @ Exopolyphosphatase (EC 3.6.1.11)
+PGF_00010358	Aliivibrio	177.02	0.15	Guanylate cyclase-related protein
+PGF_00010360	Aliivibrio	206.61	1.74	Guanylate kinase (EC 2.7.4.8)
+PGF_00010729	Aliivibrio	290.98	8.22	Transcriptional regulator IlvY, LysR family
+PGF_00011081	Aliivibrio	736.26	1.17	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011607	Aliivibrio	441.12	31.23	Hexose phosphate uptake regulatory protein UhpC
+PGF_00011634	Aliivibrio	402.79	2.28	HflK protein
+PGF_00011940	Aliivibrio	442.00	0.00	Histidine permease YuiF
+PGF_00011970	Aliivibrio	141.00	0.00	Histidine triad family protein
+PGF_00011979	Aliivibrio	438.29	2.94	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Aliivibrio	357.78	3.49	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012147	Aliivibrio	300.48	5.36	Histone deacetylase/AcuC/AphA family protein
+PGF_00012264	Aliivibrio	331.72	34.62	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012320	Aliivibrio	233.72	4.30	Tungstate ABC transporter, ATP-binding protein
+PGF_00012344	Aliivibrio	273.00	0.00	Tungstate ABC transporter, substrate-binding protein
+PGF_00012356	Aliivibrio	318.00	0.00	Homoserine kinase (EC 2.7.1.39)
+PGF_00012376	Aliivibrio	232.00	0.00	Tungstate ABC transporter, permease protein
+PGF_00012409	Aliivibrio	762.57	87.17	HrpA-like helicase
+PGF_00012920	Aliivibrio	553.44	1.96	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00012926	Aliivibrio	411.26	50.78	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+PGF_00012970	Aliivibrio	644.67	1.51	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00012972	Aliivibrio	183.00	0.00	ADP compounds hydrolase NudE (EC 3.6.1.-)
+PGF_00013003	Aliivibrio	643.00	0.00	Bis-ABC ATPase YheS
+PGF_00013017	Aliivibrio	313.02	0.15	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+PGF_00013081	Aliivibrio	189.00	0.00	Hypothetical lipoprotein YajG precursor
+PGF_00013100	Aliivibrio	476.00	0.00	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013244	Aliivibrio	213.14	4.21	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013272	Aliivibrio	137.00	0.00	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Aliivibrio	235.95	3.31	UPF0001 protein YggS
+PGF_00013290	Aliivibrio	105.07	2.11	Uncharacterized protein YqcC
+PGF_00013293	Aliivibrio	410.19	0.50	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase paralog YfaY, no functional activity
+PGF_00013397	Aliivibrio	215.23	0.65	Hypothetical protein, bax gene locus
+PGF_00013492	Aliivibrio	175.45	1.52	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013503	Aliivibrio	165.05	1.45	IAA acetyltransferase (EC 2.3.1.-)
+PGF_00013509	Aliivibrio	530.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013857	Aliivibrio	743.54	9.37	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014053	Aliivibrio	470.00	0.00	Indole-3-glycerol phosphate synthase (EC 4.1.1.48) / Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00014132	Aliivibrio	150.07	0.46	Inner membrane protein YccF
+PGF_00014144	Aliivibrio	599.91	13.10	Inner membrane protein YejM, alkaline phosphatase superfamily
+PGF_00014183	Aliivibrio	312.59	8.88	Inner membrane protein YihY, formerly thought to be RNase BN
+PGF_00014196	Aliivibrio	219.74	28.38	Inner membrane protein YohK
+PGF_00014279	Aliivibrio	93.86	0.93	Inner membrane protein yciS
+PGF_00014311	Aliivibrio	484.88	9.71	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014414	Aliivibrio	305.07	4.07	Uncharacterized transporter VC0081, DMT family
+PGF_00014728	Aliivibrio	316.60	1.93	Integral membrane protein TerC
+PGF_00015039	Aliivibrio	268.81	2.16	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Aliivibrio	85.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Aliivibrio	176.29	4.63	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Aliivibrio	288.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015261	Aliivibrio	107.00	0.00	Iron-sulfur cluster assembly iron binding protein IscA
+PGF_00015453	Aliivibrio	382.00	0.00	Iron-containing alcohol dehydrogenase
+PGF_00015476	Aliivibrio	417.00	0.00	Iron-regulated protein A precursor
+PGF_00015523	Aliivibrio	126.30	0.96	Iron-sulfur cluster assembly scaffold protein IscU
+PGF_00015686	Aliivibrio	440.00	0.00	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+PGF_00015703	Aliivibrio	742.05	0.31	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Aliivibrio	952.48	0.86	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015728	Aliivibrio	272.50	30.17	Isopenicillin N synthase
+PGF_00015735	Aliivibrio	177.02	18.53	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015736	Aliivibrio	548.76	3.45	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Aliivibrio	494.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015972	Aliivibrio	183.44	1.95	L-2,4-diaminobutyric acid acetyltransferase (EC 2.3.1.178)
+PGF_00016047	Aliivibrio	332.53	7.26	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016083	Aliivibrio	128.00	0.00	L-ectoine synthase (EC 4.2.1.108)
+PGF_00016189	Aliivibrio	335.00	0.00	Glycine betaine/L-proline transport substrate-binding protein ProX (TC 3.A.1.12.1)
+PGF_00016261	Aliivibrio	334.55	45.86	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016325	Aliivibrio	750.02	0.15	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Aliivibrio	163.12	5.71	LSU ribosomal protein L10p (P0)
+PGF_00016338	Aliivibrio	418.48	52.70	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Aliivibrio	123.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Aliivibrio	144.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Aliivibrio	136.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Aliivibrio	126.00	0.00	LSU ribosomal protein L17p
+PGF_00016353	Aliivibrio	117.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Aliivibrio	234.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Aliivibrio	117.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Aliivibrio	106.64	2.35	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Aliivibrio	110.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Aliivibrio	100.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Aliivibrio	104.33	0.48	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Aliivibrio	85.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Aliivibrio	274.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Aliivibrio	59.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Aliivibrio	56.00	0.00	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Aliivibrio	55.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Aliivibrio	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Aliivibrio	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Aliivibrio	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Aliivibrio	209.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Aliivibrio	195.47	20.78	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Aliivibrio	178.10	5.71	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Aliivibrio	177.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Aliivibrio	121.67	0.48	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Aliivibrio	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016541	Aliivibrio	158.17	18.36	Lactoylglutathione lyase
+PGF_00016909	Aliivibrio	205.24	8.02	Leucine-rich repeat protein
+PGF_00016919	Aliivibrio	238.62	1.58	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017063	Aliivibrio	313.00	0.00	Lipid A biosynthesis myristoyltransferase (EC 2.3.1.243)
+PGF_00017080	Aliivibrio	586.12	1.63	Lipid A core-O-antigen ligase
+PGF_00017109	Aliivibrio	383.22	0.79	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Aliivibrio	241.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017278	Aliivibrio	354.55	6.70	Lipopolysaccharide core heptosyltransferase I
+PGF_00017313	Aliivibrio	186.05	4.24	Lipopolysaccharide export system protein LptC
+PGF_00017400	Aliivibrio	325.39	32.85	Murein hydrolase activator NlpD
+PGF_00017407	Aliivibrio	323.88	7.63	Lipoprotein NlpI
+PGF_00017408	Aliivibrio	196.00	0.00	Lipoprotein YcfM, part of a salvage pathway of unknown substrate
+PGF_00017464	Aliivibrio	238.00	0.00	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Aliivibrio	321.00	0.00	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017518	Aliivibrio	554.42	8.20	Lon protease homolog YcbZ
+PGF_00017579	Aliivibrio	432.71	1.08	ATP-dependent RNA helicase RhlB
+PGF_00017617	Aliivibrio	334.05	0.73	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017621	Aliivibrio	413.76	1.12	ATP-dependent RNA helicase SrmB
+PGF_00017634	Aliivibrio	398.12	0.77	ATP-dependent RNA helicase VC1407
+PGF_00017640	Aliivibrio	165.10	0.30	Lipopolysaccharide export system protein LptA
+PGF_00017679	Aliivibrio	449.40	6.83	ATP-dependent RNA helicase VCA0061
+PGF_00017708	Aliivibrio	418.21	0.42	ATP-dependent RNA helicase VCA0768
+PGF_00017737	Aliivibrio	422.50	5.71	ATP-dependent RNA helicase VF1437
+PGF_00017777	Aliivibrio	432.33	2.10	ATP-dependent RNA helicase VVA0939
+PGF_00017920	Aliivibrio	307.95	3.03	LysR-family transcriptional regulator VCA0830
+PGF_00017923	Aliivibrio	301.71	0.72	LysR-family transcriptional regulator YdhB
+PGF_00017931	Aliivibrio	321.86	14.65	LysR-like transcriptional regulator
+PGF_00017939	Aliivibrio	340.00	0.00	Lysine 2,3-aminomutase (EC 5.4.3.2)
+PGF_00018005	Aliivibrio	257.81	1.22	Lysine-arginine-ornithine-binding periplasmic protein ArgT (TC 3.A.1.3.1)
+PGF_00018393	Aliivibrio	547.34	106.40	MSHA biogenesis protein MshE
+PGF_00018398	Aliivibrio	408.00	0.00	MSHA biogenesis protein MshG
+PGF_00018399	Aliivibrio	659.19	0.59	MSHA biogenesis protein MshH
+PGF_00018402	Aliivibrio	487.81	5.76	MSHA biogenesis protein MshI
+PGF_00018406	Aliivibrio	212.05	0.31	MSHA biogenesis protein MshJ
+PGF_00018413	Aliivibrio	545.00	2.24	MSHA biogenesis protein MshL
+PGF_00018415	Aliivibrio	282.00	0.00	MSHA biogenesis protein MshM
+PGF_00018430	Aliivibrio	187.10	0.43	MSHA pilin protein MshB
+PGF_00018536	Aliivibrio	694.98	3.00	ATP-dependent helicase DinG/Rad3
+PGF_00018552	Aliivibrio	191.31	10.96	Maf-like protein YceF
+PGF_00018560	Aliivibrio	292.21	12.58	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Aliivibrio	311.00	0.00	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018964	Aliivibrio	534.00	0.00	Malate synthase (EC 2.3.3.9)
+PGF_00018966	Aliivibrio	186.33	0.48	Malate synthase-related protein
+PGF_00018969	Aliivibrio	466.77	54.19	Malate-2H(+)/Na(+)-lactate antiporter YqkI/MleN
+PGF_00019038	Aliivibrio	444.00	0.00	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019087	Aliivibrio	274.73	0.45	Maltose operon periplasmic protein MalM
+PGF_00019147	Aliivibrio	385.15	5.71	Maltodextrin ABC transporter, substrate-binding protein MdxE
+PGF_00019248	Aliivibrio	306.00	0.00	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019428	Aliivibrio	176.93	5.67	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019480	Aliivibrio	279.38	13.63	Membrane Protein Functionally coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00019484	Aliivibrio	847.02	93.64	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00019529	Aliivibrio	640.76	1.54	Membrane bound c-di-GMP receptor LapD
+PGF_00019567	Aliivibrio	776.32	0.47	ATP-dependent protease La (EC 3.4.21.53) Type II
+PGF_00019606	Aliivibrio	335.71	5.67	Membrane protein
+PGF_00019608	Aliivibrio	317.57	32.19	Membrane protein
+PGF_00019882	Aliivibrio	154.68	2.03	Inner membrane protein YjiG
+PGF_00019910	Aliivibrio	125.44	9.28	Membrane protein
+PGF_00019967	Aliivibrio	461.93	2.27	Membrane protein SypL involved in exopolysaccharide production
+PGF_00019974	Aliivibrio	342.48	1.71	Membrane protein YcjF
+PGF_00020168	Aliivibrio	363.42	16.93	Membrane-bound lytic murein transglycosylase A
+PGF_00020171	Aliivibrio	323.67	0.87	Membrane-bound lytic murein transglycosylase B (EC 3.2.1.-)
+PGF_00020173	Aliivibrio	343.00	0.00	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020184	Aliivibrio	516.68	0.93	Membrane-bound lytic murein transglycosylase D
+PGF_00020190	Aliivibrio	494.42	2.03	Membrane-bound lytic murein transglycosylase F (EC 4.2.2.n1)
+PGF_00020361	Aliivibrio	153.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Aliivibrio	275.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020747	Aliivibrio	106.00	0.00	Methionine repressor MetJ
+PGF_00020923	Aliivibrio	276.00	0.00	Methyl-directed repair DNA adenine methylase (EC 2.1.1.72)
+PGF_00020984	Aliivibrio	285.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Aliivibrio	151.00	0.00	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021217	Aliivibrio	510.15	0.94	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021496	Aliivibrio	394.33	51.26	Mlc, transcriptional repressor of MalT (the transcriptional activator of maltose regulon) and manXYZ operon
+PGF_00021987	Aliivibrio	153.00	0.00	ATPase involved in DNA repair
+PGF_00022016	Aliivibrio	476.42	9.38	ATPase involved in DNA repair
+PGF_00022479	Aliivibrio	194.00	0.00	Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)
+PGF_00022507	Aliivibrio	178.00	0.00	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022565	Aliivibrio	81.00	0.00	Molybdopterin synthase sulfur carrier subunit
+PGF_00022583	Aliivibrio	593.00	0.00	Molybdopterin-guanine dinucleotide biosynthesis protein MobB / Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_00022781	Aliivibrio	379.45	4.26	ATPase, AFG1 family
+PGF_00023069	Aliivibrio	530.00	0.00	Multidrug efflux pump component MtrF
+PGF_00023120	Aliivibrio	376.00	0.00	Multidrug resistance efflux pump
+PGF_00023163	Aliivibrio	400.00	0.00	Multidrug resistance protein EmrD
+PGF_00023403	Aliivibrio	442.47	15.81	Murein DD-endopeptidase MepM
+PGF_00023442	Aliivibrio	175.29	3.85	MutT/Nudix family protein
+PGF_00023476	Aliivibrio	132.76	0.43	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+PGF_00023591	Aliivibrio	338.24	0.43	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023595	Aliivibrio	800.07	6.02	N,N'-diacetylchitobiose phosphorylase (EC 2.4.1.280)
+PGF_00023704	Aliivibrio	270.74	28.67	N-acylneuraminate cytidylyltransferase (EC 2.7.7.43)
+PGF_00023715	Aliivibrio	302.88	0.32	N-acetyl-D-glucosamine kinase (EC 2.7.1.59)
+PGF_00023739	Aliivibrio	334.10	0.62	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023773	Aliivibrio	538.14	11.21	N-acetylglucosamine regulated methyl-accepting chemotaxis protein
+PGF_00023796	Aliivibrio	404.00	0.00	N-acetylglucosamine-6P-responsive transcriptional repressor NagC, ROK family
+PGF_00023818	Aliivibrio	446.00	0.00	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00023835	Aliivibrio	303.12	6.72	N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)
+PGF_00023885	Aliivibrio	695.86	5.17	Accessory colonization factor AcfB
+PGF_00023946	Aliivibrio	152.79	7.01	N-acetyltransferase ElaA
+PGF_00024234	Aliivibrio	377.00	0.00	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Aliivibrio	161.40	2.62	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Aliivibrio	370.10	0.30	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Aliivibrio	276.00	0.00	NAD synthetase (EC 6.3.1.5)
+PGF_00024322	Aliivibrio	458.00	0.00	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024370	Aliivibrio	236.00	0.00	NAD(P)H-flavin reductase (EC 1.5.1.41) (EC 1.16.1.3)
+PGF_00024478	Aliivibrio	330.67	0.48	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024480	Aliivibrio	562.00	0.00	NAD-dependent malic enzyme (EC 1.1.1.38)
+PGF_00024482	Aliivibrio	237.00	0.00	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024570	Aliivibrio	84.00	1.43	NADH dehydrogenase subunit II-related protein
+PGF_00024608	Aliivibrio	343.73	1.79	NADH oxidoreductase for hydroxylamine reductase
+PGF_00024615	Aliivibrio	254.98	29.45	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024619	Aliivibrio	567.00	0.00	Acetate permease ActP (cation/acetate symporter)
+PGF_00024804	Aliivibrio	120.95	0.70	NADH:ubiquinone oxidoreductase subunit 2
+PGF_00024855	Aliivibrio	281.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025184	Aliivibrio	446.05	8.77	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.8)
+PGF_00025185	Aliivibrio	414.00	0.00	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.8)
+PGF_00025187	Aliivibrio	255.67	4.76	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.8)
+PGF_00025188	Aliivibrio	209.88	0.32	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.8)
+PGF_00025189	Aliivibrio	198.00	0.00	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.8)
+PGF_00025190	Aliivibrio	408.00	0.00	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.8)
+PGF_00025215	Aliivibrio	164.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025216	Aliivibrio	81.10	0.30	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025267	Aliivibrio	511.85	1.93	Na+/H+ antiporter
+PGF_00025289	Aliivibrio	381.81	0.45	Na+/H+ antiporter NhaA type
+PGF_00025290	Aliivibrio	529.21	7.39	Na+/H+ antiporter NhaB
+PGF_00025379	Aliivibrio	288.00	0.00	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025403	Aliivibrio	103.00	0.00	Negative regulator of flagellin synthesis FlgM (anti-sigma28)
+PGF_00025448	Aliivibrio	194.00	0.00	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025588	Aliivibrio	299.49	1.50	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) @ Dimethylallyltransferase (EC 2.5.1.1)
+PGF_00025698	Aliivibrio	158.10	2.10	Nitrate reductase cytochrome c550-type subunit
+PGF_00025710	Aliivibrio	203.00	0.00	Nitrate/nitrite response regulator protein NarP
+PGF_00025720	Aliivibrio	564.76	4.29	Nitrate/nitrite sensor protein NarQ
+PGF_00025863	Aliivibrio	269.42	0.66	Nitrite transporter from formate/nitrite family
+PGF_00025890	Aliivibrio	349.82	1.88	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Aliivibrio	319.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026307	Aliivibrio	228.00	0.00	NrfC protein
+PGF_00026310	Aliivibrio	318.00	0.00	NrfD protein
+PGF_00026349	Aliivibrio	350.27	4.95	Nucleoid-associated protein NdpA
+PGF_00026354	Aliivibrio	172.02	0.15	Nucleoprotein/polynucleotide-associated enzyme
+PGF_00026362	Aliivibrio	198.00	0.00	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Aliivibrio	273.07	0.26	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Aliivibrio	294.23	0.65	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Aliivibrio	259.81	0.40	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026787	Aliivibrio	263.27	3.27	Uncharacterized SAM-dependent O-methyltransferase
+PGF_00026796	Aliivibrio	324.00	0.00	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00026866	Aliivibrio	323.00	0.00	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026880	Aliivibrio	364.74	44.00	Acetylornithine deacetylase
+PGF_00026888	Aliivibrio	593.84	1.04	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00026904	Aliivibrio	680.00	0.00	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027402	Aliivibrio	148.19	2.70	Acetyltransferase
+PGF_00027441	Aliivibrio	175.86	0.91	Acetyltransferase
+PGF_00027464	Aliivibrio	140.59	1.80	Organic hydroperoxide resistance protein
+PGF_00027752	Aliivibrio	568.93	7.66	Outer membrane component of TAM transport system
+PGF_00027768	Aliivibrio	249.86	7.41	Acetyltransferase SypM
+PGF_00027873	Aliivibrio	256.93	10.24	Outer membrane lipoprotein-sorting protein
+PGF_00028303	Aliivibrio	272.76	2.29	Outer membrane protein SypB
+PGF_00028423	Aliivibrio	354.57	0.50	Outer membrane stress sensor protease DegS
+PGF_00028486	Aliivibrio	260.26	0.54	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00028509	Aliivibrio	412.07	0.26	Oxalate/formate antiporter
+PGF_00028512	Aliivibrio	594.32	1.25	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)
+PGF_00028516	Aliivibrio	376.00	0.00	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)
+PGF_00028523	Aliivibrio	82.15	5.47	Oxaloacetate decarboxylase gamma chain (EC 4.1.1.3)
+PGF_00028690	Aliivibrio	302.05	0.62	Oxidoreductase YdhF
+PGF_00028977	Aliivibrio	162.26	10.92	P pilus assembly/Cpx signaling pathway, periplasmic inhibitor/zinc-resistance associated protein
+PGF_00029464	Aliivibrio	145.24	6.53	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029655	Aliivibrio	465.36	1.61	PTS system, fructose-specific IIC component / PTS system, fructose-specific IIB component (EC 2.7.1.202)
+PGF_00029917	Aliivibrio	292.00	1.77	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Aliivibrio	305.19	6.74	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030031	Aliivibrio	859.28	124.01	Paraquat-inducible protein B
+PGF_00030495	Aliivibrio	226.90	0.30	Acyl dehydratase
+PGF_00030640	Aliivibrio	362.00	0.00	Peptide chain release factor 1
+PGF_00030643	Aliivibrio	526.10	0.30	Peptide chain release factor 3
+PGF_00030662	Aliivibrio	372.10	17.41	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11) / Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_00030690	Aliivibrio	538.79	24.25	Peptide transport periplasmic protein SapA
+PGF_00030694	Aliivibrio	337.00	0.00	Peptide transport system ATP-binding protein SapD
+PGF_00030698	Aliivibrio	319.40	1.64	Peptide transport system permease protein SapB
+PGF_00030701	Aliivibrio	295.00	0.00	Peptide transport system permease protein SapC
+PGF_00030798	Aliivibrio	233.26	4.78	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+PGF_00030813	Aliivibrio	92.00	0.00	Peptidyl-prolyl cis-trans isomerase PpiC (EC 5.2.1.8)
+PGF_00031033	Aliivibrio	57.98	0.15	Periplasmic nitrate reductase component NapE
+PGF_00031036	Aliivibrio	809.33	89.37	Periplasmic nitrate reductase (EC 1.7.99.4)
+PGF_00031044	Aliivibrio	702.98	0.15	Periplasmic protein SypC involved in polysaccharide export
+PGF_00031057	Aliivibrio	330.58	7.54	Periplasmic protein TorT
+PGF_00031261	Aliivibrio	294.81	2.40	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_00031400	Aliivibrio	281.07	39.29	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_00031591	Aliivibrio	242.00	0.00	Peroxiredoxin family protein/glutaredoxin
+PGF_00032662	Aliivibrio	221.00	0.00	Phage shock protein A @ Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00032664	Aliivibrio	74.00	0.00	Phage shock protein B
+PGF_00032667	Aliivibrio	128.02	0.15	Phage shock protein C
+PGF_00033095	Aliivibrio	795.00	0.00	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Aliivibrio	364.42	15.41	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Aliivibrio	336.88	18.76	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033312	Aliivibrio	248.93	10.46	Phosphatidylglycerophosphatase B (EC 3.1.3.27)
+PGF_00033359	Aliivibrio	360.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033363	Aliivibrio	253.00	0.00	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)
+PGF_00033379	Aliivibrio	182.60	0.69	Phosphodiesterase YfcE
+PGF_00033392	Aliivibrio	876.00	0.00	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033402	Aliivibrio	294.00	0.00	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033423	Aliivibrio	586.56	57.53	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+PGF_00033479	Aliivibrio	548.00	0.00	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033489	Aliivibrio	284.64	0.48	Phosphogluconate repressor HexR, RpiR family
+PGF_00033511	Aliivibrio	387.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033642	Aliivibrio	241.24	1.23	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00033729	Aliivibrio	262.00	0.00	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033737	Aliivibrio	269.90	2.46	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Aliivibrio	206.72	29.60	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Aliivibrio	156.74	17.74	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Aliivibrio	406.19	0.86	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Aliivibrio	206.00	0.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Aliivibrio	430.00	0.00	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Aliivibrio	367.00	0.00	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Aliivibrio	245.00	0.00	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Aliivibrio	346.00	0.00	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Aliivibrio	1302.21	3.58	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033968	Aliivibrio	212.51	0.55	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Aliivibrio	391.00	0.00	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033982	Aliivibrio	289.00	0.00	Phosphoribulokinase homolog, function unknown
+PGF_00034039	Aliivibrio	78.00	0.00	PTS system, IIA component
+PGF_00034052	Aliivibrio	143.00	0.00	Phosphotransferase system mannitol/fructose-specific IIA domain
+PGF_00034193	Aliivibrio	659.16	125.11	Phytochrome-like protein; Cph2
+PGF_00034349	Aliivibrio	90.00	0.00	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative
+PGF_00034566	Aliivibrio	463.83	24.22	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034707	Aliivibrio	137.88	1.68	Polymer-forming bactofilin
+PGF_00034776	Aliivibrio	709.00	0.00	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034791	Aliivibrio	499.43	1.06	Polysaccharide biosynthesis chain length regulator SypO
+PGF_00034972	Aliivibrio	180.95	0.30	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Aliivibrio	337.78	0.42	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035009	Aliivibrio	164.00	0.00	Positive regulator of CheA protein activity (CheW)
+PGF_00035183	Aliivibrio	170.00	0.00	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035194	Aliivibrio	333.00	0.00	Adenosine deaminase (EC 3.5.4.4)
+PGF_00035334	Aliivibrio	317.00	0.00	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035400	Aliivibrio	285.26	15.77	Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family
+PGF_00035421	Aliivibrio	168.00	0.00	Potential queD like 2
+PGF_00035493	Aliivibrio	543.95	0.31	Predicted ATP-dependent endonuclease of the OLD family, YbjD subgroup
+PGF_00035716	Aliivibrio	441.56	53.68	Predicted arginine uptake transporter
+PGF_00035721	Aliivibrio	456.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035907	Aliivibrio	265.15	0.36	Predicted hydrolase
+PGF_00035927	Aliivibrio	282.81	1.21	Predicted hydrolase or acyltransferase
+PGF_00035930	Aliivibrio	289.00	0.00	Predicted hydrolase/acyltransferase
+PGF_00036098	Aliivibrio	291.23	0.43	Predicted metal-dependent hydrolase
+PGF_00036203	Aliivibrio	558.53	4.39	Predicted polymerase
+PGF_00036209	Aliivibrio	234.60	1.87	Predicted protein SypD
+PGF_00036314	Aliivibrio	305.95	9.01	Predicted signal transduction protein
+PGF_00036395	Aliivibrio	488.31	21.13	Predicted transcriptional regulator
+PGF_00036518	Aliivibrio	141.10	1.02	Predicted transporter component
+PGF_00036543	Aliivibrio	514.62	1.72	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036567	Aliivibrio	239.00	0.00	Aerobic respiration control protein arcA
+PGF_00036575	Aliivibrio	788.46	3.36	Aerobic respiration control sensor protein ArcB (EC 2.7.13.3)
+PGF_00036580	Aliivibrio	110.68	0.47	Protein translocase subunit YajC
+PGF_00036586	Aliivibrio	106.42	1.24	Pressure-regulated ORF-like protein
+PGF_00036675	Aliivibrio	183.05	0.31	Primosomal replication protein N prime prime
+PGF_00036800	Aliivibrio	354.43	5.49	Probable GTPase related to EngC
+PGF_00036928	Aliivibrio	286.64	7.40	Probable acyltransferase YihG
+PGF_00036941	Aliivibrio	245.00	0.00	Probable amino-acid import ATP-binding protein YxeO
+PGF_00036942	Aliivibrio	222.43	3.70	Probable amino-acid permease protein YxeN
+PGF_00036988	Aliivibrio	297.16	41.54	Agmatinase (EC 3.5.3.11)
+PGF_00037063	Aliivibrio	75.81	4.38	Probable exported or periplasmic protein in ApbE locus
+PGF_00037171	Aliivibrio	426.67	0.95	Probable low-affinity inorganic phosphate transporter
+PGF_00037278	Aliivibrio	271.72	1.99	Probable proline and glycine rich transmembrane protein gene in bax
+PGF_00037307	Aliivibrio	564.33	60.47	Probable sensor/response regulator hybrid
+PGF_00037394	Aliivibrio	466.49	1.70	Probable thiol oxidoreductase with 2 cytochrome c heme-binding sites
+PGF_00037523	Aliivibrio	1050.24	1.83	Proline dehydrogenase (EC 1.5.5.2) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00037565	Aliivibrio	498.00	0.00	Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+PGF_00037588	Aliivibrio	568.09	8.11	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037828	Aliivibrio	291.00	0.00	Protease HtpX
+PGF_00037837	Aliivibrio	924.64	2.31	Protease III precursor (EC 3.4.24.55)
+PGF_00037862	Aliivibrio	950.68	4.37	Protease, insulinase family/protease, insulinase family
+PGF_00037915	Aliivibrio	66.00	0.00	Protein IscX, believed to be involved in assembly of Fe-S clusters
+PGF_00037954	Aliivibrio	74.00	0.00	Protein SlyX
+PGF_00037973	Aliivibrio	93.12	1.26	Protein YcgL
+PGF_00037977	Aliivibrio	81.00	0.00	Protein YciN
+PGF_00037978	Aliivibrio	195.74	14.79	Protein YecM
+PGF_00038165	Aliivibrio	286.00	0.00	Protein involved in stability of MscS mechanosensitive channel
+PGF_00038208	Aliivibrio	385.74	14.86	Protein of unknown function DUF1212
+PGF_00038329	Aliivibrio	179.33	15.11	Der GTPase-activating protein YihI
+PGF_00038361	Aliivibrio	230.32	0.47	Protein of unknown function DUF541
+PGF_00038432	Aliivibrio	165.00	0.00	Protein of unknown function DUF785
+PGF_00038455	Aliivibrio	266.81	0.59	Uncharacterized UPF0721 integral membrane protein
+PGF_00038542	Aliivibrio	153.30	18.08	Protein of unknown function Smg
+PGF_00038572	Aliivibrio	204.00	0.00	Protein of unknown function VC1106
+PGF_00038573	Aliivibrio	218.50	2.29	Protein of unknown function YceH
+PGF_00038642	Aliivibrio	165.48	2.81	Protein SprT
+PGF_00038759	Aliivibrio	87.00	0.00	Protein YihD
+PGF_00038858	Aliivibrio	407.43	54.66	Proton/glutamate symporter
+PGF_00038882	Aliivibrio	174.00	0.00	Protoporphyrinogen IX oxidase, oxygen-independent, HemG (EC 1.3.-.-)
+PGF_00038916	Aliivibrio	227.51	0.51	Pseudouridine synthase (EC 4.2.1.70), VC1668 type
+PGF_00038922	Aliivibrio	217.63	0.94	Pseudouridine-5' phosphatase (EC 3.1.3.-)
+PGF_00038937	Aliivibrio	339.50	1.92	Psp operon transcriptional activator
+PGF_00038991	Aliivibrio	336.12	1.40	Purine nucleotide synthesis repressor
+PGF_00039038	Aliivibrio	304.00	0.00	Glyoxylate/hydroxypyruvate reductase A (EC 1.1.1.79) (EC 1.1.1.81)
+PGF_00039134	Aliivibrio	159.00	0.00	Putative ATP-dependent Lon protease
+PGF_00039367	Aliivibrio	154.98	0.15	Uncharacterized transcriptional regulator YbaO, AsnC family
+PGF_00039502	Aliivibrio	270.32	31.06	Putative NAD(P)-dependent oxidoreductase EC-YbbO
+PGF_00039540	Aliivibrio	422.83	6.99	Putative Na+/H+ antiporter
+PGF_00039616	Aliivibrio	260.27	3.51	Putative PTS system, nitrogen regulatory IIA component
+PGF_00039721	Aliivibrio	220.00	0.00	Putative TEGT family carrier/transport protein
+PGF_00039838	Aliivibrio	284.44	5.21	Putative acetate efflux pump, MadN
+PGF_00040273	Aliivibrio	159.30	0.77	Putative analog of CcoH, COG3198
+PGF_00040419	Aliivibrio	157.00	0.00	Putative chemotaxis protein CheY
+PGF_00040500	Aliivibrio	151.02	0.15	Putative cytochrome d ubiquinol oxidase subunit III (EC 1.10.3.-) (Cytochrome bd-I oxidase subunit III)
+PGF_00040578	Aliivibrio	256.10	0.62	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Aliivibrio	258.21	0.78	Putative deoxyribonuclease YjjV
+PGF_00040685	Aliivibrio	389.26	53.14	Uncharacterized MFS-type transporter
+PGF_00040922	Aliivibrio	341.30	2.58	ABC transporter, permease protein 1 (cluster 5, nickel/peptides/opines)
+PGF_00040939	Aliivibrio	533.12	2.26	Putative glutathione-regulated potassium-efflux system protein KefB
+PGF_00040940	Aliivibrio	638.00	0.00	Glutathione-regulated potassium-efflux system protein KefB/C
+PGF_00041206	Aliivibrio	450.00	0.00	Uncharacterized chaperone protein YegD
+PGF_00041273	Aliivibrio	169.86	7.16	Putative heme iron utilization protein
+PGF_00041301	Aliivibrio	511.00	0.00	Putative histidine ammonia-lyase protein
+PGF_00041590	Aliivibrio	424.93	0.26	Putative inner membrane protein
+PGF_00041691	Aliivibrio	61.00	0.00	Putative inner membrane protein YjeT (clustered with HflC)
+PGF_00041881	Aliivibrio	1465.82	189.19	Putative lipoprotein AcfD-like
+PGF_00041946	Aliivibrio	312.38	0.62	Putative membrane protein YeiH
+PGF_00041948	Aliivibrio	427.10	4.82	Putative membrane protein YfjD
+PGF_00042297	Aliivibrio	213.15	0.36	Putative methyltransferase associated with DUF414
+PGF_00042421	Aliivibrio	107.92	7.62	Putative outer membrane lipoprotein
+PGF_00042426	Aliivibrio	184.33	0.48	Putative outer membrane lipoprotein
+PGF_00043154	Aliivibrio	354.34	0.53	Putative permease PerM (= YfgO)
+PGF_00043206	Aliivibrio	611.36	61.55	Putative phosphatase
+PGF_00043742	Aliivibrio	195.07	1.96	Succinate-acetate/proton symporter SatP
+PGF_00044560	Aliivibrio	129.88	20.84	Putative transmembrane protein
+PGF_00045166	Aliivibrio	560.00	0.00	Putative transport protein YbjL
+PGF_00045307	Aliivibrio	289.91	2.54	Putative transporter, DME family
+PGF_00045643	Aliivibrio	73.00	0.00	Putative uncharacterized protein VV1017
+PGF_00045833	Aliivibrio	211.38	2.47	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045852	Aliivibrio	175.47	0.74	Pyridoxamine 5'-phosphate oxidase-related putative heme iron utilization protein
+PGF_00045900	Aliivibrio	243.00	0.00	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045982	Aliivibrio	887.00	0.00	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046060	Aliivibrio	225.91	0.61	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Aliivibrio	295.00	0.00	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Aliivibrio	349.00	0.00	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046136	Aliivibrio	201.00	0.00	Quorum-sensing regulator of virulence HapR
+PGF_00046275	Aliivibrio	968.60	2.62	RNA polymerase associated protein RapA
+PGF_00046377	Aliivibrio	243.00	0.00	RNA polymerase sigma factor for flagellar operon
+PGF_00046403	Aliivibrio	489.00	0.00	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Aliivibrio	149.00	0.00	RNA polymerase-binding transcription factor DksA
+PGF_00046622	Aliivibrio	87.88	0.77	RNA-binding protein Hfq
+PGF_00047020	Aliivibrio	455.81	3.59	Radical SAM family protein HutW, similar to coproporphyrinogen III oxidase, oxygen-independent, associated with heme uptake
+PGF_00047078	Aliivibrio	347.69	0.47	RecA protein
+PGF_00047192	Aliivibrio	187.40	24.95	Regulator of competence-specific genes
+PGF_00047227	Aliivibrio	160.00	0.00	Regulator of sigma D
+PGF_00047274	Aliivibrio	153.00	0.00	Regulatory protein AsnC
+PGF_00047283	Aliivibrio	291.74	0.44	Regulatory protein CysB
+PGF_00047303	Aliivibrio	475.21	1.70	Regulatory protein LuxO
+PGF_00047477	Aliivibrio	578.67	0.57	Alpha-galactosidase
+PGF_00047533	Aliivibrio	398.00	0.00	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+PGF_00047908	Aliivibrio	503.14	8.40	Response regulator SypE
+PGF_00048164	Aliivibrio	574.40	4.38	Response regulator with TPR repeat
+PGF_00048419	Aliivibrio	279.20	1.29	Rhomboid protease GlpG (EC 3.4.21.105)
+PGF_00048480	Aliivibrio	217.68	2.11	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048535	Aliivibrio	118.00	0.00	Outer membrane beta-barrel assembly protein BamE
+PGF_00048539	Aliivibrio	138.00	0.00	Ribonuclease E inhibitor RraB
+PGF_00048542	Aliivibrio	152.12	0.78	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Aliivibrio	207.00	0.00	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Aliivibrio	238.00	0.00	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048589	Aliivibrio	222.00	0.58	Ribonuclease T
+PGF_00048627	Aliivibrio	703.14	8.91	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048630	Aliivibrio	758.00	0.00	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048637	Aliivibrio	377.00	0.00	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Aliivibrio	149.00	0.00	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048761	Aliivibrio	334.40	1.03	Ribose operon repressor
+PGF_00048782	Aliivibrio	329.63	5.96	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048817	Aliivibrio	269.10	0.30	Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)
+PGF_00048824	Aliivibrio	244.67	0.48	Ribosomal large subunit pseudouridine(746) synthase (EC 5.4.99.29) @ tRNA pseudouridine(32) synthase (EC 5.4.99.28)
+PGF_00048829	Aliivibrio	355.05	2.04	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048834	Aliivibrio	206.38	1.19	Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.20)
+PGF_00048836	Aliivibrio	314.07	0.46	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048840	Aliivibrio	298.19	8.78	Ribosomal protein L11 methyltransferase
+PGF_00048842	Aliivibrio	311.10	3.59	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048858	Aliivibrio	301.00	0.00	Ribosomal protein S6--L-glutamate ligase
+PGF_00048898	Aliivibrio	118.17	1.88	Ribosome-associated inhibitor A
+PGF_00048917	Aliivibrio	95.00	0.00	Ribosome hibernation promoting factor Hpf
+PGF_00048920	Aliivibrio	57.00	0.00	Ribosome modulation factor
+PGF_00048926	Aliivibrio	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Aliivibrio	353.00	1.43	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Aliivibrio	133.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Aliivibrio	135.00	0.00	Ribosome-binding factor A
+PGF_00048985	Aliivibrio	225.00	0.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049163	Aliivibrio	162.86	0.93	Rod shape-determining protein MreD
+PGF_00049330	Aliivibrio	384.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049344	Aliivibrio	254.95	11.14	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00049362	Aliivibrio	350.00	0.00	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049363	Aliivibrio	280.00	0.00	S-formylglutathione hydrolase (EC 3.1.2.12)
+PGF_00049433	Aliivibrio	172.00	0.00	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049504	Aliivibrio	358.05	4.90	SAM-dependent methyltransferase
+PGF_00049694	Aliivibrio	110.00	0.00	SEC-C motif
+PGF_00049786	Aliivibrio	386.33	1.77	Amidase
+PGF_00049827	Aliivibrio	273.67	2.39	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Aliivibrio	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Aliivibrio	129.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Aliivibrio	124.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Aliivibrio	118.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Aliivibrio	100.64	1.30	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Aliivibrio	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Aliivibrio	82.00	0.00	SSU ribosomal protein S16p
+PGF_00049854	Aliivibrio	83.83	1.08	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Aliivibrio	75.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Aliivibrio	88.14	12.06	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Aliivibrio	232.00	0.00	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Aliivibrio	206.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Aliivibrio	166.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Aliivibrio	126.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Aliivibrio	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Aliivibrio	130.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Aliivibrio	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050030	Aliivibrio	223.58	4.75	SanA protein
+PGF_00050223	Aliivibrio	241.42	3.97	Secreted protein, suppressor for copper-sensitivity ScsC
+PGF_00050460	Aliivibrio	446.00	0.00	Sensor histidine kinase
+PGF_00050492	Aliivibrio	474.26	1.67	Sensor histidine kinase
+PGF_00050590	Aliivibrio	560.00	0.00	Sensor histidine kinase YehU
+PGF_00050895	Aliivibrio	527.14	5.86	Sensory box sensor/GGDEF/EAL domain protein
+PGF_00050907	Aliivibrio	432.20	12.66	Sensory box/GGDEF domain/EAL domain protein
+PGF_00050920	Aliivibrio	809.48	97.41	Sensory box/GGDEF family protein
+PGF_00050995	Aliivibrio	504.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Aliivibrio	222.86	5.88	Septum site-determining protein MinC
+PGF_00051135	Aliivibrio	502.24	10.63	Septum-associated cell division protein DamX
+PGF_00051140	Aliivibrio	185.74	1.29	Septum-associated cell division protein DedD
+PGF_00051142	Aliivibrio	268.79	0.41	Septum-associated rare lipoprotein A
+PGF_00051143	Aliivibrio	180.42	0.82	SeqA protein, negative modulator of initiation of replication
+PGF_00051326	Aliivibrio	416.00	0.00	Serine transporter
+PGF_00051334	Aliivibrio	369.14	2.34	Serine--pyruvate aminotransferase (EC 2.6.1.51) / L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
+PGF_00051449	Aliivibrio	396.05	0.31	Serine/threonine protein kinase
+PGF_00051525	Aliivibrio	435.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051530	Aliivibrio	568.05	9.07	SgrR, sugar-phosphate stress, transcriptional activator of SgrS small RNA
+PGF_00051575	Aliivibrio	400.00	0.00	Short-chain alcohol dehydrogenase family
+PGF_00052089	Aliivibrio	498.07	4.41	Sigma-54 dependent transcriptional regulator SypG
+PGF_00052210	Aliivibrio	617.16	4.87	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Aliivibrio	457.27	1.07	Signal recognition particle protein Ffh
+PGF_00052252	Aliivibrio	480.98	2.32	Signal transduction histidine kinase
+PGF_00052282	Aliivibrio	679.37	1.76	Signal transduction histidine kinase
+PGF_00052354	Aliivibrio	409.60	48.24	Signal transduction histidine kinase
+PGF_00052511	Aliivibrio	188.74	0.73	Uncharacterized protein YrdD
+PGF_00052600	Aliivibrio	136.00	0.00	Similar to flagellar basal body-associated protein FliL
+PGF_00052705	Aliivibrio	142.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052707	Aliivibrio	360.52	10.58	Similar to rod shape-determining protein rodA
+PGF_00052943	Aliivibrio	300.60	6.26	Site-specific tyrosine recombinase XerD
+PGF_00052960	Aliivibrio	519.00	0.00	Aminobenzoyl-glutamate transport protein
+PGF_00053408	Aliivibrio	210.00	0.00	Sodium-type flagellar protein MotX
+PGF_00053441	Aliivibrio	426.95	0.30	Sodium/glutamate symporter
+PGF_00053507	Aliivibrio	353.02	1.56	SohB protein, peptidase U7 family
+PGF_00053553	Aliivibrio	471.00	0.00	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
+PGF_00053627	Aliivibrio	173.76	0.43	Spermidine N1-acetyltransferase (EC 2.3.1.57)
+PGF_00053770	Aliivibrio	372.00	0.00	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053880	Aliivibrio	96.00	0.00	Aminopeptidase N
+PGF_00054156	Aliivibrio	182.77	0.43	Starvation lipoprotein Slp paralog
+PGF_00054301	Aliivibrio	210.33	4.43	Stringent starvation protein A
+PGF_00054302	Aliivibrio	150.33	2.66	Stringent starvation protein B
+PGF_00054323	Aliivibrio	206.00	0.00	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054380	Aliivibrio	183.00	0.00	Substrate-specific component MtsA of methionine-regulated ECF transporter
+PGF_00054476	Aliivibrio	115.00	0.00	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Aliivibrio	237.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Aliivibrio	388.00	0.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054543	Aliivibrio	444.00	0.00	Succinylarginine dihydrolase (EC 3.5.3.23)
+PGF_00054560	Aliivibrio	485.00	0.00	Succinylglutamic semialdehyde dehydrogenase (EC 1.2.1.71)
+PGF_00054778	Aliivibrio	380.79	0.42	Sugar diacid utilization regulator SdaR
+PGF_00054860	Aliivibrio	214.00	0.00	Sugar transferase SypR involved in lipopolysaccharide synthesis
+PGF_00054920	Aliivibrio	230.86	18.75	Sugar fermentation stimulation protein SfsA
+PGF_00055049	Aliivibrio	605.16	1.74	Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+PGF_00055052	Aliivibrio	576.00	0.00	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+PGF_00055273	Aliivibrio	194.00	0.00	Superoxide dismutase [Fe] (EC 1.15.1.1)
+PGF_00055324	Aliivibrio	555.10	7.64	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+PGF_00055340	Aliivibrio	454.90	1.03	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+PGF_00055354	Aliivibrio	440.76	7.53	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055363	Aliivibrio	182.65	0.48	Syd protein
+PGF_00055377	Aliivibrio	423.21	0.81	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+PGF_00055380	Aliivibrio	215.86	26.30	T1SS associated transglutaminase-like cysteine proteinase LapP
+PGF_00055381	Aliivibrio	201.67	0.48	T1SS peptidoglycan-associated lipoprotein LapL
+PGF_00055696	Aliivibrio	284.95	6.77	TPR-repeat-containing protein?
+PGF_00055966	Aliivibrio	367.00	0.00	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056057	Aliivibrio	350.10	0.62	Tas protein, an NADP(H)-dependent aldo-keto reductase
+PGF_00056273	Aliivibrio	330.33	3.34	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056321	Aliivibrio	575.90	20.36	Tetrathionate reductase sensory transduction histidine kinase
+PGF_00056392	Aliivibrio	332.40	6.22	Tetratricopeptide repeat family protein
+PGF_00056496	Aliivibrio	228.56	24.74	Thiamin ABC transporter, ATPase component
+PGF_00056498	Aliivibrio	338.05	0.31	Thiamin ABC transporter, substrate-binding component
+PGF_00056502	Aliivibrio	535.76	3.22	Thiamin ABC transporter, transmembrane component
+PGF_00056544	Aliivibrio	256.00	0.00	Thiazole synthase (EC 2.8.1.10)
+PGF_00056639	Aliivibrio	207.00	0.00	Thiol-disulfide isomerase
+PGF_00056662	Aliivibrio	335.00	0.00	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056697	Aliivibrio	333.76	0.66	Anthranilate phosphoribosyltransferase like (EC 2.4.2.18)
+PGF_00056727	Aliivibrio	213.00	0.00	Thiopurine S-methyltransferase (EC 2.1.1.67)
+PGF_00056814	Aliivibrio	517.17	58.33	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056821	Aliivibrio	106.93	0.26	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)
+PGF_00056872	Aliivibrio	192.00	0.00	Thymidine kinase (EC 2.7.1.21)
+PGF_00056876	Aliivibrio	443.00	0.00	Thymidine phosphorylase (EC 2.4.2.4)
+PGF_00056879	Aliivibrio	76.88	5.79	Thymidylate kinase
+PGF_00056883	Aliivibrio	210.00	0.00	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Aliivibrio	283.24	0.66	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056901	Aliivibrio	105.00	0.00	Anti anti-sigma regulatory factor SypA; Anti-sigma B factor antagonist RsbV
+PGF_00056935	Aliivibrio	481.05	0.31	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Aliivibrio	145.95	13.57	Tol biopolymer transport system, TolR protein
+PGF_00057032	Aliivibrio	135.34	2.61	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Aliivibrio	757.62	0.70	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057282	Aliivibrio	215.00	0.00	TorA-specific chaperone protein, TorD
+PGF_00057368	Aliivibrio	392.35	47.70	TraF-related protein
+PGF_00057399	Aliivibrio	316.05	0.21	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Aliivibrio	147.00	0.00	Transamidase GatB domain protein
+PGF_00057435	Aliivibrio	155.15	0.53	Transcription elongation factor GreB
+PGF_00057483	Aliivibrio	419.00	0.00	Transcription termination factor Rho
+PGF_00057485	Aliivibrio	495.00	0.00	Transcription termination protein NusA
+PGF_00057488	Aliivibrio	154.63	1.18	Transcription termination protein NusB
+PGF_00057496	Aliivibrio	335.00	0.00	Transcriptional (co)regulator CytR
+PGF_00057507	Aliivibrio	224.25	4.29	Transcriptional activator ChrR
+PGF_00057510	Aliivibrio	99.45	2.28	Transcriptional activator HlyU
+PGF_00057511	Aliivibrio	303.00	0.00	Transcriptional activator MetR
+PGF_00057513	Aliivibrio	296.79	2.17	Transcriptional activator NhaR
+PGF_00057520	Aliivibrio	165.09	1.81	Transcriptional activator RfaH
+PGF_00057522	Aliivibrio	290.74	5.77	Transcriptional activator ToxR
+PGF_00057539	Aliivibrio	539.51	10.70	Transcriptional activator of cad operon
+PGF_00057543	Aliivibrio	900.60	2.62	Transcriptional activator of maltose regulon, MalT
+PGF_00057747	Aliivibrio	261.83	0.54	Transcriptional regulator
+PGF_00057908	Aliivibrio	294.15	1.30	Transcriptional regulator
+PGF_00058556	Aliivibrio	115.14	3.91	Antibiotic biosynthesis monooxygenase
+PGF_00058586	Aliivibrio	153.00	0.00	Transcriptional regulator LuxT
+PGF_00058587	Aliivibrio	218.48	3.98	Transcriptional regulator LuxZ
+PGF_00058666	Aliivibrio	196.00	0.00	Transcriptional regulator SlmA, TetR family
+PGF_00058677	Aliivibrio	296.12	18.43	Transcriptional regulator VC0732, LysR family
+PGF_00058682	Aliivibrio	445.00	0.00	Transcriptional regulator VpsR
+PGF_00058734	Aliivibrio	280.00	0.00	Transcriptional regulator for fatty acid degradation FadR, GntR family
+PGF_00058785	Aliivibrio	253.07	1.66	Transcriptional regulator of glmS gene, DeoR family
+PGF_00059463	Aliivibrio	209.00	0.00	Transcriptional regulator, LuxR family
+PGF_00059823	Aliivibrio	325.79	0.42	Transcriptional regulator, SorC family
+PGF_00060186	Aliivibrio	238.00	0.00	Transcriptional regulatory protein YehT
+PGF_00060263	Aliivibrio	255.29	2.61	Transcriptional repressor for pyruvate dehydrogenase complex
+PGF_00060287	Aliivibrio	108.56	2.74	Transcriptional repressor protein TrpR
+PGF_00060289	Aliivibrio	514.78	0.42	Transcriptional repressor protein TyrR
+PGF_00060409	Aliivibrio	697.93	0.47	Translation elongation factor G
+PGF_00060411	Aliivibrio	694.67	0.48	Translation elongation factor G paralog VC2342
+PGF_00060414	Aliivibrio	597.00	0.00	Translation elongation factor LepA
+PGF_00060421	Aliivibrio	187.29	3.23	Translation elongation factor P
+PGF_00060422	Aliivibrio	176.00	0.00	Translation elongation factor P Lys34 hydroxylase
+PGF_00060424	Aliivibrio	326.10	3.15	Translation elongation factor P Lys34--(R)-beta-lysine ligase
+PGF_00060427	Aliivibrio	281.17	0.38	Translation elongation factor Ts
+PGF_00060431	Aliivibrio	72.00	0.00	Translation initiation factor 1
+PGF_00060478	Aliivibrio	157.51	23.77	Translation initiation factor 3
+PGF_00060481	Aliivibrio	103.00	0.00	Translation initiation factor SUI1-related protein
+PGF_00060516	Aliivibrio	279.88	0.32	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+PGF_00060601	Aliivibrio	181.19	1.79	Transmembrane regulatory protein ToxS
+PGF_00061887	Aliivibrio	821.90	21.31	Trimethylamine-N-oxide reductase (EC 1.7.2.3), TorA
+PGF_00062023	Aliivibrio	268.00	0.00	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Aliivibrio	396.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062486	Aliivibrio	212.43	7.32	AraC-type DNA-binding domain-containing protein
+PGF_00063229	Aliivibrio	182.07	21.00	Arabinose efflux permease
+PGF_00063446	Aliivibrio	110.98	0.15	Type IIA topoisomerase, B subunit
+PGF_00063450	Aliivibrio	114.24	0.43	Type III effector HopPmaJ
+PGF_00063683	Aliivibrio	140.71	8.56	Type IV pilin PilA
+PGF_00063729	Aliivibrio	332.67	0.48	Type IV pilus biogenesis protein PilM
+PGF_00063759	Aliivibrio	170.74	2.25	Type IV pilus biogenesis protein PilP
+PGF_00063803	Aliivibrio	162.62	0.54	Type VI secretion lipoprotein/VasD
+PGF_00063815	Aliivibrio	472.00	0.00	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
+PGF_00063916	Aliivibrio	426.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Aliivibrio	241.00	0.00	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Aliivibrio	303.00	4.53	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Aliivibrio	339.00	0.00	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Aliivibrio	348.65	0.97	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Aliivibrio	354.43	1.06	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Aliivibrio	487.00	0.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Aliivibrio	451.55	4.90	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064141	Aliivibrio	553.30	2.28	UDP-sugar hydrolase (EC 3.6.1.45); 5'-nucleotidase (EC 3.1.3.5)
+PGF_00064184	Aliivibrio	473.05	51.59	UPF0061 protein YdiU
+PGF_00064199	Aliivibrio	177.00	0.00	UPF0115 protein YfcN
+PGF_00064239	Aliivibrio	148.24	3.45	UPF0208 membrane protein YfbV
+PGF_00064251	Aliivibrio	422.76	0.82	UPF0229 protein YeaH
+PGF_00064270	Aliivibrio	259.49	1.33	UPF0246 protein YaaA
+PGF_00064277	Aliivibrio	68.00	0.00	UPF0253 protein YaeP
+PGF_00064280	Aliivibrio	147.67	6.28	UPF0260 protein YcgN
+PGF_00064283	Aliivibrio	102.00	0.00	UPF0265 protein YeeX
+PGF_00064294	Aliivibrio	287.95	1.24	UPF0294 protein YafD
+PGF_00064297	Aliivibrio	166.00	0.00	UPF0304 protein yfbU
+PGF_00064317	Aliivibrio	126.00	0.00	UPF0325 protein YaeH
+PGF_00064341	Aliivibrio	74.60	2.75	UPF0352 protein YejL
+PGF_00064359	Aliivibrio	158.17	14.04	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064393	Aliivibrio	289.00	0.00	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064415	Aliivibrio	393.59	48.01	Arginine racemase (EC 5.1.1.9) @ Lysine racemase (EC 5.1.1.5) @ Ornithine racemase (EC 5.1.1.12)
+PGF_00064438	Aliivibrio	206.07	6.74	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Aliivibrio	543.83	0.38	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064480	Aliivibrio	302.98	8.28	Ubiquitin-protein ligase
+PGF_00064506	Aliivibrio	256.00	0.00	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064562	Aliivibrio	254.35	10.83	Arginine/ornithine ABC transporter, ATP-binding protein AotP
+PGF_00064599	Aliivibrio	244.74	8.23	Arginine/ornithine ABC transporter, permease protein AotQ
+PGF_00064667	Aliivibrio	624.00	0.00	Argininosuccinate lyase (EC 4.3.2.1) / N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00064685	Aliivibrio	79.68	8.71	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064764	Aliivibrio	314.78	0.79	Uncharacterized iron-regulated protein
+PGF_00064827	Aliivibrio	316.12	2.85	Uncharacterized methyltransferase PA1407
+PGF_00064880	Aliivibrio	462.10	0.30	Uncharacterized protease YegQ
+PGF_00064928	Aliivibrio	259.00	0.00	Uncharacterized protein DUF547
+PGF_00064955	Aliivibrio	515.85	0.94	Uncharacterized protein ImpA
+PGF_00065238	Aliivibrio	345.00	4.82	Arsenical-resistance protein ACR3
+PGF_00065373	Aliivibrio	329.07	0.46	Uncharacterized protein VC2323
+PGF_00065404	Aliivibrio	114.00	0.00	Uncharacterized protein YajD
+PGF_00065405	Aliivibrio	67.05	1.70	Uncharacterized protein YbaM
+PGF_00065477	Aliivibrio	1010.00	0.00	Uncharacterized protein YdiJ
+PGF_00065482	Aliivibrio	644.00	0.00	Uncharacterized protein YeaG
+PGF_00065516	Aliivibrio	323.57	4.01	Uncharacterized protein YeiR, putative metal chaperone, involved in Zn homeostasis
+PGF_00065535	Aliivibrio	203.10	0.43	Arylsulfatase (EC 3.1.6.1)
+PGF_00065542	Aliivibrio	85.90	0.30	Uncharacterized protein YfcL
+PGF_00065739	Aliivibrio	139.70	9.18	Uncharacterized protein similar to VCA0109
+PGF_00065755	Aliivibrio	355.05	4.81	Uncharacterized protein with LysM domain, COG1652
+PGF_00065887	Aliivibrio	257.00	0.00	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065934	Aliivibrio	141.02	0.16	Universal stress protein A
+PGF_00065937	Aliivibrio	112.00	0.00	Universal stress protein B
+PGF_00065941	Aliivibrio	315.53	0.70	Universal stress protein E
+PGF_00066006	Aliivibrio	145.00	0.00	Universal stress protein family 3
+PGF_00066041	Aliivibrio	711.40	1.64	AsmA protein
+PGF_00066089	Aliivibrio	225.07	1.27	Unsaturated fatty acid biosythesis repressor FabR, TetR family
+PGF_00066123	Aliivibrio	209.46	2.61	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Aliivibrio	223.17	3.16	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Aliivibrio	215.00	0.00	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066257	Aliivibrio	252.00	0.00	Uridine phosphorylase (EC 2.4.2.3)
+PGF_00066270	Aliivibrio	355.00	0.00	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066281	Aliivibrio	555.00	0.00	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)
+PGF_00066294	Aliivibrio	252.63	1.32	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066359	Aliivibrio	264.34	3.69	Utilization protein for unknown catechol-siderophore X
+PGF_00066449	Aliivibrio	415.05	0.31	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00066453	Aliivibrio	959.12	2.56	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Aliivibrio	466.00	0.00	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066854	Aliivibrio	482.67	0.48	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066867	Aliivibrio	597.00	0.00	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Aliivibrio	309.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Aliivibrio	414.54	3.58	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066960	Aliivibrio	154.02	0.15	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00066964	Aliivibrio	430.00	0.00	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067192	Aliivibrio	183.09	5.38	YaeQ protein
+PGF_00067254	Aliivibrio	116.00	0.00	YcfF/hinT protein: a purine nucleoside phosphoramidase
+PGF_00067257	Aliivibrio	129.00	0.00	YcfL protein: an outer membrane lipoprotein that is part of a salvage cluster
+PGF_00067259	Aliivibrio	183.00	0.00	YcfP protein: probably an esterase that is part of a salvage cluster
+PGF_00067273	Aliivibrio	94.14	5.19	YebG, DNA damage-inducible gene in SOS regulon, expressed in stationary phase
+PGF_00067360	Aliivibrio	328.29	3.19	YihE protein, a ser/thr kinase implicated in LPS synthesis and Cpx signalling
+PGF_00067472	Aliivibrio	374.00	0.00	Zinc carboxypeptidase domain protein
+PGF_00067547	Aliivibrio	148.55	2.93	Zinc uptake regulation protein Zur
+PGF_00067665	Aliivibrio	360.00	0.00	Zn-dependent protease
+PGF_00067723	Aliivibrio	155.21	0.42	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_00067732	Aliivibrio	257.00	0.00	Zn-ribbon-containing, possibly nucleic-acid-binding protein
+PGF_00067739	Aliivibrio	355.00	0.00	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Aliivibrio	873.15	0.36	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068016	Aliivibrio	223.00	0.00	AttE component of AttEFGH ABC transport system
+PGF_00068045	Aliivibrio	373.00	0.00	AttH component of AttEFGH ABC transport system
+PGF_00068509	Aliivibrio	738.35	41.48	Autoinducer 2 sensor kinase/phosphatase LuxQ (EC 2.7.3.-) (EC 3.1.3.-)
+PGF_00068526	Aliivibrio	361.66	47.44	Autoinducer 2-binding periplasmic protein LuxP precursor
+PGF_00068794	Aliivibrio	125.00	0.00	Autonomous glycyl radical cofactor
+PGF_00069412	Aliivibrio	253.12	2.69	cAMP-dependent Kef-type K+ transport system
+PGF_00069596	Aliivibrio	301.00	0.00	Ferrous-iron efflux pump FieF
+PGF_00069627	Aliivibrio	209.38	6.04	cd06127 DEDDh DNA polymerase III 3'-5' exonuclease domain
+PGF_00069740	Aliivibrio	364.40	38.80	2-iminoacetate synthase (ThiH) (EC 4.1.99.19)
+PGF_00070023	Aliivibrio	222.22	5.00	COG2102: Predicted ATPases of PP-loop superfamily
+PGF_00070627	Aliivibrio	311.70	41.14	diguanylate cyclase (GGDEF domain) with PAS/PAC sensor
+PGF_00071382	Aliivibrio	175.00	0.00	Flavodoxin 1
+PGF_00071693	Aliivibrio	289.42	39.90	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00071762	Aliivibrio	656.42	2.93	glycogen debranching enzyme-related protein
+PGF_00072304	Aliivibrio	204.00	0.00	2-keto-4-pentenoate hydratase (EC 4.2.1.80)
+PGF_00072449	Aliivibrio	208.64	22.08	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00083258	Aliivibrio	125.15	0.36	hypothetical protein
+PGF_00084324	Aliivibrio	267.07	0.26	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00092576	Aliivibrio	82.93	0.97	hypothetical protein
+PGF_00095687	Aliivibrio	282.33	3.46	Class A beta-lactamase (EC 3.5.2.6)
+PGF_00098611	Aliivibrio	261.19	0.40	ABC transporter, permease protein 2 (cluster 1, maltose/g3p/polyamine/iron)
+PGF_00102041	Aliivibrio	192.07	8.74	Esterase YqiA
+PGF_00102148	Aliivibrio	157.19	0.88	hypothetical protein
+PGF_00111300	Aliivibrio	326.05	7.90	hypothetical protein
+PGF_00113475	Aliivibrio	329.43	37.87	hypothetical protein
+PGF_00113984	Aliivibrio	206.26	1.86	Flavin prenyltransferase UbiX
+PGF_00118017	Aliivibrio	781.02	0.15	hypothetical protein
+PGF_00122607	Aliivibrio	349.22	1.41	hypothetical protein
+PGF_00127024	Aliivibrio	301.00	0.00	Cell division inhibitor Slr1223 (YfcH in EC), contains epimerase/dehydratase and DUF1731 domains
+PGF_00131429	Aliivibrio	372.66	55.07	LSU ribosomal protein L16p arginine hydroxylase
+PGF_00134457	Aliivibrio	273.47	0.70	hypothetical protein
+PGF_00137125	Aliivibrio	487.21	8.71	hypothetical protein
+PGF_00138208	Aliivibrio	232.66	11.06	hypothetical protein
+PGF_00139308	Aliivibrio	191.00	0.00	hypothetical protein
+PGF_00139799	Aliivibrio	64.19	0.59	hypothetical protein
+PGF_00143308	Aliivibrio	219.07	0.26	hypothetical protein
+PGF_00144272	Aliivibrio	161.81	5.50	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00149049	Aliivibrio	161.23	137.63	hypothetical protein
+PGF_00151217	Aliivibrio	409.22	0.79	hypothetical protein
+PGF_00153321	Aliivibrio	85.00	0.00	hypothetical protein
+PGF_00153908	Aliivibrio	105.00	15.24	hypothetical protein
+PGF_00162059	Aliivibrio	92.45	22.91	hypothetical protein
+PGF_00163409	Aliivibrio	141.00	0.00	hypothetical protein
+PGF_00165992	Aliivibrio	207.75	3.31	hypothetical protein
+PGF_00170479	Aliivibrio	131.12	0.90	hypothetical protein
+PGF_00182264	Aliivibrio	127.44	0.83	Uncharacterized protein VC1189
+PGF_00183217	Aliivibrio	116.00	0.00	hypothetical protein
+PGF_00184206	Aliivibrio	149.84	0.37	L-alanine exporter AlaE
+PGF_00190470	Aliivibrio	62.93	0.26	hypothetical protein
+PGF_00194856	Aliivibrio	234.24	0.43	hypothetical protein
+PGF_00195227	Aliivibrio	96.00	0.00	hypothetical protein
+PGF_00196077	Aliivibrio	145.00	0.00	hypothetical protein
+PGF_00216443	Aliivibrio	209.71	3.37	hypothetical protein
+PGF_00224363	Aliivibrio	221.53	1.62	hypothetical protein
+PGF_00239811	Aliivibrio	235.00	0.00	Carbonic anhydrase, alpha class (EC 4.2.1.1)
+PGF_00242216	Aliivibrio	168.81	22.26	hypothetical protein
+PGF_00243050	Aliivibrio	133.00	0.00	hypothetical protein
+PGF_00245060	Aliivibrio	482.00	0.00	hypothetical protein
+PGF_00247849	Aliivibrio	107.33	3.39	hypothetical protein
+PGF_00248165	Aliivibrio	81.21	0.61	hypothetical protein
+PGF_00249440	Aliivibrio	178.95	1.77	hypothetical protein
+PGF_00250286	Aliivibrio	327.45	46.15	hypothetical protein
+PGF_00253540	Aliivibrio	118.00	0.00	hypothetical protein
+PGF_00254600	Aliivibrio	394.48	4.13	Manganese transport protein MntX
+PGF_00255767	Aliivibrio	430.73	12.92	Osmolarity sensory histidine kinase EnvZ
+PGF_00257866	Aliivibrio	739.26	0.69	hypothetical protein
+PGF_00261173	Aliivibrio	374.00	0.00	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00269173	Aliivibrio	179.67	0.95	hypothetical protein
+PGF_00280549	Aliivibrio	298.21	3.33	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00281909	Aliivibrio	83.00	0.00	hypothetical protein
+PGF_00284068	Aliivibrio	148.00	0.00	Copper metallochaperone PCu(A)C, inserts Cu(I) into cytochrome oxidase subunit II
+PGF_00285620	Aliivibrio	207.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00295936	Aliivibrio	248.00	0.00	ABC transporter, ATP-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_00299130	Aliivibrio	80.00	0.00	Cell division protein ZapB
+PGF_00299877	Aliivibrio	194.15	1.78	hypothetical protein
+PGF_00300187	Aliivibrio	257.00	0.00	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00309850	Aliivibrio	121.28	13.17	hypothetical protein
+PGF_00312142	Aliivibrio	111.43	1.58	hypothetical protein
+PGF_00316999	Aliivibrio	85.50	20.71	hypothetical protein
+PGF_00327289	Aliivibrio	290.00	0.00	hypothetical protein
+PGF_00327404	Aliivibrio	302.17	2.09	hypothetical protein
+PGF_00332831	Aliivibrio	120.23	2.45	hypothetical protein
+PGF_00339392	Aliivibrio	99.00	0.00	hypothetical protein
+PGF_00342563	Aliivibrio	788.98	8.42	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00343011	Aliivibrio	292.21	0.77	hypothetical protein
+PGF_00364240	Aliivibrio	210.48	1.98	Flagellar protein FlgO
+PGF_00366280	Aliivibrio	190.00	0.00	hypothetical protein
+PGF_00368559	Aliivibrio	207.81	6.63	hypothetical protein
+PGF_00370975	Aliivibrio	114.00	0.00	hypothetical protein
+PGF_00373492	Aliivibrio	151.00	0.00	hypothetical protein
+PGF_00375651	Aliivibrio	499.29	56.32	Uncharacterized glycyl radical protein YjjI
+PGF_00386114	Aliivibrio	155.12	2.13	hypothetical protein
+PGF_00387999	Aliivibrio	127.00	0.00	hypothetical protein
+PGF_00391084	Aliivibrio	470.71	50.20	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00399753	Aliivibrio	146.00	0.00	hypothetical protein sometimes fused to ribosomal protein S6 glutaminyl transferase
+PGF_00401551	Aliivibrio	460.33	2.13	Multidrug efflux transporter MdtK/NorM (MATE family)
+PGF_00401786	Aliivibrio	279.33	0.95	Beta-galactosidase/beta-glucuronidase
+PGF_00401928	Aliivibrio	254.00	0.00	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201) @ Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_00402152	Aliivibrio	264.05	7.07	Beta-ketoadipate enol-lactone hydrolase, putative
+PGF_00403906	Aliivibrio	607.90	0.30	Efflux ABC transporter, permease/ATP-binding protein Atu2242
+PGF_00403912	Aliivibrio	139.07	0.80	Biopolymer transport protein ExbD1
+PGF_00404019	Aliivibrio	635.00	2.26	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Aliivibrio	151.90	0.98	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Aliivibrio	447.00	0.00	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404333	Aliivibrio	311.36	34.25	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404384	Aliivibrio	349.51	3.12	Biotin synthase (EC 2.8.1.6)
+PGF_00404482	Aliivibrio	615.00	0.00	probable peptidase VC1983
+PGF_00404496	Aliivibrio	256.02	3.03	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)
+PGF_00404831	Aliivibrio	271.55	1.21	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00405543	Aliivibrio	80.07	8.28	proteinase inhibitor, putative
+PGF_00406120	Aliivibrio	248.00	0.00	putative SpoOM-related protein
+PGF_00406692	Aliivibrio	938.00	0.00	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00408369	Aliivibrio	183.56	2.81	putative lipoprotein
+PGF_00408699	Aliivibrio	61.91	0.61	putative membrane protein
+PGF_00410576	Aliivibrio	205.98	21.24	putative secreted protein
+PGF_00411483	Aliivibrio	302.43	2.80	Uncharacterized radical SAM protein YjjW
+PGF_00413182	Aliivibrio	320.91	20.50	tRNA (mo5U34)-methyltransferase
+PGF_00413203	Aliivibrio	159.05	0.31	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Aliivibrio	249.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413223	Aliivibrio	224.50	27.44	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+PGF_00413230	Aliivibrio	243.50	3.82	tRNA (cmo5U34)-methyltransferase
+PGF_00413232	Aliivibrio	108.00	0.00	tRNA 2-thiouridine synthesis protein TusE
+PGF_00413237	Aliivibrio	482.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413243	Aliivibrio	116.95	6.72	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusC
+PGF_00413245	Aliivibrio	130.00	0.00	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD
+PGF_00413253	Aliivibrio	83.00	0.00	tRNA 5-methylaminomethyl-2-thiouridine synthesis sulfur carrier protein TusA
+PGF_00413266	Aliivibrio	330.98	4.50	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413286	Aliivibrio	350.12	1.54	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Aliivibrio	262.00	0.00	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Aliivibrio	316.81	1.19	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413300	Aliivibrio	629.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Aliivibrio	307.00	0.00	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413319	Aliivibrio	248.61	31.34	tRNA-(ms[2]io[6]A)-hydroxylase
+PGF_00413330	Aliivibrio	110.00	0.00	tRNA-binding protein YgjH
+PGF_00413340	Aliivibrio	315.00	0.00	tRNA-dihydrouridine(16) synthase
+PGF_00413351	Aliivibrio	172.14	2.61	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Aliivibrio	161.07	0.47	tmRNA-binding protein SmpB
+PGF_00414228	Aliivibrio	238.85	0.36	Two-component system response regulator OmpR
+PGF_00414366	Aliivibrio	576.86	0.35	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414873	Aliivibrio	127.36	16.07	CBS domain protein
+PGF_00414898	Aliivibrio	351.95	12.50	CBS-domain-containing protein
+PGF_00414926	Aliivibrio	407.00	0.00	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00414976	Aliivibrio	450.00	0.00	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_00415130	Aliivibrio	322.45	7.78	23S rRNA (adenine(1618)-N(6))-methyltransferase (EC 2.1.1.181)
+PGF_00415150	Aliivibrio	279.00	0.00	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415156	Aliivibrio	227.46	0.94	COG0398: uncharacterized membrane protein
+PGF_00415332	Aliivibrio	362.26	1.57	23S rRNA (cytidine(2498)-2'-O)-methyltransferase (EC 2.1.1.186)
+PGF_00415346	Aliivibrio	396.00	0.00	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415363	Aliivibrio	381.77	0.43	23S rRNA (guanine(1835)-N(2))-methyltransferase (EC 2.1.1.174)
+PGF_00415422	Aliivibrio	705.00	0.00	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415463	Aliivibrio	163.07	0.46	Uncharacterized protein YgjP
+PGF_00415486	Aliivibrio	156.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Aliivibrio	205.95	19.98	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415660	Aliivibrio	418.85	17.02	COG2907: Amine oxidase, flavin-containing
+PGF_00416115	Aliivibrio	306.93	0.46	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Aliivibrio	546.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Aliivibrio	1076.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416506	Aliivibrio	476.84	57.32	Carbon starvation protein A
+PGF_00416508	Aliivibrio	65.07	0.26	Carbon storage regulator
+PGF_00416525	Aliivibrio	225.26	3.37	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416576	Aliivibrio	181.00	0.00	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Aliivibrio	369.00	0.00	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416725	Aliivibrio	253.00	0.00	Catechol siderophore ABC transporter, ATP-binding component
+PGF_00416726	Aliivibrio	315.95	0.22	Catechol siderophore ABC transporter, permease component
+PGF_00416727	Aliivibrio	310.17	5.31	Catechol siderophore ABC transporter, permease component
+PGF_00416728	Aliivibrio	299.83	2.62	Catechol siderophore ABC transporter, substrate-binding protein
+PGF_00417010	Aliivibrio	105.86	7.82	Cell division protein FtsL
+PGF_00417437	Aliivibrio	616.35	0.48	Chaperone protein HscA
+PGF_00417577	Aliivibrio	149.00	0.00	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417580	Aliivibrio	375.62	2.31	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+PGF_00417658	Aliivibrio	362.00	0.00	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Aliivibrio	234.00	0.00	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417831	Aliivibrio	377.00	0.00	Chorismate mutase I (EC 5.4.99.5) / Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_00417840	Aliivibrio	361.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00417843	Aliivibrio	180.66	2.92	Chorismate--pyruvate lyase (EC 4.1.3.40)
+PGF_00417864	Aliivibrio	383.00	0.00	Chromate transport protein ChrA
+PGF_00417957	Aliivibrio	1489.76	0.66	Chromosome partition protein MukB
+PGF_00417959	Aliivibrio	245.67	0.95	Chromosome partition protein MukE
+PGF_00417961	Aliivibrio	445.00	0.00	Chromosome partition protein MukF
+PGF_00418002	Aliivibrio	100.16	2.14	Chromosome segregation ATPase
+PGF_00418003	Aliivibrio	66.00	0.00	Chromosome segregation ATPase
+PGF_00418239	Aliivibrio	215.45	8.60	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00418243	Aliivibrio	200.74	0.45	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00418368	Aliivibrio	497.07	5.96	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418406	Aliivibrio	172.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418658	Aliivibrio	163.00	0.00	Colicin V production protein
+PGF_00418710	Aliivibrio	333.00	0.00	Uncharacterized protease YhbU
+PGF_00418759	Aliivibrio	153.71	1.29	3-hydroxydecanoyl-[ACP] dehydratase (EC 4.2.1.59)
+PGF_00418791	Aliivibrio	188.29	0.83	Type IV pilus biogenesis protein PilN
+PGF_00419420	Aliivibrio	471.00	0.00	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419572	Aliivibrio	132.88	0.32	Copper resistance transcriptional regulator CueR (MerR family)
+PGF_00419575	Aliivibrio	462.24	0.43	Copper sensory histidine kinase CpxA
+PGF_00419626	Aliivibrio	321.81	1.82	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419628	Aliivibrio	457.00	0.00	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Aliivibrio	170.02	19.52	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419886	Aliivibrio	280.53	1.83	3-mercaptopyruvate sulfurtransferase (EC 2.8.1.2)
+PGF_00419891	Aliivibrio	210.00	0.00	Cyclic AMP receptor protein
+PGF_00419913	Aliivibrio	159.00	0.00	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419962	Aliivibrio	98.50	6.97	Cyd operon protein YbgE
+PGF_00419986	Aliivibrio	324.00	0.00	Cys regulon transcriptional activator CysB
+PGF_00420048	Aliivibrio	411.67	7.59	Cysteine desulfurase (EC 2.8.1.7) => IscS
+PGF_00420053	Aliivibrio	406.98	2.47	Cysteine desulfurase (EC 2.8.1.7) => sulfur transfer pathway protein CsdA
+PGF_00420075	Aliivibrio	322.00	0.00	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Aliivibrio	224.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420376	Aliivibrio	60.37	0.54	Cytochrome c oxidase (cbb3-type) subunit CcoQ (EC 1.9.3.1)
+PGF_00420482	Aliivibrio	249.86	0.52	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420519	Aliivibrio	149.72	1.01	Cytochrome c-type heme lyase subunit nrfF, nitrite reductase complex assembly
+PGF_00420524	Aliivibrio	216.07	6.96	Cytochrome c-type heme lyase subunit nrfG, nitrite reductase complex assembly
+PGF_00420526	Aliivibrio	191.00	0.00	Cytochrome c-type protein NapC
+PGF_00420527	Aliivibrio	197.07	0.26	Cytochrome c-type protein NrfB precursor
+PGF_00420543	Aliivibrio	137.73	1.10	Cytochrome c5
+PGF_00420556	Aliivibrio	241.00	0.00	3-oxoacyl-[ACP] reductase (EC 1.1.1.100)
+PGF_00420561	Aliivibrio	478.23	0.43	Cytochrome c552 precursor (EC 1.7.2.2)
+PGF_00420584	Aliivibrio	177.88	22.29	Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center
+PGF_00420595	Aliivibrio	395.45	0.99	3-oxoacyl-[ACP] synthase (EC 2.3.1.41) FabV like
+PGF_00420612	Aliivibrio	247.00	0.00	Cytoplasmic copper homeostasis protein CutC
+PGF_00420728	Aliivibrio	302.86	4.30	Cytoskeleton protein RodZ
+PGF_00420732	Aliivibrio	484.00	0.00	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420764	Aliivibrio	376.00	0.00	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+PGF_00420798	Aliivibrio	327.98	44.18	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420963	Aliivibrio	420.31	4.47	D-glycerate transporter (predicted)
+PGF_00420993	Aliivibrio	330.75	0.67	D-lactate dehydrogenase (EC 1.1.1.28)
+PGF_00420994	Aliivibrio	723.48	6.22	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421013	Aliivibrio	403.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421071	Aliivibrio	144.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Aliivibrio	638.00	5.96	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421124	Aliivibrio	238.02	0.16	DEDDh 3'-5' exonuclease domain of the epsilon subunit of DNA polymerase III
+PGF_00421156	Aliivibrio	196.00	0.00	DJ-1/YajL/PfpI superfamily, includes chaperone protein YajL (former ThiJ), parkinsonism-associated protein DJ-1, peptidases PfpI, Hsp31
+PGF_00421365	Aliivibrio	284.09	0.29	DNA ligase (ATP) (EC 6.5.1.1)
+PGF_00421408	Aliivibrio	221.79	0.42	DNA mismatch repair endonuclease MutH
+PGF_00421447	Aliivibrio	574.00	0.00	ATP-dependent RNA helicase YejH
+PGF_00421477	Aliivibrio	789.00	0.00	DNA polymerase II (EC 2.7.7.7)
+PGF_00421489	Aliivibrio	1158.15	5.47	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Aliivibrio	366.50	1.13	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421554	Aliivibrio	212.71	0.89	3'-5' exonuclease domain similar to epsilon subunit of DNA polymerase III, PA3232-type
+PGF_00421568	Aliivibrio	133.00	0.00	DNA polymerase III psi subunit (EC 2.7.7.7)
+PGF_00421679	Aliivibrio	586.67	0.48	DNA primase (EC 2.7.7.-)
+PGF_00421733	Aliivibrio	352.53	42.39	DNA recombination and repair protein RecF
+PGF_00421760	Aliivibrio	305.81	11.73	DNA recombination-dependent growth factor RdgC
+PGF_00421792	Aliivibrio	459.69	0.47	DNA repair protein RadA
+PGF_00421796	Aliivibrio	554.15	4.01	DNA repair protein RecN
+PGF_00422053	Aliivibrio	98.00	0.00	DNA-binding protein Fis
+PGF_00422078	Aliivibrio	90.00	0.00	DNA-binding protein HU-alpha
+PGF_00422088	Aliivibrio	76.00	0.00	DNA-binding protein inhibitor Id-2-related protein
+PGF_00422203	Aliivibrio	1082.91	205.55	DNA-binding response regulator, AraC family
+PGF_00422271	Aliivibrio	328.79	1.39	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422545	Aliivibrio	301.39	3.90	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422655	Aliivibrio	443.43	56.83	LOG family protein YgdH
+PGF_00422711	Aliivibrio	221.10	0.43	DedA protein
+PGF_00422884	Aliivibrio	235.00	0.00	Delta 1-pyrroline-5-carboxylate dehydrogenase domain protein
+PGF_00423019	Aliivibrio	488.02	0.16	Di-tripeptide/H+ symporter
+PGF_00423086	Aliivibrio	421.00	0.00	Diaminobutyrate--2-oxoglutarate transaminase (EC 2.6.1.76)
+PGF_00423089	Aliivibrio	372.44	0.50	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Aliivibrio	274.54	4.51	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Aliivibrio	426.07	0.26	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Aliivibrio	117.00	0.00	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423382	Aliivibrio	343.43	4.46	Dihydroorotase (EC 3.5.2.3)
+PGF_00423472	Aliivibrio	654.30	14.47	DinG family ATP-dependent helicase YoaA
+PGF_00423511	Aliivibrio	555.07	66.07	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)
+PGF_00423709	Aliivibrio	282.88	0.55	DnaJ-like protein DjlA
+PGF_00423713	Aliivibrio	204.90	0.30	DnaJ-related protein
+PGF_00423911	Aliivibrio	569.02	0.15	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+PGF_00423914	Aliivibrio	183.00	0.00	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Aliivibrio	285.83	1.00	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424131	Aliivibrio	187.79	11.02	Electron transport complex protein RnfA
+PGF_00424134	Aliivibrio	193.77	0.43	Electron transport complex protein RnfB
+PGF_00424141	Aliivibrio	227.33	0.48	Electron transport complex protein RnfE
+PGF_00424166	Aliivibrio	188.00	0.00	Elongation factor P-like protein
+PGF_00424328	Aliivibrio	234.00	0.00	Endonuclease I precursor (EC 3.1.21.1) @ Extracellular deoxyribonuclease Dns (EC 3.1.21.-)
+PGF_00424337	Aliivibrio	275.05	36.87	Endonuclease IV (EC 3.1.21.2)
+PGF_00424447	Aliivibrio	330.88	2.39	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424800	Aliivibrio	257.58	2.14	Esterase ybfF (EC 3.1.-.-)
+PGF_00424956	Aliivibrio	331.00	0.00	Evolved beta-D-galactosidase transcriptional repressor
+PGF_00424957	Aliivibrio	1032.32	3.05	Evolved beta-D-galactosidase, alpha subunit
+PGF_00424958	Aliivibrio	150.00	0.00	Evolved beta-D-galactosidase, beta subunit
+PGF_00424971	Aliivibrio	604.09	8.27	Excinuclease ABC subunit C
+PGF_00425010	Aliivibrio	474.00	0.00	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425011	Aliivibrio	268.00	0.00	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425014	Aliivibrio	259.65	1.65	Flap endonuclease Xni
+PGF_00425021	Aliivibrio	1138.28	3.22	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Aliivibrio	447.07	3.44	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Aliivibrio	1226.07	0.46	Exonuclease SbcC
+PGF_00425092	Aliivibrio	414.00	0.00	Exonuclease SbcD
+PGF_00425212	Aliivibrio	484.00	0.00	Exported zinc metalloprotease YfgC precursor
+PGF_00425245	Aliivibrio	889.07	26.90	Extracellular deoxyribonuclease Xds
+PGF_00425665	Aliivibrio	243.76	0.43	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Aliivibrio	283.79	0.78	RNase adapter protein RapZ
+PGF_00425679	Aliivibrio	200.95	5.10	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425685	Aliivibrio	284.00	0.00	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425704	Aliivibrio	90.00	0.00	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425726	Aliivibrio	753.00	0.00	FIG001592: Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated
+PGF_00425736	Aliivibrio	162.29	1.77	FIG001826: putative inner membrane protein
+PGF_00425763	Aliivibrio	126.81	0.39	FIG002082: Protein SirB2
+PGF_00425796	Aliivibrio	149.02	2.40	FIG002571: 4-hydroxybenzoyl-CoA thioesterase domain protein
+PGF_00425800	Aliivibrio	171.88	0.78	FIG002577: Putative lipoprotein precursor
+PGF_00425802	Aliivibrio	269.88	0.32	FIG002708: Protein SirB1
+PGF_00425804	Aliivibrio	321.00	0.00	FIG002781: Alpha-L-glutamate ligase family protein
+PGF_00425810	Aliivibrio	244.55	2.34	Cell division protein ZapD
+PGF_00425811	Aliivibrio	107.24	1.08	dsDNA mimic protein, highly acidic
+PGF_00425812	Aliivibrio	205.00	0.00	High frequency lysogenization protein HflD
+PGF_00425820	Aliivibrio	144.80	1.86	FIG002994: Putative transcriptional regulator
+PGF_00425888	Aliivibrio	143.00	0.00	FIG003551: hypothetical protein
+PGF_00425970	Aliivibrio	226.19	1.15	Pyrimidine 5'-nucleotidase YjjG (EC 3.1.3.5)
+PGF_00425993	Aliivibrio	400.00	0.00	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Aliivibrio	335.17	5.40	FIG004453: protein YceG like
+PGF_00426044	Aliivibrio	295.52	0.92	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Aliivibrio	627.00	0.00	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426222	Aliivibrio	408.62	48.75	FIG004599: Hypothetical protein
+PGF_00426231	Aliivibrio	505.00	0.00	FIG004684: SpoVR-like protein
+PGF_00426236	Aliivibrio	372.00	0.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426342	Aliivibrio	247.07	0.47	FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)
+PGF_00426722	Aliivibrio	1226.00	0.00	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426810	Aliivibrio	253.12	0.40	5'-nucleotidase SurE (EC 3.1.3.5) @ Exopolyphosphatase (EC 3.6.1.11)
+PGF_00426877	Aliivibrio	310.71	2.08	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Aliivibrio	156.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427299	Aliivibrio	482.00	0.00	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00447438	Aliivibrio	193.00	0.00	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00447508	Aliivibrio	422.00	0.00	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00447765	Aliivibrio	100.00	0.00	YciL protein
+PGF_00451246	Aliivibrio	98.00	0.00	RNA-binding protein YhbY
+PGF_00461823	Aliivibrio	245.68	0.53	Oxidoreductase, short-chain dehydrogenase/reductase family (EC 1.1.1.-)
+PGF_00464627	Aliivibrio	381.00	0.00	Sodium-dependent phosphate transporter
+PGF_00482828	Aliivibrio	445.00	0.00	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00488496	Aliivibrio	367.98	0.35	Type IV pilus assembly ATPase component PilU
+PGF_00490053	Aliivibrio	440.86	0.65	Outer membrane channel TolC (OpmH)
+PGF_00500015	Aliivibrio	298.30	36.56	pyridoxal phosphate-dependent deaminase, putative
+PGF_00502483	Aliivibrio	400.98	0.15	Multidrug resistance transporter => Bicyclomycin resistance protein Bcr
+PGF_00502502	Aliivibrio	73.00	0.00	Cold shock protein of CSP family => CspD (naming convention as in E.coli)
+PGF_00508272	Aliivibrio	583.13	75.57	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00529632	Aliivibrio	861.00	0.00	ClpB protein
+PGF_00538878	Aliivibrio	287.57	4.74	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00546752	Aliivibrio	155.17	1.89	Phosphohistidine phosphatase SixA
+PGF_00550718	Aliivibrio	149.50	2.78	General secretion pathway protein G
+PGF_00553733	Aliivibrio	90.00	0.00	hypothetical protein
+PGF_00565351	Aliivibrio	222.00	0.00	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00569671	Aliivibrio	298.74	0.73	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580333	Aliivibrio	389.00	0.00	Lipopolysaccharide assembly protein LapB
+PGF_00580417	Aliivibrio	614.90	0.83	Outer membrane vitamin B12 receptor BtuB
+PGF_00596539	Aliivibrio	590.64	1.25	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00598374	Aliivibrio	192.00	0.00	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_00599100	Aliivibrio	223.60	3.29	hypothetical protein
+PGF_00599103	Aliivibrio	135.55	15.13	hypothetical protein
+PGF_00599106	Aliivibrio	168.81	4.20	hypothetical protein
+PGF_00599108	Aliivibrio	118.64	2.31	hypothetical protein
+PGF_00599110	Aliivibrio	226.00	0.00	hypothetical protein
+PGF_00599112	Aliivibrio	67.93	7.70	hypothetical protein
+PGF_00599113	Aliivibrio	66.52	1.67	hypothetical protein
+PGF_00599114	Aliivibrio	54.38	5.05	hypothetical protein
+PGF_00599115	Aliivibrio	122.67	15.73	hypothetical protein
+PGF_00599116	Aliivibrio	274.00	0.00	hypothetical protein
+PGF_00599117	Aliivibrio	67.52	6.68	hypothetical protein
+PGF_00599119	Aliivibrio	174.33	82.86	hypothetical protein
+PGF_00599120	Aliivibrio	168.86	0.57	hypothetical protein
+PGF_00599122	Aliivibrio	55.83	2.12	hypothetical protein
+PGF_00599126	Aliivibrio	41.67	6.04	hypothetical protein
+PGF_00599129	Aliivibrio	119.37	10.67	hypothetical protein
+PGF_00599130	Aliivibrio	80.33	0.48	hypothetical protein
+PGF_00599131	Aliivibrio	101.79	0.61	hypothetical protein
+PGF_00599135	Aliivibrio	222.86	0.93	hypothetical protein
+PGF_00599143	Aliivibrio	66.79	0.41	FIG00920463: hypothetical protein
+PGF_00599144	Aliivibrio	224.17	0.54	hypothetical protein
+PGF_00599146	Aliivibrio	115.39	3.72	hypothetical protein
+PGF_00599147	Aliivibrio	296.29	4.09	hypothetical protein
+PGF_00599148	Aliivibrio	151.34	0.57	hypothetical protein
+PGF_00599149	Aliivibrio	119.44	1.87	hypothetical protein
+PGF_00599150	Aliivibrio	81.83	1.16	hypothetical protein
+PGF_00599153	Aliivibrio	161.20	25.27	hypothetical protein
+PGF_00599154	Aliivibrio	87.00	0.00	hypothetical protein
+PGF_00599156	Aliivibrio	68.95	0.31	hypothetical protein
+PGF_00599157	Aliivibrio	42.93	0.26	hypothetical protein
+PGF_00599163	Aliivibrio	61.00	0.00	hypothetical protein
+PGF_00599172	Aliivibrio	178.28	0.45	hypothetical protein
+PGF_00599203	Aliivibrio	365.00	0.00	L-amino acid ABC transporter (Glu/Asp/His/...), permease protein 2 AapM
+PGF_00599205	Aliivibrio	108.81	1.40	HPT domain containing protein
+PGF_00599217	Aliivibrio	304.93	0.26	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_00599219	Aliivibrio	325.00	0.77	Uncharacterized oxidoreductase YgjR
+PGF_00599245	Aliivibrio	63.62	1.19	hypothetical protein
+PGF_00599430	Aliivibrio	114.77	3.69	Phosphorelay protein LuxU
+PGF_00599498	Aliivibrio	479.29	6.31	Nucleoside-diphosphate-sugar epimerase
+PGF_00599610	Aliivibrio	165.00	0.00	Protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_00600025	Aliivibrio	127.19	1.07	hypothetical protein
+PGF_00600077	Aliivibrio	105.00	0.00	hypothetical protein
+PGF_00600108	Aliivibrio	283.88	0.76	putative membrane protein
+PGF_00608127	Aliivibrio	372.83	3.28	Efflux ABC transporter, permease protein
+PGF_00611883	Aliivibrio	128.00	0.00	hypothetical protein
+PGF_00612013	Aliivibrio	203.00	0.00	UPF0126 inner membrane protein YadS
+PGF_00616490	Aliivibrio	301.24	4.48	Signal peptidase I (EC 3.4.21.89)
+PGF_00618776	Aliivibrio	372.26	1.68	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Aliivibrio	227.11	0.75	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00634936	Aliivibrio	307.05	0.22	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Aliivibrio	545.90	5.47	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Aliivibrio	276.57	24.65	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00643512	Aliivibrio	99.00	0.00	PTS system, IIB component
+PGF_00644212	Aliivibrio	256.91	24.98	Nucleoside-diphosphate-sugar epimerases
+PGF_00648054	Aliivibrio	226.72	6.03	Tol-Pal system protein TolQ
+PGF_00649271	Aliivibrio	104.00	0.00	Cell division protein BolA
+PGF_00655131	Aliivibrio	613.98	2.87	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Aliivibrio	492.74	0.45	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Aliivibrio	515.00	0.00	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Aliivibrio	208.60	24.17	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Aliivibrio	106.12	1.00	Ribosomal silencing factor RsfA
+PGF_00671129	Aliivibrio	112.00	0.00	Nitrogen regulatory protein P-II, GlnK
+PGF_00675381	Aliivibrio	444.00	0.00	Heavy metal RND efflux outer membrane protein, CzcC family
+PGF_00678088	Aliivibrio	198.71	10.84	Putative threonine efflux protein
+PGF_00683424	Aliivibrio	294.00	0.00	Transcriptional regulator
+PGF_00683865	Aliivibrio	316.24	11.37	Metal-dependent hydrolase
+PGF_00687445	Aliivibrio	208.47	0.70	RNA chaperone ProQ
+PGF_00693753	Aliivibrio	458.93	7.33	Sodium/glycine symporter GlyP
+PGF_00694978	Aliivibrio	267.00	0.00	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00709443	Aliivibrio	125.90	1.03	Twin-arginine translocation protein TatB
+PGF_00709681	Aliivibrio	322.67	0.48	Inner membrane protein YrbG, predicted calcium/sodium:proton antiporter
+PGF_00716397	Aliivibrio	322.80	5.37	Peptide ABC transporter, permease component
+PGF_00717495	Aliivibrio	429.00	0.00	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00721835	Aliivibrio	317.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00725839	Aliivibrio	785.33	0.87	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00729259	Aliivibrio	227.00	0.00	Cobalt-zinc-cadmium resistance protein
+PGF_00734482	Aliivibrio	875.98	5.76	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00734751	Aliivibrio	170.90	0.30	Cytochrome c heme lyase subunit CcmL
+PGF_00738912	Aliivibrio	308.95	0.31	Oxidoreductase, Gfo/Idh/MocA family
+PGF_00743561	Aliivibrio	200.46	1.52	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00752114	Aliivibrio	633.00	0.00	PTS system, mannose-specific IIA component (EC 2.7.1.191) / PTS system, mannose-specific IIB component (EC 2.7.1.191) / PTS system, mannose-specific IIC component
+PGF_00777371	Aliivibrio	234.00	0.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00795905	Aliivibrio	413.29	0.94	Cytosine permease
+PGF_00804519	Aliivibrio	85.66	4.22	hypothetical protein
+PGF_00818774	Aliivibrio	56.31	0.47	hypothetical protein
+PGF_00824401	Aliivibrio	233.36	73.60	Probable lipoprotein YiaD
+PGF_00827555	Aliivibrio	696.34	78.19	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00843596	Aliivibrio	340.34	1.37	Uncharacterized MFS-type transporter
+PGF_00846351	Aliivibrio	157.00	0.00	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8) / Macrophage infectivity potentiator
+PGF_00853393	Aliivibrio	290.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00862544	Aliivibrio	816.95	0.31	AttF component of AttEFGH ABC transport system / AttG component of AttEFGH ABC transport system
+PGF_00867880	Aliivibrio	228.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_00871619	Aliivibrio	659.00	91.32	Tail-specific protease precursor (EC 3.4.21.102)
+PGF_00884667	Aliivibrio	355.67	8.68	CheW domain protein
+PGF_00885329	Aliivibrio	343.83	0.38	Flagellar motor switch protein FliM
+PGF_00886151	Aliivibrio	360.49	1.10	Glycine betaine/L-proline transport system permease protein ProW (TC 3.A.1.12.1)
+PGF_00891636	Aliivibrio	169.93	0.34	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_00900256	Aliivibrio	427.00	0.00	Threonine synthase (EC 4.2.3.1)
+PGF_00908360	Aliivibrio	264.00	0.00	Phospholipid ABC transporter permease protein MlaE
+PGF_00909459	Aliivibrio	160.79	0.42	Flagellar basal body-associated protein FliL
+PGF_00909659	Aliivibrio	612.86	12.17	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00912265	Aliivibrio	342.07	13.89	tRNA-dihydrouridine synthase DusB
+PGF_00917264	Aliivibrio	149.95	0.22	Putative activity regulator of membrane protease YbbK
+PGF_00922738	Aliivibrio	287.00	0.00	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00924816	Aliivibrio	258.00	0.00	Thiol:disulfide interchange protein DsbC
+PGF_00925844	Aliivibrio	452.56	5.23	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Aliivibrio	577.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00928572	Aliivibrio	337.05	127.52	hypothetical protein
+PGF_00936791	Aliivibrio	352.49	11.51	FIG003737: Predicted deacylase
+PGF_00948290	Aliivibrio	376.33	10.81	Murein hydrolase activator EnvC
+PGF_00950554	Aliivibrio	660.91	83.45	Excinuclease ABC subunit B
+PGF_00955412	Aliivibrio	262.33	0.48	Probable iron export permease protein FetB
+PGF_00955461	Aliivibrio	300.00	0.00	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+PGF_00957419	Aliivibrio	141.00	0.00	Putative pre-16S rRNA nuclease Yqg
+PGF_00967150	Aliivibrio	289.19	1.50	hypothetical protein
+PGF_00973394	Aliivibrio	164.00	0.00	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_00983377	Aliivibrio	250.00	0.00	Probable amino-acid-binding protein YxeM
+PGF_00988124	Aliivibrio	455.09	0.29	Anaerobic C4-dicarboxylate transporter DcuC
+PGF_00993283	Aliivibrio	354.00	0.00	Pyridoxal-5'-phosphate-dependent enzyme beta superfamily (fold type II)
+PGF_00993530	Aliivibrio	349.80	0.87	Outer membrane beta-barrel assembly protein BamC
+PGF_00999168	Aliivibrio	529.26	3.41	hypothetical protein
+PGF_01000681	Aliivibrio	91.90	0.44	Acetyltransferase
+PGF_01005813	Aliivibrio	313.00	0.00	Transcriptional regulator
+PGF_01008498	Aliivibrio	110.81	4.92	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01008556	Aliivibrio	249.00	0.00	Flagellar basal-body rod protein FlgF
+PGF_01028579	Aliivibrio	469.40	10.22	Sodium-dependent transporter, SNF family
+PGF_01032642	Aliivibrio	288.41	3.08	Transcriptional regulator VCA1020, LysR family
+PGF_01033782	Aliivibrio	265.00	0.00	HAD phosphatase YigL
+PGF_01035443	Aliivibrio	290.00	0.00	Transcriptional regulator, LysR family
+PGF_01039474	Aliivibrio	296.14	0.52	Transcriptional regulator, LysR family
+PGF_01052295	Aliivibrio	366.29	9.21	Lipopolysaccharide export system permease protein LptF
+PGF_01056306	Aliivibrio	179.63	7.27	Membrane-associated phospholipid phosphatase
+PGF_01058419	Aliivibrio	1208.00	0.00	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01073011	Aliivibrio	452.43	56.56	Xanthine permease @ Xanthine:proton symporter XanP
+PGF_01078020	Aliivibrio	425.00	0.00	Cytosine deaminase (EC 3.5.4.1)
+PGF_01079016	Aliivibrio	294.88	4.58	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Aliivibrio	808.76	0.80	Outer membrane protein assembly factor YaeT
+PGF_01087220	Aliivibrio	488.56	6.82	Membrane-associated phospholipid phosphatase
+PGF_01090600	Aliivibrio	116.60	15.59	hypothetical protein
+PGF_01092098	Aliivibrio	150.19	4.56	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01101526	Aliivibrio	443.50	55.09	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01102972	Aliivibrio	378.00	0.00	Acetylornithine deacetylase (EC 3.5.1.16)
+PGF_01104399	Aliivibrio	249.00	0.00	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01106969	Aliivibrio	246.51	7.45	FIG001571: Hypothetical protein
+PGF_01110486	Aliivibrio	382.88	5.83	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+PGF_01124177	Aliivibrio	403.00	0.00	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01124253	Aliivibrio	122.24	3.45	UPF0102 protein YraN
+PGF_01126005	Aliivibrio	373.00	0.00	Rod shape-determining protein RodA
+PGF_01147190	Aliivibrio	477.90	3.95	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+PGF_01148336	Aliivibrio	368.00	0.00	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_01149804	Aliivibrio	641.88	84.81	Flagellar cap protein FliD
+PGF_01167573	Aliivibrio	161.14	0.35	FIG003461: hypothetical protein
+PGF_01169833	Aliivibrio	492.52	1.17	Flagellar biosynthesis protein FlhF
+PGF_01172485	Aliivibrio	420.00	0.00	Cell division protein FtsA
+PGF_01174739	Aliivibrio	246.98	0.35	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Aliivibrio	457.02	4.69	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01174827	Aliivibrio	88.00	0.00	FIG152265: Sodium:solute symporter associated protein
+PGF_01175575	Aliivibrio	642.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176861	Aliivibrio	73.00	0.00	Uncharacterized protein YpeB
+PGF_01181530	Aliivibrio	116.00	0.00	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01191170	Aliivibrio	150.00	0.00	Free methionine-(R)-sulfoxide reductase, contains GAF domain
+PGF_01212739	Aliivibrio	547.05	1.41	Heat shock protein 60 family chaperone GroEL
+PGF_01212897	Aliivibrio	188.12	3.16	FIG024285: Hypothetical protein
+PGF_01223569	Aliivibrio	155.67	0.75	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01291803	Aliivibrio	324.00	0.00	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01309240	Aliivibrio	169.00	0.00	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+PGF_01313780	Aliivibrio	368.00	0.00	Uncharacterized peptidase YqjE
+PGF_01323228	Aliivibrio	197.88	0.77	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Aliivibrio	229.00	0.00	Molybdenum ABC transporter permease protein ModB
+PGF_01336392	Aliivibrio	173.98	0.35	hypothetical protein
+PGF_01346107	Aliivibrio	257.90	2.14	Lipopolysaccharide biosynthesis glycosyltransferase
+PGF_01351158	Aliivibrio	1151.00	0.00	Transcription-repair coupling factor
+PGF_01353801	Aliivibrio	425.95	84.38	Anaerobic C4-dicarboxylate transporter DcuB
+PGF_01364427	Aliivibrio	206.88	0.32	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01382505	Aliivibrio	203.00	0.00	FIG00449901: hypothetical protein
+PGF_01389077	Aliivibrio	135.81	2.62	Uncharacterized protein YbcJ
+PGF_01393949	Aliivibrio	627.86	88.86	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01415861	Aliivibrio	204.98	1.61	LPS-assembly lipoprotein LptE
+PGF_01421534	Aliivibrio	92.00	0.00	LSU ribosomal protein L25p
+PGF_01423501	Aliivibrio	159.10	6.30	Transcription elongation factor GreA
+PGF_01448031	Aliivibrio	98.00	0.00	Integration host factor alpha subunit
+PGF_01466742	Aliivibrio	431.32	0.47	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Aliivibrio	576.88	4.13	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01477459	Aliivibrio	394.41	2.62	Glycine betaine/L-proline transport ATP-binding protein ProV (TC 3.A.1.12.1)
+PGF_01479251	Aliivibrio	505.79	63.93	General secretion pathway protein A
+PGF_01483460	Aliivibrio	358.00	0.00	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Aliivibrio	272.67	0.61	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01484108	Aliivibrio	210.00	0.00	Electron transport complex protein RnfG
+PGF_01492504	Aliivibrio	273.15	0.53	Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)
+PGF_01512690	Aliivibrio	275.33	2.16	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
+PGF_01519213	Aliivibrio	242.17	18.36	Uncharacterized protein YjiH
+PGF_01529260	Aliivibrio	156.00	0.00	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01553714	Aliivibrio	175.43	3.01	Uncharacterized protein YhbT
+PGF_01555804	Aliivibrio	131.00	0.00	Flagellar basal-body rod protein FlgB
+PGF_01557373	Aliivibrio	433.14	4.23	Uncharacterized protein ImpI/VasC
+PGF_01569969	Aliivibrio	84.33	0.95	Acyl carrier protein (ACP2)
+PGF_01596785	Aliivibrio	475.33	0.48	PTS system, glucose-specific IIC component / PTS system, glucose-specific IIB component (EC 2.7.1.199)
+PGF_01599021	Aliivibrio	169.67	0.48	Peptide deformylase (EC 3.5.1.88)
+PGF_01602421	Aliivibrio	236.00	0.00	Flagellar basal-body rod modification protein FlgD
+PGF_01602977	Aliivibrio	198.02	0.15	Smp-like protein
+PGF_01603130	Aliivibrio	256.00	0.00	hypothetical protein
+PGF_01604929	Aliivibrio	258.00	0.00	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01625234	Aliivibrio	321.00	0.00	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667880	Aliivibrio	85.00	0.00	Phosphotransferase system, phosphocarrier protein HPr
+PGF_01667999	Aliivibrio	195.07	3.04	RNA polymerase sigma factor RpoE
+PGF_01668012	Aliivibrio	277.00	2.93	Sulfur carrier protein FdhD
+PGF_01668148	Aliivibrio	486.81	5.55	Sodium-dependent transporter
+PGF_01668710	Aliivibrio	650.00	0.00	Betaine/carnitine/choline transporter (BCCT) family
+PGF_01668974	Aliivibrio	762.26	15.94	DNA internalization-related competence protein ComEC/Rec2
+PGF_01670799	Aliivibrio	185.00	0.00	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01673335	Aliivibrio	262.60	3.51	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+PGF_01674551	Aliivibrio	126.00	0.00	Glycine cleavage system H protein
+PGF_01678333	Aliivibrio	349.14	5.88	Electron transport complex protein RnfD
+PGF_01679220	Aliivibrio	400.36	5.86	Uncharacterized MFS-type transporter
+PGF_01682537	Aliivibrio	126.00	0.00	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Aliivibrio	151.00	0.00	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Aliivibrio	238.00	0.00	DNA recombination and repair protein RecO
+PGF_01719595	Aliivibrio	491.93	3.24	Chitin binding protein
+PGF_01727524	Aliivibrio	345.19	0.99	Ferric iron ABC transporter, ATP-binding protein
+PGF_01734668	Aliivibrio	214.02	0.15	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Aliivibrio	278.17	4.13	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01745391	Aliivibrio	388.07	0.26	Cystathionine gamma-synthase (EC 2.5.1.48)
+PGF_01747642	Aliivibrio	203.21	0.41	Outer membrane lipoprotein component of lipoprotein transport system LolB
+PGF_01748119	Aliivibrio	142.42	1.76	Sulfur acceptor protein => sulfur transfer pathway protein CsdE
+PGF_01756547	Aliivibrio	659.51	1.30	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16) / 3'-nucleotidase (EC 3.1.3.6)
+PGF_01760799	Aliivibrio	563.84	74.62	Type IV pilus biogenesis protein PilQ
+PGF_01761890	Aliivibrio	69.57	1.42	DNA gyrase inhibitor YacG
+PGF_01762333	Aliivibrio	253.00	0.00	General secretion pathway protein N
+PGF_01768765	Aliivibrio	212.93	3.95	Transcriptional regulator, Xre family
+PGF_01769256	Aliivibrio	126.10	0.62	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+PGF_01775859	Aliivibrio	1262.09	1.57	Inner membrane component of TAM transport system
+PGF_01780907	Aliivibrio	131.47	14.13	Protein YhfA
+PGF_01782190	Aliivibrio	229.40	2.00	3-deoxy-D-manno-octulosonic acid kinase (EC 2.7.1.-)
+PGF_01810305	Aliivibrio	197.00	0.00	Uncharacterized protein YjaG
+PGF_01810645	Aliivibrio	726.29	1.64	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01839055	Aliivibrio	344.12	0.32	FAD:protein FMN transferase (EC 2.7.1.180)
+PGF_01841446	Aliivibrio	481.23	10.61	Cardiolipin synthase (EC 2.7.8.-), ClsA
+PGF_01853493	Aliivibrio	277.83	0.38	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01877133	Aliivibrio	415.95	6.40	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Aliivibrio	150.22	1.41	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01889558	Aliivibrio	277.69	2.35	Sulfur carrier protein ThiS adenylyltransferase (EC 2.7.7.73)
+PGF_01898497	Aliivibrio	211.00	0.00	Endonuclease III (EC 4.2.99.18)
+PGF_01899937	Aliivibrio	280.12	9.28	Rod shape-determining protein MreC
+PGF_01900807	Aliivibrio	268.17	0.38	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01917480	Aliivibrio	418.17	4.58	General secretion pathway protein L
+PGF_01920535	Aliivibrio	573.00	0.00	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01920666	Aliivibrio	108.41	2.01	Z-ring-associated protein ZapA
+PGF_01920667	Aliivibrio	142.74	4.54	Uncharacterized protein YqiB
+PGF_01920692	Aliivibrio	64.00	0.00	Cytoplasmic protein, probably associated with glutathione-regulated potassium-efflux
+PGF_01920738	Aliivibrio	161.15	0.53	Sigma factor RpoE regulatory protein RseC
+PGF_01920828	Aliivibrio	269.51	1.16	HesA/MoeB/ThiF family protein => sulfur transfer pathway protein CsdL
+PGF_01921605	Aliivibrio	618.00	0.00	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01922580	Aliivibrio	402.20	0.60	2-polyprenylphenol hydroxylase
+PGF_01923866	Aliivibrio	85.00	0.00	Acid stress protein IbaG
+PGF_01929926	Aliivibrio	316.28	1.74	Glycine cleavage system transcriptional activator
+PGF_01937476	Aliivibrio	721.31	0.95	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01941038	Aliivibrio	1288.31	2.19	FIG005080: Possible exported protein
+PGF_01949788	Aliivibrio	188.83	0.93	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01950071	Aliivibrio	291.19	0.86	Aldose 1-epimerase family protein YeaD
+PGF_01960322	Aliivibrio	610.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Aliivibrio	432.00	0.00	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Aliivibrio	127.84	1.07	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Aliivibrio	257.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Aliivibrio	327.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Aliivibrio	321.77	0.43	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Aliivibrio	390.48	0.77	GTP-binding protein Obg
+PGF_02059020	Aliivibrio	541.81	61.41	Energy-dependent translational throttle protein EttA
+PGF_02061452	Aliivibrio	375.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02069837	Aliivibrio	86.00	0.00	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+PGF_02085373	Aliivibrio	128.67	10.40	UPF0225 protein YchJ
+PGF_02098099	Aliivibrio	501.83	30.56	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02109968	Aliivibrio	350.00	0.00	Flagellar motor switch protein FliG
+PGF_02111888	Aliivibrio	314.00	0.00	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02155126	Aliivibrio	155.00	0.00	Organic hydroperoxide resistance transcriptional regulator
+PGF_02185217	Aliivibrio	422.00	0.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Aliivibrio	376.00	0.00	Flagellar biosynthesis protein FlhB
+PGF_02190562	Aliivibrio	563.00	0.00	FIG143263: Glycosyl transferase / Lysophospholipid acyltransferase
+PGF_02191833	Aliivibrio	258.60	2.44	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_02203700	Aliivibrio	163.00	0.00	Periplasmic/membrane protein associated with DUF414
+PGF_02204321	Aliivibrio	343.76	5.60	Twitching motility protein PilT
+PGF_02209787	Aliivibrio	464.64	2.31	Conserved protein YcjX with nucleoside triphosphate hydrolase domain
+PGF_02211096	Aliivibrio	264.05	0.31	FIG008480: zinc-binding hydrolase
+PGF_02213182	Aliivibrio	68.00	0.00	Cytochrome c-type biogenesis protein CcmD, interacts with CcmCE
+PGF_02213227	Aliivibrio	69.71	1.29	Sulfur carrier protein ThiS
+PGF_02214779	Aliivibrio	930.71	2.17	Signal transduction histidine-protein kinase BarA (EC 2.7.13.3)
+PGF_02216306	Aliivibrio	144.77	0.61	CopG protein
+PGF_02226715	Aliivibrio	693.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02237713	Aliivibrio	678.00	0.00	Prolyl endopeptidase (EC 3.4.21.26)
+PGF_02246168	Aliivibrio	295.17	0.38	ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)
+PGF_02247058	Aliivibrio	271.57	8.86	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+PGF_02265871	Aliivibrio	170.56	0.95	Inosine/xanthosine triphosphatase (EC 3.6.1.-)
+PGF_02268482	Aliivibrio	276.37	0.94	Putative glutamine amidotransferase YafJ
+PGF_02286202	Aliivibrio	343.63	0.99	General secretion pathway protein K
+PGF_02317534	Aliivibrio	143.81	0.59	Thioredoxin 2
+PGF_02321088	Aliivibrio	154.10	0.62	FIG023103: Predicted transmembrane protein
+PGF_02325838	Aliivibrio	502.95	1.45	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328856	Aliivibrio	253.88	7.00	Type IV pilus biogenesis protein PilF
+PGF_02330496	Aliivibrio	208.00	0.00	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Aliivibrio	334.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Aliivibrio	859.10	0.30	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Aliivibrio	360.10	0.30	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Aliivibrio	937.02	9.13	DNA polymerase I (EC 2.7.7.7)
+PGF_02382338	Aliivibrio	265.32	4.75	Inner membrane protein YpjD
+PGF_02382389	Aliivibrio	305.21	0.41	Ribokinase (EC 2.7.1.15)
+PGF_02418941	Aliivibrio	202.82	0.55	RNA polymerase ECF-type sigma factor
+PGF_02454577	Aliivibrio	84.52	6.68	SSU ribosomal protein S20p
+PGF_02462544	Aliivibrio	396.19	46.65	Arginine deiminase (EC 3.5.3.6)
+PGF_02463284	Aliivibrio	200.00	0.00	Recombination protein RecR
+PGF_02473279	Aliivibrio	241.23	1.17	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473679	Aliivibrio	561.91	2.40	Type IV fimbrial assembly, ATPase PilB
+PGF_02499550	Aliivibrio	207.00	0.00	Ubiquinone biosynthesis protein UbiJ
+PGF_02501353	Aliivibrio	202.00	0.00	Uncharacterized UPF0750 membrane protein
+PGF_02516909	Aliivibrio	432.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02517984	Aliivibrio	65.00	0.00	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518459	Aliivibrio	112.00	0.00	Nitrogen regulatory protein P-II
+PGF_02518965	Aliivibrio	264.83	0.38	Regulatory protein RecX
+PGF_02592886	Aliivibrio	258.86	5.17	Flagellar biosynthesis protein FliR
+PGF_02593689	Aliivibrio	439.64	5.69	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601557	Aliivibrio	255.60	3.96	ParA-like protein
+PGF_02603976	Aliivibrio	216.51	5.23	Predicted zinc-binding protein
+PGF_02611620	Aliivibrio	465.00	0.00	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02613926	Aliivibrio	288.23	0.43	Ribulosamine/erythrulosamine 3-kinase potentially involved in protein deglycation
+PGF_02619970	Aliivibrio	94.02	0.16	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02621120	Aliivibrio	140.35	0.48	GNAT family acetyltransferase YjcF
+PGF_02623406	Aliivibrio	309.57	2.78	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02635429	Aliivibrio	234.33	2.52	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02695498	Aliivibrio	128.68	0.47	Uncharacterized protein YgbA
+PGF_02704551	Aliivibrio	1401.29	1.04	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02706008	Aliivibrio	260.16	1.86	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02717713	Aliivibrio	750.80	143.27	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02728524	Aliivibrio	852.93	10.12	DNA mismatch repair protein MutS
+PGF_02737642	Aliivibrio	268.17	4.05	ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)
+PGF_02744871	Aliivibrio	102.57	1.94	Flagellar hook-basal body complex protein FliE
+PGF_02746016	Aliivibrio	237.85	0.85	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02752469	Aliivibrio	301.00	0.00	Predicted dye-decolorizing peroxidase (DyP), YfeX-like subgroup
+PGF_02787494	Aliivibrio	226.00	0.00	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02789532	Aliivibrio	285.40	1.93	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Aliivibrio	233.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02795771	Aliivibrio	75.40	10.37	Glutaredoxin-like domain-containing protein PA3033
+PGF_02797106	Aliivibrio	965.91	7.41	Trimethylamine-N-oxide sensor histidine kinase TorS (EC 2.7.13.3)
+PGF_02797400	Aliivibrio	455.21	39.54	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Aliivibrio	1342.00	0.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Aliivibrio	515.86	9.80	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02801166	Aliivibrio	123.66	0.48	hypothetical protein
+PGF_02804714	Aliivibrio	361.00	0.00	UPF0118 membrane protein VC0624
+PGF_02806071	Aliivibrio	95.05	5.29	hypothetical protein
+PGF_02806432	Aliivibrio	397.02	0.16	Putative transport protein
+PGF_02806701	Aliivibrio	91.40	0.49	hypothetical protein
+PGF_02817932	Aliivibrio	395.72	0.45	Cystathionine beta-lyase (EC 4.4.1.8)
+PGF_02818638	Aliivibrio	428.62	4.03	Hemolysins and related proteins containing CBS domains
+PGF_02820109	Aliivibrio	216.86	0.90	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Aliivibrio	119.80	1.36	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02838109	Aliivibrio	172.00	0.00	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Aliivibrio	269.00	0.00	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Aliivibrio	403.00	0.00	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02865787	Aliivibrio	596.00	0.00	Glutathione-regulated potassium-efflux system protein KefB
+PGF_02872483	Aliivibrio	79.74	16.61	YfaE: ferredoxin involved with ribonucleotide reductase diferric-tyrosyl radical (Y*) cofactor maintenance
+PGF_02873160	Aliivibrio	222.80	0.60	Putative preQ0 transporter YhhQ
+PGF_02873723	Aliivibrio	489.00	0.00	Ribonuclease G
+PGF_02874203	Aliivibrio	124.61	2.92	General secretion pathway protein I
+PGF_02875609	Aliivibrio	451.00	9.05	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Aliivibrio	384.14	50.45	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02877296	Aliivibrio	147.17	2.63	hypothetical protein
+PGF_02878423	Aliivibrio	142.78	1.26	hypothetical protein
+PGF_02882602	Aliivibrio	446.12	5.50	Sodium-dependent transporter
+PGF_02883702	Aliivibrio	371.49	55.66	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02888359	Aliivibrio	396.74	2.48	Methyl-accepting chemotaxis protein
+PGF_02893929	Aliivibrio	271.85	0.36	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02897543	Aliivibrio	172.07	0.26	Phospholipid-binding protein
+PGF_02897665	Aliivibrio	377.00	1.43	Glycerate kinase (EC 2.7.1.31)
+PGF_02898176	Aliivibrio	220.80	24.99	Methionine ABC transporter permease protein
+PGF_02899131	Aliivibrio	63.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Aliivibrio	199.19	2.16	Outer membrane lipoprotein carrier protein LolA
+PGF_02903959	Aliivibrio	533.00	3.89	Bis-ABC ATPase SO_2525
+PGF_02906681	Aliivibrio	772.85	3.47	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02908029	Aliivibrio	88.57	13.73	UPF0213 protein YhbQ
+PGF_02911133	Aliivibrio	204.24	0.43	Arylesterase precursor (EC 3.1.1.2)
+PGF_02911364	Aliivibrio	294.00	0.00	HflC protein
+PGF_02912009	Aliivibrio	192.38	0.62	Type IV pilus biogenesis protein PilO
+PGF_02912170	Aliivibrio	114.07	0.26	5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC 5.3.3.10)
+PGF_02918872	Aliivibrio	609.75	4.06	Neopullulanase (EC 3.2.1.135)
+PGF_02923127	Aliivibrio	243.00	0.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02930631	Aliivibrio	372.57	6.33	MSHA biogenesis protein MshN
+PGF_02931322	Aliivibrio	329.00	0.00	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Aliivibrio	293.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Aliivibrio	384.74	0.44	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02937881	Aliivibrio	409.00	0.00	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+PGF_02938730	Aliivibrio	343.91	0.87	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942020	Aliivibrio	185.86	0.47	Peptidyl-prolyl cis-trans isomerase PpiA precursor (EC 5.2.1.8)
+PGF_02942351	Aliivibrio	227.00	0.00	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Aliivibrio	557.00	0.00	SSU ribosomal protein S1p
+PGF_02947204	Aliivibrio	540.32	0.47	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02949574	Aliivibrio	249.00	0.00	L-amino acid ABC transporter (Glu/Asp/His/...), ATP-binding protein AapP
+PGF_02950579	Aliivibrio	270.00	0.00	Septum site-determining protein MinD
+PGF_02959749	Aliivibrio	373.14	0.35	Ribonuclease D (EC 3.1.26.3)
+PGF_02961167	Aliivibrio	129.00	0.00	2-iminobutanoate/2-iminopropanoate deaminase RidA/TdcF (EC 3.5.99.10)
+PGF_02963785	Aliivibrio	393.83	0.38	NnrS protein involved in response to NO
+PGF_02965454	Aliivibrio	89.00	0.00	Uncharacterized zinc-finger containing protein YbiI
+PGF_02967264	Aliivibrio	239.00	0.00	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_02970240	Aliivibrio	230.77	0.65	hypothetical protein
+PGF_02976276	Aliivibrio	218.00	0.00	Pentapeptide repeat protein QnrB family
+PGF_02977705	Aliivibrio	467.72	5.35	hypothetical protein
+PGF_02981209	Aliivibrio	267.00	0.00	Fatty acid hydroxylase family (carotene hydroxylase/sterol desaturase)
+PGF_02991837	Aliivibrio	233.71	0.51	Protein of unknown function DUF484
+PGF_02992100	Aliivibrio	230.00	0.00	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Aliivibrio	113.21	1.59	Protein translocase membrane subunit SecG
+PGF_02994053	Aliivibrio	179.95	14.50	Protein ytfJ precursor
+PGF_02997723	Aliivibrio	148.00	0.00	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_02998943	Aliivibrio	180.00	19.59	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03001246	Aliivibrio	636.00	73.90	Sensory box/GGDEF family protein
+PGF_03006136	Aliivibrio	546.17	3.50	Periplasmic alpha-amylase (EC 3.2.1.1)
+PGF_03006190	Aliivibrio	395.00	0.00	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03011092	Aliivibrio	298.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017775	Aliivibrio	501.00	0.00	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Aliivibrio	191.57	1.78	Septum formation protein Maf
+PGF_03024272	Aliivibrio	309.33	2.51	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4)
+PGF_03025044	Aliivibrio	190.44	7.95	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03025675	Aliivibrio	582.00	0.00	Lipid A export permease/ATP-binding protein MsbA
+PGF_03029859	Aliivibrio	636.37	0.49	Bis-ABC ATPase Uup
+PGF_03034557	Aliivibrio	247.00	0.00	Fumarate reductase iron-sulfur protein (EC 1.3.5.4)
+PGF_03035481	Aliivibrio	115.65	2.29	hypothetical protein
+PGF_03038852	Aliivibrio	128.35	2.29	FIG00018398: hypothetical regulator
+PGF_03046709	Aliivibrio	409.00	0.00	Ammonium transporter
+PGF_03048693	Aliivibrio	94.00	0.00	Periplasmic nitrate reductase component NapD
+PGF_03051288	Aliivibrio	336.86	1.30	Iron-regulated protein A precursor
+PGF_03053320	Aliivibrio	141.64	5.65	MSHA biogenesis protein MshP
+PGF_03053971	Aliivibrio	563.77	3.30	Iron-sulfur cluster-binding protein
+PGF_03054699	Aliivibrio	1125.19	26.36	DNA translocase FtsK
+PGF_03057384	Aliivibrio	336.00	0.00	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03063012	Aliivibrio	171.00	0.00	Chaperone protein HscB
+PGF_03065239	Aliivibrio	279.88	13.43	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+PGF_03067260	Aliivibrio	537.79	7.06	Sulfatase
+PGF_03068394	Aliivibrio	283.00	0.00	Uncharacterized inner membrane protein RarD
+PGF_03069524	Aliivibrio	80.00	0.00	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03070367	Aliivibrio	200.63	1.45	Putative formate dehydrogenase-specific chaperone
+PGF_03070510	Aliivibrio	288.70	40.15	Flagellar synthesis regulator FleN
+PGF_03071386	Aliivibrio	638.33	0.48	ATP-dependent DNA helicase RecS (RecQ family)
+PGF_03074101	Aliivibrio	85.00	0.00	Acyl carrier protein (ACP1)
+PGF_03074362	Aliivibrio	386.00	0.00	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03075532	Aliivibrio	244.07	0.46	Putative Bax protein
+PGF_03081665	Aliivibrio	184.00	0.00	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03100458	Aliivibrio	147.40	3.19	hypothetical protein
+PGF_03101305	Aliivibrio	552.12	5.47	hypothetical protein
+PGF_03101306	Aliivibrio	319.39	0.74	Serine/threonine protein kinase
+PGF_03104567	Aliivibrio	458.00	0.00	Trk potassium uptake system protein TrkA
+PGF_03104796	Aliivibrio	1385.67	2.00	anaerobic dehydrogenase
+PGF_03111291	Aliivibrio	501.76	0.66	Putative sodium/proton-dependent alanine carrier protein YrbD
+PGF_03113766	Aliivibrio	311.05	0.32	Transcriptional regulator
+PGF_03117340	Aliivibrio	428.09	0.29	Peptidase B (EC 3.4.11.23)
+PGF_03122066	Aliivibrio	149.28	0.70	Protein YaiI
+PGF_03122400	Aliivibrio	304.07	41.17	Uncharacterized radical SAM protein YhcC
+PGF_03126065	Aliivibrio	321.95	0.22	Putative esterase YheT functionally coupled to phosphoribulokinase homolog
+PGF_03128228	Aliivibrio	385.00	0.00	Outer membrane beta-barrel assembly protein BamB
+PGF_03128934	Aliivibrio	180.73	2.64	Glutathione-regulated potassium-efflux system ancillary protein KefG
+PGF_03131321	Aliivibrio	426.10	60.90	DNA-damage-inducible protein F
+PGF_03132336	Aliivibrio	418.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Aliivibrio	397.00	0.00	Flagellar hook-associated protein FlgL
+PGF_03138425	Aliivibrio	294.57	0.67	FIG00613342: Bacterial patatin-like phospholipase domain containing protein
+PGF_03144011	Aliivibrio	162.88	12.71	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146406	Aliivibrio	588.65	0.48	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03147273	Aliivibrio	138.55	15.89	Nitrite-sensitive transcriptional repressor NsrR
+PGF_03152003	Aliivibrio	404.67	0.48	Cytochrome c heme lyase subunit CcmH
+PGF_03154343	Aliivibrio	298.74	2.41	Cytidine deaminase (EC 3.5.4.5)
+PGF_03172904	Aliivibrio	274.37	29.78	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Aliivibrio	181.00	0.00	Transcription antitermination protein NusG
+PGF_03215360	Aliivibrio	455.76	1.90	FIGfam138462: Acyl-CoA synthetase, AMP-(fatty) acid ligase
+PGF_03217584	Aliivibrio	382.45	7.18	Probable 3-phenylpropionic acid transporter
+PGF_03222913	Aliivibrio	140.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Aliivibrio	102.85	2.63	UPF0125 protein RatB
+PGF_03253896	Aliivibrio	230.00	0.00	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+PGF_03257845	Aliivibrio	207.44	0.87	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Aliivibrio	879.35	3.98	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277417	Aliivibrio	344.00	0.00	Methionine ABC transporter ATP-binding protein
+PGF_03278866	Aliivibrio	78.00	0.00	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03325319	Aliivibrio	196.00	0.00	DnaA initiator-associating protein DiaA
+PGF_03333115	Aliivibrio	177.09	0.29	Dihydrofolate reductase homolog
+PGF_03341277	Aliivibrio	261.74	4.61	Flagellar L-ring protein FlgH
+PGF_03345864	Aliivibrio	445.45	76.13	N-acetylglucosamine regulated methyl-accepting chemotaxis protein
+PGF_03348849	Aliivibrio	83.00	0.00	Uncharacterized protein YqiC
+PGF_03364965	Aliivibrio	788.63	9.34	Type cbb3 cytochrome oxidase biogenesis protein CcoI; Copper-translocating P-type ATPase (EC 3.6.3.4)
+PGF_03365853	Aliivibrio	224.00	0.00	Heavy-metal-associated domain (N-terminus) and membrane-bounded cytochrome biogenesis cycZ-like domain, possible membrane copper tolerance protein
+PGF_03400333	Aliivibrio	326.00	0.00	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03421722	Aliivibrio	438.00	0.00	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Aliivibrio	291.00	0.00	33 kDa chaperonin HslO
+PGF_03439690	Aliivibrio	147.00	0.00	Ferric uptake regulation protein FUR
+PGF_03441339	Aliivibrio	315.00	0.00	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03447545	Aliivibrio	292.37	6.22	Integral membrane protein
+PGF_03456505	Aliivibrio	622.86	21.78	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03470321	Aliivibrio	173.00	0.00	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03474542	Aliivibrio	439.00	0.00	Flagellum-specific ATP synthase FliI
+PGF_03507290	Aliivibrio	413.50	1.13	Serine/threonine:Na+ symporter SstT
+PGF_03514188	Aliivibrio	441.50	64.11	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Aliivibrio	144.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Aliivibrio	417.86	21.20	Cell division protein FtsZ
+PGF_03565869	Aliivibrio	221.05	13.69	Uncharacterized SAM-binding protein YdcF
+PGF_03589686	Aliivibrio	464.30	57.29	Sigma-54 dependent response regulator
+PGF_03609651	Aliivibrio	683.02	8.19	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Aliivibrio	160.00	0.00	UPF0234 protein Yitk
+PGF_03687279	Aliivibrio	391.27	4.69	Uncharacterized MFS-type transporter
+PGF_03694962	Aliivibrio	341.27	13.55	TolA protein
+PGF_03699416	Aliivibrio	185.00	0.00	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Aliivibrio	317.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Aliivibrio	127.14	4.67	Protein translocase subunit SecE
+PGF_03718818	Aliivibrio	254.74	2.51	Cell division protein FtsQ
+PGF_03719269	Aliivibrio	205.95	4.10	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Aliivibrio	154.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729004	Aliivibrio	338.00	0.00	Arginine N-succinyltransferase (EC 2.3.1.109)
+PGF_03729040	Aliivibrio	147.00	0.00	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03729098	Aliivibrio	323.37	6.24	Sigma factor RpoE negative regulatory protein RseB precursor
+PGF_03729141	Aliivibrio	186.07	14.87	UPF0301 protein YqgE
+PGF_03733480	Aliivibrio	146.74	1.70	dCMP deaminase (EC 3.5.4.12)
+PGF_03740446	Aliivibrio	175.07	0.26	Repair of Iron Centers di-iron protein
+PGF_03750571	Aliivibrio	460.77	59.21	Chromosomal replication initiator protein DnaA
+PGF_03750599	Aliivibrio	251.41	30.03	Cell division coordinator CpoB
+PGF_03750600	Aliivibrio	158.17	0.38	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Aliivibrio	194.54	2.40	Heat shock protein GrpE
+PGF_03752215	Aliivibrio	139.00	0.00	D-ribose pyranase (EC 5.4.99.62)
+PGF_03752544	Aliivibrio	232.00	0.00	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Aliivibrio	302.54	2.97	Site-specific tyrosine recombinase XerC
+PGF_03753933	Aliivibrio	167.70	1.98	Iron-sulfur cluster regulator IscR
+PGF_03760224	Aliivibrio	226.07	0.26	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03767717	Aliivibrio	241.74	3.05	3-oxoacyl-[ACP] synthase
+PGF_03768099	Aliivibrio	287.00	0.00	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03777189	Aliivibrio	180.86	0.35	Protein YrdA
+PGF_03778521	Aliivibrio	489.00	0.00	Cobalt/zinc/cadmium efflux RND transporter, membrane fusion protein, CzcB family
+PGF_03778780	Aliivibrio	412.10	1.67	Signal recognition particle receptor FtsY
+PGF_03787199	Aliivibrio	184.00	0.00	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Aliivibrio	363.09	8.96	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Aliivibrio	223.00	0.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03793906	Aliivibrio	307.10	2.30	FIG028593: membrane protein
+PGF_03800645	Aliivibrio	186.00	0.00	FIG017861: hypothetical protein
+PGF_03801201	Aliivibrio	272.00	0.00	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Aliivibrio	72.00	0.00	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03803868	Aliivibrio	602.31	2.05	Fumarate reductase flavoprotein subunit (EC 1.3.5.4)
+PGF_03810089	Aliivibrio	499.02	0.16	General secretion pathway protein E
+PGF_03810115	Aliivibrio	239.81	0.59	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Aliivibrio	346.00	0.00	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03815442	Aliivibrio	323.12	0.32	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_03821650	Aliivibrio	276.35	3.08	Outer membrane protein ImpK/VasF, OmpA/MotB domain
+PGF_03821993	Aliivibrio	53.00	0.00	hypothetical protein
+PGF_03822034	Aliivibrio	187.33	1.18	DamX-related protein
+PGF_03822229	Aliivibrio	648.98	220.03	Signal transduction histidine kinase SypF
+PGF_03822872	Aliivibrio	169.83	1.00	Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor
+PGF_03822963	Aliivibrio	257.14	2.45	hypothetical protein
+PGF_03824761	Aliivibrio	304.00	0.54	Integrase-like protein
+PGF_03825991	Aliivibrio	577.83	1.23	PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03826605	Aliivibrio	277.30	16.62	hypothetical protein
+PGF_03828790	Aliivibrio	95.33	2.16	UPF0235 protein VC0458
+PGF_03828854	Aliivibrio	167.00	0.00	Uncharacterized N-acetyltransferase YhbS
+PGF_03830464	Aliivibrio	1126.10	0.30	Chitin catabolic cascade sensor histidine kinase ChiS
+PGF_03834087	Aliivibrio	248.00	0.00	Chromosome segregation ATPase
+PGF_03834532	Aliivibrio	208.86	1.34	Protein F-related protein
+PGF_03835760	Aliivibrio	418.24	4.07	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03843714	Aliivibrio	124.00	0.00	Inner membrane protein YijD
+PGF_03844325	Aliivibrio	314.26	8.40	hypothetical protein
+PGF_03844705	Aliivibrio	423.14	48.83	Anaerobic C4-dicarboxylate transporter DcuA
+PGF_03846068	Aliivibrio	289.00	0.00	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03846586	Aliivibrio	185.19	4.27	Putative transmembrane protein
+PGF_03852276	Aliivibrio	316.58	34.57	hypothetical protein
+PGF_03852305	Aliivibrio	190.45	2.17	Cell division protein FtsN
+PGF_03856084	Aliivibrio	644.93	57.36	Cell division protein FtsH
+PGF_03862461	Aliivibrio	62.00	0.00	hypothetical protein
+PGF_03862500	Aliivibrio	204.05	0.31	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03866067	Aliivibrio	451.16	0.37	Uncharacterized protein SO_0942
+PGF_03868535	Aliivibrio	166.00	1.43	hypothetical protein
+PGF_03870412	Aliivibrio	421.66	54.56	hypothetical protein
+PGF_03870438	Aliivibrio	292.00	0.00	Uncharacterized peptidase U32 family member YhbV
+PGF_03872290	Aliivibrio	246.07	103.44	hypothetical protein
+PGF_03875137	Aliivibrio	518.34	73.60	Tetracycline resistance, MFS efflux pump => Tet(35)
+PGF_03882172	Aliivibrio	392.00	0.00	Trimethylamine-N-oxide reductase associated c-type cytochrome, TorC
+PGF_03897760	Aliivibrio	731.28	4.73	TonB-dependent heme and hemoglobin receptor HutA; TonB-dependent hemin, ferrichrome receptor
+PGF_03919925	Aliivibrio	148.40	18.82	DNA-binding protein H-NS
+PGF_03934498	Aliivibrio	477.31	0.47	Flagellar two-component response regulator FleR
+PGF_03948830	Aliivibrio	125.02	14.68	Flagellar biosynthesis protein FliO
+PGF_03954476	Aliivibrio	294.24	5.43	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03960810	Aliivibrio	244.81	1.23	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03980141	Aliivibrio	838.12	12.43	Adenylate cyclase (EC 4.6.1.1)
+PGF_03981497	Aliivibrio	159.32	4.38	FIG026291: Hypothetical periplasmic protein
+PGF_03985337	Aliivibrio	232.00	0.00	hypothetical protein
+PGF_03986381	Aliivibrio	155.84	5.74	Histone acetyltransferase HPA2
+PGF_03995518	Aliivibrio	89.00	0.00	Proposed lipoate regulatory protein YbeD
+PGF_04005838	Aliivibrio	417.00	0.00	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Aliivibrio	214.70	10.94	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Aliivibrio	148.19	0.85	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04009223	Aliivibrio	399.07	4.34	Uncharacterized protein EC-HemX
+PGF_04016408	Aliivibrio	471.88	4.86	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019834	Aliivibrio	339.00	0.00	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04034430	Aliivibrio	71.00	0.00	SSU ribosomal protein S21p
+PGF_04041316	Aliivibrio	941.14	0.42	Excinuclease ABC subunit A
+PGF_04043844	Aliivibrio	676.50	3.66	Exoribonuclease II (EC 3.1.13.1)
+PGF_04098464	Aliivibrio	380.67	0.48	ABC transporter, substrate-binding protein YnjB
+PGF_04108824	Aliivibrio	573.88	27.17	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04108994	Aliivibrio	505.00	0.00	Inorganic triphosphatase (EC 3.6.1.25)
+PGF_04127376	Aliivibrio	251.12	0.40	Twin-arginine translocation protein TatC
+PGF_04151476	Aliivibrio	175.00	0.00	16S rRNA processing protein RimM
+PGF_04154333	Aliivibrio	82.24	0.43	Twin-arginine translocation protein TatA
+PGF_04162809	Aliivibrio	202.00	0.00	Alkyl hydroperoxide reductase subunit C-like protein
+PGF_04163139	Aliivibrio	229.60	32.41	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Aliivibrio	222.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04217145	Aliivibrio	888.33	3.87	Acetaldehyde dehydrogenase (EC 1.2.1.10) / Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_04217548	Aliivibrio	672.14	0.52	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04225975	Aliivibrio	384.00	0.00	Aspartate aminotransferase (AspB-4) (EC 2.6.1.1)
+PGF_04240096	Aliivibrio	731.74	5.21	Signal transduction histidine kinase CheA
+PGF_04256257	Aliivibrio	488.00	0.00	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04261669	Aliivibrio	102.76	1.68	Transcriptional regulator, ArsR family
+PGF_04273925	Aliivibrio	75.00	0.00	Ferrous iron transport protein A
+PGF_04306800	Aliivibrio	372.00	0.00	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04315180	Aliivibrio	156.10	0.62	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04317665	Aliivibrio	157.00	0.00	hypothetical protein
+PGF_04345693	Aliivibrio	452.02	0.15	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04359199	Aliivibrio	679.98	0.15	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04360357	Aliivibrio	907.00	0.00	Protein translocase subunit SecA
+PGF_04412082	Aliivibrio	108.00	0.00	Thioredoxin
+PGF_04457297	Aliivibrio	193.00	0.00	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458212	Aliivibrio	320.00	0.00	6-phosphofructokinase (EC 2.7.1.11)
+PGF_04475011	Aliivibrio	205.00	0.00	Cytochrome c4
+PGF_04490570	Aliivibrio	408.62	9.11	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04505269	Aliivibrio	242.17	0.38	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Aliivibrio	347.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Aliivibrio	451.79	0.78	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04555958	Aliivibrio	232.00	0.00	Trimethylamine-N-oxide operon transcriptional regulatory protein TorR
+PGF_04567743	Aliivibrio	394.00	0.00	Flavohemoglobin / Nitric oxide dioxygenase (EC 1.14.12.17)
+PGF_04569524	Aliivibrio	513.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Aliivibrio	256.00	0.00	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04584530	Aliivibrio	235.00	0.00	hypothetical protein
+PGF_04630848	Aliivibrio	160.64	2.31	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Aliivibrio	90.20	1.21	DNA-binding protein HU-beta
+PGF_04651366	Aliivibrio	266.14	4.17	FIG018329: 1-acyl-sn-glycerol-3-phosphate acyltransferase
+PGF_04655384	Aliivibrio	326.05	0.49	1-phosphofructokinase (EC 2.7.1.56)
+PGF_04660832	Aliivibrio	169.76	5.60	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Aliivibrio	805.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04667681	Aliivibrio	404.00	0.00	Alanine transaminase (EC 2.6.1.2)
+PGF_04675530	Aliivibrio	161.28	1.68	Transcription elongation factor
+PGF_04679223	Aliivibrio	141.00	0.00	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04679905	Aliivibrio	1034.00	0.00	Cation/multidrug efflux pump
+PGF_04687504	Aliivibrio	466.32	0.73	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04695681	Aliivibrio	267.80	24.39	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04724831	Aliivibrio	363.90	0.30	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Aliivibrio	892.10	0.96	Translation initiation factor 2
+PGF_04788810	Aliivibrio	195.07	6.10	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Aliivibrio	310.29	0.89	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04838801	Aliivibrio	704.26	2.46	tRNA cytosine(34) acetyltransferase (EC 2.3.1.193)
+PGF_04845029	Aliivibrio	117.00	0.00	LSU ribosomal protein L19p
+PGF_04958295	Aliivibrio	136.00	0.00	Flagellar biosynthesis protein FliS
+PGF_04962192	Aliivibrio	835.45	1.19	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Aliivibrio	90.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Aliivibrio	103.00	0.00	LSU ribosomal protein L21p
+PGF_05022117	Aliivibrio	530.61	1.74	Bis-ABC ATPase YbiT
+PGF_05038169	Aliivibrio	314.00	0.00	COG1683: Uncharacterized conserved protein / FIG143828: Hypothetical protein YbgA
+PGF_05048110	Aliivibrio	254.56	5.73	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1)
+PGF_05082285	Aliivibrio	395.21	57.64	Succinylornithine transaminase (EC 2.6.1.81)
+PGF_05091456	Aliivibrio	311.98	24.78	Uncharacterized inner membrane protein RarD
+PGF_05111929	Aliivibrio	579.00	0.00	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Aliivibrio	951.57	1.90	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Aliivibrio	858.00	0.00	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05154774	Aliivibrio	174.05	7.63	UPF0716 protein FxsA
+PGF_05165078	Aliivibrio	315.57	1.78	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Aliivibrio	217.00	0.00	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Aliivibrio	467.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Aliivibrio	475.31	0.47	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05214845	Aliivibrio	467.86	1.80	hypothetical protein
+PGF_05225639	Aliivibrio	771.14	118.00	FIG021862: membrane protein, exporter
+PGF_05255412	Aliivibrio	424.90	7.03	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05256310	Aliivibrio	371.90	2.90	Domain of unknown function / Efflux ABC transporter, permease protein
+PGF_05280843	Aliivibrio	426.10	0.30	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Aliivibrio	187.23	1.41	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Aliivibrio	500.93	2.91	ATP-dependent RNA helicase RhlE
+PGF_05304567	Aliivibrio	245.00	0.00	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+PGF_05322459	Aliivibrio	189.16	0.69	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_05338234	Aliivibrio	287.00	0.00	Protein YicC
+PGF_05406959	Aliivibrio	331.00	0.00	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05415910	Aliivibrio	59.33	1.91	hypothetical protein
+PGF_05421852	Aliivibrio	631.35	0.48	Chaperone protein HtpG
+PGF_05430047	Aliivibrio	1040.57	2.36	Cobalt-zinc-cadmium resistance protein CzcA; Cation efflux system protein CusA
+PGF_05435672	Aliivibrio	342.58	6.08	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05439724	Aliivibrio	651.86	72.21	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05444169	Aliivibrio	292.07	0.26	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05449103	Aliivibrio	159.14	7.36	Rhodanese-related sulfurtransferase YibN
+PGF_05463808	Aliivibrio	295.12	1.44	NAD kinase (EC 2.7.1.23)
+PGF_05475561	Aliivibrio	518.00	0.00	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+PGF_05504162	Aliivibrio	577.79	8.03	5'-nucleotidase (EC 3.1.3.5)
+PGF_05507938	Aliivibrio	660.64	4.61	DNA mismatch repair protein MutL
+PGF_05560886	Aliivibrio	272.90	0.62	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Aliivibrio	443.00	0.00	Protein translocase subunit SecY
+PGF_05598173	Aliivibrio	384.62	3.26	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Aliivibrio	416.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05643076	Aliivibrio	350.00	0.00	ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)
+PGF_05657253	Aliivibrio	218.74	3.41	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05679920	Aliivibrio	1298.88	6.43	ATP-dependent helicase HrpA
+PGF_05693577	Aliivibrio	93.00	0.00	Integration host factor beta subunit
+PGF_05712128	Aliivibrio	541.00	0.00	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Aliivibrio	121.17	9.71	FIG138056: a glutathione-dependent thiol reductase
+PGF_05729472	Aliivibrio	1574.41	181.58	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05732875	Aliivibrio	651.00	0.00	Limit dextrin alpha-1,6-maltotetraose-hydrolase (EC 3.2.1.196)
+PGF_05743061	Aliivibrio	893.50	1.94	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05751082	Aliivibrio	203.15	2.77	Tetrathionate reductase two-component response regulator
+PGF_05769513	Aliivibrio	450.00	0.00	Tol-Pal system beta propeller repeat protein TolB
+PGF_05837052	Aliivibrio	433.00	58.33	Isocitrate lyase (EC 4.1.3.1)
+PGF_05847461	Aliivibrio	313.00	0.00	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05872952	Aliivibrio	244.41	6.09	Outer membrane beta-barrel assembly protein BamD
+PGF_05928633	Aliivibrio	235.00	0.00	hypothetical protein
+PGF_05965455	Aliivibrio	446.91	0.61	AmpG permease
+PGF_05971611	Aliivibrio	409.78	4.80	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05979113	Aliivibrio	106.00	0.00	Phospholipid ABC transporter-binding protein MlaB
+PGF_06000040	Aliivibrio	402.40	45.36	Type IV fimbrial assembly protein PilC
+PGF_06005188	Aliivibrio	626.00	0.00	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06025565	Aliivibrio	305.00	0.00	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06027248	Aliivibrio	500.00	0.00	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06037680	Aliivibrio	146.47	10.80	hypothetical protein
+PGF_06037862	Aliivibrio	602.86	0.65	Penicillin-binding protein activator LpoA
+PGF_06043321	Aliivibrio	337.00	0.00	Ferric iron ABC transporter, iron-binding protein
+PGF_06053106	Aliivibrio	286.00	0.00	RNA polymerase sigma factor RpoH
+PGF_06061522	Aliivibrio	126.95	14.43	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06111528	Aliivibrio	365.84	36.04	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06120144	Aliivibrio	145.07	0.26	Ribosome association toxin RatA
+PGF_06150781	Aliivibrio	460.14	6.78	ATP-dependent 23S rRNA helicase DbpA
+PGF_06152571	Aliivibrio	250.29	0.72	Sulfate transporter, CysZ-type
+PGF_06170558	Aliivibrio	152.60	17.82	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Aliivibrio	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06189158	Aliivibrio	111.00	0.00	Monothiol glutaredoxin GrxD
+PGF_06254345	Aliivibrio	95.68	0.47	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Aliivibrio	367.29	6.26	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Aliivibrio	421.98	0.15	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Aliivibrio	336.00	0.00	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06323462	Aliivibrio	195.00	0.00	21 kDa hemolysin precursor
+PGF_06326847	Aliivibrio	288.57	2.78	Flagellar biosynthesis protein FliP
+PGF_06348872	Aliivibrio	677.41	0.71	General secretion pathway protein D
+PGF_06363819	Aliivibrio	408.00	0.00	Paraquat-inducible protein A
+PGF_06379377	Aliivibrio	437.47	50.86	Replication-associated recombination protein RarA
+PGF_06398080	Aliivibrio	342.00	0.00	L-amino acid ABC transporter (Glu/Asp/His/...), substrate-binding protein AapJ
+PGF_06403579	Aliivibrio	779.86	8.92	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06412007	Aliivibrio	815.00	0.00	Acyl-coenzyme A dehydrogenase FadE
+PGF_06429852	Aliivibrio	205.39	1.58	Sigma factor RpoE negative regulatory protein RseA
+PGF_06447349	Aliivibrio	415.00	0.00	NADP-dependent malic enzyme (EC 1.1.1.40)
+PGF_06458877	Aliivibrio	165.37	8.86	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Aliivibrio	331.77	0.65	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06470834	Aliivibrio	174.24	8.19	Lipocalin Blc
+PGF_06481545	Aliivibrio	465.19	1.74	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06495818	Aliivibrio	244.64	0.48	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06524027	Aliivibrio	671.00	0.00	ATP-dependent DNA helicase Rep
+PGF_06530721	Aliivibrio	236.44	10.22	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06579751	Aliivibrio	842.09	93.38	Aconitate hydratase 2 (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)
+PGF_06582869	Aliivibrio	317.46	1.29	hypothetical protein
+PGF_06589185	Aliivibrio	581.95	60.00	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06594013	Aliivibrio	135.12	0.67	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06635957	Aliivibrio	321.76	0.43	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06644010	Aliivibrio	311.00	0.00	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06644728	Aliivibrio	319.69	1.05	Secreted trypsin-like serine protease
+PGF_06646425	Aliivibrio	477.79	67.81	MATE efflux family protein
+PGF_06648993	Aliivibrio	77.00	0.00	Acyl carrier protein
+PGF_06660812	Aliivibrio	200.00	0.00	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06664917	Aliivibrio	387.65	2.29	L-amino acid ABC transporter (Glu/Asp/His/...), permease protein 1 AapQ
+PGF_06668258	Aliivibrio	247.00	0.00	SAM-dependent methyltransferase
+PGF_06683449	Aliivibrio	302.86	11.60	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06693963	Aliivibrio	111.00	0.00	Nucleoid-associated protein YaaK
+PGF_06706859	Aliivibrio	168.56	7.33	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06718352	Aliivibrio	156.00	0.00	Cys-tRNA(Pro) deacylase YbaK
+PGF_06743269	Aliivibrio	393.93	0.26	Uncharacterized protein EC-HemY in Proteobacteria (unrelated to HemY-type PPO in GramPositives)
+PGF_06755829	Aliivibrio	313.95	42.86	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Aliivibrio	510.00	0.00	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06758915	Aliivibrio	1146.43	0.86	Sensor histidine kinase
+PGF_06772993	Aliivibrio	997.02	9.31	Ribonuclease E (EC 3.1.26.12)
+PGF_06792905	Aliivibrio	57.30	0.96	Type cbb3 cytochrome oxidase biogenesis protein CcoS, involved in heme b insertion
+PGF_06802184	Aliivibrio	277.12	1.10	Thiamine kinase (EC 2.7.1.89) @ Adenosylcobinamide kinase (EC 2.7.1.156)
+PGF_06949599	Aliivibrio	821.00	0.00	ATP-dependent helicase HrpB
+PGF_06965613	Aliivibrio	164.15	0.53	GNAT family acetyltransferase YhhY
+PGF_07072582	Aliivibrio	612.27	4.98	RNA polymerase sigma factor RpoD
+PGF_07101513	Aliivibrio	128.33	0.95	Flagellar motor switch protein FliN
+PGF_07171792	Aliivibrio	255.00	0.00	Glycerol-3-phosphate regulon repressor GlpR
+PGF_07267579	Aliivibrio	238.10	0.30	Chemotaxis response - phosphatase CheZ
+PGF_07344415	Aliivibrio	181.00	0.00	Intracellular septation protein IspA
+PGF_07370370	Aliivibrio	467.31	4.90	Voltage-gated H(+)/2Cl(-) exchange transporter ClcA
+PGF_07410757	Aliivibrio	352.98	0.16	Aldose 1-epimerase (EC 5.1.3.3)
+PGF_07425883	Aliivibrio	112.00	0.00	Ferredoxin, 2Fe-2S
+PGF_07426744	Aliivibrio	234.00	0.00	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_07436227	Aliivibrio	108.64	2.31	Arsenical resistance operon repressor
+PGF_08028760	Aliivibrio	311.65	38.79	Transcriptional regulator, LysR family
+PGF_08044951	Aliivibrio	246.00	0.00	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_08049323	Aliivibrio	274.00	0.00	Peptide transport system ATP-binding protein SapF
+PGF_08050537	Aliivibrio	312.10	3.41	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08055446	Aliivibrio	141.44	0.50	hypothetical protein
+PGF_08059428	Aliivibrio	86.65	0.48	Cell division topological specificity factor MinE
+PGF_08061357	Aliivibrio	113.00	0.00	Iron-sulfur cluster insertion protein ErpA
+PGF_08065358	Aliivibrio	298.38	3.44	Putative surface protein
+PGF_08074580	Aliivibrio	389.30	45.72	Lipoprotein releasing system transmembrane protein LolC
+PGF_08088615	Aliivibrio	331.45	10.03	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) for arsenate detoxification
+PGF_08118834	Aliivibrio	421.56	3.41	Small-conductance mechanosensitive channel
+PGF_08126362	Aliivibrio	506.00	0.00	DNA recombination protein RmuC
+PGF_08135746	Aliivibrio	92.00	0.00	Phosphocarrier protein, nitrogen regulation associated
+PGF_08139865	Aliivibrio	162.57	2.78	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_08153913	Aliivibrio	252.00	0.00	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08170123	Aliivibrio	253.20	1.10	Deoxyribonuclease TatD
+PGF_08177814	Aliivibrio	414.00	0.00	Lipoprotein releasing system transmembrane protein LolE
+PGF_08183187	Aliivibrio	400.00	0.00	Cell division protein FtsW
+PGF_08184989	Aliivibrio	509.51	60.64	sigma-54-dependent transcriptional regulator
+PGF_08187328	Aliivibrio	401.21	1.97	MFS-type efflux pump ArsJ specific for 1-arseno-3-phosphoglycerate

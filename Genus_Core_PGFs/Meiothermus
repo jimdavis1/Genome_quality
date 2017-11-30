@@ -1,0 +1,918 @@
+PGF_00000027	Meiothermus	249.00	8.45	Uncharacterized protein YmdB
+PGF_00002140	Meiothermus	222.92	7.84	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00002867	Meiothermus	406.42	0.90	FIG024850: short form Mg-chelase associated protein with vWA domain
+PGF_00003406	Meiothermus	103.45	1.86	FIG087682: Lysine Biosynthetic hypothetical OrfE
+PGF_00003516	Meiothermus	249.33	1.30	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003526	Meiothermus	436.08	4.56	FIG137887: membrane protein related to purine degradation
+PGF_00004544	Meiothermus	142.83	6.00	Ferric uptake regulation protein FUR
+PGF_00004728	Meiothermus	512.08	14.88	Fibronectin/fibrinogen-binding protein
+PGF_00006100	Meiothermus	319.67	12.49	tRNA-modifying protein YgfZ
+PGF_00006320	Meiothermus	286.08	0.29	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006461	Meiothermus	463.83	1.40	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006656	Meiothermus	222.75	2.01	Futalosine hydrolase (EC 3.2.2.26)
+PGF_00006935	Meiothermus	507.92	0.29	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Meiothermus	372.25	15.18	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Meiothermus	449.58	9.13	GTP-binding protein EngA
+PGF_00007027	Meiothermus	288.08	6.53	GTP-binding protein Era
+PGF_00007028	Meiothermus	559.58	2.61	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Meiothermus	596.08	4.08	GTP-binding protein TypA/BipA
+PGF_00007057	Meiothermus	439.42	7.53	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007085	Meiothermus	351.17	5.81	Galactokinase (EC 2.7.1.6)
+PGF_00007120	Meiothermus	347.92	2.84	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007304	Meiothermus	268.50	7.15	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007525	Meiothermus	340.67	17.20	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007632	Meiothermus	284.58	3.53	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007925	Meiothermus	346.00	2.86	Glucosamine-6-phosphate deaminase [isomerizing], alternative (EC 3.5.99.6)
+PGF_00007971	Meiothermus	414.17	2.72	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+PGF_00007988	Meiothermus	444.75	0.62	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008061	Meiothermus	377.08	6.22	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008075	Meiothermus	378.50	12.44	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008115	Meiothermus	1494.17	14.78	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008164	Meiothermus	430.33	5.53	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008249	Meiothermus	251.92	3.45	Glutamine cyclotransferase
+PGF_00008261	Meiothermus	716.83	1.64	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+PGF_00008334	Meiothermus	414.17	18.89	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Meiothermus	479.25	8.70	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008374	Meiothermus	228.50	4.15	Glutaredoxin-like protein
+PGF_00008393	Meiothermus	395.75	3.17	Glutaryl-CoA dehydrogenase (EC 1.3.8.6)
+PGF_00008611	Meiothermus	333.75	8.64	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008651	Meiothermus	229.38	16.62	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+PGF_00008838	Meiothermus	234.42	21.86	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008876	Meiothermus	446.42	2.39	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00008880	Meiothermus	216.50	5.60	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00008882	Meiothermus	358.33	10.63	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00008885	Meiothermus	423.17	2.76	Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+PGF_00009966	Meiothermus	507.33	1.56	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010034	Meiothermus	257.25	23.43	Glyoxalase family protein
+PGF_00010205	Meiothermus	227.25	24.19	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Meiothermus	732.33	6.39	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Meiothermus	220.42	3.50	Guanylate kinase (EC 2.7.4.8)
+PGF_00011600	Meiothermus	300.17	0.58	Hexokinase (EC 2.7.1.1)
+PGF_00011979	Meiothermus	419.42	9.12	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011989	Meiothermus	264.25	2.38	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012015	Meiothermus	323.09	2.63	Uncharacterized protein BT_0926
+PGF_00012264	Meiothermus	326.92	3.23	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012277	Meiothermus	427.17	41.49	Homoaconitase large subunit (EC 4.2.1.36)
+PGF_00012340	Meiothermus	337.25	6.58	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Meiothermus	298.33	10.65	Homoserine kinase (EC 2.7.1.39)
+PGF_00013144	Meiothermus	144.67	1.15	Terminal oxidase biogenesis protein CtaM, putative heme A, heme O chaperone
+PGF_00013283	Meiothermus	204.33	13.76	UPF0001 protein YggS
+PGF_00013341	Meiothermus	330.17	1.59	Hypothetical protein of L-Asparaginase type 2-like superfamily
+PGF_00013492	Meiothermus	139.50	22.93	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Meiothermus	504.08	23.06	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Meiothermus	194.00	0.00	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Meiothermus	256.33	9.03	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014306	Meiothermus	179.08	0.67	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Meiothermus	504.17	1.59	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015255	Meiothermus	253.58	7.79	Manganese ABC transporter, ATP-binding protein SitB
+PGF_00015510	Meiothermus	251.00	1.41	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Meiothermus	468.92	0.29	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Meiothermus	443.92	3.20	Iron-sulfur cluster assembly protein SufD
+PGF_00015701	Meiothermus	431.08	24.22	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Meiothermus	1095.08	5.85	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015737	Meiothermus	338.75	2.30	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+PGF_00015855	Meiothermus	339.33	0.49	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00015931	Meiothermus	407.17	7.35	Kynureninase (EC 3.7.1.3)
+PGF_00016328	Meiothermus	174.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Meiothermus	390.50	14.41	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Meiothermus	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Meiothermus	151.00	13.61	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Meiothermus	140.50	0.90	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Meiothermus	155.58	12.77	LSU ribosomal protein L17p
+PGF_00016353	Meiothermus	111.75	0.87	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Meiothermus	232.00	1.81	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Meiothermus	110.92	12.38	LSU ribosomal protein L20p
+PGF_00016361	Meiothermus	98.50	0.80	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Meiothermus	152.08	23.57	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Meiothermus	96.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Meiothermus	117.33	16.84	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Meiothermus	90.75	0.75	LSU ribosomal protein L27p
+PGF_00016393	Meiothermus	275.17	0.39	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Meiothermus	58.33	0.65	LSU ribosomal protein L30p (L7e)
+PGF_00016404	Meiothermus	62.25	1.36	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent
+PGF_00016418	Meiothermus	56.67	26.91	LSU ribosomal protein L34p
+PGF_00016431	Meiothermus	212.50	3.75	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Meiothermus	205.17	7.59	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Meiothermus	182.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Meiothermus	179.08	0.29	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Meiothermus	122.92	11.41	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Meiothermus	149.00	0.00	LSU ribosomal protein L9p
+PGF_00016495	Meiothermus	233.75	56.61	Lactam utilization protein LamB
+PGF_00016919	Meiothermus	201.25	7.19	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017190	Meiothermus	254.75	6.62	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017479	Meiothermus	325.08	3.15	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Meiothermus	346.92	28.06	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017944	Meiothermus	54.25	0.87	Lysine Biosynthetic Amino Acid Carrier Protein LysW
+PGF_00018577	Meiothermus	473.67	8.67	Magnesium chelatase, subunit ChlI (EC 6.6.1.1)
+PGF_00018956	Meiothermus	329.17	0.58	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Meiothermus	418.25	2.70	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019217	Meiothermus	318.50	4.06	Manganese ABC transporter, periplasmic-binding protein SitA
+PGF_00019307	Meiothermus	320.75	8.44	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00019428	Meiothermus	177.75	6.27	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019567	Meiothermus	717.17	12.55	ATP-dependent protease La (EC 3.4.21.53) Type II
+PGF_00019873	Meiothermus	234.58	8.69	Membrane protein
+PGF_00020147	Meiothermus	351.75	5.08	Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+PGF_00020264	Meiothermus	285.25	1.36	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020361	Meiothermus	141.92	3.12	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020735	Meiothermus	262.17	2.48	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020793	Meiothermus	188.67	5.77	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020984	Meiothermus	292.33	5.96	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Meiothermus	132.67	1.92	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021036	Meiothermus	329.08	4.94	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00022026	Meiothermus	255.42	1.44	Mn2+/Zn2+ ABC transporter, ATP-binding protein
+PGF_00022532	Meiothermus	659.67	53.31	Molybdopterin oxidoreductase
+PGF_00022569	Meiothermus	233.17	2.66	Molybdopterin synthase sulfur carrier subunit / Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_00023326	Meiothermus	203.92	6.30	MarC family integral membrane protein
+PGF_00023591	Meiothermus	329.50	7.44	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Meiothermus	320.75	1.60	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023744	Meiothermus	357.42	3.90	N-acetyl-lysine deacetylase (EC 3.5.1.-)
+PGF_00023833	Meiothermus	245.08	7.09	N-acetylmannosaminyltransferase (EC 2.4.1.187)
+PGF_00024164	Meiothermus	370.00	1.28	N-acylamino acid racemase
+PGF_00024235	Meiothermus	388.83	2.76	N-succinyldiaminopimelate aminotransferase (EC 2.6.1.17)
+PGF_00024273	Meiothermus	165.75	10.82	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Meiothermus	364.00	4.18	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024320	Meiothermus	230.33	3.52	NAD(FAD)-utilizing enzyme
+PGF_00024414	Meiothermus	461.00	0.00	NAD-dependent dihydropyrimidine dehydrogenase subunit PreA (EC 1.3.1.1)
+PGF_00024415	Meiothermus	440.62	7.21	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT (EC 1.3.1.1)
+PGF_00024478	Meiothermus	330.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Meiothermus	243.33	10.61	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024671	Meiothermus	129.33	5.74	NADH-quinone oxidoreductase subunit 15 (EC 1.6.99.5)
+PGF_00024678	Meiothermus	293.83	14.84	NADH-ubiquinone oxidoreductase 39 kDa subunit related protein
+PGF_00024687	Meiothermus	415.58	1.62	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024692	Meiothermus	184.08	1.98	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024728	Meiothermus	193.25	7.25	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Meiothermus	95.42	2.35	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Meiothermus	471.42	5.43	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Meiothermus	645.58	107.45	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025090	Meiothermus	561.25	0.45	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Meiothermus	169.00	1.04	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025623	Meiothermus	349.58	4.06	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025820	Meiothermus	155.64	4.61	Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)
+PGF_00026362	Meiothermus	258.58	101.18	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Meiothermus	195.67	2.53	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026524	Meiothermus	158.25	0.45	Nudix family (d)NDPase DR0975
+PGF_00026615	Meiothermus	252.75	3.25	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026758	Meiothermus	557.33	12.61	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_00026866	Meiothermus	319.58	2.02	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00028167	Meiothermus	847.42	24.92	Outer membrane protein
+PGF_00028840	Meiothermus	233.82	3.06	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_00029922	Meiothermus	277.58	7.95	Pantothenate kinase type II, eukaryotic (EC 2.7.1.33)
+PGF_00030316	Meiothermus	361.00	5.26	Peptidase C45, acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase
+PGF_00030640	Meiothermus	358.00	2.04	Peptide chain release factor 1
+PGF_00030889	Meiothermus	158.92	4.96	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)
+PGF_00031127	Meiothermus	228.08	7.54	Periplasmic thiol:disulfide interchange protein DsbA
+PGF_00031568	Meiothermus	133.50	5.07	Peroxide stress regulator PerR, FUR family
+PGF_00033036	Meiothermus	186.58	2.54	Phenylacetate-CoA oxygenase, PaaH2 subunit
+PGF_00033095	Meiothermus	784.00	1.91	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Meiothermus	355.58	104.14	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033253	Meiothermus	277.58	4.01	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Meiothermus	324.92	9.12	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Meiothermus	288.83	0.39	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033390	Meiothermus	618.75	3.96	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+PGF_00033392	Meiothermus	840.08	178.29	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033411	Meiothermus	271.83	1.59	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033511	Meiothermus	395.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033530	Meiothermus	408.58	0.67	Phosphoglycerate mutase (2,3-diphosphoglycerate-independent), archaeal type (EC 5.4.2.12)
+PGF_00033729	Meiothermus	260.17	2.98	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033877	Meiothermus	163.25	6.08	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033904	Meiothermus	385.25	3.05	Phosphopentomutase (EC 5.4.2.7)
+PGF_00033922	Meiothermus	211.00	3.84	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033941	Meiothermus	209.75	6.05	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Meiothermus	233.25	1.76	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Meiothermus	334.83	0.39	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Meiothermus	226.25	15.61	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Meiothermus	736.58	5.30	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Meiothermus	197.17	6.41	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00034131	Meiothermus	617.50	1.73	Acylamino-acid-releasing enzyme (EC 3.4.19.1)
+PGF_00034776	Meiothermus	712.08	7.98	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034988	Meiothermus	341.58	7.86	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035370	Meiothermus	351.50	5.21	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+PGF_00035591	Meiothermus	244.42	9.12	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Meiothermus	463.92	0.29	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035721	Meiothermus	437.67	2.46	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Meiothermus	407.08	25.17	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036269	Meiothermus	323.92	2.47	Predicted riboflavin ABC transporter, substrate-binding component
+PGF_00036273	Meiothermus	490.58	5.66	Predicted riboflavin ABC transporter, transmembrane component
+PGF_00036543	Meiothermus	532.08	0.51	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00037006	Meiothermus	344.33	12.03	Agmatine deiminase (EC 3.5.3.12)
+PGF_00037468	Meiothermus	391.00	2.83	Alanyl-tRNA synthetase family protein
+PGF_00037521	Meiothermus	307.00	0.00	Proline dehydrogenase (EC 1.5.5.2)
+PGF_00037586	Meiothermus	475.67	4.62	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00038455	Meiothermus	251.00	11.58	Uncharacterized UPF0721 integral membrane protein
+PGF_00038612	Meiothermus	109.00	0.00	Protein secretion chaperonin CsaA
+PGF_00038653	Meiothermus	756.58	5.71	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038880	Meiothermus	337.17	2.89	Aldo/keto reductase, Dgeo_1402 family
+PGF_00038986	Meiothermus	275.33	6.07	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00038987	Meiothermus	229.08	6.54	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039705	Meiothermus	254.33	2.31	Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00040578	Meiothermus	259.58	18.80	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040866	Meiothermus	754.58	2.15	Putative formate dehydrogenase oxidoreductase protein
+PGF_00041788	Meiothermus	145.33	3.87	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042886	Meiothermus	341.08	8.56	Putative peptidase
+PGF_00043931	Meiothermus	451.33	4.33	Allantoinase (EC 3.5.2.5)
+PGF_00045719	Meiothermus	375.50	4.03	Putative zinc metalloprotease MJ0392 (EC 3.4.24.-)
+PGF_00045787	Meiothermus	190.83	7.08	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Meiothermus	293.83	2.89	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045833	Meiothermus	210.25	0.45	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045907	Meiothermus	321.42	7.87	Pyrimidine ABC transporter, transmembrane component 2
+PGF_00045910	Meiothermus	299.00	10.74	Pyrimidine ABC transporter, transmembrane component 1
+PGF_00045929	Meiothermus	311.25	5.50	Pyrimidine-specific ribonucleoside hydrolase RihB (EC 3.2.2.8)
+PGF_00045982	Meiothermus	910.33	6.49	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00045991	Meiothermus	474.00	0.00	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046209	Meiothermus	265.83	3.38	RNA methylase DR1017
+PGF_00046822	Meiothermus	280.92	0.29	Alpha-aminoadipate--LysW ligase (EC 6.3.2.n4)
+PGF_00047078	Meiothermus	349.67	1.56	RecA protein
+PGF_00047155	Meiothermus	213.00	0.00	Redox-sensing transcriptional repressor Rex
+PGF_00047778	Meiothermus	224.00	0.00	Response regulator
+PGF_00048480	Meiothermus	196.67	19.76	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048555	Meiothermus	209.92	6.79	Ribonuclease HI-related protein 3
+PGF_00048556	Meiothermus	207.42	22.35	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Meiothermus	238.75	6.51	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048643	Meiothermus	168.92	9.26	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048829	Meiothermus	303.58	23.35	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Meiothermus	266.50	10.88	Ribosomal protein L11 methyltransferase
+PGF_00048846	Meiothermus	457.92	0.79	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Meiothermus	183.50	1.51	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Meiothermus	185.00	0.00	Ribosome recycling factor
+PGF_00049092	Meiothermus	266.83	21.48	Efflux ABC transporter, permease protein
+PGF_00049319	Meiothermus	147.25	2.26	Arginine decarboxylase proenzyme (EC 4.1.1.19)
+PGF_00049324	Meiothermus	135.33	3.82	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B
+PGF_00049330	Meiothermus	391.75	2.01	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Meiothermus	337.42	9.58	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Meiothermus	157.08	11.80	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049827	Meiothermus	268.75	7.99	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Meiothermus	104.25	0.45	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Meiothermus	131.00	5.41	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Meiothermus	125.75	11.62	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Meiothermus	126.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Meiothermus	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Meiothermus	81.00	0.74	SSU ribosomal protein S16p
+PGF_00049854	Meiothermus	96.33	2.31	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Meiothermus	96.33	1.44	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Meiothermus	92.17	0.58	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Meiothermus	252.91	1.04	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Meiothermus	199.67	7.88	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Meiothermus	160.92	2.19	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Meiothermus	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Meiothermus	127.67	4.12	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Meiothermus	128.08	0.29	SSU ribosomal protein S9p (S16e)
+PGF_00050995	Meiothermus	436.92	95.91	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Meiothermus	178.42	5.81	Septum site-determining protein MinC
+PGF_00051180	Meiothermus	267.25	7.33	Ser/Thr protein phosphatase family protein
+PGF_00051334	Meiothermus	372.00	2.34	Serine--pyruvate aminotransferase (EC 2.6.1.51) / L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
+PGF_00051525	Meiothermus	423.83	0.58	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Meiothermus	433.50	1.24	Signal recognition particle protein Ffh
+PGF_00052705	Meiothermus	144.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052800	Meiothermus	277.33	0.98	Single-stranded DNA-binding protein / Single-stranded DNA-binding protein
+PGF_00053054	Meiothermus	137.42	0.79	Small heat shock protein
+PGF_00053078	Meiothermus	390.17	4.80	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00053770	Meiothermus	347.50	6.82	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053805	Meiothermus	76.08	13.46	SpoVS-related protein, type 7
+PGF_00053991	Meiothermus	258.75	0.45	Stage 0 sporulation protein YaaT
+PGF_00054343	Meiothermus	198.75	1.14	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054480	Meiothermus	251.83	10.43	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00055045	Meiothermus	637.25	7.15	Amylosucrase (EC 2.4.1.4)
+PGF_00055103	Meiothermus	145.58	1.44	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055156	Meiothermus	567.91	2.30	Sulfur oxidation protein SoxB
+PGF_00055159	Meiothermus	147.91	6.44	Sulfur oxidation protein SoxY
+PGF_00055295	Meiothermus	218.67	4.94	Suppressor of sigma54-dependent transcription, PspA-like
+PGF_00055771	Meiothermus	186.67	9.05	TRAP dicarboxylate transporter, DctQ subunit, unknown substrate 6
+PGF_00056498	Meiothermus	356.92	5.47	Thiamin ABC transporter, substrate-binding component
+PGF_00056749	Meiothermus	136.09	6.83	Thioredoxin
+PGF_00056814	Meiothermus	471.25	1.22	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056872	Meiothermus	197.42	17.37	Thymidine kinase (EC 2.7.1.21)
+PGF_00056883	Meiothermus	205.25	2.80	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Meiothermus	281.50	54.77	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Meiothermus	464.00	0.00	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00056970	Meiothermus	152.08	7.45	Anti-cleavage anti-GreA transcription factor Gfh1
+PGF_00057483	Meiothermus	442.92	9.45	Transcription termination factor Rho
+PGF_00057485	Meiothermus	391.58	1.24	Transcription termination protein NusA
+PGF_00057488	Meiothermus	152.00	1.65	Transcription termination protein NusB
+PGF_00057633	Meiothermus	304.83	4.75	Transcriptional regulator
+PGF_00057955	Meiothermus	204.08	4.03	Transcriptional regulator
+PGF_00058200	Meiothermus	338.25	3.96	Transcriptional regulator
+PGF_00058517	Meiothermus	186.75	32.04	Transcriptional regulator DR_0834, FNR/CRP family
+PGF_00058518	Meiothermus	202.00	0.00	Transcriptional regulator DR_0997, FNR/CRP family
+PGF_00058519	Meiothermus	214.83	2.17	Transcriptional regulator DR_1646, FNR/CRP family
+PGF_00059042	Meiothermus	100.42	21.91	Transcriptional regulator, AsnC family
+PGF_00060409	Meiothermus	696.83	0.58	Translation elongation factor G
+PGF_00060412	Meiothermus	656.58	1.08	Elongation factor G-like protein TM_1651
+PGF_00060414	Meiothermus	603.08	11.16	Translation elongation factor LepA
+PGF_00060421	Meiothermus	187.33	11.55	Translation elongation factor P
+PGF_00060427	Meiothermus	196.00	0.00	Translation elongation factor Ts
+PGF_00060431	Meiothermus	73.00	3.46	Translation initiation factor 1
+PGF_00060478	Meiothermus	171.75	3.91	Translation initiation factor 3
+PGF_00060805	Meiothermus	442.08	3.53	Uncharacterized protein similar to B. subtilis YvcK
+PGF_00062002	Meiothermus	275.25	0.45	Tryptophan 2,3-dioxygenase (EC 1.13.11.11)
+PGF_00062023	Meiothermus	260.92	2.61	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Meiothermus	410.08	11.67	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063916	Meiothermus	427.33	7.61	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063944	Meiothermus	248.17	12.09	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063974	Meiothermus	277.00	1.54	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Meiothermus	323.83	75.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Meiothermus	430.83	91.94	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064169	Meiothermus	300.00	17.06	Arginase (EC 3.5.3.1)
+PGF_00064203	Meiothermus	243.67	13.81	2-haloalkanoic acid dehalogenase-related protein
+PGF_00064359	Meiothermus	153.50	2.71	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064422	Meiothermus	607.67	4.05	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00064452	Meiothermus	163.00	2.22	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit, Deinococcus-Thermus-specific
+PGF_00064946	Meiothermus	453.92	70.52	Aromatic-L-amino-acid decarboxylase (EC 4.1.1.28)
+PGF_00065887	Meiothermus	277.00	6.56	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Meiothermus	207.67	14.12	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Meiothermus	180.75	1.36	Pyrimidine operon regulatory protein PyrR
+PGF_00066248	Meiothermus	217.33	7.99	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066270	Meiothermus	351.92	1.88	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066372	Meiothermus	577.83	0.58	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066386	Meiothermus	221.17	0.58	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066407	Meiothermus	106.00	0.00	V-type ATP synthase subunit F (EC 3.6.3.14)
+PGF_00066453	Meiothermus	870.67	5.45	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Meiothermus	440.92	0.29	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066869	Meiothermus	333.42	1.38	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00066906	Meiothermus	311.75	2.49	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067188	Meiothermus	331.33	4.83	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067383	Meiothermus	527.42	5.92	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067389	Meiothermus	101.92	20.45	YlxP-like protein
+PGF_00067554	Meiothermus	473.75	1.86	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00068836	Meiothermus	353.92	4.42	attH protein
+PGF_00068886	Meiothermus	299.08	4.98	Auxin efflux carrier family protein
+PGF_00069273	Meiothermus	318.33	2.53	B-cell receptor associated protein-related protein
+PGF_00069312	Meiothermus	303.17	3.13	ABC transporter, permease protein 2 (cluster 4, leucine/isoleucine/valine/benzoate)
+PGF_00070089	Meiothermus	129.83	9.45	B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)
+PGF_00070785	Meiothermus	140.75	2.01	disulfide bond formation protein B
+PGF_00071569	Meiothermus	160.42	8.95	gliding motility protein MglA
+PGF_00071570	Meiothermus	196.00	0.00	gliding motility protein MglA
+PGF_00072326	Meiothermus	414.75	4.39	Homocitrate synthase (EC 2.3.3.14)
+PGF_00072335	Meiothermus	322.92	0.29	3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15)
+PGF_00078315	Meiothermus	293.25	8.81	hypothetical protein
+PGF_00078863	Meiothermus	175.00	10.70	hypothetical protein
+PGF_00084324	Meiothermus	258.83	1.19	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00086459	Meiothermus	144.83	1.34	hypothetical protein
+PGF_00097088	Meiothermus	75.17	3.54	hypothetical protein
+PGF_00113984	Meiothermus	195.58	2.61	Flavin prenyltransferase UbiX
+PGF_00118121	Meiothermus	334.33	12.39	Lipopolysaccharide export system permease protein LptF
+PGF_00133116	Meiothermus	566.54	71.45	hypothetical protein
+PGF_00155559	Meiothermus	456.17	6.31	hypothetical protein
+PGF_00156255	Meiothermus	127.25	1.54	hypothetical protein
+PGF_00159805	Meiothermus	119.36	5.03	hypothetical protein
+PGF_00163881	Meiothermus	107.75	2.70	hypothetical protein
+PGF_00183795	Meiothermus	282.25	3.57	hypothetical protein
+PGF_00194403	Meiothermus	199.31	44.68	hypothetical protein
+PGF_00201467	Meiothermus	152.42	2.35	hypothetical protein
+PGF_00204666	Meiothermus	249.92	12.28	hypothetical protein
+PGF_00205248	Meiothermus	199.00	124.04	hypothetical protein
+PGF_00241164	Meiothermus	94.83	0.58	hypothetical protein
+PGF_00248036	Meiothermus	162.75	6.24	hypothetical protein
+PGF_00254015	Meiothermus	303.83	12.60	hypothetical protein
+PGF_00261173	Meiothermus	363.92	2.02	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00269109	Meiothermus	652.77	108.10	hypothetical protein
+PGF_00285620	Meiothermus	195.17	0.39	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00286318	Meiothermus	94.00	4.61	Uncharacterized protein TTC1240
+PGF_00289284	Meiothermus	184.92	9.80	hypothetical protein
+PGF_00297075	Meiothermus	248.67	19.46	hypothetical protein
+PGF_00308872	Meiothermus	143.00	4.09	hypothetical protein
+PGF_00317300	Meiothermus	182.83	4.91	hypothetical protein
+PGF_00319251	Meiothermus	320.31	259.34	hypothetical protein
+PGF_00320126	Meiothermus	225.00	3.10	hypothetical protein
+PGF_00322440	Meiothermus	201.83	24.62	hypothetical protein
+PGF_00326235	Meiothermus	194.17	8.05	hypothetical protein
+PGF_00327012	Meiothermus	147.50	3.50	hypothetical protein
+PGF_00331230	Meiothermus	104.17	0.58	hypothetical protein
+PGF_00333809	Meiothermus	397.62	153.96	hypothetical protein
+PGF_00346963	Meiothermus	131.67	0.49	hypothetical protein
+PGF_00348754	Meiothermus	215.92	9.69	hypothetical protein
+PGF_00349719	Meiothermus	296.25	5.67	hypothetical protein
+PGF_00350921	Meiothermus	351.42	21.23	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+PGF_00354210	Meiothermus	124.33	7.41	hypothetical protein
+PGF_00354765	Meiothermus	141.33	2.02	hypothetical protein
+PGF_00355088	Meiothermus	182.08	34.53	hypothetical protein
+PGF_00359039	Meiothermus	237.17	15.80	hypothetical protein
+PGF_00370270	Meiothermus	124.50	7.03	hypothetical protein
+PGF_00373999	Meiothermus	228.67	41.97	hypothetical protein
+PGF_00379138	Meiothermus	353.75	13.67	hypothetical protein
+PGF_00380939	Meiothermus	261.67	14.70	hypothetical protein
+PGF_00383432	Meiothermus	150.92	173.69	hypothetical protein
+PGF_00390107	Meiothermus	349.25	2.99	hypothetical protein
+PGF_00391084	Meiothermus	439.83	9.89	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00399577	Meiothermus	178.17	2.92	hypothetical protein
+PGF_00399630	Meiothermus	331.08	11.10	hypothetical protein PA3071
+PGF_00401693	Meiothermus	646.58	2.02	Beta-galactosidase (EC 3.2.1.23), LacA family
+PGF_00403066	Meiothermus	240.17	2.59	phosphohydrolase
+PGF_00404019	Meiothermus	632.67	6.71	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Meiothermus	167.00	3.74	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Meiothermus	447.00	0.43	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404776	Meiothermus	584.92	3.12	Uncharacterized protein aq_1682
+PGF_00405520	Meiothermus	183.25	7.63	protein yceI
+PGF_00406692	Meiothermus	902.83	3.93	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00409919	Meiothermus	375.92	3.96	putative oxidoreductase-like protein
+PGF_00411113	Meiothermus	229.42	7.61	putative tetratricopeptide repeat family protein
+PGF_00411457	Meiothermus	332.50	1.17	pyruvyl-transferase
+PGF_00412178	Meiothermus	323.58	1.44	Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)
+PGF_00412209	Meiothermus	271.17	3.81	serine/threonine-protein kinase-related protein
+PGF_00412555	Meiothermus	364.67	2.19	similar to ribulose-1,5-bisphosphate carboxylase, Type III, too
+PGF_00413192	Meiothermus	268.83	21.76	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413203	Meiothermus	156.00	3.67	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413223	Meiothermus	205.75	9.21	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+PGF_00413286	Meiothermus	358.17	1.85	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Meiothermus	268.33	13.54	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Meiothermus	312.58	6.89	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Meiothermus	439.42	2.23	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Meiothermus	594.42	21.28	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413310	Meiothermus	509.67	46.44	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19) / tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413505	Meiothermus	159.55	1.97	thio-disulfide isomerase/thioredoxin
+PGF_00413554	Meiothermus	143.17	0.58	tmRNA-binding protein SmpB
+PGF_00413715	Meiothermus	131.25	12.70	transcriptional regulator, HTH_3 family
+PGF_00415486	Meiothermus	139.92	13.99	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415891	Meiothermus	460.82	91.52	CRISPR-associated RAMP Cmr2
+PGF_00415896	Meiothermus	376.09	0.30	CRISPR-associated RAMP Cmr3
+PGF_00415900	Meiothermus	276.91	41.49	CRISPR-associated RAMP Cmr4
+PGF_00415934	Meiothermus	218.17	6.13	CRISPR-associated RecB family exonuclease Cas4
+PGF_00416015	Meiothermus	246.92	6.30	CRISPR-associated protein Cas5
+PGF_00416037	Meiothermus	614.50	7.39	CRISPR-associated protein, Csd1 family
+PGF_00416115	Meiothermus	305.00	1.81	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Meiothermus	547.92	39.31	CTP synthase (EC 6.3.4.2)
+PGF_00416513	Meiothermus	218.75	1.91	Carbon-nitrogen hydrolase
+PGF_00416883	Meiothermus	160.00	6.54	Cell division initiation protein DivIVA
+PGF_00417115	Meiothermus	74.91	0.83	Cell division topological specificity factor MinE
+PGF_00417433	Meiothermus	619.75	7.36	Chaperone protein DnaK
+PGF_00417577	Meiothermus	145.83	0.72	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Meiothermus	349.67	3.55	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417756	Meiothermus	363.00	2.04	Choline monooxygenase-like protein with aromatic-ring-hydroxylating dioxygenase domain
+PGF_00417810	Meiothermus	271.25	2.70	Chorismate dehydratase (EC 4.2.1.151)
+PGF_00417829	Meiothermus	360.00	3.86	Chorismate mutase I (EC 5.4.99.5) / 2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)
+PGF_00417839	Meiothermus	122.00	0.00	Chorismate mutase II (EC 5.4.99.5)
+PGF_00417840	Meiothermus	383.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00418626	Meiothermus	267.17	0.58	3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)
+PGF_00418733	Meiothermus	252.00	0.00	1,2-phenylacetyl-CoA epoxidase, subunit C (EC 1.14.13.149)
+PGF_00418791	Meiothermus	221.08	6.02	Type IV pilus biogenesis protein PilN
+PGF_00419420	Meiothermus	472.75	4.03	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419437	Meiothermus	259.00	0.00	Efflux ABC transporter, permease protein
+PGF_00419623	Meiothermus	260.67	2.02	Coproheme decarboxylase HemQ (no EC)
+PGF_00419702	Meiothermus	164.17	4.51	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419800	Meiothermus	151.42	4.25	Cupin domain protein clustered with Rubisco-like protein
+PGF_00419900	Meiothermus	377.50	0.90	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00419913	Meiothermus	158.08	0.67	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00420075	Meiothermus	315.58	9.89	Cysteine synthase (EC 2.5.1.47)
+PGF_00420084	Meiothermus	170.08	9.07	Cysteinyl-tRNA synthetase related protein
+PGF_00420115	Meiothermus	636.08	175.52	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase (EC 1.2.1.91) / 2-oxepin-2(3H)-ylideneacetyl-CoA hydrolase (EC 3.3.2.12)
+PGF_00420121	Meiothermus	213.75	5.80	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420356	Meiothermus	556.69	7.25	Cytochrome c oxidase (B(O/a)3-type) chain I (EC 1.9.3.1)
+PGF_00420391	Meiothermus	809.08	6.57	Cytochrome c oxidase polypeptide I (EC 1.9.3.1) / Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_00420482	Meiothermus	230.17	0.58	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420496	Meiothermus	665.42	3.80	Cytochrome c heme lyase subunit CcmF
+PGF_00420731	Meiothermus	497.33	12.37	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420781	Meiothermus	446.83	0.39	D-Lactate dehydrogenase, cytochrome c-dependent (EC 1.1.2.4)
+PGF_00420798	Meiothermus	322.17	0.94	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00421071	Meiothermus	152.17	5.27	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421569	Meiothermus	392.75	3.25	(2R)-sulfolactate sulfo-lyase subunit beta (EC 4.4.1.24)
+PGF_00421679	Meiothermus	590.83	2.29	DNA primase (EC 2.7.7.-)
+PGF_00421733	Meiothermus	358.08	10.84	DNA recombination and repair protein RecF
+PGF_00421736	Meiothermus	235.00	13.30	DNA recombination and repair protein RecO
+PGF_00421792	Meiothermus	425.42	18.43	DNA repair protein RadA
+PGF_00421796	Meiothermus	519.85	27.06	DNA repair protein RecN
+PGF_00422061	Meiothermus	99.17	1.53	DNA-binding protein HBsu
+PGF_00422271	Meiothermus	323.25	2.77	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422888	Meiothermus	515.00	0.00	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422918	Meiothermus	183.33	3.77	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422937	Meiothermus	321.42	10.93	Deoxyhypusine synthase (EC 2.5.1.46)
+PGF_00423039	Meiothermus	296.58	1.51	Diacylglycerol kinase-related protein
+PGF_00423046	Meiothermus	155.67	14.73	Diadenosine hexaphosphate (Ap6A) hydrolase; Bis(5'-nucleosyl)-tetraphosphatase (Ap4A) (Asymmetrical) (EC 3.6.1.17)
+PGF_00423335	Meiothermus	459.92	6.54	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423343	Meiothermus	464.00	0.00	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
+PGF_00423370	Meiothermus	136.92	5.66	Dihydroneopterin triphosphate pyrophosphohydolase
+PGF_00423429	Meiothermus	532.25	0.45	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423449	Meiothermus	272.00	2.73	1,4-dihydroxy-6-naphtoate synthase
+PGF_00423533	Meiothermus	275.50	1.17	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00424236	Meiothermus	139.42	16.04	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_00424337	Meiothermus	268.50	4.66	Endonuclease IV (EC 3.1.21.2)
+PGF_00424338	Meiothermus	243.33	12.22	Endonuclease V (EC 3.1.21.7)
+PGF_00424391	Meiothermus	484.83	0.39	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.14.9)
+PGF_00424569	Meiothermus	266.42	9.34	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Meiothermus	597.50	2.65	Excinuclease ABC subunit C
+PGF_00425519	Meiothermus	406.33	3.55	FAD dependent oxidoreductase
+PGF_00425665	Meiothermus	244.92	5.12	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Meiothermus	278.92	12.69	RNase adapter protein RapZ
+PGF_00425679	Meiothermus	197.33	1.92	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Meiothermus	245.00	0.00	Probable transcriptional regulatory protein YebC
+PGF_00425720	Meiothermus	223.50	3.99	Putative RNA-binding protein YlmH
+PGF_00425786	Meiothermus	587.75	4.27	Ribonuclease Y
+PGF_00425993	Meiothermus	366.17	29.09	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Meiothermus	352.17	10.38	FIG004453: protein YceG like
+PGF_00426115	Meiothermus	619.50	1.31	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426142	Meiothermus	186.58	2.02	5-Formyltetrahydrofolate cycloligase paralog implicated in thiamin metabolism
+PGF_00426236	Meiothermus	399.58	13.63	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426377	Meiothermus	511.00	13.11	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60)
+PGF_00426531	Meiothermus	117.50	0.90	5-hydroxyisourate hydrolase (EC 3.5.2.17)
+PGF_00426722	Meiothermus	1220.42	14.58	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Meiothermus	157.83	2.52	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Meiothermus	273.50	30.93	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447508	Meiothermus	428.08	3.12	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00473519	Meiothermus	201.00	0.00	Superoxide dismutase [Mn] (EC 1.15.1.1)
+PGF_00549250	Meiothermus	328.50	4.44	V-type ATP synthase subunit C (EC 3.6.3.14)
+PGF_00549302	Meiothermus	438.92	1.56	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00577920	Meiothermus	144.42	3.32	Tripartite tricarboxylate transporter TctB family
+PGF_00588009	Meiothermus	134.75	7.79	OsmC/Ohr family protein
+PGF_00618776	Meiothermus	343.67	3.06	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00641071	Meiothermus	331.17	29.10	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644953	Meiothermus	292.67	2.31	DnaJ-class molecular chaperone CbpA
+PGF_00646403	Meiothermus	237.75	16.19	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_00650532	Meiothermus	329.17	2.89	UPF0365 protein YqfA
+PGF_00655628	Meiothermus	519.00	0.00	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Meiothermus	179.75	8.24	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Meiothermus	114.00	0.60	Ribosomal silencing factor RsfA
+PGF_00670798	Meiothermus	504.33	27.17	Peptide ABC transporter, permease protein
+PGF_00694978	Meiothermus	258.08	0.29	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00702374	Meiothermus	103.83	2.44	SSU ribosomal protein S6p
+PGF_00709627	Meiothermus	286.08	11.77	Nucleoside ABC transporter, permease protein 2
+PGF_00712639	Meiothermus	409.08	14.29	Uncharacterized MFS-type transporter
+PGF_00717495	Meiothermus	379.75	0.45	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00718789	Meiothermus	290.00	0.00	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00721835	Meiothermus	325.83	2.33	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+PGF_00734482	Meiothermus	846.33	19.71	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00734751	Meiothermus	154.58	5.07	Cytochrome c heme lyase subunit CcmL
+PGF_00743209	Meiothermus	253.08	3.45	ABC transporter, ATP-binding protein (cluster 12, methionine/phosphonates)
+PGF_00743561	Meiothermus	194.58	10.85	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00755591	Meiothermus	393.92	9.21	Uncharacterized MFS-type transporter
+PGF_00770424	Meiothermus	542.92	1.83	ABC transporter, permease protein (cluster 12, methionine/phosphonates) / ABC transporter, permease protein (cluster 12, methionine/phosphonates)
+PGF_00776587	Meiothermus	130.67	2.64	probable iron binding protein from the HesB_IscA_SufA family
+PGF_00777996	Meiothermus	235.75	21.31	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00827693	Meiothermus	581.17	1.59	Long chain acyl-CoA dehydrogenase [fadN-fadA-fadE operon] (EC 1.3.8.8)
+PGF_00833578	Meiothermus	333.58	14.64	Cytochrome c family protein
+PGF_00833844	Meiothermus	258.92	5.63	hypothetical protein
+PGF_00851247	Meiothermus	355.58	8.15	Muconate cycloisomerase (EC 5.5.1.1)
+PGF_00853393	Meiothermus	290.00	0.00	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00856141	Meiothermus	406.67	7.39	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00866328	Meiothermus	261.00	0.00	branched-chain amino acid transport ATP-binding protein livF
+PGF_00874759	Meiothermus	376.75	5.45	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00900256	Meiothermus	432.08	1.83	Threonine synthase (EC 4.2.3.1)
+PGF_00913153	Meiothermus	246.75	1.14	Efflux ABC transporter, ATP-binding protein
+PGF_00917747	Meiothermus	391.75	2.01	Uncharacterized MFS-type transporter
+PGF_00926109	Meiothermus	613.42	1.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00927997	Meiothermus	193.08	1.08	Two-component transcriptional response regulator, LuxR family
+PGF_00947361	Meiothermus	448.50	1.00	Phenylacetate-coenzyme A ligase (EC 6.2.1.30)
+PGF_00950554	Meiothermus	667.33	2.31	Excinuclease ABC subunit B
+PGF_00957770	Meiothermus	232.08	4.17	Two-component transcriptional response regulator, winged helix family
+PGF_00960579	Meiothermus	324.50	4.83	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00970349	Meiothermus	589.25	1.14	ABC transporter, permease protein 2 (cluster 4, leucine/isoleucine/valine/benzoate) / ABC transporter, ATP-binding protein 1 (cluster 4, leucine/isoleucine/valine/benzoate)
+PGF_00975110	Meiothermus	409.58	11.43	Uncharacterized MFS-type transporter
+PGF_00980340	Meiothermus	227.00	2.52	Efflux ABC transporter, ATP-binding protein
+PGF_00982259	Meiothermus	415.42	20.35	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_01008498	Meiothermus	108.17	20.41	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01021017	Meiothermus	393.18	3.60	Uncharacterized MFS-type transporter
+PGF_01040342	Meiothermus	312.67	1.23	Spermidine synthase (EC 2.5.1.16)
+PGF_01046967	Meiothermus	241.42	3.26	Efflux ABC transporter, ATP-binding protein
+PGF_01067056	Meiothermus	104.92	3.20	Periplasmic divalent cation tolerance protein CutA
+PGF_01092098	Meiothermus	168.67	4.58	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01104399	Meiothermus	261.42	18.52	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Meiothermus	388.83	30.04	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01172200	Meiothermus	220.00	7.53	Uncharacterized membrane anchored protein Mext_4159
+PGF_01172485	Meiothermus	413.25	16.07	Cell division protein FtsA
+PGF_01174739	Meiothermus	237.09	2.77	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Meiothermus	652.50	1.17	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Meiothermus	544.75	0.97	Heat shock protein 60 family chaperone GroEL
+PGF_01218448	Meiothermus	291.58	2.11	Vitamin B12 ABC transporter, substrate-binding protein BtuF
+PGF_01220515	Meiothermus	345.75	0.62	N-acetyl-gamma-aminoadipyl-phosphate reductase (EC 1.2.1.-)
+PGF_01222353	Meiothermus	269.00	0.00	Acetylaminoadipate kinase (EC 2.7.2.-)
+PGF_01223583	Meiothermus	333.36	12.70	Carboxyl-terminal protease
+PGF_01291803	Meiothermus	319.83	11.17	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01320469	Meiothermus	328.73	9.27	CRISPR-associated RAMP Cmr6
+PGF_01325304	Meiothermus	223.42	7.35	Molybdenum ABC transporter permease protein ModB
+PGF_01364427	Meiothermus	194.08	3.75	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Meiothermus	175.92	10.86	HNH endonuclease family protein
+PGF_01383123	Meiothermus	639.33	6.10	Acetoacetyl-CoA synthetase (EC 6.2.1.16)
+PGF_01402518	Meiothermus	502.17	12.03	Malonate-semialdehyde dehydrogenase [inositol] (EC 1.2.1.18)
+PGF_01421534	Meiothermus	205.58	0.79	LSU ribosomal protein L25p
+PGF_01423501	Meiothermus	160.42	5.23	Transcription elongation factor GreA
+PGF_01426950	Meiothermus	291.67	2.10	ABC transporter, substrate-binding protein (cluster 12, methionine/phosphonates)
+PGF_01427159	Meiothermus	257.00	2.66	Phenylacetic acid degradation operon negative regulatory protein PaaX
+PGF_01427545	Meiothermus	219.17	5.77	Aquaporin Z
+PGF_01427611	Meiothermus	206.75	3.02	Uncharacterized UPF0126 inner membrane protein
+PGF_01438032	Meiothermus	240.25	63.02	hypothetical protein
+PGF_01444546	Meiothermus	98.83	7.76	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01466742	Meiothermus	321.50	9.46	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01479092	Meiothermus	255.17	8.28	5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC 5.3.3.10)
+PGF_01480570	Meiothermus	297.00	2.34	Ornithine cyclodeaminase-like protein
+PGF_01480785	Meiothermus	331.73	0.47	Malate/L-lactate dehydrogenase-like protein
+PGF_01483918	Meiothermus	268.25	1.96	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01514111	Meiothermus	400.00	27.88	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01532393	Meiothermus	644.42	11.81	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01557745	Meiothermus	410.00	0.00	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01614738	Meiothermus	74.00	1.54	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01618915	Meiothermus	317.50	3.34	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion
+PGF_01668012	Meiothermus	247.67	29.11	Sulfur carrier protein FdhD
+PGF_01668974	Meiothermus	675.92	11.66	DNA internalization-related competence protein ComEC/Rec2
+PGF_01682537	Meiothermus	126.17	13.24	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Meiothermus	154.50	8.28	Bacterial ribosome SSU maturation protein RimP
+PGF_01719396	Meiothermus	213.50	3.63	Thiamin pyrophosphokinase (EC 2.7.6.2)
+PGF_01734668	Meiothermus	190.25	2.34	Adenylate kinase (EC 2.7.4.3)
+PGF_01737958	Meiothermus	259.67	0.89	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01742024	Meiothermus	512.92	5.78	Thiamin ABC transporter, transmembrane component
+PGF_01797166	Meiothermus	468.08	5.16	Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+PGF_01810645	Meiothermus	500.67	1.07	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01842781	Meiothermus	573.25	12.93	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01852683	Meiothermus	500.42	4.52	Nucleoside ABC transporter, ATP-binding protein
+PGF_01867628	Meiothermus	303.92	3.92	Heat-inducible transcription repressor HrcA
+PGF_01888177	Meiothermus	145.75	2.26	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Meiothermus	217.75	15.90	Endonuclease III (EC 4.2.99.18)
+PGF_01899042	Meiothermus	348.33	1.23	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like
+PGF_01899917	Meiothermus	519.17	12.73	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_01900530	Meiothermus	245.17	11.04	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01942824	Meiothermus	378.42	8.28	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+PGF_01960322	Meiothermus	606.83	14.12	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01962206	Meiothermus	209.23	39.04	Uracil-DNA glycosylase, family 5 (EC 3.2.2.27)
+PGF_01969379	Meiothermus	332.25	0.87	Acetoin dehydrogenase E1 component beta-subunit (EC 2.3.1.190)
+PGF_01994657	Meiothermus	405.67	1.67	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Meiothermus	129.50	14.36	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Meiothermus	267.67	8.37	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Meiothermus	355.58	3.15	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02061452	Meiothermus	386.00	7.90	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02111888	Meiothermus	341.50	1.24	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Meiothermus	788.00	2.45	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02189378	Meiothermus	355.58	3.42	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02210612	Meiothermus	380.75	6.69	Probable lipoprotein signal peptide
+PGF_02224568	Meiothermus	370.67	6.67	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)
+PGF_02226715	Meiothermus	792.17	35.27	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02227578	Meiothermus	225.67	6.64	Putative membrane protease YugP
+PGF_02227580	Meiothermus	219.42	31.94	glucose-1-phosphate adenylyltransferase( EC:2.7.7.27 )
+PGF_02227581	Meiothermus	401.42	6.50	hypothetical protein
+PGF_02227582	Meiothermus	170.42	4.48	hypothetical protein
+PGF_02227584	Meiothermus	134.50	4.50	hypothetical protein
+PGF_02227585	Meiothermus	304.08	1.98	hypothetical protein
+PGF_02227586	Meiothermus	135.92	2.87	hypothetical protein
+PGF_02227587	Meiothermus	205.17	13.48	hypothetical protein
+PGF_02227590	Meiothermus	68.50	1.51	hypothetical protein
+PGF_02227592	Meiothermus	81.08	6.97	hypothetical protein
+PGF_02227596	Meiothermus	495.33	6.69	hypothetical protein
+PGF_02227599	Meiothermus	141.67	11.05	hypothetical protein
+PGF_02227602	Meiothermus	108.42	0.51	hypothetical protein
+PGF_02227605	Meiothermus	129.17	9.93	hypothetical protein
+PGF_02227606	Meiothermus	67.33	8.47	hypothetical protein
+PGF_02227607	Meiothermus	226.25	2.99	hypothetical protein
+PGF_02227608	Meiothermus	85.58	13.63	hypothetical protein
+PGF_02227611	Meiothermus	162.00	0.00	Uncharacterized protein AF2422 with adenosine kinase domain
+PGF_02227612	Meiothermus	314.83	12.43	hypothetical protein
+PGF_02227613	Meiothermus	177.17	0.72	hypothetical protein
+PGF_02227614	Meiothermus	331.17	3.49	hypothetical protein
+PGF_02227617	Meiothermus	85.83	5.75	hypothetical protein
+PGF_02227618	Meiothermus	77.42	3.06	hypothetical protein
+PGF_02227620	Meiothermus	216.92	4.56	hypothetical protein
+PGF_02227621	Meiothermus	133.33	2.57	hypothetical protein
+PGF_02227622	Meiothermus	126.67	5.74	hypothetical protein
+PGF_02227625	Meiothermus	87.00	0.00	hypothetical protein
+PGF_02227630	Meiothermus	206.17	4.28	membrane metalloprotease
+PGF_02227632	Meiothermus	295.42	7.79	moxR-like ATPase
+PGF_02227635	Meiothermus	248.17	10.76	protein serine/threonine phosphatase
+PGF_02227636	Meiothermus	237.25	1.22	putative dihydropteridine reductase
+PGF_02227638	Meiothermus	507.08	5.23	type B carboxylesterase
+PGF_02227663	Meiothermus	177.36	1.91	hypothetical protein
+PGF_02227665	Meiothermus	83.33	8.24	hypothetical protein
+PGF_02227670	Meiothermus	66.09	3.02	hypothetical protein
+PGF_02227674	Meiothermus	160.92	10.99	hypothetical protein
+PGF_02227676	Meiothermus	116.83	1.64	hypothetical protein
+PGF_02227677	Meiothermus	152.82	2.40	hypothetical protein
+PGF_02227682	Meiothermus	208.91	2.43	hypothetical protein
+PGF_02227693	Meiothermus	240.09	1.87	protein of unknown function DUF955
+PGF_02227702	Meiothermus	541.92	41.71	hypothetical protein
+PGF_02227836	Meiothermus	143.25	1.54	hypothetical protein
+PGF_02228114	Meiothermus	911.17	8.63	ATP-dependent DNA helicase
+PGF_02228158	Meiothermus	109.17	22.03	hypothetical protein
+PGF_02231725	Meiothermus	117.00	0.00	Roadblock/LC7 family protein
+PGF_02231726	Meiothermus	405.83	13.44	stage II sporulation protein D
+PGF_02231727	Meiothermus	228.83	7.40	Segregation and condensation protein A
+PGF_02239557	Meiothermus	252.00	0.00	D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+PGF_02277678	Meiothermus	471.58	12.04	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_02346669	Meiothermus	313.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02349818	Meiothermus	124.33	1.37	Acyl-coenzyme A thioesterase PaaD (Pse.pu.) (E. coli PaaI)
+PGF_02355769	Meiothermus	369.50	11.16	Alanine racemase (EC 5.1.1.1)
+PGF_02405545	Meiothermus	326.00	4.26	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02450432	Meiothermus	292.58	11.21	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Meiothermus	97.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Meiothermus	199.50	10.06	Recombination protein RecR
+PGF_02471947	Meiothermus	143.42	1.24	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_02473279	Meiothermus	259.00	2.70	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473354	Meiothermus	493.58	19.25	Glucosaminyl-malate:cysteine ligase
+PGF_02514958	Meiothermus	299.58	27.31	putative periplasmic protein kinase ArgK and related GTPases of G3E family
+PGF_02516909	Meiothermus	423.50	0.90	Enolase (EC 4.2.1.11)
+PGF_02518459	Meiothermus	115.67	1.15	Nitrogen regulatory protein P-II
+PGF_02578186	Meiothermus	368.67	0.49	Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)
+PGF_02593689	Meiothermus	401.50	74.20	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02623406	Meiothermus	296.25	3.19	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Meiothermus	1425.25	349.64	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02719231	Meiothermus	119.33	0.78	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02728524	Meiothermus	849.75	4.41	DNA mismatch repair protein MutS
+PGF_02746016	Meiothermus	213.92	4.74	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02769386	Meiothermus	304.17	3.38	hypothetical protein
+PGF_02789532	Meiothermus	296.50	10.15	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Meiothermus	171.25	5.45	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02797400	Meiothermus	483.33	8.08	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Meiothermus	1124.25	0.45	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Meiothermus	494.75	8.26	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02836627	Meiothermus	349.33	4.64	Vitamin B12 ABC transporter, permease protein BtuC
+PGF_02838109	Meiothermus	185.83	17.27	Shikimate kinase I (EC 2.7.1.71)
+PGF_02862285	Meiothermus	398.08	3.18	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866109	Meiothermus	201.50	3.23	Uncharacterized protein, similar to the N-terminal domain of Lon protease
+PGF_02866866	Meiothermus	326.83	7.87	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02873160	Meiothermus	227.08	5.81	Putative preQ0 transporter YhhQ
+PGF_02875609	Meiothermus	432.50	20.73	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02883702	Meiothermus	348.17	9.04	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02889185	Meiothermus	332.75	7.48	Homoisocitrate dehydrogenase (EC 1.1.1.87)
+PGF_02890229	Meiothermus	529.58	2.68	Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+PGF_02899131	Meiothermus	62.00	4.53	LSU ribosomal protein L29p (L35e)
+PGF_02912272	Meiothermus	182.92	9.75	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02923127	Meiothermus	228.83	17.90	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02923360	Meiothermus	134.83	3.35	Uncharacterized protein YuxK
+PGF_02930687	Meiothermus	313.82	10.86	Oxidoreductase, Gfo/Idh/MocA family
+PGF_02936332	Meiothermus	311.25	4.37	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02938730	Meiothermus	311.42	0.90	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02940601	Meiothermus	97.33	2.10	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_02944756	Meiothermus	387.92	7.22	3-ketoacyl-CoA thiolase [fadN-fadA-fadE operon] (EC 2.3.1.16)
+PGF_02944779	Meiothermus	341.92	8.82	Acetoin dehydrogenase E1 component alpha-subunit (EC 2.3.1.190)
+PGF_02946231	Meiothermus	559.83	12.31	SSU ribosomal protein S1p
+PGF_02950579	Meiothermus	267.00	0.00	Septum site-determining protein MinD
+PGF_02954217	Meiothermus	292.33	1.07	N-carbamoylputrescine amidase (EC 3.5.1.53)
+PGF_02965056	Meiothermus	225.50	1.17	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_02981550	Meiothermus	200.25	0.45	Kynurenine formamidase, bacterial (EC 3.5.1.9)
+PGF_03001505	Meiothermus	134.83	5.27	Hemerythrin domain protein
+PGF_03009390	Meiothermus	260.33	0.98	hypothetical protein
+PGF_03017775	Meiothermus	504.08	6.91	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03025044	Meiothermus	183.83	6.22	Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+PGF_03031372	Meiothermus	265.25	12.35	Pyrimidine ABC transporter, ATP-binding protein
+PGF_03046709	Meiothermus	453.58	0.90	Ammonium transporter
+PGF_03050990	Meiothermus	218.33	15.92	Methyltransferase type 11
+PGF_03051427	Meiothermus	287.75	4.75	3-hydroxyisobutyrate dehydrogenase family protein
+PGF_03054699	Meiothermus	906.00	56.12	DNA translocase FtsK
+PGF_03057384	Meiothermus	355.83	1.80	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03066520	Meiothermus	413.50	21.71	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03073470	Meiothermus	552.17	5.83	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03075401	Meiothermus	148.83	3.90	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03091100	Meiothermus	873.18	16.44	Transcriptional regulator / Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_03104567	Meiothermus	445.33	0.78	Trk potassium uptake system protein TrkA
+PGF_03111948	Meiothermus	248.17	0.58	Electron transfer flavoprotein, beta subunit
+PGF_03117711	Meiothermus	189.92	13.48	Hydrolase (HAD superfamily), YqeK
+PGF_03124650	Meiothermus	477.75	9.55	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03126871	Meiothermus	366.33	7.27	hypothetical protein
+PGF_03127328	Meiothermus	146.91	0.30	FIG01101976: hypothetical protein
+PGF_03132336	Meiothermus	417.67	1.56	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03133617	Meiothermus	388.75	7.79	Cystathionine beta-lyase, type II (EC 4.4.1.8)
+PGF_03138446	Meiothermus	198.75	7.84	Oxidoreductase, molybdopterin-binding
+PGF_03146406	Meiothermus	600.83	14.78	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Meiothermus	133.58	8.65	Cytidine deaminase (EC 3.5.4.5)
+PGF_03174068	Meiothermus	185.00	0.00	Transcription antitermination protein NusG
+PGF_03181524	Meiothermus	359.75	0.45	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_03186757	Meiothermus	188.83	1.99	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+PGF_03192349	Meiothermus	405.46	5.49	Putative cytochrome P450 hydroxylase
+PGF_03196585	Meiothermus	108.00	0.00	Sulfur oxidation protein SoxZ
+PGF_03272313	Meiothermus	805.75	0.45	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Meiothermus	96.92	3.75	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03287477	Meiothermus	212.83	3.59	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03291914	Meiothermus	127.67	9.46	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03400333	Meiothermus	326.67	2.10	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03429638	Meiothermus	294.38	37.82	33 kDa chaperonin HslO
+PGF_03439582	Meiothermus	211.58	3.99	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+PGF_03456505	Meiothermus	387.17	77.09	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+PGF_03470321	Meiothermus	184.25	2.42	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03518570	Meiothermus	138.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Meiothermus	353.58	0.90	Cell division protein FtsZ
+PGF_03593265	Meiothermus	163.33	6.47	FIG018171: hypothetical protein of Cupin superfamily
+PGF_03607600	Meiothermus	217.25	5.82	COG4339 metal-dependent phosphohydrolase, HD superfamily
+PGF_03609651	Meiothermus	638.25	12.29	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03674165	Meiothermus	322.83	0.58	1,2-phenylacetyl-CoA epoxidase, subunit A (EC 1.14.13.149)
+PGF_03681110	Meiothermus	127.25	3.08	Peroxide stress regulator; Ferric uptake regulation protein; Fe2+/Zn2+ uptake regulation proteins
+PGF_03683462	Meiothermus	180.25	0.97	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_03683488	Meiothermus	173.33	7.14	2'-5' RNA ligase
+PGF_03684283	Meiothermus	400.27	1.62	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03708253	Meiothermus	72.17	0.39	Protein translocase subunit SecE
+PGF_03719269	Meiothermus	193.92	4.40	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Meiothermus	140.92	0.67	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03742234	Meiothermus	333.67	6.40	3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41)
+PGF_03742974	Meiothermus	402.18	1.54	CRISPR-associated protein Cas02710
+PGF_03750571	Meiothermus	439.00	0.00	Chromosomal replication initiator protein DnaA
+PGF_03750600	Meiothermus	158.58	7.97	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Meiothermus	86.75	6.38	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Meiothermus	184.42	2.91	Heat shock protein GrpE
+PGF_03752544	Meiothermus	220.33	0.78	Phosphate transport system regulatory protein PhoU
+PGF_03753933	Meiothermus	155.42	4.12	Iron-sulfur cluster regulator IscR
+PGF_03754547	Meiothermus	385.00	1.81	DNA double-strand break repair protein Mre11
+PGF_03755255	Meiothermus	340.08	71.84	hypothetical protein
+PGF_03755264	Meiothermus	424.69	27.11	hypothetical protein
+PGF_03755276	Meiothermus	144.58	1.16	hypothetical protein
+PGF_03755277	Meiothermus	118.33	4.89	hypothetical protein
+PGF_03755279	Meiothermus	113.92	9.16	hypothetical protein
+PGF_03755291	Meiothermus	66.58	3.78	hypothetical protein
+PGF_03755322	Meiothermus	137.33	16.27	hypothetical protein
+PGF_03755342	Meiothermus	377.33	1.23	Uncharacterized YjgP/YjgQ family permease DR1075
+PGF_03755389	Meiothermus	155.75	8.08	hypothetical protein
+PGF_03755393	Meiothermus	240.17	2.66	Transcriptional regulator, MerR family / Transcriptional regulator, MerR family
+PGF_03755394	Meiothermus	381.92	88.05	hypothetical protein
+PGF_03755656	Meiothermus	144.58	15.30	Uncharacterized membrane protein YuiD
+PGF_03756028	Meiothermus	236.83	5.70	hypothetical protein
+PGF_03778780	Meiothermus	304.50	0.67	Signal recognition particle receptor FtsY
+PGF_03780858	Meiothermus	552.17	103.48	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1
+PGF_03783620	Meiothermus	219.54	46.14	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03801201	Meiothermus	256.00	5.33	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03811905	Meiothermus	355.17	10.97	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03816226	Meiothermus	390.00	0.00	Protein of unknown function (DUF1501)
+PGF_03846834	Meiothermus	121.17	4.55	Acyl-CoA hydrolase (EC 3.1.2.20)
+PGF_03862500	Meiothermus	199.75	3.57	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03967284	Meiothermus	295.17	2.29	Indigoidine synthase A-like protein, uncharacterized enzyme involved in pigment biosynthesis
+PGF_04005838	Meiothermus	392.42	1.31	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04014993	Meiothermus	132.25	12.39	Diadenosine hexaphosphate (Ap6A) hydrolase; Bis(5'-nucleosyl)-tetraphosphatase (Ap4A) (Asymmetrical) (EC 3.6.1.17)
+PGF_04016408	Meiothermus	439.08	3.18	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04025415	Meiothermus	128.17	15.87	Large-conductance mechanosensitive channel
+PGF_04036472	Meiothermus	73.17	1.03	KH domain RNA binding protein YlqC
+PGF_04047265	Meiothermus	83.75	1.36	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04055837	Meiothermus	308.67	11.96	ABC transporter, permease protein 2 (cluster 11, riboflavin/purine nucleoside/unknown)
+PGF_04127376	Meiothermus	250.17	2.48	Twin-arginine translocation protein TatC
+PGF_04132127	Meiothermus	363.25	1.60	Manganese ABC transporter, inner membrane permease protein SitD
+PGF_04151476	Meiothermus	159.45	7.74	16S rRNA processing protein RimM
+PGF_04163139	Meiothermus	195.58	16.08	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Meiothermus	228.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Meiothermus	254.00	0.00	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04267880	Meiothermus	74.50	4.30	hypothetical protein
+PGF_04284526	Meiothermus	403.58	2.35	Alpha-aminoadipate aminotransferase (EC 2.6.1.39) @ Leucine transaminase (EC 2.6.1.6) @ Valine transaminase
+PGF_04306800	Meiothermus	367.33	0.49	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04336534	Meiothermus	786.50	74.04	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)
+PGF_04345693	Meiothermus	456.83	2.86	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04380075	Meiothermus	179.00	0.00	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04395505	Meiothermus	319.00	0.00	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04431830	Meiothermus	483.17	62.79	Thermostable carboxypeptidase 1 (EC 3.4.17.19)
+PGF_04477106	Meiothermus	381.17	5.34	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04493258	Meiothermus	296.42	5.70	Cobalt-zinc-cadmium resistance protein
+PGF_04505269	Meiothermus	245.25	3.67	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Meiothermus	347.75	0.87	Rod shape-determining protein MreB
+PGF_04521913	Meiothermus	406.33	87.71	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04560429	Meiothermus	453.58	1.24	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04571944	Meiothermus	208.42	3.12	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Meiothermus	249.00	7.51	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04615303	Meiothermus	379.09	0.54	Uncharacterized protein BT_0924
+PGF_04660832	Meiothermus	161.08	8.87	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Meiothermus	639.33	18.24	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04679223	Meiothermus	135.58	0.90	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis
+PGF_04724831	Meiothermus	337.00	7.14	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Meiothermus	572.08	2.61	Translation initiation factor 2
+PGF_04788810	Meiothermus	205.50	15.41	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Meiothermus	305.33	3.52	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04812042	Meiothermus	407.55	0.93	CRISPR-associated RAMP Cmr1
+PGF_04845029	Meiothermus	144.42	6.89	LSU ribosomal protein L19p
+PGF_04846590	Meiothermus	300.25	6.06	Magnesium and cobalt transport protein CorA
+PGF_04866046	Meiothermus	670.42	3.06	Uncharacterized protein YyaL
+PGF_04960746	Meiothermus	200.42	9.95	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Meiothermus	817.42	19.43	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Meiothermus	103.50	2.75	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Meiothermus	101.00	0.00	LSU ribosomal protein L21p
+PGF_05079020	Meiothermus	350.58	1.31	MoxR-like ATPase in aerotolerance operon
+PGF_05111929	Meiothermus	627.83	107.52	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Meiothermus	875.00	0.85	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Meiothermus	321.00	10.64	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05280843	Meiothermus	424.00	6.31	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Meiothermus	748.00	3.19	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05406959	Meiothermus	474.83	124.05	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05439724	Meiothermus	668.58	3.50	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463076	Meiothermus	435.58	78.93	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05504162	Meiothermus	554.83	1.59	5'-nucleotidase (EC 3.1.3.5)
+PGF_05560886	Meiothermus	264.17	16.49	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Meiothermus	440.25	0.45	Protein translocase subunit SecY
+PGF_05598173	Meiothermus	387.58	1.44	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05605679	Meiothermus	275.42	1.44	Phytoene synthase (EC 2.5.1.32)
+PGF_05622318	Meiothermus	390.83	66.40	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Meiothermus	228.75	1.60	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05743061	Meiothermus	767.92	8.41	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05788512	Meiothermus	272.00	5.59	FIG003003: hypothetical protein
+PGF_05837052	Meiothermus	430.67	0.65	Isocitrate lyase (EC 4.1.3.1)
+PGF_06051345	Meiothermus	1061.75	155.98	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06111528	Meiothermus	369.08	6.95	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06170558	Meiothermus	159.42	11.56	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Meiothermus	142.67	1.56	LSU ribosomal protein L13p (L13Ae)
+PGF_06213055	Meiothermus	272.08	5.87	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06254345	Meiothermus	94.75	5.88	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Meiothermus	334.92	6.92	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06319722	Meiothermus	378.50	3.90	Manganese ABC transporter, inner membrane permease protein SitC
+PGF_06329961	Meiothermus	296.31	1.11	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06379377	Meiothermus	416.42	9.88	Replication-associated recombination protein RarA
+PGF_06391417	Meiothermus	455.58	2.54	4-hydroxybutyrate coenzyme A transferase
+PGF_06405150	Meiothermus	182.00	2.49	Phosphoglycerate mutase
+PGF_06421645	Meiothermus	193.33	1.07	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_06455222	Meiothermus	379.75	1.29	Coenzyme A ligase
+PGF_06461498	Meiothermus	249.42	50.50	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06495818	Meiothermus	277.42	13.91	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06511905	Meiothermus	212.92	4.72	Phosphoglycerate mutase family protein
+PGF_06530721	Meiothermus	309.67	9.22	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06579111	Meiothermus	329.83	2.44	Peptidase M23B
+PGF_06589185	Meiothermus	580.67	7.38	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06609275	Meiothermus	54.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent
+PGF_06648993	Meiothermus	77.00	0.74	Acyl carrier protein
+PGF_06649360	Meiothermus	177.08	6.11	Segregation and condensation protein B
+PGF_06660812	Meiothermus	200.92	0.29	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06686458	Meiothermus	460.25	3.74	Dihydropyrimidinase (EC 3.5.2.2) @ D-hydantoinase (EC 3.5.2.2)
+PGF_06693963	Meiothermus	103.92	0.29	Nucleoid-associated protein YaaK
+PGF_06701488	Meiothermus	202.67	14.34	RNA-binding protein Jag
+PGF_06869016	Meiothermus	411.50	6.37	putative zinc protease
+PGF_06869844	Meiothermus	682.25	2.38	Fe-S oxidoreductase
+PGF_06900823	Meiothermus	209.92	1.88	CBS domain protein AcuB
+PGF_07072294	Meiothermus	313.67	1.72	Electron transfer flavoprotein, alpha subunit
+PGF_07072582	Meiothermus	482.17	17.11	RNA polymerase sigma factor RpoD
+PGF_08041143	Meiothermus	134.58	2.02	MaoC family protein
+PGF_08056793	Meiothermus	299.67	4.36	Maltodextrin ABC transporter, permease protein MdxF
+PGF_08082848	Meiothermus	389.92	2.87	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08117870	Meiothermus	101.42	5.98	Ferredoxin, 2Fe-2S
+PGF_08142081	Meiothermus	359.75	1.91	Linoleoyl-CoA desaturase (EC 1.14.19.3)
+PGF_08149492	Meiothermus	427.62	73.99	hypothetical protein

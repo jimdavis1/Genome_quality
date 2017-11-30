@@ -1,0 +1,901 @@
+PGF_00000261	Thiothrix	359.00	91.17	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000385	Thiothrix	480.78	2.22	FIG00807778: hypothetical protein
+PGF_00000416	Thiothrix	349.67	3.04	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000679	Thiothrix	180.33	1.22	FIG00858121: hypothetical protein
+PGF_00002491	Thiothrix	469.50	8.50	FIG015547: peptidase, M16 family
+PGF_00003448	Thiothrix	379.67	22.89	FIG110192: hypothetical protein
+PGF_00003516	Thiothrix	251.00	0.87	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003528	Thiothrix	160.88	21.92	UPF0307 protein YjgA
+PGF_00004094	Thiothrix	371.86	17.38	Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)
+PGF_00004481	Thiothrix	496.20	164.81	Ferric iron ABC transporter, permease protein
+PGF_00006100	Thiothrix	341.88	0.64	tRNA-modifying protein YgfZ
+PGF_00006320	Thiothrix	287.89	2.98	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006394	Thiothrix	296.83	106.61	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006454	Thiothrix	501.25	14.86	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+PGF_00006935	Thiothrix	508.25	46.97	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00006983	Thiothrix	327.67	1.22	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007012	Thiothrix	363.56	0.53	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Thiothrix	435.71	93.16	GTP-binding protein EngA
+PGF_00007026	Thiothrix	203.67	4.80	GTP-binding protein EngB
+PGF_00007027	Thiothrix	298.25	3.65	GTP-binding protein Era
+PGF_00007028	Thiothrix	427.89	2.98	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Thiothrix	498.73	209.77	GTP-binding protein TypA/BipA
+PGF_00007057	Thiothrix	445.89	1.05	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Thiothrix	272.10	42.02	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007337	Thiothrix	604.36	250.12	General secretion pathway protein D
+PGF_00007353	Thiothrix	333.18	128.36	General secretion pathway protein F
+PGF_00007379	Thiothrix	139.89	7.98	General secretion pathway protein H
+PGF_00007632	Thiothrix	284.09	71.33	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Thiothrix	451.09	178.08	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008051	Thiothrix	433.89	2.76	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008075	Thiothrix	402.00	0.00	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008106	Thiothrix	268.89	6.41	Glutamate racemase (EC 5.1.1.3)
+PGF_00008159	Thiothrix	532.80	7.33	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008164	Thiothrix	426.89	1.96	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Thiothrix	416.10	99.19	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Thiothrix	427.17	206.04	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Thiothrix	420.56	2.96	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Thiothrix	378.73	153.78	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008469	Thiothrix	319.20	4.54	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008510	Thiothrix	229.89	5.69	16S rRNA (guanine(1516)-N(2))-methyltransferase (EC 2.1.1.242)
+PGF_00008611	Thiothrix	335.22	0.67	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Thiothrix	196.22	8.45	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008876	Thiothrix	396.64	162.94	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)
+PGF_00008882	Thiothrix	315.90	87.13	Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE
+PGF_00009500	Thiothrix	186.50	9.40	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Thiothrix	275.30	64.17	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Thiothrix	686.89	2.15	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Thiothrix	222.91	50.71	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Thiothrix	206.12	1.81	Guanylate kinase (EC 2.7.4.8)
+PGF_00011081	Thiothrix	697.33	26.14	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011979	Thiothrix	432.67	0.87	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Thiothrix	348.78	13.26	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Thiothrix	393.27	85.26	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012972	Thiothrix	183.00	1.41	ADP compounds hydrolase NudE (EC 3.6.1.-)
+PGF_00013003	Thiothrix	622.75	30.26	Bis-ABC ATPase YheS
+PGF_00013266	Thiothrix	248.33	3.54	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)
+PGF_00013283	Thiothrix	228.78	3.87	UPF0001 protein YggS
+PGF_00013315	Thiothrix	193.00	0.00	Hypothetical protein i Rubrerythrin cluster
+PGF_00013509	Thiothrix	527.89	0.93	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013803	Thiothrix	197.50	1.58	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00014051	Thiothrix	265.00	2.18	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014140	Thiothrix	316.11	3.95	Inner membrane protein YedI
+PGF_00014284	Thiothrix	452.44	1.59	Inner membrane transport protein YajR
+PGF_00014306	Thiothrix	181.33	3.20	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Thiothrix	357.64	178.45	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00015039	Thiothrix	287.11	4.43	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Thiothrix	93.22	4.24	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Thiothrix	173.22	13.60	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Thiothrix	283.50	10.20	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015701	Thiothrix	415.11	5.69	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015707	Thiothrix	581.44	1.81	Isocitrate dehydrogenase phosphatase (EC 2.7.11.5)/kinase (EC 3.1.3.-)
+PGF_00015718	Thiothrix	836.80	194.11	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Thiothrix	392.89	74.85	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016325	Thiothrix	709.78	159.68	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Thiothrix	161.43	30.70	LSU ribosomal protein L10p (P0)
+PGF_00016340	Thiothrix	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Thiothrix	136.14	21.24	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Thiothrix	137.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Thiothrix	126.89	1.83	LSU ribosomal protein L17p
+PGF_00016353	Thiothrix	117.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Thiothrix	231.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Thiothrix	119.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Thiothrix	109.00	2.07	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Thiothrix	103.17	18.88	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Thiothrix	97.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Thiothrix	105.33	0.52	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Thiothrix	86.86	7.03	LSU ribosomal protein L27p
+PGF_00016393	Thiothrix	274.83	0.41	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Thiothrix	62.00	0.00	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Thiothrix	61.67	6.20	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016416	Thiothrix	56.12	0.35	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016418	Thiothrix	44.00	0.00	LSU ribosomal protein L34p
+PGF_00016423	Thiothrix	66.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Thiothrix	198.00	22.28	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Thiothrix	200.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Thiothrix	175.86	9.65	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Thiothrix	178.00	1.53	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Thiothrix	124.56	0.88	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Thiothrix	148.56	1.13	LSU ribosomal protein L9p
+PGF_00016691	Thiothrix	870.90	419.87	Large protein containing transglutaminase-like domain
+PGF_00016919	Thiothrix	220.56	61.98	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017109	Thiothrix	319.00	117.35	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Thiothrix	244.70	10.69	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017479	Thiothrix	288.55	82.15	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017579	Thiothrix	456.11	31.68	ATP-dependent RNA helicase RhlB
+PGF_00017758	Thiothrix	1004.56	270.89	LysM domain protein
+PGF_00018560	Thiothrix	276.00	15.13	Magnesium and cobalt efflux protein CorC
+PGF_00018965	Thiothrix	666.00	213.27	Malate synthase G (EC 2.3.3.9)
+PGF_00018971	Thiothrix	497.89	3.79	Malate:quinone oxidoreductase (EC 1.1.5.4)
+PGF_00019038	Thiothrix	417.38	102.07	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Thiothrix	169.11	34.04	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Thiothrix	701.50	304.47	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00020172	Thiothrix	276.25	1.39	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020361	Thiothrix	144.20	33.22	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020598	Thiothrix	287.22	0.83	Metallophosphoesterase
+PGF_00020735	Thiothrix	269.22	1.64	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020816	Thiothrix	607.75	11.50	Methyl-accepting chemotaxis protein
+PGF_00021036	Thiothrix	349.00	2.33	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021217	Thiothrix	455.70	131.59	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021395	Thiothrix	514.80	26.58	Mg-protoporphyrin IX monomethyl ester oxidative cyclase
+PGF_00022565	Thiothrix	76.44	1.33	Molybdopterin synthase sulfur carrier subunit
+PGF_00022605	Thiothrix	244.38	7.50	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00022781	Thiothrix	373.00	7.41	ATPase, AFG1 family
+PGF_00023591	Thiothrix	334.44	2.96	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023739	Thiothrix	334.00	15.91	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023818	Thiothrix	423.88	14.27	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00023938	Thiothrix	250.00	12.03	N-acetyltransferase
+PGF_00024232	Thiothrix	356.60	101.66	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Thiothrix	378.56	1.59	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024273	Thiothrix	163.44	5.05	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Thiothrix	339.64	82.61	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024309	Thiothrix	425.64	186.68	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024314	Thiothrix	556.00	20.85	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024322	Thiothrix	380.75	145.61	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024478	Thiothrix	302.60	96.84	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00025215	Thiothrix	164.88	4.45	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025718	Thiothrix	565.00	9.57	Nitrate/nitrite sensor protein (EC 2.7.3.-)
+PGF_00025877	Thiothrix	450.56	27.23	Nitrogen assimilation regulatory protein NtrX
+PGF_00025890	Thiothrix	349.56	22.39	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026279	Thiothrix	318.25	2.76	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026362	Thiothrix	198.56	2.13	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Thiothrix	281.38	15.77	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026453	Thiothrix	297.00	1.50	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026563	Thiothrix	153.56	6.35	Nudix-like NDP and NTP phosphohydrolase NudJ
+PGF_00026615	Thiothrix	263.27	71.02	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026866	Thiothrix	322.83	2.04	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Thiothrix	680.75	4.71	Oligopeptidase A (EC 3.4.24.70)
+PGF_00027587	Thiothrix	137.00	4.35	OsmC-like protein
+PGF_00027752	Thiothrix	591.56	48.79	Outer membrane component of TAM transport system
+PGF_00029343	Thiothrix	370.29	4.35	PQQ-dependent oxidoreductase, gdhB family
+PGF_00029917	Thiothrix	287.44	3.17	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030031	Thiothrix	587.12	50.42	Paraquat-inducible protein B
+PGF_00030640	Thiothrix	358.56	1.33	Peptide chain release factor 1
+PGF_00030643	Thiothrix	452.00	119.23	Peptide chain release factor 3
+PGF_00030812	Thiothrix	202.78	18.24	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+PGF_00031591	Thiothrix	229.75	41.92	Peroxiredoxin family protein/glutaredoxin
+PGF_00033095	Thiothrix	794.67	0.50	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033237	Thiothrix	325.56	13.74	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Thiothrix	341.67	0.50	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Thiothrix	363.20	10.12	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033392	Thiothrix	939.11	1.54	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033402	Thiothrix	722.50	201.02	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+PGF_00033411	Thiothrix	276.00	2.78	Phosphoenolpyruvate synthase regulatory protein
+PGF_00033479	Thiothrix	545.11	1.17	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033511	Thiothrix	348.33	89.30	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Thiothrix	258.33	1.41	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033877	Thiothrix	171.67	2.12	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033928	Thiothrix	352.55	131.41	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Thiothrix	300.56	6.67	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Thiothrix	236.14	59.73	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Thiothrix	239.78	13.44	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Thiothrix	294.36	100.71	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033985	Thiothrix	307.20	87.91	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034566	Thiothrix	429.50	10.03	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034776	Thiothrix	620.00	163.12	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034851	Thiothrix	259.86	1.21	Polysaccharide biosynthesis protein WlaX
+PGF_00034988	Thiothrix	334.62	2.77	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Thiothrix	150.11	29.06	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035378	Thiothrix	469.50	2.27	Adenosylhomocysteinase (EC 3.3.1.1)
+PGF_00035591	Thiothrix	254.00	13.68	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Thiothrix	471.00	1.00	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035721	Thiothrix	440.33	44.38	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Thiothrix	381.80	126.31	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036580	Thiothrix	109.67	5.81	Protein translocase subunit YajC
+PGF_00036667	Thiothrix	404.67	7.68	Primosomal protein N' (replication factor Y) - superfamily II helicase
+PGF_00037588	Thiothrix	572.89	6.57	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037747	Thiothrix	236.11	10.07	Propionate catabolism operon transcriptional regulator of GntR family
+PGF_00037750	Thiothrix	479.30	214.77	Propionate--CoA ligase (EC 6.2.1.17)
+PGF_00037828	Thiothrix	294.00	1.73	Protease HtpX
+PGF_00038060	Thiothrix	285.88	103.85	Protein containing domains DUF403
+PGF_00038061	Thiothrix	439.33	122.32	Protein containing domains DUF404, DUF407
+PGF_00038542	Thiothrix	158.38	3.16	Protein of unknown function Smg
+PGF_00038625	Thiothrix	370.58	154.85	Protein similar to cobyrinic acid a,c-diamide synthetase clustered with dissimilatory sulfite reductase
+PGF_00038626	Thiothrix	636.25	44.15	Protein similar to glutamate synthase [NADPH] small chain, clustered with sulfite reductase
+PGF_00038674	Thiothrix	314.11	4.20	Protein translocase subunit SecF
+PGF_00039342	Thiothrix	259.00	55.52	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039502	Thiothrix	274.89	24.57	Putative NAD(P)-dependent oxidoreductase EC-YbbO
+PGF_00040578	Thiothrix	234.67	68.35	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Thiothrix	255.00	9.47	Putative deoxyribonuclease YjjV
+PGF_00040864	Thiothrix	220.56	4.85	Putative flagellar motility protein
+PGF_00041369	Thiothrix	225.78	2.82	GMP/IMP nucleotidase YrfG
+PGF_00043159	Thiothrix	324.40	95.48	Putative permease often clustered with de novo purine synthesis
+PGF_00044773	Thiothrix	245.62	7.33	Putative transmembrane protein
+PGF_00045833	Thiothrix	190.38	60.36	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00045900	Thiothrix	244.33	6.56	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045963	Thiothrix	922.00	396.00	Pyruvate carboxylase (EC 6.4.1.1)
+PGF_00046101	Thiothrix	259.10	60.17	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Thiothrix	349.88	1.13	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046348	Thiothrix	324.22	49.93	RNA polymerase sigma factor RpoS
+PGF_00046403	Thiothrix	495.20	13.91	RNA polymerase sigma-54 factor RpoN
+PGF_00046454	Thiothrix	195.00	15.93	RNA polymerase sigma-70 factor
+PGF_00047078	Thiothrix	350.50	4.69	RecA protein
+PGF_00047822	Thiothrix	364.18	27.92	Response regulator
+PGF_00048480	Thiothrix	218.78	4.12	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Thiothrix	144.22	8.67	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Thiothrix	189.78	1.72	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Thiothrix	239.56	4.67	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048589	Thiothrix	213.00	0.00	Ribonuclease T
+PGF_00048630	Thiothrix	1173.00	432.35	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048638	Thiothrix	400.70	161.03	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Thiothrix	159.67	13.26	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Thiothrix	317.88	0.35	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048824	Thiothrix	219.78	5.12	Ribosomal large subunit pseudouridine(746) synthase (EC 5.4.99.29) @ tRNA pseudouridine(32) synthase (EC 5.4.99.28)
+PGF_00048829	Thiothrix	277.22	50.23	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Thiothrix	289.86	12.79	Ribosomal protein L11 methyltransferase
+PGF_00048842	Thiothrix	304.33	10.78	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048846	Thiothrix	361.82	141.77	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048868	Thiothrix	231.88	3.87	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19)
+PGF_00048917	Thiothrix	111.40	1.35	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Thiothrix	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Thiothrix	299.89	3.22	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Thiothrix	130.33	1.66	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Thiothrix	139.00	4.58	Ribosome-binding factor A
+PGF_00048985	Thiothrix	232.00	0.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049330	Thiothrix	314.36	123.92	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049344	Thiothrix	233.80	59.06	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism
+PGF_00049362	Thiothrix	314.10	76.86	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049827	Thiothrix	259.50	9.01	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Thiothrix	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Thiothrix	134.29	0.49	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Thiothrix	124.11	0.33	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Thiothrix	118.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049844	Thiothrix	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Thiothrix	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Thiothrix	81.25	7.38	SSU ribosomal protein S16p
+PGF_00049858	Thiothrix	75.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049860	Thiothrix	90.33	0.52	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Thiothrix	232.33	1.63	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Thiothrix	204.22	3.53	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Thiothrix	169.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Thiothrix	128.00	7.37	SSU ribosomal protein S6p
+PGF_00049904	Thiothrix	143.78	14.99	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Thiothrix	131.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Thiothrix	130.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050290	Thiothrix	269.78	5.89	Segregation and condensation protein A
+PGF_00050995	Thiothrix	503.78	7.97	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051120	Thiothrix	236.56	3.64	Septum site-determining protein MinC
+PGF_00051329	Thiothrix	390.62	25.73	Serine--pyruvate aminotransferase (EC 2.6.1.51)
+PGF_00051334	Thiothrix	394.00	1.91	Serine--pyruvate aminotransferase (EC 2.6.1.51) / L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)
+PGF_00051525	Thiothrix	384.10	103.16	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052238	Thiothrix	458.56	4.80	Signal recognition particle protein Ffh
+PGF_00052705	Thiothrix	142.86	0.38	LSU ribosomal protein L11p (L12e)
+PGF_00052773	Thiothrix	392.00	0.00	Similarity with glutathionylspermidine synthase (EC 6.3.1.8), group 2
+PGF_00053770	Thiothrix	360.29	0.95	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00054301	Thiothrix	206.00	8.49	Stringent starvation protein A
+PGF_00054302	Thiothrix	167.50	9.86	Stringent starvation protein B
+PGF_00054323	Thiothrix	195.44	26.17	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054480	Thiothrix	259.22	0.44	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Thiothrix	376.67	37.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055045	Thiothrix	644.83	9.56	Amylosucrase (EC 2.4.1.4)
+PGF_00055056	Thiothrix	248.29	2.14	Sulfite reduction-associated complex DsrMKJOP iron-sulfur protein DsrO (=HmeA)
+PGF_00055057	Thiothrix	172.00	2.08	Sulfite reduction-associated complex DsrMKJOP multiheme protein DsrJ (=HmeF)
+PGF_00055059	Thiothrix	520.88	4.02	Sulfite reduction-associated complex DsrMKJOP protein DsrK (=HmeD)
+PGF_00055061	Thiothrix	250.75	7.76	Sulfite reduction-associated complex DsrMKJOP protein DsrM (= HmeC)
+PGF_00055063	Thiothrix	385.62	45.92	Sulfite reduction-associated complex DsrMKJOP protein DsrP (= HmeB)
+PGF_00055156	Thiothrix	504.60	167.01	Sulfur oxidation protein SoxB
+PGF_00055186	Thiothrix	841.00	274.30	Anaerobic dimethyl sulfoxide reductase chain A (EC 1.8.5.3), molybdopterin-binding domain
+PGF_00055240	Thiothrix	230.88	20.20	Anaerobic dimethyl sulfoxide reductase chain B (EC 1.8.5.3), iron-sulfur binding subunit
+PGF_00055267	Thiothrix	320.12	6.22	Anaerobic dimethyl sulfoxide reductase chain C (EC 1.8.5.3), anchor subunit
+PGF_00055537	Thiothrix	593.67	10.27	Aerotolerance protein BatB / Aerotolerance protein BatC
+PGF_00055741	Thiothrix	559.25	45.03	TRAP dicarboxylate transporter, DctM subunit, unknown substrate 6
+PGF_00055771	Thiothrix	176.50	11.89	TRAP dicarboxylate transporter, DctQ subunit, unknown substrate 6
+PGF_00056273	Thiothrix	272.60	87.50	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056662	Thiothrix	340.33	8.03	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056696	Thiothrix	375.56	10.22	Anthranilate phosphoribosyltransferase like (EC 2.4.2.18)
+PGF_00056727	Thiothrix	218.62	1.60	Thiopurine S-methyltransferase (EC 2.1.1.67)
+PGF_00056814	Thiothrix	471.00	57.33	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Thiothrix	204.00	28.81	Thymidylate kinase (EC 2.7.4.9)
+PGF_00056897	Thiothrix	264.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00056935	Thiothrix	404.30	132.27	TldD protein, part of TldE/TldD proteolytic complex
+PGF_00057016	Thiothrix	140.89	3.06	Tol biopolymer transport system, TolR protein
+PGF_00057032	Thiothrix	138.78	5.02	Tol-Pal system-associated acyl-CoA thioesterase
+PGF_00057270	Thiothrix	756.57	29.33	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Thiothrix	147.00	3.39	Transamidase GatB domain protein
+PGF_00057483	Thiothrix	374.30	120.56	Transcription termination factor Rho
+PGF_00057485	Thiothrix	497.00	1.77	Transcription termination protein NusA
+PGF_00057488	Thiothrix	159.89	3.86	Transcription termination protein NusB
+PGF_00059681	Thiothrix	144.17	22.75	Transcriptional regulator, MerR family
+PGF_00060178	Thiothrix	531.22	6.50	Transcriptional regulatory protein RtcR
+PGF_00060398	Thiothrix	536.00	224.93	Transketolase (EC 2.2.1.1)
+PGF_00060409	Thiothrix	701.11	1.76	Translation elongation factor G
+PGF_00060411	Thiothrix	655.56	124.35	Translation elongation factor G paralog VC2342
+PGF_00060414	Thiothrix	542.00	150.59	Translation elongation factor LepA
+PGF_00060421	Thiothrix	188.89	0.33	Translation elongation factor P
+PGF_00060427	Thiothrix	293.22	3.19	Translation elongation factor Ts
+PGF_00060431	Thiothrix	72.00	0.00	Translation initiation factor 1
+PGF_00061607	Thiothrix	126.86	1.95	ApaG protein
+PGF_00062023	Thiothrix	250.00	40.21	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Thiothrix	374.22	86.33	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Thiothrix	399.56	20.09	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062571	Thiothrix	543.11	8.39	Two-component sensor PilS
+PGF_00063488	Thiothrix	443.33	1.73	Type III secretion cytoplasmic ATP synthase (EC 3.6.3.14, YscN,SpaL,MxiB,HrcN,EscN)
+PGF_00063525	Thiothrix	562.00	234.50	Type III secretion inner membrane channel protein (LcrD,HrcV,EscV,SsaV)
+PGF_00063916	Thiothrix	394.67	13.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Thiothrix	243.78	2.17	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063944	Thiothrix	293.00	21.24	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Thiothrix	304.00	77.98	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063993	Thiothrix	367.40	12.70	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Thiothrix	419.27	102.53	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064004	Thiothrix	441.56	14.91	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064218	Thiothrix	107.67	0.82	UPF0145 protein YbjQ
+PGF_00064280	Thiothrix	148.11	20.76	UPF0260 protein YcgN
+PGF_00064378	Thiothrix	256.67	12.42	Transmembrane protein YfcA
+PGF_00064385	Thiothrix	284.67	4.93	UPF0759 protein YecE
+PGF_00064393	Thiothrix	259.40	72.50	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064460	Thiothrix	442.09	166.21	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064506	Thiothrix	257.00	0.00	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064685	Thiothrix	81.89	3.37	Uncharacterized ferredoxin-like protein YfhL
+PGF_00064746	Thiothrix	214.43	0.79	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type
+PGF_00064880	Thiothrix	451.12	0.35	Uncharacterized protease YegQ
+PGF_00065379	Thiothrix	389.78	1.48	Uncharacterized protein YaaN
+PGF_00065887	Thiothrix	245.89	5.75	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00065999	Thiothrix	157.17	10.23	Universal stress protein family
+PGF_00066124	Thiothrix	168.56	0.73	Pyrimidine operon regulatory protein PyrR
+PGF_00066139	Thiothrix	225.90	2.64	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066153	Thiothrix	263.25	0.71	Urea ABC transporter, ATPase protein UrtD
+PGF_00066155	Thiothrix	231.00	0.00	Urea ABC transporter, ATPase protein UrtE
+PGF_00066158	Thiothrix	359.62	31.01	Urea ABC transporter, permease protein UrtC
+PGF_00066160	Thiothrix	361.11	115.21	Urea ABC transporter, substrate binding protein UrtA
+PGF_00066203	Thiothrix	157.88	5.25	Urease accessory protein UreE
+PGF_00066214	Thiothrix	179.56	46.87	Urease accessory protein UreG
+PGF_00066215	Thiothrix	507.56	165.81	Urease alpha subunit (EC 3.5.1.5)
+PGF_00066216	Thiothrix	101.38	0.52	Urease beta subunit (EC 3.5.1.5)
+PGF_00066218	Thiothrix	100.00	0.00	Urease gamma subunit (EC 3.5.1.5)
+PGF_00066270	Thiothrix	313.82	74.66	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Thiothrix	560.91	446.24	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066867	Thiothrix	410.91	91.47	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+PGF_00067277	Thiothrix	350.40	94.48	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067401	Thiothrix	286.67	3.87	YpfJ protein, zinc metalloprotease superfamily
+PGF_00067466	Thiothrix	533.80	123.60	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Thiothrix	395.91	141.38	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067739	Thiothrix	360.89	1.27	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Thiothrix	856.33	69.14	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00068045	Thiothrix	368.50	12.14	AttH component of AttEFGH ABC transport system
+PGF_00071693	Thiothrix	282.56	14.44	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00081657	Thiothrix	495.00	95.93	hypothetical protein
+PGF_00083781	Thiothrix	293.88	5.87	hypothetical protein
+PGF_00094671	Thiothrix	163.71	1.80	hypothetical protein
+PGF_00095137	Thiothrix	89.12	4.29	hypothetical protein
+PGF_00102041	Thiothrix	186.14	1.86	Esterase YqiA
+PGF_00102814	Thiothrix	888.11	327.84	Lysophospholipid transporter LplT / 2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) / Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)
+PGF_00106655	Thiothrix	105.00	27.87	hypothetical protein
+PGF_00113984	Thiothrix	202.80	9.24	Flavin prenyltransferase UbiX
+PGF_00137455	Thiothrix	115.22	6.50	hypothetical protein
+PGF_00144272	Thiothrix	161.25	1.16	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00146725	Thiothrix	322.88	30.46	CRISPR-associated protein Cas1
+PGF_00180751	Thiothrix	306.86	26.60	hypothetical protein
+PGF_00181884	Thiothrix	389.57	14.07	hypothetical protein
+PGF_00261173	Thiothrix	369.67	6.52	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00285620	Thiothrix	191.00	40.14	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00301233	Thiothrix	195.11	40.37	hypothetical protein
+PGF_00306574	Thiothrix	308.64	69.39	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00358715	Thiothrix	543.22	103.07	Ribosomal protein S12p methylthiotransferase accessory factor YcaO
+PGF_00359425	Thiothrix	169.00	6.24	hypothetical protein
+PGF_00366123	Thiothrix	312.88	5.91	hypothetical protein
+PGF_00400019	Thiothrix	326.22	2.44	Aerotolerance protein BatA
+PGF_00400845	Thiothrix	412.56	7.57	Uncharacterized integral membrane endopeptidase Bmul_2226
+PGF_00401752	Thiothrix	249.78	0.44	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)
+PGF_00402786	Thiothrix	394.00	2.00	2-methylaconitate isomerase
+PGF_00403100	Thiothrix	672.11	311.46	2-methylcitrate dehydratase (2-methyl-trans-aconitate forming) (EC 4.2.1.117)
+PGF_00403434	Thiothrix	381.22	2.33	2-methylcitrate synthase (EC 2.3.3.5)
+PGF_00404019	Thiothrix	632.67	1.80	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404078	Thiothrix	155.12	3.76	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00404256	Thiothrix	393.75	100.08	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+PGF_00404384	Thiothrix	310.56	38.51	Biotin synthase (EC 2.8.1.6)
+PGF_00404831	Thiothrix	278.89	5.73	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406082	Thiothrix	834.10	313.97	putative RTX toxin
+PGF_00410883	Thiothrix	165.40	5.34	Single-stranded DNA-binding protein
+PGF_00411667	Thiothrix	150.89	13.08	related to glycosyltransferase (PssD)
+PGF_00413182	Thiothrix	327.00	2.45	tRNA (mo5U34)-methyltransferase
+PGF_00413203	Thiothrix	153.78	0.44	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Thiothrix	250.62	3.25	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413234	Thiothrix	111.25	0.71	tRNA 2-thiouridine synthesis protein TusE @ Sulfur redox associated protein DsrC
+PGF_00413239	Thiothrix	101.88	1.36	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusB
+PGF_00413243	Thiothrix	133.75	0.46	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusC
+PGF_00413245	Thiothrix	130.00	0.00	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD
+PGF_00413266	Thiothrix	304.78	43.39	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413290	Thiothrix	260.11	0.60	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Thiothrix	304.11	4.08	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Thiothrix	428.50	2.14	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Thiothrix	611.78	48.16	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Thiothrix	253.50	7.84	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Thiothrix	164.22	10.40	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413478	Thiothrix	346.78	2.68	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases / CDP-6-deoxy-delta-3,4-glucoseen reductase-like
+PGF_00413554	Thiothrix	161.11	3.48	tmRNA-binding protein SmpB
+PGF_00414156	Thiothrix	156.22	5.09	twitching motility protein PilG
+PGF_00414926	Thiothrix	409.22	18.75	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415150	Thiothrix	282.67	2.24	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415481	Thiothrix	337.44	82.79	SAM-dependent methyltransferase, MidA
+PGF_00415486	Thiothrix	155.78	3.67	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415581	Thiothrix	206.00	0.00	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00415652	Thiothrix	273.30	6.86	FIG00005326: uncharacterized protein
+PGF_00416115	Thiothrix	314.67	1.32	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Thiothrix	551.25	2.12	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Thiothrix	877.30	380.60	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416508	Thiothrix	62.22	6.50	Carbon storage regulator
+PGF_00416576	Thiothrix	181.22	0.83	3'-to-5' oligoribonuclease (orn)
+PGF_00416674	Thiothrix	368.11	0.33	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00417433	Thiothrix	638.78	1.20	Chaperone protein DnaK
+PGF_00417658	Thiothrix	292.64	112.65	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417755	Thiothrix	236.44	2.46	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+PGF_00417840	Thiothrix	352.75	34.97	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Thiothrix	182.33	3.64	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Thiothrix	248.33	2.18	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418406	Thiothrix	171.00	0.00	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)
+PGF_00418791	Thiothrix	205.33	9.72	Type IV pilus biogenesis protein PilN
+PGF_00419420	Thiothrix	373.88	173.49	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419627	Thiothrix	271.30	76.04	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+PGF_00419628	Thiothrix	346.25	173.72	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Thiothrix	171.22	8.27	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419913	Thiothrix	158.60	7.12	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Thiothrix	238.40	62.09	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420078	Thiothrix	297.33	0.50	Cysteine synthase B (EC 2.5.1.47)
+PGF_00420121	Thiothrix	215.78	8.79	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420502	Thiothrix	664.88	6.58	Cytochrome c-type biogenesis protein Ccs1/ResB
+PGF_00420731	Thiothrix	494.56	1.24	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420798	Thiothrix	307.11	4.51	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Thiothrix	294.00	89.27	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421098	Thiothrix	600.00	191.93	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421181	Thiothrix	110.50	13.52	DNA base-flipping protein
+PGF_00421489	Thiothrix	792.15	466.22	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Thiothrix	334.40	73.76	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421679	Thiothrix	592.25	9.05	DNA primase (EC 2.7.7.-)
+PGF_00421733	Thiothrix	315.20	86.48	DNA recombination and repair protein RecF
+PGF_00421760	Thiothrix	304.33	2.40	DNA recombination-dependent growth factor RdgC
+PGF_00421792	Thiothrix	434.22	58.59	DNA repair protein RadA
+PGF_00421796	Thiothrix	554.33	1.58	DNA repair protein RecN
+PGF_00422271	Thiothrix	300.50	71.72	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422918	Thiothrix	281.10	200.90	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+PGF_00422959	Thiothrix	146.67	13.76	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423089	Thiothrix	334.30	75.73	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Thiothrix	283.60	10.29	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Thiothrix	372.80	90.72	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423335	Thiothrix	477.43	0.79	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+PGF_00423361	Thiothrix	120.62	2.67	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423472	Thiothrix	644.22	8.90	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Thiothrix	285.00	3.81	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423630	Thiothrix	387.11	135.42	Dissimilatory sulfite reductase, alpha subunit (EC 1.8.99.3)
+PGF_00423632	Thiothrix	315.56	104.00	Dissimilatory sulfite reductase, beta subunit (EC 1.8.99.3)
+PGF_00423914	Thiothrix	175.60	44.04	1,6-anhydro-N-acetylmuramyl-L-alanine amidase
+PGF_00423927	Thiothrix	285.89	1.96	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424447	Thiothrix	332.78	3.60	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424569	Thiothrix	263.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Thiothrix	578.22	128.17	Excinuclease ABC subunit C
+PGF_00425021	Thiothrix	932.67	298.82	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425024	Thiothrix	393.80	121.63	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425603	Thiothrix	877.25	536.99	FAD/FMN-containing dehydrogenases
+PGF_00425665	Thiothrix	246.62	6.93	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Thiothrix	236.45	87.28	RNase adapter protein RapZ
+PGF_00425684	Thiothrix	249.75	1.39	Probable transcriptional regulatory protein YebC
+PGF_00425704	Thiothrix	82.89	15.71	FIG001341: Probable Fe(2+)-trafficking protein YggX
+PGF_00425759	Thiothrix	397.44	88.73	FIG002076: hypothetical protein
+PGF_00425810	Thiothrix	242.22	68.79	Cell division protein ZapD
+PGF_00425993	Thiothrix	365.89	76.11	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Thiothrix	349.78	16.90	FIG004453: protein YceG like
+PGF_00426044	Thiothrix	290.89	5.90	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426115	Thiothrix	627.22	6.30	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426231	Thiothrix	505.78	4.97	FIG004684: SpoVR-like protein
+PGF_00426236	Thiothrix	380.89	80.99	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426722	Thiothrix	1239.00	41.11	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Thiothrix	151.11	23.71	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00447508	Thiothrix	433.20	106.91	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00447765	Thiothrix	99.00	0.00	YciL protein
+PGF_00482828	Thiothrix	443.78	0.44	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00497557	Thiothrix	450.50	102.82	Uncharacterized protein YjgR
+PGF_00508272	Thiothrix	585.44	26.61	Efflux ABC transporter, permease/ATP-binding protein
+PGF_00529632	Thiothrix	687.88	334.13	ClpB protein
+PGF_00549302	Thiothrix	483.44	10.15	Carboxyl-terminal protease (EC 3.4.21.102)
+PGF_00569671	Thiothrix	304.56	2.35	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00580333	Thiothrix	381.75	1.28	Lipopolysaccharide assembly protein LapB
+PGF_00580417	Thiothrix	612.20	11.66	Outer membrane vitamin B12 receptor BtuB
+PGF_00596539	Thiothrix	496.10	168.88	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydD subunit
+PGF_00618776	Thiothrix	304.36	124.77	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00639841	Thiothrix	470.80	141.50	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Thiothrix	259.78	105.53	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644212	Thiothrix	292.56	25.13	Nucleoside-diphosphate-sugar epimerases
+PGF_00644402	Thiothrix	571.89	4.65	Amylopullulanase
+PGF_00648054	Thiothrix	225.00	9.77	Tol-Pal system protein TolQ
+PGF_00649271	Thiothrix	104.22	1.09	Cell division protein BolA
+PGF_00655131	Thiothrix	488.00	2.14	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00655358	Thiothrix	457.18	94.14	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Thiothrix	494.75	63.42	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Thiothrix	215.90	7.14	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665875	Thiothrix	120.22	5.26	Ribosomal silencing factor RsfA
+PGF_00695458	Thiothrix	270.75	18.27	Urease accessory protein UreD
+PGF_00709443	Thiothrix	99.75	9.69	Twin-arginine translocation protein TatB
+PGF_00717495	Thiothrix	403.00	98.03	Citrate synthase (si) (EC 2.3.3.1)
+PGF_00720117	Thiothrix	219.56	23.95	Two-component transcriptional response regulator, LuxR family
+PGF_00725839	Thiothrix	670.27	164.72	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00734482	Thiothrix	748.50	206.80	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00777371	Thiothrix	229.25	1.39	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00813259	Thiothrix	212.33	52.68	FolM Alternative dihydrofolate reductase 1
+PGF_00827555	Thiothrix	541.78	69.93	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00829334	Thiothrix	301.11	5.69	Transcriptional regulator, LysR family
+PGF_00839349	Thiothrix	324.00	1.80	MoxR-like ATPases
+PGF_00853393	Thiothrix	250.64	68.70	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00900256	Thiothrix	477.67	2.83	Threonine synthase (EC 4.2.3.1)
+PGF_00912265	Thiothrix	298.10	80.82	tRNA-dihydrouridine synthase DusB
+PGF_00924816	Thiothrix	250.00	28.87	Thiol:disulfide interchange protein DsbC
+PGF_00925844	Thiothrix	377.33	126.98	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Thiothrix	502.82	144.19	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00950554	Thiothrix	673.22	1.72	Excinuclease ABC subunit B
+PGF_00983542	Thiothrix	480.10	206.80	Endonuclease/exonuclease/phosphatase family protein
+PGF_01008498	Thiothrix	127.11	5.75	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01042183	Thiothrix	115.67	3.81	hypothetical protein
+PGF_01058419	Thiothrix	950.50	391.16	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01076590	Thiothrix	236.80	11.94	MotA/TolQ/ExbB proton channel family protein
+PGF_01084030	Thiothrix	683.60	177.31	Outer membrane protein assembly factor YaeT
+PGF_01095191	Thiothrix	258.89	30.19	Methylisocitrate lyase (EC 4.1.3.30)
+PGF_01104399	Thiothrix	249.89	5.69	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01124177	Thiothrix	336.56	119.74	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01126005	Thiothrix	284.27	127.12	Rod shape-determining protein RodA
+PGF_01172431	Thiothrix	108.00	1.60	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_01172485	Thiothrix	409.44	10.22	Cell division protein FtsA
+PGF_01174739	Thiothrix	245.75	6.09	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Thiothrix	631.89	19.23	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Thiothrix	445.11	197.86	Heat shock protein 60 family chaperone GroEL
+PGF_01284176	Thiothrix	139.00	0.00	Rubrerythrin
+PGF_01291803	Thiothrix	318.38	2.62	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Thiothrix	265.67	4.82	Chromosome (plasmid) partitioning protein ParA
+PGF_01323228	Thiothrix	201.88	4.42	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01325304	Thiothrix	225.89	3.14	Molybdenum ABC transporter permease protein ModB
+PGF_01364427	Thiothrix	197.62	7.03	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01367201	Thiothrix	197.12	2.64	HNH endonuclease family protein
+PGF_01393949	Thiothrix	542.36	169.66	Acetyl-CoA synthetase (EC 6.2.1.1)
+PGF_01421534	Thiothrix	190.00	0.00	LSU ribosomal protein L25p
+PGF_01423501	Thiothrix	160.56	0.53	Transcription elongation factor GreA
+PGF_01444546	Thiothrix	95.50	1.27	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01448031	Thiothrix	102.22	0.97	Integration host factor alpha subunit
+PGF_01451911	Thiothrix	328.25	113.79	TRAP transporter solute receptor, unknown substrate 6
+PGF_01466742	Thiothrix	432.67	2.92	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Thiothrix	414.22	7.26	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483918	Thiothrix	270.62	0.74	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01492504	Thiothrix	287.44	4.33	Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)
+PGF_01532393	Thiothrix	706.00	18.90	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01614738	Thiothrix	77.22	15.11	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01625234	Thiothrix	255.50	104.34	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667999	Thiothrix	191.11	0.33	RNA polymerase sigma factor RpoE
+PGF_01668974	Thiothrix	741.56	78.07	DNA internalization-related competence protein ComEC/Rec2
+PGF_01674551	Thiothrix	128.71	0.95	Glycine cleavage system H protein
+PGF_01679220	Thiothrix	403.25	11.08	Uncharacterized MFS-type transporter
+PGF_01682834	Thiothrix	159.38	1.92	Bacterial ribosome SSU maturation protein RimP
+PGF_01727524	Thiothrix	349.44	7.23	Ferric iron ABC transporter, ATP-binding protein
+PGF_01734668	Thiothrix	216.33	0.82	Adenylate kinase (EC 2.7.4.3)
+PGF_01737958	Thiothrix	228.00	1.32	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01760799	Thiothrix	722.30	199.06	Type IV pilus biogenesis protein PilQ
+PGF_01777142	Thiothrix	208.56	4.98	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01780907	Thiothrix	139.78	3.11	Protein YhfA
+PGF_01810645	Thiothrix	416.30	117.98	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01847498	Thiothrix	86.33	3.67	hypothetical protein
+PGF_01853493	Thiothrix	271.11	2.37	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01867628	Thiothrix	351.56	1.33	Heat-inducible transcription repressor HrcA
+PGF_01888177	Thiothrix	150.33	1.50	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Thiothrix	210.11	0.33	Endonuclease III (EC 4.2.99.18)
+PGF_01920535	Thiothrix	525.50	106.77	Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+PGF_01922580	Thiothrix	350.20	86.53	2-polyprenylphenol hydroxylase
+PGF_01936994	Thiothrix	315.90	71.90	Type IV pilus biogenesis protein PilM
+PGF_01949788	Thiothrix	199.12	9.66	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Thiothrix	611.78	0.44	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01985478	Thiothrix	376.33	2.78	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01994657	Thiothrix	389.22	131.20	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Thiothrix	119.00	0.00	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02011760	Thiothrix	258.50	3.85	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Thiothrix	307.20	87.67	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Thiothrix	334.40	84.21	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Thiothrix	299.38	100.76	GTP-binding protein Obg
+PGF_02030844	Thiothrix	576.29	140.24	ATP-dependent DNA helicase RecQ
+PGF_02059020	Thiothrix	522.44	58.86	Energy-dependent translational throttle protein EttA
+PGF_02061452	Thiothrix	336.20	77.15	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02111888	Thiothrix	314.12	5.22	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Thiothrix	372.30	121.02	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Thiothrix	350.56	1.94	Flagellar biosynthesis protein FlhB
+PGF_02211177	Thiothrix	252.25	3.73	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02226715	Thiothrix	612.30	182.57	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02317534	Thiothrix	143.00	1.41	Thioredoxin 2
+PGF_02323834	Thiothrix	293.11	2.26	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_02325838	Thiothrix	515.33	5.66	Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+PGF_02328820	Thiothrix	68.25	0.71	hypothetical protein
+PGF_02346669	Thiothrix	283.73	75.47	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Thiothrix	730.60	228.10	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Thiothrix	357.33	0.50	Alanine racemase (EC 5.1.1.1)
+PGF_02357764	Thiothrix	167.12	6.33	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02382338	Thiothrix	258.44	18.45	Inner membrane protein YpjD
+PGF_02386652	Thiothrix	162.12	0.35	Ribonuclease E inhibitor RraA
+PGF_02454577	Thiothrix	84.78	10.00	SSU ribosomal protein S20p
+PGF_02463284	Thiothrix	178.40	45.00	Recombination protein RecR
+PGF_02473279	Thiothrix	230.60	48.83	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase (EC 2.1.1.200)
+PGF_02473679	Thiothrix	504.44	147.13	Type IV fimbrial assembly, ATPase PilB
+PGF_02515882	Thiothrix	408.67	1.58	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Thiothrix	350.00	140.30	Enolase (EC 4.2.1.11)
+PGF_02517984	Thiothrix	63.00	0.00	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518965	Thiothrix	148.62	5.13	Regulatory protein RecX
+PGF_02593689	Thiothrix	415.09	110.19	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02601905	Thiothrix	123.67	13.22	Transcriptional regulator PA2737, MerR family
+PGF_02619970	Thiothrix	116.88	17.82	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Thiothrix	305.89	1.83	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02635429	Thiothrix	243.78	7.98	tRNA (adenine(37)-N6)-methyltransferase
+PGF_02704551	Thiothrix	1250.30	345.41	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02706008	Thiothrix	246.62	7.96	tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+PGF_02728524	Thiothrix	604.08	286.48	DNA mismatch repair protein MutS
+PGF_02746016	Thiothrix	236.56	5.68	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02789532	Thiothrix	257.33	64.65	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Thiothrix	228.60	11.12	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Thiothrix	365.55	174.47	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Thiothrix	1225.90	323.63	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Thiothrix	517.89	0.33	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02838109	Thiothrix	179.89	1.45	Shikimate kinase I (EC 2.7.1.71)
+PGF_02862285	Thiothrix	368.78	111.29	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866666	Thiothrix	687.50	245.23	ABC transporter, fused permease protein
+PGF_02873659	Thiothrix	409.56	1.67	General secretion pathway protein F
+PGF_02873723	Thiothrix	493.78	4.02	Ribonuclease G
+PGF_02875609	Thiothrix	447.22	0.67	TldE protein, part of TldE/TldD proteolytic complex
+PGF_02877184	Thiothrix	327.70	77.04	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02891040	Thiothrix	193.00	3.00	NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)
+PGF_02893929	Thiothrix	264.33	2.24	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+PGF_02898096	Thiothrix	495.86	0.38	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+PGF_02899131	Thiothrix	65.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02902854	Thiothrix	212.50	3.85	Outer membrane lipoprotein carrier protein LolA
+PGF_02903262	Thiothrix	307.62	18.58	Glycosyl transferase, group 2 family
+PGF_02904832	Thiothrix	322.00	90.26	Homoserine kinase (EC 2.7.1.39)
+PGF_02906681	Thiothrix	674.60	243.52	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02912009	Thiothrix	203.67	38.70	Type IV pilus biogenesis protein PilO
+PGF_02919689	Thiothrix	203.33	91.26	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Thiothrix	241.89	3.26	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02938730	Thiothrix	346.80	10.32	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02942351	Thiothrix	224.11	0.93	Phosphoglycolate phosphatase (EC 3.1.3.18)
+PGF_02946231	Thiothrix	483.40	145.20	SSU ribosomal protein S1p
+PGF_02947204	Thiothrix	536.67	0.50	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Thiothrix	268.44	0.53	Septum site-determining protein MinD
+PGF_02953390	Thiothrix	447.50	1.51	Fe-S oxidoreductase-like protein in Rubrerythrin cluster
+PGF_02959749	Thiothrix	380.67	2.06	Ribonuclease D (EC 3.1.26.3)
+PGF_02963284	Thiothrix	120.00	29.79	Glyoxalase family protein
+PGF_02967314	Thiothrix	325.00	128.27	ABC transporter, ATP-binding protein
+PGF_02974043	Thiothrix	264.90	68.45	Membrane protein
+PGF_02990294	Thiothrix	100.14	1.21	hypothetical protein
+PGF_02991837	Thiothrix	237.80	4.21	Protein of unknown function DUF484
+PGF_02992100	Thiothrix	240.38	2.07	Arginyl-tRNA--protein transferase (EC 2.3.2.8)
+PGF_02992495	Thiothrix	155.89	11.47	Protein translocase membrane subunit SecG
+PGF_02997723	Thiothrix	157.78	4.27	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03006190	Thiothrix	389.67	46.02	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03014573	Thiothrix	314.75	1.75	Periplasmic serine proteases (ClpP class)
+PGF_03017775	Thiothrix	420.64	154.33	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Thiothrix	194.22	2.82	Septum formation protein Maf
+PGF_03023698	Thiothrix	231.44	4.61	hypothetical protein
+PGF_03025675	Thiothrix	548.22	109.59	Lipid A export permease/ATP-binding protein MsbA
+PGF_03026450	Thiothrix	863.83	455.60	Chromosome partition protein smc
+PGF_03029859	Thiothrix	607.11	14.01	Bis-ABC ATPase Uup
+PGF_03035434	Thiothrix	304.62	2.92	Transcriptional regulator
+PGF_03037296	Thiothrix	339.67	50.48	FIG002776: hypothetical protein
+PGF_03038852	Thiothrix	126.78	2.86	FIG00018398: hypothetical regulator
+PGF_03040937	Thiothrix	259.40	53.97	TonB protein
+PGF_03055709	Thiothrix	96.86	4.26	CRISPR-associated protein Cas2
+PGF_03057384	Thiothrix	337.67	2.06	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03066520	Thiothrix	414.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03073470	Thiothrix	494.50	201.32	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03074362	Thiothrix	369.00	41.30	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03075401	Thiothrix	161.00	2.65	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03081665	Thiothrix	182.38	1.06	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03094694	Thiothrix	438.62	50.77	Peptidase B (EC 3.4.11.23)
+PGF_03110572	Thiothrix	201.70	77.45	Autolysis response regulater LytR
+PGF_03116802	Thiothrix	209.89	25.53	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03122066	Thiothrix	153.86	2.61	Protein YaiI
+PGF_03124650	Thiothrix	475.45	148.41	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03125514	Thiothrix	447.88	19.01	FIG015287: Zinc protease
+PGF_03132336	Thiothrix	425.40	11.38	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03146406	Thiothrix	595.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03174068	Thiothrix	177.00	0.00	Transcription antitermination protein NusG
+PGF_03186757	Thiothrix	191.88	1.36	Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+PGF_03203461	Thiothrix	592.70	28.82	Efflux ABC transporter, permease/ATP-binding protein mlr7818
+PGF_03207284	Thiothrix	180.67	35.57	Lipid carrier : UDP-N-acetylgalactosaminyltransferase (EC 2.4.1.-)
+PGF_03222913	Thiothrix	140.88	1.36	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03257845	Thiothrix	193.00	27.52	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Thiothrix	863.62	8.19	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Thiothrix	68.57	12.78	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03364965	Thiothrix	620.00	314.19	Type cbb3 cytochrome oxidase biogenesis protein CcoI; Copper-translocating P-type ATPase (EC 3.6.3.4)
+PGF_03365853	Thiothrix	221.11	39.13	Heavy-metal-associated domain (N-terminus) and membrane-bounded cytochrome biogenesis cycZ-like domain, possible membrane copper tolerance protein
+PGF_03421722	Thiothrix	447.50	3.12	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Thiothrix	290.89	4.59	33 kDa chaperonin HslO
+PGF_03439690	Thiothrix	139.30	3.02	Ferric uptake regulation protein FUR
+PGF_03439827	Thiothrix	478.38	1.51	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03441339	Thiothrix	314.12	6.58	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03470321	Thiothrix	175.38	8.33	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03514188	Thiothrix	402.33	104.69	Glutathione reductase (EC 1.8.1.7)
+PGF_03518570	Thiothrix	144.89	5.69	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Thiothrix	361.90	89.40	Cell division protein FtsZ
+PGF_03590313	Thiothrix	333.44	4.00	putative membrane protein
+PGF_03609651	Thiothrix	560.55	217.58	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03679540	Thiothrix	227.25	5.65	Urease accessory protein UreF
+PGF_03682090	Thiothrix	109.00	0.00	small multidrug resistance family (SMR) protein
+PGF_03685660	Thiothrix	377.00	94.72	Uncharacterized MFS-type transporter YxiO
+PGF_03685684	Thiothrix	375.12	0.35	Sulfide:quinone oxidoreductase, Type VI
+PGF_03701810	Thiothrix	330.12	5.36	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Thiothrix	128.00	8.25	Protein translocase subunit SecE
+PGF_03719269	Thiothrix	198.33	11.30	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Thiothrix	141.11	4.14	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Thiothrix	189.78	3.23	UPF0301 protein YqgE
+PGF_03729877	Thiothrix	126.33	3.12	twitching motility protein PilH
+PGF_03750571	Thiothrix	466.89	6.51	Chromosomal replication initiator protein DnaA
+PGF_03750600	Thiothrix	159.33	1.41	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Thiothrix	83.22	2.64	Membrane protein insertion efficiency factor YidD
+PGF_03751823	Thiothrix	187.22	8.15	Heat shock protein GrpE
+PGF_03752544	Thiothrix	237.00	2.62	Phosphate transport system regulatory protein PhoU
+PGF_03757137	Thiothrix	410.56	125.15	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Thiothrix	221.67	6.54	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03768099	Thiothrix	282.00	18.94	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03776345	Thiothrix	440.62	60.04	hypothetical protein
+PGF_03776347	Thiothrix	279.00	7.47	hypothetical protein
+PGF_03776350	Thiothrix	298.44	26.25	hypothetical protein
+PGF_03776352	Thiothrix	370.78	27.92	hypothetical protein
+PGF_03776358	Thiothrix	536.90	144.79	hypothetical protein
+PGF_03776359	Thiothrix	456.11	5.69	hypothetical protein
+PGF_03776363	Thiothrix	108.22	3.93	hypothetical protein
+PGF_03776364	Thiothrix	121.33	15.18	hypothetical protein
+PGF_03776367	Thiothrix	206.44	1.13	hypothetical protein
+PGF_03776371	Thiothrix	286.67	3.77	hypothetical protein
+PGF_03776372	Thiothrix	276.00	2.00	hypothetical protein
+PGF_03776375	Thiothrix	276.78	2.64	hypothetical protein
+PGF_03776376	Thiothrix	431.11	7.27	hypothetical protein
+PGF_03776377	Thiothrix	279.60	84.18	hypothetical protein
+PGF_03776378	Thiothrix	224.44	7.18	hypothetical protein
+PGF_03776379	Thiothrix	127.78	7.08	hypothetical protein
+PGF_03776380	Thiothrix	215.22	0.44	hypothetical protein
+PGF_03776381	Thiothrix	190.33	0.87	hypothetical protein
+PGF_03776383	Thiothrix	237.11	1.36	hypothetical protein
+PGF_03776384	Thiothrix	110.89	4.99	hypothetical protein
+PGF_03776385	Thiothrix	205.56	43.79	hypothetical protein
+PGF_03776387	Thiothrix	246.50	59.57	hypothetical protein
+PGF_03776388	Thiothrix	426.67	3.43	polysaccharide biosynthesis protein, putative
+PGF_03776391	Thiothrix	97.11	12.56	hypothetical protein
+PGF_03776399	Thiothrix	156.12	3.83	hypothetical protein
+PGF_03777176	Thiothrix	196.67	0.71	Methyltransferase small
+PGF_03777189	Thiothrix	183.38	10.03	Protein YrdA
+PGF_03777416	Thiothrix	385.71	0.49	Conserved TM helix repeat-containing protein
+PGF_03779065	Thiothrix	453.60	131.99	DEAD/DEAH box helicase-like
+PGF_03790040	Thiothrix	218.25	5.47	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Thiothrix	278.12	3.56	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03810115	Thiothrix	198.44	52.62	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Thiothrix	353.44	6.48	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03835760	Thiothrix	348.18	133.56	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03935716	Thiothrix	682.89	8.52	Inner membrane protein, KefB/KefC family
+PGF_03942441	Thiothrix	79.91	14.56	DNA-binding protein Fis
+PGF_03954476	Thiothrix	262.10	62.37	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03960810	Thiothrix	254.89	4.81	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_03969636	Thiothrix	151.22	1.79	PhbF
+PGF_03981497	Thiothrix	183.14	3.29	FIG026291: Hypothetical periplasmic protein
+PGF_03985337	Thiothrix	288.70	176.93	hypothetical protein
+PGF_04005838	Thiothrix	374.50	104.74	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Thiothrix	218.11	15.22	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04009106	Thiothrix	146.22	1.09	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Thiothrix	403.60	111.56	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04034430	Thiothrix	69.56	4.33	SSU ribosomal protein S21p
+PGF_04044926	Thiothrix	117.78	13.61	hypothetical protein
+PGF_04108824	Thiothrix	606.00	15.32	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04119806	Thiothrix	293.50	4.77	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+PGF_04127376	Thiothrix	353.62	6.70	Twin-arginine translocation protein TatC
+PGF_04151476	Thiothrix	168.75	1.16	16S rRNA processing protein RimM
+PGF_04154333	Thiothrix	81.00	2.45	Twin-arginine translocation protein TatA
+PGF_04163139	Thiothrix	218.67	13.94	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Thiothrix	214.62	0.52	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Thiothrix	253.11	1.83	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04217548	Thiothrix	543.78	31.08	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04315180	Thiothrix	153.44	3.71	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04317665	Thiothrix	156.11	14.52	hypothetical protein
+PGF_04345693	Thiothrix	459.11	9.52	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04359199	Thiothrix	553.67	119.97	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04360357	Thiothrix	858.67	127.76	Protein translocase subunit SecA
+PGF_04457297	Thiothrix	201.56	5.55	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04475011	Thiothrix	204.78	3.35	Cytochrome c4
+PGF_04490704	Thiothrix	311.00	1.41	FIG022979: MoxR-like ATPases
+PGF_04505269	Thiothrix	232.30	55.14	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Thiothrix	347.90	0.32	Rod shape-determining protein MreB
+PGF_04520897	Thiothrix	478.12	184.63	Urea ABC transporter, permease protein UrtB
+PGF_04521913	Thiothrix	453.20	7.84	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Thiothrix	505.38	23.23	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Thiothrix	251.00	1.58	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04608820	Thiothrix	648.44	9.71	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04636538	Thiothrix	90.00	0.00	DNA-binding protein HU-beta
+PGF_04646018	Thiothrix	196.56	10.49	Type III secretion bridge between inner and outermembrane lipoprotein (YscJ,HrcJ,EscJ, PscJ)
+PGF_04660832	Thiothrix	161.89	37.10	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Thiothrix	802.38	10.91	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04687504	Thiothrix	472.56	1.88	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04724831	Thiothrix	323.40	80.26	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Thiothrix	886.11	203.99	Translation initiation factor 2
+PGF_04788810	Thiothrix	190.44	1.42	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Thiothrix	271.70	69.05	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04838801	Thiothrix	449.78	146.38	tRNA cytosine(34) acetyltransferase (EC 2.3.1.193)
+PGF_04845029	Thiothrix	113.89	0.78	LSU ribosomal protein L19p
+PGF_04960746	Thiothrix	269.22	38.38	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Thiothrix	782.62	56.54	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Thiothrix	72.67	3.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Thiothrix	103.33	0.52	LSU ribosomal protein L21p
+PGF_05022117	Thiothrix	445.82	169.29	Bis-ABC ATPase YbiT
+PGF_05056505	Thiothrix	705.78	63.11	Nitrogen regulation protein NtrY
+PGF_05117712	Thiothrix	631.75	329.04	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Thiothrix	759.91	251.82	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Thiothrix	316.11	17.44	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05182506	Thiothrix	211.00	3.32	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Thiothrix	408.67	113.75	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05220334	Thiothrix	474.00	29.92	Succinate-semialdehyde dehydrogenase [NAD(P)+] (EC 1.2.1.16)
+PGF_05255412	Thiothrix	433.88	4.49	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Thiothrix	406.40	110.28	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05294175	Thiothrix	224.44	45.92	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_05299528	Thiothrix	448.62	5.60	ATP-dependent RNA helicase RhlE
+PGF_05338234	Thiothrix	288.00	0.00	Protein YicC
+PGF_05386032	Thiothrix	194.00	0.58	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05406959	Thiothrix	350.56	10.74	beta-N-acetylglucosaminidase (EC 3.2.1.52)
+PGF_05421852	Thiothrix	578.78	165.00	Chaperone protein HtpG
+PGF_05439724	Thiothrix	673.88	5.19	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05444169	Thiothrix	296.00	3.53	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05463808	Thiothrix	271.60	59.08	NAD kinase (EC 2.7.1.23)
+PGF_05471309	Thiothrix	499.50	2.84	Exopolyphosphatase (EC 3.6.1.11)
+PGF_05507938	Thiothrix	618.12	16.80	DNA mismatch repair protein MutL
+PGF_05519582	Thiothrix	385.50	66.49	NAD(FAD)-utilizing dehydrogenases
+PGF_05560886	Thiothrix	269.70	20.87	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Thiothrix	447.29	5.47	Protein translocase subunit SecY
+PGF_05598173	Thiothrix	379.14	0.69	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Thiothrix	380.70	90.72	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Thiothrix	218.44	0.73	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05693577	Thiothrix	97.12	10.96	Integration host factor beta subunit
+PGF_05712128	Thiothrix	557.33	3.16	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05743061	Thiothrix	814.10	198.65	Protein lysine acetyltransferase Pat (EC 2.3.1.-)
+PGF_05769513	Thiothrix	412.11	3.10	Tol-Pal system beta propeller repeat protein TolB
+PGF_05837052	Thiothrix	309.27	153.93	Isocitrate lyase (EC 4.1.3.1)
+PGF_05872952	Thiothrix	255.33	25.38	Outer membrane beta-barrel assembly protein BamD
+PGF_05925776	Thiothrix	296.11	1.54	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Thiothrix	614.00	6.78	Protein translocase subunit SecD
+PGF_05965455	Thiothrix	510.78	22.34	AmpG permease
+PGF_05971611	Thiothrix	366.80	81.16	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06000040	Thiothrix	414.00	4.84	Type IV fimbrial assembly protein PilC
+PGF_06005188	Thiothrix	501.33	262.87	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06025565	Thiothrix	308.12	1.46	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06037862	Thiothrix	518.62	20.42	Penicillin-binding protein activator LpoA
+PGF_06051594	Thiothrix	422.10	97.86	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06053106	Thiothrix	288.44	0.73	RNA polymerase sigma factor RpoH
+PGF_06061522	Thiothrix	119.44	8.95	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06111528	Thiothrix	357.00	9.46	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06120144	Thiothrix	145.00	1.00	Ribosome association toxin RatA
+PGF_06152571	Thiothrix	255.44	34.61	Sulfate transporter, CysZ-type
+PGF_06180597	Thiothrix	151.88	16.55	LSU ribosomal protein L13p (L13Ae)
+PGF_06211427	Thiothrix	220.11	52.59	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06230969	Thiothrix	491.86	4.45	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Thiothrix	95.86	0.38	Heat shock protein 60 family co-chaperone GroES
+PGF_06285041	Thiothrix	384.67	14.12	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06315406	Thiothrix	419.33	0.71	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Thiothrix	336.56	1.13	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06329961	Thiothrix	278.82	69.48	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06348872	Thiothrix	759.67	116.10	General secretion pathway protein D
+PGF_06362312	Thiothrix	413.09	170.72	AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination
+PGF_06379377	Thiothrix	424.44	11.52	Replication-associated recombination protein RarA
+PGF_06421645	Thiothrix	222.00	11.15	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG
+PGF_06458877	Thiothrix	166.22	10.64	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Thiothrix	319.44	10.83	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06495818	Thiothrix	259.44	5.48	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06524027	Thiothrix	490.08	241.68	ATP-dependent DNA helicase Rep
+PGF_06530721	Thiothrix	230.00	2.39	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Thiothrix	126.14	2.79	Fluoride ion transporter CrcB
+PGF_06617739	Thiothrix	375.00	5.50	DnaJ domain protein
+PGF_06644010	Thiothrix	307.67	5.17	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06648993	Thiothrix	78.67	0.71	Acyl carrier protein
+PGF_06649360	Thiothrix	183.44	3.32	Segregation and condensation protein B
+PGF_06660812	Thiothrix	209.29	5.44	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06668048	Thiothrix	144.78	17.36	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+PGF_06693963	Thiothrix	108.89	0.93	Nucleoid-associated protein YaaK
+PGF_06735060	Thiothrix	685.25	142.99	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Thiothrix	315.89	3.86	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Thiothrix	447.90	123.96	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06759389	Thiothrix	220.56	70.16	Gliding motility-associated ABC transporter permease protein GldF
+PGF_06772993	Thiothrix	840.00	342.84	Ribonuclease E (EC 3.1.26.12)
+PGF_06792905	Thiothrix	66.67	5.07	Type cbb3 cytochrome oxidase biogenesis protein CcoS, involved in heme b insertion
+PGF_07072582	Thiothrix	623.22	8.01	RNA polymerase sigma factor RpoD
+PGF_07242312	Thiothrix	657.20	13.86	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07344415	Thiothrix	204.44	8.99	Intracellular septation protein IspA
+PGF_08050537	Thiothrix	297.00	106.69	Homoserine O-succinyltransferase (EC 2.3.1.46)
+PGF_08059428	Thiothrix	85.89	1.54	Cell division topological specificity factor MinE
+PGF_08061357	Thiothrix	116.67	3.61	Iron-sulfur cluster insertion protein ErpA
+PGF_08078633	Thiothrix	274.82	92.95	hypothetical protein
+PGF_08082848	Thiothrix	312.45	133.98	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_08151304	Thiothrix	238.89	13.82	hypothetical protein
+PGF_08153913	Thiothrix	263.38	12.37	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+PGF_08183187	Thiothrix	412.30	5.33	Cell division protein FtsW
+PGF_08184711	Thiothrix	529.44	8.63	Inner membrane protein YqiK

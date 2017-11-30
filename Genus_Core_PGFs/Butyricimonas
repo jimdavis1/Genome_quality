@@ -1,0 +1,916 @@
+PGF_00000014	Butyricimonas	729.75	3.40	FIG00653582: hypothetical protein
+PGF_00000261	Butyricimonas	387.25	14.52	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000416	Butyricimonas	358.00	2.31	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000926	Butyricimonas	1576.00	6.00	FIG00898163: hypothetical protein
+PGF_00001136	Butyricimonas	551.00	1.15	FIG00939558: hypothetical protein
+PGF_00003100	Butyricimonas	164.00	1.15	FIG042921: similarity to aminoacyl-tRNA editing enzymes YbaK, ProX
+PGF_00003504	Butyricimonas	280.00	0.00	FIG137478: Hypothetical protein
+PGF_00003516	Butyricimonas	261.00	0.00	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003525	Butyricimonas	279.00	0.00	FIG137884: hypothetical protein
+PGF_00004152	Butyricimonas	545.00	1.63	Fe-S oxidoreductase
+PGF_00004164	Butyricimonas	467.00	3.46	Fe-S oxidoreductase
+PGF_00004337	Butyricimonas	278.00	0.00	Ferredoxin 3 fused to uncharacterized domain
+PGF_00004541	Butyricimonas	151.50	1.73	Ferric uptake regulation protein FUR
+PGF_00004637	Butyricimonas	160.00	0.00	Ferritin-like protein 2
+PGF_00004742	Butyricimonas	374.75	0.50	Fic domain protein, Pden_3305 type
+PGF_00005023	Butyricimonas	446.00	0.00	ABC transporter, permease protein
+PGF_00005945	Butyricimonas	398.00	0.00	Flavoprotein
+PGF_00006123	Butyricimonas	279.50	0.58	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_00006245	Butyricimonas	556.00	0.00	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+PGF_00006277	Butyricimonas	429.00	10.23	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+PGF_00006390	Butyricimonas	352.00	0.00	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+PGF_00006394	Butyricimonas	331.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006653	Butyricimonas	413.50	20.42	Gate supefamily SpmA/SpmB domains protein
+PGF_00006676	Butyricimonas	196.00	3.56	G:T/U mismatch-specific uracil/thymine DNA-glycosylase (EC 3.2.2.27)
+PGF_00006935	Butyricimonas	509.00	0.00	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Butyricimonas	366.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Butyricimonas	438.50	7.00	GTP-binding protein EngA
+PGF_00007026	Butyricimonas	200.00	0.00	GTP-binding protein EngB
+PGF_00007027	Butyricimonas	294.00	0.00	GTP-binding protein Era
+PGF_00007028	Butyricimonas	408.50	1.73	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Butyricimonas	600.75	2.50	GTP-binding protein TypA/BipA
+PGF_00007085	Butyricimonas	384.00	0.00	Galactokinase (EC 2.7.1.6)
+PGF_00007304	Butyricimonas	231.00	0.00	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007525	Butyricimonas	324.00	0.00	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+PGF_00007632	Butyricimonas	301.50	2.52	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007920	Butyricimonas	641.00	1.15	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00007981	Butyricimonas	391.00	0.00	Sugar-phosphate nucleotidyl transferase
+PGF_00008102	Butyricimonas	566.00	0.00	Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase / Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)
+PGF_00008106	Butyricimonas	274.00	0.00	Glutamate racemase (EC 5.1.1.3)
+PGF_00008249	Butyricimonas	373.00	1.41	Glutamine cyclotransferase
+PGF_00008258	Butyricimonas	501.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008261	Butyricimonas	717.00	18.00	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+PGF_00008326	Butyricimonas	567.00	0.00	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008335	Butyricimonas	508.00	1.15	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008537	Butyricimonas	501.00	1.15	Glycerol kinase (EC 2.7.1.30)
+PGF_00008542	Butyricimonas	240.75	6.50	Glycerol uptake facilitator protein
+PGF_00008548	Butyricimonas	330.00	0.00	Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261)
+PGF_00008611	Butyricimonas	334.00	0.00	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Butyricimonas	962.00	0.00	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008838	Butyricimonas	208.50	1.00	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008872	Butyricimonas	1413.25	1.50	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009539	Butyricimonas	308.50	13.00	Glycosyl transferase, group 2 family
+PGF_00009634	Butyricimonas	432.00	7.35	Glycosyltransferase
+PGF_00009966	Butyricimonas	518.00	0.00	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010205	Butyricimonas	238.75	2.06	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010360	Butyricimonas	181.00	10.68	Guanylate kinase (EC 2.7.4.8)
+PGF_00010578	Butyricimonas	179.00	0.00	HDIG domain protein
+PGF_00011081	Butyricimonas	818.00	0.00	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011250	Butyricimonas	305.00	0.00	Hemagglutinin
+PGF_00011464	Butyricimonas	269.00	4.00	Hemolysin A
+PGF_00011465	Butyricimonas	317.00	0.00	Hemolysin A
+PGF_00011979	Butyricimonas	427.50	0.58	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Butyricimonas	366.00	0.00	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012015	Butyricimonas	318.00	0.00	Uncharacterized protein BT_0926
+PGF_00012264	Butyricimonas	341.00	0.00	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012920	Butyricimonas	550.00	0.00	Hydroxylamine reductase (EC 1.7.99.1)
+PGF_00013003	Butyricimonas	649.75	7.50	Bis-ABC ATPase YheS
+PGF_00013283	Butyricimonas	229.50	4.04	UPF0001 protein YggS
+PGF_00013492	Butyricimonas	194.75	12.01	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Butyricimonas	512.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013800	Butyricimonas	260.25	7.23	AMP nucleosidase (EC 3.2.2.4)
+PGF_00013804	Butyricimonas	417.00	0.00	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00013836	Butyricimonas	561.25	23.50	Immunoreactive 53 kDa antigen PG123
+PGF_00013857	Butyricimonas	722.00	10.00	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00014064	Butyricimonas	530.00	0.00	Indolepyruvate oxidoreductase subunit IorA (EC 1.2.7.8)
+PGF_00014067	Butyricimonas	202.75	15.50	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)
+PGF_00014116	Butyricimonas	461.00	5.77	Inner membrane protein CreD
+PGF_00014306	Butyricimonas	223.00	0.00	Inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00014311	Butyricimonas	499.00	0.00	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014513	Butyricimonas	565.25	0.50	Integral membrane protein
+PGF_00015039	Butyricimonas	371.50	6.35	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Butyricimonas	85.00	0.00	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Butyricimonas	290.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015510	Butyricimonas	249.50	10.34	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Butyricimonas	482.00	2.00	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Butyricimonas	453.00	0.00	Iron-sulfur cluster assembly protein SufD
+PGF_00016046	Butyricimonas	353.00	0.00	L-asparaginase (EC 3.5.1.1)
+PGF_00016047	Butyricimonas	346.00	0.00	L-asparaginase I, cytoplasmic (EC 3.5.1.1)
+PGF_00016063	Butyricimonas	518.00	0.00	L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3) @ D-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.4)
+PGF_00016064	Butyricimonas	262.00	0.00	L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3) @ D-lysine 5,6-aminomutase beta subunit (EC 5.4.3.4)
+PGF_00016115	Butyricimonas	219.00	17.05	L-fuculose phosphate aldolase (EC 4.1.2.17)
+PGF_00016257	Butyricimonas	322.00	0.00	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016325	Butyricimonas	824.00	6.73	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016338	Butyricimonas	398.00	14.00	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Butyricimonas	110.50	21.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Butyricimonas	122.00	52.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Butyricimonas	123.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Butyricimonas	143.00	33.73	LSU ribosomal protein L17p
+PGF_00016353	Butyricimonas	118.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016358	Butyricimonas	82.00	40.41	LSU ribosomal protein L20p
+PGF_00016368	Butyricimonas	139.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Butyricimonas	75.00	24.25	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Butyricimonas	107.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Butyricimonas	86.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Butyricimonas	262.00	24.00	LSU ribosomal protein L2p (L8e)
+PGF_00016416	Butyricimonas	62.00	0.00	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
+PGF_00016423	Butyricimonas	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Butyricimonas	190.25	23.31	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Butyricimonas	212.50	0.58	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Butyricimonas	182.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Butyricimonas	184.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016546	Butyricimonas	124.50	1.00	Lactoylglutathione lyase (EC 4.4.1.5)
+PGF_00017109	Butyricimonas	381.50	4.04	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Butyricimonas	243.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017464	Butyricimonas	221.50	11.09	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017479	Butyricimonas	269.50	29.00	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017617	Butyricimonas	342.00	0.00	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+PGF_00017655	Butyricimonas	228.50	7.00	LrgA-associated membrane protein LrgB
+PGF_00018034	Butyricimonas	325.00	8.37	Lysophospholipase (EC 3.1.1.5)
+PGF_00018460	Butyricimonas	1072.75	8.69	ATP-dependent helicase
+PGF_00018952	Butyricimonas	311.50	0.58	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019236	Butyricimonas	420.00	0.00	Manganese transport protein MntH
+PGF_00019307	Butyricimonas	323.00	0.00	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+PGF_00020150	Butyricimonas	445.00	1.15	Membrane-associated zinc metalloprotease
+PGF_00020361	Butyricimonas	142.00	0.00	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020764	Butyricimonas	423.00	10.68	Methionine transporter MetT
+PGF_00020793	Butyricimonas	183.00	0.00	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020895	Butyricimonas	190.00	0.00	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), cobalamin synthesis
+PGF_00020984	Butyricimonas	291.00	0.00	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00020996	Butyricimonas	126.00	1.41	Methylglyoxal synthase (EC 4.2.3.3)
+PGF_00021022	Butyricimonas	718.00	0.00	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021023	Butyricimonas	626.00	0.00	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021036	Butyricimonas	345.75	19.31	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+PGF_00021217	Butyricimonas	506.00	0.00	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00021390	Butyricimonas	221.00	0.00	Mg(2+)-transport-ATPase-associated protein MgtC
+PGF_00021391	Butyricimonas	373.50	0.58	Mg-chelatase subunit ChlD
+PGF_00022605	Butyricimonas	778.00	1.15	Monofunctional biosynthetic peptidoglycan transglycosylase
+PGF_00023289	Butyricimonas	199.25	23.50	Multimeric flavodoxin WrbA family protein
+PGF_00023407	Butyricimonas	464.50	5.97	MutS domain protein, family 2
+PGF_00023591	Butyricimonas	343.25	1.89	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023714	Butyricimonas	424.00	0.00	N-acetyl glucosamine transporter, NagP
+PGF_00023728	Butyricimonas	227.50	2.89	N-acetyl-L-citrulline:glutamate N-acetyltransferase
+PGF_00023739	Butyricimonas	319.00	1.15	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00023752	Butyricimonas	466.00	0.82	N-acetylglucosamine deacetylase (EC 3.5.1.-) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_00024143	Butyricimonas	457.00	0.00	N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+PGF_00024273	Butyricimonas	168.00	0.00	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024309	Butyricimonas	519.25	16.28	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024314	Butyricimonas	515.75	3.50	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024478	Butyricimonas	334.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024482	Butyricimonas	227.50	0.58	NAD-dependent protein deacetylase of SIR2 family
+PGF_00024567	Butyricimonas	394.25	9.50	Acetate kinase (EC 2.7.2.1)
+PGF_00024615	Butyricimonas	230.00	91.34	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024684	Butyricimonas	541.00	0.00	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+PGF_00024711	Butyricimonas	154.00	6.68	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_00024728	Butyricimonas	170.00	0.00	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+PGF_00024735	Butyricimonas	106.75	7.14	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+PGF_00024742	Butyricimonas	491.25	9.50	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+PGF_00024746	Butyricimonas	473.00	0.00	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+PGF_00025185	Butyricimonas	384.00	0.00	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.8)
+PGF_00025187	Butyricimonas	257.50	0.58	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.8)
+PGF_00025188	Butyricimonas	214.00	0.00	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.8)
+PGF_00025189	Butyricimonas	206.00	0.00	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.8)
+PGF_00025190	Butyricimonas	421.25	0.50	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.8)
+PGF_00025289	Butyricimonas	438.25	16.19	Na+/H+ antiporter NhaA type
+PGF_00025318	Butyricimonas	403.50	0.58	Na+/H+-dicarboxylate symporter
+PGF_00025379	Butyricimonas	273.00	0.00	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025598	Butyricimonas	386.50	0.58	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025623	Butyricimonas	346.00	0.00	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00026050	Butyricimonas	199.50	0.58	Nitroreductase family protein
+PGF_00026362	Butyricimonas	191.50	1.00	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026391	Butyricimonas	310.00	14.31	Nucleoside binding-domain containing protein YvoD
+PGF_00026409	Butyricimonas	263.00	0.00	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026525	Butyricimonas	529.75	27.17	Nudix hydrolase 3 (EC 3.6.1.-)
+PGF_00026797	Butyricimonas	349.75	2.06	O-succinylbenzoate synthase (EC 4.2.1.113)
+PGF_00027075	Butyricimonas	655.00	0.00	Oligopeptide transporter, OPT family
+PGF_00027698	Butyricimonas	274.75	21.30	Outer membrane assembly lipoprotein YfiO
+PGF_00028336	Butyricimonas	847.50	0.58	Outer membrane protein assembly factor YaeT
+PGF_00028370	Butyricimonas	388.50	1.73	Outer membrane protein/protective antigen OMA87
+PGF_00028517	Butyricimonas	421.50	1.00	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3) @ Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)
+PGF_00028647	Butyricimonas	1076.00	0.00	Oxidoreductase
+PGF_00029917	Butyricimonas	279.00	0.00	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030083	Butyricimonas	275.25	8.22	Patatin-like phospholipase
+PGF_00030506	Butyricimonas	405.00	0.00	Peptidase, M16 family
+PGF_00030640	Butyricimonas	361.00	0.00	Peptide chain release factor 1
+PGF_00033197	Butyricimonas	333.50	0.58	Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_00033201	Butyricimonas	284.75	20.61	Branched-chain phosphotransacylase (EC 2.3.1.- )
+PGF_00033237	Butyricimonas	323.75	17.50	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033359	Butyricimonas	416.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033511	Butyricimonas	397.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033536	Butyricimonas	229.50	0.58	Phosphoglycerate mutase (EC 5.4.2.11)
+PGF_00033737	Butyricimonas	255.00	1.15	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033817	Butyricimonas	465.50	11.00	Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00033877	Butyricimonas	162.75	11.50	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Butyricimonas	202.00	2.00	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Butyricimonas	422.00	0.00	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Butyricimonas	315.75	0.50	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033946	Butyricimonas	234.00	2.45	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Butyricimonas	406.75	9.88	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033968	Butyricimonas	189.25	0.50	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033985	Butyricimonas	371.50	29.00	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034494	Butyricimonas	375.00	0.00	Pleiotropic regulatory protein
+PGF_00034776	Butyricimonas	740.25	5.19	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00035334	Butyricimonas	318.50	7.51	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+PGF_00035591	Butyricimonas	249.50	5.20	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE
+PGF_00035595	Butyricimonas	454.50	0.58	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF
+PGF_00035597	Butyricimonas	194.00	2.31	Predicted L-lactate dehydrogenase, hypothetical protein subunit SO1518
+PGF_00035752	Butyricimonas	429.00	12.68	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036172	Butyricimonas	478.50	11.39	Lipopolysaccharide export system permease protein LptF
+PGF_00036580	Butyricimonas	106.50	0.58	Protein translocase subunit YajC
+PGF_00036800	Butyricimonas	351.00	0.00	Probable GTPase related to EngC
+PGF_00036988	Butyricimonas	287.75	1.50	Agmatinase (EC 3.5.3.11)
+PGF_00037079	Butyricimonas	171.25	5.50	Thioredoxin domain-containing protein BT1583
+PGF_00037171	Butyricimonas	344.00	0.00	Probable low-affinity inorganic phosphate transporter
+PGF_00037201	Butyricimonas	451.00	4.08	Probable multidrug resistance protein norM
+PGF_00037586	Butyricimonas	491.00	0.00	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037879	Butyricimonas	232.00	0.00	Protein BF2544, predicted transporter component
+PGF_00037886	Butyricimonas	107.00	0.00	Protein DUF2149, predicted transporter component
+PGF_00038653	Butyricimonas	1000.50	0.58	Protein translocase subunit SecD / Protein translocase subunit SecF
+PGF_00038986	Butyricimonas	270.00	0.00	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039342	Butyricimonas	267.25	2.87	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00040578	Butyricimonas	261.50	0.58	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Butyricimonas	224.50	0.58	Putative deoxyribonuclease YjjV
+PGF_00041216	Butyricimonas	639.75	6.75	Putative helicase
+PGF_00041590	Butyricimonas	427.00	1.15	Putative inner membrane protein
+PGF_00041605	Butyricimonas	436.00	0.00	Anaerobic C4-dicarboxylate transporter
+PGF_00041794	Butyricimonas	188.00	0.00	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+PGF_00041831	Butyricimonas	517.00	1.15	Alkyl hydroperoxide reductase protein F
+PGF_00041946	Butyricimonas	313.00	0.00	Putative membrane protein YeiH
+PGF_00043229	Butyricimonas	312.00	0.00	Putative phosphate ABC transporter, phosphate-binding component
+PGF_00045782	Butyricimonas	766.00	0.00	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit A / NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit B
+PGF_00045787	Butyricimonas	191.50	4.51	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045788	Butyricimonas	289.00	0.00	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)
+PGF_00045941	Butyricimonas	720.25	13.50	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045991	Butyricimonas	465.50	1.00	Pyruvate kinase (EC 2.7.1.40)
+PGF_00045999	Butyricimonas	916.00	6.93	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+PGF_00046007	Butyricimonas	1178.00	0.00	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+PGF_00046101	Butyricimonas	278.00	0.00	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046403	Butyricimonas	496.00	0.00	RNA polymerase sigma-54 factor RpoN
+PGF_00046608	Butyricimonas	231.50	0.58	RNA pseudouridylate synthase, group 1
+PGF_00046844	Butyricimonas	448.50	2.89	Alpha-amylase (EC 3.2.1.1)
+PGF_00047078	Butyricimonas	340.00	0.00	RecA protein
+PGF_00047155	Butyricimonas	211.00	0.00	Redox-sensing transcriptional repressor Rex
+PGF_00047479	Butyricimonas	416.00	0.00	Related to HTH domain of SpoOJ/ParA/ParB/repB family, involved in chromosome partitioning
+PGF_00048480	Butyricimonas	215.00	0.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048542	Butyricimonas	161.50	0.58	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Butyricimonas	201.00	1.41	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048594	Butyricimonas	310.00	0.00	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048651	Butyricimonas	145.00	4.00	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Butyricimonas	319.25	9.14	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Butyricimonas	401.75	100.90	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048840	Butyricimonas	283.00	0.00	Ribosomal protein L11 methyltransferase
+PGF_00048846	Butyricimonas	428.50	0.58	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048926	Butyricimonas	187.00	0.00	Ribosome recycling factor
+PGF_00048928	Butyricimonas	306.00	0.00	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Butyricimonas	123.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Butyricimonas	102.50	10.97	Ribosome-binding factor A
+PGF_00048985	Butyricimonas	210.50	11.00	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049257	Butyricimonas	444.00	0.00	RteB, two-component system response regulator
+PGF_00049330	Butyricimonas	428.00	0.00	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049433	Butyricimonas	159.50	0.58	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049816	Butyricimonas	452.25	13.33	Amidase enhancer
+PGF_00049827	Butyricimonas	259.00	3.46	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Butyricimonas	101.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049838	Butyricimonas	135.00	0.00	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Butyricimonas	125.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Butyricimonas	95.75	13.50	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Butyricimonas	192.50	0.58	SSU ribosomal protein S16p
+PGF_00049854	Butyricimonas	79.75	8.50	SSU ribosomal protein S17p (S11e)
+PGF_00049889	Butyricimonas	241.50	0.58	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Butyricimonas	202.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Butyricimonas	168.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049904	Butyricimonas	159.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Butyricimonas	131.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Butyricimonas	128.00	0.00	SSU ribosomal protein S9p (S16e)
+PGF_00050030	Butyricimonas	234.50	16.03	SanA protein
+PGF_00051226	Butyricimonas	636.00	15.85	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051525	Butyricimonas	424.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00052210	Butyricimonas	599.00	2.31	Signal peptide peptidase SppA (protease 4)
+PGF_00052238	Butyricimonas	441.00	0.00	Signal recognition particle protein Ffh
+PGF_00052646	Butyricimonas	277.75	6.50	Similar to glycogen synthase (EC 2.4.1.21)
+PGF_00052943	Butyricimonas	289.00	30.00	Site-specific tyrosine recombinase XerD
+PGF_00053015	Butyricimonas	258.50	0.58	Slr1117 protein
+PGF_00053055	Butyricimonas	141.00	0.00	Small heat shock protein
+PGF_00053770	Butyricimonas	365.00	0.00	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053991	Butyricimonas	473.50	2.38	Stage 0 sporulation protein YaaT
+PGF_00054001	Butyricimonas	394.00	0.00	Stage II sporulation E family protein
+PGF_00054323	Butyricimonas	202.00	0.00	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054480	Butyricimonas	253.00	0.00	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054973	Butyricimonas	550.50	0.58	Sulfate permease
+PGF_00055099	Butyricimonas	138.00	0.00	Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+PGF_00055324	Butyricimonas	541.00	0.00	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+PGF_00055340	Butyricimonas	418.00	0.00	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+PGF_00055354	Butyricimonas	445.00	0.00	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055377	Butyricimonas	405.50	0.58	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+PGF_00055652	Butyricimonas	663.00	35.56	TPR-domain-containing protein
+PGF_00055717	Butyricimonas	431.25	3.77	TPR/glycosyl transferase domain protein
+PGF_00056273	Butyricimonas	341.75	15.84	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056516	Butyricimonas	888.25	6.18	Thiamin-regulated outer membrane receptor Omr1
+PGF_00056861	Butyricimonas	428.00	4.00	Threonine synthase (EC 4.2.3.1)
+PGF_00056897	Butyricimonas	267.75	7.50	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057150	Butyricimonas	712.50	81.79	TonB-dependent outer membrane receptor
+PGF_00057270	Butyricimonas	879.25	2.36	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057399	Butyricimonas	218.00	0.00	Transaldolase (EC 2.2.1.2)
+PGF_00057402	Butyricimonas	149.00	0.00	Transamidase GatB domain protein
+PGF_00057483	Butyricimonas	666.00	3.46	Transcription termination factor Rho
+PGF_00057485	Butyricimonas	412.00	0.00	Transcription termination protein NusA
+PGF_00057488	Butyricimonas	309.25	11.50	Transcription termination protein NusB
+PGF_00058826	Butyricimonas	291.50	10.28	Transcriptional regulator of various polyols utilization, AraC family
+PGF_00059320	Butyricimonas	118.50	1.73	Transcriptional regulator, HxlR family
+PGF_00059469	Butyricimonas	194.00	9.24	Transcriptional regulator, LuxR family
+PGF_00059668	Butyricimonas	118.00	0.00	Transcriptional regulator, MecI family
+PGF_00059681	Butyricimonas	110.00	0.00	Transcriptional regulator, MerR family
+PGF_00060398	Butyricimonas	676.00	0.00	Transketolase (EC 2.2.1.1)
+PGF_00060409	Butyricimonas	696.50	7.00	Translation elongation factor G
+PGF_00060412	Butyricimonas	715.25	6.85	Elongation factor G-like protein TM_1651
+PGF_00060414	Butyricimonas	595.00	0.00	Translation elongation factor LepA
+PGF_00060421	Butyricimonas	189.00	0.00	Translation elongation factor P
+PGF_00060427	Butyricimonas	272.00	0.00	Translation elongation factor Ts
+PGF_00060431	Butyricimonas	73.00	0.00	Translation initiation factor 1
+PGF_00060478	Butyricimonas	167.25	11.84	Translation initiation factor 3
+PGF_00060481	Butyricimonas	112.00	0.00	Translation initiation factor SUI1-related protein
+PGF_00061794	Butyricimonas	847.00	4.00	ApeH acylamino-acid-releasing enzyme (EC 3.4.19.1)
+PGF_00061874	Butyricimonas	1079.75	11.50	Tricorn protease homolog 1 (EC 3.4.21.-)
+PGF_00062045	Butyricimonas	327.00	0.00	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00063916	Butyricimonas	430.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063937	Butyricimonas	254.50	3.00	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+PGF_00063943	Butyricimonas	192.00	0.00	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronic acid acetyltransferase (EC 2.3.1.201)
+PGF_00063974	Butyricimonas	336.50	0.58	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00063993	Butyricimonas	365.50	1.00	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Butyricimonas	455.00	0.00	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064007	Butyricimonas	810.00	0.00	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) / Alanine racemase (EC 5.1.1.1)
+PGF_00064270	Butyricimonas	249.00	6.48	UPF0246 protein YaaA
+PGF_00064679	Butyricimonas	383.00	3.56	Uncharacterized ferredoxin oxidoreductase MJ0100
+PGF_00064879	Butyricimonas	596.25	7.63	Uncharacterized protease YdcP
+PGF_00064942	Butyricimonas	50.00	0.00	Uncharacterized protein Fjoh_4981, DUF4295-containing
+PGF_00065887	Butyricimonas	249.50	8.66	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066260	Butyricimonas	669.00	0.00	Urocanate hydratase (EC 4.2.1.49)
+PGF_00066281	Butyricimonas	642.00	0.00	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)
+PGF_00066291	Butyricimonas	254.00	0.00	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+PGF_00066372	Butyricimonas	585.75	0.50	V-type ATP synthase subunit A (EC 3.6.3.14)
+PGF_00066375	Butyricimonas	440.00	0.00	V-type ATP synthase subunit B (EC 3.6.3.14)
+PGF_00066385	Butyricimonas	196.00	0.00	V-type ATP synthase subunit D (EC 3.6.3.14)
+PGF_00066423	Butyricimonas	610.75	0.50	V-type ATP synthase subunit I (EC 3.6.3.14)
+PGF_00066453	Butyricimonas	860.25	26.17	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Butyricimonas	479.75	2.50	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Butyricimonas	116.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066710	Butyricimonas	438.00	0.00	Aspartate aminotransferase (EC 2.6.1.1)
+PGF_00066854	Butyricimonas	470.00	0.00	Aspartate ammonia-lyase (EC 4.3.1.1)
+PGF_00066906	Butyricimonas	303.00	0.00	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Butyricimonas	396.50	0.58	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066942	Butyricimonas	188.00	0.00	Xanthine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_00066960	Butyricimonas	154.00	4.00	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067188	Butyricimonas	329.00	0.00	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00068420	Butyricimonas	386.25	2.50	Protein YzbB
+PGF_00070779	Butyricimonas	364.50	1.73	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54) / Chorismate mutase I (EC 5.4.99.5)
+PGF_00072285	Butyricimonas	281.00	0.00	histidinol phosphate phosphatase HisJ family
+PGF_00084324	Butyricimonas	262.00	0.00	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00091532	Butyricimonas	110.00	0.00	hypothetical protein
+PGF_00095687	Butyricimonas	304.75	6.65	Class A beta-lactamase (EC 3.5.2.6)
+PGF_00099655	Butyricimonas	118.75	7.09	hypothetical protein
+PGF_00120506	Butyricimonas	397.00	2.94	hypothetical protein
+PGF_00128906	Butyricimonas	346.50	0.58	Inner membrane protein YhiM
+PGF_00133427	Butyricimonas	143.00	0.00	hypothetical protein
+PGF_00144272	Butyricimonas	162.00	0.00	Dihydrofolate reductase (EC 1.5.1.3)
+PGF_00167788	Butyricimonas	114.50	1.00	hypothetical protein
+PGF_00174717	Butyricimonas	346.00	11.83	Uncharacterized UPF0118 membrane protein
+PGF_00175923	Butyricimonas	470.50	5.69	hypothetical protein
+PGF_00233345	Butyricimonas	329.50	0.58	hypothetical protein
+PGF_00234263	Butyricimonas	191.75	16.50	hypothetical protein
+PGF_00240535	Butyricimonas	111.00	0.00	hypothetical protein
+PGF_00242584	Butyricimonas	483.25	7.50	hypothetical protein
+PGF_00259973	Butyricimonas	359.00	1.41	hypothetical protein
+PGF_00280507	Butyricimonas	170.00	0.00	hypothetical protein
+PGF_00285620	Butyricimonas	225.00	0.00	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00300187	Butyricimonas	297.00	0.00	Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A
+PGF_00302926	Butyricimonas	119.00	3.46	hypothetical protein
+PGF_00307163	Butyricimonas	377.50	0.58	hypothetical protein
+PGF_00324246	Butyricimonas	308.00	0.00	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3) @ Sirohydrochlorin ferrochelatase activity of CbiK (EC 4.99.1.4)
+PGF_00324476	Butyricimonas	344.00	0.00	Membrane fusion component of MSF-type tripartite multidrug efflux system
+PGF_00338333	Butyricimonas	156.75	74.28	hypothetical protein
+PGF_00338533	Butyricimonas	61.75	12.50	hypothetical protein
+PGF_00339614	Butyricimonas	176.00	1.15	hypothetical protein
+PGF_00353264	Butyricimonas	663.00	0.00	hypothetical protein
+PGF_00373946	Butyricimonas	458.25	10.87	hypothetical protein
+PGF_00375701	Butyricimonas	315.50	37.03	hypothetical protein
+PGF_00399630	Butyricimonas	300.50	10.12	hypothetical protein PA3071
+PGF_00399689	Butyricimonas	338.50	3.00	hypothetical protein clustered with lysine fermentation genes
+PGF_00400019	Butyricimonas	330.00	0.00	Aerotolerance protein BatA
+PGF_00400020	Butyricimonas	200.00	0.00	hypothetical transporter PduT for various metalloporphyrins
+PGF_00400033	Butyricimonas	350.00	0.00	Aerotolerance protein BatB
+PGF_00400684	Butyricimonas	483.75	2.06	long-chain fatty acid transport protein, outer membrane protein
+PGF_00401551	Butyricimonas	412.75	67.87	Multidrug efflux transporter MdtK/NorM (MATE family)
+PGF_00401757	Butyricimonas	332.00	0.00	no significant homology.
+PGF_00402166	Butyricimonas	224.25	11.50	outer membrane protein, OmpA family
+PGF_00402309	Butyricimonas	471.75	1.50	Oxidoreductase, Gfo/Idh/MocA family
+PGF_00403834	Butyricimonas	194.50	0.58	Biopolymer transport exbD protein.
+PGF_00404019	Butyricimonas	630.00	0.00	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+PGF_00404384	Butyricimonas	324.50	1.91	Biotin synthase (EC 2.8.1.6)
+PGF_00404432	Butyricimonas	420.00	1.15	Biotin synthase related domain containing protein
+PGF_00405681	Butyricimonas	231.00	26.50	putative ATP-dependent DNA helicase
+PGF_00405789	Butyricimonas	333.00	0.00	putative DNA mismatch repair protein
+PGF_00405983	Butyricimonas	324.50	0.58	putative N-acetylmuramoyl-L-alanine amidase
+PGF_00406151	Butyricimonas	1081.50	1.73	putative Tricorn-like protease
+PGF_00406398	Butyricimonas	502.00	2.45	putative auxin-regulated protein
+PGF_00407079	Butyricimonas	802.00	0.00	putative ferric aerobactin receptor
+PGF_00407246	Butyricimonas	361.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00407479	Butyricimonas	450.75	0.50	Integral membrane protein
+PGF_00407613	Butyricimonas	154.00	0.00	Integral membrane protein
+PGF_00407869	Butyricimonas	256.25	12.84	putative lipoprotein
+PGF_00408907	Butyricimonas	105.00	2.45	putative membrane protein
+PGF_00409141	Butyricimonas	556.50	4.93	putative membrane protein
+PGF_00409726	Butyricimonas	233.50	0.58	putative membrane-associated phospholipid phosphatase
+PGF_00409894	Butyricimonas	75.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.-)
+PGF_00410233	Butyricimonas	176.50	0.58	putative protease I
+PGF_00410279	Butyricimonas	614.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00410374	Butyricimonas	536.50	12.71	putative ribonucleoprotein-related protein
+PGF_00410740	Butyricimonas	455.00	0.00	putative secreted tripeptidyl aminopeptidase
+PGF_00410961	Butyricimonas	135.00	0.00	putative stress-induced protein OsmC
+PGF_00411399	Butyricimonas	409.00	6.68	putative zinc protease
+PGF_00412708	Butyricimonas	499.00	0.00	Na(+)/H(+) antiporter
+PGF_00412722	Butyricimonas	480.00	14.99	sodium/iodide co-transporter
+PGF_00413162	Butyricimonas	100.00	0.00	Bsl7504 protein
+PGF_00413180	Butyricimonas	100.00	0.00	Bsr4717 protein
+PGF_00413208	Butyricimonas	225.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413262	Butyricimonas	438.25	20.89	tRNA/rRNA cytosine-C5-methyltransferase
+PGF_00413290	Butyricimonas	248.00	0.00	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Butyricimonas	238.00	0.00	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Butyricimonas	432.50	7.51	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Butyricimonas	627.00	0.00	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Butyricimonas	245.00	0.00	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413351	Butyricimonas	161.00	19.63	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413411	Butyricimonas	357.00	0.00	Branched-chain acyl kinase (EC 2.7.2.-)
+PGF_00413554	Butyricimonas	149.00	0.00	tmRNA-binding protein SmpB
+PGF_00414278	Butyricimonas	202.75	86.89	type 11 methyltransferase
+PGF_00414366	Butyricimonas	565.00	1.15	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+PGF_00414926	Butyricimonas	466.00	1.15	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00414995	Butyricimonas	350.00	0.00	CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase (EC 2.7.8.12)
+PGF_00415346	Butyricimonas	392.00	0.00	23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+PGF_00415486	Butyricimonas	160.75	7.50	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415498	Butyricimonas	492.25	0.96	COG1649 predicted glycoside hydrolase
+PGF_00415677	Butyricimonas	340.00	2.31	Phosphotransferase involved in threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PGF_00416129	Butyricimonas	532.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416408	Butyricimonas	322.00	0.00	Carbamate kinase (EC 2.7.2.2)
+PGF_00416410	Butyricimonas	1069.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416506	Butyricimonas	479.50	2.89	Carbon starvation protein A
+PGF_00416674	Butyricimonas	417.50	0.58	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+PGF_00416742	Butyricimonas	412.00	3.56	Cation efflux system protein
+PGF_00417225	Butyricimonas	128.00	0.00	3-aminobutyryl-CoA ammonia-lyase (EC 4.3.1.14)
+PGF_00417429	Butyricimonas	382.00	2.31	Chaperone protein DnaJ
+PGF_00417433	Butyricimonas	636.00	1.15	Chaperone protein DnaK
+PGF_00417577	Butyricimonas	138.00	1.15	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Butyricimonas	343.00	0.00	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417987	Butyricimonas	161.00	28.00	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418128	Butyricimonas	249.50	1.91	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00418170	Butyricimonas	432.50	5.20	Co-activator of prophage gene expression IbrA
+PGF_00418171	Butyricimonas	170.00	0.00	Co-activator of prophage gene expression IbrB
+PGF_00418251	Butyricimonas	1451.75	28.87	CobN-like chelatase BtuS for metalloporphyrine salvage
+PGF_00418282	Butyricimonas	604.50	1.73	Cobalt-precorrin 5A hydrolase (EC 3.7.1.12) / Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+PGF_00418289	Butyricimonas	468.00	0.00	Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272) / Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418308	Butyricimonas	402.75	13.57	Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289) / Cobalt-precorrin-6B C15-methyltransferase [decarboxylating] (EC 2.1.1.196)
+PGF_00418368	Butyricimonas	490.00	3.37	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Butyricimonas	436.50	1.73	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00418626	Butyricimonas	259.00	0.00	3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)
+PGF_00418713	Butyricimonas	415.50	2.89	Collagenase precursor (EC 3.4.-.-)
+PGF_00419915	Butyricimonas	271.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420121	Butyricimonas	233.50	1.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420135	Butyricimonas	253.00	0.00	3-oxo-5-alpha-steroid 4-dehydrogenase
+PGF_00420572	Butyricimonas	510.00	12.68	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+PGF_00420612	Butyricimonas	247.25	4.19	Cytoplasmic copper homeostasis protein CutC
+PGF_00420798	Butyricimonas	323.75	2.22	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420807	Butyricimonas	495.00	2.45	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
+PGF_00420903	Butyricimonas	325.00	8.00	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00420994	Butyricimonas	660.00	0.00	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+PGF_00421071	Butyricimonas	150.00	0.00	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Butyricimonas	612.75	1.50	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421164	Butyricimonas	258.00	0.00	DNA Pol III Epsilon Chain
+PGF_00421489	Butyricimonas	1220.50	0.58	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Butyricimonas	374.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421733	Butyricimonas	367.00	1.15	DNA recombination and repair protein RecF
+PGF_00421763	Butyricimonas	708.50	3.79	DNA repair and recombination protein, putative helicase
+PGF_00421792	Butyricimonas	459.00	9.35	DNA repair protein RadA
+PGF_00421796	Butyricimonas	552.00	0.00	DNA repair protein RecN
+PGF_00422271	Butyricimonas	330.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00422287	Butyricimonas	120.75	8.85	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_00422545	Butyricimonas	298.25	6.18	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422888	Butyricimonas	543.00	0.00	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+PGF_00422938	Butyricimonas	340.00	0.00	Deoxyhypusine synthase (EC 2.5.1.46)
+PGF_00422959	Butyricimonas	144.00	0.00	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423025	Butyricimonas	469.00	11.37	Di-tripeptide/cation symporter
+PGF_00423089	Butyricimonas	371.00	8.12	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Butyricimonas	424.00	0.00	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423378	Butyricimonas	426.75	36.53	Dihydroorotase (EC 3.5.2.3)
+PGF_00423533	Butyricimonas	271.50	2.38	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423611	Butyricimonas	630.00	9.35	Dipeptidyl-peptidase III (EC 3.4.14.4)
+PGF_00423723	Butyricimonas	126.00	0.00	DnaK suppressor protein, putative
+PGF_00423732	Butyricimonas	282.75	4.72	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_00423739	Butyricimonas	243.00	1.15	Dolichol-phosphate mannosyltransferase
+PGF_00423744	Butyricimonas	243.00	1.15	Dolichol-phosphate mannosyltransferase (EC 2.4.1.83)
+PGF_00423796	Butyricimonas	255.00	0.00	Domain often clustered or fused with uracil-DNA glycosylase
+PGF_00424109	Butyricimonas	379.00	0.00	Electron bifurcating butyryl-CoA dehydrogenase (NAD+, ferredoxin)
+PGF_00424111	Butyricimonas	260.00	0.00	Electron bifurcating butyryl-CoA dehydrogenase, electron transfer flavoprotein beta
+PGF_00424131	Butyricimonas	190.50	0.58	Electron transport complex protein RnfA
+PGF_00424134	Butyricimonas	286.75	7.23	Electron transport complex protein RnfB
+PGF_00424141	Butyricimonas	195.00	0.00	Electron transport complex protein RnfE
+PGF_00424383	Butyricimonas	678.00	0.00	Endothelin-converting enzyme 1 precursor (EC 3.4.24.71)
+PGF_00424447	Butyricimonas	365.50	0.58	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424569	Butyricimonas	278.00	0.00	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Butyricimonas	600.75	2.36	Excinuclease ABC subunit C
+PGF_00425011	Butyricimonas	255.50	1.91	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Butyricimonas	447.00	13.86	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Butyricimonas	301.25	60.50	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425679	Butyricimonas	199.00	0.00	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425993	Butyricimonas	385.50	2.89	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426044	Butyricimonas	293.50	47.00	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+PGF_00426236	Butyricimonas	610.00	16.00	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426722	Butyricimonas	1146.50	9.95	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00426932	Butyricimonas	153.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00427299	Butyricimonas	491.25	0.50	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+PGF_00447438	Butyricimonas	191.25	0.50	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00464627	Butyricimonas	564.00	0.00	Sodium-dependent phosphate transporter
+PGF_00499740	Butyricimonas	431.50	37.03	Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)
+PGF_00510935	Butyricimonas	94.00	0.00	DNA-binding protein HU
+PGF_00529632	Butyricimonas	863.00	0.00	ClpB protein
+PGF_00569671	Butyricimonas	315.00	1.15	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00601220	Butyricimonas	218.00	0.00	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+PGF_00601415	Butyricimonas	187.50	0.58	Uncharacterized nitroreductase family protein CT0345
+PGF_00601471	Butyricimonas	619.00	0.00	hypothetical protein
+PGF_00602314	Butyricimonas	95.50	15.59	hypothetical protein
+PGF_00604966	Butyricimonas	647.50	1.73	4Fe-4S ferredoxin, iron-sulfur binding domain protein
+PGF_00605878	Butyricimonas	270.75	12.84	hypothetical protein
+PGF_00607276	Butyricimonas	216.75	26.85	hypothetical protein
+PGF_00607729	Butyricimonas	433.50	0.58	ATP-dependent RNA helicase BT1154
+PGF_00607810	Butyricimonas	178.00	0.00	hypothetical protein
+PGF_00608289	Butyricimonas	233.25	8.50	hypothetical protein
+PGF_00625415	Butyricimonas	224.00	1.15	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00639841	Butyricimonas	522.00	2.83	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00641071	Butyricimonas	317.50	7.68	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00644953	Butyricimonas	303.25	1.26	DnaJ-class molecular chaperone CbpA
+PGF_00650260	Butyricimonas	130.00	0.00	HIT family protein
+PGF_00650532	Butyricimonas	328.00	0.00	UPF0365 protein YqfA
+PGF_00655358	Butyricimonas	482.00	0.00	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00659194	Butyricimonas	209.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00662997	Butyricimonas	253.00	0.00	Cobalamin synthase (EC 2.7.8.26)
+PGF_00666258	Butyricimonas	330.25	151.50	ABC-type antimicrobial peptide transport system, permease component BT1215
+PGF_00672776	Butyricimonas	244.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_00688551	Butyricimonas	163.25	19.50	Acetyltransferase
+PGF_00690508	Butyricimonas	389.25	1.89	Uncharacterized MFS-type transporter
+PGF_00694896	Butyricimonas	131.00	0.00	Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)
+PGF_00694978	Butyricimonas	257.00	0.00	Inositol-1-monophosphatase (EC 3.1.3.25)
+PGF_00709681	Butyricimonas	309.00	0.00	Inner membrane protein YrbG, predicted calcium/sodium:proton antiporter
+PGF_00718789	Butyricimonas	278.50	5.00	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+PGF_00725839	Butyricimonas	858.25	32.36	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00733063	Butyricimonas	136.50	0.58	Anti-sigma B factor RsbT
+PGF_00734372	Butyricimonas	398.00	13.54	2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)
+PGF_00734482	Butyricimonas	792.00	2.31	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00766071	Butyricimonas	298.50	1.00	Transcriptional regulator, LysR family
+PGF_00777996	Butyricimonas	228.75	4.50	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00786696	Butyricimonas	674.75	3.50	TonB-dependent receptor
+PGF_00787545	Butyricimonas	152.00	2.31	Ser-tRNA(Ala) deacylase @ Gly-tRNA(Ala) deacylase
+PGF_00827555	Butyricimonas	371.00	0.00	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00852516	Butyricimonas	82.00	0.00	hypothetical protein
+PGF_00856141	Butyricimonas	406.00	0.00	Cysteine desulfurase (EC 2.8.1.7) => SufS
+PGF_00859832	Butyricimonas	237.75	10.69	hypothetical protein
+PGF_00861499	Butyricimonas	313.00	0.00	hypothetical protein
+PGF_00867156	Butyricimonas	188.50	4.43	hypothetical protein
+PGF_00875120	Butyricimonas	209.50	0.58	Nitroreductase
+PGF_00895671	Butyricimonas	135.00	2.00	hypothetical protein
+PGF_00896182	Butyricimonas	298.00	0.00	Uncharacterized membrane-anchored protein, YitT family
+PGF_00908360	Butyricimonas	246.00	1.15	Phospholipid ABC transporter permease protein MlaE
+PGF_00909733	Butyricimonas	444.50	1.73	Efflux transport system, outer membrane factor (OMF) lipoprotein BT1212
+PGF_00912265	Butyricimonas	327.25	12.37	tRNA-dihydrouridine synthase DusB
+PGF_00925844	Butyricimonas	442.50	0.58	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Butyricimonas	595.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00950554	Butyricimonas	667.00	1.15	Excinuclease ABC subunit B
+PGF_00950980	Butyricimonas	111.50	17.97	Protein translocase membrane subunit SecG
+PGF_00957419	Butyricimonas	141.00	0.00	Putative pre-16S rRNA nuclease Yqg
+PGF_00959691	Butyricimonas	214.25	0.50	Butyrate--acetoacetate CoA-transferase subunit A (EC 2.8.3.9)
+PGF_00960579	Butyricimonas	348.25	10.75	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_01008498	Butyricimonas	150.25	6.45	Ribonuclease P protein component (EC 3.1.26.5)
+PGF_01017435	Butyricimonas	340.00	1.15	Transcriptional regulator
+PGF_01028579	Butyricimonas	448.00	0.00	Sodium-dependent transporter, SNF family
+PGF_01041500	Butyricimonas	347.00	1.63	Threonine dehydrogenase and related Zn-dependent dehydrogenases
+PGF_01063492	Butyricimonas	534.50	26.91	hypothetical protein
+PGF_01065911	Butyricimonas	223.00	0.00	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01079016	Butyricimonas	297.00	0.00	Chromosome (plasmid) partitioning protein ParB
+PGF_01092147	Butyricimonas	384.00	32.69	Uncharacterized MFS-type transporter
+PGF_01107591	Butyricimonas	648.00	0.00	Putative glycogen debranching enzyme, archaeal type, TIGR01561
+PGF_01126005	Butyricimonas	474.00	0.00	Rod shape-determining protein RodA
+PGF_01174739	Butyricimonas	246.00	0.00	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Butyricimonas	325.75	4.86	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Butyricimonas	651.00	1.15	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212500	Butyricimonas	258.25	7.50	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+PGF_01212739	Butyricimonas	544.00	0.00	Heat shock protein 60 family chaperone GroEL
+PGF_01218236	Butyricimonas	132.50	6.35	4-hydroxybenzoyl-CoA thioesterase family active site
+PGF_01220597	Butyricimonas	597.50	0.58	Putative hemolysin
+PGF_01220614	Butyricimonas	256.00	0.82	RNA methyltransferase, TrmH family
+PGF_01221876	Butyricimonas	82.00	0.00	Transglycosylase-associated protein
+PGF_01232770	Butyricimonas	159.25	1.26	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01234013	Butyricimonas	373.25	3.95	YgfD: protein that forms a complex with the methylmalonyl-CoA mutase in a pathway for conversion of succinyl-CoA to propionyl-CoA
+PGF_01291803	Butyricimonas	357.50	0.58	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296130	Butyricimonas	269.50	4.04	hypothetical protein
+PGF_01308514	Butyricimonas	326.25	7.50	Electron bifurcating butyryl-CoA dehydrogenase, electron transfer flavoprotein alpha
+PGF_01351158	Butyricimonas	1100.50	0.58	Transcription-repair coupling factor
+PGF_01351690	Butyricimonas	519.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3); Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+PGF_01364427	Butyricimonas	201.25	9.54	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01416568	Butyricimonas	196.00	0.00	LemA family protein
+PGF_01421534	Butyricimonas	189.00	0.00	LSU ribosomal protein L25p
+PGF_01423501	Butyricimonas	158.00	0.00	Transcription elongation factor GreA
+PGF_01427545	Butyricimonas	217.00	0.00	Aquaporin Z
+PGF_01466819	Butyricimonas	390.00	12.08	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01469197	Butyricimonas	466.50	0.58	RNA methyltransferase, TrmA family
+PGF_01483460	Butyricimonas	359.50	0.58	Lipopolysaccharide export system permease protein LptG
+PGF_01484108	Butyricimonas	195.00	2.31	Electron transport complex protein RnfG
+PGF_01486881	Butyricimonas	224.25	4.35	ABC-type antimicrobial peptide transport system, ATPase component
+PGF_01514111	Butyricimonas	358.00	0.00	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+PGF_01534670	Butyricimonas	262.50	6.35	Glycerol-3-phosphate regulon repressor GlpR
+PGF_01604929	Butyricimonas	294.00	3.46	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01614738	Butyricimonas	71.00	22.17	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent
+PGF_01625234	Butyricimonas	319.00	0.00	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01667671	Butyricimonas	205.00	0.00	Cytidylate kinase (EC 2.7.4.25)
+PGF_01668068	Butyricimonas	596.00	0.00	HoxF-like protein
+PGF_01674551	Butyricimonas	124.00	0.00	Glycine cleavage system H protein
+PGF_01677463	Butyricimonas	206.00	0.00	RNA polymerase sigma factor SigW
+PGF_01678333	Butyricimonas	319.25	10.18	Electron transport complex protein RnfD
+PGF_01696391	Butyricimonas	205.75	0.50	UPF0126 inner membrane protein BT_1201
+PGF_01701651	Butyricimonas	260.00	4.08	hypothetical protein
+PGF_01717522	Butyricimonas	338.00	3.37	hypothetical protein
+PGF_01744781	Butyricimonas	181.00	0.00	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+PGF_01747372	Butyricimonas	216.00	20.46	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioG (EC 3.1.1.85)
+PGF_01767358	Butyricimonas	240.50	5.07	HesA/MoeB/ThiF family protein
+PGF_01771963	Butyricimonas	436.50	0.58	RNA-2',3'-PO4:RNA-5'-OH ligase
+PGF_01777142	Butyricimonas	197.50	4.51	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01808488	Butyricimonas	745.25	22.19	Na(+)/H(+) antiporter
+PGF_01898497	Butyricimonas	215.00	2.31	Endonuclease III (EC 4.2.99.18)
+PGF_01898546	Butyricimonas	604.00	0.00	KtrAB potassium uptake system, integral membrane component KtrB
+PGF_01900530	Butyricimonas	230.00	0.00	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01905685	Butyricimonas	525.00	0.00	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_01922493	Butyricimonas	484.00	0.00	Cardiolipin synthetase (EC 2.7.8.-)
+PGF_01949788	Butyricimonas	193.00	2.31	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+PGF_01960322	Butyricimonas	612.00	0.00	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01981332	Butyricimonas	159.00	1.15	Transcriptional regulator, AsnC family
+PGF_01985478	Butyricimonas	351.50	0.58	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01990221	Butyricimonas	654.75	148.50	Aspartyl aminopeptidase (EC 3.4.11.21)
+PGF_02011760	Butyricimonas	251.00	0.00	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Butyricimonas	340.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Butyricimonas	331.50	1.73	GTP-binding protein Obg
+PGF_02059020	Butyricimonas	558.00	0.00	Energy-dependent translational throttle protein EttA
+PGF_02061452	Butyricimonas	376.00	0.00	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02098099	Butyricimonas	514.25	14.89	Histidine ammonia-lyase (EC 4.3.1.3)
+PGF_02185217	Butyricimonas	454.50	1.73	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02189378	Butyricimonas	363.00	0.00	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+PGF_02226715	Butyricimonas	699.00	0.00	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02278020	Butyricimonas	409.50	0.58	Transcriptional regulator
+PGF_02280830	Butyricimonas	237.00	0.00	probable DNA alkylation repair enzyme
+PGF_02305956	Butyricimonas	266.75	14.52	Aerotolerance protein BatC
+PGF_02315316	Butyricimonas	422.00	7.35	Peptidase, M23/M37 family
+PGF_02346669	Butyricimonas	333.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Butyricimonas	883.75	17.50	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02357764	Butyricimonas	176.00	2.31	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+PGF_02358818	Butyricimonas	400.50	0.58	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_02369559	Butyricimonas	897.50	5.00	DNA polymerase I (EC 2.7.7.7)
+PGF_02432027	Butyricimonas	511.00	0.00	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+PGF_02450432	Butyricimonas	224.25	65.53	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02452912	Butyricimonas	464.00	9.35	Aminopeptidase C (EC 3.4.22.40)
+PGF_02454577	Butyricimonas	64.50	21.36	SSU ribosomal protein S20p
+PGF_02462544	Butyricimonas	429.00	0.00	Arginine deiminase (EC 3.5.3.6)
+PGF_02463284	Butyricimonas	205.00	0.00	Recombination protein RecR
+PGF_02516909	Butyricimonas	427.00	0.00	Enolase (EC 4.2.1.11)
+PGF_02587605	Butyricimonas	142.50	0.58	Zinc uptake regulation protein Zur
+PGF_02593689	Butyricimonas	450.00	2.31	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Butyricimonas	512.00	1.15	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02614845	Butyricimonas	383.00	2.83	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+PGF_02619970	Butyricimonas	77.50	29.44	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Butyricimonas	309.00	0.00	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02630640	Butyricimonas	234.00	20.00	Methyltransferase type 11
+PGF_02686778	Butyricimonas	302.50	43.00	Peptidase M23B
+PGF_02717026	Butyricimonas	468.00	0.82	Uncharacterized transporter YebQ, major facilitator superfamily (MFS)
+PGF_02719231	Butyricimonas	116.00	0.00	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+PGF_02745613	Butyricimonas	292.50	0.58	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02746079	Butyricimonas	302.00	0.00	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+PGF_02755983	Butyricimonas	195.00	0.00	hypothetical protein
+PGF_02787474	Butyricimonas	264.00	0.00	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+PGF_02787494	Butyricimonas	216.00	0.00	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02788582	Butyricimonas	828.00	0.00	Recombination inhibitory protein MutS2
+PGF_02789532	Butyricimonas	259.25	28.02	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Butyricimonas	178.25	15.17	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Butyricimonas	228.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02820109	Butyricimonas	208.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Butyricimonas	179.75	2.22	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02834559	Butyricimonas	249.25	4.19	Aerotolerance protein BatE
+PGF_02836172	Butyricimonas	390.00	0.00	Efflux ABC transporter, permease protein
+PGF_02836365	Butyricimonas	391.00	6.38	Efflux ABC transporter, permease protein
+PGF_02836669	Butyricimonas	486.50	6.03	Efflux transport system, outer membrane factor (OMF) lipoprotein BT_3905
+PGF_02838109	Butyricimonas	153.25	2.87	Shikimate kinase I (EC 2.7.1.71)
+PGF_02841843	Butyricimonas	73.00	0.00	hypothetical protein
+PGF_02843534	Butyricimonas	291.25	1.50	hypothetical protein
+PGF_02844091	Butyricimonas	237.75	16.44	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02852674	Butyricimonas	210.00	0.00	hypothetical protein
+PGF_02860751	Butyricimonas	393.00	0.00	similar to polyhydroxyalkanoate depolymerase precursor
+PGF_02862285	Butyricimonas	397.00	3.46	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02866307	Butyricimonas	415.00	0.00	Inner membrane protein YadS
+PGF_02873723	Butyricimonas	515.00	0.00	Ribonuclease G
+PGF_02893930	Butyricimonas	253.50	11.90	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02897665	Butyricimonas	373.50	0.58	Glycerate kinase (EC 2.7.1.31)
+PGF_02906681	Butyricimonas	711.75	2.06	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02919689	Butyricimonas	280.00	0.00	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923121	Butyricimonas	193.75	22.50	hypothetical protein
+PGF_02923127	Butyricimonas	234.50	1.00	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02936332	Butyricimonas	291.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02940601	Butyricimonas	151.00	0.00	V-type ATP synthase subunit K (EC 3.6.3.14)
+PGF_02946231	Butyricimonas	618.00	10.42	SSU ribosomal protein S1p
+PGF_02947204	Butyricimonas	535.00	0.00	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02956462	Butyricimonas	125.50	1.00	RidA/YER057c/UK114 superfamily protein
+PGF_03011092	Butyricimonas	285.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03017775	Butyricimonas	575.50	1.73	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03027708	Butyricimonas	982.75	16.50	beta-glycosyl hydrolase / Uncharacterized esterase
+PGF_03029859	Butyricimonas	621.50	0.58	Bis-ABC ATPase Uup
+PGF_03054699	Butyricimonas	844.50	2.89	DNA translocase FtsK
+PGF_03066520	Butyricimonas	414.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03070587	Butyricimonas	406.00	0.00	Ornithine aminotransferase (EC 2.6.1.13)
+PGF_03075401	Butyricimonas	158.50	2.38	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+PGF_03079263	Butyricimonas	98.00	32.59	hypothetical protein
+PGF_03089712	Butyricimonas	251.00	0.00	Short-chain dehydrogenase
+PGF_03095069	Butyricimonas	317.00	5.42	COG1242: Predicted Fe-S oxidoreductase
+PGF_03101226	Butyricimonas	275.00	2.31	Ferredoxin
+PGF_03104567	Butyricimonas	429.25	21.91	Trk potassium uptake system protein TrkA
+PGF_03104853	Butyricimonas	205.50	5.69	Nitroreductase
+PGF_03107265	Butyricimonas	514.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+PGF_03110657	Butyricimonas	686.00	0.00	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+PGF_03111948	Butyricimonas	291.00	2.00	Electron transfer flavoprotein, beta subunit
+PGF_03131321	Butyricimonas	436.50	1.73	DNA-damage-inducible protein F
+PGF_03142307	Butyricimonas	279.75	0.96	S1 RNA binding domain
+PGF_03146406	Butyricimonas	646.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03154343	Butyricimonas	158.25	5.91	Cytidine deaminase (EC 3.5.4.5)
+PGF_03179247	Butyricimonas	785.00	1.15	Integral membrane protein
+PGF_03187392	Butyricimonas	294.75	3.59	Fructokinase (EC 2.7.1.4)
+PGF_03197417	Butyricimonas	183.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)
+PGF_03221340	Butyricimonas	275.00	0.00	3-keto-5-aminohexanoate cleavage enzyme (EC 2.3.1.247)
+PGF_03272313	Butyricimonas	720.00	234.67	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03278866	Butyricimonas	74.00	6.93	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+PGF_03284618	Butyricimonas	841.75	3.77	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_03291914	Butyricimonas	134.00	0.00	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+PGF_03318456	Butyricimonas	472.25	17.56	Trk potassium uptake system protein TrkH
+PGF_03391126	Butyricimonas	146.25	1.50	hypothetical protein
+PGF_03433628	Butyricimonas	532.00	0.00	Uncharacterized symport/antiport-type transporter
+PGF_03450760	Butyricimonas	549.00	0.00	Putative carboxy-terminal processing protease (EC 3.4.21.102)
+PGF_03470321	Butyricimonas	158.50	13.87	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03609651	Butyricimonas	676.00	0.00	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03682090	Butyricimonas	106.00	0.00	small multidrug resistance family (SMR) protein
+PGF_03699416	Butyricimonas	191.00	0.00	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03701810	Butyricimonas	288.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03719269	Butyricimonas	280.00	163.33	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03720595	Butyricimonas	458.00	0.00	Tryptophanase (EC 4.1.99.1)
+PGF_03724429	Butyricimonas	219.00	2.16	hypothetical protein
+PGF_03725740	Butyricimonas	207.50	3.00	hypothetical protein
+PGF_03733480	Butyricimonas	141.50	13.00	dCMP deaminase (EC 3.5.4.12)
+PGF_03750571	Butyricimonas	467.75	14.50	Chromosomal replication initiator protein DnaA
+PGF_03750600	Butyricimonas	160.25	1.89	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Butyricimonas	191.50	6.35	Heat shock protein GrpE
+PGF_03752280	Butyricimonas	501.00	0.00	[FeFe]-hydrogenase maturation protein HydG
+PGF_03757137	Butyricimonas	534.25	176.50	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Butyricimonas	236.00	20.00	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03778780	Butyricimonas	316.00	0.00	Signal recognition particle receptor FtsY
+PGF_03783620	Butyricimonas	170.00	0.00	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787622	Butyricimonas	358.00	0.00	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Butyricimonas	246.00	0.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03797303	Butyricimonas	537.50	0.58	Adenine deaminase (EC 3.5.4.2)
+PGF_03801156	Butyricimonas	310.50	12.56	Cobalt-zinc-cadmium resistance protein CzcD
+PGF_03810115	Butyricimonas	236.75	15.41	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811469	Butyricimonas	445.50	42.34	Sodium:alanine symporter family protein
+PGF_03811905	Butyricimonas	344.50	1.73	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03835760	Butyricimonas	406.50	0.58	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03846068	Butyricimonas	288.00	1.41	Pyridoxal kinase (EC 2.7.1.35)
+PGF_03856084	Butyricimonas	657.75	0.96	Cell division protein FtsH
+PGF_03862500	Butyricimonas	194.00	0.00	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03887107	Butyricimonas	541.00	0.00	Predicted sodium-dependent galactose transporter
+PGF_03974059	Butyricimonas	451.00	0.00	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.8)
+PGF_03991729	Butyricimonas	371.00	1.15	Acetylornithine aminotransferase (EC 2.6.1.11)
+PGF_04005838	Butyricimonas	342.50	78.34	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04007946	Butyricimonas	225.25	0.50	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04025415	Butyricimonas	141.00	1.15	Large-conductance mechanosensitive channel
+PGF_04049902	Butyricimonas	138.75	7.89	hypothetical protein
+PGF_04108824	Butyricimonas	704.25	1.50	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Butyricimonas	259.50	9.43	Twin-arginine translocation protein TatC
+PGF_04150742	Butyricimonas	266.00	0.00	Zinc ABC transporter, permease protein ZnuB
+PGF_04154333	Butyricimonas	63.00	0.00	Twin-arginine translocation protein TatA
+PGF_04163139	Butyricimonas	232.25	2.22	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Butyricimonas	339.00	28.91	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Butyricimonas	245.00	0.00	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04256257	Butyricimonas	395.50	137.68	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+PGF_04380075	Butyricimonas	183.00	3.46	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+PGF_04431595	Butyricimonas	382.75	0.96	Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
+PGF_04457297	Butyricimonas	179.00	2.31	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04474609	Butyricimonas	249.00	0.00	putative membrane protein
+PGF_04490570	Butyricimonas	387.00	0.00	Cysteine desulfurase (EC 2.8.1.7)
+PGF_04490704	Butyricimonas	325.00	0.00	FIG022979: MoxR-like ATPases
+PGF_04493258	Butyricimonas	312.00	15.01	Cobalt-zinc-cadmium resistance protein
+PGF_04502464	Butyricimonas	704.25	0.50	DNA topoisomerase III (EC 5.99.1.2)
+PGF_04505269	Butyricimonas	260.50	0.58	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Butyricimonas	340.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Butyricimonas	434.00	8.00	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04527312	Butyricimonas	595.00	0.00	Chloride channel protein
+PGF_04560429	Butyricimonas	455.00	0.00	Mg/Co/Ni transporter MgtE, CBS domain-containing
+PGF_04569524	Butyricimonas	524.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04615303	Butyricimonas	382.00	1.15	Uncharacterized protein BT_0924
+PGF_04623479	Butyricimonas	688.00	6.68	Prolyl oligopeptidase family protein
+PGF_04636538	Butyricimonas	89.00	0.00	DNA-binding protein HU-beta
+PGF_04660832	Butyricimonas	203.00	0.00	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Butyricimonas	660.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04678594	Butyricimonas	183.00	0.00	hypothetical protein
+PGF_04681134	Butyricimonas	191.00	0.00	Cell filamentation protein Fic
+PGF_04703276	Butyricimonas	244.50	0.58	Choline-phosphate cytidylyltransferase (EC 2.7.7.15)
+PGF_04749763	Butyricimonas	951.00	10.10	Translation initiation factor 2
+PGF_04757308	Butyricimonas	633.00	1.15	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+PGF_04788810	Butyricimonas	189.00	0.00	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04846590	Butyricimonas	333.50	39.00	Magnesium and cobalt transport protein CorA
+PGF_04962192	Butyricimonas	760.25	1.26	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Butyricimonas	103.00	0.00	LSU ribosomal protein L21p
+PGF_05003102	Butyricimonas	216.00	0.00	Two-component transcriptional response regulator, LuxR family
+PGF_05022117	Butyricimonas	536.00	0.00	Bis-ABC ATPase YbiT
+PGF_05079020	Butyricimonas	330.00	0.00	MoxR-like ATPase in aerotolerance operon
+PGF_05111929	Butyricimonas	572.50	0.58	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Butyricimonas	923.75	1.50	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05144608	Butyricimonas	461.50	35.00	Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)
+PGF_05165078	Butyricimonas	318.00	0.00	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Butyricimonas	502.50	0.58	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05255412	Butyricimonas	424.25	5.50	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Butyricimonas	402.00	0.00	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05299528	Butyricimonas	382.00	4.62	ATP-dependent RNA helicase RhlE
+PGF_05338234	Butyricimonas	292.00	0.00	Protein YicC
+PGF_05430047	Butyricimonas	1025.25	17.50	Cobalt-zinc-cadmium resistance protein CzcA; Cation efflux system protein CusA
+PGF_05435672	Butyricimonas	324.25	19.45	ADP-heptose--lipooligosaccharide heptosyltransferase II
+PGF_05439724	Butyricimonas	836.00	2.31	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Butyricimonas	299.50	1.73	NAD kinase (EC 2.7.1.23)
+PGF_05466290	Butyricimonas	229.50	0.58	Succinate dehydrogenase cytochrome b subunit
+PGF_05507938	Butyricimonas	624.50	4.04	DNA mismatch repair protein MutL
+PGF_05560886	Butyricimonas	245.75	0.96	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05579323	Butyricimonas	337.50	0.58	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05581732	Butyricimonas	447.00	0.00	Protein translocase subunit SecY
+PGF_05598173	Butyricimonas	361.00	1.15	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Butyricimonas	426.00	0.00	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05641863	Butyricimonas	212.50	5.20	hypothetical protein
+PGF_05672678	Butyricimonas	259.00	2.31	Beta-propeller domains of methanol dehydrogenase type
+PGF_05712128	Butyricimonas	615.50	0.58	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05714136	Butyricimonas	122.00	4.08	FIG138056: a glutathione-dependent thiol reductase
+PGF_05812443	Butyricimonas	213.25	17.19	hypothetical protein
+PGF_05941340	Butyricimonas	113.25	12.50	Arsenical resistance operon repressor
+PGF_05964592	Butyricimonas	568.00	0.00	Acyl-CoA dehydrogenase
+PGF_05965455	Butyricimonas	398.50	38.73	AmpG permease
+PGF_05971611	Butyricimonas	399.00	1.15	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05997999	Butyricimonas	345.50	0.58	Glycosyltransferase
+PGF_06005188	Butyricimonas	617.00	14.00	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06013190	Butyricimonas	240.00	0.00	Metal-dependent hydrolase
+PGF_06027248	Butyricimonas	500.00	0.00	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+PGF_06051345	Butyricimonas	853.25	0.50	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06051594	Butyricimonas	450.75	9.50	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06128857	Butyricimonas	443.00	0.00	Electron transport complex protein RnfC
+PGF_06170558	Butyricimonas	154.25	0.50	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06178271	Butyricimonas	315.50	4.36	hypothetical protein
+PGF_06180597	Butyricimonas	151.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06220004	Butyricimonas	402.00	0.00	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_06230969	Butyricimonas	496.75	27.84	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Butyricimonas	89.00	0.00	Heat shock protein 60 family co-chaperone GroES
+PGF_06268225	Butyricimonas	355.50	91.01	hypothetical protein
+PGF_06285041	Butyricimonas	370.00	0.00	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06287652	Butyricimonas	253.75	5.50	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06315406	Butyricimonas	435.00	0.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06318952	Butyricimonas	339.00	0.00	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_06379377	Butyricimonas	424.00	1.15	Replication-associated recombination protein RarA
+PGF_06382763	Butyricimonas	1076.00	0.00	beta-galactosidase (EC 3.2.1.23)
+PGF_06403579	Butyricimonas	804.00	0.00	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06405053	Butyricimonas	234.50	0.58	Cytochrome c biogenesis protein
+PGF_06461498	Butyricimonas	275.00	0.00	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Butyricimonas	350.00	0.00	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Butyricimonas	342.50	1.00	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06511905	Butyricimonas	174.50	4.04	Phosphoglycerate mutase family protein
+PGF_06522139	Butyricimonas	690.50	11.00	Acetyl-CoA synthetase (ADP-forming) alpha and beta chains, putative
+PGF_06530721	Butyricimonas	247.50	3.00	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06534342	Butyricimonas	290.50	11.70	hypothetical protein
+PGF_06589185	Butyricimonas	579.00	5.42	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06639004	Butyricimonas	246.00	0.00	Uncharacterized protein BT_0925
+PGF_06640321	Butyricimonas	157.00	0.00	hypothetical protein
+PGF_06641194	Butyricimonas	339.50	37.53	Capsule biosynthesis protein capA
+PGF_06672158	Butyricimonas	193.25	16.07	Nitroreductase family protein
+PGF_06683931	Butyricimonas	542.50	27.44	hypothetical protein
+PGF_06718352	Butyricimonas	170.00	22.18	Cys-tRNA(Pro) deacylase YbaK
+PGF_06735060	Butyricimonas	756.00	0.00	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06744243	Butyricimonas	111.00	0.00	Transcriptional regulator, PadR family
+PGF_06755829	Butyricimonas	375.00	0.00	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06919086	Butyricimonas	303.50	0.58	Uncharacterized membrane-anchored protein, YitT family
+PGF_07051983	Butyricimonas	359.00	0.00	hypothetical protein
+PGF_07072294	Butyricimonas	339.00	0.00	Electron transfer flavoprotein, alpha subunit
+PGF_07138962	Butyricimonas	38.00	0.00	hypothetical protein
+PGF_07190633	Butyricimonas	100.00	0.00	hypothetical protein
+PGF_07194623	Butyricimonas	71.00	0.00	hypothetical protein
+PGF_07242312	Butyricimonas	613.50	0.58	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07299940	Butyricimonas	332.50	1.00	hypothetical protein
+PGF_07323122	Butyricimonas	189.00	25.95	hypothetical protein
+PGF_07327769	Butyricimonas	125.50	1.00	hypothetical protein
+PGF_07350525	Butyricimonas	439.00	28.72	hypothetical protein
+PGF_07381996	Butyricimonas	132.75	6.95	hypothetical protein
+PGF_07383836	Butyricimonas	551.75	0.96	hypothetical protein
+PGF_07426744	Butyricimonas	236.75	12.01	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+PGF_07567792	Butyricimonas	298.00	0.00	Meso-diaminopimelate D-dehydrogenase (EC 1.4.1.16)
+PGF_08039519	Butyricimonas	1021.00	48.51	putative membrane protein
+PGF_08062626	Butyricimonas	432.50	12.56	hypothetical protein
+PGF_08065358	Butyricimonas	200.00	0.00	Putative surface protein
+PGF_08073923	Butyricimonas	169.00	0.00	Bacterioferritin (EC 1.16.3.1)
+PGF_08079989	Butyricimonas	219.00	0.00	Butyrate--acetoacetate CoA-transferase subunit B (EC 2.8.3.9)
+PGF_08101849	Butyricimonas	86.50	0.58	hypothetical protein
+PGF_08106695	Butyricimonas	490.25	8.06	hypothetical protein
+PGF_08130543	Butyricimonas	519.00	0.00	Di-tripeptide/cation symporter
+PGF_08147453	Butyricimonas	443.00	6.93	DNA recombination protein RmuC
+PGF_08154607	Butyricimonas	120.75	18.55	NADP-reducing [FeFe]-hydrogenase subunit HndB
+PGF_08166083	Butyricimonas	421.00	26.94	Na+/H+ antiporter NhaD type
+PGF_08183187	Butyricimonas	405.00	3.46	Cell division protein FtsW

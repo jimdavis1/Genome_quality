@@ -1,0 +1,766 @@
+PGF_00000261	Psychromonas	392.00	5.51	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000306	Psychromonas	240.14	0.38	FIG007491: hypothetical protein YeeN
+PGF_00000416	Psychromonas	369.12	32.06	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000939	Psychromonas	401.50	2.07	Uncharacterized protein YhiN
+PGF_00001005	Psychromonas	224.14	2.73	FIG009095: D,D-carboxypeptidase family protein
+PGF_00002124	Psychromonas	207.29	11.16	ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA
+PGF_00002132	Psychromonas	77.43	2.44	UPF0270 protein YheU
+PGF_00002608	Psychromonas	207.00	0.00	FIG020042: hypothetical protein
+PGF_00002617	Psychromonas	1252.71	18.77	FIG020374: hypothetical protein
+PGF_00002628	Psychromonas	414.57	2.64	FIG020568: hypothetical protein
+PGF_00002640	Psychromonas	214.43	1.13	FIG021625: hypothetical protein
+PGF_00002688	Psychromonas	258.14	0.38	FIG023911: putative membrane protein
+PGF_00003516	Psychromonas	251.57	1.51	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00003749	Psychromonas	150.71	5.19	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)
+PGF_00005288	Psychromonas	351.62	48.06	Flagellar P-ring protein FlgI
+PGF_00005354	Psychromonas	135.62	11.21	Flagellar basal-body rod protein FlgC
+PGF_00005358	Psychromonas	253.88	22.58	Flagellar basal-body rod protein FlgG
+PGF_00005384	Psychromonas	674.00	10.31	Flagellar biosynthesis protein FlhA
+PGF_00005402	Psychromonas	89.00	0.00	Flagellar biosynthesis protein FliQ
+PGF_00005454	Psychromonas	651.43	87.65	Flagellar hook-associated protein FlgK
+PGF_00005572	Psychromonas	298.50	80.43	Flagellar protein FlgJ [peptidoglycan hydrolase]
+PGF_00005921	Psychromonas	169.71	6.05	Flavodoxin 2
+PGF_00006376	Psychromonas	326.50	0.76	Fructose repressor FruR, LacI family
+PGF_00006394	Psychromonas	334.00	67.88	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006403	Psychromonas	374.00	2.94	PTS system, fructose-specific IIA component (EC 2.7.1.202) / Fructose-specific phosphocarrier protein HPr
+PGF_00006983	Psychromonas	306.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 2
+PGF_00007012	Psychromonas	363.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007026	Psychromonas	221.71	6.13	GTP-binding protein EngB
+PGF_00007027	Psychromonas	300.00	0.00	GTP-binding protein Era
+PGF_00007028	Psychromonas	433.86	6.26	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Psychromonas	607.38	0.52	GTP-binding protein TypA/BipA
+PGF_00007353	Psychromonas	404.00	0.00	General secretion pathway protein F
+PGF_00007406	Psychromonas	208.25	6.98	General secretion pathway protein J
+PGF_00007818	Psychromonas	481.86	2.73	16S rRNA (cytosine(1407)-C(5))-methyltransferase (EC 2.1.1.178)
+PGF_00007920	Psychromonas	266.00	0.00	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+PGF_00007988	Psychromonas	550.00	0.00	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008106	Psychromonas	271.86	7.22	Glutamate racemase (EC 5.1.1.3)
+PGF_00008115	Psychromonas	1509.14	10.53	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008159	Psychromonas	523.71	3.90	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_00008164	Psychromonas	425.00	0.00	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Psychromonas	472.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Psychromonas	552.43	0.98	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Psychromonas	419.29	1.25	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008335	Psychromonas	471.71	2.14	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+PGF_00008469	Psychromonas	315.86	4.06	Glutathione synthetase (EC 6.3.2.3)
+PGF_00008611	Psychromonas	334.29	0.49	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Psychromonas	207.86	1.46	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Psychromonas	196.86	14.12	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Psychromonas	304.00	5.16	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Psychromonas	688.00	0.00	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Psychromonas	237.71	11.34	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Psychromonas	712.71	5.68	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Psychromonas	208.14	1.35	Guanylate kinase (EC 2.7.4.8)
+PGF_00010729	Psychromonas	293.00	0.00	Transcriptional regulator IlvY, LysR family
+PGF_00010918	Psychromonas	294.50	2.07	Haloalkane dehalogenase-like protein
+PGF_00011081	Psychromonas	741.86	7.20	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011813	Psychromonas	224.00	0.58	Histidine ABC transporter, permease protein HisM (TC 3.A.1.3.1)
+PGF_00011940	Psychromonas	446.38	11.77	Histidine permease YuiF
+PGF_00011979	Psychromonas	435.43	3.21	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011990	Psychromonas	356.00	0.00	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00012356	Psychromonas	318.14	0.38	Homoserine kinase (EC 2.7.1.39)
+PGF_00012970	Psychromonas	660.57	3.41	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013003	Psychromonas	614.71	58.53	Bis-ABC ATPase YheS
+PGF_00013100	Psychromonas	478.88	6.58	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013244	Psychromonas	208.88	7.41	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+PGF_00013272	Psychromonas	138.29	0.49	Hypothetical protein YaeJ with similarity to translation release factor
+PGF_00013283	Psychromonas	231.43	4.24	UPF0001 protein YggS
+PGF_00013509	Psychromonas	530.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013857	Psychromonas	737.00	0.00	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I
+PGF_00013971	Psychromonas	557.50	7.33	AMP-dependent synthetase/ligase in alkane synthesis cluster
+PGF_00014053	Psychromonas	470.43	2.15	Indole-3-glycerol phosphate synthase (EC 4.1.1.48) / Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00014144	Psychromonas	598.57	2.94	Inner membrane protein YejM, alkaline phosphatase superfamily
+PGF_00015039	Psychromonas	268.43	5.09	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Psychromonas	83.57	3.78	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Psychromonas	177.00	0.00	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Psychromonas	287.86	0.38	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015703	Psychromonas	742.00	0.00	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Psychromonas	943.86	0.38	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00016261	Psychromonas	341.86	6.59	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+PGF_00016328	Psychromonas	167.00	0.00	LSU ribosomal protein L10p (P0)
+PGF_00016338	Psychromonas	429.14	2.67	ATP-dependent Clp protease ATP-binding subunit ClpX
+PGF_00016340	Psychromonas	119.25	6.65	LSU ribosomal protein L14p (L23e)
+PGF_00016343	Psychromonas	135.75	0.46	LSU ribosomal protein L16p (L10e)
+PGF_00016353	Psychromonas	116.00	0.00	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Psychromonas	234.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Psychromonas	118.00	0.00	LSU ribosomal protein L20p
+PGF_00016361	Psychromonas	96.25	16.71	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Psychromonas	111.00	0.00	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Psychromonas	99.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Psychromonas	104.00	0.00	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Psychromonas	85.00	0.00	LSU ribosomal protein L27p
+PGF_00016393	Psychromonas	250.00	70.71	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Psychromonas	59.75	0.71	LSU ribosomal protein L30p (L7e)
+PGF_00016406	Psychromonas	56.71	0.49	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
+PGF_00016431	Psychromonas	212.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Psychromonas	201.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Psychromonas	169.75	17.13	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Psychromonas	170.88	17.32	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Psychromonas	121.12	0.35	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Psychromonas	150.00	0.00	LSU ribosomal protein L9p
+PGF_00016919	Psychromonas	237.43	6.35	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00017080	Psychromonas	577.00	11.21	Lipid A core-O-antigen ligase
+PGF_00017190	Psychromonas	241.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00017400	Psychromonas	288.71	15.51	Murein hydrolase activator NlpD
+PGF_00017464	Psychromonas	230.38	5.01	Lipoprotein-releasing system ATP-binding protein LolD
+PGF_00017621	Psychromonas	454.71	4.57	ATP-dependent RNA helicase SrmB
+PGF_00017634	Psychromonas	394.71	25.34	ATP-dependent RNA helicase VC1407
+PGF_00017916	Psychromonas	316.00	14.43	LysR-family transcriptional regulator VC0068
+PGF_00018536	Psychromonas	684.38	5.55	ATP-dependent helicase DinG/Rad3
+PGF_00018552	Psychromonas	196.86	10.22	Maf-like protein YceF
+PGF_00018560	Psychromonas	288.29	1.60	Magnesium and cobalt efflux protein CorC
+PGF_00018952	Psychromonas	314.57	3.15	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00019038	Psychromonas	445.75	1.67	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019428	Psychromonas	182.12	2.10	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019484	Psychromonas	880.43	0.79	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+PGF_00020171	Psychromonas	340.00	4.62	Membrane-bound lytic murein transglycosylase B (EC 3.2.1.-)
+PGF_00020173	Psychromonas	313.43	75.59	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020190	Psychromonas	633.57	74.76	Membrane-bound lytic murein transglycosylase F (EC 4.2.2.n1)
+PGF_00020361	Psychromonas	157.14	1.46	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020984	Psychromonas	284.62	0.52	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00022467	Psychromonas	180.12	25.41	Molybdenum cofactor biosynthesis protein MoaB
+PGF_00022577	Psychromonas	178.14	4.14	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00022781	Psychromonas	374.12	8.10	ATPase, AFG1 family
+PGF_00023591	Psychromonas	340.14	2.04	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00024234	Psychromonas	377.29	0.49	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024308	Psychromonas	275.86	0.38	NAD synthetase (EC 6.3.1.5)
+PGF_00024314	Psychromonas	538.14	2.85	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+PGF_00024322	Psychromonas	446.43	30.70	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
+PGF_00024362	Psychromonas	356.38	2.07	NAD(P)H steroid dehydrogenase-like protein in alkane synthesis cluster
+PGF_00024370	Psychromonas	214.43	43.84	NAD(P)H-flavin reductase (EC 1.5.1.41) (EC 1.16.1.3)
+PGF_00024478	Psychromonas	330.00	0.00	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024540	Psychromonas	428.33	0.50	NADH dehydrogenase (EC 1.6.99.3)
+PGF_00024855	Psychromonas	285.00	0.00	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025184	Psychromonas	446.00	0.00	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.8)
+PGF_00025185	Psychromonas	363.00	109.10	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.8)
+PGF_00025187	Psychromonas	257.62	4.37	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.8)
+PGF_00025188	Psychromonas	187.50	64.04	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.8)
+PGF_00025189	Psychromonas	195.25	19.09	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.8)
+PGF_00025190	Psychromonas	331.22	150.38	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.8)
+PGF_00025379	Psychromonas	266.14	36.23	Naphthoate synthase (EC 4.1.3.36)
+PGF_00025448	Psychromonas	193.00	0.00	[4Fe-4S] cluster carrier protein NfuA
+PGF_00025698	Psychromonas	140.20	36.55	Nitrate reductase cytochrome c550-type subunit
+PGF_00025890	Psychromonas	355.25	1.39	Nitrogen regulation protein NtrB (EC 2.7.13.3)
+PGF_00026305	Psychromonas	1520.00	0.76	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2) / Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PGF_00026349	Psychromonas	339.00	31.82	Nucleoid-associated protein NdpA
+PGF_00026362	Psychromonas	200.57	0.79	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Psychromonas	276.25	11.40	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00026866	Psychromonas	323.29	0.76	Octaprenyl diphosphate synthase (EC 2.5.1.90)
+PGF_00026904	Psychromonas	638.75	125.57	Oligopeptidase A (EC 3.4.24.70)
+PGF_00028486	Psychromonas	255.57	12.07	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00028690	Psychromonas	302.86	1.57	Oxidoreductase YdhF
+PGF_00029464	Psychromonas	149.75	5.78	PTS IIA-like nitrogen-regulatory protein PtsN
+PGF_00029917	Psychromonas	285.00	2.52	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030495	Psychromonas	220.86	18.90	Acyl dehydratase
+PGF_00030640	Psychromonas	363.00	0.00	Peptide chain release factor 1
+PGF_00030643	Psychromonas	459.00	182.56	Peptide chain release factor 3
+PGF_00031036	Psychromonas	560.25	347.19	Periplasmic nitrate reductase (EC 1.7.99.4)
+PGF_00033237	Psychromonas	342.71	2.98	Phosphate starvation-inducible protein PhoH, predicted ATPase
+PGF_00033289	Psychromonas	346.14	0.38	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033392	Psychromonas	878.12	1.25	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033479	Psychromonas	529.86	53.29	Phosphoglucomutase (EC 5.4.2.2)
+PGF_00033489	Psychromonas	283.43	2.70	Phosphogluconate repressor HexR, RpiR family
+PGF_00033511	Psychromonas	390.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033642	Psychromonas	240.88	16.52	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)
+PGF_00033737	Psychromonas	268.75	0.46	Phospholipid ABC transporter ATP-binding protein MlaF
+PGF_00033740	Psychromonas	205.00	2.39	Phospholipid ABC transporter shuttle protein MlaC
+PGF_00033877	Psychromonas	159.38	2.07	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Psychromonas	209.43	2.30	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Psychromonas	428.38	0.52	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033946	Psychromonas	244.57	1.13	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Psychromonas	346.00	0.00	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033963	Psychromonas	1292.43	13.43	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033971	Psychromonas	396.00	0.00	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033985	Psychromonas	315.78	95.41	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034566	Psychromonas	436.29	34.58	Poly(A) polymerase (EC 2.7.7.19)
+PGF_00034972	Psychromonas	181.00	0.00	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Psychromonas	336.00	1.41	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Psychromonas	180.00	1.83	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035716	Psychromonas	451.00	12.38	Predicted arginine uptake transporter
+PGF_00035721	Psychromonas	456.43	0.53	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00036575	Psychromonas	745.29	13.43	Aerobic respiration control sensor protein ArcB (EC 2.7.13.3)
+PGF_00036580	Psychromonas	111.00	0.58	Protein translocase subunit YajC
+PGF_00036674	Psychromonas	78.43	21.69	Primosomal replication protein N
+PGF_00037171	Psychromonas	421.00	0.00	Probable low-affinity inorganic phosphate transporter
+PGF_00037588	Psychromonas	572.88	0.83	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037835	Psychromonas	686.29	4.99	Protease II (EC 3.4.21.83)
+PGF_00037837	Psychromonas	951.25	14.01	Protease III precursor (EC 3.4.24.55)
+PGF_00037937	Psychromonas	197.29	1.38	Protein PhnA
+PGF_00037973	Psychromonas	98.43	5.86	Protein YcgL
+PGF_00038642	Psychromonas	161.14	7.08	Protein SprT
+PGF_00038882	Psychromonas	180.43	11.43	Protoporphyrinogen IX oxidase, oxygen-independent, HemG (EC 1.3.-.-)
+PGF_00038916	Psychromonas	237.43	4.61	Pseudouridine synthase (EC 4.2.1.70), VC1668 type
+PGF_00038945	Psychromonas	227.00	0.00	PspA/IM30 family protein
+PGF_00040578	Psychromonas	259.14	1.86	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040580	Psychromonas	259.14	4.18	Putative deoxyribonuclease YjjV
+PGF_00040680	Psychromonas	730.25	3.96	Putative efflux (PET) family inner membrane protein YccS
+PGF_00040939	Psychromonas	435.80	161.86	Putative glutathione-regulated potassium-efflux system protein KefB
+PGF_00041206	Psychromonas	463.43	39.69	Uncharacterized chaperone protein YegD
+PGF_00041948	Psychromonas	411.43	16.32	Putative membrane protein YfjD
+PGF_00043742	Psychromonas	188.38	4.87	Succinate-acetate/proton symporter SatP
+PGF_00045833	Psychromonas	217.00	0.00	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+PGF_00046104	Psychromonas	352.57	0.53	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046348	Psychromonas	324.57	22.11	RNA polymerase sigma factor RpoS
+PGF_00046377	Psychromonas	236.00	3.21	RNA polymerase sigma factor for flagellar operon
+PGF_00046403	Psychromonas	479.50	3.46	RNA polymerase sigma-54 factor RpoN
+PGF_00046597	Psychromonas	148.86	0.38	RNA polymerase-binding transcription factor DksA
+PGF_00046622	Psychromonas	76.14	1.46	RNA-binding protein Hfq
+PGF_00047227	Psychromonas	157.00	0.00	Regulator of sigma D
+PGF_00048419	Psychromonas	280.00	2.89	Rhomboid protease GlpG (EC 3.4.21.105)
+PGF_00048535	Psychromonas	146.86	8.15	Outer membrane beta-barrel assembly protein BamE
+PGF_00048539	Psychromonas	122.00	2.07	Ribonuclease E inhibitor RraB
+PGF_00048589	Psychromonas	203.86	1.68	Ribonuclease T
+PGF_00048627	Psychromonas	709.86	11.26	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048637	Psychromonas	309.44	137.29	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Psychromonas	147.50	7.17	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048782	Psychromonas	302.43	26.24	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048829	Psychromonas	293.29	2.36	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048836	Psychromonas	311.62	19.75	Ribosomal large subunit pseudouridine synthase F (EC 5.4.99.21)
+PGF_00048842	Psychromonas	303.00	0.58	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+PGF_00048926	Psychromonas	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Psychromonas	346.12	0.35	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Psychromonas	134.00	0.00	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00049330	Psychromonas	339.78	103.05	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Psychromonas	347.86	1.68	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049694	Psychromonas	111.00	0.00	SEC-C motif
+PGF_00049827	Psychromonas	271.43	1.27	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Psychromonas	103.00	0.00	SSU ribosomal protein S10p (S20e)
+PGF_00049844	Psychromonas	101.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+PGF_00049847	Psychromonas	89.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Psychromonas	71.89	20.42	SSU ribosomal protein S16p
+PGF_00049854	Psychromonas	83.00	0.00	SSU ribosomal protein S17p (S11e)
+PGF_00049858	Psychromonas	75.00	0.00	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+PGF_00049889	Psychromonas	229.00	0.53	SSU ribosomal protein S3p (S3e)
+PGF_00049896	Psychromonas	166.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Psychromonas	132.57	2.82	SSU ribosomal protein S6p
+PGF_00049904	Psychromonas	133.50	13.89	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Psychromonas	130.00	0.00	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Psychromonas	123.50	15.56	SSU ribosomal protein S9p (S16e)
+PGF_00050995	Psychromonas	503.88	0.35	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051140	Psychromonas	207.50	5.35	Septum-associated cell division protein DedD
+PGF_00051143	Psychromonas	210.14	4.18	SeqA protein, negative modulator of initiation of replication
+PGF_00051525	Psychromonas	428.00	0.00	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051575	Psychromonas	399.50	0.93	Short-chain alcohol dehydrogenase family
+PGF_00052238	Psychromonas	469.86	5.96	Signal recognition particle protein Ffh
+PGF_00052674	Psychromonas	215.86	9.23	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
+PGF_00052705	Psychromonas	142.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00054301	Psychromonas	210.62	0.52	Stringent starvation protein A
+PGF_00054302	Psychromonas	138.12	3.94	Stringent starvation protein B
+PGF_00054323	Psychromonas	206.00	0.00	Hypothetical YciO protein, TsaC/YrdC paralog
+PGF_00054476	Psychromonas	105.43	22.68	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054480	Psychromonas	237.14	0.38	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)
+PGF_00054528	Psychromonas	388.00	0.58	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055095	Psychromonas	345.86	11.08	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+PGF_00055354	Psychromonas	433.14	15.53	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+PGF_00055380	Psychromonas	229.14	5.90	T1SS associated transglutaminase-like cysteine proteinase LapP
+PGF_00055966	Psychromonas	365.86	6.62	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)
+PGF_00056273	Psychromonas	321.14	2.79	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056496	Psychromonas	235.71	2.50	Thiamin ABC transporter, ATPase component
+PGF_00056498	Psychromonas	322.00	24.86	Thiamin ABC transporter, substrate-binding component
+PGF_00056544	Psychromonas	263.57	3.15	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Psychromonas	338.29	2.93	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Psychromonas	537.00	9.27	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056821	Psychromonas	102.57	1.13	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)
+PGF_00056872	Psychromonas	194.00	2.62	Thymidine kinase (EC 2.7.1.21)
+PGF_00056897	Psychromonas	283.00	0.00	Thymidylate synthase (EC 2.1.1.45)
+PGF_00057270	Psychromonas	756.88	1.81	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057402	Psychromonas	147.00	0.00	Transamidase GatB domain protein
+PGF_00057483	Psychromonas	416.29	9.76	Transcription termination factor Rho
+PGF_00057488	Psychromonas	141.62	2.13	Transcription termination protein NusB
+PGF_00058666	Psychromonas	200.62	1.77	Transcriptional regulator SlmA, TetR family
+PGF_00060409	Psychromonas	691.62	16.02	Translation elongation factor G
+PGF_00060414	Psychromonas	598.00	0.00	Translation elongation factor LepA
+PGF_00060427	Psychromonas	290.00	1.00	Translation elongation factor Ts
+PGF_00060428	Psychromonas	350.12	124.10	Translation elongation factor Tu
+PGF_00060431	Psychromonas	70.38	4.60	Translation initiation factor 1
+PGF_00060478	Psychromonas	176.00	10.34	Translation initiation factor 3
+PGF_00062023	Psychromonas	270.57	2.37	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Psychromonas	395.14	0.38	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063268	Psychromonas	730.14	11.14	Type I secretion system ATPase, LssB family LapB
+PGF_00063916	Psychromonas	423.00	0.00	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+PGF_00063948	Psychromonas	339.14	1.07	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063974	Psychromonas	351.62	2.56	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
+PGF_00064004	Psychromonas	448.71	2.75	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+PGF_00064199	Psychromonas	180.57	1.27	UPF0115 protein YfcN
+PGF_00064270	Psychromonas	257.43	0.53	UPF0246 protein YaaA
+PGF_00064280	Psychromonas	144.29	4.54	UPF0260 protein YcgN
+PGF_00064359	Psychromonas	150.00	0.00	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064393	Psychromonas	275.00	0.82	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+PGF_00064438	Psychromonas	196.00	0.00	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_00064460	Psychromonas	545.71	0.49	Ubiquinone biosynthesis regulatory protein kinase UbiB
+PGF_00064506	Psychromonas	256.88	0.35	Uncharacterized ABC transporter inner membrane permease YadH
+PGF_00064599	Psychromonas	246.00	0.00	Arginine/ornithine ABC transporter, permease protein AotQ
+PGF_00064827	Psychromonas	308.29	4.39	Uncharacterized methyltransferase PA1407
+PGF_00065404	Psychromonas	104.00	16.32	Uncharacterized protein YajD
+PGF_00065765	Psychromonas	89.88	1.36	Uncharacterized protein YbfE
+PGF_00065887	Psychromonas	240.86	6.91	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066123	Psychromonas	208.00	0.00	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066139	Psychromonas	216.43	1.13	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066248	Psychromonas	211.86	0.38	Uridine kinase (EC 2.7.1.48) [C1]
+PGF_00066270	Psychromonas	354.25	0.46	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066449	Psychromonas	416.43	1.13	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00066453	Psychromonas	953.29	1.25	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066502	Psychromonas	418.11	126.87	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+PGF_00066589	Psychromonas	132.71	17.76	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Psychromonas	312.86	4.91	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066935	Psychromonas	426.14	1.57	Uracil permease @ Uracil:proton symporter UraA
+PGF_00066960	Psychromonas	151.86	1.07	Aspartate carbamoyltransferase regulatory chain (PyrI)
+PGF_00067188	Psychromonas	370.14	0.38	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067192	Psychromonas	179.29	0.95	YaeQ protein
+PGF_00067254	Psychromonas	107.14	22.56	YcfF/hinT protein: a purine nucleoside phosphoramidase
+PGF_00067273	Psychromonas	85.86	9.41	YebG, DNA damage-inducible gene in SOS regulon, expressed in stationary phase
+PGF_00067370	Psychromonas	747.29	192.38	Aspartokinase (EC 2.7.2.4) / Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00067547	Psychromonas	137.57	15.37	Zinc uptake regulation protein Zur
+PGF_00067732	Psychromonas	258.00	0.00	Zn-ribbon-containing, possibly nucleic-acid-binding protein
+PGF_00067739	Psychromonas	361.14	0.38	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+PGF_00067791	Psychromonas	870.71	1.11	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00069596	Psychromonas	316.62	7.25	Ferrous-iron efflux pump FieF
+PGF_00069740	Psychromonas	374.71	4.72	2-iminoacetate synthase (ThiH) (EC 4.1.99.19)
+PGF_00070627	Psychromonas	313.43	15.40	diguanylate cyclase (GGDEF domain) with PAS/PAC sensor
+PGF_00071382	Psychromonas	175.00	0.00	Flavodoxin 1
+PGF_00071693	Psychromonas	294.71	9.71	Glutamyl-Q tRNA(Asp) synthetase
+PGF_00072304	Psychromonas	203.57	0.79	2-keto-4-pentenoate hydratase (EC 4.2.1.80)
+PGF_00072449	Psychromonas	193.00	55.56	BarA-associated response regulator UvrY (= GacA = SirA)
+PGF_00084324	Psychromonas	250.50	43.85	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00091671	Psychromonas	86.00	0.00	hypothetical protein
+PGF_00113984	Psychromonas	202.14	2.12	Flavin prenyltransferase UbiX
+PGF_00131429	Psychromonas	375.43	0.79	LSU ribosomal protein L16p arginine hydroxylase
+PGF_00156500	Psychromonas	102.57	0.79	hypothetical protein
+PGF_00167981	Psychromonas	109.43	4.47	hypothetical protein
+PGF_00193130	Psychromonas	610.57	7.72	hypothetical protein
+PGF_00194856	Psychromonas	238.38	1.51	hypothetical protein
+PGF_00280549	Psychromonas	302.29	10.34	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+PGF_00285620	Psychromonas	206.86	0.38	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00292513	Psychromonas	204.00	0.00	hypothetical protein
+PGF_00299130	Psychromonas	76.14	1.07	Cell division protein ZapB
+PGF_00342563	Psychromonas	752.43	23.46	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00366280	Psychromonas	181.88	27.04	hypothetical protein
+PGF_00377042	Psychromonas	715.29	51.36	hypothetical protein
+PGF_00383994	Psychromonas	264.14	2.04	hypothetical protein
+PGF_00399630	Psychromonas	315.57	3.31	hypothetical protein PA3071
+PGF_00401551	Psychromonas	449.43	4.89	Multidrug efflux transporter MdtK/NorM (MATE family)
+PGF_00401926	Psychromonas	1953.12	40.33	omega-3 polyunsaturated fatty acid synthase subunit, PfaC
+PGF_00401928	Psychromonas	257.57	11.22	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201) @ Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_00403759	Psychromonas	219.88	4.09	predicted S-adenosylmethionine-dependent tRNA (guanine-N(7)-)-methyltransferase
+PGF_00404306	Psychromonas	462.00	4.73	probable integral membrane protein NMA1898
+PGF_00404333	Psychromonas	322.75	1.49	Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_00404384	Psychromonas	355.29	9.25	Biotin synthase (EC 2.8.1.6)
+PGF_00404496	Psychromonas	263.86	20.56	Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)
+PGF_00404831	Psychromonas	271.57	1.72	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+PGF_00406692	Psychromonas	935.86	0.90	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+PGF_00411182	Psychromonas	277.57	3.26	putative transcriptional regulator, inferred for PFA pathway
+PGF_00413182	Psychromonas	328.00	0.00	tRNA (mo5U34)-methyltransferase
+PGF_00413203	Psychromonas	154.00	0.00	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Psychromonas	248.29	0.49	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413223	Psychromonas	225.14	11.29	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+PGF_00413230	Psychromonas	243.43	1.27	tRNA (cmo5U34)-methyltransferase
+PGF_00413232	Psychromonas	108.00	0.00	tRNA 2-thiouridine synthesis protein TusE
+PGF_00413237	Psychromonas	484.00	0.00	tRNA 4-thiouridine synthase (EC 2.8.1.4) / Rhodanese-like domain required for thiamine synthesis
+PGF_00413243	Psychromonas	119.75	0.46	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusC
+PGF_00413253	Psychromonas	75.25	10.65	tRNA 5-methylaminomethyl-2-thiouridine synthesis sulfur carrier protein TusA
+PGF_00413266	Psychromonas	320.29	16.18	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91)
+PGF_00413286	Psychromonas	347.86	5.11	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Psychromonas	261.00	0.00	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413300	Psychromonas	628.86	0.38	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413340	Psychromonas	310.43	6.90	tRNA-dihydrouridine(16) synthase
+PGF_00413554	Psychromonas	161.00	0.00	tmRNA-binding protein SmpB
+PGF_00414926	Psychromonas	410.71	3.35	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415130	Psychromonas	311.12	12.94	23S rRNA (adenine(1618)-N(6))-methyltransferase (EC 2.1.1.181)
+PGF_00415150	Psychromonas	282.00	13.15	23S rRNA (adenine(2030)-N(6))-methyltransferase (EC 2.1.1.266)
+PGF_00415332	Psychromonas	363.71	1.98	23S rRNA (cytidine(2498)-2'-O)-methyltransferase (EC 2.1.1.186)
+PGF_00415363	Psychromonas	385.43	8.22	23S rRNA (guanine(1835)-N(2))-methyltransferase (EC 2.1.1.174)
+PGF_00415422	Psychromonas	756.71	13.57	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)
+PGF_00415581	Psychromonas	218.43	2.44	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+PGF_00416129	Psychromonas	545.00	0.00	CTP synthase (EC 6.3.4.2)
+PGF_00416410	Psychromonas	1076.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416576	Psychromonas	178.88	0.35	3'-to-5' oligoribonuclease (orn)
+PGF_00416622	Psychromonas	374.86	1.86	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Psychromonas	404.57	1.72	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00417433	Psychromonas	639.14	2.04	Chaperone protein DnaK
+PGF_00417577	Psychromonas	148.38	2.77	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417831	Psychromonas	375.00	0.58	Chorismate mutase I (EC 5.4.99.5) / Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_00417840	Psychromonas	362.00	0.00	Chorismate synthase (EC 4.2.3.5)
+PGF_00417987	Psychromonas	182.00	0.00	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+PGF_00418243	Psychromonas	203.12	7.62	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00418368	Psychromonas	439.29	58.78	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418658	Psychromonas	165.00	1.41	Colicin V production protein
+PGF_00419420	Psychromonas	465.14	0.38	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+PGF_00419487	Psychromonas	167.00	5.20	Conserved uncharacterized protein CreA
+PGF_00419628	Psychromonas	442.29	30.17	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419913	Psychromonas	164.88	13.01	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Psychromonas	264.00	0.00	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Psychromonas	320.71	1.80	Cysteine synthase (EC 2.5.1.47)
+PGF_00420121	Psychromonas	227.00	1.73	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420482	Psychromonas	252.14	1.68	Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE
+PGF_00420609	Psychromonas	343.50	15.60	3-oxoacyl-[ACP] synthase III in alkane synthesis cluster
+PGF_00420764	Psychromonas	379.62	4.87	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+PGF_00421013	Psychromonas	368.11	108.79	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+PGF_00421071	Psychromonas	144.12	2.47	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421098	Psychromonas	579.71	5.53	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421408	Psychromonas	222.71	0.76	DNA mismatch repair endonuclease MutH
+PGF_00421447	Psychromonas	585.86	9.32	ATP-dependent RNA helicase YejH
+PGF_00421477	Psychromonas	805.29	7.74	DNA polymerase II (EC 2.7.7.7)
+PGF_00421679	Psychromonas	582.71	2.21	DNA primase (EC 2.7.7.-)
+PGF_00421760	Psychromonas	302.00	0.00	DNA recombination-dependent growth factor RdgC
+PGF_00421792	Psychromonas	470.14	0.90	DNA repair protein RadA
+PGF_00421796	Psychromonas	557.86	1.77	DNA repair protein RecN
+PGF_00422053	Psychromonas	99.00	0.00	DNA-binding protein Fis
+PGF_00422078	Psychromonas	91.00	0.00	DNA-binding protein HU-alpha
+PGF_00422545	Psychromonas	304.00	3.32	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+PGF_00422655	Psychromonas	450.29	0.76	LOG family protein YgdH
+PGF_00422949	Psychromonas	260.57	2.23	Deoxyribonuclease TatD
+PGF_00423089	Psychromonas	361.38	56.37	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423300	Psychromonas	426.12	7.59	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423361	Psychromonas	115.57	3.78	Dihydroneopterin aldolase (EC 4.1.2.25)
+PGF_00423382	Psychromonas	342.86	0.38	Dihydroorotase (EC 3.5.2.3)
+PGF_00423472	Psychromonas	640.00	0.00	DinG family ATP-dependent helicase YoaA
+PGF_00423511	Psychromonas	568.43	1.90	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)
+PGF_00423533	Psychromonas	285.43	2.57	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423709	Psychromonas	268.00	2.45	DnaJ-like protein DjlA
+PGF_00423927	Psychromonas	257.62	57.16	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+PGF_00424131	Psychromonas	192.00	0.00	Electron transport complex protein RnfA
+PGF_00424134	Psychromonas	187.00	2.83	Electron transport complex protein RnfB
+PGF_00424141	Psychromonas	236.57	7.35	Electron transport complex protein RnfE
+PGF_00424166	Psychromonas	188.75	1.04	Elongation factor P-like protein
+PGF_00424447	Psychromonas	330.29	3.25	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424565	Psychromonas	535.38	8.77	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9), inferred for PFA pathway
+PGF_00424971	Psychromonas	607.14	8.05	Excinuclease ABC subunit C
+PGF_00425010	Psychromonas	455.57	71.40	Exodeoxyribonuclease I (EC 3.1.11.1)
+PGF_00425014	Psychromonas	260.14	3.63	Flap endonuclease Xni
+PGF_00425021	Psychromonas	1145.86	7.24	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+PGF_00425091	Psychromonas	1236.57	4.43	Exonuclease SbcC
+PGF_00425092	Psychromonas	400.86	6.20	Exonuclease SbcD
+PGF_00425665	Psychromonas	250.00	3.83	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425679	Psychromonas	208.14	1.95	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425736	Psychromonas	155.14	1.95	FIG001826: putative inner membrane protein
+PGF_00425802	Psychromonas	283.57	2.44	FIG002708: Protein SirB1
+PGF_00425812	Psychromonas	193.38	44.19	High frequency lysogenization protein HflD
+PGF_00425993	Psychromonas	401.29	5.62	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00425997	Psychromonas	331.71	0.49	FIG004453: protein YceG like
+PGF_00426115	Psychromonas	619.50	1.07	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426877	Psychromonas	311.43	1.81	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
+PGF_00426932	Psychromonas	155.00	0.00	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00426984	Psychromonas	137.00	0.00	FIG006163: hypothetical protein
+PGF_00438421	Psychromonas	277.43	4.43	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00447438	Psychromonas	191.14	0.38	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+PGF_00447508	Psychromonas	379.56	98.26	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+PGF_00535698	Psychromonas	243.14	1.07	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+PGF_00546752	Psychromonas	155.29	4.68	Phosphohistidine phosphatase SixA
+PGF_00550718	Psychromonas	145.50	4.41	General secretion pathway protein G
+PGF_00565351	Psychromonas	222.00	0.00	ABC transporter involved in cytochrome c biogenesis, CcmB subunit
+PGF_00569671	Psychromonas	278.50	64.51	Hydrogen peroxide-inducible genes activator => OxyR
+PGF_00611883	Psychromonas	130.43	3.26	hypothetical protein
+PGF_00634936	Psychromonas	315.12	14.62	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00641071	Psychromonas	314.12	57.13	Peptide chain release factor 2 @ programmed frameshift-containing
+PGF_00649271	Psychromonas	103.14	0.38	Cell division protein BolA
+PGF_00655131	Psychromonas	489.00	0.00	3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)
+PGF_00685421	Psychromonas	205.00	4.90	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+PGF_00703298	Psychromonas	144.50	2.07	hypothetical protein
+PGF_00714226	Psychromonas	655.38	135.86	Uncharacterized membrane protein, YraQ family
+PGF_00716397	Psychromonas	322.86	5.67	Peptide ABC transporter, permease component
+PGF_00734482	Psychromonas	885.62	3.62	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00734751	Psychromonas	165.86	8.17	Cytochrome c heme lyase subunit CcmL
+PGF_00743561	Psychromonas	203.43	3.26	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)
+PGF_00777371	Psychromonas	234.57	1.51	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00777996	Psychromonas	231.00	0.00	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00827555	Psychromonas	816.00	72.55	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00846351	Psychromonas	156.29	0.76	Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8) / Macrophage infectivity potentiator
+PGF_00900256	Psychromonas	425.00	0.00	Threonine synthase (EC 4.2.3.1)
+PGF_00908360	Psychromonas	259.62	1.51	Phospholipid ABC transporter permease protein MlaE
+PGF_00912265	Psychromonas	321.62	4.69	tRNA-dihydrouridine synthase DusB
+PGF_00922738	Psychromonas	291.86	7.20	Acyl-CoA thioesterase II (EC 3.1.2.-)
+PGF_00924816	Psychromonas	248.25	3.28	Thiol:disulfide interchange protein DsbC
+PGF_00926109	Psychromonas	500.11	176.05	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00932281	Psychromonas	180.29	0.49	putative nucleoprotein/polynucleotide-associated enzyme
+PGF_00950554	Psychromonas	604.71	219.51	Excinuclease ABC subunit B
+PGF_00955412	Psychromonas	238.00	26.94	Probable iron export permease protein FetB
+PGF_00957419	Psychromonas	151.14	3.72	Putative pre-16S rRNA nuclease Yqg
+PGF_00973394	Psychromonas	159.12	6.64	Phospholipid ABC transporter substrate-binding protein MlaD
+PGF_01008556	Psychromonas	247.29	1.89	Flagellar basal-body rod protein FlgF
+PGF_01040342	Psychromonas	569.29	4.61	Spermidine synthase (EC 2.5.1.16)
+PGF_01052295	Psychromonas	361.00	4.93	Lipopolysaccharide export system permease protein LptF
+PGF_01058419	Psychromonas	1238.29	44.40	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+PGF_01079016	Psychromonas	303.14	1.68	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Psychromonas	801.86	9.35	Outer membrane protein assembly factor YaeT
+PGF_01101526	Psychromonas	455.00	9.43	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01124177	Psychromonas	389.71	4.68	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+PGF_01148336	Psychromonas	369.00	9.40	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_01174739	Psychromonas	246.00	0.00	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01175575	Psychromonas	635.00	0.00	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01176861	Psychromonas	75.75	10.35	Uncharacterized protein YpeB
+PGF_01181530	Psychromonas	116.29	0.76	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01220614	Psychromonas	247.00	0.00	RNA methyltransferase, TrmH family
+PGF_01223569	Psychromonas	153.86	5.67	ATP synthase F0 sector subunit b (EC 3.6.3.14)
+PGF_01291803	Psychromonas	323.14	1.95	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01296193	Psychromonas	259.14	9.67	Chromosome (plasmid) partitioning protein ParA
+PGF_01325304	Psychromonas	228.00	0.00	Molybdenum ABC transporter permease protein ModB
+PGF_01351158	Psychromonas	1159.38	1.60	Transcription-repair coupling factor
+PGF_01389077	Psychromonas	123.00	8.77	Uncharacterized protein YbcJ
+PGF_01421534	Psychromonas	205.86	3.39	LSU ribosomal protein L25p
+PGF_01423501	Psychromonas	159.14	0.38	Transcription elongation factor GreA
+PGF_01448031	Psychromonas	101.43	0.79	Integration host factor alpha subunit
+PGF_01466742	Psychromonas	421.86	11.48	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01466819	Psychromonas	637.00	365.32	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01483460	Psychromonas	354.14	0.38	Lipopolysaccharide export system permease protein LptG
+PGF_01483918	Psychromonas	270.00	0.00	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+PGF_01484108	Psychromonas	211.14	0.69	Electron transport complex protein RnfG
+PGF_01529260	Psychromonas	155.57	2.94	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+PGF_01555804	Psychromonas	129.75	6.23	Flagellar basal-body rod protein FlgB
+PGF_01602421	Psychromonas	231.38	1.06	Flagellar basal-body rod modification protein FlgD
+PGF_01625234	Psychromonas	315.71	0.49	Thioredoxin reductase (EC 1.8.1.9)
+PGF_01668012	Psychromonas	291.25	12.28	Sulfur carrier protein FdhD
+PGF_01668974	Psychromonas	788.57	19.92	DNA internalization-related competence protein ComEC/Rec2
+PGF_01678333	Psychromonas	350.29	0.49	Electron transport complex protein RnfD
+PGF_01683258	Psychromonas	231.14	8.41	DNA recombination and repair protein RecO
+PGF_01734668	Psychromonas	214.00	0.00	Adenylate kinase (EC 2.7.4.3)
+PGF_01737397	Psychromonas	286.43	3.74	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01737958	Psychromonas	236.50	2.78	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+PGF_01748119	Psychromonas	135.88	4.02	Sulfur acceptor protein => sulfur transfer pathway protein CsdE
+PGF_01767297	Psychromonas	365.00	16.37	Uncharacterized UPF0118 membrane protein
+PGF_01777142	Psychromonas	218.38	5.93	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01782190	Psychromonas	229.14	13.85	3-deoxy-D-manno-octulosonic acid kinase (EC 2.7.1.-)
+PGF_01810305	Psychromonas	190.50	8.43	Uncharacterized protein YjaG
+PGF_01853493	Psychromonas	277.00	1.41	Dihydropteroate synthase (EC 2.5.1.15)
+PGF_01877133	Psychromonas	415.00	0.00	Molybdopterin molybdenumtransferase (EC 2.10.1.1)
+PGF_01888177	Psychromonas	144.43	6.95	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01898497	Psychromonas	212.43	3.78	Endonuclease III (EC 4.2.99.18)
+PGF_01900746	Psychromonas	405.29	12.04	Murein hydrolase activator EnvC
+PGF_01900807	Psychromonas	274.43	3.41	Aminodeoxychorismate lyase (EC 4.1.3.38)
+PGF_01920828	Psychromonas	263.38	3.34	HesA/MoeB/ThiF family protein => sulfur transfer pathway protein CsdL
+PGF_01921605	Psychromonas	634.25	6.27	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01922580	Psychromonas	388.50	39.86	2-polyprenylphenol hydroxylase
+PGF_01937476	Psychromonas	720.29	0.49	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01985478	Psychromonas	370.71	4.46	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+PGF_01994657	Psychromonas	438.71	9.39	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Psychromonas	255.71	3.40	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Psychromonas	326.00	0.00	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029456	Psychromonas	330.71	12.41	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+PGF_02029783	Psychromonas	387.57	0.79	GTP-binding protein Obg
+PGF_02061452	Psychromonas	375.57	3.05	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02111888	Psychromonas	314.00	0.00	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02186693	Psychromonas	378.29	1.89	Flagellar biosynthesis protein FlhB
+PGF_02213182	Psychromonas	68.00	0.00	Cytochrome c-type biogenesis protein CcmD, interacts with CcmCE
+PGF_02214779	Psychromonas	924.43	2.51	Signal transduction histidine-protein kinase BarA (EC 2.7.13.3)
+PGF_02226715	Psychromonas	692.14	5.67	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02239244	Psychromonas	369.29	0.49	hypothetical protein
+PGF_02247058	Psychromonas	275.62	1.51	3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)
+PGF_02268482	Psychromonas	255.00	0.00	Putative glutamine amidotransferase YafJ
+PGF_02286202	Psychromonas	328.38	3.66	General secretion pathway protein K
+PGF_02321088	Psychromonas	184.43	1.13	FIG023103: Predicted transmembrane protein
+PGF_02346669	Psychromonas	306.86	11.98	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Psychromonas	869.86	3.63	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02369559	Psychromonas	933.00	4.12	DNA polymerase I (EC 2.7.7.7)
+PGF_02382338	Psychromonas	262.71	0.49	Inner membrane protein YpjD
+PGF_02386652	Psychromonas	170.50	2.93	Ribonuclease E inhibitor RraA
+PGF_02463284	Psychromonas	199.14	0.69	Recombination protein RecR
+PGF_02473679	Psychromonas	562.14	0.90	Type IV fimbrial assembly, ATPase PilB
+PGF_02489591	Psychromonas	193.29	3.73	Uncharacterized Nudix hydrolase NudL
+PGF_02515882	Psychromonas	409.86	0.38	Aspartokinase (EC 2.7.2.4)
+PGF_02516909	Psychromonas	433.43	1.81	Enolase (EC 4.2.1.11)
+PGF_02517984	Psychromonas	59.57	0.53	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518965	Psychromonas	221.29	3.95	Regulatory protein RecX
+PGF_02592886	Psychromonas	257.12	15.89	Flagellar biosynthesis protein FliR
+PGF_02611620	Psychromonas	466.00	0.00	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02619970	Psychromonas	93.71	4.57	Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+PGF_02623406	Psychromonas	294.57	32.22	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Psychromonas	1406.00	0.00	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02728524	Psychromonas	767.88	257.82	DNA mismatch repair protein MutS
+PGF_02746016	Psychromonas	226.43	2.76	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02787494	Psychromonas	226.00	0.00	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02789532	Psychromonas	276.00	2.31	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Psychromonas	239.86	3.63	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Psychromonas	459.00	10.02	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Psychromonas	1344.50	0.76	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02844091	Psychromonas	235.43	20.03	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Psychromonas	402.12	0.99	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02878423	Psychromonas	117.71	31.81	hypothetical protein
+PGF_02883702	Psychromonas	366.71	2.14	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02898176	Psychromonas	228.00	0.00	Methionine ABC transporter permease protein
+PGF_02899131	Psychromonas	63.00	0.00	LSU ribosomal protein L29p (L35e)
+PGF_02903959	Psychromonas	529.71	5.22	Bis-ABC ATPase SO_2525
+PGF_02907443	Psychromonas	189.00	0.00	FIG001590: Putative conserved exported protein precursor
+PGF_02923127	Psychromonas	250.43	7.02	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Psychromonas	325.62	1.69	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02936332	Psychromonas	293.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02936973	Psychromonas	394.43	23.63	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+PGF_02938730	Psychromonas	331.75	0.71	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02946231	Psychromonas	556.00	0.00	SSU ribosomal protein S1p
+PGF_02947204	Psychromonas	540.75	2.66	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Psychromonas	266.00	10.58	Septum site-determining protein MinD
+PGF_02959749	Psychromonas	355.38	39.76	Ribonuclease D (EC 3.1.26.3)
+PGF_02996778	Psychromonas	714.86	6.15	Enoyl-CoA hydratase (EC 4.2.1.17) / Delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase (EC 5.3.3.8) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_02997723	Psychromonas	153.29	2.56	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_02998943	Psychromonas	185.00	1.07	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03006190	Psychromonas	380.88	93.07	2-polyprenyl-6-methoxyphenol hydroxylase
+PGF_03011092	Psychromonas	298.00	0.00	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_03029859	Psychromonas	636.00	2.52	Bis-ABC ATPase Uup
+PGF_03048606	Psychromonas	267.00	8.64	hypothetical protein
+PGF_03049877	Psychromonas	199.00	0.00	Lipoprotein YcfM, part of a salvage pathway of unknown substrate
+PGF_03050951	Psychromonas	262.12	27.24	Transcriptional regulator
+PGF_03051317	Psychromonas	230.29	3.09	hypothetical protein
+PGF_03051354	Psychromonas	104.88	30.27	hypothetical protein
+PGF_03051420	Psychromonas	288.14	0.38	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_03051422	Psychromonas	129.38	3.74	hypothetical protein
+PGF_03051438	Psychromonas	417.14	8.13	hypothetical protein
+PGF_03051477	Psychromonas	326.14	21.02	hypothetical protein
+PGF_03051525	Psychromonas	103.86	1.35	hypothetical protein
+PGF_03051533	Psychromonas	217.14	5.93	hypothetical protein
+PGF_03051540	Psychromonas	472.57	8.52	hypothetical protein
+PGF_03057384	Psychromonas	336.00	0.00	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03066520	Psychromonas	413.00	0.00	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+PGF_03069524	Psychromonas	77.62	0.74	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03074362	Psychromonas	379.86	0.38	Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+PGF_03081665	Psychromonas	180.29	0.49	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03122066	Psychromonas	142.00	19.86	Protein YaiI
+PGF_03144011	Psychromonas	164.43	1.72	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03146406	Psychromonas	588.00	0.00	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+PGF_03172904	Psychromonas	273.71	11.94	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Psychromonas	182.38	0.74	Transcription antitermination protein NusG
+PGF_03217584	Psychromonas	381.00	3.11	Probable 3-phenylpropionic acid transporter
+PGF_03222913	Psychromonas	139.00	0.00	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03225027	Psychromonas	97.29	1.70	UPF0125 protein RatB
+PGF_03257845	Psychromonas	208.88	0.35	SOS-response repressor and protease LexA (EC 3.4.21.88)
+PGF_03272313	Psychromonas	839.50	190.57	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277417	Psychromonas	344.00	0.00	Methionine ABC transporter ATP-binding protein
+PGF_03334198	Psychromonas	1983.33	1084.22	omega-3 polyunsaturated fatty acid synthase subunit, PfaA
+PGF_03348849	Psychromonas	92.50	7.60	Uncharacterized protein YqiC
+PGF_03400333	Psychromonas	326.38	0.52	Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)
+PGF_03421722	Psychromonas	440.57	12.19	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+PGF_03429638	Psychromonas	286.75	1.39	33 kDa chaperonin HslO
+PGF_03439690	Psychromonas	141.12	0.64	Ferric uptake regulation protein FUR
+PGF_03439827	Psychromonas	472.00	0.00	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03441339	Psychromonas	306.86	13.61	Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)
+PGF_03470321	Psychromonas	146.43	37.51	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03507290	Psychromonas	405.86	18.68	Serine/threonine:Na+ symporter SstT
+PGF_03518570	Psychromonas	143.50	0.93	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03609651	Psychromonas	681.57	9.34	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Psychromonas	160.00	0.00	UPF0234 protein Yitk
+PGF_03701810	Psychromonas	327.71	1.89	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03708253	Psychromonas	126.00	0.00	Protein translocase subunit SecE
+PGF_03723827	Psychromonas	152.00	0.00	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729040	Psychromonas	161.14	4.18	DNA polymerase III chi subunit (EC 2.7.7.7)
+PGF_03729141	Psychromonas	213.00	10.69	UPF0301 protein YqgE
+PGF_03750600	Psychromonas	160.29	0.76	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751823	Psychromonas	205.71	4.64	Heat shock protein GrpE
+PGF_03752544	Psychromonas	235.29	1.70	Phosphate transport system regulatory protein PhoU
+PGF_03753122	Psychromonas	298.88	0.64	Site-specific tyrosine recombinase XerC
+PGF_03760224	Psychromonas	215.38	50.09	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03768099	Psychromonas	285.88	4.58	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03777189	Psychromonas	181.62	1.51	Protein YrdA
+PGF_03778780	Psychromonas	411.86	105.91	Signal recognition particle receptor FtsY
+PGF_03787199	Psychromonas	183.71	2.06	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03787622	Psychromonas	360.14	11.68	DNA polymerase IV (EC 2.7.7.7)
+PGF_03790040	Psychromonas	228.29	2.36	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Psychromonas	274.00	0.00	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Psychromonas	70.25	0.46	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03810089	Psychromonas	510.75	3.69	General secretion pathway protein E
+PGF_03811469	Psychromonas	466.75	57.01	Sodium:alanine symporter family protein
+PGF_03825991	Psychromonas	579.29	4.96	PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+PGF_03828790	Psychromonas	92.14	7.10	UPF0235 protein VC0458
+PGF_03830530	Psychromonas	109.57	1.51	hypothetical protein
+PGF_03835760	Psychromonas	407.56	42.39	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03862500	Psychromonas	200.29	2.98	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03875137	Psychromonas	521.57	3.10	Tetracycline resistance, MFS efflux pump => Tet(35)
+PGF_03939966	Psychromonas	100.57	4.28	hypothetical protein
+PGF_03954476	Psychromonas	253.11	82.71	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03960810	Psychromonas	244.62	1.51	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+PGF_04005838	Psychromonas	420.12	0.35	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04009106	Psychromonas	149.38	0.74	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_04016408	Psychromonas	466.43	6.27	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04019834	Psychromonas	347.62	2.00	16S rRNA (guanine(1207)-N(2))-methyltransferase (EC 2.1.1.172)
+PGF_04034430	Psychromonas	71.00	0.00	SSU ribosomal protein S21p
+PGF_04041316	Psychromonas	943.71	2.81	Excinuclease ABC subunit A
+PGF_04108994	Psychromonas	494.86	20.67	Inorganic triphosphatase (EC 3.6.1.25)
+PGF_04151476	Psychromonas	167.75	23.90	16S rRNA processing protein RimM
+PGF_04163139	Psychromonas	238.00	29.27	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
+PGF_04182459	Psychromonas	225.43	1.51	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04217145	Psychromonas	885.14	4.78	Acetaldehyde dehydrogenase (EC 1.2.1.10) / Alcohol dehydrogenase (EC 1.1.1.1)
+PGF_04217548	Psychromonas	695.86	14.55	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)
+PGF_04275878	Psychromonas	242.00	0.00	DnaA inactivator Hda (shorter homolog of DnaA)
+PGF_04315180	Psychromonas	158.00	4.58	Protein-export protein SecB (maintains pre-export unfolded state)
+PGF_04317665	Psychromonas	160.00	6.19	hypothetical protein
+PGF_04345693	Psychromonas	450.14	5.81	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04359199	Psychromonas	673.50	15.16	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
+PGF_04457297	Psychromonas	202.88	12.02	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04475011	Psychromonas	200.00	0.00	Cytochrome c4
+PGF_04502464	Psychromonas	642.86	9.04	DNA topoisomerase III (EC 5.99.1.2)
+PGF_04505269	Psychromonas	240.29	9.43	SSU ribosomal protein S2p (SAe)
+PGF_04569524	Psychromonas	513.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04608820	Psychromonas	642.29	6.63	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04630848	Psychromonas	156.29	1.25	Cytochrome c-type biogenesis protein CcmE, heme chaperone
+PGF_04636538	Psychromonas	91.00	0.00	DNA-binding protein HU-beta
+PGF_04660832	Psychromonas	171.86	8.57	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04667681	Psychromonas	357.62	123.29	Alanine transaminase (EC 2.6.1.2)
+PGF_04687504	Psychromonas	465.50	1.07	Nitrogen regulation protein NR(I), GlnG (=NtrC)
+PGF_04695681	Psychromonas	259.12	0.35	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04788810	Psychromonas	191.57	4.16	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Psychromonas	307.57	3.21	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Psychromonas	117.12	1.25	LSU ribosomal protein L19p
+PGF_04962192	Psychromonas	836.71	11.86	3'-to-5' exoribonuclease RNase R
+PGF_04970608	Psychromonas	91.00	0.00	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Psychromonas	103.00	0.00	LSU ribosomal protein L21p
+PGF_05022117	Psychromonas	530.57	7.85	Bis-ABC ATPase YbiT
+PGF_05111929	Psychromonas	575.38	2.07	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05117712	Psychromonas	948.43	3.51	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_05135220	Psychromonas	855.12	13.45	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05182506	Psychromonas	210.50	4.24	Hypothetical metal-binding enzyme, YcbL homolog
+PGF_05195027	Psychromonas	465.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05255412	Psychromonas	426.00	9.52	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Psychromonas	393.00	103.44	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05299528	Psychromonas	428.14	1.57	ATP-dependent RNA helicase RhlE
+PGF_05338234	Psychromonas	287.00	0.00	Protein YicC
+PGF_05421852	Psychromonas	634.29	0.49	Chaperone protein HtpG
+PGF_05463808	Psychromonas	263.86	92.98	NAD kinase (EC 2.7.1.23)
+PGF_05507938	Psychromonas	631.43	25.19	DNA mismatch repair protein MutL
+PGF_05581732	Psychromonas	429.86	32.13	Protein translocase subunit SecY
+PGF_05598173	Psychromonas	378.71	1.50	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05622318	Psychromonas	421.88	1.73	Serine hydroxymethyltransferase (EC 2.1.2.1)
+PGF_05657253	Psychromonas	190.22	63.24	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+PGF_05693577	Psychromonas	95.00	0.00	Integration host factor beta subunit
+PGF_05714136	Psychromonas	115.29	1.50	FIG138056: a glutathione-dependent thiol reductase
+PGF_05847461	Psychromonas	314.43	0.98	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05872952	Psychromonas	253.57	13.54	Outer membrane beta-barrel assembly protein BamD
+PGF_05964592	Psychromonas	631.29	1.80	Acyl-CoA dehydrogenase
+PGF_05971611	Psychromonas	407.88	4.19	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_06000040	Psychromonas	409.43	0.98	Type IV fimbrial assembly protein PilC
+PGF_06005188	Psychromonas	629.00	0.00	Topoisomerase IV subunit B (EC 5.99.1.-)
+PGF_06025565	Psychromonas	306.62	0.52	Uncharacterized ABC transporter ATP-binding protein YadG
+PGF_06053106	Psychromonas	278.71	10.03	RNA polymerase sigma factor RpoH
+PGF_06061522	Psychromonas	115.14	23.43	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_06111528	Psychromonas	393.43	7.02	Epoxyqueuosine reductase (EC 1.17.99.6)
+PGF_06120144	Psychromonas	145.00	0.00	Ribosome association toxin RatA
+PGF_06150781	Psychromonas	458.29	9.83	ATP-dependent 23S rRNA helicase DbpA
+PGF_06152571	Psychromonas	231.29	75.15	Sulfate transporter, CysZ-type
+PGF_06180597	Psychromonas	142.00	0.00	LSU ribosomal protein L13p (L13Ae)
+PGF_06189158	Psychromonas	107.86	8.80	Monothiol glutaredoxin GrxD
+PGF_06315406	Psychromonas	419.12	0.35	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06326847	Psychromonas	247.38	1.30	Flagellar biosynthesis protein FliP
+PGF_06348872	Psychromonas	638.33	80.11	General secretion pathway protein D
+PGF_06379377	Psychromonas	440.78	1.72	Replication-associated recombination protein RarA
+PGF_06403579	Psychromonas	786.14	2.61	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06469881	Psychromonas	338.12	11.26	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06481545	Psychromonas	470.00	12.64	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+PGF_06495818	Psychromonas	243.38	12.33	Molybdenum ABC transporter, substrate-binding protein ModA
+PGF_06530721	Psychromonas	217.11	69.26	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Psychromonas	109.67	22.85	Fluoride ion transporter CrcB
+PGF_06589185	Psychromonas	592.00	1.83	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+PGF_06635957	Psychromonas	361.75	17.38	Lysophospholipase L2 (EC 3.1.1.5)
+PGF_06644010	Psychromonas	305.50	8.40	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06660812	Psychromonas	205.00	1.91	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+PGF_06693963	Psychromonas	109.29	0.49	Nucleoid-associated protein YaaK
+PGF_06706859	Psychromonas	172.44	4.45	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation
+PGF_06718352	Psychromonas	154.43	0.98	Cys-tRNA(Pro) deacylase YbaK
+PGF_06755829	Psychromonas	341.71	4.82	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06757295	Psychromonas	512.71	3.30	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+PGF_06949599	Psychromonas	826.29	4.27	ATP-dependent helicase HrpB
+PGF_07072582	Psychromonas	614.43	2.37	RNA polymerase sigma factor RpoD
+PGF_07101513	Psychromonas	129.12	3.83	Flagellar motor switch protein FliN
+PGF_07344415	Psychromonas	189.43	0.53	Intracellular septation protein IspA
+PGF_07370370	Psychromonas	473.50	7.62	Voltage-gated H(+)/2Cl(-) exchange transporter ClcA
+PGF_08044951	Psychromonas	244.75	0.46	Oxidoreductase, short-chain dehydrogenase/reductase family
+PGF_08059428	Psychromonas	88.71	1.60	Cell division topological specificity factor MinE
+PGF_08061357	Psychromonas	115.12	2.64	Iron-sulfur cluster insertion protein ErpA
+PGF_08074580	Psychromonas	364.00	89.80	Lipoprotein releasing system transmembrane protein LolC
+PGF_08177814	Psychromonas	363.33	95.88	Lipoprotein releasing system transmembrane protein LolE
+PGF_08187921	Psychromonas	161.71	2.93	hypothetical protein
+PGF_08196280	Psychromonas	244.57	8.20	Two-component transcriptional response regulator, LuxR family

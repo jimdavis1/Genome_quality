@@ -1,0 +1,977 @@
+PGF_00000134	Streptacidiphilus	870.73	8.68	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1 / 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2
+PGF_00000261	Streptacidiphilus	339.09	114.32	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00000350	Streptacidiphilus	201.55	10.20	FIG007808: N-acetyltransferase
+PGF_00000416	Streptacidiphilus	293.82	15.61	A/G-specific adenine glycosylase (EC 3.2.2.-)
+PGF_00000494	Streptacidiphilus	204.91	18.87	FIG00816212: Putative membrane protein
+PGF_00000568	Streptacidiphilus	116.09	16.86	FIG00820327: hypothetical protein
+PGF_00000760	Streptacidiphilus	347.60	51.60	ABC alpha-glucoside transporter, inner membrane subunit AglF
+PGF_00001331	Streptacidiphilus	210.18	14.93	Endonuclease NucS
+PGF_00001344	Streptacidiphilus	288.00	5.53	FIG00999917: Enoyl-CoA hydratase
+PGF_00001797	Streptacidiphilus	357.91	12.34	FIG01121145: hypothetical protein
+PGF_00001849	Streptacidiphilus	156.64	11.62	FIG01122152: hypothetical protein
+PGF_00001864	Streptacidiphilus	139.18	31.78	FIG01123040: hypothetical protein
+PGF_00002542	Streptacidiphilus	130.00	2.94	FIG017342: transmembrane protein
+PGF_00002587	Streptacidiphilus	178.00	2.05	FIG019327: membrane domain
+PGF_00002839	Streptacidiphilus	655.36	5.12	Efflux ABC transporter, permease/ATP-binding protein SCO2464
+PGF_00003179	Streptacidiphilus	186.09	1.58	FIG049476: HIT family protein
+PGF_00003409	Streptacidiphilus	646.09	5.54	FIG092679: Fe-S oxidoreductase
+PGF_00003491	Streptacidiphilus	152.82	12.66	FIG131131: hypothetical toxin
+PGF_00003506	Streptacidiphilus	170.73	17.84	FIG137478: Hypothetical protein
+PGF_00003516	Streptacidiphilus	286.27	6.51	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00004392	Streptacidiphilus	562.18	8.68	Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)
+PGF_00006046	Streptacidiphilus	407.18	14.35	Flp pilus assembly protein, ATPase CpaF
+PGF_00006100	Streptacidiphilus	330.73	7.21	tRNA-modifying protein YgfZ
+PGF_00006278	Streptacidiphilus	457.27	16.85	Formiminoglutamic iminohydrolase (EC 3.5.3.13)
+PGF_00006378	Streptacidiphilus	348.00	3.55	Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)
+PGF_00006394	Streptacidiphilus	339.00	3.32	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006461	Streptacidiphilus	466.91	9.98	Fumarate hydratase class II (EC 4.2.1.2)
+PGF_00006656	Streptacidiphilus	239.27	9.85	Futalosine hydrolase (EC 3.2.2.26)
+PGF_00006724	Streptacidiphilus	281.36	2.73	GCN5-related N-acetyltransferase, FIGfam019367
+PGF_00006935	Streptacidiphilus	528.82	11.91	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Streptacidiphilus	357.45	1.51	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Streptacidiphilus	484.82	4.83	GTP-binding protein EngA
+PGF_00007027	Streptacidiphilus	315.64	9.49	GTP-binding protein Era
+PGF_00007028	Streptacidiphilus	504.64	14.12	Ribosome LSU-associated GTP-binding protein HflX
+PGF_00007041	Streptacidiphilus	627.00	6.71	GTP-binding protein TypA/BipA
+PGF_00007085	Streptacidiphilus	391.82	6.63	Galactokinase (EC 2.7.1.6)
+PGF_00007120	Streptacidiphilus	378.73	9.24	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+PGF_00007162	Streptacidiphilus	450.50	8.38	Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
+PGF_00007304	Streptacidiphilus	281.55	5.61	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007533	Streptacidiphilus	433.27	5.08	Geranylgeranyl reductase (EC 1.3.1.83)
+PGF_00007534	Streptacidiphilus	431.82	10.23	Geranylgeranyl reductase (EC 1.3.1.83)
+PGF_00007558	Streptacidiphilus	757.00	23.40	Germacradienol/germacrene D synthase (EC 4.2.3.22)
+PGF_00007632	Streptacidiphilus	324.09	6.91	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00008024	Streptacidiphilus	330.27	7.88	Glucosyl-3-phosphoglycerate synthase (EC 2.4.1.266)
+PGF_00008051	Streptacidiphilus	488.73	13.59	16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)
+PGF_00008061	Streptacidiphilus	382.82	3.31	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+PGF_00008164	Streptacidiphilus	455.09	23.53	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008255	Streptacidiphilus	456.00	2.53	Glutamine synthetase family protein in hypothetical Actinobacterial gene cluster
+PGF_00008260	Streptacidiphilus	347.27	11.61	Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)
+PGF_00008334	Streptacidiphilus	440.73	6.87	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008541	Streptacidiphilus	257.45	2.98	Glycerol operon regulatory protein
+PGF_00008548	Streptacidiphilus	354.18	1.60	Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261)
+PGF_00008611	Streptacidiphilus	330.64	7.24	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008773	Streptacidiphilus	879.67	190.69	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+PGF_00008780	Streptacidiphilus	399.55	2.98	Glycine oxidase ThiO (EC 1.4.3.19)
+PGF_00008838	Streptacidiphilus	259.09	11.00	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00008872	Streptacidiphilus	892.27	14.14	Glycogen phosphorylase (EC 2.4.1.1)
+PGF_00009500	Streptacidiphilus	197.91	6.32	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009905	Streptacidiphilus	294.00	19.07	Efflux ABC transporter, permease protein
+PGF_00009966	Streptacidiphilus	460.91	1.04	Glycyl-tRNA synthetase (EC 6.1.1.14)
+PGF_00010161	Streptacidiphilus	591.27	1.49	Glyoxylate carboligase (EC 4.1.1.47)
+PGF_00010205	Streptacidiphilus	243.36	10.46	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010332	Streptacidiphilus	461.36	5.08	Guanine deaminase (EC 3.5.4.3)
+PGF_00010360	Streptacidiphilus	185.00	0.00	Guanylate kinase (EC 2.7.4.8)
+PGF_00010594	Streptacidiphilus	502.20	110.75	HEN1 C-terminal domain; double-stranded RNA 3'-methylase
+PGF_00011321	Streptacidiphilus	313.55	0.93	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+PGF_00011979	Streptacidiphilus	435.36	9.84	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00012264	Streptacidiphilus	359.36	7.99	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012340	Streptacidiphilus	419.45	11.18	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012346	Streptacidiphilus	343.36	19.89	Homoserine kinase (EC 2.7.1.39)
+PGF_00012356	Streptacidiphilus	313.27	9.77	Homoserine kinase (EC 2.7.1.39)
+PGF_00012430	Streptacidiphilus	163.27	15.84	HspR, transcriptional repressor of DnaK operon
+PGF_00013022	Streptacidiphilus	268.45	11.83	Hypothetical NagD-like phosphatase, Actinobacterial subfamily
+PGF_00013224	Streptacidiphilus	181.09	12.37	ADP-ribose pyrophosphatase
+PGF_00013283	Streptacidiphilus	246.73	8.03	UPF0001 protein YggS
+PGF_00013492	Streptacidiphilus	183.55	1.51	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+PGF_00013509	Streptacidiphilus	529.00	3.66	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013517	Streptacidiphilus	359.73	36.89	Rhomboid family protein
+PGF_00013803	Streptacidiphilus	200.27	3.17	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+PGF_00013804	Streptacidiphilus	384.09	11.40	Imidazolonepropionase (EC 3.5.2.7)
+PGF_00014051	Streptacidiphilus	272.91	11.36	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014264	Streptacidiphilus	390.45	34.78	Inner membrane protein translocase and chaperone YidC, short form OxaI-like
+PGF_00014314	Streptacidiphilus	371.36	1.96	Inosine-5'-monophosphate dehydrogenase, catalytic domain (EC 1.1.1.205)
+PGF_00014428	Streptacidiphilus	387.18	50.43	Integral membrane protein
+PGF_00014728	Streptacidiphilus	333.27	11.53	Integral membrane protein TerC
+PGF_00014855	Streptacidiphilus	284.18	10.23	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl
+PGF_00014951	Streptacidiphilus	230.00	14.69	Integration host factor beta subunit
+PGF_00015039	Streptacidiphilus	268.64	2.25	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Streptacidiphilus	82.09	1.64	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015216	Streptacidiphilus	271.18	0.40	ATP synthase delta chain (EC 3.6.3.14)
+PGF_00015259	Streptacidiphilus	303.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015357	Streptacidiphilus	463.36	80.86	Iron(II)-dependent oxidoreductase EgtB (hercynine sythase)
+PGF_00015467	Streptacidiphilus	257.64	87.62	Iron-dependent repressor IdeR/DtxR
+PGF_00015510	Streptacidiphilus	254.00	0.00	Iron-sulfur cluster assembly ATPase protein SufC
+PGF_00015514	Streptacidiphilus	470.27	0.90	Iron-sulfur cluster assembly protein SufB
+PGF_00015517	Streptacidiphilus	405.82	5.55	Iron-sulfur cluster assembly protein SufD
+PGF_00015543	Streptacidiphilus	260.27	9.33	Iron-sulfur cluster regulator SufR
+PGF_00015703	Streptacidiphilus	739.55	1.81	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Streptacidiphilus	1047.00	5.22	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015735	Streptacidiphilus	191.00	7.36	Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2)
+PGF_00015855	Streptacidiphilus	332.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016074	Streptacidiphilus	397.82	16.14	L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC (EC 6.3.1.13)
+PGF_00016124	Streptacidiphilus	405.27	10.46	L-gulono-1,4-lactone oxidase (EC 1.1.3.8)
+PGF_00016175	Streptacidiphilus	320.00	3.00	L-malyl-CoA/beta-methylmalyl-CoA lyase (EC 4.1.3.-), actinobacterial type
+PGF_00016284	Streptacidiphilus	268.18	15.06	LOG family protein
+PGF_00016328	Streptacidiphilus	188.00	4.15	LSU ribosomal protein L10p (P0)
+PGF_00016340	Streptacidiphilus	122.91	0.30	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Streptacidiphilus	151.00	0.00	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Streptacidiphilus	139.00	0.00	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Streptacidiphilus	153.82	11.69	LSU ribosomal protein L17p
+PGF_00016353	Streptacidiphilus	124.09	1.87	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Streptacidiphilus	240.00	0.00	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Streptacidiphilus	129.64	1.36	LSU ribosomal protein L20p
+PGF_00016360	Streptacidiphilus	319.36	5.87	1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase (EC 3.5.1.103)
+PGF_00016361	Streptacidiphilus	92.64	15.22	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Streptacidiphilus	100.27	9.72	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Streptacidiphilus	106.64	1.91	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Streptacidiphilus	111.91	4.16	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Streptacidiphilus	76.09	10.98	LSU ribosomal protein L27p
+PGF_00016387	Streptacidiphilus	107.36	40.15	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-dependent
+PGF_00016393	Streptacidiphilus	278.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016395	Streptacidiphilus	59.73	0.90	LSU ribosomal protein L30p (L7e)
+PGF_00016423	Streptacidiphilus	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016424	Streptacidiphilus	37.00	0.00	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent
+PGF_00016431	Streptacidiphilus	213.18	1.60	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Streptacidiphilus	225.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Streptacidiphilus	189.00	0.00	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Streptacidiphilus	172.64	7.31	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Streptacidiphilus	127.18	0.60	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Streptacidiphilus	148.27	0.90	LSU ribosomal protein L9p
+PGF_00016495	Streptacidiphilus	255.82	2.96	Lactam utilization protein LamB
+PGF_00016613	Streptacidiphilus	324.18	4.67	Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase (EC 2.7.8.28)
+PGF_00016824	Streptacidiphilus	774.91	9.18	ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog
+PGF_00016895	Streptacidiphilus	203.27	50.86	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system
+PGF_00017479	Streptacidiphilus	317.00	0.63	Lipoyl synthase (EC 2.8.1.8)
+PGF_00017544	Streptacidiphilus	555.91	3.78	CoA ligase @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD14
+PGF_00018560	Streptacidiphilus	453.36	9.31	Magnesium and cobalt efflux protein CorC
+PGF_00018956	Streptacidiphilus	329.27	0.90	Malate dehydrogenase (EC 1.1.1.37)
+PGF_00018964	Streptacidiphilus	543.82	11.60	Malate synthase (EC 2.3.3.9)
+PGF_00019051	Streptacidiphilus	657.00	244.21	Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141)
+PGF_00019284	Streptacidiphilus	832.82	1.17	Mannose-1-phosphate guanylyltransferase / Phosphomannomutase (EC 5.4.2.8)
+PGF_00020173	Streptacidiphilus	337.91	15.41	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020264	Streptacidiphilus	302.91	5.59	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020361	Streptacidiphilus	162.27	0.90	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020650	Streptacidiphilus	111.60	2.72	ATP/GTP-binding protein
+PGF_00020793	Streptacidiphilus	190.00	0.00	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+PGF_00020981	Streptacidiphilus	546.45	10.21	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+PGF_00021018	Streptacidiphilus	144.45	1.29	Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+PGF_00021022	Streptacidiphilus	741.60	8.50	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)
+PGF_00021023	Streptacidiphilus	614.10	33.51	Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)
+PGF_00021030	Streptacidiphilus	466.36	114.62	Methylphosphotriester-DNA--protein-cysteine S-methyltransferase (EC 2.1.1.n11) / DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_00021391	Streptacidiphilus	399.40	37.38	Mg-chelatase subunit ChlD
+PGF_00022029	Streptacidiphilus	91.82	0.40	MoaD/ThiS family protein clustered with threonine synthase
+PGF_00022507	Streptacidiphilus	175.36	3.80	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022722	Streptacidiphilus	374.55	6.07	Mrp protein homolog
+PGF_00023532	Streptacidiphilus	292.55	5.97	Mycothiol S-conjugate amidase Mca
+PGF_00023591	Streptacidiphilus	358.73	3.61	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+PGF_00023827	Streptacidiphilus	399.82	7.61	N-acetylmannosamine kinase (EC 2.7.1.60)
+PGF_00024204	Streptacidiphilus	416.18	5.83	N-formylglutamate deformylase (EC 3.5.1.68) [alternative form]
+PGF_00024234	Streptacidiphilus	371.09	10.19	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024264	Streptacidiphilus	352.17	6.69	N5,N10-methylenetetrahydromethanopterin reductase-related protein, SAV7403 family
+PGF_00024273	Streptacidiphilus	175.36	1.03	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024274	Streptacidiphilus	385.73	21.49	N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)
+PGF_00024308	Streptacidiphilus	278.27	6.63	NAD synthetase (EC 6.3.1.5)
+PGF_00024309	Streptacidiphilus	586.82	2.04	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+PGF_00024567	Streptacidiphilus	398.60	11.65	Acetate kinase (EC 2.7.2.1)
+PGF_00024615	Streptacidiphilus	320.27	10.56	NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA
+PGF_00024692	Streptacidiphilus	275.18	17.81	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+PGF_00024712	Streptacidiphilus	200.18	18.08	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_00024983	Streptacidiphilus	608.45	3.08	NHL repeat containing protein
+PGF_00025068	Streptacidiphilus	293.00	23.01	NTP pyrophosphohydrolases including oxidative damage repair enzymes
+PGF_00025215	Streptacidiphilus	174.00	0.00	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025344	Streptacidiphilus	545.55	3.01	Na+/solute symporter
+PGF_00025554	Streptacidiphilus	131.00	0.00	Nickel-dependent superoxide dismutase (EC 1.15.1.1)
+PGF_00025562	Streptacidiphilus	197.18	0.60	Nicotinamidase (EC 3.5.1.19)
+PGF_00025600	Streptacidiphilus	446.73	15.42	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+PGF_00025616	Streptacidiphilus	406.00	15.03	Acetyl-CoA acetyltransferase
+PGF_00025623	Streptacidiphilus	370.00	23.00	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00025639	Streptacidiphilus	388.09	3.02	Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+PGF_00025969	Streptacidiphilus	717.80	0.92	Acetyl-CoA synthetase
+PGF_00026193	Streptacidiphilus	289.00	2.49	Non functional Dihydropteroate synthase 2
+PGF_00026286	Streptacidiphilus	138.80	2.20	NovD
+PGF_00026362	Streptacidiphilus	203.00	3.90	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026409	Streptacidiphilus	353.09	13.90	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+PGF_00029114	Streptacidiphilus	372.45	6.88	PAS/PAC sensor signal transduction histidine kinase
+PGF_00029552	Streptacidiphilus	149.09	0.30	PTS system, N-acetylglucosamine-specific IIA component (EC 2.7.1.193)
+PGF_00029917	Streptacidiphilus	288.91	18.35	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00029921	Streptacidiphilus	326.36	6.74	Pantothenate kinase (EC 2.7.1.33)
+PGF_00030640	Streptacidiphilus	357.73	0.79	Peptide chain release factor 1
+PGF_00030643	Streptacidiphilus	538.50	4.74	Peptide chain release factor 3
+PGF_00031663	Streptacidiphilus	415.70	16.26	Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE33
+PGF_00033095	Streptacidiphilus	840.09	1.14	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033327	Streptacidiphilus	387.36	3.01	Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
+PGF_00033328	Streptacidiphilus	375.82	17.56	Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
+PGF_00033359	Streptacidiphilus	360.18	9.90	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033390	Streptacidiphilus	611.09	4.85	Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)
+PGF_00033392	Streptacidiphilus	924.00	7.04	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+PGF_00033511	Streptacidiphilus	408.55	10.90	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033877	Streptacidiphilus	169.64	3.44	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033924	Streptacidiphilus	90.09	1.87	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Streptacidiphilus	412.82	11.10	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Streptacidiphilus	303.55	5.01	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033950	Streptacidiphilus	244.64	2.46	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) @ Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033954	Streptacidiphilus	360.09	3.02	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Streptacidiphilus	226.64	1.21	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Streptacidiphilus	751.36	1.21	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033987	Streptacidiphilus	363.82	18.62	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034349	Streptacidiphilus	88.27	4.43	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative
+PGF_00034491	Streptacidiphilus	167.18	0.60	Pleiotropic negative regulator for morphological and physiological development in Streptomyces, BldD
+PGF_00034776	Streptacidiphilus	738.27	1.49	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Streptacidiphilus	186.00	10.67	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Streptacidiphilus	329.36	3.07	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035514	Streptacidiphilus	395.09	19.16	Adenylate cyclase (EC 4.6.1.1)
+PGF_00035721	Streptacidiphilus	476.00	0.00	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035948	Streptacidiphilus	462.36	12.39	Predicted hydroxymethylpyrimidine transporter CytX
+PGF_00036543	Streptacidiphilus	533.82	15.46	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+PGF_00036580	Streptacidiphilus	155.09	4.93	Protein translocase subunit YajC
+PGF_00036800	Streptacidiphilus	362.50	2.37	Probable GTPase related to EngC
+PGF_00037269	Streptacidiphilus	656.18	10.20	2-Amino-2-deoxy-isochorismate synthase (EC 4.1.3.-)
+PGF_00037340	Streptacidiphilus	314.27	1.68	Probable short-chain type dehydrogenase/reductase (EC 1.-.-.-)
+PGF_00037510	Streptacidiphilus	75.73	9.48	Prokaryotic ubiquitin-like protein Pup
+PGF_00037586	Streptacidiphilus	469.55	1.51	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+PGF_00037620	Streptacidiphilus	319.73	0.47	Alcohol dehydrogenase
+PGF_00038267	Streptacidiphilus	561.20	3.99	Phenylacetic acid degradation protein PaaN2, ring-opening aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_00038555	Streptacidiphilus	461.82	4.07	Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster
+PGF_00038579	Streptacidiphilus	109.18	1.17	Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+PGF_00038674	Streptacidiphilus	376.73	5.61	Protein translocase subunit SecF
+PGF_00038796	Streptacidiphilus	78.91	0.30	Protein translocase membrane subunit SecG
+PGF_00038897	Streptacidiphilus	326.55	0.52	Aldo/keto reductase, SCO1670 family
+PGF_00038901	Streptacidiphilus	637.91	105.27	Pseudokinase domain in MviN
+PGF_00038969	Streptacidiphilus	502.91	2.47	Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'
+PGF_00038986	Streptacidiphilus	286.27	13.51	Purine nucleoside phosphorylase (EC 2.4.2.1)
+PGF_00039171	Streptacidiphilus	461.70	13.98	Putative C1 regulatory protein
+PGF_00039252	Streptacidiphilus	188.27	29.08	Transcriptional regulator, Xre-family with cupin domain
+PGF_00039287	Streptacidiphilus	751.91	214.69	Putative DNA-binding protein
+PGF_00039325	Streptacidiphilus	68.00	0.00	Putative DNA-binding protein
+PGF_00039341	Streptacidiphilus	813.30	3.50	Putative Dimethylglycine oxidase
+PGF_00040437	Streptacidiphilus	424.36	7.66	Putative cryptic D-serine deaminase (EC 4.3.1.18)
+PGF_00040578	Streptacidiphilus	287.82	30.93	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040702	Streptacidiphilus	414.64	33.57	Alkanal monooxygenase alpha chain (EC 1.14.14.3)
+PGF_00041119	Streptacidiphilus	440.64	9.30	Putative glycosyltransferase
+PGF_00041127	Streptacidiphilus	350.64	12.10	Putative glycosyltransferase
+PGF_00041431	Streptacidiphilus	321.09	12.70	Putative hydrolase
+PGF_00041488	Streptacidiphilus	365.00	1.95	Putative hydrolase SCO1113
+PGF_00041743	Streptacidiphilus	263.91	5.74	Efflux ABC transporter, permease protein
+PGF_00041788	Streptacidiphilus	150.64	1.21	Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+PGF_00042294	Streptacidiphilus	551.00	15.67	Putative methyltransferase SCO3545
+PGF_00042680	Streptacidiphilus	230.18	5.67	Putative oxidoreductase
+PGF_00042748	Streptacidiphilus	317.73	19.59	Putative oxidoreductase
+PGF_00042801	Streptacidiphilus	299.00	2.04	Putative oxidoreductase
+PGF_00043212	Streptacidiphilus	870.80	11.34	Putative phosphatase
+PGF_00043224	Streptacidiphilus	215.27	1.42	Putative phosphatase YieH
+PGF_00043467	Streptacidiphilus	856.55	42.21	Uncharacterized, RsbU-domain-containing protein SCO5104
+PGF_00043592	Streptacidiphilus	542.36	59.40	Putative regulatory protein
+PGF_00043769	Streptacidiphilus	412.27	1.62	Allantoicase (EC 3.5.3.4)
+PGF_00043799	Streptacidiphilus	466.64	33.97	Putative response regulator
+PGF_00043931	Streptacidiphilus	488.08	121.54	Allantoinase (EC 3.5.2.5)
+PGF_00043962	Streptacidiphilus	263.45	3.50	Putative short-chain dehydrogenase
+PGF_00043984	Streptacidiphilus	296.73	2.87	Short-chain dehydrogenase/reductase
+PGF_00044310	Streptacidiphilus	532.42	18.06	Putative symporter YjcG
+PGF_00044777	Streptacidiphilus	519.00	22.61	Putative transmembrane protein
+PGF_00045522	Streptacidiphilus	233.36	4.92	Two-component system response regulator protein
+PGF_00045609	Streptacidiphilus	293.27	33.08	Short-chain type dehydrogenase/reductase
+PGF_00045738	Streptacidiphilus	309.18	2.99	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+PGF_00045787	Streptacidiphilus	205.36	4.18	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)
+PGF_00045926	Streptacidiphilus	426.73	1.19	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)
+PGF_00045941	Streptacidiphilus	809.91	16.39	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+PGF_00045982	Streptacidiphilus	916.00	0.00	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+PGF_00046101	Streptacidiphilus	322.00	6.43	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Streptacidiphilus	398.64	3.59	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046188	Streptacidiphilus	335.00	18.77	RIO1/ZK632.3/MJ0444 family protein
+PGF_00046430	Streptacidiphilus	204.60	10.81	RNA polymerase sigma-70 factor
+PGF_00046597	Streptacidiphilus	166.82	8.92	RNA polymerase-binding transcription factor DksA
+PGF_00047078	Streptacidiphilus	383.64	8.88	RecA protein
+PGF_00047088	Streptacidiphilus	120.45	3.72	RecA/RadA recombinase
+PGF_00047092	Streptacidiphilus	298.64	23.40	RecB family exonuclease
+PGF_00047094	Streptacidiphilus	700.18	49.43	RecD-like DNA helicase YrrC
+PGF_00047095	Streptacidiphilus	745.64	8.71	RecD-like DNA helicase YrrC
+PGF_00047155	Streptacidiphilus	278.82	16.22	Redox-sensing transcriptional repressor Rex
+PGF_00047479	Streptacidiphilus	445.36	18.07	Related to HTH domain of SpoOJ/ParA/ParB/repB family, involved in chromosome partitioning
+PGF_00047642	Streptacidiphilus	114.27	3.26	Repressor CsoR of the copZA operon
+PGF_00047906	Streptacidiphilus	309.10	12.33	Alpha-glucoside transport system permease protein AglG
+PGF_00048398	Streptacidiphilus	132.55	6.12	Rhodanese-related sulfurtransferase, 1 domain
+PGF_00048482	Streptacidiphilus	221.18	5.38	Riboflavin transporter PnuX
+PGF_00048542	Streptacidiphilus	231.55	16.99	Ribonuclease HI (EC 3.1.26.4)
+PGF_00048556	Streptacidiphilus	225.00	8.40	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048586	Streptacidiphilus	242.00	3.32	Ribonuclease PH (EC 2.7.7.56)
+PGF_00048594	Streptacidiphilus	309.55	7.24	Ribonuclease Z (EC 3.1.26.11)
+PGF_00048630	Streptacidiphilus	791.50	4.86	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048633	Streptacidiphilus	341.70	2.41	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048643	Streptacidiphilus	154.55	15.81	Ribonucleotide reductase transcriptional regulator NrdR
+PGF_00048829	Streptacidiphilus	346.18	43.69	Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.22)
+PGF_00048846	Streptacidiphilus	500.00	20.65	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048926	Streptacidiphilus	185.00	0.00	Ribosome recycling factor
+PGF_00048928	Streptacidiphilus	344.64	1.96	Ribosome small subunit biogenesis RbfA-release protein RsgA
+PGF_00048933	Streptacidiphilus	122.55	7.78	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_00048936	Streptacidiphilus	155.91	2.51	Ribosome-binding factor A
+PGF_00048985	Streptacidiphilus	229.82	2.75	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049331	Streptacidiphilus	246.00	3.92	S-adenosylmethionine-dependent methyltransferase
+PGF_00049398	Streptacidiphilus	244.82	16.01	Alternative RNA polymerase sigma factor SigE
+PGF_00049658	Streptacidiphilus	151.64	17.52	Alternative dihydrofolate reductase 3
+PGF_00049827	Streptacidiphilus	310.45	12.05	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Streptacidiphilus	97.73	14.17	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Streptacidiphilus	135.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Streptacidiphilus	102.09	32.04	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Streptacidiphilus	126.00	0.00	SSU ribosomal protein S13p (S18e)
+PGF_00049842	Streptacidiphilus	61.00	0.00	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+PGF_00049847	Streptacidiphilus	96.00	0.00	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Streptacidiphilus	145.45	0.93	SSU ribosomal protein S16p
+PGF_00049854	Streptacidiphilus	90.64	0.81	SSU ribosomal protein S17p (S11e)
+PGF_00049860	Streptacidiphilus	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049889	Streptacidiphilus	276.55	1.97	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Streptacidiphilus	204.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Streptacidiphilus	207.55	1.21	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Streptacidiphilus	96.00	0.00	SSU ribosomal protein S6p
+PGF_00049904	Streptacidiphilus	146.45	10.97	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Streptacidiphilus	132.91	6.93	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Streptacidiphilus	164.09	1.51	SSU ribosomal protein S9p (S16e)
+PGF_00050048	Streptacidiphilus	926.90	87.31	Sarcosine oxidase alpha subunit (EC 1.5.3.1)
+PGF_00050055	Streptacidiphilus	406.30	2.41	Sarcosine oxidase beta subunit (EC 1.5.3.1)
+PGF_00050059	Streptacidiphilus	97.10	2.47	Sarcosine oxidase delta subunit (EC 1.5.3.1)
+PGF_00050060	Streptacidiphilus	203.20	17.24	Sarcosine oxidase gamma subunit (EC 1.5.3.1)
+PGF_00050995	Streptacidiphilus	520.82	17.61	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051220	Streptacidiphilus	490.27	9.05	Serine phosphatase RsbU, regulator of sigma subunit
+PGF_00051278	Streptacidiphilus	518.45	59.85	Serine protease HtrA (DegP protein)
+PGF_00051338	Streptacidiphilus	137.36	15.67	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_00051868	Streptacidiphilus	265.64	3.64	Short-chain dehydrogenase/reductase in hypothetical Actinobacterial gene cluster
+PGF_00051946	Streptacidiphilus	539.09	49.52	Siderophore biosynthesis L-2,4-diaminobutyrate decarboxylase
+PGF_00051947	Streptacidiphilus	538.82	81.25	Siderophore biosynthesis diaminobutyrate--2-oxoglutarate aminotransferase (EC 2.6.1.76)
+PGF_00052025	Streptacidiphilus	658.73	35.26	Siderophore synthetase superfamily, group A @ Siderophore synthetase large component, acetyltransferase
+PGF_00052238	Streptacidiphilus	533.09	52.38	Signal recognition particle protein Ffh
+PGF_00052705	Streptacidiphilus	144.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00053036	Streptacidiphilus	345.27	2.83	Aminodeoxyfutalosine deaminase (EC 3.5.4.40)
+PGF_00053078	Streptacidiphilus	387.00	0.00	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00053513	Streptacidiphilus	336.45	5.68	Solanesyl diphosphate synthase (EC 2.5.1.11)
+PGF_00053770	Streptacidiphilus	374.00	4.00	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+PGF_00053952	Streptacidiphilus	89.36	0.92	Sporulation regulatory protein WhiB
+PGF_00054206	Streptacidiphilus	280.64	33.18	Sterol-regulatory element binding protein (SREBP) site 2 protease family
+PGF_00054343	Streptacidiphilus	201.73	4.13	Substrate-specific component BioY of biotin ECF transporter
+PGF_00054461	Streptacidiphilus	114.91	8.01	Succinate dehydrogenase cytochrome b-556 subunit
+PGF_00054477	Streptacidiphilus	155.64	2.42	Succinate dehydrogenase hydrophobic membrane anchor protein
+PGF_00054528	Streptacidiphilus	391.92	4.78	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00055165	Streptacidiphilus	92.00	0.00	Sulfur/cysteine carrier protein CysO
+PGF_00055203	Streptacidiphilus	461.45	9.85	Superfamily I DNA and RNA helicases and helicase subunits
+PGF_00055665	Streptacidiphilus	338.18	129.82	TPR-repeat-containing protein
+PGF_00056255	Streptacidiphilus	282.64	8.15	TesB-like acyl-CoA thioesterase 3
+PGF_00056382	Streptacidiphilus	659.64	27.11	Tetratricopeptide repeat family protein
+PGF_00056544	Streptacidiphilus	264.00	0.00	Thiazole synthase (EC 2.8.1.10)
+PGF_00056662	Streptacidiphilus	355.36	4.84	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Streptacidiphilus	527.55	10.38	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056947	Streptacidiphilus	455.80	50.09	TldE/PmbA family protein, Actinobacterial subgroup
+PGF_00057270	Streptacidiphilus	821.00	4.10	Topoisomerase IV subunit A (EC 5.99.1.-)
+PGF_00057353	Streptacidiphilus	113.00	0.00	Anti-sigma factor antagonist BldG
+PGF_00057381	Streptacidiphilus	278.00	14.57	Trans,polycis-decaprenyl diphosphate synthase (EC 2.5.1.86)
+PGF_00057485	Streptacidiphilus	337.55	6.61	Transcription termination protein NusA
+PGF_00057488	Streptacidiphilus	146.73	1.27	Transcription termination protein NusB
+PGF_00057610	Streptacidiphilus	151.73	3.52	Transcriptional regulator
+PGF_00057699	Streptacidiphilus	457.64	10.46	Transcriptional regulator
+PGF_00058877	Streptacidiphilus	212.27	9.05	Transcriptional regulator, AcrR family
+PGF_00059040	Streptacidiphilus	76.91	0.30	Transcriptional regulator, AsnC family
+PGF_00059042	Streptacidiphilus	93.00	0.00	Transcriptional regulator, AsnC family
+PGF_00059800	Streptacidiphilus	299.73	6.57	Transcriptional regulator, RpiR family
+PGF_00059852	Streptacidiphilus	106.27	14.62	Transcriptional regulator, WhiB family
+PGF_00060155	Streptacidiphilus	118.00	8.49	Transcriptional regulatory protein
+PGF_00060412	Streptacidiphilus	687.55	119.35	Elongation factor G-like protein TM_1651
+PGF_00060414	Streptacidiphilus	623.82	0.87	Translation elongation factor LepA
+PGF_00060421	Streptacidiphilus	187.91	0.30	Translation elongation factor P
+PGF_00060427	Streptacidiphilus	277.45	0.52	Translation elongation factor Ts
+PGF_00060472	Streptacidiphilus	117.64	2.94	Antitoxin HigA
+PGF_00060478	Streptacidiphilus	234.64	19.58	Translation initiation factor 3
+PGF_00060585	Streptacidiphilus	226.00	8.77	Transmembrane protein MT2276, clustered with lipoate gene
+PGF_00061802	Streptacidiphilus	574.36	5.37	Trehalose synthase (EC 5.4.99.16) @ Alpha-amylase (EC 3.2.1.1)
+PGF_00061960	Streptacidiphilus	532.45	62.16	Apolipoprotein N-acyltransferase (EC 2.3.1.-) in lipid-linked oligosaccharide synthesis cluster
+PGF_00062023	Streptacidiphilus	264.27	18.33	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Streptacidiphilus	412.36	7.43	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00063999	Streptacidiphilus	468.27	7.48	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064034	Streptacidiphilus	536.45	13.19	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase (EC 6.3.2.7)
+PGF_00064272	Streptacidiphilus	264.82	1.83	UPF0246 protein YaaA
+PGF_00064359	Streptacidiphilus	175.91	8.41	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+PGF_00064422	Streptacidiphilus	485.18	0.40	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00064454	Streptacidiphilus	267.36	0.92	Ubiquinol-cytochrome C reductase, diheme cytochrome cc subunit
+PGF_00064607	Streptacidiphilus	175.27	4.92	Uncharacterized acetyltransferase SCO6490
+PGF_00064786	Streptacidiphilus	359.64	5.39	Arogenate dehydrogenase (EC 1.3.1.43)
+PGF_00064835	Streptacidiphilus	277.45	8.19	Uncharacterized methyltransferase SCO7062
+PGF_00064918	Streptacidiphilus	188.00	34.53	Uncharacterized protein COG3236
+PGF_00065286	Streptacidiphilus	214.82	17.26	Uncharacterized protein Q1 colocalized with Q
+PGF_00065292	Streptacidiphilus	178.80	15.34	Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene
+PGF_00065330	Streptacidiphilus	277.18	5.34	Uncharacterized protein SCO7632
+PGF_00066087	Streptacidiphilus	160.45	8.79	AsnC-family transcriptional regulator SCO4493, in menaquinone synthesis cluster
+PGF_00066123	Streptacidiphilus	211.09	3.02	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+PGF_00066124	Streptacidiphilus	200.09	15.88	Pyrimidine operon regulatory protein PyrR
+PGF_00066238	Streptacidiphilus	305.73	4.29	Uricase (urate oxidase) (EC 1.7.3.3)
+PGF_00066270	Streptacidiphilus	361.00	12.95	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Streptacidiphilus	878.09	4.83	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Streptacidiphilus	153.64	7.49	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066906	Streptacidiphilus	328.00	6.24	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00067383	Streptacidiphilus	530.55	3.01	(R)-citramalate synthase (EC 2.3.1.182)
+PGF_00067389	Streptacidiphilus	95.82	7.24	YlxP-like protein
+PGF_00067466	Streptacidiphilus	590.45	3.45	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067607	Streptacidiphilus	400.91	3.39	Zn-dependent dipeptidase-like protein
+PGF_00067691	Streptacidiphilus	401.09	17.86	Zn-dependent proteases
+PGF_00070005	Streptacidiphilus	450.45	5.82	conserved hypothetical protein SC6D10.11
+PGF_00070432	Streptacidiphilus	423.64	5.10	dNTP triphosphohydrolase, broad substrate specificity
+PGF_00070810	Streptacidiphilus	1121.82	266.80	Domain of unknown function / Cobalamin biosynthesis protein BluB @ 5,6-dimethylbenzimidazole synthase, flavin destructase family / Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+PGF_00071558	Streptacidiphilus	585.64	7.84	Bacterial proteasome-activating AAA-ATPase (PAN)
+PGF_00071938	Streptacidiphilus	159.18	0.40	Bacterioferritin (EC 1.16.3.1)
+PGF_00072580	Streptacidiphilus	304.64	26.41	hypothetical protein
+PGF_00084324	Streptacidiphilus	307.36	2.66	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00121830	Streptacidiphilus	451.82	58.93	FIG01121868: Possible membrane protein, Rv0205
+PGF_00160066	Streptacidiphilus	59.90	13.04	hypothetical protein
+PGF_00167398	Streptacidiphilus	251.00	2.11	hypothetical protein
+PGF_00172352	Streptacidiphilus	244.20	1.55	hypothetical protein
+PGF_00172869	Streptacidiphilus	394.45	5.52	Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)
+PGF_00179198	Streptacidiphilus	245.45	2.94	hypothetical protein
+PGF_00200781	Streptacidiphilus	184.91	21.75	hypothetical protein
+PGF_00206589	Streptacidiphilus	204.60	8.69	hypothetical protein
+PGF_00217849	Streptacidiphilus	258.90	6.92	Uncharacterized UPF0721 integral membrane protein
+PGF_00218723	Streptacidiphilus	92.09	13.00	hypothetical protein
+PGF_00221301	Streptacidiphilus	208.40	5.62	hypothetical protein
+PGF_00223838	Streptacidiphilus	65.18	11.21	hypothetical protein
+PGF_00232217	Streptacidiphilus	180.50	16.04	hypothetical protein
+PGF_00234580	Streptacidiphilus	160.18	40.05	hypothetical protein
+PGF_00248155	Streptacidiphilus	113.18	4.24	hypothetical protein
+PGF_00255049	Streptacidiphilus	256.36	22.34	hypothetical protein
+PGF_00261173	Streptacidiphilus	378.36	11.24	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+PGF_00267378	Streptacidiphilus	145.18	0.60	AIG2-like domain protein
+PGF_00285500	Streptacidiphilus	87.20	4.87	Integral membrane protein
+PGF_00289181	Streptacidiphilus	338.00	7.47	hypothetical protein
+PGF_00294865	Streptacidiphilus	709.36	50.20	Two component system sensor histidine kinase MtrB
+PGF_00305932	Streptacidiphilus	94.18	14.01	hypothetical protein
+PGF_00313601	Streptacidiphilus	117.82	8.83	hypothetical protein
+PGF_00314904	Streptacidiphilus	122.73	7.84	UPF0145 protein SCO3412
+PGF_00330343	Streptacidiphilus	160.00	3.87	hypothetical protein
+PGF_00334873	Streptacidiphilus	71.64	11.70	hypothetical protein
+PGF_00336478	Streptacidiphilus	212.45	7.34	Two-component transcriptional response regulator PdtaR, LuxR family
+PGF_00371101	Streptacidiphilus	122.80	5.73	hypothetical protein
+PGF_00372774	Streptacidiphilus	95.00	13.15	hypothetical protein
+PGF_00375149	Streptacidiphilus	157.64	17.96	hypothetical protein
+PGF_00380777	Streptacidiphilus	185.45	7.89	Stresses-induced protein Ves (HutD)
+PGF_00386274	Streptacidiphilus	144.73	6.56	hypothetical protein
+PGF_00389525	Streptacidiphilus	624.82	35.21	Uncharacterized, RsbU-domain-containing protein SCO4120
+PGF_00399657	Streptacidiphilus	199.55	1.13	hypothetical protein SC2E1.07
+PGF_00399660	Streptacidiphilus	491.00	21.05	hypothetical protein SC6D7.26.
+PGF_00399662	Streptacidiphilus	1086.82	70.53	hypothetical protein SCD12A.14
+PGF_00399663	Streptacidiphilus	502.73	17.47	hypothetical protein SCD25.06
+PGF_00399664	Streptacidiphilus	240.55	1.13	hypothetical protein SCD6.18
+PGF_00400287	Streptacidiphilus	107.00	0.00	integration host factor
+PGF_00403785	Streptacidiphilus	167.27	1.27	2-methylfumaryl-CoA hydratase (EC 4.2.1.148)
+PGF_00404010	Streptacidiphilus	374.82	4.96	probable Xaa-Pro dipeptidase( EC:3.4.13.9 )
+PGF_00404359	Streptacidiphilus	358.00	7.10	Monooxygenase IpdC
+PGF_00404809	Streptacidiphilus	424.82	12.78	proposed amino acid ligase found clustered with an amidotransferase
+PGF_00405698	Streptacidiphilus	358.09	7.33	putative ATP/GTP-binding integral membrane protein
+PGF_00405762	Streptacidiphilus	673.82	34.05	putative CbxX/CfqX family protein
+PGF_00405779	Streptacidiphilus	580.18	3.63	putative D-aminoacylase
+PGF_00405798	Streptacidiphilus	244.10	5.26	putative DNA polymerase III
+PGF_00406245	Streptacidiphilus	361.40	1.51	putative alcohol dehydrogenase (zinc-binding)
+PGF_00406752	Streptacidiphilus	526.30	82.46	putative endochitinase
+PGF_00407229	Streptacidiphilus	258.18	5.27	putative guanyltransferase
+PGF_00407331	Streptacidiphilus	266.45	7.54	Histidinol-phosphatase [alternative form] (EC 3.1.3.15)
+PGF_00407410	Streptacidiphilus	104.73	3.41	Integral membrane protein
+PGF_00407411	Streptacidiphilus	478.18	27.31	Integral membrane protein
+PGF_00407616	Streptacidiphilus	238.00	0.00	Integral membrane protein
+PGF_00407669	Streptacidiphilus	374.64	27.73	Integral membrane protein
+PGF_00408533	Streptacidiphilus	993.82	69.01	putative membrane associated phophodiesterase
+PGF_00408540	Streptacidiphilus	250.73	20.49	putative membrane protei
+PGF_00408795	Streptacidiphilus	556.45	17.02	putative membrane protein
+PGF_00409669	Streptacidiphilus	512.20	1.14	putative membrane protein
+PGF_00409838	Streptacidiphilus	389.82	4.81	lipid carrier protein or keto acyl-CoA thiolase Ltp3
+PGF_00409853	Streptacidiphilus	251.09	0.30	putative nucleotide sugar-1-phosphate transferase
+PGF_00410115	Streptacidiphilus	504.27	21.99	putative phosphodiesterase
+PGF_00410264	Streptacidiphilus	463.00	5.20	Putative protease
+PGF_00410423	Streptacidiphilus	364.82	8.45	putative secreted oxidoreductase
+PGF_00410661	Streptacidiphilus	235.91	9.26	putative secreted protein
+PGF_00410785	Streptacidiphilus	401.73	47.90	putative serine/threonine phosphatase
+PGF_00410951	Streptacidiphilus	813.55	23.76	putative sporulation protein K
+PGF_00410976	Streptacidiphilus	270.91	21.92	putative succinate dehydrogenase [membrane anchor subunit] (succinic dehydrogenase)
+PGF_00411408	Streptacidiphilus	334.50	2.07	Radical SAM protein required for addition of adenosine to hopane skeleton, HpnH
+PGF_00412828	Streptacidiphilus	545.36	145.06	sporulation associated protein
+PGF_00413192	Streptacidiphilus	316.18	17.95	tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
+PGF_00413208	Streptacidiphilus	274.09	1.58	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413290	Streptacidiphilus	300.00	6.56	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Streptacidiphilus	302.82	2.09	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413351	Streptacidiphilus	168.45	10.23	tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)
+PGF_00413554	Streptacidiphilus	163.73	4.22	tmRNA-binding protein SmpB
+PGF_00414926	Streptacidiphilus	498.64	12.42	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415308	Streptacidiphilus	269.82	0.60	23S rRNA (cytidine(1920)-2'-O)-methyltransferase (EC 2.1.1.226) @ 16S rRNA (cytidine(1409)-2'-O)-methyltransferase (EC 2.1.1.227)
+PGF_00415363	Streptacidiphilus	398.50	10.30	23S rRNA (guanine(1835)-N(2))-methyltransferase (EC 2.1.1.174)
+PGF_00415465	Streptacidiphilus	278.27	3.41	23S rRNA (guanine(748)-N(1))-methyltransferase (EC 2.1.1.188)
+PGF_00415660	Streptacidiphilus	432.50	14.81	COG2907: Amine oxidase, flavin-containing
+PGF_00416129	Streptacidiphilus	558.64	7.37	CTP synthase (EC 6.3.4.2)
+PGF_00416576	Streptacidiphilus	214.27	22.31	3'-to-5' oligoribonuclease (orn)
+PGF_00416847	Streptacidiphilus	592.82	20.73	Ccs1/ResB-related putative cytochrome C-type biogenesis protein
+PGF_00417577	Streptacidiphilus	147.45	8.37	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417816	Streptacidiphilus	106.27	3.38	Chorismate mutase I (EC 5.4.99.5)
+PGF_00417840	Streptacidiphilus	361.50	90.60	Chorismate synthase (EC 4.2.3.5)
+PGF_00418244	Streptacidiphilus	197.27	2.41	Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ Cob(I)alamin adenosyltransferase (EC 2.5.1.17), clustered with cobalamin synthesis
+PGF_00418281	Streptacidiphilus	516.82	109.47	Cobalt-precorrin 5A hydrolase (EC 3.7.1.12) / Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)
+PGF_00418291	Streptacidiphilus	292.09	10.08	Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+PGF_00418309	Streptacidiphilus	206.09	9.95	Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+PGF_00418368	Streptacidiphilus	501.09	3.70	Cobyric acid synthase (EC 6.3.5.10)
+PGF_00418379	Streptacidiphilus	461.00	4.05	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)
+PGF_00418439	Streptacidiphilus	440.45	9.02	Coenzyme F420-0:L-glutamate ligase (EC 6.3.2.31) @ F420-1:L-glutamate ligase (EC 6.3.2.34) / Nitroreductase family protein Rcas_3978
+PGF_00418586	Streptacidiphilus	127.00	0.00	Cold shock protein of CSP family => SCO4325
+PGF_00419621	Streptacidiphilus	237.00	3.85	Coproheme decarboxylase HemQ (no EC)
+PGF_00419684	Streptacidiphilus	444.18	209.12	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
+PGF_00419702	Streptacidiphilus	171.27	16.93	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419913	Streptacidiphilus	175.55	13.82	Cyclic pyranopterin monophosphate synthase accessory protein
+PGF_00419915	Streptacidiphilus	292.73	7.11	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420001	Streptacidiphilus	141.27	1.35	CysO-cysteine peptidase
+PGF_00420019	Streptacidiphilus	394.64	15.93	Cystathionine gamma-lyase (EC 4.4.1.1)
+PGF_00420080	Streptacidiphilus	322.55	1.81	Cysteine synthase, CysO-dependent
+PGF_00420081	Streptacidiphilus	392.00	0.00	Cysteine synthesis adenylyltransferase/sulfurtransferase
+PGF_00420121	Streptacidiphilus	234.27	8.97	Cytidylate kinase (EC 2.7.4.25)
+PGF_00420406	Streptacidiphilus	132.00	0.00	Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)
+PGF_00420683	Streptacidiphilus	147.27	3.32	Cytosine deaminase (EC 3.5.4.1)
+PGF_00420975	Streptacidiphilus	479.91	116.59	D-inositol-3-phosphate glycosyltransferase (EC 2.4.1.250)
+PGF_00420993	Streptacidiphilus	333.27	2.37	D-lactate dehydrogenase (EC 1.1.1.28)
+PGF_00421071	Streptacidiphilus	139.82	5.17	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+PGF_00421347	Streptacidiphilus	368.09	0.30	DNA integrity scanning protein DisA
+PGF_00421454	Streptacidiphilus	589.18	14.38	DNA or RNA helicases of superfamily II
+PGF_00421489	Streptacidiphilus	1185.83	3.64	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421679	Streptacidiphilus	637.45	9.22	DNA primase (EC 2.7.7.-)
+PGF_00421733	Streptacidiphilus	383.00	10.33	DNA recombination and repair protein RecF
+PGF_00421792	Streptacidiphilus	506.82	23.66	DNA repair protein RadA
+PGF_00421796	Streptacidiphilus	575.18	4.49	DNA repair protein RecN
+PGF_00422023	Streptacidiphilus	126.36	4.48	DNA-binding protein
+PGF_00422446	Streptacidiphilus	251.80	13.69	DUF124 domain-containing protein
+PGF_00422463	Streptacidiphilus	209.82	13.95	DUF1794
+PGF_00422922	Streptacidiphilus	191.00	0.00	Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)
+PGF_00422959	Streptacidiphilus	171.45	4.55	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+PGF_00423351	Streptacidiphilus	1227.00	67.94	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) / 2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) @ 2-oxoglutarate decarboxylase (EC 4.1.1.71) @ 2-hydroxy-3-oxoadipate synthase (EC 2.2.1.5)
+PGF_00423429	Streptacidiphilus	552.09	5.65	Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain
+PGF_00423449	Streptacidiphilus	291.91	5.86	1,4-dihydroxy-6-naphtoate synthase
+PGF_00423472	Streptacidiphilus	713.36	10.83	DinG family ATP-dependent helicase YoaA
+PGF_00423533	Streptacidiphilus	314.00	7.81	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423604	Streptacidiphilus	669.60	16.93	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+PGF_00424338	Streptacidiphilus	240.91	14.01	Endonuclease V (EC 3.1.21.7)
+PGF_00424619	Streptacidiphilus	346.45	6.35	4-nitrophenylphosphatase (EC 3.1.3.41)
+PGF_00424921	Streptacidiphilus	678.09	3.83	Ethylmalonyl-CoA mutase, methylsuccinyl-CoA-forming
+PGF_00424968	Streptacidiphilus	807.58	12.88	Excinuclease ABC subunit A paralog of unknown function
+PGF_00424971	Streptacidiphilus	666.09	12.52	Excinuclease ABC subunit C
+PGF_00425024	Streptacidiphilus	405.36	12.87	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425091	Streptacidiphilus	707.18	416.38	Exonuclease SbcC
+PGF_00425665	Streptacidiphilus	244.64	2.80	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425671	Streptacidiphilus	301.00	7.84	RNase adapter protein RapZ
+PGF_00425679	Streptacidiphilus	214.27	5.73	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425684	Streptacidiphilus	252.64	0.92	Probable transcriptional regulatory protein YebC
+PGF_00425685	Streptacidiphilus	324.09	3.42	FIG000875: Thioredoxin domain-containing protein EC-YbbN
+PGF_00425786	Streptacidiphilus	472.10	5.11	Ribonuclease Y
+PGF_00425806	Streptacidiphilus	340.27	13.01	FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+PGF_00425993	Streptacidiphilus	412.45	3.17	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+PGF_00426285	Streptacidiphilus	187.36	10.26	FIG004853: possible toxin to DivIC
+PGF_00426531	Streptacidiphilus	104.55	0.69	5-hydroxyisourate hydrolase (EC 3.5.2.17)
+PGF_00426616	Streptacidiphilus	335.27	3.23	FIG005453: Putative DeoR-family transcriptional regulator
+PGF_00426726	Streptacidiphilus	964.91	8.29	FIG005666: putative helicase
+PGF_00426932	Streptacidiphilus	158.55	3.72	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+PGF_00438421	Streptacidiphilus	309.45	7.27	Prephenate dehydratase (EC 4.2.1.51)
+PGF_00482828	Streptacidiphilus	454.45	6.27	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00510935	Streptacidiphilus	93.00	0.00	DNA-binding protein HU
+PGF_00515900	Streptacidiphilus	548.45	20.07	Probable exported protease
+PGF_00518942	Streptacidiphilus	225.73	3.13	Two component system response regulator MtrA
+PGF_00519684	Streptacidiphilus	162.36	12.48	hypothetical protein
+PGF_00538878	Streptacidiphilus	269.09	6.12	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00581547	Streptacidiphilus	279.55	1.81	DegV family protein
+PGF_00595771	Streptacidiphilus	328.91	25.82	Squalene synthase (EC 2.5.1.21)
+PGF_00618776	Streptacidiphilus	374.73	2.80	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00634936	Streptacidiphilus	324.55	5.28	Protein QmcA (possibly involved in integral membrane quality control)
+PGF_00639841	Streptacidiphilus	512.64	132.92	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00662997	Streptacidiphilus	271.27	4.94	Cobalamin synthase (EC 2.7.8.26)
+PGF_00664069	Streptacidiphilus	467.55	8.44	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
+PGF_00665875	Streptacidiphilus	159.45	4.08	Ribosomal silencing factor RsfA
+PGF_00679998	Streptacidiphilus	159.36	12.49	hypothetical protein
+PGF_00681634	Streptacidiphilus	352.73	14.36	SAM-dependent methyltransferase, MidA
+PGF_00684135	Streptacidiphilus	405.90	11.70	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_00692117	Streptacidiphilus	408.27	26.77	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_00705001	Streptacidiphilus	711.73	3.77	Enoyl-CoA hydratase (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+PGF_00711064	Streptacidiphilus	85.82	4.17	hypothetical protein
+PGF_00711677	Streptacidiphilus	386.55	5.15	Acyl-CoA dehydrogenase
+PGF_00713117	Streptacidiphilus	172.60	10.02	Acetyltransferase
+PGF_00734482	Streptacidiphilus	943.09	16.78	DNA topoisomerase I (EC 5.99.1.2)
+PGF_00735014	Streptacidiphilus	265.20	11.28	hypothetical protein
+PGF_00735685	Streptacidiphilus	1023.09	29.95	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+PGF_00754619	Streptacidiphilus	480.10	4.98	3'-to-5' exoribonuclease RNase R
+PGF_00775112	Streptacidiphilus	533.36	12.09	Apolipoprotein N-acyltransferase
+PGF_00777894	Streptacidiphilus	168.00	9.82	hypothetical protein
+PGF_00777996	Streptacidiphilus	201.00	16.95	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+PGF_00815691	Streptacidiphilus	410.09	0.30	Steroid C27-monooxygenase (EC 1.14.13.141)
+PGF_00821644	Streptacidiphilus	222.00	17.47	Phosphatidylinositol phosphate synthase @ Archaetidylinositol phosphate synthase (EC 2.7.8.39)
+PGF_00839393	Streptacidiphilus	174.10	12.87	Uncharacterized protein with histidine kinase-like ATPase domain
+PGF_00840578	Streptacidiphilus	527.90	43.50	Putative glycosyltransferase
+PGF_00841649	Streptacidiphilus	709.64	18.73	ATP-dependent DNA helicase
+PGF_00848155	Streptacidiphilus	282.64	9.78	hypothetical protein
+PGF_00848855	Streptacidiphilus	123.64	1.21	FKBP-type peptidyl-prolyl cis-trans isomerases 1
+PGF_00853393	Streptacidiphilus	293.67	1.44	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00854402	Streptacidiphilus	212.73	3.80	Alkylated DNA repair protein AlkB
+PGF_00861656	Streptacidiphilus	559.60	6.33	Choline dehydrogenase (EC 1.1.99.1)
+PGF_00867759	Streptacidiphilus	225.27	7.50	Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety, TenA subgroup with Cys in active site
+PGF_00890050	Streptacidiphilus	127.40	7.59	hypothetical protein
+PGF_00904796	Streptacidiphilus	59.45	0.52	hypothetical protein
+PGF_00907900	Streptacidiphilus	224.00	0.00	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+PGF_00912265	Streptacidiphilus	387.36	3.61	tRNA-dihydrouridine synthase DusB
+PGF_00914027	Streptacidiphilus	543.09	31.46	Collagen alpha 1(I) chain precursor
+PGF_00925844	Streptacidiphilus	366.18	31.61	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00925985	Streptacidiphilus	157.82	2.32	Acetyltransferase
+PGF_00929252	Streptacidiphilus	270.36	5.18	putative rRNA methylase
+PGF_00932690	Streptacidiphilus	369.55	8.20	FIG00814129: Possible chaperone
+PGF_00934432	Streptacidiphilus	238.91	11.74	Two-component transcriptional response regulator, LuxR family
+PGF_00947361	Streptacidiphilus	444.27	9.93	Phenylacetate-coenzyme A ligase (EC 6.2.1.30)
+PGF_00950554	Streptacidiphilus	700.27	13.40	Excinuclease ABC subunit B
+PGF_00957419	Streptacidiphilus	159.82	4.60	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Streptacidiphilus	369.10	3.35	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00964034	Streptacidiphilus	107.70	8.17	putative membrane protein
+PGF_00974340	Streptacidiphilus	1156.55	49.30	putative two-component system sensor kinase/response regulator, bifunctional protein
+PGF_00974773	Streptacidiphilus	236.73	0.90	Integral membrane protein
+PGF_00988916	Streptacidiphilus	296.64	4.54	Putative hydrolase
+PGF_00990392	Streptacidiphilus	417.18	17.05	hypothetical protein
+PGF_00993283	Streptacidiphilus	366.36	6.30	Pyridoxal-5'-phosphate-dependent enzyme beta superfamily (fold type II)
+PGF_01003446	Streptacidiphilus	269.45	11.55	2,5-diamino-6-ribosylamino-pyrimidinone 5-phosphate reductase (EC 1.1.1.302) homolog
+PGF_01011517	Streptacidiphilus	320.64	5.64	Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+PGF_01023314	Streptacidiphilus	282.64	27.39	Hydrolase
+PGF_01037334	Streptacidiphilus	163.30	14.13	hypothetical protein
+PGF_01040342	Streptacidiphilus	480.27	110.20	Spermidine synthase (EC 2.5.1.16)
+PGF_01042657	Streptacidiphilus	455.45	11.97	RNA methyltransferase, TrmA family
+PGF_01043575	Streptacidiphilus	229.64	19.09	Low molecular weight protein-tyrosine-phosphatase (EC 3.1.3.48)
+PGF_01065911	Streptacidiphilus	188.82	25.88	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_01075683	Streptacidiphilus	135.27	5.93	Hemoglobin-like protein HbO
+PGF_01084892	Streptacidiphilus	155.50	20.89	hypothetical protein
+PGF_01090758	Streptacidiphilus	394.73	7.25	SAM-dependent methyltransferase
+PGF_01126005	Streptacidiphilus	398.91	9.13	Rod shape-determining protein RodA
+PGF_01167921	Streptacidiphilus	150.73	5.00	Serine-protein kinase RsbW (EC 2.7.11.1)
+PGF_01174739	Streptacidiphilus	328.55	12.75	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Streptacidiphilus	350.18	4.33	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Streptacidiphilus	659.45	5.84	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01181530	Streptacidiphilus	121.00	5.35	Uncharacterized protein YfgD, not an arsenate reductase
+PGF_01200370	Streptacidiphilus	138.18	5.29	Two-component transcriptional response regulator, LuxR family
+PGF_01200403	Streptacidiphilus	322.73	16.44	FIG019733: possible DNA-binding protein
+PGF_01206271	Streptacidiphilus	432.18	16.33	probable L-gulonolactone oxidase( EC:1.1.3.- )
+PGF_01206852	Streptacidiphilus	141.27	0.47	Organic hydroperoxide resistance protein
+PGF_01216478	Streptacidiphilus	136.64	1.91	Succinyl-CoA synthetase, alpha subunit-related enzymes
+PGF_01232770	Streptacidiphilus	195.64	1.63	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01291803	Streptacidiphilus	311.55	3.62	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23)
+PGF_01325304	Streptacidiphilus	290.10	22.38	Molybdenum ABC transporter permease protein ModB
+PGF_01332636	Streptacidiphilus	247.27	6.17	Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)
+PGF_01351158	Streptacidiphilus	1193.27	9.24	Transcription-repair coupling factor
+PGF_01364427	Streptacidiphilus	206.00	2.61	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01368025	Streptacidiphilus	362.09	6.88	Formaldehyde dehydrogenase MscR, NAD/mycothiol-dependent (EC 1.2.1.66) / S-nitrosomycothiol reductase MscR
+PGF_01373666	Streptacidiphilus	577.00	0.00	Efflux ABC transporter, permease/ATP-binding protein SCO2463
+PGF_01404160	Streptacidiphilus	466.55	5.82	Cystathionine beta-synthase (EC 4.2.1.22)
+PGF_01421534	Streptacidiphilus	197.09	2.17	LSU ribosomal protein L25p
+PGF_01423501	Streptacidiphilus	165.00	0.00	Transcription elongation factor GreA
+PGF_01427611	Streptacidiphilus	219.73	2.97	Uncharacterized UPF0126 inner membrane protein
+PGF_01444546	Streptacidiphilus	98.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01462842	Streptacidiphilus	273.36	6.68	Uncharacterized protein YybG
+PGF_01466742	Streptacidiphilus	451.27	28.85	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+PGF_01479092	Streptacidiphilus	261.91	6.88	5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC 5.3.3.10)
+PGF_01532393	Streptacidiphilus	741.00	9.41	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01553036	Streptacidiphilus	287.09	3.56	CoA-transferase subunit alpha, IpdA
+PGF_01557745	Streptacidiphilus	406.36	4.52	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01577984	Streptacidiphilus	298.73	38.22	Integral membrane protein
+PGF_01604929	Streptacidiphilus	330.18	5.64	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+PGF_01668012	Streptacidiphilus	277.18	4.71	Sulfur carrier protein FdhD
+PGF_01668186	Streptacidiphilus	249.91	4.01	Metal-dependent hydrolases of the beta-lactamase superfamily III
+PGF_01670799	Streptacidiphilus	174.73	24.41	Ribosomal-protein-S5p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_01677191	Streptacidiphilus	326.18	16.59	Sporulation transcription regulator WhiA
+PGF_01682537	Streptacidiphilus	122.00	0.00	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Streptacidiphilus	184.64	6.89	Bacterial ribosome SSU maturation protein RimP
+PGF_01683258	Streptacidiphilus	251.27	5.26	DNA recombination and repair protein RecO
+PGF_01683273	Streptacidiphilus	429.00	11.39	Glutamate--cysteine ligase (EC 6.3.2.2)
+PGF_01722484	Streptacidiphilus	509.20	14.09	Uncharacterized MFS-type transporter Saci_1521
+PGF_01725636	Streptacidiphilus	242.64	11.40	Putative oxidoreductase SCO1803
+PGF_01728224	Streptacidiphilus	271.73	9.51	hypothetical protein
+PGF_01734516	Streptacidiphilus	239.18	51.39	FHA-domain-containing protein
+PGF_01737397	Streptacidiphilus	281.55	5.99	FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)
+PGF_01739753	Streptacidiphilus	182.27	12.92	Zinc metalloprotease
+PGF_01771963	Streptacidiphilus	397.00	0.00	RNA-2',3'-PO4:RNA-5'-OH ligase
+PGF_01776921	Streptacidiphilus	230.00	33.37	Nodulin-related protein CC_0717
+PGF_01777142	Streptacidiphilus	218.64	10.15	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+PGF_01810645	Streptacidiphilus	739.91	26.10	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+PGF_01837464	Streptacidiphilus	310.09	2.39	putative cellulose-binding protein
+PGF_01842781	Streptacidiphilus	561.00	0.00	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01849162	Streptacidiphilus	214.73	36.08	Siderophore synthetase small component, acetyltransferase
+PGF_01867628	Streptacidiphilus	342.55	1.51	Heat-inducible transcription repressor HrcA
+PGF_01899098	Streptacidiphilus	141.09	4.04	Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+PGF_01899937	Streptacidiphilus	336.73	96.06	Rod shape-determining protein MreC
+PGF_01900530	Streptacidiphilus	230.82	1.17	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01910737	Streptacidiphilus	205.73	0.90	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+PGF_01937476	Streptacidiphilus	758.64	135.14	BioD-like N-terminal domain / Phosphate acetyltransferase (EC 2.3.1.8)
+PGF_01943486	Streptacidiphilus	190.73	7.90	O-acetyl-ADP-ribose deacetylase
+PGF_01943564	Streptacidiphilus	78.27	4.38	hypothetical protein
+PGF_01948067	Streptacidiphilus	163.82	9.25	Sporulation-specific cell division protein SsgG
+PGF_01959504	Streptacidiphilus	191.64	6.23	DUF2017 domain-containing protein
+PGF_01994657	Streptacidiphilus	467.45	4.18	Cell division trigger factor (EC 5.2.1.8)
+PGF_02011760	Streptacidiphilus	256.45	2.73	Imidazole glycerol phosphate synthase cyclase subunit HisF
+PGF_02019462	Streptacidiphilus	373.00	10.15	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Streptacidiphilus	478.55	45.98	GTP-binding protein Obg
+PGF_02059020	Streptacidiphilus	556.73	6.07	Energy-dependent translational throttle protein EttA
+PGF_02075044	Streptacidiphilus	182.73	11.41	RNA:NAD 2'-phosphotransferase
+PGF_02075241	Streptacidiphilus	710.18	13.53	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)
+PGF_02111888	Streptacidiphilus	329.64	15.79	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02141097	Streptacidiphilus	630.91	289.15	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_02150552	Streptacidiphilus	212.45	4.74	Putative hydrolase in cluster with formaldehyde/S-nitrosomycothiol reductase MscR
+PGF_02150921	Streptacidiphilus	276.91	10.77	FIG00820565: hypothetical protein
+PGF_02160287	Streptacidiphilus	584.00	20.48	GGDEF domain protein
+PGF_02185217	Streptacidiphilus	424.27	2.72	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02210145	Streptacidiphilus	365.00	2.32	Zn-dependent protease with chaperone function
+PGF_02226715	Streptacidiphilus	729.64	4.46	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02246334	Streptacidiphilus	226.00	12.13	Integral membrane protein
+PGF_02278171	Streptacidiphilus	240.45	5.13	NADPH-dependent F420 reductase
+PGF_02311293	Streptacidiphilus	363.00	9.27	Peptide chain release factor 2
+PGF_02348634	Streptacidiphilus	226.67	11.25	Putative phosphatase YfbT
+PGF_02349208	Streptacidiphilus	225.91	3.27	Hypothetical, related to broad specificity phosphatases COG0406
+PGF_02349818	Streptacidiphilus	171.00	68.68	Acyl-coenzyme A thioesterase PaaD (Pse.pu.) (E. coli PaaI)
+PGF_02386548	Streptacidiphilus	475.00	15.52	CoA ligase @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD36
+PGF_02394348	Streptacidiphilus	369.55	9.46	Lipid transfer protein or keto acyl-CoA thiolase Ltp4
+PGF_02405521	Streptacidiphilus	550.00	4.63	Exoenzymes regulatory protein AepA in lipid-linked oligosaccharide synthesis cluster
+PGF_02409931	Streptacidiphilus	1033.42	258.86	ATP-dependent DNA helicase SCO5184
+PGF_02450432	Streptacidiphilus	431.91	24.00	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+PGF_02454577	Streptacidiphilus	88.00	0.00	SSU ribosomal protein S20p
+PGF_02463284	Streptacidiphilus	199.00	0.00	Recombination protein RecR
+PGF_02489591	Streptacidiphilus	253.45	19.81	Uncharacterized Nudix hydrolase NudL
+PGF_02501613	Streptacidiphilus	461.45	38.39	UPF0053 protein Rv1842c/MT1890
+PGF_02515882	Streptacidiphilus	410.82	52.56	Aspartokinase (EC 2.7.2.4)
+PGF_02516666	Streptacidiphilus	289.82	0.60	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+PGF_02517984	Streptacidiphilus	58.82	5.46	FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+PGF_02518965	Streptacidiphilus	248.64	35.73	Regulatory protein RecX
+PGF_02552445	Streptacidiphilus	532.00	0.00	Bis-ABC ATPase SCO1840
+PGF_02565280	Streptacidiphilus	98.45	8.56	Molybdopterin synthase sulfur carrier subunit
+PGF_02573780	Streptacidiphilus	77.73	0.47	Phosphotransferase system EIIB, cysteine phosphorylation domain
+PGF_02587605	Streptacidiphilus	144.45	3.56	Zinc uptake regulation protein Zur
+PGF_02593689	Streptacidiphilus	483.27	9.65	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02623406	Streptacidiphilus	316.55	7.24	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Streptacidiphilus	1298.82	0.60	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02722923	Streptacidiphilus	186.70	4.06	Hydrolase, HAD superfamily
+PGF_02722929	Streptacidiphilus	146.73	5.26	putative membrane protein
+PGF_02732386	Streptacidiphilus	465.83	34.80	Glucose/mannose:H+ symporter GlcP
+PGF_02737404	Streptacidiphilus	281.45	22.43	Trehalose-6-phosphate phosphatase (EC 3.1.3.12)
+PGF_02738107	Streptacidiphilus	309.36	33.90	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02746016	Streptacidiphilus	238.82	1.83	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+PGF_02776739	Streptacidiphilus	126.91	4.23	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+PGF_02787494	Streptacidiphilus	197.09	7.06	Phosphate transport regulator (distant homolog of PhoU)
+PGF_02789532	Streptacidiphilus	288.00	0.00	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02790700	Streptacidiphilus	201.64	9.52	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+PGF_02792560	Streptacidiphilus	233.18	25.86	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Streptacidiphilus	465.27	3.77	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Streptacidiphilus	1157.00	0.00	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02818638	Streptacidiphilus	442.00	16.20	Hemolysins and related proteins containing CBS domains
+PGF_02838109	Streptacidiphilus	172.27	1.79	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Streptacidiphilus	253.09	1.45	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02866413	Streptacidiphilus	267.75	12.01	Rhomboid family protein
+PGF_02866866	Streptacidiphilus	382.18	4.21	Coproporphyrin ferrochelatase (EC 4.99.1.-)
+PGF_02869214	Streptacidiphilus	418.64	18.26	putative membrane protein
+PGF_02883702	Streptacidiphilus	350.36	15.88	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02886826	Streptacidiphilus	551.27	15.26	Regulator of polyketide synthase expression
+PGF_02893930	Streptacidiphilus	285.18	4.73	Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)
+PGF_02895544	Streptacidiphilus	221.27	1.95	TrkA-like protein
+PGF_02897236	Streptacidiphilus	366.27	6.96	Xaa-Pro dipeptidase (EC 3.4.13.9)
+PGF_02899131	Streptacidiphilus	73.36	0.50	LSU ribosomal protein L29p (L35e)
+PGF_02906681	Streptacidiphilus	820.82	20.46	Transcription accessory protein (S1 RNA-binding domain)
+PGF_02907392	Streptacidiphilus	395.18	16.61	S-adenosylmethionine:tRNA ribosyltransferase-isomerase-like protein
+PGF_02912272	Streptacidiphilus	199.27	15.04	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+PGF_02919364	Streptacidiphilus	80.82	9.66	hypothetical protein
+PGF_02919689	Streptacidiphilus	290.82	3.89	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+PGF_02923127	Streptacidiphilus	255.00	11.85	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02927448	Streptacidiphilus	185.73	29.24	FIG00820146: hypothetical protein
+PGF_02930420	Streptacidiphilus	355.18	3.92	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+PGF_02937426	Streptacidiphilus	60.73	0.47	hypothetical protein
+PGF_02938548	Streptacidiphilus	362.70	0.95	hypothetical protein
+PGF_02938730	Streptacidiphilus	328.36	3.44	DNA polymerase III delta subunit (EC 2.7.7.7)
+PGF_02941159	Streptacidiphilus	437.80	19.59	Integral membrane protein
+PGF_02944588	Streptacidiphilus	244.30	19.97	Na(+)-dependent bicarbonate transporter BicA / Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_02950994	Streptacidiphilus	368.83	101.47	ATP-dependent DNA ligase (EC 6.5.1.1)
+PGF_02952136	Streptacidiphilus	824.55	20.03	Cation-transporting ATPase, E1-E2 family
+PGF_02976152	Streptacidiphilus	198.00	26.25	Sulfite oxidase and related enzymes
+PGF_02980852	Streptacidiphilus	330.64	6.68	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+PGF_02994717	Streptacidiphilus	119.82	3.49	hypothetical protein
+PGF_02995302	Streptacidiphilus	252.18	11.18	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_02997723	Streptacidiphilus	175.45	4.18	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)
+PGF_03013622	Streptacidiphilus	337.27	1.42	N5,N10-methylenetetrahydromethanopterin reductase-related protein, BCG_3584c family
+PGF_03014477	Streptacidiphilus	452.55	7.94	Uncharacterized ABC1 family protein SCO5192
+PGF_03017775	Streptacidiphilus	508.70	1.34	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Streptacidiphilus	198.55	3.33	Septum formation protein Maf
+PGF_03022389	Streptacidiphilus	108.64	4.25	Protein of unknown function UPF0060
+PGF_03026450	Streptacidiphilus	1022.55	379.27	Chromosome partition protein smc
+PGF_03029062	Streptacidiphilus	328.80	8.94	Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)
+PGF_03029489	Streptacidiphilus	251.18	9.97	GlnR-family transcriptional regulator
+PGF_03029859	Streptacidiphilus	598.55	5.80	Bis-ABC ATPase Uup
+PGF_03029899	Streptacidiphilus	311.50	23.59	Putative acyl-CoA dehydrogenase
+PGF_03030703	Streptacidiphilus	545.18	0.60	Bis-ABC ATPase SCO6742
+PGF_03038172	Streptacidiphilus	79.82	2.40	Mycoredoxin (EC 1.20.4.3)
+PGF_03054584	Streptacidiphilus	295.36	34.29	Integral membrane protein
+PGF_03054699	Streptacidiphilus	901.18	104.94	DNA translocase FtsK
+PGF_03057384	Streptacidiphilus	366.36	2.80	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03058789	Streptacidiphilus	392.55	1.63	Isovaleryl-CoA dehydrogenase (EC 1.3.8.4)
+PGF_03060709	Streptacidiphilus	275.30	14.12	putative membrane protein
+PGF_03062930	Streptacidiphilus	458.00	6.78	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.35)
+PGF_03066353	Streptacidiphilus	456.36	5.94	Xanthine-uracil permease
+PGF_03069524	Streptacidiphilus	92.45	14.44	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+PGF_03071513	Streptacidiphilus	546.83	5.78	Amino acid-proton symporter YbeC
+PGF_03072132	Streptacidiphilus	159.27	2.41	CarD-like transcriptional regulator
+PGF_03081665	Streptacidiphilus	93.64	1.57	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03081927	Streptacidiphilus	247.18	2.64	Polyphosphate glucokinase (EC 2.7.1.63)
+PGF_03132336	Streptacidiphilus	444.55	8.97	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03137996	Streptacidiphilus	210.00	20.45	RNA polymerase sigma-70 factor
+PGF_03140772	Streptacidiphilus	532.75	90.41	Bis-ABC ATPase SCO6512
+PGF_03144011	Streptacidiphilus	171.55	16.88	Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03144406	Streptacidiphilus	126.10	48.01	hypothetical protein
+PGF_03161859	Streptacidiphilus	365.70	7.90	Calcium/proton antiporter
+PGF_03174068	Streptacidiphilus	294.00	26.57	Transcription antitermination protein NusG
+PGF_03222913	Streptacidiphilus	123.18	0.60	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03224875	Streptacidiphilus	281.27	44.52	RNA polymerase sigma factor
+PGF_03272313	Streptacidiphilus	877.73	10.29	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03277153	Streptacidiphilus	90.55	7.57	Sulfur metabolism protein SseC
+PGF_03331181	Streptacidiphilus	481.36	9.11	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)
+PGF_03340305	Streptacidiphilus	153.50	3.34	RidA/YER057c/UK114 superfamily, group 1
+PGF_03349171	Streptacidiphilus	146.18	15.20	Acetyltransferase
+PGF_03439827	Streptacidiphilus	405.91	8.04	Precorrin-2 oxidase (EC 1.3.1.76) @ Sirohydrochlorin ferrochelatase activity of CysG (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PGF_03453257	Streptacidiphilus	255.30	7.56	OsmC-like family protein
+PGF_03470321	Streptacidiphilus	198.55	29.57	FIG01269488: protein, clustered with ribosomal protein L32p
+PGF_03485198	Streptacidiphilus	177.27	13.51	AmfC protein
+PGF_03487230	Streptacidiphilus	147.09	0.70	hypothetical protein
+PGF_03488401	Streptacidiphilus	190.60	9.63	hypothetical protein
+PGF_03488936	Streptacidiphilus	287.20	4.16	hypothetical protein
+PGF_03489736	Streptacidiphilus	69.60	10.15	hypothetical protein
+PGF_03489756	Streptacidiphilus	53.80	6.00	hypothetical protein
+PGF_03489827	Streptacidiphilus	48.60	6.52	hypothetical protein
+PGF_03489847	Streptacidiphilus	127.50	2.17	hypothetical protein
+PGF_03489858	Streptacidiphilus	49.64	3.04	hypothetical protein
+PGF_03492999	Streptacidiphilus	302.45	7.87	hypothetical protein
+PGF_03493020	Streptacidiphilus	63.10	7.62	hypothetical protein
+PGF_03493935	Streptacidiphilus	165.00	2.31	hypothetical protein
+PGF_03507859	Streptacidiphilus	365.80	13.76	Luciferase-like monooxygenase YhbW
+PGF_03543348	Streptacidiphilus	473.27	5.27	Aminotransferase HpnO, required for aminobacteriohopanetriol
+PGF_03558774	Streptacidiphilus	290.82	3.03	Peptidase M48, Ste24p precursor
+PGF_03563519	Streptacidiphilus	116.73	2.41	hypothetical protein
+PGF_03579679	Streptacidiphilus	368.09	15.49	DNA-binding protein
+PGF_03584110	Streptacidiphilus	49.09	3.65	FIG011121: hypothetical protein
+PGF_03590449	Streptacidiphilus	247.09	8.37	GlnR-family transcriptional regulator
+PGF_03591205	Streptacidiphilus	505.64	6.86	Serine/threonine phosphatase PPP (EC 3.1.3.16)
+PGF_03602835	Streptacidiphilus	441.73	18.41	Hypothetical protein, possibly related to signal transduction
+PGF_03604747	Streptacidiphilus	274.09	2.70	hypothetical protein
+PGF_03607600	Streptacidiphilus	223.36	3.29	COG4339 metal-dependent phosphohydrolase, HD superfamily
+PGF_03623322	Streptacidiphilus	386.09	18.75	Integral membrane protein
+PGF_03635979	Streptacidiphilus	285.30	94.80	hypothetical protein
+PGF_03648626	Streptacidiphilus	297.36	12.00	FIG01124767: putative membrane protein
+PGF_03659350	Streptacidiphilus	586.91	34.42	Protein-O-mannosyltransferase
+PGF_03674577	Streptacidiphilus	383.91	4.32	Cytochrome c-type biogenesis protein CcsA/ResC
+PGF_03701810	Streptacidiphilus	305.55	2.66	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03723827	Streptacidiphilus	175.73	5.39	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03729141	Streptacidiphilus	193.73	13.10	UPF0301 protein YqgE
+PGF_03739563	Streptacidiphilus	127.91	2.63	PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+PGF_03750571	Streptacidiphilus	623.55	55.76	Chromosomal replication initiator protein DnaA
+PGF_03750600	Streptacidiphilus	166.82	7.85	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+PGF_03751658	Streptacidiphilus	118.00	13.96	Membrane protein insertion efficiency factor YidD
+PGF_03757137	Streptacidiphilus	476.91	5.99	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Streptacidiphilus	237.18	12.76	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03778127	Streptacidiphilus	178.27	2.97	FHA-domain-containing protein
+PGF_03778780	Streptacidiphilus	405.55	7.97	Signal recognition particle receptor FtsY
+PGF_03780858	Streptacidiphilus	618.55	15.60	Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1
+PGF_03783620	Streptacidiphilus	199.09	55.28	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03790040	Streptacidiphilus	252.91	5.45	Ribonuclease III (EC 3.1.26.3)
+PGF_03795734	Streptacidiphilus	238.60	5.54	Rod shape-determining protein MreD
+PGF_03801156	Streptacidiphilus	357.82	11.73	Cobalt-zinc-cadmium resistance protein CzcD
+PGF_03801195	Streptacidiphilus	242.73	1.79	Putative amidotransferase similar to cobyric acid synthase
+PGF_03801201	Streptacidiphilus	269.00	0.00	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Streptacidiphilus	73.27	2.24	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03810115	Streptacidiphilus	259.64	0.50	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+PGF_03811905	Streptacidiphilus	379.55	14.45	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_03862500	Streptacidiphilus	210.55	0.52	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+PGF_03959313	Streptacidiphilus	234.27	5.68	hypothetical protein
+PGF_03966713	Streptacidiphilus	259.64	13.23	hypothetical protein
+PGF_04002906	Streptacidiphilus	86.45	2.62	Protein of unknown function DUF4031
+PGF_04007946	Streptacidiphilus	277.27	13.15	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)
+PGF_04016408	Streptacidiphilus	492.36	10.29	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04036472	Streptacidiphilus	78.36	2.84	KH domain RNA binding protein YlqC
+PGF_04041316	Streptacidiphilus	981.09	11.84	Excinuclease ABC subunit A
+PGF_04047265	Streptacidiphilus	83.91	2.02	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04094270	Streptacidiphilus	225.64	7.99	TrkA-like protein
+PGF_04126481	Streptacidiphilus	692.27	18.22	Squalene---hopene cyclase (EC 5.4.99.17) @ Squalene---hopanol cyclase (EC 4.2.1.129)
+PGF_04151476	Streptacidiphilus	196.18	11.03	16S rRNA processing protein RimM
+PGF_04162809	Streptacidiphilus	152.00	0.00	Alkyl hydroperoxide reductase subunit C-like protein
+PGF_04182372	Streptacidiphilus	840.09	5.07	putative ATP-dependent helicase
+PGF_04182459	Streptacidiphilus	229.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04192284	Streptacidiphilus	252.55	6.19	Conserved membrane protein in copper uptake, YcnI
+PGF_04192523	Streptacidiphilus	385.45	13.18	putative thiolase
+PGF_04198961	Streptacidiphilus	212.82	7.74	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
+PGF_04213876	Streptacidiphilus	261.09	0.70	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04251642	Streptacidiphilus	142.36	1.21	(3R)-hydroxyacyl-ACP dehydratase subunit HadB
+PGF_04275882	Streptacidiphilus	74.27	5.83	hypothetical protein
+PGF_04306800	Streptacidiphilus	371.55	1.21	Alanine dehydrogenase (EC 1.4.1.1)
+PGF_04345693	Streptacidiphilus	485.36	11.34	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04354288	Streptacidiphilus	522.45	26.37	protein kinase
+PGF_04360357	Streptacidiphilus	914.27	5.57	Protein translocase subunit SecA
+PGF_04395505	Streptacidiphilus	365.73	4.13	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04454639	Streptacidiphilus	478.18	10.09	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+PGF_04457297	Streptacidiphilus	196.82	4.09	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04458521	Streptacidiphilus	461.27	14.23	Squalene/phytoene desaturase HopC
+PGF_04505269	Streptacidiphilus	307.64	10.27	SSU ribosomal protein S2p (SAe)
+PGF_04569524	Streptacidiphilus	524.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04574228	Streptacidiphilus	264.17	3.07	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04660832	Streptacidiphilus	200.00	21.13	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04704185	Streptacidiphilus	479.82	6.31	NAD(P)H quinone reductase LpdA (EC 1.6.5.2)
+PGF_04724831	Streptacidiphilus	382.20	17.38	Molybdenum ABC transporter ATP-binding protein ModC
+PGF_04749763	Streptacidiphilus	713.18	140.00	Translation initiation factor 2
+PGF_04788810	Streptacidiphilus	191.27	1.62	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Streptacidiphilus	322.36	31.54	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Streptacidiphilus	116.00	0.00	LSU ribosomal protein L19p
+PGF_04913120	Streptacidiphilus	1240.27	17.60	Aerobic cobaltochelatase CobN subunit (EC 6.6.1.2)
+PGF_04965976	Streptacidiphilus	383.82	0.87	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+PGF_04970608	Streptacidiphilus	88.73	0.90	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+PGF_04978890	Streptacidiphilus	104.18	0.60	LSU ribosomal protein L21p
+PGF_05010556	Streptacidiphilus	390.55	8.69	Hopene-associated glycosyltransferase HpnB
+PGF_05086951	Streptacidiphilus	144.91	4.70	Transcriptional regulator, Xre family
+PGF_05109279	Streptacidiphilus	90.73	32.46	hypothetical protein
+PGF_05135220	Streptacidiphilus	963.82	5.04	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05165078	Streptacidiphilus	309.73	4.76	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+PGF_05195027	Streptacidiphilus	481.00	0.00	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05197855	Streptacidiphilus	462.00	0.00	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+PGF_05207025	Streptacidiphilus	178.55	8.72	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+PGF_05255412	Streptacidiphilus	436.36	8.08	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05296102	Streptacidiphilus	283.64	7.02	Acetyl-CoA:Cys-GlcN-Ins acetyltransferase, mycothiol synthase MshD (EC 2.3.1.189)
+PGF_05444169	Streptacidiphilus	296.55	1.37	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+PGF_05463076	Streptacidiphilus	484.45	10.51	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
+PGF_05481451	Streptacidiphilus	61.55	4.20	FIG00735507: hypothetical protein
+PGF_05506419	Streptacidiphilus	303.20	4.54	hypothetical protein
+PGF_05569177	Streptacidiphilus	251.64	4.80	CoA-transferase subunit beta, IpdB
+PGF_05579323	Streptacidiphilus	357.18	7.78	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+PGF_05605679	Streptacidiphilus	305.17	12.22	Phytoene synthase (EC 2.5.1.32)
+PGF_05679920	Streptacidiphilus	1389.82	53.08	ATP-dependent helicase HrpA
+PGF_05710599	Streptacidiphilus	314.18	6.63	Ketopantoate reductase PanG (EC 1.1.1.169)
+PGF_05724539	Streptacidiphilus	444.73	92.74	Serine/threonine protein phosphatase (EC 3.1.3.16)
+PGF_05729472	Streptacidiphilus	1635.27	12.26	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+PGF_05826535	Streptacidiphilus	493.18	27.51	2,5-dioxovalerate dehydrogenase (EC 1.2.1.26)
+PGF_05843198	Streptacidiphilus	261.73	11.69	FIG017108: hypothetical protein
+PGF_05925776	Streptacidiphilus	352.18	25.90	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05934994	Streptacidiphilus	484.30	15.58	FIG002343: hypothetical protein
+PGF_05949521	Streptacidiphilus	597.09	15.88	Protein translocase subunit SecD
+PGF_05971611	Streptacidiphilus	400.18	2.27	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05988652	Streptacidiphilus	110.27	5.93	Type I antifreeze protein
+PGF_06051345	Streptacidiphilus	961.73	13.44	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+PGF_06051594	Streptacidiphilus	446.36	13.17	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06098633	Streptacidiphilus	409.00	0.00	Uncharacterized DUF349-containing protein SCO1511
+PGF_06180597	Streptacidiphilus	143.18	12.66	LSU ribosomal protein L13p (L13Ae)
+PGF_06211427	Streptacidiphilus	287.55	3.14	5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+PGF_06230969	Streptacidiphilus	476.64	57.42	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06241658	Streptacidiphilus	250.82	9.33	Probable enoyl-CoA hydratase EchA20 (EC 4.2.1.17)
+PGF_06285041	Streptacidiphilus	381.27	16.89	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+PGF_06285692	Streptacidiphilus	162.55	1.81	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+PGF_06305763	Streptacidiphilus	142.18	14.93	hypothetical protein
+PGF_06329961	Streptacidiphilus	390.82	8.32	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
+PGF_06403579	Streptacidiphilus	826.36	23.65	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06461498	Streptacidiphilus	277.09	1.51	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_06469881	Streptacidiphilus	320.91	0.54	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06530721	Streptacidiphilus	249.55	19.65	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06586947	Streptacidiphilus	404.91	25.31	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06594013	Streptacidiphilus	135.91	3.02	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+PGF_06649360	Streptacidiphilus	327.27	99.87	Segregation and condensation protein B
+PGF_06653378	Streptacidiphilus	392.18	0.60	Putative serine protease
+PGF_06684654	Streptacidiphilus	331.91	85.69	UDP-glucose 4-epimerase (EC 5.1.3.2)
+PGF_06690276	Streptacidiphilus	211.64	5.90	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Streptacidiphilus	112.36	2.16	Nucleoid-associated protein YaaK
+PGF_06701488	Streptacidiphilus	174.91	2.66	RNA-binding protein Jag
+PGF_06718352	Streptacidiphilus	165.18	1.54	Cys-tRNA(Pro) deacylase YbaK
+PGF_06735060	Streptacidiphilus	869.27	7.73	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+PGF_06755829	Streptacidiphilus	400.45	4.68	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+PGF_06772993	Streptacidiphilus	1099.82	228.52	Ribonuclease E (EC 3.1.26.12)
+PGF_06781655	Streptacidiphilus	469.70	91.25	Benzoate transport protein
+PGF_06869844	Streptacidiphilus	738.55	8.66	Fe-S oxidoreductase
+PGF_06948903	Streptacidiphilus	78.27	0.47	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_08074612	Streptacidiphilus	266.25	84.16	Adenylate cyclase (EC 4.6.1.1)
+PGF_08117870	Streptacidiphilus	107.00	3.29	Ferredoxin, 2Fe-2S
+PGF_08119736	Streptacidiphilus	222.90	2.28	hypothetical protein
+PGF_08125688	Streptacidiphilus	354.18	13.18	Arsenical pump-driving ATPase (EC 3.6.3.16) TEMP
+PGF_08153353	Streptacidiphilus	300.91	2.55	Aldehyde dehydrogenase (EC 1.2.1.3)
+PGF_08157610	Streptacidiphilus	292.00	49.40	hypothetical protein
+PGF_08178007	Streptacidiphilus	259.09	6.27	Efflux ABC transporter, permease protein
+PGF_08183187	Streptacidiphilus	442.36	17.05	Cell division protein FtsW
+PGF_08197987	Streptacidiphilus	117.00	0.00	Iron-sulfur cluster insertion protein SCO2161

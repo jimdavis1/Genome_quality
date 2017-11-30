@@ -1,0 +1,833 @@
+PGF_00000261	Sulfurospirillum	362.91	0.70	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+PGF_00002660	Sulfurospirillum	244.64	0.67	FIG022708: hypothetical protein
+PGF_00002688	Sulfurospirillum	237.64	30.48	FIG023911: putative membrane protein
+PGF_00003193	Sulfurospirillum	361.91	0.30	FIG053235: Diacylglucosamine hydrolase like
+PGF_00003516	Sulfurospirillum	238.27	2.41	GTP cyclohydrolase 1 type 2 homolog YbgI
+PGF_00005284	Sulfurospirillum	575.09	1.14	Flagellar M-ring protein FliF
+PGF_00005288	Sulfurospirillum	350.27	0.90	Flagellar P-ring protein FlgI
+PGF_00005354	Sulfurospirillum	163.82	0.40	Flagellar basal-body rod protein FlgC
+PGF_00005358	Sulfurospirillum	262.00	0.00	Flagellar basal-body rod protein FlgG
+PGF_00005384	Sulfurospirillum	730.55	1.51	Flagellar biosynthesis protein FlhA
+PGF_00005405	Sulfurospirillum	257.18	0.60	Flagellar biosynthesis protein FliR
+PGF_00005450	Sulfurospirillum	583.00	63.84	Flagellar hook protein FlgE
+PGF_00005454	Sulfurospirillum	614.82	1.47	Flagellar hook-associated protein FlgK
+PGF_00005537	Sulfurospirillum	287.73	1.56	Flagellar motor switch protein FliN
+PGF_00005579	Sulfurospirillum	148.27	11.98	Flagellar protein FlgP
+PGF_00005625	Sulfurospirillum	339.00	1.48	Flagellar sensory histidine kinase FlgS
+PGF_00006320	Sulfurospirillum	279.73	0.90	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+PGF_00006380	Sulfurospirillum	278.27	0.47	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+PGF_00006394	Sulfurospirillum	358.00	0.00	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+PGF_00006462	Sulfurospirillum	259.82	0.60	Fumarate reductase cytochrome b subunit
+PGF_00006935	Sulfurospirillum	511.09	0.30	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+PGF_00007012	Sulfurospirillum	366.00	0.00	GTP-binding and nucleic acid-binding protein YchF
+PGF_00007024	Sulfurospirillum	478.55	5.72	GTP-binding protein EngA
+PGF_00007026	Sulfurospirillum	200.45	1.21	GTP-binding protein EngB
+PGF_00007027	Sulfurospirillum	296.64	0.92	GTP-binding protein Era
+PGF_00007041	Sulfurospirillum	599.36	1.21	GTP-binding protein TypA/BipA
+PGF_00007057	Sulfurospirillum	414.36	22.85	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+PGF_00007304	Sulfurospirillum	268.27	5.73	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+PGF_00007632	Sulfurospirillum	304.73	1.85	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+PGF_00007988	Sulfurospirillum	420.00	1.48	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+PGF_00008059	Sulfurospirillum	253.36	3.47	Glutamate 5-kinase (EC 2.7.2.11)
+PGF_00008075	Sulfurospirillum	396.73	2.41	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_00008115	Sulfurospirillum	1474.09	0.30	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+PGF_00008164	Sulfurospirillum	428.27	0.47	Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+PGF_00008258	Sulfurospirillum	476.00	0.00	Glutamine synthetase type I (EC 6.3.1.2)
+PGF_00008326	Sulfurospirillum	748.45	1.81	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+PGF_00008334	Sulfurospirillum	434.18	1.33	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PGF_00008611	Sulfurospirillum	296.45	2.25	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+PGF_00008838	Sulfurospirillum	187.91	1.87	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+PGF_00009500	Sulfurospirillum	190.45	1.81	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+PGF_00009967	Sulfurospirillum	285.45	1.51	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+PGF_00009969	Sulfurospirillum	684.27	4.22	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+PGF_00010205	Sulfurospirillum	222.00	0.00	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+PGF_00010349	Sulfurospirillum	717.91	0.30	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+PGF_00010360	Sulfurospirillum	203.27	1.85	Guanylate kinase (EC 2.7.4.8)
+PGF_00010612	Sulfurospirillum	411.82	3.52	HISTIDINE KINASE SENSOR PROTEIN
+PGF_00010977	Sulfurospirillum	142.00	0.77	Heat shock protein Hsp20
+PGF_00011081	Sulfurospirillum	608.55	8.82	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PGF_00011979	Sulfurospirillum	430.91	2.43	Histidinol dehydrogenase (EC 1.1.1.23)
+PGF_00011989	Sulfurospirillum	259.00	0.00	Histidinol-phosphatase (EC 3.1.3.15)
+PGF_00012264	Sulfurospirillum	340.36	0.92	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+PGF_00012288	Sulfurospirillum	315.64	8.15	Homocysteine S-methyltransferase (EC 2.1.1.10)
+PGF_00012340	Sulfurospirillum	423.09	0.30	Homoserine dehydrogenase (EC 1.1.1.3)
+PGF_00012356	Sulfurospirillum	294.00	0.00	Homoserine kinase (EC 2.7.1.39)
+PGF_00012381	Sulfurospirillum	180.82	2.23	Hot dog fold protein HP0420
+PGF_00012430	Sulfurospirillum	123.82	0.60	HspR, transcriptional repressor of DnaK operon
+PGF_00012443	Sulfurospirillum	471.64	1.96	HtrA protease/chaperone protein / Serine protease (Protease DO) (EC 3.4.21.-)
+PGF_00012691	Sulfurospirillum	402.91	0.30	Hydrolase, HAD superfamily
+PGF_00012970	Sulfurospirillum	606.18	52.46	Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)
+PGF_00013003	Sulfurospirillum	609.91	1.04	Bis-ABC ATPase YheS
+PGF_00013100	Sulfurospirillum	472.45	1.29	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+PGF_00013283	Sulfurospirillum	225.00	0.00	UPF0001 protein YggS
+PGF_00013348	Sulfurospirillum	184.00	0.00	Hypothetical protein probably associated with Carbamoyl-phosphate synthase
+PGF_00013509	Sulfurospirillum	510.00	0.00	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+PGF_00013519	Sulfurospirillum	341.27	0.47	Lipopolysaccharide export system permease protein LptF
+PGF_00014051	Sulfurospirillum	261.91	0.30	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+PGF_00014311	Sulfurospirillum	482.09	0.30	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
+PGF_00014902	Sulfurospirillum	348.00	13.44	Integrase-recombinase protein XERCD family
+PGF_00014997	Sulfurospirillum	283.73	0.90	ATP phosphoribosyltransferase regulatory subunit, divergent variant (EC 2.4.2.17)
+PGF_00015039	Sulfurospirillum	224.91	0.30	ATP synthase F0 sector subunit a (EC 3.6.3.14)
+PGF_00015142	Sulfurospirillum	101.27	2.41	ATP synthase F0 sector subunit c (EC 3.6.3.14)
+PGF_00015259	Sulfurospirillum	294.00	0.00	ATP synthase gamma chain (EC 3.6.3.14)
+PGF_00015350	Sulfurospirillum	98.55	1.69	ATP synthase protein I-like membrane protein
+PGF_00015526	Sulfurospirillum	331.36	5.80	Iron-sulfur cluster assembly scaffold protein IscU/NifU-like
+PGF_00015529	Sulfurospirillum	92.09	1.38	Iron-sulfur cluster assembly scaffold protein NifU
+PGF_00015703	Sulfurospirillum	744.36	2.84	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+PGF_00015718	Sulfurospirillum	919.18	7.91	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+PGF_00015855	Sulfurospirillum	340.00	0.00	Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+PGF_00016132	Sulfurospirillum	293.91	57.84	L-lactate dehydrogenase (EC 1.1.1.27)
+PGF_00016231	Sulfurospirillum	445.09	0.30	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)
+PGF_00016325	Sulfurospirillum	732.36	0.81	ATP-dependent Clp protease ATP-binding subunit ClpA
+PGF_00016328	Sulfurospirillum	160.09	0.30	LSU ribosomal protein L10p (P0)
+PGF_00016340	Sulfurospirillum	122.00	0.00	LSU ribosomal protein L14p (L23e)
+PGF_00016342	Sulfurospirillum	133.82	0.60	LSU ribosomal protein L15p (L27Ae)
+PGF_00016343	Sulfurospirillum	140.64	0.81	LSU ribosomal protein L16p (L10e)
+PGF_00016346	Sulfurospirillum	101.73	11.38	LSU ribosomal protein L17p
+PGF_00016353	Sulfurospirillum	114.27	12.36	LSU ribosomal protein L18p (L5e)
+PGF_00016357	Sulfurospirillum	233.91	0.30	LSU ribosomal protein L1p (L10Ae)
+PGF_00016358	Sulfurospirillum	116.91	0.30	LSU ribosomal protein L20p
+PGF_00016361	Sulfurospirillum	102.09	0.83	ATP-dependent Clp protease adaptor protein ClpS
+PGF_00016368	Sulfurospirillum	107.73	7.54	LSU ribosomal protein L22p (L17e)
+PGF_00016374	Sulfurospirillum	93.00	0.00	LSU ribosomal protein L23p (L23Ae)
+PGF_00016377	Sulfurospirillum	77.27	1.62	LSU ribosomal protein L24p (L26e)
+PGF_00016385	Sulfurospirillum	85.73	0.47	LSU ribosomal protein L27p
+PGF_00016393	Sulfurospirillum	276.00	0.00	LSU ribosomal protein L2p (L8e)
+PGF_00016423	Sulfurospirillum	64.00	0.00	LSU ribosomal protein L35p
+PGF_00016431	Sulfurospirillum	192.00	0.00	LSU ribosomal protein L3p (L3e)
+PGF_00016439	Sulfurospirillum	204.00	0.00	LSU ribosomal protein L4p (L1e)
+PGF_00016443	Sulfurospirillum	181.27	0.47	LSU ribosomal protein L5p (L11e)
+PGF_00016444	Sulfurospirillum	178.00	0.00	LSU ribosomal protein L6p (L9e)
+PGF_00016445	Sulfurospirillum	124.00	0.00	LSU ribosomal protein L7p/L12p (P1/P2)
+PGF_00016452	Sulfurospirillum	148.00	0.00	LSU ribosomal protein L9p
+PGF_00016495	Sulfurospirillum	242.73	0.65	Lactam utilization protein LamB
+PGF_00016919	Sulfurospirillum	225.91	10.60	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)
+PGF_00016948	Sulfurospirillum	676.00	0.00	ATP-dependent DNA helicase UvrD/PcrA/Rep, epsilon proteobacterial type 1
+PGF_00016959	Sulfurospirillum	683.27	6.90	ATP-dependent DNA helicase UvrD/PcrA/Rep, epsilon proteobacterial type 2
+PGF_00017109	Sulfurospirillum	341.00	16.20	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+PGF_00017190	Sulfurospirillum	240.00	0.00	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+PGF_00018221	Sulfurospirillum	471.55	10.88	MCP-DOMAIN SIGNAL TRANSDUCTION PROTEIN
+PGF_00018414	Sulfurospirillum	265.64	10.83	MSHA biogenesis protein MshM
+PGF_00018970	Sulfurospirillum	446.09	0.30	Malate:quinone oxidoreductase (EC 1.1.5.4)
+PGF_00019038	Sulfurospirillum	441.00	0.00	ATP-dependent hsl protease ATP-binding subunit HslU
+PGF_00019248	Sulfurospirillum	305.09	0.30	Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+PGF_00019428	Sulfurospirillum	180.36	1.21	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+PGF_00019594	Sulfurospirillum	363.45	0.82	Membrane protease family protein HP0248
+PGF_00019726	Sulfurospirillum	395.64	0.92	Membrane protein
+PGF_00019811	Sulfurospirillum	234.82	0.60	Membrane protein
+PGF_00019843	Sulfurospirillum	305.82	9.51	Membrane protein
+PGF_00020173	Sulfurospirillum	404.91	1.38	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+PGF_00020184	Sulfurospirillum	412.00	2.97	Membrane-bound lytic murein transglycosylase D
+PGF_00020264	Sulfurospirillum	289.00	0.00	Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+PGF_00020361	Sulfurospirillum	139.45	0.82	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+PGF_00020689	Sulfurospirillum	673.91	1.38	ATP/GTP-binding protein
+PGF_00020735	Sulfurospirillum	252.00	0.00	Methionine aminopeptidase (EC 3.4.11.18)
+PGF_00020984	Sulfurospirillum	281.27	1.42	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+PGF_00021217	Sulfurospirillum	495.73	3.13	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+PGF_00022434	Sulfurospirillum	213.91	0.30	MoeB/thiF family protein
+PGF_00022503	Sulfurospirillum	273.18	2.68	Molybdenum transport system protein ModD
+PGF_00022507	Sulfurospirillum	175.55	0.69	Molybdopterin adenylyltransferase (EC 2.7.7.75)
+PGF_00022549	Sulfurospirillum	147.73	0.90	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+PGF_00022577	Sulfurospirillum	165.00	0.00	Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+PGF_00023739	Sulfurospirillum	336.27	1.27	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+PGF_00024185	Sulfurospirillum	290.55	1.81	N-carbamoylputrescine amidase (EC 3.5.1.53) / Aliphatic amidase AmiE (EC 3.5.1.4)
+PGF_00024232	Sulfurospirillum	375.82	0.87	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2
+PGF_00024234	Sulfurospirillum	369.36	1.80	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)
+PGF_00024240	Sulfurospirillum	245.00	0.00	N-terminal HTH domain of molybdenum-binding protein family
+PGF_00024273	Sulfurospirillum	164.27	0.47	N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+PGF_00024308	Sulfurospirillum	259.27	7.56	NAD synthetase (EC 6.3.1.5)
+PGF_00024478	Sulfurospirillum	332.64	0.92	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+PGF_00024567	Sulfurospirillum	403.27	2.41	Acetate kinase (EC 2.7.2.1)
+PGF_00024855	Sulfurospirillum	130.64	1.21	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)
+PGF_00025090	Sulfurospirillum	563.00	0.00	Acetolactate synthase large subunit (EC 2.2.1.6)
+PGF_00025215	Sulfurospirillum	156.09	0.30	Acetolactate synthase small subunit (EC 2.2.1.6)
+PGF_00025289	Sulfurospirillum	393.64	12.10	Na+/H+ antiporter NhaA type
+PGF_00025517	Sulfurospirillum	137.09	0.30	Nickel responsive regulator NikR
+PGF_00026279	Sulfurospirillum	312.00	0.00	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+PGF_00026307	Sulfurospirillum	224.36	1.80	NrfC protein
+PGF_00026310	Sulfurospirillum	318.64	2.06	NrfD protein
+PGF_00026362	Sulfurospirillum	199.18	10.23	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)
+PGF_00026453	Sulfurospirillum	287.27	15.68	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)
+PGF_00026615	Sulfurospirillum	283.45	1.51	Acetylglutamate kinase (EC 2.7.2.8)
+PGF_00026888	Sulfurospirillum	572.82	0.60	Oligoendopeptidase F (EC 3.4.24.-)
+PGF_00027125	Sulfurospirillum	711.91	13.90	Oligosaccharyltransferase PglB (EC 2.4.1.119)
+PGF_00028149	Sulfurospirillum	208.64	1.21	Outer membrane protein
+PGF_00028486	Sulfurospirillum	246.82	6.24	Outer-membrane-phospholipid-binding lipoprotein MlaA
+PGF_00029287	Sulfurospirillum	852.00	0.45	Aconitate hydratase 2 (EC 4.2.1.3)
+PGF_00029917	Sulfurospirillum	270.91	6.93	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+PGF_00030018	Sulfurospirillum	894.36	66.06	Paralog of flagellar hook protein FlgE
+PGF_00030021	Sulfurospirillum	731.33	154.94	Paralysed flagella protein PflA
+PGF_00030640	Sulfurospirillum	355.00	0.00	Peptide chain release factor 1
+PGF_00031566	Sulfurospirillum	123.09	0.30	Peroxide stress regulator / Ferric uptake regulation protein
+PGF_00033095	Sulfurospirillum	778.91	0.30	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+PGF_00033253	Sulfurospirillum	360.27	50.27	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+PGF_00033289	Sulfurospirillum	324.36	9.43	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+PGF_00033359	Sulfurospirillum	354.00	0.00	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+PGF_00033511	Sulfurospirillum	399.00	0.00	Phosphoglycerate kinase (EC 2.7.2.3)
+PGF_00033729	Sulfurospirillum	261.82	4.26	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+PGF_00033877	Sulfurospirillum	159.64	1.21	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+PGF_00033922	Sulfurospirillum	226.73	0.90	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+PGF_00033928	Sulfurospirillum	423.18	0.98	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+PGF_00033936	Sulfurospirillum	236.91	0.30	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+PGF_00033941	Sulfurospirillum	195.09	0.30	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+PGF_00033946	Sulfurospirillum	238.73	1.85	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+PGF_00033954	Sulfurospirillum	331.27	0.47	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+PGF_00033959	Sulfurospirillum	223.09	0.30	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+PGF_00033961	Sulfurospirillum	733.00	0.00	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+PGF_00033968	Sulfurospirillum	193.82	2.40	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+PGF_00033971	Sulfurospirillum	386.00	0.00	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)
+PGF_00033986	Sulfurospirillum	369.27	0.65	Phosphoserine aminotransferase (EC 2.6.1.52)
+PGF_00034776	Sulfurospirillum	747.18	0.75	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+PGF_00034972	Sulfurospirillum	184.00	1.34	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+PGF_00034988	Sulfurospirillum	323.45	2.50	Porphobilinogen synthase (EC 4.2.1.24)
+PGF_00035183	Sulfurospirillum	156.00	0.00	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+PGF_00035214	Sulfurospirillum	407.64	1.21	Adenosine deaminase (EC 3.5.4.4), alternative form
+PGF_00035241	Sulfurospirillum	197.36	5.26	Possible periplasmic thioredoxin
+PGF_00035327	Sulfurospirillum	295.09	0.30	Possible two-component regulator
+PGF_00035721	Sulfurospirillum	442.18	0.60	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)
+PGF_00035752	Sulfurospirillum	415.18	0.60	Adenylosuccinate synthetase (EC 6.3.4.4)
+PGF_00036309	Sulfurospirillum	270.00	0.00	Predicted signal transduction protein
+PGF_00036328	Sulfurospirillum	603.45	1.97	Predicted signal-transduction protein containing cAMP-binding and CBS domains
+PGF_00036580	Sulfurospirillum	87.64	11.16	Protein translocase subunit YajC
+PGF_00037006	Sulfurospirillum	330.73	1.19	Agmatine deiminase (EC 3.5.3.12)
+PGF_00037181	Sulfurospirillum	336.18	0.60	Probable membrane protein Cj0124c
+PGF_00037588	Sulfurospirillum	567.09	0.30	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+PGF_00037937	Sulfurospirillum	112.45	0.52	Protein PhnA
+PGF_00038674	Sulfurospirillum	323.00	0.00	Protein translocase subunit SecF
+PGF_00038791	Sulfurospirillum	111.18	0.75	Protein translocase membrane subunit SecG
+PGF_00038917	Sulfurospirillum	300.73	6.75	Pseudouridine synthase (EC 4.2.1.70), jhp_0321 type
+PGF_00039342	Sulfurospirillum	265.91	0.30	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+PGF_00039352	Sulfurospirillum	288.73	23.22	Putative Fe-S oxidoreductase
+PGF_00040390	Sulfurospirillum	442.73	3.58	Putative carboxyl-terminal protease (EC 3.4.21.-)
+PGF_00040492	Sulfurospirillum	690.82	4.40	Putative cytochrome c
+PGF_00040578	Sulfurospirillum	265.45	1.81	Uncharacterized metal-dependent hydrolase YcfH
+PGF_00040847	Sulfurospirillum	406.73	2.41	Putative fibronectin domain-containing lipoprotein
+PGF_00040864	Sulfurospirillum	206.91	4.91	Putative flagellar motility protein
+PGF_00041243	Sulfurospirillum	441.64	1.21	Putative helicase
+PGF_00041939	Sulfurospirillum	535.55	0.52	Putative mechanosensitive ion channel
+PGF_00041973	Sulfurospirillum	391.18	1.66	Putative membrane protein related to metalloendopeptidases
+PGF_00042297	Sulfurospirillum	206.82	18.19	Putative methyltransferase associated with DUF414
+PGF_00042981	Sulfurospirillum	175.09	0.70	Putative periplasmic protein
+PGF_00043017	Sulfurospirillum	170.27	1.49	Putative periplasmic protein
+PGF_00043033	Sulfurospirillum	455.82	0.60	Putative periplasmic protein
+PGF_00043041	Sulfurospirillum	238.73	0.90	Putative periplasmic protein
+PGF_00043051	Sulfurospirillum	364.18	12.02	Putative periplasmic protein
+PGF_00043157	Sulfurospirillum	298.00	0.00	All-trans-hexaprenyl-diphosphate synthase (EC 2.5.1.33)
+PGF_00043368	Sulfurospirillum	421.73	1.35	Putative protease
+PGF_00045477	Sulfurospirillum	416.73	0.90	Two-component system response regulator protein
+PGF_00045538	Sulfurospirillum	411.00	1.10	Putative two-component sensor
+PGF_00045720	Sulfurospirillum	429.27	6.39	Putative zinc protease
+PGF_00045900	Sulfurospirillum	259.00	0.00	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+PGF_00045971	Sulfurospirillum	601.00	3.46	Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)
+PGF_00045991	Sulfurospirillum	481.09	0.30	Pyruvate kinase (EC 2.7.1.40)
+PGF_00046007	Sulfurospirillum	1187.82	2.23	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+PGF_00046060	Sulfurospirillum	192.00	0.00	7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+PGF_00046101	Sulfurospirillum	276.09	0.30	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+PGF_00046104	Sulfurospirillum	330.00	0.00	Quinolinate synthetase (EC 2.5.1.72)
+PGF_00046134	Sulfurospirillum	582.18	0.60	Quinone-reactive Ni/Fe-hydrogenase large chain (EC 1.12.5.1)
+PGF_00046135	Sulfurospirillum	385.00	0.00	Quinone-reactive Ni/Fe-hydrogenase small chain (EC 1.12.5.1)
+PGF_00046197	Sulfurospirillum	237.09	1.76	RNA binding methyltransferase FtsJ like
+PGF_00046597	Sulfurospirillum	118.82	0.60	RNA polymerase-binding transcription factor DksA
+PGF_00048480	Sulfurospirillum	202.00	0.00	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+PGF_00048556	Sulfurospirillum	182.55	1.29	Ribonuclease HII (EC 3.1.26.4)
+PGF_00048627	Sulfurospirillum	701.91	1.38	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+PGF_00048630	Sulfurospirillum	788.00	0.00	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+PGF_00048636	Sulfurospirillum	340.00	0.00	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+PGF_00048651	Sulfurospirillum	143.36	1.91	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+PGF_00048782	Sulfurospirillum	309.00	0.00	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+PGF_00048840	Sulfurospirillum	271.55	12.13	Ribosomal protein L11 methyltransferase
+PGF_00048846	Sulfurospirillum	434.36	6.12	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+PGF_00048917	Sulfurospirillum	171.00	1.26	Ribosome hibernation promoting factor Hpf
+PGF_00048926	Sulfurospirillum	186.00	0.00	Ribosome recycling factor
+PGF_00048985	Sulfurospirillum	213.00	0.45	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+PGF_00049271	Sulfurospirillum	247.00	0.00	Rubredoxin
+PGF_00049330	Sulfurospirillum	403.91	1.38	S-adenosylmethionine synthetase (EC 2.5.1.6)
+PGF_00049362	Sulfurospirillum	311.45	8.26	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)
+PGF_00049433	Sulfurospirillum	166.91	0.70	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+PGF_00049550	Sulfurospirillum	380.91	0.83	Alternative dihydrofolate reductase 2 / Dihydropteroate synthase (EC 2.5.1.15)
+PGF_00049724	Sulfurospirillum	322.27	0.90	SIMILARITY TO mviN PROTEIN
+PGF_00049827	Sulfurospirillum	275.45	25.16	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+PGF_00049828	Sulfurospirillum	68.09	33.42	SSU ribosomal protein S10p (S20e)
+PGF_00049837	Sulfurospirillum	130.00	0.00	SSU ribosomal protein S11p (S14e)
+PGF_00049838	Sulfurospirillum	120.64	9.23	SSU ribosomal protein S12p (S23e)
+PGF_00049840	Sulfurospirillum	121.91	0.30	SSU ribosomal protein S13p (S18e)
+PGF_00049847	Sulfurospirillum	90.91	1.04	SSU ribosomal protein S15p (S13e)
+PGF_00049849	Sulfurospirillum	74.45	3.75	SSU ribosomal protein S16p
+PGF_00049857	Sulfurospirillum	88.09	0.30	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent
+PGF_00049860	Sulfurospirillum	93.00	0.00	SSU ribosomal protein S19p (S15e)
+PGF_00049866	Sulfurospirillum	70.00	0.00	SSU ribosomal protein S21p
+PGF_00049889	Sulfurospirillum	236.36	2.11	SSU ribosomal protein S3p (S3e)
+PGF_00049893	Sulfurospirillum	208.00	0.00	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+PGF_00049896	Sulfurospirillum	147.00	0.00	SSU ribosomal protein S5p (S2e)
+PGF_00049901	Sulfurospirillum	134.27	1.74	SSU ribosomal protein S6p
+PGF_00049904	Sulfurospirillum	156.00	0.00	SSU ribosomal protein S7p (S5e)
+PGF_00049906	Sulfurospirillum	121.09	13.82	SSU ribosomal protein S8p (S15Ae)
+PGF_00049909	Sulfurospirillum	129.36	0.50	SSU ribosomal protein S9p (S16e)
+PGF_00050995	Sulfurospirillum	445.00	0.00	Amidophosphoribosyltransferase (EC 2.4.2.14)
+PGF_00051142	Sulfurospirillum	243.73	21.64	Septum-associated rare lipoprotein A
+PGF_00051187	Sulfurospirillum	255.73	3.00	Ser/Thr protein phosphatase family protein, UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.54) homolog
+PGF_00051525	Sulfurospirillum	413.82	0.60	Seryl-tRNA synthetase (EC 6.1.1.11)
+PGF_00051717	Sulfurospirillum	250.64	0.50	3-hydroxypropionate dehydrogenase (EC 1.1.1.298)
+PGF_00052238	Sulfurospirillum	445.82	0.60	Signal recognition particle protein Ffh
+PGF_00052460	Sulfurospirillum	391.00	14.28	Signal-transduction regulatory protein FlgR
+PGF_00052705	Sulfurospirillum	141.00	0.00	LSU ribosomal protein L11p (L12e)
+PGF_00052773	Sulfurospirillum	392.64	0.50	Similarity with glutathionylspermidine synthase (EC 6.3.1.8), group 2
+PGF_00053048	Sulfurospirillum	231.45	1.29	Aminodeoxyfutalosine nucleosidase (EC 3.2.2.30)
+PGF_00053078	Sulfurospirillum	347.64	24.13	Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+PGF_00054528	Sulfurospirillum	390.00	1.00	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+PGF_00054955	Sulfurospirillum	396.82	0.40	Sulfate adenylyltransferase (EC 2.7.7.4)
+PGF_00055285	Sulfurospirillum	129.91	0.30	Superoxide reductase (EC 1.15.1.2)
+PGF_00056273	Sulfurospirillum	305.73	12.41	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+PGF_00056544	Sulfurospirillum	262.36	3.14	Thiazole synthase (EC 2.8.1.10)
+PGF_00056545	Sulfurospirillum	184.64	1.21	Thiazole tautomerase TenI (EC 5.3.99.10)
+PGF_00056662	Sulfurospirillum	327.09	0.30	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+PGF_00056814	Sulfurospirillum	470.00	0.00	Anthranilate synthase, aminase component (EC 4.1.3.27)
+PGF_00056883	Sulfurospirillum	194.00	0.00	Thymidylate kinase (EC 2.7.4.9)
+PGF_00057015	Sulfurospirillum	129.91	0.30	Tol biopolymer transport system, TolR protein
+PGF_00057024	Sulfurospirillum	281.64	33.94	Cell division coordinator CpoB
+PGF_00057028	Sulfurospirillum	168.09	5.66	Tol-Pal system peptidoglycan-associated lipoprotein PAL
+PGF_00057483	Sulfurospirillum	458.45	15.43	Transcription termination factor Rho
+PGF_00057485	Sulfurospirillum	374.09	1.58	Transcription termination protein NusA
+PGF_00057488	Sulfurospirillum	135.45	0.52	Transcription termination protein NusB
+PGF_00060398	Sulfurospirillum	660.55	3.98	Transketolase (EC 2.2.1.1)
+PGF_00060409	Sulfurospirillum	688.82	10.55	Translation elongation factor G
+PGF_00060414	Sulfurospirillum	597.00	0.00	Translation elongation factor LepA
+PGF_00060421	Sulfurospirillum	187.00	0.00	Translation elongation factor P
+PGF_00060427	Sulfurospirillum	354.36	2.11	Translation elongation factor Ts
+PGF_00060428	Sulfurospirillum	389.27	42.00	Translation elongation factor Tu
+PGF_00060478	Sulfurospirillum	163.27	10.94	Translation initiation factor 3
+PGF_00060481	Sulfurospirillum	113.00	3.00	Translation initiation factor SUI1-related protein
+PGF_00061946	Sulfurospirillum	467.82	1.17	TrkA domain protein
+PGF_00062017	Sulfurospirillum	402.55	0.52	Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)
+PGF_00062023	Sulfurospirillum	246.00	0.00	Tryptophan synthase alpha chain (EC 4.2.1.20)
+PGF_00062027	Sulfurospirillum	401.00	0.00	Tryptophan synthase beta chain (EC 4.2.1.20)
+PGF_00062045	Sulfurospirillum	321.09	0.30	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+PGF_00062793	Sulfurospirillum	390.82	8.83	Two-component system histidine kinase DccS
+PGF_00062796	Sulfurospirillum	414.55	1.51	Two-component system histidine kinase RacS
+PGF_00062860	Sulfurospirillum	224.55	2.70	Two-component system response regulator DccR
+PGF_00063345	Sulfurospirillum	505.45	6.92	Type II secretion outermembrane pore forming protein (PulD)
+PGF_00063358	Sulfurospirillum	413.27	0.47	Type II secretion system protein
+PGF_00063382	Sulfurospirillum	586.00	6.93	Type II secretory pathway, ATPase PulE/Tfp pilus assembly pathway, ATPase PilB
+PGF_00063944	Sulfurospirillum	294.00	0.00	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+PGF_00063948	Sulfurospirillum	316.55	0.69	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+PGF_00063993	Sulfurospirillum	343.18	2.32	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+PGF_00063999	Sulfurospirillum	435.73	1.62	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+PGF_00064243	Sulfurospirillum	614.18	2.04	Arginine decarboxylase (EC 4.1.1.19)
+PGF_00064378	Sulfurospirillum	253.09	0.30	Transmembrane protein YfcA
+PGF_00064422	Sulfurospirillum	602.00	0.00	UbiD family decarboxylase associated with menaquinone via futalosine
+PGF_00064685	Sulfurospirillum	83.00	0.00	Uncharacterized ferredoxin-like protein YfhL
+PGF_00065274	Sulfurospirillum	239.09	0.54	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+PGF_00065887	Sulfurospirillum	227.91	3.62	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+PGF_00066139	Sulfurospirillum	225.73	5.10	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
+PGF_00066240	Sulfurospirillum	190.36	2.80	Uridine diphosphate glucose pyrophosphatase (EC 3.6.1.45)
+PGF_00066270	Sulfurospirillum	340.09	0.30	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PGF_00066453	Sulfurospirillum	876.00	0.00	Valyl-tRNA synthetase (EC 6.1.1.9)
+PGF_00066589	Sulfurospirillum	121.00	0.00	Aspartate 1-decarboxylase (EC 4.1.1.11)
+PGF_00066827	Sulfurospirillum	377.00	0.00	WbgX protein
+PGF_00066906	Sulfurospirillum	294.09	8.86	Aspartate carbamoyltransferase (EC 2.1.3.2)
+PGF_00066964	Sulfurospirillum	428.45	1.63	Xanthine/uracil/thiamine/ascorbate permease family protein
+PGF_00067188	Sulfurospirillum	342.00	0.45	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+PGF_00067277	Sulfurospirillum	371.82	3.89	Valine--pyruvate aminotransferase (EC 2.6.1.66)
+PGF_00067466	Sulfurospirillum	582.00	0.00	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+PGF_00067554	Sulfurospirillum	475.55	0.69	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+PGF_00067771	Sulfurospirillum	372.64	4.54	[NiFe] hydrogenase metallocenter assembly protein HypD
+PGF_00067772	Sulfurospirillum	334.00	0.00	[NiFe] hydrogenase metallocenter assembly protein HypE
+PGF_00067788	Sulfurospirillum	278.73	6.23	[NiFe] hydrogenase nickel incorporation-associated protein HypB
+PGF_00068804	Sulfurospirillum	164.73	1.19	asparaginase
+PGF_00069313	Sulfurospirillum	107.27	0.47	branched chain amino acid transport protein AzlD
+PGF_00069596	Sulfurospirillum	300.73	2.15	Ferrous-iron efflux pump FieF
+PGF_00071194	Sulfurospirillum	454.82	3.40	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+PGF_00072304	Sulfurospirillum	203.91	0.30	2-keto-4-pentenoate hydratase (EC 4.2.1.80)
+PGF_00074714	Sulfurospirillum	53.91	0.30	hypothetical protein
+PGF_00084324	Sulfurospirillum	258.82	6.24	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+PGF_00088090	Sulfurospirillum	187.09	0.30	hypothetical protein
+PGF_00090642	Sulfurospirillum	167.64	2.11	hypothetical protein
+PGF_00095751	Sulfurospirillum	74.27	1.79	hypothetical protein
+PGF_00100676	Sulfurospirillum	153.82	8.83	hypothetical protein
+PGF_00113984	Sulfurospirillum	175.18	0.60	Flavin prenyltransferase UbiX
+PGF_00115721	Sulfurospirillum	79.09	0.30	hypothetical protein
+PGF_00117972	Sulfurospirillum	289.91	1.22	hypothetical protein
+PGF_00187837	Sulfurospirillum	79.91	10.83	hypothetical protein
+PGF_00194856	Sulfurospirillum	232.55	10.50	hypothetical protein
+PGF_00196662	Sulfurospirillum	356.82	3.97	hypothetical protein
+PGF_00197291	Sulfurospirillum	150.00	0.89	hypothetical protein
+PGF_00206325	Sulfurospirillum	345.91	0.30	Acid membrane antigen A
+PGF_00221651	Sulfurospirillum	196.73	22.97	hypothetical protein
+PGF_00257119	Sulfurospirillum	90.82	2.09	hypothetical protein
+PGF_00267131	Sulfurospirillum	61.82	0.60	hypothetical protein
+PGF_00271471	Sulfurospirillum	168.82	1.08	hypothetical protein
+PGF_00275517	Sulfurospirillum	198.00	0.00	hypothetical protein
+PGF_00281515	Sulfurospirillum	504.36	1.03	hypothetical protein
+PGF_00283647	Sulfurospirillum	631.91	1.81	hypothetical protein
+PGF_00285620	Sulfurospirillum	195.91	0.30	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+PGF_00296077	Sulfurospirillum	642.55	0.52	hypothetical protein
+PGF_00300007	Sulfurospirillum	124.73	0.65	hypothetical protein
+PGF_00303830	Sulfurospirillum	253.09	1.87	hypothetical protein
+PGF_00310994	Sulfurospirillum	146.27	3.10	hypothetical protein
+PGF_00319452	Sulfurospirillum	108.18	6.03	hypothetical protein
+PGF_00320580	Sulfurospirillum	180.00	0.00	hypothetical protein
+PGF_00320705	Sulfurospirillum	336.45	0.52	hypothetical protein
+PGF_00320981	Sulfurospirillum	470.55	0.93	hypothetical protein
+PGF_00326645	Sulfurospirillum	164.00	0.00	hypothetical protein
+PGF_00340899	Sulfurospirillum	147.36	0.50	hypothetical protein
+PGF_00342563	Sulfurospirillum	570.73	0.90	UPF0313 [4Fe-4S] protein YgiQ
+PGF_00371973	Sulfurospirillum	81.27	0.47	hypothetical protein
+PGF_00391084	Sulfurospirillum	465.36	4.54	Metallo-beta-lactamase family protein, RNA-specific
+PGF_00400113	Sulfurospirillum	240.64	1.21	inositol monophosphatase family protein
+PGF_00402870	Sulfurospirillum	219.00	0.00	phage repressor protein
+PGF_00404432	Sulfurospirillum	413.64	13.16	Biotin synthase related domain containing protein
+PGF_00404827	Sulfurospirillum	285.73	0.90	protease IV (PspA)
+PGF_00405565	Sulfurospirillum	180.27	6.42	purine nucleoside phosphorylase (punB)
+PGF_00405699	Sulfurospirillum	375.91	3.48	putative ATP/GTP-binding protein (mrp protein homolog)
+PGF_00406056	Sulfurospirillum	422.36	7.67	putative PROCESSING PROTEASE
+PGF_00407246	Sulfurospirillum	377.00	0.00	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+PGF_00407876	Sulfurospirillum	214.73	0.47	putative lipoprotein
+PGF_00408496	Sulfurospirillum	183.64	2.20	putative lipoprotein thioredoxin
+PGF_00408796	Sulfurospirillum	202.00	0.00	putative membrane protein
+PGF_00409227	Sulfurospirillum	172.91	0.54	putative membrane protein
+PGF_00409238	Sulfurospirillum	208.00	0.00	putative membrane protein
+PGF_00409894	Sulfurospirillum	102.55	8.14	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.-)
+PGF_00411776	Sulfurospirillum	224.00	0.89	response regulator receiver domain protein (CheY-like)
+PGF_00413182	Sulfurospirillum	297.36	6.44	tRNA (mo5U34)-methyltransferase
+PGF_00413203	Sulfurospirillum	157.91	1.51	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+PGF_00413208	Sulfurospirillum	230.00	0.00	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+PGF_00413230	Sulfurospirillum	235.64	1.36	tRNA (cmo5U34)-methyltransferase
+PGF_00413286	Sulfurospirillum	361.18	0.60	tRNA pseudouridine(13) synthase (EC 5.4.99.27)
+PGF_00413290	Sulfurospirillum	244.09	1.14	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+PGF_00413295	Sulfurospirillum	275.09	4.61	tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+PGF_00413298	Sulfurospirillum	414.27	0.90	tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+PGF_00413300	Sulfurospirillum	623.55	1.75	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+PGF_00413306	Sulfurospirillum	252.09	2.88	tRNA(Cytosine32)-2-thiocytidine synthetase
+PGF_00413554	Sulfurospirillum	153.91	0.30	tmRNA-binding protein SmpB
+PGF_00414217	Sulfurospirillum	223.00	0.00	two-component regulator
+PGF_00414926	Sulfurospirillum	374.64	1.03	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+PGF_00415417	Sulfurospirillum	330.64	6.59	COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like
+PGF_00415463	Sulfurospirillum	167.27	1.49	Uncharacterized protein YgjP
+PGF_00415481	Sulfurospirillum	340.64	4.41	SAM-dependent methyltransferase, MidA
+PGF_00415486	Sulfurospirillum	151.00	0.00	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+PGF_00415578	Sulfurospirillum	179.73	0.90	COG2078: Uncharacterized ACR
+PGF_00416115	Sulfurospirillum	306.64	5.80	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+PGF_00416129	Sulfurospirillum	546.36	0.67	CTP synthase (EC 6.3.4.2)
+PGF_00416208	Sulfurospirillum	619.64	0.92	Campylobacter invasion antigen B (CiaB)
+PGF_00416410	Sulfurospirillum	1085.00	0.00	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+PGF_00416506	Sulfurospirillum	663.80	91.08	Carbon starvation protein A
+PGF_00416525	Sulfurospirillum	214.82	1.83	Carbonic anhydrase, beta class (EC 4.2.1.1)
+PGF_00416620	Sulfurospirillum	341.45	1.51	3'-to-5' oligoribonuclease B, Bacillus type
+PGF_00416622	Sulfurospirillum	379.91	3.30	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
+PGF_00416623	Sulfurospirillum	404.00	0.00	Carboxynorspermidine synthase (EC 1.5.1.43)
+PGF_00417429	Sulfurospirillum	378.09	4.04	Chaperone protein DnaJ
+PGF_00417433	Sulfurospirillum	627.09	1.04	Chaperone protein DnaK
+PGF_00417577	Sulfurospirillum	160.36	1.29	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+PGF_00417658	Sulfurospirillum	348.18	0.60	3-dehydroquinate synthase (EC 4.2.3.4)
+PGF_00417840	Sulfurospirillum	358.09	0.94	Chorismate synthase (EC 4.2.3.5)
+PGF_00418128	Sulfurospirillum	235.00	1.10	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+PGF_00419628	Sulfurospirillum	456.82	0.60	Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+PGF_00419702	Sulfurospirillum	156.09	1.38	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+PGF_00419900	Sulfurospirillum	349.09	0.54	Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)
+PGF_00419915	Sulfurospirillum	261.82	0.60	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+PGF_00420075	Sulfurospirillum	308.73	0.90	Cysteine synthase (EC 2.5.1.47)
+PGF_00420358	Sulfurospirillum	453.36	55.10	Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1)
+PGF_00420363	Sulfurospirillum	211.45	31.66	Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)
+PGF_00420366	Sulfurospirillum	282.00	0.00	Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+PGF_00420549	Sulfurospirillum	336.73	17.16	Cytochrome c551 peroxidase (EC 1.11.1.5)
+PGF_00420731	Sulfurospirillum	484.36	1.43	Cytosol aminopeptidase PepA (EC 3.4.11.1)
+PGF_00420732	Sulfurospirillum	428.91	1.45	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+PGF_00420792	Sulfurospirillum	284.82	0.87	D-alanine aminotransferase (EC 2.6.1.21)
+PGF_00420798	Sulfurospirillum	344.27	0.47	D-alanine--D-alanine ligase (EC 6.3.2.4)
+PGF_00420903	Sulfurospirillum	320.91	0.30	D-arabinose 5-phosphate isomerase (EC 5.3.1.13)
+PGF_00421098	Sulfurospirillum	582.09	22.29	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+PGF_00421365	Sulfurospirillum	270.09	6.74	DNA ligase (ATP) (EC 6.5.1.1)
+PGF_00421489	Sulfurospirillum	1193.45	38.33	DNA polymerase III alpha subunit (EC 2.7.7.7)
+PGF_00421498	Sulfurospirillum	355.00	0.00	DNA polymerase III beta subunit (EC 2.7.7.7)
+PGF_00421554	Sulfurospirillum	203.00	0.00	3'-5' exonuclease domain similar to epsilon subunit of DNA polymerase III, PA3232-type
+PGF_00421679	Sulfurospirillum	552.36	0.67	DNA primase (EC 2.7.7.-)
+PGF_00421792	Sulfurospirillum	450.55	0.52	DNA repair protein RadA
+PGF_00421796	Sulfurospirillum	513.36	4.01	DNA repair protein RecN
+PGF_00422271	Sulfurospirillum	337.00	0.00	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+PGF_00423089	Sulfurospirillum	336.82	0.98	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+PGF_00423097	Sulfurospirillum	247.73	2.20	Diaminopimelate epimerase (EC 5.1.1.7)
+PGF_00423300	Sulfurospirillum	382.36	1.80	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+PGF_00423436	Sulfurospirillum	231.82	0.60	Dimeric dUTPase (EC 3.6.1.23)
+PGF_00423533	Sulfurospirillum	252.91	20.43	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+PGF_00423796	Sulfurospirillum	243.27	0.90	Domain often clustered or fused with uracil-DNA glycosylase
+PGF_00424337	Sulfurospirillum	281.91	3.27	Endonuclease IV (EC 3.1.21.2)
+PGF_00424447	Sulfurospirillum	311.09	1.76	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+PGF_00424569	Sulfurospirillum	273.09	0.30	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+PGF_00424971	Sulfurospirillum	599.00	0.00	Excinuclease ABC subunit C
+PGF_00425011	Sulfurospirillum	254.27	0.90	Exodeoxyribonuclease III (EC 3.1.11.2)
+PGF_00425024	Sulfurospirillum	416.55	5.07	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+PGF_00425665	Sulfurospirillum	222.00	6.63	FIG00003370: Multicopper polyphenol oxidase
+PGF_00425679	Sulfurospirillum	197.36	4.34	FIG000605: protein co-occurring with transport systems (COG1739)
+PGF_00425786	Sulfurospirillum	494.91	7.02	Ribonuclease Y
+PGF_00425997	Sulfurospirillum	275.36	10.23	FIG004453: protein YceG like
+PGF_00426115	Sulfurospirillum	610.82	0.98	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+PGF_00426236	Sulfurospirillum	353.91	0.30	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) (EC 1.17.7.3)
+PGF_00426722	Sulfurospirillum	1155.91	0.30	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+PGF_00464627	Sulfurospirillum	604.73	16.22	Sodium-dependent phosphate transporter
+PGF_00482828	Sulfurospirillum	453.09	10.59	Phosphoglucosamine mutase (EC 5.4.2.10)
+PGF_00500015	Sulfurospirillum	292.09	4.74	pyridoxal phosphate-dependent deaminase, putative
+PGF_00503288	Sulfurospirillum	737.82	5.79	[NiFe] hydrogenase metallocenter assembly protein HypF
+PGF_00510935	Sulfurospirillum	92.27	0.47	DNA-binding protein HU
+PGF_00529632	Sulfurospirillum	856.91	0.30	ClpB protein
+PGF_00538878	Sulfurospirillum	284.55	58.19	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+PGF_00582270	Sulfurospirillum	456.45	1.04	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)
+PGF_00615323	Sulfurospirillum	188.82	1.89	Phosphoheptose isomerase 1 (EC 5.3.1.-)
+PGF_00618776	Sulfurospirillum	357.27	2.94	23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+PGF_00625415	Sulfurospirillum	223.64	2.34	7-cyano-7-deazaguanine synthase (EC 6.3.4.20)
+PGF_00626415	Sulfurospirillum	177.45	5.13	Hydrogenase maturation protease
+PGF_00639841	Sulfurospirillum	485.18	1.78	L-aspartate oxidase (EC 1.4.3.16)
+PGF_00644953	Sulfurospirillum	295.09	2.02	DnaJ-class molecular chaperone CbpA
+PGF_00648054	Sulfurospirillum	188.73	17.81	Tol-Pal system protein TolQ
+PGF_00655358	Sulfurospirillum	436.45	1.81	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+PGF_00655628	Sulfurospirillum	519.09	0.30	2-isopropylmalate synthase (EC 2.3.3.13)
+PGF_00659194	Sulfurospirillum	202.00	0.00	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+PGF_00665461	Sulfurospirillum	110.55	15.11	hypothetical protein
+PGF_00665476	Sulfurospirillum	154.36	0.50	hypothetical protein
+PGF_00667501	Sulfurospirillum	68.36	1.21	4-oxalocrotonate tautomerase
+PGF_00668588	Sulfurospirillum	110.82	0.60	hypothetical protein
+PGF_00709443	Sulfurospirillum	140.36	3.26	Twin-arginine translocation protein TatB
+PGF_00725839	Sulfurospirillum	701.82	14.13	LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+PGF_00770095	Sulfurospirillum	59.00	0.00	Protein translocase subunit SecE
+PGF_00775112	Sulfurospirillum	407.91	18.07	Apolipoprotein N-acyltransferase
+PGF_00777371	Sulfurospirillum	227.27	0.47	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+PGF_00783168	Sulfurospirillum	841.55	1.21	[Protein-PII] uridylyltransferase (EC 2.7.7.59) / [Protein-PII]-UMP uridylyl-removing enzyme
+PGF_00783788	Sulfurospirillum	534.09	23.96	Flagellar hook-length control protein FliK
+PGF_00808622	Sulfurospirillum	124.27	2.76	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+PGF_00827555	Sulfurospirillum	555.36	6.10	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+PGF_00832622	Sulfurospirillum	275.00	0.00	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)
+PGF_00853393	Sulfurospirillum	289.82	0.60	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+PGF_00874759	Sulfurospirillum	399.82	0.98	Lipoprotein releasing system transmembrane protein LolC/LolE
+PGF_00885329	Sulfurospirillum	352.73	1.95	Flagellar motor switch protein FliM
+PGF_00900256	Sulfurospirillum	496.36	2.34	Threonine synthase (EC 4.2.3.1)
+PGF_00909406	Sulfurospirillum	136.55	3.05	Peroxide stress regulator; Ferric uptake regulation protein; Fe2+/Zn2+ uptake regulation proteins
+PGF_00909459	Sulfurospirillum	178.91	2.17	Flagellar basal body-associated protein FliL
+PGF_00909659	Sulfurospirillum	576.82	4.85	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+PGF_00912265	Sulfurospirillum	312.91	1.38	tRNA-dihydrouridine synthase DusB
+PGF_00914312	Sulfurospirillum	118.00	0.00	HIT family protein
+PGF_00925844	Sulfurospirillum	325.09	3.75	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+PGF_00926109	Sulfurospirillum	528.00	0.00	Arginyl-tRNA synthetase (EC 6.1.1.19)
+PGF_00935629	Sulfurospirillum	825.45	1.51	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+PGF_00946237	Sulfurospirillum	352.27	0.47	Lipopolysaccharide export system permease protein LptG
+PGF_00950554	Sulfurospirillum	658.00	0.00	Excinuclease ABC subunit B
+PGF_00955412	Sulfurospirillum	231.45	5.09	Probable iron export permease protein FetB
+PGF_00957419	Sulfurospirillum	134.45	1.86	Putative pre-16S rRNA nuclease Yqg
+PGF_00960579	Sulfurospirillum	313.09	2.43	3'-to-5' oligoribonuclease A, Bacillus type
+PGF_00960894	Sulfurospirillum	91.73	0.90	Uncharacterized homolog of the cytoplasmic domain of flagellar protein FhlB
+PGF_00981519	Sulfurospirillum	663.18	10.94	TonB-dependent receptor
+PGF_01008556	Sulfurospirillum	268.18	2.86	Flagellar basal-body rod protein FlgF
+PGF_01019828	Sulfurospirillum	438.00	0.00	Uncharacterized MFS-type transporter
+PGF_01023888	Sulfurospirillum	79.09	0.30	Cell division topological specificity factor MinE
+PGF_01031143	Sulfurospirillum	222.73	0.90	Two-component transcriptional response regulator, LuxR family
+PGF_01032333	Sulfurospirillum	485.27	1.62	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)
+PGF_01041624	Sulfurospirillum	127.36	22.69	Rrf2 family transcriptional regulator
+PGF_01069460	Sulfurospirillum	577.27	0.90	Cell division protein FtsH
+PGF_01079016	Sulfurospirillum	284.36	0.50	Chromosome (plasmid) partitioning protein ParB
+PGF_01084030	Sulfurospirillum	746.36	3.80	Outer membrane protein assembly factor YaeT
+PGF_01092098	Sulfurospirillum	149.00	0.00	Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)
+PGF_01101526	Sulfurospirillum	352.00	0.00	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+PGF_01104399	Sulfurospirillum	222.18	2.44	Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+PGF_01126005	Sulfurospirillum	368.00	0.00	Rod shape-determining protein RodA
+PGF_01148336	Sulfurospirillum	367.91	1.38	tRNA (uracil(54)-C5)-methyltransferase (EC 2.1.1.35) @ tmRNA (uracil(341)-C5)-methyltransferase
+PGF_01148812	Sulfurospirillum	263.09	0.30	Uncharacterized amidohydrolase HP_1481
+PGF_01154330	Sulfurospirillum	292.36	6.93	Polyphosphate kinase 2 (EC 2.7.4.1)
+PGF_01159363	Sulfurospirillum	193.45	1.51	hypothetical protein
+PGF_01159877	Sulfurospirillum	75.00	0.00	hypothetical protein
+PGF_01161352	Sulfurospirillum	105.82	11.93	hypothetical protein
+PGF_01169833	Sulfurospirillum	425.00	1.48	Flagellar biosynthesis protein FlhF
+PGF_01172485	Sulfurospirillum	459.64	3.61	Cell division protein FtsA
+PGF_01174739	Sulfurospirillum	227.00	0.00	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+PGF_01174807	Sulfurospirillum	318.27	2.53	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+PGF_01175575	Sulfurospirillum	604.82	0.40	Threonyl-tRNA synthetase (EC 6.1.1.3)
+PGF_01212739	Sulfurospirillum	545.18	1.40	Heat shock protein 60 family chaperone GroEL
+PGF_01220597	Sulfurospirillum	572.09	1.87	Putative hemolysin
+PGF_01232770	Sulfurospirillum	155.09	0.70	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+PGF_01265715	Sulfurospirillum	195.82	0.40	Hypothetical protein Cj1505c
+PGF_01284176	Sulfurospirillum	216.27	0.90	Rubrerythrin
+PGF_01291823	Sulfurospirillum	206.64	7.41	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+PGF_01296193	Sulfurospirillum	261.00	0.00	Chromosome (plasmid) partitioning protein ParA
+PGF_01323228	Sulfurospirillum	208.00	0.00	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+PGF_01351158	Sulfurospirillum	989.27	1.42	Transcription-repair coupling factor
+PGF_01364427	Sulfurospirillum	185.18	0.40	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+PGF_01365164	Sulfurospirillum	341.36	0.81	UPF0324 inner membrane protein YeiH
+PGF_01421534	Sulfurospirillum	178.00	0.00	LSU ribosomal protein L25p
+PGF_01423501	Sulfurospirillum	165.00	1.41	Transcription elongation factor GreA
+PGF_01444546	Sulfurospirillum	96.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+PGF_01466819	Sulfurospirillum	538.73	28.36	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+PGF_01467232	Sulfurospirillum	103.00	0.00	Flagellar motor switch protein FliN
+PGF_01481272	Sulfurospirillum	155.18	1.17	Chemotaxis protein CheD
+PGF_01496598	Sulfurospirillum	316.00	0.00	Chemotaxis protein CheV (EC 2.7.3.-)
+PGF_01532393	Sulfurospirillum	702.73	1.62	Polyphosphate kinase (EC 2.7.4.1)
+PGF_01555804	Sulfurospirillum	144.18	0.60	Flagellar basal-body rod protein FlgB
+PGF_01557745	Sulfurospirillum	403.00	0.00	Threonine dehydratase, catabolic (EC 4.3.1.19) @ L-serine dehydratase, (PLP)-dependent (EC 4.3.1.17)
+PGF_01602421	Sulfurospirillum	232.18	2.79	Flagellar basal-body rod modification protein FlgD
+PGF_01657217	Sulfurospirillum	789.09	1.76	ATP/GTP-binding protein
+PGF_01668012	Sulfurospirillum	261.73	1.49	Sulfur carrier protein FdhD
+PGF_01682537	Sulfurospirillum	124.27	0.90	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)
+PGF_01682834	Sulfurospirillum	142.09	0.30	Bacterial ribosome SSU maturation protein RimP
+PGF_01694657	Sulfurospirillum	136.00	1.34	hypothetical protein
+PGF_01763350	Sulfurospirillum	224.64	0.67	Quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+PGF_01783983	Sulfurospirillum	369.18	1.17	ABC transporter, permease protein
+PGF_01842781	Sulfurospirillum	646.18	35.66	Ribonuclease J (endonuclease and 5' exonuclease)
+PGF_01867628	Sulfurospirillum	267.09	1.14	Heat-inducible transcription repressor HrcA
+PGF_01876928	Sulfurospirillum	408.00	6.66	Integral membrane zinc-metalloprotease HP0382, M48 family
+PGF_01885659	Sulfurospirillum	408.45	1.51	Murein hydrolase activator EnvC
+PGF_01885886	Sulfurospirillum	162.27	0.65	hypothetical protein
+PGF_01887975	Sulfurospirillum	455.00	1.90	Ferredoxin domain-containing integral membrane protein
+PGF_01888177	Sulfurospirillum	148.45	0.93	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+PGF_01889202	Sulfurospirillum	199.64	2.38	Septum site-determining protein MinC
+PGF_01899395	Sulfurospirillum	235.36	1.21	Flagellar L-ring protein FlgH
+PGF_01899937	Sulfurospirillum	242.27	13.30	Rod shape-determining protein MreC
+PGF_01900530	Sulfurospirillum	241.73	6.48	Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+PGF_01900676	Sulfurospirillum	244.00	0.00	ABC transporter, ATP-binding protein (cluster 9, phospholipid)
+PGF_01960322	Sulfurospirillum	604.09	3.62	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+PGF_01994657	Sulfurospirillum	431.45	0.52	Cell division trigger factor (EC 5.2.1.8)
+PGF_02010018	Sulfurospirillum	120.82	0.87	Diacylglycerol kinase (EC 2.7.1.107)
+PGF_02019462	Sulfurospirillum	331.91	4.64	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+PGF_02029783	Sulfurospirillum	363.55	11.25	GTP-binding protein Obg
+PGF_02061452	Sulfurospirillum	373.09	0.30	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)
+PGF_02109968	Sulfurospirillum	341.00	0.00	Flagellar motor switch protein FliG
+PGF_02111888	Sulfurospirillum	276.91	0.30	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+PGF_02185217	Sulfurospirillum	402.00	0.00	Histidyl-tRNA synthetase (EC 6.1.1.21)
+PGF_02186693	Sulfurospirillum	352.18	0.40	Flagellar biosynthesis protein FlhB
+PGF_02211177	Sulfurospirillum	261.45	0.82	5'-nucleotidase SurE (EC 3.1.3.5)
+PGF_02226715	Sulfurospirillum	607.64	4.39	ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+PGF_02229454	Sulfurospirillum	330.73	6.07	Cytochrome c family protein
+PGF_02254418	Sulfurospirillum	365.82	0.60	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57) @ Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+PGF_02311293	Sulfurospirillum	372.00	12.28	Peptide chain release factor 2
+PGF_02315316	Sulfurospirillum	297.64	5.22	Peptidase, M23/M37 family
+PGF_02317534	Sulfurospirillum	140.00	0.00	Thioredoxin 2
+PGF_02330496	Sulfurospirillum	218.91	1.14	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)
+PGF_02346669	Sulfurospirillum	308.00	0.00	Ornithine carbamoyltransferase (EC 2.1.3.3)
+PGF_02346768	Sulfurospirillum	847.45	0.93	Alanyl-tRNA synthetase (EC 6.1.1.7)
+PGF_02355769	Sulfurospirillum	342.45	1.51	Alanine racemase (EC 5.1.1.1)
+PGF_02369559	Sulfurospirillum	884.82	0.60	DNA polymerase I (EC 2.7.7.7)
+PGF_02405545	Sulfurospirillum	371.82	64.16	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+PGF_02454577	Sulfurospirillum	90.73	0.90	SSU ribosomal protein S20p
+PGF_02463284	Sulfurospirillum	189.00	0.00	Recombination protein RecR
+PGF_02515882	Sulfurospirillum	400.00	0.00	Aspartokinase (EC 2.7.2.4)
+PGF_02593689	Sulfurospirillum	397.09	0.54	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+PGF_02611620	Sulfurospirillum	660.55	177.46	Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+PGF_02623406	Sulfurospirillum	286.91	4.04	FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)
+PGF_02704551	Sulfurospirillum	1507.64	0.50	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+PGF_02717713	Sulfurospirillum	733.55	8.44	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+PGF_02738107	Sulfurospirillum	308.64	1.36	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+PGF_02744871	Sulfurospirillum	98.09	0.30	Flagellar hook-basal body complex protein FliE
+PGF_02745613	Sulfurospirillum	291.73	3.26	Zinc ABC transporter, substrate-binding protein ZnuA
+PGF_02789532	Sulfurospirillum	272.36	0.81	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+PGF_02792560	Sulfurospirillum	119.00	12.63	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PGF_02797400	Sulfurospirillum	465.82	1.60	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+PGF_02797402	Sulfurospirillum	1384.91	0.30	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+PGF_02798941	Sulfurospirillum	469.00	0.00	Proposed peptidoglycan lipid II flippase MurJ
+PGF_02820109	Sulfurospirillum	191.00	0.00	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+PGF_02827614	Sulfurospirillum	180.00	0.00	6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+PGF_02836775	Sulfurospirillum	207.55	5.28	putative integral membrane protein (dedA homolog)
+PGF_02838109	Sulfurospirillum	179.27	4.61	Shikimate kinase I (EC 2.7.1.71)
+PGF_02844091	Sulfurospirillum	253.64	4.86	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+PGF_02862285	Sulfurospirillum	409.09	1.38	Argininosuccinate synthase (EC 6.3.4.5)
+PGF_02867495	Sulfurospirillum	248.27	3.82	Putative formate dehydrogenase-specific chaperone
+PGF_02874818	Sulfurospirillum	339.00	0.00	Oxidoreductase
+PGF_02877184	Sulfurospirillum	355.73	1.79	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)
+PGF_02883702	Sulfurospirillum	357.00	0.00	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+PGF_02899131	Sulfurospirillum	62.18	0.60	LSU ribosomal protein L29p (L35e)
+PGF_02923127	Sulfurospirillum	239.64	0.92	Uridine monophosphate kinase (EC 2.7.4.22)
+PGF_02931322	Sulfurospirillum	306.73	18.20	Cyclic pyranopterin phosphate synthase (MoaA) (EC 4.1.99.18)
+PGF_02935470	Sulfurospirillum	255.00	0.00	UPF0317 protein YcsI
+PGF_02936332	Sulfurospirillum	297.00	0.00	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+PGF_02946231	Sulfurospirillum	560.91	4.78	SSU ribosomal protein S1p
+PGF_02947204	Sulfurospirillum	525.00	0.00	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+PGF_02950579	Sulfurospirillum	266.64	5.26	Septum site-determining protein MinD
+PGF_02995302	Sulfurospirillum	205.45	1.97	Thymidylate synthase ThyX (EC 2.1.1.148)
+PGF_02998943	Sulfurospirillum	168.45	0.52	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+PGF_03017775	Sulfurospirillum	512.18	8.04	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+PGF_03017978	Sulfurospirillum	183.82	0.75	Septum formation protein Maf
+PGF_03019167	Sulfurospirillum	824.18	9.11	Exporter protein, RND family
+PGF_03022563	Sulfurospirillum	252.36	16.17	hypothetical protein
+PGF_03029859	Sulfurospirillum	650.91	2.21	Bis-ABC ATPase Uup
+PGF_03034557	Sulfurospirillum	230.55	12.04	Fumarate reductase iron-sulfur protein (EC 1.3.5.4)
+PGF_03050729	Sulfurospirillum	80.00	0.00	hypothetical protein
+PGF_03054699	Sulfurospirillum	683.09	24.66	DNA translocase FtsK
+PGF_03055832	Sulfurospirillum	285.91	0.83	DUF89 protein CxxC subfamily
+PGF_03057384	Sulfurospirillum	353.73	0.65	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)
+PGF_03070510	Sulfurospirillum	290.36	0.50	Flagellar synthesis regulator FleN
+PGF_03073470	Sulfurospirillum	559.45	0.52	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+PGF_03081665	Sulfurospirillum	98.00	0.00	Cell division integral membrane protein, YggT and half-length relatives
+PGF_03093523	Sulfurospirillum	398.00	0.00	NADH-dependent reduced ferredoxin:NADP+ oxidoreductase subunit B related protein CAC0764
+PGF_03116802	Sulfurospirillum	205.08	3.18	Phosphoserine phosphatase (EC 3.1.3.3)
+PGF_03122066	Sulfurospirillum	148.91	1.58	Protein YaiI
+PGF_03124650	Sulfurospirillum	452.00	0.00	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+PGF_03132336	Sulfurospirillum	411.00	0.00	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+PGF_03132467	Sulfurospirillum	836.73	39.95	Flagellar hook-associated protein FlgL
+PGF_03133617	Sulfurospirillum	378.00	0.89	Cystathionine beta-lyase, type II (EC 4.4.1.8)
+PGF_03137433	Sulfurospirillum	781.27	1.68	Helicase / RecB family exonuclease
+PGF_03137829	Sulfurospirillum	79.45	8.12	hypothetical protein
+PGF_03172904	Sulfurospirillum	272.18	0.60	Prolipoprotein diacylglyceryl transferase
+PGF_03174068	Sulfurospirillum	176.00	0.00	Transcription antitermination protein NusG
+PGF_03197417	Sulfurospirillum	184.82	0.60	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)
+PGF_03222913	Sulfurospirillum	130.91	0.30	ATP synthase epsilon chain (EC 3.6.3.14)
+PGF_03272313	Sulfurospirillum	842.82	5.12	DNA gyrase subunit A (EC 5.99.1.3)
+PGF_03287477	Sulfurospirillum	205.45	1.86	ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGs
+PGF_03432647	Sulfurospirillum	263.18	2.23	COG1355, Predicted dioxygenase
+PGF_03474542	Sulfurospirillum	434.09	0.30	Flagellum-specific ATP synthase FliI
+PGF_03507290	Sulfurospirillum	401.82	0.60	Serine/threonine:Na+ symporter SstT
+PGF_03518570	Sulfurospirillum	137.00	0.00	Nucleoside diphosphate kinase (EC 2.7.4.6)
+PGF_03520151	Sulfurospirillum	371.82	1.17	Cell division protein FtsZ
+PGF_03609651	Sulfurospirillum	644.09	1.38	Methionyl-tRNA synthetase (EC 6.1.1.10)
+PGF_03647550	Sulfurospirillum	165.00	0.00	UPF0234 protein Yitk
+PGF_03683462	Sulfurospirillum	152.00	0.00	N-acetylglutamate synthase (EC 2.3.1.1)
+PGF_03684283	Sulfurospirillum	366.73	2.45	ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)
+PGF_03686667	Sulfurospirillum	266.27	4.67	Cell-division-associated, ABC-transporter-like signaling protein FtsX
+PGF_03686689	Sulfurospirillum	421.55	26.02	Sensor kinase cusS (EC 2.7.3.-)
+PGF_03686697	Sulfurospirillum	86.36	1.21	hypothetical protein
+PGF_03686700	Sulfurospirillum	74.45	0.69	hypothetical protein
+PGF_03686702	Sulfurospirillum	141.45	0.82	hypothetical protein
+PGF_03686704	Sulfurospirillum	183.00	0.00	hypothetical protein
+PGF_03686705	Sulfurospirillum	94.36	1.21	hypothetical protein
+PGF_03686707	Sulfurospirillum	151.00	0.00	hypothetical protein
+PGF_03686712	Sulfurospirillum	257.45	16.60	protein of unknown function DUF218
+PGF_03686713	Sulfurospirillum	226.36	14.14	hypothetical protein
+PGF_03686736	Sulfurospirillum	226.27	5.55	hypothetical protein
+PGF_03686815	Sulfurospirillum	314.82	26.51	hypothetical protein
+PGF_03689350	Sulfurospirillum	224.73	0.90	PUTATIVE TWO-COMPONENT REGULATOR
+PGF_03689908	Sulfurospirillum	396.27	2.94	SENSORY PROTEIN, CONTAINING EAL-DOMAIN
+PGF_03689911	Sulfurospirillum	67.73	1.79	hypothetical protein
+PGF_03689914	Sulfurospirillum	157.82	0.98	hypothetical protein
+PGF_03689915	Sulfurospirillum	157.09	5.01	hypothetical protein
+PGF_03689918	Sulfurospirillum	123.18	14.10	hypothetical protein
+PGF_03689921	Sulfurospirillum	311.91	11.44	hypothetical protein
+PGF_03689922	Sulfurospirillum	222.64	4.65	hypothetical protein
+PGF_03689925	Sulfurospirillum	507.73	0.90	hypothetical protein
+PGF_03689927	Sulfurospirillum	190.27	17.11	hypothetical protein
+PGF_03689928	Sulfurospirillum	236.45	4.59	hypothetical protein
+PGF_03689929	Sulfurospirillum	224.00	0.00	hypothetical protein
+PGF_03689930	Sulfurospirillum	470.55	43.55	hypothetical protein
+PGF_03689931	Sulfurospirillum	514.09	0.30	hypothetical protein
+PGF_03689932	Sulfurospirillum	92.55	2.54	hypothetical protein
+PGF_03689933	Sulfurospirillum	486.82	5.84	hypothetical protein
+PGF_03689935	Sulfurospirillum	64.00	0.00	hypothetical protein
+PGF_03689936	Sulfurospirillum	195.82	11.89	hypothetical protein
+PGF_03689938	Sulfurospirillum	235.64	5.18	hypothetical protein
+PGF_03689939	Sulfurospirillum	219.18	0.75	hypothetical protein
+PGF_03689940	Sulfurospirillum	186.27	0.90	hypothetical protein
+PGF_03689942	Sulfurospirillum	227.55	0.52	hypothetical protein
+PGF_03689945	Sulfurospirillum	180.82	2.99	hypothetical protein
+PGF_03692395	Sulfurospirillum	362.73	0.90	nucleoside:H+ symporter
+PGF_03699416	Sulfurospirillum	146.09	0.30	Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+PGF_03719269	Sulfurospirillum	201.00	0.00	Dephospho-CoA kinase (EC 2.7.1.24)
+PGF_03723827	Sulfurospirillum	141.82	2.14	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PGF_03743176	Sulfurospirillum	610.91	0.30	Selenocysteine-specific translation elongation factor
+PGF_03750541	Sulfurospirillum	341.64	1.80	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)
+PGF_03751823	Sulfurospirillum	188.27	2.24	Heat shock protein GrpE
+PGF_03753933	Sulfurospirillum	137.00	0.00	Iron-sulfur cluster regulator IscR
+PGF_03757137	Sulfurospirillum	461.64	0.81	Argininosuccinate lyase (EC 4.3.2.1)
+PGF_03760224	Sulfurospirillum	223.36	3.85	Dethiobiotin synthetase (EC 6.3.3.3)
+PGF_03768099	Sulfurospirillum	290.45	12.69	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+PGF_03778780	Sulfurospirillum	293.91	1.04	Signal recognition particle receptor FtsY
+PGF_03783620	Sulfurospirillum	175.00	1.48	Carbonic anhydrase, gamma class (EC 4.2.1.1)
+PGF_03787199	Sulfurospirillum	178.45	5.47	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+PGF_03790040	Sulfurospirillum	227.00	0.00	Ribonuclease III (EC 3.1.26.3)
+PGF_03801201	Sulfurospirillum	247.82	0.60	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+PGF_03802211	Sulfurospirillum	61.64	9.71	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent
+PGF_03815431	Sulfurospirillum	187.00	0.00	PPO candidate 1
+PGF_03835760	Sulfurospirillum	383.55	8.10	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)
+PGF_03940918	Sulfurospirillum	733.73	1.01	Recombination inhibitory protein MutS2
+PGF_03942124	Sulfurospirillum	652.09	34.04	Aerotaxis sensor receptor protein, diguanylate cyclase
+PGF_03954476	Sulfurospirillum	242.45	0.52	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)
+PGF_03966343	Sulfurospirillum	136.00	0.00	hypothetical protein
+PGF_03975691	Sulfurospirillum	75.82	1.66	hypothetical protein
+PGF_03977347	Sulfurospirillum	276.91	0.30	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)
+PGF_04002552	Sulfurospirillum	131.64	0.92	hypothetical protein
+PGF_04005838	Sulfurospirillum	401.09	0.30	Diaminopimelate decarboxylase (EC 4.1.1.20)
+PGF_04014127	Sulfurospirillum	779.18	5.02	Uncharacterized membrane anchored protein HP_1479
+PGF_04016408	Sulfurospirillum	437.82	0.60	tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+PGF_04033923	Sulfurospirillum	415.36	8.55	Uncharacterized protein HP0275
+PGF_04036472	Sulfurospirillum	81.27	0.47	KH domain RNA binding protein YlqC
+PGF_04041316	Sulfurospirillum	939.36	1.12	Excinuclease ABC subunit A
+PGF_04047265	Sulfurospirillum	80.82	0.60	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)
+PGF_04091295	Sulfurospirillum	260.00	9.36	Flagellar motor rotation protein MotA
+PGF_04108824	Sulfurospirillum	594.27	2.37	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+PGF_04127376	Sulfurospirillum	257.82	16.01	Twin-arginine translocation protein TatC
+PGF_04150742	Sulfurospirillum	267.45	1.69	Zinc ABC transporter, permease protein ZnuB
+PGF_04162809	Sulfurospirillum	198.00	0.00	Alkyl hydroperoxide reductase subunit C-like protein
+PGF_04182459	Sulfurospirillum	223.00	0.00	Cell-division-associated, ABC-transporter-like signaling protein FtsE
+PGF_04213876	Sulfurospirillum	207.27	0.47	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+PGF_04345693	Sulfurospirillum	433.09	1.14	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+PGF_04395505	Sulfurospirillum	304.00	0.00	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+PGF_04457297	Sulfurospirillum	231.82	16.01	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+PGF_04477106	Sulfurospirillum	368.55	1.51	Homoserine O-acetyltransferase (EC 2.3.1.31)
+PGF_04505269	Sulfurospirillum	263.45	1.86	SSU ribosomal protein S2p (SAe)
+PGF_04519363	Sulfurospirillum	344.00	0.00	Rod shape-determining protein MreB
+PGF_04521913	Sulfurospirillum	477.36	1.75	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+PGF_04569524	Sulfurospirillum	505.00	0.00	ATP synthase alpha chain (EC 3.6.3.14)
+PGF_04571944	Sulfurospirillum	265.18	0.40	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
+PGF_04574228	Sulfurospirillum	236.73	0.90	Triosephosphate isomerase (EC 5.3.1.1)
+PGF_04608820	Sulfurospirillum	544.09	5.09	Soluble lytic murein transglycosylase precursor (EC 3.2.1.-)
+PGF_04660832	Sulfurospirillum	135.09	20.12	Lipoprotein signal peptidase (EC 3.4.23.36)
+PGF_04662829	Sulfurospirillum	770.00	0.00	DNA gyrase subunit B (EC 5.99.1.3)
+PGF_04695681	Sulfurospirillum	238.45	2.98	Serine acetyltransferase (EC 2.3.1.30)
+PGF_04749763	Sulfurospirillum	882.55	5.84	Translation initiation factor 2
+PGF_04788810	Sulfurospirillum	188.82	7.24	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+PGF_04807486	Sulfurospirillum	299.55	3.83	tRNA dimethylallyltransferase (EC 2.5.1.75)
+PGF_04845029	Sulfurospirillum	118.09	0.30	LSU ribosomal protein L19p
+PGF_04866046	Sulfurospirillum	584.64	21.03	Uncharacterized protein YyaL
+PGF_04958295	Sulfurospirillum	122.82	7.57	Flagellar biosynthesis protein FliS
+PGF_04960746	Sulfurospirillum	219.55	1.04	Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)
+PGF_04962192	Sulfurospirillum	642.00	13.35	3'-to-5' exoribonuclease RNase R
+PGF_04978890	Sulfurospirillum	102.00	0.00	LSU ribosomal protein L21p
+PGF_05022117	Sulfurospirillum	530.91	0.30	Bis-ABC ATPase YbiT
+PGF_05067068	Sulfurospirillum	578.00	0.00	Tungsten-containing aldehyde:ferredoxin oxidoreductase (EC 1.2.7.5)
+PGF_05111929	Sulfurospirillum	526.18	1.40	Single-stranded-DNA-specific exonuclease RecJ
+PGF_05135220	Sulfurospirillum	815.09	0.30	Leucyl-tRNA synthetase (EC 6.1.1.4)
+PGF_05195027	Sulfurospirillum	463.55	3.24	ATP synthase beta chain (EC 3.6.3.14)
+PGF_05255412	Sulfurospirillum	434.00	0.89	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+PGF_05280843	Sulfurospirillum	427.82	1.60	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+PGF_05292614	Sulfurospirillum	639.82	2.64	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+PGF_05386032	Sulfurospirillum	189.00	0.00	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+PGF_05421852	Sulfurospirillum	623.55	1.81	Chaperone protein HtpG
+PGF_05439724	Sulfurospirillum	648.55	0.93	DNA ligase (NAD(+)) (EC 6.5.1.2)
+PGF_05463808	Sulfurospirillum	291.45	0.52	NAD kinase (EC 2.7.1.23)
+PGF_05493552	Sulfurospirillum	87.00	8.67	[NiFe] hydrogenase metallocenter assembly protein HypC
+PGF_05519582	Sulfurospirillum	380.91	10.37	NAD(FAD)-utilizing dehydrogenases
+PGF_05560886	Sulfurospirillum	261.45	5.13	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+PGF_05581732	Sulfurospirillum	390.55	30.84	Protein translocase subunit SecY
+PGF_05598173	Sulfurospirillum	375.91	0.30	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+PGF_05712128	Sulfurospirillum	527.82	1.89	Inner membrane protein translocase and chaperone YidC, long form
+PGF_05769513	Sulfurospirillum	422.09	0.30	Tol-Pal system beta propeller repeat protein TolB
+PGF_05833722	Sulfurospirillum	488.64	2.91	Sulfide:quinone oxidoreductase, Type II
+PGF_05847461	Sulfurospirillum	268.73	3.61	Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)
+PGF_05925776	Sulfurospirillum	284.00	5.20	(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)
+PGF_05949521	Sulfurospirillum	522.82	14.55	Protein translocase subunit SecD
+PGF_05971611	Sulfurospirillum	402.00	3.32	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+PGF_05999853	Sulfurospirillum	376.09	0.83	ABC transporter, permease protein (cluster 9, phospholipid)
+PGF_06051594	Sulfurospirillum	459.18	19.30	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+PGF_06133167	Sulfurospirillum	198.73	4.15	MBL-fold metallo-hydrolase superfamily
+PGF_06137558	Sulfurospirillum	327.55	3.24	TRAP-type C4-dicarboxylate transport system, periplasmic component
+PGF_06150781	Sulfurospirillum	457.91	6.33	ATP-dependent 23S rRNA helicase DbpA
+PGF_06170558	Sulfurospirillum	154.09	0.30	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+PGF_06180597	Sulfurospirillum	142.09	0.30	LSU ribosomal protein L13p (L13Ae)
+PGF_06204406	Sulfurospirillum	250.82	0.60	hypothetical protein
+PGF_06213055	Sulfurospirillum	268.55	7.27	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+PGF_06230969	Sulfurospirillum	464.73	0.47	NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+PGF_06254345	Sulfurospirillum	88.09	0.30	Heat shock protein 60 family co-chaperone GroES
+PGF_06287652	Sulfurospirillum	252.27	2.76	Zinc ABC transporter, ATP-binding protein ZnuC
+PGF_06315406	Sulfurospirillum	421.55	0.69	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+PGF_06379377	Sulfurospirillum	398.00	2.14	Replication-associated recombination protein RarA
+PGF_06403579	Sulfurospirillum	806.91	0.30	ATP-dependent protease La (EC 3.4.21.53) Type I
+PGF_06458877	Sulfurospirillum	154.36	2.69	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+PGF_06469881	Sulfurospirillum	274.00	0.45	Thiamine-monophosphate kinase (EC 2.7.4.16)
+PGF_06530721	Sulfurospirillum	391.73	0.90	tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+PGF_06545170	Sulfurospirillum	128.92	0.29	Fluoride ion transporter CrcB
+PGF_06586947	Sulfurospirillum	344.73	14.00	Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type
+PGF_06644010	Sulfurospirillum	314.00	0.00	Porphobilinogen deaminase (EC 2.5.1.61)
+PGF_06683449	Sulfurospirillum	320.00	3.66	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+PGF_06690276	Sulfurospirillum	226.91	0.30	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+PGF_06693963	Sulfurospirillum	105.00	0.00	Nucleoid-associated protein YaaK
+PGF_06701488	Sulfurospirillum	319.09	6.12	RNA-binding protein Jag
+PGF_06806192	Sulfurospirillum	81.55	0.52	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+PGF_06921203	Sulfurospirillum	661.00	0.00	Fumarate reductase flavoprotein subunit (EC 1.3.5.4)
+PGF_07058066	Sulfurospirillum	425.27	25.84	Uncharacterized periplasmic protein HP0781
+PGF_07072582	Sulfurospirillum	616.55	2.91	RNA polymerase sigma factor RpoD
+PGF_07242312	Sulfurospirillum	602.55	4.72	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
+PGF_07540006	Sulfurospirillum	472.09	1.38	Putative two-component sensor
+PGF_08161941	Sulfurospirillum	301.55	1.81	Permease of the drug/metabolite transporter (DMT) superfamily
+PGF_08166083	Sulfurospirillum	449.00	0.00	Na+/H+ antiporter NhaD type
+PGF_08183187	Sulfurospirillum	386.00	0.00	Cell division protein FtsW
